@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **868**
+Geography lessons across the eight Geography titles: **878**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -409,3 +409,15 @@ Issues: Natural disasters and how people face them
 and The world's natural environments and their
 diversity. (All 17 stand on Palestine's student books,
 counted in acceptance.)
+
++10 for Angola, 2026-11-14 — The Land
+and Air: Geographic space — natural and built,
+Angola's location, size and borders, Environmental
+factors that shape life, Using fresh water in Angola,
+The world's forest belts and Angola's forest areas;
+Population, Transport and Maps: Rural and urban
+spaces; Culture and Work: The diversity of humanity;
+People and Resources: Angola's farm land — cultivable
+and not; Global Issues: Reduce, reuse, recycle — the
+3Rs. (All 10 stand on Angola's student books, counted
+in acceptance.)

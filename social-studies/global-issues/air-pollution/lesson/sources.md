@@ -1,6 +1,6 @@
 # Sources — Air Pollution
 
-countries: Ethiopia, Jamaica, Palestine
+countries: Ethiopia, Jamaica, Palestine, Angola
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 109).
 
@@ -10,16 +10,20 @@ countries: Ethiopia, Jamaica, Palestine
 
 **Book 3:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part One* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (adopted for teaching from the 2017/2018 school year); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part One (Semester 1). Grade 5 (student). 92 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4). Verdict: COMPLETE. Read via grab.py from the GitHub textbooks repo. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 2 Human Life on Earth in Ancient Times, lessons 1–3 and 5, printed pp. 42–57 and 65–71; Unit 3 The Society We Live In, pp. 72–86; the war section inside Unit 1 lesson 5, pp. 36–39.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
 
+**Book 4:** *Geografia 6ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-5-8. Title as printed: Geografia | Manual da 6.ª Classe. Grade 6 (student). 96 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What clean air is, and what spoils it: air without smell, taste or colour; pollution as natural or human-made toxic substances mixing into the air against living things; the bad smell of wastes as its everyday sign | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed p. 149 |
 | Sub lesson 2 — How little clean air is left: the WHO study the book cites — only one person in ten breathes clean air; pupils name the main causes and the defences | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed p. 149 |
 | Jamaica part — Term 3 Unit 3: how some human activities affect the atmosphere (curriculum guide — evidence) | Jamaica, *Jamaica Grade 6 JM G6 Exploratory Core*, Term 3 Unit 3: how some human activities affect the atmosphere — printed p. 213 |
 | Palestine part — Lesson 5: air pollution as a human-made disaster | Palestine, *Social Studies, Grade 5, Part One*, Grade 5, Lesson 5: air pollution as a human-made disaster — printed pp. 31–35 |
+| Angola part — 2.2 A poluição do ar (with 2.2.1 Fontes de poluição do ar) | Angola, *Geografia 6ª Classe*, Grade 6, 2.2 A poluição do ar (with 2.2.1 Fontes de poluição do ar) — printed p. 26 |
+| Angola part — 2.3 O combate à poluição do ar (consequences of polluted air; measures against it) | Angola, *Geografia 6ª Classe*, Grade 6, 2.3 O combate à poluição do ar (consequences of polluted air; measures against it) — printed p. 28 |
 
 | Sub lesson 3 — Smog and ground-level ozone — the Grade 12 chemistry | Ethiopia, *Geography, Student Textbook, Grade 12*, Unit 6, printed pp. 159–161 (G12 student placement #64) |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Palestine). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Angola). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -30,3 +34,5 @@ Extension honesty (Band E, 2026-11-12): the Grade 12 chemistry of smog is stacke
 Searchable tags: air pollution, clean air, WHO one in ten, toxic substances, smoke, Ethiopia Grade 7 Social Studies Chapter 7, Jamaica, curriculum guide evidence
 
 Palestine's own way (Grade 5, PS G5P1): Social Studies opens with a full Earth-science unit (shape, movements, surface, life components, disasters) taught through Palestinian examples — seasons read off Palestinian crops, surface forms read off Palestine's own map, which pupils draw with its borders.
+
+Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.

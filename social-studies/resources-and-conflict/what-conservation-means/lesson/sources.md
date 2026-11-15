@@ -1,6 +1,6 @@
 # Sources — Conservation — What Conservation Means
 
-countries: Ethiopia, Zambia, Guatemala, Bolivia
+countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 66).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Zambia, Guatemala, Bolivia
 
 **Book 6:** *Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Cuarto Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year not printed in the pages read; no ISBN printed. Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Cuarto Año de Educación Secundaria Comunitaria Productiva. Grade 10 (student). 108 PDF pp. (cover verified against the record title; byte size 16,369,358 and page count match the staging books.json record exactly). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named here, not placed: Fundación de Bolivia — Ayacucho, Sucre, la Asamblea Deliberante y las pretensiones del Perú y la Argentina, printed p. 7; Consolidación del tributo indigenal, p. 17; La Confederación Perú-Boliviana e Ingavi, pp. 23–29; Gobiernos del siglo XIX (Linares, Ibáñez), pp. 35–37; Democracia participativa y representantes de las NPIOC (Civics), pp. 39–41; La Guerra del Pacífico (history narrative), pp. 43–49; La Guerra Federal, pp. 59–63; Las revoluciones acreanas (history narrative), pp. 69–71; Biometría, identidad y participación (Civics), pp. 83–85; Derechos de la mujer y patriarcado (Civics), pp. 99–107). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
+**Book 7:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils name a local act of keeping for later | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 86–87 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Zambia, Guatemala, Bolivia
 | Environmental protection — Zambia Grade 8's way (teacher guide — evidence) | Zambia, *Geography Teaching Module, Form 2, Term 3* (teacher guide), Topic 2.3 Environment, Sub-topic 2.3.2 Environmental Protection — printed p. 9 |
 | Guatemala part — Áreas protegidas: Reserva de la Biosfera Maya and the Biotopo Chocón-Machacas | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Áreas protegidas: Reserva de la Biosfera Maya and the Biotopo Chocón-Machacas (Unit 4) — printed pp. 181–182 |
 | Bolivia part — Protection of natural resources and recycling | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 4*, Grade 10, Protection of natural resources and recycling — printed p. 81 |
+| Angola part — 3.4 A protecção das espécies vegetais e animais | Angola, *Geografia 5ª Classe*, Grade 5, 3.4 A protecção das espécies vegetais e animais — printed p. 39 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Guatemala, Bolivia). Zambia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, Bolivia, Angola). Zambia is named here as teacher-guide evidence only, counted nowhere.**
 
 Zambia's own way (teacher guide — evidence): Grade 4's Competence-Based Curriculum module teaches managing resources by doing — planting trees, grass and flowers, sorting and disposing of waste, controlling pollution and running a clean-up campaign, inside a topic taught through observation walks, a community map and role-play, with Zambian examples (Zambezi and Kafue rivers, copper, maize soil, charcoal burning); Grade 8's Geography module, built around Zambia itself, follows degradation with a sub-topic on environmental protection. That evidence is stocked here as the way Zambia teaches this thing; it does not change the acceptance count above.
 
@@ -35,3 +38,5 @@ Guatemala's own way: one combined Social Studies and Citizenship book per grade,
 Bolivia's own way (Grade 10, Secundaria 4): Secundaria 4 is the nineteenth-century history year, and its geography is the geography of what Bolivia lost and what it lives from: the Atacama Litoral and the sea it no longer has, Potosí's silver and the tin north, the Amazon rubber boom, and a closing resources unit that runs from natural-resource classification to Vivir Bien and sustainable development.
 
 Searchable tags: conservation, definitions, terracing, afforestation, crop rotation, reforestation, shelter belt, check dams, strip cropping, water conservation, forest conservation, wildlife conservation, sustainable use, Ethiopia Grade 8 Social Studies Chapter 3, Zambia, environmental protection, tree planting, clean-up campaign, teacher guide evidence, Guatemala, Bolivia, Ciencias Sociales Bolivia
+
+Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.

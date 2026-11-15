@@ -2307,3 +2307,47 @@ Issues**: Natural disasters and how people face them
 (G5P1, pp. 26–30) and The world's natural environments
 and their diversity (G9P2, p. 4).
 Geography lessons: 851 → 868.
+
+## Geography expansion — Angola — built 2026-11-14
+
+Angola — 58 placements stocked from 2 records / 2
+distinct books (Geografia 5ª Classe and Geografia 6ª
+Classe, both student books, Portuguese, Ministério da
+Educação / Mensagem Editora, Luanda, 2021, 3.ª Edição),
+both COMPLETE, read from each record's own recorded
+source_url (Portal do Professor de Língua Portuguesa)
+after the GitHub API grab route repeatedly failed —
+the repo copies were not byte-verified against these
+reads, as the placements state. Angola's own way:
+Grade 5 opens Geography as "geographic space" — the
+natural space and the human-built space (Luanda port,
+Benguela railway, Cambambe dam, Huambo housing) —
+before any physical topic, with Angola's own position,
+borders, population figures (INE) and farm/fishery
+tables carrying the world topics; Grade 6 is a
+resources-and-environment year — every world topic
+(air, water, soils, forests) is closed with the
+Angolan case: Angola's fresh-water use, Angola's farm
+land, Angola's forest areas. Stocked into standing
+lessons (48 placements) across Earth and Space, The
+Land and Air, Population, Transport and Maps, People
+and Resources, Culture and Work, Resources and
+Conflict and Global Issues. Three placements named
+NEW LESSON NEEDED whose slugs already stand in the
+course (built by earlier merges in this chain) were
+stocked into those standing lessons: Living things
+depend on each other (G5, p. 39), Energy resources
+(G6, p. 19) and The Moon and its phases (G6, p. 85).
+10 NEW lessons built (10 placements): in **The Land
+and Air**: Geographic space — natural and built (G5,
+p. 11), Angola's location, size and borders (G5,
+p. 13), Environmental factors that shape life (G5,
+p. 70), Using fresh water in Angola (G6, p. 41), The
+world's forest belts (G6, p. 70) and Angola's forest
+areas (G6, p. 77); in **Population, Transport and
+Maps**: Rural and urban spaces (G5, p. 28); in
+**Culture and Work**: The diversity of humanity (G5,
+p. 44); in **People and Resources**: Angola's farm
+land — cultivable and not (G6, p. 58); in **Global
+Issues**: Reduce, reuse, recycle — the 3Rs (G5, p. 77).
+Geography lessons: 868 → 878.

@@ -1,6 +1,6 @@
 # Sources — Degradation in all its forms
 
-countries: Ethiopia, Zambia, Haiti
+countries: Ethiopia, Zambia, Haiti, Angola
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Zambia, Haiti
 
 **Book 5:** *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence, French) — Haiti, MENFP / Projet Nectar (Sciences humaines et sociales — Géographie, 7e année). Title as printed: Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes. (Projet Nectar, MENFP, Sciences humaines et sociales — Géographie, 7e année). Grade 7 (teacher). Publisher: MENFP / Projet Nectar; year not printed; no ISBN printed. 11 PDF pp. (cover verified against the record title). Verdict: COMPLETE. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
 
+**Book 6:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The types | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 6, printed pp. 177–179 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Zambia, Haiti
 | Actions that destroy the environment — Zambia Grade 4's way (teacher guide — evidence) | Zambia, *Social Studies Teaching Module, Grade 4, Term 3* (teacher guide), Topic 4.7 Environment, Sub-topic 4.7.1 (activity 2): actions that contribute to destruction of the environment (burning waste, deforestation, litter, charcoal burning, river pollution) — printed p. 3 (module pagination) |
 | Environmental degradation — Zambia Grade 8's way (teacher guide — evidence) | Zambia, *Geography Teaching Module, Form 2, Term 3* (teacher guide), Topic 2.3 Environment, Sub-topic 2.3.1 Environmental Degradation — printed p. 2 |
 | Haiti part — Séance 2 Haïti, un territoire fragilisé (carte et graphe des problèmes environnementaux du territoire: déboisement, désertification, érosion, pollutions, déchets, disparition de la faune et de la flore) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 2 Haïti, un territoire fragilisé (carte et graphe des problèmes environnementaux du territoire: déboisement, désertification, érosion, pollutions, déchets, disparition de la faune et de la flore) — printed p. 7 |
+| Angola part — 6.2 O género humano e o ambiente | Angola, *Geografia 5ª Classe*, Grade 5, 6.2 O género humano e o ambiente — printed p. 73 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Zambia is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Angola). Zambia is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -31,3 +34,5 @@ Zambia's own way (teacher guide — evidence): Grade 4's Competence-Based Curric
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
 Searchable tags: environmental degradation types causes effects, ozone, pollution, ethiopia, zambia, charcoal burning, deforestation, teacher guide evidence, social studies, resources and conflict, Haiti, Haïti verte, teacher sequence evidence
+
+Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.

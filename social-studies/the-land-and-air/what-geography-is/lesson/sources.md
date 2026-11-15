@@ -1,6 +1,6 @@
 # Sources — What geography is
 
-countries: Ethiopia, Saudi Arabia, Turkey, Bolivia
+countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Saudi Arabia, Turkey, Bolivia
 
 **Book 6:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024 — Secundaria Comunitaria Productiva, Área Ciencias Sociales* (teacher guide, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; 2023–2024; no ISBN printed. Title as printed: Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024 — Secundaria Comunitaria Productiva, Área Ciencias Sociales. Grade 7 (record grade; the compendium in fact carries teacher guidance for Secundaria years 1–6) (teacher). 332 PDF pp. (cover verified against the record title; byte size 22,986,155 and page count match the staging books.json record exactly; read from the recorded direct source_url). Verdict: COMPLETE (combined teacher compendium — Geography guidance placed below; its own index pagination does not match the PDF's internal order, noted as a library debt; the compendium's remaining units mirror the student books' History and Civics units for Secundaria 1–6, named in the placements in bulk, not placed). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
+**Book 7:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The word | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 3–4 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Saudi Arabia, Turkey, Bolivia
 | Turkey part — 1C Coğrafyanın Tanımı, Önemi ve Gelişimi (definition, importance and development of geography) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 1C Coğrafyanın Tanımı, Önemi ve Gelişimi (definition, importance and development of geography) — printed p. 25 |
 | Bolivia part — Geography: its Greek roots, branches and the phenomena it studies | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 1*, Grade 7, Geography: its Greek roots, branches and the phenomena it studies — printed p. 6 |
 | Bolivia part — Branches of geography: physical and human geography and their subdivisions (teacher guidance, Secundaria 1) (teacher guide — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Ciencias Sociales* (teacher guide), Grade 7 (record grade; teacher guidance), Branches of geography: physical and human geography and their subdivisions (teacher guidance, Secundaria 1) — printed p. 12 |
+| Angola part — 1.1.1 Introdução à Geografia (word origin; physical vs human geography; GPS/theodolite/census fieldwork) | Angola, *Geografia 5ª Classe*, Grade 5, 1.1.1 Introdução à Geografia (word origin; physical vs human geography; GPS/theodolite/census fieldwork) — printed p. 10 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Turkey, Bolivia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -33,3 +36,5 @@ Bolivia's own way (Grade 7, Secundaria 1): The Bolivian Texto de Aprendizaje run
 Bolivia's own way (teacher guide — evidence): The teacher compendium teaches the same four-moment lesson shape (Práctica, Teoría, Valoración, Producción) with QR-linked videos and local openings — a La Paz landslide video opens the geography unit — and it adds two geography units the sampled student books do not carry at those grades: the scientific development of geographic science with cartography and coordinates (year 3), and water as a human right with Andean water management (year 4). That evidence is stocked here as the way Bolivia teaches this thing; it does not change the acceptance count above.
 
 Searchable tags: what is geography, eratosthenes, geo graphos, definition, social studies, Bolivia, Ciencias Sociales Bolivia, teacher guide evidence
+
+Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.

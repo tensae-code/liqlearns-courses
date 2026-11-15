@@ -1,6 +1,6 @@
 # Sources — People and environment — a two-way street
 
-countries: Ethiopia, Saudi Arabia, Haiti, Guatemala, Jamaica
+countries: Ethiopia, Saudi Arabia, Haiti, Guatemala, Jamaica, Angola
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,10 @@ countries: Ethiopia, Saudi Arabia, Haiti, Guatemala, Jamaica
 
 **Book 9:** *National Standards Curriculum — Exploratory Core, Grade 4 (Language Arts | Science | Social Studies | Mathematics)* (curriculum guide, English) — Jamaica, Ministry of Education, Youth & Information, Jamaica; year 2020 (Jan 2020 edition); ISBN no ISBN printed. Title as printed: National Standards Curriculum — Exploratory Core, Grade 4 (Language Arts | Science | Social Studies | Mathematics). Grade: Grade 4 (student/teacher: TEACHER — curriculum guide). 370 PDF pp. (cover verified against the record title; 4,204,734 bytes, matches record size_bytes). Social Studies section printed pp. 182–226 of the guide; the Language Arts, Science and Mathematics sections are other subjects' waves. Verdict: COMPLETE for the Social Studies section (Geography scope). Guides read IN PLACE in phase3-staging where on disk, covers verified by render, full text read via pdftotext -layout. History parts (named, not placed): Term 1 Unit 3 National and community heroes, printed p. 195. Civics parts (named, not placed): Term 2 Unit 3 How we are governed in the community and my responsibilities, printed p. 207. Cited as curriculum-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jamaica-placements.md.
 
+**Book 10:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
+
+**Book 11:** *Geografia 6ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-5-8. Title as printed: Geografia | Manual da 6.ª Classe. Grade 6 (student). 96 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Dependence | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 154–157 |
@@ -32,8 +36,10 @@ countries: Ethiopia, Saudi Arabia, Haiti, Guatemala, Jamaica
 | Guatemala part — Cosmovisión maya reading: peoples and territories are one unit, with humanity, plants, animals and Mother Earth (teacher guide — evidence) | Guatemala, *Ciencias Sociales, Segundo ciclo* (teacher guide), Grades 4–6, Cosmovisión maya reading: peoples and territories are one unit, with humanity, plants, animals and Mother Earth — printed p. 24 |
 | Guatemala part — Theme “Concepción cultural de la relación entre los seres humanos y el medio ambiente” inside Experiencia 2, Violencia infantil y valores culturales (teacher guide — evidence) | Guatemala, *Ciencias Sociales y Formación Ciudadana I, primero básico* (teacher guide), Grade 7, Theme “Concepción cultural de la relación entre los seres humanos y el medio ambiente” inside Experiencia 2, Violencia infantil y valores culturales — printed p. 29 |
 | Jamaica part — Social Studies Term 1 Unit 1 The Tainos in Jamaica: how the Tainos used their environment to meet basic needs (curriculum guide — evidence) | Jamaica, *Jamaica Grade 4 JM G4 Exploratory Core*, Social Studies Term 1 Unit 1 The Tainos in Jamaica: how the Tainos used their environment to meet basic needs — printed p. 187 |
+| Angola part (Grade 5) — 1.3 O meio natural e o ser humano | Angola, *Geografia 5ª Classe*, Grade 5, 1.3 O meio natural e o ser humano — printed p. 17 |
+| Angola part (Grade 6) — 1.1 O género humano e a terra | Angola, *Geografia 6ª Classe*, Grade 6, 1.1 O género humano e a terra — printed p. 10 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia). Haiti is named here as teacher-sequence evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Angola). Haiti is named here as teacher-sequence evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -46,3 +52,7 @@ Guatemala's own way (teacher guide — evidence): Social Studies is taught throu
 Guatemala's own way in the básico cycle (teacher guide — evidence): the básico cycle opens Social Studies as peace-building (“Juntos construimos la paz”) — the whole first-year guide is organised around kinds of violence, with cultural values, including each culture's conception of the human–nature relationship, as the counterweight. That evidence is stocked here as the way Guatemala teaches this thing; it does not change the acceptance count above.
 
 Searchable tags: human environment relationship, dependence, two-way, resources in objects, social studies, Haiti, Haïti verte, teacher sequence evidence, Guatemala, Jamaica, curriculum guide evidence
+
+Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
+
+Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.

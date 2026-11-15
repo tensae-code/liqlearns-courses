@@ -1,6 +1,6 @@
 # Sources — Primary activities — mining
 
-countries: Ethiopia, Bolivia
+countries: Ethiopia, Bolivia, Angola
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Bolivia
 
 **Book 3:** *Área: Ciencias Sociales — Sexto Año, Educación Secundaria Comunitaria Productiva (Campo: Comunidad y Sociedad)* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2024; no ISBN printed. Title as printed: Área: Ciencias Sociales — Sexto Año, Educación Secundaria Comunitaria Productiva (Campo: Comunidad y Sociedad). Grade 12 (student). 126 PDF pp. (cover verified against the record title; byte size 14,185,463 and page count match the staging books.json record exactly; read from the book's recorded source_url). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics/Economics parts named here, not placed: the Second World War and the Cold War; decolonisation of Asia and Africa and apartheid; the 1952 National Revolution, universal vote and mine nationalisation as history; military dictatorships and neoliberalism; the return to democracy, autonomies and revocatory referendums; identity, discrimination and despatriarcalización; youth political rights; child and adolescent labour law; money, the boliviano and inflation (economics)). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
+**Book 4:** *Geografia 6ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-5-8. Title as printed: Geografia | Manual da 6.ª Classe. Grade 6 (student). 96 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What minerals are | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 57–58 |
 | Sub lesson 2 — What decides whether they are dug | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 57–58 |
 | Bolivia part — Silver mining of Potosí: its phases of growth and decline, and the tin economy of the north | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 4*, Grade 10, Silver mining of Potosí: its phases of growth and decline, and the tin economy of the north — printed p. 51 |
 | Bolivia part — Mining in Bolivia and workers' control after 1952 (stocked here from the placements' named target people-and-resources/the-mining-sector, which does not exist in the course; this is the closest existing lesson covering that thing) | Bolivia, *Ciencias Sociales, Sexto Año de Secundaria*, Grade 12, Mining in Bolivia and workers' control after 1952 — printed p. 47 |
+| Angola part — 1.2.7 Recursos minerais | Angola, *Geografia 6ª Classe*, Grade 6, 1.2.7 Recursos minerais — printed p. 18 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bolivia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Bolivia, Angola).**
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
@@ -24,3 +27,5 @@ Bolivia's own way (Grade 10, Secundaria 4): Secundaria 4 is the nineteenth-centu
 Bolivia's own way (Grade 12, Sexto Año): The final year opens with the census itself — the censista's work as civic-geographic practice — and later teaches geopolitics critically: Haushofer and geopolitical thought, geographic scales, and natural resources as a product of human knowledge (Sunkel), alongside Bolivia's own resource politics: the Gas War, hydrocarbon nationalisation and the urea plant that industrialises gas.
 
 Searchable tags: primary activities: mining, culture and work, social studies, ethiopia, Bolivia, Ciencias Sociales Bolivia
+
+Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.

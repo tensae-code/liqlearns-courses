@@ -1,6 +1,6 @@
 # Sources — The Solar System — the Sun and the Planets
 
-countries: Ethiopia, Haiti, Jamaica
+countries: Ethiopia, Haiti, Jamaica, Angola
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Haiti, Jamaica
 
 **Book 4:** *National Standards Curriculum — Exploratory Core, Grade 5 (Language Arts / Mathematics / Science / Social Studies)* (curriculum guide, English) — Jamaica, Ministry of Education, Youth & Information, Jamaica; year 2020; ISBN no ISBN printed. Title as printed: National Standards Curriculum — Exploratory Core, Grade 5 (Language Arts / Mathematics / Science / Social Studies). Grade: Grade 5 (student/teacher: TEACHER — curriculum guide). 397 PDF pp. (cover verified against the record title; 59,815,617 bytes, matches record size_bytes; fetched via the Releases API asset route — mid-size-books-8 — because the file is not in the git tree). Social Studies section printed pp. 305–363; the guide's text layer is scrambled, so the section was read from page renders (overview, printed p. 309, and every unit's opening page). Verdict: COMPLETE for the Social Studies section (Geography scope). History parts (named, not placed): Term 1 Unit 1 Europeans and Africans in Jamaica (except its map/migration objective placed in the placements), printed p. 310; Term 1 Unit 2 National Heroes — Nanny of the Maroons, Sam Sharpe, Paul Bogle and George William Gordon, printed p. 315. Civics parts (named, not placed): Term 2 Unit 3 Municipal Corporations (Parish Councils), printed p. 337. Cited as curriculum-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jamaica-placements.md.
 
+**Book 5:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The Sun: the star at the centre | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 7–8 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Haiti, Jamaica
 | Haiti part — Séance 1 La Terre dans l'espace (teacher sequence — evidence) | Haiti, *Du rond au plat, représenter le globe terrestre ?* (teacher sequence), Grade 7, Séance 1 La Terre dans l'espace — printed p. 6 |
 | Jamaica part — Term 3 Unit 2: the Earth in the Solar System — why planet Earth is unique (curriculum guide — evidence) | Jamaica, *Jamaica Grade 4 JM G4 Exploratory Core*, Term 3 Unit 2: the Earth in the Solar System — why planet Earth is unique — printed p. 214 |
 | Jamaica part — Term 3 Unit 2: the features of the Solar System (curriculum guide — evidence) | Jamaica, *Jamaica Grade 5 JM G5 Exploratory Core*, Term 3 Unit 2: the features of the Solar System — printed p. 349 |
+| Angola part — 6.5 Os planetas do Sistema Solar | Angola, *Geografia 5ª Classe*, Grade 5, 6.5 Os planetas do Sistema Solar — printed p. 78 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Haiti is named here as teacher-sequence evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Angola). Haiti is named here as teacher-sequence evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 Jamaica's own way (Grade 5 Exploratory Core, curriculum guide — evidence): Grade 5 Social Studies pairs a heritage year (Europeans and Africans, national heroes, Caribbean culture) with a physical-environment year — erosion, locating Jamaica and the Caribbean by compass and latitude/longitude, types of rainfall, the Solar System, plants and water pollution. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
@@ -29,3 +32,5 @@ Haiti's own way (teacher sequence — evidence): Geography opens with representi
 Book error taught corrected: §1.3 gives the Sun's "circumference" as 1,390,176 km — that figure is the Sun's diameter, not its circumference; this lesson teaches it as the diameter, in the text and in Picture 11007. The planet table's moon counts (for example Jupiter 16, Saturn 21, Neptune 2) are the book's period figures from its printing time and are flagged here as dated counts — more moons have been counted since; the lesson teaches the table as a comparison tool, not as today's moon census.
 
 Searchable tags: solar system, Sun, planets, orbits, rocky planets, gas giants, planet table, Pluto 2006, Venus hotter than Mercury, Haiti, Du rond au plat, teacher sequence evidence, Jamaica, curriculum guide evidence
+
+Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.

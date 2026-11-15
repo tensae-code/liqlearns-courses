@@ -1,6 +1,6 @@
 # Sources — Biodiversity — the variety of life, under threat
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador
+countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador
 **Book 5:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
 
 **Book 6:** *Estudios Sociales 2do EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera Edición); ISBN 978-9942-662-16-3. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Elemental, Segundo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 2 (student). 114 PDF pp. (cover/title page verified against the record title; read in place in phase3-staging, 9,005,158 bytes; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
+**Book 7:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -29,8 +31,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador
 | Niue part — Whales of the Pacific (humpback whales feeding in Antarctica, calving in Tonga, passing Niue; commercial whaling, legal protection and whale-watch ecotourism) (placement target global-issues/whales-of-the-pacific-migration-and-protection — stocked here as the closest existing lesson) | Niue, *People and the Sea in the Pacific*, Years 5–6, Whales of the Pacific (humpback whales feeding in Antarctica, calving in Tonga, passing Niue; commercial whaling, legal protection and whale-watch ecotourism) — printed pp. 9–11 |
 | Guatemala part — Biodiversidad del Mar Caribe: the Mesoamerican (Maya) Reef and Belize's Great Blue Hole | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Biodiversidad del Mar Caribe: the Mesoamerican (Maya) Reef and Belize's Great Blue Hole (Unit 2) — printed p. 84 |
 | Ecuador part — Ecuador megadiverso | Ecuador, *Estudios Sociales 2do EGB*, Grade 2, Ecuador megadiverso — printed p. 87 |
+| Angola part — 3.1 Diversidade de plantas na terra | Angola, *Geografia 5ª Classe*, Grade 5, 3.1 Diversidade de plantas na terra — printed p. 34 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — Geography is taught as Pacific peoples' lived relationship with the ocean: voyaging, reef knowledge, tapu/fono closed seasons and village fishing practice in Tonga, Tuvalu and Niue itself, ending in a pupil action plan against plastic. That way is stocked here as the way Niue teaches this thing.
 
@@ -45,3 +48,5 @@ Guatemala's own way: one combined Social Studies and Citizenship book per grade,
 Ecuador's own way (Grade 2 book): Geography is taught inside three thematic sections that always start from the child's family, school and province and widen to Ecuador and South America; heavy use of hazard maps (floods, landslides, volcanoes) and emergency plans from Grade 2, reflecting Ecuador's volcanic / El Niño risk profile. That way is stocked here as the way Ecuador teaches this thing.
 
 Searchable tags: biodiversity, species loss, Biodiversity Convention, political will, social studies, Nauru, People and the Sea in the Pacific, Pacific Ocean animals, coral reef, sharks, whales, Tuvalu, Niue, Guatemala, Ecuador
+
+Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.

@@ -1,6 +1,6 @@
 # Sources — The Earth — Place, Shape and Size
 
-countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine
+countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine
 
 **Book 6:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part One* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (adopted for teaching from the 2017/2018 school year); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part One (Semester 1). Grade 5 (student). 92 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4). Verdict: COMPLETE. Read via grab.py from the GitHub textbooks repo. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 2 Human Life on Earth in Ancient Times, lessons 1–3 and 5, printed pp. 42–57 and 65–71; Unit 3 The Society We Live In, pp. 72–86; the war section inside Unit 1 lesson 5, pp. 36–39.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
 
+**Book 7:** *Geografia 6ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-5-8. Title as printed: Geografia | Manual da 6.ª Classe. Grade 6 (student). 96 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Earth's place | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 15 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine
 | Turkey part — 4A Dünya'nın Şekli (the shape of the Earth) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 4A Dünya'nın Şekli (the shape of the Earth) — printed p. 83 |
 | Haiti part — Séance 2 La forme de la Terre (rotondité, géoïde, passage du rond au plat, projections) (teacher sequence — evidence) | Haiti, *Du rond au plat, représenter le globe terrestre ?* (teacher sequence), Grade 7, Séance 2 La forme de la Terre (rotondité, géoïde, passage du rond au plat, projections) — printed p. 8 |
 | Palestine part — Unit 1 Planet Earth, Lesson 1: the shape of the Earth and the solar system it belongs to | Palestine, *Social Studies, Grade 5, Part One*, Grade 5, Unit 1 Planet Earth, Lesson 1: the shape of the Earth and the solar system it belongs to — printed p. 4 |
+| Angola part — Appendix: A Terra, o Sol e a Lua (Earth's shape, size, orbit and rotation; the Sun) | Angola, *Geografia 6ª Classe*, Grade 6, Appendix: A Terra, o Sol e a Lua (Earth's shape, size, orbit and rotation; the Sun) — printed p. 85 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Turkey, Palestine). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -38,3 +41,5 @@ No book errors are flagged by the placements for these pages.
 Searchable tags: Earth position, third planet, elliptical orbit, Earth shape, oblate spheroid, Magellan, horizon, Earth size, diameters, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Haiti, Du rond au plat, teacher sequence evidence
 
 Palestine's own way (Grade 5, PS G5P1): Social Studies opens with a full Earth-science unit (shape, movements, surface, life components, disasters) taught through Palestinian examples — seasons read off Palestinian crops, surface forms read off Palestine's own map, which pupils draw with its borders.
+
+Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.

@@ -1,6 +1,6 @@
 # Sources — Primary activities — fishing grounds of the world
 
-countries: Ethiopia, Nauru, Tuvalu, Niue
+countries: Ethiopia, Nauru, Tuvalu, Niue, Angola
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue
 **Book 3:** *People and the Sea in the Pacific* (student book, English) — Tuvalu, Institute of Education, University of the South Pacific (Tonga Campus), with UNESCO and Japanese Funds-in-Trust; year 2020; no ISBN printed. Title as printed: People and the Sea in the Pacific — A Social Sciences related reader for Primary School, Book 1 (Education for Sustainable Development / Sustainable Living & Development). Grade: Years 5–6 (record grade Grade 5) (student). 24 PDF pp. (cover/title page verified against the record title; verified identical to the Nauru copy — same byte size, extracted text identical, cover renders identical — and read in full under Nauru; the Tuvalu copy was spot-checked (cover + contents text diff)). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/tuvalu-placements.md.
 
 **Book 4:** *People and the Sea in the Pacific* (student book, English) — Niue, Institute of Education, University of the South Pacific (Tonga Campus), for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: People and the Sea in the Pacific — A Social Sciences related reader for Primary School, Book 1 (Years 5–6). Grade: Grade 5 / Years 5–6 (student). Niue advisor: Birtha Togahai. 24 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE (content printed pp. 1–19; remaining pages are blank endpapers). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
+
+**Book 5:** *Geografia 6ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-5-8. Title as printed: Geografia | Manual da 6.ª Classe. Grade 6 (student). 96 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -24,8 +26,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue
 | Niue part — Traditional fishing practices of Tonga (uloa and pola fish-herding with coconut-leaf lines, kupenga nets, fish traps, and the values behind them) (placement target culture-and-work/traditional-fishing-practices-of-tonga — stocked here as the closest existing lesson) | Niue, *People and the Sea in the Pacific*, Years 5–6, Traditional fishing practices of Tonga (uloa and pola fish-herding with coconut-leaf lines, kupenga nets, fish traps, and the values behind them) — printed pp. 12–13 |
 | Niue part — Traditional fishing and bird catching in Tuvalu (women's reef gathering, men's pearl-shell diving, pulou nets for seabirds on moonlit nights) (placement target culture-and-work/traditional-fishing-and-bird-catching-in-tuvalu — stocked here as the closest existing lesson) | Niue, *People and the Sea in the Pacific*, Years 5–6, Traditional fishing and bird catching in Tuvalu (women's reef gathering, men's pearl-shell diving, pulou nets for seabirds on moonlit nights) — printed p. 14 |
 | Niue part — Traditional fishing practices in Niue (fagota reef gathering — 27 shellfish, 16 crabs; the fono ban in the Jan–Mar kalooma/atule season; ebony-seed fish stunning; tao-hoka-ika spears; torch fishing for flying fish) (placement target culture-and-work/traditional-fishing-practices-in-niue — stocked here as the closest existing lesson) | Niue, *People and the Sea in the Pacific*, Years 5–6, Traditional fishing practices in Niue (fagota reef gathering — 27 shellfish, 16 crabs; the fono ban in the Jan–Mar kalooma/atule season; ebony-seed fish stunning; tao-hoka-ika spears; torch fishing for flying fish) — printed pp. 15–16 |
+| Angola part — 1.2.6 Recursos do mar | Angola, *Geografia 6ª Classe*, Grade 6, 1.2.6 Recursos do mar — printed p. 17 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nauru, Tuvalu, Niue).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nauru, Tuvalu, Niue, Angola).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — Geography is taught as Pacific peoples' lived relationship with the ocean: voyaging, reef knowledge, tapu/fono closed seasons and village fishing practice in Tonga, Tuvalu and Niue itself, ending in a pupil action plan against plastic. That way is stocked here as the way Niue teaches this thing.
 
@@ -36,3 +39,5 @@ Tuvalu's own way: Tuvalu uses the shared Pacific ESD reader suite (local advisor
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
 Searchable tags: primary activities: fishing grounds of the world, culture and work, social studies, ethiopia, Nauru, People and the Sea in the Pacific, traditional fishing, Tonga, Tuvalu, Niue, Niue Grade 5
+
+Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.

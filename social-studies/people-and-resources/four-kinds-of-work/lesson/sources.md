@@ -1,6 +1,6 @@
 # Sources — Four kinds of work
 
-countries: Ethiopia, Barbados, Jamaica
+countries: Ethiopia, Barbados, Jamaica, Angola
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Barbados, Jamaica
 
 **Book 4:** *National Standards Curriculum — Social Studies, Grades 7–9 (APSE1)* (curriculum guide, English) — Jamaica, Ministry of Education, Youth & Information, Jamaica; year 2020 (Jan 2020 edition); ISBN no ISBN printed. Title as printed: National Standards Curriculum — Social Studies, Grades 7–9 (APSE1). Grade: Grades 7–9 (student/teacher: TEACHER — curriculum guide). 219 PDF pp. (cover verified against the record title; 11,411,709 bytes, matches record size_bytes). Verdict: COMPLETE (Geography scope). Guides read IN PLACE in phase3-staging where on disk, covers verified by render, full text read via pdftotext -layout. History parts (named, not placed): Grade 7 Term 1 Unit 2 National Heroes and Their Contributions to Jamaica's Development, printed p. 10; Grade 8 Term 1 Unit 1 Nationalism and Development, printed p. 70. Civics / Sociology parts (named, not placed): Grade 7 Term 1 Unit 1 The Rights and Responsibilities of the Citizen, printed p. 4; Grade 7 Term 2 Unit 3 Social Groups and Institutions, printed p. 36; Grade 7 Term 2 Unit 4 Social Groups — The Family, printed p. 42; Grade 8 Term 1 Unit 2 Communication and Media Literacy, printed p. 74; Grade 8 Term 2 Unit 2 Institutions: Economic Institutions, printed p. 89; Grade 9 Term 1 Unit 2 The Caribbean Individual and Regional Integration, printed p. 129; Grade 9 Term 1 Unit 3 Social Issues in Jamaica, printed p. 135; Grade 9 Term 2 Unit 2 Political Institution: The Structure of the Jamaican Government, printed p. 147; Grade 9 Term 2 Unit 3 The Electoral Process, printed p. 152. Cited as curriculum-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jamaica-placements.md.
 
+**Book 5:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The four classes | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 122–124 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Barbados, Jamaica
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 5 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 5, guide printed pp. 143–176 |
 | Barbados part — classification of industry; economic activity in the primary and secondary sectors; other types of economic activity | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 11: classification of industry; economic activity in the primary and secondary sectors; other types of economic activity — printed p. 242 |
 | Jamaica part — Grade 9 Term 3 Unit 2: Individuals in the Workplace (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 9 Term 3 Unit 2: Individuals in the Workplace — printed p. 164 |
+| Angola part — 4.4 As actividades humanas (farming, fishing, crafts, services through time and space) | Angola, *Geografia 5ª Classe*, Grade 5, 4.4 As actividades humanas (farming, fishing, crafts, services through time and space) — printed p. 54 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Barbados). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Barbados, Angola). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
 Searchable tags: economic activities, primary, secondary, tertiary, quaternary, workforce, social studies, Jamaica, curriculum guide evidence
+
+Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.

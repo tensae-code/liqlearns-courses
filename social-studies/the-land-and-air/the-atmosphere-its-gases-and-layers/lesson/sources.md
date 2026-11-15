@@ -1,6 +1,6 @@
 # Sources — The Atmosphere — Its Gases and Layers
 
-countries: Ethiopia, Myanmar, Turkey
+countries: Ethiopia, Myanmar, Turkey, Angola
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Myanmar, Turkey
 
 **Book 4:** *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı* (student book, Turkish) — Turkey, Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; year 2017 (Birinci Baskı); ISBN 978-975-11-4324-2. Title as printed: Ortaöğretim Coğrafya 9 — Ders Kitabı (authors İsmail Özdoğan, Kenan Türkez, Mutlu Karakoç). Grade 9 (student). 240 PDF pp. (cover/title page verified against the record title; read from the record's archive.org source_url copy — the repo copy later landed by git sparse checkout at exactly the same byte size, 25,904,697 bytes, confirming the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkey-placements.md.
 
+**Book 5:** *Geografia 6ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-5-8. Title as printed: Geografia | Manual da 6.ª Classe. Grade 6 (student). 96 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The air blanket's recipe | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Myanmar, Turkey
 | Sub lesson 3 — Two ways of slicing it (the compositional slicing: teacher guide — evidence) | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 (the thermal slicing); Ethiopia, *Social Studies Teacher's Guide, Grade 8*, §1.2, printed p. 8 (teacher guide — evidence) (the compositional slicing) |
 | Atmosphere and the environment — Myanmar way: 3.4 (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §3.4, printed p. 40 |
 | Turkey part — 5A Atmosfer ve Hava Olayları (atmosphere and weather events) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 5A Atmosfer ve Hava Olayları (atmosphere and weather events) — printed p. 105 |
+| Angola part — 2.1 O ar que respiramos: importância e constituição do ar atmosférico (oxygen, carbon dioxide, nitrogen) | Angola, *Geografia 6ª Classe*, Grade 6, 2.1 O ar que respiramos: importância e constituição do ar atmosférico (oxygen, carbon dioxide, nitrogen) — printed p. 24 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkey). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Turkey, Angola). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -29,3 +32,5 @@ Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the
 Guide figures differ: the teacher guide gives argon 0.93% and carbon dioxide 0.039% (guide printed p. 6) against the student book's 0.9% and 0.03% (student printed p. 22). This lesson teaches the student book's set, as the pupil text, and flags the guide's set in the lesson as teacher evidence.
 
 Searchable tags: the atmosphere   its gases and layers, ethiopia, social studies, the land and air, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence
+
+Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
