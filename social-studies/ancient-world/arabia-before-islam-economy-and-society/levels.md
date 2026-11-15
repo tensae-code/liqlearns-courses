@@ -1,0 +1,6 @@
+# Economic and social conditions of the Arabs before Islam — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its sub lessons. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view. Parts are ordered as the book teaches them, as stocked.
+
+## Sub lesson 1 — Economic and social conditions of the Arabs before Islam
+Sub lesson 1 questions from the type files. Pass mark: retell this part in your own words — arabs live by herding, farming in Yemen, Taif and Yamama, and the winter journey to Yemen and summer journey to Syria with markets like Ukaz, in a tribal society the book faults for wine, usury and burying daughters yet praises for generosity and protecting the neighbour

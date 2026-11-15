@@ -1,6 +1,6 @@
 # Sources — West African Empires — Mali and Mansa Musa
 
-countries: Ethiopia, Angola, Mauritania, Uganda, Mozambique
+countries: Ethiopia, Angola, Mauritania, Uganda, Mozambique, Yemen
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -102,3 +102,25 @@ Mozambique's own way (Book 1 — PESD I Mod 1 (student book, Portuguese)): Self-
 **Acceptance count: taught in 5 countries (Ethiopia, Angola, Mauritania, Uganda, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, africa-to-1500/west-african-empires-mali-and-mansa-musa
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 10 — G11 History Part 2 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الثاني (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 2)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Guidance, Curriculum Sector, General Administration of Curricula; authoring committee chaired by Dr Abd al-Majid Ghalib al-Mukhlifi; print 1443 AH / 2022 CE (content edition 1438 AH / 2017 CE); no ISBN printed
+- PDF pages: 113 (cover/title page verified against the record title; printed page = PDF page − 2; text layer broken-encoded, read visually page by page)
+- Verdict: COMPLETE
+- Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED
+- Yemen's own way: Part 2 keeps Yemen at the centre of the whole Arab Islamic civilisation — its first unit is devoted entirely to Yemen's own role (conquerors, callers, states, scholars), and even the outside-the-homeland units keep routing the story through Yemeni merchants, sailors and emigrants; the book ends by weighing why the civilisation's science rose, what it gave Europe, and why it faded.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Islamic civilisation in Central and West Africa: the empire of Mali (Unit 5 Lesson 5) — story beats: when a chief embraces Islam his tribe follows and carries it to new lands; the Islamic Mali kingdom rises under Mari Jata and rules most of West Africa from the Niger basin, and mosques, congregational mosques and Qur'an schools multiply while African languages take Arabic letters for writing (History expansion, 2026-11-15; original placement slug: africa-to-1500/west-african-empires-mali-and-mansa-musa) | Yemen, *تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الثاني (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 2)*, printed p. 69 |
+
+Yemen's own way (Book 10 — G11 History Part 2 (student book, Arabic)): Part 2 keeps Yemen at the centre of the whole Arab Islamic civilisation — its first unit is devoted entirely to Yemen's own role (conquerors, callers, states, scholars), and even the outside-the-homeland units keep routing the story through Yemeni merchants, sailors and emigrants; the book ends by weighing why the civilisation's science rose, what it gave Europe, and why it faded. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Angola, Mauritania, Uganda, Mozambique, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, africa-to-1500/west-african-empires-mali-and-mansa-musa

@@ -1,6 +1,6 @@
 # Sources — The Inca — the Andean civilisation
 
-countries: Costa Rica, Egypt, Bolivia
+countries: Costa Rica, Egypt, Bolivia, Yemen
 
 **Book (Costa Rica cr-coned-7):** Title as printed: Antología CONED — Estudios Sociales, Código 80005, Nivel Sétimo año Grade: Grade 7 (student/teacher: STUDENT). Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017; no ISBN printed PDF pages: 166 (cover verified against the record title; byte size 4,348,033 and page count match the record). Verdict: COMPLETE Tally: 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED Costa Rica's own way: The CONED distance-education anthologies compile source readings around a guiding question per theme, fusing History with Geography in one Estudios Sociales course: the ancient world is read as "the human footprint on geographic space", and Costa Rica's own past enters through its indigenous peoples before any national narrative. Non-History parts (named, not placed): Unidad II Tema II La huella ecológica (ecological footprint, printed pp. 94–105 — Geography); Unidad III El espacio geográfico transformado: ecosistemas terrestres y producción alimentaria (printed pp. 106–165 — Geography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -46,3 +46,25 @@ Bolivia's own way (Texto de Aprendizaje — Ciencias Sociales, 2do Año de Educa
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Costa Rica, Egypt, Bolivia).**
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 8 — G10 History Part 1 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)
+- Grade: Grade 10 / first secondary (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector; year: print rights 1447 AH / 2026 CE (new-look edition); no ISBN printed
+- PDF pages: 176 (cover/title page verified against the record title; printed page = PDF page)
+- Verdict: COMPLETE — although the record says Part 1, the file carries BOTH terms' units: 24 lessons in 6 units through printed p. 170, references pp. 171–172, and a closing general-guidance appendix on understanding the ages of history and dating events, pp. 173–176
+- Tally: 27 placements — 14 to existing lessons, 13 NEW LESSON NEEDED
+- Yemen's own way: the whole ancient world is told as one story of civilisational interaction whose heart is the ancient ARAB civilisations, with Yemen as the Arabs' southern gateway, first homeland and the first source of the Semitic migrations; every civilisation is weighed on the same grid — factors of rise, then political, economic, social, religious, intellectual and urban manifestations, then its relations with the Arabs — and the Qur'an is cited as testimony (Saba's shura, the Nabataeans' rock-cut houses). Slugs first demanded as NEW by earlier books in this wave count as existing here.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Ancient civilisations in Central and South America: the Inca — story beats: in the Andes the Inca state holds all land, minerals and herds, moves people from crowded valleys to empty ones, feeds the hungry from public stores in famine years, and divides the fields three ways — the state's (the largest), the temples', and each family's plot, re-measured yearly by family size; farmers terrace the mountainsides and fertilise with guano, smiths mix copper and tin into bronze and beat gold foil over silver, and Inca engineers fit huge stones so exactly, without mortar, that their temples and fortresses still stand through earthquakes on roads served by travellers' resthouses (History expansion, 2026-11-15; original placement slug: ancient-world/the-inca-empire-of-the-andes) | Yemen, *تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)*, printed p. 126 |
+
+Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whole ancient world is told as one story of civilisational interaction whose heart is the ancient ARAB civilisations, with Yemen as the Arabs' southern gateway, first homeland and the first source of the Semitic migrations; every civilisation is weighed on the same grid — factors of rise, then political, economic, social, religious, intellectual and urban manifestations, then its relations with the Arabs — and the Qur'an is cited as testimony (Saba's shura, the Nabataeans' rock-cut houses). Slugs first demanded as NEW by earlier books in this wave count as existing here. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Costa Rica, Egypt, Bolivia, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/the-inca-andean-civilisation

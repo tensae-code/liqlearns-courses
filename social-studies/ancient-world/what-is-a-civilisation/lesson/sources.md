@@ -1,6 +1,6 @@
 # Sources — What is a civilisation?
 
-countries: Egypt, Libya
+countries: Egypt, Libya, Yemen
 
 **Book 9:** *مصر الحضارة — حضارة مصر والعالم القديم (Egypt the Civilisation — the Civilisation of Egypt and the Ancient World)* (student book, Arabic) — Egypt. Grade: Grade 10 (First Secondary), full year (student book). Publisher: Ministry of Education and Technical Education, Egypt (Central Administration for Textbooks; Curriculum Development Centre), 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 171 (downloaded from the ministry source_url at the exact recorded size; read as 4-up page sheets; all four units read). Verdict: COMPLETE. Tally: 15 placements — 11 to existing lessons, 4 NEW LESSON NEEDED. Records note: the two Grade 10 records (Term 1 and Term 2) are the SAME book — the ministry issues this title as one full-year volume (the Term 2 file is even named "Tr1_2"); covers, author pages and contents of the two downloads are identical (one rendered contents sheet is byte-identical), so the book is filed once here. Both downloaded files are staged at their own recorded paths. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -50,3 +50,25 @@ Libya's own way (Book 1 — G10 Ancient Arab World (student book, Arabic)): the 
 Libya's own way (Book 4 — G7 History of Libya and the Ancient World (student book, Arabic)): Libya's ancient story is told inside the Arab world's: the ancient Libyans, their 30-letter script and the Garamantes get their own full lessons, and every visiting power — Phoenician, Greek, Roman, Vandal, Byzantine — is judged by what it did in Libya. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Egypt, Libya).**
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 8 — G10 History Part 1 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)
+- Grade: Grade 10 / first secondary (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector; year: print rights 1447 AH / 2026 CE (new-look edition); no ISBN printed
+- PDF pages: 176 (cover/title page verified against the record title; printed page = PDF page)
+- Verdict: COMPLETE — although the record says Part 1, the file carries BOTH terms' units: 24 lessons in 6 units through printed p. 170, references pp. 171–172, and a closing general-guidance appendix on understanding the ages of history and dating events, pp. 173–176
+- Tally: 27 placements — 14 to existing lessons, 13 NEW LESSON NEEDED
+- Yemen's own way: the whole ancient world is told as one story of civilisational interaction whose heart is the ancient ARAB civilisations, with Yemen as the Arabs' southern gateway, first homeland and the first source of the Semitic migrations; every civilisation is weighed on the same grid — factors of rise, then political, economic, social, religious, intellectual and urban manifestations, then its relations with the Arabs — and the Qur'an is cited as testimony (Saba's shura, the Nabataeans' rock-cut houses). Slugs first demanded as NEW by earlier books in this wave count as existing here.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Civilisational and cultural concepts — story beats: civilisation is a people's sum of religious, intellectual and material achievements marked by creativity, continuity and influence, culture the knowledge, customs and values that mark one nation off from another; civilisations grow by meeting — through discovery voyages, trade journeys, migrations, empires and the spread of religions — borrowing techniques and arts without dissolving into one another, as Islamic civilisation traded influences with India, China and Persia and later shaped Europe's (History expansion, 2026-11-15; original placement slug: ancient-world/what-civilisation-is-and-how-civilisations-meet) | Yemen, *تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)*, printed p. 12 |
+
+Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whole ancient world is told as one story of civilisational interaction whose heart is the ancient ARAB civilisations, with Yemen as the Arabs' southern gateway, first homeland and the first source of the Semitic migrations; every civilisation is weighed on the same grid — factors of rise, then political, economic, social, religious, intellectual and urban manifestations, then its relations with the Arabs — and the Qur'an is cited as testimony (Saba's shura, the Nabataeans' rock-cut houses). Slugs first demanded as NEW by earlier books in this wave count as existing here. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Egypt, Libya, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/what-is-a-civilisation

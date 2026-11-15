@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -730,3 +730,55 @@ Iraq's own way (Book 7 — iq-g10 History of Arab-Islamic Civilisation (student 
 **Acceptance count: taught in 22 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 3 — G5 History (student book, Arabic)**
+- Title as printed: التاريخ للصف الخامس من مرحلة التعليم الأساسي (History for Grade 5, Basic Education)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year 1447 AH / 2026 CE on cover (new-look edition); ISBN no ISBN printed
+- PDF pages: 66 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets)
+- Verdict: COMPLETE
+- Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED
+- Yemen's own way: history opens as a chain of prophets — Adam, Noah, Hud, Salih, Ibrahim — told from Qur'anic narrative, then turns to Yemen's own ancient kingdoms and to three foreign occupations (Roman, Abyssinian, Persian) that Yemenis resist, ending at the birth of Islam.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+**Book 4 — G6 History (student book, Arabic)**
+- Title as printed: تاريخ العرب الإسلامي للصف السادس من مرحلة التعليم الأساسي (History of the Islamic Arabs for Grade 6, Basic Education)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year 1447 AH / 2026 CE on cover; ISBN no ISBN printed
+- PDF pages: 97 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets)
+- Verdict: COMPLETE
+- Tally: 21 placements — 11 to existing lessons, 10 NEW LESSON NEEDED
+- Yemen's own way: Islamic history is told with a Zaydi lens — Ali and the Imams stand beside the caliphs in every age, Husayn's stand at Karbala is a turning point, and after each general age a Yemen lesson follows (Yemen in the Prophet's age, Yemen under the caliphs, Yemen's own Zaydi, Sulayhid and Najahid states).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+**Book 9 — G11 History Part 1 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الأول (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 1)
+- Grade: Grade 11 / second secondary (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Guidance, Curriculum Sector, General Administration of Curricula; lead author Dr Abd al-Majid Ghalib al-Mukhlifi (chair) with a committee of authors; year: print rights 1438 AH / 2017 CE; no ISBN printed
+- PDF pages: 115 (cover/title page verified against the record title; printed page = PDF page − 2; text layer broken-encoded, read visually from page renders)
+- Verdict: COMPLETE — Part 1 as recorded: 13 lessons in 3 units through printed p. 109 (Unit 3 assessment), a closing heritage thinking card p. 110, and a book-evaluation questionnaire pp. 111–112
+- Tally: 17 placements — 6 to existing lessons, 11 NEW LESSON NEEDED
+- Yemen's own way: Arab Islamic civilisation is told as one continuous story from the Prophet's Medina to the Mamluks, weighed era by era on the same grid — political, administrative, judicial, scientific, economic, military, urban and artistic manifestations — with Yemen placed at the civilisation's heart as a leading source of its spread into Asia, Africa and Europe; the final unit then reads shura, social justice, human rights and ijtihad back out of that history as the roots of democracy, closing in pride in Yemen's own contemporary democratic experience. Slugs first demanded as NEW by earlier books in this wave count as existing here.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Muhammad, Seal of the Prophets — story beats: Muhammad, orphaned and raised by his grandfather and his uncle Abu Talib, known to Quraysh as the Truthful and Trustworthy, receives revelation in Cave Hira at forty, endures thirteen years of persecution in Mecca, then migrates to Medina where the Aws and Khazraj welcome him and the first Islamic state is founded (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Yemen, *التاريخ للصف الخامس من مرحلة التعليم الأساسي (History for Grade 5, Basic Education)*, printed p. 61 |
+| Yemen part — The Islamic call in Mecca — story beats: Muhammad calls Mecca first in secret for three years, then openly for ten, Quraysh torture the weak believers like Ammar ibn Yasir and Bilal, offer his uncle wealth and kingship and are refused, boycott Banu Hashim for three years until termites eat the boycott sheet, and the hunted believers find shelter with the Negus in Abyssinia while the call reaches the tribes at Hajj (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Yemen, *تاريخ العرب الإسلامي للصف السادس من مرحلة التعليم الأساسي (History of the Islamic Arabs for Grade 6, Basic Education)*, printed p. 7 |
+| Yemen part — The Islamic state in Medina — story beats: men of Yathrib pledge at Aqaba in the 11th, 12th and 13th years, Mus'ab is sent to teach them, then the Prophet slips out of Mecca with Ali sleeping in his bed and Abu Bakr at his side, reaches Quba and renames Yathrib Medina, first capital of Islam, and builds the mosque and the brotherhood of Emigrants and Helpers (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Yemen, *تاريخ العرب الإسلامي للصف السادس من مرحلة التعليم الأساسي (History of the Islamic Arabs for Grade 6, Basic Education)*, printed p. 15 |
+| Yemen part — The Prophet's military campaigns — story beats: the young state faces Quraysh, the Jewish tribes, Bedouin, Persians and Romans across 27 expeditions and 73 detachments — Badr in 2 AH where 314 defeat near a thousand, the Trench in 5 AH, Mecca opened in 8 AH after Quraysh break the Hudaybiyya truce, and Tabuk in 9 AH, the last expedition, against the Romans (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Yemen, *تاريخ العرب الإسلامي للصف السادس من مرحلة التعليم الأساسي (History of the Islamic Arabs for Grade 6, Basic Education)*, printed p. 20 |
+| Yemen part — Spread of Islam outside the Arabian Peninsula — story beats: after Hudaybiyya in 6 AH the Prophet writes to the kings — the Negus and Heraclius answer kindly, the Muqawqis sends gifts, Khosrow tears the letter up — then in 10 AH comes the Farewell Pilgrimage and, in this book's telling, the halt at Ghadir Khumm, and the Prophet dies on Monday 12 Rabi I, 11 AH (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Yemen, *تاريخ العرب الإسلامي للصف السادس من مرحلة التعليم الأساسي (History of the Islamic Arabs for Grade 6, Basic Education)*, printed p. 25 |
+| Yemen part — Islamic conquests in the age of the Caliphs and Imams — story beats: after the apostasy wars Abu Bakr's letter summons Mecca, Taif, Yemen and all Arabia, and the armies roll out — Ajnadayn and Yarmouk, Damascus and Jerusalem, Babylon and Alexandria in 21 AH, Iraq from 12 AH to the fall of Ctesiphon in 16 AH and the rest of Persia by 21 AH — with Yemeni tribes, Hamdan, Madhhij, Kinda, Hadramawt and the Azd, fighting at Qadisiyya, Yarmouk and Babylon (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Yemen, *تاريخ العرب الإسلامي للصف السادس من مرحلة التعليم الأساسي (History of the Islamic Arabs for Grade 6, Basic Education)*, printed p. 40 |
+| Yemen part — In the era of Prophethood (Unit 2 Lesson 1, first half) — story beats: in one generation the Prophet builds a state in Medina — the Sahifa constitution of 47 articles ordering Muslims, Jews and tribes in peace and war, scribes and diwans in embryo, zakat, jizya and land-tax finance, the trench dug before the Ahzab battle, a hospital tent in the mosque, the first quarantine order against plague lands, and mosques raised on Yemen's soil at Sanaa and al-Janad — while Yemeni delegations bring Yemen into Islam willingly, without conquest (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Yemen, *تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الأول (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 1)*, printed p. 21 |
+
+Yemen's own way (Book 3 — G5 History (student book, Arabic)): history opens as a chain of prophets — Adam, Noah, Hud, Salih, Ibrahim — told from Qur'anic narrative, then turns to Yemen's own ancient kingdoms and to three foreign occupations (Roman, Abyssinian, Persian) that Yemenis resist, ending at the birth of Islam. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Yemen's own way (Book 4 — G6 History (student book, Arabic)): Islamic history is told with a Zaydi lens — Ali and the Imams stand beside the caliphs in every age, Husayn's stand at Karbala is a turning point, and after each general age a Yemen lesson follows (Yemen in the Prophet's age, Yemen under the caliphs, Yemen's own Zaydi, Sulayhid and Najahid states). That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Yemen's own way (Book 9 — G11 History Part 1 (student book, Arabic)): Arab Islamic civilisation is told as one continuous story from the Prophet's Medina to the Mamluks, weighed era by era on the same grid — political, administrative, judicial, scientific, economic, military, urban and artistic manifestations — with Yemen placed at the civilisation's heart as a leading source of its spread into Asia, Africa and Europe; the final unit then reads shura, social justice, human rights and ijtihad back out of that history as the roots of democracy, closing in pride in Yemen's own contemporary democratic experience. Slugs first demanded as NEW by earlier books in this wave count as existing here. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 23 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam

@@ -1,6 +1,6 @@
 # Sources — Mamluk Egypt
 
-countries: Ethiopia, Egypt, Palestine, Libya
+countries: Ethiopia, Egypt, Palestine, Libya, Yemen
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -94,3 +94,25 @@ Searchable tags: Palestine, Mamluk Egypt, africa-to-1500, History expansion 2026
 Libya's own way (Book 2 — G11 Medieval Arab World (student book, Humanities, Arabic)): the medieval centuries are told as the Arab-Islamic nation's single story — the Prophet, the caliphates, then the Maghreb and al-Andalus with a named section on ruling families inside Libya itself, and a full closing chapter on civilisation (government, society, science, cities) and what it gave Europe. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Egypt, Palestine, Libya).**
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 9 — G11 History Part 1 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الأول (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 1)
+- Grade: Grade 11 / second secondary (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Guidance, Curriculum Sector, General Administration of Curricula; lead author Dr Abd al-Majid Ghalib al-Mukhlifi (chair) with a committee of authors; year: print rights 1438 AH / 2017 CE; no ISBN printed
+- PDF pages: 115 (cover/title page verified against the record title; printed page = PDF page − 2; text layer broken-encoded, read visually from page renders)
+- Verdict: COMPLETE — Part 1 as recorded: 13 lessons in 3 units through printed p. 109 (Unit 3 assessment), a closing heritage thinking card p. 110, and a book-evaluation questionnaire pp. 111–112
+- Tally: 17 placements — 6 to existing lessons, 11 NEW LESSON NEEDED
+- Yemen's own way: Arab Islamic civilisation is told as one continuous story from the Prophet's Medina to the Mamluks, weighed era by era on the same grid — political, administrative, judicial, scientific, economic, military, urban and artistic manifestations — with Yemen placed at the civilisation's heart as a leading source of its spread into Asia, Africa and Europe; the final unit then reads shura, social justice, human rights and ijtihad back out of that history as the roots of democracy, closing in pride in Yemen's own contemporary democratic experience. Slugs first demanded as NEW by earlier books in this wave count as existing here.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — In the Mamluk era (Unit 2 Lesson 5, second half) — story beats: the slave-soldiers the Ayyubids bought kill the last Ayyubid sultan and rule themselves from 648 to 922 AH, Bahri then Burji; they stop the Tatars at Ayn Jalut, revive the Abbasid caliphate in Cairo with its power cut down to blessing sultans, appoint four chief judges, host the scholar-migration that lets Ibn al-Nafis find the lesser circulation of the blood, and exchange fine antiquities even with Yemen's Rasulid kings — until the Ottoman Selim I ends their state (History expansion, 2026-11-15; original placement slug: africa-to-1500/mamluk-egypt) | Yemen, *تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الأول (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 1)*, printed p. 61 |
+
+Yemen's own way (Book 9 — G11 History Part 1 (student book, Arabic)): Arab Islamic civilisation is told as one continuous story from the Prophet's Medina to the Mamluks, weighed era by era on the same grid — political, administrative, judicial, scientific, economic, military, urban and artistic manifestations — with Yemen placed at the civilisation's heart as a leading source of its spread into Asia, Africa and Europe; the final unit then reads shura, social justice, human rights and ijtihad back out of that history as the roots of democracy, closing in pride in Yemen's own contemporary democratic experience. Slugs first demanded as NEW by earlier books in this wave count as existing here. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Palestine, Libya, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, africa-to-1500/mamluk-egypt

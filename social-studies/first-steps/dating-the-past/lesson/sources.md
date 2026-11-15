@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1355,3 +1355,52 @@ Mozambique's own way (Book 4 — PESD II Mod 1 (student book, Portuguese)): The 
 **Acceptance count: taught in 33 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, first-steps/dating-the-past
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 1 — G3 Social Studies (student book, Arabic)**
+- Title as printed: التربية الاجتماعية للصف الثالث من مرحلة التعليم الأساسي (Social Education for Grade 3, Basic Education)
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year approved 10 March 2020 (15 Rajab 1441 AH), cover print 1448 AH; ISBN no ISBN printed
+- PDF pages: 82 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED
+- Yemen's own way: History begins inside the child's own family — naming parents, grandparents, uncles and aunts and their bonds — and with lived time (day, week, Hijri and Gregorian years) before any nation or past civilisation appears.
+- Non-History parts named, not placed: Civics — Unit 1 Lessons 2-4 Relations in my family / Kindness in the family / My house, printed pp. 12-23; Unit 2 My mosque and my school (all 4 lessons), pp. 26-42; Unit 3 Lessons 2-4 My neighbours / Professions of residents in city or village / Cleanliness of my neighbourhood and village, pp. 50-59. Geography — Unit 3 Lesson 1 Place of residence, p. 47; Unit 4 Lessons 1-3 Cardinal directions / The Earth / The four seasons, pp. 63-72.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+**Book 5 — G7 History Part 1 (student book, Arabic)**
+- Title as printed: التاريخ للصف السابع من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 7, Basic Education — Part 1)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year experimental edition 1446 AH / 2025 CE; ISBN no ISBN printed
+- PDF pages: 130 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets; this Part 1 file in fact carries both terms' units, Semesters 1 and 2, through printed p. 129)
+- Verdict: COMPLETE
+- Tally: 21 placements — 13 to existing lessons, 8 NEW LESSON NEEDED (placements to slugs first demanded by the Grade 5 book in this same wave are counted as existing here)
+- Yemen's own way: the preface states the method outright — history is read through the Qur'an as the truest document, prophets are the spine of every age, civilisations rise by justice and God's unity and fall by injustice, and the point is Yemeni faith identity; each prophet's story is told in full narrative scenes with pictures, then mined for lessons.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+**Book 8 — G10 History Part 1 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)
+- Grade: Grade 10 / first secondary (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector; year: print rights 1447 AH / 2026 CE (new-look edition); no ISBN printed
+- PDF pages: 176 (cover/title page verified against the record title; printed page = PDF page)
+- Verdict: COMPLETE — although the record says Part 1, the file carries BOTH terms' units: 24 lessons in 6 units through printed p. 170, references pp. 171–172, and a closing general-guidance appendix on understanding the ages of history and dating events, pp. 173–176
+- Tally: 27 placements — 14 to existing lessons, 13 NEW LESSON NEEDED
+- Yemen's own way: the whole ancient world is told as one story of civilisational interaction whose heart is the ancient ARAB civilisations, with Yemen as the Arabs' southern gateway, first homeland and the first source of the Semitic migrations; every civilisation is weighed on the same grid — factors of rise, then political, economic, social, religious, intellectual and urban manifestations, then its relations with the Arabs — and the Qur'an is cited as testimony (Saba's shura, the Nabataeans' rock-cut houses). Slugs first demanded as NEW by earlier books in this wave count as existing here.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Time — story beats: time is built up from 24 hours in a day and 7 days in a week to 12 months in a year, and the two year-counts are anchored to two journeys — the Hijri year to Muhammad's migration from Mecca to Medina, the Gregorian year to the birth of Jesus (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Yemen, *التربية الاجتماعية للصف الثالث من مرحلة التعليم الأساسي (Social Education for Grade 3, Basic Education)*, printed p. 73 |
+| Yemen part — Importance of studying history (terms and timeline) — story beats: the lesson arms the student with its clocks — prehistory known only by word of mouth, BCE and CE counted from the birth of Jesus, "before the Mission" and the Hijri calendar from the Prophet's migration — and ends with the student drawing a timeline from Jesus' birth through the Mission and the Hijra to the present year (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Yemen, *التاريخ للصف السابع من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 7, Basic Education — Part 1)*, printed p. 11 |
+| Yemen part — Closing guidance appendix: how we understand the ages of history and date events — story beats: the book closes by teaching its own method — historians date by two reckonings, the Miladi from Isa's birth (BCE before it, CE after) and the Hijri from the Prophet's migration in 622 CE (AH before/after the Hijra); time itself is read in three dimensions, past, present and future, and human history divides into the pre-literate ages (stone, farming, metal) and the written ages — ancient (from ~5000 BCE to Islam's appearance), medieval, modern (from 1492) and contemporary — under the motto printed on the last page: whoever has no past has no present, and whoever has no present has no future (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Yemen, *تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)*, printed p. 173 |
+
+Yemen's own way (Book 1 — G3 Social Studies (student book, Arabic)): History begins inside the child's own family — naming parents, grandparents, uncles and aunts and their bonds — and with lived time (day, week, Hijri and Gregorian years) before any nation or past civilisation appears. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Yemen's own way (Book 5 — G7 History Part 1 (student book, Arabic)): the preface states the method outright — history is read through the Qur'an as the truest document, prophets are the spine of every age, civilisations rise by justice and God's unity and fall by injustice, and the point is Yemeni faith identity; each prophet's story is told in full narrative scenes with pictures, then mined for lessons. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whole ancient world is told as one story of civilisational interaction whose heart is the ancient ARAB civilisations, with Yemen as the Arabs' southern gateway, first homeland and the first source of the Semitic migrations; every civilisation is weighed on the same grid — factors of rise, then political, economic, social, religious, intellectual and urban manifestations, then its relations with the Arabs — and the Qur'an is cited as testimony (Saba's shura, the Nabataeans' rock-cut houses). Slugs first demanded as NEW by earlier books in this wave count as existing here. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 34 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, first-steps/dating-the-past

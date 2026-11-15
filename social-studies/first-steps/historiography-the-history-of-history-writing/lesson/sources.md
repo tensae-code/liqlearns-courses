@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -344,3 +344,38 @@ Mozambique's own way (Book 4 — PESD II Mod 1 (student book, Portuguese)): The 
 **Acceptance count: taught in 13 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, first-steps/historiography-the-history-of-history-writing
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 6 — G8 History Part 1 (student book, Arabic)**
+- Title as printed: التاريخ للصف الثامن من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 8, Basic Education — Part 1)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year experimental edition 1446 AH / 2026 CE; ISBN no ISBN printed
+- PDF pages: 129 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets; this Part 1 file carries both terms' units through printed p. 128)
+- Verdict: COMPLETE
+- Tally: 19 placements — 6 to existing lessons, 13 NEW LESSON NEEDED
+- Yemen's own way: the same Qur'an-centred method, now applied to the Israelite story at length — Yusuf, Musa, Dawud, Sulayman — with Bilqis and the Tubba' As'ad al-Kamil pulling Yemen into the sacred story, and a closing wall-chart that lines all of history up as one confrontation between truth and falsehood from Adam to the present day.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+**Book 10 — G11 History Part 2 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الثاني (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 2)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Guidance, Curriculum Sector, General Administration of Curricula; authoring committee chaired by Dr Abd al-Majid Ghalib al-Mukhlifi; print 1443 AH / 2022 CE (content edition 1438 AH / 2017 CE); no ISBN printed
+- PDF pages: 113 (cover/title page verified against the record title; printed page = PDF page − 2; text layer broken-encoded, read visually page by page)
+- Verdict: COMPLETE
+- Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED
+- Yemen's own way: Part 2 keeps Yemen at the centre of the whole Arab Islamic civilisation — its first unit is devoted entirely to Yemen's own role (conquerors, callers, states, scholars), and even the outside-the-homeland units keep routing the story through Yemeni merchants, sailors and emigrants; the book ends by weighing why the civilisation's science rose, what it gave Europe, and why it faded.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — How do you read history? (misreadings) — story beats: the lesson names the wrong ways to read the past — blind dazzlement by glittering appearances like today's West, attaching oneself to misguided people, and repeating old mistakes, as when the Israelites' deviation is repeated by those who fight America and Israel without learning from it (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Yemen, *التاريخ للصف الثامن من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 8, Basic Education — Part 1)*, printed p. 11 |
+| Yemen part — Manifestations of the scientific renaissance: the science of history (Unit 6 Lesson 2, history part) — story beats: history grows out of the Prophet's sira, the maghazi, the storytellers and genealogy, through al-Tabari, al-Baladhuri and al-Ya'qubi, until Ibn Khaldun's Muqaddima founds the philosophy of history — the book insists he precedes Spencer's organic reading, Marx's economic reading and Comte's social reading, and that Europe, which then knew only chroniclers, finds in him a Descartes and a Montesquieu three centuries early (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Yemen, *تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الثاني (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 2)*, printed p. 88 |
+
+Yemen's own way (Book 6 — G8 History Part 1 (student book, Arabic)): the same Qur'an-centred method, now applied to the Israelite story at length — Yusuf, Musa, Dawud, Sulayman — with Bilqis and the Tubba' As'ad al-Kamil pulling Yemen into the sacred story, and a closing wall-chart that lines all of history up as one confrontation between truth and falsehood from Adam to the present day. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Yemen's own way (Book 10 — G11 History Part 2 (student book, Arabic)): Part 2 keeps Yemen at the centre of the whole Arab Islamic civilisation — its first unit is devoted entirely to Yemen's own role (conquerors, callers, states, scholars), and even the outside-the-homeland units keep routing the story through Yemeni merchants, sailors and emigrants; the book ends by weighing why the civilisation's science rose, what it gave Europe, and why it faded. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, first-steps/historiography-the-history-of-history-writing

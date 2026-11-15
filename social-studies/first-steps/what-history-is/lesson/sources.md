@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1045,3 +1045,66 @@ Mozambique's own way (Book 4 — PESD II Mod 1 (student book, Portuguese)): The 
 **Acceptance count: taught in 37 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, first-steps/what-history-is
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 1 — G3 Social Studies (student book, Arabic)**
+- Title as printed: التربية الاجتماعية للصف الثالث من مرحلة التعليم الأساسي (Social Education for Grade 3, Basic Education)
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year approved 10 March 2020 (15 Rajab 1441 AH), cover print 1448 AH; ISBN no ISBN printed
+- PDF pages: 82 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED
+- Yemen's own way: History begins inside the child's own family — naming parents, grandparents, uncles and aunts and their bonds — and with lived time (day, week, Hijri and Gregorian years) before any nation or past civilisation appears.
+- Non-History parts named, not placed: Civics — Unit 1 Lessons 2-4 Relations in my family / Kindness in the family / My house, printed pp. 12-23; Unit 2 My mosque and my school (all 4 lessons), pp. 26-42; Unit 3 Lessons 2-4 My neighbours / Professions of residents in city or village / Cleanliness of my neighbourhood and village, pp. 50-59. Geography — Unit 3 Lesson 1 Place of residence, p. 47; Unit 4 Lessons 1-3 Cardinal directions / The Earth / The four seasons, pp. 63-72.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+**Book 5 — G7 History Part 1 (student book, Arabic)**
+- Title as printed: التاريخ للصف السابع من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 7, Basic Education — Part 1)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year experimental edition 1446 AH / 2025 CE; ISBN no ISBN printed
+- PDF pages: 130 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets; this Part 1 file in fact carries both terms' units, Semesters 1 and 2, through printed p. 129)
+- Verdict: COMPLETE
+- Tally: 21 placements — 13 to existing lessons, 8 NEW LESSON NEEDED (placements to slugs first demanded by the Grade 5 book in this same wave are counted as existing here)
+- Yemen's own way: the preface states the method outright — history is read through the Qur'an as the truest document, prophets are the spine of every age, civilisations rise by justice and God's unity and fall by injustice, and the point is Yemeni faith identity; each prophet's story is told in full narrative scenes with pictures, then mined for lessons.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+**Book 6 — G8 History Part 1 (student book, Arabic)**
+- Title as printed: التاريخ للصف الثامن من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 8, Basic Education — Part 1)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year experimental edition 1446 AH / 2026 CE; ISBN no ISBN printed
+- PDF pages: 129 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets; this Part 1 file carries both terms' units through printed p. 128)
+- Verdict: COMPLETE
+- Tally: 19 placements — 6 to existing lessons, 13 NEW LESSON NEEDED
+- Yemen's own way: the same Qur'an-centred method, now applied to the Israelite story at length — Yusuf, Musa, Dawud, Sulayman — with Bilqis and the Tubba' As'ad al-Kamil pulling Yemen into the sacred story, and a closing wall-chart that lines all of history up as one confrontation between truth and falsehood from Adam to the present day.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+**Book 8 — G10 History Part 1 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)
+- Grade: Grade 10 / first secondary (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector; year: print rights 1447 AH / 2026 CE (new-look edition); no ISBN printed
+- PDF pages: 176 (cover/title page verified against the record title; printed page = PDF page)
+- Verdict: COMPLETE — although the record says Part 1, the file carries BOTH terms' units: 24 lessons in 6 units through printed p. 170, references pp. 171–172, and a closing general-guidance appendix on understanding the ages of history and dating events, pp. 173–176
+- Tally: 27 placements — 14 to existing lessons, 13 NEW LESSON NEEDED
+- Yemen's own way: the whole ancient world is told as one story of civilisational interaction whose heart is the ancient ARAB civilisations, with Yemen as the Arabs' southern gateway, first homeland and the first source of the Semitic migrations; every civilisation is weighed on the same grid — factors of rise, then political, economic, social, religious, intellectual and urban manifestations, then its relations with the Arabs — and the Qur'an is cited as testimony (Saba's shura, the Nabataeans' rock-cut houses). Slugs first demanded as NEW by earlier books in this wave count as existing here.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — My family and my relatives — story beats: a child counts and names the people who make his family — grandfather, grandmother, father, mother, brothers and sisters — and learns uncles and aunts are the wider kin who hold it together (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Yemen, *التربية الاجتماعية للصف الثالث من مرحلة التعليم الأساسي (Social Education for Grade 3, Basic Education)*, printed p. 7 |
+| Yemen part — Importance of studying history — story beats: history is defined as the science of past events studied for their lessons, heritage is everything the ancients left in buildings, language, knowledge and custom, and the student learns why nations that turn from justice fall, however strong they were (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Yemen, *التاريخ للصف السابع من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 7, Basic Education — Part 1)*, printed p. 10 |
+| Yemen part — How do you read history? — story beats: reading history is not collecting what happened but tying events to the laws that raise and fell civilisations — guided ones flourish on justice, deviating ones decline however strong — with Sulayman's kingdom, which carried Bilqis's throne in the blink of an eye, as the proof of what a guided civilisation can reach (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Yemen, *التاريخ للصف الثامن من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 8, Basic Education — Part 1)*, printed p. 10 |
+| Yemen part — Historical summary from Adam to Ibrahim — story beats: one lesson sweeps the whole Grade 7 course into a single thread — Adam's mission, Idris's pen, Noah's 950 years and the flood, the first communities in south Arabia with Sanaa as the first city built, 'Ad destroyed by the barren wind and its survivors seeding Marib, Sanaa, Hadramawt and Tihama, Thamud felled by shout and earthquake, the Yemeni kingdoms, and Ibrahim facing Nimrod and rebuilding the Kaaba (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Yemen, *التاريخ للصف الثامن من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 8, Basic Education — Part 1)*, printed p. 15 |
+| Yemen part — Historical and time concepts — story beats: history is defined as the science that studies the past to uncover causes, relations and consequences and draw lessons for present and future; the age before writing (to ~3500 BCE) is prehistory, known through stories and remains, and history proper then runs ancient, medieval, modern, contemporary — with the "ancient era" ending at Rome's fall in 476 CE for European historians but at the Prophet's mission for Muslim historians (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Yemen, *تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)*, printed p. 8 |
+
+Yemen's own way (Book 1 — G3 Social Studies (student book, Arabic)): History begins inside the child's own family — naming parents, grandparents, uncles and aunts and their bonds — and with lived time (day, week, Hijri and Gregorian years) before any nation or past civilisation appears. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Yemen's own way (Book 5 — G7 History Part 1 (student book, Arabic)): the preface states the method outright — history is read through the Qur'an as the truest document, prophets are the spine of every age, civilisations rise by justice and God's unity and fall by injustice, and the point is Yemeni faith identity; each prophet's story is told in full narrative scenes with pictures, then mined for lessons. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Yemen's own way (Book 6 — G8 History Part 1 (student book, Arabic)): the same Qur'an-centred method, now applied to the Israelite story at length — Yusuf, Musa, Dawud, Sulayman — with Bilqis and the Tubba' As'ad al-Kamil pulling Yemen into the sacred story, and a closing wall-chart that lines all of history up as one confrontation between truth and falsehood from Adam to the present day. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whole ancient world is told as one story of civilisational interaction whose heart is the ancient ARAB civilisations, with Yemen as the Arabs' southern gateway, first homeland and the first source of the Semitic migrations; every civilisation is weighed on the same grid — factors of rise, then political, economic, social, religious, intellectual and urban manifestations, then its relations with the Arabs — and the Qur'an is cited as testimony (Saba's shura, the Nabataeans' rock-cut houses). Slugs first demanded as NEW by earlier books in this wave count as existing here. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 38 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, first-steps/what-history-is

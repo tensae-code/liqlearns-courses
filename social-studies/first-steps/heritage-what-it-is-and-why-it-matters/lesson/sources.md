@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -1380,3 +1380,38 @@ Samoa's own way (Book 9 — y11-book-2 (Social Studies, Year 11 Book Two)): Neig
 **Acceptance count: taught in 37 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, first-steps/heritage-what-it-is-and-why-it-matters
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 9 — G11 History Part 1 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الأول (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 1)
+- Grade: Grade 11 / second secondary (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Guidance, Curriculum Sector, General Administration of Curricula; lead author Dr Abd al-Majid Ghalib al-Mukhlifi (chair) with a committee of authors; year: print rights 1438 AH / 2017 CE; no ISBN printed
+- PDF pages: 115 (cover/title page verified against the record title; printed page = PDF page − 2; text layer broken-encoded, read visually from page renders)
+- Verdict: COMPLETE — Part 1 as recorded: 13 lessons in 3 units through printed p. 109 (Unit 3 assessment), a closing heritage thinking card p. 110, and a book-evaluation questionnaire pp. 111–112
+- Tally: 17 placements — 6 to existing lessons, 11 NEW LESSON NEEDED
+- Yemen's own way: Arab Islamic civilisation is told as one continuous story from the Prophet's Medina to the Mamluks, weighed era by era on the same grid — political, administrative, judicial, scientific, economic, military, urban and artistic manifestations — with Yemen placed at the civilisation's heart as a leading source of its spread into Asia, Africa and Europe; the final unit then reads shura, social justice, human rights and ijtihad back out of that history as the roots of democracy, closing in pride in Yemen's own contemporary democratic experience. Slugs first demanded as NEW by earlier books in this wave count as existing here.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+**Book 10 — G11 History Part 2 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الثاني (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 2)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Guidance, Curriculum Sector, General Administration of Curricula; authoring committee chaired by Dr Abd al-Majid Ghalib al-Mukhlifi; print 1443 AH / 2022 CE (content edition 1438 AH / 2017 CE); no ISBN printed
+- PDF pages: 113 (cover/title page verified against the record title; printed page = PDF page − 2; text layer broken-encoded, read visually page by page)
+- Verdict: COMPLETE
+- Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED
+- Yemen's own way: Part 2 keeps Yemen at the centre of the whole Arab Islamic civilisation — its first unit is devoted entirely to Yemen's own role (conquerors, callers, states, scholars), and even the outside-the-homeland units keep routing the story through Yemeni merchants, sailors and emigrants; the book ends by weighing why the civilisation's science rose, what it gave Europe, and why it faded.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Closing thinking card: protecting the heritage (end matter) — story beats: the book closes by turning heritage into a duty for every pupil: the Arab Islamic civilisation is a source of inspiration for human civilisation, its sanctities are beacons uniting the umma, its historic cities are priceless treasures and its manuscripts a wealth not to be slighted, there is no development without tourism and no tourism without antiquities, and protecting sanctities, historic cities, manuscripts and antiquities is everyone's duty (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Yemen, *تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الأول (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 1)*, printed p. 110 |
+| Yemen part — Closing heritage card (end matter) — story beats: the book closes with the same charge as Part 1: the Arab Islamic civilisation is a source of inspiration for human civilisation, its historic cities are priceless treasures and its manuscripts a wealth not to be slighted, there is no tourism without antiquities, and protecting sanctities, historic cities, manuscripts and antiquities is everyone's duty (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Yemen, *تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الثاني (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 2)*, printed p. 112 |
+
+Yemen's own way (Book 9 — G11 History Part 1 (student book, Arabic)): Arab Islamic civilisation is told as one continuous story from the Prophet's Medina to the Mamluks, weighed era by era on the same grid — political, administrative, judicial, scientific, economic, military, urban and artistic manifestations — with Yemen placed at the civilisation's heart as a leading source of its spread into Asia, Africa and Europe; the final unit then reads shura, social justice, human rights and ijtihad back out of that history as the roots of democracy, closing in pride in Yemen's own contemporary democratic experience. Slugs first demanded as NEW by earlier books in this wave count as existing here. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Yemen's own way (Book 10 — G11 History Part 2 (student book, Arabic)): Part 2 keeps Yemen at the centre of the whole Arab Islamic civilisation — its first unit is devoted entirely to Yemen's own role (conquerors, callers, states, scholars), and even the outside-the-homeland units keep routing the story through Yemeni merchants, sailors and emigrants; the book ends by weighing why the civilisation's science rose, what it gave Europe, and why it faded. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 38 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, first-steps/heritage-what-it-is-and-why-it-matters

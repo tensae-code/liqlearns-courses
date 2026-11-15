@@ -1,6 +1,6 @@
 # Sources — Arab-Islamic civilisation — science, literature and art
 
-countries: Egypt, Libya
+countries: Egypt, Libya, Yemen
 
 **Book 4:** *الدراسات الاجتماعية — مصر وعلاقتها بآسيا وأوروبا (الأرض والحضارة والتنمية) (Social Studies — Egypt and its Relations with Asia and Europe: Land, Civilisation and Development)* (student book, Arabic) — Egypt. Grade: Grade 8 (Second Preparatory), Term 1 (student book). Publisher: Ministry of Education and Technical Education, Egypt (Educational Content Sector; Salah al-Talameezh); year 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 106 (printed folios match the contents page numbers; image-only scan read as 4-up page sheets; the History units read in full, Geography units identified from the contents). Source note: the targets marked this book in_pushed, but it is absent from the repo tree — it was read from its recorded ministry source_url at the exact recorded size, and the PDF has been staged at its recorded phase3-staging path under the push-don't-delete rule. Verdict: COMPLETE (History parts). Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1, Natural Features of the Continents of Asia and Europe (location and surface features; minerals and energy sources) and Unit 3, Environmental Systems in Asia and Europe (forest systems, grassland and desert systems, water environmental systems) — Geography. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -57,3 +57,25 @@ Libya's own way (Book 2 — G11 Medieval Arab World (student book, Humanities, A
 Libya's own way (Book 6 — G8 Islamic History (student book, Arabic)): the Islamic centuries are told from Arabia outward, but Libya keeps appearing at the hinge points — the conquest road west, the Aghlabid and Fatimid Maghreb, Spain in Tripoli, and the Senussi zawiyas that school the Sahara. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Egypt, Libya).**
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 4 — G6 History (student book, Arabic)**
+- Title as printed: تاريخ العرب الإسلامي للصف السادس من مرحلة التعليم الأساسي (History of the Islamic Arabs for Grade 6, Basic Education)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year 1447 AH / 2026 CE on cover; ISBN no ISBN printed
+- PDF pages: 97 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets)
+- Verdict: COMPLETE
+- Tally: 21 placements — 11 to existing lessons, 10 NEW LESSON NEEDED
+- Yemen's own way: Islamic history is told with a Zaydi lens — Ali and the Imams stand beside the caliphs in every age, Husayn's stand at Karbala is a turning point, and after each general age a Yemen lesson follows (Yemen in the Prophet's age, Yemen under the caliphs, Yemen's own Zaydi, Sulayhid and Najahid states).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Social and cultural manifestations — story beats: the new society rests on piety, equality and brotherhood and lifts women from their pre-Islamic low place to rights of learning, opinion and property, while a Qur'anic culture grows sciences of its own — Arabic grammar, the science of history born from the need to know the Prophet's life, and geography for trade routes, the Hajj and the direction of prayer (History expansion, 2026-11-15; original placement slug: ancient-world/islamic-civilisation-dome-ink-and-algebra) | Yemen, *تاريخ العرب الإسلامي للصف السادس من مرحلة التعليم الأساسي (History of the Islamic Arabs for Grade 6, Basic Education)*, printed p. 85 |
+
+Yemen's own way (Book 4 — G6 History (student book, Arabic)): Islamic history is told with a Zaydi lens — Ali and the Imams stand beside the caliphs in every age, Husayn's stand at Karbala is a turning point, and after each general age a Yemen lesson follows (Yemen in the Prophet's age, Yemen under the caliphs, Yemen's own Zaydi, Sulayhid and Najahid states). That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Egypt, Libya, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/arab-islamic-civilisation-science-literature-and-art

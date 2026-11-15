@@ -1,0 +1,6 @@
+# Competition of foreign powers over Yemen — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its sub lessons. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view. Parts are ordered as the book teaches them, as stocked.
+
+## Sub lesson 1 — Competition of foreign powers over Yemen
+Sub lesson 1 questions from the type files. Pass mark: retell this part in your own words — for four centuries Yemen's position makes it a prize fought over in turn — the Portuguese (1507-1523) grabbing at Socotra, Aden and al-Shihr and diverting trade to the Cape; the Dutch (1614-1762) monopolising Yemeni coffee and transplanting it to the East Indies, the Caribbean and Brazil, ruining the trade at its source; the French of Saint-Malo (1708-1712) sinking a ship to squeeze a treaty out of al-Makha's amir; Danish scholars in 1763 publishing Yemen to Europe; and Britain outlasting them all — yet Yemeni resistance foils every attempt but one: Socotra's Portuguese expelled at the cost of 217 martyrs, Aden and al-Shihr and al-Makha holding out campaign after campaign, until only Britain's Aden, taken in 1839, endures — and even that is fought without pause until the revolutions of 1962 and 1963 drive the British out in 1967

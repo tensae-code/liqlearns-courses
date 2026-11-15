@@ -1,0 +1,11 @@
+# Stages of Ottoman rule in Yemen — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** This part of the story is mainly about —
+a) Stages of Ottoman rule in Yemen  b) a different part of this story, told in another lesson of this expansion  c) a different part of this story, told in another lesson of this expansion
+**Answer: a) Stages of Ottoman rule in Yemen** — this part tells Stages of Ottoman rule in Yemen
+
+**2. (Sub lesson 1)** Which of these belongs in this part of the story?
+a) yemen matters to Istanbul for its grip on the trade routes, the keys of the southern seas and Socotra, its coffee, and its place as the forward shield of the holy cities against the Portuguese-Abyssinian alliance; Sulayman Pasha al-Khadim's fleet of eighty ships and twenty thousand men takes al-Shihr by submission and Aden by treachery in 1538 — Sultan Amir bin Dawud, welcomed aboard, is hanged from a mast for three days — Sanaa follows in 1547 and is retaken by Sinan Pasha in 1570, yet the first rule never grips more than the coast before the Imams expel it in 1635; two centuries of Qasimi independence later, weakness and the new Suez Canal tempt the empire back — al-Hudayda in 1849, Ahmad Mukhtar Pasha in Sanaa in 1872 — and the second rule repeats the first's violence, taxes and broken treaties until defeat in 1918 ends it  b) a different part of this story, told in another lesson of this expansion
+**Answer: a)** — yemen matters to Istanbul for its grip on the trade routes, the keys of the southern seas and Socotra, its coffee, and its place as the forward shield of the holy cities against the Portuguese-Abyssinian alliance; Sulayman Pasha al-Khadim's fleet of eighty ships and twenty thousand men takes al-Shihr by submission and Aden by treachery in 1538 — Sultan Amir bin Dawud, welcomed aboard, is hanged from a mast for three days — Sanaa follows in 1547 and is retaken by Sinan Pasha in 1570, yet the first rule never grips more than the coast before the Imams expel it in 1635; two centuries of Qasimi independence later, weakness and the new Suez Canal tempt the empire back — al-Hudayda in 1849, Ahmad Mukhtar Pasha in Sanaa in 1872 — and the second rule repeats the first's violence, taxes and broken treaties until defeat in 1918 ends it

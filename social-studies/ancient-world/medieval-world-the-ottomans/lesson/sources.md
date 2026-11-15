@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Ottomans
 
-countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya
+countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -284,3 +284,25 @@ Libya's own way (Book 5 — G9 Modern and Contemporary History of Libya (student
 Libya's own way (Book 8 — G6 Social Studies (History and Geography) (student book, Arabic) — COMBINED): the whole modern national story — Ottoman province, Karamanli state, Italian invasion, republic, Mukhtar, liberation, kingdom — is taught to eleven-year-olds as Libya's own continuous story. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya).**
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 10 — G11 History Part 2 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الثاني (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 2)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Guidance, Curriculum Sector, General Administration of Curricula; authoring committee chaired by Dr Abd al-Majid Ghalib al-Mukhlifi; print 1443 AH / 2022 CE (content edition 1438 AH / 2017 CE); no ISBN printed
+- PDF pages: 113 (cover/title page verified against the record title; printed page = PDF page − 2; text layer broken-encoded, read visually page by page)
+- Verdict: COMPLETE
+- Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED
+- Yemen's own way: Part 2 keeps Yemen at the centre of the whole Arab Islamic civilisation — its first unit is devoted entirely to Yemen's own role (conquerors, callers, states, scholars), and even the outside-the-homeland units keep routing the story through Yemeni merchants, sailors and emigrants; the book ends by weighing why the civilisation's science rose, what it gave Europe, and why it faded.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Islamic civilisation in Anatolia (Unit 5 Lesson 3) — story beats: at Manzikert in 462 AH the Seljuks capture the Byzantine emperor and open Anatolia; the Seljuk state of Rum spreads Islam, then Ertugrul's migrant tribe founds the Ottoman emirate in the northwest, absorbs the beyliks by marriage, purchase and war, orders society into soldiers, scholars, taxpayers and protected dhimmis under the millet system, and Muhammad al-Fatih grades the schools and stocks a library of 12,000 volumes (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Yemen, *تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الثاني (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 2)*, printed p. 54 |
+
+Yemen's own way (Book 10 — G11 History Part 2 (student book, Arabic)): Part 2 keeps Yemen at the centre of the whole Arab Islamic civilisation — its first unit is devoted entirely to Yemen's own role (conquerors, callers, states, scholars), and even the outside-the-homeland units keep routing the story through Yemeni merchants, sailors and emigrants; the book ends by weighing why the civilisation's science rose, what it gave Europe, and why it faded. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/medieval-world-the-ottomans

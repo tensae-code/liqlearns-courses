@@ -1,6 +1,6 @@
 # Sources — Trade routes that linked the old world
 
-countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq
+countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -316,3 +316,38 @@ Iraq's own way (Book 7 — iq-g10 History of Arab-Islamic Civilisation (student 
 **Acceptance count: taught in 12 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/trade-routes-that-linked-the-old-world
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 3 — G5 History (student book, Arabic)**
+- Title as printed: التاريخ للصف الخامس من مرحلة التعليم الأساسي (History for Grade 5, Basic Education)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year 1447 AH / 2026 CE on cover (new-look edition); ISBN no ISBN printed
+- PDF pages: 66 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets)
+- Verdict: COMPLETE
+- Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED
+- Yemen's own way: history opens as a chain of prophets — Adam, Noah, Hud, Salih, Ibrahim — told from Qur'anic narrative, then turns to Yemen's own ancient kingdoms and to three foreign occupations (Roman, Abyssinian, Persian) that Yemenis resist, ending at the birth of Islam.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+**Book 4 — G6 History (student book, Arabic)**
+- Title as printed: تاريخ العرب الإسلامي للصف السادس من مرحلة التعليم الأساسي (History of the Islamic Arabs for Grade 6, Basic Education)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year 1447 AH / 2026 CE on cover; ISBN no ISBN printed
+- PDF pages: 97 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets)
+- Verdict: COMPLETE
+- Tally: 21 placements — 11 to existing lessons, 10 NEW LESSON NEEDED
+- Yemen's own way: Islamic history is told with a Zaydi lens — Ali and the Imams stand beside the caliphs in every age, Husayn's stand at Karbala is a turning point, and after each general age a Yemen lesson follows (Yemen in the Prophet's age, Yemen under the caliphs, Yemen's own Zaydi, Sulayhid and Najahid states).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Causes of foreign ambitions in Yemen — story beats: Yemen sits in the south of Arabia between the Red Sea, the Arabian Sea and the Indian Ocean astride the trade route between Asia, Africa and Europe, and its frankincense, myrrh, gold and silver make empire after empire covet it (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Yemen, *التاريخ للصف الخامس من مرحلة التعليم الأساسي (History for Grade 5, Basic Education)*, printed p. 42 |
+| Yemen part — Trade and industry in the Islamic state — story beats: one vast secure state joins the world's land and sea trade roads, frees merchants from customs between its provinces, and its crafts flourish on the science behind them — swords, glass, pottery, medicines, jewellery, leather, carpets and ships (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Yemen, *تاريخ العرب الإسلامي للصف السادس من مرحلة التعليم الأساسي (History of the Islamic Arabs for Grade 6, Basic Education)*, printed p. 91 |
+
+Yemen's own way (Book 3 — G5 History (student book, Arabic)): history opens as a chain of prophets — Adam, Noah, Hud, Salih, Ibrahim — told from Qur'anic narrative, then turns to Yemen's own ancient kingdoms and to three foreign occupations (Roman, Abyssinian, Persian) that Yemenis resist, ending at the birth of Islam. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Yemen's own way (Book 4 — G6 History (student book, Arabic)): Islamic history is told with a Zaydi lens — Ali and the Imams stand beside the caliphs in every age, Husayn's stand at Karbala is a turning point, and after each general age a Yemen lesson follows (Yemen in the Prophet's age, Yemen under the caliphs, Yemen's own Zaydi, Sulayhid and Najahid states). That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/trade-routes-that-linked-the-old-world

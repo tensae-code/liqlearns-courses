@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -617,3 +617,25 @@ Mozambique's own way (Book 1 — PESD I Mod 1 (student book, Portuguese)): Self-
 **Acceptance count: taught in 22 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamia
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 5 — G7 History Part 1 (student book, Arabic)**
+- Title as printed: التاريخ للصف السابع من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 7, Basic Education — Part 1)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year experimental edition 1446 AH / 2025 CE; ISBN no ISBN printed
+- PDF pages: 130 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets; this Part 1 file in fact carries both terms' units, Semesters 1 and 2, through printed p. 129)
+- Verdict: COMPLETE
+- Tally: 21 placements — 13 to existing lessons, 8 NEW LESSON NEEDED (placements to slugs first demanded by the Grade 5 book in this same wave are counted as existing here)
+- Yemen's own way: the preface states the method outright — history is read through the Qur'an as the truest document, prophets are the spine of every age, civilisations rise by justice and God's unity and fall by injustice, and the point is Yemeni faith identity; each prophet's story is told in full narrative scenes with pictures, then mined for lessons.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Civilisation of Mesopotamia (3500-539 BCE) — story beats: between Tigris and Euphrates, fed by migrations out of south Arabia, states succeed one another — Sumer with its cuneiform, Akkad under Sargon, Babylon under Hammurabi and his written laws, Assyria with Ashurbanipal's library, and Babylon again under Nebuchadnezzar of the Hanging Gardens, who takes Jerusalem — until the last Babylonian state falls to the Achaemenid Persians in 539 BCE, each fall laid, in the book's reading, to injustice and turning from God's path (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Yemen, *التاريخ للصف السابع من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 7, Basic Education — Part 1)*, printed p. 94 |
+
+Yemen's own way (Book 5 — G7 History Part 1 (student book, Arabic)): the preface states the method outright — history is read through the Qur'an as the truest document, prophets are the spine of every age, civilisations rise by justice and God's unity and fall by injustice, and the point is Yemeni faith identity; each prophet's story is told in full narrative scenes with pictures, then mined for lessons. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 23 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamia

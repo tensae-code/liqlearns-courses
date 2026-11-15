@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -890,3 +890,26 @@ Mozambique's own way (Book 1 — PESD I Mod 1 (student book, Portuguese)): Self-
 **Acceptance count: taught in 23 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 1 — G3 Social Studies (student book, Arabic)**
+- Title as printed: التربية الاجتماعية للصف الثالث من مرحلة التعليم الأساسي (Social Education for Grade 3, Basic Education)
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year approved 10 March 2020 (15 Rajab 1441 AH), cover print 1448 AH; ISBN no ISBN printed
+- PDF pages: 82 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED
+- Yemen's own way: History begins inside the child's own family — naming parents, grandparents, uncles and aunts and their bonds — and with lived time (day, week, Hijri and Gregorian years) before any nation or past civilisation appears.
+- Non-History parts named, not placed: Civics — Unit 1 Lessons 2-4 Relations in my family / Kindness in the family / My house, printed pp. 12-23; Unit 2 My mosque and my school (all 4 lessons), pp. 26-42; Unit 3 Lessons 2-4 My neighbours / Professions of residents in city or village / Cleanliness of my neighbourhood and village, pp. 50-59. Geography — Unit 3 Lesson 1 Place of residence, p. 47; Unit 4 Lessons 1-3 Cardinal directions / The Earth / The four seasons, pp. 63-72.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — My family and my relatives (relatives section) — story beats: the child writes the names of his paternal and maternal uncles, aunts and grandfather, and sees the family on Eid gathered with relatives he does not live with (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Yemen, *التربية الاجتماعية للصف الثالث من مرحلة التعليم الأساسي (Social Education for Grade 3, Basic Education)*, printed p. 9 |
+
+Yemen's own way (Book 1 — G3 Social Studies (student book, Arabic)): History begins inside the child's own family — naming parents, grandparents, uncles and aunts and their bonds — and with lived time (day, week, Hijri and Gregorian years) before any nation or past civilisation appears. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 24 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality

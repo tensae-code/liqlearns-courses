@@ -1,6 +1,6 @@
 # Sources — West African Empires — Songhai
 
-countries: Ethiopia, Mauritania, Mozambique
+countries: Ethiopia, Mauritania, Mozambique, Yemen
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 87).
 
@@ -80,3 +80,25 @@ Mozambique's own way (Book 1 — PESD I Mod 1 (student book, Portuguese)): Self-
 **Acceptance count: taught in 3 countries (Ethiopia, Mauritania, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, africa-to-1500/west-african-empires-songhai
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 10 — G11 History Part 2 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الثاني (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 2)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Guidance, Curriculum Sector, General Administration of Curricula; authoring committee chaired by Dr Abd al-Majid Ghalib al-Mukhlifi; print 1443 AH / 2022 CE (content edition 1438 AH / 2017 CE); no ISBN printed
+- PDF pages: 113 (cover/title page verified against the record title; printed page = PDF page − 2; text layer broken-encoded, read visually page by page)
+- Verdict: COMPLETE
+- Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED
+- Yemen's own way: Part 2 keeps Yemen at the centre of the whole Arab Islamic civilisation — its first unit is devoted entirely to Yemen's own role (conquerors, callers, states, scholars), and even the outside-the-homeland units keep routing the story through Yemeni merchants, sailors and emigrants; the book ends by weighing why the civilisation's science rose, what it gave Europe, and why it faded.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Islamic civilisation in Central and West Africa: Songhai, Kanem and the Hausa (Unit 5 Lesson 5) — story beats: Songhai rules the middle Niger until Morocco's Saadians end it, Kanem and Bornu and the Hausa states stand in the Chad basin, and the book closes the unit by drawing Africa's four Islamic bridges — from Yemen and Oman to the East, from Egypt to the North, from Sudan to the Centre, from the Maghreb to the West (History expansion, 2026-11-15; original placement slug: africa-to-1500/west-african-empires-songhai) | Yemen, *تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الثاني (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 2)*, printed p. 70 |
+
+Yemen's own way (Book 10 — G11 History Part 2 (student book, Arabic)): Part 2 keeps Yemen at the centre of the whole Arab Islamic civilisation — its first unit is devoted entirely to Yemen's own role (conquerors, callers, states, scholars), and even the outside-the-homeland units keep routing the story through Yemeni merchants, sailors and emigrants; the book ends by weighing why the civilisation's science rose, what it gave Europe, and why it faded. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mauritania, Mozambique, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, africa-to-1500/west-african-empires-songhai

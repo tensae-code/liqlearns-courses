@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — the Nile Kingdom
 
-countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique
+countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -525,3 +525,38 @@ Mozambique's own way (Book 1 — PESD I Mod 1 (student book, Portuguese)): Self-
 **Acceptance count: taught in 24 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, africa-to-1500/ancient-egypt-the-nile-kingdom
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 6 — G8 History Part 1 (student book, Arabic)**
+- Title as printed: التاريخ للصف الثامن من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 8, Basic Education — Part 1)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year experimental edition 1446 AH / 2026 CE; ISBN no ISBN printed
+- PDF pages: 129 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets; this Part 1 file carries both terms' units through printed p. 128)
+- Verdict: COMPLETE
+- Tally: 19 placements — 6 to existing lessons, 13 NEW LESSON NEEDED
+- Yemen's own way: the same Qur'an-centred method, now applied to the Israelite story at length — Yusuf, Musa, Dawud, Sulayman — with Bilqis and the Tubba' As'ad al-Kamil pulling Yemen into the sacred story, and a closing wall-chart that lines all of history up as one confrontation between truth and falsehood from Adam to the present day.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+**Book 8 — G10 History Part 1 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)
+- Grade: Grade 10 / first secondary (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector; year: print rights 1447 AH / 2026 CE (new-look edition); no ISBN printed
+- PDF pages: 176 (cover/title page verified against the record title; printed page = PDF page)
+- Verdict: COMPLETE — although the record says Part 1, the file carries BOTH terms' units: 24 lessons in 6 units through printed p. 170, references pp. 171–172, and a closing general-guidance appendix on understanding the ages of history and dating events, pp. 173–176
+- Tally: 27 placements — 14 to existing lessons, 13 NEW LESSON NEEDED
+- Yemen's own way: the whole ancient world is told as one story of civilisational interaction whose heart is the ancient ARAB civilisations, with Yemen as the Arabs' southern gateway, first homeland and the first source of the Semitic migrations; every civilisation is weighed on the same grid — factors of rise, then political, economic, social, religious, intellectual and urban manifestations, then its relations with the Arabs — and the Qur'an is cited as testimony (Saba's shura, the Nabataeans' rock-cut houses). Slugs first demanded as NEW by earlier books in this wave count as existing here.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Civilisation of the Nile Valley (3500-350 BCE) — story beats: on the Nile's banks Egypt builds through three ages — the Old Kingdom of the pyramid builders at Memphis, the Middle Kingdom's farming prosperity at Thebes after the Hyksos are expelled, and the Empire age of Thutmose III, Tutankhamun and Ramesses II, the Qur'an's Pharaoh as this book identifies him — while Kush in the Sudan raises more pyramids than Egypt, only smaller, before corruption, injustice and foreign invasion bring the valley down (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-pharaohs-pyramids-and-the-nile) | Yemen, *التاريخ للصف الثامن من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 8, Basic Education — Part 1)*, printed p. 21 |
+| Yemen part — Manifestations of flourishing in Africa: the Nile Valley — story beats: Pharaoh holds absolute religious and worldly power through his vizier and chief scribe, over five classes from court to slaves; the army, rebuilt with iron, horses and chariots after the Hyksos, guards a land whose farmers grow cotton, flax and papyrus, whose doctors specialise in the House of Life, whose astronomers fix the 365¼-day year and predict the flood, and whose builders raise Karnak, Abu Simbel and the three pyramids of Giza — while Akhenaten's lone call to one god, Aton, breaks briefly through a crowd of local gods (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Yemen, *تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)*, printed p. 53 |
+
+Yemen's own way (Book 6 — G8 History Part 1 (student book, Arabic)): the same Qur'an-centred method, now applied to the Israelite story at length — Yusuf, Musa, Dawud, Sulayman — with Bilqis and the Tubba' As'ad al-Kamil pulling Yemen into the sacred story, and a closing wall-chart that lines all of history up as one confrontation between truth and falsehood from Adam to the present day. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whole ancient world is told as one story of civilisational interaction whose heart is the ancient ARAB civilisations, with Yemen as the Arabs' southern gateway, first homeland and the first source of the Semitic migrations; every civilisation is weighed on the same grid — factors of rise, then political, economic, social, religious, intellectual and urban manifestations, then its relations with the Arabs — and the Qur'an is cited as testimony (Saba's shura, the Nabataeans' rock-cut houses). Slugs first demanded as NEW by earlier books in this wave count as existing here. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 25 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, africa-to-1500/ancient-egypt-the-nile-kingdom

@@ -1,6 +1,6 @@
 # Sources — The Abbasid Caliphate — Baghdad's golden age
 
-countries: Egypt, Pakistan, Libya
+countries: Egypt, Pakistan, Libya, Yemen
 
 **Book 8:** *الدراسات الاجتماعية — العالم العربي... وطن يجمعنا (Social Studies — The Arab World… a Homeland that Gathers Us)* (student book, Arabic) — Egypt. Grade: Grade 6 (Sixth Primary), Term 1 (student book). Publisher: Ministry of Education and Technical Education, Egypt (Educational Content Sector; Salah al-Tilmiz Foundation for Printing and Publishing), 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 113 (grabbed from the library's GitHub release copy; read as single-page sheets; the History unit read in full, the Geography and economics units identified from the contents and curriculum map). Verdict: COMPLETE (History parts). Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1 (our Arab homeland — location and importance, terrain, climate and natural vegetation, environmental challenges) and Unit 3 (our Arab homeland and economic development — agricultural activity, animal and fish wealth, minerals and energy sources, tourism activity) — Geography/Economics. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -86,3 +86,25 @@ Libya's own way (Book 6 — G8 Islamic History (student book, Arabic)): the Isla
 Libya's own way (Book 7 — G5 Social Studies (History and Geography) (student book, Arabic) — COMBINED): Islamic history for ten-year-olds runs as one story from Mecca to the Mamluks — and Libya appears inside it where Tripoli becomes the Fatimids' naval base for the Sicily jihad. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Egypt, Pakistan, Libya).**
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 9 — G11 History Part 1 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الأول (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 1)
+- Grade: Grade 11 / second secondary (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Guidance, Curriculum Sector, General Administration of Curricula; lead author Dr Abd al-Majid Ghalib al-Mukhlifi (chair) with a committee of authors; year: print rights 1438 AH / 2017 CE; no ISBN printed
+- PDF pages: 115 (cover/title page verified against the record title; printed page = PDF page − 2; text layer broken-encoded, read visually from page renders)
+- Verdict: COMPLETE — Part 1 as recorded: 13 lessons in 3 units through printed p. 109 (Unit 3 assessment), a closing heritage thinking card p. 110, and a book-evaluation questionnaire pp. 111–112
+- Tally: 17 placements — 6 to existing lessons, 11 NEW LESSON NEEDED
+- Yemen's own way: Arab Islamic civilisation is told as one continuous story from the Prophet's Medina to the Mamluks, weighed era by era on the same grid — political, administrative, judicial, scientific, economic, military, urban and artistic manifestations — with Yemen placed at the civilisation's heart as a leading source of its spread into Asia, Africa and Europe; the final unit then reads shura, social justice, human rights and ijtihad back out of that history as the roots of democracy, closing in pride in Yemen's own contemporary democratic experience. Slugs first demanded as NEW by earlier books in this wave count as existing here.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — In the Abbasid state era — story beats: from Baghdad's founding in 145 AH the civilisation peaks: the wazirate in two kinds, thirteen wilayas, the chief judge, Dar al-Hikma's translators meeting weekly, hundreds of licensed physicians in Baghdad alone, Jabir's chemistry, al-Khwarizmi's algebra, Ibn al-Haytham's optics, observatories and the round city built on fixed rules of site and plan — then after 232 AH the caliph shrinks to a religious figurehead while Turks, Buyids and Seljuks hold the power, until the Tatars kill al-Musta'sim in 656 AH (History expansion, 2026-11-15; original placement slug: ancient-world/abbasid-civilisation-baghdad-translation-and-science) | Yemen, *تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الأول (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 1)*, printed p. 43 |
+
+Yemen's own way (Book 9 — G11 History Part 1 (student book, Arabic)): Arab Islamic civilisation is told as one continuous story from the Prophet's Medina to the Mamluks, weighed era by era on the same grid — political, administrative, judicial, scientific, economic, military, urban and artistic manifestations — with Yemen placed at the civilisation's heart as a leading source of its spread into Asia, Africa and Europe; the final unit then reads shura, social justice, human rights and ijtihad back out of that history as the roots of democracy, closing in pride in Yemen's own contemporary democratic experience. Slugs first demanded as NEW by earlier books in this wave count as existing here. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Egypt, Pakistan, Libya, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/abbasid-caliphate-baghdad-golden-age

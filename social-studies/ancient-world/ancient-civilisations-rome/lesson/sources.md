@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome
 
-countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique
+countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -563,3 +563,38 @@ Mozambique's own way (Book 1 — PESD I Mod 1 (student book, Portuguese)): Self-
 **Acceptance count: taught in 26 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, ancient-world/ancient-civilisations-rome
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 3 — G5 History (student book, Arabic)**
+- Title as printed: التاريخ للصف الخامس من مرحلة التعليم الأساسي (History for Grade 5, Basic Education)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector / General Administration of Curricula; year 1447 AH / 2026 CE on cover (new-look edition); ISBN no ISBN printed
+- PDF pages: 66 (cover/title page verified against the record title; image-only PDF, read via 100 DPI page renders and 4-up contact sheets)
+- Verdict: COMPLETE
+- Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED
+- Yemen's own way: history opens as a chain of prophets — Adam, Noah, Hud, Salih, Ibrahim — told from Qur'anic narrative, then turns to Yemen's own ancient kingdoms and to three foreign occupations (Roman, Abyssinian, Persian) that Yemenis resist, ending at the birth of Islam.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+**Book 8 — G10 History Part 1 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)
+- Grade: Grade 10 / first secondary (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curriculum Sector; year: print rights 1447 AH / 2026 CE (new-look edition); no ISBN printed
+- PDF pages: 176 (cover/title page verified against the record title; printed page = PDF page)
+- Verdict: COMPLETE — although the record says Part 1, the file carries BOTH terms' units: 24 lessons in 6 units through printed p. 170, references pp. 171–172, and a closing general-guidance appendix on understanding the ages of history and dating events, pp. 173–176
+- Tally: 27 placements — 14 to existing lessons, 13 NEW LESSON NEEDED
+- Yemen's own way: the whole ancient world is told as one story of civilisational interaction whose heart is the ancient ARAB civilisations, with Yemen as the Arabs' southern gateway, first homeland and the first source of the Semitic migrations; every civilisation is weighed on the same grid — factors of rise, then political, economic, social, religious, intellectual and urban manifestations, then its relations with the Arabs — and the Qur'an is cited as testimony (Saba's shura, the Nabataeans' rock-cut houses). Slugs first demanded as NEW by earlier books in this wave count as existing here.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — The Roman invasion of Yemen — story beats: the emperor Augustus orders Yemen invaded in 24 BCE with 130 ships and 10,000 soldiers to seize the trade routes and Yemen's wealth, the Romans wreck towns on the road to Marib and besiege it, but Yemeni resistance, control of water and disease in the Roman ranks break the campaign (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Yemen, *التاريخ للصف الخامس من مرحلة التعليم الأساسي (History for Grade 5, Basic Education)*, printed p. 44 |
+| Yemen part — The Roman civilisation — story beats: Romulus founds Rome in 753 BCE on the Tiber, and the city passes from kings to a republic of consuls, Senate and popular bodies, then to empire under Augustus; Constantine moves the capital to Constantinople and the empire splits in 395 CE, the West falling in 476 CE and the East holding until Muhammad al-Fatih takes it in 1453; Latin spreads with the legions and survives as the Church's language, Livy writes history to glorify Rome, Pliny compiles the natural world, Roman relief carving and vaulted architecture feed Italy's later renaissance, and Christianity, born under Roman occupation in Palestine and persecuted in the arenas, becomes the empire's official religion in the 4th century (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Yemen, *تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)*, printed p. 116 |
+
+Yemen's own way (Book 3 — G5 History (student book, Arabic)): history opens as a chain of prophets — Adam, Noah, Hud, Salih, Ibrahim — told from Qur'anic narrative, then turns to Yemen's own ancient kingdoms and to three foreign occupations (Roman, Abyssinian, Persian) that Yemenis resist, ending at the birth of Islam. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whole ancient world is told as one story of civilisational interaction whose heart is the ancient ARAB civilisations, with Yemen as the Arabs' southern gateway, first homeland and the first source of the Semitic migrations; every civilisation is weighed on the same grid — factors of rise, then political, economic, social, religious, intellectual and urban manifestations, then its relations with the Arabs — and the Qur'an is cited as testimony (Saba's shura, the Nabataeans' rock-cut houses). Slugs first demanded as NEW by earlier books in this wave count as existing here. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 27 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/ancient-civilisations-rome

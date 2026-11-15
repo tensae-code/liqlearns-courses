@@ -1,6 +1,6 @@
 # Sources — North Africa — Fatimids, Mamluk Egypt and the Funj
 
-countries: Ethiopia, Eritrea, Egypt, Pakistan, Mauritania, Libya
+countries: Ethiopia, Eritrea, Egypt, Pakistan, Mauritania, Libya, Yemen
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -102,3 +102,25 @@ Mauritania's own way (mr-g07 — History, 1st preparatory year (student book, Ar
 Libya's own way (Book 2 — G11 Medieval Arab World (student book, Humanities, Arabic)): the medieval centuries are told as the Arab-Islamic nation's single story — the Prophet, the caliphates, then the Maghreb and al-Andalus with a named section on ruling families inside Libya itself, and a full closing chapter on civilisation (government, society, science, cities) and what it gave Europe. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Eritrea, Egypt, Pakistan, Mauritania, Libya).**
+
+## History expansion (2026-11-15) — Yemen stocked
+
+**Book 9 — G11 History Part 1 (student book, Arabic)**
+- Title as printed: تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الأول (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 1)
+- Grade: Grade 11 / second secondary (student/teacher: STUDENT)
+- Publisher: Republic of Yemen, Ministry of Education and Guidance, Curriculum Sector, General Administration of Curricula; lead author Dr Abd al-Majid Ghalib al-Mukhlifi (chair) with a committee of authors; year: print rights 1438 AH / 2017 CE; no ISBN printed
+- PDF pages: 115 (cover/title page verified against the record title; printed page = PDF page − 2; text layer broken-encoded, read visually from page renders)
+- Verdict: COMPLETE — Part 1 as recorded: 13 lessons in 3 units through printed p. 109 (Unit 3 assessment), a closing heritage thinking card p. 110, and a book-evaluation questionnaire pp. 111–112
+- Tally: 17 placements — 6 to existing lessons, 11 NEW LESSON NEEDED
+- Yemen's own way: Arab Islamic civilisation is told as one continuous story from the Prophet's Medina to the Mamluks, weighed era by era on the same grid — political, administrative, judicial, scientific, economic, military, urban and artistic manifestations — with Yemen placed at the civilisation's heart as a leading source of its spread into Asia, Africa and Europe; the final unit then reads shura, social justice, human rights and ijtihad back out of that history as the roots of democracy, closing in pride in Yemen's own contemporary democratic experience. Slugs first demanded as NEW by earlier books in this wave count as existing here.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — In the Fatimid state era — story beats: a caliphate claiming descent from Fatima rises in the Maghreb in 297 AH, builds Mahdia, takes Egypt, founds Cairo and al-Azhar, raises its own Dar al-Hikma and a shipyard that builds some 600 vessels, and counts Yemen's Sulayhid state among the wilayas loyal to it — and ends in 567 AH at Salah al-Din's hand (History expansion, 2026-11-15; original placement slug: africa-to-1500/north-africa-fatimids-mamluks-and-the-funj) | Yemen, *تاريخ — حضارات العالم العربي الإسلامي — للصف الثاني الثانوي — الجزء الأول (History: Civilisations of the Arab Islamic World, for the Second Secondary Grade, Part 1)*, printed p. 56 |
+
+Yemen's own way (Book 9 — G11 History Part 1 (student book, Arabic)): Arab Islamic civilisation is told as one continuous story from the Prophet's Medina to the Mamluks, weighed era by era on the same grid — political, administrative, judicial, scientific, economic, military, urban and artistic manifestations — with Yemen placed at the civilisation's heart as a leading source of its spread into Asia, Africa and Europe; the final unit then reads shura, social justice, human rights and ijtihad back out of that history as the roots of democracy, closing in pride in Yemen's own contemporary democratic experience. Slugs first demanded as NEW by earlier books in this wave count as existing here. That way is stocked here as the way Yemen teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Egypt, Pakistan, Mauritania, Libya, Yemen).**
+
+Searchable tags: Yemen, History expansion 2026-11-15, africa-to-1500/north-africa-fatimids-mamluks-and-the-funj
