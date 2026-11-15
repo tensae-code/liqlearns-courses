@@ -1,6 +1,6 @@
 # Sources — Contours — lines of equal height
 
-countries: Ethiopia, Turkey, Malaysia, Fiji, Papua New Guinea
+countries: Ethiopia, Turkey, Malaysia, Fiji, Papua New Guinea, Uganda
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Turkey, Malaysia, Fiji, Papua New Guinea
 
 **Book 6:** *Geography Teacher Guide — Senior High Grade 11, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-95-6. Title as printed: Geography Teacher Guide — Senior High Grade 11, Standards-Based. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 140 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (Non-Geography parts: none — pure Geography guide.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
 
+**Book 7:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a contour is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 219–220 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Turkey, Malaysia, Fiji, Papua New Guinea
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 3 Ketinggian dan Keratan Rentas: height from symbols; drawing cross-sections from contour lines (placement slug: the-land-and-air/contours-lines-of-equal-height) | Malaysia, *MY T4 Geografi*, Bab 3 Ketinggian dan Keratan Rentas: height from symbols; drawing cross-sections from contour lines — printed pp. 28-37 |
 | Fiji part — Unit 2 Basic contour patterns | Fiji, *Fiji Year 9 Social Science*, Unit 2 Basic contour patterns — printed p. 123 |
 | Papua New Guinea part — Unit 1, Topic 4: Cross-sections (drawing cross-sections from contoured maps) (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG SBC* (teacher guide), Unit 1, Topic 4: Cross-sections (drawing cross-sections from contoured maps) — printed p. 41 |
+| Uganda part — Ch.7 Cross-sections from simple contour maps (chapter objective/activities) | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.7 Cross-sections from simple contour maps (chapter objective/activities) — printed p. 74 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Malaysia, Fiji). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Malaysia, Fiji, Uganda). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -38,3 +41,5 @@ Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a 
 Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).
 
 Papua New Guinea's own way (Papua New Guinea Grade 11 Geography TG SBC) (teacher guide — evidence): the standards-based senior Geography course keeps the four-unit frame of the Grade 9–10 strand (Geography Skills; People and Places; People and Resources; People and Environment) as a standalone subject — a heavy map-skills unit (grid references, bearings, cross-sections, climate graphs) before climate regions, biomass, oceanography, and the structure of the Earth. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
+
+Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.

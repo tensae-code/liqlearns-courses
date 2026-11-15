@@ -1,6 +1,6 @@
 # Sources — Map Work — Measuring Area
 
-countries: Ethiopia, Malaysia, Eritrea
+countries: Ethiopia, Malaysia, Eritrea, Uganda
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Malaysia, Eritrea
 
 **Book 4:** *Social Studies for Grade 7 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011 (reprinted 2011); ISBN 99948-1-584-9. Title as printed: Social Studies for Grade 7 — Textbook. Grade 7 (student/teacher: STUDENT). PDF pages: 154 (cover/title page verified against the record title; 3,970,347 bytes and 154 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Social Development: Primitive Communal to Feudalism, printed p. 63 Civics parts (named, not placed): Unit 6 Government (development of government; government systems; system of government administration in Eritrea), printed p. 78 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 5:** *Home-Study Learning — Senior 3 Geography (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC); year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Senior 3 Geography (August 2020). Grade: Senior Three = Grade 10 (student/teacher: STUDENT). PDF pages: 108 (cover verified: "HOME-STUDY LEARNING SENIOR 3 GEOGRAPHY", NCDC, August 2020 — matches record page count 108 exactly; read via the record's books.json source_url, fresh-teacher.github.io mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE (the booklet as published starts at Lesson 2; Lesson 1 is not in this home-study package). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Regular shapes have formulas | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 33–36 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Malaysia, Eritrea
 | Sub lesson 3 — Two worked examples — and your plot | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 33–36 |
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 2.3: measuring area in a topographic map | Malaysia, *MY T4 Geografi*, Bab 2.3: measuring area in a topographic map — printed pp. 23-27 |
 | Eritrea part (ER G7 Social Studies) — Unit 1: 1.3 Finding Areas | Eritrea, *ER G7 Social Studies*, Unit 1: 1.3 Finding Areas — printed p. 9 |
+| Uganda part — Lesson 7: Calculating Area of Features on a Map | Uganda, *Uganda Grade 10 UG S3 Geography Home-Study*, Lesson 7: Calculating Area of Features on a Map — printed p. 32 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Eritrea).**
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Eritrea, Uganda).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -27,3 +30,5 @@ Searchable tags: map work   measuring area, ethiopia, social studies, the land a
 Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.
 
 Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Eritrea's land — map scale, area and population arithmetic first, then Eritrea's natural heritage (Red Sea coast, wildlife) and Eritrea's own disaster set (drought, locusts, earthquakes, volcanism) as the environmental core.
+
+Uganda's own way (Uganda Grade 10 UG S3 Geography Home-Study): COVID-era self-study booklet: first half is East Africa's human geography (towns/ports, transport, trade) plus heavy practical map-work and photograph interpretation on Ugandan survey-map extracts (Tororo, Kakuto, Samia); second half is a "studies in development" comparison — the Rhinelands and landlocked Switzerland held up as models against East Africa.

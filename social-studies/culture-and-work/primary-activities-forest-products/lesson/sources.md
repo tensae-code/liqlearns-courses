@@ -1,6 +1,6 @@
 # Sources — Primary activities — forest products and their uses
 
-countries: Ethiopia, Bolivia, Slovenia
+countries: Ethiopia, Bolivia, Slovenia, Uganda
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Bolivia, Slovenia
 
 **Book 3:** *Geografija 9* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0283-4. Title as printed: Geografija 9 (i-učbenik / interactive textbook). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 785,080,227 bytes; book pagination runs to printed p. 241 (Kazalo); all 296 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 4:** *Home-Study Learning — Senior 4 Geography (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC); year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Senior 4 Geography (August 2020). Grade: Senior Four = Grade 11 (student/teacher: STUDENT). PDF pages: 22 (cover verified: "HOME-STUDY LEARNING SENIOR 4 GEOGRAPHY", NCDC, August 2020 — matches record page count 22 exactly; read via the record's books.json source_url, fresh-teacher.github.io mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: PARTIAL — the home-study booklet as published contains only three lessons (Lessons 1, 6 and 7); the rest of the Senior Four course is not in this package. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two streams from the forest | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 56–57 |
 | Sub lesson 2 — Who uses which | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 56–57 |
 | Bolivia part — The rubber boom (auge de la goma) in the Bolivian Amazon | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 4*, Grade 10, The rubber boom (auge de la goma) in the Bolivian Amazon — printed p. 67 |
 | Slovenia part — Vinogradništvo, sadjarstvo in gozdarstvo (viticulture, fruit growing and forestry) inside Kmetijstvo | Slovenia, *Slovenia Grade 9 Geografija 9*, Vinogradništvo, sadjarstvo in gozdarstvo (viticulture, fruit growing and forestry) inside Kmetijstvo — printed p. 87 |
+| Uganda part — Lesson 6: Forestry Industry in Gabon (factors, importance, problems) | Uganda, *Uganda Grade 11 UG S4 Geography Home-Study*, Lesson 6: Forestry Industry in Gabon (factors, importance, problems) — printed p. 5 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bolivia, Slovenia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Slovenia, Uganda).**
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
@@ -24,3 +27,5 @@ Bolivia's own way (Grade 10, Secundaria 4): Secundaria 4 is the nineteenth-centu
 Searchable tags: primary activities: forest products and their uses, culture and work, social studies, ethiopia, Bolivia, Ciencias Sociales Bolivia
 
 Slovenia's own way (Slovenia Grade 9 Geografija 9): Grade 9 turns home — the whole book is Slovenia itself: first the country as a system (position and borders, relief and rocks, climate/vegetation/waters, settlement, population, settlements, economy, transport, environment), then its five natural regions one by one (Alpine, Pre-Alpine with the Ljubljana basin, Dinaric-Karst, Mediterranean, Pannonian). Named, not placed: the EU unit's history of the European Union and Slovenia-in-EU pros/cons (printed p. 7, Civics/History) and the state symbols inside the opening unit (p. 1, Civics).
+
+Uganda's own way (Uganda Grade 11 UG S4 Geography Home-Study): Africa-wide resource geography taught through single-country industry case studies (Gabon's forestry, Africa's fishing grounds with catch/export tables) that Ugandan learners compare with home.

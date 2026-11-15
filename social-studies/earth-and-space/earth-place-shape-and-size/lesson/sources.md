@@ -1,6 +1,6 @@
 # Sources — The Earth — Place, Shape and Size
 
-countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia
+countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 
 **Book 12:** *Ciencias Sociales — Postprimaria Rural, Grado 6 (student guide; front matter also carries the Ética y Valores grados 6–7 line)* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional (Postprimaria Rural); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Postprimaria Rural, Grado 6 (student guide; front matter also carries the Ética y Valores grados 6–7 line). Grade 6 (student/teacher: STUDENT). PDF pages: 226 (contents page verified: six modules, Guías 1–19, all framed on the world's indigenous peoples). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Módulo 2 Saberes de los pueblos originarios (beliefs/myths/religions, technologies, art, social/family life), Guías 4–7, printed pp. 44–87 (Culture/History); Módulo 5 Poder y política en los pueblos originarios, Guías 14–16, printed pp. 160–189 (Civics); Módulo 6 Conflictos, derechos y participación, Guías 17–19, printed pp. 190–225 (Civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 13:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Earth's place | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 15 |
@@ -42,8 +44,9 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 | Dominican Republic part (Grade 10) — The planet Earth | Dominican Republic, *Ciencias Sociales, Cuarto Grado, Secundaria (Libro Abierto)*, Grade 10, The planet Earth — printed p. 12 |
 | Bahamas part (Grade 1) — The Earth: we live on planet Earth, made of land, water and air; the atmosphere is a blanket of air | Bahamas, *Social Science, Grade 1*, Grade 1, The Earth: we live on planet Earth, made of land, water and air; the atmosphere is a blanket of air — printed p. 38 |
 | Colombia part (CS_Grado6 Postprimaria) — Módulo 1 Guía 3 La Tierra: hogar de hombres, mujeres y niños | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 6 (student guide; front matter also carries the Ética y Valores grados 6–7 line)*, Módulo 1 Guía 3 La Tierra: hogar de hombres, mujeres y niños — printed p. 32 |
+| Uganda part — Ch.5 What Shape is the Earth? (oblate spheroid/geoid) | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.5 What Shape is the Earth? (oblate spheroid/geoid) — printed p. 48 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -68,3 +71,5 @@ Dominican Republic's own way (Grade 10): This is the physical-geography year: th
 Bahamas' own way (Grade 1): One integrated "Social Science" book fusing Religious Studies, Science/Health and Social Studies in a single picture-led volume; Geography enters through the home island itself — The Bahamas as a group of islands, its national symbols, mailboat/jitney transport between islands, conch-and-crawfish fishing, national parks and bush-medicine plants.
 
 Colombia's own way (CS_Grado6 Postprimaria): the rural Postprimaria Grade 6 guide is built entirely around indigenous peoples — where they live, what they do in their territories, their ancestral struggles for land, and their population and resource use — geography taught as peoples-and-territory.
+
+Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.

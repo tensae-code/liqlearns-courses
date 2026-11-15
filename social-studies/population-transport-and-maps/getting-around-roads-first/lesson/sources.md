@@ -1,6 +1,6 @@
 # Sources — Getting around — roads first
 
-countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam
+countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Uganda
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam
 
 **Book 8:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
+**Book 9:** *Excel Standard Social Studies, Pupil's Book 6 (First Edition)* (student book, English) — Excel Publishers, Kampala; year not printed (First Edition); ISBN no ISBN printed. Title as printed: Excel Standard Social Studies, Pupil's Book 6 (First Edition). Grade: Primary Six = Grade 6 (student/teacher: STUDENT). PDF pages: 210 (title page verified: "EXCEL STANDARD SOCIAL STUDIES PUPIL'S BOOK 6 — EXCEL PUBLISHERS" — matches record page count 210 exactly; read via the record's books.json source_url at exoticnotes.com after grab.py routes failed with RemoteDisconnected from api.github.com). Commercial book built on the NCDC Primary Six SST syllabus, filed in the library under gov/uganda — see library debts in the group log.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Roads dominate | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 138–141 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam
 | India part (Grade 10 Contemporary India-II) — Ch.7 Lifelines of National Economy: India's road network — Golden Quadrilateral, National Highways, state and district roads, road density | India, *India Grade 10 Contemporary India-II*, Ch.7 Lifelines of National Economy: India's road network — Golden Quadrilateral, National Highways, state and district roads, road density — printed p. 79 |
 | Rwanda part — 9.4 Importance of having good roads in our province (Unit 9) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 9.4 Importance of having good roads in our province (Unit 9) — printed p. 105 |
 | Vietnam part — Bài 34 (part): Transport — its role, features and location factors; road transport and the world road network (2019 map) | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 34 (part): Transport — its role, features and location factors; road transport and the world road network (2019 map) — printed pp. 93–94 |
+| Uganda part — Topic 3: Road transport in East Africa | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Topic 3: Road transport in East Africa — printed p. 121 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam).**
+**Acceptance count: taught in 8 countries (Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Uganda).**
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
@@ -45,3 +48,5 @@ India's own way (Grade 10 Contemporary India-II): Contemporary India-II is the h
 Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.
 
 Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
+
+Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uganda to the whole East African Community: location by latitude/longitude, resources, transport and communication are all taught at EAC scale. Non-Geography parts named, not placed: Topic 1 — historical background, formation, revival, organs and symbols of the EAC (Civics); The People of East Africa — origin of human beings, sources of history, archaeological sites, Stone Age, ethnic groups and their political/social/economic organisation (History, printed pp. 25–54); Early visitors — Arab traders, long-distance and slave trade, European traders, Christian missionaries (History, pp. 55–64); Topic 4 The Road to Independence in East Africa — explorers, scramble and partition, colonial rule and reactions, independence struggle, post-independence leaders and democratic rule (History/Civics, pp. 140–188).

@@ -1,6 +1,6 @@
 # Sources — Revolution and the Seasons
 
-countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam
+countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 
 **Book 12:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
+**Book 13:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — what revolution causes: the Sun's apparent journey, day length, seasons | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 21–23 |
@@ -40,8 +42,9 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 | India part (Grade 6 The Earth Our Habitat) — Ch.3: revolution, changing seasons, solstices and equinoxes | India, *India Grade 6 The Earth Our Habitat*, Ch.3: revolution, changing seasons, solstices and equinoxes — printed p. 20 |
 | Rwanda part — 7.8 Seasons in our province: the four Rwandan seasons — short rainy (Umuhindo), short dry (Urugaryi), long rainy (Itumba), long dry (Icyi) (Unit 7) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 7.8 Seasons in our province: the four Rwandan seasons — short rainy (Umuhindo), short dry (Urugaryi), long rainy (Itumba), long dry (Icyi) (Unit 7) — printed p. 89 |
 | Vietnam part — Bài 5 (part): Consequences of revolution around the Sun — the seasons, and day length varying by latitude and season | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 5 (part): Consequences of revolution around the Sun — the seasons, and day length varying by latitude and season — printed pp. 19–20 |
+| Uganda part — Ch.5 Why the Earth is Divided into Zones with Different Temperatures | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.5 Why the Earth is Divided into Zones with Different Temperatures — printed p. 53 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -68,3 +71,5 @@ India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes p
 Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.
 
 Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
+
+Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.

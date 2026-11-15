@@ -4113,3 +4113,64 @@ printed p. 76; printed p. 33) — every new lesson stands
 on teacher-guide evidence only (acceptance count 0
 countries), 8 questions each.
 Geography lessons: 1688 → 1704.
+
+
+## Uganda — Geography expansion (merged 2026-11-14)
+163 placement lines stocked from Uganda's 10 placed
+books (15 records / 10 distinct books — 5 titles appear
+in both TSV and books.json, read once via grab.py; 5
+further books.json-only books read via grab.py tree;
+all English) — the Senior One Geography student book
+and teacher guide (NCDC, 2020 prototypes), the Senior
+1, Senior 3 and Senior 4 Geography home-study booklets
+and the Primary 4, Primary 5 (merged package, Social
+Studies section) and Primary 6 Social Studies
+home-study booklets (Ministry of Education and Sports /
+NCDC, August 2020), and the Excel Standard Social
+Studies Pupil's Books 5 and 6 (Excel Publishers,
+Kampala — commercial books built on the NCDC syllabus,
+filed in the library under gov/uganda). The placements
+file's own per-book tallies (32 + 10 + 18 + 3 + 11 + 8
++ 10 + 15 + 30 + 26) sum to 163 and agree with the
+line-by-line count — no tally discrepancy; all 163
+lines were stocked as written. Nine books are student
+books, counted in acceptance counts; the Senior One
+teacher guide is cited as the evidence it is, outside
+acceptance counts. The Senior 4 home-study booklet is
+PARTIAL (only Lessons 1, 6 and 7 are in the package)
+and the Primary 5 merged package is PARTIAL (its file
+holds Mathematics, English and Social Studies sections;
+the Integrated Science section named in the record
+title is not in the file) — both carried exactly as
+labelled; the Senior 3 booklet is COMPLETE as published
+(it starts at Lesson 2; Lesson 1 is not in the
+package). Stocked into standing lessons (136 placements
+across 75 lessons; 74 of them count Uganda, one — Maps
+and Globes: Kinds of Maps and Scale — takes only the
+teacher guide and names Uganda as teacher-guide
+evidence only). No placement slug needed remapping and
+none was excluded. 15 NEW lessons built (27 placements)
+— **First Steps**: Physical Features In Our District
+(printed p. 3), Uganda On The Map Districts And
+Neighbours (printed p. 6; printed p. 6; printed p. 16);
+**The Land and Air**: Describing Position On A
+Photograph (printed p. 7), Drawing A Cross Section From
+A Contour Map (printed p. 52), Drawing A Sketch From A
+Photograph (printed p. 71; printed p. 11), East Africa
+Climate Types (printed p. 95; printed p. 105), East
+Africa Location Size And Relief Regions (printed p. 72;
+printed p. 76; printed p. 27), Interpreting Photographs
+Ground Oblique And Aerial (printed p. 39; printed p.
+64; printed p. 3), Problems Caused By Physical Features
+(printed p. 14; printed p. 36), Switzerland A
+Landlocked Developed Country (printed p. 80; printed p.
+88), The Rhinelands Region Of Western Europe (printed
+p. 75), Uganda Climate Regions And Their Influences
+(printed p. 18; printed p. 42; printed p. 46);
+**Population, Transport and Maps**: Communication In
+East Africa (printed p. 130), Functions Of Towns And
+Ports In East Africa (printed p. 7), Relationships
+Between Features On Survey Maps (printed p. 59) — every
+new lesson is taught in 1 country (Uganda), 8 questions
+each.
+Geography lessons: 1704 → 1719.

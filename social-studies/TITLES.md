@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1704**
+Geography lessons across the eight Geography titles: **1719**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1115,3 +1115,21 @@ Pacific.
 (All 16 stand on Papua New Guinea's teacher guides,
 cited as teacher-guide evidence only, counted nowhere
 in acceptance.)
+
++15 for Uganda, 2026-11-14 — First Steps: Physical
+Features In Our District and Uganda On The Map
+Districts And Neighbours; The Land and Air: Describing
+Position On A Photograph, Drawing A Cross Section From
+A Contour Map, Drawing A Sketch From A Photograph, East
+Africa Climate Types, East Africa Location Size And
+Relief Regions, Interpreting Photographs Ground Oblique
+And Aerial, Problems Caused By Physical Features,
+Switzerland A Landlocked Developed Country, The
+Rhinelands Region Of Western Europe and Uganda Climate
+Regions And Their Influences; Population, Transport and
+Maps: Communication In East Africa, Functions Of Towns
+And Ports In East Africa and Relationships Between
+Features On Survey Maps.
+(Every new lesson is taught in 1 country (Uganda);
+teacher-guide placements inside two of them are cited
+as evidence only.)

@@ -1,6 +1,6 @@
 # Sources — Human geography — the people side
 
-countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji
+countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji
 
 **Book 6:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 7:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The people side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 7–8 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji
 | Ukraine part — §1 What the geography of regions and countries studies (incl. political map formation) | Ukraine, *Geografiya*, Grade 10, §1 — printed p. 5 |
 | Bolivia part — The importance of human geography | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 1*, Grade 7, The importance of human geography — printed p. 9 |
 | Fiji part — Chapter 1 Population and Settlement, 1.1.1 Nature of Population (with the book's human-geography overview) | Fiji, *Fiji Years 11–12 Geography*, Chapter 1 Population and Settlement, 1.1.1 Nature of Population (with the book's human-geography overview) — printed p. 7 |
+| Uganda part — Ch.1 Branches of Geography: human geography | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.1 Branches of Geography: human geography — printed p. 3 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Ukraine, Bolivia, Fiji). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Ukraine, Bolivia, Fiji, Uganda). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -35,3 +38,5 @@ Bolivia's own way (Grade 7, Secundaria 1): The Bolivian Texto de Aprendizaje run
 Searchable tags: human geography, population, settlement, economic activity, culture, transport, social studies, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Ukraine, Geografiya Gilberg, Bolivia, Ciencias Sociales Bolivia
 
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
+
+Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.

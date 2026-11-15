@@ -1,6 +1,6 @@
 # Sources — Why People Settle Where They Do
 
-countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia
+countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia, Uganda
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 47).
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia
 
 **Book 8:** *Geografija 9* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0283-4. Title as printed: Geografija 9 (i-učbenik / interactive textbook). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 785,080,227 bytes; book pagination runs to printed p. 241 (Kazalo); all 296 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 9:** *Home-Study Learning — Primary 4 Social Studies (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC), with Save the Children; year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Primary 4 Social Studies (August 2020). Grade: Primary Four = Grade 4 (student/teacher: STUDENT). PDF pages: 42 (cover verified: "HOME-STUDY LEARNING PRIMARY 4 SOCIAL STUDIES", NCDC, August 2020 — matches record page count 42 exactly; read via the record's books.json source_url at teacher.ac, mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson frame — population distribution is uneven because settlement is tied directly to resources; the controllers named are water, soil, vegetation and climate | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed pp. 63–65 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia
 | Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 8.2: factors that influence Malaysia's population distribution | Malaysia, *MY T1 Geografi*, Bab 8.2: factors that influence Malaysia's population distribution — printed pp. 91-95 |
 | Eritrea part (ER G6 Social Studies) — Unit 6 Settlement: factors that determine the location of settlement | Eritrea, *ER G6 Social Studies*, Unit 6 Settlement: factors that determine the location of settlement — printed p. 34 |
 | Slovenia part — Poselitev Slovenije (settlement of Slovenia: natural-geographic and social-geographic factors) | Slovenia, *Slovenia Grade 9 Geografija 9*, Poselitev Slovenije (settlement of Slovenia: natural-geographic and social-geographic factors) — printed p. 42 |
+| Uganda part — Term Two: Factors that Determine Settlement Patterns (soil fertility, rainfall, jobs, drought) | Uganda, *Uganda Grade 4 UG P4 SST Home-Study*, Term Two: Factors that Determine Settlement Patterns (soil fertility, rainfall, jobs, drought) — printed p. 15 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Slovenia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Slovenia, Uganda). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Guide-evidence note (not taught above as pupil content): the Addis Ababa teacher guide's §2.2.1 (printed pp. 28–31) keys Ethiopia's own population concentration in the highlands to altitude, climate and soil (moderate temperatures, rich soil, adequate rainfall) — the same controller frame, recorded here as teacher evidence that the frame is the syllabus's own; the lesson itself rests wholly on the student book. The equator puzzle is the book's own set question ("to be explained"); the lesson poses it and coaches an answer from the four controllers rather than printing a keyed answer the placements do not give. No book error flagged by the placements touches this lesson.
 
@@ -50,3 +53,5 @@ Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organ
 Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.
 
 Slovenia's own way (Slovenia Grade 9 Geografija 9): Grade 9 turns home — the whole book is Slovenia itself: first the country as a system (position and borders, relief and rocks, climate/vegetation/waters, settlement, population, settlements, economy, transport, environment), then its five natural regions one by one (Alpine, Pre-Alpine with the Ljubljana basin, Dinaric-Karst, Mediterranean, Pannonian). Named, not placed: the EU unit's history of the European Union and Slovenia-in-EU pros/cons (printed p. 7, Civics/History) and the state symbols inside the opening unit (p. 1, Civics).
+
+Uganda's own way (Uganda Grade 4 UG P4 SST Home-Study): Social Studies organised entirely around "our district": the child's own district's physical features, vegetation, settlement and work are the geography content. Non-Geography parts named, not placed: Term Two social activities and ceremonies in the district (printed pp. 17–19); Term Three — Our Leaders in the District, Children's Rights, Responsibilities of People in Our District, Social Services in Our District and caring for social service centres (Civics, printed pp. 20–35).

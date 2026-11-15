@@ -1,6 +1,6 @@
 # Sources — Anatomy of a drainage basin
 
-countries: Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Slovenia
+countries: Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Slovenia, Uganda
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Sloven
 
 **Book 7:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 8:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — One basin, one outlet | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 58–59 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Sloven
 | North Macedonia part (Grade 10 mk-g10) — 16. Реки и речни сливови | North Macedonia, *North Macedonia Grade 10 mk-g10*, 16. Реки и речни сливови — printed p. 47 |
 | Fiji part — Chapter 2: development of a river system — processes and landforms created | Fiji, *Fiji Year 13 Geography*, Chapter 2: development of a river system — processes and landforms created — printed p. 59 |
 | Slovenia part — Površinske in podzemne vode: Porečje in njegove prvine (the drainage basin and its elements) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Površinske in podzemne vode: Porečje in njegove prvine (the drainage basin and its elements) — printed p. 158 |
+| Uganda part — Ch.8 Drainage in East Africa and its relation to landforms | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.8 Drainage in East Africa and its relation to landforms — printed p. 79 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Slovenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Slovenia, Uganda).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -43,3 +46,5 @@ North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geogr
 Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
+
+Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.

@@ -1,6 +1,6 @@
 # Sources — What a map is
 
-countries: Ethiopia, Saudi Arabia, Turkey
+countries: Ethiopia, Saudi Arabia, Turkey, Uganda
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Saudi Arabia, Turkey
 
 **Book 4:** *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı* (student book, Turkish) — Turkey, Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; year 2017 (Birinci Baskı); ISBN 978-975-11-4324-2. Title as printed: Ortaöğretim Coğrafya 9 — Ders Kitabı (authors İsmail Özdoğan, Kenan Türkez, Mutlu Karakoç). Grade 9 (student). 240 PDF pp. (cover/title page verified against the record title; read from the record's archive.org source_url copy — the repo copy later landed by git sparse checkout at exactly the same byte size, 25,904,697 bytes, confirming the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkey-placements.md.
 
+**Book 5:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
+**Book 6:** *Excel Standard Social Studies, Pupil's Book 5 (First Edition)* (student book, English) — Excel Publishers, Kampala; year not printed (First Edition); ISBN no ISBN printed. Title as printed: Excel Standard Social Studies, Pupil's Book 5 (First Edition). Grade: Primary Five = Grade 5 (student/teacher: STUDENT). PDF pages: 213 (title page verified: "EXCEL STANDARD SOCIAL STUDIES PUPIL'S BOOK 5 — EXCEL PUBLISHERS" — matches record page count 213 exactly; read via the record's books.json source_url at exoticnotes.com after grab.py routes failed with RemoteDisconnected from api.github.com). Commercial book built on the NCDC Primary Five SST syllabus, filed in the library under gov/uganda — see library debts in the group log.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The definition | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 196–197 |
@@ -17,9 +21,15 @@ countries: Ethiopia, Saudi Arabia, Turkey
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 8 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 8, guide printed pp. 231–260 |
 | Sub lesson 1 — The definition (Saudi Arabia way: الخريطة — the map, Unit 5 Lesson 21) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي / Social Studies, Grade 4*, Unit 5 Lesson 21, printed p. 130 |
 | Turkey part — 3A Harita ve Harita Okuryazarlığı (maps and map literacy) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 3A Harita ve Harita Okuryazarlığı (maps and map literacy) — printed p. 57 |
+| Uganda part — Ch.2 What is a Map? | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.2 What is a Map? — printed p. 8 |
+| Uganda part — Topic 1: Maps and pictures | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 1: Maps and pictures — printed p. 8 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Turkey).**
+**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Turkey, Uganda).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
 Searchable tags: map definition, bird’s-eye view, scale, symbols, simplified, social studies
+
+Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
+
+Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial companion to the NCDC syllabus, far more detailed than the home-study booklet: Uganda's districts/regions are listed sub-region by sub-region, and each Uganda topic (physical features, climate, vegetation, resources, population) gets its own full treatment. Non-Geography parts named, not placed: Topic 6 The People of Pre-colonial Uganda — origins, ethnic groups, political/social/economic organisation (History, printed pp. 89–117, except its migration and settlement sections, placed below); Topic 7 Foreign Influence — traders, explorers, missionaries, colonial administrators (History, pp. 118–142); Topic 8 How Uganda Became a Nation (History, pp. 143–148); Topic 9 The Road to Independence (History, pp. 149–158); Topic 10 Uganda as an Independent Nation — presidents, national symbols, democracy, elections (Civics, pp. 159–173); Topic 11 The Government of Uganda — levels, organs, constitution, revenue, budgeting, citizens' rights (Civics, pp. 174–193).

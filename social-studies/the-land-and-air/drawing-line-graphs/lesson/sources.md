@@ -1,12 +1,14 @@
 # Sources — Drawing line graphs
 
-countries: Ethiopia, Papua New Guinea
+countries: Ethiopia, Papua New Guinea, Uganda
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
 **Book 2:** *Geography, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). First published 2022 under GEQIP-E. (No ISBN printed in the pages read.) Printed page = PDF page − 22 for the body (front matter in roman numerals). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-teacher-placements.md.
 
 **Book 3:** *Geography Teacher Guide — Senior High Grade 11, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-95-6. Title as printed: Geography Teacher Guide — Senior High Grade 11, Standards-Based. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 140 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (Non-Geography parts: none — pure Geography guide.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
+
+**Book 4:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,9 +17,12 @@ countries: Ethiopia, Papua New Guinea
 | Statistical diagrams present large amounts of statistical data (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 8, printed pp. 237–260 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 8 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 8, guide printed pp. 231–260 |
 | Papua New Guinea part — Unit 1, Topics 5–6: Climate and vegetation profiles; locating places and vegetation using climate graphs (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG SBC* (teacher guide), Unit 1, Topics 5–6: Climate and vegetation profiles; locating places and vegetation using climate graphs — printed p. 41 |
+| Uganda part — Ch.9 Drawing a Climate Graph | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.9 Drawing a Climate Graph — printed p. 108 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Uganda). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: line graphs, time series, statistical diagrams, child mortality table, social studies
 
 Papua New Guinea's own way (Papua New Guinea Grade 11 Geography TG SBC) (teacher guide — evidence): the standards-based senior Geography course keeps the four-unit frame of the Grade 9–10 strand (Geography Skills; People and Places; People and Resources; People and Environment) as a standalone subject — a heavy map-skills unit (grid references, bearings, cross-sections, climate graphs) before climate regions, biomass, oceanography, and the structure of the Earth. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
+
+Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.

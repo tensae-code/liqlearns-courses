@@ -1,6 +1,6 @@
 # Sources — Time Zones and the Date Line
 
-countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwanda, Vietnam
+countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwan
 
 **Book 8:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
+**Book 9:** *Home-Study Learning — Senior 1 Geography (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC); year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Senior 1 Geography (August 2020). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 38 (cover verified: "HOME-STUDY LEARNING SENIOR 1 GEOGRAPHY", NCDC, August 2020 — matches record page count 38 exactly; read via the record's books.json source_url at f.openpdfs.org, mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
+**Book 10:** *Excel Standard Social Studies, Pupil's Book 6 (First Edition)* (student book, English) — Excel Publishers, Kampala; year not printed (First Edition); ISBN no ISBN printed. Title as printed: Excel Standard Social Studies, Pupil's Book 6 (First Edition). Grade: Primary Six = Grade 6 (student/teacher: STUDENT). PDF pages: 210 (title page verified: "EXCEL STANDARD SOCIAL STUDIES PUPIL'S BOOK 6 — EXCEL PUBLISHERS" — matches record page count 210 exactly; read via the record's books.json source_url at exoticnotes.com after grab.py routes failed with RemoteDisconnected from api.github.com). Commercial book built on the NCDC Primary Six SST syllabus, filed in the library under gov/uganda — see library debts in the group log.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why the world needed zones | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 23–24 |
@@ -30,8 +34,10 @@ countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwan
 | India part (Grade 6 The Earth Our Habitat) — Ch.2: longitude and time, local time and standard time (Indian Standard Time, 82°30'E) | India, *India Grade 6 The Earth Our Habitat*, Ch.2: longitude and time, local time and standard time (Indian Standard Time, 82°30'E) — printed p. 15 |
 | Rwanda part — 6.1.4 Time zones, with worked time-difference calculations (Unit 6) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 6.1.4 Time zones, with worked time-difference calculations (Unit 6) — printed p. 146 |
 | Vietnam part — Bài 5 (part): Time zones and the international date line (world time-zone map; Hanoi's longitude time vs Hai Phong's) | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 5 (part): Time zones and the international date line (world time-zone map; Hanoi's longitude time vs Hai Phong's) — printed p. 18 |
+| Uganda part — Lesson 5: Time differences (East African Standard Time and other zones) | Uganda, *Uganda Grade 8 UG S1 Geography Home-Study*, Lesson 5: Time differences (East African Standard Time and other zones) — printed p. 15 |
+| Uganda part — Topic 1: Using the Prime Meridian to tell international time | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Topic 1: Using the Prime Meridian to tell international time — printed p. 9 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Indonesia, Dominican Republic, India, Rwanda, Vietnam). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -50,3 +56,7 @@ India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes p
 Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the fullest Geography book of the set — a whole unit on direction and location works Rwanda onto the East African and African maps by latitude and longitude and time zones, then physical features and climate, and a climate-change sequence (types, change, effects, overcoming) sits inside it; regional co-operation is taught bloc by bloc (COMESA, CEPGL, ECCAS, AU, NEPAD).
 
 Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
+
+Uganda's own way (Uganda Grade 8 UG S1 Geography Home-Study): A home-based compression of the Senior One course: fieldwork is done around the learner's own home, photographs and statistics (Kilembe Mines data) replace classroom map work, and the booklet ends on East Africa's location, size and relief.
+
+Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uganda to the whole East African Community: location by latitude/longitude, resources, transport and communication are all taught at EAC scale. Non-Geography parts named, not placed: Topic 1 — historical background, formation, revival, organs and symbols of the EAC (Civics); The People of East Africa — origin of human beings, sources of history, archaeological sites, Stone Age, ethnic groups and their political/social/economic organisation (History, printed pp. 25–54); Early visitors — Arab traders, long-distance and slave trade, European traders, Christian missionaries (History, pp. 55–64); Topic 4 The Road to Independence in East Africa — explorers, scramble and partition, colonial rule and reactions, independence struggle, post-independence leaders and democratic rule (History/Civics, pp. 140–188).

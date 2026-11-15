@@ -1,6 +1,6 @@
 # Sources — Land-Shaping Forces — Volcanism, Magma and Lava
 
-countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India, North Macedonia
+countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India, North Macedonia, Uganda
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India,
 
 **Book 9:** *Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education)* (student book, Macedonian) — North Macedonia, Тримакс (Trimaks), Skopje; year 2025; ISBN 978-608-204-519-1; author Prof. Dr. Blagoja Markoski; approved by the National Textbook Commission, decision 26-936/1 of 26.08.2025. Title as printed: Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education). Grade: Grade 10 / gymnasium Year 1 (student/teacher: STUDENT). PDF pages: 128 (cover/title verified against the record; matches the record's 128 pages). Verdict: COMPLETE. Records note: 11 records / 6 distinct books (2 TSV blob records for Grades 7 and 9 + 6 books.json records for Grades 7–12, of which Grades 7 and 9 duplicate the TSV records; plus 3 link_records from Telegram for Grades 8, 11 and 12, which are the same 3 books as the books.json Grade 8/11/12 records) / Grades 7, 9, 10 read full page-by-page via pdftotext -layout after cover verification (fetched by git sparse-checkout from the repo tree — the API routes truncated every transfer over ~21 MB, git transport verified the blobs itself). Grades 8, 11, 12 filed UNREAD: their files are NOT in the repo tree (verified by git ls-tree on main), NOT in any GitHub release (all 12 release tags searched), their phase3-staging geography/student folders are empty, the ministry source URLs now return 404, and Wayback holds no snapshot of the Macedonian Grade 8/11/12 editions — the only remaining copy is the Telegram channel named in the link records, which needs a Telegram browser task. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/north-macedonia-placements.md.
 
+**Book 10:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The whole process | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 13–14 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India,
 | Eritrea part (ER G7 Social Studies) — Unit 8: 8.6 Volcanism in Eritrea | Eritrea, *ER G7 Social Studies*, Unit 8: 8.6 Volcanism in Eritrea — printed p. 120 |
 | India part (Grade 7 Our Environment) — Ch.3 Our Changing Earth: volcanoes | India, *India Grade 7 Our Environment*, Ch.3 Our Changing Earth: volcanoes — printed p. 12 |
 | North Macedonia part (Grade 10 mk-g10) — 5. Вулкани | North Macedonia, *North Macedonia Grade 10 mk-g10*, 5. Вулкани — printed p. 15 |
+| Uganda part — Ch.8 Vulcanicity in East Africa | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.8 Vulcanicity in East Africa — printed p. 90 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India, North Macedonia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India, North Macedonia, Uganda).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -52,3 +55,5 @@ Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Erit
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
 
 North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geography as a systems science — Theme 1 works through the four spheres (lithosphere, atmosphere, hydrosphere, biosphere) lesson by lesson, then natural disasters by sphere; Theme 2 turns to people in geographical space (world urbanisation, energy, farming, industry, transport and trade, tourism, environmental impact); Theme 3 treats the world as one global system (globalisation, transport corridors and sea straits/canals, global networks and navigation systems, international organisations, global challenges and climate-change solutions). 43 numbered lessons.
+
+Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.

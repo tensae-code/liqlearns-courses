@@ -1,6 +1,6 @@
 # Sources — Four kinds of work
 
-countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colombia, Eritrea, Cambodia, Rwanda, Fiji
+countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colomb
 
 **Book 23:** *Social Science Year 7 — Study of the Pacific, Pupil's Book* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit; year not printed on the cover (ministry 2015-era textbook list); ISBN no ISBN printed. Title as printed: Social Science Year 7 — Study of the Pacific, Pupil's Book. Grade: Year 7 (student/teacher: STUDENT). PDF pages: 79 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record) after the grab.py GitHub API route failed as in Book 1; the TSV record for this book is the GitHub blob of the same file. Non-Geography parts named, not placed: Strand 1 Social Organisation and Processes — personal/social groups and processes (printed pp. 4–14), cultural identity, diversity and cohesion (pp. 15–26); Strand 2 Time, Continuity and Change — understanding the past (pp. 27–42), continuity and change (pp. 43–45). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 24:** *Home-Study Learning — Primary 4 Social Studies (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC), with Save the Children; year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Primary 4 Social Studies (August 2020). Grade: Primary Four = Grade 4 (student/teacher: STUDENT). PDF pages: 42 (cover verified: "HOME-STUDY LEARNING PRIMARY 4 SOCIAL STUDIES", NCDC, August 2020 — matches record page count 42 exactly; read via the record's books.json source_url at teacher.ac, mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The four classes | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 122–124 |
@@ -74,8 +76,9 @@ countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colomb
 | Fiji part — 5.4.2 People and Work (paid and unpaid work; casual, temporary, permanent and voluntary workers; income differences; Fiji currency compared) | Fiji, *Fiji Year 5 Social Studies*, 5.4.2 People and Work (paid and unpaid work; casual, temporary, permanent and voluntary workers; income differences; Fiji currency compared) — printed p. 54 |
 | Fiji part — Unit 4, People and Work: working for a living; paid and unpaid work; how people value their work | Fiji, *Fiji Year 6 Social Science*, Unit 4, People and Work: working for a living; paid and unpaid work; how people value their work — printed p. 69 |
 | Fiji part — 4.2 People and Work (work and consumers in the Pacific) | Fiji, *Fiji Year 7 Social Science*, 4.2 People and Work (work and consumers in the Pacific) — printed p. 73 |
+| Uganda part — Term Two: Different types of work people do in our areas (fishing, mining, farming…) | Uganda, *Uganda Grade 4 UG P4 SST Home-Study*, Term Two: Different types of work people do in our areas (fishing, mining, farming…) — printed p. 16 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Barbados, Angola, Bahamas, Samoa, Colombia, Eritrea, Cambodia, Rwanda, Fiji). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Barbados, Angola, Bahamas, Samoa, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -120,3 +123,5 @@ Fiji's own way (Fiji Year 5 Social Studies): Geography is Fiji-first — the chi
 Fiji's own way (Fiji Year 6 Social Science): Year 6 turns outward to the whole Fiji map — map conventions, island groups, towns, rivers and roads — and to Fiji's climate and sea resources, with conservation taught through traditional taboos and harvest seasons.
 
 Fiji's own way (Fiji Year 7 Social Science): Year 7 widens the lens to the whole South Pacific — island types, "islandness" and vulnerability, Pacific hazards, and resources owned by tribes and clans; Fiji is taught as the hub of the South West Pacific.
+
+Uganda's own way (Uganda Grade 4 UG P4 SST Home-Study): Social Studies organised entirely around "our district": the child's own district's physical features, vegetation, settlement and work are the geography content. Non-Geography parts named, not placed: Term Two social activities and ceremonies in the district (printed pp. 17–19); Term Three — Our Leaders in the District, Children's Rights, Responsibilities of People in Our District, Social Services in Our District and caring for social service centres (Civics, printed pp. 20–35).

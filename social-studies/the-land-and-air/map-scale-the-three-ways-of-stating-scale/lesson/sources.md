@@ -1,6 +1,6 @@
 # Sources — Map Scale — The Three Ways of Stating Scale
 
-countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea
+countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Uganda
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea
 
 **Book 9:** *Social Science Teacher Guide — Primary Grade 4, Standards Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-564-9. Title as printed: Social Science Teacher Guide — Primary Grade 4, Standards Based. Grade: Grade 4 (student/teacher: TEACHER). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Strand 1 Community and Organization — People and Groups (work people do), Relationships, Rules/Roles/Responsibilities (Civics), printed pp. 23–34; Strand 2 Trade — Needs and Wants, Production (goods from cash crops), Trade and Communication (transport in trade) (Economics), printed pp. 35–46; Strand 3 Culture and Society — Customs and Societies, Beliefs and Values (changes in culture) (Culture), printed pp. 47–57; Strand 5 History and Origins — History of the Local Community (History), printed pp. 71–73.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
 
+**Book 10:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What scale is | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 27–29 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea
 | Eritrea part (ER G4 Social Studies) — Chapter 6: 6.4 What is map scale? | Eritrea, *ER G4 Social Studies*, Chapter 6: 6.4 What is map scale? — printed p. 75 |
 | Fiji part — Unit 2 Scales and distances (statement, representative fraction, ratio; converting scale distances) | Fiji, *Fiji Year 9 Social Science*, Unit 2 Scales and distances (statement, representative fraction, ratio; converting scale distances) — printed p. 118 |
 | Papua New Guinea part — Strand 4 Unit 3: Reading and using maps — the scale; what scale is and scale on a map, Lessons 156–157 (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 4 Social Science TG* (teacher guide), Strand 4 Unit 3: Reading and using maps — the scale; what scale is and scale on a map, Lessons 156–157 — printed p. 69 |
+| Uganda part — Ch.3 Map Scale; Types of Scale | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.3 Map Scale; Types of Scale — printed p. 14 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Uganda). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -52,3 +55,5 @@ Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teach
 Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).
 
 Papua New Guinea's own way (Papua New Guinea Grade 4 Social Science TG) (teacher guide — evidence): the same five-strand structure as Grade 3, widening the child's world from the local area to the district — district features, renewable versus non-renewable resources, and map scale. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
+
+Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.

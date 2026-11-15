@@ -1,6 +1,6 @@
 # Sources — Trains, planes and boats
 
-countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia
+countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Uganda
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia
 
 **Book 9:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 10:** *Excel Standard Social Studies, Pupil's Book 6 (First Edition)* (student book, English) — Excel Publishers, Kampala; year not printed (First Edition); ISBN no ISBN printed. Title as printed: Excel Standard Social Studies, Pupil's Book 6 (First Edition). Grade: Primary Six = Grade 6 (student/teacher: STUDENT). PDF pages: 210 (title page verified: "EXCEL STANDARD SOCIAL STUDIES PUPIL'S BOOK 6 — EXCEL PUBLISHERS" — matches record page count 210 exactly; read via the record's books.json source_url at exoticnotes.com after grab.py routes failed with RemoteDisconnected from api.github.com). Commercial book built on the NCDC Primary Six SST syllabus, filed in the library under gov/uganda — see library debts in the group log.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Rail and air | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 140–143 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 5.2: air and water transport in Malaysia | Malaysia, *MY T2 Geografi*, Bab 5.2: air and water transport in Malaysia — printed pp. 77-80 |
 | India part (Grade 10 Contemporary India-II) — Ch.7: railways, pipelines, major seaports and inland waterways, and airways (Air India, Pawan Hans) | India, *India Grade 10 Contemporary India-II*, Ch.7: railways, pipelines, major seaports and inland waterways, and airways (Air India, Pawan Hans) — printed p. 82 |
 | Slovenia part — Plovna pot reke sv. Lovrenca (the St Lawrence Seaway) inside Gospodarstvo ZDA in Kanade | Slovenia, *Slovenia Grade 8 Geografija 8*, Plovna pot reke sv. Lovrenca (the St Lawrence Seaway) inside Gospodarstvo ZDA in Kanade — printed p. 103 |
+| Uganda part — Topic 3: Water, air, pipeline and railway transport in East Africa | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Topic 3: Water, air, pipeline and railway transport in East Africa — printed p. 124 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Guatemala, Bahamas, Malaysia, India, Slovenia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Guatemala, Bahamas, Malaysia, India, Slovenia, Uganda). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 The airline destination figures (62+ African, 127+ international) are taught as printed in the student book (Unit 5, printed pp. 140–143), in the book’s own "as printed" framing.
 
@@ -52,3 +55,5 @@ Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scal
 India's own way (Grade 10 Contemporary India-II): Contemporary India-II is the human/economic book, matching Part I's physical book: India's resources, forests, water, agriculture, minerals and energy, manufacturing and the "lifelines" (transport, communication, trade) — taught throughout as development-versus-environment argument, with movements and case studies (Chipko, Narmada Bachao, rooftop rainwater harvesting in the Thar) carrying the criticism.
 
 Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
+
+Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uganda to the whole East African Community: location by latitude/longitude, resources, transport and communication are all taught at EAC scale. Non-Geography parts named, not placed: Topic 1 — historical background, formation, revival, organs and symbols of the EAC (Civics); The People of East Africa — origin of human beings, sources of history, archaeological sites, Stone Age, ethnic groups and their political/social/economic organisation (History, printed pp. 25–54); Early visitors — Arab traders, long-distance and slave trade, European traders, Christian missionaries (History, pp. 55–64); Topic 4 The Road to Independence in East Africa — explorers, scramble and partition, colonial rule and reactions, independence struggle, post-independence leaders and democratic rule (History/Civics, pp. 140–188).
