@@ -1,6 +1,6 @@
 # Sources — Water, Air, Forest, Wildlife, Soil
 
-countries: Ethiopia, Angola, Turkmenistan, Samoa, Eritrea, Rwanda, Venezuela
+countries: Ethiopia, Angola, Turkmenistan, Samoa, Eritrea, Rwanda, Venezuela, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 46).
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Angola, Turkmenistan, Samoa, Eritrea, Rwanda, Venezuela
 
 **Book 8:** *¡Viva Venezuela! Ciencias Sociales 2do Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-298-5. Title as printed: ¡Viva Venezuela! Ciencias Sociales 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 75 (printed pages run to 144 in spreads; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Los que llegaron por el mar a Nuestra América (printed p. 83); Con la fundación de ciudades nace un país distinto (p. 88); fundación de Caracas y los pueblos indígenas (p. 92); Coro, una ciudad con la historia a cuestas (p. 98); Cuando Venezuela fue un país de grandes cacaos (p. 104); Primeras luchas contra el yugo español / Miranda / 19 de abril de 1810 / 5 de julio de 1811 / Carabobo / Colombia la grande (pp. 108–128); La casa de Simón Bolívar (p. 36).; Civics/culture parts named, not placed: Necesario es fortalecer la identidad venezolana (p. 56); La Bandera Nacional (p. 122); San Juan Congo (p. 106, Afro-Venezuelan festival).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 9:** *GEOGRAFIE — Manual pentru clasa a XI-a (Mihai Hachi, Elena Sochircă, Silvia Suvac, Tudor Castraveț)* (student book, Romanian) — Editura Lumina, Chișinău; year 2025 (approval order 1232 of 18.07.2025); ISBN 978-9975-65-521-7. Title as printed: GEOGRAFIE — Manual pentru clasa a XI-a (Mihai Hachi, Elena Sochircă, Silvia Suvac, Tudor Castraveț). Grade: 11 (student/teacher: STUDENT). PDF pages: 138 (cover verified against the record title; 12,947,266 bytes = record size exactly, eduresurse.gov.md via resume loop). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Water: life impossible without it; its main problem is pollution. Air: likewise polluted | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed pp. 61–63 |
@@ -32,8 +34,10 @@ countries: Ethiopia, Angola, Turkmenistan, Samoa, Eritrea, Rwanda, Venezuela
 | Rwanda part — Akamaro k'ibidukikije biboneka mu murenge: what the environment in our sector gives us — rivers and lakes give water, fish, boat transport and hydro-electric power (Unit 7) | Rwanda, *Rwanda Grade 3 Amasomo Mbonezamubano SB*, Akamaro k'ibidukikije biboneka mu murenge: what the environment in our sector gives us — rivers and lakes give water, fish, boat transport and hydro-electric power (Unit 7) — printed p. 113 |
 | Rwanda part — 7.2 Importance of the natural environment in our province (Unit 7) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 7.2 Importance of the natural environment in our province (Unit 7) — printed p. 72 |
 | Venezuela part — El agua también es alimento | Venezuela, *Venezuela Grade 2 G2 CS Viva Venezuela*, El agua también es alimento — printed p. 48 |
+| Moldova part — 8. Resources of the hydrosphere | Moldova, *Moldova Grade 11 G11 Geography*, 8. Resources of the hydrosphere — printed p. 24 |
+| Moldova part — 10. Resources of the biosphere; soil resources | Moldova, *Moldova Grade 11 G11 Geography*, 10. Resources of the biosphere; soil resources — printed p. 28 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Angola, Turkmenistan, Samoa, Eritrea, Rwanda, Venezuela).**
+**Acceptance count: taught in 8 countries (Ethiopia, Angola, Turkmenistan, Samoa, Eritrea, Rwanda, Venezuela, Moldova).**
 
 No teacher-guide material is folded into this lesson: the Addis Ababa guide's Unit 3 carries no counterpart to the five-resource survey beyond the student book's own teaching. The two erosion GIFs are drawn renders built to the placement's own GIF need ("rain washing soil off a bare slope — yes, erosion is motion"); the second GIF draws out the same erosion teaching for topsoil in a single storm, the form the book's erosion problem takes on farmland. No book error flagged by the placements touches this lesson.
 
@@ -52,3 +56,5 @@ Rwanda's own way (Rwanda Grade 3 Amasomo Mbonezamubano SB): P3 moves the home gr
 Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.
 
 Venezuela's own way (Venezuela Grade 2 G2 CS Viva Venezuela): population education (UNESCO population-education guides reworked) woven into story form — Tío Conejo tales, grandparents' memories and the child's own school and street carry population, housing, landscape and weather-sign content.
+
+Moldova's own way (Moldova Grade 11 G11 Geography): a human geography of the world year — political map and state typology, natural resources by sphere, population and settlements, then the world economy branch by branch (agriculture, each industry, services, transport, tourism), closing with economic-geographic characterisations of 14 states on every continent (Egypt among them) written to one template, plus case studies including labour migration at local/regional/global scale and using Google Maps/Google Earth as geo-information portals.

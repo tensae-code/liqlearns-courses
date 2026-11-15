@@ -1,6 +1,6 @@
 # Sources — Water Bodies — The Five Oceans
 
-countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Papua New Guinea, Sudan, Mauritania, Yemen, Pakistan
+countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Papua New Guinea, Sudan, Mauritania, Yemen, Pakistan, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -38,6 +38,10 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Baham
 
 **Book 18:** *معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (printing table on contents page); ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 108 (cover/title page verified against the record title). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). Non-Geography parts named, not placed: Ch.1 Citizenship and Human Rights, printed pp. 1–14; Ch.2 Culture (incl. Diversity and Tolerance), pp. 15–26; Ch.3 State and Government, pp. 27–44; Ch.4 History, pp. 45–60; Ch.6 Economics, pp. 94–104; Glossary, p. 105 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 19:** *Geografie — Manual pentru clasa a V-a* (student book, Romanian) — Editura Lumina, Chișinău; year 2015; ISBN printed (number not fully legible in the scan). Title as printed: Geografie — Manual pentru clasa a V-a. Grade: 5 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; 16,733,891 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
+**Book 20:** *GEOGRAFIE — Manual pentru clasa a VII-a (Vitalie Sochircă, Natalia Cozma)* (student book, Romanian) — Editura ARC; year not legible on the title page as extracted; ISBN 978-9975-0-0706-1. Title as printed: GEOGRAFIE — Manual pentru clasa a VII-a (Vitalie Sochircă, Natalia Cozma). Grade: 7 (student/teacher: STUDENT). PDF pages: 130 (title page verified against the record title; 36,965,973 bytes = record size exactly, via the GitHub release asset — the repo tree path returned 404 and the eduresurse.gov.md download truncated twice at ~20 MB). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The largest water bodies | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 6 |
@@ -53,6 +57,8 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Baham
 | Mauritania part — Unit 6 Lesson 14: the oceans | Mauritania, *Mauritania Grade 6 geo-6af-m*, Unit 6 Lesson 14: the oceans — printed p. 47 |
 | Yemen part — Unit 1 Lesson 2 Water Bodies | Yemen, *Yemen Grade 8 G8 Geography of the Continents*, Unit 1 Lesson 2 Water Bodies — printed p. 12 |
 | Pakistan part — Oceans (Pacific, Atlantic, Indian, Southern, Arctic) | Pakistan, *Pakistan Grade 4 SS4*, Oceans (Pacific, Atlantic, Indian, Southern, Arctic) — printed p. 63 |
+| Moldova part — §19 The World Ocean | Moldova, *Moldova Grade 5 G5 Geography*, §19 The World Ocean — printed p. 75 |
+| Moldova part — 23. The World Ocean: component parts, history of its knowledge and exploration | Moldova, *Moldova Grade 7 G7 Geography*, 23. The World Ocean: component parts, history of its knowledge and exploration — printed p. 98 |
 
 | Sub lesson 4 — Arctic and Atlantic — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 18–20 |
 | Sub lesson 5 — Indian and Pacific — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 18–20 |
@@ -63,7 +69,7 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Baham
 | Guatemala part — Mares y océanos: Atlántico/Mar Caribe and Pacífico around the isthmus | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Mares y océanos: Atlántico/Mar Caribe and Pacífico around the isthmus (Unit 2) — printed p. 83 |
 | Dominican Republic part (Grade 3) — Seas and oceans, and the impact of human actions on them | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Seas and oceans, and the impact of human actions on them — printed p. 16 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Sudan, Mauritania, Yemen, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Sudan, Mauritania, Yemen, Pakistan, Moldova). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Nauru's own way: Nauru uses the shared Pacific ESD reader suite (local advisors Fay Itaia & Sharon Kam for Nauru) — Geography is taught as ocean stewardship: the Pacific as a connected "sea of islands", its animals, and the traditional fishing knowledge of Tonga, Tuvalu and Niue, ending in a plastic-waste action plan. That way is stocked here as the way Nauru teaches this thing.
 
@@ -98,3 +104,7 @@ Mauritania's own way (Mauritania Grade 6 geo-6af-m): The final primary book turn
 Yemen's own way (Yemen Grade 8 G8 Geography of the Continents): Grade 8 tours the continents one by one — natural features, population, economic activities — with one country studied in depth per continent (Indonesia, Eritrea, Germany, the USA, Brazil), and closes on contemporary world issues.
 
 Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in Urdu where the Geography chapter (Ch.5, printed pp. 61–93) works entirely through Pakistan's own map, landforms, weather and census, with BOLTS as the map-elements mnemonic and "I have learnt!" / "Work for me to do" boxes closing every topic.
+
+Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).
+
+Moldova's own way (Moldova Grade 7 G7 Geography): the northern continents year (North America, then Eurasia) taught with the same continent template as Grade 6, opened by a full unit on the degree network (latitude, longitude, coordinates, distances) with practical work, and closed by a whole unit on the World Ocean taken ocean by ocean; climate zones are described "by algorithm" in a set practical.

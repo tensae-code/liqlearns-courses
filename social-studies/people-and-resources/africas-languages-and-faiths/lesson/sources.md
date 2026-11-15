@@ -1,6 +1,6 @@
 # Sources — Africa's languages and faiths
 
-countries: Ethiopia, Colombia, Rwanda, Afghanistan
+countries: Ethiopia, Colombia, Rwanda, Afghanistan, Moldova
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Colombia, Rwanda, Afghanistan
 
 **Book 5:** *جغرافيه صنف ٩ (Geography, Grade 9)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٩ (Geography, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; 14,184,052 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 6:** *Geografie — Manual pentru clasa a VI-a* (student book, Romanian) — Litera; year 2023 (ministerial approval order 446 of 12.05.2023); ISBN 978-9975-74-966-4. Title as printed: Geografie — Manual pentru clasa a VI-a. Grade: 6 (student/teacher: STUDENT). PDF pages: 130 (cover verified against the record title; 18,663,404 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — A continent of many languages | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 5, printed pp. 139–143 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Colombia, Rwanda, Afghanistan
 | Rwanda part — The people of East Africa: major ethnic groups (Unit 9, Lesson 1) (teacher guide — evidence) | Rwanda, *Rwanda Grade 6 Social Studies TG*, The people of East Africa: major ethnic groups (Unit 9, Lesson 1) — printed p. 164 |
 | Rwanda part — 9.1 Major ethnic groups of East Africa: the Bantu, Nilotics, Hamites and Nilo-Hamites (Unit 9, The people of East Africa) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 9.1 Major ethnic groups of East Africa: the Bantu, Nilotics, Hamites and Nilo-Hamites (Unit 9, The people of East Africa) — printed pp. 204–207 |
 | Afghanistan part — Ch. 1 Lesson 12: religion and language in Africa | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 1 Lesson 12: religion and language in Africa — printed p. 37 |
+| Moldova part — 12. Africa: peoples, traditions and customs; the political map of Africa in general | Moldova, *Moldova Grade 6 G6 Geography*, 12. Africa: peoples, traditions and customs; the political map of Africa in general — printed p. 49 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Colombia, Rwanda, Afghanistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Colombia, Rwanda, Afghanistan, Moldova).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -34,3 +37,5 @@ Rwanda's own way (Rwanda Grade 6 Social Studies TG) (teacher guide — evidence)
 Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the fullest Geography book of the set — a whole unit on direction and location works Rwanda onto the East African and African maps by latitude and longitude and time zones, then physical features and climate, and a climate-change sequence (types, change, effects, overcoming) sits inside it; regional co-operation is taught bloc by bloc (COMESA, CEPGL, ECCAS, AU, NEPAD).
 
 Afghanistan's own way (Afghanistan Grade 9 Geography (Dari)): the continent march finishes with Africa, then Australia/Oceania and Antarctica — same fixed order per continent as Grade 8, with a data table of the independent countries of Africa appended to the Africa chapter.
+
+Moldova's own way (Moldova Grade 6 G6 Geography): a "Geography of the Continents" year — the southern continents (Africa, South America, Australia, Antarctica) each worked through with the identical template (physical position, relief and minerals, climate factors and zones, surface waters, natural zones, population, peoples and political map), and every continent closes with a "geographic risk processes" lesson; an annex gives a standard plan for characterising any continent.

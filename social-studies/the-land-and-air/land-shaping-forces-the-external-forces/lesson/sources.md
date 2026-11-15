@@ -1,19 +1,29 @@
 # Sources — Land-Shaping Forces — The External Forces
 
-countries: Ethiopia
+countries: Ethiopia, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
 **Book 2:** *Social Studies Teacher's Guide, Grade 8* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, Addis Ababa, © 2015 E.C. (cover); first edition 2022 (copyright page). Authors: Tilahun Atlabachew T/Giorgis (M.A.), Melkamu Belay Tiruneh (B.A.), Kassahun Demissie Worku (M.A.), Mulugeta Dires Fetene (M.A.). Editors, reviewers and evaluators: Belay Belete Birhanu (MA), Solomon Wondimu Metaferia (MA). Coordinator: Getachew Talema Atinafu. No ISBN printed. Printed page = PDF page − 5. TRUNCATED: the file holds only printed pp. 1–47 (Units 1–3); Units 4–7 (printed pp. 48–109) are missing. Read in full for every page the file contains, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-teacher-placements.md.
+
+**Book 3:** *Geografie — Manual pentru clasa a V-a* (student book, Romanian) — Editura Lumina, Chișinău; year 2015; ISBN printed (number not fully legible in the scan). Title as printed: Geografie — Manual pentru clasa a V-a. Grade: 5 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; 16,733,891 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
+**Book 4:** *Geografie — Manual pentru clasa a VIII-a (Vitalie Sochircă, Nicolae Boboc, Natalia Cozma)* (student book, Romanian) — Știința; year 2024 edition (imprint data run to 2024); ISBN 978-9975-85-446-7. Title as printed: Geografie — Manual pentru clasa a VIII-a (Vitalie Sochircă, Nicolae Boboc, Natalia Cozma). Grade: 8 (student/teacher: STUDENT). PDF pages: 138 (cover verified against the record title; 19,985,457 bytes = record size exactly, eduresurse.gov.md download completed by resume loop after a truncated first attempt; the repo tree/blob route returned 404). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Forces that come from outside | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 16 |
 | Sub lesson 2 — Sun-powered, five agents | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 16 |
 | Sub lesson 3 — Levelling what the internal forces built | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 16 |
+| Moldova part — §10 External factors modelling the crust (weathering, water, wind, ice) | Moldova, *Moldova Grade 5 G5 Geography*, §10 External factors modelling the crust (weathering, water, wind, ice) — printed p. 39 |
+| Moldova part — 5. Exogenous processes in Moldova (erosion, landslides, ravines) | Moldova, *Moldova Grade 8 G8 Geography*, 5. Exogenous processes in Moldova (erosion, landslides, ravines) — printed p. 24 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Moldova).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
 Searchable tags: land-shaping forces   the external forces, ethiopia, social studies, the land and air
+
+Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).
+
+Moldova's own way (Moldova Grade 8 G8 Geography): the home-country year — a full physical geography of the Republic of Moldova only (position and extreme points, structural units and minerals, relief units, climate and seasons, the Nistru/Prut river system, soils, steppe and forest-steppe zones), ending with its protected areas (national parks, scientific and landscape reserves, nature monuments) and Moldova in the context of sustainable development; hydrographic objects and protected areas are described "by algorithm" in set practicals.

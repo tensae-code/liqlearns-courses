@@ -1,6 +1,6 @@
 # Sources — Africa's vegetation belts
 
-countries: Ethiopia, Slovenia, Uganda, Sudan, Mauritania, Libya
+countries: Ethiopia, Slovenia, Uganda, Sudan, Mauritania, Libya, Moldova
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Slovenia, Uganda, Sudan, Mauritania, Libya
 
 **Book 6:** *جغرافية العالم — World Geography, Grade 9 of Basic Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: جغرافية العالم — World Geography, Grade 9 of Basic Education. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 168 (cover verified visually: "جغرافية العالم للصف التاسع" — matches record; text layer is font-garbled, read via 100-DPI 4-up contact sheets; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 7:** *Geografie — Manual pentru clasa a VI-a* (student book, Romanian) — Litera; year 2023 (ministerial approval order 446 of 12.05.2023); ISBN 978-9975-74-966-4. Title as printed: Geografie — Manual pentru clasa a VI-a. Grade: 6 (student/teacher: STUDENT). PDF pages: 130 (cover verified against the record title; 18,663,404 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Vegetation follows climate — the master control | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 73–78 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Slovenia, Uganda, Sudan, Mauritania, Libya
 | Sudan part — Africa's vegetation regions, matched to climate | Sudan, *Sudan Grade 7 SD Geography 7*, Africa's vegetation regions, matched to climate — printed p. 26 |
 | Mauritania part — Axis 3 Location: the vegetation cover | Mauritania, *Mauritania Grade 3 geo-3af-m*, Axis 3 Location: the vegetation cover — printed p. 25 |
 | Libya part — Ch.1 Africa: الأقاليم المناخية والنباتية — Africa's climate and vegetation regions | Libya, *Libya Grade 9 LY G9 World Geography*, Ch.1 Africa: الأقاليم المناخية والنباتية — Africa's climate and vegetation regions — printed p. 35 |
+| Moldova part — 10. Africa: natural zones | Moldova, *Moldova Grade 6 G6 Geography*, 10. Africa: natural zones — printed p. 41 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Uganda, Sudan, Mauritania, Libya).**
+**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Uganda, Sudan, Mauritania, Libya, Moldova).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -39,3 +42,5 @@ Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world
 Mauritania's own way (Mauritania Grade 3 geo-3af-m): The youngest geography book in the set is built on five axes worked through observation pictures (I observe / I discuss / I conclude): the map key, position, location, landmarks, and a "time landmark" axis. Geography scope placed below; the time-landmark axis is local HISTORY and is NOT placed: History of my village (printed p. 37), History of the founding of the mosque (p. 39), History of the founding of the mahadra (p. 41), History of the founding of the school (p. 43), History of the founding of the dispensary (p. 45).
 
 Libya's own way (Libya Grade 9 LY G9 World Geography): A continent-by-continent world survey built on one repeated pattern — every continent gets location, surface features, climate (with summer/winter maps), climate-and-vegetation regions, population (with density map) and economic resources (agriculture, livestock, minerals and energy tables) — starting with Africa because, as the preface says, Libya's own continent links three continents and controls world trade routes.
+
+Moldova's own way (Moldova Grade 6 G6 Geography): a "Geography of the Continents" year — the southern continents (Africa, South America, Australia, Antarctica) each worked through with the identical template (physical position, relief and minerals, climate factors and zones, surface waters, natural zones, population, peoples and political map), and every continent closes with a "geographic risk processes" lesson; an annex gives a standard plan for characterising any continent.

@@ -1,6 +1,6 @@
 # Sources — Temporary homes, and what makes a town
 
-countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania, Kuwait, Iran, Yemen, Pakistan
+countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania, Kuwait, Iran, Yemen, Pakistan, Moldova
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -44,6 +44,8 @@ countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Er
 
 **Book 21:** *GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition; author Muhammad Ramzan Khan; ISBN no ISBN printed. Title as printed: GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 93 (read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record). Verdict: COMPLETE. Read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 22:** *Geografie — Manual pentru clasa a IX-a (Geografia umană a Republicii Moldova)* (student book, Romanian) — Editura ARC, Chișinău; authors Vitalie Sochircă, Natalia Cozma, Tatiana Baciu; ISBN 978-9975-0-0859-4; elaborated under the 2019 curriculum (Ministry order no. 906 of 17 July 2019); year not printed on the pages read. Title as printed: Geografie — Manual pentru clasa a IX-a (Geografia umană a Republicii Moldova). Grade: 9 (student/teacher: STUDENT). PDF pages: 130 (cover verified against the record title; 77,295,436 bytes = record size exactly, from the recorded eduresurse.gov.md source after repeated truncated connections were completed with a resume loop; the GitHub release route disconnected mid-download — the book is already in GitHub per its record, so no staging). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Temporary settlements | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 106–109 |
@@ -68,8 +70,9 @@ countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Er
 | Yemen part — Unit 3 Lesson 1 Place of Residence (city of neighbourhoods vs village) | Yemen, *Yemen Grade 3 G3 Social Studies*, Unit 3 Lesson 1 Place of Residence (city of neighbourhoods vs village) — printed p. 47 |
 | Yemen part — Unit 1 Lesson 5 My City | Yemen, *Yemen Grade 4 G4 Social Studies*, Unit 1 Lesson 5 My City — printed p. 23 |
 | Pakistan part — Towns are different from cities: side-by-side comparison of size, government, services and way of life | Pakistan, *Pakistan Grade 7 Geography 7*, Towns are different from cities: side-by-side comparison of size, government, services and way of life — printed pp. 34–35 |
+| Moldova part — §10 Human settlements; rural settlements of Moldova | Moldova, *Moldova Grade 9 Geography*, §10 Human settlements; rural settlements of Moldova — printed p. 50 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania, Kuwait, Iran, Yemen, Pakistan).**
+**Acceptance count: taught in 17 countries (Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania, Kuwait, Iran, Yemen, Pakistan, Moldova).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -110,3 +113,5 @@ Yemen's own way (Yemen Grade 3 G3 Social Studies): a combined Social Education b
 Yemen's own way (Yemen Grade 4 G4 Social Studies): Grade 4 turns from the child's surroundings to the homeland itself — one unit on Yemen's land and people, one on its resources sector by sector (farm, animal, sea, industry, trade/tourism), before services, national occasions and historical figures.
 
 Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.
+
+Moldova's own way (Moldova Grade 9 Geography): the human-geography year of one's own country, written as a citizen's handbook — it opens with the Constitution's own words on territory, weighs the advantages and disadvantages of the country's economic-geographic position (including EU candidate status, June 2022), and treats the wine industry as national patrimony with roots in the Cucuteni-Tripolie civilisation; every theme carries "current problems", case studies and debates about the pupils' own locality, and the two practical works study the home locality itself (its population; its tourist sights).

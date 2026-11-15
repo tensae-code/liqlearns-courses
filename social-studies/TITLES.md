@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2393**
+Geography lessons across the eight Geography titles: **2493**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1658,3 +1658,82 @@ Soil Pollution, The Environment And Ecosystems and The
 Social Environment And Balance With Nature.
 (All 45 of the new lessons are taught in 1 country
 (Libya); all stand on student books.)
+
++100 for Moldova, 2026-11-15 — The Land and Air: Africa
+Position Size And Coasts, Antarctica Climate Ice And
+Life, Antarctica Position And Relief, Australia Climate
+Zones And Waters, Australia Natural Zones, Australia
+Position Size And Coasts, Australia Relief And
+Minerals, Characterising A Continent The Full Plan,
+Describing Hydrographic Objects By Algorithm, Eurasia
+Climate, Eurasia Climate Zones, Eurasia Natural Zones,
+Eurasia Rivers And Lakes, Moldova Climate Factors,
+Moldova Faunal Complexes, Moldova Forest Steppe Zone,
+Moldova Geological Structure And Minerals, Moldova
+Lakes And Reservoirs, Moldova Natural Zones, Moldova
+Relief In General, Moldova Relief Units, Moldova
+Rivers, Moldova Seasons, Moldova Soil Types, Moldova
+Steppe Zone, Moldova Territory Position And Extreme
+Points, Moldova Vegetation And Wildlife, Moldova
+Vegetation Types, North America Climate Zones, North
+America Natural Zones, North America Position Size And
+Coasts, North America Relief And Minerals,
+Precipitation Kinds And How They Form, Relief Of The
+Ocean Floor, South America Climate Factors, South
+America Climate Zones, South America Natural Zones,
+South America Position Size And Coasts, South America
+Relief And Minerals, South America Rivers And Lakes,
+The Indian And Arctic Oceans Compared, World Natural
+Zones and World Ocean Climate Waters And Life;
+Population, Transport and Maps: Australia Population
+Distribution, Demographic Problems Ageing Traps And
+False Urbanisation, Eurasia Population, Europe And
+Africa Population Compared Practical, Moldova
+Demographic Structure And Human Resources, Moldova
+Ethnic And Confessional Structure, Moldova Population
+Evolution And Natural Movement, Moldova Urban
+Settlements, North America Population And States,
+Population Structure Race Language And Religion, South
+America Population Distribution and Studying Your Own
+Localitys Population; People and Resources: Australia
+Economic Geographic Characterisation, Brazil Economic
+Geographic Characterisation, China Economic Geographic
+Characterisation, Egypt Economic Geographic
+Characterisation, France Economic Geographic
+Characterisation, Germany Economic Geographic
+Characterisation, How Regions Differ In Water And
+Forest Provision, India Economic Geographic
+Characterisation, Japan Economic Geographic
+Characterisation, Moldova Climate And Water Resources,
+Moldova Soil And Biological Resources, Resources Of The
+Atmosphere And Outer Space, Resources Of The
+Lithosphere Minerals, Romania Economic Geographic
+Characterisation, Russia Economic Geographic
+Characterisation, South Africa Economic Geographic
+Characterisation, Ukraine Economic Geographic
+Characterisation, United Kingdom Economic Geographic
+Characterisation and USA Economic Geographic
+Characterisation; Culture and Work: Animal Husbandry
+Around The World, Human Races And Peoples Of The World,
+Machine Building Industry, Metallurgy Ferrous And Non
+Ferrous, Moldova Building Materials Chemical And Wood
+Industries, Moldova Cereal Crops And Processing
+Industries, Moldova Machine Building And Metal
+Processing, Moldova Technical Crops And Processing
+Industries, Moldova Vegetable Fruit Growing And
+Canning, Moldova Viticulture And The Wine Industry,
+Peoples And Political Map Of South America, Political
+Map Of Eurasia, The Chemical Industry, The Energy
+Industry Of The World, The Food Industry, The World
+Economy And International Division Of Labour and World
+Economic Integration Blocs; Resources and Conflict:
+Moldova Protected Areas And Reserves; Global Issues:
+Australia Risk Processes Aridity Creeks And Fire,
+Deforestation And The Pororoca, Moldova Administrative
+Territorial Organisation, Moldova Foreign Economic
+Relations, Moldova Territory And Economic Geographic
+Position, Protecting The World Ocean, Shifting
+Cultivation And Technological Hazards and Territorial
+Conflicts In The World Today.
+(All 100 of the new lessons are taught in 1 country
+(Moldova); all stand on student books.)

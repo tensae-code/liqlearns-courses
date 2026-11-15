@@ -1,6 +1,6 @@
 # Sources — Employment structure — reading an economy
 
-countries: Ethiopia, Mongolia, Cambodia, Venezuela
+countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Mongolia, Cambodia, Venezuela
 
 **Book 5:** *El espacio geográfico de Venezuela — Geografía, 3er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-337-1. Title as printed: El espacio geográfico de Venezuela — Geografía, 3er Año. Grade: Grade 9 (3er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 178 (printed pages run to 176, Bibliografía; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 6:** *GEOGRAFIE — Manual pentru clasa a XI-a (Mihai Hachi, Elena Sochircă, Silvia Suvac, Tudor Castraveț)* (student book, Romanian) — Editura Lumina, Chișinău; year 2025 (approval order 1232 of 18.07.2025); ISBN 978-9975-65-521-7. Title as printed: GEOGRAFIE — Manual pentru clasa a XI-a (Mihai Hachi, Elena Sochircă, Silvia Suvac, Tudor Castraveț). Grade: 11 (student/teacher: STUDENT). PDF pages: 138 (cover verified against the record title; 12,947,266 bytes = record size exactly, eduresurse.gov.md via resume loop). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Primary, secondary, tertiary | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 5, printed pp. 121–123 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Mongolia, Cambodia, Venezuela
 | Mongolia part — What do we know about the structure of the local economy? | Mongolia, *Нийгэм судлал VIII (Social Studies VIII)*, Grade 8, Chapter III Individual and Economy: 3.1 What do we know about the structure of the local economy? — printed p. 43 |
 | Cambodia part — Geography Ch.1 L3 សេដ្ឋកិច្ចកម្ពុជា (the Cambodian economy) | Cambodia, *Cambodia Grade 9 Social Studies*, Geography Ch.1 L3 សេដ្ឋកិច្ចកម្ពុជា (the Cambodian economy) — printed p. 22 |
 | Venezuela part — Venezuela Petrolera: la población activa | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Venezuela Petrolera: la población activa — printed p. 128 |
+| Moldova part — 18. Socioeconomic structure of population; human resources | Moldova, *Moldova Grade 11 G11 Geography*, 18. Socioeconomic structure of population; human resources — printed p. 46 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Cambodia, Venezuela).**
+**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Cambodia, Venezuela, Moldova).**
 
 Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -34,3 +37,5 @@ Searchable tags: employment structure, primary secondary tertiary quaternary, se
 Cambodia's own way (Cambodia Grade 9 Social Studies): Grade 9 Geography turns homeward and outward — Cambodia's own minerals, natural tourist sites and economy first, then full country profiles of the wider Asian neighbours (China, India, Malaysia, Brunei, Timor-Leste).
 
 Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national geography written as Geohistoria — every physical topic (position, climate, relief, hydrography) is paired with the historical stages that organised the same space (agrarian Venezuela, oil Venezuela, 21st-century Venezuela), and the Amazon rainforest closes the book as a defence-of-life argument.
+
+Moldova's own way (Moldova Grade 11 G11 Geography): a human geography of the world year — political map and state typology, natural resources by sphere, population and settlements, then the world economy branch by branch (agriculture, each industry, services, transport, tourism), closing with economic-geographic characterisations of 14 states on every continent (Egypt among them) written to one template, plus case studies including labour migration at local/regional/global scale and using Google Maps/Google Earth as geo-information portals.

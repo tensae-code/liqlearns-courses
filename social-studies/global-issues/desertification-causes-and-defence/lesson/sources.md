@@ -1,6 +1,6 @@
 # Sources — Desertification — Causes and Defence
 
-countries: Ethiopia, Angola, Zimbabwe, United Kingdom, Slovenia, Syria, Iran, Yemen
+countries: Ethiopia, Angola, Zimbabwe, United Kingdom, Slovenia, Syria, Iran, Yemen, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 108).
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Angola, Zimbabwe, United Kingdom, Slovenia, Syria, Iran, Ye
 
 **Book 8:** *جغرافية الجمهورية اليمنية والوطن العربي للصف التاسع من مرحلة التعليم الأساسي (Geography of the Republic of Yemen and the Arab Homeland for Grade 9) — the record's short title is الجغرافيا (Geography)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية الجمهورية اليمنية والوطن العربي للصف التاسع من مرحلة التعليم الأساسي (Geography of the Republic of Yemen and the Arab Homeland for Grade 9) — the record's short title is الجغرافيا (Geography). Grade: 9 (student/teacher: STUDENT). PDF pages: 131 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 9:** *Geografie — Manual pentru clasa a VI-a* (student book, Romanian) — Litera; year 2023 (ministerial approval order 446 of 12.05.2023); ISBN 978-9975-74-966-4. Title as printed: Geografie — Manual pentru clasa a VI-a. Grade: 6 (student/teacher: STUDENT). PDF pages: 130 (cover verified against the record title; 18,663,404 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Desert spreading: UN Environment Programme (1991) figures as printed — 35% of the world threatened, 4.5 billion hectares, 850,000,000 people affected; Africa worst hit, two-thirds of its land desert | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 148–149 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Angola, Zimbabwe, United Kingdom, Slovenia, Syria, Iran, Ye
 | Syria part — Man, the maker of desertification | Syria, *Syria Grade 8 Geography G8*, Man, the maker of desertification — printed p. 146 |
 | Iran part — Iran's climate (desertification and the dust-storm (rizgard) crisis) | Iran, *Iran Grade 10 Geography of Iran*, Iran's climate (desertification and the dust-storm (rizgard) crisis) — printed p. 46 |
 | Yemen part — Unit 4 Lesson 2 The Desertification Problem | Yemen, *Yemen Grade 9 G9 Geography of Yemen and the Arab World*, Unit 4 Lesson 2 The Desertification Problem — printed p. 75 |
+| Moldova part — 13. Africa risk processes: sand and dust storms, desertification, malnutrition, epidemics | Moldova, *Moldova Grade 6 G6 Geography*, 13. Africa risk processes: sand and dust storms, desertification, malnutrition, epidemics — printed p. 53 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Angola, United Kingdom, Slovenia, Syria, Iran, Yemen). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Angola, United Kingdom, Slovenia, Syria, Iran, Yemen, Moldova). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 The UN figures are the book's printed 1991 figures, taught as the book's figures and dated as such in the lesson; they are not presented as today's measurements. No teacher-guide lesson is claimed for desertification: the pairing warning in the placements notes the guide has no desertification lesson beyond an overload effect. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -50,3 +53,5 @@ Syria's own way (Syria Grade 8 Geography G8): Grade 8 leaves the Arab world and 
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
 
 Yemen's own way (Yemen Grade 9 G9 Geography of Yemen and the Arab World): Grade 9 returns to Yemen by environments (mountain, coastal-marine, desert), then Yemen's population and resources, then scales up to the Arab world's environment and water problems, population and industrial development.
+
+Moldova's own way (Moldova Grade 6 G6 Geography): a "Geography of the Continents" year — the southern continents (Africa, South America, Australia, Antarctica) each worked through with the identical template (physical position, relief and minerals, climate factors and zones, surface waters, natural zones, population, peoples and political map), and every continent closes with a "geographic risk processes" lesson; an annex gives a standard plan for characterising any continent.

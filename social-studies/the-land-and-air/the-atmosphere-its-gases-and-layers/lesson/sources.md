@@ -1,6 +1,6 @@
 # Sources — The Atmosphere — Its Gases and Layers
 
-countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen
+countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -38,6 +38,8 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombi
 
 **Book 18:** *جغرافية الإنسان والبيئة للصف الأول الثانوي (Geography of Man and the Environment for the First Secondary Grade = Grade 10)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية الإنسان والبيئة للصف الأول الثانوي (Geography of Man and the Environment for the First Secondary Grade = Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 179 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 19:** *Geografie — Manual pentru clasa a V-a* (student book, Romanian) — Editura Lumina, Chișinău; year 2015; ISBN printed (number not fully legible in the scan). Title as printed: Geografie — Manual pentru clasa a V-a. Grade: 5 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; 16,733,891 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The air blanket's recipe | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 |
@@ -59,8 +61,9 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombi
 | Mauritania part — Unit 1 Lesson 5: the Earth's atmosphere | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 1 Lesson 5: the Earth's atmosphere — printed p. 27 |
 | Yemen part — Unit 3 Lesson 1 The Atmosphere: Its Components, Layers and Importance | Yemen, *Yemen Grade 7 G7 Principles of Physical Geography*, Unit 3 Lesson 1 The Atmosphere: Its Components, Layers and Importance — printed p. 59 |
 | Yemen part — Unit 4 Lesson 1 The Atmosphere and Its Importance | Yemen, *Yemen Grade 10 G10 Geography of Man and the Environment*, Unit 4 Lesson 1 The Atmosphere and Its Importance — printed p. 83 |
+| Moldova part — §12 Composition and structure of the atmosphere | Moldova, *Moldova Grade 5 G5 Geography*, §12 Composition and structure of the atmosphere — printed p. 48 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -99,3 +102,5 @@ Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle 
 Yemen's own way (Yemen Grade 7 G7 Principles of Physical Geography): from Grade 7 the subject splits — this book is pure physical geography organised by the Earth's spheres (atmosphere, lithosphere, hydrosphere, biosphere), opened by map skills and Earth-and-space.
 
 Yemen's own way (Yemen Grade 10 G10 Geography of Man and the Environment): secondary geography is thematic, not regional — man and space, man representing his geographic field (remote sensing, projections, maps), man organising it (rural/urban), climate and water, the dynamic Earth, and the great environmental systems.
+
+Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).

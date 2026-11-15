@@ -5631,3 +5631,173 @@ taught in 1 country (Libya), 8 questions each; all
 stand on student books (Libya has no teacher guides in
 this wave).
 Geography lessons: 2348 → 2393.
+
+
+## Moldova — Geography expansion (merged 2026-11-15)
+207 placement lines stocked from Moldova's 12 records /
+6 distinct books, all student books, Romanian, COMPLETE
+— Geografie Grade 5 (Editura Lumina, 2015; a single
+Earth-systems arc), Grade 6 (Litera, 2023; the southern
+continents, one template per continent), Grade 7
+(Editura ARC; the northern continents and the World
+Ocean), Grade 8 (Știința, 2024; the physical geography
+of the Republic of Moldova), Grade 11 (Editura Lumina,
+2025; human geography of the world, closing with
+economic-geographic characterisations of 14 states) and
+Grade 9 (Editura ARC; the human geography of the
+Republic of Moldova) — so every placed book counts
+toward acceptance; there are no teacher guides. The 12
+records are TSV + books.json duplicates of the same 6
+manuals, read from the recorded ministry source URLs
+(eduresurse.gov.md / ctice.md) after the GitHub API
+route disconnected twice, byte size and page count
+verified against each record before reading, full
+text-layer page-by-page reads. The placements file's
+book tallies (33 + 32 + 29 + 29 + 55 + 29) sum to 207
+and agree with the line-by-line count, and the
+existing/NEW split agrees too (91 existing-flagged /
+116 NEW-flagged). Stocked into standing lessons (102
+placements across 76 lessons): the existing-flagged
+placements at the slug the placements file names where
+it stands, 7 NEW-flagged placements whose slugs already
+stand —
+the-land-and-air/eurasia-position-size-and-coasts,
+the-land-and-air/eurasia-relief-and-minerals,
+the-land-and-air/north-america-climate,
+the-land-and-air/the-atlantic-ocean,
+the-land-and-air/the-pacific-ocean,
+the-land-and-air/the-great-geographic-discoveries and
+the-land-and-air/the-water-cycle — and 10 placements
+remapped to the closest standing lesson covering the
+thing (original slug recorded in each provenance row):
+culture-and-work/primary-secondary-and-tertiary-jobs →
+culture-and-work/economic-activities-the-three-levels,
+culture-and-work/secondary-activities-industry →
+culture-and-work/secondary-activities-modern-light-and-heavy-industry
+(2 placements),
+culture-and-work/tertiary-activities-services →
+culture-and-work/tertiary-activities-services-transport-tourism,
+first-steps/typology-of-the-worlds-states →
+people-and-resources/classification-and-typology-of-world-states,
+global-issues/sustainable-development-goals →
+resources-and-conflict/the-17-sdgs,
+global-issues/the-political-map-of-the-world-how-it-formed
+→ global-issues/political-map-formation-periods (2
+placements),
+resources-and-conflict/natural-resources-renewable-and-non-renewable
+→
+people-and-resources/renewable-non-renewable-and-using-sustainably,
+the-land-and-air/north-america-rivers-and-lakes →
+the-land-and-air/north-americas-rivers-and-lakes. 100
+NEW lessons built (105 placements, all flagged NEW) —
+**The Land and Air**: Africa Position Size And Coasts
+(printed p. 23), Antarctica Climate Ice And Life
+(printed p. 118), Antarctica Position And Relief
+(printed p. 115), Australia Climate Zones And Waters
+(printed p. 100), Australia Natural Zones (printed p.
+105), Australia Position Size And Coasts (printed p.
+95), Australia Relief And Minerals (printed p. 98),
+Characterising A Continent The Full Plan (printed p.
+126), Describing Hydrographic Objects By Algorithm
+(printed p. 71), Eurasia Climate (printed p. 64),
+Eurasia Climate Zones (printed p. 68; printed p. 73),
+Eurasia Natural Zones (printed p. 79; printed p. 83),
+Eurasia Rivers And Lakes (printed p. 74), Moldova
+Climate Factors (printed p. 36), Moldova Faunal
+Complexes (printed p. 83), Moldova Forest Steppe Zone
+(printed p. 109), Moldova Geological Structure And
+Minerals (printed p. 11), Moldova Lakes And Reservoirs
+(printed p. 62), Moldova Natural Zones (printed p.
+102), Moldova Relief In General (printed p. 16),
+Moldova Relief Units (printed p. 29), Moldova Rivers
+(printed p. 57), Moldova Seasons (printed p. 49),
+Moldova Soil Types (printed p. 92), Moldova Steppe Zone
+(printed p. 105), Moldova Territory Position And
+Extreme Points (printed p. 6), Moldova Vegetation And
+Wildlife (printed p. 74), Moldova Vegetation Types
+(printed p. 78), North America Climate Zones (printed
+p. 34), North America Natural Zones (printed p. 42),
+North America Position Size And Coasts (printed p. 22),
+North America Relief And Minerals (printed p. 26),
+Precipitation Kinds And How They Form (printed p. 60),
+Relief Of The Ocean Floor (printed p. 102), South
+America Climate Factors (printed p. 65), South America
+Climate Zones (printed p. 69), South America Natural
+Zones (printed p. 77), South America Position Size And
+Coasts (printed p. 59), South America Relief And
+Minerals (printed p. 62), South America Rivers And
+Lakes (printed p. 73), The Indian And Arctic Oceans
+Compared (printed p. 120), World Natural Zones (printed
+p. 95; printed p. 99), World Ocean Climate Waters And
+Life (printed p. 106); **Population, Transport and
+Maps**: Australia Population Distribution (printed p.
+109), Demographic Problems Ageing Traps And False
+Urbanisation (printed p. 53), Eurasia Population
+(printed p. 87), Europe And Africa Population Compared
+Practical (printed p. 48), Moldova Demographic
+Structure And Human Resources (printed p. 42), Moldova
+Ethnic And Confessional Structure (printed p. 46),
+Moldova Population Evolution And Natural Movement
+(printed p. 32), Moldova Urban Settlements (printed p.
+55), North America Population And States (printed p.
+47), Population Structure Race Language And Religion
+(printed p. 41), South America Population Distribution
+(printed p. 82), Studying Your Own Localitys Population
+(printed p. 59); **People and Resources**: Australia
+Economic Geographic Characterisation (printed p. 131),
+Brazil Economic Geographic Characterisation (printed p.
+125), China Economic Geographic Characterisation
+(printed p. 113), Egypt Economic Geographic
+Characterisation (printed p. 127), France Economic
+Geographic Characterisation (printed p. 101), Germany
+Economic Geographic Characterisation (printed p. 103),
+How Regions Differ In Water And Forest Provision
+(printed p. 133), India Economic Geographic
+Characterisation (printed p. 120), Japan Economic
+Geographic Characterisation (printed p. 118), Moldova
+Climate And Water Resources (printed p. 20), Moldova
+Soil And Biological Resources (printed p. 26),
+Resources Of The Atmosphere And Outer Space (printed p.
+21), Resources Of The Lithosphere Minerals (printed p.
+26), Romania Economic Geographic Characterisation
+(printed p. 106), Russia Economic Geographic
+Characterisation (printed p. 110), South Africa
+Economic Geographic Characterisation (printed p. 129),
+Ukraine Economic Geographic Characterisation (printed
+p. 108), United Kingdom Economic Geographic
+Characterisation (printed p. 97), USA Economic
+Geographic Characterisation (printed p. 122); **Culture
+and Work**: Animal Husbandry Around The World (printed
+p. 61), Human Races And Peoples Of The World (printed
+p. 107), Machine Building Industry (printed p. 71),
+Metallurgy Ferrous And Non Ferrous (printed p. 68),
+Moldova Building Materials Chemical And Wood Industries
+(printed p. 98), Moldova Cereal Crops And Processing
+Industries (printed p. 70), Moldova Machine Building
+And Metal Processing (printed p. 94), Moldova Technical
+Crops And Processing Industries (printed p. 74),
+Moldova Vegetable Fruit Growing And Canning (printed p.
+78), Moldova Viticulture And The Wine Industry (printed
+p. 82), Peoples And Political Map Of South America
+(printed p. 85), Political Map Of Eurasia (printed p.
+92), The Chemical Industry (printed p. 73), The Energy
+Industry Of The World (printed p. 65), The Food
+Industry (printed p. 77), The World Economy And
+International Division Of Labour (printed p. 55), World
+Economic Integration Blocs (printed p. 92); **Resources
+and Conflict**: Moldova Protected Areas And Reserves
+(printed p. 113; printed p. 118; printed p. 123);
+**Global Issues**: Australia Risk Processes Aridity
+Creeks And Fire (printed p. 112), Deforestation And The
+Pororoca (printed p. 89), Moldova Administrative
+Territorial Organisation (printed p. 10), Moldova
+Foreign Economic Relations (printed p. 118), Moldova
+Territory And Economic Geographic Position (printed p.
+6), Protecting The World Ocean (printed p. 124),
+Shifting Cultivation And Technological Hazards (printed
+p. 94), Territorial Conflicts In The World Today
+(printed p. 14) — all 100 of the new lessons are taught
+in 1 country (Moldova), 8 questions each; all stand on
+student books (Moldova has no teacher guides in this
+wave).
+Geography lessons: 2393 → 2493.

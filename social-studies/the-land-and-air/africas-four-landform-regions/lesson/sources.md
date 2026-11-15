@@ -1,6 +1,6 @@
 # Sources — Africa's four landform regions
 
-countries: Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen, Libya
+countries: Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen, Libya, Moldova
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen, Libya
 
 **Book 7:** *جغرافية العالم — World Geography, Grade 9 of Basic Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: جغرافية العالم — World Geography, Grade 9 of Basic Education. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 168 (cover verified visually: "جغرافية العالم للصف التاسع" — matches record; text layer is font-garbled, read via 100-DPI 4-up contact sheets; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 8:** *Geografie — Manual pentru clasa a VI-a* (student book, Romanian) — Litera; year 2023 (ministerial approval order 446 of 12.05.2023); ISBN 978-9975-74-966-4. Title as printed: Geografie — Manual pentru clasa a VI-a. Grade: 6 (student/teacher: STUDENT). PDF pages: 130 (cover verified against the record title; 18,663,404 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The four regions named | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 1, printed pp. 8–9 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen, Libya
 | Sudan part — Africa's surface and relief: plateaus, Atlas Mountains, lakes and volcanic peaks | Sudan, *Sudan Grade 7 SD Geography 7*, Africa's surface and relief: plateaus, Atlas Mountains, lakes and volcanic peaks — printed p. 14 |
 | Yemen part — Unit 3 Lesson 1 Natural Features of Africa | Yemen, *Yemen Grade 8 G8 Geography of the Continents*, Unit 3 Lesson 1 Natural Features of Africa — printed p. 37 |
 | Libya part — Ch.1 Africa: مظاهر السطح — Africa's surface features | Libya, *Libya Grade 9 LY G9 World Geography*, Ch.1 Africa: مظاهر السطح — Africa's surface features — printed p. 17 |
+| Moldova part — 6. Africa: relief, internal and external crust-modelling factors, useful mineral substances | Moldova, *Moldova Grade 6 G6 Geography*, 6. Africa: relief, internal and external crust-modelling factors, useful mineral substances — printed p. 26 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen, Libya).**
+**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen, Libya, Moldova).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -44,3 +47,5 @@ Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world
 Yemen's own way (Yemen Grade 8 G8 Geography of the Continents): Grade 8 tours the continents one by one — natural features, population, economic activities — with one country studied in depth per continent (Indonesia, Eritrea, Germany, the USA, Brazil), and closes on contemporary world issues.
 
 Libya's own way (Libya Grade 9 LY G9 World Geography): A continent-by-continent world survey built on one repeated pattern — every continent gets location, surface features, climate (with summer/winter maps), climate-and-vegetation regions, population (with density map) and economic resources (agriculture, livestock, minerals and energy tables) — starting with Africa because, as the preface says, Libya's own continent links three continents and controls world trade routes.
+
+Moldova's own way (Moldova Grade 6 G6 Geography): a "Geography of the Continents" year — the southern continents (Africa, South America, Australia, Antarctica) each worked through with the identical template (physical position, relief and minerals, climate factors and zones, surface waters, natural zones, population, peoples and political map), and every continent closes with a "geographic risk processes" lesson; an annex gives a standard plan for characterising any continent.

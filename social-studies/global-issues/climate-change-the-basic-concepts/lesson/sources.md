@@ -1,6 +1,6 @@
 # Sources — Climate change — the basic concepts
 
-countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam, Mauritania
+countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam, Mauritania, Moldova
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam, 
 
 **Book 7:** *Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters). Grade: Grade 11 (5e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 113 (cover/title page verified against the record title; the TSV tree record and the TSV release-asset record are the same book; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-5AS-LM.pdf, 3,217,391 bytes). Verdict: COMPLETE. The TSV tree record and the TSV release-asset record are the same book, counted once, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 8:** *Geografie — Manual pentru clasa a VIII-a (Vitalie Sochircă, Nicolae Boboc, Natalia Cozma)* (student book, Romanian) — Știința; year 2024 edition (imprint data run to 2024); ISBN 978-9975-85-446-7. Title as printed: Geografie — Manual pentru clasa a VIII-a (Vitalie Sochircă, Nicolae Boboc, Natalia Cozma). Grade: 8 (student/teacher: STUDENT). PDF pages: 138 (cover verified against the record title; 19,985,457 bytes = record size exactly, eduresurse.gov.md download completed by resume loop after a truncated first attempt; the repo tree/blob route returned 404). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Weather today, climate over years | G12 student #25, printed pp. 35–37 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam, 
 | Slovenia part — Podnebne spremembe (climate change) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Podnebne spremembe (climate change) — printed p. 99 |
 | Vietnam part — Topic 10.1 (part): Climate change — the concept and its manifestations: global temperature up about 1 °C in 1901–2020, rainfall changing unevenly, more extreme weather, and sea level rising (2.2 mm/year over 1951–2020, 3.3 mm/year in 1993–2020) | Vietnam, *Vietnam Grade 10 Chuyên đề 10*, Topic 10.1 (part): Climate change — the concept and its manifestations: global temperature up about 1 °C in 1901–2020, rainfall changing unevenly, more extreme weather, and sea level rising (2.2 mm/year over 1951–2020, 3.3 mm/year in 1993–2020) — printed pp. 5–6 |
 | Mauritania part — Unit 3 Lesson 12: climate change | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 3 Lesson 12: climate change — printed p. 80 |
+| Moldova part — 11. Climate change (evidence and effects in Moldova) | Moldova, *Moldova Grade 8 G8 Geography*, 11. Climate change (evidence and effects in Moldova) — printed p. 54 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam, Mauritania).**
+**Acceptance count: taught in 8 countries (Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam, Mauritania, Moldova).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -44,3 +47,5 @@ Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija f
 Vietnam's own way (Vietnam Grade 10 Chuyên đề 10): the elective companion goes deep on just three things — climate change, urbanisation, and how to write a geography report — and keeps pulling the world material back to Vietnam (a metre of sea-level rise would flood 10–12% of Vietnam's area; Hanoi and Ho Chi Minh City as the home examples of developing-world urbanisation).
 
 Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle re-runs physical geography at full depth in four units — Planet Earth, Climate, the Effects of Climate, the Earth (structure, erosion, coasts) — with a class project closing Units 1 and 4.
+
+Moldova's own way (Moldova Grade 8 G8 Geography): the home-country year — a full physical geography of the Republic of Moldova only (position and extreme points, structural units and minerals, relief units, climate and seasons, the Nistru/Prut river system, soils, steppe and forest-steppe zones), ending with its protected areas (national parks, scientific and landscape reserves, nature monuments) and Moldova in the context of sustainable development; hydrographic objects and protected areas are described "by algorithm" in set practicals.

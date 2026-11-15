@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — Crust, Mantle, Core
 
-countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya
+countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -50,6 +50,8 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, Nor
 
 **Book 25:** *مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 141 (title page verified in text layer: "مبادئ الجغرافيا العامة للسنة الأولى بمرحلة التعليم الثانوي" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 26:** *Geografie — Manual pentru clasa a V-a* (student book, Romanian) — Editura Lumina, Chișinău; year 2015; ISBN printed (number not fully legible in the scan). Title as printed: Geografie — Manual pentru clasa a V-a. Grade: 5 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; 16,733,891 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three layers | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 28–29 |
@@ -76,8 +78,9 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, Nor
 | Yemen part — Unit 5 Lesson 1 Structure of the Earth and Its Lithosphere | Yemen, *Yemen Grade 10 G10 Geography of Man and the Environment*, Unit 5 Lesson 1 Structure of the Earth and Its Lithosphere — printed p. 116 |
 | Pakistan part — Internal structure of the Earth: crust (continental Sial and oceanic Sima), mantle and core (outer liquid, inner solid Nife) | Pakistan, *Pakistan Grade 6 Geography 6*, Internal structure of the Earth: crust (continental Sial and oceanic Sima), mantle and core (outer liquid, inner solid Nife) — printed pp. 2–3 |
 | Libya part — Book 1 Ch.2: مكونات كوكب الأرض — The layered structure of planet Earth [placement slug: the-land-and-air/inside-the-earth-crust-mantle-core] | Libya, *Libya Grade 10 LY G10 Principles*, Book 1 Ch.2: مكونات كوكب الأرض — The layered structure of planet Earth — printed p. 22 |
+| Moldova part — §8 Earth's internal structure and crust composition | Moldova, *Moldova Grade 5 G5 Geography*, §8 Earth's internal structure and crust composition — printed p. 31 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 19 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 The "how we know" sub lesson rests on teacher-guide evidence, labelled as such in its name here and in the lesson; the pupil-taught layers sub lesson carries the acceptance count. Pairing warning: the Grade 7 teacher guide is an Addis Ababa bureau book and the student books are Amhara bureau books; they are NOT edition-matched. Pupil content in this lesson comes from the student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -124,3 +127,5 @@ Yemen's own way (Yemen Grade 10 G10 Geography of Man and the Environment): secon
 Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taught through Pakistan's own land — its fault lines and 1935/2005 earthquakes, Khewra salt and Thar coal among the rocks, K2 and the Karakoram among the mountains, Pakistan's four climatic regions, its six forest types from mangrove to alpine, and the Indus flood as the country's defining disaster.
 
 Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.
+
+Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).

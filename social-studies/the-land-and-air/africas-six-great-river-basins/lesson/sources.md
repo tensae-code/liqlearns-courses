@@ -1,6 +1,6 @@
 # Sources — Africa's six great river basins
 
-countries: Ethiopia, Uzbekistan, Slovenia, Sudan
+countries: Ethiopia, Uzbekistan, Slovenia, Sudan, Moldova
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Uzbekistan, Slovenia, Sudan
 
 **Book 4:** *كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); first edition 2021; no ISBN printed. Title as printed: كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 18,445,877 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 5:** *Geografie — Manual pentru clasa a VI-a* (student book, Romanian) — Litera; year 2023 (ministerial approval order 446 of 12.05.2023); ISBN 978-9975-74-966-4. Title as printed: Geografie — Manual pentru clasa a VI-a. Grade: 6 (student/teacher: STUDENT). PDF pages: 130 (cover verified against the record title; 18,663,404 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a basin is — the words first | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 58–59 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Uzbekistan, Slovenia, Sudan
 | Uzbekistan part — §23 Africa: inland waters (great rivers part) | Uzbekistan, *Uzbekistan Grade 6 Geografiya (Soatov & Abdulqosimov)*, §23 Africa: inland waters (great rivers part) — printed p. 62 |
 | Slovenia part — Vodovje (Africa's waters) inside Lega, površje in vodovje Afrike | Slovenia, *Slovenia Grade 8 Geografija 8*, Vodovje (Africa's waters) inside Lega, površje in vodovje Afrike — printed p. 1 |
 | Sudan part — Africa's drainage and water resources: Nile, Congo, Niger, Zambezi and Orange rivers | Sudan, *Sudan Grade 7 SD Geography 7*, Africa's drainage and water resources: Nile, Congo, Niger, Zambezi and Orange rivers — printed p. 19 |
+| Moldova part — 9. Africa: surface waters | Moldova, *Moldova Grade 6 G6 Geography*, 9. Africa: surface waters — printed p. 37 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uzbekistan, Slovenia, Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Uzbekistan, Slovenia, Sudan, Moldova).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -29,3 +32,5 @@ Uzbekistan's own way (Uzbekistan Grade 6 Geografiya): Geography in Grade 6 is th
 Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
 
 Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world opener (continents, oceans, relief, world environments), each continent — Africa, Asia, Europe — gets the same treatment in the same order (relief, drainage, climate, vegetation, population, economic activity, environmental problems), closing with a British Isles case study; Sudan and Africa anchor the examples throughout.
+
+Moldova's own way (Moldova Grade 6 G6 Geography): a "Geography of the Continents" year — the southern continents (Africa, South America, Australia, Antarctica) each worked through with the identical template (physical position, relief and minerals, climate factors and zones, surface waters, natural zones, population, peoples and political map), and every continent closes with a "geographic risk processes" lesson; an annex gives a standard plan for characterising any continent.

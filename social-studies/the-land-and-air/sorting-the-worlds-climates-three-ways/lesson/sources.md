@@ -1,6 +1,6 @@
 # Sources — Sorting the world's climates — three ways
 
-countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan
+countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -44,6 +44,8 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papu
 
 **Book 21:** *جغرافيه صنف ١٠ (Geography, Grade 10)* (student book, Dari) — Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١٠ (Geography, Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; 19,615,315 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 22:** *Geografie — Manual pentru clasa a V-a* (student book, Romanian) — Editura Lumina, Chișinău; year 2015; ISBN printed (number not fully legible in the scan). Title as printed: Geografie — Manual pentru clasa a V-a. Grade: 5 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; 16,733,891 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why classify at all | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -69,8 +71,9 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papu
 | Mauritania part — Unit 2 Lesson 7: the major climate regions | Mauritania, *Mauritania Grade 7 geo-1as-m*, Unit 2 Lesson 7: the major climate regions — printed p. 47 |
 | Mauritania part — Unit 3 Lesson 10: the major climate regions | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 3 Lesson 10: the major climate regions — printed p. 67 |
 | Afghanistan part — Ch. 7 Lesson 61: the types of climate | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 7 Lesson 61: the types of climate — printed p. 209 |
+| Moldova part — §17 Earth's climatic zones | Moldova, *Moldova Grade 5 G5 Geography*, §17 Earth's climatic zones — printed p. 68 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -113,3 +116,5 @@ Mauritania's own way (Mauritania Grade 7 geo-1as-m): The student book of the cou
 Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle re-runs physical geography at full depth in four units — Planet Earth, Climate, the Effects of Climate, the Earth (structure, erosion, coasts) — with a class project closing Units 1 and 4.
 
 Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.
+
+Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).

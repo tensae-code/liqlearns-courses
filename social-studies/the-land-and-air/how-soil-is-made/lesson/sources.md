@@ -1,6 +1,6 @@
 # Sources — How soil is made
 
-countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mauritania, Yemen
+countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mauritania, Yemen, Moldova
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -34,6 +34,10 @@ countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mau
 
 **Book 16:** *جغرافية الإنسان والبيئة للصف الأول الثانوي (Geography of Man and the Environment for the First Secondary Grade = Grade 10)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية الإنسان والبيئة للصف الأول الثانوي (Geography of Man and the Environment for the First Secondary Grade = Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 179 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 17:** *Geografie — Manual pentru clasa a V-a* (student book, Romanian) — Editura Lumina, Chișinău; year 2015; ISBN printed (number not fully legible in the scan). Title as printed: Geografie — Manual pentru clasa a V-a. Grade: 5 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; 16,733,891 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
+**Book 18:** *Geografie — Manual pentru clasa a VIII-a (Vitalie Sochircă, Nicolae Boboc, Natalia Cozma)* (student book, Romanian) — Știința; year 2024 edition (imprint data run to 2024); ISBN 978-9975-85-446-7. Title as printed: Geografie — Manual pentru clasa a VIII-a (Vitalie Sochircă, Nicolae Boboc, Natalia Cozma). Grade: 8 (student/teacher: STUDENT). PDF pages: 138 (cover verified against the record title; 19,985,457 bytes = record size exactly, eduresurse.gov.md download completed by resume loop after a truncated first attempt; the repo tree/blob route returned 404). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The five factors | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 69–70 |
@@ -53,8 +57,10 @@ countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mau
 | Mauritania part — Axis 2 Position: the soil | Mauritania, *Mauritania Grade 3 geo-3af-m*, Axis 2 Position: the soil — printed p. 17 |
 | Yemen part — Unit 4 Lesson 2 Soil | Yemen, *Yemen Grade 7 G7 Principles of Physical Geography*, Unit 4 Lesson 2 Soil — printed p. 89 |
 | Yemen part — Unit 5 Lesson 4 Soil: Its Formation and Importance | Yemen, *Yemen Grade 10 G10 Geography of Man and the Environment*, Unit 5 Lesson 4 Soil: Its Formation and Importance — printed p. 135 |
+| Moldova part — §23 Soils: general characteristics | Moldova, *Moldova Grade 5 G5 Geography*, §23 Soils: general characteristics — printed p. 91 |
+| Moldova part — 19. Soil: the formation factors (in Moldova) | Moldova, *Moldova Grade 8 G8 Geography*, 19. Soil: the formation factors (in Moldova) — printed p. 88 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Angola, India, Fiji, Slovenia, Syria, Mauritania, Yemen). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Angola, India, Fiji, Slovenia, Syria, Mauritania, Yemen, Moldova). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Extension (Wave 4 Band D): the Grade 10 book's soil definition and functions (printed pp. 66–67) were stacked under this lesson per the build brief; the Grade 10 types survey stands as its own lesson, "Five African soils".
 
@@ -83,3 +89,7 @@ Mauritania's own way (Mauritania Grade 3 geo-3af-m): The youngest geography book
 Yemen's own way (Yemen Grade 7 G7 Principles of Physical Geography): from Grade 7 the subject splits — this book is pure physical geography organised by the Earth's spheres (atmosphere, lithosphere, hydrosphere, biosphere), opened by map skills and Earth-and-space.
 
 Yemen's own way (Yemen Grade 10 G10 Geography of Man and the Environment): secondary geography is thematic, not regional — man and space, man representing his geographic field (remote sensing, projections, maps), man organising it (rural/urban), climate and water, the dynamic Earth, and the great environmental systems.
+
+Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).
+
+Moldova's own way (Moldova Grade 8 G8 Geography): the home-country year — a full physical geography of the Republic of Moldova only (position and extreme points, structural units and minerals, relief units, climate and seasons, the Nistru/Prut river system, soils, steppe and forest-steppe zones), ending with its protected areas (national parks, scientific and landscape reserves, nature monuments) and Moldova in the context of sustainable development; hydrographic objects and protected areas are described "by algorithm" in set practicals.

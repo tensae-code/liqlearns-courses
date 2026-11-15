@@ -1,6 +1,6 @@
 # Sources — Revolution and the Seasons
 
-countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya
+countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -44,6 +44,8 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 
 **Book 21:** *الاجتماعيات (التاريخ والجغرافيا) — Social Studies (History and Geography), Grade 5 of Basic Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية); year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: الاجتماعيات (التاريخ والجغرافيا) — Social Studies (History and Geography), Grade 5 of Basic Education. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 104 (cover verified visually: "الاجتماعيات (التاريخ والجغرافيا) للصف الخامس" — matches record; image-only scan, read via 100-DPI 4-up contact sheets; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 22:** *Geografie — Manual pentru clasa a V-a* (student book, Romanian) — Editura Lumina, Chișinău; year 2015; ISBN printed (number not fully legible in the scan). Title as printed: Geografie — Manual pentru clasa a V-a. Grade: 5 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; 16,733,891 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — what revolution causes: the Sun's apparent journey, day length, seasons | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 21–23 |
@@ -67,8 +69,9 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 | Afghanistan part — Ch. 1 Lesson 9: the Earth's revolution (translational movement) and its results | Afghanistan, *Afghanistan Grade 7 Geography (Dari)*, Ch. 1 Lesson 9: the Earth's revolution (translational movement) and its results — printed p. 21 |
 | Yemen part — Unit 4 Lesson 3 The Four Seasons | Yemen, *Yemen Grade 3 G3 Social Studies*, Unit 4 Lesson 3 The Four Seasons — printed p. 70 |
 | Libya part — نتائج دوران الأرض حول الشمس: Results of revolution — the four seasons and their importance | Libya, *Libya Grade 5 LY G5 Social Studies*, نتائج دوران الأرض حول الشمس: Results of revolution — the four seasons and their importance — printed p. 67 |
+| Moldova part — §6 Earth's revolution movement | Moldova, *Moldova Grade 5 G5 Geography*, §6 Earth's revolution movement — printed p. 22 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -113,3 +116,5 @@ Afghanistan's own way (Afghanistan Grade 7 Geography (Dari)): the Dari MoE patte
 Yemen's own way (Yemen Grade 3 G3 Social Studies): a combined Social Education book that starts from the child's own family, mosque and school, then widens to the neighbourhood/village and finally to phenomena around the child (directions, the Earth, seasons, time) — Geography enters last, through daily life.
 
 Libya's own way (Libya Grade 5 LY G5 Social Studies): Half the book is Islamic history; the geography half ("Principles of General Geography") is pure foundations — solar system, Earth's shape/movements, grid, compass/GPS, land-and-water, map scale and symbols — with the symbol lesson taught by reading Libya's own mineral, wind and road distribution maps. Non-Geography part named, not placed: Topic One, Islamic History — the Arabs before Islam (printed pp. 11–12), the Emergence of Islam (pp. 13–20), the Rashidun Caliphs (pp. 21–30), the Umayyad State (pp. 31–35), the Abbasid State (pp. 36–40), the Fatimid State (pp. 41–43), the Ayyubid State (pp. 44–45), the Crusades on the Arab Homeland (pp. 46–47), the Mamluks repelling the Mongols and Crusaders (pp. 48–51).
+
+Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).

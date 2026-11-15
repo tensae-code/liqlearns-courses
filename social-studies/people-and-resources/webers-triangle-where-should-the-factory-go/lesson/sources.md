@@ -1,6 +1,6 @@
 # Sources — Weber's triangle — where should the factory go?
 
-countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan
+countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venez
 
 **Book 10:** *جغرافيه صنف ١١ (Geography, Grade 11)* (student book, Dari) — Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١١ (Geography, Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 194 (cover verified against the record title; 23,157,359 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 11:** *GEOGRAFIE — Manual pentru clasa a XI-a (Mihai Hachi, Elena Sochircă, Silvia Suvac, Tudor Castraveț)* (student book, Romanian) — Editura Lumina, Chișinău; year 2025 (approval order 1232 of 18.07.2025); ISBN 978-9975-65-521-7. Title as printed: GEOGRAFIE — Manual pentru clasa a XI-a (Mihai Hachi, Elena Sochircă, Silvia Suvac, Tudor Castraveț). Grade: 11 (student/teacher: STUDENT). PDF pages: 138 (cover verified against the record title; 12,947,266 bytes = record size exactly, eduresurse.gov.md via resume loop). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The least-cost idea | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 129–131 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venez
 | Slovenia part — Razmestitev industrije in njen vpliv na okolje (industry's location through time; its effect on the environment) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Razmestitev industrije in njen vpliv na okolje (industry's location through time; its effect on the environment) — printed p. 254 |
 | Venezuela part — El porqué del dónde están las industrias | Venezuela, *Venezuela Grade 6 G6 CS Venezuela y Su Gente*, El porqué del dónde están las industrias — printed p. 42 |
 | Afghanistan part — World Ch. 6 Lesson 45: the factors effective in industrial development | Afghanistan, *Afghanistan Grade 11 Geography (Dari)*, World Ch. 6 Lesson 45: the factors effective in industrial development — printed p. 157 |
+| Moldova part — 27. Industry: location factors and development trends, branch structure | Moldova, *Moldova Grade 11 G11 Geography*, 27. Industry: location factors and development trends, branch structure — printed p. 63 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova).**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -58,3 +61,5 @@ Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija f
 Venezuela's own way (Venezuela Grade 6 G6 CS Venezuela y Su Gente): the whole Geography block is one argument — "Nuestro espacio geográfico en tiempos del petróleo": how oil remade population (2011 census), cities (metropolisation), industry location, internal migration and landscapes; learners start by learning how to *look* at a piece of oil-era Venezuela.
 
 Afghanistan's own way (Afghanistan Grade 11 Geography (Dari)): an economic-geography year in two halves — first Afghanistan (farming and livestock, energy and mines, industries and trade), then the same themes for the world (water and farming, energy, mines and industries, trade and tourism), each Afghanistan chapter closing with a "review of the situation" lesson on the country's own state.
+
+Moldova's own way (Moldova Grade 11 G11 Geography): a human geography of the world year — political map and state typology, natural resources by sphere, population and settlements, then the world economy branch by branch (agriculture, each industry, services, transport, tourism), closing with economic-geographic characterisations of 14 states on every continent (Egypt among them) written to one template, plus case studies including labour migration at local/regional/global scale and using Google Maps/Google Earth as geo-information portals.

@@ -1,6 +1,6 @@
 # Sources — Your own enquiry — a locality research project
 
-countries: Ethiopia, Bangladesh, Samoa, Syria, Venezuela
+countries: Ethiopia, Bangladesh, Samoa, Syria, Venezuela, Moldova
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Bangladesh, Samoa, Syria, Venezuela
 
 **Book 6:** *El espacio geográfico de Venezuela — Geografía, 3er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-337-1. Title as printed: El espacio geográfico de Venezuela — Geografía, 3er Año. Grade: Grade 9 (3er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 178 (printed pages run to 176, Bibliografía; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 7:** *Geografie — Manual pentru clasa a VIII-a (Vitalie Sochircă, Nicolae Boboc, Natalia Cozma)* (student book, Romanian) — Știința; year 2024 edition (imprint data run to 2024); ISBN 978-9975-85-446-7. Title as printed: Geografie — Manual pentru clasa a VIII-a (Vitalie Sochircă, Nicolae Boboc, Natalia Cozma). Grade: 8 (student/teacher: STUDENT). PDF pages: 138 (cover verified against the record title; 19,985,457 bytes = record size exactly, eduresurse.gov.md download completed by resume loop after a truncated first attempt; the repo tree/blob route returned 404). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The course funnels into one project | G12 student #87, printed pp. 216–217, 246–248 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Bangladesh, Samoa, Syria, Venezuela
 | Syria part — End-of-semester project (Semester 1) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, End-of-semester project (Semester 1) — printed p. 88 |
 | Venezuela part — La Carta del Barrio: the community documents the origin and character of its own geographic space | Venezuela, *Venezuela Grade 7 G7 CS Patria y Ciudadanía*, La Carta del Barrio: the community documents the origin and character of its own geographic space — printed p. 58 |
 | Venezuela part — Lo geohistórico en la narración oral y escrita de los pobladores: a barrio and its history (La Trilla) | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Lo geohistórico en la narración oral y escrita de los pobladores: a barrio and its history (La Trilla) — printed p. 38 |
+| Moldova part — 28. Practical work no. 2: protected areas characterised from direct and indirect observations, applying the algorithm | Moldova, *Moldova Grade 8 G8 Geography*, 28. Practical work no. 2: protected areas characterised from direct and indirect observations, applying the algorithm — printed p. 128 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Samoa, Syria, Venezuela).**
+**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Samoa, Syria, Venezuela, Moldova).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -39,3 +42,5 @@ Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure
 Venezuela's own way (Venezuela Grade 7 G7 CS Patria y Ciudadanía): a Civics book built on widening belonging — house, block (cuadra), community, homeland, planet — where the Geography enters as lived space: the Carta del Barrio, in which a community writes down its own geographic space (its social, cultural, historical, economic and environmental character), and a full postal address that nests house → block → parish → municipality → state → Venezuela → South America → Earth → Solar System → Milky Way.
 
 Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national geography written as Geohistoria — every physical topic (position, climate, relief, hydrography) is paired with the historical stages that organised the same space (agrarian Venezuela, oil Venezuela, 21st-century Venezuela), and the Amazon rainforest closes the book as a defence-of-life argument.
+
+Moldova's own way (Moldova Grade 8 G8 Geography): the home-country year — a full physical geography of the Republic of Moldova only (position and extreme points, structural units and minerals, relief units, climate and seasons, the Nistru/Prut river system, soils, steppe and forest-steppe zones), ending with its protected areas (national parks, scientific and landscape reserves, nature monuments) and Moldova in the context of sustainable development; hydrographic objects and protected areas are described "by algorithm" in set practicals.

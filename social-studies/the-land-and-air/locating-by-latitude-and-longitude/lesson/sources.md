@@ -1,6 +1,6 @@
 # Sources — Locating by latitude and longitude
 
-countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan
+countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan
 
 **Book 6:** *معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; this book is also the TSV blob-URL record — same repo path, one book). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). This book is also the TSV blob-URL record — same repo path, one book. Non-Geography parts named, not placed: Ch.1 Citizenship, printed pp. 1–9; Ch.2 Culture, pp. 10–24; Ch.3 State and Government, pp. 25–32; Ch.4 History, pp. 33–50; Ch.6 Economics, pp. 86–108; Glossary, p. 109 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 7:** *GEOGRAFIE — Manual pentru clasa a VII-a (Vitalie Sochircă, Natalia Cozma)* (student book, Romanian) — Editura ARC; year not legible on the title page as extracted; ISBN 978-9975-0-0706-1. Title as printed: GEOGRAFIE — Manual pentru clasa a VII-a (Vitalie Sochircă, Natalia Cozma). Grade: 7 (student/teacher: STUDENT). PDF pages: 130 (title page verified against the record title; 36,965,973 bytes = record size exactly, via the GitHub release asset — the repo tree path returned 404 and the eduresurse.gov.md download truncated twice at ~20 MB). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Parallels and meridians | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 210–212 |
@@ -23,8 +25,10 @@ countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan
 | Venezuela part — ¿Cómo me oriento…?: locating facts and risk situations in geographic space | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, ¿Cómo me oriento…?: locating facts and risk situations in geographic space — printed p. 44 |
 | Iran part — Geographical position of Iran (finding Iran's coordinates on the map, activity) | Iran, *Iran Grade 10 Geography of Iran*, Geographical position of Iran (finding Iran's coordinates on the map, activity) — printed p. 15 |
 | Pakistan part — Important lines of latitude (Equator, Tropics of Cancer/Capricorn 23½°, Arctic/Antarctic circles 66½°) and the Prime Meridian at Greenwich | Pakistan, *Pakistan Grade 5 SS5*, Important lines of latitude (Equator, Tropics of Cancer/Capricorn 23½°, Arctic/Antarctic circles 66½°) and the Prime Meridian at Greenwich — printed pp. 57–58 |
+| Moldova part — 3. Geographic coordinates | Moldova, *Moldova Grade 7 G7 Geography*, 3. Geographic coordinates — printed p. 12 |
+| Moldova part — 5. Practical work no. 1: the degree network applied to determining geographic coordinates | Moldova, *Moldova Grade 7 G7 Geography*, 5. Practical work no. 1: the degree network applied to determining geographic coordinates — printed p. 19 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bahamas, Venezuela, Iran, Pakistan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova).**
 
 Searchable tags: latitude, longitude, graticule, parallels, meridians, point C, social studies
 
@@ -35,3 +39,5 @@ Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (R
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
 
 Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.
+
+Moldova's own way (Moldova Grade 7 G7 Geography): the northern continents year (North America, then Eurasia) taught with the same continent template as Grade 6, opened by a full unit on the degree network (latitude, longitude, coordinates, distances) with practical work, and closed by a whole unit on the World Ocean taken ocean by ocean; climate zones are described "by algorithm" in a set practical.

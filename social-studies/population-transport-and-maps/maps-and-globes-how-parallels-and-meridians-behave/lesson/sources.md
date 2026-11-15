@@ -1,6 +1,6 @@
 # Sources — Maps and globes — how parallels and meridians behave
 
-countries: Ethiopia, Haiti, India, Libya
+countries: Ethiopia, Haiti, India, Libya, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Haiti, India, Libya
 
 **Book 4:** *الاجتماعيات (التاريخ والجغرافيا) — Social Studies (History and Geography), Grade 5 of Basic Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية); year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: الاجتماعيات (التاريخ والجغرافيا) — Social Studies (History and Geography), Grade 5 of Basic Education. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 104 (cover verified visually: "الاجتماعيات (التاريخ والجغرافيا) للصف الخامس" — matches record; image-only scan, read via 100-DPI 4-up contact sheets; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 5:** *Geografie — Manual pentru clasa a V-a* (student book, Romanian) — Editura Lumina, Chișinău; year 2015; ISBN printed (number not fully legible in the scan). Title as printed: Geografie — Manual pentru clasa a V-a. Grade: 5 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; 16,733,891 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 49 |
 | Haiti part — Séance 5 S'orienter sur la terre (2) (lignes imaginaires, parallèles, méridiens, coordonnées, bataille navale sur planisphère Mercator) (teacher sequence — evidence) | Haiti, *Du rond au plat, représenter le globe terrestre ?* (teacher sequence), Grade 7, Séance 5 S'orienter sur la terre (2) (lignes imaginaires, parallèles, méridiens, coordonnées, bataille navale sur planisphère Mercator) — printed p. 12 |
 | India part (Grade 6 The Earth Our Habitat) — Ch.2: important parallels and heat zones of the Earth | India, *India Grade 6 The Earth Our Habitat*, Ch.2: important parallels and heat zones of the Earth — printed p. 13 |
 | Libya part — دوائر العرض الرئيسية: The main latitude circles (equator, tropics, polar circles, poles) and the uses of the grid | Libya, *Libya Grade 5 LY G5 Social Studies*, دوائر العرض الرئيسية: The main latitude circles (equator, tropics, polar circles, poles) and the uses of the grid — printed p. 78 |
+| Moldova part — §4 Parallels and meridians on globe and map | Moldova, *Moldova Grade 5 G5 Geography*, §4 Parallels and meridians on globe and map — printed p. 16 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, India, Libya). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, India, Libya, Moldova). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -28,3 +31,5 @@ Searchable tags: parallels shrink, longest parallel, equator, meridians equal, p
 India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.
 
 Libya's own way (Libya Grade 5 LY G5 Social Studies): Half the book is Islamic history; the geography half ("Principles of General Geography") is pure foundations — solar system, Earth's shape/movements, grid, compass/GPS, land-and-water, map scale and symbols — with the symbol lesson taught by reading Libya's own mineral, wind and road distribution maps. Non-Geography part named, not placed: Topic One, Islamic History — the Arabs before Islam (printed pp. 11–12), the Emergence of Islam (pp. 13–20), the Rashidun Caliphs (pp. 21–30), the Umayyad State (pp. 31–35), the Abbasid State (pp. 36–40), the Fatimid State (pp. 41–43), the Ayyubid State (pp. 44–45), the Crusades on the Arab Homeland (pp. 46–47), the Mamluks repelling the Mongols and Crusaders (pp. 48–51).
+
+Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).
