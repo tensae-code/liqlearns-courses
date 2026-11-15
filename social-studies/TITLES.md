@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1450**
+Geography lessons across the eight Geography titles: **1558**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -938,3 +938,78 @@ Unfriendly Land Use in Fiji; Global Issues: Impacts of
 Tourism — Problems and Future, Natural Hazards and
 Disasters in the Pacific, Natural Hazards of Monsoon
 Asia and The Monsoon of Asia — Summer and Winter.
+
++108 for Uzbekistan, 2026-11-14 — Earth and Space: What
+Physical Geography Of Continents And Oceans Studies;
+The Land and Air: Africa Climate Formation And
+Properties, Africa Climatic Belts, Africa Geological
+Structure Relief And Minerals, Africa Inland Waters,
+Africa Physical Geographical Countries And Population,
+Africa Position And Exploration History, Antarctica
+Climate And Organic World, Antarctica Position Relief
+And Exploration, Anthropogenic Landscapes, Atmosphere
+And Climatic Belts Of Earth, Australia Climate Inland
+Waters And Natural Zones, Australia Position Relief And
+Minerals, Canada Natural Conditions And Resources,
+Central Asia Region, Central Europe Region, Eastern
+Asia Region, Eastern Europe Region, Eurasia Altitudinal
+Belts, Eurasia Climate Features, Eurasia Cold And
+Temperate Climatic Belts, Eurasia Geographical
+Position, Eurasia Inland Waters, Eurasia Natural Zones
+Of Cold And Temperate Belts, Eurasia Natural Zones Of
+Warm Belts, Eurasia Physical Geographical Countries,
+Eurasia Relief And Minerals, Eurasia Warm Climatic
+Belts, How The Ocean Affects Atmosphere And Land,
+Hydrosphere Structure And Properties, Lithosphere And
+Earths Relief, Natural Complexes And Latitudinal
+Zonality, North America Climate And Inland Waters,
+North America Countries And Population, North America
+Natural Zones And Altitudinal Belts, North America
+Position Relief And Minerals, Ocean Water Salinity
+Temperature And Currents, Oceania, South America
+Climate And Inland Waters, South America Countries And
+Population, South America Natural Zones And Altitudinal
+Belts, South America Position Relief And Minerals,
+South Asia Region, South West Asia Region, The Arctic
+Ocean, The Atlantic Ocean, The Geographic Envelope Of
+Earth, The Indian Ocean, The Pacific Ocean and The
+World Ocean Structure And Seabed Relief; Population,
+Transport and Maps: Asia Population, Eurasia Population
+And Political Map, Europe Population, Europe Transport,
+Political Map Of The World, Population Composition Age
+Sex Ethnic Religious, State Systems And Forms Of
+Government, Urbanisation And Growth Of Cities and World
+Population; People and Resources: Africa Countries
+Overview, Africa Economy And Economic Regions, Asia
+Economic And Social Geography Introduction, Asia
+Economy And Environmental Problems, Australia And
+Oceania Economy, Australia And Oceania Overview, Brazil
+Economic Geographical Overview, Central Asia Countries,
+China Country Profile, Developed European States,
+Development Of The World Economy, Economic And Social
+Geography What It Studies, Europe Economy, Europe
+Environmental Protection And Tourism, Europe Industry
+And Agriculture, Europe Natural Resources, Europe
+Territory Borders And Position, Formation Of Europes
+Political Map, Geography Of World Economy Branches,
+Germanys Economy, India Country Profile, Iran
+Afghanistan And Pakistan, Japan Country Profile,
+Kazakhstan Country Profile, Kyrgyzstan Country Profile,
+North And Central America Countries, Russia Economy
+Transport And Foreign Trade, Russia Nature And
+Population, Science And The Economy, South Africa
+Country Profile, South America And Caribbean Countries,
+South America Economy And Transport, South East Asia
+Countries, South West Asia Countries, Territorial
+Production Complexes, The Scientific Technical
+Revolution, The USA Country Profile, Turkey Country
+Profile and Turkmenistan And Tajikistan Country
+Profiles; Culture and Work: World Livestock Farming;
+Resources and Conflict: Using And Protecting World
+Ocean Resources and World Ocean Space Climate And
+Biological Resources; Global Issues: Environmental
+Pollution, Global Energy Raw Materials And Food
+Problems, Global Problems Of Humanity, Global
+Scientific Forecasting, Human Impact On Nature, Human
+Interaction With Nature and Industry And The
+Environment.

@@ -1,0 +1,9 @@
+# Industry And The Environment — short answer
+
+Answer in a sentence or two.
+
+**1. (Sub lesson 1)** What does the first part of this lesson teach?
+**Answer: Industry And The Environment — §18 Industry and the environment (the fuel-energy complex and industry's environmental impact) (any close wording).**
+
+**2. (Sub lesson 2)** What does the second part of this lesson teach?
+**Answer: Uzbekistan's way — the book's own teaching way (any close wording).**

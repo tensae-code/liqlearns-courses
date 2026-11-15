@@ -1,6 +1,6 @@
 # Sources — Rainforest, woodland and savanna
 
-countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji
+countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji
 
 **Book 7:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 8:** *Geografiya 6 / Physical Geography of Continents and Oceans* (student book, Russian) — Uzbekistan, IPTD «O'qituvchi», Tashkent; year 2009; ISBN 978-9943-02-245-4 (authors: Abdurasul Soatov, Ali Abdulqosimov). Title as printed: ГЕОГРАФИЯ 6 — Geografiya (Materiklar va okeanlar tabiiy geografiyasi) / Физическая география материков и океанов (Physical Geography of Continents and Oceans), textbook for Grade 6 of Russian-medium schools, 3rd supplemented edition, translated from Uzbek by I. A. Khudayberganov. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 161 (printed book 160 pp.; byte size 62,861,979 exact match to the record, blob SHA verified SHA-OK; cover and imprint rendered and verified — image-only PDF, read in full via its printed contents, pp. 157-158, §1-§68). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Moist montane forest | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 77–79 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji
 | Colombia part (CS_Grado4_02) — Guía 11 Las regiones naturales del mundo: deserts, poles, tropical rainforest, savannas and oceans as the world's natural regions | Colombia, *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva*, Guía 11 Las regiones naturales del mundo: deserts, poles, tropical rainforest, savannas and oceans as the world's natural regions — printed p. 69 |
 | India part (Grade 7 Our Environment) — Ch.6 Natural Vegetation and Wildlife: forests (tropical evergreen, tropical deciduous, temperate, Mediterranean, coniferous) and tropical/temperate grasslands | India, *India Grade 7 Our Environment*, Ch.6 Natural Vegetation and Wildlife: forests (tropical evergreen, tropical deciduous, temperate, Mediterranean, coniferous) and tropical/temperate grasslands — printed p. 39 |
 | Fiji part — Chapter 5 Vegetation: types of natural vegetation (forests, grasslands, desert vegetation and their sub-types), factors influencing growth and distribution, ecosystems, climate change impacts on vegetation | Fiji, *Fiji Year 13 Geography*, Chapter 5 Vegetation: types of natural vegetation (forests, grasslands, desert vegetation and their sub-types), factors influencing growth and distribution, ecosystems, climate change impacts on vegetation — printed p. 138 |
+| Uzbekistan part — §24 Africa: natural zones — equatorial forests and savannas | Uzbekistan, *Uzbekistan Grade 6 Geografiya (Soatov & Abdulqosimov)*, §24 Africa: natural zones — equatorial forests and savannas — printed p. 64 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji).**
+**Acceptance count: taught in 7 countries (Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan).**
 
 Costa Rica's own way: a distance-education anthology organised around "the human footprint on geographic space" — every unit opens with a generating question and objectives, and Costa Rica is used as the home case inside world topics (tropical forest conservation, food production problems). That way is stocked here as the way Costa Rica teaches this thing.
 
@@ -40,3 +43,5 @@ Colombia's own way (CS_Grado4_02): the second Grade 4 cartilla is almost pure ph
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
 
 Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.
+
+Uzbekistan's own way (Uzbekistan Grade 6 Geografiya): Geography in Grade 6 is the physical geography of continents and oceans in the Russian/Soviet textbook tradition — first the Earth's geographic envelope and the World Ocean, then every continent in a fixed order (position, geological structure and relief, climate, inland waters, natural zones, population), closing with the population of the Earth and the political map of the world; nearly every chapter ends in a practical work.

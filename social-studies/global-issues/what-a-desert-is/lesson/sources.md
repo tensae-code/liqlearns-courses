@@ -1,6 +1,6 @@
 # Sources — What a Desert Is
 
-countries: Ethiopia, Colombia, India, United Kingdom, Cambodia
+countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 107).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Colombia, India, United Kingdom, Cambodia
 
 **Book 6:** *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (14th printing); ISBN 978-995-000-820 (printed as 9-789-995-000-820). Title as printed: សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7) — Sala 00004321. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 304. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Non-Geography parts named, not placed: History section (ប្រវត្តិវិទ្យា, printed pp.76–150: ancient world — Egypt, Mesopotamia, Israel, India, China, Rome, ancient America; Cambodia — prehistory, Funan 50–550, Chenla 550–802; regional Asia); Civics section (សីលធម៌ ពលរដ្ឋវិទ្យា, printed pp.152–246: gender and human rights, friendship, family, living with the community, goal-setting for life, Buddhism and Hinduism); Economics section (សេដ្ឋវិទ្យា, printed pp.248–302: needs and money, work, government and the economy, economic security and hygiene). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 7:** *Geografiya 6 / Physical Geography of Continents and Oceans* (student book, Russian) — Uzbekistan, IPTD «O'qituvchi», Tashkent; year 2009; ISBN 978-9943-02-245-4 (authors: Abdurasul Soatov, Ali Abdulqosimov). Title as printed: ГЕОГРАФИЯ 6 — Geografiya (Materiklar va okeanlar tabiiy geografiyasi) / Физическая география материков и океанов (Physical Geography of Continents and Oceans), textbook for Grade 6 of Russian-medium schools, 3rd supplemented edition, translated from Uzbek by I. A. Khudayberganov. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 161 (printed book 160 pp.; byte size 62,861,979 exact match to the record, blob SHA verified SHA-OK; cover and imprint rendered and verified — image-only PDF, read in full via its printed contents, pp. 157-158, §1-§68). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Rain, not heat: a desert as under 250 mm of rain a year; about a third of the Earth's land is desert | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 145–147 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Colombia, India, United Kingdom, Cambodia
 | India part (Grade 7 Our Environment) — Ch.9 Life in the Deserts: hot and cold deserts defined | India, *India Grade 7 Our Environment*, Ch.9 Life in the Deserts: hot and cold deserts defined — printed p. 65 |
 | United Kingdom part — §7.1 Environmental characteristics of hot deserts | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §7.1 Environmental characteristics of hot deserts — printed p. 68 |
 | Cambodia part — Geography Ch.2 L1 ប្រជាជនក្នុងតំបន់វាលលំហក្តៅ (people in the hot deserts — world desert map) | Cambodia, *Cambodia Grade 7 Social Studies*, Geography Ch.2 L1 ប្រជាជនក្នុងតំបន់វាលលំហក្តៅ (people in the hot deserts — world desert map) — printed p. 28 |
+| Uzbekistan part — §25 Africa: tropical deserts and subtropics | Uzbekistan, *Uzbekistan Grade 6 Geografiya (Soatov & Abdulqosimov)*, §25 Africa: tropical deserts and subtropics — printed p. 67 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Colombia, India, United Kingdom, Cambodia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan).**
 
 Book error taught corrected: the book's list of the four desert types is numbered 1, 2, 2, 3 as printed; the lesson teaches the four types as a clean list of four and names the misprint here. The rainfall, area and table figures are the book's own figures as printed, including its UN-era table. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -40,3 +43,5 @@ India's own way (Grade 7 Our Environment): Grade 7 is organised around "environm
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
 
 Cambodia's own way (Cambodia Grade 7 Social Studies): from Grade 7 the combined Social Studies book splits into four named subject sections; its Geography section teaches people-in-environments — hot zones, deserts and oases, polar peoples, climate zones — through world case studies (Kenya farmers, Amazon, Inuit, Sahara oil) before turning to world population.
+
+Uzbekistan's own way (Uzbekistan Grade 6 Geografiya): Geography in Grade 6 is the physical geography of continents and oceans in the Russian/Soviet textbook tradition — first the Earth's geographic envelope and the World Ocean, then every continent in a fixed order (position, geological structure and relief, climate, inland waters, natural zones, population), closing with the population of the Earth and the political map of the world; nearly every chapter ends in a practical work.

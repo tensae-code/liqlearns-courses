@@ -3716,3 +3716,132 @@ Monsoon Asia (printed p. 95), The Monsoon of Asia —
 Summer and Winter (printed p. 95) — every new lesson is
 taught in 1 country (Fiji), 8 questions each.
 Geography lessons: 1415 → 1450.
+
+
+## Uzbekistan — Geography expansion (merged 2026-11-14)
+140 placement lines stocked from Uzbekistan's 2 placed
+books (2 records / 2 distinct books) — the Grade 6
+*Geografiya 6 / Physical Geography of Continents and
+Oceans* (Soatov & Abdulqosimov, Russian) and the Grade
+9 *Economic and Social Geography of the World*
+(Qayumov, Safarov & Tillaboyeva, Russian). Both are
+student books and both are COMPLETE. The placements
+file's own tallies agree with the line count (140 = 69
++ 71; 14 to existing lessons + 126 NEW LESSON NEEDED).
+Stocked into standing lessons (14 placements across 14
+lessons). No slug remappings. 108 NEW lessons built
+(126 placements) — **Earth and Space**: What Physical
+Geography Of Continents And Oceans Studies (printed p.
+5); **The Land and Air**: Africa Climate Formation And
+Properties (printed p. 58), Africa Climatic Belts
+(printed p. 60), Africa Geological Structure Relief And
+Minerals (printed p. 55), Africa Inland Waters (printed
+p. 62), Africa Physical Geographical Countries And
+Population (printed p. 69), Africa Position And
+Exploration History (printed p. 53; printed p. 71),
+Antarctica Climate And Organic World (printed p. 86),
+Antarctica Position Relief And Exploration (printed p.
+83), Anthropogenic Landscapes (printed p. 134),
+Atmosphere And Climatic Belts Of Earth (printed p. 22),
+Australia Climate Inland Waters And Natural Zones
+(printed p. 74), Australia Position Relief And Minerals
+(printed p. 71; printed p. 80), Canada Natural
+Conditions And Resources (printed p. 200), Central Asia
+Region (printed p. 145), Central Europe Region (printed
+p. 138), Eastern Asia Region (printed p. 143), Eastern
+Europe Region (printed p. 141), Eurasia Altitudinal
+Belts (printed p. 133), Eurasia Climate Features
+(printed p. 117), Eurasia Cold And Temperate Climatic
+Belts (printed p. 119), Eurasia Geographical Position
+(printed p. 110; printed p. 128; printed p. 137),
+Eurasia Inland Waters (printed p. 123), Eurasia Natural
+Zones Of Cold And Temperate Belts (printed p. 126),
+Eurasia Natural Zones Of Warm Belts (printed p. 128),
+Eurasia Physical Geographical Countries (printed p.
+137), Eurasia Relief And Minerals (printed p. 113),
+Eurasia Warm Climatic Belts (printed p. 121), How The
+Ocean Affects Atmosphere And Land (printed p. 38),
+Hydrosphere Structure And Properties (printed p. 20),
+Lithosphere And Earths Relief (printed p. 17), Natural
+Complexes And Latitudinal Zonality (printed p. 25),
+North America Climate And Inland Waters (printed p.
+103), North America Countries And Population (printed
+p. 108), North America Natural Zones And Altitudinal
+Belts (printed p. 106), North America Position Relief
+And Minerals (printed p. 100; printed p. 110), Ocean
+Water Salinity Temperature And Currents (printed p.
+33), Oceania (printed p. 77), South America Climate And
+Inland Waters (printed p. 91), South America Countries
+And Population (printed p. 97), South America Natural
+Zones And Altitudinal Belts (printed p. 94), South
+America Position Relief And Minerals (printed p. 88;
+printed p. 99), South Asia Region (printed p. 146),
+South West Asia Region (printed p. 148), The Arctic
+Ocean (printed p. 49), The Atlantic Ocean (printed p.
+43), The Geographic Envelope Of Earth (printed p. 11;
+printed p. 13), The Indian Ocean (printed p. 46), The
+Pacific Ocean (printed p. 40), The World Ocean
+Structure And Seabed Relief (printed p. 30; printed p.
+52); **Population, Transport and Maps**: Asia
+Population (printed p. 128), Eurasia Population And
+Political Map (printed p. 135), Europe Population
+(printed p. 98), Europe Transport (printed p. 107),
+Political Map Of The World (printed p. 152; printed p.
+6), Population Composition Age Sex Ethnic Religious
+(printed p. 39), State Systems And Forms Of Government
+(printed p. 11), Urbanisation And Growth Of Cities
+(printed p. 46), World Population (printed p. 150;
+printed p. 33); **People and Resources**: Africa
+Countries Overview (printed p. 183), Africa Economy And
+Economic Regions (printed p. 185), Asia Economic And
+Social Geography Introduction (printed p. 126), Asia
+Economy And Environmental Problems (printed p. 130),
+Australia And Oceania Economy (printed p. 191),
+Australia And Oceania Overview (printed p. 189), Brazil
+Economic Geographical Overview (printed p. 205),
+Central Asia Countries (printed p. 133), China Country
+Profile (printed p. 151; printed p. 154; printed p.
+157), Developed European States (printed p. 112),
+Development Of The World Economy (printed p. 53),
+Economic And Social Geography What It Studies (printed
+p. 5), Europe Economy (printed p. 102), Europe
+Environmental Protection And Tourism (printed p. 110),
+Europe Industry And Agriculture (printed p. 104),
+Europe Natural Resources (printed p. 96), Europe
+Territory Borders And Position (printed p. 93),
+Formation Of Europes Political Map (printed p. 95),
+Geography Of World Economy Branches (printed p. 66),
+Germanys Economy (printed p. 115), India Country
+Profile (printed p. 165; printed p. 169), Iran
+Afghanistan And Pakistan (printed p. 146), Japan
+Country Profile (printed p. 159; printed p. 162),
+Kazakhstan Country Profile (printed p. 137), Kyrgyzstan
+Country Profile (printed p. 139), North And Central
+America Countries (printed p. 193), Russia Economy
+Transport And Foreign Trade (printed p. 119), Russia
+Nature And Population (printed p. 118), Science And The
+Economy (printed p. 50), South Africa Country Profile
+(printed p. 187), South America And Caribbean Countries
+(printed p. 201), South America Economy And Transport
+(printed p. 203), South East Asia Countries (printed p.
+178; printed p. 181), South West Asia Countries
+(printed p. 171; printed p. 175), Territorial
+Production Complexes (printed p. 61), The Scientific
+Technical Revolution (printed p. 49; printed p. 58),
+The USA Country Profile (printed p. 195), Turkey
+Country Profile (printed p. 143), Turkmenistan And
+Tajikistan Country Profiles (printed p. 141); **Culture
+and Work**: World Livestock Farming (printed p. 85);
+**Resources and Conflict**: Using And Protecting World
+Ocean Resources (printed p. 36), World Ocean Space
+Climate And Biological Resources (printed p. 24);
+**Global Issues**: Environmental Pollution (printed p.
+29), Global Energy Raw Materials And Food Problems
+(printed p. 210), Global Problems Of Humanity (printed
+p. 207), Global Scientific Forecasting (printed p.
+211), Human Impact On Nature (printed p. 154; printed
+p. 156), Human Interaction With Nature (printed p. 19),
+Industry And The Environment (printed p. 79) — every
+new lesson is taught in 1 country (Uzbekistan), 8
+questions each.
+Geography lessons: 1450 → 1558.

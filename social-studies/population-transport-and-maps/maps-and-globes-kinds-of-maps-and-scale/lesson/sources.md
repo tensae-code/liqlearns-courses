@@ -1,6 +1,6 @@
 # Sources — Maps and globes — kinds of maps and scale
 
-countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bahamas, Zimbabwe, Colombia, India, Fiji
+countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bahamas, Zimbabwe, Colombia, India, Fiji, Uzbekistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -28,6 +28,8 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bah
 
 **Book 13:** *Rediscovering Society — Social Science Year 9* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva; year 2013 (copyright 2011); ISBN no ISBN printed. Title as printed: Rediscovering Society — Social Science Year 9. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organisation and Processes — Unit 1 Society and culture (printed pp. 7–36), Unit 2 Community living (pp. 37–62), Unit 3 NGOs and regional organisations (pp. 64–74); Chapter 2 Time, Continuity and Change — Unit 1 History of Fiji, pre-contact to cession (pp. 77–97), Unit 2 Current affairs (pp. 99–100). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 14:** *Geografiya 6 / Physical Geography of Continents and Oceans* (student book, Russian) — Uzbekistan, IPTD «O'qituvchi», Tashkent; year 2009; ISBN 978-9943-02-245-4 (authors: Abdurasul Soatov, Ali Abdulqosimov). Title as printed: ГЕОГРАФИЯ 6 — Geografiya (Materiklar va okeanlar tabiiy geografiyasi) / Физическая география материков и океанов (Physical Geography of Continents and Oceans), textbook for Grade 6 of Russian-medium schools, 3rd supplemented edition, translated from Uzbek by I. A. Khudayberganov. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 161 (printed book 160 pp.; byte size 62,861,979 exact match to the record, blob SHA verified SHA-OK; cover and imprint rendered and verified — image-only PDF, read in full via its printed contents, pp. 157-158, §1-§68). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Kinds of maps by message | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 49–50 |
@@ -39,6 +41,7 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bah
 | India part (Grade 6 The Earth Our Habitat) — Ch.4: scale, large-scale and small-scale maps, measuring distance | India, *India Grade 6 The Earth Our Habitat*, Ch.4: scale, large-scale and small-scale maps, measuring distance — printed p. 24 |
 | Fiji part — Unit 3 Place and Environment, Features of Places: Mapping — what a map is, the five map conventions, sketch and mental maps, map-reading and map-drawing exercises | Fiji, *Fiji Year 6 Social Science*, Unit 3 Place and Environment, Features of Places: Mapping — what a map is, the five map conventions, sketch and mental maps, map-reading and map-drawing exercises — printed p. 43 |
 | Fiji part — Unit 1 Forms and uses of maps (GIS, wall maps, atlases, globes; large-scale and small-scale maps) | Fiji, *Fiji Year 9 Social Science*, Unit 1 Forms and uses of maps (GIS, wall maps, atlases, globes; large-scale and small-scale maps) — printed p. 105 |
+| Uzbekistan part — §2 Geographical maps and their types; atlases and globes | Uzbekistan, *Uzbekistan Grade 6 Geografiya (Soatov & Abdulqosimov)*, §2 Geographical maps and their types; atlases and globes — printed p. 8 |
 
 | France part — Thème 2 Bilan/Évaluation: Cartographier — dessiner les dynamiques et les inégalités du territoire français (croquis, construire la légende) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 2 |
 | Different types of maps — Myanmar way: 5.1 (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §5.1, printed p. 78 |
@@ -46,7 +49,7 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bah
 | Costa Rica part — map-work — main sellers and buyers of timber in the world (flow map); production maps of Europe and Africa compared | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 B practicals — printed p. 24 |
 | Ecuador part — Estudios cartográficos para entender geografía (cartographic studies: map concepts and practice) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Estudios cartográficos para entender geografía (cartographic studies: map concepts and practice) — printed p. 99 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, France, Costa Rica, Ecuador, Palestine, Bahamas, Colombia, India, Fiji). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, France, Costa Rica, Ecuador, Palestine, Bahamas, Colombia, India, Fiji, Uzbekistan). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -75,3 +78,5 @@ India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes p
 Fiji's own way (Fiji Year 6 Social Science): Year 6 turns outward to the whole Fiji map — map conventions, island groups, towns, rivers and roads — and to Fiji's climate and sea resources, with conservation taught through traditional taboos and harvest seasons.
 
 Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).
+
+Uzbekistan's own way (Uzbekistan Grade 6 Geografiya): Geography in Grade 6 is the physical geography of continents and oceans in the Russian/Soviet textbook tradition — first the Earth's geographic envelope and the World Ocean, then every continent in a fixed order (position, geological structure and relief, climate, inland waters, natural zones, population), closing with the population of the Earth and the political map of the world; nearly every chapter ends in a practical work.

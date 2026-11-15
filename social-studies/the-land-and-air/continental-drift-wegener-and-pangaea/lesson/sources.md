@@ -1,6 +1,6 @@
 # Sources — Continental drift — Wegener and Pangaea
 
-countries: Ethiopia, Bolivia, Dominican Republic, Fiji
+countries: Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bolivia, Dominican Republic, Fiji
 
 **Book 5:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 6:** *Geografiya 6 / Physical Geography of Continents and Oceans* (student book, Russian) — Uzbekistan, IPTD «O'qituvchi», Tashkent; year 2009; ISBN 978-9943-02-245-4 (authors: Abdurasul Soatov, Ali Abdulqosimov). Title as printed: ГЕОГРАФИЯ 6 — Geografiya (Materiklar va okeanlar tabiiy geografiyasi) / Физическая география материков и океанов (Physical Geography of Continents and Oceans), textbook for Grade 6 of Russian-medium schools, 3rd supplemented edition, translated from Uzbek by I. A. Khudayberganov. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 161 (printed book 160 pp.; byte size 62,861,979 exact match to the record, blob SHA verified SHA-OK; cover and imprint rendered and verified — image-only PDF, read in full via its printed contents, pp. 157-158, §1-§68). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pangaea — the one land | G12 student #3, printed pp. 2–3 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Bolivia, Dominican Republic, Fiji
 | Bolivia part — From Pangaea to the formation of the continents (teacher guidance, Secundaria 1) (teacher guide — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Ciencias Sociales* (teacher guide), Grade 7 (record grade; teacher guidance), From Pangaea to the formation of the continents (teacher guidance, Secundaria 1) — printed p. 16 |
 | Dominican Republic part (Grade 10) — Antecedents of the continental-drift theory (Unidad 2: La deriva continental) | Dominican Republic, *Ciencias Sociales, Cuarto Grado, Secundaria (Libro Abierto)*, Grade 10, Antecedents of the continental-drift theory (Unidad 2: La deriva continental) — printed p. 26 |
 | Fiji part — Chapter 1: theories of the moving Earth (Wegener's continental drift, 1915) | Fiji, *Fiji Year 13 Geography*, Chapter 1: theories of the moving Earth (Wegener's continental drift, 1915) — printed p. 6 |
+| Uzbekistan part — §9 On the origin of continents and oceans | Uzbekistan, *Uzbekistan Grade 6 Geografiya (Soatov & Abdulqosimov)*, §9 On the origin of continents and oceans — printed p. 27 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Dominican Republic, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -34,3 +37,5 @@ Searchable tags: continental drift, Pangaea, Laurasia, Gondwanaland, Wegener, so
 Dominican Republic's own way (Grade 10): This is the physical-geography year: the universe and Earth's layers, continental drift with volcanoes and earthquakes — including earthquake-prevention measures as a group task — water and winds across the continents, and a closing unit on political and economic geography that treats borders, geopolitical order and international climate agreements as geography, with hurricane-season citizen responsibility as the water unit's group activity.
 
 Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.
+
+Uzbekistan's own way (Uzbekistan Grade 6 Geografiya): Geography in Grade 6 is the physical geography of continents and oceans in the Russian/Soviet textbook tradition — first the Earth's geographic envelope and the World Ocean, then every continent in a fixed order (position, geological structure and relief, climate, inland waters, natural zones, population), closing with the population of the Earth and the political map of the world; nearly every chapter ends in a practical work.

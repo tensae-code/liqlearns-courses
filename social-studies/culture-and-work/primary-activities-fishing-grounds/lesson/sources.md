@@ -1,6 +1,6 @@
 # Sources — Primary activities — fishing grounds of the world
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Angola, Bangladesh, Turkmenistan, Bahamas, Eritrea, Fiji
+countries: Ethiopia, Nauru, Tuvalu, Niue, Angola, Bangladesh, Turkmenistan, Bahamas, Eritrea, Fiji, Uzbekistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Angola, Bangladesh, Turkmenistan, Baha
 
 **Book 11:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 12:** *Economic and Social Geography of the World, Grade 9* (student book, Russian) — Uzbekistan, IPTD «O'zbekiston», Tashkent; year 2006; ISBN 5-640-03154-9 (authors: Abduhakim Qayumov, Iranqul Safarov, Mahabbat Tillaboyeva). Title as printed: ЭКОНОМИЧЕСКАЯ И СОЦИАЛЬНАЯ ГЕОГРАФИЯ МИРА / Jahon iqtisodiy-ijtimoiy geografiyasi (Economic and Social Geography of the World), textbook for Grade 9 of general schools, recommended by the Ministry of Public Education of the Republic of Uzbekistan, 3rd edition, corrected and supplemented, translated from Uzbek by I. Khudaybergenov. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 242 (byte size 94,283,664 exact match to the record, blob SHA verified SHA-OK; cover, title page and imprint rendered and verified — image-only PDF, read in full via its printed contents, p. 241, §1-§68). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The world's catch | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 58–60 |
@@ -45,8 +47,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Angola, Bangladesh, Turkmenistan, Baha
 | Bahamas part (Grade 4) — Economic Impact of Farming and Fishing: fishing is a lucrative industry on the vast rich fishing grounds; it generates foreign exchange and employs people on all islands | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 4*, Grade 4, Economic Impact of Farming and Fishing: fishing is a lucrative industry on the vast rich fishing grounds; it generates foreign exchange and employs people on all islands — PDF p. 11 |
 | Eritrea part (ER G8 Social Studies) — Unit 9: 9.2 Fishing and Hunting Marine Animals | Eritrea, *ER G8 Social Studies*, Unit 9: 9.2 Fishing and Hunting Marine Animals — printed p. 140 |
 | Fiji part — Chapter 4 Marine Resources, 4.1.1 A fishery, and 4.1.2 the marine environment | Fiji, *Fiji Years 11–12 Geography*, Chapter 4 Marine Resources, 4.1.1 A fishery, and 4.1.2 the marine environment — printed p. 69 |
+| Uzbekistan part — §20 Livestock farming and fisheries of the world (fisheries part) | Uzbekistan, *Uzbekistan Grade 9 Economic and Social Geography of the World (Qayumov, Safarov & Tillaboyeva)*, §20 Livestock farming and fisheries of the world (fisheries part) — printed p. 85 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Nauru, Tuvalu, Niue, Angola, Bangladesh, Turkmenistan, Bahamas, Eritrea, Fiji).**
+**Acceptance count: taught in 11 countries (Ethiopia, Nauru, Tuvalu, Niue, Angola, Bangladesh, Turkmenistan, Bahamas, Eritrea, Fiji, Uzbekistan).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — Geography is taught as Pacific peoples' lived relationship with the ocean: voyaging, reef knowledge, tapu/fono closed seasons and village fishing practice in Tonga, Tuvalu and Niue itself, ending in a pupil action plan against plastic. That way is stocked here as the way Niue teaches this thing.
 
@@ -71,3 +74,5 @@ Bahamas' own way (Grade 4): From Grade 4 the format changes: instead of the inte
 Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.
 
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
+
+Uzbekistan's own way (Uzbekistan Grade 9 Economic and Social Geography of the World): Grade 9 turns from physical to economic and social geography of the whole world: Part I works through the political map, world natural resources, world population, the scientific-technical revolution and the branches of the world economy; Part II then reviews every region in a fixed country-profile pattern (territory and position, natural resources, population, economy, transport, foreign ties), with Central Asia and Uzbekistan's neighbours given the fullest treatment, and closes with the global problems of humanity.

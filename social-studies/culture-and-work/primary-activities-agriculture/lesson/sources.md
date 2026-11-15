@@ -1,6 +1,6 @@
 # Sources — Primary activities — agriculture
 
-countries: Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica, Palestine, Bangladesh, Turkmenistan, Egypt, Dominican Republic, Colombia, India, North Macedonia, Cambodia, Fiji
+countries: Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica, Palestine, Bangladesh, Turkmenistan, Egypt, Dominican Republic, Colombia, India, North Macedonia, Cambodia, Fiji, Uzbekistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -52,6 +52,8 @@ countries: Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica, Palestine, Bangl
 
 **Book 25:** *Social Science Year 10 — Global Perspectives, Local Interaction (PRE CDU 2015 printing)* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Suva; year 2013; ISBN no ISBN printed. Title as printed: Social Science Year 10 — Global Perspectives, Local Interaction (PRE CDU 2015 printing). Grade: Year 10 (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organization and Processes — government and democracy, parliamentary rule, the United Nations (printed pp. 6–25); Chapter 2 Time, Continuity and Change — History of Fiji, cession to independence 1874–1970 (pp. 26–53). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 26:** *Economic and Social Geography of the World, Grade 9* (student book, Russian) — Uzbekistan, IPTD «O'zbekiston», Tashkent; year 2006; ISBN 5-640-03154-9 (authors: Abduhakim Qayumov, Iranqul Safarov, Mahabbat Tillaboyeva). Title as printed: ЭКОНОМИЧЕСКАЯ И СОЦИАЛЬНАЯ ГЕОГРАФИЯ МИРА / Jahon iqtisodiy-ijtimoiy geografiyasi (Economic and Social Geography of the World), textbook for Grade 9 of general schools, recommended by the Ministry of Public Education of the Republic of Uzbekistan, 3rd edition, corrected and supplemented, translated from Uzbek by I. Khudaybergenov. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 242 (byte size 94,283,664 exact match to the record, blob SHA verified SHA-OK; cover, title page and imprint rendered and verified — image-only PDF, read in full via its printed contents, p. 241, §1-§68). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Directly from nature | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 55–56 |
@@ -81,8 +83,9 @@ countries: Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica, Palestine, Bangl
 | Cambodia part — Ch.3 L1 កសិកម្មកម្ពុជា (Cambodia's agriculture) | Cambodia, *Cambodia Grade 12 Geography*, Ch.3 L1 កសិកម្មកម្ពុជា (Cambodia's agriculture) — printed p. 46 |
 | Fiji part — Unit 1.2 Agriculture as the backbone of Fiji's economy; the sugar industry; garment exports | Fiji, *Fiji Year 6 Social Science*, Unit 1.2 Agriculture as the backbone of Fiji's economy; the sugar industry; garment exports — printed p. 22 |
 | Fiji part — Industries in Fiji: sugarcane farming (where it is concentrated, problems of the industry, by-products) and rice planting | Fiji, *Fiji Year 10 Social Science*, Industries in Fiji: sugarcane farming (where it is concentrated, problems of the industry, by-products) and rice planting — printed p. 63 |
+| Uzbekistan part — §19 Geography of agriculture | Uzbekistan, *Uzbekistan Grade 9 Economic and Social Geography of the World (Qayumov, Safarov & Tillaboyeva)*, §19 Geography of agriculture — printed p. 81 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica, Palestine, Bangladesh, Turkmenistan, Egypt, Dominican Republic, Colombia, India, North Macedonia, Cambodia, Fiji).**
+**Acceptance count: taught in 17 countries (Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica, Palestine, Bangladesh, Turkmenistan, Egypt, Dominican Republic, Colombia, India, North Macedonia, Cambodia, Fiji, Uzbekistan).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -137,3 +140,5 @@ Cambodia's own way (Cambodia Grade 12 Geography): the final Geography year is ec
 Fiji's own way (Fiji Year 6 Social Science): Year 6 turns outward to the whole Fiji map — map conventions, island groups, towns, rivers and roads — and to Fiji's climate and sea resources, with conservation taught through traditional taboos and harvest seasons.
 
 Fiji's own way (Fiji Year 10 Social Science): Year 10 is the foundation for senior Geography and History — Fiji's own physical geography (tectonics, relief, rivers, climate, soils) taught in full, then its industries, population and urbanisation, all with Fiji data.
+
+Uzbekistan's own way (Uzbekistan Grade 9 Economic and Social Geography of the World): Grade 9 turns from physical to economic and social geography of the whole world: Part I works through the political map, world natural resources, world population, the scientific-technical revolution and the branches of the world economy; Part II then reviews every region in a fixed country-profile pattern (territory and position, natural resources, population, economy, transport, foreign ties), with Central Asia and Uzbekistan's neighbours given the fullest treatment, and closes with the global problems of humanity.
