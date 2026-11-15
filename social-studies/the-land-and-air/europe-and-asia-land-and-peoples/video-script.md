@@ -1,0 +1,11 @@
+# Video script — Europe And Asia Land And Peoples
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Honduras's book, the *Honduras Grade 6 Student Book* (printed p. 73), teaches: Lección 13: Europa y Asia — Europe and Asia. Honduras's book, the *Honduras Grade 6 Teacher Guide* (printed p. 55), teaches: Lección 13: Europa y Asia — Europe and Asia. (teacher guide — evidence)
+
+Honduras's own way (Honduras Grade 6 Student Book): widening-circles design — the whole world — continents and oceans, world population, migration and climate change, with Honduras located inside the world. Every lesson runs the same 'Sembrar y cosechar' activity cycle.
+
+Honduras's own way (Honduras Grade 6 Teacher Guide) (teacher guide — evidence): widening-circles design — the whole world — continents and oceans, world population, migration and climate change, with Honduras located inside the world — the teacher guide mirrors the student book lesson-for-lesson (same 38 lessons and blocks) and adds didactics, theory summaries and answer keys; its geography lessons are placed here at the guide's own printed pages. Every lesson runs the same 'Sembrar y cosechar' activity cycle. That book is a teacher guide, cited as evidence only; Honduras is counted in this lesson for its student book(s) named here, not for this guide.

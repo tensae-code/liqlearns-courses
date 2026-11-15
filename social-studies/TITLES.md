@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2493**
+Geography lessons across the eight Geography titles: **2523**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1737,3 +1737,32 @@ Cultivation And Technological Hazards and Territorial
 Conflicts In The World Today.
 (All 100 of the new lessons are taught in 1 country
 (Moldova); all stand on student books.)
+
++30 for Honduras, 2026-11-15 — First Steps: Our Space
+Where We Live And Learn and Public Services And The
+People Who Provide Them; The Land and Air: Africa And
+Oceania Land And Peoples, Africa Its Nature And
+Landscapes, Asia And Its Geographic Extremes, Central
+America The Countries And Their Land, Europe A
+Geographic Tour, Europe And Asia Land And Peoples,
+Exploring Honduras Relief Rivers And Coasts, Geographic
+Features Of Our Municipality, Geographic Features Of
+The Americas, Honduras Location Size And Borders,
+Honduras Mountain Relief, Honduras Rivers And
+Watersheds, Oceania The Island Continent, Our
+Department In Honduras, Regions Of The Americas and
+Studying Our Community Geographically; Population,
+Transport and Maps: Honduras Political Division
+Departments And Municipalities, Our Municipality And
+Its Neighbours and Political Division Of The Americas;
+People and Resources: Central American Integration,
+Development Potential Of Latin America, Formal And
+Informal Economy In Honduras, Honduras Economy Today,
+Integration Blocs Of The Americas, Local Development Of
+Our Municipality and The World Economy Today; Culture
+and Work: Honduras A Multiethnic Country; Global
+Issues: Building Geographic Defences Against Natural
+Hazards.
+(All 30 of the new lessons are taught in 1 country
+(Honduras); each stands on student book(s), with the
+matching teacher guide(s) cited as evidence only.)

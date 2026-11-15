@@ -1,0 +1,21 @@
+# Sources — Europe And Asia Land And Peoples
+
+countries: Honduras
+
+**Book 1:** *Libro para Estudiantes del área de Ciencias Sociales — Sexto grado de Educación Básica (cover: 'Ciencias Sociales — Sexto grado — Libro para Estudiantes')* (student book, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Libro para Estudiantes del área de Ciencias Sociales — Sexto grado de Educación Básica (cover: 'Ciencias Sociales — Sexto grado — Libro para Estudiantes'). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 98,427,961 bytes, SHA-256 prefix 010c7b88770a4df6). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (personal/social and civics formation, printed pp. 10–55); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 112–162); Bloque 4 lessons not placed above (social organisation, authorities, laws and demands — Civics, printed pp. 166 onwards). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
+
+**Book 2:** *Guía para Docentes del área de Ciencias Sociales — Sexto grado de Educación Básica (cover: 'Ciencias Sociales — Sexto grado — Guía para Docentes')* (teacher guide, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Guía para Docentes del área de Ciencias Sociales — Sexto grado de Educación Básica (cover: 'Ciencias Sociales — Sexto grado — Guía para Docentes'). Grade: Grade 6 (student/teacher: TEACHER). PDF pages: 166 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 13,557,501 bytes, SHA-256 prefix da16e14541340eec). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (printed pp. 7–42 in the guide); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 83–122 in the guide); Bloque 4 lessons not placed above (Civics/social organisation, printed pp. 123 onwards in the guide). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Lección 13: Europa y Asia — Europe and Asia | Honduras, *Honduras Grade 6 Student Book*, Lección 13: Europa y Asia — Europe and Asia — printed p. 73 |
+| Sub lesson 1 — Lección 13: Europa y Asia — Europe and Asia (teacher guide — evidence) | Honduras, *Honduras Grade 6 Teacher Guide* (teacher guide), Lección 13: Europa y Asia — Europe and Asia — printed p. 55 |
+| Sub lesson 2 — Honduras's way — the book's own teaching way | Honduras — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Honduras).**
+
+Honduras's own way (Honduras Grade 6 Student Book): widening-circles design — the whole world — continents and oceans, world population, migration and climate change, with Honduras located inside the world. Every lesson runs the same 'Sembrar y cosechar' activity cycle.
+
+Honduras's own way (Honduras Grade 6 Teacher Guide) (teacher guide — evidence): widening-circles design — the whole world — continents and oceans, world population, migration and climate change, with Honduras located inside the world — the teacher guide mirrors the student book lesson-for-lesson (same 38 lessons and blocks) and adds didactics, theory summaries and answer keys; its geography lessons are placed here at the guide's own printed pages. Every lesson runs the same 'Sembrar y cosechar' activity cycle. That book is a teacher guide, cited as evidence only; Honduras is counted in this lesson for its student book(s) named here, not for this guide.
+
+Searchable tags: europe and asia land and peoples, Honduras, social studies, the-land-and-air

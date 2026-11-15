@@ -5801,3 +5801,104 @@ in 1 country (Moldova), 8 questions each; all stand on
 student books (Moldova has no teacher guides in this
 wave).
 Geography lessons: 2393 → 2493.
+
+
+## Honduras — Geography expansion (merged 2026-11-15)
+242 placement lines stocked from Honduras's 38 records
+/ 20 distinct books — the combined Ciencias Sociales
+student books and teacher guides for Grades 1–9
+(Universidad Pedagógica Nacional Francisco Morazán
+(UPNFM), elaborated for the Secretaría de Estado en el
+Despacho de Educación de Honduras; preliminary edition
+(Edición Preliminar) 2020; no ISBN printed), each book
+in four blocks, with Bloque 2 'Las sociedades y los
+espacios geográficos' (the Geography block) placed in
+full together with the population/economic-geography
+lessons of Bloque 4, and the History (Bloque 3) and
+Civics/personal-social parts named in each book entry
+only. Read from the recorded ministry source
+educatrachos.hn, except the Grade 8 and Grade 9 (2020)
+teacher guides, read from their recorded
+libroshonduras.com copies; byte sizes and SHA-256
+prefixes are recorded per book in the placements file
+and copied into every book entry. Two books are
+resolved duplicates, placed once under their twins:
+Book 15 (a byte-identical second copy of the Grade 7
+teacher guide, Book 14) and Book 20 (a scanned 2022
+re-issue of the Grade 9 teacher guide's 2020 edition,
+Book 19, whose credits page carries ISBN
+978-99979-59-30-0). The placements file's header total
+(242 — 168 to existing lessons, 74 NEW LESSON NEEDED)
+and its per-book tallies agree with the line-by-line
+count — no discrepancy. Honduras's own way is a
+widening-circles design: Grade 1 the child's own space
+and community, Grade 2 the municipality and department,
+Grade 3 the whole country, Grade 4 Central America,
+Grade 5 the Americas, Grade 6 the whole world, then
+Grades 7–9 in depth (Honduras, the Americas, the world
+continent by continent); every lesson runs the same
+'Sembrar y cosechar' activity cycle, and each teacher
+guide mirrors its student book lesson-for-lesson. The
+student books count toward acceptance; the teacher
+guides are cited as the evidence they are, outside
+acceptance counts — every lesson below also takes
+student-book placements, so Honduras counts in each
+through its student books. Stocked into standing
+lessons (170 placements across 35 lessons): the 168
+existing-flagged placements at the slug the placements
+file names, and 2 placements remapped to the closest
+standing lesson covering the thing (original slug
+recorded in each provenance row):
+people-and-resources/world-economic-integration-blocs →
+culture-and-work/world-economic-integration-blocs (2
+placements). 30 NEW lessons built (72 placements, all
+flagged NEW) — **First Steps**: Our Space Where We Live
+And Learn (printed p. 50; printed p. 43), Public
+Services And The People Who Provide Them (printed p.
+82; printed p. 75; printed p. 82; printed p. 75;
+printed p. 82; printed p. 75); **The Land and Air**:
+Africa And Oceania Land And Peoples (printed p. 78;
+printed p. 59), Africa Its Nature And Landscapes
+(printed p. 106; printed p. 71), Asia And Its
+Geographic Extremes (printed p. 100; printed p. 67),
+Central America The Countries And Their Land (printed
+p. 78; printed p. 59), Europe A Geographic Tour
+(printed p. 94; printed p. 63), Europe And Asia Land
+And Peoples (printed p. 73; printed p. 55), Exploring
+Honduras Relief Rivers And Coasts (printed p. 66;
+printed p. 59), Geographic Features Of Our Municipality
+(printed p. 54; printed p. 47), Geographic Features Of
+The Americas (printed p. 88; printed p. 59), Honduras
+Location Size And Borders (printed p. 58; printed p.
+51; printed p. 73; printed p. 55; printed p. 73;
+printed p. 55; printed p. 93; printed p. 71; printed p.
+94; printed p. 63), Honduras Mountain Relief (printed
+p. 100; printed p. 67), Honduras Rivers And Watersheds
+(printed p. 106; printed p. 71), Oceania The Island
+Continent (printed p. 112; printed p. 75), Our
+Department In Honduras (printed p. 62; printed p. 55),
+Regions Of The Americas (printed p. 94; printed p. 63),
+Studying Our Community Geographically (printed p. 82;
+printed p. 55); **Population, Transport and Maps**:
+Honduras Political Division Departments And
+Municipalities (printed p. 62; printed p. 55), Our
+Municipality And Its Neighbours (printed p. 58; printed
+p. 51), Political Division Of The Americas (printed p.
+82; printed p. 55); **People and Resources**: Central
+American Integration (printed p. 176; printed p. 131),
+Development Potential Of Latin America (printed p. 230;
+printed p. 151), Formal And Informal Economy In
+Honduras (printed p. 212; printed p. 139), Honduras
+Economy Today (printed p. 224; printed p. 147),
+Integration Blocs Of The Americas (printed p. 171;
+printed p. 127), Local Development Of Our Municipality
+(printed p. 158; printed p. 143), The World Economy
+Today (printed p. 218; printed p. 143); **Culture and
+Work**: Honduras A Multiethnic Country (printed p. 196;
+printed p. 147); **Global Issues**: Building Geographic
+Defences Against Natural Hazards (printed p. 76;
+printed p. 51) — all 30 of the new lessons are taught
+in 1 country (Honduras), 8 questions each; each stands
+on Honduras student book(s), with the matching teacher
+guide(s) cited as evidence only.
+Geography lessons: 2493 → 2523.

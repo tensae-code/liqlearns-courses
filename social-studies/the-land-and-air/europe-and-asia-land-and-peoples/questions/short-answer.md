@@ -1,0 +1,9 @@
+# Europe And Asia Land And Peoples — short answer
+
+Answer in a sentence or two.
+
+**1. (Sub lesson 1)** What does the first part of this lesson teach?
+**Answer: Europe And Asia Land And Peoples — Lección 13: Europa y Asia — Europe and Asia; Lección 13: Europa y Asia — Europe and Asia (any close wording).**
+
+**2. (Sub lesson 2)** What does the second part of this lesson teach?
+**Answer: Honduras's way — the book's own teaching way (any close wording).**

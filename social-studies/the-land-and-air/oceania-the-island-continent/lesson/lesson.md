@@ -1,0 +1,24 @@
+# Oceania The Island Continent
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Lección 18: Un continente insular: Oceanía — Oceania, the island continent (teacher guide title adds Australia); Lección 18: Un continente insular: Oceanía — Oceania, the island continent (teacher guide title adds Australia) — as Honduras's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Oceania The Island Continent
+
+Honduras's book, the *Honduras Grade 9 Student Book* (printed p. 112), teaches: Lección 18: Un continente insular: Oceanía — Oceania, the island continent (teacher guide title adds Australia). Honduras's book, the *Honduras Grade 9 Teacher Guide* (printed p. 75), teaches: Lección 18: Un continente insular: Oceanía — Oceania, the island continent (teacher guide title adds Australia). (teacher guide — evidence) This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Honduras's way — the book's own teaching way
+
+Honduras's own way (Honduras Grade 9 Student Book): widening-circles design — the world continent by continent — hazards and geographic defence first (Hurricane Mitch), territory versus population, then geographic tours of Europe, Asia, Africa and Oceania, closing on a warming world; Bloque 4 adds world population, the world and Honduran economies and migration. Every lesson runs the same 'Sembrar y cosechar' activity cycle.
+
+Honduras's own way (Honduras Grade 9 Teacher Guide) (teacher guide — evidence): widening-circles design — the world continent by continent — hazards and geographic defence first (Hurricane Mitch), territory versus population, then geographic tours of Europe, Asia, Africa and Oceania, closing on a warming world; Bloque 4 adds world population, the world and Honduran economies and migration — the teacher guide mirrors the student book lesson-for-lesson (same 38 lessons and blocks) and adds didactics, theory summaries and answer keys; its geography lessons are placed here at the guide's own printed pages. Every lesson runs the same 'Sembrar y cosechar' activity cycle. That book is a teacher guide, cited as evidence only; Honduras is counted in this lesson for its student book(s) named here, not for this guide. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Honduras's way: do the activity in hands-on.md under this name.
