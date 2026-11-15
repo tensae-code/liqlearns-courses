@@ -1,6 +1,6 @@
 # Sources — Earthquakes — the slipping Earth
 
-countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic
+countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic
 
 **Book 5:** *Ciencias Sociales — Cuarto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-76-4 (printed in the book). Title as printed: Ciencias Sociales — Cuarto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición). Grade 10 (student). 208 PDF pp. (cover verified against the record title; byte size 36,649,537 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History parts named in the placements, not placed: Unidad 5 La historia como ciencia, printed p. 74; Unidad 6 Los prolongados inicios de la humanidad, p. 90; Unidad 7 La antigüedad clásica europea, p. 106; Unidad 8 Gestación del mundo moderno, p. 122; Unidad 9 Primacía de Europa sobre el mundo, p. 138; Unidad 10 Modernidad y capitalismo, p. 144). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 6:** *Social Studies for Grade 7 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011 (reprinted 2011); ISBN 99948-1-584-9. Title as printed: Social Studies for Grade 7 — Textbook. Grade 7 (student/teacher: STUDENT). PDF pages: 154 (cover/title page verified against the record title; 3,970,347 bytes and 154 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Social Development: Primitive Communal to Feudalism, printed p. 63 Civics parts (named, not placed): Unit 6 Government (development of government; government systems; system of government administration in Eritrea), printed p. 78 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Strain and sudden slip | G12 student #12, printed pp. 15–16 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic
 | Costa Rica part — seismic activity, its causes and where it happens | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 1 A (cont.) — printed p. 8 |
 | Indonesia part (Grade 11) — Bab 4 I.D Persebaran gempa bumi dan tsunami di Indonesia | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 4 I.D Persebaran gempa bumi dan tsunami di Indonesia — printed p. 186 |
 | Dominican Republic part (Grade 10) — Earthquakes and their characteristics | Dominican Republic, *Ciencias Sociales, Cuarto Grado, Secundaria (Libro Abierto)*, Grade 10, Earthquakes and their characteristics — printed p. 34 (the placements name the target as the-land-and-air/earthquakes-their-causes-and-effects; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
+| Eritrea part (ER G7 Social Studies) — Unit 8: 8.5 Earthquakes | Eritrea, *ER G7 Social Studies*, Unit 8: 8.5 Earthquakes — printed p. 118 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic).**
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -34,3 +37,5 @@ Costa Rica's own way: an almost purely geographical anthology — earth dynamics
 Searchable tags: earthquakes, Richter scale, seismic waves, fault slip, seismograph, social studies, Costa Rica, CONED Antología, Estudios Sociales
 
 Dominican Republic's own way (Grade 10): This is the physical-geography year: the universe and Earth's layers, continental drift with volcanoes and earthquakes — including earthquake-prevention measures as a group task — water and winds across the continents, and a closing unit on political and economic geography that treats borders, geopolitical order and international climate agreements as geography, with hurricane-season citizen responsibility as the water unit's group activity.
+
+Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Eritrea's land — map scale, area and population arithmetic first, then Eritrea's natural heritage (Red Sea coast, wildlife) and Eritrea's own disaster set (drought, locusts, earthquakes, volcanism) as the environmental core.

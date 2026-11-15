@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1121**
+Geography lessons across the eight Geography titles: **1150**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -685,3 +685,29 @@ Its Effects in Malaysia, Green Technology, Reducing the
 Risk of Earthquake, Tsunami and Volcano Disasters,
 Landslides and Mudflows in Southeast Asia and Wildlife
 of Malaysia and Keeping It Safe.
+
++29 for Eritrea, 2026-11-14 — Earth and Space: Seasons
+Around the World; The Land and Air: Eritrea's Location
+— Latitude, Longitude and Neighbours, Eritrea's Size
+and Shape, Eritrea's Red Sea Coast and Marine Heritage,
+Escarpments — Eritrea's Eastern and Western Slopes,
+Eritrea's Lowlands and the Danakil Depression,
+Eritrea's Strategic Red Sea Position, What the
+Environment Is, How Landforms Shape People's Lives,
+Eritrea and Its Neighbouring Countries and The Red Sea
+— Where It Is; Population, Transport and Maps: How
+Migration Changes the Environment, Rural and Urban
+Settlements Compared, What Population Means,
+Communication — From Signals to Phones, Eritrea's
+Regions — The Six Zobas and Social Services and
+Infrastructure; People and Resources: What Decides
+Where Economic Activities Happen; Culture and Work:
+Eritrea's Ethnic Groups and Their Ways of Life,
+Holidays and Celebrations in Eritrea, Eritrea's Lowland
+Societies, Eritrea's Highland Societies and Why Trade
+Matters; Resources and Conflict: Eritrea's Natural
+Heritage and Protecting Our Plants and Trees; Global
+Issues: Lightning and How to Stay Safe, What a Disaster
+Is — Natural and Man-Made, Epidemics — When Disease
+Spreads and Locusts and Armyworms — Pests That Eat the
+Crops.

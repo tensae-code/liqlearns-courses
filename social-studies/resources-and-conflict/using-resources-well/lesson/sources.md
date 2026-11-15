@@ -1,6 +1,6 @@
 # Sources — Natural Resources — Using Resources Well
 
-countries: Ethiopia, United Arab Emirates, Turkey, Jamaica, Bahamas, Samoa
+countries: Ethiopia, United Arab Emirates, Turkey, Jamaica, Bahamas, Samoa, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 63).
 
@@ -18,6 +18,8 @@ countries: Ethiopia, United Arab Emirates, Turkey, Jamaica, Bahamas, Samoa
 
 **Book 8:** *Social Studies — Year 9, Book 1* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-008-5. Title as printed: Social Studies — Year 9, Book 1. Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Unit 4 Being Part of a Group, printed pp. 57–83 (groups people belong to, how villages are organised, Tonga, women kautaha in Tonga, the political system of Tonga — Sociology/Civics)). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 9:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2015 (reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. Title as printed: Social Studies for Grade 6 — Pupils' Book. Grade 6 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title; 2,730,732 bytes, matches record size_bytes). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 1 Sources, printed p. 1; Unit 2 Measuring Time, printed p. 8; Unit 8 Eritrea 900 B.C.E–1300 C.E, printed p. 60; Unit 9 The Period of the Bahri Negestat, printed p. 68 Civics / life-skills parts (named, not placed): Unit 13 Caring for Younger Children, printed p. 111 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils name what is missing for an unused local resource | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed p. 83 |
@@ -31,8 +33,9 @@ countries: Ethiopia, United Arab Emirates, Turkey, Jamaica, Bahamas, Samoa
 | Bahamas part (Grade 1) — Protecting the Environment: conserve natural resources and produce less waste; recycling paper saves trees | Bahamas, *Social Science, Grade 1*, Grade 1, Protecting the Environment: conserve natural resources and produce less waste; recycling paper saves trees — printed p. 37 |
 | Bahamas part (Grade 3) — Protecting Our Resources: protect resources by the three words Reduce, Reuse, Recycle — and by planting trees and keeping the environment clean | Bahamas, *Social Science, Grade 3*, Grade 3, Protecting Our Resources: protect resources by the three words Reduce, Reuse, Recycle — and by planting trees and keeping the environment clean — printed p. 43 |
 | Samoa part (Year 9, Book 1) — Unit 3 Topic 1 Allocation of Resources | Samoa, *Social Studies, Year 9, Book 1*, Unit 3 Topic 1 Allocation of Resources — printed p. 36 |
+| Eritrea part (ER G6 Social Studies) — Unit 10: how we use natural resources | Eritrea, *ER G6 Social Studies*, Unit 10: how we use natural resources — printed p. 79 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, United Arab Emirates, Turkey, Bahamas, Samoa). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, United Arab Emirates, Turkey, Bahamas, Samoa, Eritrea). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -47,3 +50,5 @@ Bahamas' own way (Grade 1): One integrated "Social Science" book fusing Religiou
 Bahamas' own way (Grade 3): The integrated Social Science pattern continues, but Grade 3 adds a distinct Bahamas-geography block in the middle of the book: a full map study of the archipelago (700 islands and cays, Family Islands, three sections), inter-island travel by Bahamasair, fast ferry and mailboat, and an island-by-island inventory of natural resources (Andros crabs, Abaco farming, Grand Bahama citrus and sponge), closing with Hurricane Dorian (2019) as the national extreme-weather case.
 
 Samoa's own way (Year 9, Book 1): Geography is taught through Samoa's own resources first — environment, land, rainforest, water and marine resources of Samoa itself, then how resources are shared out in Samoan community life.
+
+Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.

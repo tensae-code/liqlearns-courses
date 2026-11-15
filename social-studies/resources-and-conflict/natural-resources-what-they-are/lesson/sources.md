@@ -1,6 +1,6 @@
 # Sources — Natural Resources — What They Are
 
-countries: Ethiopia, Zambia, Jamaica, Samoa
+countries: Ethiopia, Zambia, Jamaica, Samoa, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 60).
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Zambia, Jamaica, Samoa
 
 **Book 5:** *Social Studies — Year 9, Book 1* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-008-5. Title as printed: Social Studies — Year 9, Book 1. Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Unit 4 Being Part of a Group, printed pp. 57–83 (groups people belong to, how villages are organised, Tonga, women kautaha in Tonga, the political system of Tonga — Sociology/Civics)). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 6:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2015 (reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. Title as printed: Social Studies for Grade 6 — Pupils' Book. Grade 6 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title; 2,730,732 bytes, matches record size_bytes). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 1 Sources, printed p. 1; Unit 2 Measuring Time, printed p. 8; Unit 8 Eritrea 900 B.C.E–1300 C.E, printed p. 60; Unit 9 The Period of the Bahri Negestat, printed p. 68 Civics / life-skills parts (named, not placed): Unit 13 Caring for Younger Children, printed p. 111 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils list material and non-material things from nature before the definition | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 78–79 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Zambia, Jamaica, Samoa
 | Identifying natural resources in the community — Zambia's way (teacher guide — evidence) | Zambia, *Social Studies Teaching Module, Grade 4, Term 3* (teacher guide), Topic 4.7 Environment, Sub-topic 4.7.1 Natural Resource Management: identifying natural resources in the community (minerals, land, water, forest; community map activity) — printed p. 1 |
 | Jamaica part — Grade 7 Term 2 Unit 1: Utilizing Our Resources — Natural Resources (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 7 Term 2 Unit 1: Utilizing Our Resources — Natural Resources — printed p. 24 |
 | Samoa part (Year 9, Book 1) — Unit 1 Topic 1 Our Environment / Our Earth | Samoa, *Social Studies, Year 9, Book 1*, Unit 1 Topic 1 Our Environment / Our Earth — printed p. 6 |
+| Eritrea part (ER G6 Social Studies) — Unit 10 Natural Resources and Conservation: resources | Eritrea, *ER G6 Social Studies*, Unit 10 Natural Resources and Conservation: resources — printed p. 78 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Samoa). Zambia is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Samoa, Eritrea). Zambia is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -33,3 +36,5 @@ The teacher guide used for the parts labelled (teacher guide — evidence) is NO
 Searchable tags: natural resources, definition, material, non-material, prosperity, proper use, fiscal revenue, jobs, poverty, የተፈጥሮ ሀብቶች, Ethiopia Grade 8 Social Studies Chapter 3, Zambia, community map, minerals land water forest, teacher guide evidence, Zambia Grade 4 Social Studies, Jamaica, curriculum guide evidence
 
 Samoa's own way (Year 9, Book 1): Geography is taught through Samoa's own resources first — environment, land, rainforest, water and marine resources of Samoa itself, then how resources are shared out in Samoan community life.
+
+Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.

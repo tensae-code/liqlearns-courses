@@ -1,6 +1,6 @@
 # Sources — Water, Air, Forest, Wildlife, Soil
 
-countries: Ethiopia, Angola, Turkmenistan, Samoa
+countries: Ethiopia, Angola, Turkmenistan, Samoa, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 46).
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Angola, Turkmenistan, Samoa
 **Book 3:** *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)* (student book, Turkmen) — Turkmenistan, Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2022; no ISBN printed (UDC 373:911.3; order no. 2149). Title as printed: Dünýäniň ykdysady we durmuş geografiýasy (Umumy orta bilim berýän mekdepleriň X synpy üçin okuw kitaby). Grade 10 (X synp) (student). 264 PDF pp. (cover/title page verified against the record title; 264 pages exact match to the books.json record; read via grab.py url (GitHub release; byte size 7,680,130 exact match to the books.json record), verified by pdfinfo + title page; contents read from the printed Mazmuny (pp. 260-262)). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release URL + books.json record are the same book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkmenistan-placements.md.
 
 **Book 4:** *Social Studies — Year 9, Book 1* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-008-5. Title as printed: Social Studies — Year 9, Book 1. Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Unit 4 Being Part of a Group, printed pp. 57–83 (groups people belong to, how villages are organised, Tonga, women kautaha in Tonga, the political system of Tonga — Sociology/Civics)). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
+**Book 5:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2015 (reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. Title as printed: Social Studies for Grade 6 — Pupils' Book. Grade 6 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title; 2,730,732 bytes, matches record size_bytes). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 1 Sources, printed p. 1; Unit 2 Measuring Time, printed p. 8; Unit 8 Eritrea 900 B.C.E–1300 C.E, printed p. 60; Unit 9 The Period of the Bahri Negestat, printed p. 68 Civics / life-skills parts (named, not placed): Unit 13 Caring for Younger Children, printed p. 111 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -20,8 +22,9 @@ countries: Ethiopia, Angola, Turkmenistan, Samoa
 | Angola part — 1.2.3 Recursos bióticos | Angola, *Geografia 6ª Classe*, Grade 6, 1.2.3 Recursos bióticos — printed p. 14 |
 | Turkmenistan part — §7 Land, water and biological resources | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §7 Land, water and biological resources — printed p. 32 |
 | Samoa part (Year 9, Book 1) — Unit 1 Topic 5 Our Water | Samoa, *Social Studies, Year 9, Book 1*, Unit 1 Topic 5 Our Water — printed p. 21 |
+| Eritrea part (ER G6 Social Studies) — Unit 10: land, water, air, forest and mineral resources of Eritrea | Eritrea, *ER G6 Social Studies*, Unit 10: land, water, air, forest and mineral resources of Eritrea — printed p. 82 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Angola, Turkmenistan, Samoa).**
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Turkmenistan, Samoa, Eritrea).**
 
 No teacher-guide material is folded into this lesson: the Addis Ababa guide's Unit 3 carries no counterpart to the five-resource survey beyond the student book's own teaching. The two erosion GIFs are drawn renders built to the placement's own GIF need ("rain washing soil off a bare slope — yes, erosion is motion"); the second GIF draws out the same erosion teaching for topsoil in a single storm, the form the book's erosion problem takes on farmland. No book error flagged by the placements touches this lesson.
 
@@ -32,3 +35,5 @@ Angola's own way (Grade 6): a resources-and-environment year — every world top
 Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.
 
 Samoa's own way (Year 9, Book 1): Geography is taught through Samoa's own resources first — environment, land, rainforest, water and marine resources of Samoa itself, then how resources are shared out in Samoan community life.
+
+Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.

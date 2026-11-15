@@ -1,6 +1,6 @@
 # Sources — Land-Shaping Forces — Volcanism, Magma and Lava
 
-countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia
+countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia
 
 **Book 6:** *Geografi untuk SMA Kelas XI* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kemendikbudristek; year 2021 (Cetakan Pertama); ISBN 978-602-244-846-4 (jil. 1); author Budi Handoyo. Title as printed: Geografi untuk SMA Kelas XI. Grade 11 / SMA Kelas XI (student). 248 PDF pp. (cover verified: "Geografi — SMA Kelas XI", Budi Handoyo, Kemendikbudristek). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" (penerbitcmedia.com/download1/BSE/.../g11_geografi.pdf) and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records; the books.json tree paths return 404 because the files live in releases, not the tree). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
 
+**Book 7:** *Social Studies for Grade 7 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011 (reprinted 2011); ISBN 99948-1-584-9. Title as printed: Social Studies for Grade 7 — Textbook. Grade 7 (student/teacher: STUDENT). PDF pages: 154 (cover/title page verified against the record title; 3,970,347 bytes and 154 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Social Development: Primitive Communal to Feudalism, printed p. 63 Civics parts (named, not placed): Unit 6 Government (development of government; government systems; system of government administration in Eritrea), printed p. 78 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The whole process | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 13–14 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia
 | Guatemala part — Volcanes | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Volcanes (Unit 2) — printed p. 87 |
 | Costa Rica part — earth dynamics and volcanic activity | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 1 C — printed p. 24 |
 | Indonesia part (Grade 11) — Bab 1 I.C Pengaruh letak geologis: Pacific Ring of Fire, volcanic arcs | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 1 I.C Pengaruh letak geologis: Pacific Ring of Fire, volcanic arcs — printed p. 15 |
+| Eritrea part (ER G7 Social Studies) — Unit 8: 8.6 Volcanism in Eritrea | Eritrea, *ER G7 Social Studies*, Unit 8: 8.6 Volcanism in Eritrea — printed p. 120 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -37,3 +40,5 @@ Guatemala's own way: one combined Social Studies and Citizenship book per grade,
 Costa Rica's own way: an almost purely geographical anthology — earth dynamics, water and climate change — built around risk: every world topic lands on Costa Rican vulnerability, risk management and territorial planning by sector (biodiversity, health, infrastructure, fisheries, energy, agriculture, water). That way is stocked here as the way Costa Rica teaches this thing.
 
 Searchable tags: land-shaping forces   volcanism  magma and lava, ethiopia, social studies, the land and air, Guatemala, Costa Rica, CONED Antología, Estudios Sociales
+
+Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Eritrea's land — map scale, area and population arithmetic first, then Eritrea's natural heritage (Red Sea coast, wildlife) and Eritrea's own disaster set (drought, locusts, earthquakes, volcanism) as the environmental core.

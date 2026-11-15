@@ -1,6 +1,6 @@
 # Sources — Primary activities — kinds of farming
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa
+countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa
 
 **Book 7:** *Geography — Year 12* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-061-1. Title as printed: Geography — Year 12. Year 12 (student/teacher: STUDENT). PDF pages: 193 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 8:** *Social Studies for Grade 8 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011; ISBN 99948-1-592-X. Title as printed: Social Studies for Grade 8 — Textbook. Grade 8 (student/teacher: STUDENT). PDF pages: 157 (cover/title page verified against the record title; 4,716,045 bytes and 157 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Expansionism and Resistance against Colonial Rule, printed p. 64; Unit 6 Colonial Administrations in Eritrea, printed p. 89; Unit 7 Highlights of the Eritrean Armed Struggle, printed p. 105; Unit 8 Post Independence Developments, printed p. 116 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — By product, and by purpose | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 55–56 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa
 | Palestine part — Lesson 2: domestication of animals | Palestine, *Social Studies, Grade 5, Part Two*, Grade 5, Lesson 2: domestication of animals — printed p. 14 |
 | Bahamas part (Grade 3) — Plants: backyard farming — The Bahamas imports almost 80% of its food, so families are encouraged to grow their own on their plots of land | Bahamas, *Social Science, Grade 3*, Grade 3, Plants: backyard farming — The Bahamas imports almost 80% of its food, so families are encouraged to grow their own on their plots of land — printed p. 45 |
 | Samoa part (Year 12 Geography) — Part 4 Unit 1 Farming Systems | Samoa, *Geography, Year 12*, Part 4 Unit 1 Farming Systems — printed p. 129 |
+| Eritrea part (ER G8 Social Studies) — Unit 9 Economic Activities: 9.1 Farming | Eritrea, *ER G8 Social Studies*, Unit 9 Economic Activities: 9.1 Farming — printed p. 129 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa).**
+**Acceptance count: taught in 8 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -46,3 +49,5 @@ Palestine's own way (Grade 5, PS G5P2): the settlement story is told as a ladder
 Bahamas' own way (Grade 3): The integrated Social Science pattern continues, but Grade 3 adds a distinct Bahamas-geography block in the middle of the book: a full map study of the archipelago (700 islands and cays, Family Islands, three sections), inter-island travel by Bahamasair, fast ferry and mailboat, and an island-by-island inventory of natural resources (Andros crabs, Abaco farming, Grand Bahama citrus and sponge), closing with Hurricane Dorian (2019) as the national extreme-weather case.
 
 Samoa's own way (Year 12 Geography): A full senior Geography course built on the Pacific itself — high and low island formation, island climates and ecosystems, then population of New Zealand, Asia and Samoa, and Samoan farming (bananas) beside Australian uranium mining.
+
+Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.

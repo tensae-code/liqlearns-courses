@@ -1,6 +1,6 @@
 # Sources — How climate helps people live
 
-countries: Ethiopia, Jamaica, Colombia, Malaysia
+countries: Ethiopia, Jamaica, Colombia, Malaysia, Eritrea
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Jamaica, Colombia, Malaysia
 
 **Book 6:** *Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2020 (first printing 2020); ISBN 978-967-0483-63-4. Title as printed: Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 11 / Tingkatan 5 (student/teacher: STUDENT). PDF pages: 208 (cover verified against the record title — "GEOGRAFI TINGKATAN 5"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 5 records — the TSV release record (full-quality-oversized-books, read here, 194,745,977 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 7:** *ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2010; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book). Grade 5 (student/teacher: STUDENT). PDF pages: 190 (cover/title page verified against the record title; 35,645,487 bytes and 190 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read via pdftotext; unit and section titles translated from the printed contents, printed pp. vi–vii). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 5 section 5.2 Ancient Activities on the Red Sea, printed p. 45; Chapter 6 ምንጪ ሓበሬታ Sources of Information — archaeology, artefacts and museums (except the Eritrean heritage-sites section placed below), printed p. 61; Chapter 10 ታሪኽ ኤርትራ History of Eritrea, printed p. 124 Civics parts (named, not placed): Chapter 1 sections 1.2–1.3 Regional administrations, their bodies, divisions and duties, printed pp. 3–5 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Farming and water — the first gifts | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 2, printed pp. 41–43 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Jamaica, Colombia, Malaysia
 | Colombia part (CS_Grado07 Secundaria Activa) — Unidad 1 Cap. 1 Tema 3 Clima y actividades humanas | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 7 (module)*, Unidad 1 Cap. 1 Tema 3 Clima y actividades humanas — printed p. 32 |
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 4.2: the influence of weather and climate on human activities in Malaysia | Malaysia, *MY T2 Geografi*, Bab 4.2: the influence of weather and climate on human activities in Malaysia — printed pp. 56-60 |
 | Malaysia part (MY T5 Geografi Tingkatan 5) — Bab 4.3: the influence of weather and climate on human activities (placement slug: the-land-and-air/weather-and-daily-life) | Malaysia, *MY T5 Geografi*, Bab 4.3: the influence of weather and climate on human activities — printed pp. 69-71 |
+| Eritrea part (ER G5 Social Studies) — Chapter 9: 9.4 People and the weather | Eritrea, *ER G5 Social Studies*, Chapter 9: 9.4 People and the weather — printed p. 120 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Colombia, Malaysia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Colombia, Malaysia, Eritrea). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -38,3 +41,5 @@ Colombia's own way (CS_Grado07 Secundaria Activa): Secundaria Activa organises G
 Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.
 
 Malaysia's own way (MY T5 Geografi Tingkatan 5): the final form is the world's systems book — advanced graphs and photo interpretation, then weather and climate at world scale, vegetation and wildlife by climate zone, energy, and the environmental bill for economic activity.
+
+Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.

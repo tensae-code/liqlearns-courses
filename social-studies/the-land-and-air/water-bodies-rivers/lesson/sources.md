@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Rivers
 
-countries: Ethiopia, Iceland, Belarus, Guatemala
+countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Iceland, Belarus, Guatemala
 
 **Book 5:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
 
+**Book 6:** *Social Studies for Grade 8 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011; ISBN 99948-1-592-X. Title as printed: Social Studies for Grade 8 — Textbook. Grade 8 (student/teacher: STUDENT). PDF pages: 157 (cover/title page verified against the record title; 4,716,045 bytes and 157 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Expansionism and Resistance against Colonial Rule, printed p. 64; Unit 6 Colonial Administrations in Eritrea, printed p. 89; Unit 7 Highlights of the Eritrean Armed Struggle, printed p. 105; Unit 8 Post Independence Developments, printed p. 116 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
+**Book 7:** *ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2010; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book). Grade 5 (student/teacher: STUDENT). PDF pages: 190 (cover/title page verified against the record title; 35,645,487 bytes and 190 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read via pdftotext; unit and section titles translated from the printed contents, printed pp. vi–vii). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 5 section 5.2 Ancient Activities on the Red Sea, printed p. 45; Chapter 6 ምንጪ ሓበሬታ Sources of Information — archaeology, artefacts and museums (except the Eritrean heritage-sites section placed below), printed p. 61; Chapter 10 ታሪኽ ኤርትራ History of Eritrea, printed p. 124 Civics parts (named, not placed): Chapter 1 sections 1.2–1.3 Regional administrations, their bodies, divisions and duties, printed pp. 3–5 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Flowing water in a channel | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 8–9 |
@@ -20,8 +24,10 @@ countries: Ethiopia, Iceland, Belarus, Guatemala
 | Map work — Iceland's main rivers and lakes on an outline map — Iceland's way | Iceland, *Vinnukort í landafræði: ÍSLAND — Helstu ár og vötn* (student book), printed p. 1 |
 | Belarus part — Surface waters of Belarus: rivers and canals | Belarus, *Геаграфія Беларусі. 10 клас (Geography of Belarus, Grade 10)*, Grade 10, Theme II §15, printed p. 73 |
 | Guatemala part — Ríos de Centroamérica: nacimiento, afluentes y desembocadura; Motagua and Cahabón–Semuc Champey case | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Ríos de Centroamérica: nacimiento, afluentes y desembocadura; Motagua and Cahabón–Semuc Champey case (Unit 3) — printed pp. 130–131 |
+| Eritrea part (ER G8 Social Studies) — Unit 2: 2.2 Surface Water — rivers | Eritrea, *ER G8 Social Studies*, Unit 2: 2.2 Surface Water — rivers — printed p. 14 |
+| Eritrea part (ER G5 Social Studies) — Chapter 3: 3.6 Rivers of the world | Eritrea, *ER G5 Social Studies*, Chapter 3: 3.6 Rivers of the world — printed p. 27 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iceland, Belarus, Guatemala).**
+**Acceptance count: taught in 5 countries (Ethiopia, Iceland, Belarus, Guatemala, Eritrea).**
 
 Iceland's own way: a one-page map-labelling work card (vinnukort): pupils work directly on the outline map of their own country, its main rivers and lakes already drawn in for identification, with a 0–50 km scale bar.
 
@@ -32,3 +38,7 @@ Deliberate blanks kept as tasks: Table 5's rows 3–5 are blank in the book on p
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
 Searchable tags: water bodies   rivers, ethiopia, iceland, Helstu ár og vötn, main rivers and lakes, outline map, Vinnukort í landafræði, Iceland Grade 5, social studies, the land and air, Guatemala
+
+Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.
+
+Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.

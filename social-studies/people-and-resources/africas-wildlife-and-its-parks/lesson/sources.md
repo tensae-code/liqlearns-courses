@@ -1,21 +1,31 @@
 # Sources — Africa's wildlife and its parks
 
-countries: Ethiopia, Angola
+countries: Ethiopia, Angola, Eritrea
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
 **Book 2:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
+
+**Book 3:** *Social Studies for Grade 7 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011 (reprinted 2011); ISBN 99948-1-584-9. Title as printed: Social Studies for Grade 7 — Textbook. Grade 7 (student/teacher: STUDENT). PDF pages: 154 (cover/title page verified against the record title; 3,970,347 bytes and 154 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Social Development: Primitive Communal to Feudalism, printed p. 63 Civics parts (named, not placed): Unit 6 Government (development of government; government systems; system of government administration in Eritrea), printed p. 78 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
+**Book 4:** *ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2009; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book). Grade 4 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; 30,437,268 bytes and 159 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read page by page via pdftotext; unit and section titles translated from the printed contents, printed pp. v–vi). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 1 ዝሓለፈ ታሪኽና ንዳህስስ Exploring Our Past (oral history; places and buildings as sources), printed p. 1; Chapter 2 ግዜን ኣጥቓቕማኡን Time and Its Use (past, present, future; counting time), printed p. 11; Chapter 9 ታሪኽ ኤርትራ History of Eritrea, printed p. 131 Civics / Sociology parts (named, not placed): Chapter 7 ኮም Community — what a community is, how communities form, living together, work administration, supporting communities, change in communities, printed pp. 85–107 (its work and rural/urban sections are placed below) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Mammals, endemic species and marine life | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 78–83 |
 | Sub lesson 2 — Parks and sanctuaries — the protection system | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 78–83 |
 | Angola part — 3.2 Diversidade de animais na terra | Angola, *Geografia 5ª Classe*, Grade 5, 3.2 Diversidade de animais na terra — printed p. 37 |
+| Eritrea part (ER G7 Social Studies) — Unit 7: 7.4 Terrestrial Vegetation and Wildlife | Eritrea, *ER G7 Social Studies*, Unit 7: 7.4 Terrestrial Vegetation and Wildlife — printed p. 106 |
+| Eritrea part (ER G4 Social Studies) — Chapter 4: 4.5 Protecting our animals | Eritrea, *ER G4 Social Studies*, Chapter 4: 4.5 Protecting our animals — printed p. 50 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Angola).**
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Eritrea).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
 Searchable tags: Africa wildlife, endemic species, national parks, sanctuaries, savanna mammals, marine life, Ethiopia Grade 10
 
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
+
+Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Eritrea's land — map scale, area and population arithmetic first, then Eritrea's natural heritage (Red Sea coast, wildlife) and Eritrea's own disaster set (drought, locusts, earthquakes, volcanism) as the environmental core.
+
+Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teaches Geography through the child's own surroundings first — our environment, protecting our soil, water, plants and animals, then maps and globes, community life, and the shapes of the land.

@@ -1,6 +1,6 @@
 # Sources — Landforms, Continents and Oceans
 
-countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia
+countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia
 
 **Book 7:** *Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2016; ISBN 978-967-0483-48-1. Title as printed: Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 7 / Tingkatan 1 (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title — "GEOGRAFI TINGKATAN 1", KSSM; printed pagination per the book's contents, Bab 1 on printed p. 1). Verdict: COMPLETE. Records note: this one book covers BOTH Malaysia Tingkatan 1 records — the TSV release record (mid-size-books-2, read here, 84,774,788 bytes) and the books.json record, whose tree path (grade-07/gov/malaysia/geografi/student/full-year.pdf) does not exist in the repo tree (the grade-07/gov/malaysia folder holds only CURRICULUM.md and books.json); the book lives only as a release asset. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 8:** *ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2009; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book). Grade 4 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; 30,437,268 bytes and 159 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read page by page via pdftotext; unit and section titles translated from the printed contents, printed pp. v–vi). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 1 ዝሓለፈ ታሪኽና ንዳህስስ Exploring Our Past (oral history; places and buildings as sources), printed p. 1; Chapter 2 ግዜን ኣጥቓቕማኡን Time and Its Use (past, present, future; counting time), printed p. 11; Chapter 9 ታሪኽ ኤርትራ History of Eritrea, printed p. 131 Civics / Sociology parts (named, not placed): Chapter 7 ኮም Community — what a community is, how communities form, living together, work administration, supporting communities, change in communities, printed pp. 85–107 (its work and rural/urban sections are placed below) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Landforms: how the Earth's face is made | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 26 |
@@ -23,12 +25,13 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia
 | Sub lesson 1 — Landforms: how the Earth's face is made (Saudi Arabia way: أشكال سطح الأرض — landforms / shapes of the Earth's surface, Unit 5 Lesson 18) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي / Social Studies, Grade 4*, Unit 5 Lesson 18, printed p. 117 |
 | Guatemala part — Relieve de Centroamérica, read against the climate map | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Relieve de Centroamérica, read against the climate map (Unit 1) — printed p. 40 |
 | Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 5.3: continents, oceans, major seas and straits | Malaysia, *MY T1 Geografi*, Bab 5.3: continents, oceans, major seas and straits — printed pp. 49-51 |
+| Eritrea part (ER G4 Social Studies) — Chapter 8: 8.2 Types of landforms | Eritrea, *ER G4 Social Studies*, Chapter 8: 8.2 Types of landforms — printed p. 122 |
 
 | France part — Thème 1 Entrer dans le thème: Continents et océans, les repères spatiaux | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Ecuador part — El relieve (Unit 2, Las irregularidades de la Tierra) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, El relieve (Unit 2, Las irregularidades de la Tierra) — printed p. 34 |
 | Ecuador part — Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) — printed p. 99 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea).**
 
 No book errors are flagged by the placements for these pages. Areas are the book's printed table figures (Table 2).
 
@@ -43,3 +46,5 @@ Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse on
 Searchable tags: landforms, internal forces, external forces, continents, oceans, Asia largest, Pacific largest, area ranking, Guatemala, Ecuador
 
 Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organised as skills first (direction, position, sketch maps), then physical geography, human geography, a regional study of Southeast Asia, environmental issues and a full fieldwork chapter — every chapter anchored to Malaysian places first, then the region.
+
+Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teaches Geography through the child's own surroundings first — our environment, protecting our soil, water, plants and animals, then maps and globes, community life, and the shapes of the land.

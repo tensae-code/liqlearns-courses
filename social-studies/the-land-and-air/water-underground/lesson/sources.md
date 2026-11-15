@@ -1,6 +1,6 @@
 # Sources — Water underground
 
-countries: Ethiopia, Angola, Bangladesh
+countries: Ethiopia, Angola, Bangladesh, Eritrea
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Angola, Bangladesh
 
 **Book 4:** *History and Social Science, Class Seven* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022 (first published December 2022, reprint 2023; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Seven (Experimental version). Grade 7 (student). 184 PDF pp. (cover/title page verified against the record title; printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: English read fully; Bangla parallel edition spot-checked (cover, contents with identical chapter page spans 1-175, spreads at the Bedey river community and the delta experiment) — same content, placed once for both editions. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: How to Make Logical Decisions — thinking/inquiry, printed pp. 1-19; Ways to know Economic History — method, pp. 20-31; Similarities and Differences between People — community/gender parts, pp. 39-48 (Bedey river-community part placed); Emergence of Independent Bangladesh and Bangabandhu — history, pp. 65-74; Foreign Friends of Liberation War — history, pp. 75-92; Socio-political Structures and Customs — civics/sociology, pp. 93-118; Individual's Stand and Role in a Changing Context — sociology, pp. 119-131; About Wealth — economics of production, pp. 159-175; present-day development survey (GDP, Dhaka metro, power plants) inside the economic-history chapter — economics/history, pp. 60-64.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
 
+**Book 5:** *Social Studies for Grade 8 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011; ISBN 99948-1-592-X. Title as printed: Social Studies for Grade 8 — Textbook. Grade 8 (student/teacher: STUDENT). PDF pages: 157 (cover/title page verified against the record title; 4,716,045 bytes and 157 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Expansionism and Resistance against Colonial Rule, printed p. 64; Unit 6 Colonial Administrations in Eritrea, printed p. 89; Unit 7 Highlights of the Eritrean Armed Struggle, printed p. 105; Unit 8 Post Independence Developments, printed p. 116 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Aquifers, springs, wells | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 67–69 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Angola, Bangladesh
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 3 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 3, guide printed pp. 61–98 |
 | Angola part — 3.2 As águas superficiais e as águas subterrâneas | Angola, *Geografia 6ª Classe*, Grade 6, 3.2 As águas superficiais e as águas subterrâneas — printed p. 37 |
 | Bangladesh part (Grade 7) — Use of groundwater for drinking and farming | Bangladesh, *History and Social Science, Class Seven*, Grade 7, Use of groundwater for drinking and farming — printed pp. 146-147 |
+| Eritrea part (ER G8 Social Studies) — Unit 2: 2.3 Groundwater | Eritrea, *ER G8 Social Studies*, Unit 2: 2.3 Groundwater — printed p. 22 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Angola, Bangladesh).**
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Bangladesh, Eritrea).**
 
 Searchable tags: groundwater, aquifer, springs, wells, water endowment, social studies
 
 Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
 
 Bangladesh's own way (Grade 7): Geography thins into economic history and a long Sustainable Development inquiry: pupils build a delta in a sand tray, trace the rivers that enter Bangladesh from other countries, map the country's new maritime boundary and its minerals, and audit groundwater and fossil fuels — the delta and the sea are the classroom.
+
+Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.

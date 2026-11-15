@@ -1,6 +1,6 @@
 # Sources — Continents — The Seven in Place
 
-countries: Ethiopia, Ecuador, Dominican Republic
+countries: Ethiopia, Ecuador, Dominican Republic, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -16,11 +16,14 @@ countries: Ethiopia, Ecuador, Dominican Republic
 
 **Book 7:** *Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Unidad Editorial, República Dominicana; Libro Abierto Serie 1; ISBN 978-9945-646-00-9 (printed in the book). Title as printed: Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1). Grade 3 (student). 128 PDF pp. (cover verified against the record title; byte size 73,378,327 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 5 Mi país, su identidad y cultura, printed p. 76; Unidad 6 Derechos y deberes para vivir en democracia (Civics), p. 90; Anexo: Constitución Dominicana Infantil, p. 110). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 8:** *ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2010; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book). Grade 5 (student/teacher: STUDENT). PDF pages: 190 (cover/title page verified against the record title; 35,645,487 bytes and 190 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read via pdftotext; unit and section titles translated from the printed contents, printed pp. vi–vii). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 5 section 5.2 Ancient Activities on the Red Sea, printed p. 45; Chapter 6 ምንጪ ሓበሬታ Sources of Information — archaeology, artefacts and museums (except the Eritrean heritage-sites section placed below), printed p. 61; Chapter 10 ታሪኽ ኤርትራ History of Eritrea, printed p. 124 Civics parts (named, not placed): Chapter 1 sections 1.2–1.3 Regional administrations, their bodies, divisions and duties, printed pp. 3–5 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Asia — the largest | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 3–4 |
 | Sub lesson 2 — Africa — where humankind began | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 3–4 |
 | Sub lesson 3 — The other five | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 3–4 |
+| Eritrea part (ER G5 Social Studies) — Chapter 3 ገጽ ምድሪ The Earth's Surface: 3.1 Continents | Eritrea, *ER G5 Social Studies*, Chapter 3 ገጽ ምድሪ The Earth's Surface: 3.1 Continents — printed p. 16 |
 
 | Sub lesson 4 — Africa and Antarctica — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
 | Sub lesson 5 — Asia, Europe and Australia — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
@@ -30,7 +33,7 @@ countries: Ethiopia, Ecuador, Dominican Republic
 | Dominican Republic part (Grade 6) — The continents of the Earth: how they formed (Unidad 2) | Dominican Republic, *Ciencias Sociales, Sexto Grado, Primaria (Libro Abierto)*, Grade 6, The continents of the Earth: how they formed (Unidad 2) — printed p. 29 |
 | Dominican Republic part (Grade 3) — I know the continents: I live on a continent | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, I know the continents: I live on a continent — printed p. 18 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Dominican Republic).**
+**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, Dominican Republic, Eritrea).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -43,3 +46,5 @@ Searchable tags: continents   the seven in place, ethiopia, social studies, the 
 Dominican Republic's own way (Grade 6): The Libro Abierto primary books open with two full geography units before any history: geography as a science first (its concepts, principles and helper sciences), then a continent-by-continent tour that always pairs physical aspects with population and culture — and the year's history closes with the country's own lived geography, Hurricane Georges over the Dominican Republic.
 
 Dominican Republic's own way (Grade 3): For third graders geography is the home island first: the planet and its components, then the Antilles and the relief of their own country, then countryside versus city, and finally where their own families came from — migration and a family census the children run themselves.
+
+Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.

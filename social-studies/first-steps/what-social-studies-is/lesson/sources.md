@@ -1,6 +1,6 @@
 # Sources — What Social Studies Is
 
-countries: Ethiopia, Saudi Arabia, Niue, Bolivia
+countries: Ethiopia, Saudi Arabia, Niue, Bolivia, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Saudi Arabia, Niue, Bolivia
 
 **Book 5:** *Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Primer Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year not printed in the pages read; no ISBN printed. Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Primer Año de Educación Secundaria Comunitaria Productiva. Grade 7 (student). 98 PDF pp. (cover verified against the record title; byte size 15,723,529 and page count match the staging books.json record exactly). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named here, not placed: La ciencia de la historia, printed p. 24; Evolución de la especie humana, p. 28; Surgimiento de las sociedades humanas, p. 32; Formación y desarrollo de culturas en el mundo antiguo, p. 38; Civilizaciones de la Edad Antigua en Europa: Grecia y Roma, p. 44; Poblamiento del Abya Yala, p. 48; Civilizaciones originarias del Abya Yala, p. 52; Civilización Maya, p. 58; Las primeras culturas en el territorio que hoy es Bolivia, p. 70; Tiahuanaco, p. 76; Los Aymaras, p. 87; Arqueoastronomía, p. 93). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
+**Book 6:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2015 (reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. Title as printed: Social Studies for Grade 6 — Pupils' Book. Grade 6 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title; 2,730,732 bytes, matches record size_bytes). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 1 Sources, printed p. 1; Unit 2 Measuring Time, printed p. 8; Unit 8 Eritrea 900 B.C.E–1300 C.E, printed p. 60; Unit 9 The Period of the Bahri Negestat, printed p. 68 Civics / life-skills parts (named, not placed): Unit 13 Caring for Younger Children, printed p. 111 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Three lenses: land, past, today | Ethiopia, *Social Studies Student Textbook, Grade 7*, front matter and chapter openings, printed pp. v–vi; *Social Studies Student Textbook, Grade 8*, front matter, printed pp. vi–vii |
@@ -20,8 +22,9 @@ countries: Ethiopia, Saudi Arabia, Niue, Bolivia
 | Sub lesson 1 — Three lenses: land, past, today (Saudi Arabia way: what Social Studies is — الدراسات الاجتماعية — taught as Unit 1 Lesson 1, inside the Citizenship unit; Saudi Arabia splits Social Studies into named discipline units: Citizenship, History, Geography, Economy, then Earth-and-Map, the Arabian Peninsula, Prophets, the Prophet's biography) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي / Social Studies, Grade 4*, Unit 1 Lesson 1, printed p. 12 |
 | Niue part — Guide introduction and overview of the four ESD readers (Pacific world-views; head-heart-hands learning) (teacher guide — evidence) | Niue, *Teacher Guide for the Science-Related & Social Studies-Related Primary School ESD Readers* (teacher guide), Years 5–8, Guide introduction and overview of the four ESD readers (Pacific world-views; head-heart-hands learning) — printed pp. 2–9 |
 | Bolivia part — Introduction to the Social Sciences: what they are and their disciplines | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 1*, Grade 7, Introduction to the Social Sciences: what they are and their disciplines — printed p. 2 |
+| Eritrea part (ER G6 Social Studies) — Introduction to Social Studies: what Social Studies is and its subjects | Eritrea, *ER G6 Social Studies*, Introduction to Social Studies: what Social Studies is and its subjects — printed p. iv |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Bolivia). Niue is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Bolivia, Eritrea). Niue is named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way (teacher guide — evidence): the guide localises the shared Pacific set country by country — its "Links to formal learning" section carries a dedicated Niue chapter (what sustainability means for Niueans; Niue curriculum links to SDG 4.7), the model other Pacific countries' sets follow. That evidence is stocked here as the way Niue teaches this thing; it does not change the acceptance count above.
 
@@ -30,3 +33,5 @@ The books' own reference shelves (Grade 7 printed p. 165–166; Grade 8 referenc
 Bolivia's own way (Grade 7, Secundaria 1): The Bolivian Texto de Aprendizaje runs every unit through the same four moments — Práctica, Teoría, Valoración, Producción — and frames geography inside the plurinational, Madre Tierra worldview: continental drift and geological time sit beside the Laws of Mother Earth (071 and 300), the human right to water, and a closing general geography of Bolivia itself (regions, orography, political map, salt flats and lithium).
 
 Searchable tags: what is social studies, geography history today, activity first, course introduction, social sciences, Niue, ESD Teacher Guide, teacher guide evidence, Bolivia, Ciencias Sociales Bolivia
+
+Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.

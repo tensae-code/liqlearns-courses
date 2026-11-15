@@ -1,10 +1,12 @@
 # Sources — Crude Density
 
-countries: Ethiopia, Morocco
+countries: Ethiopia, Morocco, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 48).
 
 **Book 2:** *Dalil Moufid Ijtiamiat 5e / Teacher's Guide, Social Studies, Year 5 Primary* (teacher guide, Arabic) — Morocco, Ministry of National Education, Morocco (منهاج الاجتماعيات, framework law 2015-2030 curriculum, Nov 2020 reference framework); authoring team led by Abdelaziz Hamdane and Abdelghani Maaroufi (inspectors for Social Studies); year not printed on the title page (2020 curriculum framework); no ISBN printed. Title as printed: دليل الأستاذة والأستاذ — الاجتماعيات، السنة الخامسة من التعليم الابتدائي (Teacher's Guide — Social Studies, Fifth Year of Primary Education), for the learner's book «المفيد في الاجتماعيات» (Al-Moufid fi al-Ijtimaiat). Grade 5 (teacher). 180 PDF pp. (title page verified against the record title; 180 pages exact match to the books.json record). Verdict: COMPLETE. Read via the publisher's own PDF at the record's source_url (darattakafa.com; 25,599,951 bytes and 180 pages both exact matches to the books.json record — the GitHub tree path in the record returns 404, the book is release-secured only, so the identical publisher file was read). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/morocco-placements.md.
+
+**Book 3:** *Social Studies for Grade 7 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011 (reprinted 2011); ISBN 99948-1-584-9. Title as printed: Social Studies for Grade 7 — Textbook. Grade 7 (student/teacher: STUDENT). PDF pages: 154 (cover/title page verified against the record title; 3,970,347 bytes and 154 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Social Development: Primitive Communal to Feudalism, printed p. 63 Civics parts (named, not placed): Unit 6 Government (development of government; government systems; system of government administration in Eritrea), printed p. 78 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,11 +14,14 @@ countries: Ethiopia, Morocco
 | Crude density — crude density = total population ÷ total area, worked through a woreda problem (10,000,000 people, 2,000 km²) | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed p. 65 |
 | The warning — crude density counts unfarmable land too, so it misleads about food supply | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed p. 65 |
 | Population density in my homeland — Morocco's way (teacher guide — evidence) | Morocco, *Dalil Moufid Ijtiamiat 5e* (teacher guide), Geography Lesson 8: Population in my homeland — distribution and structure (meaning of population density part), printed p. 104 |
+| Eritrea part (ER G7 Social Studies) — Unit 2: 2.3 Calculating Population Density | Eritrea, *ER G7 Social Studies*, Unit 2: 2.3 Calculating Population Density — printed p. 22 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Morocco is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Eritrea). Morocco is named here as teacher-guide evidence only, counted nowhere.**
 
 Morocco's own way (teacher guide — evidence): in Morocco's Year 5 guide, population density is met inside "Population in my homeland — distribution and structure", where the meaning of population density belongs to reading the homeland's own population — its distribution read from Morocco's density map is stocked as its own lesson (Morocco's Population Distribution). That evidence is stocked here as the way Morocco teaches this thing; it does not change the acceptance count above.
 
 The worked answer (10,000,000 ÷ 2,000 = 5,000 people per km², band: high) is the arithmetic of the book's own printed problem, carried out — the placement gives the problem's numbers; the division and the band reading follow from the lesson's own definitions on the same page. No teacher-guide material is folded into this lesson (the guide's density frame for this title sits in its Unit 2/3 population sections and adds nothing to the student book's crude-density page; the formal population-measurement framework is carried, as teacher evidence, by the sister course's Population lessons). No book error flagged by the placements touches this lesson.
 
 Searchable tags: population density, crude density, people per square kilometre, density bands, የሕዝብ ብዛት, Ethiopia Grade 7 Social Studies Chapter 3, Morocco population density, Dalil Moufid Ijtiamiat, teacher guide evidence, Morocco Grade 5
+
+Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Eritrea's land — map scale, area and population arithmetic first, then Eritrea's natural heritage (Red Sea coast, wildlife) and Eritrea's own disaster set (drought, locusts, earthquakes, volcanism) as the environmental core.

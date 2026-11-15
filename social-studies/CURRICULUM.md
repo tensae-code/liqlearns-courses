@@ -3059,3 +3059,77 @@ and Keeping It Safe (MY T3 Geografi Tingkatan 3,
 printed pp. 76-96) — the new lessons are taught in 1
 country (Malaysia), 8 questions each.
 Geography lessons: 1103 → 1121.
+
+
+## Eritrea — Geography expansion (merged 2026-11-14)
+114 placement lines stocked from Eritrea's 5 distinct
+books (7 records; the TSV release records for Grades 4
+and 5 duplicate the books.json tree records of the same
+repo path) — the Ministry of Education, The State of
+Eritrea, Social Studies student books for Grades 4–8
+(Grades 6–8 in English, Grades 4–5 in Tigrinya, all
+COMPLETE). The placements file's own tallies say 113
+(Book 1 / Grade 6 tallied as 27); the file in fact
+holds 114 placement lines, Grade 6 holding 28, and
+every line is stocked. Stocked into standing lessons
+(82 placements across 65 lessons) across the Geography
+titles. One NEW-flagged placement was not built as a
+new lesson: Floods — Causes, Damage and Protection
+already exists as a lesson under that exact slug, so
+the Grade 6 floods placement is stocked into it; that
+lesson stood on Jamaica curriculum-guide evidence only
+(0 countries) and is now taught in 1 country (Eritrea),
+Jamaica still named as curriculum-guide evidence only.
+No placement slug needed remapping to a different
+lesson — every existing-flagged slug stands in the
+course under its own name. 29 NEW lessons built (32
+placements) — **Earth and Space**: Seasons Around the
+World (ER G4 Social Studies, printed p. 58); **The Land
+and Air**: Eritrea's Location — Latitude, Longitude and
+Neighbours (ER G6 Social Studies, printed p. 23; ER G8
+Social Studies, printed p. 54), Eritrea's Size and
+Shape (ER G6 Social Studies, printed p. 25), Eritrea's
+Red Sea Coast and Marine Heritage (ER G7 Social
+Studies, printed p. 95), Escarpments — Eritrea's
+Eastern and Western Slopes (ER G8 Social Studies,
+printed p. 4), Eritrea's Lowlands and the Danakil
+Depression (ER G8 Social Studies, printed p. 6),
+Eritrea's Strategic Red Sea Position (ER G8 Social
+Studies, printed p. 58; ER G5 Social Studies, printed
+p. 53), What the Environment Is (ER G4 Social Studies,
+printed p. 25), How Landforms Shape People's Lives (ER
+G4 Social Studies, printed p. 127), Eritrea and Its
+Neighbouring Countries (ER G5 Social Studies, printed
+p. 11), The Red Sea — Where It Is (ER G5 Social
+Studies, printed p. 42); **Population, Transport and
+Maps**: How Migration Changes the Environment (ER G6
+Social Studies, printed p. 32), Rural and Urban
+Settlements Compared (ER G6 Social Studies, printed p.
+41; ER G4 Social Studies, printed p. 111), What
+Population Means (ER G7 Social Studies, printed p. 14),
+Communication — From Signals to Phones (ER G7 Social
+Studies, printed p. 46), Eritrea's Regions — The Six
+Zobas (ER G5 Social Studies, printed p. 1), Social
+Services and Infrastructure (ER G5 Social Studies,
+printed p. 33); **People and Resources**: What Decides
+Where Economic Activities Happen (ER G6 Social Studies,
+printed p. 93); **Culture and Work**: Eritrea's Ethnic
+Groups and Their Ways of Life (ER G6 Social Studies,
+printed p. 43), Holidays and Celebrations in Eritrea
+(ER G6 Social Studies, printed p. 56), Eritrea's
+Lowland Societies (ER G7 Social Studies, printed p.
+126), Eritrea's Highland Societies (ER G7 Social
+Studies, printed p. 140), Why Trade Matters (ER G5
+Social Studies, printed p. 84); **Resources and
+Conflict**: Eritrea's Natural Heritage (ER G7 Social
+Studies, printed p. 94), Protecting Our Plants and
+Trees (ER G4 Social Studies, printed p. 48); **Global
+Issues**: Lightning and How to Stay Safe (ER G6 Social
+Studies, printed p. 106), What a Disaster Is — Natural
+and Man-Made (ER G7 Social Studies, printed p. 113),
+Epidemics — When Disease Spreads (ER G7 Social Studies,
+printed p. 115), Locusts and Armyworms — Pests That Eat
+the Crops (ER G7 Social Studies, printed p. 117) — the
+new lessons are taught in 1 country (Eritrea), 8
+questions each.
+Geography lessons: 1121 → 1150.

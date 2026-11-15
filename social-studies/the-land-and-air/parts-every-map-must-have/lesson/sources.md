@@ -1,6 +1,6 @@
 # Sources — Parts every map must have
 
-countries: Ethiopia, Palestine, Samoa
+countries: Ethiopia, Palestine, Samoa, Eritrea
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Palestine, Samoa
 
 **Book 4:** *Social Studies — Year 9, Book 2* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004 (reprint of 2002); ISBN 982-517-016-6. Title as printed: Social Studies — Year 9, Book 2. Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 5:** *ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2010; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book). Grade 5 (student/teacher: STUDENT). PDF pages: 190 (cover/title page verified against the record title; 35,645,487 bytes and 190 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read via pdftotext; unit and section titles translated from the printed contents, printed pp. vi–vii). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 5 section 5.2 Ancient Activities on the Red Sea, printed p. 45; Chapter 6 ምንጪ ሓበሬታ Sources of Information — archaeology, artefacts and museums (except the Eritrean heritage-sites section placed below), printed p. 61; Chapter 10 ታሪኽ ኤርትራ History of Eritrea, printed p. 124 Civics parts (named, not placed): Chapter 1 sections 1.2–1.3 Regional administrations, their bodies, divisions and duties, printed pp. 3–5 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The checklist | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 199–201 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Palestine, Samoa
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 8 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 8, guide printed pp. 231–260 |
 | Palestine part — Lesson 1: the elements of a map — frame, north arrow, key and scale | Palestine, *Social Studies, Grade 6, Part One*, Grade 6, Lesson 1: the elements of a map — frame, north arrow, key and scale — printed pp. 8–12 |
 | Samoa part (Year 9, Book 2) — Unit 3 Topic 1 Map Drawing: Part 1 (map rules, scale, compass, key) | Samoa, *Social Studies, Year 9, Book 2*, Unit 3 Topic 1 Map Drawing: Part 1 (map rules, scale, compass, key) — printed p. 68 |
+| Eritrea part (ER G5 Social Studies) — Chapter 8: 8.2 The elements of a map | Eritrea, *ER G5 Social Studies*, Chapter 8: 8.2 The elements of a map — printed p. 96 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Samoa).**
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Samoa, Eritrea).**
 
 Searchable tags: map components, title, scale, north point, legend, declination, social studies
 
 Palestine's own way (Grade 6, PS G6P1): Grade 6 opens with how we know — the map and its elements as the first source of geographical knowledge — then walks the Arab homeland region by region (peninsula, Levant, Palestine, Iraq, North Africa), each time fixing location first, then surface and climate, then the ancient civilisation the land produced.
 
 Samoa's own way (Year 9, Book 2): Place is taught through Samoan lived places — ordinary, sacred (tapu), natural and political places such as Mulinu'u — and migration is taught through Samoa's own movement story and its New Zealand diaspora, closing with a full mapping-skills unit.
+
+Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.

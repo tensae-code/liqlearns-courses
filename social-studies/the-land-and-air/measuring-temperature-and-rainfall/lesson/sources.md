@@ -1,6 +1,6 @@
 # Sources — Measuring temperature and rainfall
 
-countries: Ethiopia, Turkey, Dominican Republic, Colombia
+countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Turkey, Dominican Republic, Colombia
 
 **Book 5:** *Carrera Equina (horse-race board-game insert for Ciencias Sociales 2, Cartilla 2)* (student booklet, Spanish) — Colombia, Ministerio de Educación Nacional, Escuela Nueva; year not printed on the sheet; ISBN no ISBN printed. Title as printed: Carrera Equina (horse-race board-game insert for Ciencias Sociales 2, Cartilla 2). Grade 2 (student/teacher: STUDENT). PDF pages: 1 (single poster/game sheet, image-only; viewed as a render — a race-track board with 20 review questions for the Grade 2 second cartilla). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 6:** *ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2010; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book). Grade 5 (student/teacher: STUDENT). PDF pages: 190 (cover/title page verified against the record title; 35,645,487 bytes and 190 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read via pdftotext; unit and section titles translated from the printed contents, printed pp. vi–vii). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 5 section 5.2 Ancient Activities on the Red Sea, printed p. 45; Chapter 6 ምንጪ ሓበሬታ Sources of Information — archaeology, artefacts and museums (except the Eritrean heritage-sites section placed below), printed p. 61; Chapter 10 ታሪኽ ኤርትራ History of Eritrea, printed p. 124 Civics parts (named, not placed): Chapter 1 sections 1.2–1.3 Regional administrations, their bodies, divisions and duties, printed pp. 3–5 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Thermometers | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 53–55 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Turkey, Dominican Republic, Colombia
 | Turkey part — 5C3 Nem ve Yağış (humidity and precipitation) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 5C3 Nem ve Yağış (humidity and precipitation) — printed p. 128 |
 | Dominican Republic part (Grade 5) — Temperature and its changes | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, Temperature and its changes — printed p. 28 |
 | Colombia part (Insertos_sociales_02_Cartilla_02) — Carrera Equina review game, questions 1–3: climate's influence on culture; the rain gauge (pluviómetro) and building a homemade one | Colombia, *Carrera Equina (horse-race board-game insert for Ciencias Sociales 2, Cartilla 2)*, Carrera Equina review game, questions 1–3: climate's influence on culture; the rain gauge (pluviómetro) and building a homemade one — printed p. 1 (sheet) |
+| Eritrea part (ER G5 Social Studies) — Chapter 9: 9.3 Weather instruments | Eritrea, *ER G5 Social Studies*, Chapter 9: 9.3 Weather instruments — printed p. 115 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Dominican Republic, Colombia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -30,3 +33,5 @@ Searchable tags: thermometer, maximum minimum, rain gauge, measuring weather, so
 Dominican Republic's own way (Grade 5): Three geography units climb from the planet to the country: general geography and the American continent's location, then how climate varies across the continents — with climographs the children draw and read themselves — then the Dominican Republic's own climate, activities and population, ending with a “discovering the geography of my country” field activity.
 
 Colombia's own way (Insertos_sociales_02_Cartilla_02): the review game mixes the cartilla's history, culture and geography questions on one board — its geography questions ask whether climate shapes culture, what a rain gauge is called, and how to build a homemade rain gauge.
+
+Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.

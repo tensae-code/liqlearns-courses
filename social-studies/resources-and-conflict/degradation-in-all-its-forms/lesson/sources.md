@@ -1,6 +1,6 @@
 # Sources — Degradation in all its forms
 
-countries: Ethiopia, Zambia, Haiti, Angola
+countries: Ethiopia, Zambia, Haiti, Angola, Eritrea
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Zambia, Haiti, Angola
 
 **Book 6:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
 
+**Book 7:** *Social Studies for Grade 8 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011; ISBN 99948-1-592-X. Title as printed: Social Studies for Grade 8 — Textbook. Grade 8 (student/teacher: STUDENT). PDF pages: 157 (cover/title page verified against the record title; 4,716,045 bytes and 157 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Expansionism and Resistance against Colonial Rule, printed p. 64; Unit 6 Colonial Administrations in Eritrea, printed p. 89; Unit 7 Highlights of the Eritrean Armed Struggle, printed p. 105; Unit 8 Post Independence Developments, printed p. 116 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The types | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 6, printed pp. 177–179 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Zambia, Haiti, Angola
 | Environmental degradation — Zambia Grade 8's way (teacher guide — evidence) | Zambia, *Geography Teaching Module, Form 2, Term 3* (teacher guide), Topic 2.3 Environment, Sub-topic 2.3.1 Environmental Degradation — printed p. 2 |
 | Haiti part — Séance 2 Haïti, un territoire fragilisé (carte et graphe des problèmes environnementaux du territoire: déboisement, désertification, érosion, pollutions, déchets, disparition de la faune et de la flore) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 2 Haïti, un territoire fragilisé (carte et graphe des problèmes environnementaux du territoire: déboisement, désertification, érosion, pollutions, déchets, disparition de la faune et de la flore) — printed p. 7 |
 | Angola part — 6.2 O género humano e o ambiente | Angola, *Geografia 5ª Classe*, Grade 5, 6.2 O género humano e o ambiente — printed p. 73 |
+| Eritrea part (ER G8 Social Studies) — Unit 3: 3.3 The Consequences of the Changes of the Natural Environment | Eritrea, *ER G8 Social Studies*, Unit 3: 3.3 The Consequences of the Changes of the Natural Environment — printed p. 41 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Angola). Zambia is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Eritrea). Zambia is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -36,3 +39,5 @@ No book error is flagged for this lesson's pages in the placements. The student 
 Searchable tags: environmental degradation types causes effects, ozone, pollution, ethiopia, zambia, charcoal burning, deforestation, teacher guide evidence, social studies, resources and conflict, Haiti, Haïti verte, teacher sequence evidence
 
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
+
+Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.
