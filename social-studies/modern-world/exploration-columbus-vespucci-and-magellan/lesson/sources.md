@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala
+countries: Ethiopia, France, Guatemala, Micronesia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -48,3 +48,15 @@ Book 6 in the placements file (gt-g4hq, the full-quality oversized copy, 118,030
 Guatemala's own way (Ciencias Sociales y Formación Ciudadana, Cuarto grado): the national story is told as one continuous timeline the child studies unit by unit (a shaded timeline opens each unit), anchored in the child's own community — old photographs of Tikal, "how has my community changed in fifty years", interviewing elders who lived the 1944 Revolution and the armed conflict — and the four peoples (Maya, Garífuna, Xinka, Ladino) frame identity throughout. That way is stocked here as the way Guatemala teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, France, Guatemala).**
+
+## History expansion (2026-11-15) — Micronesia stocked
+
+**Book 1:** *Over Seas and Time — A Micronesian History Textbook* (student book, English) — Micronesia. Title as printed: Over Seas and Time — A Micronesian History Textbook. Grade: Grade 9 (student/teacher: STUDENT). Publisher: FSM Department of Education / Micronesian Seminar, Pohnpei; year 2010 (First Edition, January 2010); ISBN no ISBN printed. PDF pages: 509 (cover/title page verified against the record title; byte size 16,767,830 matches the books.json record). Verdict: COMPLETE. Tally: 23 placements — 4 to existing lessons, 19 NEW LESSON NEEDED. Non-History parts named, not placed: Chapter 1, The Formation of the Islands (printed pp. 14–29) — Geology/Geography; Appendix (printed pp. 474–509) — reference maps, reference only. Placements at liqlearns-courses-work/expansion-history-2026-11-15/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Micronesia part — Chapter 3, European Exploration: the race for the Indies — story beats: Columbus sails west for the Indies and finds America instead, the Treaty of Tordesillas splits the world, and Spanish sailors struggle to find a return route across the Pacific until the Manila Galleon road of 1565 (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Micronesia, *Over Seas and Time*, printed p. 56 |
+
+Micronesia's own way (Over Seas and Time): one national story told island by island in strict time order — settlement, contact, visitors, then four foreign rulers in turn (Spain, Germany, Japan, America) — with every chapter opening in a lived scene (a boy watching a strange ship, a Chuukese man weeping at a flag) and closing with vocabulary, understanding, critical-thinking and community-research tasks. That way is stocked here as the way Micronesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, France, Guatemala, Micronesia).**

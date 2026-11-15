@@ -9773,3 +9773,98 @@ and why it matters 22 → 23. Ancient civilisations
 — Sparta, and Athens against Sparta is stocked
 with a Guatemala teacher-guide placement only and
 is unchanged in count. History lessons: 485 → 506.
+
+## History expansion — Micronesia — built 2026-11-15
+
+16 new lessons, 128 questions: in **The Ancient
+World**: Micronesia — first settlement:
+Austronesian voyagers
+(ancient-world/micronesia-first-settlement-austronesian-voyagers);
+in **The Modern World**: Micronesia — first
+European contacts
+(modern-world/micronesia-first-european-contacts),
+The Marianas and Carolines — first Catholic
+missions
+(modern-world/marianas-and-carolines-first-catholic-missions),
+Micronesia — the China trade and the scientific
+voyages
+(modern-world/micronesia-china-trade-and-scientific-voyages),
+Micronesia — whalers, beachcombers and first
+residents
+(modern-world/micronesia-whalers-beachcombers-and-first-residents),
+Micronesia — Protestant missions and mission
+schools
+(modern-world/micronesia-protestant-missions-and-mission-schools),
+Micronesia — the copra trade and the rise of
+foreign law
+(modern-world/micronesia-copra-trade-and-foreign-law),
+Micronesia — Spanish colonial rule
+(modern-world/micronesia-spanish-colonial-rule),
+Micronesia — German rule and the Sokehs Rebellion
+(modern-world/micronesia-german-rule-and-the-sokehs-rebellion),
+Micronesia — the Japanese mandate years
+(modern-world/micronesia-japanese-mandate-years),
+Micronesia — the Second World War on the islands
+(modern-world/micronesia-world-war-two-on-the-islands),
+Micronesia — the Trust Territory's early years
+(modern-world/micronesia-trust-territory-early-years),
+Micronesia — a leap into the modern world
+(modern-world/micronesia-leap-into-the-modern-world),
+Micronesia — the road to self-government
+(modern-world/micronesia-road-to-self-government),
+The FSM — an independent nation of islands
+(modern-world/fsm-an-independent-nation-of-islands)
+and Micronesia — traditional leadership under
+change
+(modern-world/micronesia-traditional-leadership-under-change)
+— 51 placements stocked in all from Micronesia's
+five student books: *Over Seas and Time*, Grade 9
+(FSM Department of Education / Micronesian
+Seminar, 2010; 23 placements: what history is,
+printed p. ix, settlement legends, p. 49,
+settlement and voyaging, pp. 30–40, Columbus and
+the Pacific return route, p. 56, first contacts,
+p. 58, Catholic missions, p. 82, China trade and
+scientific voyages, p. 102, whalers and
+beachcombers, p. 122, Protestant missions and
+schools, pp. 154–165, copra and foreign law,
+p. 182, Spanish rule, p. 206, German rule and
+Sokehs, pp. 228–245, Japanese mandate,
+pp. 256–275, the Pacific war and island memory,
+pp. 308–330, Trust Territory, p. 342, the leap,
+p. 382, self-government, p. 424, and the
+independent FSM, p. 452, into new lessons and
+From evidence to a written history, Exploration —
+Columbus, Vespucci and Magellan and The Second
+World War — the Pacific and the results);
+*Micronesian Government*, Grade 11 (National
+Department of Education / Micronesian Seminar,
+2008; PARTIAL — 13 placements from History Units
+One–Three: the octopus story, p. 8, the three
+leadership models and their themes, pp. 15–90,
+leadership under change, p. 95, Kosrae's
+missionaries, p. 116, German occupation, p. 130,
+Japanese occupation, p. 145, municipalities to
+Congress, p. 170, the independence fight,
+p. 200, and the founding fathers, p. 243, into
+new lessons and Comparing states — how kingdoms
+hold together; Unit Four, present-day Civics,
+named in the placements, not placed); the
+*Kapingamarangi History Reader* (Pohnpei Studies
+series; 8 placements: settlement, p. 1, Utamatua,
+p. 6, the ariki, p. 13, first outsiders, p. 29,
+and the Spanish, German, Japanese and American
+eras, pp. 42–51, into new lessons and the two
+first-steps lessons); the *Mwoakilloa History
+Reader* (3 placements: settlement, p. 1, origin
+traditions, p. 4, and the Nahmwarki succession,
+p. 13); and the *Nukuoro History Reader* (4
+placements: settlement, p. 1, the aligi order,
+p. 6, Vave, p. 15, and the contact register,
+p. 25). The four existing lessons stocked and
+counted rise with Micronesia added: From evidence
+to a written history 6 → 7, Comparing states —
+how kingdoms hold together 3 → 4, Exploration —
+Columbus, Vespucci and Magellan 3 → 4, and The
+Second World War — the Pacific and the results
+3 → 4. History lessons: 506 → 522.

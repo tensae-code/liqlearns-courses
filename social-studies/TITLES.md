@@ -2573,7 +2573,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **506**
+History lessons across the History titles: **522**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3127,3 +3127,36 @@ matters 22 → 23. Ancient civilisations — Sparta,
 and Athens against Sparta is stocked with a
 Guatemala teacher-guide placement only and is
 unchanged in count (2).
+
++16 for Micronesia, 2026-11-15 — Ancient World:
+Micronesia — first settlement: Austronesian
+voyagers; Modern World: Micronesia — first
+European contacts, The Marianas and Carolines —
+first Catholic missions, Micronesia — the China
+trade and the scientific voyages, Micronesia —
+whalers, beachcombers and first residents,
+Micronesia — Protestant missions and mission
+schools, Micronesia — the copra trade and the
+rise of foreign law, Micronesia — Spanish
+colonial rule, Micronesia — German rule and the
+Sokehs Rebellion, Micronesia — the Japanese
+mandate years, Micronesia — the Second World War
+on the islands, Micronesia — the Trust
+Territory's early years, Micronesia — a leap into
+the modern world, Micronesia — the road to
+self-government, The FSM — an independent nation
+of islands, and Micronesia — traditional
+leadership under change. All 51 Micronesia
+placements stand on Micronesia's five student
+books (Over Seas and Time, Grade 9, 2010;
+Micronesian Government, Grade 11, 2008 — PARTIAL,
+History Units One–Three placed, Unit Four Civics
+named not placed; and the Kapingamarangi,
+Mwoakilloa and Nukuoro History Readers, Pohnpei
+Studies series), counted in acceptance. The four
+existing lessons stocked and counted rise with
+Micronesia added: From evidence to a written
+history 6 → 7, Comparing states — how kingdoms
+hold together 3 → 4, Exploration — Columbus,
+Vespucci and Magellan 3 → 4, and The Second World
+War — the Pacific and the results 3 → 4.
