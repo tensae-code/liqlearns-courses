@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — the Nile Kingdom
 
-countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya
+countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -432,3 +432,27 @@ Libya's own way (Book 1 — G10 Ancient Arab World (student book, Arabic)): the 
 Libya's own way (Book 4 — G7 History of Libya and the Ancient World (student book, Arabic)): Libya's ancient story is told inside the Arab world's: the ancient Libyans, their 30-letter script and the Garamantes get their own full lessons, and every visiting power — Phoenician, Greek, Roman, Vandal, Byzantine — is judged by what it did in Libya. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 20 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya).**
+
+
+## History expansion (2026-11-15) — Sri Lanka stocked
+
+**Book 1 — G7 History Tamil 2011 (student book, Tamil)**
+- Title as printed: வரலாறு தரம் 7 (History, Grade 7)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); year 2011 (5th edition; 1st ed. 2007); ISBN no ISBN printed
+- PDF pages: 152 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 29 to existing lessons, 25 NEW LESSON NEEDED
+- Sri Lanka's own way: world civilisations first (rivers, Greece, Rome, India, Arabia), then the island's own story told kingdom by kingdom through named kings, with the syllabus printed at the back (pp. 133–134); the back syllabus mislabels Unit 2 part 3 as "China" where the book itself teaches India.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+- Book error carried as filed: the syllabus printed at the back of this book (printed pp. 133–134) mislabels Unit 2 part 3 as "China" where the book itself teaches India; the mislabel is carried as filed, never silently corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Unit 1, the Nile civilisation, its pharaohs and farming — story beats: the Nile floods on time, the pharaoh is held to be a living god, and grain fills the storehouses (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Sri Lanka, *G7 History Tamil 2011*, printed p. 10 |
+
+Sri Lanka's own way (Book 1 — G7 History Tamil 2011): world civilisations first (rivers, Greece, Rome, India, Arabia), then the island's own story told kingdom by kingdom through named kings, with the syllabus printed at the back (pp. 133–134); the back syllabus mislabels Unit 2 part 3 as "China" where the book itself teaches India. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka).**
+
+Searchable tags: Sri Lanka, History expansion 2026-11-15, africa-to-1500/ancient-egypt-the-nile-kingdom

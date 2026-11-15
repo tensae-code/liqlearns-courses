@@ -1,6 +1,6 @@
 # Sources — 1789 — the French Revolution breaks out
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya
+countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -344,3 +344,42 @@ South Sudan's own way (Book 19 — S2 History Student's Book (student book, Engl
 Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 14 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya).**
+
+
+## History expansion (2026-11-15) — Sri Lanka stocked
+
+**Book 5 — G10 History Tamil 2013 (student book, Tamil)**
+- Title as printed: வரலாறு தரம் 10 (History, Grade 10)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2013 (3rd edition; 1st ed. 2011); ISBN no ISBN printed
+- PDF pages: 200 (cover/title page verified against the record title)
+- Verdict: COMPLETE — read from the book's Noolaham source copy because the repo does not hold this book (see reading log: both repo routes fail / point at the 1999 book); the downloaded file is STAGED at phase3-staging grade-10/gov/sri-lanka/history/textbook/full-year.pdf, byte size 35,038,217 matching its books.json record exactly
+- Tally: 18 placements — 5 to existing lessons, 13 NEW LESSON NEEDED
+- Sri Lanka's own way: Grade 10 widens the lens — the island's story is taught inside India's, Asia's and Europe's, each Sri Lanka chapter returning home (hydraulic civilisation, the south-west kingdoms, the Portuguese) after a world chapter has set the scene.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Ch. 11, new political thought and the French Revolution — story beats: Louis XIV boasts "I am the state", the Estates-General sleeps from 1614 to 1789, the Third Estate swears the Tennis Court Oath, the Bastille falls, rights are declared — and by 1793 the king and Marie Antoinette are guillotined (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution) | Sri Lanka, *G10 History Tamil 2013*, printed p. 171 |
+
+Sri Lanka's own way (Book 5 — G10 History Tamil 2013): Grade 10 widens the lens — the island's story is taught inside India's, Asia's and Europe's, each Sri Lanka chapter returning home (hydraulic civilisation, the south-west kingdoms, the Portuguese) after a world chapter has set the scene. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G11 History Tamil 1999 (student book, Tamil)**
+- Title as printed: வரலாறு 11 ஆம் ஆண்டு (History, Year 11)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 1999 (7th edition; 1st ed. 1991); ISBN no ISBN printed
+- PDF pages: 158 (cover/title page verified against the record title)
+- Verdict: COMPLETE — read from the book's Noolaham source copy because the repo does not hold this book (its record's TSV url serves the 2000 Social Education book instead); the downloaded file is STAGED at phase3-staging grade-11/gov/sri-lanka/history/textbook/full-year.pdf (29,285,885 bytes)
+- Tally: 17 placements — 0 to existing lessons, 17 NEW LESSON NEEDED
+- Sri Lanka's own way: the old-syllabus Grade 11 book runs the island's colonial story and the world's in parallel columns — British Ceylon chapter by chapter (rule, economy, constitutions, national movement), then the four great revolutions, the two World Wars and the UN as the world Sri Lanka had to join.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Ch. 7, the French Revolution as a stage of mankind — story beats: 1789 stands in the book's short list of the turns of human history, between America's independence and Russia's revolution (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution) | Sri Lanka, *G11 History Tamil 1999*, printed p. 80 |
+
+Sri Lanka's own way (Book 7 — G11 History Tamil 1999): the old-syllabus Grade 11 book runs the island's colonial story and the world's in parallel columns — British Ceylon chapter by chapter (rule, economy, constitutions, national movement), then the four great revolutions, the two World Wars and the UN as the world Sri Lanka had to join. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka).**
+
+Searchable tags: Sri Lanka, History expansion 2026-11-15, modern-world/the-french-revolution-breaks-out-1789

@@ -1,6 +1,6 @@
 # Sources — 1917 twice — February and October in Russia
 
-countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan
+countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -234,3 +234,26 @@ Mauritania's own way (mr-g12 — History, 6th year of secondary education (stude
 South Sudan's own way (Book 23 — S4 History Student's Book (student book, English)): The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 9 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan).**
+
+
+## History expansion (2026-11-15) — Sri Lanka stocked
+
+**Book 7 — G11 History Tamil 1999 (student book, Tamil)**
+- Title as printed: வரலாறு 11 ஆம் ஆண்டு (History, Year 11)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 1999 (7th edition; 1st ed. 1991); ISBN no ISBN printed
+- PDF pages: 158 (cover/title page verified against the record title)
+- Verdict: COMPLETE — read from the book's Noolaham source copy because the repo does not hold this book (its record's TSV url serves the 2000 Social Education book instead); the downloaded file is STAGED at phase3-staging grade-11/gov/sri-lanka/history/textbook/full-year.pdf (29,285,885 bytes)
+- Tally: 17 placements — 0 to existing lessons, 17 NEW LESSON NEEDED
+- Sri Lanka's own way: the old-syllabus Grade 11 book runs the island's colonial story and the world's in parallel columns — British Ceylon chapter by chapter (rule, economy, constitutions, national movement), then the four great revolutions, the two World Wars and the UN as the world Sri Lanka had to join.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Ch. 7, the Russian Revolution — story beats: the fourth great turn in the book's list — 1917 sweeps away the Tsar and carries a new idea of the state across the world (History expansion, 2026-11-15; original placement slug: modern-world/the-russian-revolution-1917) | Sri Lanka, *G11 History Tamil 1999*, printed p. 80 |
+
+Sri Lanka's own way (Book 7 — G11 History Tamil 1999): the old-syllabus Grade 11 book runs the island's colonial story and the world's in parallel columns — British Ceylon chapter by chapter (rule, economy, constitutions, national movement), then the four great revolutions, the two World Wars and the UN as the world Sri Lanka had to join. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka).**
+
+Searchable tags: Sri Lanka, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia

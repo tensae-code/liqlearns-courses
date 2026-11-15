@@ -1,6 +1,6 @@
 # Sources — The Crusades — two centuries for Jerusalem
 
-countries: Pakistan, Bulgaria, Mauritania
+countries: Pakistan, Bulgaria, Mauritania, Sri Lanka
 
 **Book (Pakistan — History 7 (PCTB, SNC 2022)):** *تاریخ — History 7* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 7 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 7 / Class 7 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 96 (printed pp. 1–94; read IN PLACE at phase3-staging; image-only scan — the only text layer is the "Web version of PCTB Textbook Not for Sale" watermark — read in full from page renders; cover and title page verified against the record). Verdict: COMPLETE — with a library-debt note: the on-disk file is 81,665,509 bytes against the record's 80,223,717 bytes; the copy read is complete and coherent at the recorded 96 pages, but the size mismatch should be reconciled by the library team. Tally: 31 placements — 14 to existing lessons, 17 NEW LESSON NEEDED (including a reuse of a NEW slug created in Book 5 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
 
@@ -70,3 +70,27 @@ Searchable tags: Bulgaria, The Crusades — two centuries for Jerusalem, ancient
 Mauritania's own way (mr-g11 — History, 5th year of secondary education (student book, Arabic)): The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Pakistan, Bulgaria, Mauritania).**
+
+
+## History expansion (2026-11-15) — Sri Lanka stocked
+
+**Book 1 — G7 History Tamil 2011 (student book, Tamil)**
+- Title as printed: வரலாறு தரம் 7 (History, Grade 7)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); year 2011 (5th edition; 1st ed. 2007); ISBN no ISBN printed
+- PDF pages: 152 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 29 to existing lessons, 25 NEW LESSON NEEDED
+- Sri Lanka's own way: world civilisations first (rivers, Greece, Rome, India, Arabia), then the island's own story told kingdom by kingdom through named kings, with the syllabus printed at the back (pp. 133–134); the back syllabus mislabels Unit 2 part 3 as "China" where the book itself teaches India.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+- Book error carried as filed: the syllabus printed at the back of this book (printed pp. 133–134) mislabels Unit 2 part 3 as "China" where the book itself teaches India; the mislabel is carried as filed, never silently corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Unit 5, the Crusades and their results — story beats: Seljuk Turks bar pilgrims from Jerusalem, the Pope calls Europe to arms, two centuries of holy war fail to hold the city but bring Eastern goods, numbers and learning home (History expansion, 2026-11-15; original placement slug: ancient-world/the-crusades) | Sri Lanka, *G7 History Tamil 2011*, printed p. 116 |
+
+Sri Lanka's own way (Book 1 — G7 History Tamil 2011): world civilisations first (rivers, Greece, Rome, India, Arabia), then the island's own story told kingdom by kingdom through named kings, with the syllabus printed at the back (pp. 133–134); the back syllabus mislabels Unit 2 part 3 as "China" where the book itself teaches India. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Pakistan, Bulgaria, Mauritania, Sri Lanka).**
+
+Searchable tags: Sri Lanka, History expansion 2026-11-15, ancient-world/the-crusades-two-centuries-for-jerusalem

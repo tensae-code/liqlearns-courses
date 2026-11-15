@@ -1,6 +1,6 @@
 # Sources — Trade routes that linked the old world
 
-countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya
+countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -235,3 +235,44 @@ Searchable tags: Colombia, Trade routes that linked the old world, ancient-world
 Libya's own way (Book 1 — G10 Ancient Arab World (student book, Arabic)): the ancient world is told as one Arab-world story — method first (what a historian does), then prehistory, then each region in turn (Mesopotamia, the Levant, the Nile, North Africa with Libya's own Garamantes and Cyrenaica, Arabia), ending with foreign attempts to seize the region and the region's gifts back to civilisation; every chapter closes with a structured discussion (المناقشة). That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya).**
+
+
+## History expansion (2026-11-15) — Sri Lanka stocked
+
+**Book 1 — G7 History Tamil 2011 (student book, Tamil)**
+- Title as printed: வரலாறு தரம் 7 (History, Grade 7)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); year 2011 (5th edition; 1st ed. 2007); ISBN no ISBN printed
+- PDF pages: 152 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 29 to existing lessons, 25 NEW LESSON NEEDED
+- Sri Lanka's own way: world civilisations first (rivers, Greece, Rome, India, Arabia), then the island's own story told kingdom by kingdom through named kings, with the syllabus printed at the back (pp. 133–134); the back syllabus mislabels Unit 2 part 3 as "China" where the book itself teaches India.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+- Book error carried as filed: the syllabus printed at the back of this book (printed pp. 133–134) mislabels Unit 2 part 3 as "China" where the book itself teaches India; the mislabel is carried as filed, never silently corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Unit 2, Rome's trade with India, China and Sri Lanka — story beats: Roman ships and coins reach the island's ports, King Bhatikabaya sends envoys to Rome, and pearls and gems sail west in return (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Sri Lanka, *G7 History Tamil 2011*, printed p. 42 |
+
+Sri Lanka's own way (Book 1 — G7 History Tamil 2011): world civilisations first (rivers, Greece, Rome, India, Arabia), then the island's own story told kingdom by kingdom through named kings, with the syllabus printed at the back (pp. 133–134); the back syllabus mislabels Unit 2 part 3 as "China" where the book itself teaches India. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Social Education and History Tamil 1999 (student book, Tamil)**
+- Title as printed: சமூகக் கல்வியும் வரலாறும் தரம் 10 (Social Education and History, Grade 10)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (prepared with the National Institute of Education); year 1999 (foreword dated 1999-03-02); ISBN no ISBN printed
+- PDF pages: 174 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 1 to existing lessons, 10 NEW LESSON NEEDED
+- Sri Lanka's own way: a combined Social Education book that still teaches the island's past as its spine — ancient tank technology first, then the sea-links, then the Kandyan kingdom from inside (its court, taxes and punishments), then British rule and the cultural renaissance it provoked.
+- Non-History parts (named, not placed): Ch. 5 Development (அபிவிருத்தி), printed pp. 112–147 — Social Education/economics: the concept of development in UN and UNESCO definitions. Ch. 6 Maps (தேசப்படங்கள்), printed pp. 148–161 — Geography: map reading and drawing skills.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Ch. 2, Sri Lanka's ancient foreign connections — story beats: the island sits at the centre of the Indian Ocean, its ports — Mantota, Gokanna, Mahatittha — linking India, China, Arabia and Rome in one trading web (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Sri Lanka, *G10 Social Education and History Tamil 1999*, printed p. 27 |
+
+Sri Lanka's own way (Book 4 — G10 Social Education and History Tamil 1999): a combined Social Education book that still teaches the island's past as its spine — ancient tank technology first, then the sea-links, then the Kandyan kingdom from inside (its court, taxes and punishments), then British rule and the cultural renaissance it provoked. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka).**
+
+Searchable tags: Sri Lanka, History expansion 2026-11-15, ancient-world/trade-routes-that-linked-the-old-world

@@ -1,0 +1,6 @@
+# Sri Lanka — Ancient crafts and industries — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its sub lessons. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view. Parts are ordered as the book teaches them, as stocked.
+
+## Sub lesson 1 — Crafts and industries of ancient Sri Lanka
+Sub lesson 1 questions from the type files. Pass mark: retell this part in your own words — excavated gold ornaments shaped like conches, iron work, gems and foreign coins prove an island of skilled makers trading far beyond its shores

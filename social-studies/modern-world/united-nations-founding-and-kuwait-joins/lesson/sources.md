@@ -1,6 +1,6 @@
 # Sources — The United Nations is founded — and Kuwait joins
 
-countries: Kuwait, Mauritania
+countries: Kuwait, Mauritania, Sri Lanka
 
 **Book 8:** *دولة الكويت والعالم — الصف التاسع، الفصل الدراسي الثاني (State of Kuwait and the World, Grade 9, Term 2)* (student book, Arabic) — Kuwait. Title as printed: دولة الكويت والعالم — الصف التاسع، الفصل الدراسي الثاني (State of Kuwait and the World, Grade 9, Term 2). Grade: 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait — General Directorate for Guidance, Research and Curricula; 1st edition 1447H / 2025–2026; no ISBN printed in the front matter. PDF pages: 106 (cover/title page verified against the record title; grabbed via the TSV release record, 27,418,994 bytes, matching the books.json record size exactly). Verdict: COMPLETE. Tally: 2 placements — 0 to existing lessons, 2 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
 
@@ -77,3 +77,43 @@ Mauritania's own way (mr-g10 — History, 4th preparatory year (student book, Ar
 Mauritania's own way (mr-g13 — History, 7th year, Arts stream (student book, Arabic)): The final Arts year is contemporary-world civics-history: the UN, ideology and the two camps, the Cold War and the new world order; liberation across India, Algeria, Mauritania and sub-Saharan Africa; the results of colonialism (Arab League, African Union, the problems of new states); and a closing unit on civilisations — the concept, Islamic civilisation's character and contribution, and European civilisation. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Kuwait, Mauritania).**
+
+
+## History expansion (2026-11-15) — Sri Lanka stocked
+
+**Book 6 — G11 Social Education and History Tamil 2000 (student book, Tamil)**
+- Title as printed: சமூகக் கல்வியும் வரலாறும் 11 ஆம் தரம் (Social Education and History, Grade 11)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (prepared with the National Institute of Education); year 2000; ISBN no ISBN printed
+- PDF pages: 190 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED
+- Sri Lanka's own way: by Grade 11 the combined book has become a civics book — the island's past survives only as the opening frame: how mankind moved from self-sufficient villages to a trading, organised world, and how the United Nations was born from the Second World War.
+- Non-History parts (named, not placed): Ch. 3 Problems arising in the world, printed pp. 56–93 — Civics/current affairs. Ch. 4 Democracy (சனநாயகம்), printed pp. 94–108 — Civics. Ch. 5 The constitution currently in force in Sri Lanka, printed pp. 109–141 — Civics. Ch. 6 Map education (தேசப்படக் கல்வி), printed pp. 143–178 — Geography. The institutional remainder of Chs. 1–2 (UNCTAD/WTO workings, UN organs) is Civics/economics and is not placed.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Ch. 2, the birth of the United Nations — story beats: out of a war that killed lakhs and ruined cities, Roosevelt, Churchill and Stalin resolve there must never be another; fifty nations meet at San Francisco in April 1945, sign the Charter that June, and membership climbs past 185 by 1998 (History expansion, 2026-11-15; original placement slug: modern-world/the-united-nations-is-founded-1945) | Sri Lanka, *G11 Social Education and History Tamil 2000*, printed p. 36 |
+
+Sri Lanka's own way (Book 6 — G11 Social Education and History Tamil 2000): by Grade 11 the combined book has become a civics book — the island's past survives only as the opening frame: how mankind moved from self-sufficient villages to a trading, organised world, and how the United Nations was born from the Second World War. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G11 History Tamil 1999 (student book, Tamil)**
+- Title as printed: வரலாறு 11 ஆம் ஆண்டு (History, Year 11)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 1999 (7th edition; 1st ed. 1991); ISBN no ISBN printed
+- PDF pages: 158 (cover/title page verified against the record title)
+- Verdict: COMPLETE — read from the book's Noolaham source copy because the repo does not hold this book (its record's TSV url serves the 2000 Social Education book instead); the downloaded file is STAGED at phase3-staging grade-11/gov/sri-lanka/history/textbook/full-year.pdf (29,285,885 bytes)
+- Tally: 17 placements — 0 to existing lessons, 17 NEW LESSON NEEDED
+- Sri Lanka's own way: the old-syllabus Grade 11 book runs the island's colonial story and the world's in parallel columns — British Ceylon chapter by chapter (rule, economy, constitutions, national movement), then the four great revolutions, the two World Wars and the UN as the world Sri Lanka had to join.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Ch. 12, the United Nations — story beats: where the League failed, the nations try again in 1945 — the book closes the year with the organisation Sri Lanka would join in 1955 (History expansion, 2026-11-15; original placement slug: modern-world/the-united-nations-is-founded-1945) | Sri Lanka, *G11 History Tamil 1999*, printed p. 131 |
+
+Sri Lanka's own way (Book 7 — G11 History Tamil 1999): the old-syllabus Grade 11 book runs the island's colonial story and the world's in parallel columns — British Ceylon chapter by chapter (rule, economy, constitutions, national movement), then the four great revolutions, the two World Wars and the UN as the world Sri Lanka had to join. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Kuwait, Mauritania, Sri Lanka).**
+
+Searchable tags: Sri Lanka, History expansion 2026-11-15, modern-world/united-nations-founding-and-kuwait-joins

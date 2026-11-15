@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya
+countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -269,3 +269,42 @@ South Sudan's own way (Book 7 — P4 Social Studies Pupil's Book (student book, 
 Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 13 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya).**
+
+
+## History expansion (2026-11-15) — Sri Lanka stocked
+
+**Book 5 — G10 History Tamil 2013 (student book, Tamil)**
+- Title as printed: வரலாறு தரம் 10 (History, Grade 10)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2013 (3rd edition; 1st ed. 2011); ISBN no ISBN printed
+- PDF pages: 200 (cover/title page verified against the record title)
+- Verdict: COMPLETE — read from the book's Noolaham source copy because the repo does not hold this book (see reading log: both repo routes fail / point at the 1999 book); the downloaded file is STAGED at phase3-staging grade-10/gov/sri-lanka/history/textbook/full-year.pdf, byte size 35,038,217 matching its books.json record exactly
+- Tally: 18 placements — 5 to existing lessons, 13 NEW LESSON NEEDED
+- Sri Lanka's own way: Grade 10 widens the lens — the island's story is taught inside India's, Asia's and Europe's, each Sri Lanka chapter returning home (hydraulic civilisation, the south-west kingdoms, the Portuguese) after a world chapter has set the scene.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Ch. 10, why the Industrial Revolution began in England — story beats: coal, colonies, capital and enclosed fields converge — small farms are fenced into great estates, the dispossessed stream to the towns, and the factory is born (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-begins-in-england) | Sri Lanka, *G10 History Tamil 2013*, printed p. 155 |
+
+Sri Lanka's own way (Book 5 — G10 History Tamil 2013): Grade 10 widens the lens — the island's story is taught inside India's, Asia's and Europe's, each Sri Lanka chapter returning home (hydraulic civilisation, the south-west kingdoms, the Portuguese) after a world chapter has set the scene. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G11 History Tamil 1999 (student book, Tamil)**
+- Title as printed: வரலாறு 11 ஆம் ஆண்டு (History, Year 11)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 1999 (7th edition; 1st ed. 1991); ISBN no ISBN printed
+- PDF pages: 158 (cover/title page verified against the record title)
+- Verdict: COMPLETE — read from the book's Noolaham source copy because the repo does not hold this book (its record's TSV url serves the 2000 Social Education book instead); the downloaded file is STAGED at phase3-staging grade-11/gov/sri-lanka/history/textbook/full-year.pdf (29,285,885 bytes)
+- Tally: 17 placements — 0 to existing lessons, 17 NEW LESSON NEEDED
+- Sri Lanka's own way: the old-syllabus Grade 11 book runs the island's colonial story and the world's in parallel columns — British Ceylon chapter by chapter (rule, economy, constitutions, national movement), then the four great revolutions, the two World Wars and the UN as the world Sri Lanka had to join.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Ch. 8, the Industrial Revolution and its consequences — story beats: the machine age remakes work, towns and classes, and its effects roll outward to colonies like Ceylon (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-begins-in-england) | Sri Lanka, *G11 History Tamil 1999*, printed p. 97 |
+
+Sri Lanka's own way (Book 7 — G11 History Tamil 1999): the old-syllabus Grade 11 book runs the island's colonial story and the world's in parallel columns — British Ceylon chapter by chapter (rule, economy, constitutions, national movement), then the four great revolutions, the two World Wars and the UN as the world Sri Lanka had to join. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka).**
+
+Searchable tags: Sri Lanka, History expansion 2026-11-15, modern-world/the-industrial-revolution-what-changed-and-why-england-first

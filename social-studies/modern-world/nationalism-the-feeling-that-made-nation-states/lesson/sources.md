@@ -1,6 +1,6 @@
 # Sources — Nationalism — the feeling that made nation states
 
-countries: Ethiopia, Brazil, Bangladesh, Australia, Malaysia, Ecuador, South Sudan
+countries: Ethiopia, Brazil, Bangladesh, Australia, Malaysia, Ecuador, South Sudan, Sri Lanka
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -128,3 +128,26 @@ Ecuador's own way (Ecuador Grade 8 EC-G8): the Superior book abandons the nation
 South Sudan's own way (Book 19 — S2 History Student's Book (student book, English)): World history (French Revolution to Cold War) is the frame, but the centre of the book is a source-based Unit 4 on South Sudan's own 20th century — condominium separation policy, Juba 1947, Anya-Nya, Addis Ababa and the SPLM/A, told with named southern actors like Clement Mboro, Joseph Lagu, Akuot Atem and John Garang. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Brazil, Bangladesh, Australia, Malaysia, Ecuador, South Sudan).**
+
+
+## History expansion (2026-11-15) — Sri Lanka stocked
+
+**Book 5 — G10 History Tamil 2013 (student book, Tamil)**
+- Title as printed: வரலாறு தரம் 10 (History, Grade 10)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2013 (3rd edition; 1st ed. 2011); ISBN no ISBN printed
+- PDF pages: 200 (cover/title page verified against the record title)
+- Verdict: COMPLETE — read from the book's Noolaham source copy because the repo does not hold this book (see reading log: both repo routes fail / point at the 1999 book); the downloaded file is STAGED at phase3-staging grade-10/gov/sri-lanka/history/textbook/full-year.pdf, byte size 35,038,217 matching its books.json record exactly
+- Tally: 18 placements — 5 to existing lessons, 13 NEW LESSON NEEDED
+- Sri Lanka's own way: Grade 10 widens the lens — the island's story is taught inside India's, Asia's and Europe's, each Sri Lanka chapter returning home (hydraulic civilisation, the south-west kingdoms, the Portuguese) after a world chapter has set the scene.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Ch. 11, the idea of nationalism — story beats: the book pauses to define it — a people bound by land, language, race, religion and custom, claiming the right to rule themselves — the idea the revolution loosed on the world (History expansion, 2026-11-15; original placement slug: modern-world/nationalism-what-it-is) | Sri Lanka, *G10 History Tamil 2013*, printed p. 174 |
+
+Sri Lanka's own way (Book 5 — G10 History Tamil 2013): Grade 10 widens the lens — the island's story is taught inside India's, Asia's and Europe's, each Sri Lanka chapter returning home (hydraulic civilisation, the south-west kingdoms, the Portuguese) after a world chapter has set the scene. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Brazil, Bangladesh, Australia, Malaysia, Ecuador, South Sudan, Sri Lanka).**
+
+Searchable tags: Sri Lanka, History expansion 2026-11-15, modern-world/nationalism-the-feeling-that-made-nation-states

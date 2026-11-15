@@ -1,6 +1,6 @@
 # Sources — Christianity — from persecuted sect to state religion
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia
+countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -153,3 +153,28 @@ This book is a teacher guide. The Papua New Guinea rows below stand on it as tea
 Papua New Guinea's own way (Book 11 — G12 History TG SBC (teacher guide, English)): Grade 12 turns the 7-unit architecture into critical history — sources and how religions spread, why empires fell, Christianity's reshaping of cultures, the UN and the SDGs judged, PNG's own constitutional National Goals, exploitation of Papua New Guineans, the disasters that remade PNG towns (Rabaul 1994), and a final inquiry unit on media, ideology and the powerful individuals — Gaddafi the worked example — who bend societies. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Sri Lanka stocked
+
+**Book 1 — G7 History Tamil 2011 (student book, Tamil)**
+- Title as printed: வரலாறு தரம் 7 (History, Grade 7)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); year 2011 (5th edition; 1st ed. 2007); ISBN no ISBN printed
+- PDF pages: 152 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 29 to existing lessons, 25 NEW LESSON NEEDED
+- Sri Lanka's own way: world civilisations first (rivers, Greece, Rome, India, Arabia), then the island's own story told kingdom by kingdom through named kings, with the syllabus printed at the back (pp. 133–134); the back syllabus mislabels Unit 2 part 3 as "China" where the book itself teaches India.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sri-lanka-placements.md.
+- Book error carried as filed: the syllabus printed at the back of this book (printed pp. 133–134) mislabels Unit 2 part 3 as "China" where the book itself teaches India; the mislabel is carried as filed, never silently corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — Unit 5, the origin of Christianity: Jesus of Nazareth — story beats: Jesus, baptised by John in Galilee, preaches a kingdom of love for three years, is crucified under Pilate, and his followers proclaim him risen (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Sri Lanka, *G7 History Tamil 2011*, printed p. 104 |
+| Sri Lanka part — Unit 5, persecution and triumph of the Church — story beats: Nero blames the Christians for Rome's fire and feeds them to lions, yet Constantine's Edict of Milan (313) and Theodosius (380) make their faith the empire's own (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Sri Lanka, *G7 History Tamil 2011*, printed p. 107 |
+
+Sri Lanka's own way (Book 1 — G7 History Tamil 2011): world civilisations first (rivers, Greece, Rome, India, Arabia), then the island's own story told kingdom by kingdom through named kings, with the syllabus printed at the back (pp. 133–134); the back syllabus mislabels Unit 2 part 3 as "China" where the book itself teaches India. That way is stocked here as the way Sri Lanka teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka).**
+
+Searchable tags: Sri Lanka, History expansion 2026-11-15, ancient-world/christianity-from-persecuted-sect-to-state-religion
