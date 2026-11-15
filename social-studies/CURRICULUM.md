@@ -11877,3 +11877,102 @@ twentieth century as a double world-and-
 Montenegro/Yugoslavia story ending with the
 renewal of independence.
 History lessons: 982 → 1022.
+
+## History expansion — Finland — built 2026-11-15
+
+19 new lessons, 468 questions. **The Ancient World** +3:
+Finland prehistory — Stone Age objects
+(ancient-world/finland-prehistory-stone-age-objects),
+Finland prehistory — Bronze and Iron Age objects
+(ancient-world/finland-prehistory-bronze-and-iron-age-objects),
+Finland — Viking Age locks, keys and daily life
+(ancient-world/finland-viking-age-locks-keys-and-daily-life),
+**The Modern World** +16:
+Film history — prehistory: the moving-image illusion, 1825–1895
+(modern-world/film-history-prehistory-moving-image-illusion),
+Film history — the birth of cinema: the Lumière brothers, 1895
+(modern-world/film-history-birth-of-cinema-lumiere-1895),
+Film history — Méliès and the attraction cinema
+(modern-world/film-history-melies-and-the-attraction-cinema),
+Film history — editing becomes an art, 1900–1915
+(modern-world/film-history-editing-becomes-an-art-1900-1915),
+Film history — Soviet montage, 1920s
+(modern-world/film-history-soviet-montage-1920s),
+Film history — city symphonies, 1920s
+(modern-world/film-history-city-symphonies-1920s),
+Film history — German Expressionism, 1920s
+(modern-world/film-history-german-expressionism-1920s),
+Finland — old occupations in photographs
+(modern-world/finland-old-occupations-in-photographs),
+Finland on the Carta Marina, 1539
+(modern-world/finland-on-the-carta-marina-1539),
+Finland — estate society in the 1800s
+(modern-world/finland-estate-society-1800s),
+Wartime radio, propaganda and Jahvetti
+(modern-world/wartime-radio-propaganda-and-jahvetti),
+Finland's Karelian evacuees, 1939–1945
+(modern-world/finland-karelian-evacuees-1939-1945),
+Finland's wartime rationing and shortage
+(modern-world/finlands-wartime-rationing-and-shortage),
+Finland's soldiers — leave, loss and home-front worry
+(modern-world/finlands-soldiers-leave-loss-and-home-front-worry),
+Finnish emigration across the oceans
+(modern-world/finnish-emigration-across-the-oceans),
+Finland's Continuation War, 1941–44
+(modern-world/finlands-continuation-war-1941-44).
+All 96 Finland placements are stocked (18 into 6 existing
+lessons — From evidence to a written history 12, Find history
+in your own locality 2, Who studies prehistory 1, Fact or
+opinion 1, The Reformation — Luther and the spread of
+Protestantism 1, The Second World War — course in Europe 1 —
+and 78 into the 19 new lessons) on the two Finland filings
+together: the first filing's 8 placed book sets (Aikamatka
+elokuvaan; the Löytöretket poster; the Vanhat ammatit, Esihistorian
+mysteeriesineet, Suomi mainittu! and Suomalainen
+sääty-yhteiskunta Finna sets in Finnish/Swedish parallel
+editions; and the Jahvetin kirjelaatikko introduction + Teema 2
+set) and the second filing's 13 book sections (the Jahvetti
+teacher sheet and Themes 1–4, the Finnish emigration teacher
+guide and its two student decks, and the Continuation War
+teacher guide and its four student decks, Finnish/Swedish
+parallels placed once with every edition named).
+HONESTY: teacher guides and teacher sheets are cited as the
+evidence they are, outside acceptance counts — the Jahvetti
+teacher sheet (second filing Book 1), the Vanhat ammatit and
+Esihistorian teacher guides, the Jahvetin johdanto teacher
+page, the Finnish emigration teacher guide (second filing
+Book 6) and the Continuation War teacher guide (second filing
+Book 9) rows are evidence only; every lesson they feed also
+stands on student books stocked in it, so no Finland lesson
+is teacher-guide-only and Finland counts in each. Two NEW
+topics named in both filings are built ONCE: the Karelian
+evacuees (first filing slug finland-karelian-evacuees-1939-1945;
+second filing slug finlands-karelian-evacuees-420000-new-homes,
+recorded in its rows) — Jahvetti Teema 2 is filed in both
+filings and stocked once per filing as depth, its two Task 4
+readings (corporal / no advance amount; sergeant / 3,000 mk
+advance) recorded as filed, not harmonised — and the Jahvetti
+wartime-radio programme (first filing slug
+finland-jahvetti-letterbox-wartime-radio, built under the
+second filing's slug wartime-radio-propaganda-and-jahvetti).
+RECORD ONLY, NOT PLACED: Lukemisen vuosikello (first filing
+Book 2), a reading/literacy year calendar for early childhood
+— another subject entirely, 0 placements. Non-History parts
+named in the placements, not placed here: the Suomi mainittu!
+Environmental Studies and Visual Art task ideas; the estate
+module's purely linguistic parts and module-structure decks;
+Jahvetti Theme 4's mother-tongue/media tagging (its History
+parts are placed). The letters and speeches inside the
+Jahvetti packages are filed as plot summaries only, never
+transcribed. Finland's own way is stocked inside the lessons:
+prehistory as a museum mystery-object guessing game, history
+as archive photographs and role-play inside one 1800s world,
+and the war years from citizens' own letters to a radio
+letterbox and the army's own SA-kuva photographs, judged
+critically. The existing lessons stocked rise with Finland
+added: From evidence to a written history 16 → 17, Find
+history in your own locality 14 → 15, Who studies prehistory
+8 → 9, Fact or opinion 4 → 5, The Reformation — Luther and
+the spread of Protestantism 5 → 6, The Second World War —
+course in Europe 6 → 7.
+History lessons: 1022 → 1041.

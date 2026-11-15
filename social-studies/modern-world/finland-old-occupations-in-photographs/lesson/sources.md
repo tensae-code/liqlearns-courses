@@ -1,0 +1,15 @@
+# Sources — Finland — old occupations in photographs
+
+countries: Finland
+
+**Book 4:** *Vanhat ammatit valokuvissa / Gamla yrken på foton set* (student book + teacher guide, Finnish and Swedish parallel editions) — Finland. Editions in this set (all named per the parallel-edition rule; Finnish editions read fully, Swedish editions spot-checked — cover, contents and spreads — and confirmed identical in photos, order and task structure): student Finnish oppimateriaali (12 pp.), student Swedish lärresurs (12 pp.), teacher Finnish Opettajan ohje (4 pp.), teacher Swedish Anvisningar för läraren (4 pp.). Title as printed: Vanhat ammatit valokuvissa — Oppimateriaali alakouluun: yhteiskuntaoppi, ympäristöoppi / Gamla yrken på foton — Lärresurs för lågstadiet. Grade: Grade 3 record (printed target: grades 1–6, social studies and environmental studies) (student/teacher: STUDENT + TEACHER). Publisher: Finna.fi / Finna Luokkahuone (National Library of Finland service, Museovirasto and Helsingin kaupunginmuseo photographs); year not printed; ISBN no ISBN printed. PDF pages: 12 + 12 + 4 + 4 (covers verified against the record titles; student byte sizes 6,904,904 FI / 6,958,904 SV and teacher 600,968 FI / 611,469 SV match the books.json records exactly — note the student files are held as release assets, their tree paths return 404, see library debts in the group log). Verdict: COMPLETE. Tally: 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/finland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Finland part — Vanhat ammatit valokuvissa photo set (17 photographs, 1910s–1977) — story beats: lift girls at Stockmann in 1930, a gas-lamp cleaner up his ladder in 1912, a shoeblack boy at the station in Olympic 1952 and log-floaters on the Vantaa river show trades that have vanished or changed beyond recognition (History expansion, 2026-11-15; original placement slug: modern-world/finland-old-occupations-in-photographs) | Finland, *Vanhat ammatit valokuvissa (student, FI/SV)*, printed p. 1 |
+
+Finland's own way (Vanhat ammatit valokuvissa (student, FI/SV), Grade 3 record (student/teacher: STUDENT + TEACHER)): History enters through the national photo archive — children read real museum photographs of work in Finland from the mid-1800s to the 1970s, ask what surprises them, then research one occupation's past and present and present it; change and continuity of work is the explicit aim. Combined-subject note: the set is labelled for yhteiskuntaoppi (Civics/Social Studies) and ympäristöoppi (Environmental Studies) as well as history teaching; the placements below are its History parts (photo evidence, changing work, local visit/interview) — no separate Geography/Civics parts are placed. That way is stocked here as the way Finland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Finland).**
+
+Searchable tags: Finland, Finland — old occupations in photographs, modern-world, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — The Reformation — Luther and the spread of Protestantism
 
-countries: Ethiopia, France, Costa Rica, Belarus, Montenegro
+countries: Ethiopia, France, Costa Rica, Belarus, Montenegro, Finland
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -94,3 +94,19 @@ Belarus's own way (Atlas: History of Belarus, Grade 8, Grade 8): The same paired
 Montenegro's own way (ИСТОРИЈА за осми разред основне школе (Istorija 8), Grade 8 (student/teacher: STUDENT)): Two world chapters and two home chapters alternate: Europe of discoveries and revolutions, then Montenegro 1697–1851 building a theocratic state; the world to 1914, then Montenegro 1851–1914 racing to catch it — principality, wars, constitution. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, France, Costa Rica, Belarus, Montenegro).**
+
+---
+
+## History expansion (2026-11-15) — Finland stocked
+
+**Book 6:** *Suomi mainittu! / Finland nämns! Carta Marina set* (student book + teacher guide, Finnish and Swedish parallel editions, plus the map sheet) — Finland. Editions in this set (Finnish guide read fully; the Swedish teacher guide spot-checked and confirmed the same background text, questions and answers in Swedish; the separate Carta Marina sheet viewed in full): Finnish guide oppimateriaali alakouluun (7 pp.), Swedish teacher guide Anvisningar för läraren (8 pp.), Carta Marina map sheet (1 p.). Title as printed: Suomi mainittu! Tutki miltä Pohjoismaat ja erityisesti Suomi on näyttänyt 1500-luvun kartalla — Oppimateriaali alakouluun: historia, kuvataide, ympäristöoppi. Grade: Grade 5 (student/teacher: STUDENT + TEACHER). Publisher: Finna.fi / Finna Luokkahuone; the map: Carta Marina, Antonio Lafreri edition 1572 after Olaus Magnus (1539), Kansalliskirjasto (National Library of Finland), public domain; year not printed; ISBN no ISBN printed. PDF pages: 7 + 8 + 1 (covers verified against the record titles; byte sizes 8,015,537 guide / 7,993,231 map / 1,667,131 Swedish guide match the books.json records exactly — guide and map held as mid-size-books-6 release assets, see library debt in Book 4). Verdict: COMPLETE. Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/finland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Finland part — Why the map is full of pictures: Olaus Magnus and the lost Catholic North — story beats: Olaus draws his richly pictured map in Italy like an advertisement for the North, hoping the Pope will win the newly Lutheran Nordic kingdoms back and restore his brother Johannes, Sweden's last Catholic archbishop (History expansion, 2026-11-15; original placement slug: modern-world/the-reformation-luther-and-protestantism) | Finland, *Suomi mainittu! (guide, FI/SV)*, printed p. 3 |
+
+Finland's own way (Suomi mainittu! (guide, FI/SV), Grade 5 (student/teacher: STUDENT + TEACHER)): A single famous map carries the whole lesson — children hunt the 1572 Carta Marina for Finlandia, familiar place names, animals, ships and sea monsters, then ask why the map was made and why Finland looks wrong, learning that a map is an argument, not a photograph. Other subjects in this combined book, named but NOT placed: Ympäristöoppi / Environmental Studies task ideas (comparing old and modern maps of Finland and Europe, printed pp. 4–5) and Kuvataide / Visual Art task ideas (drawing your own home-area map and a new Carta Marina-style map of the North, printed p. 6). That way is stocked here as the way Finland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Note: the Finnish oppimateriaali in this set is the student learning material for primary school (the Swedish parallel edition is the teacher guide, named in the book header); the placement is stocked from that student material and counts for Finland.
+
+**Acceptance count: taught in 6 countries (Ethiopia, France, Costa Rica, Belarus, Montenegro, Finland).**

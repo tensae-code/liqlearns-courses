@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **1022**
+History lessons across the History titles: **1041**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3928,3 +3928,47 @@ Fascism and Nazism — two dictatorships compared 2 →
 3, The Second World War — causes 7 → 8, The Second
 World War — course in Europe 5 → 6, The world after
 1945 — losses, division and rebuilding 2 → 3.
+
++19 for Finland, 2026-11-15 — Ancient World: Finland
+prehistory — Stone Age objects, Finland prehistory —
+Bronze and Iron Age objects, Finland — Viking Age
+locks, keys and daily life; Modern World: Film history
+— prehistory: the moving-image illusion, 1825–1895,
+Film history — the birth of cinema: the Lumière
+brothers, 1895, Film history — Méliès and the
+attraction cinema, Film history — editing becomes an
+art, 1900–1915, Film history — Soviet montage, 1920s,
+Film history — city symphonies, 1920s, Film history —
+German Expressionism, 1920s, Finland — old occupations
+in photographs, Finland on the Carta Marina, 1539,
+Finland — estate society in the 1800s, Wartime radio,
+propaganda and Jahvetti, Finland's Karelian evacuees,
+1939–1945, Finland's wartime rationing and shortage,
+Finland's soldiers — leave, loss and home-front worry,
+Finnish emigration across the oceans, Finland's
+Continuation War, 1941–44. All 96 Finland placements
+are stocked (18 into 6 existing lessons, 78 into the
+19 new lessons) on the two Finland filings together —
+the first filing's 8 placed book sets and the second
+filing's 13 book sections, Finnish/Swedish parallel
+editions placed once with every edition named.
+HONESTY: teacher-guide and teacher-sheet rows (the
+Jahvetti teacher sheet, the Vanhat ammatit, Esihistorian,
+emigration and Continuation War teacher guides, and
+the Jahvetin johdanto teacher page) are evidence only,
+outside acceptance counts; every lesson they feed also
+stands on student books, so no Finland lesson is
+teacher-guide-only. Two NEW topics named in both
+filings are built once: the Karelian evacuees (second
+filing slug finlands-karelian-evacuees-420000-new-homes
+recorded in its rows) and the Jahvetti wartime-radio
+programme (first filing slug
+finland-jahvetti-letterbox-wartime-radio recorded in
+its rows). Lukemisen vuosikello is record-only, not
+placed (a literacy year calendar, 0 placements). The
+existing lessons stocked rise with Finland added:
+From evidence to a written history 16 → 17, Find
+history in your own locality 14 → 15, Who studies
+prehistory 8 → 9, Fact or opinion 4 → 5, The
+Reformation — Luther and the spread of Protestantism
+5 → 6, The Second World War — course in Europe 6 → 7.

@@ -1,6 +1,6 @@
 # Sources — Archaeology, palaeontology, anthropology — who studies prehistory
 
-countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India
+countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -142,3 +142,17 @@ Cyprus's own way (Grade 3 teacher guide): History is built through four recurrin
 India's own way (Our Pasts-I, Grade 6): NCERT teaches history as a story journey — every chapter opens with a present-day child (Rasheeda, Tushar, Jaspal…) whose question starts the chapter, primary sources are quoted in boxes (the Rigveda dialogue, Ashoka's own inscription, Fa Xian, Banabhatta), an "Elsewhere" box sets India beside the wider world each chapter, and kings are taught alongside ordinary people — farmers, fishers, weavers, slaves — with the book's title itself plural: Our Pasts, because different groups lived different pasts. That way is stocked here as the way India teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India).**
+
+---
+
+## History expansion (2026-11-15) — Finland stocked
+
+**Book 5:** *Esihistorian mysteeriesineet / Förhistoriens mysterieföremål set* (student book + teacher guide, Finnish and Swedish parallel editions) — Finland. Editions in this set (Finnish editions read fully, Swedish editions spot-checked — cover, contents and answer spreads — and confirmed the same nine objects in the same order; the Swedish student file runs 25 pp. against the Finnish 26 pp. because one two-slide answer is combined): student Finnish oppimateriaali (26 pp.), student Swedish lärresurs (25 pp.), teacher Finnish Opettajan ohje (2 pp.), teacher Swedish Anvisningar för läraren (2 pp.). Title as printed: Esihistorian mysteeriesineet: Kuinka monta tunnistat? — Oppimateriaali alakouluun ja lukioon: historia, kuvataide, käsityö. Grade: Grade 5 record (printed target: grades 1–6 and upper secondary) (student/teacher: STUDENT + TEACHER). Publisher: Finna.fi / Finna Luokkahuone with Kansallismuseo (National Museum of Finland) objects; year not printed (the museum prehistory exhibition referenced opened 31 Mar 2017); ISBN no ISBN printed. PDF pages: 26 + 25 + 2 + 2 (covers verified against the record titles; byte sizes 10,443,325 FI student / 8,297,585 SV student / 503,891 FI teacher / 514,072 SV teacher match the books.json records exactly — student files held as mid-size-books-6 release assets, see library debt in Book 4). Verdict: COMPLETE. Tally: 10 placements — 1 to existing lessons, 9 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/finland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Finland part — The mystery-object task itself (guess the use of nine prehistoric objects, then check the answers) — story beats: with no writings to read, pupils must think like archaeologists, reading nine silent objects from Finland's past and defending a guess for each (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Finland, *Esihistorian mysteeriesineet (student, FI/SV)*, printed p. 1 |
+
+Finland's own way (Esihistorian mysteeriesineet (student, FI/SV), Grade 5 record (student/teacher: STUDENT + TEACHER)): Prehistory is taught as a guessing game over the National Museum's strangest real objects — pupils first guess each object's use in pairs, then the answers reveal its period and story, tying Finland's 10,000 years before writing to things you can hold. Combined-subject note: the set is also labelled for visual art and crafts; only its History parts are placed. That way is stocked here as the way Finland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland).**

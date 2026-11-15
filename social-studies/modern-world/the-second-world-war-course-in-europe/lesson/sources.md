@@ -1,6 +1,6 @@
 # Sources — The Second World War — course in Europe
 
-countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro
+countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 137).
 
@@ -126,3 +126,17 @@ Kuwait's own way (Grade 12 Term 2): Term 2 runs revolutions into world wars and 
 Montenegro's own way (ИСТОРИЈА — уџбеник за девети разред основне школе (Istorija 9), Grade 9 (student/teacher: STUDENT)): The twentieth century is taught as a double story throughout — every world chapter (the wars, the revolutions, the -isms) is immediately followed by its Montenegrin/Yugoslav chapter, and the book ends where Montenegro's own story ends: the breakup of Yugoslavia and the renewal of Montenegrin independence. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro).**
+
+---
+
+## History expansion (2026-11-15) — Finland stocked
+
+**Book 11 (second filing):** *Continuation War: the war leadership (oppimateriaali sodanjohto + larresurs krigsledningen)* (student book, Finnish and Swedish parallel editions) — Finland. Title as printed: Sodanjohto / Krigsledningen (part of Mitä kuvat kertovat jatkosodasta?). Grade: Grade 7 record; book addresses grades 7–9 and lukio (student/teacher: STUDENT). Publisher: Finna Luokkahuone (Finna.fi), War Museum SA-kuva photographs, AOE.fi; source-file stamp 2021; no ISBN printed. PDF pages: 3 + 3 (both editions' covers verified; Swedish edition read and matched photo-for-photo; photo captions date the visit 6.4.1942 as printed). Verdict: COMPLETE. Tally: 2 placements — 1 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/finland-b-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Finland part — Task 1, the 'separate war' critique — story beats: Finland long called its war separate from Germany's; the birthday photographs are set against that claim and the claim cracks (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-course-in-europe) | Finland, *Continuation War sodanjohto/krigsledningen (FI/SV)*, printed p. 1 |
+
+Finland's own way (Continuation War sodanjohto/krigsledningen (FI/SV), Grade 7 record (student/teacher: STUDENT)): One ceremonial visit is used to attack Finland's own comforting 'separate war' story — national self-criticism as a school task. That way is stocked here as the way Finland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland).**

@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -436,3 +436,27 @@ Indonesia's own way (Buku Panduan Guru Sejarah untuk SMK Kelas X, Kelas X / Grad
 **Acceptance count: taught in 14 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia).**
 
 The teacher-guide rows above are evidence only; Indonesia's count in this lesson stands on the student book(s) stocked here.
+
+---
+
+## History expansion (2026-11-15) — Finland stocked
+
+**Book 3:** *Löytöretket historian opiskelua seppo.io ja green screen* (student book, Finnish) — Finland. Title as printed: Löytöretket — Historian opiskelua koulun lähiympäristössä (poster in Opetuskokeiluja digitaalisissa oppimisympäristöissä Varsinais-Suomessa). Grade: Grade 1 record (poster describes a primary-school history period project) (student/teacher: STUDENT). Publisher: Turun yliopisto / OpenDigi, Opetus- ja kulttuuriministeriö; authors Aaro Kuoppala, Sini Laurila, Lauri Lehtonen, Mikko Lindberg, Arttu Linnavuori and Milla-Maaria Vaalgamaa; year not printed; ISBN no ISBN printed. PDF pages: 1 (cover/poster verified against the record title). Verdict: COMPLETE (single-page poster). Tally: 1 placement — 1 to existing lessons, 0 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/finland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Finland part — Löytöretket: historian opiskelua koulun lähiympäristössä (Seppo game + green screen discovery day) — story beats: a class that has finished a history period goes out to find it again in its own neighbourhood, plays the clues on phones, and steps by green screen into the explorers' world of Columbus's Santa Maria (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Finland, *Löytöretket poster*, printed p. 1 |
+
+Finland's own way (Löytöretket poster, Grade 1 record (student/teacher: STUDENT)): History is revised outdoors as a discovery expedition — pupils play a Seppo.io location game in the school's surroundings, keep an expedition diary, and use green screen to photograph themselves inside the period they studied. That way is stocked here as the way Finland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4:** *Vanhat ammatit valokuvissa / Gamla yrken på foton set* (student book + teacher guide, Finnish and Swedish parallel editions) — Finland. Editions in this set (all named per the parallel-edition rule; Finnish editions read fully, Swedish editions spot-checked — cover, contents and spreads — and confirmed identical in photos, order and task structure): student Finnish oppimateriaali (12 pp.), student Swedish lärresurs (12 pp.), teacher Finnish Opettajan ohje (4 pp.), teacher Swedish Anvisningar för läraren (4 pp.). Title as printed: Vanhat ammatit valokuvissa — Oppimateriaali alakouluun: yhteiskuntaoppi, ympäristöoppi / Gamla yrken på foton — Lärresurs för lågstadiet. Grade: Grade 3 record (printed target: grades 1–6, social studies and environmental studies) (student/teacher: STUDENT + TEACHER). Publisher: Finna.fi / Finna Luokkahuone (National Library of Finland service, Museovirasto and Helsingin kaupunginmuseo photographs); year not printed; ISBN no ISBN printed. PDF pages: 12 + 12 + 4 + 4 (covers verified against the record titles; student byte sizes 6,904,904 FI / 6,958,904 SV and teacher 600,968 FI / 611,469 SV match the books.json records exactly — note the student files are held as release assets, their tree paths return 404, see library debts in the group log). Verdict: COMPLETE. Tally: 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/finland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Finland part — Part 3: workplace visit or museum visit with interview questions — story beats: the class leaves school to meet a living holder of an old trade, questions ready, or walks into a museum to find the trade's traces (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Finland, *Vanhat ammatit valokuvissa (teacher guide)*, printed p. 3 |
+
+Finland's own way (Vanhat ammatit valokuvissa (teacher guide), Grade 3 record (student/teacher: STUDENT + TEACHER)): History enters through the national photo archive — children read real museum photographs of work in Finland from the mid-1800s to the 1970s, ask what surprises them, then research one occupation's past and present and present it; change and continuity of work is the explicit aim. Combined-subject note: the set is labelled for yhteiskuntaoppi (Civics/Social Studies) and ympäristöoppi (Environmental Studies) as well as history teaching; the placements below are its History parts (photo evidence, changing work, local visit/interview) — no separate Geography/Civics parts are placed. That way is stocked here as the way Finland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland).**
+
+The teacher-guide row above is evidence only; Finland's count in this lesson stands on the student book stocked here.

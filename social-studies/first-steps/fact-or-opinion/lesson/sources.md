@@ -1,6 +1,6 @@
 # Sources — Fact or opinion? Reading the past critically
 
-countries: Ethiopia, Jordan, Switzerland, Kuwait
+countries: Ethiopia, Jordan, Switzerland, Kuwait, Finland
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -77,3 +77,17 @@ Kuwait's own way (Grade 10 Term 1): Secondary History opens with method — what
 Indonesia's own way (Buku Panduan Guru Sejarah untuk SMA Kelas XI, Kelas XI / Grade 11 (student/teacher: TEACHER)): the guide's distinctive work is epistemic discipline for teachers — a standing section on straightening out misconceived concepts (meluruskan konsep yang salah kaprah), inquiry as the default strategy, and at least two research projects a year. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Jordan, Switzerland, Kuwait) — unchanged; the Indonesia placement(s) above are teacher-guide evidence only, counted nowhere. Indonesia is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Finland stocked
+
+**Book 5 (second filing):** *Jahvetti Theme 4: Wartime media and letters (jahvetti-teema-4)* (student book, Finnish) — Finland. Title as printed: Teema 4: Sota-ajan media ja kirjeet (header also tags mother tongue & literature and media — History parts placed here). Grade: Grade 7 record; book addresses yläkoulu and lukio (student/teacher: STUDENT). Publisher: AOE.fi open learning material; no year printed; no ISBN printed. PDF pages: 18 (cover/title page verified against the record title; the radio-speech inserts are scanned typescript pages, read visually). Verdict: COMPLETE. Tally: 7 placements — 1 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/finland-b-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Finland part — Task 6, rumour passage of the 4 July 1944 speech — story beats: Jahvetti names the rumour-mongers' tales from listeners' letters and tells the nation what to do with a rumour — fact against wartime hearsay (History expansion, 2026-11-15; original placement slug: first-steps/fact-or-opinion) | Finland, *Jahvetti teema-4*, printed p. 18 |
+
+Finland's own way (Jahvetti teema-4, Grade 7 record (student/teacher: STUDENT)): Media history is taught from inside one programme — its scripts, its anonymous host persona and its enemy — and pupils compare it with today's social media. That way is stocked here as the way Finland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Jordan, Switzerland, Kuwait, Finland).**

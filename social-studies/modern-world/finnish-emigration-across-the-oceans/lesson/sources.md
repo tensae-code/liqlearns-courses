@@ -1,0 +1,28 @@
+# Sources — Finnish emigration across the oceans
+
+countries: Finland
+
+**Book 7 (second filing):** *Finnish emigration: interpreting photographs (oppimateriaali valokuvien tulkintaa + larresurs analys av fotografier)* (student book, Finnish and Swedish parallel editions) — Finland. Title as printed: Suomalaisten siirtolaisuus valtamerten yli 1900-luvun alussa — Valokuvien tulkintaa ja analysointia / Finländsk emigration över världshaven i början av 1900-talet — Tolkning och analys av fotografier. Grade: Grade 7 record; book addresses grades 7–9 (student/teacher: STUDENT). Publisher: Finna Luokkahuone (Finna.fi), AOE.fi; source-file stamp 2021; no ISBN printed. PDF pages: 9 + 9 (both editions' covers verified; Swedish edition read and matched task-for-task). Verdict: COMPLETE. Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/finland-b-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Finland part — introduction: Finns chase the American dream — story beats: fast-industrialising America pulls migrants in crowds around 1900; Finns cross the Atlantic after the same dream, later to the whole world (History expansion, 2026-11-15; original placement slug: modern-world/finnish-emigration-across-the-oceans) | Finland, *Emigration photo analysis (FI/SV)*, printed p. 2 |
+| Finland part — Task 1, Mimmi Törnroos's studio portrait — story beats: a young woman sits for a formal studio photograph before departure; pupils read her hopes out of the pose (History expansion, 2026-11-15; original placement slug: modern-world/finnish-emigration-across-the-oceans) | Finland, *Emigration photo analysis (FI/SV)*, printed p. 4 |
+| Finland part — Task 2, emigrant workers in photographs — story beats: photo sets show the jobs Finns actually landed in, and pupils ask why those jobs, and whether being a man or a woman decided them (History expansion, 2026-11-15; original placement slug: modern-world/finnish-emigration-across-the-oceans) | Finland, *Emigration photo analysis (FI/SV)*, printed p. 5 |
+| Finland part — Task 3, Finnish miners at Red Lodge — story beats: a crew poses underground in work clothes; pupils judge the clothes against mine work and ask why the photograph was taken at all (History expansion, 2026-11-15; original placement slug: modern-world/finnish-emigration-across-the-oceans) | Finland, *Emigration photo analysis (FI/SV)*, printed p. 8 |
+
+Finland's own way (Emigration photo analysis (FI/SV), Grade 7 record (student/teacher: STUDENT)): Emigration is reconstructed from single photographs — a studio portrait, work gangs, a mine crew — with the archive caption as the only text. That way is stocked here as the way Finland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 (second filing):** *Finnish emigration: historical empathy exercises (oppimateriaali historiallinen empatia + larresurs historisk empati)* (student book, Finnish and Swedish parallel editions) — Finland. Title as printed: Suomalaisten siirtolaisuus valtamerten yli 1900-luvun alussa — Historiallisen empatian harjoituksia / Finländsk emigration över världshaven i början av 1900-talet — Övningar i historisk empati. Grade: Grade 7 record; book addresses grades 7–9 (student/teacher: STUDENT). Publisher: Finna Luokkahuone (Finna.fi), AOE.fi; source-file stamp 2021; no ISBN printed. PDF pages: 13 + 13 (both editions' covers verified; Swedish edition read and matched task-for-task, same photo sets). Verdict: COMPLETE. Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/finland-b-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Finland part — introduction and task choice — story beats: the same Atlantic crossing is offered twice, as a solo diary/letter/story or as a pair dialogue — the pupil must live the departure, not summarise it (History expansion, 2026-11-15; original placement slug: modern-world/finnish-emigration-across-the-oceans) | Finland, *Emigration empathy (FI/SV)*, printed p. 2 |
+| Finland part — individual task: write from one photograph — story beats: a ship lands Finnish Americans, the Valjakka family poses before leaving, a house rises in Sointula, emigrants crowd the Astrea, settlers gather in Argentina's Colonia Finlandesa — one pictured life becomes the pupil's own entry (History expansion, 2026-11-15; original placement slug: modern-world/finnish-emigration-across-the-oceans) | Finland, *Emigration empathy (FI/SV)*, printed p. 5 |
+| Finland part — pair/group task: a dialogue performed to the class — story beats: two pupils voice the people inside one photograph, arguing out the leaving and the hopes before an audience (History expansion, 2026-11-15; original placement slug: modern-world/finnish-emigration-across-the-oceans) | Finland, *Emigration empathy (FI/SV)*, printed p. 9 |
+
+Finland's own way (Emigration empathy (FI/SV), Grade 7 record (student/teacher: STUDENT)): Empathy is the method — pupils must write or act the emigrant's own diary, letter or dialogue from one photograph, answering who they are, why they left and what they hope for. That way is stocked here as the way Finland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Finland).**
+
+Searchable tags: Finland, Finnish emigration across the oceans, modern-world, History expansion 2026-11-15
