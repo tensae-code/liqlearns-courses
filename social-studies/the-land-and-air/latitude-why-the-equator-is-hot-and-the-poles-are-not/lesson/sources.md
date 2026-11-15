@@ -1,6 +1,6 @@
 # Sources — Latitude — why the equator is hot and the poles are not
 
-countries: Ethiopia, Turkey, Colombia, Venezuela, Mozambique
+countries: Ethiopia, Turkey, Colombia, Venezuela, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Turkey, Colombia, Venezuela, Mozambique
 
 **Book 6:** *Módulo 2 de Geografia — Ambiente Bioclimático* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 2 de Geografia — Ambiente Bioclimático. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 137 (title page verified against the record title; byte size 7,185,973 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 7:** *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الثاني (Social Studies, Grade 4, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (MoE decision 2023/280); ISBN 978-9923-41-542-9. Title as printed: الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الثاني (Social Studies, Grade 4, Term 2). Grade: 4 (student/teacher: STUDENT). PDF pages: 92 (cover verified; byte size 18,311,632 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The angle of the Sun | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 45–46 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Turkey, Colombia, Venezuela, Mozambique
 | Colombia part (CS_Grado4_02) — Guía 9 Colombia es un país tropical / Colombia y sus recursos: the tropical zone, climates and thermal floors from sea-level beaches to páramos, using the tropics' resources well | Colombia, *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva*, Guía 9 Colombia es un país tropical / Colombia y sus recursos: the tropical zone, climates and thermal floors from sea-level beaches to páramos, using the tropics' resources well — printed p. 30 |
 | Venezuela part — Venezuela país intertropical: location in the geoastronomic zones | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Venezuela país intertropical: location in the geoastronomic zones — printed p. 140 |
 | Mozambique part — Lição 4: Variação da radiação à superfície da Terra (radiation by latitude, equinoxes) | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 4: Variação da radiação à superfície da Terra (radiation by latitude, equinoxes) — printed p. 26 |
+| Jordan part — Unit 7 Lesson 3: The Heat Zones of the World (المناطق الحرارية في العالم) | Jordan, *Jordan G4 SS T2*, Unit 7 Lesson 3: The Heat Zones of the World (المناطق الحرارية في العالم) — printed p. 62 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Colombia, Venezuela, Mozambique).**
+**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Colombia, Venezuela, Mozambique, Jordan).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -38,3 +41,5 @@ Colombia's own way (CS_Grado4_02): the second Grade 4 cartilla is almost pure ph
 Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national geography written as Geohistoria — every physical topic (position, climate, relief, hydrography) is paired with the historical stages that organised the same space (agrarian Venezuela, oil Venezuela, 21st-century Venezuela), and the Amazon rainforest closes the book as a defence-of-life argument.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climatology course — atmosphere structure to magnetosphere, heat balance, pressure/wind circulation, air masses and fronts, humidity and precipitation, the water cycle, then Köppen/Thornthwaite classification worked through climate tables with African station graphs (Arkassa, Tamanrasset, Algiers), closing on protection of bioclimatic resources.
+
+Jordan's own way (Jordan G4 SS T2): Term 2 ends with Jordan's region — the world around me (solar system, Earth's movement, the world's heat zones), geographic maps, then Bilad al-Sham and Iraq and the Arabian Peninsula as Jordan's neighbourhood.

@@ -1,6 +1,6 @@
 # Sources — The Atmosphere — Its Gases and Layers
 
-countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique
+countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -44,6 +44,14 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombi
 
 **Book 21:** *Módulo 2 de Geografia — Ambiente Bioclimático* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 2 de Geografia — Ambiente Bioclimático. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 137 (title page verified against the record title; byte size 7,185,973 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 22:** *علوم الأرض والبيئة — الصف التاسع — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 9, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-496-5. Title as printed: علوم الأرض والبيئة — الصف التاسع — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 9, Term 2). Grade: 9 (student/teacher: STUDENT). PDF pages: 80 (cover verified; byte size 81,573,647 matches the books.json twin record exactly — same book. This is also the subject of link record 1HELXcyIW6DBkFpdUL71hbXRyzAP1oeMh (Google Drive) — a duplicate source for a book already in GitHub, so no staging arose). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 23:** *علوم الأرض والبيئة — الصف التاسع — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الثاني (Earth Science and Environment, Grade 9, Activities Book, Term 2)* (activities and practical experiments book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-499-6. Title as printed: علوم الأرض والبيئة — الصف التاسع — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الثاني (Earth Science and Environment, Grade 9, Activities Book, Term 2). Grade: 9 (student/teacher: STUDENT). PDF pages: 38 (cover verified; byte size 3,098,000 matches the books.json record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 24:** *الجغرافيا — الصف العاشر — الفصل الدراسي الأول (Geography, Grade 10, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-576-4. Title as printed: الجغرافيا — الصف العاشر — الفصل الدراسي الأول (Geography, Grade 10, Term 1). Grade: 10 (student/teacher: STUDENT). PDF pages: 76 (cover verified; byte size 74,034,315 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 25:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The air blanket's recipe | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 |
@@ -68,8 +76,12 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombi
 | Moldova part — §12 Composition and structure of the atmosphere | Moldova, *Moldova Grade 5 G5 Geography*, §12 Composition and structure of the atmosphere — printed p. 48 |
 | Mozambique part — Lição 9: A Atmosfera (composition, layers troposphere–thermosphere, ozone) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 9: A Atmosfera (composition, layers troposphere–thermosphere, ozone) — printed p. 48 |
 | Mozambique part — Lição 2: Estrutura e Composição da Atmosfera (water vapour's role, suspended particles) | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 2: Estrutura e Composição da Atmosfera (water vapour's role, suspended particles) — printed p. 11 |
+| Jordan part — Unit 5 Lesson 1: Properties of the Atmosphere (خصائص الغلاف الجوي) | Jordan, *Jordan G9 ES T2*, Unit 5 Lesson 1: Properties of the Atmosphere (خصائص الغلاف الجوي) — printed p. 58 |
+| Jordan part — Unit 5 practicals: the air in the atmosphere, the mass of air, solar radiation, modelling the atmosphere | Jordan, *Jordan G9 ES T2 Activity Book*, Unit 5 practicals: the air in the atmosphere, the mass of air, solar radiation, modelling the atmosphere — printed p. 26 |
+| Jordan part — Unit 1 Lesson 1: The Atmosphere (الغلاف الجوي) | Jordan, *Jordan G10 Geography T1*, Unit 1 Lesson 1: The Atmosphere (الغلاف الجوي) — printed p. 8 |
+| Jordan part — Unit 4 Lesson 1: The Atmosphere (الغلاف الجوي) | Jordan, *Jordan G12 Geography T2*, Unit 4 Lesson 1: The Atmosphere (الغلاف الجوي) — printed p. 8 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -114,3 +126,11 @@ Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climatology course — atmosphere structure to magnetosphere, heat balance, pressure/wind circulation, air masses and fronts, humidity and precipitation, the water cycle, then Köppen/Thornthwaite classification worked through climate tables with African station graphs (Arkassa, Tamanrasset, Algiers), closing on protection of bioclimatic resources.
+
+Jordan's own way (Jordan G9 ES T2): Term 2 runs solar system, then solid waste — Jordan generates 2.7 million tons a year — then the atmosphere and its heating.
+
+Jordan's own way (Jordan G9 ES T2 Activity Book): the activity book makes pupils model the solar system, take apart household waste, design a sanitary landfill and recycle paper.
+
+Jordan's own way (Jordan G10 Geography T1): Grade 10 Geography opens with physical geography (atmosphere, biosphere, biodiversity), then tourism and transport as Jordanian economic geography, then geographic technologies.
+
+Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).

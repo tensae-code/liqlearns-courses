@@ -1,6 +1,6 @@
 # Sources — A water world — how land and ocean are shared out
 
-countries: Ethiopia, Costa Rica, Jamaica, Palestine, Angola, North Macedonia, Fiji, Slovenia, Sri Lanka, Libya, Mozambique
+countries: Ethiopia, Costa Rica, Jamaica, Palestine, Angola, North Macedonia, Fiji, Slovenia, Sri Lanka, Libya, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Costa Rica, Jamaica, Palestine, Angola, North Macedonia, Fi
 
 **Book 12:** *Módulo 4 de Geografia — Pedogeografia e Hidrogeografia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 4 de Geografia — Pedogeografia e Hidrogeografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title; byte size 1,351,167 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book mis-numbers its lessons: two different lessons are both headed "Lição 6" — Importância dos Solos at printed p. 28 and Conceito de Hidrogeografia at printed p. 36; there is no Lição 5 heading). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 13:** *الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-850-5. Title as printed: الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2). Grade: 2 (student/teacher: STUDENT). PDF pages: 112 (cover verified; byte size 66,244,418 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The big numbers | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 16 |
@@ -42,8 +44,9 @@ countries: Ethiopia, Costa Rica, Jamaica, Palestine, Angola, North Macedonia, Fi
 | Sri Lanka part — Unit 2 Water: three forms, distribution (oceans 97.5%, ice, groundwater, fresh water), the water cycle and uses of water | Sri Lanka, *Sri Lanka Grade 8 G8 English*, Unit 2 Water: three forms, distribution (oceans 97.5%, ice, groundwater, fresh water), the water cycle and uses of water — printed p. 27 |
 | Libya part — سطح الأرض (اليابس والماء): Earth's surface — distribution of land and water, seas, oceans and continents | Libya, *Libya Grade 5 LY G5 Social Studies*, سطح الأرض (اليابس والماء): Earth's surface — distribution of land and water, seas, oceans and continents — printed p. 87 |
 | Mozambique part — Lição 11: os principais oceanos e mares (Pacific 179.7M km², Atlantic 106.5M km²; classifying seas — Japan, Caspian) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 11: os principais oceanos e mares (Pacific 179.7M km², Atlantic 106.5M km²; classifying seas — Japan, Caspian) — printed p. 68 |
+| Jordan part — Unit 6 Lesson 1: Our Blue Planet (كوكبنا الأزرق) — Earth's surface is land and water | Jordan, *Jordan G2 SS T2*, Unit 6 Lesson 1: Our Blue Planet (كوكبنا الأزرق) — Earth's surface is land and water — printed p. 92 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Costa Rica, Palestine, Angola, North Macedonia, Fiji, Slovenia, Sri Lanka, Libya, Mozambique). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Costa Rica, Palestine, Angola, North Macedonia, Fiji, Slovenia, Sri Lanka, Libya, Mozambique, Jordan). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -68,3 +71,5 @@ Sri Lanka's own way (Sri Lanka Grade 8 G8 English): a four-unit arc — Solar Sy
 Libya's own way (Libya Grade 5 LY G5 Social Studies): Half the book is Islamic history; the geography half ("Principles of General Geography") is pure foundations — solar system, Earth's shape/movements, grid, compass/GPS, land-and-water, map scale and symbols — with the symbol lesson taught by reading Libya's own mineral, wind and road distribution maps. Non-Geography part named, not placed: Topic One, Islamic History — the Arabs before Islam (printed pp. 11–12), the Emergence of Islam (pp. 13–20), the Rashidun Caliphs (pp. 21–30), the Umayyad State (pp. 31–35), the Abbasid State (pp. 36–40), the Fatimid State (pp. 41–43), the Ayyubid State (pp. 44–45), the Crusades on the Arab Homeland (pp. 46–47), the Mamluks repelling the Mongols and Crusaders (pp. 48–51).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound together — pedogeography (soil composition, profile, properties, pedogenesis, Dokuchaev classification, soil conservation with terrace/sucalco practice) then hydrogeography (basins and river regimes, groundwater, water balance, lakes, oceans, tides and currents).
+
+Jordan's own way (Jordan G2 SS T2): Term 2 teaches change over time (transport, housing, writing) and the child's economy (production, consumption, recycling, Jordanian-made goods), closing with the blue planet, Earth's surface shapes and a first map of Jordan.

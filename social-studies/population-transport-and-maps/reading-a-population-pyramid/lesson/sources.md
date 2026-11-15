@@ -1,6 +1,6 @@
 # Sources — Reading a population pyramid
 
-countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji, Slovenia, Vietnam, Papua New Guinea, Sudan, Mauritania, Yemen, Moldova, Nepal, Mozambique
+countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji, Slovenia, Vietnam, Papua New Guinea, Sudan, Mauritania, Yemen, Moldova, Nepal, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -58,6 +58,10 @@ countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republi
 
 **Book 28:** *Módulo 5 de Geografia — População* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 5 de Geografia — População. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 109 (title page verified against the record title; byte size 5,447,158 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 29:** *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (MoE decision 2023/307); ISBN 978-9923-41-531-3. Title as printed: الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2). Grade: 7 (student/teacher: STUDENT). PDF pages: 140 (cover verified; byte size 22,692,432 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 30:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-949-6. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م). Grade: 12 (student/teacher: STUDENT). PDF pages: 145 (cover verified; byte size 121,517,865 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The pyramid’s shape | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 91–94 |
@@ -90,8 +94,10 @@ countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republi
 | Nepal part — Unit 10 Lesson 2: Structure of Nepal's population | Nepal, *Nepal Grade 10 np-g10*, Unit 10 Lesson 2: Structure of Nepal's population — printed p. 286 |
 | Nepal part — Population Unit Lesson 2: Structure of Nepal's population (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Population Unit Lesson 2: Structure of Nepal's population — TG p. 269 |
 | Mozambique part — Lição 9: Estrutura da População (building pyramids in 5-year groups by sex) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 9: Estrutura da População (building pyramids in 5-year groups by sex) — printed p. 63 |
+| Jordan part — Unit 12 Lesson 3: The Age and Sex Structure of Jordan's Population (التركيب العمري والنوعي للسكان في الأردن) | Jordan, *Jordan G7 SS T2*, Unit 12 Lesson 3: The Age and Sex Structure of Jordan's Population (التركيب العمري والنوعي للسكان في الأردن) — printed p. 134 |
+| Jordan part — Unit 3 Lesson 3: Population Structure (التركيب السكاني) | Jordan, *Jordan G12 Geography T1*, Unit 3 Lesson 3: Population Structure (التركيب السكاني) — printed p. 118 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Barbados, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji, Slovenia, Vietnam, Sudan, Mauritania, Yemen, Moldova, Nepal, Mozambique). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 19 countries (Ethiopia, Barbados, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji, Slovenia, Vietnam, Sudan, Mauritania, Yemen, Moldova, Nepal, Mozambique, Jordan). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -146,3 +152,7 @@ Nepal's own way (Nepal Grade 10 np-g10): Grade 10 climate is taught by world cli
 Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The guide teaches the Grade 10 course of np-g10 lesson for lesson, adding map- and chart-based activities (world climate maps, heat-zone maps, continent maps comparing life and economic activity with Nepal) and earthquake-preparedness practice; placements mirror the student book with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
+
+Jordan's own way (Jordan G7 SS T2): Term 2's geography is Jordan itself — a journey through three governorates (Karak, Zarqa, Jerash) and a full unit on Jordan's population: growth, distribution, age and sex structure.
+
+Jordan's own way (Jordan G12 Geography T1): the final-year Geography book is built in three blocks — the forces that shape Earth's surface, political geography (state power, borders, alliances, Jordan's national security), and population geography.

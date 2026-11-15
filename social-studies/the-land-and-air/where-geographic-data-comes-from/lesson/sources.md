@@ -1,6 +1,6 @@
 # Sources — Where geographic data comes from
 
-countries: Ethiopia, Ukraine, Egypt, Malaysia
+countries: Ethiopia, Ukraine, Egypt, Malaysia, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -12,6 +12,12 @@ countries: Ethiopia, Ukraine, Egypt, Malaysia
 
 **Book 5:** *Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2020 (first printing 2020); ISBN 978-967-0483-63-4. Title as printed: Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 11 / Tingkatan 5 (student/teacher: STUDENT). PDF pages: 208 (cover verified against the record title — "GEOGRAFI TINGKATAN 5"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 5 records — the TSV release record (full-quality-oversized-books, read here, 194,745,977 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 6:** *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2024; ISBN 978-9923-41-706-5. Title as printed: الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2). Grade: 8 (student/teacher: STUDENT). PDF pages: 148 (cover verified; byte size 70,646,723 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 7:** *الجغرافيا — الصف العاشر — الفصل الدراسي الأول (Geography, Grade 10, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-576-4. Title as printed: الجغرافيا — الصف العاشر — الفصل الدراسي الأول (Geography, Grade 10, Term 1). Grade: 10 (student/teacher: STUDENT). PDF pages: 76 (cover verified; byte size 74,034,315 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 8:** *علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 10, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-290-9. Title as printed: علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 10, Term 2). Grade: 10 (student/teacher: STUDENT). PDF pages: 92 (cover verified; byte size 87,975,922 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Collected directly | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 8, printed pp. 180–183 |
@@ -21,8 +27,11 @@ countries: Ethiopia, Ukraine, Egypt, Malaysia
 | Ukraine part — §2 Sources of knowledge about regions and countries of the world | Ukraine, *Geografiya*, Grade 10, §2 — printed p. 10 |
 | Egypt part (Grade 4) — Unit 1 Lesson 4: Sources for gathering information | Egypt, *Social Studies, Grade 4, Term 1*, Grade 4, Unit 1 Lesson 4: Sources for gathering information — printed p. 31 |
 | Malaysia part (MY T5 Geografi Tingkatan 5) — Bab 2 Foto: ground-level, aerial and satellite photographs; the importance of photographs; interpreting photographs (placement slug: the-land-and-air/reading-the-land-from-above) | Malaysia, *MY T5 Geografi*, Bab 2 Foto: ground-level, aerial and satellite photographs; the importance of photographs; interpreting photographs — printed pp. 20-33 |
+| Jordan part — Unit 9 Lesson 2: Aerial and Satellite Images (الصور الجوية والفضائية) | Jordan, *Jordan G8 SS T2*, Unit 9 Lesson 2: Aerial and Satellite Images (الصور الجوية والفضائية) — printed p. 63 |
+| Jordan part — Unit 3 Lesson 3: Satellites and Image Analysis (الأقمار الصناعية وتحليل الصور الفضائية) | Jordan, *Jordan G10 Geography T1*, Unit 3 Lesson 3: Satellites and Image Analysis (الأقمار الصناعية وتحليل الصور الفضائية) — printed p. 69 |
+| Jordan part — Unit 4 Enrichment: Studying the Oceans by Satellite (دراسة المحيطات بالأقمار الصناعية) | Jordan, *Jordan G10 ES T2*, Unit 4 Enrichment: Studying the Oceans by Satellite (دراسة المحيطات بالأقمار الصناعية) — printed p. 53 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Ukraine, Egypt, Malaysia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Ukraine, Egypt, Malaysia, Jordan).**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -33,3 +42,9 @@ Searchable tags: data sources, field survey, gps, remote sensing, primary second
 Egypt's own way (Grade 4 Term 1): the very first Social Studies book starts from the child's own space — drawing a plan of the home and school, comparing walking routes by length and landmarks — before maps in general, then the child's own city and governorate, and only then Egypt as homeland; a robot mascot teaches alongside named child guides from different governorates.
 
 Malaysia's own way (MY T5 Geografi Tingkatan 5): the final form is the world's systems book — advanced graphs and photo interpretation, then weather and climate at world scale, vegetation and wildlife by climate zone, energy, and the environmental bill for economic activity.
+
+Jordan's own way (Jordan G8 SS T2): Term 2 gives maps their own technology unit — map types, aerial and satellite images, GIS — and closes with three more governorate journeys (Madaba, Tafila, Ajloun), completing all 12 governorates across Grades 5–8.
+
+Jordan's own way (Jordan G10 Geography T1): Grade 10 Geography opens with physical geography (atmosphere, biosphere, biodiversity), then tourism and transport as Jordanian economic geography, then geographic technologies.
+
+Jordan's own way (Jordan G10 ES T2): Term 2 is weather watching (air masses, fronts, pressure systems, weather balloons), the oceans (water, waves, currents, satellite study), and wastewater — what it is, its harms, and how Jordan treats it.

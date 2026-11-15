@@ -1,6 +1,6 @@
 # Sources — How soil is made
 
-countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mauritania, Yemen, Moldova, Mozambique
+countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mauritania, Yemen, Moldova, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -44,6 +44,8 @@ countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mau
 
 **Book 21:** *Módulo 4 de Geografia — Pedogeografia e Hidrogeografia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 4 de Geografia — Pedogeografia e Hidrogeografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title; byte size 1,351,167 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book mis-numbers its lessons: two different lessons are both headed "Lição 6" — Importância dos Solos at printed p. 28 and Conceito de Hidrogeografia at printed p. 36; there is no Lição 5 heading). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 22:** *الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-859-8. Title as printed: الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1). Grade: 9 (student/teacher: STUDENT). PDF pages: 80 (cover verified; byte size 60,522,837 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The five factors | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 69–70 |
@@ -69,8 +71,9 @@ countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mau
 | Mozambique part — Lição 9: Solos e factores de formação (soil composition — 45% mineral matter; formation factors and soil types) | Mozambique, *Mozambique Grade 7 PESD I Mod 3*, Lição 9: Solos e factores de formação (soil composition — 45% mineral matter; formation factors and soil types) — printed p. 41 |
 | Mozambique part — Lição 1: Pedogeografia (soil composition in four parts; the soil profile and its horizons seen in road cuttings and foundations) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 1: Pedogeografia (soil composition in four parts; the soil profile and its horizons seen in road cuttings and foundations) — printed p. 5 |
 | Mozambique part — Lição 3: Formação e Evolução do Solo (pedogenesis — rock disaggregation, climate's role, parent rock) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 3: Formação e Evolução do Solo (pedogenesis — rock disaggregation, climate's role, parent rock) — printed p. 16 |
+| Jordan part — Unit 1 Lesson 3: Rocks and Soil (الصخور والتربة) — the soil half | Jordan, *Jordan G9 Geography T1*, Unit 1 Lesson 3: Rocks and Soil (الصخور والتربة) — the soil half — printed p. 20 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Angola, India, Fiji, Slovenia, Syria, Mauritania, Yemen, Moldova, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Angola, India, Fiji, Slovenia, Syria, Mauritania, Yemen, Moldova, Mozambique, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Extension (Wave 4 Band D): the Grade 10 book's soil definition and functions (printed pp. 66–67) were stacked under this lesson per the build brief; the Grade 10 types survey stands as its own lesson, "Five African soils".
 
@@ -109,3 +112,5 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-s
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 3): after world/economic geography in Modules 1–2, Module 3 turns to Mozambique itself as a complete regional study — cities, then the country's location, coast, geology, minerals, soils, relief, climate, plant and animal geography, hydrography — and closes with Southern Africa and Mozambique's SADC integration.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound together — pedogeography (soil composition, profile, properties, pedogenesis, Dokuchaev classification, soil conservation with terrace/sucalco practice) then hydrogeography (basins and river regimes, groundwater, water balance, lakes, oceans, tides and currents).
+
+Jordan's own way (Jordan G9 Geography T1): From Grade 9 Geography stands alone as its own book: the Earth's rock and water spheres first, then the geography of the Arab homeland — its natural features, its human features and its challenges.

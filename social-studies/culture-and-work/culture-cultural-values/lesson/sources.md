@@ -1,6 +1,6 @@
 # Sources — Culture — cultural values
 
-countries: Ethiopia, Mongolia, Zimbabwe, Cambodia
+countries: Ethiopia, Mongolia, Zimbabwe, Cambodia, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Mongolia, Zimbabwe, Cambodia
 
 **Book 5:** *សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House (គ្រឹះស្ថានបោះពុម្ពនិងចែកចាយ); year 2020 (12th printing); ISBN no ISBN printed. Title as printed: សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4) — Sala 00004333. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 113. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Non-Geography parts named, not placed: Ch.1 គំនិតល្អ (good conduct — goal-setting, honesty, children's rights, art, printed pp.1–36, Civics/Life Skills); Ch.2 ការរក្សាសុខភាពផ្ទាល់ខ្លួន (personal health care, printed pp.37–52, Science/Health); Ch.3 L4 អំណាចនីតិប្រតិបត្តិ (legislative/executive power, printed p.76) and L5 អាជ្ញាធរដែនដី (territorial authority, printed p.82, Civics); Ch.4 ជីវភាពសង្គមពីអតីតកាល (social life in the past — ancient buildings, life in ancient times, printed pp.95–112, History). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 6:** *الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الأول (Social Studies, Grade 2, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2024; ISBN 978-9923-41-849-9. Title as printed: الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الأول (Social Studies, Grade 2, Term 1). Grade: 2 (student/teacher: STUDENT). PDF pages: 60 (cover verified; byte size 36,341,946 matches the books.json twin record exactly — same book; a parallel NCCD-hosted edition is recorded separately as term-1-nccd.pdf, spot-check pending). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 7:** *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (MoE decision 2023/217); ISBN 978-9923-41-574-0. Title as printed: الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, Term 1). Grade: 4 (student/teacher: STUDENT). PDF pages: 80 (cover verified; byte size 22,639,631 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — How a society judges | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 47 |
@@ -20,8 +24,10 @@ countries: Ethiopia, Mongolia, Zimbabwe, Cambodia
 | Mongolia part — Culture is norms | Mongolia, *Нийгэм судлал VIII (Social Studies VIII)*, Grade 8, Chapter II Individual and Culture: 2.2 Culture is norms — printed p. 30 |
 | Zimbabwe part (Grade 6) — Unit 4: Preservation of cultural identity (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 6 Teacher's Guide* (teacher guide), Unit 4: Preservation of cultural identity — printed p. 7 |
 | Cambodia part — Ch.3 L3 តម្លៃការងារ (the value of work) | Cambodia, *Cambodia Grade 4 Social Studies*, Ch.3 L3 តម្លៃការងារ (the value of work) — printed p. 68 |
+| Jordan part — Unit 3 Lesson 2: Our Customs and Traditions (عاداتنا وتقاليدنا) — Jordanian customs: helping the poor, welcoming the guest, traditional dress | Jordan, *Jordan G2 SS T1*, Unit 3 Lesson 2: Our Customs and Traditions (عاداتنا وتقاليدنا) — Jordanian customs: helping the poor, welcoming the guest, traditional dress — printed p. 47 |
+| Jordan part — Unit 1 Lesson 3: Customs and Traditions (العادات والتقاليد) | Jordan, *Jordan G4 SS T1*, Unit 1 Lesson 3: Customs and Traditions (العادات والتقاليد) — printed p. 17 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Cambodia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Cambodia, Jordan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Mongolia's own way (Grade 7): the Grade 7 year works at the scale of the child's own life — my groups, my culture, my family's economy and budget, our school — before the local-area year in Grade 8. The book's Sociology parts (Chapter I, printed pp. 7–13) and Law/Civics parts (Chapters IV–V, printed pp. 59–93) are named in the placements, not placed. Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -32,3 +38,7 @@ Searchable tags: culture: cultural values, culture and work, social studies, eth
 Zimbabwe's own way (Grade 6) (teacher guide — evidence): Grade 6 shelter becomes settlement geography — development of settlements in Zimbabwe, siting of shelter in rural and urban areas, and disaster and risk management; transport adds road signs/signals/markings and Zimbabwe's transport and communication links with other countries, plus ICT development. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
 
 Cambodia's own way (Cambodia Grade 4 Social Studies): Geography enters primary Social Studies inside a “society and culture” chapter — festivals, the value of work and regional land use taught from Cambodian village life before any map work.
+
+Jordan's own way (Jordan G2 SS T1): Grade 2 Term 1 is family, rights and community — the only outward-looking lessons are Jordanian customs and the professions of the homeland.
+
+Jordan's own way (Jordan G4 SS T1): Grade 4 Term 1 grounds the child in Jordanian society and dress, then an environment-resources-population unit: agriculture, industry, energy (renewable and not, in Jordan), human impact and Jordan's wildlife.

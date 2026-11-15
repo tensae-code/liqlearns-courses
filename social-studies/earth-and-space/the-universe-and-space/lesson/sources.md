@@ -1,6 +1,6 @@
 # Sources — The Universe and Space
 
-countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique
+countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, 
 
 **Book 10:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 11:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Activities Book, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد)* (activities and practical experiments book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025 (MoE decision 2025/170); ISBN 978-9923-41-810-9. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Activities Book, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد). Grade: 12 (student/teacher: STUDENT). PDF pages: 60 (cover verified; byte size 5,167,842 matches the books.json record exactly — same book; this is also link record minhaji.net/download/10387, a duplicate source for a book already in GitHub, so no staging arose). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 12:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-809-3. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد). Grade: 12 (student/teacher: STUDENT). PDF pages: 148 (cover verified; byte size 62,280,323 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The universe: boundless space holding all matter | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 4 |
@@ -39,8 +43,12 @@ countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, 
 | Afghanistan part — Ch. 6 Lessons 47–48: theories about the origin of the universe; the galaxy | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 6 Lessons 47–48: theories about the origin of the universe; the galaxy — printed p. 161 |
 | Yemen part — Unit 1 Lesson 1 Man and the Exploration of Space | Yemen, *Yemen Grade 10 G10 Geography of Man and the Environment*, Unit 1 Lesson 1 Man and the Exploration of Space — printed p. 8 |
 | Mozambique part — Lição 5: A Terra e o Universo (concept, origin, evolution, celestial bodies: stars, satellites, nebulae, meteorites, galaxies) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 5: A Terra e o Universo (concept, origin, evolution, celestial bodies: stars, satellites, nebulae, meteorites, galaxies) — printed p. 32 |
+| Jordan part — Unit 5 Galaxies and the Origin of the Universe: modelling the expanding universe, the Milky Way, classifying galaxies, dark matter and dark energy, the Big Bang timeline | Jordan, *Jordan G12 ES T2 Workbook*, Unit 5 Galaxies and the Origin of the Universe: modelling the expanding universe, the Milky Way, classifying galaxies, dark matter and dark energy, the Big Bang timeline — printed p. 4 |
+| Jordan part — Unit 5 Lesson 1: Galaxies and Their Types (المجرات وأنواعها) | Jordan, *Jordan G12 ES T2*, Unit 5 Lesson 1: Galaxies and Their Types (المجرات وأنواعها) — printed p. 10 |
+| Jordan part — Unit 5 Lessons 2–3: The Expansion of the Universe and Its Acceleration (توسع الكون وتسارع توسعه) | Jordan, *Jordan G12 ES T2*, Unit 5 Lessons 2–3: The Expansion of the Universe and Its Acceleration (توسع الكون وتسارع توسعه) — printed p. 21 |
+| Jordan part — Unit 5 Lesson 4 + Enrichment: Theories of the Origin of the Universe; the James Webb Space Telescope (نظريات نشأة الكون؛ مقراب جيمس ويب الفضائي) | Jordan, *Jordan G12 ES T2*, Unit 5 Lesson 4 + Enrichment: Theories of the Origin of the Universe; the James Webb Space Telescope (نظريات نشأة الكون؛ مقراب جيمس ويب الفضائي) — printed p. 36 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique).**
+**Acceptance count: taught in 11 countries (Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique, Jordan).**
 
 No book errors are flagged by the placements for these pages.
 
@@ -63,3 +71,7 @@ Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-seconda
 Yemen's own way (Yemen Grade 10 G10 Geography of Man and the Environment): secondary geography is thematic, not regional — man and space, man representing his geographic field (remote sensing, projections, maps), man organising it (rural/urban), climate and water, the dynamic Earth, and the great environmental systems.
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
+
+Jordan's own way (Jordan G12 ES T2 Workbook): the final-term activities book spans the universe (galaxies, dark matter, the Big Bang), severe weather (tornado and flood modelling) and deep time — ending with building a geological timescale for Jordan itself.
+
+Jordan's own way (Jordan G12 ES T2): the last term spans galaxies and the origin of the universe, severe weather and how to stay safe in it, and the history of the Earth — with geological tourism in Jordan as the closing enrichment.

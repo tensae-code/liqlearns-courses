@@ -1,6 +1,6 @@
 # Sources — Climate Change — Effects and Responses
 
-countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia, North Macedonia, Rwanda, Fiji, Papua New Guinea, Iran, Moldova, Nepal
+countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia, North Macedonia, Rwanda, Fiji, Papua New Guinea, Iran, Moldova, Nepal, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 142).
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia, No
 
 **Book 17:** *Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 8 (Teacher's Guide Social Studies and Human Value Education Grade 8)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year First edition 2081 BS; ISBN no ISBN printed. Title as printed: Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 8 (Teacher's Guide Social Studies and Human Value Education Grade 8). Grade: Grade 8 (student/teacher: TEACHER). PDF pages: 222 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society (TG pp. 1–19 approx.); Unit 2 Our human values and beliefs; Unit 3 Civic consciousness, duties and rights (civics); Unit 4 Social problems and distortions; Unit 5 Our Past (History). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 18:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-809-3. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد). Grade: 12 (student/teacher: STUDENT). PDF pages: 148 (cover verified; byte size 62,280,323 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Four harms that cross borders: (a) falling farm output — farming majority, fast population growth, environment pressed, productivity falls; (b) soil degradation — erosion-prone terrain, soil washing into neighbouring countries by running water and dry-season whirlwinds, worsened drought, spreading desert, unbalanced nature | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 183–186 |
@@ -56,8 +58,9 @@ countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia, No
 | Iran part — Iran's climate (climate change and its environmental problems: storms, heatwaves, drought) | Iran, *Iran Grade 10 Geography of Iran*, Iran's climate (climate change and its environmental problems: storms, heatwaves, drought) — printed p. 46 |
 | Moldova part — 31. Antarctica risk processes: global warming, glacier melting, disappearance of animal species | Moldova, *Moldova Grade 6 G6 Geography*, 31. Antarctica risk processes: global warming, glacier melting, disappearance of animal species — printed p. 122 |
 | Nepal part — Unit 7 Lesson 3: Climate change — causes, effects and mitigation measures (teacher guide — evidence) | Nepal, *Nepal Grade 8 TG np-g8tg* (teacher guide), Unit 7 Lesson 3: Climate change — causes, effects and mitigation measures — TG Unit 7 |
+| Jordan part — Unit 6 Lesson 3: Climate Change and Severe Weather Patterns (التغير المناخي وأنماط الطقس القاسية) | Jordan, *Jordan G12 ES T2*, Unit 6 Lesson 3: Climate Change and Severe Weather Patterns (التغير المناخي وأنماط الطقس القاسية) — printed p. 71 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia, North Macedonia, Rwanda, Fiji, Iran, Moldova). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Nepal is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia, North Macedonia, Rwanda, Fiji, Iran, Moldova, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Nepal is named here as teacher-guide evidence only, counted nowhere.**
 
 There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -96,3 +99,5 @@ Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geograph
 Moldova's own way (Moldova Grade 6 G6 Geography): a "Geography of the Continents" year — the southern continents (Africa, South America, Australia, Antarctica) each worked through with the identical template (physical position, relief and minerals, climate factors and zones, surface waters, natural zones, population, peoples and political map), and every continent closes with a "geographic risk processes" lesson; an annex gives a standard plan for characterising any continent.
 
 Nepal's own way (Nepal Grade 8 TG np-g8tg) (teacher guide — evidence): Grade 8 economics is monetary — monetary transactions, Nepal's financial institutions, tourism, foreign trade and foreign employment; the Earth unit pairs Earth's motions with weather/climate elements, climate change, Nepal's bordering neighbours and SAARC, disaster management (with the 2072 earthquake as case material) and a map-making practical (draw Nepal, fill in geographical facts). That evidence is stocked here as the way Nepal teaches this thing; it does not change the acceptance count above.
+
+Jordan's own way (Jordan G12 ES T2): the last term spans galaxies and the origin of the universe, severe weather and how to stay safe in it, and the history of the Earth — with geological tourism in Jordan as the closing enrichment.

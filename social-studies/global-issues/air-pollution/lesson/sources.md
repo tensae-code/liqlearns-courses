@@ -1,6 +1,6 @@
 # Sources — Air Pollution
 
-countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Papua New Guinea, Sudan, Sri Lanka, Afghanistan, Yemen, Libya, Mozambique
+countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Papua New Guinea, Sudan, Sri Lanka, Afghanistan, Yemen, Libya, Mozambique, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 109).
 
@@ -44,6 +44,8 @@ countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedon
 
 **Book 20:** *Módulo 8 de Geografia — Transportes, Comunicações e Turismo (title page misprints the subject word as "Geogafia")* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 8 de Geografia — Transportes, Comunicações e Turismo (title page misprints the subject word as "Geogafia"). Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 59 (title page verified against the record title; byte size 536,572 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 21:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-807-9. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1). Grade: 12 (student/teacher: STUDENT). PDF pages: 162 (cover verified; byte size 62,271,187 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What clean air is, and what spoils it: air without smell, taste or colour; pollution as natural or human-made toxic substances mixing into the air against living things; the bad smell of wastes as its everyday sign | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed p. 149 |
@@ -67,11 +69,12 @@ countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedon
 | Mozambique part — Lição 14: Uso, protecção e conservação da Atmosfera (pollution sources and protection measures) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 14: Uso, protecção e conservação da Atmosfera (pollution sources and protection measures) — printed p. 76 |
 | Mozambique part — Lição 7: Impacto Ambiental Negativo da Indústria (chimney smoke; ozone-destroying chemicals) | Mozambique, *Mozambique Grade 10 PESD II Mod 7*, Lição 7: Impacto Ambiental Negativo da Indústria (chimney smoke; ozone-destroying chemicals) — printed p. 47 |
 | Mozambique part — Lição 5: Impacto ambiental dos transportes (greenhouse climate losses, WHO studies; mitigation — shade trees in cities, airports sited away from settlements) | Mozambique, *Mozambique Grade 10 PESD II Mod 8*, Lição 5: Impacto ambiental dos transportes (greenhouse climate losses, WHO studies; mitigation — shade trees in cities, airports sited away from settlements) — printed p. 31 |
+| Jordan part — Unit 1 Enrichment: Smog (الضباب الدخاني) | Jordan, *Jordan G12 ES T1*, Unit 1 Enrichment: Smog (الضباب الدخاني) — printed p. 41 |
 
 | Sub lesson 3 — Smog and ground-level ozone — the Grade 12 chemistry | Ethiopia, *Geography, Student Textbook, Grade 12*, Unit 6, printed pp. 159–161 (G12 student placement #64) |
 | Indonesia part (Grade 11) — Bab 3 I.E Pencemaran udara | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 I.E Pencemaran udara — printed p. 126 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Sudan, Sri Lanka, Afghanistan, Yemen, Libya, Mozambique). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Sudan, Sri Lanka, Afghanistan, Yemen, Libya, Mozambique, Jordan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -116,3 +119,5 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-s
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a long history — from Palaeolithic tool-making through manufacture and mercantilism to the Industrial Revolution and its consequences — before location, types and industrial landscapes; commerce likewise from barter and the invention of coin to trade blocs and unequal world flows.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 8): transport and communications taught as twin evolutions — transport from foot/animal traction to the Industrial Revolution's bulk cargo, communications from primitive signals to telematics (1970) and videoconference (1984) — with transport's environmental impact given its own lesson before tourism closes the module.
+
+Jordan's own way (Jordan G12 ES T1): the final year opens with fossil fuels and climate action, then structures and plate tectonics, closing with geological exploration — ending on uranium exploration in Jordan.

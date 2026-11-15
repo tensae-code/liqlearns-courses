@@ -1,6 +1,6 @@
 # Sources — Water — Pollution and Shrinking Clean Water
 
-countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua New Guinea, Sudan, Syria, Libya
+countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua New Guinea, Sudan, Syria, Libya, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 110).
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua Ne
 
 **Book 14:** *جغرافية البيئة — Environmental Geography, Third Year of Secondary Education (Literary Section)* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: جغرافية البيئة — Environmental Geography, Third Year of Secondary Education (Literary Section). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 126 (title page verified in text layer: "جغرافية البيئة للسنة الثالثة بمرحلة التعليم الثانوي (القسم الأدبي)" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 15:** *علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 10, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-290-9. Title as printed: علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 10, Term 2). Grade: 10 (student/teacher: STUDENT). PDF pages: 92 (cover verified; byte size 87,975,922 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Water pollution (Grade 7 depth): pollution of lakes, rivers, seas, oceans and groundwater; polluted water changes nature, cannot renew itself, loses physical quality, biological content and economic use; the kebele audit task | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 150–151 |
@@ -47,8 +49,9 @@ countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua Ne
 | Syria part — I do good and do not throw into the sea (Water unit: keeping water clean) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, I do good and do not throw into the sea (Water unit: keeping water clean) — printed p. 92 |
 | Libya part — Unit 4: تلوث الماء — Water pollution (seas and oceans, thermal and biological pollution) and its dangers | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 4: تلوث الماء — Water pollution (seas and oceans, thermal and biological pollution) and its dangers — printed p. 112 |
 | Libya part — Ch.4: التلوث المائي — Water pollution (mercury poisoning of sea water) [placement slug: global-issues/water-pollution-dirty-water-harms] | Libya, *Libya Grade 12 LY G12 Environmental Geography*, Ch.4: التلوث المائي — Water pollution (mercury poisoning of sea water) — printed p. 95 |
+| Jordan part — Unit 5 Lesson 2: The Negative Effects of Wastewater (الآثار السلبية للمياه العادمة) | Jordan, *Jordan G10 ES T2*, Unit 5 Lesson 2: The Negative Effects of Wastewater (الآثار السلبية للمياه العادمة) — printed p. 65 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bolivia, Bangladesh, Indonesia, Cambodia, Sudan, Syria, Libya). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Bolivia, Bangladesh, Indonesia, Cambodia, Sudan, Syria, Libya, Jordan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -77,3 +80,5 @@ Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure
 Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Principles of Physical Geography" in four units — surface shaping, climate, water, pollution — with Libyan examples inside world content (the Haruj volcanic mountains, Libyan springs such as Ain al-Sharshara). Non-Geography part named, not placed: Topic One, History of Libya — the Ottoman State and Libya as an Ottoman province (printed pp. 12–18), Libya in the Ottoman era 1551–1912 including the Karamanli period (pp. 19–35), modern European colonialism and the Italian occupation of 1911 (pp. 36–43), Libyan resistance to the Italian occupation (pp. 44–54), Libya after the Italian era — liberation, the British/French military administrations, independence and the Libyan Kingdom (pp. 55–64).
 
 Libya's own way (Libya Grade 12 LY G12 Environmental Geography): The geography course closes with a full environmental-geography book: the environment as a system of living and non-living parts, the world's great environments (water, then land biome by biome), the social environment and its balance with nature, the problems of settlements, the five pollutions (air, water, soil, food, noise) — and protection ending in sustainable development.
+
+Jordan's own way (Jordan G10 ES T2): Term 2 is weather watching (air masses, fronts, pressure systems, weather balloons), the oceans (water, waves, currents, satellite study), and wastewater — what it is, its harms, and how Jordan treats it.

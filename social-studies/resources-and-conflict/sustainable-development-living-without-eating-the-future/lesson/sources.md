@@ -1,6 +1,6 @@
 # Sources — Sustainable development — living without eating the future
 
-countries: Ethiopia, Niue, Guatemala, Costa Rica, Jamaica, Bolivia, Bangladesh, India, Rwanda, Slovenia, Papua New Guinea, Uganda, Sudan, Sri Lanka, Moldova, Nepal, Mozambique
+countries: Ethiopia, Niue, Guatemala, Costa Rica, Jamaica, Bolivia, Bangladesh, India, Rwanda, Slovenia, Papua New Guinea, Uganda, Sudan, Sri Lanka, Moldova, Nepal, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -42,6 +42,12 @@ countries: Ethiopia, Niue, Guatemala, Costa Rica, Jamaica, Bolivia, Bangladesh, 
 
 **Book 20:** *Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title; byte size 6,444,493 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (note: Lição 13's body heading mistakenly repeats "actividade pecuária" wording from Lição 16 — the book's own copy error; content and summary are the agriculture environmental-problems lesson as titled). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 21:** *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2024; ISBN 978-9923-41-847-5. Title as printed: الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, Term 1). Grade: 8 (student/teacher: STUDENT). PDF pages: 144 (cover verified; byte size 26,627,986 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 22:** *الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-870-3. Title as printed: الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2). Grade: 6 (student/teacher: STUDENT). PDF pages: 128 (cover verified. READ ROUTE NOTE: same as Term 1 — books.json record claims in_pushed but grab.py tree returned HTTP 404; read from the record's recorded source minhaji.net/download/30117, 28,780,103 bytes, exactly the record's size_bytes. Staged into phase3-staging under the push-don't-delete rule — see group log.). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 23:** *الجغرافيا — الصف العاشر — الفصل الدراسي الثاني (Geography, Grade 10, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-539-9. Title as printed: الجغرافيا — الصف العاشر — الفصل الدراسي الثاني (Geography, Grade 10, Term 2). Grade: 10 (student/teacher: STUDENT). PDF pages: 88 (cover verified; byte size 75,200,687 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What sustainability means | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 6, printed pp. 179–180 |
@@ -66,8 +72,11 @@ countries: Ethiopia, Niue, Guatemala, Costa Rica, Jamaica, Bolivia, Bangladesh, 
 | Nepal part — Unit 2 Lesson 2: Sustainable development (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Unit 2 Lesson 2: Sustainable development — TG p. 30 |
 | Nepal part — Unit 10 Lesson 6: Concepts of economic growth, human development and sustainable development | Nepal, *Nepal Grade 12 np-g12*, Unit 10 Lesson 6: Concepts of economic growth, human development and sustainable development — printed p. 325 |
 | Mozambique part — Lição 34: Desenvolvimento sustentável (clean energy, land-use monitoring) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 34: Desenvolvimento sustentável (clean energy, land-use monitoring) — printed p. 156 |
+| Jordan part — Unit 4 Lesson 3: Sustainable Development (التنمية المستدامة) | Jordan, *Jordan G8 SS T1*, Unit 4 Lesson 3: Sustainable Development (التنمية المستدامة) — printed p. 103 |
+| Jordan part — Unit 8 Lesson 1: Sustainable Development (التنمية المستدامة) | Jordan, *Jordan G6 SS T2*, Unit 8 Lesson 1: Sustainable Development (التنمية المستدامة) — printed p. 60 |
+| Jordan part — Unit 5 Lesson 1: Sustainable Development (التنمية المستدامة) | Jordan, *Jordan G10 Geography T2*, Unit 5 Lesson 1: Sustainable Development (التنمية المستدامة) — printed p. 32 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Niue, Costa Rica, Bolivia, Bangladesh, India, Rwanda, Slovenia, Uganda, Sudan, Moldova, Nepal, Mozambique). Guatemala is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Sri Lanka is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Niue, Costa Rica, Bolivia, Bangladesh, India, Rwanda, Slovenia, Uganda, Sudan, Moldova, Nepal, Mozambique, Jordan). Guatemala is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Sri Lanka is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -108,3 +117,9 @@ Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The g
 Nepal's own way (Nepal Grade 12 np-g12): Grade 12 geography is federal and applied — each of Nepal's provinces studied four ways (administration, population, social-cultural life, economy) plus inter-provincial relations; disasters in Nepal with the national disaster-management system and plan-making; GIS/geo-information in social mapping; and a full urbanisation-and-migration unit (village–city relations, safe and dignified migration, migration effects).
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.
+
+Jordan's own way (Jordan G8 SS T1): Grade 8 Term 1 pairs an environment unit (climate elements, the world's natural environments, hazards and disaster management) with population and development, framed by human rights and Mesopotamian history.
+
+Jordan's own way (Jordan G6 SS T2): Term 2's geography is climate done properly — elements, effects on human activity, Jordan's own climate regions — plus economic concepts and three more governorate journeys (Mafraq, Balqa, Aqaba).
+
+Jordan's own way (Jordan G10 Geography T2): Grade 10 Term 2 turns to the planet's problems and futures — climate change, impact assessment, sustainable development, energy — then tours the New World continent by continent.

@@ -1,6 +1,6 @@
 # Sources — Degradation in all its forms
 
-countries: Ethiopia, Zambia, Haiti, Angola, Eritrea, India, Papua New Guinea, Uganda, Venezuela, Yemen, Mozambique
+countries: Ethiopia, Zambia, Haiti, Angola, Eritrea, India, Papua New Guinea, Uganda, Venezuela, Yemen, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Zambia, Haiti, Angola, Eritrea, India, Papua New Guinea, Ug
 
 **Book 14:** *Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title; byte size 6,444,493 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (note: Lição 13's body heading mistakenly repeats "actividade pecuária" wording from Lição 16 — the book's own copy error; content and summary are the agriculture environmental-problems lesson as titled). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 15:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The types | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 6, printed pp. 177–179 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Zambia, Haiti, Angola, Eritrea, India, Papua New Guinea, Ug
 | Venezuela part — …Y nuestra Venezuela dijo: ¿por qué me han cambiado una y otra vez? (tropical ecosystems deteriorate) | Venezuela, *Venezuela Grade 4 G4 CS Venezuela y Su Gente*, …Y nuestra Venezuela dijo: ¿por qué me han cambiado una y otra vez? (tropical ecosystems deteriorate) — printed p. 34 |
 | Yemen part — Unit 6 Lesson 3 Deterioration of the Global Environment | Yemen, *Yemen Grade 8 G8 Geography of the Continents*, Unit 6 Lesson 3 Deterioration of the Global Environment — printed p. 102 |
 | Mozambique part — Lição 16: Problemas ambientais decorrentes da actividade pecuária (vegetation removal, agro-toxics reaching groundwater and rivers) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 16: Problemas ambientais decorrentes da actividade pecuária (vegetation removal, agro-toxics reaching groundwater and rivers) — printed p. 74 |
+| Jordan part — Unit 5 Lesson 3: Environmental Problems (المشكلات البيئية) | Jordan, *Jordan G12 Geography T2*, Unit 5 Lesson 3: Environmental Problems (المشكلات البيئية) — printed p. 69 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Angola, Eritrea, India, Uganda, Venezuela, Yemen, Mozambique). Zambia is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Angola, Eritrea, India, Uganda, Venezuela, Yemen, Mozambique, Jordan). Zambia is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -76,3 +79,5 @@ Venezuela's own way (Venezuela Grade 4 G4 CS Venezuela y Su Gente): geography is
 Yemen's own way (Yemen Grade 8 G8 Geography of the Continents): Grade 8 tours the continents one by one — natural features, population, economic activities — with one country studied in depth per continent (Indonesia, Eritrea, Germany, the USA, Brazil), and closes on contemporary world issues.
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.
+
+Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).

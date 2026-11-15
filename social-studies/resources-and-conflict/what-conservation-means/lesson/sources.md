@@ -1,6 +1,6 @@
 # Sources — Conservation — What Conservation Means
 
-countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia, Zimbabwe, Malaysia, Eritrea, Rwanda, Fiji, Slovenia, Papua New Guinea, Uganda, Venezuela, Honduras
+countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia, Zimbabwe, Malaysia, Eritrea, Rwanda, Fiji, Slovenia, Papua New Guinea, Uganda, Venezuela, Honduras, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 66).
 
@@ -52,6 +52,10 @@ countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia, Zimbabwe, Ma
 
 **Book 25:** *Guía para Docentes del área de Ciencias Sociales — Segundo grado de Educación Básica (cover: 'Ciencias Sociales — Segundo grado — Guía para Docentes')* (teacher guide, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Guía para Docentes del área de Ciencias Sociales — Segundo grado de Educación Básica (cover: 'Ciencias Sociales — Segundo grado — Guía para Docentes'). Grade: Grade 2 (student/teacher: TEACHER). PDF pages: 166 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 24,206,301 bytes, SHA-256 prefix c2f07d664b29994e). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (printed pp. 7–42 in the guide); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 83–122 in the guide); Bloque 4 lessons not placed above (Civics/social organisation, printed pp. 123 onwards in the guide). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
 
+**Book 26:** *الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الأول (Social Studies, Grade 3, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-66-105-5. Title as printed: الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الأول (Social Studies, Grade 3, Term 1). Grade: 3 (student/teacher: STUDENT). PDF pages: 64 (cover verified; byte size 34,679,758 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 27:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils name a local act of keeping for later | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 86–87 |
@@ -80,8 +84,10 @@ countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia, Zimbabwe, Ma
 | Venezuela part — Conservando nuestras aguas | Venezuela, *Venezuela Grade 3 G3 CS Viva Venezuela*, Conservando nuestras aguas — printed p. 44 |
 | Honduras part — Lección 17: Protejo y conservo el paisaje natural — protecting and conserving the natural landscape | Honduras, *Honduras Grade 2 Student Book*, Lección 17: Protejo y conservo el paisaje natural — protecting and conserving the natural landscape — printed p. 78 |
 | Honduras part — Lección 17: Protejo y conservo el paisaje natural — protecting and conserving the natural landscape (teacher guide — evidence) | Honduras, *Honduras Grade 2 Teacher Guide* (teacher guide), Lección 17: Protejo y conservo el paisaje natural — protecting and conserving the natural landscape — printed p. 71 |
+| Jordan part — Unit 2 Lesson 3: Preserving Natural Resources (المحافظة على الموارد الطبيعية) | Jordan, *Jordan G3 SS T1*, Unit 2 Lesson 3: Preserving Natural Resources (المحافظة على الموارد الطبيعية) — printed p. 42 |
+| Jordan part — Unit 5 Lesson 4: Preserving the Environment (المحافظة على البيئة) | Jordan, *Jordan G12 Geography T2*, Unit 5 Lesson 4: Preserving the Environment (المحافظة على البيئة) — printed p. 77 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Guatemala, Bolivia, Angola, Indonesia, Malaysia, Eritrea, Rwanda, Fiji, Slovenia, Uganda, Venezuela, Honduras). Zambia is named here as teacher-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Guatemala, Bolivia, Angola, Indonesia, Malaysia, Eritrea, Rwanda, Fiji, Slovenia, Uganda, Venezuela, Honduras, Jordan). Zambia is named here as teacher-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -130,3 +136,7 @@ Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): the second half is
 Honduras's own way (Honduras Grade 2 Student Book): widening-circles design — the municipality and the department — the circle widens one step from the community to the municipio and departamento. Every lesson runs the same 'Sembrar y cosechar' activity cycle.
 
 Honduras's own way (Honduras Grade 2 Teacher Guide) (teacher guide — evidence): widening-circles design — the municipality and the department — the circle widens one step from the community to the municipio and departamento — the teacher guide mirrors the student book lesson-for-lesson (same 38 lessons and blocks) and adds didactics, theory summaries and answer keys; its geography lessons are placed here at the guide's own printed pages. Every lesson runs the same 'Sembrar y cosechar' activity cycle. That evidence is stocked here as the way Honduras teaches this thing; it is cited as evidence only — Honduras is counted in this lesson through its student book(s).
+
+Jordan's own way (Jordan G3 SS T1): Grade 3 Term 1 is duty, citizenship and pride in the homeland; the one outward lesson is care for natural resources.
+
+Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).

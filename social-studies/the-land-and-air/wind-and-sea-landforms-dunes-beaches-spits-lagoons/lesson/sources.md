@@ -1,6 +1,6 @@
 # Sources — Wind and sea landforms — dunes, beaches, spits, lagoons
 
-countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique
+countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Lib
 
 **Book 8:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 9:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-949-6. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م). Grade: 12 (student/teacher: STUDENT). PDF pages: 145 (cover verified; byte size 121,517,865 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Wind at work | G12 student #23, printed pp. 29–30 |
@@ -31,8 +33,10 @@ countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Lib
 | Libya part — External-factor landforms: desert depressions, sand dunes, hamada, wadis, waterfalls, flood plains, caves, sea arches, sea stacks, sandy and gravel beaches | Libya, *Libya Grade 6 LY G6 Social Studies*, External-factor landforms: desert depressions, sand dunes, hamada, wadis, waterfalls, flood plains, caves, sea arches, sea stacks, sandy and gravel beaches — printed p. 76 |
 | Mozambique part — Lição 17: Modelado dos diferentes ambientes bioclimáticos — wind deflation/abrasion (hamadas, regs, mushroom rocks, arches) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 17: Modelado dos diferentes ambientes bioclimáticos — wind deflation/abrasion (hamadas, regs, mushroom rocks, arches) — printed p. 95 |
 | Mozambique part — Lição 19: A Costa e o Modelado Litoral (marine abrasion, dissolution, deltas, coast types) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 19: A Costa e o Modelado Litoral (marine abrasion, dissolution, deltas, coast types) — printed p. 111 |
+| Jordan part — Unit 1 Lesson 5: The Role of Wind in Shaping the Earth's Surface (دور الرياح) | Jordan, *Jordan G12 Geography T1*, Unit 1 Lesson 5: The Role of Wind in Shaping the Earth's Surface (دور الرياح) — printed p. 38 |
+| Jordan part — Unit 1 Lesson 6: The Role of Waves in Shaping the Earth's Surface (دور الأمواج) | Jordan, *Jordan G12 Geography T1*, Unit 1 Lesson 6: The Role of Waves in Shaping the Earth's Surface (دور الأمواج) — printed p. 44 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique).**
+**Acceptance count: taught in 9 countries (Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan).**
 
 Figure-reference correction carried from the placements: the spit and lagoon text in the book points to 'Figure 1.31', but the sea-work figure is captioned Figure 1.32 (1.31 is the wind-action figure) — taught with the corrected figure numbers and named here only.
 
@@ -51,3 +55,5 @@ Kuwait's own way (Kuwait Grade 11 Geography Principles G11 T1): Geography is tau
 Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Principles of Physical Geography" in four units — surface shaping, climate, water, pollution — with Libyan examples inside world content (the Haruj volcanic mountains, Libyan springs such as Ain al-Sharshara). Non-Geography part named, not placed: Topic One, History of Libya — the Ottoman State and Libya as an Ottoman province (printed pp. 12–18), Libya in the Ottoman era 1551–1912 including the Karamanli period (pp. 19–35), modern European colonialism and the Italian occupation of 1911 (pp. 36–43), Libyan resistance to the Italian occupation (pp. 44–54), Libya after the Italian era — liberation, the British/French military administrations, independence and the Libyan Kingdom (pp. 55–64).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
+
+Jordan's own way (Jordan G12 Geography T1): the final-year Geography book is built in three blocks — the forces that shape Earth's surface, political geography (state power, borders, alliances, Jordan's national security), and population geography.

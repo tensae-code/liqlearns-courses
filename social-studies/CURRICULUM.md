@@ -6161,3 +6161,120 @@ new lessons are taught in 1 country (Mozambique), 8
 questions each, each standing on Mozambique student
 book(s).
 Geography lessons: 2567 → 2627.
+
+
+## Jordan — Geography expansion (merged 2026-11-15)
+264 placement lines stocked from Jordan's 81 records /
+37 distinct books (39 book sections in the placements
+file: one is a parallel edition of the Grade 12 Term 1
+Earth Science workbook, placed once under the
+preparation copy, and one is record-only — the Grade 11
+Term 1 'workbook' records whose file is byte-identical
+to the Grade 11 Term 1 student book, carried as filed:
+taught once under the student book, both records cited
+in its entry; the real Grade 11 Term 1 workbook has
+never been secured). All books are National Center for
+Curriculum Development (NCCD), Jordan, in Arabic:
+Social Studies Grades 1–8, Geography Grades 9–10 and
+12, and Earth Science and Environment Grades 9–12 with
+their activities books, plus two Grade 10 Earth Science
+teacher guides whose 6 placements are cited as
+teacher-guide evidence only, outside acceptance counts
+(every lesson they touch also holds Jordan student-book
+placements). TALLY DISCREPANCY, flagged as ordered: the
+placements file's header and per-book tallies say 263,
+but the file holds 264 placement lines — Book 29 (Earth
+Science Grade 12 Term 1) states 16 and holds 17 lines,
+its Unit 1 Lesson 3 placed as two lines (the mitigation
+half and the adaptation half); all 264 lines are
+stocked. The file's 192/71 existing/new split likewise
+counts placements onto NEW slugs first proposed by
+earlier books in this wave as 'existing' in later
+books' tallies; by lesson dir, 187 placements land in
+standing lessons and 77 in the 58 new lessons. Three
+slugs flagged NEW already stand as lessons
+(the-land-and-air/movement-of-sea-and-ocean-water,
+the-land-and-air/oceania-natural-and-human-features,
+the-land-and-air/the-biosphere) and are stocked there,
+not rebuilt; no slug needed remapping. Four books whose
+tree files proved missing were read from their records'
+own recorded sources and staged under the
+push-don't-delete rule (see the reading log); all 5
+external-link records duplicate books already secured
+in GitHub, so no staging arose from them. Jordan's own
+way: Social Studies opens with the child's own circles
+(self, family, neighbourhood, homeland), governorate
+journeys work through all 12 governorates across Grades
+5–8, Geography stands alone from Grade 9 (Earth
+spheres, then the Arab homeland, then the world's
+regions), Earth Science runs minerals, rocks, weather
+systems, fossil fuels and deep time anchored in Jordan
+(Dead Sea potash, oil shale, uranium exploration,
+geological tourism), and the final-year Geography
+closes with political geography, population and
+economic geography. Stocked into standing lessons (187
+placements across 105 lessons). 58 NEW lessons built
+(77 placements) — **First Steps**: Jordan My Homeland
+Map And Capital (printed p. 42), My Neighbourhood And
+Its Places (printed p. 29); **Earth and Space**: Star
+Systems And Constellations (printed p. 45; printed p.
+23), Stars What They Are (printed p. 40; printed p. 18;
+printed p. 40), The Life Cycle Of Stars (printed p. 50;
+printed p. 50); **The Land and Air**: Air Fronts And
+Pressure Systems (printed p. 8; printed p. 8; printed
+p. 16; printed p. 4; printed p. 8), Bilad Al Sham And
+Iraq (printed p. 78), Engineering Geology (printed p.
+73), Geological Exploration Methods (printed p. 131),
+Geological Maps And Cross Sections (printed p. 52;
+printed p. 120), Jordan Governorates Ajloun (printed p.
+139), Jordan Governorates Aqaba (printed p. 119),
+Jordan Governorates Balqa (printed p. 111), Jordan
+Governorates Irbid (printed p. 64), Jordan Governorates
+Jerash (printed p. 80), Jordan Governorates Karak
+(printed p. 68), Jordan Governorates Maan (printed p.
+58), Jordan Governorates Madaba (printed p. 126),
+Jordan Governorates Mafraq (printed p. 104), Jordan
+Governorates Tafila (printed p. 133), Jordan
+Governorates The Capital (printed p. 50), Jordan
+Governorates Zarqa (printed p. 74), Jordan's Climate
+Regions (printed p. 50), Jordan's Landforms And Water
+Bodies (printed p. 76; printed p. 60), Nile Valley And
+Horn Of Africa Countries (printed p. 63), North And
+Central America Natural And Human Features (printed p.
+56), South America Natural And Human Features (printed
+p. 68), The Arab Worlds Natural Features (printed p.
+58), The Arabian Peninsula (printed p. 85), The Maghreb
+Countries (printed p. 71), The Worlds Natural
+Environments (printed p. 44), Weather Forecasts And
+Weather Maps (printed p. 16); **Population, Transport
+and Maps**: Homes Then And Now In Jordan (printed p.
+27), Human Factors In The Power Of The State (printed
+p. 69), Jordan's National Security (printed p. 87),
+Jordan's Population Characteristics (printed p. 81),
+Jordan's Population Growth (printed p. 124), Military
+And Political Alliances (printed p. 82), Natural
+Factors In The Power Of The State (printed p. 60),
+Political Borders (printed p. 73), Political Geography
+What It Is (printed p. 54), The Arab Worlds Human
+Features (printed p. 67); **People and Resources**:
+Dead Sea Potash Jordan's Mineral Wealth (printed p.
+57), Factors Of Production And Entrepreneurship
+(printed p. 72; printed p. 48; printed p. 94), Fossil
+Fuels In Jordan (printed p. 28), Jordan's Wildlife And
+Nature Symbols (printed p. 75), Uranium Exploration In
+Jordan (printed p. 150); **Culture and Work**: Goods
+And Services Around Us (printed p. 53), Production And
+Consumption (printed p. 50; printed p. 29; printed p.
+75); **Resources and Conflict**: Reuse And Recycling
+(printed p. 75; printed p. 41; printed p. 20); **Global
+Issues**: Challenges Facing The Arab World (printed p.
+73), Electronic Waste (printed p. 52), Environmental
+Impact Assessment (printed p. 16), Managing Natural
+Disasters (printed p. 57), Natural Hazards And
+Disasters (printed p. 51), Solid Waste And Its Sources
+(printed p. 34; printed p. 14), Wastewater Treatment
+(printed p. 75; printed p. 29; printed p. 60),
+Wastewater What It Is (printed p. 60) — all 58 new
+lessons are taught in 1 country (Jordan), 8 questions
+each, each standing on Jordan student book(s).
+Geography lessons: 2627 → 2685.

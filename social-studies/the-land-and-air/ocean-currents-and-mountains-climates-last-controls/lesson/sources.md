@@ -1,6 +1,6 @@
 # Sources — Ocean currents and mountains — climate's last controls
 
-countries: Ethiopia, Vietnam, Papua New Guinea, Pakistan
+countries: Ethiopia, Vietnam, Papua New Guinea, Pakistan, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Vietnam, Papua New Guinea, Pakistan
 
 **Book 6:** *جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)")* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; Urdu-medium edition with English topic glosses throughout; ISBN no ISBN printed in the scanned copy. Title as printed: جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)"). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 88 (39,114,330 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (39,114,330 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 7:** *علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 10, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-290-9. Title as printed: علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 10, Term 2). Grade: 10 (student/teacher: STUDENT). PDF pages: 92 (cover verified; byte size 87,975,922 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Currents carry heat and cold | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 50–51 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Vietnam, Papua New Guinea, Pakistan
 | Papua New Guinea part — Unit 11.3 Oceanography: major ocean currents on thematic maps, impacts of El Niño and La Niña (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG OBE* (teacher guide), Unit 11.3 Oceanography: major ocean currents on thematic maps, impacts of El Niño and La Niña — printed p. 34 |
 | Pakistan part — Ocean currents and direction of winds as climate controls | Pakistan, *Pakistan Grade 5 SS5*, Ocean currents and direction of winds as climate controls — printed pp. 74–75 |
 | Pakistan part — Ocean currents and drifts, and the causes of ocean currents (permanent winds, salinity of oceanic water, temperature), with a world ocean currents map | Pakistan, *Pakistan Grade 8 Geography 8*, Ocean currents and drifts, and the causes of ocean currents (permanent winds, salinity of oceanic water, temperature), with a world ocean currents map — printed pp. 27, 29 |
+| Jordan part — Unit 4 Lesson 3: Ocean Currents and Climate (تيارات المحيط والمناخ) | Jordan, *Jordan G10 ES T2*, Unit 4 Lesson 3: Ocean Currents and Climate (تيارات المحيط والمناخ) — printed p. 42 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Vietnam, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Vietnam, Pakistan, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -38,3 +41,5 @@ Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (t
 Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.
 
 Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the English Geography course — deep map-and-graph craft first (dot and choropleth maps of Pakistan itself), then landform agents, oceans, a full Pakistan-anchored disaster chapter, the world's natural regions, Pakistan's own climate, its four neighbouring regions and strategic place, underdevelopment with Pakistan's own causes, and modern techniques down to Pak Sat-1.
+
+Jordan's own way (Jordan G10 ES T2): Term 2 is weather watching (air masses, fronts, pressure systems, weather balloons), the oceans (water, waves, currents, satellite study), and wastewater — what it is, its harms, and how Jordan treats it.

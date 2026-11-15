@@ -1,6 +1,6 @@
 # Sources — Folding — anticlines, synclines and fold mountains
 
-countries: Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Mozambique
+countries: Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Moza
 
 **Book 8:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 9:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Activities Book, Term 1)* (activities and practical experiments book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-808-6. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Activities Book, Term 1). Grade: 12 (student/teacher: STUDENT). PDF pages: 70 (cover verified. READ ROUTE NOTE: the books.json record claims in_pushed but grab.py tree returned HTTP 404 on two attempts; read from the record's recorded source minhaji.net/download/10385, 5,952,227 bytes, exactly the record's size_bytes. A second record for the same workbook (term-1-workbook.pdf, minhaji file 103258) is being read separately as Book 22 — the two files differ in size, so both are filed. Staged into phase3-staging under the push-don't-delete rule — see group log.). Verdict: COMPLETE. Parallel edition: minhaji file 103258 (Book 22 in the placements file) is the 68-page final-print copy of this same workbook (this file, minhaji 10385, is the 70-page preparation copy); contents verified identical unit by unit and placed once, under this book. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 10:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-807-9. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1). Grade: 12 (student/teacher: STUDENT). PDF pages: 162 (cover verified; byte size 62,271,187 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Anticlines and synclines | G12 student #10, printed pp. 12–14 |
@@ -29,8 +33,10 @@ countries: Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Moza
 | Iran part — Iran's relief (how the Zagros was formed; anticlines and synclines in the glossary) | Iran, *Iran Grade 10 Geography of Iran*, Iran's relief (how the Zagros was formed; anticlines and synclines in the glossary) — printed p. 27 |
 | Pakistan part — Types of mountains I: folded mountains — anticline and syncline (Himalayas, Rockies, Andes, Alps) | Pakistan, *Pakistan Grade 6 Geography 6*, Types of mountains I: folded mountains — anticline and syncline (Himalayas, Rockies, Andes, Alps) — printed p. 22 |
 | Mozambique part — Lição 8: Estruturas — evolução do relevo enrugado (fold elements, anticline, axial plane, mountain chains) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 8: Estruturas — evolução do relevo enrugado (fold elements, anticline, axial plane, mountain chains) — printed p. 45 |
+| Jordan part — Unit 2: Parts of a Fold activity | Jordan, *Jordan G12 ES T1 Workbook (10385)*, Unit 2: Parts of a Fold activity — printed p. 27 |
+| Jordan part — Unit 2 Lesson 3: Folds (الطيات) | Jordan, *Jordan G12 ES T1*, Unit 2 Lesson 3: Folds (الطيات) — printed p. 64 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Mozambique).**
+**Acceptance count: taught in 9 countries (Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Mozambique, Jordan).**
 
 No book error in the placements for this lesson is taught here. Ranges and ages are taught exactly as the placements report them.
 
@@ -49,3 +55,7 @@ Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geograph
 Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taught through Pakistan's own land — its fault lines and 1935/2005 earthquakes, Khewra salt and Thar coal among the rocks, K2 and the Karakoram among the mountains, Pakistan's four climatic regions, its six forest types from mangrove to alpine, and the Indus flood as the country's defining disaster.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
+
+Jordan's own way (Jordan G12 ES T1 Workbook (10385)): the activities book opens the final year with the greenhouse effect modelled on the bench and acid rain simulated, then structures, plate tectonics through the Dead Sea transform, and geological exploration with Jordan-flavoured map work.
+
+Jordan's own way (Jordan G12 ES T1): the final year opens with fossil fuels and climate action, then structures and plate tectonics, closing with geological exploration — ending on uranium exploration in Jordan.

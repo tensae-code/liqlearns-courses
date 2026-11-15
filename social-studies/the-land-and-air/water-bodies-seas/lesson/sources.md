@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Seas
 
-countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambique
+countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambique, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambiq
 
 **Book 12:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 13:** *علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 10, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-290-9. Title as printed: علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 10, Term 2). Grade: 10 (student/teacher: STUDENT). PDF pages: 92 (cover verified; byte size 87,975,922 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Smaller than an ocean, mostly land-ringed | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 6–7 |
@@ -42,8 +44,9 @@ countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambiq
 | Afghanistan part — Lessons 42–44: the seas (oceans); the Pacific and Atlantic oceans; the Indian Ocean and the Arctic Ocean | Afghanistan, *Afghanistan Grade 4 Social Studies (Dari)*, Lessons 42–44: the seas (oceans); the Pacific and Atlantic oceans; the Indian Ocean and the Arctic Ocean — printed p. 83 |
 | Iran part — Iran's water resources (the seas and lakes of Iran: Caspian in the north, Persian Gulf and Sea of Oman in the south) | Iran, *Iran Grade 10 Geography of Iran*, Iran's water resources (the seas and lakes of Iran: Caspian in the north, Persian Gulf and Sea of Oman in the south) — printed p. 53 |
 | Mozambique part — Lição 15: os mares (types of seas) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 15: os mares (types of seas) — printed p. 79 |
+| Jordan part — Unit 4 Lesson 1: Properties of Ocean Water (خصائص مياه المحيطات) | Jordan, *Jordan G10 ES T2*, Unit 4 Lesson 1: Properties of Ocean Water (خصائص مياه المحيطات) — printed p. 28 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambique).**
+**Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambique, Jordan).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -68,3 +71,5 @@ Afghanistan's own way (Afghanistan Grade 4 Social Studies (Dari)): primary socia
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
+
+Jordan's own way (Jordan G10 ES T2): Term 2 is weather watching (air masses, fronts, pressure systems, weather balloons), the oceans (water, waves, currents, satellite study), and wastewater — what it is, its harms, and how Jordan treats it.

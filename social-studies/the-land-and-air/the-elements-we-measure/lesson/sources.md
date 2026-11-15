@@ -1,6 +1,6 @@
 # Sources — The elements we measure
 
-countries: Ethiopia, Turkey, Eritrea, Fiji, Papua New Guinea, Venezuela, Mauritania, Pakistan, Libya, Moldova, Mozambique
+countries: Ethiopia, Turkey, Eritrea, Fiji, Papua New Guinea, Venezuela, Mauritania, Pakistan, Libya, Moldova, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -30,6 +30,14 @@ countries: Ethiopia, Turkey, Eritrea, Fiji, Papua New Guinea, Venezuela, Maurita
 
 **Book 14:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 15:** *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2024; ISBN 978-9923-41-847-5. Title as printed: الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, Term 1). Grade: 8 (student/teacher: STUDENT). PDF pages: 144 (cover verified; byte size 26,627,986 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 16:** *الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-870-3. Title as printed: الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2). Grade: 6 (student/teacher: STUDENT). PDF pages: 128 (cover verified. READ ROUTE NOTE: same as Term 1 — books.json record claims in_pushed but grab.py tree returned HTTP 404; read from the record's recorded source minhaji.net/download/30117, 28,780,103 bytes, exactly the record's size_bytes. Staged into phase3-staging under the push-don't-delete rule — see group log.). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 17:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-809-3. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد). Grade: 12 (student/teacher: STUDENT). PDF pages: 148 (cover verified; byte size 62,280,323 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 18:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The seven elements | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 39–41 |
@@ -48,8 +56,12 @@ countries: Ethiopia, Turkey, Eritrea, Fiji, Papua New Guinea, Venezuela, Maurita
 | Moldova part — 8. Climatic elements in Moldova (temperature, solar radiation) | Moldova, *Moldova Grade 8 G8 Geography*, 8. Climatic elements in Moldova (temperature, solar radiation) — printed p. 40 |
 | Moldova part — 9. Climatic elements continued (precipitation, winds, humidity) | Moldova, *Moldova Grade 8 G8 Geography*, 9. Climatic elements continued (precipitation, winds, humidity) — printed p. 45 |
 | Mozambique part — Lição 11: Elementos de clima (temperature, thermometers, daily/monthly means, thermal amplitude — Maputo worked example) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 11: Elementos de clima (temperature, thermometers, daily/monthly means, thermal amplitude — Maputo worked example) — printed p. 57 |
+| Jordan part — Unit 2 Lesson 1: Elements of Climate (عناصر المناخ) | Jordan, *Jordan G8 SS T1*, Unit 2 Lesson 1: Elements of Climate (عناصر المناخ) — printed p. 34 |
+| Jordan part — Unit 7 Lesson 1: Elements of Climate 1 (عناصر المناخ: الحرارة والضغط الجوي والتكاثف والتساقط) | Jordan, *Jordan G6 SS T2*, Unit 7 Lesson 1: Elements of Climate 1 (عناصر المناخ: الحرارة والضغط الجوي والتكاثف والتساقط) — printed p. 26 |
+| Jordan part — Unit 6 Lesson 1: Measuring the Elements of Weather (قياس عناصر الطقس) | Jordan, *Jordan G12 ES T2*, Unit 6 Lesson 1: Measuring the Elements of Weather (قياس عناصر الطقس) — printed p. 54 |
+| Jordan part — Unit 4 Lesson 2: Elements of Climate 1 (عناصر المناخ 1) | Jordan, *Jordan G12 Geography T2*, Unit 4 Lesson 2: Elements of Climate 1 (عناصر المناخ 1) — printed p. 16 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Turkey, Eritrea, Fiji, Venezuela, Mauritania, Pakistan, Libya, Moldova, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Turkey, Eritrea, Fiji, Venezuela, Mauritania, Pakistan, Libya, Moldova, Mozambique, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -76,3 +88,11 @@ Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as
 Moldova's own way (Moldova Grade 8 G8 Geography): the home-country year — a full physical geography of the Republic of Moldova only (position and extreme points, structural units and minerals, relief units, climate and seasons, the Nistru/Prut river system, soils, steppe and forest-steppe zones), ending with its protected areas (national parks, scientific and landscape reserves, nature monuments) and Moldova in the context of sustainable development; hydrographic objects and protected areas are described "by algorithm" in set practicals.
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
+
+Jordan's own way (Jordan G8 SS T1): Grade 8 Term 1 pairs an environment unit (climate elements, the world's natural environments, hazards and disaster management) with population and development, framed by human rights and Mesopotamian history.
+
+Jordan's own way (Jordan G6 SS T2): Term 2's geography is climate done properly — elements, effects on human activity, Jordan's own climate regions — plus economic concepts and three more governorate journeys (Mafraq, Balqa, Aqaba).
+
+Jordan's own way (Jordan G12 ES T2): the last term spans galaxies and the origin of the universe, severe weather and how to stay safe in it, and the history of the Earth — with geological tourism in Jordan as the closing enrichment.
+
+Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).

@@ -1,6 +1,6 @@
 # Sources — Landforms, Continents and Oceans
 
-countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal
+countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -50,6 +50,12 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 
 **Book 24:** *Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 7 (Teacher's Guide Social Studies and Human Value Education Grade 7, 2079)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year 2079 BS; ISBN no ISBN printed. Title as printed: Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 7 (Teacher's Guide Social Studies and Human Value Education Grade 7, 2079). Grade: Grade 7 (student/teacher: TEACHER). PDF pages: 202 (cover/title page verified against the record title — Devanagari title page matches; page references below are the guide's PDF pages, its printed folios being in the same sequence). Verdict: COMPLETE. Non-Geography parts named (not placed): Units 1–5 and 9 as in the student book (society, values, civics, social problems, History, international relations), and Unit 6 Lesson 5 Government income and expenditure (civics/fiscal). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 25:** *الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الثاني (Social Studies, Grade 1, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (MoE decision 2023/279); ISBN 978-9923-41-537-5. Title as printed: الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الثاني (Social Studies, Grade 1, Term 2). Grade: 1 (student/teacher: STUDENT). PDF pages: 88 (cover verified; byte size 46,262,625 matches the books.json twin record exactly — TSV + books.json records are the same book; a parallel NCCD-hosted edition is recorded separately as term-2-nccd.pdf, spot-check pending). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 26:** *الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-850-5. Title as printed: الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2). Grade: 2 (student/teacher: STUDENT). PDF pages: 112 (cover verified; byte size 66,244,418 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 27:** *الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الثاني (Social Studies, Grade 3, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-868-0 (this PDF is the NCCD preparation reprint, نسخة للإعداد). Title as printed: الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الثاني (Social Studies, Grade 3, Term 2). Grade: 3 (student/teacher: STUDENT). PDF pages: 96 (cover verified; byte size 28,433,232 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Landforms: how the Earth's face is made | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 26 |
@@ -75,12 +81,15 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 | Honduras part — Lección 12: Continentes y océanos del mundo — continents and oceans of the world (teacher guide — evidence) | Honduras, *Honduras Grade 6 Teacher Guide* (teacher guide), Lección 12: Continentes y océanos del mundo — continents and oceans of the world — printed p. 51 |
 | Nepal part — Unit 7 Lesson 2: Earth's surface form | Nepal, *Nepal Grade 7 np-g7*, Unit 7 Lesson 2: Earth's surface form — printed p. 127 |
 | Nepal part — Unit 7 Lesson 2: Earth's surface form (teacher guide — evidence) | Nepal, *Nepal Grade 7 TG np-g7tg* (teacher guide), Unit 7 Lesson 2: Earth's surface form — TG p. 133 |
+| Jordan part — Unit 6 Lesson 2: Shapes of the Earth's Surface (أشكال سطح الأرض) — mountain, plain, sea, river, valley | Jordan, *Jordan G1 SS T2*, Unit 6 Lesson 2: Shapes of the Earth's Surface (أشكال سطح الأرض) — mountain, plain, sea, river, valley — printed p. 68 |
+| Jordan part — Unit 6 Lesson 2: Shapes of the Earth's Surface (أشكال سطح الأرض) | Jordan, *Jordan G2 SS T2*, Unit 6 Lesson 2: Shapes of the Earth's Surface (أشكال سطح الأرض) — printed p. 99 |
+| Jordan part — Unit 5 Lesson 1: The Earth's Surface and Its Natural Features (سطح الأرض ومعالمه الطبيعية) | Jordan, *Jordan G3 SS T2*, Unit 5 Lesson 1: The Earth's Surface and Its Natural Features (سطح الأرض ومعالمه الطبيعية) — printed p. 52 |
 
 | France part — Thème 1 Entrer dans le thème: Continents et océans, les repères spatiaux | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Ecuador part — El relieve (Unit 2, Las irregularidades de la Tierra) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, El relieve (Unit 2, Las irregularidades de la Tierra) — printed p. 34 |
 | Ecuador part — Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) — printed p. 99 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book errors are flagged by the placements for these pages. Areas are the book's printed table figures (Table 2).
 
@@ -129,3 +138,9 @@ Honduras's own way (Honduras Grade 6 Teacher Guide) (teacher guide — evidence)
 Nepal's own way (Nepal Grade 7 np-g7): Grade 7 Earth science is motion-first — Earth's daily and annual motion, surface form and the factors that change it, surface form's relation to human life — then Nepal's climate, the seven provinces of federal Nepal, climate change, disasters and map work; population is taught as structure, change and management.
 
 Nepal's own way (Nepal Grade 7 TG np-g7tg) (teacher guide — evidence): The guide teaches the same Grade 7 course as np-g7 with globe-and-ball demonstrations of rotation/revolution, chart work on Nepal's demographic structure (age, sex, religion, caste, language distributions), and discussion-led lessons; its geography content mirrors the student book lesson for lesson, so placements repeat with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
+
+Jordan's own way (Jordan G1 SS T2): Term 2 turns outward to place and planet — the four directions taught from the sunrise, transport old and new, Jordan's own goods, then the Earth as land/water/air, its surface shapes, local environment care and the day's weather.
+
+Jordan's own way (Jordan G2 SS T2): Term 2 teaches change over time (transport, housing, writing) and the child's economy (production, consumption, recycling, Jordanian-made goods), closing with the blue planet, Earth's surface shapes and a first map of Jordan.
+
+Jordan's own way (Jordan G3 SS T2): Grade 3 Term 2 contrasts past and present (trade, production, the smart consumer), then studies Earth's natural features in Jordan, environment care, Jordan's map and its antiquities.

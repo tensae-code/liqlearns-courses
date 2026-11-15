@@ -1,6 +1,6 @@
 # Sources — Earthquakes — the slipping Earth
 
-countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique
+countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -34,6 +34,12 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritre
 
 **Book 16:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 17:** *علوم الأرض والبيئة — الصف الحادي عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11 Academic Track, Activities Book, Term 2)* (activities and practical experiments book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-636-5. Title as printed: علوم الأرض والبيئة — الصف الحادي عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11 Academic Track, Activities Book, Term 2). Grade: 11 (student/teacher: STUDENT). PDF pages: 30 (cover verified; byte size 2,166,688 matches the books.json record exactly — same book; this is also link record minhaji.net/download/6500, a duplicate source for a book already in GitHub, so no staging arose). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 18:** *علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-635-8. Title as printed: علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11, Term 2). Grade: 11 (student/teacher: STUDENT). PDF pages: 78 (cover verified; byte size 41,973,359 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 19:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-949-6. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م). Grade: 12 (student/teacher: STUDENT). PDF pages: 145 (cover verified; byte size 121,517,865 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Strain and sudden slip | G12 student #12, printed pp. 15–16 |
@@ -53,8 +59,11 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritre
 | Nepal part — Unit 6 Lesson 10: Natural disaster — earthquake | Nepal, *Nepal Grade 10 np-g10*, Unit 6 Lesson 10: Natural disaster — earthquake — printed p. 163 |
 | Nepal part — Earth Unit Lesson 10: Natural disaster — earthquake (preparedness practice) (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Earth Unit Lesson 10: Natural disaster — earthquake (preparedness practice) — TG p. 128 |
 | Mozambique part — Lição 9: Sismos (vibratory movements; seismic intensity and its factors) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 9: Sismos (vibratory movements; seismic intensity and its factors) — printed p. 49 |
+| Jordan part — Unit 4 Earthquakes and Volcanoes: modelling seismic waves, reading a seismogram | Jordan, *Jordan G11 ES T2 Workbook*, Unit 4 Earthquakes and Volcanoes: modelling seismic waves, reading a seismogram — printed p. 17 |
+| Jordan part — Unit 4 Lesson 1: Earthquakes (الزلازل) | Jordan, *Jordan G11 ES T2*, Unit 4 Lesson 1: Earthquakes (الزلازل) — printed p. 46 |
+| Jordan part — Unit 1 Lesson 2: The Role of Rapid Earth Movements in Shaping the Earth's Surface (دور الحركات الأرضية السريعة) | Jordan, *Jordan G12 Geography T1*, Unit 1 Lesson 2: The Role of Rapid Earth Movements in Shaping the Earth's Surface (دور الحركات الأرضية السريعة) — printed p. 14 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique).**
+**Acceptance count: taught in 16 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -89,3 +98,9 @@ Nepal's own way (Nepal Grade 10 np-g10): Grade 10 climate is taught by world cli
 Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The guide teaches the Grade 10 course of np-g10 lesson for lesson, adding map- and chart-based activities (world climate maps, heat-zone maps, continent maps comparing life and economic activity with Nepal) and earthquake-preparedness practice; placements mirror the student book with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
+
+Jordan's own way (Jordan G11 ES T2 Workbook): the activities book turns the student book into bench work — modelling oil migration, and reading Jordan's own oil-shale reserves.
+
+Jordan's own way (Jordan G11 ES T2): Term 2 is fossil fuels — their origin, kinds, and Jordan's own (oil shale, gas) with the petrochemical industry — then earthquakes and volcanoes.
+
+Jordan's own way (Jordan G12 Geography T1): the final-year Geography book is built in three blocks — the forces that shape Earth's surface, political geography (state power, borders, alliances, Jordan's national security), and population geography.

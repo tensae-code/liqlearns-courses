@@ -1,6 +1,6 @@
 # Sources — GIS — maps that answer questions
 
-countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakistan, Libya, Moldova, Nepal
+countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakistan, Libya, Moldova, Nepal, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakist
 
 **Book 14:** *Samajik Adhyayan tatha Jivan Upyogi Shiksha Kaksha 12 (Social Studies and Life Skills Education Grade 12)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year First edition (2078 BS sequence); ISBN no ISBN legibly printed. Title as printed: Samajik Adhyayan tatha Jivan Upyogi Shiksha Kaksha 12 (Social Studies and Life Skills Education Grade 12). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 365 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Concept of Social Studies and Life Skills Education (printed pp. 1–8); Unit 2 Digital skills and general research skills except data analysis/presentation (pp. 9–46); Unit 3 Life skills (pp. 47–73); Unit 4 Development of society and philosophy (pp. 74–101); Unit 6 History of Nepal (pp. 147–191, History); Unit 7 Social identity and diversity (pp. 192–224); Unit 8 Constitution and civic consciousness (pp. 225–264, civics); Unit 10 Lessons 2–3, 5 Nepal's foreign policy and Nepal–India/Nepal–China relations, foreign employment policy (pp. 302–324); Unit 11 Education and social development (pp. 336–357). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 15:** *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2024; ISBN 978-9923-41-706-5. Title as printed: الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2). Grade: 8 (student/teacher: STUDENT). PDF pages: 148 (cover verified; byte size 70,646,723 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What GIS is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 230–231 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakist
 | Nepal part — Unit 6 Lesson 12: Modern technology related to maps | Nepal, *Nepal Grade 10 np-g10*, Unit 6 Lesson 12: Modern technology related to maps — printed p. 171 |
 | Nepal part — Earth Unit Lesson 12: Modern technology related to maps (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Earth Unit Lesson 12: Modern technology related to maps — TG p. 128 |
 | Nepal part — Unit 5 Lesson 10: Use of the geo-information system in social mapping | Nepal, *Nepal Grade 12 np-g12*, Unit 5 Lesson 10: Use of the geo-information system in social mapping — printed p. 143 |
+| Jordan part — Unit 9 Lesson 3: Geographic Information Systems (نظم المعلومات الجغرافية) | Jordan, *Jordan G8 SS T2*, Unit 9 Lesson 3: Geographic Information Systems (نظم المعلومات الجغرافية) — printed p. 70 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakistan, Libya, Moldova, Nepal). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakistan, Libya, Moldova, Nepal, Jordan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -78,3 +81,5 @@ Nepal's own way (Nepal Grade 10 np-g10): Grade 10 climate is taught by world cli
 Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The guide teaches the Grade 10 course of np-g10 lesson for lesson, adding map- and chart-based activities (world climate maps, heat-zone maps, continent maps comparing life and economic activity with Nepal) and earthquake-preparedness practice; placements mirror the student book with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
 
 Nepal's own way (Nepal Grade 12 np-g12): Grade 12 geography is federal and applied — each of Nepal's provinces studied four ways (administration, population, social-cultural life, economy) plus inter-provincial relations; disasters in Nepal with the national disaster-management system and plan-making; GIS/geo-information in social mapping; and a full urbanisation-and-migration unit (village–city relations, safe and dignified migration, migration effects).
+
+Jordan's own way (Jordan G8 SS T2): Term 2 gives maps their own technology unit — map types, aerial and satellite images, GIS — and closes with three more governorate journeys (Madaba, Tafila, Ajloun), completing all 12 governorates across Grades 5–8.

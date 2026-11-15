@@ -1,6 +1,6 @@
 # Sources — Continental drift — Wegener and Pangaea
 
-countries: Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan, Venezuela, Honduras, Mozambique
+countries: Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan, Venezuela, Honduras, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan, Venezuela, H
 
 **Book 10:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 11:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Activities Book, Term 1)* (activities and practical experiments book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-808-6. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Activities Book, Term 1). Grade: 12 (student/teacher: STUDENT). PDF pages: 70 (cover verified. READ ROUTE NOTE: the books.json record claims in_pushed but grab.py tree returned HTTP 404 on two attempts; read from the record's recorded source minhaji.net/download/10385, 5,952,227 bytes, exactly the record's size_bytes. A second record for the same workbook (term-1-workbook.pdf, minhaji file 103258) is being read separately as Book 22 — the two files differ in size, so both are filed. Staged into phase3-staging under the push-don't-delete rule — see group log.). Verdict: COMPLETE. Parallel edition: minhaji file 103258 (Book 22 in the placements file) is the 68-page final-print copy of this same workbook (this file, minhaji 10385, is the 70-page preparation copy); contents verified identical unit by unit and placed once, under this book. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 12:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-807-9. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1). Grade: 12 (student/teacher: STUDENT). PDF pages: 162 (cover verified; byte size 62,271,187 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pangaea — the one land | G12 student #3, printed pp. 2–3 |
@@ -35,8 +39,10 @@ countries: Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan, Venezuela, H
 | Honduras part — Lección 13: Visión geográfica del mundo — a geographic view of the world, opening with Pangaea | Honduras, *Honduras Grade 9 Student Book*, Lección 13: Visión geográfica del mundo — a geographic view of the world, opening with Pangaea — printed p. 82 |
 | Honduras part — Lección 13: Visión geográfica del mundo — a geographic view of the world, opening with Pangaea (teacher guide — evidence) | Honduras, *Honduras Grade 9 Teacher Guide* (teacher guide), Lección 13: Visión geográfica del mundo — a geographic view of the world, opening with Pangaea — printed p. 55 |
 | Mozambique part — Lição 5: Migração dos continentes (Wegener's theory and its weak points) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 5: Migração dos continentes (Wegener's theory and its weak points) — printed p. 27 |
+| Jordan part — Unit 3: the Pangaea continent experiment, magnetic reversals and seafloor spreading | Jordan, *Jordan G12 ES T1 Workbook (10385)*, Unit 3: the Pangaea continent experiment, magnetic reversals and seafloor spreading — printed p. 37 |
+| Jordan part — Unit 3 Lesson 1: Continental Drift (انجراف القارات) | Jordan, *Jordan G12 ES T1*, Unit 3 Lesson 1: Continental Drift (انجراف القارات) — printed p. 80 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan, Venezuela, Honduras, Mozambique).**
+**Acceptance count: taught in 9 countries (Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan, Venezuela, Honduras, Mozambique, Jordan).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -59,3 +65,7 @@ Honduras's own way (Honduras Grade 9 Student Book): widening-circles design — 
 Honduras's own way (Honduras Grade 9 Teacher Guide) (teacher guide — evidence): widening-circles design — the world continent by continent — hazards and geographic defence first (Hurricane Mitch), territory versus population, then geographic tours of Europe, Asia, Africa and Oceania, closing on a warming world; Bloque 4 adds world population, the world and Honduran economies and migration — the teacher guide mirrors the student book lesson-for-lesson (same 38 lessons and blocks) and adds didactics, theory summaries and answer keys; its geography lessons are placed here at the guide's own printed pages. Every lesson runs the same 'Sembrar y cosechar' activity cycle. That evidence is stocked here as the way Honduras teaches this thing; it is cited as evidence only — Honduras is counted in this lesson through its student book(s).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
+
+Jordan's own way (Jordan G12 ES T1 Workbook (10385)): the activities book opens the final year with the greenhouse effect modelled on the bench and acid rain simulated, then structures, plate tectonics through the Dead Sea transform, and geological exploration with Jordan-flavoured map work.
+
+Jordan's own way (Jordan G12 ES T1): the final year opens with fossil fuels and climate action, then structures and plate tectonics, closing with geological exploration — ending on uranium exploration in Jordan.

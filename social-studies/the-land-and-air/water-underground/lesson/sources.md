@@ -1,6 +1,6 @@
 # Sources — Water underground
 
-countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya, Moldova, Mozambique
+countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya, Moldova, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Li
 
 **Book 14:** *Módulo 4 de Geografia — Pedogeografia e Hidrogeografia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 4 de Geografia — Pedogeografia e Hidrogeografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title; byte size 1,351,167 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book mis-numbers its lessons: two different lessons are both headed "Lição 6" — Importância dos Solos at printed p. 28 and Conceito de Hidrogeografia at printed p. 36; there is no Lição 5 heading). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 15:** *علوم الأرض والبيئة — الصف التاسع — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 9, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (reprint; originally prepared in English by HarperCollins Publishers 2022, translated/adapted by NCCD); ISBN 978-9923-41-484-2. Title as printed: علوم الأرض والبيئة — الصف التاسع — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 9, Term 1). Grade: 9 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 19,348,259 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Aquifers, springs, wells | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 67–69 |
@@ -47,8 +49,9 @@ countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Li
 | Moldova part — 14. Groundwater in Moldova | Moldova, *Moldova Grade 8 G8 Geography*, 14. Groundwater in Moldova — printed p. 67 |
 | Mozambique part — Lição 19: As águas subterrâneas (aquifers, artesian wells) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 19: As águas subterrâneas (aquifers, artesian wells) — printed p. 102 |
 | Mozambique part — Lição 7: Água Subterrânea, Nascentes e Poços Artesianos (groundwater origin in precipitation; water-table variation natural and human-caused) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 7: Água Subterrânea, Nascentes e Poços Artesianos (groundwater origin in precipitation; water-table variation natural and human-caused) — printed p. 45 |
+| Jordan part — Unit 2 Lesson 2: Groundwater (المياه الجوفية) | Jordan, *Jordan G9 ES T1*, Unit 2 Lesson 2: Groundwater (المياه الجوفية) — printed p. 49 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya, Moldova, Mozambique).**
+**Acceptance count: taught in 11 countries (Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya, Moldova, Mozambique, Jordan).**
 
 Searchable tags: groundwater, aquifer, springs, wells, water endowment, social studies
 
@@ -75,3 +78,5 @@ Moldova's own way (Moldova Grade 8 G8 Geography): the home-country year — a fu
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound together — pedogeography (soil composition, profile, properties, pedogenesis, Dokuchaev classification, soil conservation with terrace/sucalco practice) then hydrogeography (basins and river regimes, groundwater, water balance, lakes, oceans, tides and currents).
+
+Jordan's own way (Jordan G9 ES T1): Earth Science at Grade 9 is minerals and water, anchored in Jordan — the enrichment case is potash drilling in the Dead Sea.

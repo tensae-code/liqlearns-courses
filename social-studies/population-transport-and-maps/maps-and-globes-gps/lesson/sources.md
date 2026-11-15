@@ -1,6 +1,6 @@
 # Sources — Maps and globes — GPS
 
-countries: Ethiopia, North Macedonia, Vietnam, Syria, Pakistan, Libya
+countries: Ethiopia, North Macedonia, Vietnam, Syria, Pakistan, Libya, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -18,6 +18,8 @@ countries: Ethiopia, North Macedonia, Vietnam, Syria, Pakistan, Libya
 
 **Book 8:** *مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 141 (title page verified in text layer: "مبادئ الجغرافيا العامة للسنة الأولى بمرحلة التعليم الثانوي" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 9:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-856-7. Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2). Grade: 5 (student/teacher: STUDENT). PDF pages: 100 (cover verified; byte size 21,825,614 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 52–54 |
@@ -28,8 +30,9 @@ countries: Ethiopia, North Macedonia, Vietnam, Syria, Pakistan, Libya
 | Pakistan part — Global Positioning System (GPS): positioning by satellite, base maps, navigation, and its use in modern warfare | Pakistan, *Pakistan Grade 8 Geography 8*, Global Positioning System (GPS): positioning by satellite, base maps, navigation, and its use in modern warfare — printed pp. 80–81 |
 | Libya part — نظام تحديد المواقع العالمي GPS: The global positioning system | Libya, *Libya Grade 5 LY G5 Social Studies*, نظام تحديد المواقع العالمي GPS: The global positioning system — printed p. 84 |
 | Libya part — Book 7 Ch.1: نظام المواقع العالمي GPS — The Global Positioning System: components and uses (handheld units, aircraft) [placement slug: earth-and-space/latitude-and-longitude-how-gps-uses-it] | Libya, *Libya Grade 10 LY G10 Principles*, Book 7 Ch.1: نظام المواقع العالمي GPS — The Global Positioning System: components and uses (handheld units, aircraft) — printed p. 130 |
+| Jordan part — Unit 7 Lesson 2: The Global Positioning System GPS (نظام تحديد الموقع العالمي) | Jordan, *Jordan G5 SS T2*, Unit 7 Lesson 2: The Global Positioning System GPS (نظام تحديد الموقع العالمي) — printed p. 59 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Vietnam, Syria, Pakistan, Libya).**
+**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Vietnam, Syria, Pakistan, Libya, Jordan).**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -48,3 +51,5 @@ Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the E
 Libya's own way (Libya Grade 5 LY G5 Social Studies): Half the book is Islamic history; the geography half ("Principles of General Geography") is pure foundations — solar system, Earth's shape/movements, grid, compass/GPS, land-and-water, map scale and symbols — with the symbol lesson taught by reading Libya's own mineral, wind and road distribution maps. Non-Geography part named, not placed: Topic One, Islamic History — the Arabs before Islam (printed pp. 11–12), the Emergence of Islam (pp. 13–20), the Rashidun Caliphs (pp. 21–30), the Umayyad State (pp. 31–35), the Abbasid State (pp. 36–40), the Fatimid State (pp. 41–43), the Ayyubid State (pp. 44–45), the Crusades on the Arab Homeland (pp. 46–47), the Mamluks repelling the Mongols and Crusaders (pp. 48–51).
 
 Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.
+
+Jordan's own way (Jordan G5 SS T2): Term 2 teaches the economy by sectors, then location skills (relative/absolute location, GPS) and Jordan's Arab world region by region — Nile Valley and Horn of Africa, then the Maghreb.

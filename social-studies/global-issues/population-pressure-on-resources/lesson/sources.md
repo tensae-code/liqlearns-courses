@@ -1,12 +1,14 @@
 # Sources — Population pressure on resources
 
-countries: Ethiopia, Angola, Mozambique
+countries: Ethiopia, Angola, Mozambique, Jordan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
 **Book 2:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
 
 **Book 3:** *Módulo 5 de Geografia — População* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 5 de Geografia — População. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 109 (title page verified against the record title; byte size 5,447,158 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
+**Book 4:** *علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 11, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-833-8. Title as printed: علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 11, Term 1). Grade: 11 (student/teacher: STUDENT). PDF pages: 74 (cover verified; byte size 32,944,352 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Workbook records carried as filed: the TSV record 'Earth Science — Grade 11 Term 1 (Workbook Book)' and the books.json record grade-11/gov/jordan/earth-science/student/term-1-workbook.pdf (source minhaji file 1953) both carry this student book's exact file — 32,944,352 bytes, MD5 9001a167ec907782917b2db2ff093bfa, identical to this book — so the 'workbook' is the student book itself, taught once here with both records cited as the placements file records them (Book 24 there); the real Grade 11 Term 1 activities/workbook has never been secured (library debt named in the placements file). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,8 +17,9 @@ countries: Ethiopia, Angola, Mozambique
 | Sub lesson 3 — Where policy must start | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 8 — Economy, Environment and Climate Change, printed pp. 187–189 |
 | Angola part — 5.1 O crescimento da população e a produção de alimentos (with Angola's 2018/2020 crop and fishery tables) | Angola, *Geografia 5ª Classe*, Grade 5, 5.1 O crescimento da população e a produção de alimentos (with Angola's 2018/2020 crop and fishery tables) — printed p. 62 |
 | Mozambique part — Lição 12: População–Ambiente (man the gatherer 10,000 years ago inside nature; ~1.3 billion people in poverty) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 12: População–Ambiente (man the gatherer 10,000 years ago inside nature; ~1.3 billion people in poverty) — printed p. 89 |
+| Jordan part — Unit 2 Lesson 2: The Population Explosion and the Depletion of Natural Resources (الانفجار السكاني واستنزاف الموارد الطبيعية) | Jordan, *Jordan G11 ES T1*, Unit 2 Lesson 2: The Population Explosion and the Depletion of Natural Resources (الانفجار السكاني واستنزاف الموارد الطبيعية) — printed p. 52 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Angola, Mozambique).**
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Mozambique, Jordan).**
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
@@ -25,3 +28,5 @@ Searchable tags: population pressure on resources, grade 12 economics, ethiopia,
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
+
+Jordan's own way (Jordan G11 ES T1): Grade 11 Earth Science turns to weather systems and climate change, then to people — population explosion and the draining of natural resources.

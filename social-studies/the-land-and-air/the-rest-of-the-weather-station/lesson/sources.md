@@ -1,6 +1,6 @@
 # Sources — The rest of the weather station
 
-countries: Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka, Libya
+countries: Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka, Libya, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,12 @@ countries: Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka, Libya
 
 **Book 8:** *مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 141 (title page verified in text layer: "مبادئ الجغرافيا العامة للسنة الأولى بمرحلة التعليم الثانوي" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 9:** *الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-870-3. Title as printed: الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2). Grade: 6 (student/teacher: STUDENT). PDF pages: 128 (cover verified. READ ROUTE NOTE: same as Term 1 — books.json record claims in_pushed but grab.py tree returned HTTP 404; read from the record's recorded source minhaji.net/download/30117, 28,780,103 bytes, exactly the record's size_bytes. Staged into phase3-staging under the push-don't-delete rule — see group log.). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 10:** *علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 10, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-290-9. Title as printed: علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 10, Term 2). Grade: 10 (student/teacher: STUDENT). PDF pages: 92 (cover verified; byte size 87,975,922 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 11:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pressure, humidity, sunshine, cloud | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 54–56 |
@@ -29,8 +35,11 @@ countries: Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka, Libya
 | Sri Lanka part — Ch. 1 Measuring wind: anemometer and wind-direction indicator; the Department of Meteorology and its regional centres | Sri Lanka, *Sri Lanka Grade 6 G6 English*, Ch. 1 Measuring wind: anemometer and wind-direction indicator; the Department of Meteorology and its regional centres — printed p. 14 |
 | Libya part — Unit 2: الضغط الجوي — Atmospheric pressure | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 2: الضغط الجوي — Atmospheric pressure — printed p. 90 |
 | Libya part — Book 3 Ch.2: الضغط الجوي — Atmospheric pressure: measuring and recording it, and the world distribution of pressure zones [placement slug: the-land-and-air/air-pressure-and-wind] | Libya, *Libya Grade 10 LY G10 Principles*, Book 3 Ch.2: الضغط الجوي — Atmospheric pressure: measuring and recording it, and the world distribution of pressure zones — printed p. 68 |
+| Jordan part — Unit 7 Lesson 2: Elements of Climate 2 — Wind (عناصر المناخ: الرياح) | Jordan, *Jordan G6 SS T2*, Unit 7 Lesson 2: Elements of Climate 2 — Wind (عناصر المناخ: الرياح) — printed p. 36 |
+| Jordan part — Unit 3 Enrichment: Weather Balloons (بالونات الطقس) | Jordan, *Jordan G10 ES T2*, Unit 3 Enrichment: Weather Balloons (بالونات الطقس) — printed p. 22 |
+| Jordan part — Unit 4 Lesson 3: Elements of Climate 2 (عناصر المناخ 2) | Jordan, *Jordan G12 Geography T2*, Unit 4 Lesson 3: Elements of Climate 2 (عناصر المناخ 2) — printed p. 29 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka, Libya).**
+**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka, Libya, Jordan).**
 
 Searchable tags: barometer, hygrometer, sunshine recorder, oktas, anemometer, wind vane, weather station, social studies
 
@@ -45,3 +54,9 @@ Sri Lanka's own way (Sri Lanka Grade 6 G6 English): geography starts from the ch
 Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Principles of Physical Geography" in four units — surface shaping, climate, water, pollution — with Libyan examples inside world content (the Haruj volcanic mountains, Libyan springs such as Ain al-Sharshara). Non-Geography part named, not placed: Topic One, History of Libya — the Ottoman State and Libya as an Ottoman province (printed pp. 12–18), Libya in the Ottoman era 1551–1912 including the Karamanli period (pp. 19–35), modern European colonialism and the Italian occupation of 1911 (pp. 36–43), Libyan resistance to the Italian occupation (pp. 44–54), Libya after the Italian era — liberation, the British/French military administrations, independence and the Libyan Kingdom (pp. 55–64).
 
 Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.
+
+Jordan's own way (Jordan G6 SS T2): Term 2's geography is climate done properly — elements, effects on human activity, Jordan's own climate regions — plus economic concepts and three more governorate journeys (Mafraq, Balqa, Aqaba).
+
+Jordan's own way (Jordan G10 ES T2): Term 2 is weather watching (air masses, fronts, pressure systems, weather balloons), the oceans (water, waves, currents, satellite study), and wastewater — what it is, its harms, and how Jordan treats it.
+
+Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).

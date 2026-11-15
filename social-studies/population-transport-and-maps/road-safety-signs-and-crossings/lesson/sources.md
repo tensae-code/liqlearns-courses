@@ -1,6 +1,6 @@
 # Sources — Road safety — signs and crossings
 
-countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela, Yemen, Nepal
+countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela, Yemen, Nepal, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela, Yem
 
 **Book 13:** *Samajik Shiksha ra Manavmulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year 2078 BS; ISBN 978-9937-601-56-6. Title as printed: Samajik Shiksha ra Manavmulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 214 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society except development infrastructures (printed pp. 2–16); Unit 2 Our human values and beliefs (pp. 20–49); Unit 3 Civic consciousness except traffic rules (pp. 50–69, civics); Unit 4 Social problems and solutions (pp. 73–87); Unit 5 Our Past (pp. 88–111, History); Unit 8 Lessons 3+ population management detail beyond demography/census (pp. 180–190); Unit 9 International relations, contemporary events and information technology (pp. 191–206). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 14:** *الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2024 (2nd edition, revised; first experimental edition 2023, MoE decision 2023/216); ISBN 978-9923-41-573-3. Title as printed: الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, Term 1). Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,293,333 matches the books.json twin record exactly — TSV + books.json records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 43 |
@@ -43,8 +45,9 @@ countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela, Yem
 | Yemen part — Unit 3 Lesson 3 Traffic | Yemen, *Yemen Grade 4 G4 Social Studies*, Unit 3 Lesson 3 Traffic — printed p. 59 |
 | Nepal part — Unit 4 Lesson 6: Traffic Rules | Nepal, *Nepal Grade 4 np-g4*, Unit 4 Lesson 6: Traffic Rules — printed p. 46 |
 | Nepal part — Unit 3 Lesson 8: Let's follow the traffic rules | Nepal, *Nepal Grade 6 np-g6*, Unit 3 Lesson 8: Let's follow the traffic rules — printed p. 70 |
+| Jordan part — Unit 1 Lesson 6: The Traffic Light (إشارة المرور) | Jordan, *Jordan G1 SS T1*, Unit 1 Lesson 6: The Traffic Light (إشارة المرور) — printed p. 34 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Ecuador, Palestine, Syria, Venezuela, Yemen, Nepal). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Turkey, Ecuador, Palestine, Syria, Venezuela, Yemen, Nepal, Jordan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: Hayat Bilgisi (Life Studies) carries almost no Geography in this semester book — self/school, health/safety and family/society — except road signs and the two end-of-book maps; the Geography parts only are placed. That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -73,3 +76,5 @@ Yemen's own way (Yemen Grade 4 G4 Social Studies): Grade 4 turns from the child'
 Nepal's own way (Nepal Grade 4 np-g4): Grade 4 "Our Earth" moves to the district (Kanchanpur read on a map), the origin and structure of the Earth, and Nepal's two neighbours India and China; resources and traffic rules sit inside the Civic Awareness unit.
 
 Nepal's own way (Nepal Grade 6 np-g6): Grade 6 has a full "Hamro Prithvi" (Our Earth) unit — Earth's introduction, latitude/longitude, outer-layer structure, then Nepal itself: geographical description, climate, rivers/glaciers/lakes, natural vegetation, natural resources and map study, closing with disaster management; a population unit follows (demography, the census). Economic activities are organised by region and resource: agriculture and industry, services and trade, tourism, and economic resources (land and water; forest, minerals and people).
+
+Jordan's own way (Jordan G1 SS T1): Social Studies opens at Grade 1 with the child's own circles — self, family, neighbourhood — then the homeland (Jordan's map, capital, flag, king), all taught through colouring, matching and picture talk rather than text.

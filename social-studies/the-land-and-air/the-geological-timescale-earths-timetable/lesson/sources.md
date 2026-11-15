@@ -1,6 +1,6 @@
 # Sources — The geological timescale — Earth's timetable
 
-countries: Ethiopia, Bolivia, Slovenia
+countries: Ethiopia, Bolivia, Slovenia, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Bolivia, Slovenia
 
 **Book 4:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 5:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Activities Book, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد)* (activities and practical experiments book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025 (MoE decision 2025/170); ISBN 978-9923-41-810-9. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Activities Book, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد). Grade: 12 (student/teacher: STUDENT). PDF pages: 60 (cover verified; byte size 5,167,842 matches the books.json record exactly — same book; this is also link record minhaji.net/download/10387, a duplicate source for a book already in GitHub, so no staging arose). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 6:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-809-3. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد). Grade: 12 (student/teacher: STUDENT). PDF pages: 148 (cover verified; byte size 62,280,323 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — A timetable for a planet | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 7–8 |
@@ -18,8 +22,10 @@ countries: Ethiopia, Bolivia, Slovenia
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 1, guide printed pp. 12–39 |
 | Bolivia part — The geological time scale: eon, era, period, epoch; Palaeozoic to Cenozoic | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 1*, Grade 7, The geological time scale: eon, era, period, epoch; Palaeozoic to Cenozoic — printed p. 12 |
 | Slovenia part — Geološki razvoj Zemlje (the Earth's geological development) inside Kamnine in geološki razvoj Zemlje | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Geološki razvoj Zemlje (the Earth's geological development) inside Kamnine in geološki razvoj Zemlje — printed p. 27 |
+| Jordan part — Unit 7 History of the Earth: fossils in stratigraphic sequences, cross-cutting and inclusion principles, relative dating | Jordan, *Jordan G12 ES T2 Workbook*, Unit 7 History of the Earth: fossils in stratigraphic sequences, cross-cutting and inclusion principles, relative dating — printed p. 41 |
+| Jordan part — Unit 7: The Geological Timescale (السلم الزمني الجيولوجي) | Jordan, *Jordan G12 ES T2*, Unit 7: The Geological Timescale (السلم الزمني الجيولوجي) — printed p. ~120 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bolivia, Slovenia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Slovenia, Jordan).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -28,3 +34,7 @@ Bolivia's own way (Grade 7, Secundaria 1): The Bolivian Texto de Aprendizaje run
 Searchable tags: geological timescale, eons eras periods epochs, ethiopia, social studies, the land and air, Bolivia, Ciencias Sociales Bolivia
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
+
+Jordan's own way (Jordan G12 ES T2 Workbook): the final-term activities book spans the universe (galaxies, dark matter, the Big Bang), severe weather (tornado and flood modelling) and deep time — ending with building a geological timescale for Jordan itself.
+
+Jordan's own way (Jordan G12 ES T2): the last term spans galaxies and the origin of the universe, severe weather and how to stay safe in it, and the history of the Earth — with geological tourism in Jordan as the closing enrichment.

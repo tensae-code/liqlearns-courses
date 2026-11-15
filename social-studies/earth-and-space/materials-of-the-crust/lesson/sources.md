@@ -1,6 +1,6 @@
 # Sources — Materials of the Crust — Elements, Minerals and Rocks
 
-countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Papua New Guinea, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique
+countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Papua New Guinea, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -40,6 +40,16 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietn
 
 **Book 21:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 22:** *الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-859-8. Title as printed: الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1). Grade: 9 (student/teacher: STUDENT). PDF pages: 80 (cover verified; byte size 60,522,837 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 23:** *علوم الأرض والبيئة — الصف التاسع — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 9, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (reprint; originally prepared in English by HarperCollins Publishers 2022, translated/adapted by NCCD); ISBN 978-9923-41-484-2. Title as printed: علوم الأرض والبيئة — الصف التاسع — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 9, Term 1). Grade: 9 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 19,348,259 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 24:** *علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 10, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-258-9. Title as printed: علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 10, Term 1). Grade: 10 (student/teacher: STUDENT). PDF pages: 64 (cover verified; byte size 20,302,336 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 25:** *علوم الأرض والبيئة — الصف العاشر — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الأول (Earth Science and Environment, Grade 10, Activities Book, Term 1)* (activities and practical experiments book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-259-6. Title as printed: علوم الأرض والبيئة — الصف العاشر — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الأول (Earth Science and Environment, Grade 10, Activities Book, Term 1). Grade: 10 (student/teacher: STUDENT). PDF pages: 30 (cover verified; byte size 3,586,042 matches the books.json record exactly — same book; this is also link record minhaji.net/download/2105, a duplicate source for a book already in GitHub, so no staging arose). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 26:** *دليل المعلم — علوم الأرض والبيئة — الصف العاشر — الفصل الدراسي الأول (Teacher's Guide, Earth Science and Environment, Grade 10, Term 1)* (teacher guide, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-126-1. Title as printed: دليل المعلم — علوم الأرض والبيئة — الصف العاشر — الفصل الدراسي الأول (Teacher's Guide, Earth Science and Environment, Grade 10, Term 1). Grade: 10 (student/teacher: TEACHER). PDF pages: 106 (cover verified; byte size 48,517,066 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Eight elements, and what a mineral is (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1, printed pp. 11–14 |
@@ -65,8 +75,18 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietn
 | Mozambique part — Lição 22: As rochas e sua classificação (magmatic/plutonic/volcanic, sedimentary, metamorphic) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 22: As rochas e sua classificação (magmatic/plutonic/volcanic, sedimentary, metamorphic) — printed p. 113 |
 | Mozambique part — Lição 1: Geomorfologia (relief from internal/external forces; magmatic rocks and their resistance to erosion) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 1: Geomorfologia (relief from internal/external forces; magmatic rocks and their resistance to erosion) — printed p. 5 |
 | Mozambique part — Lição 2: Rochas (sedimentary strata — concordant/discordant; metamorphic sequence clay→shale→slate→mica-schist; contact vs regional metamorphism) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 2: Rochas (sedimentary strata — concordant/discordant; metamorphic sequence clay→shale→slate→mica-schist; contact vs regional metamorphism) — printed p. 10 |
+| Jordan part — Unit 1 Lesson 3: Rocks and Soil (الصخور والتربة) — the rocks half | Jordan, *Jordan G9 Geography T1*, Unit 1 Lesson 3: Rocks and Soil (الصخور والتربة) — the rocks half — printed p. 20 |
+| Jordan part — Unit 1 Lesson 1: Properties of Minerals and Their Crystal Systems (خصائص المعادن وأنظمتها البلورية) | Jordan, *Jordan G9 ES T1*, Unit 1 Lesson 1: Properties of Minerals and Their Crystal Systems (خصائص المعادن وأنظمتها البلورية) — printed p. 10 |
+| Jordan part — Unit 1 Lesson 2: Mineral Groups (مجموعات المعادن) | Jordan, *Jordan G9 ES T1*, Unit 1 Lesson 2: Mineral Groups (مجموعات المعادن) — printed p. 25 |
+| Jordan part — Unit 1 Enrichment: Gemstones (الأحجار الكريمة) | Jordan, *Jordan G9 ES T1*, Unit 1 Enrichment: Gemstones (الأحجار الكريمة) — printed p. 36 |
+| Jordan part — Unit 1 Lesson 1: Igneous Rocks (الصخور النارية) | Jordan, *Jordan G10 ES T1*, Unit 1 Lesson 1: Igneous Rocks (الصخور النارية) — printed p. 10 |
+| Jordan part — Unit 1 Lesson 2: Sedimentary Rocks (الصخور الرسوبية) | Jordan, *Jordan G10 ES T1*, Unit 1 Lesson 2: Sedimentary Rocks (الصخور الرسوبية) — printed p. 19 |
+| Jordan part — Unit 1 Lesson 3: Metamorphic Rocks (الصخور المتحولة) | Jordan, *Jordan G10 ES T1*, Unit 1 Lesson 3: Metamorphic Rocks (الصخور المتحولة) — printed p. 28 |
+| Jordan part — Unit 1 Enrichment: Rock Wool (الصوف الصخري) | Jordan, *Jordan G10 ES T1*, Unit 1 Enrichment: Rock Wool (الصوف الصخري) — printed p. 34 |
+| Jordan part — Unit 1 Rocks practicals: classifying rocks, cooling rate and crystal size, chemical sedimentary rocks, identifying rocks | Jordan, *Jordan G10 ES T1 Workbook*, Unit 1 Rocks practicals: classifying rocks, cooling rate and crystal size, chemical sedimentary rocks, identifying rocks — printed p. 4 |
+| Jordan part — Unit 1 Rocks: teacher guidance for the igneous, sedimentary and metamorphic lessons and their practicals | Jordan, *Jordan G10 ES T1 Teacher Guide*, Unit 1 Rocks: teacher guidance for the igneous, sedimentary and metamorphic lessons and their practicals — printed p. 10 (teacher-guide evidence) |
 
-**Acceptance count: taught in 13 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -107,3 +127,13 @@ Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Pri
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
+
+Jordan's own way (Jordan G9 Geography T1): From Grade 9 Geography stands alone as its own book: the Earth's rock and water spheres first, then the geography of the Arab homeland — its natural features, its human features and its challenges.
+
+Jordan's own way (Jordan G9 ES T1): Earth Science at Grade 9 is minerals and water, anchored in Jordan — the enrichment case is potash drilling in the Dead Sea.
+
+Jordan's own way (Jordan G10 ES T1): Grade 10 Earth Science is rocks first (igneous, sedimentary, metamorphic — with rock wool as the applied enrichment), then the stars.
+
+Jordan's own way (Jordan G10 ES T1 Workbook): bench versions of the rock and star units — classifying rocks, cooling rate against crystal size, star colours and brightness, and modelling how a black hole works.
+
+Jordan's own way (Jordan G10 ES T1 Teacher Guide): the guide walks the teacher through the student book and the activities book together — overviews of both, then lesson-by-lesson teaching notes, answers and enrichment for Rocks and Stars.

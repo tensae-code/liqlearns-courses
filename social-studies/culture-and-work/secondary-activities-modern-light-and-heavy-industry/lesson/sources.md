@@ -1,6 +1,6 @@
 # Sources — Secondary activities — modern light and heavy industry
 
-countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Papua New Guinea, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique
+countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Papua New Guinea, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -80,6 +80,12 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India,
 
 **Book 39:** *Módulo 7 de Geografia — Indústria e Comércio* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 7 de Geografia — Indústria e Comércio. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 80 (title page verified against the record title; byte size 3,077,013 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (contents page skips the Lição 3 number; the lesson is present in the body at printed p. 19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 40:** *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (MoE decision 2023/217); ISBN 978-9923-41-574-0. Title as printed: الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, Term 1). Grade: 4 (student/teacher: STUDENT). PDF pages: 80 (cover verified; byte size 22,639,631 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 41:** *علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-635-8. Title as printed: علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11, Term 2). Grade: 11 (student/teacher: STUDENT). PDF pages: 78 (cover verified; byte size 41,973,359 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 42:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Modern manufacturing | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 63–64 |
@@ -126,8 +132,11 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India,
 | Nepal part — Unit 8 Lesson 3: Industry | Nepal, *Nepal Grade 9 np-g9*, Unit 8 Lesson 3: Industry — printed p. 202 |
 | Mozambique part — Lição 21: Classificação da indústria (consumer/capital goods, light/heavy; urban industrial landscapes and regions) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 21: Classificação da indústria (consumer/capital goods, light/heavy; urban industrial landscapes and regions) — printed p. 93 |
 | Mozambique part — Lição 5: Os Grandes Tipos de Indústria (equipment vs consumer goods; construction and public works; electrical goods, glass and ceramics) | Mozambique, *Mozambique Grade 10 PESD II Mod 7*, Lição 5: Os Grandes Tipos de Indústria (equipment vs consumer goods; construction and public works; electrical goods, glass and ceramics) — printed p. 31 |
+| Jordan part — Unit 4 Lesson 2: Industry (الصناعة) | Jordan, *Jordan G4 SS T1*, Unit 4 Lesson 2: Industry (الصناعة) — printed p. 65 |
+| Jordan part — Unit 3 Enrichment: Petrochemical Industries (الصناعات البتروكيماوية) | Jordan, *Jordan G11 ES T2*, Unit 3 Enrichment: Petrochemical Industries (الصناعات البتروكيماوية) — printed p. 40 |
+| Jordan part — Unit 6 Lesson 3: Industry (الصناعة) | Jordan, *Jordan G12 Geography T2*, Unit 6 Lesson 3: Industry (الصناعة) — printed p. 108 |
 
-**Acceptance count: taught in 23 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 24 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -208,3 +217,9 @@ Nepal's own way (Nepal Grade 9 np-g9): Grade 9 "Hamro Prithvi" widens from Nepal
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a long history — from Palaeolithic tool-making through manufacture and mercantilism to the Industrial Revolution and its consequences — before location, types and industrial landscapes; commerce likewise from barter and the invention of coin to trade blocs and unequal world flows.
+
+Jordan's own way (Jordan G4 SS T1): Grade 4 Term 1 grounds the child in Jordanian society and dress, then an environment-resources-population unit: agriculture, industry, energy (renewable and not, in Jordan), human impact and Jordan's wildlife.
+
+Jordan's own way (Jordan G11 ES T2): Term 2 is fossil fuels — their origin, kinds, and Jordan's own (oil shale, gas) with the petrochemical industry — then earthquakes and volcanoes.
+
+Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).

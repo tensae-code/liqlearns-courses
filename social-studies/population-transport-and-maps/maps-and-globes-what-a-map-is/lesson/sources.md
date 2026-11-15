@@ -1,6 +1,6 @@
 # Sources — Maps and globes — what a map is
 
-countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji, Papua New Guinea, Syria, Kuwait, Afghanistan, Yemen, Pakistan, Honduras
+countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji, Papua New Guinea, Syria, Kuwait, Afghanistan, Yemen, Pakistan, Honduras, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -44,6 +44,10 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, In
 
 **Book 21:** *Guía para Docentes del área de Ciencias Sociales — Segundo grado de Educación Básica (cover: 'Ciencias Sociales — Segundo grado — Guía para Docentes')* (teacher guide, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Guía para Docentes del área de Ciencias Sociales — Segundo grado de Educación Básica (cover: 'Ciencias Sociales — Segundo grado — Guía para Docentes'). Grade: Grade 2 (student/teacher: TEACHER). PDF pages: 166 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 24,206,301 bytes, SHA-256 prefix c2f07d664b29994e). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (printed pp. 7–42 in the guide); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 83–122 in the guide); Bloque 4 lessons not placed above (Civics/social organisation, printed pp. 123 onwards in the guide). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
 
+**Book 22:** *الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-850-5. Title as printed: الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2). Grade: 2 (student/teacher: STUDENT). PDF pages: 112 (cover verified; byte size 66,244,418 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 23:** *الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الثاني (Social Studies, Grade 3, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-868-0 (this PDF is the NCCD preparation reprint, نسخة للإعداد). Title as printed: الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الثاني (Social Studies, Grade 3, Term 2). Grade: 3 (student/teacher: STUDENT). PDF pages: 96 (cover verified; byte size 28,433,232 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a map is | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 46–47 |
@@ -68,8 +72,10 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, In
 | Pakistan part — Maps: what a map is and what it shows; political maps and physical maps | Pakistan, *Pakistan Grade 8 Geography 8*, Maps: what a map is and what it shows; political maps and physical maps — printed p. 1 |
 | Honduras part — Lección 10: Uso de los mapas — what maps are and what they are used for | Honduras, *Honduras Grade 2 Student Book*, Lección 10: Uso de los mapas — what maps are and what they are used for — printed p. 50 |
 | Honduras part — Lección 10: Uso de los mapas — what maps are and what they are used for (teacher guide — evidence) | Honduras, *Honduras Grade 2 Teacher Guide* (teacher guide), Lección 10: Uso de los mapas — what maps are and what they are used for — printed p. 43 |
+| Jordan part — Unit 6 Lesson 3: Map of My Homeland (خريطة وطني) — using a map to find the way on a school trip | Jordan, *Jordan G2 SS T2*, Unit 6 Lesson 3: Map of My Homeland (خريطة وطني) — using a map to find the way on a school trip — printed p. 106 |
+| Jordan part — Unit 6 Lesson 1: Map of My Homeland Jordan (خريطة وطني الأردن) | Jordan, *Jordan G3 SS T2*, Unit 6 Lesson 1: Map of My Homeland Jordan (خريطة وطني الأردن) — printed p. 80 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji, Syria, Kuwait, Afghanistan, Yemen, Pakistan, Honduras). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji, Syria, Kuwait, Afghanistan, Yemen, Pakistan, Honduras, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -114,3 +120,7 @@ Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the E
 Honduras's own way (Honduras Grade 2 Student Book): widening-circles design — the municipality and the department — the circle widens one step from the community to the municipio and departamento. Every lesson runs the same 'Sembrar y cosechar' activity cycle.
 
 Honduras's own way (Honduras Grade 2 Teacher Guide) (teacher guide — evidence): widening-circles design — the municipality and the department — the circle widens one step from the community to the municipio and departamento — the teacher guide mirrors the student book lesson-for-lesson (same 38 lessons and blocks) and adds didactics, theory summaries and answer keys; its geography lessons are placed here at the guide's own printed pages. Every lesson runs the same 'Sembrar y cosechar' activity cycle. That evidence is stocked here as the way Honduras teaches this thing; it is cited as evidence only — Honduras is counted in this lesson through its student book(s).
+
+Jordan's own way (Jordan G2 SS T2): Term 2 teaches change over time (transport, housing, writing) and the child's economy (production, consumption, recycling, Jordanian-made goods), closing with the blue planet, Earth's surface shapes and a first map of Jordan.
+
+Jordan's own way (Jordan G3 SS T2): Grade 3 Term 2 contrasts past and present (trade, production, the smart consumer), then studies Earth's natural features in Jordan, environment care, Jordan's map and its antiquities.

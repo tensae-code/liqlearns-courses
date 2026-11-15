@@ -1,6 +1,6 @@
 # Sources — How people change the land — and pollute it
 
-countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Malaysia, Eritrea, Cambodia, Rwanda, Papua New Guinea, Uganda, Moldova, Mozambique
+countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Malaysia, Eritrea, Cambodia, Rwanda, Papua New Guinea, Uganda, Moldova, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -42,6 +42,12 @@ countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Mal
 
 **Book 20:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 21:** *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (MoE decision 2023/218); ISBN 978-9923-41-580-1. Title as printed: الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, Term 1). Grade: 7 (student/teacher: STUDENT). PDF pages: 140 (cover verified; byte size 22,835,434 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 22:** *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (MoE decision 2023/217); ISBN 978-9923-41-574-0. Title as printed: الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, Term 1). Grade: 4 (student/teacher: STUDENT). PDF pages: 80 (cover verified; byte size 22,639,631 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 23:** *الجغرافيا — الصف العاشر — الفصل الدراسي الثاني (Geography, Grade 10, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-539-9. Title as printed: الجغرافيا — الصف العاشر — الفصل الدراسي الثاني (Geography, Grade 10, Term 2). Grade: 10 (student/teacher: STUDENT). PDF pages: 88 (cover verified; byte size 75,200,687 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Modification | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 157–162 |
@@ -65,8 +71,11 @@ countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Mal
 | Uganda part — Topic 5: Waste management | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Topic 5: Waste management — printed p. 193 |
 | Moldova part — §30 Factors degrading the environment | Moldova, *Moldova Grade 5 G5 Geography*, §30 Factors degrading the environment — printed p. 119 |
 | Mozambique part — Lição 19: acção do Homem no modelado (man as the greatest modelling agent) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 19: acção do Homem no modelado (man as the greatest modelling agent) — printed p. 115 |
+| Jordan part — Unit 3 Lesson 3: Human Activities and the Forms of the Earth's Surface (الأنشطة البشرية وأشكال سطح الأرض) — contour ploughing on slopes against soil erosion | Jordan, *Jordan G7 SS T1*, Unit 3 Lesson 3: Human Activities and the Forms of the Earth's Surface (الأنشطة البشرية وأشكال سطح الأرض) — contour ploughing on slopes against soil erosion — printed p. 60 |
+| Jordan part — Unit 4 Lesson 4: Human Activities and Their Effect on the Environment (الأنشطة البشرية وأثرها في البيئة) | Jordan, *Jordan G4 SS T1*, Unit 4 Lesson 4: Human Activities and Their Effect on the Environment (الأنشطة البشرية وأثرها في البيئة) — printed p. 71 |
+| Jordan part — Unit 4 Lesson 3: Technological Development and Its Effect on the Environment (التطور التكنولوجي وأثره في النظام البيئي) | Jordan, *Jordan G10 Geography T2*, Unit 4 Lesson 3: Technological Development and Its Effect on the Environment (التطور التكنولوجي وأثره في النظام البيئي) — printed p. 24 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, Angola, Colombia, Malaysia, Eritrea, Cambodia, Rwanda, Uganda, Moldova, Mozambique). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, Angola, Colombia, Malaysia, Eritrea, Cambodia, Rwanda, Uganda, Moldova, Mozambique, Jordan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -105,3 +114,9 @@ Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uga
 Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
+
+Jordan's own way (Jordan G7 SS T1): Grade 7 Social Studies weaves civics (citizenship, democracy, rights) around one big geography unit — environment, resources and population — plus Levantine ancient history and Jordanian heritage.
+
+Jordan's own way (Jordan G4 SS T1): Grade 4 Term 1 grounds the child in Jordanian society and dress, then an environment-resources-population unit: agriculture, industry, energy (renewable and not, in Jordan), human impact and Jordan's wildlife.
+
+Jordan's own way (Jordan G10 Geography T2): Grade 10 Term 2 turns to the planet's problems and futures — climate change, impact assessment, sustainable development, energy — then tours the New World continent by continent.

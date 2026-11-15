@@ -1,6 +1,6 @@
 # Sources — Natural Resources — Non-Renewable Resources
 
-countries: Ethiopia, Bangladesh, Eritrea, Sudan
+countries: Ethiopia, Bangladesh, Eritrea, Sudan, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 62).
 
@@ -10,6 +10,12 @@ countries: Ethiopia, Bangladesh, Eritrea, Sudan
 
 **Book 4:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 5:** *علوم الأرض والبيئة — الصف الحادي عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11 Academic Track, Activities Book, Term 2)* (activities and practical experiments book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-636-5. Title as printed: علوم الأرض والبيئة — الصف الحادي عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11 Academic Track, Activities Book, Term 2). Grade: 11 (student/teacher: STUDENT). PDF pages: 30 (cover verified; byte size 2,166,688 matches the books.json record exactly — same book; this is also link record minhaji.net/download/6500, a duplicate source for a book already in GitHub, so no staging arose). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 6:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Activities Book, Term 1)* (activities and practical experiments book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-808-6. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Activities Book, Term 1). Grade: 12 (student/teacher: STUDENT). PDF pages: 70 (cover verified. READ ROUTE NOTE: the books.json record claims in_pushed but grab.py tree returned HTTP 404 on two attempts; read from the record's recorded source minhaji.net/download/10385, 5,952,227 bytes, exactly the record's size_bytes. A second record for the same workbook (term-1-workbook.pdf, minhaji file 103258) is being read separately as Book 22 — the two files differ in size, so both are filed. Staged into phase3-staging under the push-don't-delete rule — see group log.). Verdict: COMPLETE. Parallel edition: minhaji file 103258 (Book 22 in the placements file) is the 68-page final-print copy of this same workbook (this file, minhaji 10385, is the 70-page preparation copy); contents verified identical unit by unit and placed once, under this book. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 7:** *علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-635-8. Title as printed: علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11, Term 2). Grade: 11 (student/teacher: STUDENT). PDF pages: 78 (cover verified; byte size 41,973,359 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils separate a remade metal from a burned fuel | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 82–83 |
@@ -18,8 +24,13 @@ countries: Ethiopia, Bangladesh, Eritrea, Sudan
 | Bangladesh part (Grade 7) — Fossil fuels: coal, natural gas and mineral oil running out | Bangladesh, *History and Social Science, Class Seven*, Grade 7, Fossil fuels: coal, natural gas and mineral oil running out — printed pp. 149-150 |
 | Eritrea part (ER G6 Social Studies) — Unit 10: types of natural resources — non-renewable | Eritrea, *ER G6 Social Studies*, Unit 10: types of natural resources — non-renewable — printed p. 85 |
 | Sudan part — The seas; minerals and mineral fuels | Sudan, *Sudan Grade 12 SD Geography 12*, The seas; minerals and mineral fuels — printed p. 179 |
+| Jordan part — Unit 3 Fossil Fuels: modelling secondary oil migration, kinds of fossil fuel, primary oil migration | Jordan, *Jordan G11 ES T2 Workbook*, Unit 3 Fossil Fuels: modelling secondary oil migration, kinds of fossil fuel, primary oil migration — printed p. 6 |
+| Jordan part — Unit 3 Activity: Oil-Shale Reserves in Jordan (احتياطات الصخر الزيتي في الأردن) | Jordan, *Jordan G11 ES T2 Workbook*, Unit 3 Activity: Oil-Shale Reserves in Jordan (احتياطات الصخر الزيتي في الأردن) — printed p. 10 |
+| Jordan part — Unit 1: world consumption of fossil fuels, energy sources activity | Jordan, *Jordan G12 ES T1 Workbook (10385)*, Unit 1: world consumption of fossil fuels, energy sources activity — printed p. 7 |
+| Jordan part — Unit 3 Lesson 1: The Origin of Fossil Fuels (نشأة الوقود الأحفوري) | Jordan, *Jordan G11 ES T2*, Unit 3 Lesson 1: The Origin of Fossil Fuels (نشأة الوقود الأحفوري) — printed p. 10 |
+| Jordan part — Unit 3 Lesson 2: Types of Fossil Fuels (أنواع الوقود الأحفوري) | Jordan, *Jordan G11 ES T2*, Unit 3 Lesson 2: Types of Fossil Fuels (أنواع الوقود الأحفوري) — printed p. 18 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Eritrea, Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Eritrea, Sudan, Jordan).**
 
 No book error flagged by the placements touches this lesson.
 
@@ -30,3 +41,9 @@ Bangladesh's own way (Grade 7): Geography thins into economic history and a long
 Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.
 
 Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.
+
+Jordan's own way (Jordan G11 ES T2 Workbook): the activities book turns the student book into bench work — modelling oil migration, and reading Jordan's own oil-shale reserves.
+
+Jordan's own way (Jordan G12 ES T1 Workbook (10385)): the activities book opens the final year with the greenhouse effect modelled on the bench and acid rain simulated, then structures, plate tectonics through the Dead Sea transform, and geological exploration with Jordan-flavoured map work.
+
+Jordan's own way (Jordan G11 ES T2): Term 2 is fossil fuels — their origin, kinds, and Jordan's own (oil shale, gas) with the petrochemical industry — then earthquakes and volcanoes.

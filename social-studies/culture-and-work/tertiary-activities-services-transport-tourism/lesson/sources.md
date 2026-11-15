@@ -1,6 +1,6 @@
 # Sources — Tertiary activities — services, transport, tourism
 
-countries: Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezuela, Sri Lanka, Mauritania, Kuwait, Iran, Moldova, Nepal
+countries: Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezuela, Sri Lanka, Mauritania, Kuwait, Iran, Moldova, Nepal, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -34,6 +34,10 @@ countries: Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezue
 
 **Book 16:** *Samajik Shiksha ra Manavmulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year 2078 BS; ISBN 978-9937-601-56-6. Title as printed: Samajik Shiksha ra Manavmulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 214 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society except development infrastructures (printed pp. 2–16); Unit 2 Our human values and beliefs (pp. 20–49); Unit 3 Civic consciousness except traffic rules (pp. 50–69, civics); Unit 4 Social problems and solutions (pp. 73–87); Unit 5 Our Past (pp. 88–111, History); Unit 8 Lessons 3+ population management detail beyond demography/census (pp. 180–190); Unit 9 International relations, contemporary events and information technology (pp. 191–206). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 17:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-856-7. Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2). Grade: 5 (student/teacher: STUDENT). PDF pages: 100 (cover verified; byte size 21,825,614 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 18:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Services, not goods | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 64–66 |
@@ -55,8 +59,10 @@ countries: Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezue
 | Moldova part — 36. The services sector: role in the economy, branch structure | Moldova, *Moldova Grade 11 G11 Geography*, 36. The services sector: role in the economy, branch structure — printed p. 79 |
 | Moldova part — §24 The services sector of Moldova [placement slug: culture-and-work/tertiary-activities-services] | Moldova, *Moldova Grade 9 Geography*, §24 The services sector of Moldova — printed p. 108 |
 | Nepal part — Unit 6 Lesson 3: Our economic activities — services and trade | Nepal, *Nepal Grade 6 np-g6*, Unit 6 Lesson 3: Our economic activities — services and trade — printed p. 119 |
+| Jordan part — Unit 6 Lesson 3: The Services Sector (قطاع الخدمات) | Jordan, *Jordan G5 SS T2*, Unit 6 Lesson 3: The Services Sector (قطاع الخدمات) — printed p. 38 |
+| Jordan part — Unit 6 Lesson 4: Services (الخدمات) | Jordan, *Jordan G12 Geography T2*, Unit 6 Lesson 4: Services (الخدمات) — printed p. 116 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezuela, Mauritania, Kuwait, Iran, Moldova, Nepal). Sri Lanka is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezuela, Mauritania, Kuwait, Iran, Moldova, Nepal, Jordan). Sri Lanka is named here as teacher-guide evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -91,3 +97,7 @@ Moldova's own way (Moldova Grade 11 G11 Geography): a human geography of the wor
 Moldova's own way (Moldova Grade 9 Geography): the human-geography year of one's own country, written as a citizen's handbook — it opens with the Constitution's own words on territory, weighs the advantages and disadvantages of the country's economic-geographic position (including EU candidate status, June 2022), and treats the wine industry as national patrimony with roots in the Cucuteni-Tripolie civilisation; every theme carries "current problems", case studies and debates about the pupils' own locality, and the two practical works study the home locality itself (its population; its tourist sights).
 
 Nepal's own way (Nepal Grade 6 np-g6): Grade 6 has a full "Hamro Prithvi" (Our Earth) unit — Earth's introduction, latitude/longitude, outer-layer structure, then Nepal itself: geographical description, climate, rivers/glaciers/lakes, natural vegetation, natural resources and map study, closing with disaster management; a population unit follows (demography, the census). Economic activities are organised by region and resource: agriculture and industry, services and trade, tourism, and economic resources (land and water; forest, minerals and people).
+
+Jordan's own way (Jordan G5 SS T2): Term 2 teaches the economy by sectors, then location skills (relative/absolute location, GPS) and Jordan's Arab world region by region — Nile Valley and Horn of Africa, then the Maghreb.
+
+Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).

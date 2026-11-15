@@ -1,6 +1,6 @@
 # Sources — Parts every map must have
 
-countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, Sudan, Pakistan, Mozambique
+countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, Sudan, Pakistan, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, 
 
 **Book 16:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 17:** *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الثاني (Social Studies, Grade 4, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (MoE decision 2023/280); ISBN 978-9923-41-542-9. Title as printed: الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الثاني (Social Studies, Grade 4, Term 2). Grade: 4 (student/teacher: STUDENT). PDF pages: 92 (cover verified; byte size 18,311,632 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The checklist | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 199–201 |
@@ -53,8 +55,9 @@ countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, 
 | Pakistan part — BOLTS: Border, Orientation, Legend, Title, Scale | Pakistan, *Pakistan Grade 4 SS4*, BOLTS: Border, Orientation, Legend, Title, Scale — printed p. 63 |
 | Pakistan part — BOLTS in depth (border, orientation with intermediate directions, legend/conventional signs incl. contours, title, scale) | Pakistan, *Pakistan Grade 5 SS5*, BOLTS in depth (border, orientation with intermediate directions, legend/conventional signs incl. contours, title, scale) — printed pp. 51–53 |
 | Mozambique part — Lição 3: Elementos de um Mapa | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 3: Elementos de um Mapa — printed p. 22 |
+| Jordan part — Unit 8 Lesson 1: The Map and Its Elements (الخريطة وعناصرها) | Jordan, *Jordan G4 SS T2*, Unit 8 Lesson 1: The Map and Its Elements (الخريطة وعناصرها) — printed p. 70 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Sudan, Pakistan, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Sudan, Pakistan, Mozambique, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: map components, title, scale, north point, legend, declination, social studies
 
@@ -85,3 +88,5 @@ Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in U
 Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
+
+Jordan's own way (Jordan G4 SS T2): Term 2 ends with Jordan's region — the world around me (solar system, Earth's movement, the world's heat zones), geographic maps, then Bilad al-Sham and Iraq and the Arabian Peninsula as Jordan's neighbourhood.

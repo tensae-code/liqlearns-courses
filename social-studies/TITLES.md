@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2627**
+Geography lessons across the eight Geography titles: **2685**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1857,3 +1857,44 @@ Of Livestock Products and World Distribution Of Major
 Crops.
 (All 60 new lessons are taught in 1 country
 (Mozambique), each standing on student book(s).)
+
++58 for Jordan, 2026-11-15 — First Steps: Jordan My
+Homeland Map And Capital and My Neighbourhood And Its
+Places; Earth and Space: Star Systems And
+Constellations, Stars What They Are and The Life Cycle
+Of Stars; The Land and Air: Air Fronts And Pressure
+Systems, Bilad Al Sham And Iraq, Engineering Geology,
+Geological Exploration Methods, Geological Maps And
+Cross Sections, Jordan Governorates Ajloun, Jordan
+Governorates Aqaba, Jordan Governorates Balqa, Jordan
+Governorates Irbid, Jordan Governorates Jerash, Jordan
+Governorates Karak, Jordan Governorates Maan, Jordan
+Governorates Madaba, Jordan Governorates Mafraq, Jordan
+Governorates Tafila, Jordan Governorates The Capital,
+Jordan Governorates Zarqa, Jordan's Climate Regions,
+Jordan's Landforms And Water Bodies, Nile Valley And
+Horn Of Africa Countries, North And Central America
+Natural And Human Features, South America Natural And
+Human Features, The Arab Worlds Natural Features, The
+Arabian Peninsula, The Maghreb Countries, The Worlds
+Natural Environments and Weather Forecasts And Weather
+Maps; Population, Transport and Maps: Homes Then And
+Now In Jordan, Human Factors In The Power Of The State,
+Jordan's National Security, Jordan's Population
+Characteristics, Jordan's Population Growth, Military
+And Political Alliances, Natural Factors In The Power
+Of The State, Political Borders, Political Geography
+What It Is and The Arab Worlds Human Features; People
+and Resources: Dead Sea Potash Jordan's Mineral Wealth,
+Factors Of Production And Entrepreneurship, Fossil
+Fuels In Jordan, Jordan's Wildlife And Nature Symbols
+and Uranium Exploration In Jordan; Culture and Work:
+Goods And Services Around Us and Production And
+Consumption; Resources and Conflict: Reuse And
+Recycling; Global Issues: Challenges Facing The Arab
+World, Electronic Waste, Environmental Impact
+Assessment, Managing Natural Disasters, Natural Hazards
+And Disasters, Solid Waste And Its Sources, Wastewater
+Treatment and Wastewater What It Is.
+(All 58 new lessons are taught in 1 country (Jordan),
+each standing on student book(s).)

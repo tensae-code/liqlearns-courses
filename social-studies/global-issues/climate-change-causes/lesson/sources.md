@@ -1,6 +1,6 @@
 # Sources — Climate Change — Causes
 
-countries: Ethiopia, Jamaica, Samoa, Fiji, Papua New Guinea, Nepal
+countries: Ethiopia, Jamaica, Samoa, Fiji, Papua New Guinea, Nepal, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 141).
 
@@ -16,6 +16,12 @@ countries: Ethiopia, Jamaica, Samoa, Fiji, Papua New Guinea, Nepal
 
 **Book 7:** *Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 7 (Teacher's Guide Social Studies and Human Value Education Grade 7, 2079)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year 2079 BS; ISBN no ISBN printed. Title as printed: Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 7 (Teacher's Guide Social Studies and Human Value Education Grade 7, 2079). Grade: Grade 7 (student/teacher: TEACHER). PDF pages: 202 (cover/title page verified against the record title — Devanagari title page matches; page references below are the guide's PDF pages, its printed folios being in the same sequence). Verdict: COMPLETE. Non-Geography parts named (not placed): Units 1–5 and 9 as in the student book (society, values, civics, social problems, History, international relations), and Unit 6 Lesson 5 Government income and expenditure (civics/fiscal). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 8:** *الجغرافيا — الصف العاشر — الفصل الدراسي الثاني (Geography, Grade 10, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-539-9. Title as printed: الجغرافيا — الصف العاشر — الفصل الدراسي الثاني (Geography, Grade 10, Term 2). Grade: 10 (student/teacher: STUDENT). PDF pages: 88 (cover verified; byte size 75,200,687 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 9:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-807-9. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1). Grade: 12 (student/teacher: STUDENT). PDF pages: 162 (cover verified; byte size 62,271,187 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 10:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The chapter's three issues: climate change, shrinking water supply, shrinking forests | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 182–183 |
@@ -26,8 +32,11 @@ countries: Ethiopia, Jamaica, Samoa, Fiji, Papua New Guinea, Nepal
 | Papua New Guinea part — Unit 4, Topics 2–3: Global warming and climate change; factors influencing global warming and climate change (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Geography TG SBC* (teacher guide), Unit 4, Topics 2–3: Global warming and climate change; factors influencing global warming and climate change — printed p. 69 |
 | Nepal part — Unit 7 Lesson 8: Climate change | Nepal, *Nepal Grade 7 np-g7*, Unit 7 Lesson 8: Climate change — printed p. 145 |
 | Nepal part — Unit 7 Lesson 8: Climate change (teacher guide — evidence) | Nepal, *Nepal Grade 7 TG np-g7tg* (teacher guide), Unit 7 Lesson 8: Climate change — TG p. 133 |
+| Jordan part — Unit 4 Lesson 1: Climate Change (التغير المناخي) | Jordan, *Jordan G10 Geography T2*, Unit 4 Lesson 1: Climate Change (التغير المناخي) — printed p. 8 |
+| Jordan part — Unit 1 Lesson 2: Fossil Fuels and Climate Change (الوقود الأحفوري والتغير المناخي) | Jordan, *Jordan G12 ES T1*, Unit 1 Lesson 2: Fossil Fuels and Climate Change (الوقود الأحفوري والتغير المناخي) — printed p. 21 |
+| Jordan part — Unit 4 Lesson 5: Climate Change (التغير المناخي) | Jordan, *Jordan G12 Geography T2*, Unit 4 Lesson 5: Climate Change (التغير المناخي) — printed p. 41 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Samoa, Fiji, Nepal). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Samoa, Fiji, Nepal, Jordan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -44,3 +53,9 @@ Papua New Guinea's own way (Papua New Guinea Grade 12 Geography TG SBC) (teacher
 Nepal's own way (Nepal Grade 7 np-g7): Grade 7 Earth science is motion-first — Earth's daily and annual motion, surface form and the factors that change it, surface form's relation to human life — then Nepal's climate, the seven provinces of federal Nepal, climate change, disasters and map work; population is taught as structure, change and management.
 
 Nepal's own way (Nepal Grade 7 TG np-g7tg) (teacher guide — evidence): The guide teaches the same Grade 7 course as np-g7 with globe-and-ball demonstrations of rotation/revolution, chart work on Nepal's demographic structure (age, sex, religion, caste, language distributions), and discussion-led lessons; its geography content mirrors the student book lesson for lesson, so placements repeat with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
+
+Jordan's own way (Jordan G10 Geography T2): Grade 10 Term 2 turns to the planet's problems and futures — climate change, impact assessment, sustainable development, energy — then tours the New World continent by continent.
+
+Jordan's own way (Jordan G12 ES T1): the final year opens with fossil fuels and climate action, then structures and plate tectonics, closing with geological exploration — ending on uranium exploration in Jordan.
+
+Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).

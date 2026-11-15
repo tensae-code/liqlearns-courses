@@ -1,6 +1,6 @@
 # Sources — Transport — choosing a mode
 
-countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Slovenia, Sudan, Yemen, Honduras, Mozambique
+countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Slovenia, Sudan, Yemen, Honduras, Mozambique, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 **Book 2:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (Unit 2, and §3.2 for the optimum-population lesson).
@@ -29,6 +29,8 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Slovenia, Sudan, Yemen, Hondu
 
 **Book 14:** *Módulo 8 de Geografia — Transportes, Comunicações e Turismo (title page misprints the subject word as "Geogafia")* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 8 de Geografia — Transportes, Comunicações e Turismo (title page misprints the subject word as "Geogafia"). Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 59 (title page verified against the record title; byte size 536,572 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 15:** *الجغرافيا — الصف العاشر — الفصل الدراسي الأول (Geography, Grade 10, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-576-4. Title as printed: الجغرافيا — الصف العاشر — الفصل الدراسي الأول (Geography, Grade 10, Term 1). Grade: 10 (student/teacher: STUDENT). PDF pages: 76 (cover verified; byte size 74,034,315 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The judgement table | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 41 |
@@ -46,8 +48,9 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Slovenia, Sudan, Yemen, Hondu
 | Honduras part — Lección 17: Medios y vías de transporte de América — means and routes of transport in America (teacher guide — evidence) | Honduras, *Honduras Grade 5 Teacher Guide* (teacher guide), Lección 17: Medios y vías de transporte de América — means and routes of transport in America — printed p. 71 |
 | Mozambique part — Lição 30: Tipos de transportes (road, rail, river, maritime, air — advantages/disadvantages of each) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 30: Tipos de transportes (road, rail, river, maritime, air — advantages/disadvantages of each) — printed p. 137 |
 | Mozambique part — Lição 2: Tipos de Transporte e Suas Particularidades (advantages/disadvantages by mode; no mode disappears) | Mozambique, *Mozambique Grade 10 PESD II Mod 8*, Lição 2: Tipos de Transporte e Suas Particularidades (advantages/disadvantages by mode; no mode disappears) — printed p. 13 |
+| Jordan part — Unit 2 Lesson 3: Transport (النقل) | Jordan, *Jordan G10 Geography T1*, Unit 2 Lesson 3: Transport (النقل) — printed p. 44 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Guatemala, Bahamas, Slovenia, Sudan, Yemen, Honduras, Mozambique). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Guatemala, Bahamas, Slovenia, Sudan, Yemen, Honduras, Mozambique, Jordan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -76,3 +79,5 @@ Honduras's own way (Honduras Grade 5 Teacher Guide) (teacher guide — evidence)
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 8): transport and communications taught as twin evolutions — transport from foot/animal traction to the Industrial Revolution's bulk cargo, communications from primitive signals to telematics (1970) and videoconference (1984) — with transport's environmental impact given its own lesson before tourism closes the module.
+
+Jordan's own way (Jordan G10 Geography T1): Grade 10 Geography opens with physical geography (atmosphere, biosphere, biodiversity), then tourism and transport as Jordanian economic geography, then geographic technologies.

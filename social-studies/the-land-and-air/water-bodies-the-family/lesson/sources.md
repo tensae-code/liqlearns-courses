@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Oceans, Seas, Lakes, Rivers
 
-countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India, Cambodia, Papua New Guinea, Uganda, Syria, Mauritania, Yemen
+countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India, Cambodia, Papua New Guinea, Uganda, Syria, Mauritania, Yemen, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, 
 
 **Book 19:** *جغرافية الإنسان والبيئة للصف الأول الثانوي (Geography of Man and the Environment for the First Secondary Grade = Grade 10)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية الإنسان والبيئة للصف الأول الثانوي (Geography of Man and the Environment for the First Secondary Grade = Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 179 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 20:** *الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-859-8. Title as printed: الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1). Grade: 9 (student/teacher: STUDENT). PDF pages: 80 (cover verified; byte size 60,522,837 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Where does your water come from? | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 5 |
@@ -62,8 +64,9 @@ countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, 
 | Mauritania part — Axis 2 Position: water | Mauritania, *Mauritania Grade 3 geo-3af-m*, Axis 2 Position: water — printed p. 19 |
 | Yemen part — Unit 5 Lesson 2 Water on the Earth's Surface | Yemen, *Yemen Grade 7 G7 Principles of Physical Geography*, Unit 5 Lesson 2 Water on the Earth's Surface — printed p. 124 |
 | Yemen part — Unit 4 Lesson 4 Water on the Earth | Yemen, *Yemen Grade 10 G10 Geography of Man and the Environment*, Unit 4 Lesson 4 Water on the Earth — printed p. 101 |
+| Jordan part — Unit 2 Lesson 1: Components of the Hydrosphere (مكونات الغلاف المائي) | Jordan, *Jordan G9 Geography T1*, Unit 2 Lesson 1: Components of the Hydrosphere (مكونات الغلاف المائي) — printed p. 32 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India, Cambodia, Uganda, Syria, Mauritania, Yemen). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India, Cambodia, Uganda, Syria, Mauritania, Yemen, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -102,3 +105,5 @@ Mauritania's own way (Mauritania Grade 3 geo-3af-m): The youngest geography book
 Yemen's own way (Yemen Grade 7 G7 Principles of Physical Geography): from Grade 7 the subject splits — this book is pure physical geography organised by the Earth's spheres (atmosphere, lithosphere, hydrosphere, biosphere), opened by map skills and Earth-and-space.
 
 Yemen's own way (Yemen Grade 10 G10 Geography of Man and the Environment): secondary geography is thematic, not regional — man and space, man representing his geographic field (remote sensing, projections, maps), man organising it (rural/urban), climate and water, the dynamic Earth, and the great environmental systems.
+
+Jordan's own way (Jordan G9 Geography T1): From Grade 9 Geography stands alone as its own book: the Earth's rock and water spheres first, then the geography of the Arab homeland — its natural features, its human features and its challenges.

@@ -1,6 +1,6 @@
 # Sources — Volcanism — vents, fissures and the Ring of Fire
 
-countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique
+countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique
 
 **Book 5:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 6:** *علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-635-8. Title as printed: علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11, Term 2). Grade: 11 (student/teacher: STUDENT). PDF pages: 78 (cover verified; byte size 41,973,359 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Vents and fissures | G12 student #16, printed pp. 19–20 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique
 | Slovenia part — Vulkanizem in potresi: Vulkanizem (volcanism) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Vulkanizem in potresi: Vulkanizem (volcanism) — printed p. 18 |
 | Mozambique part — Lição 13: Vulcanismo — materiais expelidos pelos vulcões (solids, liquids, gases; geyser formation; negative impacts) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 13: Vulcanismo — materiais expelidos pelos vulcões (solids, liquids, gases; geyser formation; negative impacts) — printed p. 73 |
 | Mozambique part — Lição 14: Distribuição Geográfica das Regiões Vulcânicas (Pacific, Indian Ocean islands; Africa — Cameroon, Cape Verde, Rift Valley: Kilimanjaro, Nyiragongo; prevention) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 14: Distribuição Geográfica das Regiões Vulcânicas (Pacific, Indian Ocean islands; Africa — Cameroon, Cape Verde, Rift Valley: Kilimanjaro, Nyiragongo; prevention) — printed p. 79 |
+| Jordan part — Unit 4 Lesson 2: Volcanoes (البراكين) | Jordan, *Jordan G11 ES T2*, Unit 4 Lesson 2: Volcanoes (البراكين) — printed p. 59 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique).**
+**Acceptance count: taught in 6 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan).**
 
 No book error in the placements for this lesson is taught here. Counts and examples are taught exactly as the placements report them.
 
@@ -35,3 +38,5 @@ Samoa's own way (Year 13 Geography): The final-year course is hazard- and water-
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
+
+Jordan's own way (Jordan G11 ES T2): Term 2 is fossil fuels — their origin, kinds, and Jordan's own (oil shale, gas) with the petrochemical industry — then earthquakes and volcanoes.

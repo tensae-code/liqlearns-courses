@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -44,6 +44,12 @@ countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivi
 
 **Book 21:** *Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Rabi'a min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fourth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Rabi'a min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fourth Year of Primary Education). Grade: Grade 4 (4e année fondamentale) (student/teacher: STUDENT). PDF pages: 46 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-4AF-M.pdf, 2,356,147 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 22:** *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (MoE decision 2023/218); ISBN 978-9923-41-580-1. Title as printed: الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, Term 1). Grade: 7 (student/teacher: STUDENT). PDF pages: 140 (cover verified; byte size 22,835,434 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 23:** *الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الثاني (Social Studies, Grade 3, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-868-0 (this PDF is the NCCD preparation reprint, نسخة للإعداد). Title as printed: الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الثاني (Social Studies, Grade 3, Term 2). Grade: 3 (student/teacher: STUDENT). PDF pages: 96 (cover verified; byte size 28,433,232 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
+**Book 24:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-856-7. Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2). Grade: 5 (student/teacher: STUDENT). PDF pages: 100 (cover verified; byte size 21,825,614 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Heritage defined, and the guide's pointed question (teacher guide — evidence): why Europeans considered Africans uncivilised when African heritages such as Great Zimbabwe show otherwise | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 5, printed pp. 88–107 (teacher guide — evidence) |
@@ -69,8 +75,11 @@ countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivi
 | Syria part — Our national antiquities (Unit 6: My Homeland — Syria's ancient sites as heritage) | Syria, *Syria Grade 2 Social Studies G2*, Our national antiquities (Unit 6: My Homeland — Syria's ancient sites as heritage) — printed p. 88 |
 | Syria part — Antiquities of my homeland (Unit 6: My Homeland) | Syria, *Syria Grade 1 Social Studies G1*, Antiquities of my homeland (Unit 6: My Homeland) — printed p. 74 |
 | Mauritania part — Archaeological sites | Mauritania, *Mauritania Grade 4 geo-4af-m*, Archaeological sites — printed p. 30 |
+| Jordan part — Unit 5 Lesson 2: Examples of Jordanian Heritage (نماذج من التراث الأردني) | Jordan, *Jordan G7 SS T1*, Unit 5 Lesson 2: Examples of Jordanian Heritage (نماذج من التراث الأردني) — printed p. 115 |
+| Jordan part — Unit 6 Lesson 2: Our Beautiful Antiquities (آثارنا الجميلة) | Jordan, *Jordan G3 SS T2*, Unit 6 Lesson 2: Our Beautiful Antiquities (آثارنا الجميلة) — printed p. 88 |
+| Jordan part — Unit 8 Lesson 2: Jordanian Cultural Heritage (التراث الثقافي الأردني) | Jordan, *Jordan G5 SS T2*, Unit 8 Lesson 2: Jordanian Cultural Heritage (التراث الثقافي الأردني) — printed p. 87 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Mongolia's own way (Grade 9): Social Studies is a five-chapter spiral (Individual & Society, Individual & Culture, Individual & Economy, Human Rights & Law, Public Administration) continued from Grade 8; there is no physical-geography chapter — Mongolia's geography is a separate subject (Газарзүй) — so this book's Geography-wave content is its culture and economics teaching, grounded in Mongolian surveys, wage tables and heritage inventories. The book's Sociology parts (Chapter 1, printed pp. 6–13) and Law/Civics parts (Chapters 4–5, printed pp. 62–92) are named in the placements, not placed. Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -103,3 +112,9 @@ Syria's own way (Syria Grade 2 Social Studies G2): the same widening-rings desig
 Syria's own way (Syria Grade 1 Social Studies G1): the Grade 1 book starts the same widening-rings series (Me → Me and You → My Safety → My Society → My Environment → My Homeland); Geography enters through street-crossing safety, then the environment unit — nature and the farm, the four friends (the seasons), beautiful nature, water "more precious than gold", a precious treasure, and a journey into space — and closes with the homeland's antiquities and pictures from across Syria.
 
 Mauritania's own way (Mauritania Grade 4 geo-4af-m): A one-topic-per-spread observation book that moves from the child's own wilaya outward: the wilaya map first, then the landforms of home (watercourses, mountains, plains, plateaus, sand dunes), the weather elements and the two measuring instruments (thermometer, rain gauge), then the lived place — public places, archaeological sites, street names, my village, the capital of my wilaya — closing with integration exercises on the relief and climate of the wilaya capital.
+
+Jordan's own way (Jordan G7 SS T1): Grade 7 Social Studies weaves civics (citizenship, democracy, rights) around one big geography unit — environment, resources and population — plus Levantine ancient history and Jordanian heritage.
+
+Jordan's own way (Jordan G3 SS T2): Grade 3 Term 2 contrasts past and present (trade, production, the smart consumer), then studies Earth's natural features in Jordan, environment care, Jordan's map and its antiquities.
+
+Jordan's own way (Jordan G5 SS T2): Term 2 teaches the economy by sectors, then location skills (relative/absolute location, GPS) and Jordan's Arab world region by region — Nile Valley and Horn of Africa, then the Maghreb.

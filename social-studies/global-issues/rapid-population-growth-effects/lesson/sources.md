@@ -1,6 +1,6 @@
 # Sources — Rapid Population Growth — Effects
 
-countries: Ethiopia, Eritrea, Cambodia, Syria
+countries: Ethiopia, Eritrea, Cambodia, Syria, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 112).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Eritrea, Cambodia, Syria
 
 **Book 6:** *الجغرافية — الصف الثامن (Geography, Eighth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف الثامن (Geography, Eighth Grade). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; grabbed via the repo release route, 423,607,662 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 7:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-949-6. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م). Grade: 12 (student/teacher: STUDENT). PDF pages: 145 (cover verified; byte size 121,517,865 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The family and social costs: food shortage, rising costs, parental strain, higher mother and child deaths; pressure on schools, health, housing, water, electricity | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 153–154 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Eritrea, Cambodia, Syria
 | Cambodia part — Geography Ch.4 កំណើនប្រជាជន និងផលវិបាក (population growth and its consequences — density map, growth to 2050) | Cambodia, *Cambodia Grade 10 Social Studies*, Geography Ch.4 កំណើនប្រជាជន និងផលវិបាក (population growth and its consequences — density map, growth to 2050) — printed p. 67 |
 | Syria part — The sad planet (Population unit: population pressure on the planet) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, The sad planet (Population unit: population pressure on the planet) — printed p. 112 |
 | Syria part — The population explosion, a real problem | Syria, *Syria Grade 8 Geography G8*, The population explosion, a real problem — printed p. 142 |
+| Jordan part — Unit 3 Lesson 5: Population Issues (قضايا سكانية) | Jordan, *Jordan G12 Geography T1*, Unit 3 Lesson 5: Population Issues (قضايا سكانية) — printed p. 133 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Cambodia, Syria).**
+**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Cambodia, Syria, Jordan).**
 
 Guide honesty carried exactly: the guide's §7.2 printed one-line definition of 'overload' is garbled — it defines rapid urbanisation, not the overload its own lesson then teaches (placements, verification block error 9). This lesson teaches the section's substance (the wood-demand mechanism and its keyed problem list), never that sentence, and says so here. The Addis Ababa Grade 7 teacher guide is NOT edition-matched to the Amhara student books (different bureau, different year, different language of instruction); guide material is used only as labelled teacher evidence, never as pupil content from the student book. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -37,3 +40,5 @@ Cambodia's own way (Cambodia Grade 10 Social Studies): at upper-secondary the Ge
 Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.
 
 Syria's own way (Syria Grade 8 Geography G8): Grade 8 leaves the Arab world and tours the "new" continents in a fixed six-lesson pattern (location and surface, natural environments, settlement/migration, population and cities, resources and economy, one big country study — USA, Brazil, Australia), gives Antarctica a whole unit as a land of ice and science, and closes with a unit of contemporary global challenges (water, food, pollution, warming, population, desertification).
+
+Jordan's own way (Jordan G12 Geography T1): the final-year Geography book is built in three blocks — the forces that shape Earth's surface, political geography (state power, borders, alliances, Jordan's national security), and population geography.

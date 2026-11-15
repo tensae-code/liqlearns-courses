@@ -1,6 +1,6 @@
 # Sources — Two ways to say where a place is
 
-countries: Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador, Malaysia, Fiji, Syria, Venezuela, Iran, Honduras
+countries: Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador, Malaysia, Fiji, Syria, Venezuela, Iran, Honduras, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador, Malaysia, Fiji, Syri
 
 **Book 15:** *Guía para Docentes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Guía para Docentes')* (teacher guide, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Guía para Docentes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Guía para Docentes'). Grade: Grade 1 (student/teacher: TEACHER). PDF pages: 166 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 24,186,588 bytes, SHA-256 prefix 8107d091ad69c719). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (printed pp. 7–42 in the guide); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 83–122 in the guide); Bloque 4 lessons not placed above (Civics/social organisation, printed pp. 123 onwards in the guide). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
 
+**Book 16:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-856-7. Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2). Grade: 5 (student/teacher: STUDENT). PDF pages: 100 (cover verified; byte size 21,825,614 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Absolute location | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 9–10 |
@@ -50,8 +52,9 @@ countries: Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador, Malaysia, Fiji, Syri
 | Iran part — Geographical position of Iran (absolute/mathematical position and relative position) | Iran, *Iran Grade 10 Geography of Iran*, Geographical position of Iran (absolute/mathematical position and relative position) — printed p. 14 |
 | Honduras part — Lección 13: Nos ubicamos — locating ourselves; the sun's route and orientation | Honduras, *Honduras Grade 1 Student Book*, Lección 13: Nos ubicamos — locating ourselves; the sun's route and orientation — printed p. 62 |
 | Honduras part — Lección 13: Nos ubicamos — locating ourselves; the sun's route and orientation (teacher guide — evidence) | Honduras, *Honduras Grade 1 Teacher Guide* (teacher guide), Lección 13: Nos ubicamos — locating ourselves; the sun's route and orientation — printed p. 55 |
+| Jordan part — Unit 7 Lesson 1: Location (الموقع) — relative location: Madaba south of the Capital and Balqa | Jordan, *Jordan G5 SS T2*, Unit 7 Lesson 1: Location (الموقع) — relative location: Madaba south of the Capital and Balqa — printed p. 50 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador, Malaysia, Fiji, Syria, Venezuela, Iran, Honduras).**
+**Acceptance count: taught in 12 countries (Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador, Malaysia, Fiji, Syria, Venezuela, Iran, Honduras, Jordan).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -76,3 +79,5 @@ Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geograph
 Honduras's own way (Honduras Grade 1 Student Book): widening-circles design — the child's own space and community — every geography lesson starts from home, school and community (Valle de Ángeles, the Miskito family on the Río Patuca). Every lesson runs the same 'Sembrar y cosechar' activity cycle.
 
 Honduras's own way (Honduras Grade 1 Teacher Guide) (teacher guide — evidence): widening-circles design — the child's own space and community — every geography lesson starts from home, school and community (Valle de Ángeles, the Miskito family on the Río Patuca) — the teacher guide mirrors the student book lesson-for-lesson (same 38 lessons and blocks) and adds didactics, theory summaries and answer keys; its geography lessons are placed here at the guide's own printed pages. Every lesson runs the same 'Sembrar y cosechar' activity cycle. That evidence is stocked here as the way Honduras teaches this thing; it is cited as evidence only — Honduras is counted in this lesson through its student book(s).
+
+Jordan's own way (Jordan G5 SS T2): Term 2 teaches the economy by sectors, then location skills (relative/absolute location, GPS) and Jordan's Arab world region by region — Nile Valley and Horn of Africa, then the Maghreb.

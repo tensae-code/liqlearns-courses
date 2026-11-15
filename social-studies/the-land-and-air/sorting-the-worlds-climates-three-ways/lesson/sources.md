@@ -1,6 +1,6 @@
 # Sources — Sorting the world's climates — three ways
 
-countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova, Nepal, Mozambique
+countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova, Nepal, Mozambique, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -54,6 +54,8 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papu
 
 **Book 26:** *Módulo 2 de Geografia — Ambiente Bioclimático* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 2 de Geografia — Ambiente Bioclimático. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 137 (title page verified against the record title; byte size 7,185,973 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 27:** *الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-66-129-1. Title as printed: الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الأول (Social Studies, Grade 6, Term 1). Grade: 6 (student/teacher: STUDENT). PDF pages: 120 (cover verified. READ ROUTE NOTE: the books.json record claims in_pushed, but grab.py tree returned HTTP 404 on two attempts — the file is missing from the repo tree. Read instead from the record's own recorded source, minhaji.net/download/30116; the downloaded file is 23,744,090 bytes, exactly the record's size_bytes. Staged into phase3-staging under the push-don't-delete rule — see group log.). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why classify at all | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -84,8 +86,9 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papu
 | Nepal part — Earth Unit Lesson 2: Types of world climate (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Earth Unit Lesson 2: Types of world climate — TG p. 128 |
 | Mozambique part — Lição 13: As Grandes Zonas Bioclimáticas (intertropical, temperate, polar zones; climate, vegetation, fauna of each) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 13: As Grandes Zonas Bioclimáticas (intertropical, temperate, polar zones; climate, vegetation, fauna of each) — printed p. 70 |
 | Mozambique part — Lição 16: Distribuição Geográfica das Regiões Bioclimáticas (equatorial/sub-equatorial regions, desert causes, temperate continental prairies) | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 16: Distribuição Geográfica das Regiões Bioclimáticas (equatorial/sub-equatorial regions, desert causes, temperate continental prairies) — printed p. 103 |
+| Jordan part — Unit 3 Lesson 3: The Region (الإقليم) — polar, continental and desert climate regions | Jordan, *Jordan G6 SS T1*, Unit 3 Lesson 3: The Region (الإقليم) — polar, continental and desert climate regions — printed p. 66 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova, Nepal, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova, Nepal, Mozambique, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -138,3 +141,5 @@ Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The g
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climatology course — atmosphere structure to magnetosphere, heat balance, pressure/wind circulation, air masses and fronts, humidity and precipitation, the water cycle, then Köppen/Thornthwaite classification worked through climate tables with African station graphs (Arkassa, Tamanrasset, Algiers), closing on protection of bioclimatic resources.
+
+Jordan's own way (Jordan G6 SS T1): Grade 6 Term 1 gives Geography its own named unit — the map, the Earth's movement, climate regions (الإقليم), and human–environment interaction — between civics and ancient-history units.
