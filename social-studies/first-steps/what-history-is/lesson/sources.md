@@ -155,3 +155,16 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 3): History, Geography and Citizenship rotate lesson by lesson inside 5 "paliers"; History starts from the child's own country — first peoples of Gabon, the French arrival, Libreville and independence — inside a French-language inquiry routine (observe, question, research, retain). That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+
+**Book 1:** *Faire de l'histoire, 7e année* (teacher guide, French) — Haiti. Title as printed: FAIRE DE L'HISTOIRE. Grade: grade-07 (student/teacher: TEACHER). Publisher: Projet Nectar, MENFP, via Canoprof; editorialisation Mélanie Albaret / Arnaud Dechelle; Creative Commons BY-NC-SA; no year printed; no ISBN printed. PDF pages: 23 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 7 placements — 5 to existing lessons, 2 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/haiti-placements.md.
+
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Haiti part — Faire de l'histoire au quotidien (1): posing the question and building a problématique: Faire de l'histoire au quotidien (1): posing the question and building a problématique — story beats: pupils face a local building, object and date and turn curiosity into a real historical question (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Haiti, *Faire de l'histoire, 7e année* (teacher guide — evidence), printed p. 6 |
+
+Haiti's own way (Grade 7, Faire de l'histoire): History opens not with dates but with a local inquiry — one building, one everyday object and one commemoration date near the pupils are worked through the full historian's method four times over. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh) — unchanged; the Haiti placement(s) above are teacher-guide evidence only, counted nowhere. Haiti is not added to this lesson's countries line.**

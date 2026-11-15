@@ -209,3 +209,27 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 3): History, Geography and Citizenship rotate lesson by lesson inside 5 "paliers"; History starts from the child's own country — first peoples of Gabon, the French arrival, Libreville and independence — inside a French-language inquiry routine (observe, question, research, retain). That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+
+**Book 1:** *Faire de l'histoire, 7e année* (teacher guide, French) — Haiti. Title as printed: FAIRE DE L'HISTOIRE. Grade: grade-07 (student/teacher: TEACHER). Publisher: Projet Nectar, MENFP, via Canoprof; editorialisation Mélanie Albaret / Arnaud Dechelle; Creative Commons BY-NC-SA; no year printed; no ISBN printed. PDF pages: 23 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 7 placements — 5 to existing lessons, 2 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/haiti-placements.md.
+
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Haiti part — Faire de l'histoire au quotidien (2): research, collection and use of a document corpus: Faire de l'histoire au quotidien (2): research, collection and use of a document corpus — story beats: pupils hunt, gather and sort documents until the pile of traces starts answering their question (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Haiti, *Faire de l'histoire, 7e année* (teacher guide — evidence), printed p. 12 |
+| Haiti part — Faire de l'histoire au quotidien (3): interpreting a social reality from a corpus and communicating results: Faire de l'histoire au quotidien (3): interpreting a social reality from a corpus and communicating results — story beats: the same documents are re-read, compared and argued over until pupils can present an interpretation in public (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Haiti, *Faire de l'histoire, 7e année* (teacher guide — evidence), printed p. 16 |
+
+Haiti's own way (Grade 7, Faire de l'histoire): History opens not with dates but with a local inquiry — one building, one everyday object and one commemoration date near the pupils are worked through the full historian's method four times over. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2:** *Une société caraïbe, les Taïno, 7e année* (teacher guide, French) — Haiti. Title as printed: UNE SOCIÉTÉ CARAÏBE, LES TAÏNO (UNITÉ D'APPRENTISSAGE CIVILISATIONS ET EMPIRES). Grade: grade-07 (student/teacher: TEACHER). Publisher: Projet Nectar, MENFP, via Canoprof; Creative Commons BY-NC-SA; no year printed; no ISBN printed. PDF pages: 12 (cover/title page verified against the record title; this is the corrigé / teacher version named in the record). Verdict: COMPLETE. Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/haiti-placements.md.
+
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Haiti part — Les noms de l'histoire: Séance 1, Les noms de l'histoire — story beats: pupils map archaeological sites and the far-off museums holding Taïno objects, and ask why even the people's name is a word given by others (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Haiti, *Une société caraïbe, les Taïno, 7e année* (teacher guide — evidence), printed p. 6 |
+
+Haiti's own way (Grade 7, Les Taïno): the island's first people are taught through the problem of the gaze — almost everything known of the Taïno comes through conquerors' words and museum objects kept abroad, and pupils are taught to question both. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia) — unchanged; the Haiti placement(s) above are teacher-guide evidence only, counted nowhere. Haiti is not added to this lesson's countries line.**

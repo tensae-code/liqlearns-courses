@@ -290,3 +290,26 @@ Guatemala's own way (Guía de orientaciones metodológicas para docentes — Cie
 Guatemala's own way (Ciencias Sociales y Formación Ciudadana I — Guía de orientaciones metodológicas para docentes de primero básico): even a violence-prevention guide is built on the four peoples' own knowledge — every learning experience opens with the Maya nawal of the day, and peace is taught as restoring the harmony between people and nature that each people's ancestral values describe. That way is stocked here as the way Guatemala teaches this thing (teacher guide — evidence). The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 23 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+
+
+**Book 2:** *Une société caraïbe, les Taïno, 7e année* (teacher guide, French) — Haiti. Title as printed: UNE SOCIÉTÉ CARAÏBE, LES TAÏNO (UNITÉ D'APPRENTISSAGE CIVILISATIONS ET EMPIRES). Grade: grade-07 (student/teacher: TEACHER). Publisher: Projet Nectar, MENFP, via Canoprof; Creative Commons BY-NC-SA; no year printed; no ISBN printed. PDF pages: 12 (cover/title page verified against the record title; this is the corrigé / teacher version named in the record). Verdict: COMPLETE. Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/haiti-placements.md.
+
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Haiti part — Un patrimoine et des images en débat: Séance 4, Un patrimoine et des images en débat — story beats: Queen Anacaona and the Taïno past are fought over in novels, comics and museums today — whose heritage is it, and who gets to show it? (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Haiti, *Une société caraïbe, les Taïno, 7e année* (teacher guide — evidence), printed p. 11 |
+
+Haiti's own way (Grade 7, Les Taïno): the island's first people are taught through the problem of the gaze — almost everything known of the Taïno comes through conquerors' words and museum objects kept abroad, and pupils are taught to question both. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4:** *L'esclavage et l'économie de plantation, 8e année* (teacher guide, French) — Haiti. Title as printed: HISTOIRE — L'ESCLAVAGE ET L'ÉCONOMIE DE PLANTATION. Grade: grade-08 (student/teacher: TEACHER). Publisher: Projet Nectar, MENFP, via Canoprof; editorialisation Mélanie Albaret / Arnaud Dechelle; Creative Commons BY-NC-SA; no year printed; no ISBN printed. PDF pages: 42 (first page verified against the record title). Verdict: COMPLETE. Tally: 7 placements — 1 to existing lessons, 6 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/haiti-placements.md.
+
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Haiti part — Mémoires et représentations des esclaves et des esclavages: Séance 6, Mémoires et représentations des esclaves et des esclavages — story beats: statues, museums, commemorations and laws (including France's 2001 Taubira law naming slavery a crime against humanity) — how societies today choose to remember the trade (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Haiti, *L'esclavage et l'économie de plantation, 8e année* (teacher guide — evidence), printed p. 24 |
+
+Haiti's own way (Grade 8, Esclavage et économie de plantation): Saint-Domingue's plantation system is studied from the ground up — archaeology, the Code Noir's own articles, and the enslaved people's image and voice — with the book itself warning that "plantation" may really mean a slave-labour camp. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 23 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala) — unchanged; the Haiti placement(s) above are teacher-guide evidence only, counted nowhere. Haiti is not added to this lesson's countries line.**

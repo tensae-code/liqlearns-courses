@@ -68,3 +68,16 @@ Turkey's own way: world history is told with the Turks walked through it — pre
 Bangladesh's own way (Grade 6): history is learned by inquiry through one continuing classroom story — teacher Khushi Apa and her Class Six pupils investigate their own locality, interview elders under strict consent rules, and only then widen out to Bengal, South Asia and the world; the Liberation War is first met as a killing field in the children's own village, not as a date. That way is stocked here as the way Bangladesh teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Gambia, Turkey, Bangladesh).**
+
+
+**Book 3:** *Des hommes et des sociétés, nomades et sédentaires, 7e année* (teacher guide, French) — Haiti. Title as printed: DES HOMMES ET DES SOCIÉTÉS, NOMADES ET SÉDENTAIRES. Grade: grade-07 (student/teacher: TEACHER). Publisher: Projet Nectar, MENFP, via Canoprof; Creative Commons BY-NC-SA; no year printed; no ISBN printed. PDF pages: 19 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/haiti-placements.md.
+
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Haiti part — Des fossiles, des femmes, des hommes et des outils: Séance 1, Des fossiles, des femmes, des hommes et des outils — story beats: bones and stone tools found together force a question — which hominids made them, and how can a dig's layers tell? (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Haiti, *Des hommes et des sociétés, nomades et sédentaires, 7e année* (teacher guide — evidence), printed p. 6 |
+
+Haiti's own way (Grade 7, Nomades et sédentaires): prehistory is taught as live science — fossils, stratigraphy and laboratory dating are set side by side, docu-fiction films are dissected, and the world story lands in the Antilles' own fisher-gatherers and first farmers. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Gambia, Turkey, Bangladesh) — unchanged; the Haiti placement(s) above are teacher-guide evidence only, counted nowhere. Haiti is not added to this lesson's countries line.**

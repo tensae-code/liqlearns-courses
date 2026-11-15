@@ -9935,3 +9935,93 @@ only, as evidence only — the new lessons' acceptance
 count is 0 countries, and every existing lesson's
 acceptance count is unchanged, Gabon not added to
 its countries line. History lessons: 522 → 530.
+
+## History expansion — Haiti — built 2026-11-15
+
+12 new lessons, 176 questions, in **Ancient World**:
+The Taïno of Quisqueya
+(ancient-world/the-taino-of-quisqueya), Prehistoric
+art — cave paintings and sculpture
+(ancient-world/prehistoric-art-caves-paintings-and-sculpture)
+and Caribbean first peoples — fishers and farmers
+(ancient-world/caribbean-first-peoples-fishers-and-farmers);
+and in **Modern World**: Haiti — forts built to
+defend independence
+(modern-world/haiti-forts-built-to-defend-independence),
+Haiti — the flag and 18 May 1803
+(modern-world/haiti-the-flag-and-18-may-1803),
+Slavery and the plantation economy of Saint-Domingue
+(modern-world/slavery-and-the-plantation-economy-of-saint-domingue),
+The Code Noir — the law that ruled slavery
+(modern-world/the-code-noir-the-law-that-ruled-slavery),
+Resistance, marronage and revolt in Saint-Domingue
+(modern-world/resistance-marronage-and-revolt-in-saint-domingue),
+The Haitian Revolution, 1791–1804
+(modern-world/the-haitian-revolution-1791-1804),
+Building the Haitian state, 1804–1843
+(modern-world/building-the-haitian-state-1804-1843),
+Haiti — independence debt and neocolonialism by debt
+(modern-world/haiti-independence-debt-and-neocolonialism-by-debt)
+and The US occupation of Haiti, 1915–1934
+(modern-world/the-us-occupation-of-haiti-1915-1934)
+— 58 placements stocked in all from Haiti's nine
+Projet Nectar / MENFP teacher guides (via Canoprof;
+Creative Commons BY-NC-SA; no year or ISBN printed):
+*Faire de l'histoire* (Grade 7, 23 PDF pp.; 7
+placements: what history is, printed p. 6, from
+evidence (1), p. 12, from evidence (2), p. 16,
+locality — usages of history, p. 19, the forts,
+p. 7, the coffee mill, p. 9, and the flag of 18 May,
+p. 11); *Une société caraïbe, les Taïno* (Grade 7,
+12 PDF pp.; 4 placements: from evidence — the names
+of history, p. 6, the Taïno (1), p. 8, the Taïno
+(2), p. 9, and heritage in debate, p. 11); *Des
+hommes et des sociétés, nomades et sédentaires*
+(Grade 7, 19 PDF pp.; 8 placements: who studies
+prehistory, p. 6, cradle of humankind, p. 8,
+prehistoric art (1), p. 10, is history a science
+(1), p. 12, from stone tools to farming, p. 13,
+Caribbean first peoples, p. 14, prehistoric art
+(2), p. 16, and is history a science (2), p. 17);
+*L'esclavage et l'économie de plantation* (Grade 8,
+42 PDF pp.; 7 placements: the plantation economy
+(1), p. 12, (2), p. 16, (3), p. 19, the Code Noir,
+p. 21, the voice of the enslaved, p. 22, heritage —
+memories of slavery, p. 24, and slavery in
+literature, p. 26); *Résistances, révoltes,
+marronnages* (Grade 8, 21 PDF pp.; 4 placements:
+resist and maroon, p. 6, masters' vision, p. 10,
+revolts and maroon societies, p. 13, and Vodou as
+resistance, p. 18); *La Révolution haïtienne
+(1791-1806)* (Grade 8, 91 PDF pp.; 10 placements:
+the French Revolution reaches Saint-Domingue,
+p. 14, first insurrections, p. 17, Bois Caïman,
+p. 20, insurrections (1), p. 23, insurrections (2),
+p. 26, emancipation, p. 27, Louverturian power (1),
+p. 30, the 1801 Constitution, p. 31, independence,
+p. 33, and the annex lives and texts, pp. 37–91);
+*La formation de l'État haïtien 1804-1843* (Grade
+9, 55 PDF pp.; 8 placements: the Declaration, p. 8,
+Dessalines' empire, p. 11, the 1806 rupture, p. 14,
+Christophe's kingdom, p. 17, Pétion's republic,
+p. 21, reunification, p. 25, recognition and debt,
+p. 27, and the Rural Code, p. 30); *La dette de
+l'indépendance* (Grade 9, 42 PDF pp.; 4 placements:
+the contemporary debate, p. 6, imposition, p. 10,
+double debt (1), p. 14, and double debt (2), p. 17);
+and *L'occupation américaine d'Haïti (1915-1934)*
+(Grade 9, 52 PDF pp.; 6 placements: preludes, p. 7,
+tutelage, p. 10, institutionalisation, p. 13,
+resistances, p. 16, collaboration, p. 20, and the
+balance sheet, p. 23). 14 placements were stocked
+into 9 existing lessons. The other 23 filed books
+are RECORD-ONLY, cover-verified, not placed: 8
+curriculum programmes, 6 pure Geography sequences,
+6 Civics sequences (the fondements pair as two
+records), 1 Physics, 1 Mathematics and 1 French
+sequence — they stay record-only. All 58 placements
+stand on teacher guides only, as evidence only —
+the new lessons' acceptance count is 0 countries,
+and every existing lesson's acceptance count is
+unchanged, Haiti not added to its countries line.
+History lessons: 530 → 542.

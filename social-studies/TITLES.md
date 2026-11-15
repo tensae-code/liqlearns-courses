@@ -90,7 +90,10 @@ the one title at rising depth wherever a title spans both books
   Muscovy, Crimea and the northern Black Sea in the
   late Middle Ages, Ukrainian towns, crafts and
   Magdeburg law, Ukrainian culture in the 14th and
-  15th centuries, and Ukraine in medieval Europe).
+  15th centuries, and Ukraine in medieval Europe, and
+  Haiti — the Taïno of Quisqueya, prehistoric art —
+  cave paintings and sculpture, and Caribbean first
+  peoples — fishers and farmers).
 - `the-land-and-air/` — continents and oceans, the forces that
   shape the land, the atmosphere, weather and climate, map work
   (including the UAE's location and emirates map and desert
@@ -173,7 +176,7 @@ the one title at rising depth wherever a title spans both books
   Children of the Road, Cornelia Studer and the Gott
   hilft children's home, Florian Branger and
   administrative detention, and Ruedi Hofer, the
-  Verdingkinder and reparation, and the United States — its own national survey in 27 lessons, from the Americas before 1492 to America in the twenty-first century).
+  Verdingkinder and reparation, and the United States — its own national survey in 27 lessons, from the Americas before 1492 to America in the twenty-first century, and Haiti — forts built to defend independence, the flag and 18 May 1803, slavery and the plantation economy of Saint-Domingue, the Code Noir — the law that ruled slavery, resistance, marronage and revolt in Saint-Domingue, the Haitian Revolution, 1791–1804, building the Haitian state, 1804–1843, independence debt and neocolonialism by debt, and the US occupation of Haiti, 1915–1934).
   (No teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
@@ -2578,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **530**
+History lessons across the History titles: **542**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3185,3 +3188,29 @@ was stocked into the existing African resistance to
 colonisation lesson built for Djibouti, whose
 countries line now names Djibouti, Gabon as
 teacher-guide evidence only, counted nowhere).
+
++12 for Haiti, 2026-11-15 — Ancient World: The Taïno
+of Quisqueya, Prehistoric art — cave paintings and
+sculpture, and Caribbean first peoples — fishers and
+farmers; Modern World: Haiti — forts built to defend
+independence, Haiti — the flag and 18 May 1803,
+Slavery and the plantation economy of
+Saint-Domingue, The Code Noir — the law that ruled
+slavery, Resistance, marronage and revolt in
+Saint-Domingue, The Haitian Revolution, 1791–1804,
+Building the Haitian state, 1804–1843, Haiti —
+independence debt and neocolonialism by debt, and
+The US occupation of Haiti, 1915–1934. All 58 Haiti
+placements stand on Haiti's nine Projet Nectar /
+MENFP teacher guides (Grades 7, 8 and 9, via
+Canoprof, Creative Commons BY-NC-SA, no year or ISBN
+printed) only, as evidence only, acceptance count 0
+countries for the twelve new lessons; the 14
+placements stocked into nine existing lessons
+likewise leave those lessons' acceptance counts
+unchanged, Haiti not added to their countries lines.
+The other 23 filed books are RECORD-ONLY and stay
+record-only: 8 curriculum programmes, 6 pure
+Geography sequences, 6 Civics sequences (the
+fondements pair counted as its two records), 1
+Physics, 1 Mathematics and 1 French sequence.

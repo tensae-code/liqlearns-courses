@@ -15,3 +15,17 @@ countries: Ethiopia
 No book error flagged by the placements touches this lesson. The lesson teaches the placement's content as a story summary in the course's own words — the book's text itself is never transcribed. 
 
 Searchable tags: is, history, a, science, Grade 11 History, Unit 1 — History, Historiography and Human Evolution
+
+
+**Book 3:** *Des hommes et des sociétés, nomades et sédentaires, 7e année* (teacher guide, French) — Haiti. Title as printed: DES HOMMES ET DES SOCIÉTÉS, NOMADES ET SÉDENTAIRES. Grade: grade-07 (student/teacher: TEACHER). Publisher: Projet Nectar, MENFP, via Canoprof; Creative Commons BY-NC-SA; no year printed; no ISBN printed. PDF pages: 19 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/haiti-placements.md.
+
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Haiti part — De la recherche scientifique à la vulgarisation (1): Séance 4, De la recherche scientifique à la vulgarisation (1) — story beats: pupils take apart a docu-fiction film and sort what science knows from what the film invents (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/is-history-a-science) | Haiti, *Des hommes et des sociétés, nomades et sédentaires, 7e année* (teacher guide — evidence), printed p. 12 |
+| Haiti part — De la recherche scientifique à la vulgarisation (2): Séance 8, De la recherche scientifique à la vulgarisation (2) — story beats: a second film analysis closes the sequence — pupils judge again how research becomes a story told to the public (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/is-history-a-science) | Haiti, *Des hommes et des sociétés, nomades et sédentaires, 7e année* (teacher guide — evidence), printed p. 17 |
+
+Haiti's own way (Grade 7, Nomades et sédentaires): prehistory is taught as live science — fossils, stratigraphy and laboratory dating are set side by side, docu-fiction films are dissected, and the world story lands in the Antilles' own fisher-gatherers and first farmers. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Haiti placement(s) above are teacher-guide evidence only, counted nowhere. Haiti is not added to this lesson's countries line.**

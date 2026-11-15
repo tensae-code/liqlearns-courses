@@ -59,3 +59,16 @@ Iceland's own way: a Norwegian textbook re-rooted in Iceland — every world cha
 Poland's own way: partitioned Poland has no state, so its chapters tell a double story — the world styles, and then Polish artists under three foreign empires using art, above all Matejko's giant history canvases and the Young Poland movement, to keep a stateless nation visible to itself. That way is stocked here as the way Poland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Poland).**
+
+
+**Book 6:** *La Révolution haïtienne (1791-1806), 8e année* (teacher guide, French) — Haiti. Title as printed: HISTOIRE — LA RÉVOLUTION HAÏTIENNE (1791-1806). Grade: grade-08 (student/teacher: TEACHER) — records: TSV release record + books.json record, same book read once via the release route (tree route 404s). Publisher: Projet Nectar, MENFP, via Canoprof; editorialisation Mélanie Albaret / Arnaud Dechelle; Creative Commons BY-NC-SA; no year printed; no ISBN printed. PDF pages: 91 (first page verified against the record title; séances pp. 4-36, document annexes pp. 37-91). Verdict: COMPLETE. Tally: 10 placements — 1 to existing lessons, 9 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/haiti-placements.md.
+
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Haiti part — La société coloniale et la Révolution française: Séance 1, La société coloniale et la Révolution française — story beats: rich, racially ranked Saint-Domingue hears that Paris has proclaimed the rights of man — every group in the colony reaches for the words for itself (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Haiti, *La Révolution haïtienne (1791-1806), 8e année* (teacher guide — evidence), printed p. 14 |
+
+Haiti's own way (Grade 8, Révolution haïtienne): the Revolution is built as four acts — insurrections, republican emancipation, Louverturian power, independence war — with pupils keeping a running chronology, maps and biographical dictionary, and constantly comparing Haitian and French revolutionary timelines. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Poland) — unchanged; the Haiti placement(s) above are teacher-guide evidence only, counted nowhere. Haiti is not added to this lesson's countries line.**

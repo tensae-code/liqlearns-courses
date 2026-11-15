@@ -121,3 +121,16 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 4): the year runs as one long Gabon-centred arc — prehistory, the making of the Gabonese people, explorers and Brazza, the slave trade, French Congo/AÉF, resistance and decolonisation — each topic taught through documents in the pupil manual. That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Angola, Poland, Bangladesh) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+
+**Book 3:** *Des hommes et des sociétés, nomades et sédentaires, 7e année* (teacher guide, French) — Haiti. Title as printed: DES HOMMES ET DES SOCIÉTÉS, NOMADES ET SÉDENTAIRES. Grade: grade-07 (student/teacher: TEACHER). Publisher: Projet Nectar, MENFP, via Canoprof; Creative Commons BY-NC-SA; no year printed; no ISBN printed. PDF pages: 19 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/haiti-placements.md.
+
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Haiti part — Nomades et sédentaires, cohabitation et hybridation: Séance 5, Nomades et sédentaires, cohabitation et hybridation — story beats: hunter-gatherers and farmer-herders live side by side, trading, mixing and borrowing each other's ways rather than one simply replacing the other (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Haiti, *Des hommes et des sociétés, nomades et sédentaires, 7e année* (teacher guide — evidence), printed p. 13 |
+
+Haiti's own way (Grade 7, Nomades et sédentaires): prehistory is taught as live science — fossils, stratigraphy and laboratory dating are set side by side, docu-fiction films are dissected, and the world story lands in the Antilles' own fisher-gatherers and first farmers. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Poland, Bangladesh) — unchanged; the Haiti placement(s) above are teacher-guide evidence only, counted nowhere. Haiti is not added to this lesson's countries line.**

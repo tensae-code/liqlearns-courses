@@ -129,3 +129,17 @@ Guatemala's own way (Ciencias Sociales y Formación Ciudadana, Cuarto grado): th
 Guatemala's own way (Guía de orientaciones metodológicas para docentes — Ciencias Sociales — Segundo ciclo de primaria (cuarto, quinto y sexto grado)): History here is carried by the peoples themselves — each of the four peoples (Maya, Xinka, Garífuna, Ladino) is given its own way of learning and teaching, elders and grandparents are treated as primary sources, and Maya ancestral justice is studied as a living institution, not a museum piece. That way is stocked here as the way Guatemala teaches this thing (teacher guide — evidence). The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala).**
+
+
+**Book 1:** *Faire de l'histoire, 7e année* (teacher guide, French) — Haiti. Title as printed: FAIRE DE L'HISTOIRE. Grade: grade-07 (student/teacher: TEACHER). Publisher: Projet Nectar, MENFP, via Canoprof; editorialisation Mélanie Albaret / Arnaud Dechelle; Creative Commons BY-NC-SA; no year printed; no ISBN printed. PDF pages: 23 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 7 placements — 5 to existing lessons, 2 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/haiti-placements.md.
+
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Haiti part — Les usages de l'histoire: Séance 4, Les usages de l'histoire — story beats: pupils trace how their object is used today — in exhibitions, commemorations, money and images — and build a public presentation of it (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Haiti, *Faire de l'histoire, 7e année* (teacher guide — evidence), printed p. 19 |
+| Haiti part — The coffee mill as an everyday historical object: Study object: the coffee mill as an everyday historical object — story beats: a kitchen coffee mill becomes a witness — pupils read an ordinary object to recover the work, trade and tastes of past households (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Haiti, *Faire de l'histoire, 7e année* (teacher guide — evidence), printed p. 9 |
+
+Haiti's own way (Grade 7, Faire de l'histoire): History opens not with dates but with a local inquiry — one building, one everyday object and one commemoration date near the pupils are worked through the full historian's method four times over. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala) — unchanged; the Haiti placement(s) above are teacher-guide evidence only, counted nowhere. Haiti is not added to this lesson's countries line.**
