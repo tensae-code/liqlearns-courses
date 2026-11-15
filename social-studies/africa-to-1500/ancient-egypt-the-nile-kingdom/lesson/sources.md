@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — the Nile Kingdom
 
-countries: Ethiopia
+countries: Ethiopia, Angola
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -21,13 +21,13 @@ countries: Ethiopia
 | Sub lesson 4 — Grade 11 depth: Egypt in depth — government, gods, writing and the calendar | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 23–28 |
 
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Angola).**
 
 Extension added 2026-11-12 (Ethiopia Wave 4, Grade 9 History): the Grade 9 depth part and its questions rest on the Grade 9 student textbook, Unit 2, printed pp. 23–25, cited in the table. No Grade 9 book error flagged by the placements touches Egypt's section.
 
 Pairing and error honesty. (1) Pairing note: pupil content comes from the Amhara student book; the teacher guide is an Addis Ababa bureau book (2022, in English) and the student book an Amhara bureau book (© 2015 E.C., in Amharic) — NOT edition-matched companions. Guide material, where used, is labelled (teacher guide — evidence) in the table above and counts nowhere as pupil-taught. The guide rows above are that evidence: the three-kingdom periodisation, the three classes, and the vizier/nomarch vocabulary are the Addis Ababa guide's §5.1 skeleton, folded into Sub lesson 2 and labelled there and here; the pupil narrative stands on the Amhara student book. (2) The guide's Unit 5 contents and syllabus spell Meroe 'Mereo' — that misprint belongs to the Kush lesson, not this one; nothing in this lesson's guide material is misprinted. No student-book error flagged by the placements touches this lesson. The picture the placement names (the Nile with Upper and Lower Egypt and the nome divisions marked) is Picture 11302, a drawn render.
 
-Searchable tags: ancient Egypt, Nile, Abay, nomes, Menes, Pharaoh, dynasty, Hyksos, Ahmose, vizier, nomarch, Old Kingdom, Middle Kingdom, New Kingdom, gift of the Nile, Ethiopia Grade 7 Social Studies Chapter 5
+Searchable tags: ancient Egypt, Nile, Abay, nomes, Menes, Pharaoh, dynasty, Hyksos, Ahmose, vizier, nomarch, Old Kingdom, Middle Kingdom, New Kingdom, gift of the Nile, Ethiopia Grade 7 Social Studies Chapter 5, Angola Grade 6, Manual de História 6.ª Classe, Mensagem Editora
 
 
 ## History expansion (2026-11-15) — Myanmar stocked
@@ -43,3 +43,15 @@ This book is a teacher guide. The Myanmar rows below stand on it as teacher-guid
 Myanmar's own way: The year is split in two arcs — Myanmar's own past first (prehistory, the Pyu city-states, Bagan), then world history (hunters, first farmers, Mesopotamia, Egypt, Greece, Rome, China, India) — and every lesson is taught in a fixed Introduce–Teach–Practice–Review (I-T-P-R) shape with student-centred activities. That way is stocked here as the way Myanmar teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Myanmar placement above is teacher-guide evidence only, counted nowhere.**
+
+## History expansion (2026-11-15) — Angola stocked
+
+**Book (Angola):** *Manual de História | 6.ª Classe* (student book, Portuguese) — Angola. Title as printed: Manual de História | 6.ª Classe (cover: HISTÓRIA — 6.ª Classe). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Mensagem Editora, Luanda, for the Ministério da Educação; year 2021 (3rd edition); ISBN 978-989-54802-3-4. PDF pages: 80 (cover verified against the record title). Verdict: COMPLETE. Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED. Records: 2 records / 2 distinct books / books.json pushed paths via grab.py (tree route). Library debt, as filed: Angola's Grade 5 book — *História — Manual do Aluno, 5ª Classe* (student book, Portuguese) — is UNREAD: grab.py tree route for grade-05/gov/angola/historia/student-book.pdf failed with HTTP Error 404 (Contents API) on the first attempt and again on a retry; the record claims in_pushed: true, so the pushed file is missing from the repo tree at the recorded path. No placements from that book. Placements at liqlearns-courses-work/expansion-history-2026-11-15/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — Tema 2: Ancient Egypt — story beats: On the Nile's banks a farming kingdom grows rich and organised; the book follows where Egypt sat and how its people lived (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Angola, *Manual de História \| 6.ª Classe*, printed p. 18 |
+
+Angola's own way (History expansion, 2026-11-15): A pupil in Angola learns African history as one rising arc — Africa as humanity's cradle, its ancient civilisations and great kingdoms, the slave-trade era, colonisation, and the liberation struggles — with Angola's own past carried inside the continental story rather than in a separate national book. That way is stocked here as the way Angola teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Angola).**

@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -12,7 +12,7 @@ countries: Ethiopia, Saudi Arabia, Cabo Verde
 | Saudi Arabia part — The Concept of History (Unit 2, Lesson 5): history is the study of past events and interpreting them to show their effect on present and future; the historian's questions — when did it happen, what happened, how, who took part, why, and what came of it; why we are proud of our Saudi history — story beats: a nine-year-old learns that history is not old stories but questions you ask about real events (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary)*, printed pp. 40–42 |
 | Cabo Verde part — Tema 0: Presentation of the discipline — story beats: History is introduced as the science that studies people in time and space, using maps, old texts, photographs, monuments and oral tradition to understand Cabo Verde's present through its past (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Cabo Verde, *História e Geografia de Cabo Verde — 5.º ano*, printed p. 7 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Cabo Verde).**
+**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola).**
 
 No book error flagged by the placements touches this lesson. The lesson teaches the placement's content as a story summary in the course's own words — the book's text itself is never transcribed. 
 
@@ -24,7 +24,7 @@ Saudi Arabia's own way (History expansion, 2026-11-15): Saudi Arabia's own way: 
 
 Cabo Verde's own way (History expansion, 2026-11-15): The child's first History subject is the past of her own islands only — an uninhabited archipelago found by Portuguese ships, peopled by Europeans and enslaved Africans, becoming a new creole society — taught theme by theme with documents, a mini-dictionary of concepts and "Vou resolver" activities. That way is stocked here as the way Cabo Verde teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-Searchable tags: what, history, is, Grade 11 History, Unit 1 — History, Historiography and Human Evolution, concept of history, historian's questions, Saudi Arabia Grade 4, الدراسات الاجتماعية, Cabo Verde Grade 5, História e Geografia de Cabo Verde, presentation of the discipline
+Searchable tags: what, history, is, Grade 11 History, Unit 1 — History, Historiography and Human Evolution, concept of history, historian's questions, Saudi Arabia Grade 4, الدراسات الاجتماعية, Cabo Verde Grade 5, História e Geografia de Cabo Verde, presentation of the discipline, Angola Grade 6, Manual de História 6.ª Classe, Mensagem Editora
 
 
 ## History expansion (2026-11-15) — Morocco stocked
@@ -40,3 +40,15 @@ This book is a teacher guide. The Morocco rows below stand on it as teacher-guid
 Morocco's own way: Moroccan History is one unbroken national line — the guide's own programme table runs Grade 4 "the recent past", Grade 5 "Morocco in the ancient age", Grade 6 "prehistory and the historical eras" — and Grade 5 walks a child from what a historian is, through prehistoric and Amazigh Morocco, to the dynasty sequence Idrisid → Almoravid → Almohad → Marinid → Saadian → Alaouite, each dynasty studied through one standing monument (Qarawiyyin, the Almoravid Dome, a madrasa, El Badi Palace, the kasbahs). That way is stocked here as the way Morocco teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Cabo Verde) — unchanged; the Morocco placement above is teacher-guide evidence only, counted nowhere.**
+
+## History expansion (2026-11-15) — Angola stocked
+
+**Book (Angola):** *Manual de História | 6.ª Classe* (student book, Portuguese) — Angola. Title as printed: Manual de História | 6.ª Classe (cover: HISTÓRIA — 6.ª Classe). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Mensagem Editora, Luanda, for the Ministério da Educação; year 2021 (3rd edition); ISBN 978-989-54802-3-4. PDF pages: 80 (cover verified against the record title). Verdict: COMPLETE. Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED. Records: 2 records / 2 distinct books / books.json pushed paths via grab.py (tree route). Library debt, as filed: Angola's Grade 5 book — *História — Manual do Aluno, 5ª Classe* (student book, Portuguese) — is UNREAD: grab.py tree route for grade-05/gov/angola/historia/student-book.pdf failed with HTTP Error 404 (Contents API) on the first attempt and again on a retry; the record claims in_pushed: true, so the pushed file is missing from the repo tree at the recorded path. No placements from that book. Placements at liqlearns-courses-work/expansion-history-2026-11-15/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — Introduction to Tema 1: What History is — story beats: History, from the Greek "histor" (investigation), is the science that studies human life through time, helped by geography, anthropology, linguistics, chronology and archaeology (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Angola, *Manual de História \| 6.ª Classe*, printed p. 10 |
+
+Angola's own way (History expansion, 2026-11-15): A pupil in Angola learns African history as one rising arc — Africa as humanity's cradle, its ancient civilisations and great kingdoms, the slave-trade era, colonisation, and the liberation struggles — with Angola's own past carried inside the continental story rather than in a separate national book. That way is stocked here as the way Angola teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola).**

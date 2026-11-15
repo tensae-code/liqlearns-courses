@@ -1,6 +1,6 @@
 # Sources — The Atlantic slave trade — scale, coasts and the gun cycle
 
-countries: Ethiopia
+countries: Ethiopia, Angola
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -14,11 +14,11 @@ countries: Ethiopia
 
 | Sub lesson 4 — Grade 11 depth: The trans-Atlantic trade in depth — the system's scale | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 158–160 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Angola).**
 
 No teacher-guide evidence is claimed for this title: the Grade 8 teacher guide's Units 4–7 are not in hand (the guide file in hand is truncated and ends at Unit 3), so this lesson stands on the student book alone and no teacher evidence is named anywhere in it. History in lesson.md is told in the course's own words as story-like summary — dates and names are exactly as the placements give them; no textbook text is transcribed.
 
-Searchable tags: slave trade scale, 10 million, 1532, Senegal, Angola, Slave Coast, guns for slaves, Kongo Ndongo
+Searchable tags: slave trade scale, 10 million, 1532, Senegal, Angola, Slave Coast, guns for slaves, Kongo Ndongo, Angola Grade 6, Manual de História 6.ª Classe, Mensagem Editora
 
 ## History fix (2026-11-12) — provenance completed
 
@@ -50,3 +50,15 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 History expansion note (2026-11-15, Zambia): the Zambia placement above is a teacher guide's model lesson plan, cited as evidence only. Zambia is NOT added to the countries line and the acceptance count does not change: **Acceptance count stays taught in 1 country (Ethiopia); Zambia is named here as teacher-guide evidence only, counted nowhere.**
 
 Zambia's own way (Grade 8 History): the module opens the slave-trade topic with the question "Can a human being own another?" and leads learners into the trade's causes and impacts and into empathy for enslaved people's experiences. That way is stocked here as the way Zambia teaches this thing; it is cited as evidence only.
+
+## History expansion (2026-11-15) — Angola stocked
+
+**Book (Angola):** *Manual de História | 6.ª Classe* (student book, Portuguese) — Angola. Title as printed: Manual de História | 6.ª Classe (cover: HISTÓRIA — 6.ª Classe). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Mensagem Editora, Luanda, for the Ministério da Educação; year 2021 (3rd edition); ISBN 978-989-54802-3-4. PDF pages: 80 (cover verified against the record title). Verdict: COMPLETE. Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED. Records: 2 records / 2 distinct books / books.json pushed paths via grab.py (tree route). Library debt, as filed: Angola's Grade 5 book — *História — Manual do Aluno, 5ª Classe* (student book, Portuguese) — is UNREAD: grab.py tree route for grade-05/gov/angola/historia/student-book.pdf failed with HTTP Error 404 (Contents API) on the first attempt and again on a retry; the record claims in_pushed: true, so the pushed file is missing from the repo tree at the recorded path. No placements from that book. Placements at liqlearns-courses-work/expansion-history-2026-11-15/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — Tema 4.2–4.3: The slave trade and Africa's ruling classes — story beats: Captives are shipped across the Atlantic in vast numbers; some African rulers and traders feed the trade while their societies bleed people (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle) | Angola, *Manual de História \| 6.ª Classe*, printed pp. 39–41 |
+
+Angola's own way (History expansion, 2026-11-15): A pupil in Angola learns African history as one rising arc — Africa as humanity's cradle, its ancient civilisations and great kingdoms, the slave-trade era, colonisation, and the liberation struggles — with Angola's own past carried inside the continental story rather than in a separate national book. That way is stocked here as the way Angola teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Angola).**

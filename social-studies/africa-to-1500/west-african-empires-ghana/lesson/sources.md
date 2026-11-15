@@ -1,6 +1,6 @@
 # Sources — West African Empires — Ghana
 
-countries: Ethiopia
+countries: Ethiopia, Angola
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 85).
 
@@ -14,13 +14,13 @@ countries: Ethiopia
 | Grade 9 depth — Trade, taxed: the Soninke-founded empire (4th century AD, height c.1000 AD, in modern Mauritania, Mali and Senegal) grew great by controlling the Trans-Saharan trade and taxing it; trade, with Islam's rise a contributing factor, named the main source of its greatness | Ethiopia, *History, Student Textbook, Grade 9*, Unit 5, printed pp. 89–90 |
 
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Angola).**
 
 Extension added 2026-11-12 (Ethiopia Wave 4, Grade 9 History), resting on the Grade 9 student textbook, printed pp. 89–90. The coordinator's stacked lesson 'Ghana, Mali and Songhai — empires of gold' is stocked across the three existing empire lessons (Ghana here; Mali and Songhai in their own lessons, extended in the same pass), as recorded in the build log. No Grade 9 book error flagged by the placements touches Ghana's section.
 
 No teacher-guide material is folded into this lesson: the Addis Ababa guide's Unit 5 covers Egypt and Nubia/Meroe only, so nothing here rests on teacher evidence. No book error flagged by the placements touches this lesson. The picture the placement names (gold lands south, desert caravans north, Ghana taxing the middle) is Picture 11306, a drawn render.
 
-Searchable tags: ancient Ghana, Soninke, Koumbi Saleh, gold trade, camel caravans, Senegal, Niger bend, Almoravid, Mandinka, Ethiopia Grade 7 Social Studies Chapter 5
+Searchable tags: ancient Ghana, Soninke, Koumbi Saleh, gold trade, camel caravans, Senegal, Niger bend, Almoravid, Mandinka, Ethiopia Grade 7 Social Studies Chapter 5, Angola Grade 6, Manual de História 6.ª Classe, Mensagem Editora
 
 ## History fix (2026-11-12) — provenance completed
 
@@ -38,3 +38,15 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
+
+## History expansion (2026-11-15) — Angola stocked
+
+**Book (Angola):** *Manual de História | 6.ª Classe* (student book, Portuguese) — Angola. Title as printed: Manual de História | 6.ª Classe (cover: HISTÓRIA — 6.ª Classe). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Mensagem Editora, Luanda, for the Ministério da Educação; year 2021 (3rd edition); ISBN 978-989-54802-3-4. PDF pages: 80 (cover verified against the record title). Verdict: COMPLETE. Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED. Records: 2 records / 2 distinct books / books.json pushed paths via grab.py (tree route). Library debt, as filed: Angola's Grade 5 book — *História — Manual do Aluno, 5ª Classe* (student book, Portuguese) — is UNREAD: grab.py tree route for grade-05/gov/angola/historia/student-book.pdf failed with HTTP Error 404 (Contents API) on the first attempt and again on a retry; the record claims in_pushed: true, so the pushed file is missing from the repo tree at the recorded path. No placements from that book. Placements at liqlearns-courses-work/expansion-history-2026-11-15/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — Tema 3.1: The great kingdoms and empires — Ghana — story beats: Ghana grows powerful taxing the gold-and-salt trade across the Sahara, the first of the great West African empires the class meets (History expansion, 2026-11-15; original placement slug: africa-to-1500/west-african-empires-ghana) | Angola, *Manual de História \| 6.ª Classe*, printed p. 28 |
+
+Angola's own way (History expansion, 2026-11-15): A pupil in Angola learns African history as one rising arc — Africa as humanity's cradle, its ancient civilisations and great kingdoms, the slave-trade era, colonisation, and the liberation struggles — with Angola's own past carried inside the continental story rather than in a separate national book. That way is stocked here as the way Angola teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Angola).**

@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia
+countries: Ethiopia, Angola
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -21,11 +21,11 @@ countries: Ethiopia
 | Sub lesson 5 — Grade 11 depth: Farming, surplus and the emergence of the state | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 15–21 |
 
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Angola).**
 
 No book error flagged by the placements touches this lesson. The fire-and-language addition is the teacher guide's (printed p. 20) and is labelled (teacher guide — evidence) in the table and the text.
 
-Searchable tags: Stone Age, Palaeolithic, Mesolithic, Neolithic Revolution, domestication, teff, dagussa, nug, enset, pottery, fire and language
+Searchable tags: Stone Age, Palaeolithic, Mesolithic, Neolithic Revolution, domestication, teff, dagussa, nug, enset, pottery, fire and language, Angola Grade 6, Manual de História 6.ª Classe, Mensagem Editora
 
 ## History fix (2026-11-12) — provenance completed
 
@@ -43,3 +43,15 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
+
+## History expansion (2026-11-15) — Angola stocked
+
+**Book (Angola):** *Manual de História | 6.ª Classe* (student book, Portuguese) — Angola. Title as printed: Manual de História | 6.ª Classe (cover: HISTÓRIA — 6.ª Classe). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Mensagem Editora, Luanda, for the Ministério da Educação; year 2021 (3rd edition); ISBN 978-989-54802-3-4. PDF pages: 80 (cover verified against the record title). Verdict: COMPLETE. Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED. Records: 2 records / 2 distinct books / books.json pushed paths via grab.py (tree route). Library debt, as filed: Angola's Grade 5 book — *História — Manual do Aluno, 5ª Classe* (student book, Portuguese) — is UNREAD: grab.py tree route for grade-05/gov/angola/historia/student-book.pdf failed with HTTP Error 404 (Contents API) on the first attempt and again on a retry; the record claims in_pushed: true, so the pushed file is missing from the repo tree at the recorded path. No placements from that book. Placements at liqlearns-courses-work/expansion-history-2026-11-15/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — Tema 1.2: From dependence on nature to hunting, fishing and gathering — story beats: Early humans stop merely gathering what nature gives and begin to hunt, fish and collect together — the first step from dependence toward making a living (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Angola, *Manual de História \| 6.ª Classe*, printed p. 11 |
+
+Angola's own way (History expansion, 2026-11-15): A pupil in Angola learns African history as one rising arc — Africa as humanity's cradle, its ancient civilisations and great kingdoms, the slave-trade era, colonisation, and the liberation struggles — with Angola's own past carried inside the continental story rather than in a separate national book. That way is stocked here as the way Angola teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Angola).**

@@ -1,6 +1,6 @@
 # Sources — West African Empires — Mali and Mansa Musa
 
-countries: Ethiopia
+countries: Ethiopia, Angola
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -19,10 +19,22 @@ countries: Ethiopia
 | Sub lesson 5 — Grade 11 depth: Ghana, Mali and Songhai in depth — the Sudanic sequence | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 125–131 |
 
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Angola).**
 
 Extension added 2026-11-12 (Ethiopia Wave 4, Grade 9 History), resting on the Grade 9 student textbook, printed pp. 90–91. See the Ghana extension's honesty note for the stacked 'empires of gold' disposition. No Grade 9 book error flagged by the placements touches Mali's section.
 
 No teacher-guide material is folded into this lesson: the Addis Ababa guide's Unit 5 covers Egypt and Nubia/Meroe only, so nothing here rests on teacher evidence. The pilgrimage is taught as plot summary only, never as the book's text, per the build guide's story rule; the placement names a short story script of the pilgrimage (summary), and video-script.md carries it in full. No book error flagged by the placements touches this lesson. The picture the placement names (Mansa Musa's pilgrimage route with Timbuktu marked) is Picture 11307, a drawn render.
 
-Searchable tags: Mali, Sundiata Keita, Mansa Musa, pilgrimage, hajj, Cairo, Mecca, Timbuktu, Niani, gold, Mossi, Tuareg, Ethiopia Grade 7 Social Studies Chapter 5
+Searchable tags: Mali, Sundiata Keita, Mansa Musa, pilgrimage, hajj, Cairo, Mecca, Timbuktu, Niani, gold, Mossi, Tuareg, Ethiopia Grade 7 Social Studies Chapter 5, Angola Grade 6, Manual de História 6.ª Classe, Mensagem Editora
+
+## History expansion (2026-11-15) — Angola stocked
+
+**Book (Angola):** *Manual de História | 6.ª Classe* (student book, Portuguese) — Angola. Title as printed: Manual de História | 6.ª Classe (cover: HISTÓRIA — 6.ª Classe). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Mensagem Editora, Luanda, for the Ministério da Educação; year 2021 (3rd edition); ISBN 978-989-54802-3-4. PDF pages: 80 (cover verified against the record title). Verdict: COMPLETE. Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED. Records: 2 records / 2 distinct books / books.json pushed paths via grab.py (tree route). Library debt, as filed: Angola's Grade 5 book — *História — Manual do Aluno, 5ª Classe* (student book, Portuguese) — is UNREAD: grab.py tree route for grade-05/gov/angola/historia/student-book.pdf failed with HTTP Error 404 (Contents API) on the first attempt and again on a retry; the record claims in_pushed: true, so the pushed file is missing from the repo tree at the recorded path. No placements from that book. Placements at liqlearns-courses-work/expansion-history-2026-11-15/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — Tema 3.1: The great kingdoms and empires — Mali — story beats: Mali succeeds Ghana as the trading empire of the western Sudan, larger and richer, ruled in its golden age by Mansa Musa (History expansion, 2026-11-15; original placement slug: africa-to-1500/west-african-empires-mali-and-mansa-musa) | Angola, *Manual de História \| 6.ª Classe*, printed p. 28 |
+
+Angola's own way (History expansion, 2026-11-15): A pupil in Angola learns African history as one rising arc — Africa as humanity's cradle, its ancient civilisations and great kingdoms, the slave-trade era, colonisation, and the liberation struggles — with Angola's own past carried inside the continental story rather than in a separate national book. That way is stocked here as the way Angola teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Angola).**
