@@ -1,6 +1,6 @@
 # Sources — Islamic civilisation — what it is and what marks it
 
-countries: Kuwait
+countries: Kuwait, Mauritania
 
 **Book 5:** *الكويت والعالم الإسلامي — الصف الثامن، الفصل الدراسي الأول (Kuwait and the Islamic World, Grade 8, Term 1)* (student book, Arabic) — Kuwait. Title as printed: الكويت والعالم الإسلامي — الصف الثامن، الفصل الدراسي الأول (Kuwait and the Islamic World, Grade 8, Term 1). Grade: 8 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait — General Directorate for Guidance, Research and Curricula; 2nd edition 1448H / 2026–2027 (1st 2025–2026); ISBN 978-9921-33-000-7. PDF pages: 114 (cover/title page verified against the record title; grabbed via the TSV release record, 43,874,946 bytes, matching the books.json record size exactly). Verdict: COMPLETE. Tally: 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
 
@@ -17,3 +17,23 @@ Kuwait's own way (Grade 8 Term 1): Grade 8 frames History as the Islamic world's
 **Acceptance count: taught in 1 country (Kuwait).**
 
 Searchable tags: Kuwait, Islamic civilisation — what it is and what marks it, The Ancient World, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 10 — mr-g13 (History, 7th year, Arts stream (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة السابعة آداب (History Book for the Seventh Year, Arts)
+- Grade: Grade 13 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 100 (cover/title page verified against the record title; authors: inspector Fali Mini and IPN adviser Dr Mohamed Mahmoud Mohamed Abdellahi)
+- Verdict: COMPLETE
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED
+- Mauritania's own way: The final Arts year is contemporary-world civics-history: the UN, ideology and the two camps, the Cold War and the new world order; liberation across India, Algeria, Mauritania and sub-Saharan Africa; the results of colonialism (Arab League, African Union, the problems of new states); and a closing unit on civilisations — the concept, Islamic civilisation's character and contribution, and European civilisation.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 14: Islamic civilisation — characteristics and contribution — story beats: Islamic civilisation's character and its gift to the world are weighed as a whole (History expansion, 2026-11-15; original placement slug: ancient-world/islamic-civilisations-scholarship-and-learning) | Mauritania, *كتاب التاريخ للسنة السابعة آداب (History Book for the Seventh Year, Arts)*, printed p. 82 |
+
+Mauritania's own way (mr-g13 — History, 7th year, Arts stream (student book, Arabic)): The final Arts year is contemporary-world civics-history: the UN, ideology and the two camps, the Cold War and the new world order; liberation across India, Algeria, Mauritania and sub-Saharan Africa; the results of colonialism (Arab League, African Union, the problems of new states); and a closing unit on civilisations — the concept, Islamic civilisation's character and contribution, and European civilisation. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Kuwait, Mauritania).**

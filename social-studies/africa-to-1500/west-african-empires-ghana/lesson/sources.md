@@ -1,6 +1,6 @@
 # Sources — West African Empires — Ghana
 
-countries: Ethiopia, Angola
+countries: Ethiopia, Angola, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 85).
 
@@ -50,3 +50,55 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 Angola's own way (History expansion, 2026-11-15): A pupil in Angola learns African history as one rising arc — Africa as humanity's cradle, its ancient civilisations and great kingdoms, the slave-trade era, colonisation, and the liberation struggles — with Angola's own past carried inside the continental story rather than in a separate national book. That way is stocked here as the way Angola teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Angola).**
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 2 — mr-g08 (History, 2nd preparatory year (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2026; ISBN no ISBN printed
+- PDF pages: 112 (cover/title page verified against the record title; read in place from phase3-staging, 6,633,860 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 24 placements — 23 to existing lessons, 1 NEW LESSON NEEDED
+- Mauritania's own way: Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 3: The Sudanese empires — Ghana — story beats: Ghana, medieval black Africa's first kingdom, grows rich where the salt and gold roads cross, its king ruling through ministers, interpreters and princes (History expansion, 2026-11-15; original placement slug: africa-to-1500/west-african-empires-ghana) | Mauritania, *كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)*, printed p. 19 |
+
+Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — mr-g05 (History, 5th year of primary education (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الخامسة من التعليم الابتدائي (History Book for the Fifth Year of Primary Education)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title; authors named: retired inspectors Sid Mohamed/Khalifa and Mohamedhen/Abderrahmane)
+- Verdict: COMPLETE
+- Tally: 17 placements — 3 to existing lessons, 14 NEW LESSON NEEDED
+- Mauritania's own way: The whole primary book is Mauritania's own story, taught as 17 "dossiers" (ملف), each run through the same six-step rhythm — starting situation, build my learning, discuss, summarise, test, enrich. From pre-Islamic Mauritania it walks Ghana, Aoudaghost, Takrur, Islam's arrival, the Almoravids, then the emirates, colonisation, resistance and independence.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Dossier 2: The Ghana Empire — story beats: Ghana appears in the land between the great desert and the southern forests, astride the roads the caravans must cross (History expansion, 2026-11-15; original placement slug: africa-to-1500/west-african-empires-ghana) | Mauritania, *كتاب التاريخ للسنة الخامسة من التعليم الابتدائي (History Book for the Fifth Year of Primary Education)*, printed p. 11 |
+
+Mauritania's own way (mr-g05 — History, 5th year of primary education (student book, Arabic)): The whole primary book is Mauritania's own story, taught as 17 "dossiers" (ملف), each run through the same six-step rhythm — starting situation, build my learning, discuss, summarise, test, enrich. From pre-Islamic Mauritania it walks Ghana, Aoudaghost, Takrur, Islam's arrival, the Almoravids, then the emirates, colonisation, resistance and independence. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — mr-g11 (History, 5th year of secondary education (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الخامسة من التعليم الثانوي (History Book for the Fifth Year of Secondary Education)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 98 (cover/title page verified against the record title; authors include IPN professor Dr Mohamed El-Amine Mohamed Mahmoud)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Mauritania's own way: The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 10: The Sudanese kingdoms — Ghana — story beats: Ghana heads the pair of Sudanese kingdoms the lesson compares (History expansion, 2026-11-15; original placement slug: africa-to-1500/west-african-empires-ghana) | Mauritania, *كتاب التاريخ للسنة الخامسة من التعليم الثانوي (History Book for the Fifth Year of Secondary Education)*, printed p. 70 |
+
+Mauritania's own way (mr-g11 — History, 5th year of secondary education (student book, Arabic)): The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Mauritania).**

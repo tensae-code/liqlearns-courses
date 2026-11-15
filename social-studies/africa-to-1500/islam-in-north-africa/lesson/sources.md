@@ -1,6 +1,6 @@
 # Sources — Islam in North Africa
 
-countries: Ethiopia, Syria
+countries: Ethiopia, Syria, Mauritania
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -48,3 +48,40 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 Syria's own way (الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6), Grade 6 (student/teacher: STUDENT)): a combined Social Studies book whose History strand runs region by region across the Arab lands in Africa — ancient Egypt and Carthage first, then the Arab-Islamic liberation and civilisation of the Nile Valley, Libya, the Maghreb and al-Andalus, each region's Geography lessons interleaved with its History. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Syria).**
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 2 — mr-g08 (History, 2nd preparatory year (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2026; ISBN no ISBN printed
+- PDF pages: 112 (cover/title page verified against the record title; read in place from phase3-staging, 6,633,860 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 24 placements — 23 to existing lessons, 1 NEW LESSON NEEDED
+- Mauritania's own way: Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 1: Islam enters Mauritania — story beats: Islam comes mostly peacefully, above all with Muslim traders; the preacher Abdullah ibn Yasin's followers reach a thousand men in four years, and commanding right and forbidding wrong strengthens the new faith (History expansion, 2026-11-15; original placement slug: africa-to-1500/islam-in-north-africa) | Mauritania, *كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)*, printed p. 9 |
+
+Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — mr-g05 (History, 5th year of primary education (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الخامسة من التعليم الابتدائي (History Book for the Fifth Year of Primary Education)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title; authors named: retired inspectors Sid Mohamed/Khalifa and Mohamedhen/Abderrahmane)
+- Verdict: COMPLETE
+- Tally: 17 placements — 3 to existing lessons, 14 NEW LESSON NEEDED
+- Mauritania's own way: The whole primary book is Mauritania's own story, taught as 17 "dossiers" (ملف), each run through the same six-step rhythm — starting situation, build my learning, discuss, summarise, test, enrich. From pre-Islamic Mauritania it walks Ghana, Aoudaghost, Takrur, Islam's arrival, the Almoravids, then the emirates, colonisation, resistance and independence.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Dossier 5: Islam in Mauritania — story beats: the pupil must date Islam's arrival and name its carriers — traders, the scholars of the mahadras and the Sufi shaykhs (History expansion, 2026-11-15; original placement slug: africa-to-1500/islam-in-north-africa) | Mauritania, *كتاب التاريخ للسنة الخامسة من التعليم الابتدائي (History Book for the Fifth Year of Primary Education)*, printed p. 20 |
+| Mauritania part — Dossier 7: Mauritania's role in spreading Islam — story beats: a map of the Islamic conquest in the Maghreb frames how Mauritania itself became a spreader of the faith southward (History expansion, 2026-11-15; original placement slug: africa-to-1500/islam-in-north-africa) | Mauritania, *كتاب التاريخ للسنة الخامسة من التعليم الابتدائي (History Book for the Fifth Year of Primary Education)*, printed p. 26 |
+
+Mauritania's own way (mr-g05 — History, 5th year of primary education (student book, Arabic)): The whole primary book is Mauritania's own story, taught as 17 "dossiers" (ملف), each run through the same six-step rhythm — starting situation, build my learning, discuss, summarise, test, enrich. From pre-Islamic Mauritania it walks Ghana, Aoudaghost, Takrur, Islam's arrival, the Almoravids, then the emirates, colonisation, resistance and independence. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Syria, Mauritania).**

@@ -1,6 +1,6 @@
 # Sources — North Africa — Fatimids, Mamluk Egypt and the Funj
 
-countries: Ethiopia, Eritrea, Egypt, Pakistan
+countries: Ethiopia, Eritrea, Egypt, Pakistan, Mauritania
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -61,3 +61,23 @@ Pakistan's own way (History 7 (PCTB, SNC 2022), Grade 7 / Class 7 (student/teach
 **Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Egypt, Pakistan).**
 
 Searchable tags: Pakistan, North Africa — Fatimids, Mamluk Egypt and the Funj, africa-to-1500, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 1 — mr-g07 (History, 1st preparatory year (student book, Arabic))**
+- Title as printed: التاريخ للسنة الأولى الإعدادية (History for the First Preparatory Year)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed
+- PDF pages: 80 (cover/title page verified against the record title; read in place from phase3-staging, 8,837,866 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Mauritania's own way: A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall".
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 12: The Fatimid state — rise, expansion, causes of fall — story beats: a rival caliphate is born in North Africa, takes Egypt and builds Cairo, then fades (History expansion, 2026-11-15; original placement slug: africa-to-1500/north-africa-fatimids-mamluks-and-the-funj) | Mauritania, *التاريخ للسنة الأولى الإعدادية (History for the First Preparatory Year)*, printed p. 68 |
+
+Mauritania's own way (mr-g07 — History, 1st preparatory year (student book, Arabic)): A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall". That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Egypt, Pakistan, Mauritania).**

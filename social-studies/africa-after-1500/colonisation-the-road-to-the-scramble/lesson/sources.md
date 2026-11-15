@@ -1,6 +1,6 @@
 # Sources — Colonisation — the road to the Scramble
 
-countries: Ethiopia, Rwanda, Eritrea, Dominican Republic
+countries: Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -92,3 +92,39 @@ Zimbabwe's own way (Grade 5): the road to colonisation is taught from the receiv
 Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Eritrea, Dominican Republic).**
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 2 — mr-g08 (History, 2nd preparatory year (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2026; ISBN no ISBN printed
+- PDF pages: 112 (cover/title page verified against the record title; read in place from phase3-staging, 6,633,860 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 24 placements — 23 to existing lessons, 1 NEW LESSON NEEDED
+- Mauritania's own way: Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 9: European colonial expansion — causes, forms, results — story beats: economic motives lead; colonialism takes forms from direct rule to the protectorate, where the colonised state keeps a nominal independence (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-the-road-to-the-scramble) | Mauritania, *كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)*, printed p. 83 |
+
+Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — mr-g12 (History, 6th year of secondary education (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة السادسة من التعليم الثانوي (History Book for the Sixth Year of Secondary Education)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 116 (cover/title page verified against the record title; author Sheikh Ahmed Sheikh Ahmed among others)
+- Verdict: COMPLETE
+- Tally: 18 placements — 12 to existing lessons, 6 NEW LESSON NEEDED
+- Mauritania's own way: Europe's road to the modern world in Unit 1 (English parliamentarism, the 18th-century ideas, American independence, the French and Industrial revolutions); Unit 2 turns the lens on colonisation with Mauritania inside it (the emirates, colonialism and resistance at home, Omar Mukhtar and al-Hajj Umar as resistance models); Unit 3 runs WWI to WWII with Palestine and the 1929 crisis between the wars.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 6: European colonial expansion — story beats: industrial Europe reaches for the world's lands (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-the-road-to-the-scramble) | Mauritania, *كتاب التاريخ للسنة السادسة من التعليم الثانوي (History Book for the Sixth Year of Secondary Education)*, printed p. 47 |
+
+Mauritania's own way (mr-g12 — History, 6th year of secondary education (student book, Arabic)): Europe's road to the modern world in Unit 1 (English parliamentarism, the 18th-century ideas, American independence, the French and Industrial revolutions); Unit 2 turns the lens on colonisation with Mauritania inside it (the emirates, colonialism and resistance at home, Omar Mukhtar and al-Hajj Umar as resistance models); Unit 3 runs WWI to WWII with Palestine and the 1929 crisis between the wars. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania).**

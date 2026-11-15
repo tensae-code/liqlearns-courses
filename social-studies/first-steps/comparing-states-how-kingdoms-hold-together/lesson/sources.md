@@ -1,6 +1,6 @@
 # Sources — Comparing states: how kingdoms hold together
 
-countries: Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia
+countries: Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia, Mauritania
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -147,3 +147,39 @@ Colombia's own way (Secundaria Activa G7 (student book, Spanish)): Grade 7 Secun
 **Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia).**
 
 Searchable tags: Colombia, Comparing states: how kingdoms hold together, first-steps, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 1 — mr-g07 (History, 1st preparatory year (student book, Arabic))**
+- Title as printed: التاريخ للسنة الأولى الإعدادية (History for the First Preparatory Year)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed
+- PDF pages: 80 (cover/title page verified against the record title; read in place from phase3-staging, 8,837,866 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Mauritania's own way: A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall".
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 2: Ancient civilisations — what a civilisation is and what founds one — story beats: Ibn Khaldun and Will Durant are quoted; no civilisation rises without natural, economic, social, political and cultural foundations, and writing is the cultural foundation that preserves them all (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | Mauritania, *التاريخ للسنة الأولى الإعدادية (History for the First Preparatory Year)*, printed p. 11 |
+
+Mauritania's own way (mr-g07 — History, 1st preparatory year (student book, Arabic)): A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall". That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — mr-g13 (History, 7th year, Arts stream (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة السابعة آداب (History Book for the Seventh Year, Arts)
+- Grade: Grade 13 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 100 (cover/title page verified against the record title; authors: inspector Fali Mini and IPN adviser Dr Mohamed Mahmoud Mohamed Abdellahi)
+- Verdict: COMPLETE
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED
+- Mauritania's own way: The final Arts year is contemporary-world civics-history: the UN, ideology and the two camps, the Cold War and the new world order; liberation across India, Algeria, Mauritania and sub-Saharan Africa; the results of colonialism (Arab League, African Union, the problems of new states); and a closing unit on civilisations — the concept, Islamic civilisation's character and contribution, and European civilisation.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 13: Civilisation — its concept and foundations — story beats: the closing unit returns to first principles — what a civilisation is and what founds it (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | Mauritania, *كتاب التاريخ للسنة السابعة آداب (History Book for the Seventh Year, Arts)*, printed p. 79 |
+
+Mauritania's own way (mr-g13 — History, 7th year, Arts stream (student book, Arabic)): The final Arts year is contemporary-world civics-history: the UN, ideology and the two camps, the Cold War and the new world order; liberation across India, Algeria, Mauritania and sub-Saharan Africa; the results of colonialism (Arab League, African Union, the problems of new states); and a closing unit on civilisations — the concept, Islamic civilisation's character and contribution, and European civilisation. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia, Mauritania).**

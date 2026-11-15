@@ -1,6 +1,6 @@
 # Sources — Company rule, direct rule, assimilation
 
-countries: Ethiopia, Gambia
+countries: Ethiopia, Gambia, Mauritania
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -46,3 +46,23 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 Gambia's own way (History expansion, 2026-11-15): A free, scholar-written regional textbook built for the WAEC exam shared by the five Anglophone West African states — West Africa's whole story told by West African and diaspora historians, with two chapters (women and authority; the environment) the authors added beyond the syllabus, and Gambian historian Hassoum Ceesay on the author team. That way is stocked here as the way Gambia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Gambia).**
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 2 — mr-g08 (History, 2nd preparatory year (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2026; ISBN no ISBN printed
+- PDF pages: 112 (cover/title page verified against the record title; read in place from phase3-staging, 6,633,860 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 24 placements — 23 to existing lessons, 1 NEW LESSON NEEDED
+- Mauritania's own way: Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 9: Colonialism's effects — story beats: the coloniser exploits the colony's resources for himself and invites foreign capital to invade its economy (History expansion, 2026-11-15; original placement slug: africa-after-1500/company-rule-direct-rule-assimilation) | Mauritania, *كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)*, printed p. 87 |
+
+Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Gambia, Mauritania).**

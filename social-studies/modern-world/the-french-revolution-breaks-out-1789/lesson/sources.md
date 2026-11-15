@@ -1,6 +1,6 @@
 # Sources — 1789 — the French Revolution breaks out
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia
+countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -265,3 +265,39 @@ Colombia's own way (Secundaria Activa G8 (student book, Spanish)): Grade 8 Secun
 **Acceptance count: taught in 11 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia).**
 
 Searchable tags: Colombia, 1789 — the French Revolution breaks out, modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 2 — mr-g08 (History, 2nd preparatory year (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2026; ISBN no ISBN printed
+- PDF pages: 112 (cover/title page verified against the record title; read in place from phase3-staging, 6,633,860 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 24 placements — 23 to existing lessons, 1 NEW LESSON NEEDED
+- Mauritania's own way: Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 7: The French Revolution 1789–1799 — story beats: nobles and clergy hold power tax-free; Turgot and Necker fail to fix the finances; Mirabeau answers the court — "we are here by the will of the people" (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Mauritania, *كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)*, printed p. 60 |
+
+Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — mr-g12 (History, 6th year of secondary education (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة السادسة من التعليم الثانوي (History Book for the Sixth Year of Secondary Education)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 116 (cover/title page verified against the record title; author Sheikh Ahmed Sheikh Ahmed among others)
+- Verdict: COMPLETE
+- Tally: 18 placements — 12 to existing lessons, 6 NEW LESSON NEEDED
+- Mauritania's own way: Europe's road to the modern world in Unit 1 (English parliamentarism, the 18th-century ideas, American independence, the French and Industrial revolutions); Unit 2 turns the lens on colonisation with Mauritania inside it (the emirates, colonialism and resistance at home, Omar Mukhtar and al-Hajj Umar as resistance models); Unit 3 runs WWI to WWII with Palestine and the 1929 crisis between the wars.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 4: The French Revolution — story beats: the old order collapses in 1789 (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Mauritania, *كتاب التاريخ للسنة السادسة من التعليم الثانوي (History Book for the Sixth Year of Secondary Education)*, printed p. 26 |
+
+Mauritania's own way (mr-g12 — History, 6th year of secondary education (student book, Arabic)): Europe's road to the modern world in Unit 1 (English parliamentarism, the 18th-century ideas, American independence, the French and Industrial revolutions); Unit 2 turns the lens on colonisation with Mauritania inside it (the emirates, colonialism and resistance at home, Omar Mukhtar and al-Hajj Umar as resistance models); Unit 3 runs WWI to WWII with Palestine and the 1929 crisis between the wars. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania).**

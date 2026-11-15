@@ -1,6 +1,6 @@
 # Sources — West African Empires — Songhai
 
-countries: Ethiopia
+countries: Ethiopia, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 87).
 
@@ -22,3 +22,39 @@ Extension added 2026-11-12 (Ethiopia Wave 4, Grade 9 History), resting on the Gr
 No teacher-guide material is folded into this lesson: the Addis Ababa guide's Unit 5 covers Egypt and Nubia/Meroe only, so nothing here rests on teacher evidence. No book error flagged by the placements touches this lesson. The picture the placement names (the Niger bend with Timbuktu, Jenne and Gao marked) is Picture 11308, a drawn render.
 
 Searchable tags: Songhai, Sunni Ali, Askia Muhammad, Niger bend, Timbuktu, Jenne, Gao, Sharia judges, Morocco 1591, Bornu, Hausa, Ethiopia Grade 7 Social Studies Chapter 5
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 2 — mr-g08 (History, 2nd preparatory year (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2026; ISBN no ISBN printed
+- PDF pages: 112 (cover/title page verified against the record title; read in place from phase3-staging, 6,633,860 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 24 placements — 23 to existing lessons, 1 NEW LESSON NEEDED
+- Mauritania's own way: Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 3: The Sudanese empires — Songhai — story beats: Songhai's order is so effective a child can go to market unmolested; then on 13 May 1591 Judar Pasha enters Gao, Askia Ishaq flees, and the empire collapses (History expansion, 2026-11-15; original placement slug: africa-to-1500/west-african-empires-songhai) | Mauritania, *كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)*, printed p. 26 |
+
+Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — mr-g11 (History, 5th year of secondary education (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الخامسة من التعليم الثانوي (History Book for the Fifth Year of Secondary Education)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 98 (cover/title page verified against the record title; authors include IPN professor Dr Mohamed El-Amine Mohamed Mahmoud)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Mauritania's own way: The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 10: The Sudanese kingdoms — Songhai — story beats: Songhai, Ghana's successor in the lesson's pairing, rules the Niger bend (History expansion, 2026-11-15; original placement slug: africa-to-1500/west-african-empires-songhai) | Mauritania, *كتاب التاريخ للسنة الخامسة من التعليم الثانوي (History Book for the Fifth Year of Secondary Education)*, printed p. 71 |
+
+Mauritania's own way (mr-g11 — History, 5th year of secondary education (student book, Arabic)): The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Mauritania).**

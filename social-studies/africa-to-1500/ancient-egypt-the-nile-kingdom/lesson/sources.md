@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — the Nile Kingdom
 
-countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine
+countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -371,3 +371,23 @@ Palestine's own way (Book 3 — G6 Social Studies Part 1, Grade 6 (student/teach
 **Acceptance count: taught in 18 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine).**
 
 Searchable tags: Palestine, Ancient Egypt — the Nile Kingdom, africa-to-1500, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 1 — mr-g07 (History, 1st preparatory year (student book, Arabic))**
+- Title as printed: التاريخ للسنة الأولى الإعدادية (History for the First Preparatory Year)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed
+- PDF pages: 80 (cover/title page verified against the record title; read in place from phase3-staging, 8,837,866 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Mauritania's own way: A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall".
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 2: Pharaonic Egypt, model of a vanished civilisation — story beats: Egypt is Mesopotamia's pair in the lesson — the Nile valley civilisation the class must place on the map beside the two rivers (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Mauritania, *التاريخ للسنة الأولى الإعدادية (History for the First Preparatory Year)*, printed p. 16 |
+
+Mauritania's own way (mr-g07 — History, 1st preparatory year (student book, Arabic)): A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall". That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania).**

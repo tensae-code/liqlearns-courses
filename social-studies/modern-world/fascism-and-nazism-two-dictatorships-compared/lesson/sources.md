@@ -1,6 +1,6 @@
 # Sources — Fascism and Nazism — two dictatorships compared
 
-countries: Ethiopia, Australia, Montenegro, Dominican Republic, Cambodia
+countries: Ethiopia, Australia, Montenegro, Dominican Republic, Cambodia, Mauritania
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -98,3 +98,39 @@ Cambodia's own way (Book 4 — ប្រវត្តិវិទ្យា ថ្
 **Acceptance count: taught in 5 countries (Ethiopia, Australia, Montenegro, Dominican Republic, Cambodia).**
 
 Searchable tags: Cambodia, Fascism and Nazism — two dictatorships compared, modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 2 — mr-g08 (History, 2nd preparatory year (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2026; ISBN no ISBN printed
+- PDF pages: 112 (cover/title page verified against the record title; read in place from phase3-staging, 6,633,860 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 24 placements — 23 to existing lessons, 1 NEW LESSON NEEDED
+- Mauritania's own way: Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 12: The dictatorial regimes in Europe — story beats: fascism grows from the 19th century's great transformations; Hitler takes over the Nazi party in 1920 and proclaims his 25-point programme (History expansion, 2026-11-15; original placement slug: modern-world/fascism-and-nazism-two-dictatorships-compared) | Mauritania, *كتاب التاريخ للسنة الثانية الإعدادية (History Book for the Second Preparatory Year)*, printed p. 100 |
+
+Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — mr-g12 (History, 6th year of secondary education (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة السادسة من التعليم الثانوي (History Book for the Sixth Year of Secondary Education)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 116 (cover/title page verified against the record title; author Sheikh Ahmed Sheikh Ahmed among others)
+- Verdict: COMPLETE
+- Tally: 18 placements — 12 to existing lessons, 6 NEW LESSON NEEDED
+- Mauritania's own way: Europe's road to the modern world in Unit 1 (English parliamentarism, the 18th-century ideas, American independence, the French and Industrial revolutions); Unit 2 turns the lens on colonisation with Mauritania inside it (the emirates, colonialism and resistance at home, Omar Mukhtar and al-Hajj Umar as resistance models); Unit 3 runs WWI to WWII with Palestine and the 1929 crisis between the wars.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 14: Fascism in Italy and Nazism in Germany — story beats: the crisis's political children — Mussolini's fascism and Hitler's Nazism compared (History expansion, 2026-11-15; original placement slug: modern-world/fascism-and-nazism-two-dictatorships-compared) | Mauritania, *كتاب التاريخ للسنة السادسة من التعليم الثانوي (History Book for the Sixth Year of Secondary Education)*, printed p. 95 |
+
+Mauritania's own way (mr-g12 — History, 6th year of secondary education (student book, Arabic)): Europe's road to the modern world in Unit 1 (English parliamentarism, the 18th-century ideas, American independence, the French and Industrial revolutions); Unit 2 turns the lens on colonisation with Mauritania inside it (the emirates, colonialism and resistance at home, Omar Mukhtar and al-Hajj Umar as resistance models); Unit 3 runs WWI to WWII with Palestine and the 1929 crisis between the wars. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Australia, Montenegro, Dominican Republic, Cambodia, Mauritania).**

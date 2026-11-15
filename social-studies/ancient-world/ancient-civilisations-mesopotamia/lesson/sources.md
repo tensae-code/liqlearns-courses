@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -379,3 +379,23 @@ Colombia's own way (Secundaria Activa G6 (student book, Spanish)): Secundaria Ac
 **Acceptance count: taught in 16 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia).**
 
 Searchable tags: Colombia, Ancient civilisations — Mesopotamia, ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 1 — mr-g07 (History, 1st preparatory year (student book, Arabic))**
+- Title as printed: التاريخ للسنة الأولى الإعدادية (History for the First Preparatory Year)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed
+- PDF pages: 80 (cover/title page verified against the record title; read in place from phase3-staging, 8,837,866 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Mauritania's own way: A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall".
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 2: Mesopotamia, model of a vanished civilisation — story beats: Sumerians from the Caucasus, Akkadians, Babylonians and Assyrians people the two rivers in turn; Ur, Lagash and Nippur rule, Gudea rebuilds and Ur-Nammu raises his tower (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Mauritania, *التاريخ للسنة الأولى الإعدادية (History for the First Preparatory Year)*, printed p. 13 |
+
+Mauritania's own way (mr-g07 — History, 1st preparatory year (student book, Arabic)): A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall". That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania).**

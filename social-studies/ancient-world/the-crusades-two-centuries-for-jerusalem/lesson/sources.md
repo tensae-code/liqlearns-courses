@@ -1,6 +1,6 @@
 # Sources — The Crusades — two centuries for Jerusalem
 
-countries: Pakistan, Bulgaria
+countries: Pakistan, Bulgaria, Mauritania
 
 **Book (Pakistan — History 7 (PCTB, SNC 2022)):** *تاریخ — History 7* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 7 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 7 / Class 7 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 96 (printed pp. 1–94; read IN PLACE at phase3-staging; image-only scan — the only text layer is the "Web version of PCTB Textbook Not for Sale" watermark — read in full from page renders; cover and title page verified against the record). Verdict: COMPLETE — with a library-debt note: the on-disk file is 81,665,509 bytes against the record's 80,223,717 bytes; the copy read is complete and coherent at the recorded 96 pages, but the size mismatch should be reconciled by the library team. Tally: 31 placements — 14 to existing lessons, 17 NEW LESSON NEEDED (including a reuse of a NEW slug created in Book 5 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
 
@@ -50,3 +50,23 @@ Bulgaria's own way (Book 3 — История и цивилизации, 10. к�
 **Acceptance count: taught in 2 countries (Pakistan, Bulgaria).**
 
 Searchable tags: Bulgaria, The Crusades — two centuries for Jerusalem, ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 8 — mr-g11 (History, 5th year of secondary education (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الخامسة من التعليم الثانوي (History Book for the Fifth Year of Secondary Education)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 98 (cover/title page verified against the record title; authors include IPN professor Dr Mohamed El-Amine Mohamed Mahmoud)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Mauritania's own way: The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 12: The Crusades — story beats: the first model of the Islamic–Western clash — two centuries of Frankish wars in the Levant (History expansion, 2026-11-15; original placement slug: ancient-world/the-crusades-1095-to-1291) | Mauritania, *كتاب التاريخ للسنة الخامسة من التعليم الثانوي (History Book for the Fifth Year of Secondary Education)*, printed p. 79 |
+
+Mauritania's own way (mr-g11 — History, 5th year of secondary education (student book, Arabic)): The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Pakistan, Bulgaria, Mauritania).**

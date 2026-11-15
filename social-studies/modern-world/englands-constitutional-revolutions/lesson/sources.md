@@ -1,6 +1,6 @@
 # Sources — England's constitutional revolutions
 
-countries: France, Kuwait, Cambodia
+countries: France, Kuwait, Cambodia, Mauritania
 
 **Book 1:** *Histoire 2de — Manuel Libre d'Histoire, Seconde (Les Manuels Libres)* (student book, French) — France. Title as printed: Histoire 2de — Manuel Libre d'Histoire, Seconde (Les Manuels Libres). Grade: Grade 10 (Seconde) (student/teacher: STUDENT). Publisher: Les Manuels Libres, Région académique Île-de-France; year not printed in the manual; licence CC BY-NC-SA 4.0; ISBN no ISBN printed. PDF pages: no printed pagination — HTML manual read chapter by chapter (cover/contents page "Contenu du manuel" verified against the record title); placements therefore cite theme/chapter instead of printed pages. Verdict: COMPLETE. Tally: 28 placements — 15 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/france-placements.md. The other France record, *Géographie 2de GT — Manuel Libre de Géographie, Seconde* (Grade 10, student book), is RECORD ONLY — pure Geography, not placed, with 0 placements.
 
@@ -53,3 +53,23 @@ Cambodia's own way (Book 9 — សិក្សាសង្គម ថ្នាក
 **Acceptance count: taught in 3 countries (France, Kuwait, Cambodia).**
 
 Searchable tags: Cambodia, England's constitutional revolutions, modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 9 — mr-g12 (History, 6th year of secondary education (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة السادسة من التعليم الثانوي (History Book for the Sixth Year of Secondary Education)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 116 (cover/title page verified against the record title; author Sheikh Ahmed Sheikh Ahmed among others)
+- Verdict: COMPLETE
+- Tally: 18 placements — 12 to existing lessons, 6 NEW LESSON NEEDED
+- Mauritania's own way: Europe's road to the modern world in Unit 1 (English parliamentarism, the 18th-century ideas, American independence, the French and Industrial revolutions); Unit 2 turns the lens on colonisation with Mauritania inside it (the emirates, colonialism and resistance at home, Omar Mukhtar and al-Hajj Umar as resistance models); Unit 3 runs WWI to WWII with Palestine and the 1929 crisis between the wars.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 1: The English parliamentary system — story beats: England limits its king by parliament — the model the century's thinkers will generalise (History expansion, 2026-11-15; original placement slug: modern-world/englands-parliamentary-system) | Mauritania, *كتاب التاريخ للسنة السادسة من التعليم الثانوي (History Book for the Sixth Year of Secondary Education)*, printed p. 11 |
+
+Mauritania's own way (mr-g12 — History, 6th year of secondary education (student book, Arabic)): Europe's road to the modern world in Unit 1 (English parliamentarism, the 18th-century ideas, American independence, the French and Industrial revolutions); Unit 2 turns the lens on colonisation with Mauritania inside it (the emirates, colonialism and resistance at home, Omar Mukhtar and al-Hajj Umar as resistance models); Unit 3 runs WWI to WWII with Palestine and the 1929 crisis between the wars. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (France, Kuwait, Cambodia, Mauritania).**

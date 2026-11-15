@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Ottomans
 
-countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine
+countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -192,3 +192,39 @@ Palestine's own way (Book 8 — G8 Social Studies Part 2, Grade 8 (student/teach
 **Acceptance count: taught in 8 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine).**
 
 Searchable tags: Palestine, Medieval world — the Ottomans, ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 1 — mr-g07 (History, 1st preparatory year (student book, Arabic))**
+- Title as printed: التاريخ للسنة الأولى الإعدادية (History for the First Preparatory Year)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed
+- PDF pages: 80 (cover/title page verified against the record title; read in place from phase3-staging, 8,837,866 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Mauritania's own way: A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall".
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 13: The Ottoman state — rise, expansion, causes of weakness and fall — story beats: the last great Islamic sultanate expands over three continents and declines over centuries (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Mauritania, *التاريخ للسنة الأولى الإعدادية (History for the First Preparatory Year)*, printed p. 73 |
+
+Mauritania's own way (mr-g07 — History, 1st preparatory year (student book, Arabic)): A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall". That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — mr-g11 (History, 5th year of secondary education (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الخامسة من التعليم الثانوي (History Book for the Fifth Year of Secondary Education)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 98 (cover/title page verified against the record title; authors include IPN professor Dr Mohamed El-Amine Mohamed Mahmoud)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Mauritania's own way: The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 13: The Ottoman state — rise, organisation, causes of weakness and fall — story beats: the second clash model is a Muslim empire facing Europe for six centuries (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Mauritania, *كتاب التاريخ للسنة الخامسة من التعليم الثانوي (History Book for the Fifth Year of Secondary Education)*, printed p. 82 |
+
+Mauritania's own way (mr-g11 — History, 5th year of secondary education (student book, Arabic)): The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania).**

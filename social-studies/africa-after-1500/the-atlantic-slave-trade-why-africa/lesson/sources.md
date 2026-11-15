@@ -1,6 +1,6 @@
 # Sources — The Atlantic slave trade — why Africa
 
-countries: Ethiopia, Colombia
+countries: Ethiopia, Colombia, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -74,3 +74,23 @@ Colombia's own way (Postprimaria G7 (student book, Spanish)): Grade 7 Postprimar
 **Acceptance count: taught in 2 countries (Ethiopia, Colombia).**
 
 Searchable tags: Colombia, The Atlantic slave trade — why Africa, africa-after-1500, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 8 — mr-g11 (History, 5th year of secondary education (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة الخامسة من التعليم الثانوي (History Book for the Fifth Year of Secondary Education)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 98 (cover/title page verified against the record title; authors include IPN professor Dr Mohamed El-Amine Mohamed Mahmoud)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Mauritania's own way: The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 14: The slave trade — causes and results — story beats: the third clash model is a trade in people — its causes and its results for Africa (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-atlantic-slave-trade) | Mauritania, *كتاب التاريخ للسنة الخامسة من التعليم الثانوي (History Book for the Fifth Year of Secondary Education)*, printed p. 91 |
+
+Mauritania's own way (mr-g11 — History, 5th year of secondary education (student book, Arabic)): The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Colombia, Mauritania).**

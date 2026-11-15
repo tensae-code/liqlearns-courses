@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -693,3 +693,39 @@ Colombia's own way (G2 Cartilla 1 (student book, Spanish)): The past is learned 
 **Acceptance count: taught in 31 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia).**
 
 Searchable tags: Colombia, What history is, first-steps, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 1 — mr-g07 (History, 1st preparatory year (student book, Arabic))**
+- Title as printed: التاريخ للسنة الأولى الإعدادية (History for the First Preparatory Year)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed
+- PDF pages: 80 (cover/title page verified against the record title; read in place from phase3-staging, 8,837,866 bytes as recorded)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Mauritania's own way: A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall".
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 1: The concept of history and its stages — story beats: history studies man's past to understand his present and plan his future; nations keep it in chronicles, oral tales and folk stories to raise their children on it (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Mauritania, *التاريخ للسنة الأولى الإعدادية (History for the First Preparatory Year)*, printed p. 6 |
+
+Mauritania's own way (mr-g07 — History, 1st preparatory year (student book, Arabic)): A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall". That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — mr-g07t (History guide, 1st preparatory year (teacher guide, Arabic))**
+- Title as printed: دليل التاريخ للسنة الأولى الإعدادية (History Guide for the First Preparatory Year)
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 42 (cover/title page verified against the record title; authors: secondary-education inspector Fayl Mini and an IPN pedagogical adviser)
+- Verdict: COMPLETE
+- Tally: 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED
+- Mauritania's own way: The guide teaches the teacher, not new content: the competency approach (the teacher as researcher of methods, the pupil an active contributor), the same three units as the Grade 7 student book (ancient history; the emergence of Islam and the Islamic state; the sultanate Islamic states), then full model lesson plans (جذاذات) for three of its lessons. Placements below are those three model plans only; the programme pages duplicate the student book filed as Book 1.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Model lesson plan: Lesson 1, The concept of history and its stages — story beats: the guide's worked example of how to teach the opening lesson — objectives, board work and the dated ages table the class must reach (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Mauritania, *دليل التاريخ للسنة الأولى الإعدادية (History Guide for the First Preparatory Year)*, printed p. 26 |
+
+Mauritania's own way (mr-g07t — History guide, 1st preparatory year (teacher guide, Arabic)): The guide teaches the teacher, not new content: the competency approach (the teacher as researcher of methods, the pupil an active contributor), the same three units as the Grade 7 student book (ancient history; the emergence of Islam and the Islamic state; the sultanate Islamic states), then full model lesson plans (جذاذات) for three of its lessons. Placements below are those three model plans only; the programme pages duplicate the student book filed as Book 1. That way is stocked here as the way Mauritania teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — Mauritania is counted in this lesson on its student books, which place the same lessons. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 32 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania).**

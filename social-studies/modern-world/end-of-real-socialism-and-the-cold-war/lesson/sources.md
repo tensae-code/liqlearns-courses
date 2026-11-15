@@ -1,6 +1,6 @@
 # Sources — The end of 'real socialism' and the Cold War
 
-countries: Costa Rica, Dominican Republic, Bolivia, Colombia
+countries: Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania
 
 **Book (Costa Rica cr-coned-10):** Title as printed: Antología CONED — Estudios Sociales, Código 80023, Nivel Décimo año Grade: Grade 10 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017 file; no ISBN printed PDF pages: 255 (cover verified against the record title; byte size 11,879,619 and page count match the record. Route note: the books.json tree path returned HTTP 404, so the book was grabbed via its TSV release asset in mid-size-books-5, matched exactly) Verdict: COMPLETE Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED Costa Rica's own way: The Décimo anthology is world history with a geopolitical lens — imperialism, the two world wars, the Russian revolution, the Depression, the bipolar Cold War world and today's multipolar tensions — read from Costa Rica outward to Latin America and the globe. Non-History parts (named, not placed): Unidad 3 Dinámica poblacional y movilización espacial (population dynamics in the 20th–21st centuries, Costa Rican population change, internal and international mobility, printed pp. 198–254 — Geography/demography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -65,3 +65,23 @@ Colombia's own way (Secundaria Activa G9 (student book, Spanish)): Grade 9 Secun
 **Acceptance count: taught in 4 countries (Costa Rica, Dominican Republic, Bolivia, Colombia).**
 
 Searchable tags: Colombia, The end of 'real socialism' and the Cold War, modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mauritania stocked
+
+**Book 10 — mr-g13 (History, 7th year, Arts stream (student book, Arabic))**
+- Title as printed: كتاب التاريخ للسنة السابعة آداب (History Book for the Seventh Year, Arts)
+- Grade: Grade 13 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Reform of the Education System, Institut Pédagogique National (IPN), Mauritania; year no year printed; ISBN no ISBN printed
+- PDF pages: 100 (cover/title page verified against the record title; authors: inspector Fali Mini and IPN adviser Dr Mohamed Mahmoud Mohamed Abdellahi)
+- Verdict: COMPLETE
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED
+- Mauritania's own way: The final Arts year is contemporary-world civics-history: the UN, ideology and the two camps, the Cold War and the new world order; liberation across India, Algeria, Mauritania and sub-Saharan Africa; the results of colonialism (Arab League, African Union, the problems of new states); and a closing unit on civilisations — the concept, Islamic civilisation's character and contribution, and European civilisation.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — Lesson 4: The new world order — story beats: one camp falls, and a single-power order is proclaimed (History expansion, 2026-11-15; original placement slug: modern-world/the-new-world-order-after-the-cold-war) | Mauritania, *كتاب التاريخ للسنة السابعة آداب (History Book for the Seventh Year, Arts)*, printed p. 29 |
+
+Mauritania's own way (mr-g13 — History, 7th year, Arts stream (student book, Arabic)): The final Arts year is contemporary-world civics-history: the UN, ideology and the two camps, the Cold War and the new world order; liberation across India, Algeria, Mauritania and sub-Saharan Africa; the results of colonialism (Arab League, African Union, the problems of new states); and a closing unit on civilisations — the concept, Islamic civilisation's character and contribution, and European civilisation. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania).**
