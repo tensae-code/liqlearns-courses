@@ -1,6 +1,6 @@
 # Sources — Growth is not development — the HDI
 
-countries: Ethiopia, Argentina, Brazil
+countries: Ethiopia, Argentina, Brazil, France
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Argentina, Brazil
 **Book 3:** *Cuadernos para el aula: Ciencias Sociales 6* (teacher guide, Spanish) — Argentina, Ministerio de Educación, Ciencia y Tecnología de la Nación, Buenos Aires; year 2007 (1a ed.); ISBN 978-950-00-0629-3. Title as printed: Cuadernos para el aula: Ciencias Sociales 6 (record title: Cuadernos para el aula: NAP 2º ciclo EGB/nivel primario — Ciencias Sociales; the "6" is the series volume for the Second Cycle). Grade 4 (record grade; the book serves the Segundo Ciclo, grades 4–6). 138 PDF pp. (title/copyright page verified against the record title; printed book 136 pp.). Verdict: COMPLETE. Read via grabcurl (curl-resume Contents route, byte size 8,026,886 + blob SHA verified SHA-OK). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/argentina-placements.md
 
 **Book 4:** *Geografia, Livro Didático Público, Ensino Médio* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2007 (2ª edição); ISBN 85-85380-35-7. Title as printed: Geografia — Ensino Médio (Livro Didático Público; record title: Geografia — Livro Didático Público — Ensino Médio (SEED-PR)). Grade 10 (Ensino Médio) (student). 280 PDF pp. (cover/title page verified against the record title; printed book 280 pp.). Verdict: COMPLETE. Read via grab.py url (GitHub release; OK 8,324,996 bytes). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/brazil-placements.md.
+
+**Book 5:** *Géographie 2de GT, Manuel Libre de Géographie, Seconde* (student book, French) — France, Les Manuels Libres (Région académique Île-de-France); dir. Anne Parillaud; year not printed in the Sommaire; ISBN no ISBN printed (digital manual, CC BY-NC-SA 4.0). Title as printed: Géographie 2de GT — Manuels Libres (manuel scolaire libre, Région académique / Région Île-de-France, dir. Anne Parillaud). Grade 10 (Seconde GT) (student). No PDF pagination — digital HTML manual; full Sommaire (4 themes, all chapters) and repository tree verified against the record title. Verdict: COMPLETE — contents read in full via the Sommaire and theme folders; individual image/media files inside the 503 MB archive not individually opened. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/france-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,7 +21,9 @@ countries: Ethiopia, Argentina, Brazil
 | Quality of life taught with statistics and graphs — Argentina's way (teacher guide — evidence) | Argentina, *Cuadernos para el aula: Ciencias Sociales 6* (teacher guide), Eje 1 proposal: El uso de estadísticas y gráficos para la enseñanza de la calidad de vida de la población argentina / Using statistics and graphs to teach the quality of life of the Argentine population — printed p. 37 |
 | Brazil part — Folha 12: Dinheiro traz felicidade? / Does money bring happiness? (wealth and development) | Brazil, *Geografia, Livro Didático Público, Ensino Médio*, Grade 10, Folha 12: Dinheiro traz felicidade? / Does money bring happiness? (wealth and development), printed p. 186 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Brazil). Argentina is named here as teacher-guide evidence only, counted nowhere.**
+| France part — Thème 2: Développement et inégalités (études: Brésil, Russie, États-Unis; simulation d'un G7; le PNUD et la mesure du développement) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 2 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Brazil, France). Argentina is named here as teacher-guide evidence only, counted nowhere.**
 
 Argentina's own way (teacher guide — evidence): quality of life is taught through statistics and graphs — the Argentine population's quality of life is read from its numbers and charts, in a teacher's notebook whose worked proposals are built on statistics, graphs, thematic maps and newspaper articles. That evidence is stocked here as the way Argentina teaches this thing; it does not change the acceptance count above.
 

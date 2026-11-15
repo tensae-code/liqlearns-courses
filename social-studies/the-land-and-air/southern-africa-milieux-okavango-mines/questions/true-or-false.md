@@ -1,0 +1,9 @@
+# Southern Africa's Milieux — the Okavango and the Mines — true or false
+
+Say True or False, and why.
+
+**1. (Sub lesson 1)** This lesson's first part teaches: milieux to value and to protect in southern africa.
+**Answer: True**
+
+**2. (Sub lesson 2)** France's Grade 10 Geography book studies only other countries, never France itself or its set themes.
+**Answer: False**

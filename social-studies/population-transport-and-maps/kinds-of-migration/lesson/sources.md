@@ -1,6 +1,6 @@
 # Sources — Kinds of migration
 
-countries: Ethiopia, Micronesia, Brazil, Belarus
+countries: Ethiopia, Micronesia, Brazil, Belarus, France
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Micronesia, Brazil, Belarus
 
 **Book 5:** *Геаграфія Беларусі. 10 клас (Geography of Belarus, Grade 10)* (student book, Belarusian) — Belarus, Народная асвета (Narodnaya Asveta), Minsk; year 2012; ISBN 978-985-03-1787-2. Title as printed: Геаграфія Беларусі — вучэбны дапаможнік для 10 класа ўстаноў агульнай сярэдняй адукацыі з беларускай мовай навучання, 3-е выданне, перапрацаванае (M. M. Brylevsky, G. S. Smolyakov). Grade 10 (student). 304 PDF pp. (cover/title page verified against the record title; printed book 303 pp., approved by the Ministry of Education of the Republic of Belarus; read via its recorded archive.org source, 15,825,848 bytes — the GitHub grab route was failing with RemoteDisconnected through the proxy). Verdict: COMPLETE — full text layer read (contents, foreword and introduction read in full; all 63 paragraphs in 10 themes accounted for from the book's own contents, printed pp. 5–303, plus the closing glossary). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/belarus-placements.md.
 
+**Book 6:** *Géographie 2de GT, Manuel Libre de Géographie, Seconde* (student book, French) — France, Les Manuels Libres (Région académique Île-de-France); dir. Anne Parillaud; year not printed in the Sommaire; ISBN no ISBN printed (digital manual, CC BY-NC-SA 4.0). Title as printed: Géographie 2de GT — Manuels Libres (manuel scolaire libre, Région académique / Région Île-de-France, dir. Anne Parillaud). Grade 10 (Seconde GT) (student). No PDF pagination — digital HTML manual; full Sommaire (4 themes, all chapters) and repository tree verified against the record title. Verdict: COMPLETE — contents read in full via the Sommaire and theme folders; individual image/media files inside the 503 MB archive not individually opened. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/france-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Internal and international | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 167–168 |
@@ -21,7 +23,9 @@ countries: Ethiopia, Micronesia, Brazil, Belarus
 | Brazil part — Folha 6: Para onde vais? / Where are you going? (migration) | Brazil, *Geografia, Livro Didático Público, Ensino Médio*, Grade 10, Folha 6: Para onde vais? / Where are you going? (migration), printed p. 102 |
 | Belarus part — Natural movement of population; migrations | Belarus, *Геаграфія Беларусі. 10 клас (Geography of Belarus, Grade 10)*, Grade 10, Theme V §34, printed p. 167 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Micronesia, Brazil, Belarus).**
+| France part — Thème 3: Les migrations internationales (étude de cas: la mer Méditerranée, un espace migratoire) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 3 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Micronesia, Brazil, Belarus, France).**
 
 No book error is flagged for this lesson's pages in the placements. The migration vocabulary itself — migration, immigration, immigrant, voluntary and forced migration, country of origin, push and pull factors — is gathered as a glossary in the Grade 10 teacher guide's answer key (guide printed p. 140) and is listed for the course ABOUT.md rather than built as a lesson, per the build brief's reference rule.
 

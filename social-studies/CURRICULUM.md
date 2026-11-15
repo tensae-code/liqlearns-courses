@@ -993,3 +993,69 @@ world — foreign trade and union programmes (Theme IX
 §§55–57, printed p. 261) — the new lessons taught in
 1 country (Belarus), 8 questions each. Geography
 lessons: 618 → 635.
+
+## Geography expansion — France — built 2026-11-14
+
+France — 24 placements stocked from 1 distinct book that
+carries Geography (4 records / 2 distinct books in total):
+*Géographie 2de GT, Manuel Libre de Géographie, Seconde*
+(student book, French, COMPLETE; Les Manuels Libres,
+Région académique Île-de-France, dir. Anne Parillaud;
+year not printed; no ISBN printed, digital manual,
+CC BY-NC-SA 4.0; no PDF pagination — digital HTML manual
+read in full through its complete Sommaire, 4 themes).
+France's own way: every theme is built the same way — a
+world chapter taught through one deep case study (Los
+Angeles megafires, the Amazon, Japan, the Mediterranean),
+then the same theme re-taught on France itself, closing
+with map-sketch (croquis) and mind-map assessment; debate
+and role-play (nuclear debate, G7 simulation) are standard
+geography methods. The second book, *Histoire 2de, Manuel
+Libre d'Histoire, Seconde* (student book, French), is
+RECORD-ONLY — pure History, the History half of the
+Seconde Histoire-Géographie programme; no Geography
+chapters; not placed, a later History wave owns it.
+Stocked into standing lessons — **Earth and Space**:
+Landforms, continents and oceans (Sommaire Thème 1 —
+now taught in 3 countries, Ethiopia, Saudi Arabia and
+France); **Resources and Conflict**: Water under pressure
+(Thème 1 — now 3 countries, Ethiopia, Brazil and France)
+and Fights over water, land, oil and diamonds (Thème 1,
+the méga-bassines at Sainte-Soline — now 2 countries);
+**Global Issues**: The sustainability challenge (Thème 1,
+world energy consumption — now 2 countries);
+**Population, Transport and Maps**: Ageing countries —
+the support ratio (Thème 2, Japan case — now 2
+countries), The demographic transition model (Thème 2 —
+now 2 countries), Maps and globes — kinds of maps and
+scale (Thème 2 bilan, croquis of France — now 2
+countries), Kinds of migration (Thème 3, Mediterranean
+case — now 5 countries, Ethiopia, Micronesia, Brazil,
+Belarus and France) and Push and pull — why Africans move
+(Thème 4, Southern Africa migrations — now 2 countries);
+**People and Resources**: Growth is not development —
+the HDI (Thème 2, with a G7 simulation — now taught in
+3 countries, Ethiopia, Brazil and France; Argentina stays
+teacher-guide evidence only) and Tourism — selling the
+landscape (Thème 3, Mediterranean tourism basin — now
+taught in 2 countries, Ethiopia and France; Morocco stays
+teacher-guide evidence only) — and 13 new lessons built
+— in **Global Issues**: Societies facing risks — Los
+Angeles megafires (Thème 1), France's energy transition
+— the nuclear debate (Thème 1), Risk management in
+France — Dunkirk (Thème 1) and Southern Africa —
+transition and development challenges (Thème 4); in
+**Resources and Conflict**: The Amazon forest — value
+and protect (Thème 1) and France — inequalities and
+cohesion policies (Thème 2); in **People and
+Resources**: France's milieux — protection and the
+Guyana gold mine (Thème 1) and Southern Africa tourism
+and Luanda's urban mobility (Thème 4); in **Population,
+Transport and Maps**: France ageing — Mayotte and Creuse,
+opposite challenges (Thème 2), France — daily mobility
+and holidays (Thème 3), Transport networks — the Grand
+Paris Express (Thème 3) and Mobility of tomorrow — a
+debate (Thème 3); in **The Land and Air**: Southern
+Africa's milieux — the Okavango and the mines (Thème
+4) — the new lessons taught in 1 country (France),
+8 questions each. Geography lessons: 635 → 648.

@@ -1,10 +1,12 @@
 # Sources — Tourism — selling the landscape
 
-countries: Ethiopia, Morocco
+countries: Ethiopia, Morocco, France
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
 **Book 2:** *Geography, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). First published 2022 under GEQIP-E. (No ISBN printed in the pages read.) Printed page = PDF page − 22 for the body (front matter in roman numerals). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-teacher-placements.md.
+
+**Book 3:** *Géographie 2de GT, Manuel Libre de Géographie, Seconde* (student book, French) — France, Les Manuels Libres (Région académique Île-de-France); dir. Anne Parillaud; year not printed in the Sommaire; ISBN no ISBN printed (digital manual, CC BY-NC-SA 4.0). Title as printed: Géographie 2de GT — Manuels Libres (manuel scolaire libre, Région académique / Région Île-de-France, dir. Anne Parillaud). Grade 10 (Seconde GT) (student). No PDF pagination — digital HTML manual; full Sommaire (4 themes, all chapters) and repository tree verified against the record title. Verdict: COMPLETE — contents read in full via the Sommaire and theme folders; individual image/media files inside the 503 MB archive not individually opened. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/france-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,7 +14,9 @@ countries: Ethiopia, Morocco
 | Sub lesson 2 — Contribution and constraints | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 147–149 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 5 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 5, guide printed pp. 143–176 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+| France part — Thème 3: Les mobilités touristiques internationales (étude de cas: la Méditerranée, un bassin touristique; surtourisme) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 3 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, France). Morocco is named in this file as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: tourism, attractions, lalibela, simien, constraints, social studies
 

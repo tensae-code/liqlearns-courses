@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **635**
+Geography lessons across the eight Geography titles: **648**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -186,3 +186,18 @@ and Belarus services — education, culture and health
 geography; Global Issues: Belarus landscapes, protected
 areas and ecological problems and Belarus in the world —
 foreign trade and union programmes.
++13 for France, 2026-11-14 — Global Issues: Societies
+facing risks — Los Angeles megafires, France's energy
+transition — the nuclear debate, Risk management in
+France — Dunkirk and Southern Africa — transition and
+development challenges; Resources and Conflict: The
+Amazon forest — value and protect and France —
+inequalities and cohesion policies; People and
+Resources: France's milieux — protection and the Guyana
+gold mine and Southern Africa tourism and Luanda's urban
+mobility; Population, Transport and Maps: France ageing
+— Mayotte and Creuse, opposite challenges, France —
+daily mobility and holidays, Transport networks — the
+Grand Paris Express and Mobility of tomorrow — a debate;
+The Land and Air: Southern Africa's milieux — the
+Okavango and the mines.
