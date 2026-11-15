@@ -2573,7 +2573,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **351**
+History lessons across the History titles: **360**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2828,3 +2828,32 @@ kingdoms hold together 2 → 3). Nigeria's 18 other
 records are Learn Africa Plc approved-list
 catalog-only entries with no file held — UNREAD,
 record-only, with no placements.
+
++9 for France, 2026-11-15 — Ancient World:
+Venice and the medieval Mediterranean, and The
+Crusades and the Latin East; Modern World: The
+Atlantic economy — silver and slavery, The Valladolid
+debate, The making of the modern state in France,
+The Edict of Nantes and its revocation, Versailles
+and absolute monarchy, England's constitutional
+revolutions, and France before the Revolution —
+tensions of the old regime. All 28 France placements
+stand on France's Grade 10 student book
+(*Histoire 2de — Manuel Libre d'Histoire, Seconde*,
+Les Manuels Libres — an HTML manual with no printed
+pagination, so placements cite theme/chapter),
+counted in acceptance (the nine new lessons; and the
+thirteen existing lessons stocked, whose counts rise
+with France added — Ancient World Athens and
+democracy 1 → 2, Greece-Crete 1 → 2, Rome 2 → 3,
+Rome divides 2 → 3, Byzantium and Justinian 1 → 2,
+Trade routes that linked the old world 2 → 3 and
+The Aztecs — Tenochtitlan 1 → 2; Modern World
+Exploration — Columbus, Vespucci and Magellan 1 → 2,
+The Renaissance — its great figures 1 → 2, The
+Reformation — Luther and Protestantism 1 → 2,
+American independence 1 → 2, Scientific revolution
+and Enlightenment 1 → 2 and The Industrial
+Revolution — textiles, steam and rail 1 → 2). The
+other France record, *Géographie 2de GT*, is
+RECORD ONLY — pure Geography, not placed.

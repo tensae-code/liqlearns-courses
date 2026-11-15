@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome
 
-countries: Ethiopia, Brazil
+countries: Ethiopia, Brazil, France
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -52,3 +52,18 @@ Myanmar's own way: The year is split in two arcs — Myanmar's own past first (p
 Brazil's own way (History expansion, 2026-11-15): A public textbook written by serving teachers, organised not by chronology but by three relations — work, power and culture — so slavery, wage labour, the state and resistance are each followed across ancient, medieval and modern societies, always landing back in Brazil and in Paraná itself. That way is stocked here as the way Brazil teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Brazil).**
+
+---
+
+**France — History expansion (2026-11-15):**
+
+**Book (France):** *Histoire 2de — Manuel Libre d'Histoire, Seconde (Les Manuels Libres)* (student book, French) — France. Title as printed: Histoire 2de — Manuel Libre d'Histoire, Seconde (Les Manuels Libres). Grade: Grade 10 (Seconde) (student/teacher: STUDENT). Publisher: Les Manuels Libres, Région académique Île-de-France; year not printed in the manual; licence CC BY-NC-SA 4.0; ISBN no ISBN printed. PDF pages: no printed pagination — HTML manual read chapter by chapter (cover/contents page "Contenu du manuel" verified against the record title); placements therefore cite theme/chapter instead of printed pages. Verdict: COMPLETE. Tally: 28 placements — 15 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/france-placements.md. The other France record, *Géographie 2de GT — Manuel Libre de Géographie, Seconde* (Grade 10, student book), is RECORD ONLY — pure Geography, not placed, with 0 placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| France — L'empreinte romaine; le principat d'Auguste: Augustus founds the principate and Rome stamps its order on the whole sea — story beats: Augustus founds the principate and Rome stamps its order on the whole sea (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | France, *Histoire 2de — Manuel Libre d'Histoire, Seconde*, Thème 1, La Méditerranée antique: L'empreinte romaine; le principat d'Auguste (no printed pagination — HTML manual, theme/chapter cited) |
+
+France's own way: the Seconde year is built as four themes that keep returning to France's own story inside the world's — the Mediterranean inheritance, the Atlantic opening, the making of the French and English states, and the tensions that will explode in 1789 — taught through document studies, interactive quizzes and "question problématisée" essays rather than narrative chapters. That way is stocked here as the way France teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Brazil, France).**
+

@@ -8955,3 +8955,79 @@ TITLES.md). Nigeria's 18 other records are Learn
 Africa Plc approved-list catalog-only entries with
 no file held — UNREAD, record-only, with no
 placements. History lessons: 339 → 351.
+
+## History expansion — France — built 2026-11-15
+
+9 new lessons, 72 questions, in **Ancient World**:
+Venice and the medieval Mediterranean
+(ancient-world/venice-and-the-medieval-mediterranean)
+and The Crusades and the Latin East
+(ancient-world/the-crusades-and-the-latin-east);
+and in **Modern World**: The Atlantic economy —
+silver and slavery
+(modern-world/the-atlantic-economy-silver-and-slavery),
+The Valladolid debate
+(modern-world/the-valladolid-debate), The making of
+the modern state in France
+(modern-world/the-making-of-the-modern-state-in-france),
+The Edict of Nantes and its revocation
+(modern-world/the-edict-of-nantes-and-its-revocation),
+Versailles and absolute monarchy
+(modern-world/versailles-and-absolute-monarchy),
+England's constitutional revolutions
+(modern-world/englands-constitutional-revolutions)
+and France before the Revolution — tensions of the
+old regime
+(modern-world/france-before-the-revolution-tensions-of-the-old-regime)
+— 28 placements stocked from France's 1 distinct
+book read here: the Grade 10 (Seconde) student book
+*Histoire 2de — Manuel Libre d'Histoire, Seconde*
+(Les Manuels Libres, Région académique
+Île-de-France; year not printed; licence CC BY-NC-SA
+4.0; no ISBN printed): Thème 1, La Méditerranée
+antique (Périclès; L'empreinte grecque; L'empreinte
+romaine; Constantin), into the existing Athens and
+democracy, Greece-Crete, Rome and Rome divides
+lessons; Thème 1, La Méditerranée médiévale (Les
+formes de pouvoir; Des contacts diversifiés; Venise;
+Bernard de Clairvaux), into the existing Byzantium
+and Justinian and Trade routes lessons and the new
+Venice and Crusades lessons; Thème 2, L'ouverture
+atlantique (Autour de la notion de découverte;
+Autour de la notion d'empire; L'or et l'argent des
+Amériques; La controverse de Valladolid), into the
+existing Exploration — Columbus and Aztecs lessons
+and the new Atlantic economy and Valladolid lessons;
+Thème 2, Renaissance et réformes religieuses
+(Érasme; la naissance de l'artiste; la chapelle
+Sixtine; Luther; les causes des réformes), into the
+existing Renaissance great figures and Reformation —
+Luther lessons; Thème 3, L'affirmation de l'État
+(Ordonnance de Villers-Cotterêts; Édit de Nantes et
+révocation; La politique de Colbert; Versailles) and
+Le monde britannique (Habeas Corpus et Bill of
+Rights; Du modèle anglais au modèle américain;
+Voltaire et l'Angleterre), into the existing American
+independence lesson and the new Modern state in
+France, Edict of Nantes, Versailles and England's
+constitutional revolutions lessons; Thème 4,
+Lumières et développement des sciences (L'esprit
+scientifique; Galilée; Émilie du Châtelet; La machine
+à vapeur), into the existing Scientific revolution
+and Enlightenment and Industrial Revolution —
+textiles, steam and rail lessons; and Thème 4,
+Tensions, mutations et crispations (La révolte des
+Va-nu-pieds; riches et pauvres à Paris; Les ports
+français; Un salon au XVIIIe siècle), into the new
+Atlantic economy and France before the Revolution
+lessons. The manual is an HTML manual with no
+printed pagination, so placements cite theme/chapter
+instead of printed pages, exactly as filed. All 28
+placements stand on the student book, counted in
+acceptance (the nine new lessons; and the thirteen
+existing lessons stocked, whose counts rise with
+France added, as listed in TITLES.md). The other
+France record, *Géographie 2de GT — Manuel Libre de
+Géographie, Seconde*, is RECORD ONLY — pure
+Geography, not placed, with 0 placements. History
+lessons: 351 → 360.

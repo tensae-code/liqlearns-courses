@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia
+countries: Ethiopia, France
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -29,3 +29,18 @@ This book is a teacher guide. The Myanmar rows below stand on it as teacher-guid
 Myanmar's own way: The year is split in two arcs — Myanmar's own past first (prehistory, the Pyu city-states, Bagan), then world history (hunters, first farmers, Mesopotamia, Egypt, Greece, Rome, China, India) — and every lesson is taught in a fixed Introduce–Teach–Practice–Review (I-T-P-R) shape with student-centred activities. That way is stocked here as the way Myanmar teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Myanmar placement above is teacher-guide evidence only, counted nowhere.**
+
+---
+
+**France — History expansion (2026-11-15):**
+
+**Book (France):** *Histoire 2de — Manuel Libre d'Histoire, Seconde (Les Manuels Libres)* (student book, French) — France. Title as printed: Histoire 2de — Manuel Libre d'Histoire, Seconde (Les Manuels Libres). Grade: Grade 10 (Seconde) (student/teacher: STUDENT). Publisher: Les Manuels Libres, Région académique Île-de-France; year not printed in the manual; licence CC BY-NC-SA 4.0; ISBN no ISBN printed. PDF pages: no printed pagination — HTML manual read chapter by chapter (cover/contents page "Contenu du manuel" verified against the record title); placements therefore cite theme/chapter instead of printed pages. Verdict: COMPLETE. Tally: 28 placements — 15 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/france-placements.md. The other France record, *Géographie 2de GT — Manuel Libre de Géographie, Seconde* (Grade 10, student book), is RECORD ONLY — pure Geography, not placed, with 0 placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| France — L'empreinte grecque: Greek cities ring the Mediterranean and leave language, art and politics as their footprint — story beats: Greek cities ring the Mediterranean and leave language, art and politics as their footprint (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | France, *Histoire 2de — Manuel Libre d'Histoire, Seconde*, Thème 1, La Méditerranée antique: L'empreinte grecque (no printed pagination — HTML manual, theme/chapter cited) |
+
+France's own way: the Seconde year is built as four themes that keep returning to France's own story inside the world's — the Mediterranean inheritance, the Atlantic opening, the making of the French and English states, and the tensions that will explode in 1789 — taught through document studies, interactive quizzes and "question problématisée" essays rather than narrative chapters. That way is stocked here as the way France teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, France).**
+
