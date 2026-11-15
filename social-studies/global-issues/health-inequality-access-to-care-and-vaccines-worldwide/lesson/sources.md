@@ -1,0 +1,16 @@
+# Sources — Health Inequality — Access to Care and Vaccines Worldwide
+
+countries: Haiti
+
+**Book 1:** *Sciences humaines et sociales — Géographie — L'inégale répartition des richesses et la solidarité mondiale* (teacher sequence, French) — Haiti, MENFP / Projet Nectar (Canoprof), 8e année; authors Mélanie Albaret, Arnaud Dechelle. Title as printed: Sciences humaines et sociales — Géographie — L'inégale répartition des richesses et la solidarité mondiale (Projet Nectar, MENFP, 8e année). Grade 8 (teacher). Publisher: MENFP / Projet Nectar (Canoprof); year not printed (sources to 2022); no ISBN printed (CC BY-NC-SA licence printed). 26 PDF pp. (cover verified against the record title). Verdict: COMPLETE. This filing covers both records of the same book: the TSV release record and the books.json record — the book is taught once, every distinct record cited. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Health inequality — access to care and vaccines worldwide (teacher sequence — evidence) | Haiti, *Sciences humaines et sociales — Géographie — L'inégale répartition des richesses et la solidarité mondiale* (teacher sequence), Grade 8, Séance 4 L'inégalité sanitaire dans le monde (cartographie des ressources de santé, accès aux soins et aux vaccins, Covid-19 en Haïti) — printed p. 22 |
+| Sub lesson 2 — Haiti's way — map the care, then question the gap (teacher sequence — evidence) | Haiti, *Sciences humaines et sociales — Géographie — L'inégale répartition des richesses et la solidarité mondiale* (teacher sequence), Grade 8, Séance 4 L'inégalité sanitaire dans le monde (cartographie des ressources de santé, accès aux soins et aux vaccins, Covid-19 en Haïti), printed p. 22, and the book's stated way of working (World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale.) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-sequence evidence only (Haiti), named here, counted nowhere.**
+
+Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. This lesson stands on that teacher sequence as evidence: it teaches the sequence's thing in the course's own words — the book's text itself is never transcribed.
+
+Searchable tags: health inequality, access to care, vaccines, Covid-19, health resources map, Haiti, Inégale répartition des richesses, teacher sequence evidence, Haiti Grade 8, social studies, global issues

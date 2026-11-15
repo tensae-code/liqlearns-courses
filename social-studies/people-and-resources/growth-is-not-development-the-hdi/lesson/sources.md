@@ -1,6 +1,6 @@
 # Sources — Growth is not development — the HDI
 
-countries: Ethiopia, Argentina, Brazil, France, Barbados
+countries: Ethiopia, Argentina, Brazil, France, Barbados, Haiti
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Argentina, Brazil, France, Barbados
 
 **Book 6:** *Geography for CSEC — 2nd Edition* (student book, English) — Barbados, Oxford University Press; year 2016 (first published 2016, © OUP 2016); ISBN 978-1-4085-2726-9. Title as printed: Geography for CSEC — 2nd Edition. Grade 10 (CSEC examination course, Caribbean secondary) (student). 364 PDF pp. (cover/title page verified against the record title; 45,799,971 bytes, matches its books.json record exactly; read from its recorded archive.org source after the GitHub grab route failed (RemoteDisconnected/timeouts, 2026-11-14)). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/barbados-placements.md.
 
+**Book 7:** *Sciences humaines et sociales — Géographie — L'inégale répartition des richesses et la solidarité mondiale* (teacher sequence, French) — Haiti, MENFP / Projet Nectar (Canoprof), 8e année; authors Mélanie Albaret, Arnaud Dechelle. Title as printed: Sciences humaines et sociales — Géographie — L'inégale répartition des richesses et la solidarité mondiale (Projet Nectar, MENFP, 8e année). Grade 8 (teacher). Publisher: MENFP / Projet Nectar (Canoprof); year not printed (sources to 2022); no ISBN printed (CC BY-NC-SA licence printed). 26 PDF pp. (cover verified against the record title). Verdict: COMPLETE. This filing covers both records of the same book: the TSV release record and the books.json record — the book is taught once, every distinct record cited. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Growth versus development | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 125 |
@@ -25,8 +27,11 @@ countries: Ethiopia, Argentina, Brazil, France, Barbados
 
 | France part — Thème 2: Développement et inégalités (études: Brésil, Russie, États-Unis; simulation d'un G7; le PNUD et la mesure du développement) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 2 |
 | Barbados part — economic development; the importance of economic activity in the Caribbean; challenges to the economies of the Caribbean (case studies Jamaica, Trinidad and Tobago, Singapore) | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 11: economic development; the importance of economic activity in the Caribbean; challenges to the economies of the Caribbean (case studies Jamaica, Trinidad and Tobago, Singapore) — printed p. 246 |
+| Haiti part — Séance 1 (suite) — comparer des cartes d'indices différents (PIB, IDH, espérance de vie, indice de pauvreté multidimensionnelle) et questionner la construction des indicateurs (teacher sequence — evidence) | Haiti, *Sciences humaines et sociales — Géographie — L'inégale répartition des richesses et la solidarité mondiale* (teacher sequence), Grade 8, Séance 1 (suite) — comparer des cartes d'indices différents (PIB, IDH, espérance de vie, indice de pauvreté multidimensionnelle) et questionner la construction des indicateurs — printed p. 12 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Brazil, France, Barbados). Argentina is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Brazil, France, Barbados). Argentina is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+
+Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -34,4 +39,4 @@ Argentina's own way (teacher guide — evidence): quality of life is taught thro
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
-Searchable tags: growth versus development, HDI, human development index, ethiopia, argentina, quality of life, statistics and graphs, teacher guide evidence, social studies, people and resources
+Searchable tags: growth versus development, HDI, human development index, ethiopia, argentina, quality of life, statistics and graphs, teacher guide evidence, social studies, people and resources, Haiti, Inégale répartition des richesses, teacher sequence evidence

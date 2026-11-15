@@ -1,6 +1,6 @@
 # Sources — The Earth's Movements — Rotation and Revolution
 
-countries: Ethiopia, Saudi Arabia, Turkey
+countries: Ethiopia, Saudi Arabia, Turkey, Haiti
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Saudi Arabia, Turkey
 
 **Book 5:** *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı* (student book, Turkish) — Turkey, Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; year 2017 (Birinci Baskı); ISBN 978-975-11-4324-2. Title as printed: Ortaöğretim Coğrafya 9 — Ders Kitabı (authors İsmail Özdoğan, Kenan Türkez, Mutlu Karakoç). Grade 9 (student). 240 PDF pp. (cover/title page verified against the record title; read from the record's archive.org source_url copy — the repo copy later landed by git sparse checkout at exactly the same byte size, 25,904,697 bytes, confirming the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkey-placements.md.
 
+**Book 6:** *Du rond au plat, représenter le globe terrestre ?* (teacher sequence — corrigé, French) — Haiti, MENFP / Projet Nectar (Sciences humaines et sociales — Géographie, 7e année). Title as printed: Du rond au plat, représenter le globe terrestre ? (Projet Nectar, MENFP, Sciences humaines et sociales — Géographie, 7e année). Grade 7 (teacher). Publisher: MENFP / Projet Nectar; year not printed; no ISBN printed. 20 PDF pp. (cover verified against the record title). Verdict: COMPLETE. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Four movements, two that matter | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 17 |
@@ -18,11 +20,14 @@ countries: Ethiopia, Saudi Arabia, Turkey
 | Sub lesson 3 — Revolution: the year and the tilt | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 20–21 |
 | Sub lesson 2 — Rotation: day and night (Saudi Arabia way: دوران الأرض — the Earth's rotation, Unit 5 Lesson 19) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي / Social Studies, Grade 4*, Unit 5 Lesson 19, printed p. 123 |
 | Turkey part — 4B1 Dünya'nın Günlük (Eksen) Hareketi (daily/axial movement) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 4B1 Dünya'nın Günlük (Eksen) Hareketi (daily/axial movement) — printed p. 86 |
+| Haiti part — Séance 3 Les hommes et les mouvements de la Terre (rotation/révolution in daily life, Antilles îles sous le vent / îles du vent) (teacher sequence — evidence) | Haiti, *Du rond au plat, représenter le globe terrestre ?* (teacher sequence), Grade 7, Séance 3 Les hommes et les mouvements de la Terre (rotation/révolution in daily life, Antilles îles sous le vent / îles du vent) — printed p. 10 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Turkey).**
+**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Turkey). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+
+Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
 Guide error NOT taught: the Grade 7 teacher guide's Activity 1.2 answer key claims rotation gives the Northern Hemisphere less daylight all year than the Southern — a garbled attribution; the guide's own §1.2 overview correctly gives seasons and varying day length to revolution and the tilt. This lesson follows the overview and the student book, never that key. The tides row is teacher-guide evidence only (the student book does not name tides as a rotation effect); it is pictured (Picture 11037, GIF 11036) as guide evidence and labelled as such here — it does not change the acceptance count. Pairing warning: the Grade 7 teacher guide is an Addis Ababa bureau book and the student books are Amhara bureau books; they are NOT edition-matched. Pupil content in this lesson comes from the student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
-Searchable tags: rotation, revolution, day and night, 15 degrees per hour, perihelion, aphelion, axis tilt 23.5, North Star, tides
+Searchable tags: rotation, revolution, day and night, 15 degrees per hour, perihelion, aphelion, axis tilt 23.5, North Star, tides, Haiti, Du rond au plat, teacher sequence evidence

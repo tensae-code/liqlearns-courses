@@ -1,6 +1,6 @@
 # Sources — Kinds of migration
 
-countries: Ethiopia, Micronesia, Brazil, Belarus, France
+countries: Ethiopia, Micronesia, Brazil, Belarus, France, Haiti
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Micronesia, Brazil, Belarus, France
 
 **Book 6:** *Géographie 2de GT, Manuel Libre de Géographie, Seconde* (student book, French) — France, Les Manuels Libres (Région académique Île-de-France); dir. Anne Parillaud; year not printed in the Sommaire; ISBN no ISBN printed (digital manual, CC BY-NC-SA 4.0). Title as printed: Géographie 2de GT — Manuels Libres (manuel scolaire libre, Région académique / Région Île-de-France, dir. Anne Parillaud). Grade 10 (Seconde GT) (student). No PDF pagination — digital HTML manual; full Sommaire (4 themes, all chapters) and repository tree verified against the record title. Verdict: COMPLETE — contents read in full via the Sommaire and theme folders; individual image/media files inside the 503 MB archive not individually opened. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/france-placements.md.
 
+**Book 7:** *Sciences humaines et sociales — Géographie — Population urbaine et population rurale en Haïti* (teacher sequence, French) — Haiti, MENFP / Projet Nectar (Canoprof), 8e année; authors Mélanie Albaret, Arnaud Dechelle. Title as printed: Sciences humaines et sociales — Géographie — Population urbaine et population rurale en Haïti (Projet Nectar, MENFP, 8e année). Grade 8 (teacher). Publisher: MENFP / Projet Nectar (Canoprof); year not printed; no ISBN printed (CC BY-NC-SA licence printed). 24 PDF pp. (first page verified against the record title — this PDF opens directly on the sequence presentation page). Verdict: COMPLETE. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Internal and international | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 167–168 |
@@ -24,9 +26,12 @@ countries: Ethiopia, Micronesia, Brazil, Belarus, France
 | Belarus part — Natural movement of population; migrations | Belarus, *Геаграфія Беларусі. 10 клас (Geography of Belarus, Grade 10)*, Grade 10, Theme V §34, printed p. 167 |
 
 | France part — Thème 3: Les migrations internationales (étude de cas: la mer Méditerranée, un espace migratoire) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 3 |
+| Haiti part — Séance 2, Temps 5 L'exode vers les villes et ses conséquences (teacher sequence — evidence) | Haiti, *Sciences humaines et sociales — Géographie — Population urbaine et population rurale en Haïti* (teacher sequence), Grade 8, Séance 2, Temps 5 L'exode vers les villes et ses conséquences — printed p. 12 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Micronesia, Brazil, Belarus, France).**
+**Acceptance count: taught in 5 countries (Ethiopia, Micronesia, Brazil, Belarus, France). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+
+Haiti's own way (teacher sequence — evidence): Population geography is built entirely on Haiti's own data, handled critically: pupils confront the national statistics institute (IHSI) with international sources, note that the last census is 2003, build density maps and age pyramids themselves, then read the whole country through Port-au-Prince's primacy and the diaspora («les Haïtiens de l'extérieur»). That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
 No book error is flagged for this lesson's pages in the placements. The migration vocabulary itself — migration, immigration, immigrant, voluntary and forced migration, country of origin, push and pull factors — is gathered as a glossary in the Grade 10 teacher guide's answer key (guide printed p. 140) and is listed for the course ABOUT.md rather than built as a lesson, per the build brief's reference rule.
 
-Searchable tags: migration kinds, internal international, voluntary forced, permanent change of residence, ethiopia, social studies, population transport and maps
+Searchable tags: migration kinds, internal international, voluntary forced, permanent change of residence, ethiopia, social studies, population transport and maps, Haiti, Population urbaine et rurale, teacher sequence evidence

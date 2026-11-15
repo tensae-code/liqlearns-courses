@@ -1278,3 +1278,85 @@ placements — III-A, printed p. 191; III-B, printed
 p. 200; III-C, printed p. 201) — the new lessons
 taught in 1 country (Turkey), 8 questions each.
 Geography lessons: 672 → 678.
+
+## Geography expansion — Haiti — built 2026-11-14
+
+Haiti — 34 placements stocked from 6 distinct books
+(34 records / 30 distinct books in the Haiti file; the
+other 24 books are RECORD-ONLY — Civics, History,
+French, Physics and Mathematics teacher sequences and
+MENFP curriculum programmes, two of them PARTIAL copies
+(NS 3e and NS 4e detailed programmes) — with no
+Geography teaching parts placed). The 6 Geography
+books are all Projet Nectar teacher sequences (French,
+COMPLETE): *Du rond au plat* (Grade 7, corrigé, 20 PDF
+pp.), *Géographie des risques* (Grade 7, 14 PDF pp.),
+*Haïti verte* (Grade 7, 11 PDF pp.), *Faire de la
+géographie* (Grade 7, 14 PDF pp.), *Population urbaine
+et population rurale en Haïti* (Grade 8, 24 PDF pp.)
+and *L'inégale répartition des richesses* (Grade 8,
+26 PDF pp.; its TSV and books.json records are the same
+book, taught once, both records cited). All 34
+placements are teacher-sequence evidence, cited as the
+evidence they are, outside acceptance counts — Haiti's
+library set is programme documents and teacher
+sequences, not pupil textbooks, and no programme or
+sequence is upgraded. Stocked into standing lessons
+— **Earth and Space**: The solar system — the sun
+and planets (G1 Séance 1, printed p. 6), Earth —
+place, shape and size (Séance 2, printed p. 8),
+Movements — rotation and revolution (Séance 3,
+printed p. 10) and Time zones (Séance 8, printed
+p. 16); **The Land and Air**: Compass points —
+direction on a map (Séance 4, printed p. 11), Maps
+through history (Séance 9, printed p. 18), Reading
+map symbols (Séance 10, printed p. 18), The
+geographer's questions — what geography asks (Faire
+de la géographie I, printed p. 4) and Drawing a sketch
+map (Séance 1, printed p. 6); **Population, Transport
+and Maps**: Maps and globes — how parallels and
+meridians behave (Séance 5, printed p. 12), Maps and
+globes — kinds of maps and scale (Séance 7, printed
+p. 15), GIS — maps that answer questions (Séance 10
+Temps 3, printed p. 19), Population distribution
+(Grade 8 Séance 1, printed p. 8), Reading a population
+pyramid (Séance 1 Temps 4, printed p. 9), Rural
+settlement patterns (Séance 2, printed p. 10), Kinds
+of migration (Séance 2 Temps 5, printed p. 12) and
+Migration — moving for work, safety and family
+(Séance 4, printed p. 16); **People and Resources**:
+Cultural landscapes — land shaped by people (Faire de
+la géographie Séance 2, printed p. 9), Growth is not
+development — the HDI (Grade 8 Séance 1 suite,
+printed p. 12) and Why are people poor — systems or
+choices (Séance 2, printed p. 16); **Resources and
+Conflict**: People and environment — a two-way street
+(Haïti verte Séance 1, printed p. 6), Degradation in
+all its forms (Séance 2, printed p. 7), Water under
+pressure (Séance 2 Temps 3-4, printed p. 8) and
+Sustainable development — meeting needs without
+stealing the future (Séance 3, printed p. 9); **Global
+Issues**: Vulnerability and adaptive capacity
+(Géographie des risques Séance 2, printed p. 8),
+Globalization — gains and costs (Faire de la
+géographie Séance 3, printed p. 12), The gap between
+rich and poor countries (Grade 8 Séance 1, printed
+p. 11) and Famine and food security — availability is
+not enough (Séance 3, printed p. 18) — every standing
+lesson keeps its acceptance count, Haiti named as
+teacher-sequence evidence only — and 6 new lessons
+built — in **Population, Transport and Maps**:
+Inventing the grid — history of the prime meridian
+(G1 Séance 6, printed p. 14) and Primate city —
+macrocephaly, Port-au-Prince (Grade 8 Séance 3,
+printed p. 13); in **Global Issues**: Major risks
+around us — mapping local hazards (Géographie des
+risques Séance 1, printed p. 5), A geohistory of risk
+— Haiti's vulnerable territory (Séance 3, printed
+p. 10), Building a culture of risk — prevention and
+protection (Séance 4, printed p. 12) and Health
+inequality — access to care and vaccines worldwide
+(Grade 8 Séance 4, printed p. 22) — the new lessons
+all teacher-sequence evidence only, acceptance count
+0 countries, 8 questions each. Geography lessons:
+678 → 684.

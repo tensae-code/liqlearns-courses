@@ -1,6 +1,6 @@
 # Sources — People and environment — a two-way street
 
-countries: Ethiopia, Saudi Arabia
+countries: Ethiopia, Saudi Arabia, Haiti
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Saudi Arabia
 
 **Book 5:** *الدراسات الاجتماعية — الصف الرابع الابتدائي / Social Studies, Grade 4* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center (المركز الوطني للمناهج), Riyadh; cover dated 1444 AH / 2023 CE (catalogue imprint 1446 AH; the record title says 1448 AH — year mismatch noted as a library debt); ISBN 978-603-52-12-2 as printed in the imprint (deposit no. 1446/15254). Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي (Social Studies — Fourth Grade, Primary). Grade 4 (student). 228 PDF pp. Verdict: COMPLETE. Read from the TSV release asset (size-verified grab). Note: the books.json record's tree path (grade-04/gov/saudi-arabia/social-studies/student/full-year.pdf) does NOT exist in the repo tree — checked against HEAD by git ls-tree; only the release asset exists (library debt). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/saudi-arabia-placements.md.
 
+**Book 6:** *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence, French) — Haiti, MENFP / Projet Nectar (Sciences humaines et sociales — Géographie, 7e année). Title as printed: Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes. (Projet Nectar, MENFP, Sciences humaines et sociales — Géographie, 7e année). Grade 7 (teacher). Publisher: MENFP / Projet Nectar; year not printed; no ISBN printed. 11 PDF pp. (cover verified against the record title). Verdict: COMPLETE. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Dependence | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 154–157 |
@@ -20,9 +22,12 @@ countries: Ethiopia, Saudi Arabia
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 10 | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 6, guide printed pp. 117–130 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 6 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 6, guide printed pp. 177–206 |
 | Sub lesson — The environment (Saudi Arabia way: البيئة — the environment, human–environment interaction, Unit 3 Lesson 12, one of the five themes as its own lesson) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي / Social Studies, Grade 4*, Unit 3 Lesson 12, printed p. 75 |
+| Haiti part — Séance 1 La Nature, l'Homme et l'environnement, étude géographique (diagnostic de l'environnement local, carte mentale, mini études de cas eau/air/sol/bruit/faune et flore) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 1 La Nature, l'Homme et l'environnement, étude géographique (diagnostic de l'environnement local, carte mentale, mini études de cas eau/air/sol/bruit/faune et flore) — printed p. 6 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+
+Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
 Extension (Wave 4 Band D): the Grade 10 book's two-way-relationship section (printed pp. 149–151) was stacked into this lesson per the build brief. The Grade 10 book's related treatment also stands in the lesson "The two-way relationship" in People and Resources; the parts are cross-named here so neither hides the other.
 
-Searchable tags: human environment relationship, dependence, two-way, resources in objects, social studies
+Searchable tags: human environment relationship, dependence, two-way, resources in objects, social studies, Haiti, Haïti verte, teacher sequence evidence

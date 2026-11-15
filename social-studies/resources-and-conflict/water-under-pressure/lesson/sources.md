@@ -1,6 +1,6 @@
 # Sources — Water under pressure
 
-countries: Ethiopia, Brazil, France
+countries: Ethiopia, Brazil, France, Haiti
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Brazil, France
 **Book 3:** *Geografia, Livro Didático Público, Ensino Médio* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2007 (2ª edição); ISBN 85-85380-35-7. Title as printed: Geografia — Ensino Médio (Livro Didático Público; record title: Geografia — Livro Didático Público — Ensino Médio (SEED-PR)). Grade 10 (Ensino Médio) (student). 280 PDF pp. (cover/title page verified against the record title; printed book 280 pp.). Verdict: COMPLETE. Read via grab.py url (GitHub release; OK 8,324,996 bytes). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/brazil-placements.md.
 
 **Book 4:** *Géographie 2de GT, Manuel Libre de Géographie, Seconde* (student book, French) — France, Les Manuels Libres (Région académique Île-de-France); dir. Anne Parillaud; year not printed in the Sommaire; ISBN no ISBN printed (digital manual, CC BY-NC-SA 4.0). Title as printed: Géographie 2de GT — Manuels Libres (manuel scolaire libre, Région académique / Région Île-de-France, dir. Anne Parillaud). Grade 10 (Seconde GT) (student). No PDF pagination — digital HTML manual; full Sommaire (4 themes, all chapters) and repository tree verified against the record title. Verdict: COMPLETE — contents read in full via the Sommaire and theme folders; individual image/media files inside the 503 MB archive not individually opened. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/france-placements.md.
+
+**Book 5:** *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence, French) — Haiti, MENFP / Projet Nectar (Sciences humaines et sociales — Géographie, 7e année). Title as printed: Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes. (Projet Nectar, MENFP, Sciences humaines et sociales — Géographie, 7e année). Grade 7 (teacher). Publisher: MENFP / Projet Nectar; year not printed; no ISBN printed. 11 PDF pp. (cover verified against the record title). Verdict: COMPLETE. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,9 +21,12 @@ countries: Ethiopia, Brazil, France
 | Brazil part — Folha 4: A água tem futuro? / Does water have a future? | Brazil, *Geografia, Livro Didático Público, Ensino Médio*, Grade 10, Folha 4: A água tem futuro? / Does water have a future?, printed p. 66 |
 
 | France part — Thème 1: L'eau douce, une ressource essentielle (stress hydrique, usages, perspectives) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
+| Haiti part — Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) — printed p. 8 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Brazil, France).**
+**Acceptance count: taught in 3 countries (Ethiopia, Brazil, France). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+
+Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
-Searchable tags: water pollution, water crisis, desalination, watershed, ethiopia, social studies, resources and conflict
+Searchable tags: water pollution, water crisis, desalination, watershed, ethiopia, social studies, resources and conflict, Haiti, Haïti verte, teacher sequence evidence
