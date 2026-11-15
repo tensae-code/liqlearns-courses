@@ -1,16 +1,21 @@
 # Sources — What earthquakes do — shaking, fire and tsunami
 
-countries: Ethiopia
+countries: Ethiopia, Malaysia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
+
+**Book 2:** *Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Kubu Publications; year 2019 (first printing 2019); ISBN 978-967-17523-0-2. Title as printed: Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 10 / Tingkatan 4 (student/teacher: STUDENT). PDF pages: 234 (cover verified against the record title — "GEOGRAFI TINGKATAN 4"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 4 records — the TSV release record (mid-size-books-2, read here, 96,802,047 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ground, works and fire | G12 student #14, printed p. 17 |
 | Sub lesson 2 — Tsunami — the sea carries it | G12 student #14, printed p. 17 |
+| Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 5.4: effects of tsunami, earthquakes and volcanic eruptions on people and the environment | Malaysia, *MY T4 Geografi*, Bab 5.4: effects of tsunami, earthquakes and volcanic eruptions on people and the environment — printed pp. 69-71 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Malaysia).**
 
 No book error in the placements for this lesson is taught here. Figures and cases are taught exactly as the placements report them.
 
 Searchable tags: earthquake effects, tsunami, San Francisco 1906, Tokyo 1923, landslides, social studies
+
+Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.

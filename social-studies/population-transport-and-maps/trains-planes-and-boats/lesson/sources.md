@@ -1,6 +1,6 @@
 # Sources — Trains, planes and boats
 
-countries: Ethiopia, Guatemala, Bahamas, Zimbabwe
+countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe
 
 **Book 6:** *PlusOne Social Science Grade 5 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved)* (teacher guide, English) — Secondary Book Press, Harare; year 2025; ISBN 978-1-77928-507-2. Title as printed: PlusOne Social Science Grade 5 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved). Grade 5 (student/teacher: TEACHER). PDF pages: 163 (cover verified against the record title; byte size 4,074,536 = record size, 163 pp = record pages). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Topic 1 Identity Units 1–5 (printed pp. 1–17); Topic 2 National history Units 7–10 — pre-colonial kingdoms, first contact with Europeans, chiefs, local government (pp. 21–33, History/Civics); Topic 3 Heritage Units 11–12 rites of passage, marriage ceremonies (pp. 34–37); Topic 4 Work and leisure Units 15–17 (pp. 43–50); Topic 8 Puberty/menstruation Unit 29 (p. 81); Topic 9 Ubuntu Unit 30 (p. 84); Topic 10 Rights Units 31–34 (pp. 86–95, civics); Topic 11 Health Units 35–38 (pp. 96–107); Topic 12 Career/financial Units 39–40 (pp. 108–113); Topic 13 Religion Units 41–52 (pp. 114–137); Topic 14 Social services Units 53–54 (pp. 138–144).). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/zimbabwe-placements.md.
 
+**Book 7:** *Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2017 (first printing 2017); ISBN 978-967-0463-47-6. Title as printed: Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM). Grade 8 / Tingkatan 2 (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title — "GEOGRAFI TINGKATAN 2"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 2 records — the TSV release record (mid-size-books-2, read here, 77,312,329 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only, as for Tingkatan 1). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Rail and air | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 140–143 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe
 | Bahamas part (Grade 3) — Getting Around Our Islands: travelling between islands by plane (Bahamasair and other airlines), fast ferry boats and mailboats; bridges link close islands | Bahamas, *Social Science, Grade 3*, Grade 3, Getting Around Our Islands: travelling between islands by plane (Bahamasair and other airlines), fast ferry boats and mailboats; bridges link close islands — printed p. 35 |
 | Bahamas part (Grade 4) — Transportation: an archipelago about 60 miles off Florida with no land borders — international travel is only by sea or air: cruise ships, cargo ships, yachts and planes | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 4*, Grade 4, Transportation: an archipelago about 60 miles off Florida with no land borders — international travel is only by sea or air: cruise ships, cargo ships, yachts and planes — PDF p. 10 |
 | Zimbabwe part (Grade 5) — Unit 19: Transportation of goods by rail, road, air and sea (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 5 Teacher's Guide* (teacher guide), Unit 19: Transportation of goods by rail, road, air and sea — printed p. 55 |
+| Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 5.2: air and water transport in Malaysia | Malaysia, *MY T2 Geografi*, Bab 5.2: air and water transport in Malaysia — printed pp. 77-80 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Guatemala, Bahamas). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, Bahamas, Malaysia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 The airline destination figures (62+ African, 127+ international) are taught as printed in the student book (Unit 5, printed pp. 140–143), in the book’s own "as printed" framing.
 
@@ -37,3 +40,5 @@ Bahamas' own way (Grade 3): The integrated Social Science pattern continues, but
 Bahamas' own way (Grade 4): From Grade 4 the format changes: instead of the integrated Social Science reader, the child gets a one-topic-per-page infographic textbook keyed spread-by-spread to the Primary Social Studies Curriculum 2022–2027 — Bahamian culture first, then the peoples who settled the islands, then the islands' own geography (southeastern islands, the Bahama Banks, island resources, tourism, transport), closing with leaders, laws, festivals and the bush plants of The Bahamas.
 
 Zimbabwe's own way (Grade 5) (teacher guide — evidence): Grade 5 transport is taught as a landlocked country's system — goods by rail/road/air/sea, animal transport (riding, leading, herding), and the roadports, seaports and airports Zimbabwe depends on; shelter links heritage sites (Matobo Hills) and map-drawing of Zimbabwe to building safely in disaster-prone areas. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
+
+Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.

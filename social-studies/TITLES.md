@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1103**
+Geography lessons across the eight Geography titles: **1121**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -668,3 +668,20 @@ Population, Transport and Maps: Plans of a Room and a
 House, My Municipality and Department on the Political
 Map, Africa's Population Development and Colombia and
 Its Departments — The Political Map.
+
++18 for Malaysia, 2026-11-14 — The Land and Air: Sketch
+Map of Malaysia — States and Capitals, Landforms of
+Malaysia, Rivers and Lakes of Malaysia, Landforms and
+Rivers of Southeast Asia, Climate of Malaysia, Rocks of
+Malaysia and Their Uses and Weathering Landscapes of
+Hot Deserts and Humid Tropics; Population, Transport
+and Maps: Population and Cities of Southeast Asia,
+Transport Networks of Malaysia, Transport in Asia and
+Pie Charts — Building and Reading; People and
+Resources: Natural Resources and Malaysia's Economy;
+Culture and Work: Economic Activities of Malaysia —
+Where They Happen; Global Issues: Domestic Waste and
+Its Effects in Malaysia, Green Technology, Reducing the
+Risk of Earthquake, Tsunami and Volcano Disasters,
+Landslides and Mudflows in Southeast Asia and Wildlife
+of Malaysia and Keeping It Safe.

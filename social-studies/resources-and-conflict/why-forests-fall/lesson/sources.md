@@ -1,6 +1,6 @@
 # Sources — Why forests fall
 
-countries: Ethiopia, Barbados, Costa Rica
+countries: Ethiopia, Barbados, Costa Rica, Malaysia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Barbados, Costa Rica
 
 **Book 4:** *Antología CONED — Estudios Sociales 7* (student book, Spanish) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED) / Universidad Estatal a Distancia (UNED); year 2017; ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código 80005, Nivel: Sétimo año. Grade: Grade 7 (student). 166 PDF pp. (cover/title page verified against the record title; size 4,348,033 bytes = record). Verdict: COMPLETE. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
 
+**Book 5:** *Geografi Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM) — Buku Teks* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2018 (first printing 2018); ISBN 978-967-0463-50-6. Title as printed: Geografi Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM) — Buku Teks. Grade 9 / Tingkatan 3 (student/teacher: STUDENT). PDF pages: 208 (cover verified against the record title — "Geografi Tingkatan 3, BUKU TEKS"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 3 records — the TSV release record (full-quality-oversized-books, read here, 329,555,841 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Underlying causes | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 7, printed pp. 206–208 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Barbados, Costa Rica
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 7, guide printed pp. 180–214 |
 | Barbados part — environmental degradation — the destruction of the forests (case studies Jamaica, Guyana) | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 14: environmental degradation — the destruction of the forests (case studies Jamaica, Guyana) — printed p. 342 |
 | Costa Rica part — pressure on the planet's tropical forests | Costa Rica, *Antología CONED 7*, Grade 7, Unit III Tema I B — printed p. 124 |
+| Malaysia part (MY T3 Geografi Tingkatan 3) — Bab 4.4: effects of human activities on Malaysia's natural vegetation (placement slug: resources-and-conflict/deforestation-when-the-trees-fall) | Malaysia, *MY T3 Geografi*, Bab 4.4: effects of human activities on Malaysia's natural vegetation — printed pp. 72-75 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Barbados, Costa Rica).**
+**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Costa Rica, Malaysia).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -28,3 +31,5 @@ Ordering slip carried as the placements flag it: in the printed student book, th
 Costa Rica's own way: a distance-education anthology organised around "the human footprint on geographic space" — every unit opens with a generating question and objectives, and Costa Rica is used as the home case inside world topics (tropical forest conservation, food production problems). That way is stocked here as the way Costa Rica teaches this thing.
 
 Searchable tags: deforestation causes, underlying proximate, fuelwood, controls, ethiopia, social studies, resources and conflict, Costa Rica, CONED Antología, Estudios Sociales
+
+Malaysia's own way (MY T3 Geografi Tingkatan 3): Form 3 turns from skills (tables, graphs, pie charts) to living Malaysia — its natural vegetation and wildlife and the human pressure on both — then outward to the world's biomes, resources and economic cooperation, closing with forest management and recycling.

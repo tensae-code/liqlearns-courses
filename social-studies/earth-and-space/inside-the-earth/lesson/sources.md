@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — Crust, Mantle, Core
 
-countries: Ethiopia, Belarus, Dominican Republic, Colombia
+countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia
 
 **Book 6:** *Ciencias Sociales — Secundaria Activa, Grado 6 (module)* (student module, Spanish) — Colombia, Ministerio de Educación Nacional (Secundaria Activa); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Secundaria Activa, Grado 6 (module). Grade 6 (student/teacher: STUDENT). PDF pages: 256 (table of contents verified against the record title/grade). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 3 Cap. 6–7 (political structures, stratified societies, first empires, sacred/urban architecture), printed pp. 152–205 (History); Unidad 4 ¿Qué aprendemos de las sociedades de ayer y de hoy? (legacies, Greek democracy, ancient law codes), printed pp. 206–245 (History/Civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 7:** *Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2016; ISBN 978-967-0483-48-1. Title as printed: Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 7 / Tingkatan 1 (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title — "GEOGRAFI TINGKATAN 1", KSSM; printed pagination per the book's contents, Bab 1 on printed p. 1). Verdict: COMPLETE. Records note: this one book covers BOTH Malaysia Tingkatan 1 records — the TSV release record (mid-size-books-2, read here, 84,774,788 bytes) and the books.json record, whose tree path (grade-07/gov/malaysia/geografi/student/full-year.pdf) does not exist in the repo tree (the grade-07/gov/malaysia folder holds only CURRICULUM.md and books.json); the book lives only as a release asset. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
+**Book 8:** *Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Kubu Publications; year 2019 (first printing 2019); ISBN 978-967-17523-0-2. Title as printed: Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 10 / Tingkatan 4 (student/teacher: STUDENT). PDF pages: 234 (cover verified against the record title — "GEOGRAFI TINGKATAN 4"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 4 records — the TSV release record (mid-size-books-2, read here, 96,802,047 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three layers | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 28–29 |
@@ -19,8 +23,10 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia
 | Belarus part — Geological structure of Belarus; formation of the platform cover in pre-Quaternary and Quaternary time | Belarus, *Геаграфія Беларусі. 10 клас (Geography of Belarus, Grade 10)*, Grade 10, Theme II §7–9, printed p. 37 |
 | Dominican Republic part (Grade 10) — Layers of the Earth | Dominican Republic, *Ciencias Sociales, Cuarto Grado, Secundaria (Libro Abierto)*, Grade 10, Layers of the Earth — printed p. 14 (the placements name the target as earth-and-space/layers-of-the-earth; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
 | Colombia part (CS_Grado06 Secundaria Activa) — Unidad 1 Cap. 2 Tema 3 La formación y composición de la Tierra | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 6 (module)*, Unidad 1 Cap. 2 Tema 3 La formación y composición de la Tierra — printed p. 33 |
+| Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 5.2: structure of the Earth | Malaysia, *MY T1 Geografi*, Bab 5.2: structure of the Earth — printed pp. 46-48 |
+| Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 5.1 Pergerakan Plat Tektonik: structure of the Earth | Malaysia, *MY T4 Geografi*, Bab 5.1 Pergerakan Plat Tektonik: structure of the Earth — printed pp. 60-63 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Dominican Republic, Colombia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia).**
 
 The "how we know" sub lesson rests on teacher-guide evidence, labelled as such in its name here and in the lesson; the pupil-taught layers sub lesson carries the acceptance count. Pairing warning: the Grade 7 teacher guide is an Addis Ababa bureau book and the student books are Amhara bureau books; they are NOT edition-matched. Pupil content in this lesson comes from the student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -29,3 +35,7 @@ Searchable tags: inside the Earth, crust, mantle, core, Moho discontinuity, avoc
 Dominican Republic's own way (Grade 10): This is the physical-geography year: the universe and Earth's layers, continental drift with volcanoes and earthquakes — including earthquake-prevention measures as a group task — water and winds across the continents, and a closing unit on political and economic geography that treats borders, geopolitical order and international climate agreements as geography, with hurricane-season citizen responsibility as the water unit's group activity.
 
 Colombia's own way (CS_Grado06 Secundaria Activa): Grade 6 Secundaria Activa starts from the universe and the Earth as a "living machine" (rocks and wrinkles, water, air), then follows humans evolving, migrating from Africa to America and adapting to each continent's environment — geography as the stage for all the history that follows.
+
+Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organised as skills first (direction, position, sketch maps), then physical geography, human geography, a regional study of Southeast Asia, environmental issues and a full fieldwork chapter — every chapter anchored to Malaysian places first, then the region.
+
+Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.

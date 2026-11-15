@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Difference and the Elements
 
-countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia
+countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia
 
 **Book 8:** *Ciencias Sociales 2 — Segunda Cartilla, Escuela Nueva* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2011; ISBN serie 978-958-97482-3-7 (book ISBN as in the Escuela Nueva Grade 2 series front matter). Title as printed: Ciencias Sociales 2 — Segunda Cartilla, Escuela Nueva. Grade 2 (student/teacher: STUDENT). PDF pages: 97 (contents page verified: Units 4–5, Guías 8–11; the ministry scan is an unusually large 84 MB file). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 5 Guía 10 Cambios de mi comunidad a través del tiempo, printed pp. 40–73 (local History).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 9:** *Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2020 (first printing 2020); ISBN 978-967-0483-63-4. Title as printed: Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 11 / Tingkatan 5 (student/teacher: STUDENT). PDF pages: 208 (cover verified against the record title — "GEOGRAFI TINGKATAN 5"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 5 records — the TSV release record (full-quality-oversized-books, read here, 194,745,977 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Short and small against long and wide | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 24–25 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia
 | Jamaica part — Term 3 Unit 1: the elements of weather — temperature, wind and sunshine (curriculum guide — evidence) | Jamaica, *Jamaica Grade 4 JM G4 Exploratory Core*, Term 3 Unit 1: the elements of weather — temperature, wind and sunshine — printed p. 210 |
 | Colombia part (CS_Grado07 Secundaria Activa) — Unidad 1 Cap. 1 Tema 1 Clima y tiempo atmosférico: climate vs weather, elements of climate (temperature, pressure, humidity, winds, precipitation) | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 7 (module)*, Unidad 1 Cap. 1 Tema 1 Clima y tiempo atmosférico: climate vs weather, elements of climate (temperature, pressure, humidity, winds, precipitation) — printed p. 17 |
 | Colombia part (CS_Grado2_02) — Unidad 4 Guía 9 El clima y el paisaje: climate and landscape, links between climate and people's economic activities | Colombia, *Ciencias Sociales 2 — Segunda Cartilla, Escuela Nueva*, Unidad 4 Guía 9 El clima y el paisaje: climate and landscape, links between climate and people's economic activities — printed p. 25 |
+| Malaysia part (MY T5 Geografi Tingkatan 5) — Bab 3 Fenomena Cuaca dan Iklim: the concepts of weather and climate and their elements (placement slug: the-land-and-air/weather-vs-climate) | Malaysia, *MY T5 Geografi*, Bab 3 Fenomena Cuaca dan Iklim: the concepts of weather and climate and their elements — printed pp. 36-44 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -47,3 +50,5 @@ Searchable tags: weather and climate   the difference and the elements, ethiopia
 Colombia's own way (CS_Grado07 Secundaria Activa): Secundaria Activa organises Grade 7 as climate first (with climate change and hydrometeorological threats), then a paired physical-and-human geography of Europe and America — continents taught as physical environments plus population — before the history units.
 
 Colombia's own way (CS_Grado2_02): Grade 2's second cartilla is the landscape cartilla — the geographic landscape and its relief, how to represent it, then climate shaping the landscape and the community's economic life.
+
+Malaysia's own way (MY T5 Geografi Tingkatan 5): the final form is the world's systems book — advanced graphs and photo interpretation, then weather and climate at world scale, vegetation and wildlife by climate zone, energy, and the environmental bill for economic activity.

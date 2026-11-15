@@ -1,6 +1,6 @@
 # Sources — The Earth's Four Spheres
 
-countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic
+countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican 
 
 **Book 10:** *Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Unidad Editorial, República Dominicana; Libro Abierto Serie 1; ISBN 978-9945-646-00-9 (printed in the book). Title as printed: Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1). Grade 3 (student). 128 PDF pp. (cover verified against the record title; byte size 73,378,327 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 5 Mi país, su identidad y cultura, printed p. 76; Unidad 6 Derechos y deberes para vivir en democracia (Civics), p. 90; Anexo: Constitución Dominicana Infantil, p. 110). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 11:** *Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2016; ISBN 978-967-0483-48-1. Title as printed: Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 7 / Tingkatan 1 (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title — "GEOGRAFI TINGKATAN 1", KSSM; printed pagination per the book's contents, Bab 1 on printed p. 1). Verdict: COMPLETE. Records note: this one book covers BOTH Malaysia Tingkatan 1 records — the TSV release record (mid-size-books-2, read here, 84,774,788 bytes) and the books.json record, whose tree path (grade-07/gov/malaysia/geografi/student/full-year.pdf) does not exist in the repo tree (the grade-07/gov/malaysia folder holds only CURRICULUM.md and books.json); the book lives only as a release asset. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1 (§1.3), printed pp. 8–10 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican 
 | Palestine part — Lesson 3: the basic components of life on Earth | Palestine, *Social Studies, Grade 5, Part One*, Grade 5, Lesson 3: the basic components of life on Earth — printed p. 22 |
 | Angola part — 1.2 O meio natural: seus componentes | Angola, *Geografia 5ª Classe*, Grade 5, 1.2 O meio natural: seus componentes — printed p. 15 |
 | Dominican Republic part (Grade 3) — Components of the Earth's surface | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Components of the Earth's surface — printed p. 12 |
+| Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 5.1 Bumi: the Earth's physical system (four systems) | Malaysia, *MY T1 Geografi*, Bab 5.1 Bumi: the Earth's physical system (four systems) — printed pp. 42-45 |
 
-**Acceptance count: taught in 6 countries (Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic). Ethiopia and Myanmar are named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia). Ethiopia and Myanmar are named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -50,3 +53,5 @@ Palestine's own way (Grade 5, PS G5P1): Social Studies opens with a full Earth-s
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
 
 Dominican Republic's own way (Grade 3): For third graders geography is the home island first: the planet and its components, then the Antilles and the relief of their own country, then countryside versus city, and finally where their own families came from — migration and a family census the children run themselves.
+
+Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organised as skills first (direction, position, sketch maps), then physical geography, human geography, a regional study of Southeast Asia, environmental issues and a full fieldwork chapter — every chapter anchored to Malaysian places first, then the region.

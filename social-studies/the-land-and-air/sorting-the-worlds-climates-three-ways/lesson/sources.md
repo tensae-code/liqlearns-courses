@@ -1,6 +1,6 @@
 # Sources — Sorting the world's climates — three ways
 
-countries: Ethiopia, Ecuador, Colombia
+countries: Ethiopia, Ecuador, Colombia, Malaysia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Ecuador, Colombia
 
 **Book 6:** *Ciencias Sociales — Secundaria Activa, Grado 7 (module)* (student module, Spanish) — Colombia, Ministerio de Educación Nacional (Secundaria Activa); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Secundaria Activa, Grado 7 (module). Grade 7 (student/teacher: STUDENT). PDF pages: 248 (table of contents verified against the record title/grade). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 3 Imperios en Europa (Rome, Medieval societies, Renaissance/mercantilism), printed pp. 118–189 (History); Unidad 4 Imperios en América (pre-European American empires and cultural legacy), printed pp. 190–247 (History).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 7:** *Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2017 (first printing 2017); ISBN 978-967-0463-47-6. Title as printed: Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM). Grade 8 / Tingkatan 2 (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title — "GEOGRAFI TINGKATAN 2"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 2 records — the TSV release record (mid-size-books-2, read here, 77,312,329 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only, as for Tingkatan 1). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why classify at all | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Ecuador, Colombia
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 10 | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 2, guide printed pp. 15–42 |
 | Ecuador part — Los climas del mundo (inside the cartography tema) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Los climas del mundo (inside the cartography tema) — printed p. 99 |
 | Colombia part (CS_Grado07 Secundaria Activa) — Unidad 1 Cap. 1 Tema 2 Los climas de la Tierra | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 7 (module)*, Unidad 1 Cap. 1 Tema 2 Los climas de la Tierra — printed p. 24 |
+| Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 7: the diversity of climates in Asia and the climate zones | Malaysia, *MY T2 Geografi*, Bab 7: the diversity of climates in Asia and the climate zones — printed pp. 104-110 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Colombia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, Colombia, Malaysia).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -38,3 +41,5 @@ Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse on
 Searchable tags: climate classification, greek zones, genetic empirical, koppen trewartha, ethiopia, social studies, the land and air, Ecuador
 
 Colombia's own way (CS_Grado07 Secundaria Activa): Secundaria Activa organises Grade 7 as climate first (with climate change and hydrometeorological threats), then a paired physical-and-human geography of Europe and America — continents taught as physical environments plus population — before the history units.
+
+Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.

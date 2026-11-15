@@ -1,6 +1,6 @@
 # Sources — Plate tectonics — the Earth's moving shell
 
-countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa
+countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa, Malaysia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dom
 
 **Book 8:** *Geography — Year 12* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-061-1. Title as printed: Geography — Year 12. Year 12 (student/teacher: STUDENT). PDF pages: 193 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 9:** *Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2016; ISBN 978-967-0483-48-1. Title as printed: Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 7 / Tingkatan 1 (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title — "GEOGRAFI TINGKATAN 1", KSSM; printed pagination per the book's contents, Bab 1 on printed p. 1). Verdict: COMPLETE. Records note: this one book covers BOTH Malaysia Tingkatan 1 records — the TSV release record (mid-size-books-2, read here, 84,774,788 bytes) and the books.json record, whose tree path (grade-07/gov/malaysia/geografi/student/full-year.pdf) does not exist in the repo tree (the grade-07/gov/malaysia folder holds only CURRICULUM.md and books.json); the book lives only as a release asset. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
+**Book 10:** *Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Kubu Publications; year 2019 (first printing 2019); ISBN 978-967-17523-0-2. Title as printed: Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 10 / Tingkatan 4 (student/teacher: STUDENT). PDF pages: 234 (cover verified against the record title — "GEOGRAFI TINGKATAN 4"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 4 records — the TSV release record (mid-size-books-2, read here, 96,802,047 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Lithosphere on asthenosphere | G12 student #6, printed pp. 5–7 |
@@ -29,8 +33,10 @@ countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dom
 | Indonesia part (Grade 11) — Bab 1 I.C Letak geologis: three tectonic plates, two continental shelves | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 1 I.C Letak geologis: three tectonic plates, two continental shelves — printed p. 13 |
 | Dominican Republic part (Grade 10) — Tectonic plates | Dominican Republic, *Ciencias Sociales, Cuarto Grado, Secundaria (Libro Abierto)*, Grade 10, Tectonic plates — printed p. 28 (the placements name the target as the-land-and-air/plate-boundaries-and-types; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
 | Samoa part (Year 12 Geography) — Part 1 Unit 2 The Moving Earth and the Origin of the Oceanic Islands | Samoa, *Geography, Year 12*, Part 1 Unit 2 The Moving Earth and the Origin of the Oceanic Islands — printed p. 12 |
+| Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 5.4: effects of the movement of the Earth's crust | Malaysia, *MY T1 Geografi*, Bab 5.4: effects of the movement of the Earth's crust — printed pp. 52-55 |
+| Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 5.2-5.3: the world's plate boundaries and the effects of plate movement | Malaysia, *MY T4 Geografi*, Bab 5.2-5.3: the world's plate boundaries and the effects of plate movement — printed pp. 64-68 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa).**
+**Acceptance count: taught in 9 countries (Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa, Malaysia).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -47,3 +53,7 @@ Searchable tags: plate tectonics, lithosphere, asthenosphere, plates, social stu
 Dominican Republic's own way (Grade 10): This is the physical-geography year: the universe and Earth's layers, continental drift with volcanoes and earthquakes — including earthquake-prevention measures as a group task — water and winds across the continents, and a closing unit on political and economic geography that treats borders, geopolitical order and international climate agreements as geography, with hurricane-season citizen responsibility as the water unit's group activity.
 
 Samoa's own way (Year 12 Geography): A full senior Geography course built on the Pacific itself — high and low island formation, island climates and ecosystems, then population of New Zealand, Asia and Samoa, and Samoan farming (bananas) beside Australian uranium mining.
+
+Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organised as skills first (direction, position, sketch maps), then physical geography, human geography, a regional study of Southeast Asia, environmental issues and a full fieldwork chapter — every chapter anchored to Malaysian places first, then the region.
+
+Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.

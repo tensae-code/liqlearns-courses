@@ -1,6 +1,6 @@
 # Sources — Water under pressure
 
-countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa
+countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangl
 
 **Book 11:** *Geography — Year 13* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-079-4. Title as printed: Geography — Year 13. Year 13 (student/teacher: STUDENT). PDF pages: 244 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 12:** *Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2016; ISBN 978-967-0483-48-1. Title as printed: Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 7 / Tingkatan 1 (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title — "GEOGRAFI TINGKATAN 1", KSSM; printed pagination per the book's contents, Bab 1 on printed p. 1). Verdict: COMPLETE. Records note: this one book covers BOTH Malaysia Tingkatan 1 records — the TSV release record (mid-size-books-2, read here, 84,774,788 bytes) and the books.json record, whose tree path (grade-07/gov/malaysia/geografi/student/full-year.pdf) does not exist in the repo tree (the grade-07/gov/malaysia folder holds only CURRICULUM.md and books.json); the book lives only as a release asset. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The squeeze on freshwater | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 3, printed pp. 65–67 |
@@ -36,12 +38,13 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangl
 | Bangladesh part (Grade 7) — The Kaptai Dam located on the map of Bangladesh | Bangladesh, *History and Social Science, Class Seven*, Grade 7, The Kaptai Dam located on the map of Bangladesh — printed pp. 140-141 |
 | Egypt part (Grade 11) — Unit 2 Lesson 2: Water resources and the methods of managing them | Egypt, *Development Geography, Grade 11*, Grade 11, Unit 2 Lesson 2: Water resources and the methods of managing them — printed p. 24 (the placements name the target as people-and-resources/water-where-it-comes-from; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
 | Samoa part (Year 13 Geography) — Part 4 Unit 7 Water Management and Perspectives | Samoa, *Geography, Year 13*, Part 4 Unit 7 Water Management and Perspectives — printed p. 164 |
+| Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 12.3-12.4: effects of the water crisis and steps to reduce them | Malaysia, *MY T1 Geografi*, Bab 12.3-12.4: effects of the water crisis and steps to reduce them — printed pp. 139-143 |
 
 | France part — Thème 1: L'eau douce, une ressource essentielle (stress hydrique, usages, perspectives) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Haiti part — Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) — printed p. 8 |
 | Costa Rica part — debates on the use of water as a resource today | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 2 B — printed p. 38 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -60,3 +63,5 @@ Bangladesh's own way (Grade 7): Geography thins into economic history and a long
 Egypt's own way (Grade 11): a whole secondary book on development geography alone, built as concept → resources → economy → people: the idea of development traced as it widened (economic, then human, then sustainable development, with its principles of comprehensiveness, integration and sustainability), resources always paired with how to manage them, and the human-development unit closing with full worked country models (Malaysia profiled in depth — position, poverty fall, education, health, electronics and car industries — and Brazil) before the future of development in the Arab homeland.
 
 Samoa's own way (Year 13 Geography): The final-year course is hazard- and water-centred for an island nation — volcanic eruptions and tropical cyclones (including Cyclone Heta on Niue), the hydrological cycle and water management, then atmosphere and climate change with Pacific consequences.
+
+Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organised as skills first (direction, position, sketch maps), then physical geography, human geography, a regional study of Southeast Asia, environmental issues and a full fieldwork chapter — every chapter anchored to Malaysian places first, then the region.

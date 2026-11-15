@@ -1,6 +1,6 @@
 # Sources — The digital divide — connected and left out
 
-countries: Ethiopia, Guatemala, Costa Rica, Zimbabwe
+countries: Ethiopia, Guatemala, Costa Rica, Zimbabwe, Malaysia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Guatemala, Costa Rica, Zimbabwe
 
 **Book 6:** *PlusOne Social Science Grade 6 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved)* (teacher guide, English) — Secondary Book Press, Harare; year 2025; ISBN 978-1-77928-502-7. Title as printed: PlusOne Social Science Grade 6 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved). Grade 6 (student/teacher: TEACHER). PDF pages: 147 (cover verified against the record title; byte size 6,094,087 = record size, 147 pp = record pages; fetched via grab.py release route). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Topic 1 Identity Units 1–2 (printed pp. 1–4); Topic 2 National history Units 5–10 governance, colonisation, Chimurenga liberation history, symbols (pp. 10–23, History/Civics); Topic 3 Heritage Units 11–14 courtship, marriage, heirship (pp. 24–32); Topic 4 Unit 17 Responsibility at work (p. 37); Topic 8 Units 27–28 Peer influence (pp. 60–63); Topic 9 Unit 29 Norms and values (p. 64); Topic 10 Units 30–32 law-making, gender, workplace equity (pp. 68–74, civics); Topic 11 Health Units 34–39 (pp. 77–89); Topic 12 Units 40–41 Career/financial (pp. 90–94); Topic 13 Religion Units 42–53 (pp. 95–121); Topic 14 Unit 54 Social services in Zimbabwe (p. 122).). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/zimbabwe-placements.md.
 
+**Book 7:** *Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2017 (first printing 2017); ISBN 978-967-0463-47-6. Title as printed: Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM). Grade 8 / Tingkatan 2 (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title — "GEOGRAFI TINGKATAN 2"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 2 records — the TSV release record (mid-size-books-2, read here, 77,312,329 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only, as for Tingkatan 1). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What the divide is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 7, printed pp. 208–210 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Guatemala, Costa Rica, Zimbabwe
 | Costa Rica part — reduction of space-time barriers through technological advances | Costa Rica, *Antología CONED 11*, Grade 11, Unit 1 Tema 1 C — printed p. 21 |
 | Costa Rica part — reduction of space-time barriers — technological advances, telecommunications and their present effects, social networks | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 C — printed p. 28 |
 | Zimbabwe part (Grade 6) — Unit 26: Information and Communication Technology development (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 6 Teacher's Guide* (teacher guide), Unit 26: Information and Communication Technology development — printed p. 57 |
+| Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 6 Telekomunikasi di Malaysia: telecommunication tools and their advance, importance, effects on national development and ethical use | Malaysia, *MY T2 Geografi*, Bab 6 Telekomunikasi di Malaysia: telecommunication tools and their advance, importance, effects on national development and ethical use — printed pp. 90-102 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Guatemala, Costa Rica). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, Costa Rica, Malaysia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -36,3 +39,5 @@ Costa Rica's own way: the CONED 11 anthology opens with a Geography unit on glob
 Searchable tags: digital divide, ICT access, telemedicine, e-learning, ethiopia, social studies, population transport and maps, Guatemala, Costa Rica, CONED Antología, Estudios Sociales
 
 Zimbabwe's own way (Grade 6) (teacher guide — evidence): Grade 6 shelter becomes settlement geography — development of settlements in Zimbabwe, siting of shelter in rural and urban areas, and disaster and risk management; transport adds road signs/signals/markings and Zimbabwe's transport and communication links with other countries, plus ICT development. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
+
+Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.

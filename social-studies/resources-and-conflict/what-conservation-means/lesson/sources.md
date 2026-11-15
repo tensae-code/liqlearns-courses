@@ -1,6 +1,6 @@
 # Sources — Conservation — What Conservation Means
 
-countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia, Zimbabwe
+countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia, Zimbabwe, Malaysia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 66).
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia, Zimbabwe
 
 **Book 9:** *PlusOne Social Science Grade 4 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved)* (teacher guide, English) — Secondary Book Press, Harare; year 2025; ISBN 978-1-77928-498-3. Title as printed: PlusOne Social Science Grade 4 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved). Grade 4 (student/teacher: TEACHER). PDF pages: 164 (cover verified against the record title; byte size 7,008,060 = record size, 164 pp = record pages; fetched via grab.py release route). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Topic 1 Identity Units 1–4 (printed pp. 1–15); Topic 2 National history Units 5–10 early people, laws, courts, pledge (pp. 16–36, History/Civics); Topic 3 Unit 14 Media as agent of socialisation (p. 47); Topic 4 Work and leisure Units 15–18 (pp. 52–61); Topic 8 Unit 27 Puberty (p. 83); Topic 9 Unit 28 Communication in community relationships (p. 86); Topic 10 Rights Units 29–32 (pp. 89–104, civics); Topic 11 Health Units 33–36 (pp. 105–116); Topic 12 Career Units 37–39 (pp. 117–126); Topic 13 Religion Units 40–43 (pp. 127–136); Topic 14 Social services Units 44–45 (pp. 137–144).). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/zimbabwe-placements.md.
 
+**Book 10:** *Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2020 (first printing 2020); ISBN 978-967-0483-63-4. Title as printed: Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 11 / Tingkatan 5 (student/teacher: STUDENT). PDF pages: 208 (cover verified against the record title — "GEOGRAFI TINGKATAN 5"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 5 records — the TSV release record (full-quality-oversized-books, read here, 194,745,977 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils name a local act of keeping for later | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 86–87 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia, Zimbabwe
 | Angola part — 3.4 A protecção das espécies vegetais e animais | Angola, *Geografia 5ª Classe*, Grade 5, 3.4 A protecção das espécies vegetais e animais — printed p. 39 |
 | Indonesia part (Grade 11) — Bab 2 D Manfaat flora dan fauna, pelestarian dan metode pelestarian (in-situ/ex-situ) | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 2 D Manfaat flora dan fauna, pelestarian dan metode pelestarian (in-situ/ex-situ) — printed p. 96 |
 | Zimbabwe part (Grade 4) — Unit 13: Conservation of natural resources (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 4 Teacher's Guide* (teacher guide), Unit 13: Conservation of natural resources — printed p. 44 |
+| Malaysia part (MY T5 Geografi Tingkatan 5) — Bab 6: preservation and conservation of natural vegetation and wildlife — the concepts, the human activities driving extinction, and world preservation and conservation efforts (placement slug: resources-and-conflict/saving-species-protecting-wildlife-and-habitats) | Malaysia, *MY T5 Geografi*, Bab 6: preservation and conservation of natural vegetation and wildlife — the concepts, the human activities driving extinction, and world preservation and conservation efforts — printed pp. 96-115 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Guatemala, Bolivia, Angola, Indonesia). Zambia is named here as teacher-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Guatemala, Bolivia, Angola, Indonesia, Malaysia). Zambia is named here as teacher-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -50,3 +53,5 @@ Searchable tags: conservation, definitions, terracing, afforestation, crop rotat
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
 
 Zimbabwe's own way (Grade 4) (teacher guide — evidence): Grade 4 heritage turns practical — Indigenous Knowledge Systems (aloe, mubvamaropa, moringa) and conservation of natural resources (gully filling, afforestation); transport names Zimbabwe's major roads and railways and their economic importance; shelter compares indigenous types (tsapi granary) with shelters outside Zimbabwe (igloo, pyramid) and the materials and climate factors behind them. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
+
+Malaysia's own way (MY T5 Geografi Tingkatan 5): the final form is the world's systems book — advanced graphs and photo interpretation, then weather and climate at world scale, vegetation and wildlife by climate zone, energy, and the environmental bill for economic activity.

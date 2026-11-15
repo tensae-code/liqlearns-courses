@@ -1,6 +1,6 @@
 # Sources — Landforms, Continents and Oceans
 
-countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador
+countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -14,18 +14,21 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador
 
 **Book 6:** *Estudios Sociales 8vo EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-28-6. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Superior, Octavo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 8 (student). 194 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 18,079,356 bytes = record size exactly; an external academia.edu copy of this ISBN is likewise titled Octavo de Básica, confirming this shared Superior body is the Grade 8 book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
 
+**Book 7:** *Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2016; ISBN 978-967-0483-48-1. Title as printed: Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 7 / Tingkatan 1 (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title — "GEOGRAFI TINGKATAN 1", KSSM; printed pagination per the book's contents, Bab 1 on printed p. 1). Verdict: COMPLETE. Records note: this one book covers BOTH Malaysia Tingkatan 1 records — the TSV release record (mid-size-books-2, read here, 84,774,788 bytes) and the books.json record, whose tree path (grade-07/gov/malaysia/geografi/student/full-year.pdf) does not exist in the repo tree (the grade-07/gov/malaysia folder holds only CURRICULUM.md and books.json); the book lives only as a release asset. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Landforms: how the Earth's face is made | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 26 |
 | Sub lesson 2 — The seven continents and five oceans | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 27 |
 | Sub lesson 1 — Landforms: how the Earth's face is made (Saudi Arabia way: أشكال سطح الأرض — landforms / shapes of the Earth's surface, Unit 5 Lesson 18) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي / Social Studies, Grade 4*, Unit 5 Lesson 18, printed p. 117 |
 | Guatemala part — Relieve de Centroamérica, read against the climate map | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Relieve de Centroamérica, read against the climate map (Unit 1) — printed p. 40 |
+| Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 5.3: continents, oceans, major seas and straits | Malaysia, *MY T1 Geografi*, Bab 5.3: continents, oceans, major seas and straits — printed pp. 49-51 |
 
 | France part — Thème 1 Entrer dans le thème: Continents et océans, les repères spatiaux | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Ecuador part — El relieve (Unit 2, Las irregularidades de la Tierra) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, El relieve (Unit 2, Las irregularidades de la Tierra) — printed p. 34 |
 | Ecuador part — Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) — printed p. 99 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador).**
+**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia).**
 
 No book errors are flagged by the placements for these pages. Areas are the book's printed table figures (Table 2).
 
@@ -38,3 +41,5 @@ Ecuador's own way (Grade 8 book): at Superior level the book turns thematic — 
 Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse one body per sublevel — the Grade 5 body also carries the Grade 6 and Grade 7 covers (Subnivel Media), and the Grade 8 body also carries the Grade 9 and Grade 10 covers (Subnivel Superior). That content is credited once, under its true Grade 5 / Grade 8 identity, exactly as the placements state; the genuine Ecuador Grade 6, 7, 9 and 10 Estudios Sociales books are NOT held (library debt).
 
 Searchable tags: landforms, internal forces, external forces, continents, oceans, Asia largest, Pacific largest, area ranking, Guatemala, Ecuador
+
+Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organised as skills first (direction, position, sketch maps), then physical geography, human geography, a regional study of Southeast Asia, environmental issues and a full fieldwork chapter — every chapter anchored to Malaysian places first, then the region.

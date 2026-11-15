@@ -1,6 +1,6 @@
 # Sources — How people change the land — and pollute it
 
-countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia
+countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Malaysia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia
 
 **Book 9:** *Ciencias Sociales — Postprimaria Rural, Grado 7 (student guide)* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional (Postprimaria Rural); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Postprimaria Rural, Grado 7 (student guide). Grade 7 (student/teacher: STUDENT). PDF pages: 238 (contents page verified: six modules, Guías 1–18, all framed on the societies of the 5th–15th centuries). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Módulo 1 Sociedades de los siglos V al XV: relaciones Oriente y Occidente, Guías 1–3, printed pp. 8–49 (History); Módulo 2 Saberes en las sociedades de los siglos V al XV (religious traditions, technology, social life), Guías 4–6, printed pp. 50–83 (History); Módulo 4 Guías 10 and 12 (feudal/colonial production systems; colonial economy of Nueva Granada), printed pp. 128–140 and 149–161 (History); Módulo 5 Sistemas políticos de los siglos V al XV, Guías 13–15, printed pp. 162–193 (History/Civics); Módulo 6 Sobre cómo resolver los conflictos y tensiones sociales, Guías 16–18, printed pp. 194–237 (Civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 10:** *Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2020 (first printing 2020); ISBN 978-967-0483-63-4. Title as printed: Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 11 / Tingkatan 5 (student/teacher: STUDENT). PDF pages: 208 (cover verified against the record title — "GEOGRAFI TINGKATAN 5"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 5 records — the TSV release record (full-quality-oversized-books, read here, 194,745,977 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Modification | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 157–162 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia
 | Jamaica part — Grade 8 Term 2 Unit 1: The Impact of Human Activities on Caribbean Landscape (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 8 Term 2 Unit 1: The Impact of Human Activities on Caribbean Landscape — printed p. 84 |
 | Angola part — 2.2 Os agentes transformadores do espaço geográfico | Angola, *Geografia 5ª Classe*, Grade 5, 2.2 Os agentes transformadores do espaço geográfico — printed p. 26 |
 | Colombia part (CS_Grado7 Postprimaria) — Módulo 3 Guía 7 El medio natural que se transforma (in 5th–15th-century societies) | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 7 (student guide)*, Módulo 3 Guía 7 El medio natural que se transforma (in 5th–15th-century societies) — printed p. 90 |
+| Malaysia part (MY T5 Geografi Tingkatan 5) — Bab 10: effects of economic activities on the environment and efforts to reduce them (placement slug: resources-and-conflict/pollution-air-land-and-water) | Malaysia, *MY T5 Geografi*, Bab 10: effects of economic activities on the environment and efforts to reduce them — printed pp. 176-187 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, Angola, Colombia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, Angola, Colombia, Malaysia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -50,3 +53,5 @@ Searchable tags: environmental modification, farming, settlement, industry, extr
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
 
 Colombia's own way (CS_Grado7 Postprimaria): the rural Postprimaria Grade 7 guide teaches the medieval/colonial world through territory — how societies transformed their natural environment, represented their territory, and used and exploited its natural resources.
+
+Malaysia's own way (MY T5 Geografi Tingkatan 5): the final form is the world's systems book — advanced graphs and photo interpretation, then weather and climate at world scale, vegetation and wildlife by climate zone, energy, and the environmental bill for economic activity.

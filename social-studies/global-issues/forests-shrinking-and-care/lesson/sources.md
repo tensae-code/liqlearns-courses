@@ -1,6 +1,6 @@
 # Sources — Forests — Shrinking and Care
 
-countries: Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Zimbabwe
+countries: Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Zimbabwe, Malaysia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placements 146–147, with the chapter assessment stock of placement 148).
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Zimbabwe
 
 **Book 7:** *PlusOne Social Science Grade 2 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved)* (teacher guide, English) — Secondary Book Press, Harare; year 2025; ISBN 978-1-77928-499-0. Title as printed: PlusOne Social Science Grade 2 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved). Grade 2 (student/teacher: TEACHER). PDF pages: 85 (cover verified against the record title; byte size 5,022,247 = record size, 85 pp = record pages). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Topic 1 Identity, Units 1–2 (printed pp. 1–4); Topic 2 Units 3–6 anthem / symbols / pledge / national events (pp. 5–11, civics/history); Topic 3 Units 9–10 Ubuntu attributes, school as agent of socialisation (pp. 17–20); Topic 4 Units 11, 13–14 work/leisure/games except production unit (pp. 21, 24–26); Topic 8 Managing and coping with changes (p. 42+); Topic 9 Social etiquette; Topic 10 Entitlements/rights (civics); Topic 11 Health education; Topic 12 Career guidance and finance literacy; Topic 13 Religion; Topic 14 Social services and volunteerism.). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/zimbabwe-placements.md.
 
+**Book 8:** *Geografi Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM) — Buku Teks* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2018 (first printing 2018); ISBN 978-967-0463-50-6. Title as printed: Geografi Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM) — Buku Teks. Grade 9 / Tingkatan 3 (student/teacher: STUDENT). PDF pages: 208 (cover verified against the record title — "Geografi Tingkatan 3, BUKU TEKS"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 3 records — the TSV release record (full-quality-oversized-books, read here, 329,555,841 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why forests fall, and what follows: forests as gatherings of vegetation where trees abound; former wide cover, present remnant; farm and grazing expansion, city growth, cutting for services; the listed results — climate disturbance, accelerated soil degradation, faster silt accumulation, heavy flooding, fuel-wood shortage, loss of individual plant species, forests failing as breeding places | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 190–191 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Zimbabwe
 | Samoa part (Year 9, Book 1) — Unit 1 Topic 4 Our Rainforests | Samoa, *Social Studies, Year 9, Book 1*, Unit 1 Topic 4 Our Rainforests — printed p. 20 |
 | Samoa part (Year 10, Book 2) — Unit 3 Topic 1 Causes and Effects of Deforestation | Samoa, *Social Studies, Year 10, Book 2*, Unit 3 Topic 1 Causes and Effects of Deforestation — printed p. 50 |
 | Zimbabwe part (Grade 2) — Unit 22: Deforestation (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 2 Teacher's Guide* (teacher guide), Unit 22: Deforestation — printed p. 40 |
+| Malaysia part (MY T3 Geografi Tingkatan 3) — Bab 10 Sumber Hutan: forest resources; the importance of forest management in Malaysia; preservation and conservation efforts; the role of agencies (placement slug: resources-and-conflict/keeping-forests-uses-threats-and-care) | Malaysia, *MY T3 Geografi*, Bab 10 Sumber Hutan: forest resources; the importance of forest management in Malaysia; preservation and conservation efforts; the role of agencies — printed pp. 164-177 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Costa Rica, Angola, Bangladesh, Samoa). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Malaysia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Chapter assessment stock carried as the book keys it (placement 148): 'which factor drives deforestation in developing countries' keyed to all of city growth, grazing expansion and farm-land hunger; 'farming the land bare' keyed as the soil-care method that does not belong; groundwater increasing keyed as NOT a result of forest shrinking. The pest name 'qinqin' is carried as printed in the placement. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -44,3 +47,5 @@ Samoa's own way (Year 9, Book 1): Geography is taught through Samoa's own resour
 Samoa's own way (Year 10, Book 2): Identity and cultural interaction are taught from the Samoan self outward, and place change is taught through one big Pacific-region case — deforestation in Indonesia, read off South-West Pacific maps.
 
 Zimbabwe's own way (Grade 2) (teacher guide — evidence): The spiral widens from family to community — ethnic groups and languages of Zimbabwe (Kalanga, Sotho and others), production in the community, shelter types in the neighbourhood (granary, silos, community hall, clinic), and global issues introduced as floods and deforestation. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
+
+Malaysia's own way (MY T3 Geografi Tingkatan 3): Form 3 turns from skills (tables, graphs, pie charts) to living Malaysia — its natural vegetation and wildlife and the human pressure on both — then outward to the world's biomes, resources and economic cooperation, closing with forest management and recycling.

@@ -1,6 +1,6 @@
 # Sources — Where geographic data comes from
 
-countries: Ethiopia, Ukraine, Egypt
+countries: Ethiopia, Ukraine, Egypt, Malaysia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Ukraine, Egypt
 
 **Book 4:** *الدراسات الاجتماعية — مصر في قلب العالم (Social Studies — Egypt at the Heart of the World)* (student book, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; year 2026/2027; no ISBN printed. Title as printed: الدراسات الاجتماعية — مصر في قلب العالم (Social Studies — Egypt at the Heart of the World). Grade 4, Primary 4, Term 1 (student). 114 PDF pp. (cover verified against the record title; 64,334,888 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-04/gov/egypt/Social_studies_prim4_t1.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Combined Social Studies book: Geography parts placed below; Civics/History parts named in the placements, not placed. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
+**Book 5:** *Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2020 (first printing 2020); ISBN 978-967-0483-63-4. Title as printed: Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 11 / Tingkatan 5 (student/teacher: STUDENT). PDF pages: 208 (cover verified against the record title — "GEOGRAFI TINGKATAN 5"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 5 records — the TSV release record (full-quality-oversized-books, read here, 194,745,977 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Collected directly | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 8, printed pp. 180–183 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Ukraine, Egypt
 | Teaching pattern and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 8, guide printed pp. 141–166 |
 | Ukraine part — §2 Sources of knowledge about regions and countries of the world | Ukraine, *Geografiya*, Grade 10, §2 — printed p. 10 |
 | Egypt part (Grade 4) — Unit 1 Lesson 4: Sources for gathering information | Egypt, *Social Studies, Grade 4, Term 1*, Grade 4, Unit 1 Lesson 4: Sources for gathering information — printed p. 31 |
+| Malaysia part (MY T5 Geografi Tingkatan 5) — Bab 2 Foto: ground-level, aerial and satellite photographs; the importance of photographs; interpreting photographs (placement slug: the-land-and-air/reading-the-land-from-above) | Malaysia, *MY T5 Geografi*, Bab 2 Foto: ground-level, aerial and satellite photographs; the importance of photographs; interpreting photographs — printed pp. 20-33 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Ukraine, Egypt).**
+**Acceptance count: taught in 4 countries (Ethiopia, Ukraine, Egypt, Malaysia).**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -28,3 +31,5 @@ No book error is flagged for this lesson's pages in the placements. The Grade 10
 Searchable tags: data sources, field survey, gps, remote sensing, primary secondary, ethiopia, social studies, the land and air, Ukraine, Geografiya Gilberg
 
 Egypt's own way (Grade 4 Term 1): the very first Social Studies book starts from the child's own space — drawing a plan of the home and school, comparing walking routes by length and landmarks — before maps in general, then the child's own city and governorate, and only then Egypt as homeland; a robot mascot teaches alongside named child guides from different governorates.
+
+Malaysia's own way (MY T5 Geografi Tingkatan 5): the final form is the world's systems book — advanced graphs and photo interpretation, then weather and climate at world scale, vegetation and wildlife by climate zone, energy, and the environmental bill for economic activity.

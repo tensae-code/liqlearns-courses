@@ -1,6 +1,6 @@
 # Sources — Drawing a sketch map
 
-countries: Ethiopia, Myanmar, Haiti, Palestine, Bangladesh, Samoa, Colombia
+countries: Ethiopia, Myanmar, Haiti, Palestine, Bangladesh, Samoa, Colombia, Malaysia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Myanmar, Haiti, Palestine, Bangladesh, Samoa, Colombia
 
 **Book 8:** *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-97482-4-4 (ISBN serie 978-958-97482-3-7). Title as printed: Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva. Grade 2 (student/teacher: STUDENT). PDF pages: 136 (cover verified: "Ciencias Sociales 2, Primera Cartilla, Escuela Nueva"). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 1 ¿Quién soy yo? Guías 1–3 (myself, similarities/differences, diverse families), printed pp. 7–98 in part; Unidad 2 Guías 4–5 social groups, community members and norms, printed pp. 56–98 (civics — except the vereda road story placed below); Unidad 3 Guía 7's municipal authorities section (mayor/council election), printed pp. 118–131 (civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 9:** *Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2016; ISBN 978-967-0483-48-1. Title as printed: Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 7 / Tingkatan 1 (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title — "GEOGRAFI TINGKATAN 1", KSSM; printed pagination per the book's contents, Bab 1 on printed p. 1). Verdict: COMPLETE. Records note: this one book covers BOTH Malaysia Tingkatan 1 records — the TSV release record (mid-size-books-2, read here, 84,774,788 bytes) and the books.json record, whose tree path (grade-07/gov/malaysia/geografi/student/full-year.pdf) does not exist in the repo tree (the grade-07/gov/malaysia folder holds only CURRICULUM.md and books.json); the book lives only as a release asset. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a sketch map is | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 218–220 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Myanmar, Haiti, Palestine, Bangladesh, Samoa, Colombia
 | Bangladesh part (Grade 6) — Drawing the map of our route from home to school | Bangladesh, *History and Social Science, Class Six*, Grade 6, Drawing the map of our route from home to school — printed p. 19 |
 | Samoa part (Year 9, Book 2) — Unit 3 Topic 3 Map Drawing: Part 2 (sketch maps from photos and topographic maps) | Samoa, *Social Studies, Year 9, Book 2*, Unit 3 Topic 3 Map Drawing: Part 2 (sketch maps from photos and topographic maps) — printed p. 78 |
 | Colombia part (CS_Grado2_01) — Guía 6 Me oriento en un plano: finding your way on a city-sector map/plan, city blocks (cuadras) | Colombia, *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva*, Guía 6 Me oriento en un plano: finding your way on a city-sector map/plan, city blocks (cuadras) — printed pp. 115–117 |
+| Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 3.4: steps for drawing a sketch map | Malaysia, *MY T1 Geografi*, Bab 3.4: steps for drawing a sketch map — printed pp. 31-33 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Bangladesh, Samoa, Colombia). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Bangladesh, Samoa, Colombia, Malaysia). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography begins as a daily practice, not a chapter: pupils draw the landscape around their school, the plan of their quarter and Haiti with their school placed on it, read landscape forms and functions from their own croquis, then trace one everyday object (a coffee cup, a phone) from raw material to shop shelf to see the world from the local. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -45,3 +48,5 @@ Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Sci
 Samoa's own way (Year 9, Book 2): Place is taught through Samoan lived places — ordinary, sacred (tapu), natural and political places such as Mulinu'u — and migration is taught through Samoa's own movement story and its New Zealand diaspora, closing with a full mapping-skills unit.
 
 Colombia's own way (CS_Grado2_01): Escuela Nueva self-paced guides (parts A–D: explore, deepen, practise, apply) set in rural Colombia — veredas, resguardos, coffee regions; geography starts from the walk home-to-school, the classroom plan and the home municipality (Aracataca/Ciénaga worked example).
+
+Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organised as skills first (direction, position, sketch maps), then physical geography, human geography, a regional study of Southeast Asia, environmental issues and a full fieldwork chapter — every chapter anchored to Malaysian places first, then the region.

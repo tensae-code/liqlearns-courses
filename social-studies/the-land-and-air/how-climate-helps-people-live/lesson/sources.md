@@ -1,6 +1,6 @@
 # Sources — How climate helps people live
 
-countries: Ethiopia, Jamaica, Colombia
+countries: Ethiopia, Jamaica, Colombia, Malaysia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Jamaica, Colombia
 
 **Book 4:** *Ciencias Sociales — Secundaria Activa, Grado 7 (module)* (student module, Spanish) — Colombia, Ministerio de Educación Nacional (Secundaria Activa); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Secundaria Activa, Grado 7 (module). Grade 7 (student/teacher: STUDENT). PDF pages: 248 (table of contents verified against the record title/grade). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 3 Imperios en Europa (Rome, Medieval societies, Renaissance/mercantilism), printed pp. 118–189 (History); Unidad 4 Imperios en América (pre-European American empires and cultural legacy), printed pp. 190–247 (History).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 5:** *Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2017 (first printing 2017); ISBN 978-967-0463-47-6. Title as printed: Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM). Grade 8 / Tingkatan 2 (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title — "GEOGRAFI TINGKATAN 2"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 2 records — the TSV release record (mid-size-books-2, read here, 77,312,329 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only, as for Tingkatan 1). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
+**Book 6:** *Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2020 (first printing 2020); ISBN 978-967-0483-63-4. Title as printed: Geografi Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 11 / Tingkatan 5 (student/teacher: STUDENT). PDF pages: 208 (cover verified against the record title — "GEOGRAFI TINGKATAN 5"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 5 records — the TSV release record (full-quality-oversized-books, read here, 194,745,977 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Farming and water — the first gifts | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 2, printed pp. 41–43 |
@@ -18,8 +22,10 @@ countries: Ethiopia, Jamaica, Colombia
 | Teaching pattern and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 2, guide printed pp. 15–42 |
 | Jamaica part — Term 3 Unit 1: how weather affects human activities (curriculum guide — evidence) | Jamaica, *Jamaica Grade 4 JM G4 Exploratory Core*, Term 3 Unit 1: how weather affects human activities — printed p. 211 |
 | Colombia part (CS_Grado07 Secundaria Activa) — Unidad 1 Cap. 1 Tema 3 Clima y actividades humanas | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 7 (module)*, Unidad 1 Cap. 1 Tema 3 Clima y actividades humanas — printed p. 32 |
+| Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 4.2: the influence of weather and climate on human activities in Malaysia | Malaysia, *MY T2 Geografi*, Bab 4.2: the influence of weather and climate on human activities in Malaysia — printed pp. 56-60 |
+| Malaysia part (MY T5 Geografi Tingkatan 5) — Bab 4.3: the influence of weather and climate on human activities (placement slug: the-land-and-air/weather-and-daily-life) | Malaysia, *MY T5 Geografi*, Bab 4.3: the influence of weather and climate on human activities — printed pp. 69-71 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Colombia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Colombia, Malaysia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -28,3 +34,7 @@ No book error is flagged for this lesson's pages in the placements. The teacher 
 Searchable tags: climate benefits, farming, water supply, health, settlement, ethiopia, social studies, the land and air, Jamaica, curriculum guide evidence
 
 Colombia's own way (CS_Grado07 Secundaria Activa): Secundaria Activa organises Grade 7 as climate first (with climate change and hydrometeorological threats), then a paired physical-and-human geography of Europe and America — continents taught as physical environments plus population — before the history units.
+
+Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.
+
+Malaysia's own way (MY T5 Geografi Tingkatan 5): the final form is the world's systems book — advanced graphs and photo interpretation, then weather and climate at world scale, vegetation and wildlife by climate zone, energy, and the environmental bill for economic activity.

@@ -1,6 +1,6 @@
 # Sources — Reading a population pyramid
 
-countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republic
+countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republic, Malaysia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republi
 
 **Book 7:** *Ciencias Sociales — Sexto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Dirección Editorial Educativa, República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-78-8 (printed in the book). Title as printed: Ciencias Sociales — Sexto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición). Grade 12 (student). 240 PDF pp. (cover verified against the record title; byte size 33,295,521 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 1 Ocupación estadounidense, printed p. 10; Unidad 2 La dictadura de Trujillo, p. 28; Unidad 3 Luchas democráticas y revolucionarias 1961–1965, p. 43; Unidad 4 Fase neo-autoritaria 1966–1978, p. 64; Unidad 5 Transición al actual orden democrático 1978–1996, p. 82; Unidad 6 La discursiva sobre la condición dominicana, p. 100; Unidad 7 Evolución constitucional, p. 118; Unidad 12 Democracia, deberes, derechos y participación (Civics), p. 208). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 8:** *Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Kubu Publications; year 2019 (first printing 2019); ISBN 978-967-17523-0-2. Title as printed: Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 10 / Tingkatan 4 (student/teacher: STUDENT). PDF pages: 234 (cover verified against the record title — "GEOGRAFI TINGKATAN 4"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 4 records — the TSV release record (mid-size-books-2, read here, 96,802,047 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The pyramid’s shape | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 91–94 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republi
 | Turkmenistan part — §12 Age and sex composition of the world's population | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §12 Age and sex composition of the world's population — printed p. 51 |
 | Indonesia part (Grade 11) — Bab 3 II.C Komposisi penduduk (age/sex composition) | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 II.C Komposisi penduduk (age/sex composition) — printed p. 148 |
 | Dominican Republic part (Grade 12) — Variation of the population structure by ages; evolution of educational levels | Dominican Republic, *Ciencias Sociales, Sexto Grado, Secundaria (Libro Abierto)*, Grade 12, Variation of the population structure by ages; evolution of educational levels — printed p. 136 |
+| Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 12.4-12.5: interpreting population structure and composition from population pyramids; effects on national development | Malaysia, *MY T4 Geografi*, Bab 12.4-12.5: interpreting population structure and composition from population pyramids; effects on national development — printed pp. 167-171 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Turkmenistan, Indonesia, Dominican Republic). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Turkmenistan, Indonesia, Dominican Republic, Malaysia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -41,3 +44,5 @@ Searchable tags: population pyramid, age sex structure, broad based, young popul
 Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.
 
 Dominican Republic's own way (Grade 12): The final secondary year turns from national history to the country's present-day human geography, studied region by region: 150 years of population growth, accelerated urbanisation, the economy's branches and foreign trade, and the spatial distribution of the population across Cibao, Este and Suroeste, closing on migration and Santo Domingo as a fragmented metropolis.
+
+Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.

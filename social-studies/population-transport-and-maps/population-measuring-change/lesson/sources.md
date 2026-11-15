@@ -1,6 +1,6 @@
 # Sources — Population — measuring change: rates, pyramids and structure
 
-countries: Ethiopia, Palestine, Dominican Republic, Colombia
+countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia
 
 **Book 1:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Palestine, Dominican Republic, Colombia
 
 **Book 4:** *Ciencias Sociales — Secundaria Activa, Grado 7 (module)* (student module, Spanish) — Colombia, Ministerio de Educación Nacional (Secundaria Activa); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Secundaria Activa, Grado 7 (module). Grade 7 (student/teacher: STUDENT). PDF pages: 248 (table of contents verified against the record title/grade). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 3 Imperios en Europa (Rome, Medieval societies, Renaissance/mercantilism), printed pp. 118–189 (History); Unidad 4 Imperios en América (pre-European American empires and cultural legacy), printed pp. 190–247 (History).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 5:** *Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Kubu Publications; year 2019 (first printing 2019); ISBN 978-967-17523-0-2. Title as printed: Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 10 / Tingkatan 4 (student/teacher: STUDENT). PDF pages: 234 (cover verified against the record title — "GEOGRAFI TINGKATAN 4"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 4 records — the TSV release record (mid-size-books-2, read here, 96,802,047 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three components and the rates (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed pp. 24–27 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Palestine, Dominican Republic, Colombia
 | Palestine part — Lesson 2: diversity of population characteristics — population growth in the world and its rates | Palestine, *Social Studies, Grade 9, Part Two*, Grade 9, Lesson 2: diversity of population characteristics — population growth in the world and its rates — printed p. 18 |
 | Dominican Republic part (Grade 12) — The Dominican population: growth over the last 150 years and the determinants of demographic evolution (Unidad 8) | Dominican Republic, *Ciencias Sociales, Sexto Grado, Secundaria (Libro Abierto)*, Grade 12, The Dominican population: growth over the last 150 years and the determinants of demographic evolution (Unidad 8) — printed p. 136 |
 | Colombia part (CS_Grado07 Secundaria Activa) — Unidad 2 Cap. 4 Tema 9 Así es la población europea | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 7 (module)*, Unidad 2 Cap. 4 Tema 9 Así es la población europea — printed p. 90 |
+| Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 12 Pertumbuhan Penduduk Dunia: the concept of population growth, determining the growth rate, and its factors | Malaysia, *MY T4 Geografi*, Bab 12 Pertumbuhan Penduduk Dunia: the concept of population growth, determining the growth rate, and its factors — printed pp. 160-166 |
 
-**Acceptance count: taught in 3 countries (Palestine, Dominican Republic, Colombia). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Palestine, Dominican Republic, Colombia, Malaysia). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -32,3 +35,5 @@ Palestine's own way (Grade 9, PS G9P2): the course closes at world scale — the
 Dominican Republic's own way (Grade 12): The final secondary year turns from national history to the country's present-day human geography, studied region by region: 150 years of population growth, accelerated urbanisation, the economy's branches and foreign trade, and the spatial distribution of the population across Cibao, Este and Suroeste, closing on migration and Santo Domingo as a fragmented metropolis.
 
 Colombia's own way (CS_Grado07 Secundaria Activa): Secundaria Activa organises Grade 7 as climate first (with climate change and hydrometeorological threats), then a paired physical-and-human geography of Europe and America — continents taught as physical environments plus population — before the history units.
+
+Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.

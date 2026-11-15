@@ -2998,3 +2998,64 @@ Political Map (CS_Grado3_01, printed p. 76) — the new
 lessons are taught in 1 country (Colombia), 8 questions
 each.
 Geography lessons: 1092 → 1103.
+
+
+## Malaysia — Geography expansion (merged 2026-11-14)
+111 placements stocked from Malaysia's 5 distinct books
+(10 records; every book is recorded twice — a TSV
+release record and a books.json record for the same
+book, which lives only as a release asset) — the
+Kementerian Pendidikan Malaysia KSSM Geografi student
+books for Tingkatan 1–5 (Grades 7–11, Malay, all
+COMPLETE). Stocked into standing lessons (93
+placements) across the Geography titles. 27 placements
+were remapped to the closest existing lesson covering
+the thing, with the original placement slug recorded in
+each provenance row: the two contour lessons stand in
+Population, Transport and Maps, not The Land and Air;
+and 22 placement slugs name no lesson in the course
+(tables/graphs/charts stocked in Bar Graphs and Pie
+Charts; natural vegetation and biomes in The World's
+Biomes; weather-vs-climate in Weather and Climate — The
+Difference and the Elements; energy sources in Energy
+Resources; and the rest likewise — every remapping is
+listed in the merge log). One standing lesson changes
+its evidence standing: Too Many, Too Few, Just Right
+stood on Ethiopia teacher-guide evidence only (0
+countries) and is now taught in 1 country (Malaysia),
+Ethiopia still named as teacher-guide evidence only. 18
+NEW lessons built (18 placements) — **The Land and
+Air**: Sketch Map of Malaysia — States and Capitals (MY
+T1 Geografi Tingkatan 1, printed pp. 34-41), Landforms
+of Malaysia (MY T1 Geografi Tingkatan 1, printed pp.
+56-73), Rivers and Lakes of Malaysia (MY T1 Geografi
+Tingkatan 1, printed pp. 79-85), Landforms and Rivers
+of Southeast Asia (MY T1 Geografi Tingkatan 1, printed
+pp. 108-119), Climate of Malaysia (MY T2 Geografi
+Tingkatan 2, printed pp. 48-55), Rocks of Malaysia and
+Their Uses (MY T4 Geografi Tingkatan 4, printed pp.
+81-87), Weathering Landscapes of Hot Deserts and Humid
+Tropics (MY T4 Geografi Tingkatan 4, printed pp.
+99-101); **Population, Transport and Maps**: Population
+and Cities of Southeast Asia (MY T1 Geografi Tingkatan
+1, printed pp. 120-131), Transport Networks of Malaysia
+(MY T2 Geografi Tingkatan 2, printed pp. 81-89),
+Transport in Asia (MY T2 Geografi Tingkatan 2, printed
+pp. 120-134), Pie Charts — Building and Reading (MY T3
+Geografi Tingkatan 3, printed pp. 20-28); **People and
+Resources**: Natural Resources and Malaysia's Economy
+(MY T3 Geografi Tingkatan 3, printed pp. 108-113);
+**Culture and Work**: Economic Activities of Malaysia —
+Where They Happen (MY T3 Geografi Tingkatan 3, printed
+pp. 120-132); **Global Issues**: Domestic Waste and Its
+Effects in Malaysia (MY T1 Geografi Tingkatan 1,
+printed pp. 144-155), Green Technology (MY T2 Geografi
+Tingkatan 2, printed pp. 148-158), Reducing the Risk of
+Earthquake, Tsunami and Volcano Disasters (MY T4
+Geografi Tingkatan 4, printed pp. 72-73), Landslides
+and Mudflows in Southeast Asia (MY T4 Geografi
+Tingkatan 4, printed pp. 109-113), Wildlife of Malaysia
+and Keeping It Safe (MY T3 Geografi Tingkatan 3,
+printed pp. 76-96) — the new lessons are taught in 1
+country (Malaysia), 8 questions each.
+Geography lessons: 1103 → 1121.
