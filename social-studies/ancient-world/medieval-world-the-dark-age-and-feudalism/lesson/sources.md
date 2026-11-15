@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Dark Age and feudalism
 
-countries: Ethiopia, Brazil, Poland, Costa Rica
+countries: Ethiopia, Brazil, Poland, Costa Rica, Australia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -82,3 +82,16 @@ Poland's own way: Poland teaches art history as a school subject in its own righ
 Costa Rica's own way (Costa Rica Grade 9 CONED Antología): The Noveno anthology runs one long arc — "the journey of humanity from the Middle Ages to 19th-century Costa Rica" — in which every world process (feudalism, Renaissance, conquest, Enlightenment, independence, industrialisation) is landed in Costa Rica: colonial institutions, the coffee state and banana enclave, and everyday Costa Rican life close the book. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Brazil, Poland, Costa Rica).**
+
+## History expansion (2026-11-15) — Australia stocked
+
+**Book (Australia aus-retroactive-1):** Title as printed: Retroactive 1 — NSW Australian Curriculum History, Stage 4, Second Edition (Jacaranda) Grade: Grade 7 record (Stage 4 = Years 7–8) (student/teacher: STUDENT) Publisher: Jacaranda / John Wiley & Sons Australia; year 2018 (second edition; first edition 2013); ISBN 978-0-7303-4800-9 PDF pages: 700 (cover verified against the record title; the PDF carries the full print book plus learnON-linked material, so PDF pages exceed the ~520 printed pages) Verdict: COMPLETE Tally: 31 placements — 21 to existing lessons, 10 NEW LESSON NEEDED Australia's own way: The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. Placements at liqlearns-courses-work/expansion-history-2026-11-15/australia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Australia part — Overview 2: The medieval world (OV2.3) — story beats: The medieval world is surveyed whole before the depth studies — feudal order, faith and daily life (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Australia, *Retroactive 1 — NSW Australian Curriculum History, Stage 4, Second Edition (Jacaranda)*, printed p. 195 |
+| Australia part — Depth Study 4b: Medieval Europe — feudal society (4b.3) — story beats: Feudal society orders medieval Europe — lords, knights, peasants — inside a full topic on everyday life, crime and punishment, and towns (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Australia, *Retroactive 1 — NSW Australian Curriculum History, Stage 4, Second Edition (Jacaranda)*, printed p. 252 |
+
+Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia).**

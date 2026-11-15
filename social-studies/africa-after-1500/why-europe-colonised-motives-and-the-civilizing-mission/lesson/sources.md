@@ -1,6 +1,6 @@
 # Sources — Why Europe colonised — motives and the civilizing-mission claim
 
-countries: Ethiopia, Rwanda, Costa Rica
+countries: Ethiopia, Rwanda, Costa Rica, Australia
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -57,3 +57,15 @@ Rwanda's Book 4 (rw-p3-tg) is RECORD ONLY — MISMATCH, not placed: the file beh
 Costa Rica's own way (Costa Rica Grade 10 CONED Antología): The Décimo anthology is world history with a geopolitical lens — imperialism, the two world wars, the Russian revolution, the Depression, the bipolar Cold War world and today's multipolar tensions — read from Costa Rica outward to Latin America and the globe. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Costa Rica).**
+
+## History expansion (2026-11-15) — Australia stocked
+
+**Book (Australia aus-retroactive-2):** Title as printed: Retroactive 2 — NSW Australian Curriculum History, Stage 5, Second Edition (Jacaranda) Grade: Grade 9 record (Stage 5 = Years 9–10) (student/teacher: STUDENT) Publisher: Jacaranda / John Wiley & Sons Australia; year 2018 (second edition; first edition 2014); ISBN 978-0-7303-4770-5 PDF pages: 656 (cover verified against the record title; PDF carries the print book plus learnON-linked material) Verdict: COMPLETE Tally: 30 placements — 15 to existing lessons, 15 NEW LESSON NEEDED Australia's own way: Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. Placements at liqlearns-courses-work/expansion-history-2026-11-15/australia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Australia part — Overview 1: European imperial expansion (OV1.4) — story beats: Europe's empires expand across the globe in the 19th century, carrying the modern world by force (History expansion, 2026-11-15; original placement slug: africa-after-1500/why-europe-colonised-motives-and-the-civilizing-mission) | Australia, *Retroactive 2 — NSW Australian Curriculum History, Stage 5, Second Edition (Jacaranda)*, printed p. 13 |
+
+Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Costa Rica, Australia).**

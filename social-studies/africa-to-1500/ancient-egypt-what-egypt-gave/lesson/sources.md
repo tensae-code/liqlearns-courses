@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — What Egypt Gave
 
-countries: Ethiopia
+countries: Ethiopia, Australia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 82).
 
@@ -26,3 +26,15 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 5): the final primary year widens out — ancient Egypt, Greece and Rome first, then Gabon and Africa again (autochthones, Bantu, colonisation, Berlin, the two world wars) ending with the march to independence, told through Léon Mba's speech of 16 August 1960. That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Australia stocked
+
+**Book (Australia aus-retroactive-1):** Title as printed: Retroactive 1 — NSW Australian Curriculum History, Stage 4, Second Edition (Jacaranda) Grade: Grade 7 record (Stage 4 = Years 7–8) (student/teacher: STUDENT) Publisher: Jacaranda / John Wiley & Sons Australia; year 2018 (second edition; first edition 2013); ISBN 978-0-7303-4800-9 PDF pages: 700 (cover verified against the record title; the PDF carries the full print book plus learnON-linked material, so PDF pages exceed the ~520 printed pages) Verdict: COMPLETE Tally: 31 placements — 21 to existing lessons, 10 NEW LESSON NEEDED Australia's own way: The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. Placements at liqlearns-courses-work/expansion-history-2026-11-15/australia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Australia part — Depth Study 2a: Ancient Egypt's legacy (2a.12–2a.13) — story beats: Egypt's legacy is curated in a research-project exhibit — what Egypt gave the world, assembled by the students (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-what-egypt-gave) | Australia, *Retroactive 1 — NSW Australian Curriculum History, Stage 4, Second Edition (Jacaranda)*, printed p. 105 |
+
+Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Australia).**

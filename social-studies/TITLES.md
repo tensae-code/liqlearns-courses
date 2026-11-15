@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **570**
+History lessons across the History titles: **594**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3257,3 +3257,68 @@ footprint, transformed geographic space, population
 dynamics, globalisation) stay named in the
 placements file and in the stocked sources, not
 placed.
+
++24 for Australia, 2026-11-15 — Ancient World:
+The Vikings, Medieval Europe — Church, towns and
+Joan of Arc, Angkor and the Khmer Empire, Japan
+under the Shoguns, Polynesian expansion across the
+Pacific, Mongol expansion and Genghis Khan, and
+The Black Death in Asia, Europe and Africa; Modern
+World: Spanish conquest of the Americas, Aboriginal
+Australia — colonisation, contact and
+dispossession, Native American dispossession —
+Trail of Tears, Australia — convicts, settlers and
+Aboriginal impact, Progressive ideas — Chartism to
+socialism, Australia — making a nation, China and
+the world — Qing to modern, Australia in the First
+World War, Australia in the Second World War,
+Australia after 1945 — war, peace and rights,
+Australia — rights and freedoms, The US civil
+rights movement, Australia — popular culture after
+1945, The environment movement, Australia —
+postwar migration experiences, The Holocaust —
+ghettos and Final Solution, and Australia in the
+Vietnam War era. All 61 Australia placements stand
+on Australia's two student books (*Retroactive 1*,
+Stage 4, Jacaranda, 2018, ISBN 978-0-7303-4800-9,
+31 placements; *Retroactive 2*, Stage 5, Jacaranda,
+2018, ISBN 978-0-7303-4770-5, 30 placements),
+counted in acceptance. The 36 placements stocked
+into 35 existing lessons rise with Australia added:
+What history is 8 → 9, Who studies prehistory
+4 → 5, From evidence to a written history 7 → 8,
+Heritage — what it is and why it matters 23 → 24,
+Africa — cradle of humankind 3 → 4, From stone
+tools to farming 5 → 6, Ancient Egypt — the Nile
+kingdom 6 → 7, Ancient Egypt — what Egypt gave
+1 → 2, Ancient civilisations — Greece-Crete 5 → 6,
+Ancient civilisations — Athens and democracy
+3 → 4, Ancient civilisations — Rome 6 → 7, Ancient
+civilisations — India 2 → 3, Ancient civilisations
+— India's order and gifts 1 → 2, Ancient
+civilisations — China 1 → 2, Ancient civilisations
+— the Great Wall and China's gifts 1 → 2, Ancient
+civilisations — Rome divides 4 → 5, Medieval world
+— the Dark Age and feudalism 4 → 5 (two placements:
+the medieval-world overview and the feudal society
+depth study), The Renaissance — what it was 3 → 4,
+Medieval world — the Ottomans 2 → 3, The Aztecs —
+Tenochtitlan 3 → 4, The Industrial Revolution —
+what changed and why England first 3 → 4, Why
+Europe colonised 3 → 4, Capitalism — private
+ownership, factories, new classes 2 → 3, The Great
+Depression — 1929 3 → 4, The Industrial Revolution
+— textiles, steam and rail 2 → 3, Effects of
+industrialisation 2 → 3, The Atlantic slave trade —
+scale, coasts and the gun cycle 3 → 4, Nationalism
+— the feeling that made nation-states 3 → 4,
+China's dynastic cycle 1 → 2, The First World War
+— causes 3 → 4, The Second World War — causes
+3 → 4, The Second World War — course in Europe
+3 → 4, The Second World War — the Pacific and the
+results 4 → 5, The Cold War 3 → 4, and Fascism and
+Nazism — two dictatorships compared 1 → 2.
+Australia — making a nation carries two placements
+as its two sub lessons (nation-making, printed
+p. 111; Indigenous contact and non-European
+experiences, printed p. 118).

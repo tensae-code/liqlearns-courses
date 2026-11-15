@@ -1,6 +1,6 @@
 # Sources — The Second World War — the Pacific and the results
 
-countries: Ethiopia, United States, Turkey, Micronesia
+countries: Ethiopia, United States, Turkey, Micronesia, Australia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 138).
 
@@ -56,3 +56,15 @@ Turkey's own way: the final-year course is the republic's own biography, told in
 Micronesia's own way (Over Seas and Time): one national story told island by island in strict time order — settlement, contact, visitors, then four foreign rulers in turn (Spain, Germany, Japan, America) — with every chapter opening in a lived scene (a boy watching a strange ship, a Chuukese man weeping at a flag) and closing with vocabulary, understanding, critical-thinking and community-research tasks. That way is stocked here as the way Micronesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, United States, Turkey, Micronesia).**
+
+## History expansion (2026-11-15) — Australia stocked
+
+**Book (Australia aus-retroactive-2):** Title as printed: Retroactive 2 — NSW Australian Curriculum History, Stage 5, Second Edition (Jacaranda) Grade: Grade 9 record (Stage 5 = Years 9–10) (student/teacher: STUDENT) Publisher: Jacaranda / John Wiley & Sons Australia; year 2018 (second edition; first edition 2014); ISBN 978-0-7303-4770-5 PDF pages: 656 (cover verified against the record title; PDF carries the print book plus learnON-linked material) Verdict: COMPLETE Tally: 30 placements — 15 to existing lessons, 15 NEW LESSON NEEDED Australia's own way: Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. Placements at liqlearns-courses-work/expansion-history-2026-11-15/australia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Australia part — Depth Study 3b: The Pacific and the ending of the war (3b.7–3b.9) — story beats: The Pacific war comes to Australia's doorstep; prisoners of war and the war's ending reshape the region (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-the-pacific-and-the-results) | Australia, *Retroactive 2 — NSW Australian Curriculum History, Stage 5, Second Edition (Jacaranda)*, printed p. 277 (approx.) |
+
+Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, United States, Turkey, Micronesia, Australia).**

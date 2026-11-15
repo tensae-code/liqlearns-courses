@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — China
 
-countries: Ethiopia
+countries: Ethiopia, Australia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -40,3 +40,15 @@ This book is a teacher guide. The Myanmar rows below stand on it as teacher-guid
 Myanmar's own way: The year is split in two arcs — Myanmar's own past first (prehistory, the Pyu city-states, Bagan), then world history (hunters, first farmers, Mesopotamia, Egypt, Greece, Rome, China, India) — and every lesson is taught in a fixed Introduce–Teach–Practice–Review (I-T-P-R) shape with student-centred activities. That way is stocked here as the way Myanmar teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Myanmar placement above is teacher-guide evidence only, counted nowhere.**
+
+## History expansion (2026-11-15) — Australia stocked
+
+**Book (Australia aus-retroactive-1):** Title as printed: Retroactive 1 — NSW Australian Curriculum History, Stage 4, Second Edition (Jacaranda) Grade: Grade 7 record (Stage 4 = Years 7–8) (student/teacher: STUDENT) Publisher: Jacaranda / John Wiley & Sons Australia; year 2018 (second edition; first edition 2013); ISBN 978-0-7303-4800-9 PDF pages: 700 (cover verified against the record title; the PDF carries the full print book plus learnON-linked material, so PDF pages exceed the ~520 printed pages) Verdict: COMPLETE Tally: 31 placements — 21 to existing lessons, 10 NEW LESSON NEEDED Australia's own way: The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. Placements at liqlearns-courses-work/expansion-history-2026-11-15/australia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Australia part — Depth Study 3b: Early Imperial China — story beats: Qin Shi Huangdi's government, society and beliefs, farming and everyday life, and the First Emperor's mausoleum as site study (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-china) | Australia, *Retroactive 1 — NSW Australian Curriculum History, Stage 4, Second Edition (Jacaranda)*, printed p. 153 |
+
+Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Australia).**

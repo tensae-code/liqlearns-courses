@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — the Nile Kingdom
 
-countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica
+countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -126,3 +126,15 @@ Gabon's own way (Grade 5): the final primary year widens out — ancient Egypt, 
 Costa Rica's own way (Costa Rica Grade 7 CONED Antología): The CONED distance-education anthologies compile source readings around a guiding question per theme, fusing History with Geography in one Estudios Sociales course: the ancient world is read as "the human footprint on geographic space", and Costa Rica's own past enters through its indigenous peoples before any national narrative. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica).**
+
+## History expansion (2026-11-15) — Australia stocked
+
+**Book (Australia aus-retroactive-1):** Title as printed: Retroactive 1 — NSW Australian Curriculum History, Stage 4, Second Edition (Jacaranda) Grade: Grade 7 record (Stage 4 = Years 7–8) (student/teacher: STUDENT) Publisher: Jacaranda / John Wiley & Sons Australia; year 2018 (second edition; first edition 2013); ISBN 978-0-7303-4800-9 PDF pages: 700 (cover verified against the record title; the PDF carries the full print book plus learnON-linked material, so PDF pages exceed the ~520 printed pages) Verdict: COMPLETE Tally: 31 placements — 21 to existing lessons, 10 NEW LESSON NEEDED Australia's own way: The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. Placements at liqlearns-courses-work/expansion-history-2026-11-15/australia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Australia part — Depth Study 2a: Ancient Egypt — story beats: Pharaonic Egypt is studied whole — chronology, the Nile setting, society, everyday life and religion (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Australia, *Retroactive 1 — NSW Australian Curriculum History, Stage 4, Second Edition (Jacaranda)*, printed p. 71 |
+
+Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia).**

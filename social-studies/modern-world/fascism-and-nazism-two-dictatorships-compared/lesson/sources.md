@@ -1,6 +1,6 @@
 # Sources — Fascism and Nazism — two dictatorships compared
 
-countries: Ethiopia
+countries: Ethiopia, Australia
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -33,3 +33,14 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
+## History expansion (2026-11-15) — Australia stocked
+
+**Book (Australia aus-retroactive-2):** Title as printed: Retroactive 2 — NSW Australian Curriculum History, Stage 5, Second Edition (Jacaranda) Grade: Grade 9 record (Stage 5 = Years 9–10) (student/teacher: STUDENT) Publisher: Jacaranda / John Wiley & Sons Australia; year 2018 (second edition; first edition 2014); ISBN 978-0-7303-4770-5 PDF pages: 656 (cover verified against the record title; PDF carries the print book plus learnON-linked material) Verdict: COMPLETE Tally: 30 placements — 15 to existing lessons, 15 NEW LESSON NEEDED Australia's own way: Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. Placements at liqlearns-courses-work/expansion-history-2026-11-15/australia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Australia part — Depth Study 6a: The Holocaust — the Nazi threat (6a.2–6a.4) — story beats: Nazism rules by law (1933–38) and pogrom — Kristallnacht, 9–10 November 1938 — on the road to genocide (History expansion, 2026-11-15; original placement slug: modern-world/fascism-and-nazism-two-dictatorships-compared) | Australia, *Retroactive 2 — NSW Australian Curriculum History, Stage 5, Second Edition (Jacaranda)*, printed p. 466 (approx.) |
+
+Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Australia).**

@@ -10129,3 +10129,83 @@ democratic and social struggles, the 1948 civil
 war and social reform, the welfare state and the
 post-1980 neoliberal turn — is the history.
 History lessons: 542 → 570.
+
+## History expansion — Australia — built 2026-11-15
+
+24 new lessons, 100 questions: **The Ancient World**:
+The Vikings (ancient-world/the-vikings), Medieval
+Europe — Church, towns and Joan of Arc
+(ancient-world/medieval-europe-church-towns-and-joan-of-arc),
+Angkor and the Khmer Empire
+(ancient-world/angkor-and-the-khmer-empire), Japan
+under the Shoguns (ancient-world/japan-under-the-shoguns),
+Polynesian expansion across the Pacific
+(ancient-world/polynesian-expansion-across-the-pacific),
+Mongol expansion and Genghis Khan
+(ancient-world/mongol-expansion-and-genghis-khan),
+and The Black Death in Asia, Europe and Africa
+(ancient-world/the-black-death-in-asia-europe-and-africa);
+**The Modern World**: Spanish conquest of the
+Americas (modern-world/spanish-conquest-of-the-americas),
+Aboriginal Australia — colonisation, contact and
+dispossession
+(modern-world/aboriginal-australia-colonisation-contact-and-dispossession),
+Native American dispossession — Trail of Tears
+(modern-world/native-american-dispossession-trail-of-tears),
+Australia — convicts, settlers and Aboriginal
+impact
+(modern-world/australia-convicts-settlers-and-aboriginal-impact),
+Progressive ideas — Chartism to socialism
+(modern-world/progressive-ideas-chartism-to-socialism),
+Australia — making a nation
+(modern-world/australia-making-a-nation) — two
+placements as two sub lessons, China and the world
+— Qing to modern
+(modern-world/china-and-the-world-qing-to-modern),
+Australia in the First World War
+(modern-world/australia-in-the-first-world-war),
+Australia in the Second World War
+(modern-world/australia-in-the-second-world-war),
+Australia after 1945 — war, peace and rights
+(modern-world/australia-after-1945-war-peace-and-rights),
+Australia — rights and freedoms
+(modern-world/australia-rights-and-freedoms), The
+US civil rights movement
+(modern-world/the-us-civil-rights-movement),
+Australia — popular culture after 1945
+(modern-world/australia-popular-culture-after-1945),
+The environment movement
+(modern-world/the-environment-movement), Australia
+— postwar migration experiences
+(modern-world/australia-postwar-migration-experiences),
+The Holocaust — ghettos and Final Solution
+(modern-world/the-holocaust-ghettos-and-final-solution),
+and Australia in the Vietnam War era
+(modern-world/australia-in-the-vietnam-war-era)
+— 61 placements stocked in all from Australia's
+two student books: *Retroactive 1 — NSW Australian
+Curriculum History, Stage 4, Second Edition*
+(Jacaranda / John Wiley & Sons Australia, 2018,
+ISBN 978-0-7303-4800-9, 700 PDF pp.; 31 placements)
+and *Retroactive 2 — NSW Australian Curriculum
+History, Stage 5, Second Edition* (Jacaranda /
+John Wiley & Sons Australia, 2018, ISBN
+978-0-7303-4770-5, 656 PDF pp.; 30 placements).
+36 placements were stocked into 35 existing
+lessons. Both books are student books, so Australia
+counts normally everywhere it is stocked: every
+stocked lesson's countries line names Australia
+and its acceptance count rises by one. Australia's
+own way is stocked inside the lessons: Stage 4 is
+built as depth studies around source work — an
+overview, sources, and a research project (a
+virtual site study, a debate in the ecclesia, an
+interview with Genghis Khan) — with Aboriginal
+dispossession taught beside America's Trail of
+Tears; Stage 5 lands every world event on
+Australian soil — convicts and settlers,
+nation-making, Gallipoli and the Anzac legend,
+conscription's division, the hushed-up Darwin
+bombing, the Freedom Ride, Mabo, the Apology and
+Maralinga.
+History lessons: 570 → 594.

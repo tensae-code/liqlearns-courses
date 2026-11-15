@@ -1,6 +1,6 @@
 # Sources — The Second World War — course in Europe
 
-countries: Ethiopia, United States, Turkey
+countries: Ethiopia, United States, Turkey, Australia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 137).
 
@@ -85,3 +85,15 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 5): the final primary year widens out — ancient Egypt, Greece and Rome first, then Gabon and Africa again (autochthones, Bantu, colonisation, Berlin, the two world wars) ending with the march to independence, told through Léon Mba's speech of 16 August 1960. That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, United States, Turkey) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Australia stocked
+
+**Book (Australia aus-retroactive-2):** Title as printed: Retroactive 2 — NSW Australian Curriculum History, Stage 5, Second Edition (Jacaranda) Grade: Grade 9 record (Stage 5 = Years 9–10) (student/teacher: STUDENT) Publisher: Jacaranda / John Wiley & Sons Australia; year 2018 (second edition; first edition 2014); ISBN 978-0-7303-4770-5 PDF pages: 656 (cover verified against the record title; PDF carries the print book plus learnON-linked material) Verdict: COMPLETE Tally: 30 placements — 15 to existing lessons, 15 NEW LESSON NEEDED Australia's own way: Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. Placements at liqlearns-courses-work/expansion-history-2026-11-15/australia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Australia part — Depth Study 3b: The European war (3b.3–3b.6) — story beats: The war in Europe, North Africa and the Mediterranean, the Eastern Front — and the Holocaust at the centre of the European war (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-course-in-europe) | Australia, *Retroactive 2 — NSW Australian Curriculum History, Stage 5, Second Edition (Jacaranda)*, printed p. 266 |
+
+Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, United States, Turkey, Australia).**

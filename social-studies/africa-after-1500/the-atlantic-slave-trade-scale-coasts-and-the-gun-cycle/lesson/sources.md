@@ -1,6 +1,6 @@
 # Sources — The Atlantic slave trade — scale, coasts and the gun cycle
 
-countries: Ethiopia, Angola, Gambia
+countries: Ethiopia, Angola, Gambia, Australia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -110,3 +110,15 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 5): the final primary year widens out — ancient Egypt, Greece and Rome first, then Gabon and Africa again (autochthones, Bantu, colonisation, Berlin, the two world wars) ending with the march to independence, told through Léon Mba's speech of 16 August 1960. That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Angola, Gambia) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Australia stocked
+
+**Book (Australia aus-retroactive-2):** Title as printed: Retroactive 2 — NSW Australian Curriculum History, Stage 5, Second Edition (Jacaranda) Grade: Grade 9 record (Stage 5 = Years 9–10) (student/teacher: STUDENT) Publisher: Jacaranda / John Wiley & Sons Australia; year 2018 (second edition; first edition 2014); ISBN 978-0-7303-4770-5 PDF pages: 656 (cover verified against the record title; PDF carries the print book plus learnON-linked material) Verdict: COMPLETE Tally: 30 placements — 15 to existing lessons, 15 NEW LESSON NEEDED Australia's own way: Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. Placements at liqlearns-courses-work/expansion-history-2026-11-15/australia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Australia part — Depth Study 1b: Movement of peoples — experiences and impacts of slavery (1b.3–1b.4) — story beats: The Industrial Revolution moves peoples by force: enslaved Africans' experiences and slavery's impacts are studied in their own right (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle) | Australia, *Retroactive 2 — NSW Australian Curriculum History, Stage 5, Second Edition (Jacaranda)*, printed p. 76 (approx.) |
+
+Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Gambia, Australia).**
