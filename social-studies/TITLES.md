@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **815**
+History lessons across the History titles: **835**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3732,3 +3732,19 @@ from the recorded archive.org source
 (ncert-fess1) and placed complete, with the defect
 filed as a library debt in every stocked lesson's
 sources header.
+
++20 for Nepal, 2026-11-15 — The Ancient World:
+Nepal — the name and the Kathmandu Valley lake, Ancient Nepal — Gopal, Mahispal and Kirat dynasties, Nepal luminaries — Janak, Buddha, Arniko and Amshuvarma, Mithila civilisation of the Terai, Medieval Nepal — the Malla kingdoms, Medieval Nepal — Baise, Chaubise and Sen kingdoms, Sinja civilisation and the Khas kingdom, Kathmandu Valley civilisation — from lake to Licchavi, The Shakya clan and Kapilavastu, Nepal — the Licchavi age; The Modern World:
+Nepal — unification and the Anglo-Nepalese War heroes, Nepal — martyrs and the people's movements, Nepal — first prime minister and the road to democracy, Nepal — poets, print and Everest luminaries, Nepal — Rana rule and its reforms, Nepal — from Rana fall to federal republic, Nepal — democratic leaders: Pushpa Lal and B. P. Koirala, Nepal — the Anglo-Nepalese War and the Treaty of Sugauli, Nepal — Panchayat era and the 1990 People's Movement, Nepal — People's Movement II, civil war and the republic. All 84 Nepal placements are stocked (34 into
+12 existing lessons, 50 into the 20 new lessons) on
+15 placed books — Grades 1–7, 9, 10 and 12 student
+books and Grades 5, 7, 8 and 10 teacher's guides
+(Government of Nepal, Curriculum Development
+Centre). Student books count normally; the teacher's
+guides are cited as evidence only, outside acceptance
+counts — five existing lessons stocked only from the
+Grade 8 guide keep their counts unchanged, and
+Kathmandu Valley civilisation — from lake to Licchavi
+carries acceptance 0. Books 11 and 16 are filed
+record-only in the placements (file mismatches) and
+are not placed.

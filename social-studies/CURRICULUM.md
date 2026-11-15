@@ -11205,3 +11205,99 @@ farmers, fishers, weavers, slaves — with the book's
 title itself plural: Our Pasts, because different
 groups lived different pasts.
 History lessons: 771 → 815.
+
+## History expansion — Nepal — built 2026-11-15
+
+20 new lessons, 300 questions. **The Ancient World** +10:
+Nepal — the name and the Kathmandu Valley lake
+(ancient-world/nepal-the-name-and-the-kathmandu-valley-lake),
+Ancient Nepal — Gopal, Mahispal and Kirat dynasties
+(ancient-world/ancient-nepal-gopal-mahispal-and-kirat-dynasties),
+Nepal luminaries — Janak, Buddha, Arniko and Amshuvarma
+(ancient-world/nepal-luminaries-janak-buddha-arniko-and-amshuvarma),
+Mithila civilisation of the Terai
+(ancient-world/mithila-civilisation-of-the-terai),
+Medieval Nepal — the Malla kingdoms
+(ancient-world/medieval-nepal-the-malla-kingdoms),
+Medieval Nepal — Baise, Chaubise and Sen kingdoms
+(ancient-world/medieval-nepal-baise-chaubise-and-sen-kingdoms),
+Sinja civilisation and the Khas kingdom
+(ancient-world/sinja-civilisation-and-the-khas-kingdom),
+Kathmandu Valley civilisation — from lake to Licchavi
+(ancient-world/kathmandu-valley-civilisation-from-lake-to-licchavi),
+The Shakya clan and Kapilavastu
+(ancient-world/the-shakya-clan-and-kapilavastu),
+Nepal — the Licchavi age
+(ancient-world/nepal-the-licchavi-age),
+**The Modern World** +10:
+Nepal — unification and the Anglo-Nepalese War heroes
+(modern-world/nepal-unification-and-the-anglo-nepalese-war-heroes),
+Nepal — martyrs and the people's movements
+(modern-world/nepal-martyrs-and-the-peoples-movements),
+Nepal — first prime minister and the road to democracy
+(modern-world/nepal-first-prime-minister-and-the-road-to-democracy),
+Nepal — poets, print and Everest luminaries
+(modern-world/nepal-poets-print-and-everest-luminaries),
+Nepal — Rana rule and its reforms
+(modern-world/nepal-rana-rule-and-its-reforms),
+Nepal — from Rana fall to federal republic
+(modern-world/nepal-from-rana-fall-to-federal-republic),
+Nepal — democratic leaders: Pushpa Lal and B. P. Koirala
+(modern-world/nepal-democratic-leaders-pushpa-lal-and-bp-koirala),
+Nepal — the Anglo-Nepalese War and the Treaty of Sugauli
+(modern-world/nepal-the-anglo-nepalese-war-and-the-treaty-of-sugauli),
+Nepal — Panchayat era and the 1990 People's Movement
+(modern-world/nepal-panchayat-era-and-the-1990-peoples-movement),
+Nepal — People's Movement II, civil war and the republic
+(modern-world/nepal-peoples-movement-ii-civil-war-and-the-republic).
+All 84 Nepal placements are stocked (34 into 12
+existing lessons — Dating the past 4, Find history in
+your own locality 14, Heritage — what it is and why
+it matters 3, What history is 1, From evidence to a
+written history 5, Ancient civilisations — Greece:
+Crete 1, Ancient civilisations — Rome 1, Ancient
+civilisations — India 1, The Renaissance — what it
+was 1, Exploration — causes and results 1, The First
+World War — causes 1, The Second World War — causes
+1 — and 50 into the 20 new lessons) on 15 placed
+books: the Grades 1–7, 9, 10 and 12 student books and
+the Grades 5, 7, 8 and 10 teacher's guides of Nepal's
+Social Studies / Social Studies and Human Value
+Education (Government of Nepal, Ministry of
+Education / Ministry of Education, Science and
+Technology, Curriculum Development Centre, Sanothimi,
+Bhaktapur). HONESTY: the student books count normally
+— Nepal is added to the countries line and the
+acceptance count together in every lesson stocked
+from them. The four teacher's guides (Books 7, 10, 12
+and 14) are cited as the evidence they are, OUTSIDE
+acceptance counts: the five existing lessons stocked
+only from the Grade 8 guide (Greece: Crete, Rome,
+India, the Renaissance, Exploration) keep their
+counts unchanged with Nepal named as teacher-guide
+evidence only, and the one new lesson built only from
+that guide (Kathmandu Valley civilisation — from lake
+to Licchavi) carries acceptance 0. Two placements
+named combined war slugs that do not exist as single
+lessons (modern-world/first-world-war-1914-to-1918 and
+modern-world/second-world-war-1939-to-1945) are
+stocked into the closest existing lessons — The First
+World War — causes and The Second World War — causes
+— with the original slugs recorded in their
+provenance rows. RECORD-ONLY, NOT PLACED, as filed in
+the placements: Book 11 (the Grade 8 record's file is
+a mismatched 1959 Geography book, so the real Grade 8
+student book is still missing — the Grade 8 guide is
+its only in-hand source) and Book 16 (the Grade 11
+English-medium record's file is an unrelated Citizen
+App directive, not a textbook). Non-History parts of
+every placed book are named, not placed, in each
+stocked lesson's sources. Nepal's own way is stocked
+inside the lessons: history begins as the child's own
+past ("Our Past" — birthday, ancestors, neighbours
+then and now), widens to heroes, martyrs and heritage,
+and becomes a continuous national story from Grade 6
+— unification, Rana rule, the movements and the
+federal republic — taught through stories, research
+reports and then/now charts, in BS dates throughout.
+History lessons: 815 → 835.

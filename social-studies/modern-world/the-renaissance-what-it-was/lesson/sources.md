@@ -103,3 +103,20 @@ Non-History parts of this book, named in the placements, not placed here: none �
 Kuwait's own way (Grade 12 Term 1): Grade 12 world history is a Europe-outward arc in six chapters across the year — Renaissance, discoveries, colonialism, industry, revolutions, world wars — each chapter split into concept, causes, course and results, with the same introduction carried in both term books. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait).**
+
+
+---
+
+## History expansion (2026-11-15) — Nepal stocked
+
+**Book 12:** *शिक्षक निर्देशिका, कक्षा ८, सामाजिक अध्ययन तथा मानव मूल्य शिक्षा (Shikshak Nirdeshika, Class 8, Social Studies and Human Value Education)* (teacher guide, Nepali) — Nepal. Title as printed: शिक्षक निर्देशिका, कक्षा ८, सामाजिक अध्ययन तथा मानव मूल्य शिक्षा (Shikshak Nirdeshika, Class 8, Social Studies and Human Value Education). Grade: 8 (student/teacher: TEACHER). Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year: first edition 2081 BS (2024/25 CE); no ISBN printed. PDF pages: 222 (cover/title page verified against the record title; Nepali text in a legacy font, read in transliterated text extraction; the guide's printed folios do not extract, so placements cite guide PDF pages). Verdict: COMPLETE — this guide is the only in-hand source for the Grade 8 history unit, because the Grade 8 student-book file is a mismatched 1959 Geography book (Book 11); all 8 history lessons are therefore placed from the guide. Tally: 10 placements — 5 to existing lessons, 5 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/nepal-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Unit 1 Development and Nepal — development, federalism, local/provincial/federal government, my province (guide opening units, Civics); Unit 2–4 values, customs, caste traditions, religious activities, unity in diversity, social problems and solutions (Civics); Unit 6 onward — economic activities, Earth and geography, population, international relations (Economics/Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 5 Lesson 8: The Renaissance — story beats: pictures of Leonardo, Michelangelo, Raphael, Dante and Erasmus open the lesson; pupils chart the Renaissance's meaning, its causes in medieval Europe, and the changes it brought to art, literature and science (Gilbert, Galileo, Newton, Kepler, Copernicus) (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Nepal, *Shikshak Nirdeshika, Class 8, Social Studies and Human Value Education 2081 (teacher's guide)*, guide p. 128 |
+
+Nepal's own way (Shikshak Nirdeshika, Class 8, Social Studies and Human Value Education 2081 (teacher's guide), Grade 8 (teacher guide)): Grade 8 "Our Past" opens with a definition — history is the account of past human activity, civilisation and state systems, studied from historical sources and analysed against the present — then runs Nepal's ancient story (name, dynasties, valley civilisation), the martyrs and the republic, and finishes with three world civilisations taught comparatively: Greece and Rome, the Indus Valley, and the Renaissance and its effects. That way is stocked here as the way Nepal teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait).** — unchanged; the Nepal placements above are teacher-guide evidence only, counted nowhere. Nepal is not added to this lesson's countries line.

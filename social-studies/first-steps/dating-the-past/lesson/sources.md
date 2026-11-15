@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -227,3 +227,50 @@ Cyprus's own way (Grade 4 work cards): the Grade 3 comparison grid grows up with
 India's own way (Our Pasts-I, Grade 6): NCERT teaches history as a story journey — every chapter opens with a present-day child (Rasheeda, Tushar, Jaspal…) whose question starts the chapter, primary sources are quoted in boxes (the Rigveda dialogue, Ashoka's own inscription, Fa Xian, Banabhatta), an "Elsewhere" box sets India beside the wider world each chapter, and kings are taught alongside ordinary people — farmers, fishers, weavers, slaves — with the book's title itself plural: Our Pasts, because different groups lived different pasts. That way is stocked here as the way India teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India).**
+
+
+---
+
+## History expansion (2026-11-15) — Nepal stocked
+
+**Book 1:** *My Social Studies and Creative Arts, Grade - 1* (student book, English) — Nepal. Title as printed: My Social Studies and Creative Arts, Grade - 1. Grade: 1 (student/teacher: STUDENT). Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sano Thimi, Bhaktapur; year: first edition 2049 BS, English version updated 2067 BS (2010/11 CE); ISBN 978-999-33-712-8-9 (as printed, malformed grouping). PDF pages: 86 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/nepal-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Unit 1 Me, My Family and Neighbourhood (printed pp. 2–9, Civics/family); Unit 2 Our Traditions, Social Values and Norms (pp. 10–19, Civics/culture); Unit 3 Social Problems and Solutions (pp. 20–23, Civics); Unit 4 Civic Sense (pp. 24–35, Civics); Unit 5 Our Earth — land and maps of home/school/classroom (pp. 36–45, Geography); Unit 6 Our Past lessons 3–4, Head of My Family and Maternal Uncle's Home (pp. 50–53, present-day kinship, Civics/family); Unit 7 Our Economic Activities (pp. 54–63, Economics); Creative Arts — Visual Arts and Music (pp. 64–85, Arts).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 6 Lesson 1: My Birthday — story beats: Rita Chaudhary of Dang tells her birth day, date, month and year (7 Fagun 2062 BS) and pupils build the same record for themselves and two friends (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Nepal, *My Social Studies and Creative Arts, Grade - 1*, printed p. 46 |
+
+Nepal's own way (My Social Studies and Creative Arts, Grade - 1, Grade 1): History begins at Grade 1 as the child's own past — a named unit "Our Past" built from the child's birthday and three generations of their own family, before any national story. That way is stocked here as the way Nepal teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2:** *My Social Studies and Creative Arts, Grade 2* (student book, English) — Nepal. Title as printed: My Social Studies and Creative Arts, Grade 2. Grade: 2 (student/teacher: STUDENT). Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre; year: first edition 2050 BS, revised edition 2074 BS (2017/18 CE); ISBN 978-99933-717-8-6. PDF pages: 88 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/nepal-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Unit 1 Me, My Family and My Neighbourhood (printed pp. 2–7, Civics/family); Unit 2 Our Tradition, Social Values and Norms, incl. Our Festivals (pp. 8–15, Civics/culture); Unit 3 Social Problems and Solutions (pp. 16–19, Civics); Unit 4 Civic Sense (pp. 20–27, Civics); Unit 5 Our Earth — living place, village/town, maps (pp. 28–35, Geography); Unit 7 Our Economic Activities (pp. 42–49, Economics); Creative Arts — Visual Arts and Music (pp. 50–82, Arts).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 6 Lesson 1: My Friend's Birthday — story beats: Radha asks Ramesh's mother when and where he was born (Wednesday 14 Magh 2054 BS, Kalaiya, Bara), writes it in her notebook, and pupils tabulate five friends' birth dates and places (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Nepal, *My Social Studies and Creative Arts, Grade 2*, printed p. 36 |
+
+Nepal's own way (My Social Studies and Creative Arts, Grade 2, Grade 2): The "Our Past" unit widens from self (Grade 1) to friends and place — a friend's family "then and now" in Humla, where mules and planes give way to schools, health posts, solar light and helicopters — and closes with the national symbols as shared heritage. That way is stocked here as the way Nepal teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10:** *शिक्षक निर्देशिका, सामाजिक अध्ययन तथा मानव मूल्य शिक्षा (कक्षा ७) (Shikshak Nirdeshika, Social Studies and Human Value Education, Class 7)* (teacher guide, Nepali) — Nepal. Title as printed: शिक्षक निर्देशिका, सामाजिक अध्ययन तथा मानव मूल्य शिक्षा (कक्षा ७) (Shikshak Nirdeshika, Social Studies and Human Value Education, Class 7) — marked "draft for feedback". Grade: 7 (student/teacher: TEACHER). Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year: first edition 2079 BS (2022/23 CE); no ISBN printed. PDF pages: 202 (cover/title page verified against the record title; Nepali text in a legacy font, read in transliterated text extraction; the draft guide's own page numbers do not extract, so placements cite the student-book printed pages they teach). Verdict: COMPLETE — mirrors the Grade 7 student book's Unit 5 (7 lessons). Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED (student-book content placements are filed under Book 9; only the guide's distinctive method work is placed here). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/nepal-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: The guide's Units 1–4 and 6–9 mirror the student book's Civics, Economics, Geography, Population and ICT units (see Book 9 header).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 5 Lesson 1 guide: dividing Nepal's history into periods — story beats: the teacher displays a chart dividing Nepal's history into ancient, medieval and modern with their dates and events (start of Nepal Sambat; Prithvi Narayan's conquest of the valley), and tells the ancient dynasties as a story because written sources for them are scarce (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Nepal, *Shikshak Nirdeshika, Social Studies and Human Value Education, Class 7 (teacher's guide)*, printed p. 85 (student-book pagination) |
+
+Nepal's own way (Shikshak Nirdeshika, Social Studies and Human Value Education, Class 7 (teacher's guide), Grade 7 (teacher guide)): The guide teaches medieval history by story-telling where sources are thin — the teacher narrates the ancient dynasties as a story (katha), builds the period-division chart with dates on the board, has pupils draw the map of medieval Nepal's three regions, and screens documentary films for Prithvi Narayan's campaign and the Sinja civilisation. That way is stocked here as the way Nepal teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14:** *शिक्षक निर्देशिका, सामाजिक अध्ययन, कक्षा १० (Shikshak Nirdeshika, Social Studies, Class 10)* (teacher guide, Nepali) — Nepal. Title as printed: शिक्षक निर्देशिका, सामाजिक अध्ययन, कक्षा १० (Shikshak Nirdeshika, Social Studies, Class 10). Grade: 10 (student/teacher: TEACHER). Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year: first edition 2081 BS (2024/25 CE); no ISBN printed. PDF pages: 301 (cover/title page verified against the record title; Nepali text in a legacy font, read in transliterated text extraction; the guide's printed folios do not extract, so placements cite guide unit and lesson). Verdict: COMPLETE — the guide mirrors the Grade 10 student book (Book 15), so only its distinctive method placements are filed here; the unit's content placements are filed under the student book. Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/nepal-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: The guide's other units — socialisation, human development indicators, national heritage, human trafficking as a social problem, management, climate factors, natural disasters and map skills (Sociology/Development/Civics/Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 7 method: Timeline Building — story beats: for every period of the modern unit (2007 BS revolution, the democratic decade, 2017–2046 BS, 2046 BS to today) the guide has pupils build dated timeline models and event charts, learning history as an ordered chain of dated turning points (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Nepal, *Shikshak Nirdeshika, Social Studies, Class 10 (teacher's guide)*, guide Unit 7 |
+
+Nepal's own way (Shikshak Nirdeshika, Social Studies, Class 10 (teacher's guide), Grade 10 (teacher guide)): Grade 10's "Our Past" unit is wholly modern — the political event-chain from the 2007 BS revolution to the present, the two World Wars with Nepal's role in each, and local heritage fieldwork — and the guide teaches it through timelines, event charts, photographs, video clips and documentary film. That way is stocked here as the way Nepal teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal).**

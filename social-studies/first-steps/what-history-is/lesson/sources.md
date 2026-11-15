@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -329,3 +329,20 @@ Kuwait's own way (Grade 10 Term 1): Secondary History opens with method — what
 India's own way (Our Pasts-I, Grade 6): NCERT teaches history as a story journey — every chapter opens with a present-day child (Rasheeda, Tushar, Jaspal…) whose question starts the chapter, primary sources are quoted in boxes (the Rigveda dialogue, Ashoka's own inscription, Fa Xian, Banabhatta), an "Elsewhere" box sets India beside the wider world each chapter, and kings are taught alongside ordinary people — farmers, fishers, weavers, slaves — with the book's title itself plural: Our Pasts, because different groups lived different pasts. That way is stocked here as the way India teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 16 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India).**
+
+
+---
+
+## History expansion (2026-11-15) — Nepal stocked
+
+**Book 3:** *My Social Studies and Creative Arts, Grade 3* (student book, English) — Nepal. Title as printed: My Social Studies and Creative Arts, Grade 3. Grade: 3 (student/teacher: STUDENT). Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; year: first edition 2051 BS, English version updated 2067 BS (2010/11 CE); no ISBN printed. PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/nepal-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Unit 1 Me, My Family and Neighbourhood (printed pp. 2–9, Civics/family); Unit 2 Our Traditions, Social Values and Norms, incl. village languages, costumes and festivals (pp. 10–17, Civics/culture); Unit 3 Social Problems and Solutions, incl. abolishing untouchability (pp. 18–25, Civics); Unit 4 Civic Awareness, incl. My Ward (pp. 26–35, Civics); Unit 5 Our Earth — place, surroundings, maps (pp. 36–43, Geography); Unit 7 Our Economic Activities (pp. 52–59, Economics); Creative Arts — Visual Art and Music (pp. 61–93, Arts).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 6 Lesson 4: Lessons to Be Learnt from the Past — story beats: Mahesh writes to his friend Gyani that the past teaches "we and our" over "I and my" — protect what makes Nepal known, remember the brave ancestors, and serve the country (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Nepal, *My Social Studies and Creative Arts, Grade 3*, printed p. 50 |
+
+Nepal's own way (My Social Studies and Creative Arts, Grade 3, Grade 3): "Our Past" now reaches the nation: after neighbours' lives and jobs "before and now", the first national story is heroic — the Anglo-Nepalese War defenders and the unification begun by Prithvi Narayan Shah, ending with an explicit lesson on what the past teaches. That way is stocked here as the way Nepal teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal).**

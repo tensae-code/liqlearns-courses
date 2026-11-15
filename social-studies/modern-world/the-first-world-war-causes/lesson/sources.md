@@ -1,6 +1,6 @@
 # Sources — The First World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait
+countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 133).
 
@@ -73,3 +73,20 @@ Non-History parts of this book, named in the placements, not placed here: none �
 Kuwait's own way (Grade 12 Term 2): Term 2 runs revolutions into world wars and ends the whole secondary History course at the United Nations and "the features of our contemporary world" — the present day as the final chapter. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait).**
+
+
+---
+
+## History expansion (2026-11-15) — Nepal stocked
+
+**Book 15:** *सामाजिक अध्ययन, कक्षा १० (Samajik Adhyayan, Class 10)* (student book, Nepali) — Nepal. Title as printed: सामाजिक अध्ययन, कक्षा १० (Samajik Adhyayan, Class 10). Grade: 10 (student/teacher: STUDENT). Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year: not stated on the pages read; no ISBN printed on the pages read. PDF pages: 316 (cover/title page verified against the record title; Nepali text in a legacy font, read in transliterated text extraction). Verdict: COMPLETE. Tally: 8 placements — 3 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/nepal-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Unit 1 We and Our Society — socialisation, identity, unity in diversity, national pride (Sociology/Civics); Unit 2 Development and its Preconditions — human development indicators, sustainable development, federalism, national pride projects (Development Studies); Unit 3 Our Social Values and Norms — national heritage, folk songs, folk instruments, dances, national days, international personalities, world brotherhood (Culture/Civics); Unit 4 Social Problems and Solutions — human trafficking, sexual deviation, domestic violence, corruption, superstition (Civics); Unit 5 Civic Awareness — legislature, federal executive, judiciary, political parties, elections, human rights (Civics); Unit 6 Our Earth — climate zones, continents, natural disasters, map work and modern map technology (Geography); Unit 8 Economic Activities — energy, tourism, employment, financial education and instruments, cooperatives, saving, revenue, periodic plans (Economics); Unit 9 International Relations and Cooperation (Civics); Unit 10 Population and its Management (Demography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 7 Lessons 6–7: The First World War — Causes, Course and Results — story beats: secret alliances and the Triple Alliance and Triple Entente, fierce nationalism and militarism, imperial rivalry, propaganda and the Balkan tinderbox pull Europe into war in July 1914 after Austria-Hungary attacks Serbia; four years end with the Treaty of Versailles in 1919, and the results lesson counts the cost and the new map (History expansion, 2026-11-15; original placement slug: modern-world/first-world-war-1914-to-1918) | Nepal, *Samajik Adhyayan, Class 10*, printed pp. 194, 199 |
+
+Nepal's own way (Samajik Adhyayan, Class 10, Grade 10): Grade 10 history is the modern political story told as one dated chain — the 2007 BS revolution and the Delhi Compromise, the democratic decade, the Panchayat years, the movements of 2046 and 2062/63 BS, the civil-war peace and the republic — followed by the two World Wars, each with Nepal's own role in it, and a closing fieldwork lesson on finding and preserving local historical sites. That way is stocked here as the way Nepal teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal).**

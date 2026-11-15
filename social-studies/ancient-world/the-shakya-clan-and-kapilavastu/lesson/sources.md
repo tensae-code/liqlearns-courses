@@ -1,0 +1,17 @@
+# Sources — The Shakya clan and Kapilavastu
+
+countries: Nepal
+
+**Book 13:** *सामाजिक अध्ययन, कक्षा ९ (Samajik Adhyayan, Class 9)* (student book, Nepali) — Nepal. Title as printed: सामाजिक अध्ययन, कक्षा ९ (Samajik Adhyayan, Class 9). Grade: 9 (student/teacher: STUDENT). Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year: not stated on the pages read; ISBN printed incompletely "978-9937-601- -" (digits missing, as in the Grade 7 book). PDF pages: 257 (cover/title page verified against the record title; Nepali text in a legacy font, read in transliterated text extraction). Verdict: COMPLETE. Tally: 9 placements — 1 to an existing lesson, 8 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/nepal-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Unit 1 Our Society and society's development (Sociology); Unit 2 Preconditions of Development — education, health, communication, electricity, drinking water, transport, manpower, local development plans (Development Studies); Unit 3 Our Social Values and Norms — religions of Nepal, Nepali painting, sculpture, architecture, religious tolerance, peace culture, national unity (Culture/Civics; its two biographical lessons ARE placed); Unit 4 Social Problems and Solutions — identifying social problems, local and national organisations, civic practice (Civics); Unit 5 Civic Awareness — constitution, constitutional development, constituent assembly, fundamental rights, citizenship, good governance, democratic conduct, nation and nationality (Civics); Unit 6 Our Earth — latitude/longitude, Nepal's relief, climate, vegetation, minerals, map work, Asia/Europe/Australia geography and disasters (Geography); Unit 8 Our Economic Activities — agriculture, industry, trade, labour and employment (Economics); Unit 9 International Relations, Peace and Cooperation and Unit 10 Population and its Management (Civics/Demography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Sub lesson 1 — The History of the Shakya Lineage (Grade 9) — story beats: the Shakya clan of Kapilavastu — the republican gana from which Siddhartha Gautam, the Buddha, was born — is traced as one of ancient Nepal's ruling peoples, with its own assembly rule on the Terai plain (History expansion, 2026-11-15; original placement slug: ancient-world/the-shakya-clan-and-kapilavastu) | Nepal, *Samajik Adhyayan, Class 9*, printed p. 172 |
+
+Nepal's own way (Samajik Adhyayan, Class 9, Grade 9): Grade 9 teaches history as method first — a full lesson on the kinds of historical sources (genealogies, inscriptions, coins, religious texts, foreign travellers' accounts, archives, art, and the Thyosophus note/diary) and how to preserve them — then the Shakya clan, then the unification campaign told battle by battle, the Anglo-Nepalese war with its heroes, and the rise and fall of Rana rule with its economic and social effects. Two values-unit lessons (Unit 3) are biographical history: a national-luminaries gallery and the lives of Pushpa Lal and B. P. Koirala. That way is stocked here as the way Nepal teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Nepal).**
+
+Searchable tags: Nepal, The Shakya clan and Kapilavastu, ancient-world, History expansion 2026-11-15
