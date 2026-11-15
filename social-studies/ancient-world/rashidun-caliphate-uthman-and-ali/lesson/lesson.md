@@ -1,0 +1,20 @@
+# Uthman and Ali — the Rashidun age ends
+
+## Do it first
+
+Before you read on, hold this lesson's one thing in mind: Expansion continued under Uthman ibn Affan, and the term closes with Ali ibn Abi Talib, the fourth caliph, as the Rashidun age ends. As you read, keep asking where each part of that sentence is proved.
+
+## Sub lesson 1 — Uthman ibn Affan and Ali ibn Abi Talib
+
+Expansion continues under uthman, and the term closes with ali, the fourth caliph, as the rashidun age ends.
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Say it to your companion
+
+Tell your companion the story as its beats, in order: uthman ibn affan and ali ibn abi talib. Then let your companion ask you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. Write, from memory, the story of: uthman ibn affan and ali ibn abi talib.
+2. Write the one thing this lesson teaches, from memory: Expansion continued under Uthman ibn Affan, and the term closes with Ali ibn Abi Talib, the fourth caliph, as the Rashidun age ends.

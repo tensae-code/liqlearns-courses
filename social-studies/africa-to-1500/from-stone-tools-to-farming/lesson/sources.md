@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -244,3 +244,17 @@ Cyprus's own way (Grade 3 teacher guide): History is built through four recurrin
 Cyprus's own way (Grade 3 work cards): the child fills in the same comparison card for every age — Palaeolithic, Neolithic, Bronze Age, the 21st century and even the imagined 31st century — so change-and-continuity is a habit of filling one grid, and the future is treated as history-in-waiting. That way is stocked here as the way Cyprus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus).** Cyprus is counted in this lesson through its student work cards (Book 2); the Book 1 rows above stand on the Grade 3 teacher guide as teacher-guide evidence only and add no count beyond it.
+
+## History expansion (2026-11-15) — Kuwait stocked
+
+**Book 7:** *دولة الكويت والعالم — الصف التاسع، الفصل الدراسي الأول (State of Kuwait and the World, Grade 9, Term 1)* (student book, Arabic) — Kuwait. Title as printed: دولة الكويت والعالم — الصف التاسع، الفصل الدراسي الأول (State of Kuwait and the World, Grade 9, Term 1). Grade: 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait — General Directorate for Guidance, Research and Curricula; 2nd edition 1448H / 2026–2027 (1st 2025–2026); ISBN 978-9921-33-033-5. PDF pages: 122 (cover/title page verified against the record title; grabbed via the TSV release record, 53,206,447 bytes, matching the books.json record size exactly). Verdict: COMPLETE. Tally: 1 placement — 1 to existing lessons, 0 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Unit 1 Lessons 1–3 The environment, its importance, divisions and natural elements (geography/science), printed pp. 17–23; Unit 2 Effect of the natural environment on population distribution, human activity, military and political power, and natural disasters (geography), printed pp. 35–44; Unit 3 Human impact on the environment — ecosystem imbalance and pollution (science/civics), printed pp. 55–63; Unit 4 Other environmental problems — radiation, warming, desertification, water scarcity — and Kuwaiti and world efforts against them (science/civics), printed pp. 73–80; Unit 5 Law (civics/law, per the front-matter legal-content note), printed after p. 84.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Unit 1 Lesson 4: Development of the human–environment relationship — story beats: first humans hunt and gather in small cave-dwelling bands, then learn farming, settle by water, tame animals and build mud-and-stone houses, inventing the wooden plough in Mesopotamia around 5000 BCE, before industry and the information revolution turn the relationship into a burden on the earth (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kuwait, *دولة الكويت والعالم — الصف التاسع، الفصل الدراسي الأول (State of Kuwait and the World, Grade 9, Term 1)*, printed p. 26 |
+
+Kuwait's own way (Grade 9 Term 1): Grade 9 Term 1 is an environment book, but it opens the human story at the beginning — cave, farm, factory, screen — as the frame for every environmental problem that follows. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait).**

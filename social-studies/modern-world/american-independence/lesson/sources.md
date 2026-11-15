@@ -1,6 +1,6 @@
 # Sources — American independence
 
-countries: Ethiopia, France, United States, Ecuador
+countries: Ethiopia, France, United States, Ecuador, Kuwait
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -89,3 +89,17 @@ The United States' other three records are RECORD-ONLY, not History books, with 
 Ecuador's own way (Ecuador Grade 8 EC-G8): the Superior book abandons the national chronology for a thematic, work-centred reading of world and Latin American history — history-and-labour, class societies, revolutions, liberation — taught through stories like Queen Nanny and through Ecuador's own contemporary challenges. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, France, United States, Ecuador).**
+
+## History expansion (2026-11-15) — Kuwait stocked
+
+**Book 14:** *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الثاني (History of the Modern and Contemporary World, Grade 12 Literary track, Term 2)* (student book, Arabic) — Kuwait. Title as printed: تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الثاني (History of the Modern and Contemporary World, Grade 12 Literary track, Term 2) — cover verified visually. Grade: 12 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait; no ISBN printed in the front matter. PDF pages: 70 (cover verified against the record title; grabbed via the books.json record's release asset in mid-size-books-2, 19,491,144 bytes, matching the record size exactly; read from the printed contents and page renders — the text layer is font-garbled). Verdict: COMPLETE — Chapters 5–6 of the six-chapter modern-world course. Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Chapter 5: The American Revolution — story beats: Britain's American colonies rebel against taxes and rule from across the ocean and fight their way into a new republic (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Kuwait, *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الثاني (History of the Modern and Contemporary World, Grade 12 Literary track, Term 2)*, printed p. 18 |
+
+Kuwait's own way (Grade 12 Term 2): Term 2 runs revolutions into world wars and ends the whole secondary History course at the United Nations and "the features of our contemporary world" — the present day as the final chapter. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, France, United States, Ecuador, Kuwait).**

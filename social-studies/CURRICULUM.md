@@ -10856,3 +10856,129 @@ island's ancient story told through Hector the boy
 archaeologist and Aphrodite, Cyprus never a footnote
 to Greece.
 History lessons: 712 → 724.
+
+
+## History expansion — Kuwait — built 2026-11-15
+
+29 new lessons, 294 questions. **The Ancient World** +9:
+The Gulf's first civilisations — Dilmun, Magan and Failaka
+(ancient-world/gulf-civilisations-dilmun-magan-and-failaka),
+Kuwait's first civilisations — Ubaid Subiya and Hellenistic
+Failaka (ancient-world/kuwait-ubaid-and-hellenistic-failaka),
+Islamic Kuwait — its sites and the guardians of its heritage
+(ancient-world/kuwait-islamic-heritage-sites), Islamic
+civilisation — what it is and what marks it
+(ancient-world/islamic-civilisation-foundations-and-features),
+Islamic civilisation — its state, markets and cities
+(ancient-world/islamic-civilisation-institutions-and-city-life),
+Islamic civilisation wakes Europe
+(ancient-world/islamic-civilisation-and-europes-awakening),
+Abu Bakr and the Ridda — the first caliphate holds Arabia
+(ancient-world/rashidun-caliphate-abu-bakr-and-the-ridda),
+Umar and the great conquests
+(ancient-world/rashidun-caliphate-umars-conquests), and
+Uthman and Ali — the Rashidun age ends
+(ancient-world/rashidun-caliphate-uthman-and-ali).
+**The Modern World** +20: Where the Gulf's peoples came
+from — origins and migrations
+(modern-world/gulf-population-origins-and-migrations), The
+founding of Kuwait — the Utub and Al Sabah
+(modern-world/kuwait-founding-the-utub-and-al-sabah), The
+founding of the other Gulf states
+(modern-world/founding-of-the-other-gulf-states), Old
+Kuwait's economy — herding, crafts and the sea
+(modern-world/kuwait-old-economy-herding-crafts-and-trade),
+Pearl diving — Kuwait's hard sea harvest
+(modern-world/kuwait-pearl-diving), European rivalry in
+the Gulf (modern-world/european-colonial-rivalry-in-the-gulf),
+Kuwait's 1899 protection agreement with Britain
+(modern-world/kuwait-1899-protection-agreement-with-britain),
+Kuwait and the Gulf win independence
+(modern-world/kuwait-and-gulf-independence), Kuwait's
+constitution and political life
+(modern-world/kuwait-constitution-and-political-life), The
+Gulf Cooperation Council is founded
+(modern-world/gulf-cooperation-council-founding), The
+United Nations is founded — and Kuwait joins
+(modern-world/united-nations-founding-and-kuwait-joins),
+OPEC is founded — Kuwait among the oil states
+(modern-world/opec-founding-and-kuwait), History guards
+Kuwait's national identity
+(modern-world/kuwait-history-and-national-identity),
+Kuwait's rulers — challenges and achievements
+(modern-world/kuwait-rulers-challenges-and-achievements),
+Kuwait — from emirate to modern state
+(modern-world/kuwait-from-emirate-to-modern-state), The
+English and French voyages of discovery
+(modern-world/english-and-french-voyages-of-discovery),
+European colonialism — what it is, what feeds it, its
+forms (modern-world/european-colonialism-concept-factors-and-forms),
+Colonial rivalry among the European powers
+(modern-world/colonial-rivalry-among-european-powers), The
+effects of European colonialism
+(modern-world/effects-of-european-colonialism), and The
+world between the wars, 1919–1939
+(modern-world/the-world-between-the-wars-1919-1939).
+All 72 Kuwait placements are stocked: 26 into 19 existing
+lessons at their own slugs, 4 into 3 existing lessons
+under remapped slugs (the placements' Arabia-before-Islam
+chapter stocked into The Arabian Peninsula before Islam,
+recording ancient-world/arabia-before-islam; the two OIC
+placements stocked into The OIC — founded after the 1969
+al-Aqsa arson, recording
+modern-world/organisation-of-islamic-cooperation-founding;
+the English Revolution stocked into England's
+constitutional revolutions, recording
+modern-world/the-english-revolution), and 42 into the 29
+new lessons. The placed books are all Arabic STUDENT
+books, so Kuwait counts normally everywhere it is
+stocked: What history is 14 → 15, The rise and expansion
+of Islam 7 → 8, Trade routes that linked the old world
+3 → 4, From stone tools to farming 10 → 11, From evidence
+to a written history 10 → 11, Fact or opinion 3 → 4, The
+Renaissance — what it was 5 → 6, The Renaissance — its
+great figures 3 → 4, Exploration — causes and results
+4 → 5, Exploration — Portugal and the sea routes 5 → 6,
+Exploration — Columbus, Vespucci and Magellan 6 → 7, The
+Industrial Revolution — what changed and why England
+first 5 → 6, The Industrial Revolution — textiles, steam
+and rail 3 → 4, Effects of industrialisation 3 → 4,
+American independence 4 → 5, The French Revolution breaks
+out 4 → 5, The First World War — causes 4 → 5, The Second
+World War — course in Europe 4 → 5, The world after 1945
+1 → 2, The Arabian Peninsula before Islam 3 → 4, The OIC
+1 → 2, and England's constitutional revolutions 1 → 2;
+the 29 new lessons carry acceptance 1 (Kuwait). Library
+debts, carried as filed in the placements, never dropped:
+the Grade 7 Term 1 student book is UNREAD — no asset for
+it exists in any release although its books.json record
+claims in_pushed: true at 55,926,452 bytes, the tree route
+404s, and the source page's Drive copy is a corrupt,
+truncated PDF (21,493,059 bytes, 0 pages) — 0 placements;
+the Grade 10 Term 2 and Grade 11 Term 2 records are
+RECORD-ONLY file mismatches — the files behind both
+records are the old-curriculum Term 1 books (the Grade 10
+file is the 201-page "History of the State of Kuwait"
+Term 1; the Grade 11 file is a longer complete edition of
+the Islamic History Term 1 book), NOT placed as the wrong
+books — 0 placements each; the Grade 7 Term 2 book is
+COMPLETE with no History teaching parts — 0 placements,
+its Geography/Economics/Civics units named in the
+placements, not placed; the Grade 6 Term 1 on-disk file
+is 50,971,017 bytes against its record's 50,767,798
+bytes; the Grade 6 Term 2 book was grabbed via its TSV
+release record because its paired tree path returned 404.
+Kuwait's own way is stocked inside the lessons: History
+starts from Kuwait and widens — to the Gulf in Grade 6
+(with Hamad and his grandfather carrying the founding
+story), to the Arab homeland in Grade 7, to the Islamic
+world in Grade 8, to the world in Grade 9 — and secondary
+History opens with method, then tells Kuwait alone
+(roots, rulers, emirate to modern state), Islamic History
+as one caliph-by-caliph arc, and world history as a
+Europe-outward arc ending at the United Nations. The
+books' non-History parts (Geography, Civics/values
+"Pauses with Good Kuwait", Economics and Law parts named
+in the placements file) stay named in the stocked
+sources, not placed.
+History lessons: 724 → 753.

@@ -1,6 +1,6 @@
 # Sources — Exploration — causes and results
 
-countries: Ethiopia, United States, Guatemala, Costa Rica
+countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 125).
 
@@ -62,3 +62,18 @@ Guatemala's own way (Ciencias Sociales y Formación Ciudadana, Cuarto grado): th
 Costa Rica's own way (Costa Rica Grade 9 CONED Antología): The Noveno anthology runs one long arc — "the journey of humanity from the Middle Ages to 19th-century Costa Rica" — in which every world process (feudalism, Renaissance, conquest, Enlightenment, independence, industrialisation) is landed in Costa Rica: colonial institutions, the coffee state and banana enclave, and everyday Costa Rican life close the book. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, United States, Guatemala, Costa Rica).**
+
+## History expansion (2026-11-15) — Kuwait stocked
+
+**Book 13:** *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)* (student book, Arabic) — Kuwait. Title as printed: تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1) — cover verified visually. Grade: 12 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait; no ISBN printed in the front matter. PDF pages: 78 (cover verified against the record title; grabbed via the TSV release record, 31,070,195 bytes, matching the books.json record size exactly; read from the printed contents and page renders — the text layer is font-garbled). Verdict: COMPLETE — Chapters 1–4 of the six-chapter modern-world course. Tally: 14 placements — 9 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Chapter 2: Causes of the geographic discovery movement — story beats: Europe wants the spices and gold of the East without the middlemen, gains ships and compasses to try, and pushes out onto unknown seas (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Kuwait, *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)*, printed p. 25 |
+| Kuwait part — Chapter 2: Results of the voyages and geographic discoveries — story beats: trade routes shift from the Mediterranean to the oceans, prices and peoples are overturned, and the old world's map — and power — never look the same (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Kuwait, *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)*, printed p. 45 |
+
+Kuwait's own way (Grade 12 Term 1): Grade 12 world history is a Europe-outward arc in six chapters across the year — Renaissance, discoveries, colonialism, industry, revolutions, world wars — each chapter split into concept, causes, course and results, with the same introduction carried in both term books. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait).**

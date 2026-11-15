@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -303,3 +303,18 @@ Eritrea's own way (Grade 7): world history is taught as a ladder of societies �
 Cyprus's own way (Grade 3 teacher guide): History is built through four recurring enquiry questions — How and why do we move? How do we spend our day? What do we think? How do we organise ourselves? — asked identically of the child's own life and of the Palaeolithic, Neolithic and Bronze Age, so change-and-continuity is felt, not memorised; evidence work (sources, questions, graded-certainty language) comes before any period content. That way is stocked here as the way Cyprus teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea) — unchanged; the Cyprus placements above are teacher-guide evidence only, counted nowhere. Cyprus is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Kuwait stocked
+
+**Book 9:** *دولة الكويت — المسيرة والكيان (State of Kuwait — The Journey and the Entity), Grade 10, Term 1* (student book, Arabic) — Kuwait. Title as printed: دولة الكويت — المسيرة والكيان (State of Kuwait — The Journey and the Entity), Grade 10, Term 1 (cover verified visually). Grade: 10 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait; ISBN 978-9921-33-128-8 (edition years as printed in front matter). PDF pages: 144 (cover/title page verified against the record title; grabbed via the TSV release record, 33,582,242 bytes, matching the books.json record size exactly). Verdict: COMPLETE. Tally: 10 placements — 4 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Unit 3 Geography and understanding the world around us (geography: geographic thought, location, relief and climate, political borders, world population), printed pp. 68–87; Unit 4 Geography of Kuwait — place and human life (geography), printed pp. 92–111; Unit 5 Integrity and confronting financial crimes (civics/law), printed pp. 118–134.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Unit 1 Lesson 2: Sources for studying history and the steps of research in it — story beats: the class follows a fact from a dusty source through the research steps until it stands as written history (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Kuwait, *دولة الكويت — المسيرة والكيان (State of Kuwait — The Journey and the Entity), Grade 10, Term 1*, printed p. 19 |
+| Kuwait part — Unit 1 Lesson 3: The historical researcher and analysing the historical event — story beats: the researcher cross-examines an event the way a judge hears witnesses, testing each account before judging what happened (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Kuwait, *دولة الكويت — المسيرة والكيان (State of Kuwait — The Journey and the Entity), Grade 10, Term 1*, printed p. 22 |
+
+Kuwait's own way (Grade 10 Term 1): Secondary History opens with method — what history is, its sources, forgery versus truth — then spends the term on Kuwait alone: roots, rulers one by one (Jaber Al Ahmad "Amir of Hearts", Saad Al Abdullah "Hero of Liberation"), and the march from emirate to modern state, diplomacy and humanitarian work. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait).**

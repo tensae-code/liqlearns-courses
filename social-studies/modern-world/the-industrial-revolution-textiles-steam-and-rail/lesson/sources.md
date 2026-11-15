@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — textiles, steam and rail
 
-countries: Ethiopia, France, Australia
+countries: Ethiopia, France, Australia, Kuwait
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 131).
 
@@ -40,3 +40,17 @@ France's own way: the Seconde year is built as four themes that keep returning t
 Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, France, Australia).**
+
+## History expansion (2026-11-15) — Kuwait stocked
+
+**Book 13:** *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)* (student book, Arabic) — Kuwait. Title as printed: تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1) — cover verified visually. Grade: 12 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait; no ISBN printed in the front matter. PDF pages: 78 (cover verified against the record title; grabbed via the TSV release record, 31,070,195 bytes, matching the books.json record size exactly; read from the printed contents and page renders — the text layer is font-garbled). Verdict: COMPLETE — Chapters 1–4 of the six-chapter modern-world course. Tally: 14 placements — 9 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Chapter 4: Manifestations of the Industrial Revolution — story beats: spinning machines, steam power and railways remake work, towns and travel within a generation (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-textiles-steam-and-rail) | Kuwait, *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)*, printed p. 63 |
+
+Kuwait's own way (Grade 12 Term 1): Grade 12 world history is a Europe-outward arc in six chapters across the year — Renaissance, discoveries, colonialism, industry, revolutions, world wars — each chapter split into concept, causes, course and results, with the same introduction carried in both term books. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, France, Australia, Kuwait).**

@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador
+countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -104,3 +104,17 @@ Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same 
 Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador).**
+
+## History expansion (2026-11-15) — Kuwait stocked
+
+**Book 13:** *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)* (student book, Arabic) — Kuwait. Title as printed: تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1) — cover verified visually. Grade: 12 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait; no ISBN printed in the front matter. PDF pages: 78 (cover verified against the record title; grabbed via the TSV release record, 31,070,195 bytes, matching the books.json record size exactly; read from the printed contents and page renders — the text layer is font-garbled). Verdict: COMPLETE — Chapters 1–4 of the six-chapter modern-world course. Tally: 14 placements — 9 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Chapter 4: The Industrial Revolution — definition and the factors that raised it in England — story beats: coal, capital, colonies and hands gather in England first, and making things passes from cottages to factories (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | Kuwait, *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)*, printed pp. 61–62 |
+
+Kuwait's own way (Grade 12 Term 1): Grade 12 world history is a Europe-outward arc in six chapters across the year — Renaissance, discoveries, colonialism, industry, revolutions, world wars — each chapter split into concept, causes, course and results, with the same introduction carried in both term books. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait).**

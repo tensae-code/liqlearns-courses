@@ -1,6 +1,6 @@
 # Sources — The Renaissance — its great figures
 
-countries: Ethiopia, France, Poland
+countries: Ethiopia, France, Poland, Kuwait
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 127).
 
@@ -44,3 +44,17 @@ France's own way: the Seconde year is built as four themes that keep returning t
 Poland's own way: the volume keeps the series pattern — the world styles first (Italy, then the other countries), then a full chapter bringing each age home to Poland. That way is stocked here as the way Poland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, France, Poland).**
+
+## History expansion (2026-11-15) — Kuwait stocked
+
+**Book 13:** *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)* (student book, Arabic) — Kuwait. Title as printed: تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1) — cover verified visually. Grade: 12 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait; no ISBN printed in the front matter. PDF pages: 78 (cover verified against the record title; grabbed via the TSV release record, 31,070,195 bytes, matching the books.json record size exactly; read from the printed contents and page renders — the text layer is font-garbled). Verdict: COMPLETE — Chapters 1–4 of the six-chapter modern-world course. Tally: 14 placements — 9 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Chapter 1: Manifestations of the European Renaissance — story beats: the rebirth shows itself in art, letters, science and building, the works by which the age is still recognised (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-its-great-figures) | Kuwait, *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)*, printed p. 17 |
+
+Kuwait's own way (Grade 12 Term 1): Grade 12 world history is a Europe-outward arc in six chapters across the year — Renaissance, discoveries, colonialism, industry, revolutions, world wars — each chapter split into concept, causes, course and results, with the same introduction carried in both term books. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, France, Poland, Kuwait).**

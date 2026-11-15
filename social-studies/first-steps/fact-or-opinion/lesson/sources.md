@@ -1,6 +1,6 @@
 # Sources — Fact or opinion? Reading the past critically
 
-countries: Ethiopia, Jordan, Switzerland
+countries: Ethiopia, Jordan, Switzerland, Kuwait
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -48,3 +48,17 @@ Switzerland's own way (whole set): History is taught as five true life-stories f
 Iceland's own way: a Norwegian textbook re-rooted in Iceland — every world chapter is doubled with Icelandic source work: the 1703 census, tenant farmers and servants under the vistarband, Jørgen Jørgensen's 1809 coup, emigration to Canada, Jón Sigurðsson, the Spanish flu and the road to the 1944 republic; pupils judge sources, role-play strikes and suffrage debates, and keep asking "was Iceland a colony?" That way is stocked here as the way Iceland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Jordan, Switzerland) — unchanged; the Iceland placement above is teacher-guide evidence only, counted nowhere. Iceland is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Kuwait stocked
+
+**Book 9:** *دولة الكويت — المسيرة والكيان (State of Kuwait — The Journey and the Entity), Grade 10, Term 1* (student book, Arabic) — Kuwait. Title as printed: دولة الكويت — المسيرة والكيان (State of Kuwait — The Journey and the Entity), Grade 10, Term 1 (cover verified visually). Grade: 10 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait; ISBN 978-9921-33-128-8 (edition years as printed in front matter). PDF pages: 144 (cover/title page verified against the record title; grabbed via the TSV release record, 33,582,242 bytes, matching the books.json record size exactly). Verdict: COMPLETE. Tally: 10 placements — 4 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Unit 3 Geography and understanding the world around us (geography: geographic thought, location, relief and climate, political borders, world population), printed pp. 68–87; Unit 4 Geography of Kuwait — place and human life (geography), printed pp. 92–111; Unit 5 Integrity and confronting financial crimes (civics/law), printed pp. 118–134.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Unit 1 Lesson 5: History between truth and forgery, and its effect on building societal awareness — story beats: forged pasts are set beside true ones so learners see how a lie about yesterday bends a whole society's awareness today (History expansion, 2026-11-15; original placement slug: first-steps/fact-or-opinion) | Kuwait, *دولة الكويت — المسيرة والكيان (State of Kuwait — The Journey and the Entity), Grade 10, Term 1*, printed p. 28 |
+
+Kuwait's own way (Grade 10 Term 1): Secondary History opens with method — what history is, its sources, forgery versus truth — then spends the term on Kuwait alone: roots, rulers one by one (Jaber Al Ahmad "Amir of Hearts", Saad Al Abdullah "Hero of Liberation"), and the march from emirate to modern state, diplomacy and humanitarian work. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Jordan, Switzerland, Kuwait).**

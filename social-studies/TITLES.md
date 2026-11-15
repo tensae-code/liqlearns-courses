@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **724**
+History lessons across the History titles: **753**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3647,3 +3647,47 @@ stone tools to farming 9 → 10, Greece: Crete 8 → 9,
 World religions 2 → 3, Rome 9 → 10. Three Cyprus
 records (two teaching-media catalogues and a school
 maps project report) are record only, not placed.
+
++29 for Kuwait, 2026-11-15 — Ancient World: The Gulf's
+first civilisations — Dilmun, Magan and Failaka, Kuwait's
+first civilisations — Ubaid Subiya and Hellenistic
+Failaka, Islamic Kuwait — its sites and the guardians of
+its heritage, Islamic civilisation — what it is and what
+marks it, Islamic civilisation — its state, markets and
+cities, Islamic civilisation wakes Europe, Abu Bakr and
+the Ridda, Umar and the great conquests, and Uthman and
+Ali — the Rashidun age ends; Modern World: Where the
+Gulf's peoples came from, The founding of Kuwait — the
+Utub and Al Sabah, The founding of the other Gulf
+states, Old Kuwait's economy — herding, crafts and the
+sea, Pearl diving, European rivalry in the Gulf, Kuwait's
+1899 protection agreement with Britain, Kuwait and the
+Gulf win independence, Kuwait's constitution and
+political life, The Gulf Cooperation Council is founded,
+The United Nations is founded — and Kuwait joins, OPEC
+is founded — Kuwait among the oil states, History guards
+Kuwait's national identity, Kuwait's rulers — challenges
+and achievements, Kuwait — from emirate to modern state,
+The English and French voyages of discovery, European
+colonialism — concept, factors and forms, Colonial
+rivalry among the European powers, The effects of
+European colonialism, and The world between the wars,
+1919–1939. All 72 Kuwait placements are stocked (26 into
+19 existing lessons at their own slugs, 4 into 3 existing
+lessons under remapped slugs — Arabia before Islam into
+The Arabian Peninsula before Islam, the OIC founding
+into The OIC — founded after the 1969 al-Aqsa arson, the
+English Revolution into England's constitutional
+revolutions — with the placements' slugs recorded in
+each provenance row, and 42 into the 29 new lessons) on
+ten placed Arabic student books (Grades 6, 8, 9, 10, 11
+and 12, Terms 1–2 as held), all counted in acceptance.
+Library debts carried as filed: the Grade 7 Term 1 book
+is UNREAD (no release asset exists despite its record
+claiming in_pushed: true; the Drive copy is corrupt) —
+0 placements; the Grade 10 Term 2 and Grade 11 Term 2
+records are RECORD-ONLY file mismatches (their files are
+Term 1 books) — 0 placements each; the Grade 7 Term 2
+book is complete with no History parts — 0 placements;
+the Grade 6 Term 1 file's byte size differs from its
+record (50,971,017 held vs 50,767,798 recorded).

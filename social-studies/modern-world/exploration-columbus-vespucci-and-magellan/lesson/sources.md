@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -93,3 +93,17 @@ Bahamas's own way (Bahamas Grade 3): the national story is told as one continuou
 Bahamas's own way (Bahamas Grade 5): Grade 5 turns to episodes — pirates, wreckers, blockade runners and bootleggers are taught as the booms that built the islands between the plantation age and tourism, and emancipation is taught through the freed villages (Adelaide, Gambier, Fox Hill) and the long struggle for schooling and the vote. Non-History parts named, not placed: Civics/diplomacy — Links with the USA: embassies and exchanges (PDF p. 13), Past and Present Parliament (PDF p. 17), Law Enforcement Agencies (PDF p. 18), Caribbean and Commonwealth Organization Parts 1–2: CARIFESTA, CARIFTA, CARICOM, CHOGM, Commonwealth of Nations (PDF pp. 19–20), Conflict Resolution (PDF p. 22); Geography — Where is The Bahamas? (PDF p. 14), Parts of a Map (PDF p. 15), the stray Grade 4 Bodies of Water page (PDF p. 16); Economics/science — Marine Resources and aragonite (PDF pp. 23–24), Banks and Insurance Companies (PDF p. 26), International and Domestic Tourism photo page (PDF p. 27), Transshipment and Container Port (PDF p. 28) That way is stocked here as the way Bahamas teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas).**
+
+## History expansion (2026-11-15) — Kuwait stocked
+
+**Book 13:** *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)* (student book, Arabic) — Kuwait. Title as printed: تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1) — cover verified visually. Grade: 12 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait; no ISBN printed in the front matter. PDF pages: 78 (cover verified against the record title; grabbed via the TSV release record, 31,070,195 bytes, matching the books.json record size exactly; read from the printed contents and page renders — the text layer is font-garbled). Verdict: COMPLETE — Chapters 1–4 of the six-chapter modern-world course. Tally: 14 placements — 9 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Chapter 2: The Spanish discovery voyages — story beats: Spain sails west instead of east and stumbles on a whole new world, changing both shores forever (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Kuwait, *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)*, printed p. 31 |
+
+Kuwait's own way (Grade 12 Term 1): Grade 12 world history is a Europe-outward arc in six chapters across the year — Renaissance, discoveries, colonialism, industry, revolutions, world wars — each chapter split into concept, causes, course and results, with the same introduction carried in both term books. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait).**
