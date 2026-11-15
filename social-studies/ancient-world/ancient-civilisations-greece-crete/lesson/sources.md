@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -234,3 +234,16 @@ Egypt's own way (Prep8 T1 "Egypt and its Relations with Asia and Europe", Grade 
 Egypt's own way (Sec10 "Egypt the Civilisation — the Civilisation of Egypt and the Ancient World", Grade 10 (First Secondary), full year (student/teacher: STUDENT)): the secondary course opens with Egypt introducing herself in her own voice ("Egypt speaks about herself"), then treats civilisation itself as the first lesson — what it is, how we know it, why it rises — before walking Egypt's Pharaonic life theme by theme and setting her among Iraq, Phoenicia, Greece and Rome. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 12 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt).**
+
+---
+
+## History expansion (2026-11-15) — Bolivia stocked
+
+**Book 1 (bol-g7-student-sec1):** *Texto de Aprendizaje — Ciencias Sociales, 1er Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia. Title as printed: Texto de Aprendizaje — Ciencias Sociales, 1er Año de Educación Secundaria Comunitaria Productiva (cover: Área Ciencias Sociales, Campo Comunidad y Sociedad). Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministerio de Educación de Bolivia; year not printed in the held portion; no ISBN printed. PDF pages: 98 (cover verified against the record title). Verdict note on pagination: the held file carries printed pp. 236–333 — it is the later portion of the year's text as released under the "full-year" asset name, so it is filed PARTIAL for coverage of the year (the parts present are read in full). Verdict: PARTIAL — printed pp. 236–333 of the Secundaria 1 text; earlier printed pages are not in this file. Tally: 15 placements — 11 to existing lessons, 4 NEW LESSON NEEDED. Non-History parts (named, not placed): Geography of Bolivia and the Earth — geography's origins and human geography, geology and eras, continental drift (Wegener), map projections, water rights and Mother Earth laws (Leyes 071/300), Bolivia's geographic regions, political-administrative organisation and salares (printed pp. ~240–257 and ~299–304 — Geography/Civics). Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia part — Grecia antigua — story beats: The Greek world of Crete, Cyprus, Rhodes and Sicily, with Prometheus and the gift of fire (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Bolivia, *Bolivia Secundaria 1 Ciencias Sociales*, printed p. 279 |
+
+Bolivia's own way (Texto de Aprendizaje — Ciencias Sociales, 1er Año de Educación Secundaria Comunitaria Productiva, student book): Bolivian Ciencias Sociales fuses History, Geography and Civics in one text built on the Práctica–Teoría–Valoración–Producción cycle, under the Plurinational State and Mother Earth (Madre Tierra) frame: world ancient history is taught, then the lens lands on the Altiplano's own first civilisations — Chiripa, Tiwanaku, the Aymara señoríos. That way is stocked here as the way Bolivia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia).**

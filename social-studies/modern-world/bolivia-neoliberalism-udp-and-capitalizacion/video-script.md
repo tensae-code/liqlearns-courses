@@ -1,0 +1,10 @@
+# Video script — Bolivia — neoliberalism, the UDP and capitalización
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Story-style: the story told as Bolivia's own books tell it. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Neoliberal doctrine — individualism, private property — arrives through the UDP's economic packages and de-dollarisation, then the capitalización of ENDE, ENTEL, ENFE, YPFB and LAB.
+
+Teacher-compendium unit, same arc as the student text.
+

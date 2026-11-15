@@ -1,6 +1,6 @@
 # Sources — The end of 'real socialism' and the Cold War
 
-countries: Costa Rica, Dominican Republic
+countries: Costa Rica, Dominican Republic, Bolivia
 
 **Book (Costa Rica cr-coned-10):** Title as printed: Antología CONED — Estudios Sociales, Código 80023, Nivel Décimo año Grade: Grade 10 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017 file; no ISBN printed PDF pages: 255 (cover verified against the record title; byte size 11,879,619 and page count match the record. Route note: the books.json tree path returned HTTP 404, so the book was grabbed via its TSV release asset in mid-size-books-5, matched exactly) Verdict: COMPLETE Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED Costa Rica's own way: The Décimo anthology is world history with a geopolitical lens — imperialism, the two world wars, the Russian revolution, the Depression, the bipolar Cold War world and today's multipolar tensions — read from Costa Rica outward to Latin America and the globe. Non-History parts (named, not placed): Unidad 3 Dinámica poblacional y movilización espacial (population dynamics in the 20th–21st centuries, Costa Rican population change, internal and international mobility, printed pp. 198–254 — Geography/demography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -27,3 +27,16 @@ Searchable tags: Costa Rica, The end of 'real socialism' and the Cold War, moder
 Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Costa Rica, Dominican Republic).**
+
+---
+
+## History expansion (2026-11-15) — Bolivia stocked
+
+**Book 4 (bol-g12-student-sec6):** *Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia. Title as printed: Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva (cover: Área Ciencias Sociales). Grade: Grade 12 (student/teacher: STUDENT). Publisher: Ministerio de Educación de Bolivia; year not printed in the held portion; no ISBN printed. PDF pages: 126 (cover verified against the record title; the held file carries printed pp. 350–474, the later portion of the year's text as released, read in full). Verdict: PARTIAL — printed pp. 350–474 of the Secundaria 6 text; earlier printed pages are not in this file. Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED. Non-History parts (named, not placed): the Census (printed pp. 350–354 — Civics); globalisation and McLuhan's global village (printed p. 375 — Geography/media); geographic theory and scales (printed pp. 385–391 — Geography); identity, discrimination, youth political rights, human trafficking and child/adolescent labour law (printed pp. 447–463 — Civics); currency, inflation and monetary policy (printed pp. 467–473 — economics). Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia part — El fin del socialismo real — story beats: Reform programmes in the socialist bloc produce modest results because central planning persists — the road to the Cold War's end (History expansion, 2026-11-15; original placement slug: modern-world/end-of-real-socialism-and-the-cold-war) | Bolivia, *Bolivia Secundaria 6 Ciencias Sociales*, printed p. 373 |
+
+Bolivia's own way (Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva, student book): Secundaria 6's held portion runs the world story (Second World War, Cold War, decolonisation) straight into Bolivia's own: the 1952 National Revolution is the hinge — mines nationalised, agrarian reform, universal vote — then dictatorships, neoliberal capitalización, the Gas War and the 2020 democratic recovery. That way is stocked here as the way Bolivia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Costa Rica, Dominican Republic, Bolivia).**
