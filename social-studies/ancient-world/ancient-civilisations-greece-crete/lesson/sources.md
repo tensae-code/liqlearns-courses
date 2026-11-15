@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -499,3 +499,68 @@ Sudan's own way (Book 4 — sd-g7 (student book, Arabic)): Grade 7 re-reads the 
 **Acceptance count: taught in 23 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 1 — G6 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2026 (approved for 2025/2026); ISBN 978-9923-66-129-1
+- PDF pages: 120 (cover/title page verified against the record title; read in place from phase3-staging, on_disk)
+- Verdict: COMPLETE
+- Tally: 12 placements — 8 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities.
+- Non-History parts named (not placed): Unit 1 Authority and Government — state, constitution, laws (printed pp. 6–27, Civics); Unit 3 Geography — maps, Earth's movement, region, human–environment interaction (pp. 50–79, Geography); Unit 5 Media — freedom of expression, media ethics, criticism (pp. 102–120, Civics/Media).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 15 — G7 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; second edition, revised; ISBN 978-9923-41-580-1
+- PDF pages: 140 (cover/title page verified against the record title; byte size 22,835,434 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 9 placements — 4 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: Bilad al-Sham's story is told in four acts — rise, achievements, Jordan's own kingdoms, collapse — so learners meet the Phoenicians and Canaanites as neighbours before they meet them as world history.
+- Non-History parts named (not placed): Unit 1 Citizenship and Its Components; Unit 2 Global Citizenship — democracy and human rights (printed pp. 6–43, Civics); Unit 3 Environment, Resources and Population (pp. 44–77, Geography); Unit 5 Cultural Diversity (L1) and Unit 6 Life Skills (pp. 106–140, Civics/life skills).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 17 — G8 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الأول (Social Studies, Grade 8, Term 1)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; second edition, revised; ISBN 978-9923-41-847-5
+- PDF pages: 144 (cover/title page verified against the record title; byte size 26,627,986 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 7 placements — 6 to existing lessons, 1 NEW LESSON NEEDED
+- Jordan's own way: Mesopotamia is taught civilisation by civilisation, each opened by a visit — a Euphrates bank, a victory stele, the Louvre, a clay-tablet library, an excavation trench.
+- Non-History parts named (not placed): Unit 1 Human Rights (printed pp. 6–33, Civics); Unit 2 Environment — climate, natural environments, hazards and disasters (pp. 34–63, Geography/Science); Unit 4 Population and Development (pp. 90–109, Geography); Unit 5 Media and Public Opinion (pp. 110–127, Media/Civics); Unit 6 Philosophy L1: the concept of philosophy (p. 130, skills).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 18 — G8 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first edition; ISBN 978-9923-41-706-5
+- PDF pages: 148 (cover/title page verified against the record title; byte size 70,646,723 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 11 placements — 4 to existing lessons, 7 NEW LESSON NEEDED
+- Jordan's own way: Egypt is taught as a Nile civilisation in four passes — rise, daily life, achievements, foreign relations — and the Islamic ages are walked through Baghdad's House of Wisdom and Granada's Alhambra.
+- Non-History parts named (not placed): Unit 7 Living Together (printed pp. 6–25, Civics); Unit 9 Maps, Geographic Techniques — map types, aerial and satellite images, GIS (pp. 50–77, Geography); Unit 10 Me and Society (pp. 78–103, Civics).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 2 Lesson 3: Greek civilisation — story beats: the Greeks excel in science, mathematics, philosophy and building, leaving theatres like Dionysus (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)*, printed p. 45 |
+| Jordan part — Unit 4 Lesson 4: Macedonian rule — story beats: Alexander of Macedon seizes the Phoenician cities and Bilad al-Sham passes under Greek rule, 336–323 BCE (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)*, printed p. 101 |
+| Jordan part — Unit 6 Lesson 2: Greek philosophy — story beats: Socrates questions Athens in its squares, Plato writes his thought as dialogue, and Aristotle — born in Macedonia in 384 BCE, Plato's pupil — founds logic and the Peripatetic school (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الأول (Social Studies, Grade 8, Term 1)*, printed p. 135 |
+| Jordan part — Unit 8 Lesson 4: foreign relations of ancient Egypt — story beats: Assyrians, Persians and Abyssinians invade a weakening Egypt until Alexander the Macedonian takes it in 332 BCE and founds Alexandria; the Ptolemies and Cleopatra follow, then Rome holds Egypt until 640 CE (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)*, printed p. 44 |
+
+Jordan's own way (Book 1 — G6 Social Studies Term 1 (student book, Arabic)): History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 15 — G7 Social Studies Term 1 (student book, Arabic)): Bilad al-Sham's story is told in four acts — rise, achievements, Jordan's own kingdoms, collapse — so learners meet the Phoenicians and Canaanites as neighbours before they meet them as world history. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 17 — G8 Social Studies Term 1 (student book, Arabic)): Mesopotamia is taught civilisation by civilisation, each opened by a visit — a Euphrates bank, a victory stele, the Louvre, a clay-tablet library, an excavation trench. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 18 — G8 Social Studies Term 2 (student book, Arabic)): Egypt is taught as a Nile civilisation in four passes — rise, daily life, achievements, foreign relations — and the Islamic ages are walked through Baghdad's House of Wisdom and Granada's Alhambra. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 24 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete

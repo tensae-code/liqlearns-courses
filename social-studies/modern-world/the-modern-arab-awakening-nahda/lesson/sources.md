@@ -1,6 +1,6 @@
 # Sources — Attempts of the modern Arab awakening (Unit 1 Lesson 4)
 
-countries: Yemen
+countries: Yemen, Jordan
 
 **Book 11 — G12 History (student book, Arabic)**
 - Title as printed: تاريخ العالم الحديث والمعاصر — تاريخ للصف الثالث الثانوي (History: Modern and Contemporary History of the World, for the Third Secondary Grade)
@@ -21,3 +21,25 @@ Yemen's own way (Book 11 — G12 History (student book, Arabic)): world history 
 **Acceptance count: taught in 1 country (Yemen).**
 
 Searchable tags: Yemen, Attempts of the modern Arab awakening (Unit 1 Lesson 4), modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)**
+- Title as printed: التاريخ — الصف الثاني عشر (History, Grade 12), part 1
+- Grade 12 STUDENT
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition; ISBN 978-9923-41-863-5
+- PDF pages: 170 (39,425,505 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer; an all-History book in four units: World Civilisations; Arab Islamic Civilisation; European Colonialism in the Arab Countries; Liberation and Independence Movements in the Arab Homeland
+- Tally: 26 placements — 13 to existing lessons, 13 NEW LESSON NEEDED
+- Jordan's own way: the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Lesson 1: the modern Arab renaissance (Nahda) — story beats: after centuries of Ottoman isolation, the French campaign of 1798–1801, Muhammad Ali's reforms, student missions and missionary schools carry European ideas of freedom, constitution and nation into Arabic; Tahtawi preaches liberty and equality, al-Shidyaq social justice; the Sanusiyya in Libya and the Mahdiyya in Sudan renew Islam as resistance; and Sharif Hussein of Mecca, Amir from 1908, becomes the pioneer of Arab nationalism — "the Arabs are Arabs before they are Muslims or Christians or Jews" — whose Great Arab Revolt founds the kingdoms of the Hijaz, Syria and Iraq and the Emirate of Transjordan (History expansion, 2026-11-15; original placement slug: modern-world/the-arab-nahda-awakening-and-arab-nationalism) | Jordan, *التاريخ — الصف الثاني عشر (History, Grade 12), part 1*, printed p. 128 |
+
+Jordan's own way (Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)): the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Yemen, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, modern-world/the-modern-arab-awakening-nahda

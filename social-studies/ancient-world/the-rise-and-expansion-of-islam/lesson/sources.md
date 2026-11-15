@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -851,3 +851,97 @@ Sudan's own way (Book 5 — sd-g10 (student book, Arabic)): at secondary level t
 **Acceptance count: taught in 24 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 2 — G6 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2025, first edition; ISBN 978-9923-41-870-3
+- PDF pages: 128 (cover/title page verified; read in place from phase3-staging, on_disk)
+- Verdict: PARTIAL — the file itself is a draft copy watermarked "نسخة قيد الإعداد" (version under preparation) on every page, not the final print
+- Tally: 4 placements — 4 to existing lessons, 0 NEW LESSON NEEDED
+- Jordan's own way: Islam's first story is told as biography and community-building — the Prophet's life, then the charter that organised Madinah, then letters carried to kings — with a Jordan stop (the envoy al-Harith ibn Umayr and Mu'tah in the south).
+- Non-History parts named (not placed): Unit 7 The Natural System — climate elements (pp. 24–57, Geography); Unit 8 Economic Concepts — sustainable development, production/consumption (pp. 58–81, Economics/Civics); Unit 9 Life Skills — time, respect, cooperation (pp. 82–101, Civics); Unit 10 A Journey in My Homeland — Mafraq, Balqa and a third governorate (pp. 102–128, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 13 — G5 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الخامس، الفصل الدراسي الأول (Social Studies, Grade 5, Term 1)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; year 2025, second edition revised; ISBN 978-9923-41-851-2
+- PDF pages: 92 (cover/title page verified against the record title; byte size 18,811,233 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED
+- Jordan's own way: history is taught as a bus journey — Samir and Salma tour three governorates with a guide and a grandfather, and every stop (citadel, castle, Roman theatre, revolt battlefield) tells its story.
+- Non-History parts named (not placed): Unit 1 Social Communication — communicating with my society, serving my society, social solidarity (printed pp. 6–27, Civics); Unit 2 The Political System in Jordan — the King and his powers, legislative, executive and judicial authorities (pp. 28–47, Civics); Unit 4 Jordan My Homeland — Earth's surface shapes and water bodies, population characteristics and distribution (pp. 74–92, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 16 — G7 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first edition; ISBN 978-9923-41-531-3
+- PDF pages: 140 (cover/title page verified against the record title; byte size 22,692,432 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 10 placements — 5 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: Islamic history is anchored to Jordanian ground — the Rashidun era opens at the Yarmouk battlefield shrine, the Umayyads are met at Qasr Amra in the Jordanian desert, and their fall begins at Humayma in Jordan's south.
+- Non-History parts named (not placed): Unit 7 Me and the Media (printed pp. 6–31, Media/Civics); Unit 8 Authority and Government — development of constitutional authorities in Jordan, rule of law (pp. 32–47, Civics); Unit 9 Living Together — tolerance, equality, integrity (pp. 48–65, Civics); Unit 12 Population in Jordan (pp. 122–140, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 19 — G10 History Term 1 (student book, Arabic)**
+- Title as printed: التاريخ — الصف العاشر، الفصل الدراسي الأول (History, Grade 10, Term 1)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; second edition, revised; ISBN 978-9923-41-577-1
+- PDF pages: 76 (cover/title page verified against the record title; byte size 14,308,255 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 11 placements — 7 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: two empires that ruled Jordan are studied whole — Persia from Cyrus to the last Sasanian, the Ottomans from Osman to Atatürk — with Jordan's own ground (Persian-period sites, the Hajj road, the Hijaz Railway) kept in frame.
+- Non-History parts named: none — the whole book is History.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 25 — History of Jordan, Grade 11, Vocational Track, Term 2 (تاريخ الأردن، الصف الحادي عشر – الفرع المهني، الفصل الثاني)**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 2 — Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age
+- Grade 11 STUDENT (vocational track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition 2024; ISBN 978-9923-41-708-9; National Library deposit 2024/9/5272 (cataloguing data in the book gives exactly 108 pages)
+- PDF pages: 108 (91,076,385 bytes, matches record 10225)
+- Verdict: COMPLETE — read in full from the text layer
+- Tally: 12 placements — 3 to existing lessons, 9 NEW LESSON NEEDED
+- Jordan's own way: Jordan is "the gate of the Islamic conquest of Bilad al-Sham" — every age is anchored to a Jordanian place, shrine, castle, coin or document (the 1839 Ajloun petition is read as a primary source), and the modern unit ends not with independence but with the village governments of 1920–21 that preceded the Emirate
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 26 — History of Jordan, Grade 11, Academic Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الأول)**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)
+- Grade 11 STUDENT (academic track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 2nd edition, enlarged and revised, Amman 2025; ISBN 978-9923-41-852-9; National Library deposit 2025/2/734 (cataloguing data in the book gives exactly 128 pages)
+- PDF pages: 128 (228,434,125 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer. The academic track compresses the vocational track's two terms of ancient-to-1921 history into this single term, with different lesson divisions (Greek and Roman-Byzantine in one lesson; Umayyad and Abbasid in one lesson; no separate inscriptions or coinage lessons) and added material noted in the beats
+- Tally: 16 placements — 5 to existing lessons, 11 NEW LESSON NEEDED
+- Jordan's own way: same "open-air museum" national walk as the vocational books, but the academic telling adds the evidence-minded extras — a Greek poet's tombstone read as a text (Aribus of Umm Qais), a beacon-fire signal code quoted from a Mamluk source, and the Circassian and Chechen settlers written into Jordan's Ottoman century
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 6 Lesson 1: beginning of the Islamic call — story beats: Muhammad, respected in Mecca before the call, receives revelation; Khadijah, Ali, Abu Bakr and Zayd believe first; Quraysh persecute and boycott Banu Hashim, some Muslims flee to Abyssinia, and the Hijra to Yathrib follows (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2)*, printed p. 8 |
+| Jordan part — Unit 6 Lesson 2: society in Madinah al-Munawwarah — story beats: after the Hijra (622) the Prophet writes the Madinah Charter, the first constitutional document, binding Muhajirun, Ansar of Aws and Khazraj, and the Jews into one just community, and Madinah becomes a trading centre (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2)*, printed p. 12 |
+| Jordan part — Unit 6 Lesson 3: the call outside the Arabian Peninsula — story beats: after Hudaybiyyah the Prophet sends letters to kings and rulers; envoy al-Harith ibn Umayr is killed in southern Jordan, leading to Mu'tah against the Byzantines; the Farewell Pilgrimage and the Prophet's death close the story, and Abu Bakr is chosen (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2)*, printed p. 17 |
+| Jordan part — Unit 3 Lesson 3: Yarmouk name — story beats: Yarmouk University takes its name from the Battle of Yarmouk, the decisive early-Islamic battle fought in Jordan's north (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Jordan, *الدراسات الاجتماعية — الصف الخامس، الفصل الدراسي الأول (Social Studies, Grade 5, Term 1)*, printed p. 71 |
+| Jordan part — Unit 10 Lesson 1: the Companions' shrines at al-Mazar — story beats: at Mu'tah's southern shrine stand the tombs of Zayd ibn Haritha, Ja'far ibn Abi Talib and Abdullah ibn Rawaha, the commanders who fell at Mu'tah (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)*, printed p. 70 |
+| Jordan part — Unit 11 Lesson 1: the era of the Rashidun Caliphs — story beats: a visit to the Yarmouk torch site opens the era: the battle of 15 AH / 636 CE, Abu Bakr's sermon, the Qur'an gathered under Uthman, Jerusalem taken in 638, garrison cities founded (Basra, Kufa, Fustat) and Umar starting the Hijri calendar (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)*, printed p. 90 |
+| Jordan part — Unit 1 Lesson 6: the end of the Sasanian state — story beats: defeat piles on defeat until Nihawand, "the Conquest of Conquests", opens Persia to the Muslim armies and the Sasanian state falls (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Jordan, *التاريخ — الصف العاشر، الفصل الدراسي الأول (History, Grade 10, Term 1)*, printed p. 32 |
+| Jordan part — Lesson 1: Jordan in the dawn of Islam — story beats: the Ghassanids, an Azd tribe from Yemen settled in the Balqa and allied to Rome, attack the Prophet's envoys, so at Mu'tah by Karak the three appointed commanders fall one after another until Khalid ibn al-Walid raises dust all night to fake reinforcements and saves the army; in the Year of Delegations (9 AH/630) Adhruh and al-Jarba near Ma'an, John ibn Ru'ba of Ayla, and Farwa the Judhami governor make their peace; Abu Bakr sends four armies through Jordan — Amr to Palestine, Yazid to Damascus, Shurahbil to Jordan itself — and at the Yarmouk in 636 Khalid's gathered host breaks Mahan's Byzantines; Umar's Covenant to Jerusalem is quoted in full, and the Companions' shrines (Abu Ubayda in the Valley, Mu'adh ibn Jabal at Shuna, Farwa at Afra) still dot the map (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 2 — Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age*, printed p. 8 |
+| Jordan part — Lesson 1: Jordan in the dawn of Islam — story beats: the academic telling widens the road in — after Mu'tah, Amr ibn al-As strikes the Quda'a and Bali alliance at Dhat al-Salasil by Ma'an (8 AH/629); Usama ibn Zayd's raid reaches Moab in 11 AH/632 as a reconnaissance in force; Amr's army is first into Jordan and wins at Wadi Araba, then Shurahbil wins Tabaqat Fahl (13 AH/634) after Ajnadayn; Umar divides Bilad al-Sham into four ajnad in 18 AH/639; and Ayla (Aqaba) becomes the first Islamic-planned city outside Arabia, the gate of Jordan and Palestine (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)*, printed p. 46 |
+
+Jordan's own way (Book 2 — G6 Social Studies Term 2 (student book, Arabic)): Islam's first story is told as biography and community-building — the Prophet's life, then the charter that organised Madinah, then letters carried to kings — with a Jordan stop (the envoy al-Harith ibn Umayr and Mu'tah in the south). That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 13 — G5 Social Studies Term 1 (student book, Arabic)): history is taught as a bus journey — Samir and Salma tour three governorates with a guide and a grandfather, and every stop (citadel, castle, Roman theatre, revolt battlefield) tells its story. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 16 — G7 Social Studies Term 2 (student book, Arabic)): Islamic history is anchored to Jordanian ground — the Rashidun era opens at the Yarmouk battlefield shrine, the Umayyads are met at Qasr Amra in the Jordanian desert, and their fall begins at Humayma in Jordan's south. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 19 — G10 History Term 1 (student book, Arabic)): two empires that ruled Jordan are studied whole — Persia from Cyrus to the last Sasanian, the Ottomans from Osman to Atatürk — with Jordan's own ground (Persian-period sites, the Hajj road, the Hijaz Railway) kept in frame. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 25 — History of Jordan, Grade 11, Vocational Track, Term 2 (تاريخ الأردن، الصف الحادي عشر – الفرع المهني، الفصل الثاني)): Jordan is "the gate of the Islamic conquest of Bilad al-Sham" — every age is anchored to a Jordanian place, shrine, castle, coin or document (the 1839 Ajloun petition is read as a primary source), and the modern unit ends not with independence but with the village governments of 1920–21 that preceded the Emirate. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 26 — History of Jordan, Grade 11, Academic Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الأول)): same "open-air museum" national walk as the vocational books, but the academic telling adds the evidence-minded extras — a Greek poet's tombstone read as a text (Aribus of Umm Qais), a beacon-fire signal code quoted from a Mamluk source, and the Circassian and Chechen settlers written into Jordan's Ottoman century. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 25 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam

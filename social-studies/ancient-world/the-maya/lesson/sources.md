@@ -1,6 +1,6 @@
 # Sources — The Maya
 
-countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen
+countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -301,3 +301,39 @@ Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whol
 **Acceptance count: taught in 12 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/the-maya
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 1 — G6 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2026 (approved for 2025/2026); ISBN 978-9923-66-129-1
+- PDF pages: 120 (cover/title page verified against the record title; read in place from phase3-staging, on_disk)
+- Verdict: COMPLETE
+- Tally: 12 placements — 8 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities.
+- Non-History parts named (not placed): Unit 1 Authority and Government — state, constitution, laws (printed pp. 6–27, Civics); Unit 3 Geography — maps, Earth's movement, region, human–environment interaction (pp. 50–79, Geography); Unit 5 Media — freedom of expression, media ethics, criticism (pp. 102–120, Civics/Media).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)**
+- Title as printed: التاريخ — الصف الثاني عشر (History, Grade 12), part 1
+- Grade 12 STUDENT
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition; ISBN 978-9923-41-863-5
+- PDF pages: 170 (39,425,505 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer; an all-History book in four units: World Civilisations; Arab Islamic Civilisation; European Colonialism in the Arab Countries; Liberation and Independence Movements in the Arab Homeland
+- Tally: 26 placements — 13 to existing lessons, 13 NEW LESSON NEEDED
+- Jordan's own way: the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 2 Lesson 3: Maya civilisation — story beats: in Central America the Maya raise stepped pyramids and master astronomy and the calendar (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)*, printed p. 44 |
+| Jordan part — Unit 1 Lesson 5: the ancient American civilisations, the Maya part — story beats: in the forests of Central America the Maya raise temple cities, write in picture glyphs on stone, pottery and bark-paper books, and send their children to temple schools (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Jordan, *التاريخ — الصف الثاني عشر (History, Grade 12), part 1*, printed p. 37 |
+
+Jordan's own way (Book 1 — G6 Social Studies Term 1 (student book, Arabic)): History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)): the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/the-maya

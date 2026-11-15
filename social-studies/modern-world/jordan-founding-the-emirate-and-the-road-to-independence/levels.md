@@ -1,0 +1,6 @@
+# Jordan — founding the Emirate and the road to independence — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its sub lessons. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view. Parts are ordered as the book teaches them, as stocked.
+
+## Sub lesson 1 — Lesson 1: the founding of the Jordanian Emirate
+Sub lesson 1 questions from the type files. Pass mark: retell this part in your own words — France seizes Damascus and Syria's leaders beg Sharif Hussein to send a son; Abdullah reaches Amman and on 11 April 1921 forms the Council of Advisors under Rashid Tali', staffed by Syrian Istiqlal men; the 1928 Jerusalem agreement promises a Basic Law and hands legislation and executive power to the Amir, yet keeps British troops and an annual grant; the People's Party and the national conferences answer with a charter — reject Balfour, refuse to pay for Britain's Frontier Force, demand real elections and a government answerable to parliament; the 1935 Defence Law muzzles the opposition, until the March 1946 treaty ends the mandate; the state emblem, designed in 1934 at the founder's wish, is set over Raghadan Palace

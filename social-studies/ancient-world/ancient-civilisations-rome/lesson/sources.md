@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome
 
-countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan
+countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -623,3 +623,80 @@ Sudan's own way (Book 4 — sd-g7 (student book, Arabic)): Grade 7 re-reads the 
 **Acceptance count: taught in 28 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/ancient-civilisations-rome
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 10 — G3 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثالث، الفصل الدراسي الثاني (Social Studies, Grade 3, Term 2)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2025, first edition; ISBN 978-9923-41-868-0
+- PDF pages: 96 (cover/title page verified against the record title; byte size 28,433,232 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: PARTIAL — the file is a draft copy watermarked "نسخة قيد الإعداد" (version under preparation), not the final print
+- Tally: 7 placements — 3 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: the past is taught as "between past and present" comparisons and as a heritage tour — Faisal's grandfather explains the old Hijaz train, and a girl's library book ("Antiquities of Jordan and its History") opens the tour of Petra, Jerash and the castles.
+- Non-History parts named (not placed): Unit 4 Lessons 3–4 Production and Consumption / The Smart Consumer (printed pp. 29–49, Economics); Unit 5 Earth's Surface and Its Natural Features — surface, Jordan's natural landmarks, protecting the environment (pp. 50–77, Geography); Unit 6 Lesson 1 Map of My Homeland (pp. 80–87, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 13 — G5 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الخامس، الفصل الدراسي الأول (Social Studies, Grade 5, Term 1)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; year 2025, second edition revised; ISBN 978-9923-41-851-2
+- PDF pages: 92 (cover/title page verified against the record title; byte size 18,811,233 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED
+- Jordan's own way: history is taught as a bus journey — Samir and Salma tour three governorates with a guide and a grandfather, and every stop (citadel, castle, Roman theatre, revolt battlefield) tells its story.
+- Non-History parts named (not placed): Unit 1 Social Communication — communicating with my society, serving my society, social solidarity (printed pp. 6–27, Civics); Unit 2 The Political System in Jordan — the King and his powers, legislative, executive and judicial authorities (pp. 28–47, Civics); Unit 4 Jordan My Homeland — Earth's surface shapes and water bodies, population characteristics and distribution (pp. 74–92, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 16 — G7 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first edition; ISBN 978-9923-41-531-3
+- PDF pages: 140 (cover/title page verified against the record title; byte size 22,692,432 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 10 placements — 5 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: Islamic history is anchored to Jordanian ground — the Rashidun era opens at the Yarmouk battlefield shrine, the Umayyads are met at Qasr Amra in the Jordanian desert, and their fall begins at Humayma in Jordan's south.
+- Non-History parts named (not placed): Unit 7 Me and the Media (printed pp. 6–31, Media/Civics); Unit 8 Authority and Government — development of constitutional authorities in Jordan, rule of law (pp. 32–47, Civics); Unit 9 Living Together — tolerance, equality, integrity (pp. 48–65, Civics); Unit 12 Population in Jordan (pp. 122–140, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 24 — History of Jordan, Grade 11, Vocational Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع المهني، الفصل الأول)**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 1 — Unit 1: Jordan in the Ancient Ages
+- Grade 11 STUDENT (vocational track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition 2024; ISBN 978-9923-41-648-8; National Library deposit 2024/5/3174 (cataloguing data in the book itself gives exactly 68 pages)
+- PDF pages: 68 (77,369,501 bytes, matches record 9669)
+- Verdict: COMPLETE — read in full from the text layer. NOTE: the targets record titles this file simply "History of Jordan — Grade 11 Term 1"; the book itself is the VOCATIONAL-track book — the academic-track Term 1 is the separate 228 MB file (Book 25)
+- Tally: 7 placements — 2 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: the whole national story is taught as one walk through Jordan's own ground — "Jordan is an open-air museum" — from the name itself (Jur + Dan, the Jordan River's northern tributaries) through its stone-age villages, its three Iron Age kingdoms, Petra, the desert inscriptions, and the Decapolis cities a pupil can still visit
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 26 — History of Jordan, Grade 11, Academic Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الأول)**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)
+- Grade 11 STUDENT (academic track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 2nd edition, enlarged and revised, Amman 2025; ISBN 978-9923-41-852-9; National Library deposit 2025/2/734 (cataloguing data in the book gives exactly 128 pages)
+- PDF pages: 128 (228,434,125 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer. The academic track compresses the vocational track's two terms of ancient-to-1921 history into this single term, with different lesson divisions (Greek and Roman-Byzantine in one lesson; Umayyad and Abbasid in one lesson; no separate inscriptions or coinage lessons) and added material noted in the beats
+- Tally: 16 placements — 5 to existing lessons, 11 NEW LESSON NEEDED
+- Jordan's own way: same "open-air museum" national walk as the vocational books, but the academic telling adds the evidence-minded extras — a Greek poet's tombstone read as a text (Aribus of Umm Qais), a beacon-fire signal code quoted from a Mamluk source, and the Circassian and Chechen settlers written into Jordan's Ottoman century
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 6 Lesson 2: Jerash — story beats: Jerash in the north keeps its colonnaded street and south and north theatres, with antiquities from the Greek, Roman, Byzantine and Islamic ages (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Jordan, *الدراسات الاجتماعية — الصف الثالث، الفصل الدراسي الثاني (Social Studies, Grade 3, Term 2)*, printed p. 89 |
+| Jordan part — Unit 3 Lesson 3: journey in Irbid Governorate — story beats: at Umm Qais (Gadara) and Abila the children walk Roman theatres of basalt stone seating thousands and a Byzantine church with mosaic floors, wondering how their builders raised the columns (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Jordan, *الدراسات الاجتماعية — الصف الخامس، الفصل الدراسي الأول (Social Studies, Grade 5, Term 1)*, printed p. 64 |
+| Jordan part — Unit 10 Lesson 3: journey in Jerash Governorate — story beats: Hadrian's Arch, raised for the emperor's visit in 129 CE, the Oval Plaza, the South Theatre and the Temple of Artemis make Jerash a Roman city still standing (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)*, printed p. 80 |
+| Jordan part — Lesson 6: Roman Jordan and the Decapolis — story beats: Pompey takes Syria and Palestine for Rome in 64 BCE, but the Nabataeans keep their autonomy for a yearly tribute; the Ten Cities league runs from Damascus to Amman to hold the trade road — Philadelphia (Amman), Gerasa (Jerash, from the Canaanite Gersho, "place of many trees": South Theatre, Temple of Artemis, hippodrome, colonnaded street), Abila (Quwayliba by Irbid, its rock tombs and churches still largely unexcavated), Gadara (Umm Qais above the Yarmouk, the Golan and Lake Tiberias) and Pella (Tabaqat Fahl, named for Alexander's birthplace) — self-governing, minting their own coins under Rome's protection, and stitched together by Trajan's King's Highway from Egypt to the Euphrates (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 1 — Unit 1: Jordan in the Ancient Ages*, printed p. 54 |
+| Jordan part — Lesson 4: aspects of the Roman civilisation in Jordan — story beats: the Ten Cities govern themselves and mint under Rome; at Umm Qais the museum keeps the poet Aribus's tombstone — "Traveller, as you are now, so once was I; as I am now, so shall you be: enjoy life, for you are mortal" — and Trajan's King's Highway binds the cities to Egypt and the Euphrates (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)*, printed p. 34 |
+
+Jordan's own way (Book 10 — G3 Social Studies Term 2 (student book, Arabic)): the past is taught as "between past and present" comparisons and as a heritage tour — Faisal's grandfather explains the old Hijaz train, and a girl's library book ("Antiquities of Jordan and its History") opens the tour of Petra, Jerash and the castles. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 13 — G5 Social Studies Term 1 (student book, Arabic)): history is taught as a bus journey — Samir and Salma tour three governorates with a guide and a grandfather, and every stop (citadel, castle, Roman theatre, revolt battlefield) tells its story. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 16 — G7 Social Studies Term 2 (student book, Arabic)): Islamic history is anchored to Jordanian ground — the Rashidun era opens at the Yarmouk battlefield shrine, the Umayyads are met at Qasr Amra in the Jordanian desert, and their fall begins at Humayma in Jordan's south. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 24 — History of Jordan, Grade 11, Vocational Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع المهني، الفصل الأول)): the whole national story is taught as one walk through Jordan's own ground — "Jordan is an open-air museum" — from the name itself (Jur + Dan, the Jordan River's northern tributaries) through its stone-age villages, its three Iron Age kingdoms, Petra, the desert inscriptions, and the Decapolis cities a pupil can still visit. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 26 — History of Jordan, Grade 11, Academic Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الأول)): same "open-air museum" national walk as the vocational books, but the academic telling adds the evidence-minded extras — a Greek poet's tombstone read as a text (Aribus of Umm Qais), a beacon-fire signal code quoted from a Mamluk source, and the Circassian and Chechen settlers written into Jordan's Ottoman century. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 29 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/ancient-civilisations-rome

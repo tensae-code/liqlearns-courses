@@ -1,6 +1,6 @@
 # Sources — 1917 twice — February and October in Russia
 
-countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique
+countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -347,3 +347,26 @@ Mozambique's own way (Book 3 — PESD I Mod 3 (student book, Portuguese)): The 2
 **Acceptance count: taught in 14 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 20 — G10 History Term 2 (student book, Arabic)**
+- Title as printed: التاريخ — الصف العاشر، الفصل الدراسي الثاني (History, Grade 10, Term 2)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first (experimental) edition; ISBN 978-9923-41-541-2
+- PDF pages: 94 (cover/title page verified against the record title; byte size 30,987,187 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED (corrected: the two American Revolution parts fit the existing modern-world/american-independence lesson)
+- Jordan's own way: world revolutions are taught as one chain — industry, America, France, Russia, then the century of world wars — and the biography unit pairs an Arab state-builder and an Indian liberator with a German scholar who defended Arab civilisation.
+- Non-History parts named: none — the whole book is History.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 3 Lesson 7: the Russian Revolution — story beats: Tsarist tyranny jails its writers — Pushkin, Dostoevsky, Tolstoy, Gorky — until war and hunger raise the soviets; Lenin returns to Petrograd, the Bolsheviks take power in 1917, Russia leaves the Great War and the Soviet Union is born (History expansion, 2026-11-15; original placement slug: modern-world/the-russian-revolution-1917-and-the-soviet-union) | Jordan, *التاريخ — الصف العاشر، الفصل الدراسي الثاني (History, Grade 10, Term 2)*, printed p. 45 |
+
+Jordan's own way (Book 20 — G10 History Term 2 (student book, Arabic)): world revolutions are taught as one chain — industry, America, France, Russia, then the century of world wars — and the biography unit pairs an Arab state-builder and an Indian liberator with a German scholar who defended Arab civilisation. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia

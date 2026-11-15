@@ -1,6 +1,6 @@
 # Sources — Persia — Cyrus, roads, post and Zoroaster
 
-countries: Ethiopia, India, Pakistan, Syria, Iran, Libya, Iraq, Yemen
+countries: Ethiopia, India, Pakistan, Syria, Iran, Libya, Iraq, Yemen, Jordan
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -141,3 +141,26 @@ Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whol
 **Acceptance count: taught in 8 countries (Ethiopia, India, Pakistan, Syria, Iran, Libya, Iraq, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/persia-cyrus-roads-post-and-zoroaster
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 19 — G10 History Term 1 (student book, Arabic)**
+- Title as printed: التاريخ — الصف العاشر، الفصل الدراسي الأول (History, Grade 10, Term 1)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; second edition, revised; ISBN 978-9923-41-577-1
+- PDF pages: 76 (cover/title page verified against the record title; byte size 14,308,255 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 11 placements — 7 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: two empires that ruled Jordan are studied whole — Persia from Cyrus to the last Sasanian, the Ottomans from Osman to Atatürk — with Jordan's own ground (Persian-period sites, the Hajj road, the Hijaz Railway) kept in frame.
+- Non-History parts named: none — the whole book is History.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 1 Lesson 1: the Persian Empire — rise and development — story beats: Cyrus (560–529 BCE) defeats the Babylonians and takes Jordan in 539 BCE; Darius reaches into the Greek cities, and Alexander of Macedon ends the Achaemenid state before the Parthians inherit the east (History expansion, 2026-11-15; original placement slug: ancient-world/persia-cyrus-roads-post-and-zoroaster) | Jordan, *التاريخ — الصف العاشر، الفصل الدراسي الأول (History, Grade 10, Term 1)*, printed p. 8 |
+
+Jordan's own way (Book 19 — G10 History Term 1 (student book, Arabic)): two empires that ruled Jordan are studied whole — Persia from Cyrus to the last Sasanian, the Ottomans from Osman to Atatürk — with Jordan's own ground (Persian-period sites, the Hajj road, the Hijaz Railway) kept in frame. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, India, Pakistan, Syria, Iran, Libya, Iraq, Yemen, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/persia-cyrus-roads-post-and-zoroaster

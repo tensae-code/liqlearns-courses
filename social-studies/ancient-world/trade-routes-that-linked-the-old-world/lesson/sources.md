@@ -1,6 +1,6 @@
 # Sources — Trade routes that linked the old world
 
-countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen
+countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -351,3 +351,40 @@ Yemen's own way (Book 4 — G6 History (student book, Arabic)): Islamic history 
 **Acceptance count: taught in 13 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/trade-routes-that-linked-the-old-world
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 10 — G3 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثالث، الفصل الدراسي الثاني (Social Studies, Grade 3, Term 2)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2025, first edition; ISBN 978-9923-41-868-0
+- PDF pages: 96 (cover/title page verified against the record title; byte size 28,433,232 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: PARTIAL — the file is a draft copy watermarked "نسخة قيد الإعداد" (version under preparation), not the final print
+- Tally: 7 placements — 3 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: the past is taught as "between past and present" comparisons and as a heritage tour — Faisal's grandfather explains the old Hijaz train, and a girl's library book ("Antiquities of Jordan and its History") opens the tour of Petra, Jerash and the castles.
+- Non-History parts named (not placed): Unit 4 Lessons 3–4 Production and Consumption / The Smart Consumer (printed pp. 29–49, Economics); Unit 5 Earth's Surface and Its Natural Features — surface, Jordan's natural landmarks, protecting the environment (pp. 50–77, Geography); Unit 6 Lesson 1 Map of My Homeland (pp. 80–87, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 15 — G7 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; second edition, revised; ISBN 978-9923-41-580-1
+- PDF pages: 140 (cover/title page verified against the record title; byte size 22,835,434 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 9 placements — 4 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: Bilad al-Sham's story is told in four acts — rise, achievements, Jordan's own kingdoms, collapse — so learners meet the Phoenicians and Canaanites as neighbours before they meet them as world history.
+- Non-History parts named (not placed): Unit 1 Citizenship and Its Components; Unit 2 Global Citizenship — democracy and human rights (printed pp. 6–43, Civics); Unit 3 Environment, Resources and Population (pp. 44–77, Geography); Unit 5 Cultural Diversity (L1) and Unit 6 Life Skills (pp. 106–140, Civics/life skills).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 4 Lesson 2: trade then and now — story beats: people once bartered wheat for oil, peddlers carried goods on donkeys and camels from village to village, then fixed shops, malls and e-commerce took over (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Jordan, *الدراسات الاجتماعية — الصف الثالث، الفصل الدراسي الثاني (Social Studies, Grade 3, Term 2)*, printed p. 21 |
+| Jordan part — Unit 4 Lesson 2: industries and trade — story beats: purple dye from sea shells, glass and cedar ships make the Phoenicians famous across the ancient world, while Amorite and Aramean caravans cross the desert guided by men who know its wells (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)*, printed p. 88 |
+
+Jordan's own way (Book 10 — G3 Social Studies Term 2 (student book, Arabic)): the past is taught as "between past and present" comparisons and as a heritage tour — Faisal's grandfather explains the old Hijaz train, and a girl's library book ("Antiquities of Jordan and its History") opens the tour of Petra, Jerash and the castles. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 15 — G7 Social Studies Term 1 (student book, Arabic)): Bilad al-Sham's story is told in four acts — rise, achievements, Jordan's own kingdoms, collapse — so learners meet the Phoenicians and Canaanites as neighbours before they meet them as world history. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/trade-routes-that-linked-the-old-world

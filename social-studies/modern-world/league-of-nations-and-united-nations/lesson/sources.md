@@ -1,6 +1,6 @@
 # Sources — The League of Nations and the United Nations
 
-countries: South Sudan, Sri Lanka, Samoa, Iraq
+countries: South Sudan, Sri Lanka, Samoa, Iraq, Jordan
 
 **Book 23 — S4 History Student's Book (student book, English)**
 - Title as printed: Secondary History 4 Student's Book
@@ -109,3 +109,38 @@ Iraq's own way (Book 8 — iq-g11 History of Europe and America, Modern and Cont
 **Acceptance count: taught in 4 countries (South Sudan, Sri Lanka, Samoa, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, modern-world/league-of-nations-and-united-nations
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 23 — History, Grade 12, Academic Track, Term 2 (التاريخ، الصف الثاني عشر – المسار الأكاديمي، الفصل الثاني)**
+- Title as printed: التاريخ — الصف الثاني عشر، المسار الأكاديمي (History, Grade 12, Academic Track), Term 2 — Units 5–8, continuing Term 1's Units 1–4
+- Grade 12 STUDENT (academic track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; approved for teaching from school year 2025/2026 (Higher Council decision 2025/8, 16 Oct 2025); ISBN 978-9923-41-864-2
+- PDF pages: 138 (47,905,226 bytes, matches record)
+- Verdict: PARTIAL — read in full from the text layer, but the file itself is a draft copy watermarked "نسخة قيد الإعداد" (version under preparation), not the final print (library debt, see log)
+- Tally: 18 placements — 5 to existing lessons, 13 NEW LESSON NEEDED
+- Jordan's own way: every world topic is landed back in Jordan — the Arabs in the Second World War, Jordan's three turns on the UN Security Council and its peacekeepers, Jordan as a founding voice in the Non-Aligned Movement, Jordan–EU partnership (1977/2002), Jordan–Korea (1962) and Jordan–Malaysia (1965) relations, and Jordan as one of the world's great refugee hosts
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 27 — History of Jordan, Grade 11, Academic Track, Term 2 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الثاني) — two editions held**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 2 — Unit 4: Political Life in Jordan; Unit 5: Economic Life in Jordan; Unit 6: Social Life in Jordan; Unit 7: Education and Culture in Jordan; Unit 8: Jordan and the Palestinian Cause
+- Grade 11 STUDENT (academic track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan
+- Editions held: (a) 2nd edition, enlarged and revised, Amman 2025, ISBN 978-9923-41-853-6, National Library deposit 2025/2/735 — 150 PDF pages, 159,484,734 bytes, WITH text layer — READ IN FULL; (b) 1st edition (2024) — 176 PDF pages, 19,353,950 bytes, image-only scan with NO text layer — SPOT-CHECKED as the parallel edition (cover, contents pages and closing spreads viewed): same five units and the same lesson topics, but lessons differently divided (U4 in 7 lessons incl. a separate "Independence of the Hashemite Kingdom" lesson; U5 in 4 period lessons; U7 in 6 lessons splitting Emirate-era and post-1946 culture) and about 26 more pages
+- Verdict: COMPLETE for the 2nd edition (read in full); the 1st-edition scan is filed as a parallel edition of the same book, not separately placed (library debt: it is a low-resolution image-only scan; Arabic OCR on this machine produced no usable text from it — see log)
+- Tally: 14 placements — 0 to existing lessons, 14 NEW LESSON NEEDED (all page cites are to the 2nd edition)
+- Jordan's own way: the modern kingdom is taught as five parallel life-stories — political, economic, social, educational-cultural, and the Palestinian cause — each marched through the same three reigns (the Emirate and Abdullah I, Hussein, Abdullah II), so a pupil meets every institution three times, once per age
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Lesson 2: the United Nations — story beats: the League of Nations (1919, Geneva) fails — America never joins and no war is prevented — so in 1945 the UN rises in New York with 193 members and six official languages; the Security Council's fifteen members include five with the veto; agencies fan out — ILO in Geneva, FAO in Rome, IAEA in Vienna, UNRWA headquartered in Amman for Palestine's refugees; Jordan, a member since 1955, sends peacekeepers worldwide, sits on the Security Council in 1965–66, 1982–83 and 2014–15, and King Abdullah II addresses the General Assembly's 79th session in 2024 (History expansion, 2026-11-15; original placement slug: modern-world/the-united-nations-founding-organs-and-jordans-role) | Jordan, *التاريخ — الصف الثاني عشر، المسار الأكاديمي (History, Grade 12, Academic Track), Term 2 — Units 5–8, continuing Term 1's Units 1–4*, printed p. 48 |
+| Jordan part — Lesson 4: Jordan in the United Nations — story beats: a member since 1955, Jordan works the UN's three pillars — sustainable development, peace and security, human rights — sends its soldiers as peacekeepers, and carries the Palestinian cause into the Security Council it has thrice sat on (History expansion, 2026-11-15; original placement slug: modern-world/the-united-nations-founding-organs-and-jordans-role) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 2 — Unit 4: Political Life in Jordan; Unit 5: Economic Life in Jordan; Unit 6: Social Life in Jordan; Unit 7: Education and Culture in Jordan; Unit 8: Jordan and the Palestinian Cause*, printed p. 45 |
+
+Jordan's own way (Book 23 — History, Grade 12, Academic Track, Term 2 (التاريخ، الصف الثاني عشر – المسار الأكاديمي، الفصل الثاني)): every world topic is landed back in Jordan — the Arabs in the Second World War, Jordan's three turns on the UN Security Council and its peacekeepers, Jordan as a founding voice in the Non-Aligned Movement, Jordan–EU partnership (1977/2002), Jordan–Korea (1962) and Jordan–Malaysia (1965) relations, and Jordan as one of the world's great refugee hosts. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 27 — History of Jordan, Grade 11, Academic Track, Term 2 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الثاني) — two editions held): the modern kingdom is taught as five parallel life-stories — political, economic, social, educational-cultural, and the Palestinian cause — each marched through the same three reigns (the Emirate and Abdullah I, Hussein, Abdullah II), so a pupil meets every institution three times, once per age. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (South Sudan, Sri Lanka, Samoa, Iraq, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, modern-world/league-of-nations-and-united-nations

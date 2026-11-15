@@ -1,6 +1,6 @@
 # Sources — The Umayyad Caliphate
 
-countries: Turkey, Iran, Mauritania, Yemen, Sudan
+countries: Turkey, Iran, Mauritania, Yemen, Sudan, Jordan
 
 **Book 2:** *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook). Grade: Grade 9 (student/teacher: STUDENT). Publisher: T.C. Millî Eğitim Bakanlığı (MEB), Türkiye, 2021 (per record); ISBN 978-975-11-5258-9. PDF pages: 225 (cover verified: TARİH 9, Ortaöğretim Ders Kitabı, MEB). Verdict: COMPLETE. Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED. Records: TSV blob record + books.json twin of the same repo path = one book. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History. Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
 
@@ -166,3 +166,68 @@ Sudan's own way (Book 9 — sd-g8 (student book, Arabic)): Grade 8 is the sultan
 **Acceptance count: taught in 5 countries (Turkey, Iran, Mauritania, Yemen, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/the-umayyad-caliphate
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 16 — G7 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first edition; ISBN 978-9923-41-531-3
+- PDF pages: 140 (cover/title page verified against the record title; byte size 22,692,432 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 10 placements — 5 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: Islamic history is anchored to Jordanian ground — the Rashidun era opens at the Yarmouk battlefield shrine, the Umayyads are met at Qasr Amra in the Jordanian desert, and their fall begins at Humayma in Jordan's south.
+- Non-History parts named (not placed): Unit 7 Me and the Media (printed pp. 6–31, Media/Civics); Unit 8 Authority and Government — development of constitutional authorities in Jordan, rule of law (pp. 32–47, Civics); Unit 9 Living Together — tolerance, equality, integrity (pp. 48–65, Civics); Unit 12 Population in Jordan (pp. 122–140, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 18 — G8 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first edition; ISBN 978-9923-41-706-5
+- PDF pages: 148 (cover/title page verified against the record title; byte size 70,646,723 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 11 placements — 4 to existing lessons, 7 NEW LESSON NEEDED
+- Jordan's own way: Egypt is taught as a Nile civilisation in four passes — rise, daily life, achievements, foreign relations — and the Islamic ages are walked through Baghdad's House of Wisdom and Granada's Alhambra.
+- Non-History parts named (not placed): Unit 7 Living Together (printed pp. 6–25, Civics); Unit 9 Maps, Geographic Techniques — map types, aerial and satellite images, GIS (pp. 50–77, Geography); Unit 10 Me and Society (pp. 78–103, Civics).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 25 — History of Jordan, Grade 11, Vocational Track, Term 2 (تاريخ الأردن، الصف الحادي عشر – الفرع المهني، الفصل الثاني)**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 2 — Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age
+- Grade 11 STUDENT (vocational track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition 2024; ISBN 978-9923-41-708-9; National Library deposit 2024/9/5272 (cataloguing data in the book gives exactly 108 pages)
+- PDF pages: 108 (91,076,385 bytes, matches record 10225)
+- Verdict: COMPLETE — read in full from the text layer
+- Tally: 12 placements — 3 to existing lessons, 9 NEW LESSON NEEDED
+- Jordan's own way: Jordan is "the gate of the Islamic conquest of Bilad al-Sham" — every age is anchored to a Jordanian place, shrine, castle, coin or document (the 1839 Ajloun petition is read as a primary source), and the modern unit ends not with independence but with the village governments of 1920–21 that preceded the Emirate
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 26 — History of Jordan, Grade 11, Academic Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الأول)**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)
+- Grade 11 STUDENT (academic track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 2nd edition, enlarged and revised, Amman 2025; ISBN 978-9923-41-852-9; National Library deposit 2025/2/734 (cataloguing data in the book gives exactly 128 pages)
+- PDF pages: 128 (228,434,125 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer. The academic track compresses the vocational track's two terms of ancient-to-1921 history into this single term, with different lesson divisions (Greek and Roman-Byzantine in one lesson; Umayyad and Abbasid in one lesson; no separate inscriptions or coinage lessons) and added material noted in the beats
+- Tally: 16 placements — 5 to existing lessons, 11 NEW LESSON NEEDED
+- Jordan's own way: same "open-air museum" national walk as the vocational books, but the academic telling adds the evidence-minded extras — a Greek poet's tombstone read as a text (Aribus of Umm Qais), a beacon-fire signal code quoted from a Mamluk source, and the Circassian and Chechen settlers written into Jordan's Ottoman century
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 11 Lesson 2: the Umayyad state — rise and expansion — story beats: al-Hasan yields the caliphate to Mu'awiya in 41 AH and Damascus rules 661–750; the armies besiege Constantinople, cross Transoxiana under al-Walid, found Kairouan, take Tangier, and Tariq ibn Ziyad carries Islam into Iberia (History expansion, 2026-11-15; original placement slug: ancient-world/the-umayyad-caliphate-damascus-and-expansion) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)*, printed p. 98 |
+| Jordan part — Unit 11 Lesson 3: Umayyad civilisational achievements — story beats: a school visit to Qasr Amra's painted walls opens the age of the Umayyad Mosque of Damascus (built 705–715 in ten years), bimaristan hospitals, courts of grievances, and trade exporting grain, sugar and cotton to India and China (History expansion, 2026-11-15; original placement slug: ancient-world/the-umayyad-caliphate-damascus-and-expansion) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)*, printed p. 103 |
+| Jordan part — Unit 11 Lesson 4: the end of the Umayyad state — story beats: tribal splits (Qays and Yaman), mawali grievances and revolts weaken the state, and the Abbasid call kindles at Humayma in southern Jordan, on the trade and pilgrimage road, far from Umayyad eyes (History expansion, 2026-11-15; original placement slug: ancient-world/the-umayyad-caliphate-damascus-and-expansion) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)*, printed p. 109 |
+| Jordan part — Unit 11 Lesson 4: the Umayyad state in al-Andalus — story beats: when the eastern Umayyads fall, Abd al-Rahman ibn Mu'awiya — "al-Dakhil", the Falcon of Quraysh — crosses to al-Andalus, takes Cordoba and rules 756–1031; scholars like Abbas ibn Firnas, Ibn Zuhr and the musician Ziryab make it Europe's beacon (History expansion, 2026-11-15; original placement slug: ancient-world/the-umayyad-caliphate-damascus-and-expansion) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)*, printed p. 118 |
+| Jordan part — Lesson 2: Jordan in the Umayyad age — story beats: loyal, near Damascus and astride the Shami Hajj road, Jordan becomes the caliphs' own countryside — al-Walid's seal-die names Jund al-Urdunn, caliphs lodge at al-Muwaqqar, al-Qastal, Zizia and Amman's Citadel (with its palace, mint and great pool), and nine desert palaces rise in the badia: Qusayr Amra, whose frescoes of hunting scenes carry Greek and Arabic inscriptions together (UNESCO 1985), al-Mushatta left unfinished, Azraq, al-Hallabat (Nabataean station, Roman fort, Umayyad palace in one), al-Tuba on the Balqa trade road, and al-Muwaqqar, where a Kufic-inscribed column capital in the pool once measured the water for the pilgrims (History expansion, 2026-11-15; original placement slug: ancient-world/the-umayyad-caliphate-damascus-and-expansion) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 2 — Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age*, printed p. 18 |
+| Jordan part — Lesson 2: Jordan in the Umayyad age — story beats: five reasons bind Jordan to the caliphs — tribal loyalty, Damascus's nearness, the Hajj road, the trade routes between Arabia, the Levant, Egypt and Iraq, and the fertile land; the palace list grows to nine with al-Harrana and al-Burqu' beside Qusayr Amra, al-Mushatta, Azraq, al-Hallabat, al-Tuba, al-Muwaqqar and al-Qastal (History expansion, 2026-11-15; original placement slug: ancient-world/the-umayyad-caliphate-damascus-and-expansion) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)*, printed p. 56 |
+
+Jordan's own way (Book 16 — G7 Social Studies Term 2 (student book, Arabic)): Islamic history is anchored to Jordanian ground — the Rashidun era opens at the Yarmouk battlefield shrine, the Umayyads are met at Qasr Amra in the Jordanian desert, and their fall begins at Humayma in Jordan's south. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 18 — G8 Social Studies Term 2 (student book, Arabic)): Egypt is taught as a Nile civilisation in four passes — rise, daily life, achievements, foreign relations — and the Islamic ages are walked through Baghdad's House of Wisdom and Granada's Alhambra. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 25 — History of Jordan, Grade 11, Vocational Track, Term 2 (تاريخ الأردن، الصف الحادي عشر – الفرع المهني، الفصل الثاني)): Jordan is "the gate of the Islamic conquest of Bilad al-Sham" — every age is anchored to a Jordanian place, shrine, castle, coin or document (the 1839 Ajloun petition is read as a primary source), and the modern unit ends not with independence but with the village governments of 1920–21 that preceded the Emirate. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 26 — History of Jordan, Grade 11, Academic Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الأول)): same "open-air museum" national walk as the vocational books, but the academic telling adds the evidence-minded extras — a Greek poet's tombstone read as a text (Aribus of Umm Qais), a beacon-fire signal code quoted from a Mamluk source, and the Circassian and Chechen settlers written into Jordan's Ottoman century. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Turkey, Iran, Mauritania, Yemen, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/the-umayyad-caliphate

@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — the Nile Kingdom
 
-countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan
+countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -626,3 +626,56 @@ Sudan's own way (Book 5 — sd-g10 (student book, Arabic)): at secondary level t
 **Acceptance count: taught in 26 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, africa-to-1500/ancient-egypt-the-nile-kingdom
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 1 — G6 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2026 (approved for 2025/2026); ISBN 978-9923-66-129-1
+- PDF pages: 120 (cover/title page verified against the record title; read in place from phase3-staging, on_disk)
+- Verdict: COMPLETE
+- Tally: 12 placements — 8 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities.
+- Non-History parts named (not placed): Unit 1 Authority and Government — state, constitution, laws (printed pp. 6–27, Civics); Unit 3 Geography — maps, Earth's movement, region, human–environment interaction (pp. 50–79, Geography); Unit 5 Media — freedom of expression, media ethics, criticism (pp. 102–120, Civics/Media).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 15 — G7 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; second edition, revised; ISBN 978-9923-41-580-1
+- PDF pages: 140 (cover/title page verified against the record title; byte size 22,835,434 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 9 placements — 4 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: Bilad al-Sham's story is told in four acts — rise, achievements, Jordan's own kingdoms, collapse — so learners meet the Phoenicians and Canaanites as neighbours before they meet them as world history.
+- Non-History parts named (not placed): Unit 1 Citizenship and Its Components; Unit 2 Global Citizenship — democracy and human rights (printed pp. 6–43, Civics); Unit 3 Environment, Resources and Population (pp. 44–77, Geography); Unit 5 Cultural Diversity (L1) and Unit 6 Life Skills (pp. 106–140, Civics/life skills).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 18 — G8 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first edition; ISBN 978-9923-41-706-5
+- PDF pages: 148 (cover/title page verified against the record title; byte size 70,646,723 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 11 placements — 4 to existing lessons, 7 NEW LESSON NEEDED
+- Jordan's own way: Egypt is taught as a Nile civilisation in four passes — rise, daily life, achievements, foreign relations — and the Islamic ages are walked through Baghdad's House of Wisdom and Granada's Alhambra.
+- Non-History parts named (not placed): Unit 7 Living Together (printed pp. 6–25, Civics); Unit 9 Maps, Geographic Techniques — map types, aerial and satellite images, GIS (pp. 50–77, Geography); Unit 10 Me and Society (pp. 78–103, Civics).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 2 Lesson 2: Egyptian hieroglyphic writing — story beats: Egypt develops its own picture writing alongside Mesopotamia's wedges (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)*, printed p. 37 |
+| Jordan part — Unit 4 Lesson 4: the collapse phase — story beats: Egypt rules Bilad al-Sham for some twelve centuries after the Battle of Megiddo in 1468 BCE, where the Canaanites surrender — foreign rule begins the long decline (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-egypt) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)*, printed p. 99 |
+| Jordan part — Unit 8 Lesson 1: ancient Egyptian civilisation — location and rise — story beats: the Nile valley unites into one kingdom by 3150 BCE; the Hyksos "shepherd kings" seize the north in the 16th century BCE, and the New Kingdom answers with a strong army, Nubia, campaigns into Bilad al-Sham, Karnak and Hatshepsut (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-egypt) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)*, printed p. 28 |
+| Jordan part — Unit 8 Lesson 2: aspects of life in ancient Egypt — story beats: an absolute hereditary king rules, canals and seasons order the farming year, barter gives way to copper, silver and gold money, and society stands in three classes with women holding a marked place (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-egypt) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)*, printed p. 34 |
+| Jordan part — Unit 8 Lesson 3: achievements of ancient Egyptian civilisation — story beats: hieroglyphs, "the words of the gods", carry some 700 signs on walls and papyrus; physicians specialise and embalm the dead for the life after death; the Giza pyramids crown the builders' art (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-egypt) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)*, printed p. 39 |
+
+Jordan's own way (Book 1 — G6 Social Studies Term 1 (student book, Arabic)): History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 15 — G7 Social Studies Term 1 (student book, Arabic)): Bilad al-Sham's story is told in four acts — rise, achievements, Jordan's own kingdoms, collapse — so learners meet the Phoenicians and Canaanites as neighbours before they meet them as world history. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 18 — G8 Social Studies Term 2 (student book, Arabic)): Egypt is taught as a Nile civilisation in four passes — rise, daily life, achievements, foreign relations — and the Islamic ages are walked through Baghdad's House of Wisdom and Granada's Alhambra. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 27 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, africa-to-1500/ancient-egypt-the-nile-kingdom

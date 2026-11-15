@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -639,3 +639,59 @@ Yemen's own way (Book 5 — G7 History Part 1 (student book, Arabic)): the prefa
 **Acceptance count: taught in 23 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamia
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 1 — G6 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2026 (approved for 2025/2026); ISBN 978-9923-66-129-1
+- PDF pages: 120 (cover/title page verified against the record title; read in place from phase3-staging, on_disk)
+- Verdict: COMPLETE
+- Tally: 12 placements — 8 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities.
+- Non-History parts named (not placed): Unit 1 Authority and Government — state, constitution, laws (printed pp. 6–27, Civics); Unit 3 Geography — maps, Earth's movement, region, human–environment interaction (pp. 50–79, Geography); Unit 5 Media — freedom of expression, media ethics, criticism (pp. 102–120, Civics/Media).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 8 — G2 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثاني، الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2)
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2025, second edition revised; ISBN 978-9923-41-850-5
+- PDF pages: 112 (cover/title page verified against the record title; byte size 66,244,418 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 5 placements — 4 to existing lessons, 1 NEW LESSON NEEDED
+- Jordan's own way: the first real History unit in the Jordan sequence is a "Journey Through Time" built on change-over-time stories — a boy finds his grandfather's old lamp, and transport, houses and writing each get a then-to-now story; children interview grandparents about life long ago.
+- Non-History parts named (not placed): Unit 4 Lesson 5 Achievements of My Homeland — today's schools, hospitals, roads, water/electricity and e-services (printed pp. 40–47, Civics); Unit 5 My Needs and Wants — production/consumption, my piggy bank, saving, recycling, made in my homeland (pp. 48–89, Economics); Unit 6 Me and the World — our blue planet, shapes of Earth's surface, map of my homeland (pp. 90–112, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 17 — G8 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الأول (Social Studies, Grade 8, Term 1)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; second edition, revised; ISBN 978-9923-41-847-5
+- PDF pages: 144 (cover/title page verified against the record title; byte size 26,627,986 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 7 placements — 6 to existing lessons, 1 NEW LESSON NEEDED
+- Jordan's own way: Mesopotamia is taught civilisation by civilisation, each opened by a visit — a Euphrates bank, a victory stele, the Louvre, a clay-tablet library, an excavation trench.
+- Non-History parts named (not placed): Unit 1 Human Rights (printed pp. 6–33, Civics); Unit 2 Environment — climate, natural environments, hazards and disasters (pp. 34–63, Geography/Science); Unit 4 Population and Development (pp. 90–109, Geography); Unit 5 Media and Public Opinion (pp. 110–127, Media/Civics); Unit 6 Philosophy L1: the concept of philosophy (p. 130, skills).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 2 Lesson 2: cuneiform writing — story beats: around 3500 BCE Mesopotamian scribes press wedge marks into wet clay tablets and writing is born (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)*, printed p. 37 |
+| Jordan part — Unit 2 Lesson 2: Bronze Age and Iron Age — story beats: bronze (copper + tin) makes stronger weapons, then iron farming tools feed more people and world trade stirs (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)*, printed p. 38 |
+| Jordan part — Unit 4 Lesson 4: writing and means of communication — story beats: people draw things on walls, clay and stone, write on bark then paper with pens, and today on computers; messages once travelled by smoke and carrier pigeon (zagil) (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Jordan, *الدراسات الاجتماعية — الصف الثاني، الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2)*, printed p. 33 |
+| Jordan part — Unit 3 Lesson 1: the Sumerian civilisation — story beats: on the Euphrates' bank the Sumerians invent irrigation canals, the plough and cuneiform writing; King Gilgamesh of Uruk becomes an epic, half man and half god, and the ziggurat of Ur climbs over the flood plain (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الأول (Social Studies, Grade 8, Term 1)*, printed p. 66 |
+| Jordan part — Unit 3 Lesson 2: the Akkadian civilisation — story beats: before Naram-Sin's Victory Stele the learner meets the first empire: Akkad's kings bind the city-states, spread trade roads and security — then tyranny, priestly quarrels and Sumerian revolts wear the empire down (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الأول (Social Studies, Grade 8, Term 1)*, printed p. 72 |
+| Jordan part — Unit 3 Lesson 3: the Babylonian civilisation — story beats: in the Louvre's halls, Hammurabi's Babylon — the king who united the two river lands under law and justice; his people carve the Lion of Babylon, draw land maps on clay, chart the stars and compound medicines (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الأول (Social Studies, Grade 8, Term 1)*, printed p. 76 |
+| Jordan part — Unit 3 Lesson 4: the Assyrian civilisation — story beats: in a library of clay tablets, Assyria the military civilisation: Sargon II builds Khorsabad, Ashurbanipal gathers the Nineveh library, and carved palaces record every conquest (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الأول (Social Studies, Grade 8, Term 1)*, printed p. 81 |
+| Jordan part — Unit 3 Lesson 5: the Chaldean civilisation — story beats: an excavator reads Babylon's second rise: Nebuchadnezzar II makes Chaldean Babylon flourish in arms, building and art — the Hanging Gardens among its wonders — until weak kings and inner wars open the gate to Cyrus of Persia (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الأول (Social Studies, Grade 8, Term 1)*, printed p. 85 |
+
+Jordan's own way (Book 1 — G6 Social Studies Term 1 (student book, Arabic)): History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 8 — G2 Social Studies Term 2 (student book, Arabic)): the first real History unit in the Jordan sequence is a "Journey Through Time" built on change-over-time stories — a boy finds his grandfather's old lamp, and transport, houses and writing each get a then-to-now story; children interview grandparents about life long ago. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 17 — G8 Social Studies Term 1 (student book, Arabic)): Mesopotamia is taught civilisation by civilisation, each opened by a visit — a Euphrates bank, a victory stele, the Louvre, a clay-tablet library, an excavation trench. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 24 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamia

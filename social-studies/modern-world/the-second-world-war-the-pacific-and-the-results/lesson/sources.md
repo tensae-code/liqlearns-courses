@@ -1,6 +1,6 @@
 # Sources — The Second World War — the Pacific and the results
 
-countries: Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan
+countries: Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 138).
 
@@ -176,3 +176,25 @@ Sudan's own way (Book 6 — sd-g11 (student book, Arabic)): the modern story is 
 **Acceptance count: taught in 10 countries (Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, modern-world/the-second-world-war-the-pacific-and-the-results
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 23 — History, Grade 12, Academic Track, Term 2 (التاريخ، الصف الثاني عشر – المسار الأكاديمي، الفصل الثاني)**
+- Title as printed: التاريخ — الصف الثاني عشر، المسار الأكاديمي (History, Grade 12, Academic Track), Term 2 — Units 5–8, continuing Term 1's Units 1–4
+- Grade 12 STUDENT (academic track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; approved for teaching from school year 2025/2026 (Higher Council decision 2025/8, 16 Oct 2025); ISBN 978-9923-41-864-2
+- PDF pages: 138 (47,905,226 bytes, matches record)
+- Verdict: PARTIAL — read in full from the text layer, but the file itself is a draft copy watermarked "نسخة قيد الإعداد" (version under preparation), not the final print (library debt, see log)
+- Tally: 18 placements — 5 to existing lessons, 13 NEW LESSON NEEDED
+- Jordan's own way: every world topic is landed back in Jordan — the Arabs in the Second World War, Jordan's three turns on the UN Security Council and its peacekeepers, Jordan as a founding voice in the Non-Aligned Movement, Jordan–EU partnership (1977/2002), Jordan–Korea (1962) and Jordan–Malaysia (1965) relations, and Jordan as one of the world's great refugee hosts
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Lesson 2: the course, the Arabs' war, and the results — story beats: in 1941 Germany invades the Soviet Union, Japan seizes Hong Kong, the Philippines and Singapore and bombs Pearl Harbor, dragging America in; El Alamein turns the desert war in 1942–43; the Arab lands fight under mandates — Rashid Ali al-Gaylani's Iraq revolts against Britain in May 1941 with German support, Allied forces take Syria and Lebanon from Vichy France, and Jordanian soldiers march in London's Victory Parade on 8 June 1946 on the road to Jordan's independence the same year; the toll: the totalitarian regimes fall, some 60 million die, crimes are committed against millions of Jews, Roma, Russians and Japanese, and women's public role is transformed (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-the-pacific-and-the-results) | Jordan, *التاريخ — الصف الثاني عشر، المسار الأكاديمي (History, Grade 12, Academic Track), Term 2 — Units 5–8, continuing Term 1's Units 1–4*, printed p. 24 |
+
+Jordan's own way (Book 23 — History, Grade 12, Academic Track, Term 2 (التاريخ، الصف الثاني عشر – المسار الأكاديمي، الفصل الثاني)): every world topic is landed back in Jordan — the Arabs in the Second World War, Jordan's three turns on the UN Security Council and its peacekeepers, Jordan as a founding voice in the Non-Aligned Movement, Jordan–EU partnership (1977/2002), Jordan–Korea (1962) and Jordan–Malaysia (1965) relations, and Jordan as one of the world's great refugee hosts. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, modern-world/the-second-world-war-the-pacific-and-the-results

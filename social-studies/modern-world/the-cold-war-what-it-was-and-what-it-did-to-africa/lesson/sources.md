@@ -1,6 +1,6 @@
 # Sources — The Cold War — what it was and what it did to Africa
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan
+countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 139).
 
@@ -336,3 +336,39 @@ Sudan's own way (Book 2 — SD-G9 (student book, Arabic)): a pure History book i
 **Acceptance count: taught in 14 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 20 — G10 History Term 2 (student book, Arabic)**
+- Title as printed: التاريخ — الصف العاشر، الفصل الدراسي الثاني (History, Grade 10, Term 2)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first (experimental) edition; ISBN 978-9923-41-541-2
+- PDF pages: 94 (cover/title page verified against the record title; byte size 30,987,187 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED (corrected: the two American Revolution parts fit the existing modern-world/american-independence lesson)
+- Jordan's own way: world revolutions are taught as one chain — industry, America, France, Russia, then the century of world wars — and the biography unit pairs an Arab state-builder and an Indian liberator with a German scholar who defended Arab civilisation.
+- Non-History parts named: none — the whole book is History.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 23 — History, Grade 12, Academic Track, Term 2 (التاريخ، الصف الثاني عشر – المسار الأكاديمي، الفصل الثاني)**
+- Title as printed: التاريخ — الصف الثاني عشر، المسار الأكاديمي (History, Grade 12, Academic Track), Term 2 — Units 5–8, continuing Term 1's Units 1–4
+- Grade 12 STUDENT (academic track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; approved for teaching from school year 2025/2026 (Higher Council decision 2025/8, 16 Oct 2025); ISBN 978-9923-41-864-2
+- PDF pages: 138 (47,905,226 bytes, matches record)
+- Verdict: PARTIAL — read in full from the text layer, but the file itself is a draft copy watermarked "نسخة قيد الإعداد" (version under preparation), not the final print (library debt, see log)
+- Tally: 18 placements — 5 to existing lessons, 13 NEW LESSON NEEDED
+- Jordan's own way: every world topic is landed back in Jordan — the Arabs in the Second World War, Jordan's three turns on the UN Security Council and its peacekeepers, Jordan as a founding voice in the Non-Aligned Movement, Jordan–EU partnership (1977/2002), Jordan–Korea (1962) and Jordan–Malaysia (1965) relations, and Jordan as one of the world's great refugee hosts
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 3 Lesson 8: the Cold War — story beats: NATO (1949) faces the Warsaw Pact; the Bandung Conference of 1955 answers with non-alignment — Nasser, Tito and Nehru refuse both camps (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Jordan, *التاريخ — الصف العاشر، الفصل الدراسي الثاني (History, Grade 10, Term 2)*, printed p. 60 |
+| Jordan part — Lesson 3: the Cold War (1945–1991) — story beats: two victors glare across a divided world — capitalist democratic America and her NATO allies against communist Soviet Russia and the Warsaw Pact — fighting by proxy: Korea (1950–1953), Vietnam (1955–1975), the Cuban missile crisis, and the Soviet invasion of Afghanistan (1979–1989); Gorbachev answers with glasnost and perestroika, the Berlin Wall falls in November 1989, and the cold war ends without the hot one (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Jordan, *التاريخ — الصف الثاني عشر، المسار الأكاديمي (History, Grade 12, Academic Track), Term 2 — Units 5–8, continuing Term 1's Units 1–4*, printed p. 30 |
+
+Jordan's own way (Book 20 — G10 History Term 2 (student book, Arabic)): world revolutions are taught as one chain — industry, America, France, Russia, then the century of world wars — and the biography unit pairs an Arab state-builder and an Indian liberator with a German scholar who defended Arab civilisation. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 23 — History, Grade 12, Academic Track, Term 2 (التاريخ، الصف الثاني عشر – المسار الأكاديمي، الفصل الثاني)): every world topic is landed back in Jordan — the Arabs in the Second World War, Jordan's three turns on the UN Security Council and its peacekeepers, Jordan as a founding voice in the Non-Aligned Movement, Jordan–EU partnership (1977/2002), Jordan–Korea (1962) and Jordan–Malaysia (1965) relations, and Jordan as one of the world's great refugee hosts. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa

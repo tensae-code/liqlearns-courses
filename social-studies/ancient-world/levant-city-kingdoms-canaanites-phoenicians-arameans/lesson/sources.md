@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations in the Levant (3000-323 BCE)
 
-countries: Yemen
+countries: Yemen, Jordan
 
 **Book 5 — G7 History Part 1 (student book, Arabic)**
 - Title as printed: التاريخ للصف السابع من مرحلة التعليم الأساسي — الجزء الأول (History for Grade 7, Basic Education — Part 1)
@@ -21,3 +21,27 @@ Yemen's own way (Book 5 — G7 History Part 1 (student book, Arabic)): the prefa
 **Acceptance count: taught in 1 country (Yemen).**
 
 Searchable tags: Yemen, Ancient civilisations in the Levant (3000-323 BCE), ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 15 — G7 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; second edition, revised; ISBN 978-9923-41-580-1
+- PDF pages: 140 (cover/title page verified against the record title; byte size 22,835,434 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 9 placements — 4 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: Bilad al-Sham's story is told in four acts — rise, achievements, Jordan's own kingdoms, collapse — so learners meet the Phoenicians and Canaanites as neighbours before they meet them as world history.
+- Non-History parts named (not placed): Unit 1 Citizenship and Its Components; Unit 2 Global Citizenship — democracy and human rights (printed pp. 6–43, Civics); Unit 3 Environment, Resources and Population (pp. 44–77, Geography); Unit 5 Cultural Diversity (L1) and Unit 6 Life Skills (pp. 106–140, Civics/life skills).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 4 Lesson 1: the ancient civilisations of Bilad al-Sham (their rise) — story beats: Canaanite peoples migrate north from Arabia and raise the Phoenician kingdoms — Ugarit, Byblos, Arwad, Sidon and Tyre — then plant trading colonies across the Mediterranean, Carthage among them (History expansion, 2026-11-15; original placement slug: ancient-world/phoenicians-canaanites-and-the-cities-of-the-levant-coast) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)*, printed p. 80 |
+| Jordan part — Unit 4 Lesson 2: civilisational aspects and achievements — story beats: the Phoenicians cut writing down to a 22-letter alphabet, written right to left — the mother from which the world's alphabets descend (History expansion, 2026-11-15; original placement slug: ancient-world/phoenicians-canaanites-and-the-cities-of-the-levant-coast) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)*, printed p. 85 |
+
+Jordan's own way (Book 15 — G7 Social Studies Term 1 (student book, Arabic)): Bilad al-Sham's story is told in four acts — rise, achievements, Jordan's own kingdoms, collapse — so learners meet the Phoenicians and Canaanites as neighbours before they meet them as world history. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Yemen, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/levant-city-kingdoms-canaanites-phoenicians-arameans

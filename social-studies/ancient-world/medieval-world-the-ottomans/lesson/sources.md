@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Ottomans
 
-countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan
+countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -351,3 +351,58 @@ Sudan's own way (Book 7 — sd-g12 (student book, Arabic)): the final year compl
 **Acceptance count: taught in 12 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/medieval-world-the-ottomans
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 19 — G10 History Term 1 (student book, Arabic)**
+- Title as printed: التاريخ — الصف العاشر، الفصل الدراسي الأول (History, Grade 10, Term 1)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; second edition, revised; ISBN 978-9923-41-577-1
+- PDF pages: 76 (cover/title page verified against the record title; byte size 14,308,255 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 11 placements — 7 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: two empires that ruled Jordan are studied whole — Persia from Cyrus to the last Sasanian, the Ottomans from Osman to Atatürk — with Jordan's own ground (Persian-period sites, the Hajj road, the Hijaz Railway) kept in frame.
+- Non-History parts named: none — the whole book is History.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 25 — History of Jordan, Grade 11, Vocational Track, Term 2 (تاريخ الأردن، الصف الحادي عشر – الفرع المهني، الفصل الثاني)**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 2 — Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age
+- Grade 11 STUDENT (vocational track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition 2024; ISBN 978-9923-41-708-9; National Library deposit 2024/9/5272 (cataloguing data in the book gives exactly 108 pages)
+- PDF pages: 108 (91,076,385 bytes, matches record 10225)
+- Verdict: COMPLETE — read in full from the text layer
+- Tally: 12 placements — 3 to existing lessons, 9 NEW LESSON NEEDED
+- Jordan's own way: Jordan is "the gate of the Islamic conquest of Bilad al-Sham" — every age is anchored to a Jordanian place, shrine, castle, coin or document (the 1839 Ajloun petition is read as a primary source), and the modern unit ends not with independence but with the village governments of 1920–21 that preceded the Emirate
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 26 — History of Jordan, Grade 11, Academic Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الأول)**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)
+- Grade 11 STUDENT (academic track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 2nd edition, enlarged and revised, Amman 2025; ISBN 978-9923-41-852-9; National Library deposit 2025/2/734 (cataloguing data in the book gives exactly 128 pages)
+- PDF pages: 128 (228,434,125 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer. The academic track compresses the vocational track's two terms of ancient-to-1921 history into this single term, with different lesson divisions (Greek and Roman-Byzantine in one lesson; Umayyad and Abbasid in one lesson; no separate inscriptions or coinage lessons) and added material noted in the beats
+- Tally: 16 placements — 5 to existing lessons, 11 NEW LESSON NEEDED
+- Jordan's own way: same "open-air museum" national walk as the vocational books, but the academic telling adds the evidence-minded extras — a Greek poet's tombstone read as a text (Aribus of Umm Qais), a beacon-fire signal code quoted from a Mamluk source, and the Circassian and Chechen settlers written into Jordan's Ottoman century
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 2 Lesson 1: the rise of the Ottoman state — story beats: a Turkish frontier tribe in Anatolia becomes a state: Orhan (1326–1360) takes Bursa as capital and founds the new army — the Janissaries raised through the devshirme (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Jordan, *التاريخ — الصف العاشر، الفصل الدراسي الأول (History, Grade 10, Term 1)*, printed p. 40 |
+| Jordan part — Unit 2 Lesson 2: the conquest of Constantinople (Istanbul) — story beats: Mehmed II takes Constantinople in 857 AH / 1453 CE; the Byzantine Empire falls, the city becomes the Ottoman capital and a great trading centre, and the state turns to building fleets — historians mark it the end of the middle ages (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Jordan, *التاريخ — الصف العاشر، الفصل الدراسي الأول (History, Grade 10, Term 1)*, printed p. 45 |
+| Jordan part — Unit 2 Lesson 3: public life in the Ottoman state — story beats: the Grand Vizier at the Sublime Porte, the sipahi cavalry on land grants, dhimmi communities keeping their rites under their own heads, and Sinan raising mosques and schools from Bursa to Istanbul (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Jordan, *التاريخ — الصف العاشر، الفصل الدراسي الأول (History, Grade 10, Term 1)*, printed p. 49 |
+| Jordan part — Unit 2 Lesson 4: the Arab homeland under Ottoman rule — story beats: Selim I breaks the Mamluks at Marj Dabiq and Ridaniyya (1517), enters Damascus and Cairo, and takes the title Servant of the Two Holy Sanctuaries; Suleiman the Lawgiver reforms law and administration while Portugal threatens the sea roads (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Jordan, *التاريخ — الصف العاشر، الفصل الدراسي الأول (History, Grade 10, Term 1)*, printed p. 56 |
+| Jordan part — Unit 2 Lesson 6: the end of the Ottoman state — story beats: Ibn Khaldun's cycle turns: separatist amirs (Fakhr al-Din, Ali Bey the Great, Zahir al-Umar), Tanzimat reforms (1826–1876), the Union and Progress society forcing the constitution in 1908, defeat in the Great War — and Mustafa Kemal Atatürk founds the Turkish Republic (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Jordan, *التاريخ — الصف العاشر، الفصل الدراسي الأول (History, Grade 10, Term 1)*, printed p. 67 |
+| Jordan part — Lesson 1: political and administrative conditions in Ottoman Jordan — story beats: Osman ibn Ertugrul's state (1299–1923) takes Jordan after Marj Dabiq in 1516 for its Hajj road and its farmland; the Shami Hajj caravan crosses yearly, its surra gifts buying Bedouin safe-passage; provinces are drawn and redrawn (Sham, Tripoli, Aleppo), order decays, villages empty, and drought drives tribes north from Najd and the Hijaz; Muhammad Ali's Egypt rules the Levant 1831–1840 — and Ajloun's village sheikhs petition his governor Muhammad Sharif Pasha in 1839, a document the class reads as a source; Jordanian notables sit in the provincial councils and Tawfiq al-Majali in the Ottoman parliament, until census, conscription and tax-gathering ignite the protests and the Karak revolt (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 2 — Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age*, printed p. 66 |
+| Jordan part — Lesson 2: social and economic life in Ottoman Jordan — story beats: three peoples share the land — the fallahin majority in tight-walled villages of iwan houses, raising the awna (faz'a) to build and harvest together, baking in the tabun, drawing water from springs and cisterns, learning in the kuttab by the mosque, grinding at the Zarqa River water-mills; the townsfolk of the qasabas; and the Bedouin in the bayt al-sha'r, its poles named wasit and muqaddam, a nine-pole kharbush for a sheikh; teaching runs from zawaya and waqf kuttabs to the Rushdiyya and the missionary schools that bring English and French; the iltizam tax-farmers squeeze the villages, in the words of a quoted complaint, "with the utmost severity"; trade shrinks under highway robbery while Ottoman liras, majidis and paras circulate beside English and French gold (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 2 — Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age*, printed p. 73 |
+| Jordan part — Lesson 1: political and administrative conditions in Ottoman Jordan — story beats: the academic telling adds a people to Jordan's Ottoman centuries — the Circassian and Chechen muhajirs, driven from the Caucasus by their bloody war with Tsarist Russia and settled along the railway lands at Zarqa, Sukhna, Jerash, Amman, Sweileh, Wadi al-Seir and Na'ur, where their farming carts and villages reshape the Balqa (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)*, printed p. 88 |
+| Jordan part — Lesson 2: social and economic conditions in Ottoman Jordan — story beats: the 1864 Vilayet Law orders the land into provinces, districts and villages, each village with its council of elders under a mukhtar who keeps order, settles disputes and gathers the taxes; two Bedouin patterns are distinguished — the fully nomadic camel-herders moving all year for water and pasture, and the semi-settled tribes farming a fixed dira — beside the rain-fed (ba'l) fields of the fallahin (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)*, printed p. 94 |
+
+Jordan's own way (Book 19 — G10 History Term 1 (student book, Arabic)): two empires that ruled Jordan are studied whole — Persia from Cyrus to the last Sasanian, the Ottomans from Osman to Atatürk — with Jordan's own ground (Persian-period sites, the Hajj road, the Hijaz Railway) kept in frame. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 25 — History of Jordan, Grade 11, Vocational Track, Term 2 (تاريخ الأردن، الصف الحادي عشر – الفرع المهني، الفصل الثاني)): Jordan is "the gate of the Islamic conquest of Bilad al-Sham" — every age is anchored to a Jordanian place, shrine, castle, coin or document (the 1839 Ajloun petition is read as a primary source), and the modern unit ends not with independence but with the village governments of 1920–21 that preceded the Emirate. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 26 — History of Jordan, Grade 11, Academic Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الأول)): same "open-air museum" national walk as the vocational books, but the academic telling adds the evidence-minded extras — a Greek poet's tombstone read as a text (Aribus of Umm Qais), a beacon-fire signal code quoted from a Mamluk source, and the Circassian and Chechen settlers written into Jordan's Ottoman century. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/medieval-world-the-ottomans

@@ -1,6 +1,6 @@
 # Sources — The First World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan
+countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 133).
 
@@ -499,3 +499,39 @@ Sudan's own way (Book 6 — sd-g11 (student book, Arabic)): the modern story is 
 **Acceptance count: taught in 20 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, modern-world/the-first-world-war-causes
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 20 — G10 History Term 2 (student book, Arabic)**
+- Title as printed: التاريخ — الصف العاشر، الفصل الدراسي الثاني (History, Grade 10, Term 2)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first (experimental) edition; ISBN 978-9923-41-541-2
+- PDF pages: 94 (cover/title page verified against the record title; byte size 30,987,187 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED (corrected: the two American Revolution parts fit the existing modern-world/american-independence lesson)
+- Jordan's own way: world revolutions are taught as one chain — industry, America, France, Russia, then the century of world wars — and the biography unit pairs an Arab state-builder and an Indian liberator with a German scholar who defended Arab civilisation.
+- Non-History parts named: none — the whole book is History.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 23 — History, Grade 12, Academic Track, Term 2 (التاريخ، الصف الثاني عشر – المسار الأكاديمي، الفصل الثاني)**
+- Title as printed: التاريخ — الصف الثاني عشر، المسار الأكاديمي (History, Grade 12, Academic Track), Term 2 — Units 5–8, continuing Term 1's Units 1–4
+- Grade 12 STUDENT (academic track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; approved for teaching from school year 2025/2026 (Higher Council decision 2025/8, 16 Oct 2025); ISBN 978-9923-41-864-2
+- PDF pages: 138 (47,905,226 bytes, matches record)
+- Verdict: PARTIAL — read in full from the text layer, but the file itself is a draft copy watermarked "نسخة قيد الإعداد" (version under preparation), not the final print (library debt, see log)
+- Tally: 18 placements — 5 to existing lessons, 13 NEW LESSON NEEDED
+- Jordan's own way: every world topic is landed back in Jordan — the Arabs in the Second World War, Jordan's three turns on the UN Security Council and its peacekeepers, Jordan as a founding voice in the Non-Aligned Movement, Jordan–EU partnership (1977/2002), Jordan–Korea (1962) and Jordan–Malaysia (1965) relations, and Jordan as one of the world's great refugee hosts
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 3 Lesson 8: the world in the twentieth century — the First World War — story beats: two alliance blocs face off, a Serbian student assassinates Archduke Franz Ferdinand, and in August 1914 Europe is at war; Prince Faysal, the Sharif's son, leads the Arab Revolt's northern army into Damascus (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-causes) | Jordan, *التاريخ — الصف العاشر، الفصل الدراسي الثاني (History, Grade 10, Term 2)*, printed p. 52 |
+| Jordan part — Lesson 1: the First World War (1914–1918), the causes — story beats: colonial rivalry, the alliance blocs, and nationalism (Italian and German unity achieved, Balkan nationalisms pulling Russia, protector of the Slavs, against Austria-Hungary) load the gun through the Morocco crises and the Balkan crises of 1908–1913; a Serbian student fires it, assassinating Archduke Franz Ferdinand at Sarajevo in June 1914 (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-causes) | Jordan, *التاريخ — الصف الثاني عشر، المسار الأكاديمي (History, Grade 12, Academic Track), Term 2 — Units 5–8, continuing Term 1's Units 1–4*, printed p. 8 |
+
+Jordan's own way (Book 20 — G10 History Term 2 (student book, Arabic)): world revolutions are taught as one chain — industry, America, France, Russia, then the century of world wars — and the biography unit pairs an Arab state-builder and an Indian liberator with a German scholar who defended Arab civilisation. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 23 — History, Grade 12, Academic Track, Term 2 (التاريخ، الصف الثاني عشر – المسار الأكاديمي، الفصل الثاني)): every world topic is landed back in Jordan — the Arabs in the Second World War, Jordan's three turns on the UN Security Council and its peacekeepers, Jordan as a founding voice in the Non-Aligned Movement, Jordan–EU partnership (1977/2002), Jordan–Korea (1962) and Jordan–Malaysia (1965) relations, and Jordan as one of the world's great refugee hosts. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, modern-world/the-first-world-war-causes

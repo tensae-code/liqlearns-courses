@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1427,3 +1427,41 @@ Mozambique's own way (Book 4 — PESD II Mod 1 (student book, Portuguese)): The 
 **Acceptance count: taught in 32 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 14 — G5 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الخامس، الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; second edition, revised; ISBN 978-9923-41-856-7
+- PDF pages: 100 (cover/title page verified against the record title; byte size 21,825,614 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 7 placements — 3 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: the national story is told as "the march of a homeland" — revolt, state-founding, then the state's achievements sector by sector — and heritage is taught through the family's museum visit and the coins in a child's hand.
+- Non-History parts named (not placed): Unit 6 Economic Activities — economic concepts, trade sector, services sector (printed pp. 26–47, Economics); Unit 7 The World Around Us — Jordan's location, GPS, the Nile Valley and African countries, the Arab Maghreb countries (pp. 48–79, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 16 — G7 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first edition; ISBN 978-9923-41-531-3
+- PDF pages: 140 (cover/title page verified against the record title; byte size 22,692,432 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 10 placements — 5 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: Islamic history is anchored to Jordanian ground — the Rashidun era opens at the Yarmouk battlefield shrine, the Umayyads are met at Qasr Amra in the Jordanian desert, and their fall begins at Humayma in Jordan's south.
+- Non-History parts named (not placed): Unit 7 Me and the Media (printed pp. 6–31, Media/Civics); Unit 8 Authority and Government — development of constitutional authorities in Jordan, rule of law (pp. 32–47, Civics); Unit 9 Living Together — tolerance, equality, integrity (pp. 48–65, Civics); Unit 12 Population in Jordan (pp. 122–140, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 8 Lesson 2: old coins — story beats: a Nabataean coin of King Obodas II, an Umayyad dinar minted in Amman in 79 AH / 699 CE, and the first Jordanian dinar of 1949 — coins are evidence that names kings, cities and dates (History expansion, 2026-11-15; original placement slug: first-steps/how-we-know-about-the-past) | Jordan, *الدراسات الاجتماعية — الصف الخامس، الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)*, printed p. 93 |
+| Jordan part — Unit 11 Lesson 1: the Umariyya Covenant as a document — story beats: the class reads Umar ibn al-Khattab's covenant to the people of Iliya (Jerusalem) word by word — safety for their lives, property, churches and crosses — a primary text analysed in class (History expansion, 2026-11-15; original placement slug: first-steps/how-we-know-about-the-past) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)*, printed p. 97 |
+| Jordan part — Unit 11 Lesson 5: primary and secondary historical sources — story beats: in a museum the learner separates first-hand evidence — inscriptions, Islamic coins, an Umayyad papyrus dated 24 January 722, Qur'an manuscripts — from later accounts, and tests both against the Umm Qais Treaty document of 20 September 1920 (History expansion, 2026-11-15; original placement slug: first-steps/how-we-know-about-the-past) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الثاني (Social Studies, Grade 7, Term 2)*, printed p. 113 |
+
+Jordan's own way (Book 14 — G5 Social Studies Term 2 (student book, Arabic)): the national story is told as "the march of a homeland" — revolt, state-founding, then the state's achievements sector by sector — and heritage is taught through the family's museum visit and the coins in a child's hand. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 16 — G7 Social Studies Term 2 (student book, Arabic)): Islamic history is anchored to Jordanian ground — the Rashidun era opens at the Yarmouk battlefield shrine, the Umayyads are met at Qasr Amra in the Jordanian desert, and their fall begins at Humayma in Jordan's south. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 33 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history

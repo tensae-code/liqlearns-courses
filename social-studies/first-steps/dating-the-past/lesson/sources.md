@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1442,3 +1442,40 @@ Sudan's own way (Book 3 — sd-g5 (student book, Arabic)): a Sudanese child's fi
 **Acceptance count: taught in 35 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, first-steps/dating-the-past
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 2 — G6 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2025, first edition; ISBN 978-9923-41-870-3
+- PDF pages: 128 (cover/title page verified; read in place from phase3-staging, on_disk)
+- Verdict: PARTIAL — the file itself is a draft copy watermarked "نسخة قيد الإعداد" (version under preparation) on every page, not the final print
+- Tally: 4 placements — 4 to existing lessons, 0 NEW LESSON NEEDED
+- Jordan's own way: Islam's first story is told as biography and community-building — the Prophet's life, then the charter that organised Madinah, then letters carried to kings — with a Jordan stop (the envoy al-Harith ibn Umayr and Mu'tah in the south).
+- Non-History parts named (not placed): Unit 7 The Natural System — climate elements (pp. 24–57, Geography); Unit 8 Economic Concepts — sustainable development, production/consumption (pp. 58–81, Economics/Civics); Unit 9 Life Skills — time, respect, cooperation (pp. 82–101, Civics); Unit 10 A Journey in My Homeland — Mafraq, Balqa and a third governorate (pp. 102–128, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 11 — G4 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الرابع، الفصل الدراسي الأول (Social Studies, Grade 4, Term 1)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2024, second edition revised; ISBN 978-9923-41-574-0
+- PDF pages: 80 (cover/title page verified against the record title; byte size 22,639,631 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 7 placements — 2 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: Grade 4 gives Jordan a full national-history unit — Iron Age kingdoms and Nabataean water engineers first, then the Hashemite kings, then the army's battles — taught through a library medal for Ma'an and a school trip to the Unknown Soldier memorial.
+- Non-History parts named (not placed): Unit 1 Lessons 1–2 Jordanian Society / Values (printed pp. 8–16, Civics); Unit 3 Authority and Government in Jordan — constitution, system of government, laws (pp. 44–57, Civics); Unit 4 Environment, Population and Resources — agriculture, industry, energy, human activities, wildlife (pp. 58–79, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 6 unit-end timeline exercise — story beats: pupils order the Prophet's birth, the revelation, the two Hijras and a battle on a timeline (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2)*, printed p. 23 |
+| Jordan part — Unit 2 closing skills lesson: the calendar — story beats: pupils compare the Gregorian (solar, from Christ's birth) and Hijri calendars and place Jordan's events — 1921, 1956, Independence Day, Karameh 1968, 1999 — on a timeline (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Jordan, *الدراسات الاجتماعية — الصف الرابع، الفصل الدراسي الأول (Social Studies, Grade 4, Term 1)*, printed p. 40 |
+
+Jordan's own way (Book 2 — G6 Social Studies Term 2 (student book, Arabic)): Islam's first story is told as biography and community-building — the Prophet's life, then the charter that organised Madinah, then letters carried to kings — with a Jordan stop (the envoy al-Harith ibn Umayr and Mu'tah in the south). That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 11 — G4 Social Studies Term 1 (student book, Arabic)): Grade 4 gives Jordan a full national-history unit — Iron Age kingdoms and Nabataean water engineers first, then the Hashemite kings, then the army's battles — taught through a library medal for Ma'an and a school trip to the Unknown Soldier memorial. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 36 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, first-steps/dating-the-past

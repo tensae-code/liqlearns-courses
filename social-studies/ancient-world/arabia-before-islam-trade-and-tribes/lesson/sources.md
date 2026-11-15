@@ -1,6 +1,6 @@
 # Sources — Arabia before Islam — trade and tribes
 
-countries: Palestine, Libya
+countries: Palestine, Libya, Jordan
 
 **Book 4 — G6 Social Studies Part 2 (student book, Arabic)**
 - Title as printed: الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الثاني (Social Studies, Grade 6 Basic, Part 2)
@@ -79,3 +79,26 @@ Libya's own way (Book 6 — G8 Islamic History (student book, Arabic)): the Isla
 Libya's own way (Book 7 — G5 Social Studies (History and Geography) (student book, Arabic) — COMBINED): Islamic history for ten-year-olds runs as one story from Mecca to the Mamluks — and Libya appears inside it where Tripoli becomes the Fatimids' naval base for the Sicily jihad. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Palestine, Libya).**
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 1 — G6 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2026 (approved for 2025/2026); ISBN 978-9923-66-129-1
+- PDF pages: 120 (cover/title page verified against the record title; read in place from phase3-staging, on_disk)
+- Verdict: COMPLETE
+- Tally: 12 placements — 8 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities.
+- Non-History parts named (not placed): Unit 1 Authority and Government — state, constitution, laws (printed pp. 6–27, Civics); Unit 3 Geography — maps, Earth's movement, region, human–environment interaction (pp. 50–79, Geography); Unit 5 Media — freedom of expression, media ethics, criticism (pp. 102–120, Civics/Media).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 4 Lesson 1: the Arabian Peninsula, its place and importance — story beats: desert tribes and oasis towns grow rich as middlemen carrying frankincense and spices, poets hang the Muallaqat odes as Arabia's memory (History expansion, 2026-11-15; original placement slug: ancient-world/arabia-before-islam-trade-and-tribes) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)*, printed p. 82 |
+
+Jordan's own way (Book 1 — G6 Social Studies Term 1 (student book, Arabic)): History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Palestine, Libya, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/arabia-before-islam-trade-and-tribes

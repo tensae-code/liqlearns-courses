@@ -1,6 +1,6 @@
 # Sources — Axum — trading kingdom of the Red Sea
 
-countries: Egypt, Sudan
+countries: Egypt, Sudan, Jordan
 
 **Book 2:** *الدراسات الاجتماعية — إفريقيا ومصر: معًا على طريق التنمية والحضارة (Social Studies — Africa and Egypt: Together on the Road of Development and Civilisation)* (student book, Arabic) — Egypt. Grade: Grade 7 (First Preparatory), Term 1 (student book). Publisher: Ministry of Education and Technical Education, Egypt; year 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 110 (read in place from phase3-staging; printed folio = PDF page − 1; image-only scan read as 4-up page sheets; the History units read in full, Geography units identified from the contents). Verdict: COMPLETE (History parts). Tally: 9 placements — 5 to existing lessons, 4 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1 Lessons 1–2 (the continent of Africa — location and geographic discoveries; Africa's surface features) and the whole of Unit 3, Environmental Systems in Africa (equatorial and Mediterranean forests, the hot deserts and the Sahara, Africa's water bodies) — Geography. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -51,3 +51,26 @@ Sudan's own way (Book 4 — sd-g7 (student book, Arabic)): Grade 7 re-reads the 
 **Acceptance count: taught in 2 countries (Egypt, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, africa-to-1500/axum-trading-kingdom-of-the-red-sea
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 1 — G6 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2026 (approved for 2025/2026); ISBN 978-9923-66-129-1
+- PDF pages: 120 (cover/title page verified against the record title; read in place from phase3-staging, on_disk)
+- Verdict: COMPLETE
+- Tally: 12 placements — 8 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities.
+- Non-History parts named (not placed): Unit 1 Authority and Government — state, constitution, laws (printed pp. 6–27, Civics); Unit 3 Geography — maps, Earth's movement, region, human–environment interaction (pp. 50–79, Geography); Unit 5 Media — freedom of expression, media ethics, criticism (pp. 102–120, Civics/Media).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 2 Lesson 3: Aksum as a civilisation example — story beats: Aksum in Ethiopia grows rich trading between Africa, the Middle East and India, and its stone stelae and churches still stand (History expansion, 2026-11-15; original placement slug: ancient-world/aksum-kingdom-and-its-stelae) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)*, printed p. 46 |
+
+Jordan's own way (Book 1 — G6 Social Studies Term 1 (student book, Arabic)): History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Egypt, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, africa-to-1500/axum-trading-kingdom-of-the-red-sea

@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — the Great Wall and China's gifts
 
-countries: Ethiopia, Australia, India, Pakistan, Palestine, Colombia
+countries: Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -126,3 +126,25 @@ This book is a teacher guide. The Papua New Guinea rows below stand on it as tea
 Papua New Guinea's own way (Book 9 — G11 History TG SBC (teacher guide, English)): the standalone senior History subject keeps the same 7-unit architecture but turns fully outward — the world wars and their leaders, Asia's decolonisation and democratisation, China's rise, and a Historical Inquiry unit that ends with PNG eyewitness accounts of the war and France's nuclear tests in the Pacific. (The guide's acknowledgements page still says "Grade 11 Social Science Teacher Guide" — a copy-over slip in the book itself.) That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Australia, India, Pakistan, Palestine, Colombia) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)**
+- Title as printed: التاريخ — الصف الثاني عشر (History, Grade 12), part 1
+- Grade 12 STUDENT
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition; ISBN 978-9923-41-863-5
+- PDF pages: 170 (39,425,505 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer; an all-History book in four units: World Civilisations; Arab Islamic Civilisation; European Colonialism in the Arab Countries; Liberation and Independence Movements in the Arab Homeland
+- Tally: 26 placements — 13 to existing lessons, 13 NEW LESSON NEEDED
+- Jordan's own way: the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Lesson 2: aspects of Chinese civilisation — story beats: an emperor-son-of-heaven rules a hereditary empire; scribes write in picture-signs with no alphabet; Islam walks the Silk Roads into China and the Great Mosque of Xi'an rises in 742; farmers stand honoured above traders; silk, porcelain and bronze sail the maritime Silk Road from Quanzhou — the ancestor of today's Belt and Road (History expansion, 2026-11-15; original placement slug: ancient-world/the-great-wall-and-chinas-gifts) | Jordan, *التاريخ — الصف الثاني عشر (History, Grade 12), part 1*, printed p. 15 |
+
+Jordan's own way (Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)): the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/ancient-civilisations-the-great-wall-and-chinas-gifts

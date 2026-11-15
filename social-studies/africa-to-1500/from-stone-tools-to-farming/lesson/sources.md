@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -819,3 +819,41 @@ Sudan's own way (Book 4 — sd-g7 (student book, Arabic)): Grade 7 re-reads the 
 **Acceptance count: taught in 30 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, africa-to-1500/from-stone-tools-to-farming
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 1 — G6 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2026 (approved for 2025/2026); ISBN 978-9923-66-129-1
+- PDF pages: 120 (cover/title page verified against the record title; read in place from phase3-staging, on_disk)
+- Verdict: COMPLETE
+- Tally: 12 placements — 8 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities.
+- Non-History parts named (not placed): Unit 1 Authority and Government — state, constitution, laws (printed pp. 6–27, Civics); Unit 3 Geography — maps, Earth's movement, region, human–environment interaction (pp. 50–79, Geography); Unit 5 Media — freedom of expression, media ethics, criticism (pp. 102–120, Civics/Media).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 8 — G2 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثاني، الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2)
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2025, second edition revised; ISBN 978-9923-41-850-5
+- PDF pages: 112 (cover/title page verified against the record title; byte size 66,244,418 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 5 placements — 4 to existing lessons, 1 NEW LESSON NEEDED
+- Jordan's own way: the first real History unit in the Jordan sequence is a "Journey Through Time" built on change-over-time stories — a boy finds his grandfather's old lamp, and transport, houses and writing each get a then-to-now story; children interview grandparents about life long ago.
+- Non-History parts named (not placed): Unit 4 Lesson 5 Achievements of My Homeland — today's schools, hospitals, roads, water/electricity and e-services (printed pp. 40–47, Civics); Unit 5 My Needs and Wants — production/consumption, my piggy bank, saving, recycling, made in my homeland (pp. 48–89, Economics); Unit 6 Me and the World — our blue planet, shapes of Earth's surface, map of my homeland (pp. 90–112, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 2 Lesson 1: prehistoric ages, Old/Middle/New Stone Age and Copper Age — story beats: cave-dwelling hunters discover fire, settle, farm and grind grain, and copper tools found at Abu Ghosh north of the Dead Sea mark the metal turn (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)*, printed p. 31 |
+| Jordan part — Unit 4 Lesson 1: Once Upon a Time (كان يا ما كان) — story beats: Rashid finds grandfather Mustafa's old oil lamp; long ago people lived in caves, struck stones to discover fire, made tools of stone and bone, and hunted and gathered (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Jordan, *الدراسات الاجتماعية — الصف الثاني، الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2)*, printed p. 8 |
+| Jordan part — Unit 4 Lesson 3: development of housing in my homeland — story beats: shelter changes from cave to hair tent to mud house to stone house as people settle (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Jordan, *الدراسات الاجتماعية — الصف الثاني، الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2)*, printed p. 27 |
+
+Jordan's own way (Book 1 — G6 Social Studies Term 1 (student book, Arabic)): History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 8 — G2 Social Studies Term 2 (student book, Arabic)): the first real History unit in the Jordan sequence is a "Journey Through Time" built on change-over-time stories — a boy finds his grandfather's old lamp, and transport, houses and writing each get a then-to-now story; children interview grandparents about life long ago. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 31 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, africa-to-1500/from-stone-tools-to-farming

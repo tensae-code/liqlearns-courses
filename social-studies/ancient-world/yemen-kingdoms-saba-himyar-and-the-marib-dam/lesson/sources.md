@@ -1,6 +1,6 @@
 # Sources — Yemen's kingdoms — Saba, Himyar and the Marib Dam
 
-countries: Palestine, Iraq
+countries: Palestine, Iraq, Jordan
 
 **Book 3 — G6 Social Studies Part 1 (student book, Arabic)**
 - Title as printed: الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الأول (Social Studies, Grade 6 Basic, Part 1)
@@ -46,3 +46,26 @@ Iraq's own way (Book 4 — iq-g07 Social Studies (student book, Arabic)): From G
 **Acceptance count: taught in 2 countries (Palestine, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/yemen-kingdoms-saba-himyar-and-the-marib-dam
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 1 — G6 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2026 (approved for 2025/2026); ISBN 978-9923-66-129-1
+- PDF pages: 120 (cover/title page verified against the record title; read in place from phase3-staging, on_disk)
+- Verdict: COMPLETE
+- Tally: 12 placements — 8 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities.
+- Non-History parts named (not placed): Unit 1 Authority and Government — state, constitution, laws (printed pp. 6–27, Civics); Unit 3 Geography — maps, Earth's movement, region, human–environment interaction (pp. 50–79, Geography); Unit 5 Media — freedom of expression, media ethics, criticism (pp. 102–120, Civics/Media).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 4 Lesson 2: old kingdoms of Yemen (Ma'in, Saba, Qataban, Himyar) — story beats: Yemeni kings dam the floods at Marib, write in Musnad script and raise Ghumdan palace, until the dam's collapse ends the kingdoms (History expansion, 2026-11-15; original placement slug: ancient-world/yemen-kingdoms-saba-himyar-and-the-marib-dam) | Jordan, *الدراسات الاجتماعية — الصف السادس، الفصل الدراسي الأول (Social Studies, Grade 6, Term 1)*, printed p. 89 |
+
+Jordan's own way (Book 1 — G6 Social Studies Term 1 (student book, Arabic)): History is framed first as method (what history/prehistory means, ages as a timeline) and then as civilisation stories, ending the term with Arabia's own pre-Islamic story told through trade caravans, dams and market cities. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Palestine, Iraq, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/yemen-kingdoms-saba-himyar-and-the-marib-dam

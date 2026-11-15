@@ -1415,3 +1415,69 @@ Yemen's own way (Book 10 — G11 History Part 2 (student book, Arabic)): Part 2 
 **Acceptance count: taught in 38 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, first-steps/heritage-what-it-is-and-why-it-matters
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 6 — G2 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثاني، الفصل الدراسي الأول (Social Studies, Grade 2, Term 1)
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; year 2025, second edition revised (first 2024); ISBN 978-9923-41-849-9
+- PDF pages: 60 (printed 58; cover/title page verified against the record title; byte size 36,341,946 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 2 placements — 1 to existing lessons, 1 NEW LESSON NEEDED
+- Jordan's own way: history enters at Grade 2 as celebration — national days carry the independence date, and customs are taught as living heritage (dress, hospitality, helping).
+- Non-History parts named (not placed): Unit 1 The Family in My Homeland — family, dialogue in the family, etiquette of treatment (printed pp. 6–21, Civics); Unit 2 Children's Rights — safety, health care, education, play (pp. 22–41, Civics); Unit 3 Lesson 1 Society in My Homeland and Lesson 4 Professions in My Homeland (pp. 42, 55, Civics).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 11 — G4 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الرابع، الفصل الدراسي الأول (Social Studies, Grade 4, Term 1)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2024, second edition revised; ISBN 978-9923-41-574-0
+- PDF pages: 80 (cover/title page verified against the record title; byte size 22,639,631 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 7 placements — 2 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: Grade 4 gives Jordan a full national-history unit — Iron Age kingdoms and Nabataean water engineers first, then the Hashemite kings, then the army's battles — taught through a library medal for Ma'an and a school trip to the Unknown Soldier memorial.
+- Non-History parts named (not placed): Unit 1 Lessons 1–2 Jordanian Society / Values (printed pp. 8–16, Civics); Unit 3 Authority and Government in Jordan — constitution, system of government, laws (pp. 44–57, Civics); Unit 4 Environment, Population and Resources — agriculture, industry, energy, human activities, wildlife (pp. 58–79, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 14 — G5 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الخامس، الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; second edition, revised; ISBN 978-9923-41-856-7
+- PDF pages: 100 (cover/title page verified against the record title; byte size 21,825,614 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 7 placements — 3 to existing lessons, 4 NEW LESSON NEEDED
+- Jordan's own way: the national story is told as "the march of a homeland" — revolt, state-founding, then the state's achievements sector by sector — and heritage is taught through the family's museum visit and the coins in a child's hand.
+- Non-History parts named (not placed): Unit 6 Economic Activities — economic concepts, trade sector, services sector (printed pp. 26–47, Economics); Unit 7 The World Around Us — Jordan's location, GPS, the Nile Valley and African countries, the Arab Maghreb countries (pp. 48–79, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 15 — G7 Social Studies Term 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; second edition, revised; ISBN 978-9923-41-580-1
+- PDF pages: 140 (cover/title page verified against the record title; byte size 22,835,434 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 9 placements — 4 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: Bilad al-Sham's story is told in four acts — rise, achievements, Jordan's own kingdoms, collapse — so learners meet the Phoenicians and Canaanites as neighbours before they meet them as world history.
+- Non-History parts named (not placed): Unit 1 Citizenship and Its Components; Unit 2 Global Citizenship — democracy and human rights (printed pp. 6–43, Civics); Unit 3 Environment, Resources and Population (pp. 44–77, Geography); Unit 5 Cultural Diversity (L1) and Unit 6 Life Skills (pp. 106–140, Civics/life skills).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 3 Lesson 2: our customs and traditions — story beats: Jordanian society keeps its authentic customs — welcoming guests, helping the needy, wearing traditional dress — and children visit a folk-life museum to see them (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Jordan, *الدراسات الاجتماعية — الصف الثاني، الفصل الدراسي الأول (Social Studies, Grade 2, Term 1)*, printed p. 47 |
+| Jordan part — Unit 1 Lessons 3–4: customs and traditions; folk costumes — story beats: a girl finds a photo of her grandmother's old dress; Jordan's folk dress (thobe, shemagh and egal) differs between desert and countryside and is part of Jordanian identity kept across centuries (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Jordan, *الدراسات الاجتماعية — الصف الرابع، الفصل الدراسي الأول (Social Studies, Grade 4, Term 1)*, printed p. 21 |
+| Jordan part — Unit 8 Lesson 1: culture — story beats: culture's elements include history itself — Jordan's identity is layered from the civilisations that lived on its land: Ammonite, Moabite, Nabataean and more (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Jordan, *الدراسات الاجتماعية — الصف الخامس، الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)*, printed p. 82 |
+| Jordan part — Unit 8 Lesson 2: Jordanian cultural heritage — story beats: the dabka dance, inscribed by UNESCO, folk costumes that change from region to region, wedding songs and the manqala game carry Jordan's intangible heritage (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Jordan, *الدراسات الاجتماعية — الصف الخامس، الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)*, printed p. 88 |
+| Jordan part — Unit 5 Lesson 2: models from Jordanian heritage — story beats: the jaha delegation asks for a bride with its great coffee cup, mansaf crowns the feasts, makmoura and musakhan come from village ovens, and saj and taboon breads carry the taste of the badia and the countryside (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Jordan, *الدراسات الاجتماعية — الصف السابع، الفصل الدراسي الأول (Social Studies, Grade 7, Term 1)*, printed p. 115 |
+
+Jordan's own way (Book 6 — G2 Social Studies Term 1 (student book, Arabic)): history enters at Grade 2 as celebration — national days carry the independence date, and customs are taught as living heritage (dress, hospitality, helping). That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 11 — G4 Social Studies Term 1 (student book, Arabic)): Grade 4 gives Jordan a full national-history unit — Iron Age kingdoms and Nabataean water engineers first, then the Hashemite kings, then the army's battles — taught through a library medal for Ma'an and a school trip to the Unknown Soldier memorial. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 14 — G5 Social Studies Term 2 (student book, Arabic)): the national story is told as "the march of a homeland" — revolt, state-founding, then the state's achievements sector by sector — and heritage is taught through the family's museum visit and the coins in a child's hand. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 15 — G7 Social Studies Term 1 (student book, Arabic)): Bilad al-Sham's story is told in four acts — rise, achievements, Jordan's own kingdoms, collapse — so learners meet the Phoenicians and Canaanites as neighbours before they meet them as world history. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 38 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen).** Jordan was already counted in this lesson from an earlier wave; these placements are stocked as depth, and the count is unchanged.
+
+Searchable tags: Jordan, History expansion 2026-11-15, first-steps/heritage-what-it-is-and-why-it-matters

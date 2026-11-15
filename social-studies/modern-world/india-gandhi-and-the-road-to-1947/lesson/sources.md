@@ -1,6 +1,6 @@
 # Sources — India — Gandhi and the road to 1947
 
-countries: Sri Lanka, Samoa
+countries: Sri Lanka, Samoa, Jordan
 
 **Book 2 — G9 History Tamil 2019 (student book, Tamil)**
 - Title as printed: வரலாறு தரம் 9 (History, Grade 9)
@@ -51,3 +51,26 @@ Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part 
 **Acceptance count: taught in 2 countries (Sri Lanka, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, modern-world/india-gandhi-and-the-road-to-1947
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 20 — G10 History Term 2 (student book, Arabic)**
+- Title as printed: التاريخ — الصف العاشر، الفصل الدراسي الثاني (History, Grade 10, Term 2)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first (experimental) edition; ISBN 978-9923-41-541-2
+- PDF pages: 94 (cover/title page verified against the record title; byte size 30,987,187 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED (corrected: the two American Revolution parts fit the existing modern-world/american-independence lesson)
+- Jordan's own way: world revolutions are taught as one chain — industry, America, France, Russia, then the century of world wars — and the biography unit pairs an Arab state-builder and an Indian liberator with a German scholar who defended Arab civilisation.
+- Non-History parts named: none — the whole book is History.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 4 Lesson 2: Mahatma Gandhi (1869–1948) — story beats: "nonviolence is the weapon of the strong": twenty years fighting discrimination in South Africa, then home to lead the Congress Party's marches and protests until Britain's rule is resisted into independence (History expansion, 2026-11-15; original placement slug: modern-world/gandhi-and-indias-nonviolent-road-to-independence) | Jordan, *التاريخ — الصف العاشر، الفصل الدراسي الثاني (History, Grade 10, Term 2)*, printed p. 80 |
+
+Jordan's own way (Book 20 — G10 History Term 2 (student book, Arabic)): world revolutions are taught as one chain — industry, America, France, Russia, then the century of world wars — and the biography unit pairs an Arab state-builder and an Indian liberator with a German scholar who defended Arab civilisation. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Sri Lanka, Samoa, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, modern-world/india-gandhi-and-the-road-to-1947

@@ -1,0 +1,11 @@
+# Education in Jordan — from the Amiri schools to ten universities — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** This part of the story is mainly about —
+a) Lessons 1–3: education 1921 to today  b) a different part of this story, told in another lesson of this expansion  c) a different part of this story, told in another lesson of this expansion
+**Answer: a) Lessons 1–3: education 1921 to today** — this part tells Lessons 1–3: education 1921 to today
+
+**2. (Sub lesson 1)** Which of these belongs in this part of the story?
+a) the Emirate legislates early (Primary Instruction Law 1926, the Ma'arif system 1939), staffed by teachers from Syria and Palestine, beside the missionary schools (Mutran, Terra Sancta, the Rosary Sisters) and the lone Sanai' vocational school in Amman; unity with the West Bank (1950) multiplies schools — Khaduri in Tulkarm, Shobak's agricultural school, the Amman Teachers' Institute (1952) — and free textbooks follow; the 1967 displacement of 350,000 forces the double-shift school day; the 1994 Education Law, schools for deaf and blind pupils, military-culture schools and the Queen Rania Award (2006) mark the modern age; higher education begins with scholarships to Arab universities and ends, for now, with ten public universities from the Hashemite in Zarqa to the German-Jordanian in Na'ur  b) a different part of this story, told in another lesson of this expansion
+**Answer: a)** — the Emirate legislates early (Primary Instruction Law 1926, the Ma'arif system 1939), staffed by teachers from Syria and Palestine, beside the missionary schools (Mutran, Terra Sancta, the Rosary Sisters) and the lone Sanai' vocational school in Amman; unity with the West Bank (1950) multiplies schools — Khaduri in Tulkarm, Shobak's agricultural school, the Amman Teachers' Institute (1952) — and free textbooks follow; the 1967 displacement of 350,000 forces the double-shift school day; the 1994 Education Law, schools for deaf and blind pupils, military-culture schools and the Queen Rania Award (2006) mark the modern age; higher education begins with scholarships to Arab universities and ends, for now, with ten public universities from the Hashemite in Zarqa to the German-Jordanian in Na'ur

@@ -1,6 +1,6 @@
 # Sources — The Abbasid Caliphate — Baghdad's golden age
 
-countries: Egypt, Pakistan, Libya, Yemen
+countries: Egypt, Pakistan, Libya, Yemen, Jordan
 
 **Book 8:** *الدراسات الاجتماعية — العالم العربي... وطن يجمعنا (Social Studies — The Arab World… a Homeland that Gathers Us)* (student book, Arabic) — Egypt. Grade: Grade 6 (Sixth Primary), Term 1 (student book). Publisher: Ministry of Education and Technical Education, Egypt (Educational Content Sector; Salah al-Tilmiz Foundation for Printing and Publishing), 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 113 (grabbed from the library's GitHub release copy; read as single-page sheets; the History unit read in full, the Geography and economics units identified from the contents and curriculum map). Verdict: COMPLETE (History parts). Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1 (our Arab homeland — location and importance, terrain, climate and natural vegetation, environmental challenges) and Unit 3 (our Arab homeland and economic development — agricultural activity, animal and fish wealth, minerals and energy sources, tourism activity) — Geography/Economics. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -108,3 +108,68 @@ Yemen's own way (Book 9 — G11 History Part 1 (student book, Arabic)): Arab Isl
 **Acceptance count: taught in 4 countries (Egypt, Pakistan, Libya, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/abbasid-caliphate-baghdad-golden-age
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 18 — G8 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first edition; ISBN 978-9923-41-706-5
+- PDF pages: 148 (cover/title page verified against the record title; byte size 70,646,723 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 11 placements — 4 to existing lessons, 7 NEW LESSON NEEDED
+- Jordan's own way: Egypt is taught as a Nile civilisation in four passes — rise, daily life, achievements, foreign relations — and the Islamic ages are walked through Baghdad's House of Wisdom and Granada's Alhambra.
+- Non-History parts named (not placed): Unit 7 Living Together (printed pp. 6–25, Civics); Unit 9 Maps, Geographic Techniques — map types, aerial and satellite images, GIS (pp. 50–77, Geography); Unit 10 Me and Society (pp. 78–103, Civics).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 20 — G10 History Term 2 (student book, Arabic)**
+- Title as printed: التاريخ — الصف العاشر، الفصل الدراسي الثاني (History, Grade 10, Term 2)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development and Assessment (NCCD), Jordan; first (experimental) edition; ISBN 978-9923-41-541-2
+- PDF pages: 94 (cover/title page verified against the record title; byte size 30,987,187 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED (corrected: the two American Revolution parts fit the existing modern-world/american-independence lesson)
+- Jordan's own way: world revolutions are taught as one chain — industry, America, France, Russia, then the century of world wars — and the biography unit pairs an Arab state-builder and an Indian liberator with a German scholar who defended Arab civilisation.
+- Non-History parts named: none — the whole book is History.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 25 — History of Jordan, Grade 11, Vocational Track, Term 2 (تاريخ الأردن، الصف الحادي عشر – الفرع المهني، الفصل الثاني)**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 2 — Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age
+- Grade 11 STUDENT (vocational track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition 2024; ISBN 978-9923-41-708-9; National Library deposit 2024/9/5272 (cataloguing data in the book gives exactly 108 pages)
+- PDF pages: 108 (91,076,385 bytes, matches record 10225)
+- Verdict: COMPLETE — read in full from the text layer
+- Tally: 12 placements — 3 to existing lessons, 9 NEW LESSON NEEDED
+- Jordan's own way: Jordan is "the gate of the Islamic conquest of Bilad al-Sham" — every age is anchored to a Jordanian place, shrine, castle, coin or document (the 1839 Ajloun petition is read as a primary source), and the modern unit ends not with independence but with the village governments of 1920–21 that preceded the Emirate
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 26 — History of Jordan, Grade 11, Academic Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الأول)**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)
+- Grade 11 STUDENT (academic track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 2nd edition, enlarged and revised, Amman 2025; ISBN 978-9923-41-852-9; National Library deposit 2025/2/734 (cataloguing data in the book gives exactly 128 pages)
+- PDF pages: 128 (228,434,125 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer. The academic track compresses the vocational track's two terms of ancient-to-1921 history into this single term, with different lesson divisions (Greek and Roman-Byzantine in one lesson; Umayyad and Abbasid in one lesson; no separate inscriptions or coinage lessons) and added material noted in the beats
+- Tally: 16 placements — 5 to existing lessons, 11 NEW LESSON NEEDED
+- Jordan's own way: same "open-air museum" national walk as the vocational books, but the academic telling adds the evidence-minded extras — a Greek poet's tombstone read as a text (Aribus of Umm Qais), a beacon-fire signal code quoted from a Mamluk source, and the Circassian and Chechen settlers written into Jordan's Ottoman century
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 11 Lesson 1: the Abbasid state — rise and development — story beats: the secret call runs from al-Humayma, the Umayyads fall at the Zab, Baghdad rises, and under Harun al-Rashid the state peaks — the House of Wisdom makes the capital a centre of learning, run through diwans and the new office of vizier (History expansion, 2026-11-15; original placement slug: ancient-world/the-abbasid-caliphate-baghdad-and-the-golden-age) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)*, printed p. 106 |
+| Jordan part — Unit 11 Lesson 2: civilisational aspects of the Abbasid state — story beats: Sinbad's tales open an age of translation — Hunayn ibn Ishaq is paid his book's weight in gold — paper spreads, observatories rise, and Maryam al-Astrulabi perfects the astrolabe at Aleppo (History expansion, 2026-11-15; original placement slug: ancient-world/the-abbasid-caliphate-baghdad-and-the-golden-age) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)*, printed p. 111 |
+| Jordan part — Unit 11 Lesson 3: the weakness of the Abbasid state — story beats: governors break away — Idrisids first in the far Maghreb — Baghdad falls to the Mongols, and the Mamluk sultan Qutuz stops the Mongol advance at Ain Jalut in 1260 (History expansion, 2026-11-15; original placement slug: ancient-world/the-abbasid-caliphate-baghdad-and-the-golden-age) | Jordan, *الدراسات الاجتماعية — الصف الثامن، الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)*, printed p. 115 |
+| Jordan part — Unit 4 Lesson 3: Sigrid Hunke (1913–1999) — story beats: the German orientalist of Kiel answers Europe's distorted schoolbooks with "Allah's Sun over the Occident": the Arabs named the stars, built observatories, and al-Razi (d. 923) stands among medicine's greats — Arab science as world heritage (History expansion, 2026-11-15; original placement slug: ancient-world/the-abbasid-caliphate-baghdad-and-the-golden-age) | Jordan, *التاريخ — الصف العاشر، الفصل الدراسي الثاني (History, Grade 10, Term 2)*, printed p. 84 |
+| Jordan part — Lesson 3: Jordan in the Abbasid age — story beats: the Abbasid revolution is plotted on Jordanian soil — Abd al-Malik grants al-Humayma in the Balqa to Ali ibn Abdullah ibn al-Abbas to keep him under his eye, and there his son Muhammad turns the village into the secret da'wa's headquarters, the birthplace of caliphs; Abdullah ibn Ali destroys Marwan II's army at the Zab, the capital moves east to Baghdad, and Jordan fades to a province at the edge of the story it started (History expansion, 2026-11-15; original placement slug: ancient-world/the-abbasid-caliphate-baghdad-and-the-golden-age) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 2 — Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age*, printed p. 29 |
+| Jordan part — Lesson 2: Jordan in the Abbasid age — story beats: the Zab (132 AH/750) ends the Umayyads; the Humayma da'wa story is retold, the capital moves to Baghdad, caliphs still prize Jordan for the Hajj and trade roads — and must repeatedly face rebellions and revolts on its soil as their attention thins (History expansion, 2026-11-15; original placement slug: ancient-world/the-abbasid-caliphate-baghdad-and-the-golden-age) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)*, printed p. 62 |
+
+Jordan's own way (Book 18 — G8 Social Studies Term 2 (student book, Arabic)): Egypt is taught as a Nile civilisation in four passes — rise, daily life, achievements, foreign relations — and the Islamic ages are walked through Baghdad's House of Wisdom and Granada's Alhambra. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 20 — G10 History Term 2 (student book, Arabic)): world revolutions are taught as one chain — industry, America, France, Russia, then the century of world wars — and the biography unit pairs an Arab state-builder and an Indian liberator with a German scholar who defended Arab civilisation. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 25 — History of Jordan, Grade 11, Vocational Track, Term 2 (تاريخ الأردن، الصف الحادي عشر – الفرع المهني، الفصل الثاني)): Jordan is "the gate of the Islamic conquest of Bilad al-Sham" — every age is anchored to a Jordanian place, shrine, castle, coin or document (the 1839 Ajloun petition is read as a primary source), and the modern unit ends not with independence but with the village governments of 1920–21 that preceded the Emirate. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 26 — History of Jordan, Grade 11, Academic Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الأول)): same "open-air museum" national walk as the vocational books, but the academic telling adds the evidence-minded extras — a Greek poet's tombstone read as a text (Aribus of Umm Qais), a beacon-fire signal code quoted from a Mamluk source, and the Circassian and Chechen settlers written into Jordan's Ottoman century. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Egypt, Pakistan, Libya, Yemen, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/abbasid-caliphate-baghdad-golden-age

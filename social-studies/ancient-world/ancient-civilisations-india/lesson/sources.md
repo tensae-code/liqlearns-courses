@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — India
 
-countries: Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen
+countries: Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -344,3 +344,26 @@ Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whol
 **Acceptance count: taught in 15 countries (Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/ancient-civilisations-india
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)**
+- Title as printed: التاريخ — الصف الثاني عشر (History, Grade 12), part 1
+- Grade 12 STUDENT
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition; ISBN 978-9923-41-863-5
+- PDF pages: 170 (39,425,505 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer; an all-History book in four units: World Civilisations; Arab Islamic Civilisation; European Colonialism in the Arab Countries; Liberation and Independence Movements in the Arab Homeland
+- Tally: 26 placements — 13 to existing lessons, 13 NEW LESSON NEEDED
+- Jordan's own way: the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Lesson 3: the civilisation of India — story beats: Harappa and Mohenjo-daro raise planned cities in the Indus valley; Islamic kingdoms follow in Bengal, Sindh and the Deccan and the Qutb Minar towers over Delhi; the East India Company creeps from Madras, Bombay and Calcutta (1700) into conquest, until Britain partitions the subcontinent in 1947 into Nehru's India and Jinnah's Pakistan — and Bengal breaks away as Bangladesh in 1971 (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-india) | Jordan, *التاريخ — الصف الثاني عشر (History, Grade 12), part 1*, printed p. 24 |
+| Jordan part — Lesson 4: aspects of Indian civilisation — story beats: the Vedas, "knowledge" in four parts, shape a society where religion touches everything; women study, sing, dance and even rule; smiths forge famous steel and mint gold coins; healers practise surgery and yoga, and mathematicians give the world the decimal numbers (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-india) | Jordan, *التاريخ — الصف الثاني عشر (History, Grade 12), part 1*, printed p. 31 |
+
+Jordan's own way (Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)): the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/ancient-civilisations-india

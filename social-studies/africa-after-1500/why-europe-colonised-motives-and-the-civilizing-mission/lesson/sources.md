@@ -1,6 +1,6 @@
 # Sources — Why Europe colonised — motives and the civilizing-mission claim
 
-countries: Ethiopia, Rwanda, Costa Rica, Australia, Colombia, South Sudan, Samoa, Mozambique
+countries: Ethiopia, Rwanda, Costa Rica, Australia, Colombia, South Sudan, Samoa, Mozambique, Jordan
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -200,3 +200,25 @@ Mozambique's own way (Book 5 — PESD II Mod 2 (student book, Portuguese)): The 
 **Acceptance count: taught in 8 countries (Ethiopia, Rwanda, Costa Rica, Australia, Colombia, South Sudan, Samoa, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, africa-after-1500/why-europe-colonised-motives-and-the-civilizing-mission
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)**
+- Title as printed: التاريخ — الصف الثاني عشر (History, Grade 12), part 1
+- Grade 12 STUDENT
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition; ISBN 978-9923-41-863-5
+- PDF pages: 170 (39,425,505 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer; an all-History book in four units: World Civilisations; Arab Islamic Civilisation; European Colonialism in the Arab Countries; Liberation and Independence Movements in the Arab Homeland
+- Tally: 26 placements — 13 to existing lessons, 13 NEW LESSON NEEDED
+- Jordan's own way: the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Lesson 1: colonialism — its concept, motives and forms — story beats: strong states reach for weaker ones out of political rivalry, hunger for markets and raw materials, and the "white man's mission"; the forms run from direct occupation (Algeria 1830, Aden 1839, Tunisia 1881, Egypt 1882, Libya 1911, Morocco 1912) through settler colonialism — the Americas emptied, Palestine seized by the Zionist movement — to protectorate, mandate, trusteeship and the quiet invasion of culture and language (History expansion, 2026-11-15; original placement slug: africa-after-1500/why-europe-colonised-motives-and-the-civilizing-mission) | Jordan, *التاريخ — الصف الثاني عشر (History, Grade 12), part 1*, printed p. 100 |
+
+Jordan's own way (Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)): the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Rwanda, Costa Rica, Australia, Colombia, South Sudan, Samoa, Mozambique, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, africa-after-1500/why-europe-colonised-motives-and-the-civilizing-mission

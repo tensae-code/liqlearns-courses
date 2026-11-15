@@ -1,6 +1,6 @@
 # Sources — The Inca — the Andean civilisation
 
-countries: Costa Rica, Egypt, Bolivia, Yemen
+countries: Costa Rica, Egypt, Bolivia, Yemen, Jordan
 
 **Book (Costa Rica cr-coned-7):** Title as printed: Antología CONED — Estudios Sociales, Código 80005, Nivel Sétimo año Grade: Grade 7 (student/teacher: STUDENT). Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017; no ISBN printed PDF pages: 166 (cover verified against the record title; byte size 4,348,033 and page count match the record). Verdict: COMPLETE Tally: 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED Costa Rica's own way: The CONED distance-education anthologies compile source readings around a guiding question per theme, fusing History with Geography in one Estudios Sociales course: the ancient world is read as "the human footprint on geographic space", and Costa Rica's own past enters through its indigenous peoples before any national narrative. Non-History parts (named, not placed): Unidad II Tema II La huella ecológica (ecological footprint, printed pp. 94–105 — Geography); Unidad III El espacio geográfico transformado: ecosistemas terrestres y producción alimentaria (printed pp. 106–165 — Geography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -68,3 +68,25 @@ Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whol
 **Acceptance count: taught in 4 countries (Costa Rica, Egypt, Bolivia, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/the-inca-andean-civilisation
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)**
+- Title as printed: التاريخ — الصف الثاني عشر (History, Grade 12), part 1
+- Grade 12 STUDENT
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition; ISBN 978-9923-41-863-5
+- PDF pages: 170 (39,425,505 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer; an all-History book in four units: World Civilisations; Arab Islamic Civilisation; European Colonialism in the Arab Countries; Liberation and Independence Movements in the Arab Homeland
+- Tally: 26 placements — 13 to existing lessons, 13 NEW LESSON NEEDED
+- Jordan's own way: the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 1 Lesson 5: the Inca part — story beats: high in the Andes the Inca organise whole villages in the collective ayllu system, speak Quechua, count in decimals, watch the sun and stars, divide the year into twelve months of thirty days, and build Machu Picchu, the stone city in the clouds (History expansion, 2026-11-15; original placement slug: ancient-world/the-inca-empire-and-machu-picchu) | Jordan, *التاريخ — الصف الثاني عشر (History, Grade 12), part 1*, printed p. 37 |
+
+Jordan's own way (Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)): the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Costa Rica, Egypt, Bolivia, Yemen, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/the-inca-andean-civilisation

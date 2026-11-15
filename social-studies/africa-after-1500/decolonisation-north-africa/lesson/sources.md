@@ -1,6 +1,6 @@
 # Sources — Decolonisation — North Africa
 
-countries: Ethiopia, Libya, Iraq, Sudan
+countries: Ethiopia, Libya, Iraq, Sudan, Jordan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -120,3 +120,29 @@ Sudan's own way (Book 7 — sd-g12 (student book, Arabic)): the final year compl
 **Acceptance count: taught in 4 countries (Ethiopia, Libya, Iraq, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, africa-after-1500/decolonisation-north-africa
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)**
+- Title as printed: التاريخ — الصف الثاني عشر (History, Grade 12), part 1
+- Grade 12 STUDENT
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition; ISBN 978-9923-41-863-5
+- PDF pages: 170 (39,425,505 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer; an all-History book in four units: World Civilisations; Arab Islamic Civilisation; European Colonialism in the Arab Countries; Liberation and Independence Movements in the Arab Homeland
+- Tally: 26 placements — 13 to existing lessons, 13 NEW LESSON NEEDED
+- Jordan's own way: the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Lesson 3: liberation in the Maghreb, the Libya part — story beats: Italy holds Libya from 1912; Omar Mukhtar leads the popular resistance for nine years until, wounded and thrown from his horse, he is captured and hanged after a show trial in 1931, aged eighty — and the poet Ahmad Shawqi elegises him (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-north-africa) | Jordan, *التاريخ — الصف الثاني عشر (History, Grade 12), part 1*, printed p. 144 |
+| Jordan part — Lesson 3: the Tunisia and Morocco parts — story beats: France imposes her protectorate on the Bey of Tunis in 1881, fights Arabic and crushes every national movement, yet cannot stop the struggle even when Axis troops land in 1942; in Morocco the Treaty of Fes (1912) makes a protectorate, Spain takes the Rif, Tangier goes international — until France and Spain must combine against al-Khattabi's Rif revolution, the Berber Dahir backfires, and Muhammad V returns as king of a united Morocco (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-north-africa) | Jordan, *التاريخ — الصف الثاني عشر (History, Grade 12), part 1*, printed p. 144 |
+| Jordan part — Lesson 3: the Algeria part — story beats: Messali Hadj's Algerian People's Party (1937) demands separation from France and Arabic as the official language, while Ferhat Abbas offers wartime loyalty for rights; the answer comes in an eight-year revolution (1954–1962) that unites every Algerian force, wins Africa and the UN to its side, and costs more than a million martyrs before France negotiates (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-north-africa) | Jordan, *التاريخ — الصف الثاني عشر (History, Grade 12), part 1*, printed p. 144 |
+| Jordan part — Lesson 4: liberation in the Nile Valley, the Egypt part — story beats: Ahmad Urabi's revolution of 1881 rallies all Egypt against foreign interference and fails; two days after the 1918 armistice Saad Zaghlul asks to plead Egypt's case in Paris, is refused, arrested and exiled to Malta — and Egypt erupts in the revolution of 1919; King Farouk succeeds Fuad in 1936, Britain forces the Wafd's Nahhas on him in wartime, and the demand to cancel the 1936 treaty rolls toward the Free Officers (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-north-africa) | Jordan, *التاريخ — الصف الثاني عشر (History, Grade 12), part 1*, printed p. 152 |
+| Jordan part — Lesson 4: the Sudan part — story beats: Muhammad Ali's Egypt rules Sudan until Britain takes Egypt in 1882 and the two impose the joint Condominium of 1899; the Mahdist revolution of 1880 had already risen against Egyptian rule; after the Second World War Ismail al-Azhari's National Unionist Party wins the elections, parliament votes self-determination, and the British and Egyptian armies withdraw (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-north-africa) | Jordan, *التاريخ — الصف الثاني عشر (History, Grade 12), part 1*, printed p. 152 |
+
+Jordan's own way (Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)): the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Libya, Iraq, Sudan, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, africa-after-1500/decolonisation-north-africa

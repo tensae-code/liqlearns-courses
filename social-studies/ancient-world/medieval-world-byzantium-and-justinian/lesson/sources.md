@@ -1,6 +1,6 @@
 # Sources — Medieval world — Byzantium and Justinian
 
-countries: Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia
+countries: Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -158,3 +158,38 @@ Mongolia's own way (Book 3 — mn-g7h Түүх VII (History VII)): the medieval 
 **Acceptance count: taught in 8 countries (Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/medieval-world-byzantium-and-justinian
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 24 — History of Jordan, Grade 11, Vocational Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع المهني، الفصل الأول)**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 1 — Unit 1: Jordan in the Ancient Ages
+- Grade 11 STUDENT (vocational track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 1st (experimental) edition 2024; ISBN 978-9923-41-648-8; National Library deposit 2024/5/3174 (cataloguing data in the book itself gives exactly 68 pages)
+- PDF pages: 68 (77,369,501 bytes, matches record 9669)
+- Verdict: COMPLETE — read in full from the text layer. NOTE: the targets record titles this file simply "History of Jordan — Grade 11 Term 1"; the book itself is the VOCATIONAL-track book — the academic-track Term 1 is the separate 228 MB file (Book 25)
+- Tally: 7 placements — 2 to existing lessons, 5 NEW LESSON NEEDED
+- Jordan's own way: the whole national story is taught as one walk through Jordan's own ground — "Jordan is an open-air museum" — from the name itself (Jur + Dan, the Jordan River's northern tributaries) through its stone-age villages, its three Iron Age kingdoms, Petra, the desert inscriptions, and the Decapolis cities a pupil can still visit
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+**Book 26 — History of Jordan, Grade 11, Academic Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الأول)**
+- Title as printed: تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)
+- Grade 11 STUDENT (academic track)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; 2nd edition, enlarged and revised, Amman 2025; ISBN 978-9923-41-852-9; National Library deposit 2025/2/734 (cataloguing data in the book gives exactly 128 pages)
+- PDF pages: 128 (228,434,125 bytes, matches record)
+- Verdict: COMPLETE — read in full from the text layer. The academic track compresses the vocational track's two terms of ancient-to-1921 history into this single term, with different lesson divisions (Greek and Roman-Byzantine in one lesson; Umayyad and Abbasid in one lesson; no separate inscriptions or coinage lessons) and added material noted in the beats
+- Tally: 16 placements — 5 to existing lessons, 11 NEW LESSON NEEDED
+- Jordan's own way: same "open-air museum" national walk as the vocational books, but the academic telling adds the evidence-minded extras — a Greek poet's tombstone read as a text (Aribus of Umm Qais), a beacon-fire signal code quoted from a Mamluk source, and the Circassian and Chechen settlers written into Jordan's Ottoman century
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Lesson 6: Byzantine Jordan (395–636) — story beats: Theodosius splits the empire between Honorius in the West (Rome falls to the Goths in 476) and Arcadius in the East at Constantinople; Jordan's churches multiply, and Madaba lays the oldest mosaic map of the Holy Land (560 CE), still on its church floor today; south-east of Amman at al-Raqim, the Cave of the Sleepers recalls the Emperor Decius, who persecuted the Christians who hid there (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع المهني (History of Jordan, Grade 11, Vocational Track), Term 1 — Unit 1: Jordan in the Ancient Ages*, printed p. 62 |
+| Jordan part — Lesson 4: Byzantine Jordan — story beats: to the Madaba map and the Cave of the Sleepers this telling adds al-Maghtas at Wadi al-Kharrar north of the Dead Sea, where Christ was baptised — a UNESCO-listed pilgrimage site drawing thousands — and Madaba's own Mosaic Institute, teaching the Byzantine craft as a living Jordanian livelihood (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Jordan, *تاريخ الأردن — الصف الحادي عشر، الفرع الأكاديمي (History of Jordan, Grade 11, Academic Track), Term 1 — Unit 1: Jordan in the Ancient Ages; Unit 2: Jordan in the Islamic Ages; Unit 3: Jordan in the Modern Age (all three units in one term)*, printed p. 38 |
+
+Jordan's own way (Book 24 — History of Jordan, Grade 11, Vocational Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع المهني، الفصل الأول)): the whole national story is taught as one walk through Jordan's own ground — "Jordan is an open-air museum" — from the name itself (Jur + Dan, the Jordan River's northern tributaries) through its stone-age villages, its three Iron Age kingdoms, Petra, the desert inscriptions, and the Decapolis cities a pupil can still visit. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Jordan's own way (Book 26 — History of Jordan, Grade 11, Academic Track, Term 1 (تاريخ الأردن، الصف الحادي عشر – الفرع الأكاديمي، الفصل الأول)): same "open-air museum" national walk as the vocational books, but the academic telling adds the evidence-minded extras — a Greek poet's tombstone read as a text (Aribus of Umm Qais), a beacon-fire signal code quoted from a Mamluk source, and the Circassian and Chechen settlers written into Jordan's Ottoman century. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan).**
+
+Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/medieval-world-byzantium-and-justinian

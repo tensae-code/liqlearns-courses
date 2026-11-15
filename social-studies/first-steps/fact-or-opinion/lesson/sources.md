@@ -208,3 +208,26 @@ This book is a teacher guide. The Papua New Guinea rows below stand on it as tea
 Papua New Guinea's own way (Book 11 — G12 History TG SBC (teacher guide, English)): Grade 12 turns the 7-unit architecture into critical history — sources and how religions spread, why empires fell, Christianity's reshaping of cultures, the UN and the SDGs judged, PNG's own constitutional National Goals, exploitation of Papua New Guineans, the disasters that remade PNG towns (Rabaul 1994), and a final inquiry unit on media, ideology and the powerful individuals — Gaddafi the worked example — who bend societies. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Jordan, Switzerland, Kuwait, Finland, Egypt) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Jordan stocked
+
+**Book 12 — G4 Social Studies Term 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الرابع، الفصل الدراسي الثاني (Social Studies, Grade 4, Term 2)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023, first edition; ISBN 978-9923-41-542-9
+- PDF pages: 92 (cover/title page verified against the record title; byte size 18,311,632 matches the books.json record — TSV release copy and tree record are the same book)
+- Verdict: COMPLETE
+- Tally: 1 placement — 1 to existing lessons, 0 NEW LESSON NEEDED
+- Jordan's own way: Term 2 is civics and geography; its one history-method lesson teaches fact versus opinion through classmates' differing answers about a picture.
+- Non-History parts named (not placed): Unit 5 We Live Together — building character, dialogue, respect (printed pp. 6–23, Civics); Unit 6 My Participation in My Society — rights and duties, community participation and volunteering (pp. 32–49, Civics); Unit 7 The World Around Me — solar system, Earth's movement, world climate zones (pp. 50–67, Geography/Science); Unit 8 Geographic Maps — map elements and types, Bilad al-Sham and Iraq, the Arabian Peninsula (pp. 68–92, Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Unit 5 Lesson 4: fact and opinion — story beats: classmates answer questions about a picture; where answers agree the matter is a proven fact no one disputes, where they differ it is an opinion shaped by feeling and experience (History expansion, 2026-11-15; original placement slug: first-steps/fact-or-opinion) | Jordan, *الدراسات الاجتماعية — الصف الرابع، الفصل الدراسي الثاني (Social Studies, Grade 4, Term 2)*, printed p. 24 |
+
+Jordan's own way (Book 12 — G4 Social Studies Term 2 (student book, Arabic)): Term 2 is civics and geography; its one history-method lesson teaches fact versus opinion through classmates' differing answers about a picture. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Jordan, Switzerland, Kuwait, Finland, Egypt).** Jordan was already counted in this lesson from an earlier wave; these placements are stocked as depth, and the count is unchanged.
+
+Searchable tags: Jordan, History expansion 2026-11-15, first-steps/fact-or-opinion

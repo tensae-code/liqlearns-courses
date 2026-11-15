@@ -1,0 +1,6 @@
+# Education in Jordan — from the Amiri schools to ten universities — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its sub lessons. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view. Parts are ordered as the book teaches them, as stocked.
+
+## Sub lesson 1 — Lessons 1–3: education 1921 to today
+Sub lesson 1 questions from the type files. Pass mark: retell this part in your own words — the Emirate legislates early (Primary Instruction Law 1926, the Ma'arif system 1939), staffed by teachers from Syria and Palestine, beside the missionary schools (Mutran, Terra Sancta, the Rosary Sisters) and the lone Sanai' vocational school in Amman; unity with the West Bank (1950) multiplies schools — Khaduri in Tulkarm, Shobak's agricultural school, the Amman Teachers' Institute (1952) — and free textbooks follow; the 1967 displacement of 350,000 forces the double-shift school day; the 1994 Education Law, schools for deaf and blind pupils, military-culture schools and the Queen Rania Award (2006) mark the modern age; higher education begins with scholarships to Arab universities and ends, for now, with ten public universities from the Hashemite in Zarqa to the German-Jordanian in Na'ur
