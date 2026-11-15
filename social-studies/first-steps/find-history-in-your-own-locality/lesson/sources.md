@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1099,3 +1099,36 @@ Laos's own way (Book 13 — LA-G11-S (student book, Lao)): same course as the te
 **Acceptance count: taught in 26 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos).**
 
 Searchable tags: Laos, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 1 — g5-student (student book, Spanish)**
+- Title as printed: Historia de Cuba — Quinto grado
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2011 (2nd ed., ©1990); ISBN 978-959-13-0343-1
+- PDF pages: 171 (cover/title page verified against the record title; authors Albelo Ginnart, Valdés López, Gallo González, Molina Martínez)
+- Verdict: COMPLETE
+- Tally: 41 placements — 5 to existing lessons, 36 NEW LESSON NEEDED
+- Cuba's own way: Cuba's national story alone, told chronologically from first inhabitants to 1898, every chapter closing with "Comprueba lo que has aprendido" checks and dates to memorise; local history (monuments, street names in your own town) is taught as part of national history from the first chapter.
+
+**Book 4 — g5-orient (teacher guide, Spanish)**
+- Title as printed: Orientaciones Metodológicas — Historia de Cuba, quinto grado
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4691-9 (print) / 978-959-13-4692-6 (digital)
+- PDF pages: 180 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: Teacher guidance organised by the textbook's units, preceded by distinctive method chapters: guiding ideas (ideas rectoras), discipline skills, how to run the history lesson, how to teach local history, and how to bring Martí's and Fidel's thought into the class.
+This book is a teacher guide. The Cuba rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — Local history: monuments, plaques, street names in your town — story beats: the statues in the park and names on the streets are neighbours' ancestors; every corner of Cuba has a place in the Patria's history (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Cuba, *Historia de Cuba — Quinto grado*, printed p. 9 |
+| Cuba part — How to teach local history (la historia local) — story beats: the teacher sends pupils to their own municipality's monuments, museums and elders so the national story is found standing in their own street (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Cuba, *Orientaciones Metodológicas — Historia de Cuba, quinto grado* (teacher guide — evidence), printed p. 23 |
+
+Cuba's own way (Book 1 — g5-student (student book, Spanish)): Cuba's national story alone, told chronologically from first inhabitants to 1898, every chapter closing with "Comprueba lo que has aprendido" checks and dates to memorise; local history (monuments, street names in your own town) is taught as part of national history from the first chapter. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 4 — g5-orient (teacher guide, Spanish)): Teacher guidance organised by the textbook's units, preceded by distinctive method chapters: guiding ideas (ideas rectoras), discipline skills, how to run the history lesson, how to teach local history, and how to bring Martí's and Fidel's thought into the class. That way is stocked here as the way Cuba teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 27 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality

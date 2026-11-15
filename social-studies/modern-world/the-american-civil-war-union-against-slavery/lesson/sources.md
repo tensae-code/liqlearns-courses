@@ -1,6 +1,6 @@
 # Sources — The American Civil War — union against slavery's states
 
-countries: Ethiopia, United States, Bahamas, Cambodia, Colombia, South Sudan, Samoa, Iraq, Uzbekistan, North Macedonia
+countries: Ethiopia, United States, Bahamas, Cambodia, Colombia, South Sudan, Samoa, Iraq, Uzbekistan, North Macedonia, Cuba
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -262,3 +262,35 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 10 countries (Ethiopia, United States, Bahamas, Cambodia, Colombia, South Sudan, Samoa, Iraq, Uzbekistan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, modern-world/the-american-civil-war-union-against-slavery
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 8 — g8-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Moderno al Contemporáneo — octavo grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4847-0 (print) / 978-959-13-4848-7 (digital)
+- PDF pages: 495 (title page verified against the record title; authors Dávila Valdés et al.)
+- Verdict: COMPLETE
+- Tally: 45 placements — 22 to existing lessons, 23 NEW LESSON NEEDED
+- Cuba's own way: Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world.
+
+**Book 12 — g10-america (student book, Spanish)**
+- Title as printed: Historia de América — Décimo grado (record title: Temas de Historia de América)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2016 (1st reprint, ©2010); ISBN 978-959-13-2119-0
+- PDF pages: 191 (read in place at phase3-staging/grade-10/gov/cuba/historia-de-america/student/full-year.pdf, 7,200,454 bytes — matches record size_bytes; title page verified)
+- Verdict: COMPLETE
+- Tally: 18 placements — 11 to existing lessons, 7 NEW LESSON NEEDED
+- Cuba's own way: A whole book for the Americas, justified by Martí's "Nuestra América" (1891) quoted in the preface: peopling and high cultures, Iberian/English/French colonisation, independences (with Haiti as Latin America's first), the two Americas' divergent 19th century (Latin-Americanism vs pan-Americanism), and a 20th century cut into 1898–1939 / 1939–1959 / 1959–1998 / 1998–2008 stages. Every chapter closes with independent-study activities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 4.1 United States after independence: territorial expansion and Industrial Revolution (to the Civil War era) — story beats: the republic expands west over indigenous lands and Mexico's north, industrialises, and splits over slavery (History expansion, 2026-11-15; original placement slug: modern-world/the-american-civil-war-union-against-slavery) | Cuba, *Historia del Mundo Moderno al Contemporáneo — octavo grado*, printed p. 188 |
+| Cuba part — 4.1 The United States in the 19th century — story beats: expansion, civil war over slavery, and industrial take-off make the northern republic a power while its southern neighbours fragment (History expansion, 2026-11-15; original placement slug: modern-world/the-american-civil-war-union-against-slavery) | Cuba, *Historia de América — Décimo grado (record title: Temas de Historia de América)*, printed p. 72 |
+
+Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 12 — g10-america (student book, Spanish)): A whole book for the Americas, justified by Martí's "Nuestra América" (1891) quoted in the preface: peopling and high cultures, Iberian/English/French colonisation, independences (with Haiti as Latin America's first), the two Americas' divergent 19th century (Latin-Americanism vs pan-Americanism), and a 20th century cut into 1898–1939 / 1939–1959 / 1959–1998 / 1998–2008 stages. Every chapter closes with independent-study activities. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, United States, Bahamas, Cambodia, Colombia, South Sudan, Samoa, Iraq, Uzbekistan, North Macedonia, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, modern-world/the-american-civil-war-union-against-slavery

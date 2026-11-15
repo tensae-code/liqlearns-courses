@@ -1,6 +1,6 @@
 # Sources — The Haitian Revolution, 1791–1804
 
-countries: Haiti, North Macedonia
+countries: Haiti, North Macedonia, Cuba
 
 **Book 6:** *La Révolution haïtienne (1791-1806), 8e année* (teacher guide, French) — Haiti. Title as printed: HISTOIRE — LA RÉVOLUTION HAÏTIENNE (1791-1806). Grade: grade-08 (student/teacher: TEACHER) — records: TSV release record + books.json record, same book read once via the release route (tree route 404s). Publisher: Projet Nectar, MENFP, via Canoprof; editorialisation Mélanie Albaret / Arnaud Dechelle; Creative Commons BY-NC-SA; no year printed; no ISBN printed. PDF pages: 91 (first page verified against the record title; séances pp. 4-36, document annexes pp. 37-91). Verdict: COMPLETE. Tally: 10 placements — 1 to existing lessons, 9 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/haiti-placements.md.
 
@@ -50,3 +50,35 @@ Note: this lesson previously stood on teacher-guide evidence only (Haiti), named
 **Acceptance count: taught in 1 country (North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, modern-world/the-haitian-revolution-1791-1804
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 8 — g8-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Moderno al Contemporáneo — octavo grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4847-0 (print) / 978-959-13-4848-7 (digital)
+- PDF pages: 495 (title page verified against the record title; authors Dávila Valdés et al.)
+- Verdict: COMPLETE
+- Tally: 45 placements — 22 to existing lessons, 23 NEW LESSON NEEDED
+- Cuba's own way: Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world.
+
+**Book 12 — g10-america (student book, Spanish)**
+- Title as printed: Historia de América — Décimo grado (record title: Temas de Historia de América)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2016 (1st reprint, ©2010); ISBN 978-959-13-2119-0
+- PDF pages: 191 (read in place at phase3-staging/grade-10/gov/cuba/historia-de-america/student/full-year.pdf, 7,200,454 bytes — matches record size_bytes; title page verified)
+- Verdict: COMPLETE
+- Tally: 18 placements — 11 to existing lessons, 7 NEW LESSON NEEDED
+- Cuba's own way: A whole book for the Americas, justified by Martí's "Nuestra América" (1891) quoted in the preface: peopling and high cultures, Iberian/English/French colonisation, independences (with Haiti as Latin America's first), the two Americas' divergent 19th century (Latin-Americanism vs pan-Americanism), and a 20th century cut into 1898–1939 / 1939–1959 / 1959–1998 / 1998–2008 stages. Every chapter closes with independent-study activities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 3.3 The anticolonial revolution of Saint-Domingue (Haiti); Toussaint Louverture — story beats: the enslaved of France's richest colony rise, defeat three empires under Louverture and his successors, and found Haiti — the only victorious slave revolution (History expansion, 2026-11-15; original placement slug: modern-world/the-haitian-revolution) | Cuba, *Historia del Mundo Moderno al Contemporáneo — octavo grado*, printed p. 147 |
+| Cuba part — 3.3 The revolution for Latin America's first independence: Haiti — story beats: Haiti is placed before all Spanish America: the enslaved liberate themselves first, in 1804, and are punished with isolation for it (History expansion, 2026-11-15; original placement slug: modern-world/the-haitian-revolution) | Cuba, *Historia de América — Décimo grado (record title: Temas de Historia de América)*, printed p. 54 |
+
+Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 12 — g10-america (student book, Spanish)): A whole book for the Americas, justified by Martí's "Nuestra América" (1891) quoted in the preface: peopling and high cultures, Iberian/English/French colonisation, independences (with Haiti as Latin America's first), the two Americas' divergent 19th century (Latin-Americanism vs pan-Americanism), and a 20th century cut into 1898–1939 / 1939–1959 / 1959–1998 / 1998–2008 stages. Every chapter closes with independent-study activities. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (North Macedonia, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, modern-world/the-haitian-revolution-1791-1804

@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1287,3 +1287,82 @@ Afghanistan's own way (Book 4 — History G7 (student book, Dari)): secondary hi
 **Acceptance count: taught in 44 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan).**
 
 Searchable tags: Afghanistan, History expansion 2026-11-15, first-steps/what-history-is
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 1 — g5-student (student book, Spanish)**
+- Title as printed: Historia de Cuba — Quinto grado
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2011 (2nd ed., ©1990); ISBN 978-959-13-0343-1
+- PDF pages: 171 (cover/title page verified against the record title; authors Albelo Ginnart, Valdés López, Gallo González, Molina Martínez)
+- Verdict: COMPLETE
+- Tally: 41 placements — 5 to existing lessons, 36 NEW LESSON NEEDED
+- Cuba's own way: Cuba's national story alone, told chronologically from first inhabitants to 1898, every chapter closing with "Comprueba lo que has aprendido" checks and dates to memorise; local history (monuments, street names in your own town) is taught as part of national history from the first chapter.
+
+**Book 4 — g5-orient (teacher guide, Spanish)**
+- Title as printed: Orientaciones Metodológicas — Historia de Cuba, quinto grado
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4691-9 (print) / 978-959-13-4692-6 (digital)
+- PDF pages: 180 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: Teacher guidance organised by the textbook's units, preceded by distinctive method chapters: guiding ideas (ideas rectoras), discipline skills, how to run the history lesson, how to teach local history, and how to bring Martí's and Fidel's thought into the class.
+This book is a teacher guide. The Cuba rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 7 — g7-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Antiguo al Medieval
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3988-1 (print) / 978-959-13-4328-4 (digital)
+- PDF pages: 401 (cover/title page verified; authors Dávila Valdés et al.)
+- Verdict: COMPLETE — NOTE on route: the GitHub release grab (full-quality-oversized-books) truncated twice (17 MB, then 118 MB incomplete, no trailer); the tree route for the books.json path returned 404. The complete file was read from the record's own recorded source (Biblioteca CubaEduca original PDF, 147,977,585 bytes, 401 pp) and its title/ISBN verified against the record. Library debt: the books.json tree path grade-07/gov/cuba/historia/student/full-year.pdf does not exist in the repo tree (404) — the book lives only as a release asset.
+- Tally: 42 placements — 25 to existing lessons, 17 NEW LESSON NEEDED
+- Cuba's own way: World history taught through a Marxist stage frame — community society → class societies (village-exploiting, slave, feudal) → genesis of capitalism — with Egypt as the "typical model", a whole part on the unequal medieval development of Asia, Africa and America, and a glossary + bibliography closing the book.
+
+**Book 9 — g8-orient (teacher guide, Spanish)**
+- Title as printed: Orientaciones Metodológicas — Historia del Mundo Moderno al Contemporáneo, octavo grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4853-1 (print) / 978-959-13-4854-8 (digital)
+- PDF pages: 228 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED
+- Cuba's own way: Combines discipline characterisation, grade objectives and a thematic plan with per-unit methodological orientations for the Grade 8 student book's five parts / nine units — the teacher's map of the same modern-world arc.
+This book is a teacher guide. The Cuba rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 10 — g9-student (student book, Spanish)**
+- Title as printed: Historia de Cuba — Noveno grado
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2000 (2nd corrected ed., ©1991); ISBN 959-13-0751-9
+- PDF pages: 369 (title page verified against the record title; authors Valdés López, Albelo Ginnart, Gallo González)
+- Verdict: COMPLETE
+- Tally: 32 placements — 29 to existing lessons (including Cuba lessons proposed as NEW in Books 1/5 of this wave), 3 NEW LESSON NEEDED
+- Cuba's own way: The full national survey in one secondary book — four parts (first inhabitants; colonial Cuba; neocolonial Republic; socialist Republic) and nine chapters, ending not in 1959 but with the Revolution's first decades (to 1965 and beyond, party formation, culture in the Revolution). Deeper and more analytical than the primary pair: omnímodas powers, annexationism, the Guerra Chiquita and the 1930s get their own sections.
+
+**Book 14 — g11-orient (teacher guide, Spanish)**
+- Title as printed: Orientaciones Metodológicas — Historia de Cuba, onceno grado
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4842-5 (print) / 978-959-13-4843-2 (digital)
+- PDF pages: 294 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 1 to existing lessons, 4 NEW LESSON NEEDED
+- Cuba's own way: Pre-university guidance framed entirely by one guiding process — the formation, development and consolidation of Cuban nationality and nationhood. Per-unit didactic suggestions for Units Intro–4 (to 1952), plus a large "Materiales complementarios" section of supplementary readings (e.g. "La nación como destino") for classroom use.
+This book is a teacher guide. The Cuba rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — Introductory chapter: what History of Cuba studies, national vs universal history — story beats: a child asks what their country's past is; the book answers that national history is the people's own life, heroes and customs from their origins (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Cuba, *Historia de Cuba — Quinto grado*, printed p. 9 |
+| Cuba part — General considerations + guiding ideas for teaching History of Cuba in primary school — story beats: a teacher is told no one can teach what they do not know; history class exists to form patriotic feeling and judgement, not to memorise a chronicle (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Cuba, *Orientaciones Metodológicas — Historia de Cuba, quinto grado* (teacher guide — evidence), printed p. 1 |
+| Cuba part — I.1 Importance of studying universal history; historical sources — story beats: a new secondary pupil asks why study a world that ended centuries ago; sources — objects, writings, images — are introduced as the evidence that makes the answer possible (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Cuba, *Historia del Mundo Antiguo al Medieval*, printed p. 1 |
+| Cuba part — Discipline characterisation and general objectives for Modern/Contemporary history in Secundaria Básica — story beats: teachers are told the subject's job: pupils who can explain, not just recite, how the modern world was made (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Cuba, *Orientaciones Metodológicas — Historia del Mundo Moderno al Contemporáneo, octavo grado* (teacher guide — evidence), printed p. 3 |
+| Cuba part — Intro 1.1 Importance of studying History of Cuba and its link with universal history — story beats: at secondary level the national story is explicitly tied to the world story pupils learned in Grades 7–8 — Cuba inside world time (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Cuba, *Historia de Cuba — Noveno grado*, printed p. 1 |
+| Cuba part — Didactic conception of the subject in the grade; introductory unit: approach to the formation of Cuban nationality — story beats: the teacher's whole course is one question — how did a colony's mixture become a nation that thinks for itself? (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Cuba, *Orientaciones Metodológicas — Historia de Cuba, onceno grado* (teacher guide — evidence), printed p. 10 |
+
+Cuba's own way (Book 1 — g5-student (student book, Spanish)): Cuba's national story alone, told chronologically from first inhabitants to 1898, every chapter closing with "Comprueba lo que has aprendido" checks and dates to memorise; local history (monuments, street names in your own town) is taught as part of national history from the first chapter. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 4 — g5-orient (teacher guide, Spanish)): Teacher guidance organised by the textbook's units, preceded by distinctive method chapters: guiding ideas (ideas rectoras), discipline skills, how to run the history lesson, how to teach local history, and how to bring Martí's and Fidel's thought into the class. That way is stocked here as the way Cuba teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 7 — g7-student (student book, Spanish)): World history taught through a Marxist stage frame — community society → class societies (village-exploiting, slave, feudal) → genesis of capitalism — with Egypt as the "typical model", a whole part on the unequal medieval development of Asia, Africa and America, and a glossary + bibliography closing the book. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 9 — g8-orient (teacher guide, Spanish)): Combines discipline characterisation, grade objectives and a thematic plan with per-unit methodological orientations for the Grade 8 student book's five parts / nine units — the teacher's map of the same modern-world arc. That way is stocked here as the way Cuba teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 10 — g9-student (student book, Spanish)): The full national survey in one secondary book — four parts (first inhabitants; colonial Cuba; neocolonial Republic; socialist Republic) and nine chapters, ending not in 1959 but with the Revolution's first decades (to 1965 and beyond, party formation, culture in the Revolution). Deeper and more analytical than the primary pair: omnímodas powers, annexationism, the Guerra Chiquita and the 1930s get their own sections. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 14 — g11-orient (teacher guide, Spanish)): Pre-university guidance framed entirely by one guiding process — the formation, development and consolidation of Cuban nationality and nationhood. Per-unit didactic suggestions for Units Intro–4 (to 1952), plus a large "Materiales complementarios" section of supplementary readings (e.g. "La nación como destino") for classroom use. That way is stocked here as the way Cuba teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 45 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, first-steps/what-history-is

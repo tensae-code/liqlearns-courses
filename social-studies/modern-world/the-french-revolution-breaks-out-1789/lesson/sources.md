@@ -1,6 +1,6 @@
 # Sources — 1789 — the French Revolution breaks out
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos
+countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -658,3 +658,36 @@ Laos's own way (Book 13 — LA-G11-S (student book, Lao)): same course as the te
 **Acceptance count: taught in 24 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos).**
 
 Searchable tags: Laos, History expansion 2026-11-15, modern-world/the-french-revolution-breaks-out-1789
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 8 — g8-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Moderno al Contemporáneo — octavo grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4847-0 (print) / 978-959-13-4848-7 (digital)
+- PDF pages: 495 (title page verified against the record title; authors Dávila Valdés et al.)
+- Verdict: COMPLETE
+- Tally: 45 placements — 22 to existing lessons, 23 NEW LESSON NEEDED
+- Cuba's own way: Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world.
+
+**Book 9 — g8-orient (teacher guide, Spanish)**
+- Title as printed: Orientaciones Metodológicas — Historia del Mundo Moderno al Contemporáneo, octavo grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4853-1 (print) / 978-959-13-4854-8 (digital)
+- PDF pages: 228 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED
+- Cuba's own way: Combines discipline characterisation, grade objectives and a thematic plan with per-unit methodological orientations for the Grade 8 student book's five parts / nine units — the teacher's map of the same modern-world arc.
+This book is a teacher guide. The Cuba rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 1.2 The French Bourgeois Revolution: causes, absolutism, Louis XVI, Enlightenment preparation, Bastille — story beats: a bankrupt king summons the Estates-General; Paris storms the Bastille on 14 July 1789 and the old regime cracks (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Cuba, *Historia del Mundo Moderno al Contemporáneo — octavo grado*, printed p. 28 |
+| Cuba part — Unit orientations, Part I (Intro + Unit 1: making of the Modern World and bourgeois revolutions) — story beats: guidance stresses causes and the Bastille as the teaching hinge between feudal France and bourgeois Europe (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Cuba, *Orientaciones Metodológicas — Historia del Mundo Moderno al Contemporáneo, octavo grado* (teacher guide — evidence), printed p. 18 |
+
+Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 9 — g8-orient (teacher guide, Spanish)): Combines discipline characterisation, grade objectives and a thematic plan with per-unit methodological orientations for the Grade 8 student book's five parts / nine units — the teacher's map of the same modern-world arc. That way is stocked here as the way Cuba teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 25 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, modern-world/the-french-revolution-breaks-out-1789

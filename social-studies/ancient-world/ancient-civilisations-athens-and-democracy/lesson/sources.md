@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Athens and democracy
 
-countries: Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro, Dominican Republic, Pakistan, Colombia, Sri Lanka, Mozambique, Uzbekistan, North Macedonia
+countries: Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro, Dominican Republic, Pakistan, Colombia, Sri Lanka, Mozambique, Uzbekistan, North Macedonia, Cuba
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -253,3 +253,24 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 14 countries (Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro, Dominican Republic, Pakistan, Colombia, Sri Lanka, Mozambique, Uzbekistan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, ancient-world/ancient-civilisations-athens-and-democracy
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 7 — g7-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Antiguo al Medieval
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3988-1 (print) / 978-959-13-4328-4 (digital)
+- PDF pages: 401 (cover/title page verified; authors Dávila Valdés et al.)
+- Verdict: COMPLETE — NOTE on route: the GitHub release grab (full-quality-oversized-books) truncated twice (17 MB, then 118 MB incomplete, no trailer); the tree route for the books.json path returned 404. The complete file was read from the record's own recorded source (Biblioteca CubaEduca original PDF, 147,977,585 bytes, 401 pp) and its title/ISBN verified against the record. Library debt: the books.json tree path grade-07/gov/cuba/historia/student/full-year.pdf does not exist in the repo tree (404) — the book lives only as a release asset.
+- Tally: 42 placements — 25 to existing lessons, 17 NEW LESSON NEEDED
+- Cuba's own way: World history taught through a Marxist stage frame — community society → class societies (village-exploiting, slave, feudal) → genesis of capitalism — with Egypt as the "typical model", a whole part on the unequal medieval development of Asia, Africa and America, and a glossary + bibliography closing the book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 3.3 Greco-Persian Wars; Athens under Pericles — story beats: tiny Athens beats an empire at Marathon and Salamis, then Pericles turns victory into democracy's golden age (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-athens-and-democracy) | Cuba, *Historia del Mundo Antiguo al Medieval*, printed p. 125 |
+
+Cuba's own way (Book 7 — g7-student (student book, Spanish)): World history taught through a Marxist stage frame — community society → class societies (village-exploiting, slave, feudal) → genesis of capitalism — with Egypt as the "typical model", a whole part on the unequal medieval development of Asia, Africa and America, and a glossary + bibliography closing the book. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro, Dominican Republic, Pakistan, Colombia, Sri Lanka, Mozambique, Uzbekistan, North Macedonia, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, ancient-world/ancient-civilisations-athens-and-democracy

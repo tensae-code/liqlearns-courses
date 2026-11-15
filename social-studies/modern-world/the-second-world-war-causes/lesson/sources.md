@@ -1,6 +1,6 @@
 # Sources — The Second World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, North Macedonia, Laos
+countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, North Macedonia, Laos, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 136).
 
@@ -564,3 +564,24 @@ Laos's own way (Book 14 — LA-G12-S (student book, Lao)): same course as the te
 **Acceptance count: taught in 24 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, North Macedonia, Laos).**
 
 Searchable tags: Laos, History expansion 2026-11-15, modern-world/the-second-world-war-causes
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 8 — g8-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Moderno al Contemporáneo — octavo grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4847-0 (print) / 978-959-13-4848-7 (digital)
+- PDF pages: 495 (title page verified against the record title; authors Dávila Valdés et al.)
+- Verdict: COMPLETE
+- Tally: 45 placements — 22 to existing lessons, 23 NEW LESSON NEEDED
+- Cuba's own way: Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 7.1–7.2 German fascist expansion on the eve of war; start of the war and the phase favourable to the Axis — story beats: appeasement feeds Hitler Austria and Czechoslovakia; blitzkrieg then overruns Europe to the gates of Moscow (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-causes) | Cuba, *Historia del Mundo Moderno al Contemporáneo — octavo grado*, printed p. 322 |
+
+Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 25 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, North Macedonia, Laos, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, modern-world/the-second-world-war-causes

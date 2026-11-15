@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations in North America
 
-countries: Yemen
+countries: Yemen, Cuba
 
 **Book 8 — G10 History Part 1 (student book, Arabic)**
 - Title as printed: تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)
@@ -21,3 +21,24 @@ Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whol
 **Acceptance count: taught in 1 country (Yemen).**
 
 Searchable tags: Yemen, Ancient civilisations in North America, ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 12 — g10-america (student book, Spanish)**
+- Title as printed: Historia de América — Décimo grado (record title: Temas de Historia de América)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2016 (1st reprint, ©2010); ISBN 978-959-13-2119-0
+- PDF pages: 191 (read in place at phase3-staging/grade-10/gov/cuba/historia-de-america/student/full-year.pdf, 7,200,454 bytes — matches record size_bytes; title page verified)
+- Verdict: COMPLETE
+- Tally: 18 placements — 11 to existing lessons, 7 NEW LESSON NEEDED
+- Cuba's own way: A whole book for the Americas, justified by Martí's "Nuestra América" (1891) quoted in the preface: peopling and high cultures, Iberian/English/French colonisation, independences (with Haiti as Latin America's first), the two Americas' divergent 19th century (Latin-Americanism vs pan-Americanism), and a 20th century cut into 1898–1939 / 1939–1959 / 1959–1998 / 1998–2008 stages. Every chapter closes with independent-study activities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 1.1 The peopling of America — story beats: hunters cross the Bering land bridge into an empty continent; millennia later their descendants fill two Americas (History expansion, 2026-11-15; original placement slug: ancient-world/peopling-of-the-americas) | Cuba, *Historia de América — Décimo grado (record title: Temas de Historia de América)*, printed p. 3 |
+
+Cuba's own way (Book 12 — g10-america (student book, Spanish)): A whole book for the Americas, justified by Martí's "Nuestra América" (1891) quoted in the preface: peopling and high cultures, Iberian/English/French colonisation, independences (with Haiti as Latin America's first), the two Americas' divergent 19th century (Latin-Americanism vs pan-Americanism), and a 20th century cut into 1898–1939 / 1939–1959 / 1959–1998 / 1998–2008 stages. Every chapter closes with independent-study activities. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Yemen, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, ancient-world/north-americas-first-peoples-bering-to-the-tribes

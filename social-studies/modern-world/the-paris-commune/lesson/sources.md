@@ -1,6 +1,6 @@
 # Sources — The Paris Commune
 
-countries: Uzbekistan, Laos
+countries: Uzbekistan, Laos, Cuba
 
 **Book 6 — Vsemirnaya istoriya / World History, Grade 9 (student book, Russian)**
 - Title as printed: Всемирная история 9 (Vsemirnaya istoriya — World History), textbook for Grade 9 of the general secondary school, recommended by the Ministry of Public Education of the Republic of Uzbekistan; authors Moyli Fozilovich Lafasov, Usmon Jo'rayev, Eshqobil Xoliqov, Dilorom Qodirova (Russian edition, translated by Z. A. Mirzakhakimova from the Uzbek original Jahon tarixi)
@@ -59,3 +59,36 @@ Laos's own way (Book 13 — LA-G11-S (student book, Lao)): same course as the te
 **Acceptance count: taught in 2 countries (Uzbekistan, Laos).**
 
 Searchable tags: Laos, History expansion 2026-11-15, modern-world/the-paris-commune
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 8 — g8-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Moderno al Contemporáneo — octavo grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4847-0 (print) / 978-959-13-4848-7 (digital)
+- PDF pages: 495 (title page verified against the record title; authors Dávila Valdés et al.)
+- Verdict: COMPLETE
+- Tally: 45 placements — 22 to existing lessons, 23 NEW LESSON NEEDED
+- Cuba's own way: Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world.
+
+**Book 9 — g8-orient (teacher guide, Spanish)**
+- Title as printed: Orientaciones Metodológicas — Historia del Mundo Moderno al Contemporáneo, octavo grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4853-1 (print) / 978-959-13-4854-8 (digital)
+- PDF pages: 228 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED
+- Cuba's own way: Combines discipline characterisation, grade objectives and a thematic plan with per-unit methodological orientations for the Grade 8 student book's five parts / nine units — the teacher's map of the same modern-world arc.
+This book is a teacher guide. The Cuba rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 2.4 The Paris Commune: proclamation of the proletarian state, Louise Michel, historical significance — story beats: Paris workers hold their city for 72 days as the first workers' government; the Commune drowns in blood in the Bloody Week, with Louise Michel among its heroines (History expansion, 2026-11-15; original placement slug: modern-world/the-paris-commune-1871) | Cuba, *Historia del Mundo Moderno al Contemporáneo — octavo grado*, printed p. 112 |
+| Cuba part — Unit orientations, Part III (Unit 4: rise of imperialism and peoples' struggles) — story beats: the imperialism unit is taught through resistance — China, Africa and Latin America answer the partition (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/the-paris-commune-1871) | Cuba, *Orientaciones Metodológicas — Historia del Mundo Moderno al Contemporáneo, octavo grado* (teacher guide — evidence), printed p. 109 |
+
+Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 9 — g8-orient (teacher guide, Spanish)): Combines discipline characterisation, grade objectives and a thematic plan with per-unit methodological orientations for the Grade 8 student book's five parts / nine units — the teacher's map of the same modern-world arc. That way is stocked here as the way Cuba teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Uzbekistan, Laos, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, modern-world/the-paris-commune

@@ -401,3 +401,25 @@ Uzbekistan's own way (Book 3 — Istoriya Uzbekistana / History of Uzbekistan, G
 **Acceptance count: taught in 15 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan).**
 
 Searchable tags: Uzbekistan, History expansion 2026-11-15, first-steps/historiography-the-history-of-history-writing
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 4 — g5-orient (teacher guide, Spanish)**
+- Title as printed: Orientaciones Metodológicas — Historia de Cuba, quinto grado
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4691-9 (print) / 978-959-13-4692-6 (digital)
+- PDF pages: 180 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: Teacher guidance organised by the textbook's units, preceded by distinctive method chapters: guiding ideas (ideas rectoras), discipline skills, how to run the history lesson, how to teach local history, and how to bring Martí's and Fidel's thought into the class.
+This book is a teacher guide. The Cuba rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — Skills of the discipline: causal, spatial and temporal relations, work with documents, timelines and the textbook — story beats: pupils learn to ask why a fact happened, where, and what came before and after — the historian's three questions made into school skills (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Cuba, *Orientaciones Metodológicas — Historia de Cuba, quinto grado* (teacher guide — evidence), printed p. 9 |
+
+Cuba's own way (Book 4 — g5-orient (teacher guide, Spanish)): Teacher guidance organised by the textbook's units, preceded by distinctive method chapters: guiding ideas (ideas rectoras), discipline skills, how to run the history lesson, how to teach local history, and how to bring Martí's and Fidel's thought into the class. That way is stocked here as the way Cuba teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan) — unchanged; the Cuba placement(s) above are teacher-guide evidence only, counted nowhere. Cuba is not added to this lesson's countries line or acceptance count.**
+
+Searchable tags: Cuba, History expansion 2026-11-15, first-steps/historiography-the-history-of-history-writing

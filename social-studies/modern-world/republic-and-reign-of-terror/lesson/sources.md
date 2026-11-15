@@ -1,6 +1,6 @@
 # Sources — Republic and Reign of Terror
 
-countries: Ethiopia, Mauritania, South Sudan, Iraq, Mozambique, Uzbekistan, North Macedonia
+countries: Ethiopia, Mauritania, South Sudan, Iraq, Mozambique, Uzbekistan, North Macedonia, Cuba
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -216,3 +216,24 @@ Laos's own way (Book 2 — LA-G7-T (teacher guide, Lao)): world history is told 
 **Acceptance count: taught in 7 countries (Ethiopia, Mauritania, South Sudan, Iraq, Mozambique, Uzbekistan, North Macedonia) — unchanged; the Laos placement(s) above are teacher-guide evidence only, counted nowhere. Laos is not added to this lesson's countries line or acceptance count.**
 
 Searchable tags: Laos, History expansion 2026-11-15, modern-world/republic-and-reign-of-terror
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 8 — g8-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Moderno al Contemporáneo — octavo grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4847-0 (print) / 978-959-13-4848-7 (digital)
+- PDF pages: 495 (title page verified against the record title; authors Dávila Valdés et al.)
+- Verdict: COMPLETE
+- Tally: 45 placements — 22 to existing lessons, 23 NEW LESSON NEEDED
+- Cuba's own way: Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 1.2 Declaration of the Rights of Man; Jacobin period, Robespierre, maximum radicalisation 1793–94 — story beats: rights are proclaimed for all men, then the Republic devours its enemies and its own children under Robespierre until Thermidor (History expansion, 2026-11-15; original placement slug: modern-world/republic-and-reign-of-terror) | Cuba, *Historia del Mundo Moderno al Contemporáneo — octavo grado*, printed p. 44 |
+
+Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Mauritania, South Sudan, Iraq, Mozambique, Uzbekistan, North Macedonia, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, modern-world/republic-and-reign-of-terror

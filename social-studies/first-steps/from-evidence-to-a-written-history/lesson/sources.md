@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1574,3 +1574,35 @@ Afghanistan's own way (Book 4 — History G7 (student book, Dari)): secondary hi
 **Acceptance count: taught in 36 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan).**
 
 Searchable tags: Afghanistan, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 1 — g5-student (student book, Spanish)**
+- Title as printed: Historia de Cuba — Quinto grado
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2011 (2nd ed., ©1990); ISBN 978-959-13-0343-1
+- PDF pages: 171 (cover/title page verified against the record title; authors Albelo Ginnart, Valdés López, Gallo González, Molina Martínez)
+- Verdict: COMPLETE
+- Tally: 41 placements — 5 to existing lessons, 36 NEW LESSON NEEDED
+- Cuba's own way: Cuba's national story alone, told chronologically from first inhabitants to 1898, every chapter closing with "Comprueba lo que has aprendido" checks and dates to memorise; local history (monuments, street names in your own town) is taught as part of national history from the first chapter.
+
+**Book 2 — g5-workbook (workbook, Spanish)**
+- Title as printed: Cuaderno de actividades — Historia de Cuba, Quinto grado
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2005; ISBN no ISBN printed
+- PDF pages: 95 (cover/title page verified against the record title; authors Quintana Pérez et al.)
+- Verdict: COMPLETE
+- Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED
+- Cuba's own way: Workbook exactly mirrors the textbook's 8 chapters; each set mixes matching, timeline and map work, comparison tables, local-history investigation in the pupil's own municipality, and short fragments of historical documents to read and underline.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — Sources of historical knowledge: museum objects, documents, buildings, coins — story beats: a hero's weapon in a museum seems to speak; objects left by aborigines and fighters tell how they lived and thought (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Cuba, *Historia de Cuba — Quinto grado*, printed p. 10 |
+| Cuba part — Introductory activities: sorting true/false historical sources — story beats: heroes' objects, old buildings and coins count as sources; a brand-new building and a modern map of Africa do not (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Cuba, *Cuaderno de actividades — Historia de Cuba, Quinto grado*, printed p. 1 |
+
+Cuba's own way (Book 1 — g5-student (student book, Spanish)): Cuba's national story alone, told chronologically from first inhabitants to 1898, every chapter closing with "Comprueba lo que has aprendido" checks and dates to memorise; local history (monuments, street names in your own town) is taught as part of national history from the first chapter. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 2 — g5-workbook (workbook, Spanish)): Workbook exactly mirrors the textbook's 8 chapters; each set mixes matching, timeline and map work, comparison tables, local-history investigation in the pupil's own municipality, and short fragments of historical documents to read and underline. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 37 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history

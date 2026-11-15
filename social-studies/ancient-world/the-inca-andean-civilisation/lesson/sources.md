@@ -1,6 +1,6 @@
 # Sources — The Inca — the Andean civilisation
 
-countries: Costa Rica, Egypt, Bolivia, Yemen, Jordan, Afghanistan
+countries: Costa Rica, Egypt, Bolivia, Yemen, Jordan, Afghanistan, Cuba
 
 **Book (Costa Rica cr-coned-7):** Title as printed: Antología CONED — Estudios Sociales, Código 80005, Nivel Sétimo año Grade: Grade 7 (student/teacher: STUDENT). Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017; no ISBN printed PDF pages: 166 (cover verified against the record title; byte size 4,348,033 and page count match the record). Verdict: COMPLETE Tally: 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED Costa Rica's own way: The CONED distance-education anthologies compile source readings around a guiding question per theme, fusing History with Geography in one Estudios Sociales course: the ancient world is read as "the human footprint on geographic space", and Costa Rica's own past enters through its indigenous peoples before any national narrative. Non-History parts (named, not placed): Unidad II Tema II La huella ecológica (ecological footprint, printed pp. 94–105 — Geography); Unidad III El espacio geográfico transformado: ecosistemas terrestres y producción alimentaria (printed pp. 106–165 — Geography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -112,3 +112,35 @@ Afghanistan's own way (Book 5 — History G8 (student book, Dari)): Grade 8 is t
 **Acceptance count: taught in 6 countries (Costa Rica, Egypt, Bolivia, Yemen, Jordan, Afghanistan).**
 
 Searchable tags: Afghanistan, History expansion 2026-11-15, ancient-world/the-inca-andean-civilisation
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 7 — g7-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Antiguo al Medieval
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3988-1 (print) / 978-959-13-4328-4 (digital)
+- PDF pages: 401 (cover/title page verified; authors Dávila Valdés et al.)
+- Verdict: COMPLETE — NOTE on route: the GitHub release grab (full-quality-oversized-books) truncated twice (17 MB, then 118 MB incomplete, no trailer); the tree route for the books.json path returned 404. The complete file was read from the record's own recorded source (Biblioteca CubaEduca original PDF, 147,977,585 bytes, 401 pp) and its title/ISBN verified against the record. Library debt: the books.json tree path grade-07/gov/cuba/historia/student/full-year.pdf does not exist in the repo tree (404) — the book lives only as a release asset.
+- Tally: 42 placements — 25 to existing lessons, 17 NEW LESSON NEEDED
+- Cuba's own way: World history taught through a Marxist stage frame — community society → class societies (village-exploiting, slave, feudal) → genesis of capitalism — with Egypt as the "typical model", a whole part on the unequal medieval development of Asia, Africa and America, and a glossary + bibliography closing the book.
+
+**Book 12 — g10-america (student book, Spanish)**
+- Title as printed: Historia de América — Décimo grado (record title: Temas de Historia de América)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2016 (1st reprint, ©2010); ISBN 978-959-13-2119-0
+- PDF pages: 191 (read in place at phase3-staging/grade-10/gov/cuba/historia-de-america/student/full-year.pdf, 7,200,454 bytes — matches record size_bytes; title page verified)
+- Verdict: COMPLETE
+- Tally: 18 placements — 11 to existing lessons, 7 NEW LESSON NEEDED
+- Cuba's own way: A whole book for the Americas, justified by Martí's "Nuestra América" (1891) quoted in the preface: peopling and high cultures, Iberian/English/French colonisation, independences (with Haiti as Latin America's first), the two Americas' divergent 19th century (Latin-Americanism vs pan-Americanism), and a 20th century cut into 1898–1939 / 1939–1959 / 1959–1998 / 1998–2008 stages. Every chapter closes with independent-study activities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 5.8 The Inca civilisation — story beats: an empire without money or writing runs roads, storehouses and millions of subjects from Cuzco (History expansion, 2026-11-15; original placement slug: ancient-world/the-inca-civilisation) | Cuba, *Historia del Mundo Antiguo al Medieval*, printed p. 297 |
+| Cuba part — 1.3 The American high cultures (Inca) — story beats: Cuzco's empire stretches 4,000 km along the Andes, run by roads, storehouses and knotted cords (History expansion, 2026-11-15; original placement slug: ancient-world/the-inca-civilisation) | Cuba, *Historia de América — Décimo grado (record title: Temas de Historia de América)*, printed p. 8 |
+
+Cuba's own way (Book 7 — g7-student (student book, Spanish)): World history taught through a Marxist stage frame — community society → class societies (village-exploiting, slave, feudal) → genesis of capitalism — with Egypt as the "typical model", a whole part on the unequal medieval development of Asia, Africa and America, and a glossary + bibliography closing the book. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 12 — g10-america (student book, Spanish)): A whole book for the Americas, justified by Martí's "Nuestra América" (1891) quoted in the preface: peopling and high cultures, Iberian/English/French colonisation, independences (with Haiti as Latin America's first), the two Americas' divergent 19th century (Latin-Americanism vs pan-Americanism), and a 20th century cut into 1898–1939 / 1939–1959 / 1959–1998 / 1998–2008 stages. Every chapter closes with independent-study activities. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Costa Rica, Egypt, Bolivia, Yemen, Jordan, Afghanistan, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, ancient-world/the-inca-andean-civilisation

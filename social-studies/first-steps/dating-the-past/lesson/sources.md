@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1573,3 +1573,46 @@ Afghanistan's own way (Book 4 — History G7 (student book, Dari)): secondary hi
 **Acceptance count: taught in 39 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan).**
 
 Searchable tags: Afghanistan, History expansion 2026-11-15, first-steps/dating-the-past
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 1 — g5-student (student book, Spanish)**
+- Title as printed: Historia de Cuba — Quinto grado
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2011 (2nd ed., ©1990); ISBN 978-959-13-0343-1
+- PDF pages: 171 (cover/title page verified against the record title; authors Albelo Ginnart, Valdés López, Gallo González, Molina Martínez)
+- Verdict: COMPLETE
+- Tally: 41 placements — 5 to existing lessons, 36 NEW LESSON NEEDED
+- Cuba's own way: Cuba's national story alone, told chronologically from first inhabitants to 1898, every chapter closing with "Comprueba lo que has aprendido" checks and dates to memorise; local history (monuments, street names in your own town) is taught as part of national history from the first chapter.
+
+**Book 2 — g5-workbook (workbook, Spanish)**
+- Title as printed: Cuaderno de actividades — Historia de Cuba, Quinto grado
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2005; ISBN no ISBN printed
+- PDF pages: 95 (cover/title page verified against the record title; authors Quintana Pérez et al.)
+- Verdict: COMPLETE
+- Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED
+- Cuba's own way: Workbook exactly mirrors the textbook's 8 chapters; each set mixes matching, timeline and map work, comparison tables, local-history investigation in the pupil's own municipality, and short fragments of historical documents to read and underline.
+
+**Book 7 — g7-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Antiguo al Medieval
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3988-1 (print) / 978-959-13-4328-4 (digital)
+- PDF pages: 401 (cover/title page verified; authors Dávila Valdés et al.)
+- Verdict: COMPLETE — NOTE on route: the GitHub release grab (full-quality-oversized-books) truncated twice (17 MB, then 118 MB incomplete, no trailer); the tree route for the books.json path returned 404. The complete file was read from the record's own recorded source (Biblioteca CubaEduca original PDF, 147,977,585 bytes, 401 pp) and its title/ISBN verified against the record. Library debt: the books.json tree path grade-07/gov/cuba/historia/student/full-year.pdf does not exist in the repo tree (404) — the book lives only as a release asset.
+- Tally: 42 placements — 25 to existing lessons, 17 NEW LESSON NEEDED
+- Cuba's own way: World history taught through a Marxist stage frame — community society → class societies (village-exploiting, slave, feudal) → genesis of capitalism — with Egypt as the "typical model", a whole part on the unequal medieval development of Asia, Africa and America, and a glossary + bibliography closing the book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — Placing a fact in time and on the map — story beats: a fortress built with hand tools means something different from the same stones raised by cranes today; knowing before/after and where makes the fact understandable (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Cuba, *Historia de Cuba — Quinto grado*, printed p. 10 |
+| Cuba part — Introductory activities: Roman numerals, centuries, decades, ordering facts and building a timeline graph — story beats: a pupil must place Columbus, Martí's birth and the Ten Years' War in the right centuries before the story can start (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Cuba, *Cuaderno de actividades — Historia de Cuba, Quinto grado*, printed p. 1 |
+| Cuba part — I.2 Humanity's development in time and space — story beats: before any story, pupils learn to locate peoples on the timeline and the map at once (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Cuba, *Historia del Mundo Antiguo al Medieval*, printed p. 7 |
+
+Cuba's own way (Book 1 — g5-student (student book, Spanish)): Cuba's national story alone, told chronologically from first inhabitants to 1898, every chapter closing with "Comprueba lo que has aprendido" checks and dates to memorise; local history (monuments, street names in your own town) is taught as part of national history from the first chapter. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 2 — g5-workbook (workbook, Spanish)): Workbook exactly mirrors the textbook's 8 chapters; each set mixes matching, timeline and map work, comparison tables, local-history investigation in the pupil's own municipality, and short fragments of historical documents to read and underline. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 7 — g7-student (student book, Spanish)): World history taught through a Marxist stage frame — community society → class societies (village-exploiting, slave, feudal) → genesis of capitalism — with Egypt as the "typical model", a whole part on the unequal medieval development of Asia, Africa and America, and a glossary + bibliography closing the book. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 40 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, first-steps/dating-the-past

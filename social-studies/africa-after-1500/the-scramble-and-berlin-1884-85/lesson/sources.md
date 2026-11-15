@@ -1,6 +1,6 @@
 # Sources — The Scramble and Berlin 1884–85 — a continent partitioned on paper
 
-countries: Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique, North Macedonia
+countries: Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique, North Macedonia, Cuba
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -260,3 +260,24 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 7 countries (Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, africa-after-1500/the-scramble-and-berlin-1884-85
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 8 — g8-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Moderno al Contemporáneo — octavo grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4847-0 (print) / 978-959-13-4848-7 (digital)
+- PDF pages: 495 (title page verified against the record title; authors Dávila Valdés et al.)
+- Verdict: COMPLETE
+- Tally: 45 placements — 22 to existing lessons, 23 NEW LESSON NEEDED
+- Cuba's own way: Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 4.3 Territorial partition of Asia and Africa; China under imperialist exploitation and its liberation movement; African peoples' resistance — story beats: at Berlin the powers draw Africa's borders with rulers; China is carved into spheres while its people begin to resist (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-scramble-and-berlin-1884-85) | Cuba, *Historia del Mundo Moderno al Contemporáneo — octavo grado*, printed p. 215 |
+
+Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique, North Macedonia, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, africa-after-1500/the-scramble-and-berlin-1884-85

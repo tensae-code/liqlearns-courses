@@ -1,0 +1,7 @@
+# Video script — Cuba Women In The Revolutionary War
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Story-style: the story told as Cuba's own books tell it. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Women carry messages and arms, nurse, teach in liberated zones and fight in the Mariana Grajales platoon.

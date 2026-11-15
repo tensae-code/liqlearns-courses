@@ -1,0 +1,21 @@
+# The World At The Turn Of The 21st Century
+
+## Do it first
+
+Before you read on, hold this lesson's one thing in mind: globalisation, unipolar power and its challengers: the book hands pupils the present as history's latest chapter As you read, keep asking where each part of that sentence is proved.
+
+## Sub lesson 1 — 9.1–9.2 Panorama of the world at the end of the 20th and start of the 21st c.; generalities of the Contemporary World
+
+globalisation, unipolar power and its challengers: the book hands pupils the present as history's latest chapter
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Say it to your companion
+
+Tell your companion the story as its beats, in order: 9.1–9.2 Panorama of the world at the end of the 20th and start of the 21st c.; generalities of the Contemporary World — globalisation, unipolar power and its challengers: the book hands pupils the present as history's latest chapter. Then let your companion ask you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. Globalisation, unipolar power and its challengers: the book hands pupils the present as history's latest chapter.
+2. Write, from memory, the lesson's key names and places in the order they happened.
+3. Say what Cuba's own way of teaching this story is, from the books in lesson/sources.md.

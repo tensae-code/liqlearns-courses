@@ -1,6 +1,6 @@
 # Sources — The end of 'real socialism' and the Cold War
 
-countries: Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa, Laos, Afghanistan
+countries: Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa, Laos, Afghanistan, Cuba
 
 **Book (Costa Rica cr-coned-10):** Title as printed: Antología CONED — Estudios Sociales, Código 80023, Nivel Décimo año Grade: Grade 10 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017 file; no ISBN printed PDF pages: 255 (cover verified against the record title; byte size 11,879,619 and page count match the record. Route note: the books.json tree path returned HTTP 404, so the book was grabbed via its TSV release asset in mid-size-books-5, matched exactly) Verdict: COMPLETE Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED Costa Rica's own way: The Décimo anthology is world history with a geopolitical lens — imperialism, the two world wars, the Russian revolution, the Depression, the bipolar Cold War world and today's multipolar tensions — read from Costa Rica outward to Latin America and the globe. Non-History parts (named, not placed): Unidad 3 Dinámica poblacional y movilización espacial (population dynamics in the 20th–21st centuries, Costa Rican population change, internal and international mobility, printed pp. 198–254 — Geography/demography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -212,3 +212,47 @@ Afghanistan's own way (Book 9 — History G12 (student book, Dari)): the final y
 **Acceptance count: taught in 10 countries (Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa, Laos, Afghanistan).**
 
 Searchable tags: Afghanistan, History expansion 2026-11-15, modern-world/end-of-real-socialism-and-the-cold-war
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 8 — g8-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Moderno al Contemporáneo — octavo grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4847-0 (print) / 978-959-13-4848-7 (digital)
+- PDF pages: 495 (title page verified against the record title; authors Dávila Valdés et al.)
+- Verdict: COMPLETE
+- Tally: 45 placements — 22 to existing lessons, 23 NEW LESSON NEEDED
+- Cuba's own way: Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world.
+
+**Book 9 — g8-orient (teacher guide, Spanish)**
+- Title as printed: Orientaciones Metodológicas — Historia del Mundo Moderno al Contemporáneo, octavo grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4853-1 (print) / 978-959-13-4854-8 (digital)
+- PDF pages: 228 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED
+- Cuba's own way: Combines discipline characterisation, grade objectives and a thematic plan with per-unit methodological orientations for the Grade 8 student book's five parts / nine units — the teacher's map of the same modern-world arc.
+This book is a teacher guide. The Cuba rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 12 — g10-america (student book, Spanish)**
+- Title as printed: Historia de América — Décimo grado (record title: Temas de Historia de América)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2016 (1st reprint, ©2010); ISBN 978-959-13-2119-0
+- PDF pages: 191 (read in place at phase3-staging/grade-10/gov/cuba/historia-de-america/student/full-year.pdf, 7,200,454 bytes — matches record size_bytes; title page verified)
+- Verdict: COMPLETE
+- Tally: 18 placements — 11 to existing lessons, 7 NEW LESSON NEEDED
+- Cuba's own way: A whole book for the Americas, justified by Martí's "Nuestra América" (1891) quoted in the preface: peopling and high cultures, Iberian/English/French colonisation, independences (with Haiti as Latin America's first), the two Americas' divergent 19th century (Latin-Americanism vs pan-Americanism), and a 20th century cut into 1898–1939 / 1939–1959 / 1959–1998 / 1998–2008 stages. Every chapter closes with independent-study activities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 8.8 Definitive prelude of the unipolar world: crisis and fall of the socialist experience in eastern Europe and the USSR — story beats: in 1989–91 the socialist camp collapses without a war; one superpower remains and the contemporary world pupils live in begins (History expansion, 2026-11-15; original placement slug: modern-world/fall-of-ussr-and-unipolar-world) | Cuba, *Historia del Mundo Moderno al Contemporáneo — octavo grado*, printed p. 434 |
+| Cuba part — Unit orientations, Parts IV–V (Units 5–9: world wars, socialism, post-1945 world, world since 1991) — story beats: guidance carries teachers from 1914 to the unipolar present, ending with evaluation suggestions for the whole arc (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/fall-of-ussr-and-unipolar-world) | Cuba, *Orientaciones Metodológicas — Historia del Mundo Moderno al Contemporáneo, octavo grado* (teacher guide — evidence), printed p. 127 |
+| Cuba part — 5.3–5.4 Stage III 1959–1998 and Latin America in an epoch of change (1998–2008) — story beats: revolution, counter-revolution, neoliberalism and then the turn: new governments after 1998 reopen the integration question Martí posed (History expansion, 2026-11-15; original placement slug: modern-world/fall-of-ussr-and-unipolar-world) | Cuba, *Historia de América — Décimo grado (record title: Temas de Historia de América)*, printed p. 126 |
+
+Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 9 — g8-orient (teacher guide, Spanish)): Combines discipline characterisation, grade objectives and a thematic plan with per-unit methodological orientations for the Grade 8 student book's five parts / nine units — the teacher's map of the same modern-world arc. That way is stocked here as the way Cuba teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 12 — g10-america (student book, Spanish)): A whole book for the Americas, justified by Martí's "Nuestra América" (1891) quoted in the preface: peopling and high cultures, Iberian/English/French colonisation, independences (with Haiti as Latin America's first), the two Americas' divergent 19th century (Latin-Americanism vs pan-Americanism), and a 20th century cut into 1898–1939 / 1939–1959 / 1959–1998 / 1998–2008 stages. Every chapter closes with independent-study activities. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa, Laos, Afghanistan, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, modern-world/end-of-real-socialism-and-the-cold-war

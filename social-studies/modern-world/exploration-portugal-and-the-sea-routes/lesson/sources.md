@@ -1,6 +1,6 @@
 # Sources — Exploration — Portugal and the sea routes to India
 
-countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia
+countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -375,3 +375,35 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 16 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, modern-world/exploration-portugal-and-the-sea-routes
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 7 — g7-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Antiguo al Medieval
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3988-1 (print) / 978-959-13-4328-4 (digital)
+- PDF pages: 401 (cover/title page verified; authors Dávila Valdés et al.)
+- Verdict: COMPLETE — NOTE on route: the GitHub release grab (full-quality-oversized-books) truncated twice (17 MB, then 118 MB incomplete, no trailer); the tree route for the books.json path returned 404. The complete file was read from the record's own recorded source (Biblioteca CubaEduca original PDF, 147,977,585 bytes, 401 pp) and its title/ISBN verified against the record. Library debt: the books.json tree path grade-07/gov/cuba/historia/student/full-year.pdf does not exist in the repo tree (404) — the book lives only as a release asset.
+- Tally: 42 placements — 25 to existing lessons, 17 NEW LESSON NEEDED
+- Cuba's own way: World history taught through a Marxist stage frame — community society → class societies (village-exploiting, slave, feudal) → genesis of capitalism — with Egypt as the "typical model", a whole part on the unequal medieval development of Asia, Africa and America, and a glossary + bibliography closing the book.
+
+**Book 12 — g10-america (student book, Spanish)**
+- Title as printed: Historia de América — Décimo grado (record title: Temas de Historia de América)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación; year 2016 (1st reprint, ©2010); ISBN 978-959-13-2119-0
+- PDF pages: 191 (read in place at phase3-staging/grade-10/gov/cuba/historia-de-america/student/full-year.pdf, 7,200,454 bytes — matches record size_bytes; title page verified)
+- Verdict: COMPLETE
+- Tally: 18 placements — 11 to existing lessons, 7 NEW LESSON NEEDED
+- Cuba's own way: A whole book for the Americas, justified by Martí's "Nuestra América" (1891) quoted in the preface: peopling and high cultures, Iberian/English/French colonisation, independences (with Haiti as Latin America's first), the two Americas' divergent 19th century (Latin-Americanism vs pan-Americanism), and a 20th century cut into 1898–1939 / 1939–1959 / 1959–1998 / 1998–2008 stages. Every chapter closes with independent-study activities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 6.4 European voyages of exploration and the rise of capitalism — story beats: the search for spices and gold sends caravels round Africa and across the Atlantic; plunder becomes capital (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Cuba, *Historia del Mundo Antiguo al Medieval*, printed p. 344 |
+| Cuba part — 2.1 Europe on the eve of the voyages of "discovery" and conquest — story beats: a Europe hungry for spices, gold and routes arms the caravels; the book puts "discovery" in quotation marks from its first page (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Cuba, *Historia de América — Décimo grado (record title: Temas de Historia de América)*, printed p. 28 |
+
+Cuba's own way (Book 7 — g7-student (student book, Spanish)): World history taught through a Marxist stage frame — community society → class societies (village-exploiting, slave, feudal) → genesis of capitalism — with Egypt as the "typical model", a whole part on the unequal medieval development of Asia, Africa and America, and a glossary + bibliography closing the book. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Cuba's own way (Book 12 — g10-america (student book, Spanish)): A whole book for the Americas, justified by Martí's "Nuestra América" (1891) quoted in the preface: peopling and high cultures, Iberian/English/French colonisation, independences (with Haiti as Latin America's first), the two Americas' divergent 19th century (Latin-Americanism vs pan-Americanism), and a 20th century cut into 1898–1939 / 1939–1959 / 1959–1998 / 1998–2008 stages. Every chapter closes with independent-study activities. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, modern-world/exploration-portugal-and-the-sea-routes

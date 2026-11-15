@@ -595,3 +595,25 @@ Afghanistan's own way (Book 8 — History G11 (student book, Dari)): Grade 11 re
 **Acceptance count: taught in 23 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan).**
 
 Searchable tags: Afghanistan, History expansion 2026-11-15, modern-world/the-industrial-revolution-what-changed-and-why-england-first
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 9 — g8-orient (teacher guide, Spanish)**
+- Title as printed: Orientaciones Metodológicas — Historia del Mundo Moderno al Contemporáneo, octavo grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4853-1 (print) / 978-959-13-4854-8 (digital)
+- PDF pages: 228 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED
+- Cuba's own way: Combines discipline characterisation, grade objectives and a thematic plan with per-unit methodological orientations for the Grade 8 student book's five parts / nine units — the teacher's map of the same modern-world arc.
+This book is a teacher guide. The Cuba rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — Unit orientations, Part II (Units 2–3: industrial capitalism, workers' movement, Asia/Africa/America to the 1870s) — story beats: teachers link the factory, the Manifesto and Latin American independence as one century's three faces (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | Cuba, *Orientaciones Metodológicas — Historia del Mundo Moderno al Contemporáneo, octavo grado* (teacher guide — evidence), printed p. 59 |
+
+Cuba's own way (Book 9 — g8-orient (teacher guide, Spanish)): Combines discipline characterisation, grade objectives and a thematic plan with per-unit methodological orientations for the Grade 8 student book's five parts / nine units — the teacher's map of the same modern-world arc. That way is stocked here as the way Cuba teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 23 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan) — unchanged; the Cuba placement(s) above are teacher-guide evidence only, counted nowhere. Cuba is not added to this lesson's countries line or acceptance count.**
+
+Searchable tags: Cuba, History expansion 2026-11-15, modern-world/the-industrial-revolution-what-changed-and-why-england-first

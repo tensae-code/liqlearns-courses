@@ -1,6 +1,6 @@
 # Sources — USSR 1918 1945
 
-countries: Laos
+countries: Laos, Cuba
 
 **Book 7 — LA-G8-T (teacher guide, Lao)**
 - Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 3 (Teacher's Guide, History, Secondary Year 3)
@@ -36,3 +36,24 @@ Laos's own way (Book 10 — LA-G8-S (student book, Lao)): same course as the tea
 **Acceptance count: taught in 1 country (Laos).**
 
 Searchable tags: Laos, USSR 1918 1945, modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Cuba stocked
+
+**Book 8 — g8-student (student book, Spanish)**
+- Title as printed: Historia del Mundo Moderno al Contemporáneo — octavo grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Editorial Pueblo y Educación (MINED); year 2024; ISBN 978-959-13-4847-0 (print) / 978-959-13-4848-7 (digital)
+- PDF pages: 495 (title page verified against the record title; authors Dávila Valdés et al.)
+- Verdict: COMPLETE
+- Tally: 45 placements — 22 to existing lessons, 23 NEW LESSON NEEDED
+- Cuba's own way: Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba part — 5.4–5.6 Imperialist intervention and Civil War 1918–20; formation of the USSR; building socialism to 1924; Stalinist period to 1939; women in the October Revolution — story beats: fourteen armies invade the new state and fail; the USSR is founded, industrialises at forced pace, and women enter public life en masse (History expansion, 2026-11-15; original placement slug: modern-world/russian-civil-war-ussr-and-stalinist-period) | Cuba, *Historia del Mundo Moderno al Contemporáneo — octavo grado*, printed p. 271 |
+
+Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contemporary world history told from Latin America outward: bourgeois revolutions, industrial capitalism and the workers' movement (through Marx, the Paris Commune), Latin American independence given a full chapter, imperialism and both world wars, then a post-1945 world read through Latin American struggles (Cuba, Che in Bolivia, Allende, Sandinistas) to the fall of the USSR and the unipolar world. That way is stocked here as the way Cuba teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Laos, Cuba).**
+
+Searchable tags: Cuba, History expansion 2026-11-15, modern-world/ussr-1918-1945
