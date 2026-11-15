@@ -1,6 +1,6 @@
 # Sources — Growth is not development — the HDI
 
-countries: Ethiopia, Argentina, Brazil, France, Barbados, Haiti, Costa Rica, Mongolia, Indonesia, Dominican Republic
+countries: Ethiopia, Argentina, Brazil, France, Barbados, Haiti, Costa Rica, Mongolia, Indonesia, Dominican Republic, Samoa
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Argentina, Brazil, France, Barbados, Haiti, Costa Rica, Mon
 
 **Book 12:** *Ciencias Sociales — Sexto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Dirección Editorial Educativa, República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-78-8 (printed in the book). Title as printed: Ciencias Sociales — Sexto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición). Grade 12 (student). 240 PDF pp. (cover verified against the record title; byte size 33,295,521 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 1 Ocupación estadounidense, printed p. 10; Unidad 2 La dictadura de Trujillo, p. 28; Unidad 3 Luchas democráticas y revolucionarias 1961–1965, p. 43; Unidad 4 Fase neo-autoritaria 1966–1978, p. 64; Unidad 5 Transición al actual orden democrático 1978–1996, p. 82; Unidad 6 La discursiva sobre la condición dominicana, p. 100; Unidad 7 Evolución constitucional, p. 118; Unidad 12 Democracia, deberes, derechos y participación (Civics), p. 208). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 13:** *Social Studies — Year 9, Book 3* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-029-8. Title as printed: Social Studies — Year 9, Book 3. Year 9 (student/teacher: STUDENT). PDF pages: 74 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Growth versus development | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 125 |
@@ -34,6 +36,7 @@ countries: Ethiopia, Argentina, Brazil, France, Barbados, Haiti, Costa Rica, Mon
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 5, guide printed pp. 136–157 |
 | Quality of life taught with statistics and graphs — Argentina's way (teacher guide — evidence) | Argentina, *Cuadernos para el aula: Ciencias Sociales 6* (teacher guide), Eje 1 proposal: El uso de estadísticas y gráficos para la enseñanza de la calidad de vida de la población argentina / Using statistics and graphs to teach the quality of life of the Argentine population — printed p. 37 |
 | Brazil part — Folha 12: Dinheiro traz felicidade? / Does money bring happiness? (wealth and development) | Brazil, *Geografia, Livro Didático Público, Ensino Médio*, Grade 10, Folha 12: Dinheiro traz felicidade? / Does money bring happiness? (wealth and development), printed p. 186 |
+| Samoa part (Year 9, Book 3) — Unit 3 Topic 2 What Is Development and Change? (GNI, literacy, infant mortality indicators) | Samoa, *Social Studies, Year 9, Book 3*, Unit 3 Topic 2 What Is Development and Change? (GNI, literacy, infant mortality indicators) — printed p. 46 |
 
 | France part — Thème 2: Développement et inégalités (études: Brésil, Russie, États-Unis; simulation d'un G7; le PNUD et la mesure du développement) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 2 |
 | Barbados part — economic development; the importance of economic activity in the Caribbean; challenges to the economies of the Caribbean (case studies Jamaica, Trinidad and Tobago, Singapore) | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 11: economic development; the importance of economic activity in the Caribbean; challenges to the economies of the Caribbean (case studies Jamaica, Trinidad and Tobago, Singapore) — printed p. 246 |
@@ -44,7 +47,7 @@ countries: Ethiopia, Argentina, Brazil, France, Barbados, Haiti, Costa Rica, Mon
 | Indonesia part (Grade 12) — Bab 2 A Indikator pembangunan (incl. HDI-type measures) | Indonesia, *Geografi untuk SMA/MA Kelas XII*, Grade 12, Bab 2 A Indikator pembangunan (incl. HDI-type measures) — printed p. 97 |
 | Dominican Republic part (Grade 12) — The uneven advance of per-capita income | Dominican Republic, *Ciencias Sociales, Sexto Grado, Secundaria (Libro Abierto)*, Grade 12, The uneven advance of per-capita income — printed p. 154 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Brazil, France, Barbados, Costa Rica, Mongolia, Indonesia, Dominican Republic). Argentina is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Brazil, France, Barbados, Costa Rica, Mongolia, Indonesia, Dominican Republic, Samoa). Argentina is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -63,3 +66,5 @@ Costa Rica's own way: the CONED 11 anthology opens with a Geography unit on glob
 Searchable tags: growth versus development, HDI, human development index, ethiopia, argentina, quality of life, statistics and graphs, teacher guide evidence, social studies, people and resources, Haiti, Inégale répartition des richesses, teacher sequence evidence, Costa Rica, CONED Antología, Estudios Sociales, Mongolia, Нийгэм судлал
 
 Dominican Republic's own way (Grade 12): The final secondary year turns from national history to the country's present-day human geography, studied region by region: 150 years of population growth, accelerated urbanisation, the economy's branches and foreign trade, and the spatial distribution of the population across Cibao, Este and Suroeste, closing on migration and Santo Domingo as a fragmented metropolis.
+
+Samoa's own way (Year 9, Book 3): Culture and development are taught comparatively — Samoan cultural treasures and symbols first, then development measured and lived through India and Samoa side by side, with map-profile work on both countries.

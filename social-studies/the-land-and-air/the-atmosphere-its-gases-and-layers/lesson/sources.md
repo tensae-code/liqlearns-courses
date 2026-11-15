@@ -1,6 +1,6 @@
 # Sources — The Atmosphere — Its Gases and Layers
 
-countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic
+countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic
 
 **Book 6:** *Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Unidad Editorial, República Dominicana; Libro Abierto Serie 1; ISBN 978-9945-646-00-9 (printed in the book). Title as printed: Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1). Grade 3 (student). 128 PDF pp. (cover verified against the record title; byte size 73,378,327 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 5 Mi país, su identidad y cultura, printed p. 76; Unidad 6 Derechos y deberes para vivir en democracia (Civics), p. 90; Anexo: Constitución Dominicana Infantil, p. 110). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 7:** *Geography — Year 13* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-079-4. Title as printed: Geography — Year 13. Year 13 (student/teacher: STUDENT). PDF pages: 244 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The air blanket's recipe | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic
 | Turkey part — 5A Atmosfer ve Hava Olayları (atmosphere and weather events) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 5A Atmosfer ve Hava Olayları (atmosphere and weather events) — printed p. 105 |
 | Angola part — 2.1 O ar que respiramos: importância e constituição do ar atmosférico (oxygen, carbon dioxide, nitrogen) | Angola, *Geografia 6ª Classe*, Grade 6, 2.1 O ar que respiramos: importância e constituição do ar atmosférico (oxygen, carbon dioxide, nitrogen) — printed p. 24 |
 | Dominican Republic part (Grade 3) — The gases that surround the Earth (group activity) | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, The gases that surround the Earth (group activity) — printed p. 20 |
+| Samoa part (Year 13 Geography) — Part 5 Unit 8 Understanding the Atmosphere | Samoa, *Geography, Year 13*, Part 5 Unit 8 Understanding the Atmosphere — printed p. 178 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Angola, Dominican Republic). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -39,3 +42,5 @@ Searchable tags: the atmosphere   its gases and layers, ethiopia, social studies
 Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
 
 Dominican Republic's own way (Grade 3): For third graders geography is the home island first: the planet and its components, then the Antilles and the relief of their own country, then countryside versus city, and finally where their own families came from — migration and a family census the children run themselves.
+
+Samoa's own way (Year 13 Geography): The final-year course is hazard- and water-centred for an island nation — volcanic eruptions and tropical cyclones (including Cyclone Heta on Niue), the hydrological cycle and water management, then atmosphere and climate change with Pacific consequences.

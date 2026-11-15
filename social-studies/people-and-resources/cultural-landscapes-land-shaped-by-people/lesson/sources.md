@@ -1,6 +1,6 @@
 # Sources — Cultural landscapes — land shaped by people
 
-countries: Ethiopia, Haiti, Angola
+countries: Ethiopia, Haiti, Angola, Samoa
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Haiti, Angola
 
 **Book 5:** *Geografia 6ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-5-8. Title as printed: Geografia | Manual da 6.ª Classe. Grade 6 (student). 96 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
 
+**Book 6:** *Social Studies — Year 9, Book 2* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004 (reprint of 2002); ISBN 982-517-016-6. Title as printed: Social Studies — Year 9, Book 2. Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The meaning | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 146–149 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Haiti, Angola
 | Haiti part — Séance 2 L'étude de paysage (2) (formes et fonctions du paysage, calque sur photographie, comparaison photo aérienne / carte topographique, histoire du paysage) (teacher sequence — evidence) | Haiti, *Faire de la géographie* (teacher sequence), Grade 7, Séance 2 L'étude de paysage (2) (formes et fonctions du paysage, calque sur photographie, comparaison photo aérienne / carte topographique, histoire du paysage) — printed p. 9 |
 | Angola part (Grade 5) — 2.1 A transformação do espaço geográfico | Angola, *Geografia 5ª Classe*, Grade 5, 2.1 A transformação do espaço geográfico — printed p. 24 |
 | Angola part (Grade 6) — 1.2 A evolução do espaço geográfico | Angola, *Geografia 6ª Classe*, Grade 6, 1.2 A evolução do espaço geográfico — printed p. 11 |
+| Samoa part (Year 9, Book 2) — Unit 1 Topic 1 Ordinary Places (natural and cultural features) | Samoa, *Social Studies, Year 9, Book 2*, Unit 1 Topic 1 Ordinary Places (natural and cultural features) — printed p. 6 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Angola). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Samoa). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography begins as a daily practice, not a chapter: pupils draw the landscape around their school, the plan of their quarter and Haiti with their school placed on it, read landscape forms and functions from their own croquis, then trace one everyday object (a coffee cup, a phone) from raw material to shop shelf to see the world from the local. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -30,3 +33,5 @@ Searchable tags: cultural landscape, terraces, konso, rock-hewn, coffee landscap
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
 
 Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
+
+Samoa's own way (Year 9, Book 2): Place is taught through Samoan lived places — ordinary, sacred (tapu), natural and political places such as Mulinu'u — and migration is taught through Samoa's own movement story and its New Zealand diaspora, closing with a full mapping-skills unit.

@@ -2797,3 +2797,93 @@ and Container Ports (G5, PDF p. 28; G6, PDF p. 25) —
 the new lessons taught in 1 country (Bahamas),
 8 questions each.
 Geography lessons: 1026 → 1031.
+
+
+## Samoa — Geography expansion (merged 2026-11-14)
+
+93 placements stocked from Samoa's 10 placed student
+books (Social Studies — Year 9, Books 1–3, 2004;
+Social Studies — Year 10, Books 1–3, 2001–2002;
+Social Studies — Year 11, Books 1–2, 2003–2004;
+Geography — Year 12, 2004; Geography — Year 13,
+2004 — all Ministry of Education, Sports and
+Culture / Department of Education, Samoa, COMPLETE;
+the books' Civics, Sociology, History and study-skills
+parts are named in each book's sources, not placed).
+The Primary Curriculum Statement (Social Studies —
+Years 1–8, 2013) is RECORD-ONLY — a curriculum
+statement, not a textbook — filed not placed.
+Stocked into standing lessons (53 placements) across
+The Land and Air, Population, Transport and Maps,
+People and Resources, Culture and Work, Resources
+and Conflict and Global Issues — including Planning
+a Geography Field Trip, which the Samoa Year 13
+student book now teaches as pupil content (its first
+pupil-taught country; Ethiopia stays teacher-guide
+evidence only). 4 of those placements are remapped
+from their NEW LESSON NEEDED slugs to the closest
+existing lessons covering the same thing, with the
+original slug recorded in each provenance row:
+Ancient Pacific Voyaging and Settlement →
+Voyaging and Settling the Pacific Islands;
+Coconuts — the Pacific Tree of Life → The Coconut
+— Tree of Life; High and Low Islands of the Pacific
+→ High Islands and Low Islands of Micronesia; The
+Hydrological Cycle and Water Distribution → The
+Water Cycle and Cloud Types. 40 NEW lessons built
+(40 placements) — **The Land and Air**: Natural
+Places and Why They Matter (Y9B2, printed p. 28),
+How Low Islands Form — Cays and Motus (Y12,
+printed p. 23), A Classification of Pacific Islands
+(Y12, printed p. 29), Island Climates of the Pacific
+(Y12, printed p. 44), Island Similarities and
+Differences (Y12, printed p. 47), Developing a
+Study of an Environmental Issue (Y12, printed
+p. 122), Marine Environment Field Investigation
+(Y11B1, printed p. 88) and Learning Geography
+Through Fieldwork (Y13, printed p. 211);
+**Population, Transport and Maps**: Samoa — A
+Nation of Migratory People (Y9B2, printed p. 57),
+New Zealand — A Nation of Migrants (Y9B2, printed
+p. 64), Population of New Zealand (Y12, printed
+p. 62), Population in Asia (Y12, printed p. 83)
+and Population in Samoa (Y12, printed p. 98);
+**People and Resources**: Sharing Resources —
+Distribution in Samoa (Y9B1, printed p. 43), Why
+Countries Develop and Change (Y9B3, printed p. 41),
+Development Examples — India and the Pacific
+(Y9B3, printed p. 51), Development and Daily Life
+— India and Samoa (Y9B3, printed p. 55), Access to
+Resources — Economic Factors (Y10B3, printed p. 9),
+Access to Resources — Social Factors (Y10B3,
+printed p. 26), Factors of Coconut Production
+(Y11B2, printed p. 62), Running the Coconut
+Industry (Y11B2, printed p. 67), Making Decisions
+About Coconuts in Samoa (Y11B2, printed p. 73),
+National Development Planning in Samoa (Y11B2,
+printed p. 96) and Water and Systems of Production
+(Y13, printed p. 161); **Culture and Work**: Sacred
+Places — Why People Treasure Them (Y9B2, printed
+p. 18), Political Places — Where Power Sits (Y9B2,
+printed p. 32), Technology and Cultural Change
+(Y9B3, printed p. 24), Appropriate Technology for
+Developing Countries (Y10B3, printed p. 78) and
+Banana Farming in Samoa (Y12, printed p. 135);
+**Resources and Conflict**: Samoa's Land Resources
+— Customary and Freehold (Y9B1, printed p. 17),
+Samoa's Marine Resources (Y9B1, printed p. 24),
+Development, Change and Conflict in Places (Y10B3,
+printed p. 60), Samoa's Marine Environment — People
+and Places (Y11B1, printed p. 62), How People See
+the Sea — Perceptions of Marine Resources (Y11B1,
+printed p. 70), Responding to Marine Management
+Laws (Y11B1, printed p. 95) and Uranium Mining in
+Australia (Y12, printed p. 151); **Global Issues**:
+Deforestation in Indonesia (Y10B2, printed p. 54),
+OPEC and the Power of Oil Producers (Y11B2, printed
+p. 75), Pacific Cooperation and Interdependence
+(Y11B2, printed p. 79) and Tropical Cyclones as
+Natural Hazards (Y13, printed p. 58) — the new
+lessons taught in 1 country (Samoa), 8 questions
+each.
+Geography lessons: 1031 → 1071.

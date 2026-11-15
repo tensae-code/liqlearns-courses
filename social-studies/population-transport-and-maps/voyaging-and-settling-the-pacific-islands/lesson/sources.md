@@ -1,6 +1,6 @@
 # Sources — Voyaging and Settling the Pacific Islands
 
-countries: Micronesia
+countries: Micronesia, Samoa
 
 **Book 1:** *Over Seas and Time — A Micronesian History Textbook* (student book, English) — Micronesia, FSM Department of Education / Micronesian Seminar, Pohnpei; year 2010 (First Edition, January 2010); ISBN no ISBN printed. Title as printed: Over Seas and Time — A Micronesian History Textbook. Grade 9 (student). 509 PDF pp. (cover/title page verified against the record title; 16,767,830 bytes, matches record size_bytes). Verdict: PARTIAL — by scope: this is a History textbook; only its two opening Geography chapters are placed here, the History chapters are named in the placements for the History wave. Read IN PLACE in phase3-staging, covers verified by render, text read via pdftotext -layout. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/micronesia-placements.md
 
@@ -10,6 +10,8 @@ countries: Micronesia
 
 **Book 4:** *Pohnpei Studies Reader — Kapingamarangi History* (student book, Kapingamarangi) — Micronesia, Pohnpei State Department of Education with NGO Pasifika Renaissance, funded by UNESCO Participation Programme; year no year printed; ISBN no ISBN printed. Title as printed: Pohnpei Studies Reader — Kapingamarangi History (cover: Kapingamarangi History Reader). Grade: grade-01 record (Pohnpei Studies reader for Kapingamarangi students; no grade printed) (student). 56 PDF pp. (cover verified against the record title; grabbed via tree route, size/SHA verified by the grabber). Verdict: PARTIAL — by scope: a local History reader; its settlement chapters are placed, the island's traditional histories are named in the placements. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/micronesia-placements.md
 
+**Book 5:** *Social Studies — Year 9, Book 2* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004 (reprint of 2002); ISBN 982-517-016-6. Title as printed: Social Studies — Year 9, Book 2. Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Austronesian voyaging routes | Micronesia, *Over Seas and Time — A Micronesian History Textbook*, Grade 9, Chapter 2, printed p. 34 |
@@ -17,9 +19,12 @@ countries: Micronesia
 | Sub lesson 1 — The first people into the Pacific and the Austronesian settlement waves (Nukuoro reader) | Micronesia, *Pohnpei Studies Reader — Nukuoro History*, Section 1, printed p. 1 |
 | Sub lesson 2 — The first peoples and the second, Austronesian, wave — the Lapita culture (Kapingamarangi reader) | Micronesia, *Pohnpei Studies Reader — Kapingamarangi History*, Chapter 1, printed p. 1 |
 | Sub lesson 2 — Settlement of Micronesia's islands | Micronesia, *Over Seas and Time — A Micronesian History Textbook*, Grade 9, Chapter 2, printed p. 34 |
+| Samoa part (Year 9, Book 2) — Unit 2 Topic 2 Ancient Pacific Migrations (placement target population-transport-and-maps/ancient-pacific-voyaging-and-settlement — stocked here as the closest existing lesson covering that thing) | Samoa, *Social Studies, Year 9, Book 2*, Unit 2 Topic 2 Ancient Pacific Migrations — printed p. 50 |
 
-**Acceptance count: taught in 1 country (Micronesia).**
+**Acceptance count: taught in 2 countries (Micronesia, Samoa).**
 
 Micronesia's own way: a single national History textbook that tells settlement as a voyaging-and-migration story, and — in the Pohnpei Studies pattern — each outer-island community gets its own reader in its own language, opening with the shared Pacific settlement story: the first and second groups of people who came into the Pacific, Austronesian voyaging from Taiwan, and (in the Kapingamarangi reader) the Lapita culture. The Nukuoro reader pairs that settlement story with archaeology, linguistics and DNA as its evidence, as named in its book header in the placements. This lesson teaches the placements' content in the course's own words — the books' texts themselves are never transcribed.
 
 Searchable tags: voyaging, Austronesian, Pacific settlement, Lapita, Taiwan, Micronesia, Mwoakilloa, Nukuoro, Kapingamarangi, Over Seas and Time, social studies, population transport and maps
+
+Samoa's own way (Year 9, Book 2): Place is taught through Samoan lived places — ordinary, sacred (tapu), natural and political places such as Mulinu'u — and migration is taught through Samoa's own movement story and its New Zealand diaspora, closing with a full mapping-skills unit.

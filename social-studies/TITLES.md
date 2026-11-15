@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1031**
+Geography lessons across the eight Geography titles: **1071**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -591,4 +591,45 @@ Countries; People and Resources: Bahamas Island
 Natural Resources; Population, Transport and
 Maps: Transshipment and Container Ports.
 (All 5 stand on the Bahamas' student books,
+counted in acceptance.)
+
++40 for Samoa, 2026-11-14 — The Land
+and Air: Natural Places and Why They Matter,
+How Low Islands Form — Cays and Motus,
+A Classification of Pacific Islands, Island
+Climates of the Pacific, Island Similarities
+and Differences, Developing a Study of an
+Environmental Issue, Marine Environment Field
+Investigation and Learning Geography Through
+Fieldwork; Population, Transport and Maps:
+Samoa — A Nation of Migratory People,
+New Zealand — A Nation of Migrants, Population
+of New Zealand, Population in Asia and
+Population in Samoa; People and Resources:
+Sharing Resources — Distribution in Samoa,
+Why Countries Develop and Change, Development
+Examples — India and the Pacific, Development
+and Daily Life — India and Samoa, Access to
+Resources — Economic Factors, Access to
+Resources — Social Factors, Factors of Coconut
+Production, Running the Coconut Industry,
+Making Decisions About Coconuts in Samoa,
+National Development Planning in Samoa and
+Water and Systems of Production; Culture and
+Work: Sacred Places — Why People Treasure Them,
+Political Places — Where Power Sits, Technology
+and Cultural Change, Appropriate Technology for
+Developing Countries and Banana Farming in
+Samoa; Resources and Conflict: Samoa's Land
+Resources — Customary and Freehold, Samoa's
+Marine Resources, Development, Change and
+Conflict in Places, Samoa's Marine Environment
+— People and Places, How People See the Sea —
+Perceptions of Marine Resources, Responding to
+Marine Management Laws and Uranium Mining in
+Australia; Global Issues: Deforestation in
+Indonesia, OPEC and the Power of Oil Producers,
+Pacific Cooperation and Interdependence and
+Tropical Cyclones as Natural Hazards.
+(All 40 stand on Samoa's student books,
 counted in acceptance.)

@@ -1,12 +1,14 @@
 # Sources — The Coconut — Tree of Life
 
-countries: Nauru, Tuvalu, Niue
+countries: Nauru, Tuvalu, Niue, Samoa
 
 **Book 1:** *People and the Natural Environment in the Pacific* (student book, English) — Nauru, Institute of Education, University of the South Pacific (Tonga Campus), with UNESCO and Japanese Funds-in-Trust; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (record title says Social Science, Years 5-6; the book's own inner title page says "A Social Studies related reader for Years 7-8" — a record/printing mismatch, noted as a library debt). Grade 5 per record (inner title page: Years 7–8) (student). 24 PDF pp. (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nauru-placements.md.
 
 **Book 2:** *People and the Natural Environment in the Pacific* (student book, English) — Tuvalu, Institute of Education, University of the South Pacific (Tonga Campus), with UNESCO and Japanese Funds-in-Trust; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (record title says Social Science, Years 5-6; the book's own inner title page says "A Social Studies related reader for Years 7-8" — a record/printing mismatch, noted as a library debt). Grade 5 per record (inner title page: Years 7–8) (student). 24 PDF pp. (cover/title page verified against the record title; verified identical to the Nauru copy — same byte size, extracted text identical, cover renders identical — and read in full under Nauru; the Tuvalu copy was spot-checked (cover + contents text diff)). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/tuvalu-placements.md.
 
 **Book 3:** *People and the Natural Environment in the Pacific* (student book, English) — Niue, Institute of Education, University of the South Pacific (Tonga Campus), for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (inner title page: Years 7–8 — see the grade note). Grade: Grade 5 record / Years 5–6 per the Teacher Guide, Years 7–8 per the inner title page (student). Niue advisor: Birtha Togahai. 24 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE (content printed pp. 1–19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
+
+**Book 4:** *Social Studies — Year 11, Book 2* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-052-2. Title as printed: Social Studies — Year 11, Book 2. Year 11 (student/teacher: STUDENT). PDF pages: 118 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -17,8 +19,9 @@ countries: Nauru, Tuvalu, Niue
 | Niue part — Case study: the coconut palm — the "tree of life" (food, drink, oil, fibre, timber, thatch; a seed that floats 110 days at sea; a tree adapted to the tropics) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, Case study: the coconut palm — the "tree of life" (food, drink, oil, fibre, timber, thatch; a seed that floats 110 days at sea; a tree adapted to the tropics) — printed pp. 11–12 |
 | Niue part — Coconut products (copra and oil; Tuvalu's toddy and bioethanol as a renewable fuel) (placement target people-and-resources/coconut-products-copra-oil-and-toddy-biofuel — stocked here as the closest existing lesson) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, Coconut products (copra and oil; Tuvalu's toddy and bioethanol as a renewable fuel) — printed pp. 12–13 |
 | Niue part — Coconuts in Niue and Tonga (the name Niue = "behold the coconut"; the uga coconut crab; Tonga's 14-stage coconut classification) (placement target culture-and-work/coconuts-in-niue-and-tonga — stocked here as the closest existing lesson) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, Coconuts in Niue and Tonga (the name Niue = "behold the coconut"; the uga coconut crab; Tonga's 14-stage coconut classification) — printed p. 14 |
+| Samoa part (Year 11, Book 2) — Unit 3 Coconuts — The Pacific Trees of Life (introduction) (placement target culture-and-work/coconuts-the-pacific-tree-of-life — stocked here as the closest existing lesson covering that thing) | Samoa, *Social Studies, Year 11, Book 2*, Unit 3 Coconuts — The Pacific Trees of Life (introduction) — printed p. 45 |
 
-**Acceptance count: taught in 3 countries (Nauru, Tuvalu, Niue).**
+**Acceptance count: taught in 4 countries (Nauru, Tuvalu, Niue, Samoa).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -27,3 +30,5 @@ Nauru's own way: the land-side companion to the sea reader — the natural envir
 Tuvalu's own way: the land-side companion to the sea reader — and Tuvalu's own pulaka pits and coconut toddy/biofuel are two of its case studies, including pulaka's vulnerability to drought, heavy rain and salt water as the climate changes. That way is stocked here as the way Tuvalu teaches this thing.
 
 Searchable tags: coconut, tree of life, Niue, Tonga, coconut crab, growth stages, Nauru, People and the Natural Environment in the Pacific, Nauru Grade 5, social studies, people and resources, Tuvalu, Niue Grade 5
+
+Samoa's own way (Year 11, Book 2): A single Pacific commodity carries the resources teaching — the coconut, from production factors to industry administration and national decision-making in Samoa — set against OPEC's oil, Pacific co-operation and Samoa's own development planning.

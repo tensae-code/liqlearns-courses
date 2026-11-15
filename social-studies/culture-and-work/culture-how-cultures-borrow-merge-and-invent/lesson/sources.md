@@ -1,6 +1,6 @@
 # Sources — Culture — how cultures borrow, merge and invent
 
-countries: Ethiopia, Jamaica, Bahamas
+countries: Ethiopia, Jamaica, Bahamas, Samoa
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -8,14 +8,20 @@ countries: Ethiopia, Jamaica, Bahamas
 
 **Book 3:** *Bahamas Primary Social Studies — Digital Textbook, Grade 6 (First Edition 2023)* (student book, English) — Ministry of Education, Government of The Bahamas — produced by the Innovation Unit; content credited to the Bahamas Primary Social Studies Curriculum 2022–2027 (each spread cites its curriculum pages); designed by Kenisha Rolle-Thompson; year 2023; ISBN no ISBN printed. Title as printed: Bahamas Primary Social Studies — Digital Textbook, Grade 6 (First Edition 2023). Grade 6 (student/teacher: STUDENT). PDF pages: 35 (cover/title page verified against the record title; byte-exact 141,586,828 bytes from the recorded Wayback source after grab.py failed; born-digital with a full text layer — read page by page from the text; the spreads carry no printed folios, so citations below are PDF pages). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: History — Early Connections – Past and Present, PDF p. 4; Majority Rule – Independence Parts 1–2, pp. 6–7; Bahamian History Prior to Independence 1973 Parts 1–3, pp. 26–28. Civics — Types of Government, p. 12; The Electoral Process Parts 1–2, pp. 13–14; Forming a Government Parts 1–2, pp. 15–16; The Court System Parts 1–2, pp. 17–18; The Constitution/Citizenship, p. 19; Law Enforcement Agencies, p. 20; The Ministry of Finance, p. 21; The World Government – United Nations, p. 22; Human Resources (Job Market) (a second, photograph-led human-resources spread), p. 23; Nation Builders, p. 29. Image-only spread — Cultural Practices Part 2, p. 31.). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bahamas-placements.md.
 
+**Book 4:** *Social Studies — Year 9, Book 3* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-029-8. Title as printed: Social Studies — Year 9, Book 3. Year 9 (student/teacher: STUDENT). PDF pages: 74 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
+**Book 5:** *Social Studies — Year 10, Book 2* (student book, English) — Government of Samoa, Department of Education; year 2002; ISBN 982-517-017-4. Title as printed: Social Studies — Year 10, Book 2. Year 10 (student/teacher: STUDENT). PDF pages: 70 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Diffusion and acculturation | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 52–54 |
 | Sub lesson 2 — Assimilation and invention | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 52–54 |
 | Jamaica part — Term 1 Unit 3: how the culture of the ethnic groups in the region influenced the development of Caribbean culture (curriculum guide — evidence) | Jamaica, *Jamaica Grade 5 JM G5 Exploratory Core*, Term 1 Unit 3: how the culture of the ethnic groups in the region influenced the development of Caribbean culture — printed p. 320 |
 | Bahamas part (Grade 6) — Cultural Connections Parts 1–2: countries are compared by location, population, government, festivals, resources and history — Africa's peoples and lands; Australia on the same line of latitude as The Bahamas; Brazil's carnival resembling Junkanoo; Japan, an island country with few natural resources, depending on manufacturing | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 6*, Grade 6, Cultural Connections Parts 1–2: countries are compared by location, population, government, festivals, resources and history — Africa's peoples and lands; Australia on the same line of latitude as The Bahamas; Brazil's carnival resembling Junkanoo; Japan, an island country with few natural resources, depending on manufacturing — PDF pp. 33–34 |
+| Samoa part (Year 9, Book 3) — Unit 1 Topic 2 Treasures and Transfer | Samoa, *Social Studies, Year 9, Book 3*, Unit 1 Topic 2 Treasures and Transfer — printed p. 15 |
+| Samoa part (Year 10, Book 2) — Unit 2 Topic 1 Types of Cultural Interaction | Samoa, *Social Studies, Year 10, Book 2*, Unit 2 Topic 1 Types of Cultural Interaction — printed p. 29 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bahamas). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Bahamas, Samoa). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 5 Exploratory Core, curriculum guide — evidence): Grade 5 Social Studies pairs a heritage year (Europeans and Africans, national heroes, Caribbean culture) with a physical-environment year — erosion, locating Jamaica and the Caribbean by compass and latitude/longitude, types of rainfall, the Solar System, plants and water pollution. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -24,3 +30,7 @@ Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade
 Searchable tags: culture: how cultures borrow merge and invent, culture and work, social studies, ethiopia, Jamaica, curriculum guide evidence
 
 Bahamas' own way (Grade 6): The Grade 6 book is civics-led (government, elections, courts, constitution, finance ministry) but opens the primary course's widest geography: the world's continents and oceans, political and physical maps, global warming and natural disasters, human resources and the job market, worldwide transport and communication through Nassau's ports of entry, and a closing cultural comparison of The Bahamas with Africa, Australia, Brazil and Japan.
+
+Samoa's own way (Year 9, Book 3): Culture and development are taught comparatively — Samoan cultural treasures and symbols first, then development measured and lived through India and Samoa side by side, with map-profile work on both countries.
+
+Samoa's own way (Year 10, Book 2): Identity and cultural interaction are taught from the Samoan self outward, and place change is taught through one big Pacific-region case — deforestation in Indonesia, read off South-West Pacific maps.

@@ -1,6 +1,6 @@
 # Sources — Plate tectonics — the Earth's moving shell
 
-countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic
+countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dom
 
 **Book 7:** *Ciencias Sociales — Cuarto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-76-4 (printed in the book). Title as printed: Ciencias Sociales — Cuarto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición). Grade 10 (student). 208 PDF pp. (cover verified against the record title; byte size 36,649,537 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History parts named in the placements, not placed: Unidad 5 La historia como ciencia, printed p. 74; Unidad 6 Los prolongados inicios de la humanidad, p. 90; Unidad 7 La antigüedad clásica europea, p. 106; Unidad 8 Gestación del mundo moderno, p. 122; Unidad 9 Primacía de Europa sobre el mundo, p. 138; Unidad 10 Modernidad y capitalismo, p. 144). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 8:** *Geography — Year 12* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-061-1. Title as printed: Geography — Year 12. Year 12 (student/teacher: STUDENT). PDF pages: 193 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Lithosphere on asthenosphere | G12 student #6, printed pp. 5–7 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dom
 | Costa Rica part — earth dynamics and the spatial dimension of seismic activity on the planet | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 1 A — printed p. 8 |
 | Indonesia part (Grade 11) — Bab 1 I.C Letak geologis: three tectonic plates, two continental shelves | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 1 I.C Letak geologis: three tectonic plates, two continental shelves — printed p. 13 |
 | Dominican Republic part (Grade 10) — Tectonic plates | Dominican Republic, *Ciencias Sociales, Cuarto Grado, Secundaria (Libro Abierto)*, Grade 10, Tectonic plates — printed p. 28 (the placements name the target as the-land-and-air/plate-boundaries-and-types; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
+| Samoa part (Year 12 Geography) — Part 1 Unit 2 The Moving Earth and the Origin of the Oceanic Islands | Samoa, *Geography, Year 12*, Part 1 Unit 2 The Moving Earth and the Origin of the Oceanic Islands — printed p. 12 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic).**
+**Acceptance count: taught in 8 countries (Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -42,3 +45,5 @@ Costa Rica's own way: an almost purely geographical anthology — earth dynamics
 Searchable tags: plate tectonics, lithosphere, asthenosphere, plates, social studies, Guatemala, Costa Rica, CONED Antología, Estudios Sociales
 
 Dominican Republic's own way (Grade 10): This is the physical-geography year: the universe and Earth's layers, continental drift with volcanoes and earthquakes — including earthquake-prevention measures as a group task — water and winds across the continents, and a closing unit on political and economic geography that treats borders, geopolitical order and international climate agreements as geography, with hurricane-season citizen responsibility as the water unit's group activity.
+
+Samoa's own way (Year 12 Geography): A full senior Geography course built on the Pacific itself — high and low island formation, island climates and ecosystems, then population of New Zealand, Asia and Samoa, and Samoan farming (bananas) beside Australian uranium mining.

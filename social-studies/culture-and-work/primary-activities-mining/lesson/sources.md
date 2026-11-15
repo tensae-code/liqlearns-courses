@@ -1,6 +1,6 @@
 # Sources — Primary activities — mining
 
-countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia
+countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia
 
 **Book 6:** *Geografi untuk SMA Kelas XI* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kemendikbudristek; year 2021 (Cetakan Pertama); ISBN 978-602-244-846-4 (jil. 1); author Budi Handoyo. Title as printed: Geografi untuk SMA Kelas XI. Grade 11 / SMA Kelas XI (student). 248 PDF pp. (cover verified: "Geografi — SMA Kelas XI", Budi Handoyo, Kemendikbudristek). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" (penerbitcmedia.com/download1/BSE/.../g11_geografi.pdf) and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records; the books.json tree paths return 404 because the files live in releases, not the tree). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
 
+**Book 7:** *Geography — Year 12* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-061-1. Title as printed: Geography — Year 12. Year 12 (student/teacher: STUDENT). PDF pages: 193 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What minerals are | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 57–58 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia
 | Angola part — 1.2.7 Recursos minerais | Angola, *Geografia 6ª Classe*, Grade 6, 1.2.7 Recursos minerais — printed p. 18 |
 | Turkmenistan part — §21 Mining industry; metallurgy | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §21 Mining industry; metallurgy — printed p. 85 |
 | Indonesia part (Grade 11) — Bab 1 II.B Sebaran mineral dan tambang Indonesia (mineral distribution maps) | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 1 II.B Sebaran mineral dan tambang Indonesia (mineral distribution maps) — printed p. 40 |
+| Samoa part (Year 12 Geography) — Part 4 Unit 3 Mining Systems | Samoa, *Geography, Year 12*, Part 4 Unit 3 Mining Systems — printed p. 147 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -39,3 +42,5 @@ Searchable tags: primary activities: mining, culture and work, social studies, e
 Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
 
 Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.
+
+Samoa's own way (Year 12 Geography): A full senior Geography course built on the Pacific itself — high and low island formation, island climates and ecosystems, then population of New Zealand, Asia and Samoa, and Samoan farming (bananas) beside Australian uranium mining.

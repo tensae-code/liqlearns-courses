@@ -1,6 +1,6 @@
 # Sources — Counting people — censuses and surveys
 
-countries: Ethiopia, Bolivia, Dominican Republic
+countries: Ethiopia, Bolivia, Dominican Republic, Samoa
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bolivia, Dominican Republic
 
 **Book 7:** *Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Unidad Editorial, República Dominicana; Libro Abierto Serie 1; ISBN 978-9945-646-00-9 (printed in the book). Title as printed: Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1). Grade 3 (student). 128 PDF pp. (cover verified against the record title; byte size 73,378,327 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 5 Mi país, su identidad y cultura, printed p. 76; Unidad 6 Derechos y deberes para vivir en democracia (Civics), p. 90; Anexo: Constitución Dominicana Infantil, p. 110). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 8:** *Social Studies — Year 10, Book 1* (student book, English) — Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. Title as printed: Social Studies — Year 10, Book 1. Year 10 (student/teacher: STUDENT). PDF pages: 100 (cover/title page verified against the record title). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Unit 1 Government, printed pp. 5–22 (Civics); Unit 2 Human Rights, printed pp. 23–58 (Civics)). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What population means | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 86–88 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Bolivia, Dominican Republic
 | Bolivia part — The Census: its strategic objectives and the work of the censista | Bolivia, *Ciencias Sociales, Sexto Año de Secundaria*, Grade 12, The Census: its strategic objectives and the work of the censista — printed p. 3 |
 | Bolivia part — The work of the censista: the census questionnaire and how a census is run (teacher guidance, Secundaria 5) (teacher guide — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Ciencias Sociales* (teacher guide), Grade 7 (record grade; teacher guidance), The work of the censista: the census questionnaire and how a census is run (teacher guidance, Secundaria 5) — printed p. 224 |
 | Dominican Republic part (Grade 3) — Population data: how many are we? A census of my family (group activity) | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Population data: how many are we? A census of my family (group activity) — printed p. 68 |
+| Samoa part (Year 10, Book 1) — Unit 4 Skills in Action (the Samoa census: who uses census information and why) | Samoa, *Social Studies, Year 10, Book 1*, Unit 4 Skills in Action (the Samoa census: who uses census information and why) — printed p. 83 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bolivia, Dominican Republic).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Dominican Republic, Samoa).**
 
 Bolivia's own way (Grade 8, Secundaria 2): Secundaria 2 is the colonial-history year, so geography enters through the land itself: the Tawantinsuyo's territorial division into suyos, the Amazonian hydraulic cultures who farmed a flooding landscape with raised beds and purified water, the ayllu-versus-hacienda struggle over communal land, and where Afro-Bolivian communities settled in the Yungas.
 
@@ -40,3 +43,5 @@ Bolivia's own way (teacher guide — evidence): The teacher compendium teaches t
 Searchable tags: population, census, vital registration, surveys, estimates, social studies, Bolivia, Ciencias Sociales Bolivia, teacher guide evidence
 
 Dominican Republic's own way (Grade 3): For third graders geography is the home island first: the planet and its components, then the Antilles and the relief of their own country, then countryside versus city, and finally where their own families came from — migration and a family census the children run themselves.
+
+Samoa's own way (Year 10, Book 1): The Geography value of this civics book is its skills spine — graph work and a Samoa census inquiry that teach learners to count and read their own population.

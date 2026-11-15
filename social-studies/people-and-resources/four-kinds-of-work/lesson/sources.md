@@ -1,6 +1,6 @@
 # Sources — Four kinds of work
 
-countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas
+countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas
 
 **Book 6:** *Bahamas Primary Social Studies — Digital Textbook, Grade 6 (First Edition 2023)* (student book, English) — Ministry of Education, Government of The Bahamas — produced by the Innovation Unit; content credited to the Bahamas Primary Social Studies Curriculum 2022–2027 (each spread cites its curriculum pages); designed by Kenisha Rolle-Thompson; year 2023; ISBN no ISBN printed. Title as printed: Bahamas Primary Social Studies — Digital Textbook, Grade 6 (First Edition 2023). Grade 6 (student/teacher: STUDENT). PDF pages: 35 (cover/title page verified against the record title; byte-exact 141,586,828 bytes from the recorded Wayback source after grab.py failed; born-digital with a full text layer — read page by page from the text; the spreads carry no printed folios, so citations below are PDF pages). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: History — Early Connections – Past and Present, PDF p. 4; Majority Rule – Independence Parts 1–2, pp. 6–7; Bahamian History Prior to Independence 1973 Parts 1–3, pp. 26–28. Civics — Types of Government, p. 12; The Electoral Process Parts 1–2, pp. 13–14; Forming a Government Parts 1–2, pp. 15–16; The Court System Parts 1–2, pp. 17–18; The Constitution/Citizenship, p. 19; Law Enforcement Agencies, p. 20; The Ministry of Finance, p. 21; The World Government – United Nations, p. 22; Human Resources (Job Market) (a second, photograph-led human-resources spread), p. 23; Nation Builders, p. 29. Image-only spread — Cultural Practices Part 2, p. 31.). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bahamas-placements.md.
 
+**Book 7:** *Social Studies — Year 10, Book 3* (student book, English) — Government of Samoa, Department of Education; year 2002; ISBN 982-517-030-1. Title as printed: Social Studies — Year 10, Book 3. Year 10 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The four classes | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 122–124 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas
 | Jamaica part — Grade 9 Term 3 Unit 2: Individuals in the Workplace (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 9 Term 3 Unit 2: Individuals in the Workplace — printed p. 164 |
 | Angola part — 4.4 As actividades humanas (farming, fishing, crafts, services through time and space) | Angola, *Geografia 5ª Classe*, Grade 5, 4.4 As actividades humanas (farming, fishing, crafts, services through time and space) — printed p. 54 |
 | Bahamas part (Grade 6) — Conservation – Human Resources: human resources is the use of labour to build the country's economic and social structure — trained labourers, untrained labourers, contracted labourers and civil servants | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 6*, Grade 6, Conservation – Human Resources: human resources is the use of labour to build the country's economic and social structure — trained labourers, untrained labourers, contracted labourers and civil servants — PDF p. 11 |
+| Samoa part (Year 10, Book 3) — Unit 2 Topic 1 Changes in Participation | Samoa, *Social Studies, Year 10, Book 3*, Unit 2 Topic 1 Changes in Participation — printed p. 39 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Angola, Bahamas). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Angola, Bahamas, Samoa). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -35,3 +38,5 @@ Searchable tags: economic activities, primary, secondary, tertiary, quaternary, 
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
 
 Bahamas' own way (Grade 6): The Grade 6 book is civics-led (government, elections, courts, constitution, finance ministry) but opens the primary course's widest geography: the world's continents and oceans, political and physical maps, global warming and natural disasters, human resources and the job market, worldwide transport and communication through Nassau's ports of entry, and a closing cultural comparison of The Bahamas with Africa, Australia, Brazil and Japan.
+
+Samoa's own way (Year 10, Book 3): Access to resources is split into economic and social factors with Pacific examples, and development is taught as change that can bring conflict in places — ending in consensus-building and appropriate technology for small island states.

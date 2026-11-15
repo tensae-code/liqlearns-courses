@@ -1,6 +1,6 @@
 # Sources — People and environment — a two-way street
 
-countries: Ethiopia, Saudi Arabia, Haiti, Guatemala, Jamaica, Angola, Bangladesh, Dominican Republic
+countries: Ethiopia, Saudi Arabia, Haiti, Guatemala, Jamaica, Angola, Bangladesh, Dominican Republic, Samoa
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Saudi Arabia, Haiti, Guatemala, Jamaica, Angola, Bangladesh
 
 **Book 13:** *Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Unidad Editorial, República Dominicana; Libro Abierto Serie 1; ISBN 978-9945-646-00-9 (printed in the book). Title as printed: Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1). Grade 3 (student). 128 PDF pp. (cover verified against the record title; byte size 73,378,327 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 5 Mi país, su identidad y cultura, printed p. 76; Unidad 6 Derechos y deberes para vivir en democracia (Civics), p. 90; Anexo: Constitución Dominicana Infantil, p. 110). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 14:** *Geography — Year 12* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-061-1. Title as printed: Geography — Year 12. Year 12 (student/teacher: STUDENT). PDF pages: 193 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Dependence | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 154–157 |
@@ -44,8 +46,9 @@ countries: Ethiopia, Saudi Arabia, Haiti, Guatemala, Jamaica, Angola, Bangladesh
 | Angola part (Grade 6) — 1.1 O género humano e a terra | Angola, *Geografia 6ª Classe*, Grade 6, 1.1 O género humano e a terra — printed p. 10 |
 | Bangladesh part (Grade 6) — The interrelation between natural and social structures: environment and social change | Bangladesh, *History and Social Science, Class Six*, Grade 6, The interrelation between natural and social structures: environment and social change — printed pp. 134-136 |
 | Dominican Republic part (Grade 3) — Natural space: other elements of nature | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Natural space: other elements of nature — printed p. 32 |
+| Samoa part (Year 12 Geography) — Part 1 Unit 5 People and the Island Ecosystems | Samoa, *Geography, Year 12*, Part 1 Unit 5 People and the Island Ecosystems — printed p. 35 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Angola, Bangladesh, Dominican Republic). Haiti is named here as teacher-sequence evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Angola, Bangladesh, Dominican Republic, Samoa). Haiti is named here as teacher-sequence evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -66,3 +69,5 @@ Angola's own way (Grade 6): a resources-and-environment year — every world top
 Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course built around a class teacher character and group investigations; Geography is taught through the landform of Bengal itself — rivers, silt and hills explaining settlement, ancient states, ports and even the 1971 war — plus hands-on map-making (home-to-school route maps, a world-tour board game) and a pupil-run nature conservation club.
 
 Dominican Republic's own way (Grade 3): For third graders geography is the home island first: the planet and its components, then the Antilles and the relief of their own country, then countryside versus city, and finally where their own families came from — migration and a family census the children run themselves.
+
+Samoa's own way (Year 12 Geography): A full senior Geography course built on the Pacific itself — high and low island formation, island climates and ecosystems, then population of New Zealand, Asia and Samoa, and Samoan farming (bananas) beside Australian uranium mining.

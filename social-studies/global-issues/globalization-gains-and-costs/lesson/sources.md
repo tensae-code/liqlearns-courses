@@ -1,6 +1,6 @@
 # Sources — Globalization — gains and costs
 
-countries: Ethiopia, Haiti, Costa Rica, Bolivia
+countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Haiti, Costa Rica, Bolivia
 
 **Book 5:** *Área: Ciencias Sociales — Sexto Año, Educación Secundaria Comunitaria Productiva (Campo: Comunidad y Sociedad)* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2024; no ISBN printed. Title as printed: Área: Ciencias Sociales — Sexto Año, Educación Secundaria Comunitaria Productiva (Campo: Comunidad y Sociedad). Grade 12 (student). 126 PDF pp. (cover verified against the record title; byte size 14,185,463 and page count match the staging books.json record exactly; read from the book's recorded source_url). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics/Economics parts named here, not placed: the Second World War and the Cold War; decolonisation of Asia and Africa and apartheid; the 1952 National Revolution, universal vote and mine nationalisation as history; military dictatorships and neoliberalism; the return to democracy, autonomies and revocatory referendums; identity, discrimination and despatriarcalización; youth political rights; child and adolescent labour law; money, the boliviano and inflation (economics)). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
+**Book 6:** *Geography — Year 13* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-079-4. Title as printed: Geography — Year 13. Year 13 (student/teacher: STUDENT). PDF pages: 244 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The connected world | G12 student #56, printed pp. 129–134 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Haiti, Costa Rica, Bolivia
 | Costa Rica part — a world shrunk by globalisation, interconnection and interdependence from the geographic viewpoint | Costa Rica, *Antología CONED 11*, Grade 11, Unit 1 Tema 1 A — printed p. 8 |
 | Costa Rica part — a world shrunk by globalisation; history and characteristics of the globalising process | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 A — printed p. 14 |
 | Bolivia part — Data transmission and the global village (McLuhan) (stocked here from the placements' named target global-issues/globalisation-the-basic-concepts, which does not exist in the course; this is the closest existing lesson covering that thing) | Bolivia, *Ciencias Sociales, Sexto Año de Secundaria*, Grade 12, Data transmission and the global village (McLuhan) — printed p. 27 |
+| Samoa part (Year 13 Geography) — Part 3 Unit 3 Globalisation | Samoa, *Geography, Year 13*, Part 3 Unit 3 Globalisation — printed p. 90 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, Bolivia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Bolivia, Samoa). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography begins as a daily practice, not a chapter: pupils draw the landscape around their school, the plan of their quarter and Haiti with their school placed on it, read landscape forms and functions from their own croquis, then trace one everyday object (a coffee cup, a phone) from raw material to shop shelf to see the world from the local. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -32,3 +35,5 @@ Costa Rica's own way: the CONED 11 anthology opens with a Geography unit on glob
 Bolivia's own way (Grade 12, Sexto Año): The final year opens with the census itself — the censista's work as civic-geographic practice — and later teaches geopolitics critically: Haushofer and geopolitical thought, geographic scales, and natural resources as a product of human knowledge (Sunkel), alongside Bolivia's own resource politics: the Gas War, hydrocarbon nationalisation and the urea plant that industrialises gas.
 
 Searchable tags: globalization, multinational corporations, Global North, Global South, dependency, social studies, Haiti, Faire de la géographie, teacher sequence evidence, Costa Rica, CONED Antología, Estudios Sociales, Bolivia, Ciencias Sociales Bolivia
+
+Samoa's own way (Year 13 Geography): The final-year course is hazard- and water-centred for an island nation — volcanic eruptions and tropical cyclones (including Cyclone Heta on Niue), the hydrological cycle and water management, then atmosphere and climate change with Pacific consequences.

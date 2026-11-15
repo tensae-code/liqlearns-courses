@@ -1,6 +1,6 @@
 # Sources — Natural Resources — Using Resources Well
 
-countries: Ethiopia, United Arab Emirates, Turkey, Jamaica, Bahamas
+countries: Ethiopia, United Arab Emirates, Turkey, Jamaica, Bahamas, Samoa
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 63).
 
@@ -16,6 +16,8 @@ countries: Ethiopia, United Arab Emirates, Turkey, Jamaica, Bahamas
 
 **Book 7:** *Social Science — Grade 3 (Lower Primary Social Science Content Notes, Version 1, January 2024)* (student book, English) — Ministry of Education, Technical and Vocational Training, The Bahamas; year 2024 (Version 1, January 2024); ISBN no ISBN printed. Title as printed: Social Science — Grade 3 (Lower Primary Social Science Content Notes, Version 1, January 2024). Grade 3 (student/teacher: STUDENT). PDF pages: 70 (cover/title page verified against the record title; read from the recorded Wayback source's compressed "_sm" capture of the same book — 34,977,515 bytes, byte-exact — after grab.py failed and the uncompressed capture proved to be 249 MB; image-only Canva PDF, read via 100-DPI 4-up contact sheets, all 70 pages). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Religious Studies — The Godhead, printed pp. 2–4; Easter, pp. 23–24; How We Worship, pp. 58–60; The Bible, pp. 61–62; Miracles and Teachings of Jesus, pp. 63–64; Celebrating Christmas (religious content), pp. 65–66. History — Bahamian History (Lucayans, Columbus 1492, Eleuthera settlers, slavery and freedom days), pp. 27–29. Civics — I am a Law-Abiding Citizen, p. 16; I Have Rights, pp. 21–22; Leaders and Nation Builders, p. 30. Science/Health/personal — I am Unique (personal content), pp. 7–8; Taking Care of Me, pp. 9–10; Discovering and Expressing Yourself, pp. 11–12; Caring For Yourself (hygiene, abuse), pp. 13–15; Getting Along with Others (respect), pp. 19–20; Vertebrates, pp. 36–38; Plants (plant parts and photosynthesis), pp. 44–45; Matter, pp. 46–48; Beware of Vectors and Spreading Diseases, pp. 49–52.). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bahamas-placements.md.
 
+**Book 8:** *Social Studies — Year 9, Book 1* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-008-5. Title as printed: Social Studies — Year 9, Book 1. Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Unit 4 Being Part of a Group, printed pp. 57–83 (groups people belong to, how villages are organised, Tonga, women kautaha in Tonga, the political system of Tonga — Sociology/Civics)). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils name what is missing for an unused local resource | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed p. 83 |
@@ -28,8 +30,9 @@ countries: Ethiopia, United Arab Emirates, Turkey, Jamaica, Bahamas
 | Jamaica part — Grade 9 Term 2 Unit 1: using resources for national development (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 9 Term 2 Unit 1: using resources for national development — printed p. 144 |
 | Bahamas part (Grade 1) — Protecting the Environment: conserve natural resources and produce less waste; recycling paper saves trees | Bahamas, *Social Science, Grade 1*, Grade 1, Protecting the Environment: conserve natural resources and produce less waste; recycling paper saves trees — printed p. 37 |
 | Bahamas part (Grade 3) — Protecting Our Resources: protect resources by the three words Reduce, Reuse, Recycle — and by planting trees and keeping the environment clean | Bahamas, *Social Science, Grade 3*, Grade 3, Protecting Our Resources: protect resources by the three words Reduce, Reuse, Recycle — and by planting trees and keeping the environment clean — printed p. 43 |
+| Samoa part (Year 9, Book 1) — Unit 3 Topic 1 Allocation of Resources | Samoa, *Social Studies, Year 9, Book 1*, Unit 3 Topic 1 Allocation of Resources — printed p. 36 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, United Arab Emirates, Turkey, Bahamas). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, United Arab Emirates, Turkey, Bahamas, Samoa). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -42,3 +45,5 @@ Searchable tags: proper use, conditions, capital, manpower, technology, policy, 
 Bahamas' own way (Grade 1): One integrated "Social Science" book fusing Religious Studies, Science/Health and Social Studies in a single picture-led volume; Geography enters through the home island itself — The Bahamas as a group of islands, its national symbols, mailboat/jitney transport between islands, conch-and-crawfish fishing, national parks and bush-medicine plants.
 
 Bahamas' own way (Grade 3): The integrated Social Science pattern continues, but Grade 3 adds a distinct Bahamas-geography block in the middle of the book: a full map study of the archipelago (700 islands and cays, Family Islands, three sections), inter-island travel by Bahamasair, fast ferry and mailboat, and an island-by-island inventory of natural resources (Andros crabs, Abaco farming, Grand Bahama citrus and sponge), closing with Hurricane Dorian (2019) as the national extreme-weather case.
+
+Samoa's own way (Year 9, Book 1): Geography is taught through Samoa's own resources first — environment, land, rainforest, water and marine resources of Samoa itself, then how resources are shared out in Samoan community life.

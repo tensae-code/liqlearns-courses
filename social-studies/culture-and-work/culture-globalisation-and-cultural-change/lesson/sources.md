@@ -1,6 +1,6 @@
 # Sources — Culture — globalisation and cultural change
 
-countries: Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Jamaica
+countries: Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Jamaica, Samoa
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -18,6 +18,12 @@ countries: Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Jamaica
 
 **Book 8:** *National Standards Curriculum — Social Studies, Grades 7–9 (APSE1)* (curriculum guide, English) — Jamaica, Ministry of Education, Youth & Information, Jamaica; year 2020 (Jan 2020 edition); ISBN no ISBN printed. Title as printed: National Standards Curriculum — Social Studies, Grades 7–9 (APSE1). Grade: Grades 7–9 (student/teacher: TEACHER — curriculum guide). 219 PDF pp. (cover verified against the record title; 11,411,709 bytes, matches record size_bytes). Verdict: COMPLETE (Geography scope). Guides read IN PLACE in phase3-staging where on disk, covers verified by render, full text read via pdftotext -layout. History parts (named, not placed): Grade 7 Term 1 Unit 2 National Heroes and Their Contributions to Jamaica's Development, printed p. 10; Grade 8 Term 1 Unit 1 Nationalism and Development, printed p. 70. Civics / Sociology parts (named, not placed): Grade 7 Term 1 Unit 1 The Rights and Responsibilities of the Citizen, printed p. 4; Grade 7 Term 2 Unit 3 Social Groups and Institutions, printed p. 36; Grade 7 Term 2 Unit 4 Social Groups — The Family, printed p. 42; Grade 8 Term 1 Unit 2 Communication and Media Literacy, printed p. 74; Grade 8 Term 2 Unit 2 Institutions: Economic Institutions, printed p. 89; Grade 9 Term 1 Unit 2 The Caribbean Individual and Regional Integration, printed p. 129; Grade 9 Term 1 Unit 3 Social Issues in Jamaica, printed p. 135; Grade 9 Term 2 Unit 2 Political Institution: The Structure of the Jamaican Government, printed p. 147; Grade 9 Term 2 Unit 3 The Electoral Process, printed p. 152. Cited as curriculum-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jamaica-placements.md.
 
+**Book 9:** *Social Studies — Year 9, Book 3* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-029-8. Title as printed: Social Studies — Year 9, Book 3. Year 9 (student/teacher: STUDENT). PDF pages: 74 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
+**Book 10:** *Social Studies — Year 10, Book 2* (student book, English) — Government of Samoa, Department of Education; year 2002; ISBN 982-517-017-4. Title as printed: Social Studies — Year 10, Book 2. Year 10 (student/teacher: STUDENT). PDF pages: 70 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
+**Book 11:** *Social Studies — Year 11, Book 2* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-052-2. Title as printed: Social Studies — Year 11, Book 2. Year 11 (student/teacher: STUDENT). PDF pages: 118 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Globalisation | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 52–53 |
@@ -29,8 +35,11 @@ countries: Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Jamaica
 | Mongolia part — The globalization of culture | Mongolia, *Нийгэм судлал XI (Social Studies XI)*, Grade 11, Chapter II Culture: Topic 2.2 The globalization of culture — printed p. 47 |
 | Ecuador part — Diversidad cultural mundial (Sección 3, Diversidad Cultural, Democracia e Interculturalidad) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Diversidad cultural mundial (Sección 3, Diversidad Cultural, Democracia e Interculturalidad) — printed p. 144 |
 | Jamaica part — Grade 9 Term 1 Unit 1: The Spread of Caribbean Culture (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 9 Term 1 Unit 1: The Spread of Caribbean Culture — printed p. 124 |
+| Samoa part (Year 9, Book 3) — Unit 2 Topic 2 Technology and the Transfer of Culture | Samoa, *Social Studies, Year 9, Book 3*, Unit 2 Topic 2 Technology and the Transfer of Culture — printed p. 26 |
+| Samoa part (Year 10, Book 2) — Unit 2 Topic 2 Changes Caused by Cultural Interaction | Samoa, *Social Studies, Year 10, Book 2*, Unit 2 Topic 2 Changes Caused by Cultural Interaction — printed p. 38 |
+| Samoa part (Year 11, Book 2) — Unit 2 Our Changing World (cultural values, adaptation and change in a new place) | Samoa, *Social Studies, Year 11, Book 2*, Unit 2 Our Changing World (cultural values, adaptation and change in a new place) — printed p. 25 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Samoa). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -45,3 +54,9 @@ Ecuador's own way (Grade 8 book): at Superior level the book turns thematic — 
 Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse one body per sublevel — the Grade 5 body also carries the Grade 6 and Grade 7 covers (Subnivel Media), and the Grade 8 body also carries the Grade 9 and Grade 10 covers (Subnivel Superior). That content is credited once, under its true Grade 5 / Grade 8 identity, exactly as the placements state; the genuine Ecuador Grade 6, 7, 9 and 10 Estudios Sociales books are NOT held (library debt).
 
 Searchable tags: culture: globalisation and cultural change, culture and work, social studies, ethiopia, Costa Rica, CONED Antología, Estudios Sociales, Mongolia, Нийгэм судлал, Ecuador, Jamaica, curriculum guide evidence
+
+Samoa's own way (Year 9, Book 3): Culture and development are taught comparatively — Samoan cultural treasures and symbols first, then development measured and lived through India and Samoa side by side, with map-profile work on both countries.
+
+Samoa's own way (Year 10, Book 2): Identity and cultural interaction are taught from the Samoan self outward, and place change is taught through one big Pacific-region case — deforestation in Indonesia, read off South-West Pacific maps.
+
+Samoa's own way (Year 11, Book 2): A single Pacific commodity carries the resources teaching — the coconut, from production factors to industry administration and national decision-making in Samoa — set against OPEC's oil, Pacific co-operation and Samoa's own development planning.
