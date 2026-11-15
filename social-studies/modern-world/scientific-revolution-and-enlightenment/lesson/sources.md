@@ -1,6 +1,6 @@
 # Sources — Scientific Revolution and Enlightenment
 
-countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq
+countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -259,3 +259,39 @@ Iraq's own way (Book 8 — iq-g11 History of Europe and America, Modern and Cont
 **Acceptance count: taught in 13 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, modern-world/scientific-revolution-and-enlightenment
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)**
+- Title as printed: Рассказы по истории (Rasskazy po istorii — Stories from History), textbook for Grade 5 of the general school, 3rd revised edition; authors Kamariddin Usmanov, Usman Juraev, Buribay Akhmedov; translators I. A. Khudaiberganov, R. U. Azimova (Russian edition of the Uzbek original)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom imeni Chulpana, Tashkent; year 2007; ISBN 978-9943-05-085-3 (imprint page; back cover carries the variant 978-9943-05-087-7)
+- PDF pages: 177 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 46 placements — 16 to existing lessons, 30 NEW LESSON NEEDED
+- Uzbekistan's own way: history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+**Book 4 — Vsemirnaya istoriya / World History, Grade 8 (student book, Russian)**
+- Title as printed: Всемирная история 8 — Первый период новой истории (XVI – 60-е годы XIX веков) — World History 8: The first period of modern history (16th century – 1860s); authors U. Juraev, R. Farmonov, Sh. Ergashev
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom imeni Chulpana, Tashkent; year 2006; no ISBN printed in the pages checked
+- PDF pages: 161 (cover/title page verified against the record title — a different book from the Grade 8 History of Uzbekistan filed as Book 3)
+- Verdict: COMPLETE
+- Tally: 43 placements — 17 to existing lessons, 26 NEW LESSON NEEDED
+- Uzbekistan's own way: the world half of the Grade 8 pair runs the classic Soviet-shaped 'new history' — discoveries, Reformation, revolutions, industrialisation — but gives Asia (India, China, Japan, the Ottomans, Iran, Afghanistan) a full chapter of its own in each period and closes with science, literature and art as history too.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — 32. The development of science in Europe (16th–17th centuries) and 33. The great scientific discoveries of the 18th – early 20th centuries — story beats: from Copernicus and Galileo to steam, electricity and Darwin, European science accelerates and changes how the whole world, the homeland included, must live (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Uzbekistan, *Рассказы по истории (Rasskazy po istorii — Stories from History), Grade 5*, printed pp. 102, 104 |
+| Uzbekistan part — §10 The development of science — story beats: Copernicus, Galileo and Newton take the earth from the centre and give the age a new picture of nature (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Uzbekistan, *Всемирная история 8 (World History 8 — The first period of modern history)*, printed p. 40 |
+| Uzbekistan part — §39 The development of science (17th – 1860s of the 19th century) — story beats: Darwin's evolution (1859), Pasteur's microbes and Mendeleev's table cap three centuries of science remaking the world-picture (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Uzbekistan, *Всемирная история 8 (World History 8 — The first period of modern history)*, printed p. 146 |
+
+Uzbekistan's own way (Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)): history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Uzbekistan's own way (Book 4 — Vsemirnaya istoriya / World History, Grade 8 (student book, Russian)): the world half of the Grade 8 pair runs the classic Soviet-shaped 'new history' — discoveries, Reformation, revolutions, industrialisation — but gives Asia (India, China, Japan, the Ottomans, Iran, Afghanistan) a full chapter of its own in each period and closes with science, literature and art as history too. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, modern-world/scientific-revolution-and-enlightenment

@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -857,3 +857,26 @@ Jordan's own way (Book 8 — G2 Social Studies Term 2 (student book, Arabic)): t
 **Acceptance count: taught in 31 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, africa-to-1500/from-stone-tools-to-farming
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 2 — Istoriya: Drevny mir / History: The Ancient World, Grade 6 (student book, Russian)**
+- Title as printed: История. Древний мир (Istoriya. Drevny mir — History: The Ancient World), textbook for Grade 6; authors A. S. Sagdullaev, V. A. Kostetsky
+- Editions in hand (same book, placed once): 3rd corrected and supplemented edition, Shark, Tashkent 2007 (record grade-06 full-year.pdf, 194 PDF pages — the edition read in full; printed pages below are its) and 4th corrected and supplemented edition, Yangiyul Poligraph Service, Tashkent 2009 (record grade-06 full-year-2.pdf, 192 PDF pages — spot-checked: cover, full contents and the Greco-Persian wars spread match the 3rd edition's content, with light renumbering to 54 sections)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: see editions above; year 2007 / 2009; no ISBN printed in the pages checked
+- PDF pages: 194 / 192 (cover/title pages verified against the record title)
+- Verdict: COMPLETE
+- Tally: 38 placements — 18 to existing lessons, 20 NEW LESSON NEEDED
+- Uzbekistan's own way: a full ancient-world course written from Central Asia outward — the standard Egypt–Mesopotamia–India–China–Greece–Rome march, but a whole section (IV) is reserved for Central Asia under the Achaemenids, Alexander, the Seleucids, Khorezm and the Kushans, and every world topic is tied back to the homeland's soil.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — §4 The farmers of the Eneolithic and Bronze Age — story beats: copper and bronze tools, irrigation and the plough turn gatherers into farmers whose surplus will feed the first cities (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Uzbekistan, *История. Древний мир (Istoriya. Drevny mir — History: The Ancient World), Grade 6*, printed p. 22 |
+
+Uzbekistan's own way (Book 2 — Istoriya: Drevny mir / History: The Ancient World, Grade 6 (student book, Russian)): a full ancient-world course written from Central Asia outward — the standard Egypt–Mesopotamia–India–China–Greece–Rome march, but a whole section (IV) is reserved for Central Asia under the Achaemenids, Alexander, the Seleucids, Khorezm and the Kushans, and every world topic is tied back to the homeland's soil. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 32 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, africa-to-1500/from-stone-tools-to-farming

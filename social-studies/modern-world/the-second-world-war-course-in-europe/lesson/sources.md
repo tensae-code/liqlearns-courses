@@ -1,6 +1,6 @@
 # Sources — The Second World War — course in Europe
 
-countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan
+countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 137).
 
@@ -395,3 +395,25 @@ Sudan's own way (Book 6 — sd-g11 (student book, Arabic)): the modern story is 
 **Acceptance count: taught in 18 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, modern-world/the-second-world-war-course-in-europe
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)**
+- Title as printed: Рассказы по истории (Rasskazy po istorii — Stories from History), textbook for Grade 5 of the general school, 3rd revised edition; authors Kamariddin Usmanov, Usman Juraev, Buribay Akhmedov; translators I. A. Khudaiberganov, R. U. Azimova (Russian edition of the Uzbek original)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom imeni Chulpana, Tashkent; year 2007; ISBN 978-9943-05-085-3 (imprint page; back cover carries the variant 978-9943-05-087-7)
+- PDF pages: 177 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 46 placements — 16 to existing lessons, 30 NEW LESSON NEEDED
+- Uzbekistan's own way: history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — 45. The Second World War and 46. Uzbekistan's contribution to the victory over fascist Germany — story beats: the homeland sends over a million soldiers, takes in evacuated factories and a million refugees and orphans, and feeds the front — the war as Uzbekistan's own sacrifice (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-course-in-europe) | Uzbekistan, *Рассказы по истории (Rasskazy po istorii — Stories from History), Grade 5*, printed pp. 137, 140 |
+
+Uzbekistan's own way (Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)): history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, modern-world/the-second-world-war-course-in-europe

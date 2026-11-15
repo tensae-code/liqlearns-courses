@@ -1,6 +1,6 @@
 # Sources — 1917 twice — February and October in Russia
 
-countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan
+countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -370,3 +370,25 @@ Jordan's own way (Book 20 — G10 History Term 2 (student book, Arabic)): world 
 **Acceptance count: taught in 15 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)**
+- Title as printed: Рассказы по истории (Rasskazy po istorii — Stories from History), textbook for Grade 5 of the general school, 3rd revised edition; authors Kamariddin Usmanov, Usman Juraev, Buribay Akhmedov; translators I. A. Khudaiberganov, R. U. Azimova (Russian edition of the Uzbek original)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom imeni Chulpana, Tashkent; year 2007; ISBN 978-9943-05-085-3 (imprint page; back cover carries the variant 978-9943-05-087-7)
+- PDF pages: 177 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 46 placements — 16 to existing lessons, 30 NEW LESSON NEEDED
+- Uzbekistan's own way: history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — 41. The February Revolution in Russia and Turkestan — story beats: the Tsar falls in February 1917 and hope races to Tashkent — new councils, newspapers and parties spring up across Turkestan in months (History expansion, 2026-11-15; original placement slug: modern-world/1917-twice-february-and-october-in-russia) | Uzbekistan, *Рассказы по истории (Rasskazy po istorii — Stories from History), Grade 5*, printed p. 125 |
+
+Uzbekistan's own way (Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)): history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia

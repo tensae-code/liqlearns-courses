@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan
+countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -491,3 +491,25 @@ Jordan's own way (Book 20 — G10 History Term 2 (student book, Arabic)): world 
 **Acceptance count: taught in 20 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, modern-world/the-industrial-revolution-what-changed-and-why-england-first
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 4 — Vsemirnaya istoriya / World History, Grade 8 (student book, Russian)**
+- Title as printed: Всемирная история 8 — Первый период новой истории (XVI – 60-е годы XIX веков) — World History 8: The first period of modern history (16th century – 1860s); authors U. Juraev, R. Farmonov, Sh. Ergashev
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom imeni Chulpana, Tashkent; year 2006; no ISBN printed in the pages checked
+- PDF pages: 161 (cover/title page verified against the record title — a different book from the Grade 8 History of Uzbekistan filed as Book 3)
+- Verdict: COMPLETE
+- Tally: 43 placements — 17 to existing lessons, 26 NEW LESSON NEEDED
+- Uzbekistan's own way: the world half of the Grade 8 pair runs the classic Soviet-shaped 'new history' — discoveries, Reformation, revolutions, industrialisation — but gives Asia (India, China, Japan, the Ottomans, Iran, Afghanistan) a full chapter of its own in each period and closes with science, literature and art as history too.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — §13 The industrial overturn in England — story beats: steam, spinning machines and factories overturn production first in England — and ask why there, why then (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | Uzbekistan, *Всемирная история 8 (World History 8 — The first period of modern history)*, printed p. 50 |
+
+Uzbekistan's own way (Book 4 — Vsemirnaya istoriya / World History, Grade 8 (student book, Russian)): the world half of the Grade 8 pair runs the classic Soviet-shaped 'new history' — discoveries, Reformation, revolutions, industrialisation — but gives Asia (India, China, Japan, the Ottomans, Iran, Afghanistan) a full chapter of its own in each period and closes with science, literature and art as history too. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, modern-world/the-industrial-revolution-what-changed-and-why-england-first

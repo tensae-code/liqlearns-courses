@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome divides
 
-countries: Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan, Sri Lanka, Iraq
+countries: Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan, Sri Lanka, Iraq, Uzbekistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -209,3 +209,26 @@ Iraq's own way (Book 4 — iq-g07 Social Studies (student book, Arabic)): From G
 **Acceptance count: taught in 12 countries (Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan, Sri Lanka, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/ancient-civilisations-rome-divides
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 2 — Istoriya: Drevny mir / History: The Ancient World, Grade 6 (student book, Russian)**
+- Title as printed: История. Древний мир (Istoriya. Drevny mir — History: The Ancient World), textbook for Grade 6; authors A. S. Sagdullaev, V. A. Kostetsky
+- Editions in hand (same book, placed once): 3rd corrected and supplemented edition, Shark, Tashkent 2007 (record grade-06 full-year.pdf, 194 PDF pages — the edition read in full; printed pages below are its) and 4th corrected and supplemented edition, Yangiyul Poligraph Service, Tashkent 2009 (record grade-06 full-year-2.pdf, 192 PDF pages — spot-checked: cover, full contents and the Greco-Persian wars spread match the 3rd edition's content, with light renumbering to 54 sections)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: see editions above; year 2007 / 2009; no ISBN printed in the pages checked
+- PDF pages: 194 / 192 (cover/title pages verified against the record title)
+- Verdict: COMPLETE
+- Tally: 38 placements — 18 to existing lessons, 20 NEW LESSON NEEDED
+- Uzbekistan's own way: a full ancient-world course written from Central Asia outward — the standard Egypt–Mesopotamia–India–China–Greece–Rome march, but a whole section (IV) is reserved for Central Asia under the Achaemenids, Alexander, the Seleucids, Khorezm and the Kushans, and every world topic is tied back to the homeland's soil.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — §52 The fall of the Republic in Rome — story beats: Marius, Sulla, Caesar and Octavian — a century of civil wars kills the republic and leaves an empire in its place (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Uzbekistan, *История. Древний мир (Istoriya. Drevny mir — History: The Ancient World), Grade 6*, printed p. 164 |
+
+Uzbekistan's own way (Book 2 — Istoriya: Drevny mir / History: The Ancient World, Grade 6 (student book, Russian)): a full ancient-world course written from Central Asia outward — the standard Egypt–Mesopotamia–India–China–Greece–Rome march, but a whole section (IV) is reserved for Central Asia under the Achaemenids, Alexander, the Seleucids, Khorezm and the Kushans, and every world topic is tied back to the homeland's soil. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan, Sri Lanka, Iraq, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, ancient-world/ancient-civilisations-rome-divides

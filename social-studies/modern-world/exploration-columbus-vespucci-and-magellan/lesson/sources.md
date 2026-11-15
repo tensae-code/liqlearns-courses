@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -327,3 +327,25 @@ Sudan's own way (Book 9 — sd-g8 (student book, Arabic)): Grade 8 is the sultan
 **Acceptance count: taught in 17 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, modern-world/exploration-columbus-vespucci-and-magellan
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)**
+- Title as printed: Рассказы по истории (Rasskazy po istorii — Stories from History), textbook for Grade 5 of the general school, 3rd revised edition; authors Kamariddin Usmanov, Usman Juraev, Buribay Akhmedov; translators I. A. Khudaiberganov, R. U. Azimova (Russian edition of the Uzbek original)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom imeni Chulpana, Tashkent; year 2007; ISBN 978-9943-05-085-3 (imprint page; back cover carries the variant 978-9943-05-087-7)
+- PDF pages: 177 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 46 placements — 16 to existing lessons, 30 NEW LESSON NEEDED
+- Uzbekistan's own way: history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — 31. The discovery of America — story beats: in 1492 Columbus crosses the Atlantic for Spain and two continents enter one history — told here from the far side of the Silk Road world (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Uzbekistan, *Рассказы по истории (Rasskazy po istorii — Stories from History), Grade 5*, printed p. 99 |
+
+Uzbekistan's own way (Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)): history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 18 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, modern-world/exploration-columbus-vespucci-and-magellan

@@ -1,6 +1,6 @@
 # Sources — Effects of industrialisation — cities, classes, empires
 
-countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan
+countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -231,3 +231,26 @@ Jordan's own way (Book 20 — G10 History Term 2 (student book, Arabic)): world 
 **Acceptance count: taught in 10 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, modern-world/effects-of-industrialisation-cities-classes-empires
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 6 — Vsemirnaya istoriya / World History, Grade 9 (student book, Russian)**
+- Title as printed: Всемирная история 9 (Vsemirnaya istoriya — World History), textbook for Grade 9 of the general secondary school, recommended by the Ministry of Public Education of the Republic of Uzbekistan; authors Moyli Fozilovich Lafasov, Usmon Jo'rayev, Eshqobil Xoliqov, Dilorom Qodirova (Russian edition, translated by Z. A. Mirzakhakimova from the Uzbek original Jahon tarixi)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Izdatel'stvo «Talqin» (Talqin Publishing), Tashkent; year 2006; no ISBN printed (imprint gives BBK 63.3(0)53я721; print run 26,000)
+- PDF pages: 160 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 12 to existing lessons, 24 NEW LESSON NEEDED
+- Uzbekistan's own way: the world from the 1870s to 1918 told in 43 short paragraphs grouped by region — Europe and America, then Russia and the Balkans, then Asia and Africa, then the First World War, closing with science and culture; every paragraph carries the same study furniture (terms boxes, "For reflection", questions and tasks, discussion topics), and the story is framed from the start as lessons for building Uzbekistan's own statehood.
+- Read method: image-only scan with no text layer; a tesseract (rus) OCR pass was attempted and timed out with no output on a single page (120 s), so the book was read from rendered pages — cover, title and imprint pages, the Introduction (printed p. 3), the full printed contents (printed pp. 157–158) and the opening and key spreads of every paragraph §§1–43 read visually, including the closing culture pages (printed pp. 150–156).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — Ch. I §2 Industrial civilisation — story beats: industry remakes daily life — cities explode (London from 865,000 to over 4.5 million in fifty years, Paris rebuilt by Haussmann with trams, metro and water mains), and the urban crowd becomes history's new actor (History expansion, 2026-11-15; original placement slug: modern-world/effects-of-industrialisation-cities-classes-empires) | Uzbekistan, *Всемирная история 9 (Vsemirnaya istoriya — World History), Grade 9*, printed p. 11 |
+
+Uzbekistan's own way (Book 6 — Vsemirnaya istoriya / World History, Grade 9 (student book, Russian)): the world from the 1870s to 1918 told in 43 short paragraphs grouped by region — Europe and America, then Russia and the Balkans, then Asia and Africa, then the First World War, closing with science and culture; every paragraph carries the same study furniture (terms boxes, "For reflection", questions and tasks, discussion topics), and the story is framed from the start as lessons for building Uzbekistan's own statehood. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, modern-world/effects-of-industrialisation-cities-classes-empires

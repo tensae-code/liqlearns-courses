@@ -1,6 +1,6 @@
 # Sources — Capitalism — private ownership, factories, new classes
 
-countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq
+countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -236,3 +236,40 @@ Iraq's own way (Book 8 — iq-g11 History of Europe and America, Modern and Cont
 **Acceptance count: taught in 9 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, modern-world/capitalism-private-ownership-factories-new-classes
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 4 — Vsemirnaya istoriya / World History, Grade 8 (student book, Russian)**
+- Title as printed: Всемирная история 8 — Первый период новой истории (XVI – 60-е годы XIX веков) — World History 8: The first period of modern history (16th century – 1860s); authors U. Juraev, R. Farmonov, Sh. Ergashev
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom imeni Chulpana, Tashkent; year 2006; no ISBN printed in the pages checked
+- PDF pages: 161 (cover/title page verified against the record title — a different book from the Grade 8 History of Uzbekistan filed as Book 3)
+- Verdict: COMPLETE
+- Tally: 43 placements — 17 to existing lessons, 26 NEW LESSON NEEDED
+- Uzbekistan's own way: the world half of the Grade 8 pair runs the classic Soviet-shaped 'new history' — discoveries, Reformation, revolutions, industrialisation — but gives Asia (India, China, Japan, the Ottomans, Iran, Afghanistan) a full chapter of its own in each period and closes with science, literature and art as history too.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+**Book 6 — Vsemirnaya istoriya / World History, Grade 9 (student book, Russian)**
+- Title as printed: Всемирная история 9 (Vsemirnaya istoriya — World History), textbook for Grade 9 of the general secondary school, recommended by the Ministry of Public Education of the Republic of Uzbekistan; authors Moyli Fozilovich Lafasov, Usmon Jo'rayev, Eshqobil Xoliqov, Dilorom Qodirova (Russian edition, translated by Z. A. Mirzakhakimova from the Uzbek original Jahon tarixi)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Izdatel'stvo «Talqin» (Talqin Publishing), Tashkent; year 2006; no ISBN printed (imprint gives BBK 63.3(0)53я721; print run 26,000)
+- PDF pages: 160 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 12 to existing lessons, 24 NEW LESSON NEEDED
+- Uzbekistan's own way: the world from the 1870s to 1918 told in 43 short paragraphs grouped by region — Europe and America, then Russia and the Balkans, then Asia and Africa, then the First World War, closing with science and culture; every paragraph carries the same study furniture (terms boxes, "For reflection", questions and tasks, discussion topics), and the story is framed from the start as lessons for building Uzbekistan's own statehood.
+- Read method: image-only scan with no text layer; a tesseract (rus) OCR pass was attempted and timed out with no output on a single page (120 s), so the book was read from rendered pages — cover, title and imprint pages, the Introduction (printed p. 3), the full printed contents (printed pp. 157–158) and the opening and key spreads of every paragraph §§1–43 read visually, including the closing culture pages (printed pp. 150–156).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — §3 Socio-economic life in the countries of Western Europe at the beginning of the new period — story beats: manufactories gather workers under one roof, merchants become capitalists and peasants become wage-hands — a new economy inside the old order (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Uzbekistan, *Всемирная история 8 (World History 8 — The first period of modern history)*, printed p. 15 |
+| Uzbekistan part — Ch. I §1 Changes occurring in the epoch of monopoly capitalism at the end of the 19th – beginning of the 20th century — story beats: free competition gives way to cartels, syndicates and trusts (the Rhine-Westphalia coal syndicate holds 86.7% of Germany's coal), banks merge with industry into a financial oligarchy, capital is exported and the world is divided between the great monopolies (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Uzbekistan, *Всемирная история 9 (Vsemirnaya istoriya — World History), Grade 9*, printed p. 4 |
+| Uzbekistan part — Ch. III §14 The United States of America — story beats: trusts swallow whole industries — Morgan's 1901 Steel Corporation, the first billion-dollar company, and Rockefeller's Standard Oil with 90% of oil output — until two banks control 112 more and 2% of Americans own 60% of the nation's wealth (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Uzbekistan, *Всемирная история 9 (Vsemirnaya istoriya — World History), Grade 9*, printed p. 43 |
+
+Uzbekistan's own way (Book 4 — Vsemirnaya istoriya / World History, Grade 8 (student book, Russian)): the world half of the Grade 8 pair runs the classic Soviet-shaped 'new history' — discoveries, Reformation, revolutions, industrialisation — but gives Asia (India, China, Japan, the Ottomans, Iran, Afghanistan) a full chapter of its own in each period and closes with science, literature and art as history too. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Uzbekistan's own way (Book 6 — Vsemirnaya istoriya / World History, Grade 9 (student book, Russian)): the world from the 1870s to 1918 told in 43 short paragraphs grouped by region — Europe and America, then Russia and the Balkans, then Asia and Africa, then the First World War, closing with science and culture; every paragraph carries the same study furniture (terms boxes, "For reflection", questions and tasks, discussion topics), and the story is framed from the start as lessons for building Uzbekistan's own statehood. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, modern-world/capitalism-private-ownership-factories-new-classes

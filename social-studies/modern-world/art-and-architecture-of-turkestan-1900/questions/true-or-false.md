@@ -1,0 +1,9 @@
+# Art and Architecture of Turkestan 1900 — true or false
+
+Say True or False, and why.
+
+**1. (Sub lesson 1)** Samarkand, Kokand and Bukhara miniaturists paint steamships and railways into old walls; maqom and shashmaqom music, dastan epics and the first printing houses (sampled in the chapter's pages) carry the culture through dependence.
+**Answer: True** — the book tells this in Ch. 8 §§39–40 The development of architecture and art in the krai
+
+**2. (Sub lesson 1)** This part of *История Узбекистана (History of Uzbekistan — second half of the 19th to beginning of the 20th century), Grade 9* is about a different part of this story, told in another lesson of this expansion.
+**Answer: False** — it is about Ch. 8 §§39–40 The development of architecture and art in the krai

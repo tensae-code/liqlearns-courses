@@ -1,6 +1,6 @@
 # Sources — Germany unifies — Bismarck, Blood and Iron, Versailles 1871
 
-countries: Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan
+countries: Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan, Uzbekistan
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -159,3 +159,40 @@ Sudan's own way (Book 6 — sd-g11 (student book, Arabic)): the modern story is 
 **Acceptance count: taught in 6 countries (Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, modern-world/germany-unifies-bismarck-blood-and-iron
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 4 — Vsemirnaya istoriya / World History, Grade 8 (student book, Russian)**
+- Title as printed: Всемирная история 8 — Первый период новой истории (XVI – 60-е годы XIX веков) — World History 8: The first period of modern history (16th century – 1860s); authors U. Juraev, R. Farmonov, Sh. Ergashev
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom imeni Chulpana, Tashkent; year 2006; no ISBN printed in the pages checked
+- PDF pages: 161 (cover/title page verified against the record title — a different book from the Grade 8 History of Uzbekistan filed as Book 3)
+- Verdict: COMPLETE
+- Tally: 43 placements — 17 to existing lessons, 26 NEW LESSON NEEDED
+- Uzbekistan's own way: the world half of the Grade 8 pair runs the classic Soviet-shaped 'new history' — discoveries, Reformation, revolutions, industrialisation — but gives Asia (India, China, Japan, the Ottomans, Iran, Afghanistan) a full chapter of its own in each period and closes with science, literature and art as history too.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+**Book 6 — Vsemirnaya istoriya / World History, Grade 9 (student book, Russian)**
+- Title as printed: Всемирная история 9 (Vsemirnaya istoriya — World History), textbook for Grade 9 of the general secondary school, recommended by the Ministry of Public Education of the Republic of Uzbekistan; authors Moyli Fozilovich Lafasov, Usmon Jo'rayev, Eshqobil Xoliqov, Dilorom Qodirova (Russian edition, translated by Z. A. Mirzakhakimova from the Uzbek original Jahon tarixi)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Izdatel'stvo «Talqin» (Talqin Publishing), Tashkent; year 2006; no ISBN printed (imprint gives BBK 63.3(0)53я721; print run 26,000)
+- PDF pages: 160 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 12 to existing lessons, 24 NEW LESSON NEEDED
+- Uzbekistan's own way: the world from the 1870s to 1918 told in 43 short paragraphs grouped by region — Europe and America, then Russia and the Balkans, then Asia and Africa, then the First World War, closing with science and culture; every paragraph carries the same study furniture (terms boxes, "For reflection", questions and tasks, discussion topics), and the story is framed from the start as lessons for building Uzbekistan's own statehood.
+- Read method: image-only scan with no text layer; a tesseract (rus) OCR pass was attempted and timed out with no output on a single page (120 s), so the book was read from rendered pages — cover, title and imprint pages, the Introduction (printed p. 3), the full printed contents (printed pp. 157–158) and the opening and key spreads of every paragraph §§1–43 read visually, including the closing culture pages (printed pp. 150–156).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — §27 Germany in the first half and 1860s of the 19th century (German part) — story beats: Bismarck unifies Germany by blood and iron through three wars, ending the princes' Germany of §17 (History expansion, 2026-11-15; original placement slug: modern-world/germany-unifies-bismarck-blood-and-iron) | Uzbekistan, *Всемирная история 8 (World History 8 — The first period of modern history)*, printed p. 103 |
+| Uzbekistan part — Ch. II §3 The Franco-Prussian War and its results — story beats: Bismarck edits the Ems Dispatch to bait France into declaring war (17 July 1870); Napoleon III is trapped at Sedan and surrenders — the war that finishes German unification begins with a doctored telegram (History expansion, 2026-11-15; original placement slug: modern-world/germany-unifies-bismarck-blood-and-iron) | Uzbekistan, *Всемирная история 9 (Vsemirnaya istoriya — World History), Grade 9*, printed p. 16 |
+| Uzbekistan part — Ch. II §8 Germany at the end of the 19th – beginning of the 20th century: the formation of the Empire — story beats: the 1871 Constitution makes the Prussian king emperor and Bismarck, the Iron Chancellor, its real ruler for twenty years; unification creates one market, and French milliards in reparations plus Lorraine's iron fire Germany's industrial leap (History expansion, 2026-11-15; original placement slug: modern-world/germany-unifies-bismarck-blood-and-iron) | Uzbekistan, *Всемирная история 9 (Vsemirnaya istoriya — World History), Grade 9*, printed p. 28 |
+
+Uzbekistan's own way (Book 4 — Vsemirnaya istoriya / World History, Grade 8 (student book, Russian)): the world half of the Grade 8 pair runs the classic Soviet-shaped 'new history' — discoveries, Reformation, revolutions, industrialisation — but gives Asia (India, China, Japan, the Ottomans, Iran, Afghanistan) a full chapter of its own in each period and closes with science, literature and art as history too. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Uzbekistan's own way (Book 6 — Vsemirnaya istoriya / World History, Grade 9 (student book, Russian)): the world from the 1870s to 1918 told in 43 short paragraphs grouped by region — Europe and America, then Russia and the Balkans, then Asia and Africa, then the First World War, closing with science and culture; every paragraph carries the same study furniture (terms boxes, "For reflection", questions and tasks, discussion topics), and the story is framed from the start as lessons for building Uzbekistan's own statehood. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, modern-world/germany-unifies-bismarck-blood-and-iron

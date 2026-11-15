@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1465,3 +1465,39 @@ Jordan's own way (Book 16 — G7 Social Studies Term 2 (student book, Arabic)): 
 **Acceptance count: taught in 33 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 2 — Istoriya: Drevny mir / History: The Ancient World, Grade 6 (student book, Russian)**
+- Title as printed: История. Древний мир (Istoriya. Drevny mir — History: The Ancient World), textbook for Grade 6; authors A. S. Sagdullaev, V. A. Kostetsky
+- Editions in hand (same book, placed once): 3rd corrected and supplemented edition, Shark, Tashkent 2007 (record grade-06 full-year.pdf, 194 PDF pages — the edition read in full; printed pages below are its) and 4th corrected and supplemented edition, Yangiyul Poligraph Service, Tashkent 2009 (record grade-06 full-year-2.pdf, 192 PDF pages — spot-checked: cover, full contents and the Greco-Persian wars spread match the 3rd edition's content, with light renumbering to 54 sections)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: see editions above; year 2007 / 2009; no ISBN printed in the pages checked
+- PDF pages: 194 / 192 (cover/title pages verified against the record title)
+- Verdict: COMPLETE
+- Tally: 38 placements — 18 to existing lessons, 20 NEW LESSON NEEDED
+- Uzbekistan's own way: a full ancient-world course written from Central Asia outward — the standard Egypt–Mesopotamia–India–China–Greece–Rome march, but a whole section (IV) is reserved for Central Asia under the Achaemenids, Alexander, the Seleucids, Khorezm and the Kushans, and every world topic is tied back to the homeland's soil.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+**Book 5 — Istoriya Uzbekistana / History of Uzbekistan, Grade 9 (student book, Russian)**
+- Title as printed: История Узбекистана (Вторая половина XIX — начало XX вв.) — History of Uzbekistan (second half of the 19th – beginning of the 20th century), textbook for Grade 9, 2nd supplemented edition; authors G. A. Khidoyatov, V. A. Kostetsky
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: IPTD "Uzbekistan", Tashkent; year 2006; ISBN 5-640-03081-X
+- PDF pages: 161 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 1 to existing lessons, 25 NEW LESSON NEEDED
+- Uzbekistan's own way: the colonial half-century told as a national story — the khanates on the eve, the conquest campaign by campaign, then the colonial system dissected piece by piece (administration, land, courts), the resistance, the Jadid answer, and a long closing chapter on culture under dependence, from new-method schools to maqom music and the first printing houses.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — Conclusion 'At the sources of antiquity' and Appendices (glossary of historical terms, final review, name and place indexes) — story beats: the book closes by teaching its own reference tools — a term glossary, a final repetition and indexes of the ancient world's people and places (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Uzbekistan, *История. Древний мир (Istoriya. Drevny mir — History: The Ancient World), Grade 6*, printed pp. 179, 182–188 |
+| Uzbekistan part — Ch. 8 §§41–42 Let us repeat what we have learned; Index of historical concepts; History of Uzbekistan in names; Glossary of historical terms — story beats: the book closes with its own study apparatus — a name index and a glossary running from 'mushoira' poetry contests to 'yaksara' tax, teaching the terms as the period's evidence (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Uzbekistan, *История Узбекистана (History of Uzbekistan — second half of the 19th to beginning of the 20th century), Grade 9*, printed pp. 153, 155, 156 |
+
+Uzbekistan's own way (Book 2 — Istoriya: Drevny mir / History: The Ancient World, Grade 6 (student book, Russian)): a full ancient-world course written from Central Asia outward — the standard Egypt–Mesopotamia–India–China–Greece–Rome march, but a whole section (IV) is reserved for Central Asia under the Achaemenids, Alexander, the Seleucids, Khorezm and the Kushans, and every world topic is tied back to the homeland's soil. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Uzbekistan's own way (Book 5 — Istoriya Uzbekistana / History of Uzbekistan, Grade 9 (student book, Russian)): the colonial half-century told as a national story — the khanates on the eve, the conquest campaign by campaign, then the colonial system dissected piece by piece (administration, land, courts), the resistance, the Jadid answer, and a long closing chapter on culture under dependence, from new-method schools to maqom music and the first printing houses. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 34 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history

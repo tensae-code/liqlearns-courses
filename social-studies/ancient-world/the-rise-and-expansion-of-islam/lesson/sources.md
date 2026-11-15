@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -945,3 +945,25 @@ Jordan's own way (Book 26 — History of Jordan, Grade 11, Academic Track, Term 
 **Acceptance count: taught in 25 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)**
+- Title as printed: Рассказы по истории (Rasskazy po istorii — Stories from History), textbook for Grade 5 of the general school, 3rd revised edition; authors Kamariddin Usmanov, Usman Juraev, Buribay Akhmedov; translators I. A. Khudaiberganov, R. U. Azimova (Russian edition of the Uzbek original)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom imeni Chulpana, Tashkent; year 2007; ISBN 978-9943-05-085-3 (imprint page; back cover carries the variant 978-9943-05-087-7)
+- PDF pages: 177 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 46 placements — 16 to existing lessons, 30 NEW LESSON NEEDED
+- Uzbekistan's own way: history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — 19. The conquest of Central Asia by the Arabs — story beats: Arab armies cross the Oxus in the 7th–8th centuries; Qutayba's campaigns bring Islam to Mawarannahr, remaking the homeland's faith and letters (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Uzbekistan, *Рассказы по истории (Rasskazy po istorii — Stories from History), Grade 5*, printed p. 63 |
+
+Uzbekistan's own way (Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)): history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 26 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam

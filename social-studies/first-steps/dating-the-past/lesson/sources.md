@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1479,3 +1479,38 @@ Jordan's own way (Book 11 — G4 Social Studies Term 1 (student book, Arabic)): 
 **Acceptance count: taught in 36 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, first-steps/dating-the-past
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)**
+- Title as printed: Рассказы по истории (Rasskazy po istorii — Stories from History), textbook for Grade 5 of the general school, 3rd revised edition; authors Kamariddin Usmanov, Usman Juraev, Buribay Akhmedov; translators I. A. Khudaiberganov, R. U. Azimova (Russian edition of the Uzbek original)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom imeni Chulpana, Tashkent; year 2007; ISBN 978-9943-05-085-3 (imprint page; back cover carries the variant 978-9943-05-087-7)
+- PDF pages: 177 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 46 placements — 16 to existing lessons, 30 NEW LESSON NEEDED
+- Uzbekistan's own way: history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+**Book 4 — Vsemirnaya istoriya / World History, Grade 8 (student book, Russian)**
+- Title as printed: Всемирная история 8 — Первый период новой истории (XVI – 60-е годы XIX веков) — World History 8: The first period of modern history (16th century – 1860s); authors U. Juraev, R. Farmonov, Sh. Ergashev
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom imeni Chulpana, Tashkent; year 2006; no ISBN printed in the pages checked
+- PDF pages: 161 (cover/title page verified against the record title — a different book from the Grade 8 History of Uzbekistan filed as Book 3)
+- Verdict: COMPLETE
+- Tally: 43 placements — 17 to existing lessons, 26 NEW LESSON NEEDED
+- Uzbekistan's own way: the world half of the Grade 8 pair runs the classic Soviet-shaped 'new history' — discoveries, Reformation, revolutions, industrialisation — but gives Asia (India, China, Japan, the Ottomans, Iran, Afghanistan) a full chapter of its own in each period and closes with science, literature and art as history too.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — 3. Reckoning of time in history and 4. The calendar and its meaning — story beats: centuries, eras and BC/AD counting are taught as the historian's ruler, then calendars — solar, lunar, Julian and Gregorian — as humanity's way of keeping the years (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Uzbekistan, *Рассказы по истории (Rasskazy po istorii — Stories from History), Grade 5*, printed pp. 9, 13 |
+| Uzbekistan part — Appendix: The most important historical dates — story beats: the course's whole span compressed into one dated list, teaching learners to hold 350 years on a single line (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Uzbekistan, *Всемирная история 8 (World History 8 — The first period of modern history)*, printed p. 154 |
+
+Uzbekistan's own way (Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)): history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Uzbekistan's own way (Book 4 — Vsemirnaya istoriya / World History, Grade 8 (student book, Russian)): the world half of the Grade 8 pair runs the classic Soviet-shaped 'new history' — discoveries, Reformation, revolutions, industrialisation — but gives Asia (India, China, Japan, the Ottomans, Iran, Afghanistan) a full chapter of its own in each period and closes with science, literature and art as history too. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 37 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, first-steps/dating-the-past

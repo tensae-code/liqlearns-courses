@@ -1,6 +1,6 @@
 # Sources — Trade routes that linked the old world
 
-countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan
+countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan, Uzbekistan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -388,3 +388,39 @@ Jordan's own way (Book 15 — G7 Social Studies Term 1 (student book, Arabic)): 
 **Acceptance count: taught in 14 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/trade-routes-that-linked-the-old-world
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)**
+- Title as printed: Рассказы по истории (Rasskazy po istorii — Stories from History), textbook for Grade 5 of the general school, 3rd revised edition; authors Kamariddin Usmanov, Usman Juraev, Buribay Akhmedov; translators I. A. Khudaiberganov, R. U. Azimova (Russian edition of the Uzbek original)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom imeni Chulpana, Tashkent; year 2007; ISBN 978-9943-05-085-3 (imprint page; back cover carries the variant 978-9943-05-087-7)
+- PDF pages: 177 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 46 placements — 16 to existing lessons, 30 NEW LESSON NEEDED
+- Uzbekistan's own way: history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+**Book 2 — Istoriya: Drevny mir / History: The Ancient World, Grade 6 (student book, Russian)**
+- Title as printed: История. Древний мир (Istoriya. Drevny mir — History: The Ancient World), textbook for Grade 6; authors A. S. Sagdullaev, V. A. Kostetsky
+- Editions in hand (same book, placed once): 3rd corrected and supplemented edition, Shark, Tashkent 2007 (record grade-06 full-year.pdf, 194 PDF pages — the edition read in full; printed pages below are its) and 4th corrected and supplemented edition, Yangiyul Poligraph Service, Tashkent 2009 (record grade-06 full-year-2.pdf, 192 PDF pages — spot-checked: cover, full contents and the Greco-Persian wars spread match the 3rd edition's content, with light renumbering to 54 sections)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: see editions above; year 2007 / 2009; no ISBN printed in the pages checked
+- PDF pages: 194 / 192 (cover/title pages verified against the record title)
+- Verdict: COMPLETE
+- Tally: 38 placements — 18 to existing lessons, 20 NEW LESSON NEEDED
+- Uzbekistan's own way: a full ancient-world course written from Central Asia outward — the standard Egypt–Mesopotamia–India–China–Greece–Rome march, but a whole section (IV) is reserved for Central Asia under the Achaemenids, Alexander, the Seleucids, Khorezm and the Kushans, and every world topic is tied back to the homeland's soil.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — 16. The Great Silk Road — story beats: caravans link China to the Mediterranean through Samarkand and Bukhara; silk, paper and ideas travel the same road and make the homeland the world's crossroads (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Uzbekistan, *Рассказы по истории (Rasskazy po istorii — Stories from History), Grade 5*, printed p. 55 |
+| Uzbekistan part — §46 The Great Silk Road — story beats: Zhang Qian's journey opens the road; through Kushan and Sogdian hands silk, glass, horses and religions travel between China, India, Iran and Rome (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Uzbekistan, *История. Древний мир (Istoriya. Drevny mir — History: The Ancient World), Grade 6*, printed p. 144 |
+
+Uzbekistan's own way (Book 1 — Rasskazy po istorii / Stories from History, Grade 5 (student book, Russian)): history enters as short narrative "stories" (rasskazy) — one homeland lesson first, then the whole world story told in 56 little chapters, with Central Asia's own heroes (Tomaris, Shirak, Manguberdi, Tarabi, Amir Temur, Babur) woven through every age and the book closing in independent Uzbekistan and the 21st century. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Uzbekistan's own way (Book 2 — Istoriya: Drevny mir / History: The Ancient World, Grade 6 (student book, Russian)): a full ancient-world course written from Central Asia outward — the standard Egypt–Mesopotamia–India–China–Greece–Rome march, but a whole section (IV) is reserved for Central Asia under the Achaemenids, Alexander, the Seleucids, Khorezm and the Kushans, and every world topic is tied back to the homeland's soil. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, ancient-world/trade-routes-that-linked-the-old-world

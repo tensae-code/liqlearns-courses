@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -379,3 +379,25 @@ Yemen's own way (Book 10 — G11 History Part 2 (student book, Arabic)): Part 2 
 **Acceptance count: taught in 14 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, first-steps/historiography-the-history-of-history-writing
+
+## History expansion (2026-11-15) — Uzbekistan stocked
+
+**Book 3 — Istoriya Uzbekistana / History of Uzbekistan, Grade 8 (student book, Russian)**
+- Title as printed: История Узбекистана 8 (XVI — середина XIX века) — History of Uzbekistan 8 (16th – mid-19th century); authors K. Usmanov, U. Juraev, N. Norkulov; Russian edition (translated from Uzbek)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Izdatel'sko-poligrafichesky tvorchesky dom "O'qituvchi", Tashkent; year 2006; no ISBN printed in the pages checked
+- PDF pages: 161 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 1 to existing lessons, 23 NEW LESSON NEEDED
+- Uzbekistan's own way: from Grade 8 the course turns from world stories to the homeland alone — three centuries of the Bukhara, Khiva and Kokand khanates and the Karakalpaks, told state by state (politics, economy, cities, culture, sources), ending by asking why the khanates fell behind on the eve of conquest.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uzbekistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — Ch. V §27 The historians of the history of the Khiva Khanate — story beats: Munis and his nephew Agahi write Khiva's own chronicles at court — the khanate telling its own story is itself a source the student must weigh (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Uzbekistan, *История Узбекистана 8 (History of Uzbekistan 8 — 16th to mid-19th century)*, printed p. 106 |
+
+Uzbekistan's own way (Book 3 — Istoriya Uzbekistana / History of Uzbekistan, Grade 8 (student book, Russian)): from Grade 8 the course turns from world stories to the homeland alone — three centuries of the Bukhara, Khiva and Kokand khanates and the Karakalpaks, told state by state (politics, economy, cities, culture, sources), ending by asking why the khanates fell behind on the eve of conquest. That way is stocked here as the way Uzbekistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan).**
+
+Searchable tags: Uzbekistan, History expansion 2026-11-15, first-steps/historiography-the-history-of-history-writing
