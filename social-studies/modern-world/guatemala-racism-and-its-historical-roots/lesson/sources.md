@@ -1,0 +1,20 @@
+# Sources — Guatemala — racism and its historical roots
+
+countries: Guatemala
+
+**Book (Guatemala gt-g8guide):** Title as printed: Ciencias Sociales y Formación Ciudadana II — Guía de orientaciones metodológicas para docentes de segundo básico (Juntos construimos la paz) Grade: Grade 8 / segundo básico (student/teacher: TEACHER) Publisher: Ministerio de Educación de Guatemala (DIGEBI/DIGECADE/DIGECUR); Guatemala, 2017, primera edición; no ISBN printed PDF pages: 88 (cover verified against the record title; byte size 20,381,147 and page count 88 match the books.json record exactly — the grade-08 TSV release copy was used after the books.json tree path returned 404; the grade-08 TSV + books.json records are this one book) Verdict: COMPLETE Combined book — non-History parts named, not placed: peace-education / violence-prevention civics: Violencia de género y violencia contra la mujer indígena (printed pp. 15–32), El adulto mayor víctima de la violencia intrafamiliar (pp. 33–48), Violencia contra los discapacitados (pp. 49–64, case study apart from its history sheet), Violencia por racismo escolar activities (pp. 65–75), and general teacher orientations (pp. 79–84). No Geography parts. Tally: 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED Guatemala's own way: the segundo básico guide reads today's violence through the country's own history — racism is taught as a domination built over centuries and still lived daily by the Maya peoples, and each class still opens with the nawal of the day. Placements at liqlearns-courses-work/expansion-history-2026-11-15/guatemala-placements.md.
+
+This book is a teacher guide, cited as the evidence it is, outside acceptance counts.
+
+This lesson stands on teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — 2002 — the restaurant door (teacher guide — evidence): Case in the gender-violence reading: the 2002 restaurant exclusion of Dr Irma Alicia Velásquez Nimatuj — story beats: a Maya K'iche' anthropologist in gala traditional dress is turned away from a Guatemala City restaurant while ladina companions are let in; her case becomes a landmark in the national fight against racism (original placement slug: modern-world/guatemala-racism-and-its-historical-roots) | Guatemala, *Ciencias Sociales y Formación Ciudadana II — Guía de orientaciones metodológicas para docentes de segundo básico*, printed p. 28 (teacher guide — evidence) |
+| Sub lesson 2 — El racismo escolar — racism defined (teacher guide — evidence): Content sheet "El racismo escolar" — story beats: racism is defined as a relation of domination built on telling peoples apart to strip their goods, its prejudices formed across history; in Guatemala the Maya peoples meet it daily — in schools, hospitals, buses and government — in everyday phrases the guide lists and names as racist (original placement slug: modern-world/guatemala-racism-and-its-historical-roots) | Guatemala, *Ciencias Sociales y Formación Ciudadana II — Guía de orientaciones metodológicas para docentes de segundo básico*, printed p. 76 (teacher guide — evidence) |
+
+Guatemala's own way (Ciencias Sociales y Formación Ciudadana II — Guía de orientaciones metodológicas para docentes de segundo básico): the segundo básico guide reads today's violence through the country's own history — racism is taught as a domination built over centuries and still lived daily by the Maya peoples, and each class still opens with the nawal of the day. That way is stocked here as the way Guatemala teaches this thing (teacher guide — evidence). The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Guatemala), named here, counted nowhere.**
+
+Searchable tags: Guatemala — racism and its historical roots, Guatemala, modern-world, History expansion 2026-11-15

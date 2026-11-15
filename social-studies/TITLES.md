@@ -2573,7 +2573,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **485**
+History lessons across the History titles: **506**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3079,3 +3079,51 @@ civilisations — Greece-Crete 3 → 4, Ancient
 civilisations — Sparta, and Athens against Sparta
 1 → 2, and Nationalism — the feeling that made
 nation-states 2 → 3.
+
++21 for Guatemala, 2026-11-15 — Ancient World:
+Americas' first peoples — Paleoindian and Archaic,
+Mesoamerica — maize and the shared culture, and
+Guatemala — Postclassic peoples and their books;
+Modern World: Guatemala's four peoples — Maya,
+Garífuna, Xinka, Ladino, Guatemala — conquest and
+Tecún Umán, Guatemala — the colonial era,
+Guatemala — living traditions: cofradías, dances
+and festivals, Guatemala — independence: causes
+and proclamation, Guatemala — annexation,
+Federation and Morazán, Guatemala — the
+conservative regime and Carrera, Guatemala — the
+Liberal Reform of 1871, Guatemala — dictatorships:
+Estrada Cabrera and Ubico, Central America —
+foreign intervention and the banana companies,
+Belize and Guatemala's territorial claim,
+Guatemala — Revolution of 1944 and the Spring,
+Guatemala — the internal armed conflict, Central
+America — armed conflicts: El Salvador and
+Nicaragua, Guatemala — the peace process and
+accords, Guatemala — from peace to the present,
+Guatemala — ancestral authorities and Maya justice,
+and Guatemala — racism and its historical roots.
+All 47 Guatemala placements stand on Guatemala's
+Grade 4 student book (Ciencias Sociales y
+Formación Ciudadana, Cuarto grado, Ministerio de
+Educación, 2017), counted in acceptance, and its
+four teacher guides (second-cycle primary, Grades
+4–6, and primero, segundo and tercero básico,
+2017), cited as teacher-guide evidence only,
+outside acceptance counts. Book 6, the
+full-quality oversized copy, is the same book as
+Book 1 — parallel copy, placed once, 0 separate
+placements. The two guide-only new lessons
+(ancestral authorities and Maya justice; racism
+and its historical roots) stand on teacher-guide
+evidence only, counted nowhere. The six existing
+lessons stocked and counted rise with Guatemala
+added: Find history in your own locality 5 → 6,
+The Maya 1 → 2, Exploration — causes and results
+2 → 3, Exploration — Columbus, Vespucci and
+Magellan 2 → 3, From evidence to a written history
+5 → 6, and Heritage — what it is and why it
+matters 22 → 23. Ancient civilisations — Sparta,
+and Athens against Sparta is stocked with a
+Guatemala teacher-guide placement only and is
+unchanged in count (2).

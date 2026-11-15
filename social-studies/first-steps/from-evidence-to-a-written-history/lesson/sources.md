@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -152,3 +152,20 @@ Bangladesh's own way (Grade 7): Class Seven re-reads the whole past through one 
 Bangladesh's own way (Grade 8): Class Eight turns to social and cultural history — how ordinary people's language, faith, food, festivals and art change over centuries — and reads even Egypt, Mesopotamia and Greece through society and culture rather than kings and battles. That way is stocked here as the way Bangladesh teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh).**
+
+
+---
+
+## History expansion (2026-11-15) — Guatemala stocked
+
+**Book (Guatemala gt-g4):** Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado Grade: Grade 4 (student/teacher: STUDENT) Publisher: Ministerio de Educación de Guatemala (elaborated under USAID/Reforma Educativa en el Aula, Juárez y Asociados, with FUCUDE); impresión 2017; ISBN 978-9929-596-13-9 PDF pages: 256 (cover/title page verified against the record title; byte size 25,726,392 matches the books.json record exactly — the TSV mid-size-books-7 copy and the books.json pushed copy are this same book; the full-quality-oversized TSV copy is checked separately as Book 2) Verdict: COMPLETE Combined book — non-History parts named, not placed: Geography — spatial location, cardinal points, latitude/longitude (printed pp. 34–35), Central America country data, climate and relief (pp. 36–41), Central America isthmus, seas, biodiversity, mountains, volcanoes, roads and transport (pp. 82–92), rivers, lakes, gulfs, tectonic plates, ports, Panama Canal (pp. 130–138), migrations, population density, protected areas, tourism sites, telecommunications (pp. 178–186). Civics/values — government institutions of Guatemala (pp. 30–31, 167–168), human rights, children's and women's rights, coexistence, tolerance, bullying, the interview (pp. 43–51), respect, responsibility, organising information (pp. 93–100), punctuality, honesty, citizen registration, the citizen, national symbols (pp. 139–150), peace culture, conflict resolution, the vote (pp. 187–192), research techniques and process (pp. 147, 195), free-trade treaties and OEA (p. 166). Tally: 32 placements — 8 to existing lessons, 24 NEW LESSON NEEDED Guatemala's own way: the national story is told as one continuous timeline the child studies unit by unit (a shaded timeline opens each unit), anchored in the child's own community — old photographs of Tikal, "how has my community changed in fifty years", interviewing elders who lived the 1944 Revolution and the armed conflict — and the four peoples (Maya, Garífuna, Xinka, Ladino) frame identity throughout. Placements at liqlearns-courses-work/expansion-history-2026-11-15/guatemala-placements.md.
+
+Book 6 in the placements file (gt-g4hq, the full-quality oversized copy, 118,030,587 bytes, 258 PDF pages) is the SAME BOOK as Book 1 — a parallel copy, placed once as Book 1, with 0 separate placements. Named here, not placed separately.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guatemala part — Tecum Umam: ¿personaje mítico o histórico? — story beats: Alvarado's letter never names Tecum, an indigenous Título de K'oyoi does; the book weighs both sources and concludes the captain existed, while his single duel with Alvarado stays an open question (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Guatemala, *Ciencias Sociales y Formación Ciudadana, Cuarto grado*, printed p. 67 |
+
+Guatemala's own way (Ciencias Sociales y Formación Ciudadana, Cuarto grado): the national story is told as one continuous timeline the child studies unit by unit (a shaded timeline opens each unit), anchored in the child's own community — old photographs of Tikal, "how has my community changed in fifty years", interviewing elders who lived the 1944 Revolution and the armed conflict — and the four peoples (Maya, Garífuna, Xinka, Ladino) frame identity throughout. That way is stocked here as the way Guatemala teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala).**

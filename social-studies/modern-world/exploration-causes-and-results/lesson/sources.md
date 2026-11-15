@@ -1,6 +1,6 @@
 # Sources — Exploration — causes and results
 
-countries: Ethiopia, United States
+countries: Ethiopia, United States, Guatemala
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 125).
 
@@ -31,3 +31,20 @@ The United States' own way: a single national survey from before 1492 to the Oba
 The United States' other three records are RECORD-ONLY, not History books, with 0 placements: *American Government 3e* (Grade 13, student book, OpenStax, ©2021 Rice University, ISBN 978-1-951693-38-1 — Government/Civics, owned by the Civics folder work); *Psychology 2e* (Grade 13, student book, OpenStax, ©2026 Rice University — Psychology, owned by the Psychology course work); and *Principles of Microeconomics for AP® Courses 2e* (Grade 12, student book, OpenStax, ©2017 Rice University — Economics, owned by the Business/Commerce/Economics course work). Named here, not placed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, United States).**
+
+
+---
+
+## History expansion (2026-11-15) — Guatemala stocked
+
+**Book (Guatemala gt-g4):** Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado Grade: Grade 4 (student/teacher: STUDENT) Publisher: Ministerio de Educación de Guatemala (elaborated under USAID/Reforma Educativa en el Aula, Juárez y Asociados, with FUCUDE); impresión 2017; ISBN 978-9929-596-13-9 PDF pages: 256 (cover/title page verified against the record title; byte size 25,726,392 matches the books.json record exactly — the TSV mid-size-books-7 copy and the books.json pushed copy are this same book; the full-quality-oversized TSV copy is checked separately as Book 2) Verdict: COMPLETE Combined book — non-History parts named, not placed: Geography — spatial location, cardinal points, latitude/longitude (printed pp. 34–35), Central America country data, climate and relief (pp. 36–41), Central America isthmus, seas, biodiversity, mountains, volcanoes, roads and transport (pp. 82–92), rivers, lakes, gulfs, tectonic plates, ports, Panama Canal (pp. 130–138), migrations, population density, protected areas, tourism sites, telecommunications (pp. 178–186). Civics/values — government institutions of Guatemala (pp. 30–31, 167–168), human rights, children's and women's rights, coexistence, tolerance, bullying, the interview (pp. 43–51), respect, responsibility, organising information (pp. 93–100), punctuality, honesty, citizen registration, the citizen, national symbols (pp. 139–150), peace culture, conflict resolution, the vote (pp. 187–192), research techniques and process (pp. 147, 195), free-trade treaties and OEA (p. 166). Tally: 32 placements — 8 to existing lessons, 24 NEW LESSON NEEDED Guatemala's own way: the national story is told as one continuous timeline the child studies unit by unit (a shaded timeline opens each unit), anchored in the child's own community — old photographs of Tikal, "how has my community changed in fifty years", interviewing elders who lived the 1944 Revolution and the armed conflict — and the four peoples (Maya, Garífuna, Xinka, Ladino) frame identity throughout. Placements at liqlearns-courses-work/expansion-history-2026-11-15/guatemala-placements.md.
+
+Book 6 in the placements file (gt-g4hq, the full-quality oversized copy, 118,030,587 bytes, 258 PDF pages) is the SAME BOOK as Book 1 — a parallel copy, placed once as Book 1, with 0 separate placements. Named here, not placed separately.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guatemala part — Europa en el siglo XV — story beats: Copernicus and Galileo move the Sun to the centre, Gutenberg's press spreads the new maps, the Turks take Constantinople and block the spice road — Europe must find another way east (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Guatemala, *Ciencias Sociales y Formación Ciudadana, Cuarto grado*, printed p. 61 |
+
+Guatemala's own way (Ciencias Sociales y Formación Ciudadana, Cuarto grado): the national story is told as one continuous timeline the child studies unit by unit (a shaded timeline opens each unit), anchored in the child's own community — old photographs of Tikal, "how has my community changed in fifty years", interviewing elders who lived the 1944 Revolution and the armed conflict — and the four peoples (Maya, Garífuna, Xinka, Ladino) frame identity throughout. That way is stocked here as the way Guatemala teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, United States, Guatemala).**

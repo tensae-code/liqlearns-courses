@@ -9660,3 +9660,116 @@ civilisations — Greece-Crete 3 → 4, Ancient
 civilisations — Sparta, and Athens against Sparta
 1 → 2, and Nationalism — the feeling that made
 nation-states 2 → 3. History lessons: 472 → 485.
+
+## History expansion — Guatemala — built 2026-11-15
+
+21 new lessons, 168 questions: in **The Ancient
+World**: Americas' first peoples — Paleoindian and
+Archaic
+(ancient-world/americas-first-peoples-paleoindian-and-archaic),
+Mesoamerica — maize and the shared culture
+(ancient-world/mesoamerica-maize-and-the-shared-culture)
+and Guatemala — Postclassic peoples and their
+books
+(ancient-world/guatemala-postclassic-peoples-and-their-books);
+in **The Modern World**: Guatemala's four peoples
+— Maya, Garífuna, Xinka, Ladino
+(modern-world/guatemalas-four-peoples-maya-garifuna-xinka-ladino),
+Guatemala — conquest and Tecún Umán
+(modern-world/guatemala-conquest-and-tecun-uman),
+Guatemala — the colonial era
+(modern-world/guatemala-colonial-era), Guatemala —
+living traditions: cofradías, dances and festivals
+(modern-world/guatemala-living-traditions-cofradias-dances-and-festivals),
+Guatemala — independence: causes and proclamation
+(modern-world/guatemala-independence-causes-and-proclamation),
+Guatemala — annexation, Federation and Morazán
+(modern-world/guatemala-annexation-federation-and-morazan),
+Guatemala — the conservative regime and Carrera
+(modern-world/guatemala-conservative-regime-and-carrera),
+Guatemala — the Liberal Reform of 1871
+(modern-world/guatemala-liberal-reform-of-1871),
+Guatemala — dictatorships: Estrada Cabrera and
+Ubico
+(modern-world/guatemala-dictatorships-estrada-cabrera-and-ubico),
+Central America — foreign intervention and the
+banana companies
+(modern-world/central-america-foreign-intervention-and-the-banana-companies),
+Belize and Guatemala's territorial claim
+(modern-world/belize-and-guatemalas-territorial-claim),
+Guatemala — Revolution of 1944 and the Spring
+(modern-world/guatemala-revolution-of-1944-and-the-spring),
+Guatemala — the internal armed conflict
+(modern-world/guatemala-internal-armed-conflict),
+Central America — armed conflicts: El Salvador
+and Nicaragua
+(modern-world/central-america-armed-conflicts-el-salvador-and-nicaragua),
+Guatemala — the peace process and accords
+(modern-world/guatemala-peace-process-and-accords),
+Guatemala — from peace to the present
+(modern-world/guatemala-from-peace-to-the-present),
+Guatemala — ancestral authorities and Maya justice
+(modern-world/guatemala-ancestral-authorities-and-maya-justice)
+and Guatemala — racism and its historical roots
+(modern-world/guatemala-racism-and-its-historical-roots)
+— 47 placements stocked in all from Guatemala's
+six books: the Grade 4 student book *Ciencias
+Sociales y Formación Ciudadana, Cuarto grado*
+(Ministerio de Educación, impresión 2017, ISBN
+978-9929-596-13-9; 32 placements: Tikal and the
+locality, printed p. 12, Paleoindian/Archaic,
+p. 13, Mesoamerica and maize, p. 15, the Maya
+Preclassic and Classic, pp. 17–18, the Postclassic
+peoples and their books, p. 20, the four peoples,
+p. 25, Europe in the 15th century, p. 61,
+Columbus and the other discoveries, pp. 62–64,
+the conquest and Tecún Umán, pp. 65–67, the
+colonial era, pp. 68–70, living traditions,
+p. 73, heritage of the four peoples, p. 121,
+independence, pp. 109–110, annexation and the
+Federation, p. 111, Carrera, p. 113, the Liberal
+Reform, p. 114, Estrada Cabrera and Ubico,
+p. 115, the banana intervention, p. 117, Belize,
+p. 118, the Revolution of 1944 and its undoing,
+pp. 157–159, the internal armed conflict,
+p. 160, Central America's conflicts, p. 162, the
+peace process, p. 163, and from peace to the
+present, p. 164, into new lessons and Find history
+in your own locality, The Maya, Exploration —
+causes and results, Exploration — Columbus,
+Vespucci and Magellan, From evidence to a written
+history and Heritage); the second-cycle primary
+teacher guide, Grades 4–6 (5 placements: the four
+peoples' learning, p. 10, Maya cosmovision,
+p. 24, interviewing grandparents, p. 25, the
+many-peoples activities, p. 28, and Maya justice,
+p. 59, into new lessons and existing lessons, as
+teacher-guide evidence only); the primero básico
+teacher guide, Grade 7 (2017; 3 placements: the
+four peoples' learning, p. 9, the three peoples'
+values, p. 33, and the Nawales annex, p. 85, into
+new and existing lessons, as evidence only); the
+segundo básico teacher guide, Grade 8 (2017; 5
+placements: the four peoples' learning, p. 9, the
+Velásquez Nimatuj case, p. 28, disability in the
+ancient world, p. 60, school racism, p. 76, and
+the Nawales annex, p. 85, into new and existing
+lessons, as evidence only); and the tercero
+básico teacher guide, Grade 9 (2017; 2
+placements: the four peoples' learning, p. 9, and
+the Nawales annex, p. 85, into new and existing
+lessons, as evidence only). Book 6 (gt-g4hq) is
+the same book as Book 1 — a full-quality oversized
+parallel copy, placed once as Book 1, 0 separate
+placements. The two guide-only new lessons stand
+on teacher-guide evidence only, counted nowhere.
+The six existing lessons stocked and counted rise
+with Guatemala added: Find history in your own
+locality 5 → 6, The Maya 1 → 2, Exploration —
+causes and results 2 → 3, Exploration — Columbus,
+Vespucci and Magellan 2 → 3, From evidence to a
+written history 5 → 6, and Heritage — what it is
+and why it matters 22 → 23. Ancient civilisations
+— Sparta, and Athens against Sparta is stocked
+with a Guatemala teacher-guide placement only and
+is unchanged in count. History lessons: 485 → 506.
