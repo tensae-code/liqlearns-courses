@@ -1,6 +1,6 @@
 # Sources — Reading a population pyramid
 
-countries: Ethiopia, Barbados, Haiti
+countries: Ethiopia, Barbados, Haiti, Turkmenistan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Barbados, Haiti
 
 **Book 4:** *Sciences humaines et sociales — Géographie — Population urbaine et population rurale en Haïti* (teacher sequence, French) — Haiti, MENFP / Projet Nectar (Canoprof), 8e année; authors Mélanie Albaret, Arnaud Dechelle. Title as printed: Sciences humaines et sociales — Géographie — Population urbaine et population rurale en Haïti (Projet Nectar, MENFP, 8e année). Grade 8 (teacher). Publisher: MENFP / Projet Nectar (Canoprof); year not printed; no ISBN printed (CC BY-NC-SA licence printed). 24 PDF pp. (first page verified against the record title — this PDF opens directly on the sequence presentation page). Verdict: COMPLETE. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
 
+**Book 5:** *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)* (student book, Turkmen) — Turkmenistan, Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2022; no ISBN printed (UDC 373:911.3; order no. 2149). Title as printed: Dünýäniň ykdysady we durmuş geografiýasy (Umumy orta bilim berýän mekdepleriň X synpy üçin okuw kitaby). Grade 10 (X synp) (student). 264 PDF pp. (cover/title page verified against the record title; 264 pages exact match to the books.json record; read via grab.py url (GitHub release; byte size 7,680,130 exact match to the books.json record), verified by pdfinfo + title page; contents read from the printed Mazmuny (pp. 260-262)). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release URL + books.json record are the same book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkmenistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The pyramid’s shape | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 91–94 |
@@ -18,11 +20,14 @@ countries: Ethiopia, Barbados, Haiti
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 4 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 4, guide printed pp. 99–142 |
 | Barbados part — population trends and population structure (case studies China, Montserrat, Jamaica, Trinidad & Tobago, Puerto Rico) | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 9: population trends and population structure (case studies China, Montserrat, Jamaica, Trinidad & Tobago, Puerto Rico) — printed p. 185 |
 | Haiti part — Séance 1, Temps 4 La pyramide des âges d'Haïti (interprétation comparée de plusieurs pyramides) (teacher sequence — evidence) | Haiti, *Sciences humaines et sociales — Géographie — Population urbaine et population rurale en Haïti* (teacher sequence), Grade 8, Séance 1, Temps 4 La pyramide des âges d'Haïti (interprétation comparée de plusieurs pyramides) — printed p. 9 |
+| Turkmenistan part — §12 Age and sex composition of the world's population | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §12 Age and sex composition of the world's population — printed p. 51 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Barbados). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Barbados, Turkmenistan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Population geography is built entirely on Haiti's own data, handled critically: pupils confront the national statistics institute (IHSI) with international sources, note that the last census is 2003, build density maps and age pyramids themselves, then read the whole country through Port-au-Prince's primacy and the diaspora («les Haïtiens de l'extérieur»). That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
 Searchable tags: population pyramid, age sex structure, broad based, young population, social studies, Haiti, Population urbaine et rurale, teacher sequence evidence
+
+Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.

@@ -2428,3 +2428,86 @@ Bangladesh's Land, People and Climate Challenge
 and Ports of Old Bengal, with three sub lessons, 12
 questions).
 Geography lessons: 878 → 889.
+
+## Geography expansion — Turkmenistan — built 2026-11-14
+
+Turkmenistan — 62 placements stocked from 2 records / 1
+distinct book: *Dünýäniň ykdysady we durmuş
+geografiýasy (World Economic and Social Geography)*
+(student book, Turkmen), Grade 10 (X synp), Türkmen
+döwlet neşirýat gullugy (Turkmen State Publishing
+Service), Aşgabat, 2022, no ISBN printed (UDC
+373:911.3; order no. 2149), 264 PDF pp., COMPLETE —
+read via grab.py url (GitHub release; byte size
+7,680,130 exact match to the books.json record),
+verified by pdfinfo + title page; contents read from
+the printed Mazmuny (pp. 260-262). Turkmenistan's own
+way: a classic post-Soviet economic-and-social
+geography of the whole world in one book: Part I
+general world (political map, resources, population,
+world economy by sector), Part II the same template
+region by region and country by country, Part III
+global problems — with Turkmenistan's own memberships
+and ecological policy woven into the questions.
+Stocked into standing lessons (16 placements) across
+The Land and Air, Global Issues, People and
+Resources, Resources and Conflict, Population,
+Transport and Maps and Culture and Work. 45 NEW
+lessons built (46 placements; Eastern Europe — A
+Country Study carries two, §§35-36) — **Global
+Issues**: Periods of Formation of the World's
+Political Map (§1, p. 10), The Scientific-Technical
+Revolution (§16, p. 65), Global Problems — Peace,
+Ecology and Demography (§61, p. 233) and Other Global
+Problems of Humanity (§62, p. 238); **Population,
+Transport and Maps**: The World's Ethnic and
+Religious Composition (§13, p. 54); **Culture and
+Work**: The World Fuel Industry (§19, p. 77), The
+World Electric Power Industry (§20, p. 83) and
+Forest, Light and Food Industries (§23, p. 92);
+**People and Resources**: Classification and
+Typology of the World's States (§2, p. 13), World
+Mineral Resources (§6, p. 27), Resources of the World
+Ocean (§8, p. 36), Other Natural Resources — Energy
+and Recreation (§9, p. 41), The International
+Geographical Division of Labour (§17, p. 69), The
+Geography of World Economic Relations (§28, p. 110),
+Europe — Political Map, Nature and Population
+(Turkmenistan's View) (§29, p. 115), Europe's Economy
+— Its General Character (§30, p. 119), Europe's
+Historical-Geographical Regions (§31, p. 122),
+Western Europe — A Country Study (§32, p. 126),
+Germany — A Country Study (Turkmenistan's Book)
+(§33, p. 129), Southern Europe and Italy — A Country
+Study (§34, p. 133), Eastern Europe — A Country Study
+(§§35-36, pp. 138, 142), The Russian Federation — A
+Country Study (§37, p. 144), Asia — Political Map,
+Nature and Population (Turkmenistan's View) (§38,
+p. 149), Asia's Economy — Its General Character
+(§39, p. 152), Asia's Historical-Geographical Regions
+(§40, p. 155), Türkiye — A Country Study (§41,
+p. 160), South Asia and India — A Country Study
+(§42, p. 162), South-East Asia and Indonesia — A
+Country Study (§43, p. 168), East Asia and Japan — A
+Country Study (§44, p. 171), China — A Country Study
+(Turkmenistan's Book) (§45, p. 176), Central Asia — A
+Country Study (§46, p. 180), The Caucasus Countries —
+A Country Study (§47, p. 183), The USA — Location,
+Nature and Population (§48, p. 186), The Economy of
+the USA (§49, p. 189), Canada — A Country Study
+(Turkmenistan's Book) (§50, p. 193), Latin America —
+Political Map, Nature and Population (§51, p. 196),
+The Economies of Latin America (§52, p. 199), Latin
+America's Historical-Geographical Regions (§53,
+p. 203), Brazil — A Country Study (Turkmenistan's
+Book) (§54, p. 207), Africa — Political Map, Nature
+and Population (Turkmenistan's View) (§55, p. 212),
+Africa's Economy — Its General Character
+(Turkmenistan's Book) (§56, p. 215), Africa's
+Historical-Geographical Regions (§57, p. 219), South
+Africa — A Country Study (Turkmenistan's Book)
+(§58, p. 223), Australia — A Country Study (§59,
+p. 226) and Oceania and New Zealand — A Country
+Study (§60, p. 229) — the new lessons taught in
+1 country (Turkmenistan), 8 questions each.
+Geography lessons: 889 → 934.

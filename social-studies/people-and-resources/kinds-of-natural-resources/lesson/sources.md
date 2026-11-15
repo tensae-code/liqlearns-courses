@@ -1,6 +1,6 @@
 # Sources — Kinds of Natural Resources
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh, Turkmenistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 45).
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh
 
 **Book 10:** *History and Social Science, Class Seven* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022 (first published December 2022, reprint 2023; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Seven (Experimental version). Grade 7 (student). 184 PDF pp. (cover/title page verified against the record title; printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: English read fully; Bangla parallel edition spot-checked (cover, contents with identical chapter page spans 1-175, spreads at the Bedey river community and the delta experiment) — same content, placed once for both editions. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: How to Make Logical Decisions — thinking/inquiry, printed pp. 1-19; Ways to know Economic History — method, pp. 20-31; Similarities and Differences between People — community/gender parts, pp. 39-48 (Bedey river-community part placed); Emergence of Independent Bangladesh and Bangabandhu — history, pp. 65-74; Foreign Friends of Liberation War — history, pp. 75-92; Socio-political Structures and Customs — civics/sociology, pp. 93-118; Individual's Stand and Role in a Changing Context — sociology, pp. 119-131; About Wealth — economics of production, pp. 159-175; present-day development survey (GDP, Dhaka metro, power plants) inside the economic-history chapter — economics/history, pp. 60-64.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
 
+**Book 11:** *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)* (student book, Turkmen) — Turkmenistan, Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2022; no ISBN printed (UDC 373:911.3; order no. 2149). Title as printed: Dünýäniň ykdysady we durmuş geografiýasy (Umumy orta bilim berýän mekdepleriň X synpy üçin okuw kitaby). Grade 10 (X synp) (student). 264 PDF pp. (cover/title page verified against the record title; 264 pages exact match to the books.json record; read via grab.py url (GitHub release; byte size 7,680,130 exact match to the books.json record), verified by pdfinfo + title page; contents read from the printed Mazmuny (pp. 260-262)). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release URL + books.json record are the same book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkmenistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils list and classify their locality's resources before the book classifies | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed p. 61 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh
 | Angola part (Grade 6) — 1.2.1 Os recursos naturais | Angola, *Geografia 6ª Classe*, Grade 6, 1.2.1 Os recursos naturais — printed p. 11 |
 | Bangladesh part (Grade 6) — Society and Resources: natural, transformed and human resources sorted | Bangladesh, *History and Social Science, Class Six*, Grade 6, Society and Resources: natural, transformed and human resources sorted — printed pp. 155-157 |
 | Bangladesh part (Grade 7) — Fertile silty soil, forests, animals and spices: the natural wealth of riverine Bengal | Bangladesh, *History and Social Science, Class Seven*, Grade 7, Fertile silty soil, forests, animals and spices: the natural wealth of riverine Bengal — printed p. 58 |
+| Turkmenistan part — §5 Natural resources and economic development | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §5 Natural resources and economic development — printed p. 24 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh). Sweden is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh, Turkmenistan). Sweden is named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -59,3 +62,5 @@ Angola's own way (Grade 6): a resources-and-environment year — every world top
 Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course built around a class teacher character and group investigations; Geography is taught through the landform of Bengal itself — rivers, silt and hills explaining settlement, ancient states, ports and even the 1971 war — plus hands-on map-making (home-to-school route maps, a world-tour board game) and a pupil-run nature conservation club.
 
 Bangladesh's own way (Grade 7): Geography thins into economic history and a long Sustainable Development inquiry: pupils build a delta in a sand tray, trace the rivers that enter Bangladesh from other countries, map the country's new maritime boundary and its minerals, and audit groundwater and fossil fuels — the delta and the sea are the classroom.
+
+Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.

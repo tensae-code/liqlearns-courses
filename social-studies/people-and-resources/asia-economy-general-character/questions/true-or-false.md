@@ -1,0 +1,9 @@
+# Asia's Economy — Its General Character — true or false
+
+Say True or False, and why.
+
+**1. (Sub lesson 1)** This lesson's part 1 teaches: General character of the region's economy (Asia).
+**Answer: True**
+
+**2. (Sub lesson 2)** This lesson's part 2 teaches: Turkmenistan's way — the book's own teaching way.
+**Answer: True**

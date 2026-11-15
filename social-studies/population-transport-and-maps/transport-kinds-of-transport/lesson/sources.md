@@ -1,6 +1,6 @@
 # Sources — Transport — kinds of transport
 
-countries: Ethiopia, Belarus, Guatemala, Ecuador
+countries: Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 **Book 2:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (Unit 2, and §3.2 for the optimum-population lesson).
@@ -11,6 +11,8 @@ countries: Ethiopia, Belarus, Guatemala, Ecuador
 
 **Book 5:** *Estudios Sociales 3ro EGB* (student book, Spanish) — Ecuador, SM Ediciones Ecuador for the Ministerio de Educación del Ecuador (Proyecto Licitación Ministerio de Educación, Ecuador 2016; reviewed 3 June 2016); year 2016; no ISBN printed. Title as printed: Estudios Sociales 3 — Texto del estudiante. Grade: Grade 3 (student). 176 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 47,818,010 bytes = record size exactly; the record notes the 2024 edition exists but its only reachable copy is truncated, so this complete older edition is the held book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
 
+**Book 6:** *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)* (student book, Turkmen) — Turkmenistan, Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2022; no ISBN printed (UDC 373:911.3; order no. 2149). Title as printed: Dünýäniň ykdysady we durmuş geografiýasy (Umumy orta bilim berýän mekdepleriň X synpy üçin okuw kitaby). Grade 10 (X synp) (student). 264 PDF pp. (cover/title page verified against the record title; 264 pages exact match to the books.json record; read via grab.py url (GitHub release; byte size 7,680,130 exact match to the books.json record), verified by pdfinfo + title page; contents read from the printed Mazmuny (pp. 260-262)). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release URL + books.json record are the same book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkmenistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — How transport began (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed pp. 32–33 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Belarus, Guatemala, Ecuador
 | Belarus part — Transport of Belarus | Belarus, *Геаграфія Беларусі. 10 клас (Geography of Belarus, Grade 10)*, Grade 10, Theme VII §52, printed p. 246 |
 | Guatemala part — Medios de transporte: terrestres, acuáticos y aéreos | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Medios de transporte: terrestres, acuáticos y aéreos (Unit 2) — printed p. 90 |
 | Ecuador part — Medios de transporte y vías de comunicación | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, Medios de transporte y vías de comunicación — printed p. 128 |
+| Turkmenistan part — §27 Geography of the world transport system | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §27 Geography of the world transport system — printed p. 106 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Guatemala, Ecuador).**
+**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan).**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -30,3 +33,5 @@ Guatemala's own way: one combined Social Studies and Citizenship book per grade,
 Ecuador's own way (Grade 3 book): the older SM edition is a classic skills-first book — a whole opening unit on orientation, cardinal points, the compass rose and plans before any content; every unit runs the same skeleton (content lessons, “Ser Estudiante” test, Cultura del Buen Vivir, scientific work, digital skills, unit evaluation), and the country is learned parish → canton → province → nation. That way is stocked here as the way Ecuador teaches this thing.
 
 Searchable tags: transport, donkey, mule, camel, land transport, water transport, air transport, crude oil, perishable goods, Guatemala, Ecuador
+
+Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.

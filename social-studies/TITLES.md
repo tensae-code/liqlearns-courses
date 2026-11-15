@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **889**
+Geography lessons across the eight Geography titles: **934**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -435,3 +435,46 @@ Economy, Natural Disasters of Bangladesh and How to
 Prepare and Bangladesh's Land, People and Climate
 Challenge. (All 11 stand on Bangladesh's student
 books, counted in acceptance.)
+
++45 for Turkmenistan, 2026-11-14 — Global
+Issues: Periods of Formation of the World's Political
+Map, The Scientific-Technical Revolution, Global
+Problems — Peace, Ecology and Demography and Other
+Global Problems of Humanity; Population, Transport
+and Maps: The World's Ethnic and Religious
+Composition; Culture and Work: The World Fuel
+Industry, The World Electric Power Industry and
+Forest, Light and Food Industries; People and
+Resources: Classification and Typology of the World's
+States, World Mineral Resources, Resources of the
+World Ocean, Other Natural Resources — Energy and
+Recreation, The International Geographical Division
+of Labour, The Geography of World Economic Relations,
+Europe — Political Map, Nature and Population
+(Turkmenistan's View), Europe's Economy — Its General
+Character, Europe's Historical-Geographical Regions,
+Western Europe — A Country Study, Germany — A Country
+Study (Turkmenistan's Book), Southern Europe and Italy
+— A Country Study, Eastern Europe — A Country Study,
+The Russian Federation — A Country Study, Asia —
+Political Map, Nature and Population (Turkmenistan's
+View), Asia's Economy — Its General Character, Asia's
+Historical-Geographical Regions, Türkiye — A Country
+Study, South Asia and India — A Country Study,
+South-East Asia and Indonesia — A Country Study, East
+Asia and Japan — A Country Study, China — A Country
+Study (Turkmenistan's Book), Central Asia — A Country
+Study, The Caucasus Countries — A Country Study, The
+USA — Location, Nature and Population, The Economy of
+the USA, Canada — A Country Study (Turkmenistan's
+Book), Latin America — Political Map, Nature and
+Population, The Economies of Latin America, Latin
+America's Historical-Geographical Regions, Brazil — A
+Country Study (Turkmenistan's Book), Africa —
+Political Map, Nature and Population (Turkmenistan's
+View), Africa's Economy — Its General Character
+(Turkmenistan's Book), Africa's Historical-Geographical
+Regions, South Africa — A Country Study (Turkmenistan's
+Book), Australia — A Country Study and Oceania and New
+Zealand — A Country Study. (All 45 stand on
+Turkmenistan's student book, counted in acceptance.)
