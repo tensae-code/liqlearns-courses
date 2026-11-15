@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Ottomans
 
-countries: Ethiopia
+countries: Ethiopia, Turkey
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -37,3 +37,16 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
+
+
+## History expansion (2026-11-15) — Turkey stocked
+
+**Book 3:** *Ortaöğretim Türkiye Cumhuriyeti İnkılap Tarihi ve Atatürkçülük — 12. Sınıf Ders Kitabı (History of the Turkish Republic's Revolution and Kemalism, Grade 12 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Türkiye Cumhuriyeti İnkılap Tarihi ve Atatürkçülük — 12. Sınıf Ders Kitabı (History of the Turkish Republic's Revolution and Kemalism, Grade 12 Textbook). Grade: Grade 12 (student/teacher: STUDENT). Publisher: M.E.B. Yayınları (Ministry of National Education Publications), Türkiye, 2023 (per record); ISBN 978-605-7854-28-5. PDF pages: 266 (cover verified: İnkılap Tarihi ve Atatürkçülük, 12. Sınıf Ders Kitabı, with Atatürk among a crowd of the republic's citizens). Verdict: COMPLETE. Tally: 19 placements — 5 to existing lessons, 14 NEW LESSON NEEDED. Records: books.json, in_pushed; the repo tree/blob routes returned 404 from this host, so the book was read from the record's own archive.org source_url — the download is exactly 62,039,851 bytes, matching the record's size_bytes. The İnkılap record in targets-links.json whose URL is the Telegram channel root is a channel-root twin of this same secured Grade 12 book and is not filed separately. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History (the health and economy sections of Unit 3 are taught as parts of the Revolution's reforms and are placed with them). Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — Unit 1, Section B, The Ottoman State at the Start of the 20th Century: the empire's political, social and economic condition in its last decades — story beats: a six-hundred-year state is measured and found wanting on every page (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Turkey, *Ortaöğretim Türkiye Cumhuriyeti İnkılap Tarihi ve Atatürkçülük — 12. Sınıf Ders Kitabı (History of the Turkish Republic's Revolution and Kemalism, Grade 12 Textbook)*, printed pp. 27–31 |
+
+Turkey's own way: the final-year course is the republic's own biography, told in eight units from the dying Ottoman world to the 21st century's threshold — one man's life opens it (Mustafa Kemal's schooling and soldiering), and nearly every unit is measured against his principles. That way is stocked here as the way Turkey teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Turkey).**

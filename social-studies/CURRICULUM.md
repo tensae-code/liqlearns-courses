@@ -9423,3 +9423,135 @@ taught in 2 countries, and The Industrial Revolution —
 its two stages, Tom III printed p. 75, now taught in 2
 countries). All three Poland books are student books,
 counted in acceptance. History lessons: 418 → 446.
+
+## History expansion — Turkey — built 2026-11-15
+
+26 new lessons, 208 questions: in **First Steps**:
+Turkey's national days — Republic Day and remembering
+Atatürk
+(first-steps/turkeys-national-days-republic-day-and-remembering-ataturk);
+in **The Ancient World**: The invention of writing
+(ancient-world/the-invention-of-writing), Early
+migrations of peoples
+(ancient-world/early-migrations-of-peoples), From
+tribe to state — the first kingdoms
+(ancient-world/from-tribe-to-state-first-kingdoms),
+The first law codes
+(ancient-world/the-first-law-codes), Medieval world —
+states and empires
+(ancient-world/medieval-world-states-and-empires),
+Trade in the medieval world
+(ancient-world/trade-in-the-medieval-world), The
+first Turks of the steppe
+(ancient-world/the-first-turks-of-the-steppe), The
+Göktürk and Uyghur khaganates
+(ancient-world/the-gokturk-and-uyghur-khaganates),
+The Migration of Peoples — the Huns and the fall of
+Rome
+(ancient-world/the-migration-of-peoples-huns-and-the-fall-of-rome),
+The Umayyad Caliphate
+(ancient-world/the-umayyad-caliphate), The Abbasid
+Caliphate and the Turks
+(ancient-world/the-abbasid-caliphate-and-the-turks),
+The Turks accept Islam
+(ancient-world/the-turks-accept-islam), The Great
+Seljuk Empire (ancient-world/the-great-seljuk-empire)
+and The Islamic Golden Age — a civilisation of
+science (ancient-world/islamic-golden-age); in **The
+Modern World**: Mustafa Kemal Atatürk — soldier to
+founder
+(modern-world/mustafa-kemal-ataturk-soldier-to-founder),
+Gallipoli and the Ottoman fronts, 1914–1918
+(modern-world/gallipoli-and-the-ottoman-fronts-1914-1918),
+Turkey's National Struggle begins
+(modern-world/turkeys-national-struggle-begins),
+Turkey's War of Independence — the fronts
+(modern-world/turkeys-war-of-independence-fronts),
+The Turkish Republic is recognised — Mudanya and
+Lausanne (modern-world/ottoman-turkish-republic),
+Atatürk's reforms remake Turkey
+(modern-world/ataturks-reforms-remake-turkey), Turkey
+between the wars (modern-world/turkey-between-the-wars),
+Turkey joins the West — Cold War and NATO
+(modern-world/turkey-joins-the-west-cold-war-and-nato),
+The Middle East wars, 1967–1988
+(modern-world/the-middle-east-wars-1967-1988), Turkey
+1960–1990 — coups and Cyprus
+(modern-world/turkey-1960-1990-coups-and-cyprus) and
+Turkey after the Cold War
+(modern-world/turkey-after-the-cold-war)
+— 45 placements stocked in all from Turkey's three
+student books: *Hayat Bilgisi — 2. Sınıf — 1. Kitap*
+(Grade 2, MEB, ISBN 978-975-11-8768-0; PARTIAL for
+History scope — its only History teaching, the
+special-days poems for Republic Day, Atatürk Week and
+15 July at printed pp. 12–13 and 46, into the new
+First Steps lesson); *Ortaöğretim Tarih 9 Ders
+Kitabı* (Grade 9, MEB, 2021, ISBN 978-975-11-5258-9;
+25 placements: what history is, printed pp. 13–23,
+into What history is; the division of time,
+pp. 24–27, into Dating the past; humanity's first
+traces, pp. 33–37, into Who studies prehistory; the
+development of writing, pp. 38–42, into the new
+lesson; the civilisation basins — Mesopotamia and
+Egypt/Anatolia, pp. 43–46, into Mesopotamia and
+Ancient Egypt — the Nile Kingdom (at the placements'
+slug africa-to-1500/egyptian-civilisation); man and
+migration, pp. 47–51, from tribe to state,
+pp. 52–59, and laws are born, pp. 60–62, into new
+lessons; medieval political structures, pp. 71–76,
+medieval economy, pp. 77–84, the medieval army,
+pp. 85–87, and Roman law's legacy, pp. 88–90, into
+new lessons and Ancient civilisations — Rome (at the
+placements' slug ancient-world/roman-law-roads-empire);
+the first Turks, pp. 97–105, the Göktürk and Uyghur
+khaganates, pp. 106–117, and the Migration of
+Peoples, pp. 118–125, into new lessons; Arabia
+before Islam, pp. 133–136, into The Arabian Peninsula
+before Islam; Islam spreads, pp. 137–149, into The
+rise and expansion of Islam; the Umayyads,
+pp. 150–154, the Abbasids and the Turks,
+pp. 155–163, and the civilisation of science,
+pp. 164–176, into new lessons; and the Turks'
+acceptance of Islam, pp. 183–195, and the Great
+Seljuk State, pp. 196–208, into new lessons); and
+*Ortaöğretim Türkiye Cumhuriyeti İnkılap Tarihi ve
+Atatürkçülük — 12. Sınıf Ders Kitabı* (Grade 12,
+M.E.B. Yayınları, 2023, ISBN 978-605-7854-28-5; 19
+placements: Mustafa Kemal's education and military
+life, printed pp. 15–26, into the new lesson; the
+Ottoman State at the 20th century's start,
+pp. 27–31, into Medieval world — the Ottomans; the
+First World War's causes and entry, pp. 32–33, into
+The First World War — causes; the Ottoman fronts,
+pp. 34–~50, the National Struggle's preparation,
+pp. ~51–74, and its fronts, pp. 75–91, into new
+lessons; Mudanya and Lausanne, pp. 92–94, into the
+new lesson at the placements' slug
+modern-world/ottoman-turkish-republic; the reforms,
+pp. 104–133, and Turkey between the wars,
+pp. 138–152, into new lessons; the Second World
+War's causes in the peace-keeping tries and the 1929
+crisis, pp. 153–154, into The Second World War —
+causes; the war's course and Turkey's neutrality,
+pp. ~155–174, into The Second World War — course in
+Europe; the war's results, pp. 175–176, into The
+Second World War — the Pacific and the results;
+Turkey joins the West, pp. 180–197, into the new
+lesson; the Cold War's beginning, pp. 187–189, into
+The Cold War — what it was and what it did to
+Africa; and the Middle East wars, pp. 203–205,
+Turkey 1960–1990, pp. 206–219, and Turkey on the
+21st century's threshold, pp. 222–262, into new
+lessons). The fourteen existing lessons stocked rise
+with Turkey added: What history is 6 → 7, Dating the
+past 3 → 4, Who studies prehistory 2 → 3,
+Mesopotamia 2 → 3, Ancient Egypt — the Nile Kingdom
+3 → 4, Rome 4 → 5, The rise and expansion of Islam
+3 → 4, The Arabian Peninsula before Islam 1 → 2,
+Medieval world — the Ottomans 1 → 2, The First World
+War — causes 1 → 2, The Second World War — causes
+1 → 2, The Second World War — course in Europe
+2 → 3, The Second World War — the Pacific and the
+results 2 → 3, and The Cold War 1 → 2. Turkey is a
+partial-class country. History lessons: 446 → 472.

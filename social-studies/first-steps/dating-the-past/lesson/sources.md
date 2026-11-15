@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -77,3 +77,16 @@ Rwanda's own way (B3): History widens from village to Sector (Umurenge), then be
 Rwanda's Book 4 (rw-p3-tg) is RECORD ONLY — MISMATCH, not placed: the file behind the record is *Inyoborabarezi y'isomo Ry'ubumenyi mbonezamubano — Igice cy'iyobokamana rya gikirisitu, Umwaka wa 3* (Teacher guide for the Christian Religious Education part of Social Studies & Religious Education), Primary 3, Rwanda Education Board (REB), Kigali, 2019, no ISBN printed, 166 PDF pages — it does NOT match the record's Social Studies teacher-guide title, contains no Social Studies Unit 9 (Amateka / timeline) guidance, and its prophet-story lessons are Religious Education, not History. Library debt, as filed: the true P3 Social Studies teacher guide is still missing from the library; this slot holds the RE guide instead.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Saudi Arabia) — unchanged in number; Rwanda was already counted in this lesson through its P3 student book (Geography expansion), and the History placements above add its timeline story beats in full.**
+
+
+## History expansion (2026-11-15) — Turkey stocked
+
+**Book 2:** *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook). Grade: Grade 9 (student/teacher: STUDENT). Publisher: T.C. Millî Eğitim Bakanlığı (MEB), Türkiye, 2021 (per record); ISBN 978-975-11-5258-9. PDF pages: 225 (cover verified: TARİH 9, Ortaöğretim Ders Kitabı, MEB). Verdict: COMPLETE. Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED. Records: TSV blob record + books.json twin of the same repo path = one book. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History. Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — Unit 1, Topic 1.3, The Division of Time: centuries, eras, calendars and chronology — story beats: before any story can be told, the student learns to cut time into ages and read a timeline (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Turkey, *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)*, printed pp. 24–27 |
+
+Turkey's own way: world history is told with the Turks walked through it — prehistory and the first civilisations, then the medieval world, then a whole unit on the Turks of the first and middle ages (steppe, kut, the Orhun stones), before Islam's birth and the Turks' own entry into Islam close the book with the Seljuks. That way is stocked here as the way Turkey teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey).**

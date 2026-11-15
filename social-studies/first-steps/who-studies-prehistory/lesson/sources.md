@@ -1,6 +1,6 @@
 # Sources — Archaeology, palaeontology, anthropology — who studies prehistory
 
-countries: Ethiopia, Gambia
+countries: Ethiopia, Gambia, Turkey
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -42,3 +42,16 @@ Gambia's own way (History expansion, 2026-11-15): A free, scholar-written region
 Iceland's own way: the Viking Age is taught from Iceland's own ground — children become archaeologists on a field trip, meet a real pagan grave (the "Fjallkona"), read Eiríks saga rauða in the original tradition, and end by building a timeline from 800 to today; the Althing at Þingvellir is the national centrepiece. That way is stocked here as the way Iceland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Gambia) — unchanged; the Iceland placement above is teacher-guide evidence only, counted nowhere. Iceland is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Turkey stocked
+
+**Book 2:** *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook). Grade: Grade 9 (student/teacher: STUDENT). Publisher: T.C. Millî Eğitim Bakanlığı (MEB), Türkiye, 2021 (per record); ISBN 978-975-11-5258-9. PDF pages: 225 (cover verified: TARİH 9, Ortaöğretim Ders Kitabı, MEB). Verdict: COMPLETE. Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED. Records: TSV blob record + books.json twin of the same repo path = one book. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History. Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — Unit 2, Topic 2.1, Humanity's First Traces: the Stone Ages and the first humans, read through archaeology — story beats: with no writing yet, the only witnesses are bones, stones and cave walls (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Turkey, *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)*, printed pp. 33–37 |
+
+Turkey's own way: world history is told with the Turks walked through it — prehistory and the first civilisations, then the medieval world, then a whole unit on the Turks of the first and middle ages (steppe, kut, the Orhun stones), before Islam's birth and the Turks' own entry into Islam close the book with the Seljuks. That way is stocked here as the way Turkey teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Gambia, Turkey).**

@@ -1,6 +1,6 @@
 # Sources — The Arabian Peninsula before Islam
 
-countries: Saudi Arabia
+countries: Saudi Arabia, Turkey
 
 **Book 1:** *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition)* (student book, Arabic) — Saudi Arabia. Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition). Grade: Grade 4 (student/teacher: STUDENT). Publisher: المركز الوطني للمناهج (National Centre for Curricula), Riyadh; year 1446هـ; ISBN 978-603-8576-98-8. PDF pages: 228 (copyright/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release record + books.json record for the same repo path, counted once) / grabbed with grab.py url (release asset) into scratch-small-d/, verified by pdfinfo + copyright/title page, text layer read in full, PDF deleted after filing. Note: the record title gives the year as 1448هـ; the printed copyright page of the held copy reads 1446هـ (the 1446 edition, ISBN above). Placements at liqlearns-courses-work/expansion-history-2026-11-15/saudi-arabia-placements.md.
 
@@ -17,3 +17,16 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Saudi Arabia's own way: History enters in Grade 4 as method first — what history is, sources, cause and effect, timelines — practised on Saudi examples, and only then as content: the Arabian Peninsula as the Arabs' homeland and cradle of civilisations, and the prophets' stories as the land's sacred past. National days (Founding Day 1727, National Day 1932) are taught inside the Citizenship unit as national symbols. That way is stocked here as the way Saudi Arabia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 Searchable tags: Arabian Peninsula before Islam, Tasm, Jadis, tribes, Khadija bint Khuwaylid, Makkah caravans, winter and summer journeys, Silk Road, Yathrib, Taif, Yamama, Saudi Arabia Grade 4, ancient-world
+
+
+## History expansion (2026-11-15) — Turkey stocked
+
+**Book 2:** *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook). Grade: Grade 9 (student/teacher: STUDENT). Publisher: T.C. Millî Eğitim Bakanlığı (MEB), Türkiye, 2021 (per record); ISBN 978-975-11-5258-9. PDF pages: 225 (cover verified: TARİH 9, Ortaöğretim Ders Kitabı, MEB). Verdict: COMPLETE. Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED. Records: TSV blob record + books.json twin of the same repo path = one book. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History. Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — Unit 5, Topic 5.1, The World When Islam Was Born: Arabia and its neighbours on the eve of Islam — story beats: two tired empires and a trading peninsula wait for a prophet (History expansion, 2026-11-15; original placement slug: ancient-world/arabian-peninsula-before-islam) | Turkey, *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)*, printed pp. 133–136 |
+
+Turkey's own way: world history is told with the Turks walked through it — prehistory and the first civilisations, then the medieval world, then a whole unit on the Turks of the first and middle ages (steppe, kut, the Orhun stones), before Islam's birth and the Turks' own entry into Islam close the book with the Seljuks. That way is stocked here as the way Turkey teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Saudi Arabia, Turkey).**

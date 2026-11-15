@@ -1,0 +1,15 @@
+# Sources — Turkey's national days — Republic Day and remembering Atatürk
+
+countries: Turkey
+
+**Book 1:** *Hayat Bilgisi — 2. Sınıf — 1. Kitap (Life Studies, Grade 2, Book 1)* (student book, Turkish) — Turkey. Title as printed: Hayat Bilgisi — 2. Sınıf — 1. Kitap (Life Studies, Grade 2, Book 1). Grade: Grade 2 (student/teacher: STUDENT). Publisher: T.C. Millî Eğitim Bakanlığı (Ministry of National Education, MEB), Türkiye; ISBN 978-975-11-8768-0; year not printed on the pages read. PDF pages: 126 (cover verified: Hayat Bilgisi, 2. Sınıf, 1. Kitap). Verdict: PARTIAL for History scope — a combined life-studies book (Book 1 of 2, learning areas 1–3 of 6); its only History teaching is the national-days memory carried in the "Belirli Gün ve Haftalar" (Special Days and Weeks) poem spreads. Tally: 1 placement — 0 to existing lessons, 1 NEW LESSON NEEDED. Records: 4 records / 3 distinct books across the Turkey set (this book: TSV blob record). Read in full from its text layer; cover verified visually. Turkey is a partial-class country. Non-History parts named: Learning Area 1 "Ben ve Okulum" (Me and My School — planning, communication, friendship, decision-making; Life Skills/Civics, printed pp. 10–43); Learning Area 2 "Sağlığım ve Güvenliğim" (My Health and Safety; Health/Science, printed pp. 44–77); Learning Area 3 "Ailem ve Toplum" (My Family and Society — family, manners, duties; Civics, printed pp. 78–125); the remaining special-days poems (Animal Protection Day, Red Crescent Week, Disability Day, Human Rights and Democracy Week, Domestic Goods Week, Energy Saving Week) are values/civics poems, named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Three days a child learns by heart: Belirli Gün ve Haftalar spreads across Learning Areas 1–2: the 29 October Republic Day poem, the Atatürk Week (10–16 November) poem and the 15 July Democracy and National Unity Day poem — story beats: a seven-year-old learns the Republic's birthday, its founder's death-day and its newest day of unity as three poems to recite (original placement slug: first-steps/turkeys-national-days-republic-day-and-remembering-ataturk) | Turkey, *Hayat Bilgisi — 2. Sınıf — 1. Kitap (Life Studies, Grade 2, Book 1)*, printed pp. 12–13 and 46 |
+
+**Acceptance count: taught in 1 country (Turkey).**
+
+Turkey's own way: before any history course exists, the state teaches national memory to seven-year-olds as poems for the year's special days — Republic Day, Atatürk Week, July 15 — plus the daily Student Oath (Andımız) printed at the front of the book. That way is stocked here as the way Turkey teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Searchable tags: Turkey national days, Republic Day 29 October, Atatürk Week, Anıtkabir, 09:05, 15 July Democracy and National Unity Day, Andımız Student Oath, Hayat Bilgisi Grade 2, first-steps

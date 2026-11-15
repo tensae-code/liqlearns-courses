@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -62,3 +62,16 @@ Saudi Arabia's own way: Saudi Arabia's own way: History enters in Grade 4 as met
 Gambia's own way (History expansion, 2026-11-15): A free, scholar-written regional textbook built for the WAEC exam shared by the five Anglophone West African states — West Africa's whole story told by West African and diaspora historians, with two chapters (women and authority; the environment) the authors added beyond the syllabus, and Gambian historian Hassoum Ceesay on the author team. That way is stocked here as the way Gambia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Gambia).**
+
+
+## History expansion (2026-11-15) — Turkey stocked
+
+**Book 2:** *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook). Grade: Grade 9 (student/teacher: STUDENT). Publisher: T.C. Millî Eğitim Bakanlığı (MEB), Türkiye, 2021 (per record); ISBN 978-975-11-5258-9. PDF pages: 225 (cover verified: TARİH 9, Ortaöğretim Ders Kitabı, MEB). Verdict: COMPLETE. Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED. Records: TSV blob record + books.json twin of the same repo path = one book. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History. Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — Unit 5, Topic 5.2, Islam Spreads: the Prophet's Medina, the battles and treaties (Badr 624, Uhud 625, the Trench 627, Hudaybiyya 628) and the Four Caliphs' conquests — story beats: in twenty years a persecuted handful becomes a state; in thirty more, an empire (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Turkey, *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)*, printed pp. 137–149 |
+
+Turkey's own way: world history is told with the Turks walked through it — prehistory and the first civilisations, then the medieval world, then a whole unit on the Turks of the first and middle ages (steppe, kut, the Orhun stones), before Islam's birth and the Turks' own entry into Islam close the book with the Seljuks. That way is stocked here as the way Turkey teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Gambia, Turkey).**

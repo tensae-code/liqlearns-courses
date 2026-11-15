@@ -2573,7 +2573,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **446**
+History lessons across the History titles: **472**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2998,3 +2998,49 @@ MISMATCH: the file is the Christian Religious
 Education teacher guide, not placed.
 
 +28 for Poland, 2026-11-15 — Ancient World: Prehistoric art on Polish lands, Greek art — temples, statues and painted vases, The Etruscans — Rome's teachers, Pre-Romanesque and Romanesque art in Poland, Romanesque art — churches of stone, and Gothic art — cathedrals and towns; Modern World: Mannerism — Italy's restless art after the Renaissance, The Renaissance spreads north — France, Germany and the Netherlands, Poland's Renaissance — Kraków and the Jagiellonian court, Baroque Rome — art of the Counter-Reformation, Baroque Spain — art of a golden-age court, Baroque France — Versailles and the art of absolute monarchy, Dutch Golden Age — art of a republic of traders, Rococo — the aristocracy's playful art, Baroque and Rococo across central Europe, Poland's Baroque — churches and Sarmatian culture, Classicism — art looks back to Rome in the age of revolution, Poland's last king and classicist Warsaw, Historicism and iron architecture in the industrial century, Romanticism — art of feeling and nation, Realism — painting ordinary life, Academic art — the official salons, Poland's painters under partition — Matejko and history painting, Impressionism — Paris paints modern life, Post-impressionism — four rebels after the Impressionists, Symbolism and Munch — art of dreams and anxiety, Art Nouveau — Secession, a total style for 1900, and Young Poland — art under the partitions. All 43 Poland placements stand on Poland's three Ars longa student books (Grades 9, 10 and 11, Centrum Edukacji Artystycznej, Warszawa, 2021, 2022 and 2024), counted in acceptance. The fifteen existing lessons stocked rise with Poland added: Heritage — what it is and why it matters 21 → 22, From stone tools to farming 2 → 3, Ancient civilisations — Mesopotamia 1 → 2, Ancient Egypt — the Nile kingdom 2 → 3, Ancient civilisations — Greece-Crete 2 → 3, Ancient civilisations — Athens and democracy 2 → 3, Ancient civilisations — Rome 3 → 4, Christianity — from persecuted sect to state religion 1 → 2, Medieval world — Byzantium and Justinian 2 → 3, Medieval world — the Dark Age and feudalism 2 → 3, The Renaissance — what it was 1 → 2, The Renaissance — its great figures 2 → 3, The Reformation — the Catholic response 1 → 2, The French Revolution breaks out — 1789 1 → 2, and The Industrial Revolution — its two stages 1 → 2. (The header total above is 446: the Rwanda entry's +11, which had not been carried into the header, is now included — 407 + 11 + 28.)
++26 for Turkey, 2026-11-15 — First Steps: Turkey's
+national days — Republic Day and remembering Atatürk;
+Ancient World: The invention of writing, Early
+migrations of peoples, From tribe to state — the
+first kingdoms, The first law codes, Medieval world —
+states and empires, Trade in the medieval world, The
+first Turks of the steppe, The Göktürk and Uyghur
+khaganates, The Migration of Peoples — the Huns and
+the fall of Rome, The Umayyad Caliphate, The Abbasid
+Caliphate and the Turks, The Turks accept Islam, The
+Great Seljuk Empire, and The Islamic Golden Age — a
+civilisation of science; Modern World: Mustafa Kemal
+Atatürk — soldier to founder, Gallipoli and the
+Ottoman fronts, 1914–1918, Turkey's National Struggle
+begins, Turkey's War of Independence — the fronts,
+The Turkish Republic is recognised — Mudanya and
+Lausanne, Atatürk's reforms remake Turkey, Turkey
+between the wars, Turkey joins the West — Cold War
+and NATO, The Middle East wars, 1967–1988, Turkey
+1960–1990 — coups and Cyprus, and Turkey after the
+Cold War. All 45 Turkey placements stand on Turkey's
+three student books (Grade 2 Hayat Bilgisi Book 1 —
+PARTIAL for History scope, 1 placement; Grade 9
+Tarih, 25 placements; Grade 12 İnkılap Tarihi, 19
+placements), counted in acceptance (the 26 new
+lessons; and the fourteen existing lessons stocked,
+whose counts rise with Turkey added — First Steps
+What history is 6 → 7, Dating the past 3 → 4 and Who
+studies prehistory 2 → 3; Ancient World
+Mesopotamia 2 → 3, Rome 4 → 5, The rise and
+expansion of Islam 3 → 4, The Arabian Peninsula
+before Islam 1 → 2 and Medieval world — the
+Ottomans 1 → 2; Africa to 1500 Ancient Egypt — the
+Nile Kingdom 3 → 4, stocked at the placements' slug
+africa-to-1500/egyptian-civilisation, its closest
+existing lesson; Modern World The First World War —
+causes 1 → 2, The Second World War — causes 1 → 2,
+The Second World War — course in Europe 2 → 3, The
+Second World War — the Pacific and the results
+2 → 3 and The Cold War 1 → 2). Two placements named
+lessons that did not exist (Ancient World
+islamic-golden-age and Modern World
+ottoman-turkish-republic) were built new at the
+placements' own slugs rather than stocked into
+lessons on different things. Turkey is a
+partial-class country.

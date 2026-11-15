@@ -1,0 +1,15 @@
+# Sources — Turkey between the wars
+
+countries: Turkey
+
+**Book 3:** *Ortaöğretim Türkiye Cumhuriyeti İnkılap Tarihi ve Atatürkçülük — 12. Sınıf Ders Kitabı (History of the Turkish Republic's Revolution and Kemalism, Grade 12 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Türkiye Cumhuriyeti İnkılap Tarihi ve Atatürkçülük — 12. Sınıf Ders Kitabı (History of the Turkish Republic's Revolution and Kemalism, Grade 12 Textbook). Grade: Grade 12 (student/teacher: STUDENT). Publisher: M.E.B. Yayınları (Ministry of National Education Publications), Türkiye, 2023 (per record); ISBN 978-605-7854-28-5. PDF pages: 266 (cover verified: İnkılap Tarihi ve Atatürkçülük, 12. Sınıf Ders Kitabı, with Atatürk among a crowd of the republic's citizens). Verdict: COMPLETE. Tally: 19 placements — 5 to existing lessons, 14 NEW LESSON NEEDED. Records: books.json, in_pushed; the repo tree/blob routes returned 404 from this host, so the book was read from the record's own archive.org source_url — the download is exactly 62,039,851 bytes, matching the record's size_bytes. The İnkılap record in targets-links.json whose URL is the Telegram channel root is a channel-root twin of this same secured Grade 12 book and is not filed separately. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History (the health and economy sections of Unit 3 are taught as parts of the Revolution's reforms and are placed with them). Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Parties at home, peace abroad — to Atatürk's death, 1938: Unit 4, Turkey and the World Between the Two Wars (Turkey part): the early parties and the failed multi-party tries, the 1926 assassination attempt; abroad — Greece, France, Britain and Mosul, the Soviets, the League of Nations (1932), the Balkan Entente (1934), Montreux (1936), the Sadabad Pact (1937), Hatay joins the homeland, and Atatürk's death (10 November 1938) — story beats: 'peace at home, peace in the world' is practised border by border while the founder's chair empties (original placement slug: modern-world/turkey-between-the-wars) | Turkey, *Ortaöğretim Türkiye Cumhuriyeti İnkılap Tarihi ve Atatürkçülük — 12. Sınıf Ders Kitabı (History of the Turkish Republic's Revolution and Kemalism, Grade 12 Textbook)*, printed pp. 138–152 |
+
+**Acceptance count: taught in 1 country (Turkey).**
+
+Turkey's own way: the final-year course is the republic's own biography, told in eight units from the dying Ottoman world to the 21st century's threshold — one man's life opens it (Mustafa Kemal's schooling and soldiering), and nearly every unit is measured against his principles. That way is stocked here as the way Turkey teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Searchable tags: Turkey between the wars, League of Nations 1932, Balkan Entente 1934, Montreux 1936, Sadabad Pact 1937, Hatay, Atatürk death 1938, Turkey Grade 12 İnkılap Tarihi, modern-world
