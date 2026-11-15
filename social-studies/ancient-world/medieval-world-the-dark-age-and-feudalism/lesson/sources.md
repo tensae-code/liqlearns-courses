@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Dark Age and feudalism
 
-countries: Ethiopia
+countries: Ethiopia, Brazil
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -18,7 +18,7 @@ countries: Ethiopia
 | Grade 11 depth — Feudal Europe in depth — lords, serfs, manors and the Church | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 79–87 |
 
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**
 
 Extension added 2026-11-12 (Ethiopia Wave 4, Grade 9 History), resting on the Grade 9 student textbook, printed pp. 65–67, with the Glossary's manor definition (printed pp. 209–210) named in the table as the placements give it. No Grade 9 book error flagged by the placements touches this section.
 
@@ -42,3 +42,15 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
+
+## History expansion (2026-11-15) — Brazil stocked
+
+**Book (Brazil):** *História — Livro Didático Público — Ensino Médio* (student book, Portuguese) — Brazil. Title as printed: História — Livro Didático Público — Ensino Médio. Grade: Grade 10 / Ensino Médio (student/teacher: STUDENT). Publisher: Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd edition); ISBN 85-85380-36-5. PDF pages: 400 (cover/credits page verified against the record title). Verdict: COMPLETE. Records: 1 record / 1 distinct book / TSV release record grabbed via grab.py (url route, mid-size-books release), verified by pdfinfo + cover/credits render, read page by page with pdftotext -layout (full table of contents and chapter structure read; the book is a thematic public textbook written by Paraná state school teachers). Placements at liqlearns-courses-work/expansion-history-2026-11-15/brazil-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Brazil part — Unit IV, ch. 17: Domination and resistance in medieval European society — peasants, artisans, women, heretics and the sick — story beats: Feudal Europe's lowest — peasants, heretics, women, the ill — endure lordship and the Church, and answer with revolts and forbidden beliefs (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Brazil, *História — Livro Didático Público — Ensino Médio*, printed p. 314 |
+
+Brazil's own way (History expansion, 2026-11-15): A public textbook written by serving teachers, organised not by chronology but by three relations — work, power and culture — so slavery, wage labour, the state and resistance are each followed across ancient, medieval and modern societies, always landing back in Brazil and in Paraná itself. That way is stocked here as the way Brazil teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**

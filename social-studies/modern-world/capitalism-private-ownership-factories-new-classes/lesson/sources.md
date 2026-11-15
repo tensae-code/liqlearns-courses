@@ -1,6 +1,6 @@
 # Sources — Capitalism — private ownership, factories, new classes
 
-countries: Ethiopia
+countries: Ethiopia, Brazil
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -16,7 +16,7 @@ countries: Ethiopia
 
 | Sub lesson 4 — Grade 11 depth: Early capitalism in depth — towns, banks and the price revolution | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 100–102 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**
 
 Pairing note, carried from the placements: the Teacher's Guide (June 2022) predates the Student Textbook (August 2023) by about fourteen months and was written from the syllabus for the then-forthcoming student book; wording was revised between them. Sub lesson 3 is guide-only formulation, labelled as teacher evidence, and extends — never replaces — the student book's teaching in Sub lessons 1–2. History in lesson.md is told in the course's own words as story — dates and names are exactly as the placements give them; no textbook text is transcribed.
 
@@ -62,3 +62,17 @@ History fix note (2026-11-12): the coverage audit recorded all nine Grade 12 uni
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
+
+## History expansion (2026-11-15) — Brazil stocked
+
+**Book (Brazil):** *História — Livro Didático Público — Ensino Médio* (student book, Portuguese) — Brazil. Title as printed: História — Livro Didático Público — Ensino Médio. Grade: Grade 10 / Ensino Médio (student/teacher: STUDENT). Publisher: Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd edition); ISBN 85-85380-36-5. PDF pages: 400 (cover/credits page verified against the record title). Verdict: COMPLETE. Records: 1 record / 1 distinct book / TSV release record grabbed via grab.py (url route, mid-size-books release), verified by pdfinfo + cover/credits render, read page by page with pdftotext -layout (full table of contents and chapter structure read; the book is a thematic public textbook written by Paraná state school teachers). Placements at liqlearns-courses-work/expansion-history-2026-11-15/brazil-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Brazil part — Unit I, ch. 1–2: The concept of work / The world of work in different societies — story beats: Work is compared across slave, feudal and capitalist societies, so pupils see labour itself has a history and is not one natural, unchanging thing (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Brazil, *História — Livro Didático Público — Ensino Médio*, printed pp. 21–35 |
+| Brazil part — Unit I, ch. 3: The construction of wage labour — story beats: Workers separated from land and tools are driven to sell their labour for a wage — the founding move of capitalism (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Brazil, *História — Livro Didático Público — Ensino Médio*, printed p. 52 |
+| Brazil part — Unit I, ch. 5: Work in contemporary society — story beats: The wage-labour world built in the earlier chapters is brought up to the pupils' own day — precarious, informal and changing work in Brazil today (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Brazil, *História — Livro Didático Público — Ensino Médio*, printed p. 90 |
+
+Brazil's own way (History expansion, 2026-11-15): A public textbook written by serving teachers, organised not by chronology but by three relations — work, power and culture — so slavery, wage labour, the state and resistance are each followed across ancient, medieval and modern societies, always landing back in Brazil and in Paraná itself. That way is stocked here as the way Brazil teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**

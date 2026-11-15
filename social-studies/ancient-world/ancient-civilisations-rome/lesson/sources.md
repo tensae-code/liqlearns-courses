@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome
 
-countries: Ethiopia
+countries: Ethiopia, Brazil
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -18,7 +18,7 @@ countries: Ethiopia
 | Grade 11 depth — Rome in depth — law, legions, roads and the long fall | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 39–42 |
 
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**
 
 Extension added 2026-11-12 (Ethiopia Wave 4, Grade 9 History), resting on the Grade 9 student textbook, printed pp. 32–34. No Grade 9 book error flagged by the placements touches Rome's section.
 
@@ -40,3 +40,15 @@ This book is a teacher guide. The Myanmar rows below stand on it as teacher-guid
 Myanmar's own way: The year is split in two arcs — Myanmar's own past first (prehistory, the Pyu city-states, Bagan), then world history (hunters, first farmers, Mesopotamia, Egypt, Greece, Rome, China, India) — and every lesson is taught in a fixed Introduce–Teach–Practice–Review (I-T-P-R) shape with student-centred activities. That way is stocked here as the way Myanmar teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Myanmar placement above is teacher-guide evidence only, counted nowhere.**
+
+## History expansion (2026-11-15) — Brazil stocked
+
+**Book (Brazil):** *História — Livro Didático Público — Ensino Médio* (student book, Portuguese) — Brazil. Title as printed: História — Livro Didático Público — Ensino Médio. Grade: Grade 10 / Ensino Médio (student/teacher: STUDENT). Publisher: Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd edition); ISBN 85-85380-36-5. PDF pages: 400 (cover/credits page verified against the record title). Verdict: COMPLETE. Records: 1 record / 1 distinct book / TSV release record grabbed via grab.py (url route, mid-size-books release), verified by pdfinfo + cover/credits render, read page by page with pdftotext -layout (full table of contents and chapter structure read; the book is a thematic public textbook written by Paraná state school teachers). Placements at liqlearns-courses-work/expansion-history-2026-11-15/brazil-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Brazil part — Unit III, ch. 12: The State in the ancient and medieval worlds — story beats: The state is born with the first civilisations and takes Greek, Roman and feudal forms — power organised first as city, empire and lordship (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Brazil, *História — Livro Didático Público — Ensino Médio*, printed p. 217 |
+
+Brazil's own way (History expansion, 2026-11-15): A public textbook written by serving teachers, organised not by chronology but by three relations — work, power and culture — so slavery, wage labour, the state and resistance are each followed across ancient, medieval and modern societies, always landing back in Brazil and in Paraná itself. That way is stocked here as the way Brazil teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**

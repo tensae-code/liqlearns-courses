@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia
+countries: Ethiopia, Brazil
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -13,7 +13,7 @@ countries: Ethiopia
 
 | The Grade 11 depth — steam, factories, coal and iron | Ethiopia, *History, Student Textbook, Grade 11*, Unit 9 — printed pp. 239–242 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**
 
 No teacher evidence for this title: the Grade 8 teacher guide's Units 4–7 are not in hand (the truncated guide file ends at Unit 3), so this lesson claims no teacher-guide evidence and stands on the student book alone. History in lesson.md is told in the course's own words as story-like summary — dates and names are exactly as the placements give them; no textbook text is transcribed.
 
@@ -41,3 +41,15 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
+
+## History expansion (2026-11-15) — Brazil stocked
+
+**Book (Brazil):** *História — Livro Didático Público — Ensino Médio* (student book, Portuguese) — Brazil. Title as printed: História — Livro Didático Público — Ensino Médio. Grade: Grade 10 / Ensino Médio (student/teacher: STUDENT). Publisher: Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd edition); ISBN 85-85380-36-5. PDF pages: 400 (cover/credits page verified against the record title). Verdict: COMPLETE. Records: 1 record / 1 distinct book / TSV release record grabbed via grab.py (url route, mid-size-books release), verified by pdfinfo + cover/credits render, read page by page with pdftotext -layout (full table of contents and chapter structure read; the book is a thematic public textbook written by Paraná state school teachers). Placements at liqlearns-courses-work/expansion-history-2026-11-15/brazil-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Brazil part — Unit IV, ch. 19: Domination and resistance in the world of work, 18th–19th centuries — story beats: Factory workers answer the new discipline with machine-breaking, unions and strikes — the labour movement is born inside industrialisation (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | Brazil, *História — Livro Didático Público — Ensino Médio*, printed p. 354 |
+
+Brazil's own way (History expansion, 2026-11-15): A public textbook written by serving teachers, organised not by chronology but by three relations — work, power and culture — so slavery, wage labour, the state and resistance are each followed across ancient, medieval and modern societies, always landing back in Brazil and in Paraná itself. That way is stocked here as the way Brazil teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**

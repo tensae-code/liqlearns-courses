@@ -8647,3 +8647,63 @@ acceptance count 0 countries; the six placements
 stocked into existing lessons likewise leave those
 lessons' acceptance counts unchanged. History
 lessons: 293 → 297.
+
+## History expansion — Brazil — built 2026-11-15
+
+7 new lessons, 56 questions, in **The Modern World**:
+Brazil — from slavery to free labour
+(modern-world/brazil-from-slavery-to-free-labour),
+Brazil — urbanisation and industrialisation
+(modern-world/brazil-urbanisation-and-industrialisation),
+Brazil — Paraná urbanisation and the Port of Paranaguá
+(modern-world/brazil-parana-urbanisation-and-paranagua-port),
+State power and violence
+(modern-world/brazil-state-power-and-violence),
+Imperialism and its crisis
+(modern-world/imperialism-and-its-crisis),
+Domination and resistance in the modern West
+(modern-world/domination-and-resistance-in-the-modern-west) and
+Brazil — contemporary social movements
+(modern-world/brazil-contemporary-social-movements)
+— 16 placements stocked from Brazil's one distinct
+book: *História — Livro Didático Público — Ensino
+Médio*, Grade 10 / Ensino Médio student book
+(Secretaria de Estado da Educação do Paraná
+(SEED-PR), Curitiba, 2006 (2nd edition), ISBN
+85-85380-36-5): work across slave, feudal and
+capitalist societies (printed pp. 21–35), the
+construction of wage labour (printed p. 52) and work
+in contemporary society (printed p. 90), into the
+existing Modern World Capitalism lesson; the
+transition from slave labour to free labour in
+Brazil and the United States (printed p. 72), cities
+in history and urbanisation and industrialisation
+in Brazil (printed pp. 112–130), urbanisation and
+industrialisation in Paraná and the Port of
+Paranaguá (printed pp. 180–200), power relations and
+violence in the State (printed p. 252), the
+imperialist state and its crisis (printed p. 274),
+domination and resistance in modern Western society
+(printed p. 330) and contemporary social, political
+and cultural movements (printed p. 376), into the
+seven new lessons; and urbanisation and
+industrialisation in the 19th century and today
+(printed pp. 151–167), into the existing Effects of
+industrialisation lesson; the State in the ancient
+and medieval worlds (printed p. 217), into the
+existing Ancient World Rome lesson; formation of
+the national states (printed p. 234), into
+Nationalism; domination and resistance in Greek and
+Roman societies (printed p. 296), into Rome divides;
+domination and resistance in medieval Europe
+(printed p. 314), into the Dark Age and feudalism
+lesson; and domination and resistance in the world
+of work, 18th–19th centuries (printed p. 354), into
+The Industrial Revolution — what changed and why
+England first. All 16 Brazil placements stand on
+Brazil's Grade 10 student book, counted in
+acceptance (the seven new lessons; and the seven
+existing lessons stocked, whose counts rise 1 → 2
+with Brazil added — Capitalism carrying three of the
+nine existing-lesson placements). History lessons:
+297 → 304.

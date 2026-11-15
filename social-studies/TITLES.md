@@ -124,7 +124,12 @@ the one title at rising depth wherever a title spans both books
   Arabia — Founding Day and National Day, and
   unification under Abdulaziz: the brave courier, and
   Morocco — the Saadians and El Badi Palace, and the
-  Alaouites and the kasbahs).
+  Alaouites and the kasbahs, and Brazil — from slavery
+  to free labour, urbanisation and industrialisation,
+  Paraná urbanisation and the Port of Paranaguá, state
+  power and violence, imperialism and its crisis,
+  domination and resistance in the modern West, and
+  contemporary social movements).
   (No teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
@@ -2529,7 +2534,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **297**
+History lessons across the History titles: **304**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2665,3 +2670,20 @@ Mesopotamia, Greece-Crete, Rome, China and India,
 and Africa to 1500 Ancient Egypt — the Nile Kingdom)
 likewise leave those lessons' acceptance counts
 unchanged.
+
++7 for Brazil, 2026-11-15 — Modern World:
+Brazil — from slavery to free labour, Brazil —
+urbanisation and industrialisation, Brazil — Paraná
+urbanisation and the Port of Paranaguá, State power
+and violence, Imperialism and its crisis, Domination
+and resistance in the modern West, and Brazil —
+contemporary social movements. All 16 Brazil
+placements stand on Brazil's Grade 10 student book
+(História — Livro Didático Público — Ensino Médio,
+SEED-PR, 2006), counted in acceptance (the seven new
+lessons; and the existing lessons Capitalism —
+private ownership, factories, new classes, Effects
+of industrialisation, Nationalism, The Industrial
+Revolution — what changed, Rome, Rome divides and
+Medieval world — the Dark Age and feudalism, whose
+counts rise 1 → 2 with Brazil added).
