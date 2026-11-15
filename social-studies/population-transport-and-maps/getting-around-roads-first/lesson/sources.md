@@ -1,6 +1,6 @@
 # Sources — Getting around — roads first
 
-countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda
+countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda
 
 **Book 7:** *Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: STUDENT). PDF pages: 75 (condensed-layout copy; printed pagination runs to p. 129 — cover verified against the record title; byte size 28,584,194 matches the edufeeds source's Content-Length exactly; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society, incl. human rights, conflict management, peace, harmony and disharmony (Civics), printed pp. 13–24; Unit 3 Hygiene and sanitation, incl. diseases (Health), pp. 25–40; Unit 4 Civics and governance, incl. Rwanda as an independent nation and leadership in our province (Civics), pp. 41–52; Unit 10 Colonial Rwanda (History), pp. 112–129. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
+**Book 8:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Roads dominate | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 138–141 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 5.1 Pengangkutan di Malaysia: land transport | Malaysia, *MY T2 Geografi*, Bab 5.1 Pengangkutan di Malaysia: land transport — printed pp. 70-76 |
 | India part (Grade 10 Contemporary India-II) — Ch.7 Lifelines of National Economy: India's road network — Golden Quadrilateral, National Highways, state and district roads, road density | India, *India Grade 10 Contemporary India-II*, Ch.7 Lifelines of National Economy: India's road network — Golden Quadrilateral, National Highways, state and district roads, road density — printed p. 79 |
 | Rwanda part — 9.4 Importance of having good roads in our province (Unit 9) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 9.4 Importance of having good roads in our province (Unit 9) — printed p. 105 |
+| Vietnam part — Bài 34 (part): Transport — its role, features and location factors; road transport and the world road network (2019 map) | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 34 (part): Transport — its role, features and location factors; road transport and the world road network (2019 map) — printed pp. 93–94 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda).**
+**Acceptance count: taught in 7 countries (Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam).**
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
@@ -40,3 +43,5 @@ Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scal
 India's own way (Grade 10 Contemporary India-II): Contemporary India-II is the human/economic book, matching Part I's physical book: India's resources, forests, water, agriculture, minerals and energy, manufacturing and the "lifelines" (transport, communication, trade) — taught throughout as development-versus-environment argument, with movements and case studies (Chipko, Narmada Bachao, rooftop rainwater harvesting in the Thar) carrying the criticism.
 
 Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.
+
+Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.

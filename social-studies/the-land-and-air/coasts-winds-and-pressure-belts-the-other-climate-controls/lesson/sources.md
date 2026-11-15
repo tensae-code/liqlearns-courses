@@ -1,6 +1,6 @@
 # Sources — Coasts, winds and pressure belts — the other climate controls
 
-countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia
+countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia
 
 **Book 8:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 9:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Land heats fast, water slowly | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 47–50 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia
 | Cambodia part — Ch.3 L5 ខ្យល់បក់ (blowing winds) [placement slug: the-land-and-air/wind-what-moves-the-air] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L5 ខ្យល់បក់ (blowing winds) — printed p. 124 |
 | Fiji part — Chapter 1: solar radiation, wind, pressure systems (sub-tropical high belt, anticyclones and depressions crossing New Zealand) | Fiji, *Fiji Years 11–12 Physical Geography*, Chapter 1: solar radiation, wind, pressure systems (sub-tropical high belt, anticyclones and depressions crossing New Zealand) — printed p. 3 |
 | Slovenia part — Planetarno kroženje: Planetarno kroženje zraka (planetary circulation of air) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Planetarno kroženje: Planetarno kroženje zraka (planetary circulation of air) — printed p. 85 |
+| Vietnam part — Bài 9 (part): Air pressure and the pressure belts; the world's main winds — trade winds, westerlies, polar easterlies, monsoons (including Vietnam's), land and sea breezes, and the foehn | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 9 (part): Air pressure and the pressure belts; the world's main winds — trade winds, westerlies, polar easterlies, monsoons (including Vietnam's), land and sea breezes, and the foehn — printed pp. 31–33 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -49,3 +52,5 @@ Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia'
 Fiji's own way (Fiji Years 11–12 Physical Geography): The physical volume is comparative — every theme (climate, relief, soil, vegetation, hazards) is taught twice, New Zealand first, then Fiji (Monsoon Asia for hazards), so Fiji's land is always read against a temperate and a monsoon case.
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
+
+Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.

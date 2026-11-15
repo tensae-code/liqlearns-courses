@@ -1,6 +1,6 @@
 # Sources — Impacts of climate change
 
-countries: Ethiopia, Costa Rica, Jamaica, Fiji
+countries: Ethiopia, Costa Rica, Jamaica, Fiji, Vietnam
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Costa Rica, Jamaica, Fiji
 
 **Book 5:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 6:** *Chuyên đề học tập Địa lí 10* (student study-topics book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31084-2. Title as printed: CHUYÊN ĐỀ HỌC TẬP ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 38 per the record (read as the publisher's 38 page images, printed pp. 2–35 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Beyond two degrees | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 8 — Economy, Environment and Climate Change, printed pp. 193–194 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Costa Rica, Jamaica, Fiji
 | Jamaica part — Grade 8 Term 3 Unit 1: Climate Change — impacts on the Caribbean (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 8 Term 3 Unit 1: Climate Change — impacts on the Caribbean — printed p. 104 |
 | Fiji part — 1.1.6 Climate Change and its Impacts | Fiji, *Fiji Years 11–12 Geography*, 1.1.6 Climate Change and its Impacts — printed p. 20 |
 | Fiji part — Chapter 3: impacts of climate change and measures to mitigate them | Fiji, *Fiji Year 13 Geography*, Chapter 3: impacts of climate change and measures to mitigate them — printed p. 87 |
+| Vietnam part — Topic 10.1 (part): Impacts and consequences — for nature and ecosystems (Kilimanjaro's shrinking ice cap 1993 vs 2000, ocean acidification, biodiversity loss) and for farming, industry, services, daily life and health | Vietnam, *Vietnam Grade 10 Chuyên đề 10*, Topic 10.1 (part): Impacts and consequences — for nature and ecosystems (Kilimanjaro's shrinking ice cap 1993 vs 2000, ocean acidification, biodiversity loss) and for farming, industry, services, daily life and health — printed pp. 10–12 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, Fiji). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Fiji, Vietnam). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -35,3 +38,5 @@ Searchable tags: impacts of climate change, grade 12 economics, ethiopia, social
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
 
 Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.
+
+Vietnam's own way (Vietnam Grade 10 Chuyên đề 10): the elective companion goes deep on just three things — climate change, urbanisation, and how to write a geography report — and keeps pulling the world material back to Vietnam (a metre of sea-level rise would flood 10–12% of Vietnam's area; Hanoi and Ho Chi Minh City as the home examples of developing-world urbanisation).

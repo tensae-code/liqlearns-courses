@@ -3907,3 +3907,152 @@ p. 70), The Shrinking Aral Sea (printed p. 157) — every
 new lesson is taught in 1 country (Slovenia), 8
 questions each.
 Geography lessons: 1558 → 1588.
+
+
+## Vietnam — Geography expansion (merged 2026-11-14)
+162 placement lines stocked from Vietnam's 6 placed
+books (6 records / 6 distinct books) — the Grade 10
+*Địa lí 10*, the Grade 10 *Chuyên đề học tập Địa lí
+10*, the Grade 11 *Địa lí 11*, the Grade 12 *Chuyên đề
+học tập Địa lí 12*, the Grade 11 *Chuyên đề học tập Địa
+lí 11* and the Grade 12 *Địa lí 12* (all Vietnamese
+student books, Kết nối tri thức với cuộc sống (KNTT),
+NXB Giáo dục Việt Nam; read from each record's own
+source — the NXBGD training site (taphuan.nxbgd.vn)
+reader, page by page as images — after the GitHub
+routes failed for all six). All six are COMPLETE. The
+placements file's own per-book tallies (62 + 10 + 33 +
+14 + 9 + 34) sum to 162 and agree with the line count —
+no tally discrepancy. Stocked into standing lessons (38
+placements across 33 lessons), including 1 placement
+flagged NEW LESSON NEEDED whose slug already exists as
+a lesson — global-issues/industry-and-the-environment —
+stocked into that existing lesson, no duplicate built;
+and 11 existing-flagged placements remapped from 7
+slugs that do not stand to the closest existing lesson
+covering the thing, the original slug recorded in each
+provenance row: first-steps/what-geography-is →
+the-land-and-air/what-geography-is (1 placement),
+earth-and-space/the-water-cycle →
+the-land-and-air/the-water-cycle (1),
+earth-and-space/how-ocean-water-moves-waves →
+the-land-and-air/waves-tides-and-ocean-currents (1),
+earth-and-space/tides-and-the-moon →
+the-land-and-air/waves-tides-and-ocean-currents (1),
+population-transport-and-maps/showing-data-with-graphs
+→ population-transport-and-maps/graphical-skills (5),
+global-issues/natural-hazards →
+global-issues/disasters-vulnerability-threat-capacity-and-kinds
+(1), culture-and-work/the-fourth-industrial-revolution
+→
+culture-and-work/industrial-revolution-4-0-and-society-5-0
+(1; the Book 5 line says the slug was proposed as NEW
+in Book 1 of the placements file, but no Book 1 line
+proposes it — carried as remapped, not built). 100 NEW
+lessons built (124 placements) — **First Steps**: Kinds
+Of Economic Regions (printed pp. 20–24), What Is A
+Region (printed pp. 19–21), Writing A Geography Report
+(printed p. 90; printed p. 107; printed pp. 28–32;
+printed p. 13; printed pp. 20–21; printed pp. 35–36;
+printed pp. 44–45; printed p. 66; printed pp. 79–80;
+printed pp. 129–130; printed pp. 148–149; printed pp.
+150–151; printed pp. 39–40; printed pp. 53–54; printed
+p. 27; printed p. 33; printed p. 46; printed p. 102;
+printed p. 118; printed p. 141; printed p. 162; printed
+p. 171; printed pp. 172–173); **Earth and Space**: Sea
+Water Salt And Warmth (printed p. 41), The Geographical
+Shell (printed pp. 51–52); **The Land and Air**: China
+Land And People (printed pp. 131–138), Japan Land And
+People (printed pp. 114–120), Lakes And How They Form
+(printed p. 38), Latin America Land And People (printed
+pp. 22–25), Russia Land And People (printed pp.
+97–104), Snow Ice And Groundwater (printed pp. 39–40),
+Soil And How It Forms (printed pp. 45–46), South Africa
+Land And People (printed pp. 152–158), Southeast Asia
+Land And People (printed pp. 46–49), Southwest Asia
+Land And People (printed pp. 67–73), The Atmosphere And
+Air Temperature (printed pp. 28–30), The Biosphere
+(printed pp. 47–48), The Mekong River And Its
+Commission (printed pp. 5–15), The United States Land
+And People (printed pp. 81–87), Vietnam Position And
+Territory (printed pp. 5–9), Vietnams Droughts And Salt
+Intrusion (printed pp. 13–17), Vietnams Floods (printed
+pp. 10–13), Vietnams Mekong Delta (printed pp.
+153–161), Vietnams North Central Region (printed pp.
+119–128), Vietnams Northern Midlands And Mountains
+(printed pp. 103–109), Vietnams Red River Delta
+(printed pp. 110–117), Vietnams Six Socio Economic
+Regions (printed pp. 24–27), Vietnams South Central
+Coast And Highlands (printed pp. 129–140), Vietnams
+Southeast Region (printed pp. 142–152), Vietnams
+Tropical Monsoon Nature (printed pp. 10–16), Vietnams
+Typhoons And Tropical Storms (printed pp. 7–10),
+Vietnams Varied Nature (printed pp. 17–26), Where
+Earthquakes And Volcanoes Cluster (printed p. 27),
+World Soils And Vegetation Belts (printed pp. 49–50),
+Zonality And Azonality (printed pp. 53–54);
+**Population, Transport and Maps**: Asean Working
+Together (printed pp. 61–65), Latin America People And
+Cities (printed pp. 26–29), Posts Phones And The
+Internet (printed pp. 98–100), Railways And Trains
+(printed p. 95), Reading A Rivers Regime (printed p.
+44), Reading Climate Maps And Charts (printed pp.
+35–36), Ships And Planes (printed pp. 96–97), Southeast
+Asia People And Cities (printed pp. 49–52), The
+European Union (printed pp. 37–43), Urbanisation And
+Its Effects (printed pp. 61–62; printed p. 16; printed
+pp. 43–45), Urbanisation In Developing Countries
+(printed pp. 22–24), Urbanisation In Rich Countries
+(printed pp. 17–21), Vietnams Key Economic Regions
+(printed pp. 28–31), Vietnams Population (printed pp.
+34–38), Vietnams Transport And Communications (printed
+pp. 87–95), Ways Of Showing Things On Maps (printed pp.
+7–11); **People and Resources**: Electricity The Power
+Industry (printed pp. 82, 85), How An Economy Is Built
+Gdp And Gni (printed pp. 65–66), Mining Coal Oil And
+Metal Ores (printed pp. 81–82), Resources That Develop
+An Economy (printed pp. 63–64), Vietnams Forests And
+Fisheries (printed pp. 59–65), Vietnams Key Industries
+(printed pp. 74–82); **Culture and Work**: Chinas
+Economy (printed pp. 139–147), Crops And Where They
+Grow (printed pp. 69–71), Developing Craft Villages
+(printed pp. 45–53), Electronics And Computers (printed
+pp. 83–84), Forestry Planting And Logging (printed pp.
+73–74), How Vietnams Farming Is Organised (printed pp.
+66–68), Industry 40 Changes Work And The World (printed
+pp. 48–52), Industry 40 Technology Trends (printed pp.
+53–56), Industry What It Is (printed pp. 79–80), Japans
+Economy (printed pp. 121–128), Kinds Of Tourism
+(printed pp. 35–40), Latin Americas Economy (printed
+pp. 30–34), Livestock Around The World (printed pp.
+71–72), Making Consumer Goods And Food (printed pp.
+84–85), Organising Farming Across A Territory (printed
+pp. 76–77), Organising Industry Across A Territory
+(printed pp. 86–87), Russias Economy (printed pp.
+105–112), Services The Third Part Of The Economy
+(printed pp. 91–92), South Africas Economy (printed pp.
+159–164), Southeast Asias Economy (printed pp. 53–60),
+Southwest Asias Economy (printed pp. 74–78), The United
+States Economy (printed pp. 88–96), Tourism Around The
+World (printed pp. 101–102), Trade And Banking (printed
+pp. 103–106), Vietnams Changing Economy (printed pp.
+47–50), Vietnams Changing Industry (printed pp. 70–73),
+Vietnams Craft Villages (printed pp. 41–46), Vietnams
+Farming (printed pp. 51–58), Vietnams Industrial Zones
+(printed pp. 83–85), Vietnams Sector Regions (printed
+pp. 31–39), Vietnams Tourism Resources (printed p. 34),
+Vietnams Trade And Tourism (printed pp. 96–101),
+Vietnams Workers And Jobs (printed pp. 39–42), World
+Tourism Resources (printed pp. 27–33); **Resources and
+Conflict**: Sharing The East Sea Peacefully (printed
+pp. 16–26), Vietnams Seas And Islands (printed pp.
+163–170); **Global Issues**: Environment And Natural
+Resources (printed pp. 108–110), Globalisation And
+Regionalisation (printed pp. 9–12), Green Growth
+(printed p. 112), Rich Countries Poor Countries
+(printed pp. 5–8), Tourism Trends And Careers (printed
+pp. 41–43), Using Vietnams Natural Resources Wisely
+(printed pp. 28–32), World Organisations And Global
+Security (printed pp. 14–19) — every new lesson is
+taught in 1 country (Vietnam), 8 questions each.
+Geography lessons: 1588 → 1688.

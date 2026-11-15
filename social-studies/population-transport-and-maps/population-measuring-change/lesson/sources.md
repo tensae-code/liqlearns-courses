@@ -1,6 +1,6 @@
 # Sources — Population — measuring change: rates, pyramids and structure
 
-countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia, Eritrea
+countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia, Eritrea, Vietnam
 
 **Book 1:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia, Eritrea
 
 **Book 6:** *Social Studies for Grade 7 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011 (reprinted 2011); ISBN 99948-1-584-9. Title as printed: Social Studies for Grade 7 — Textbook. Grade 7 (student/teacher: STUDENT). PDF pages: 154 (cover/title page verified against the record title; 3,970,347 bytes and 154 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Social Development: Primitive Communal to Feudalism, printed p. 63 Civics parts (named, not placed): Unit 6 Government (development of government; government systems; system of government administration in Eritrea), printed p. 78 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 7:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three components and the rates (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed pp. 24–27 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia, Eritrea
 | Colombia part (CS_Grado07 Secundaria Activa) — Unidad 2 Cap. 4 Tema 9 Así es la población europea | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 7 (module)*, Unidad 2 Cap. 4 Tema 9 Así es la población europea — printed p. 90 |
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 12 Pertumbuhan Penduduk Dunia: the concept of population growth, determining the growth rate, and its factors | Malaysia, *MY T4 Geografi*, Bab 12 Pertumbuhan Penduduk Dunia: the concept of population growth, determining the growth rate, and its factors — printed pp. 160-166 |
 | Eritrea part (ER G7 Social Studies) — Unit 2: 2.4 Population Growth | Eritrea, *ER G7 Social Studies*, Unit 2: 2.4 Population Growth — printed p. 23 |
+| Vietnam part — Bài 19 (part): Natural increase (birth and death rates), mechanical increase (migration; 272 million international migrants in 2020), real increase, and the factors behind each | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 19 (part): Natural increase (birth and death rates), mechanical increase (migration; 272 million international migrants in 2020), real increase, and the factors behind each — printed pp. 56–57 |
 
-**Acceptance count: taught in 5 countries (Palestine, Dominican Republic, Colombia, Malaysia, Eritrea). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Palestine, Dominican Republic, Colombia, Malaysia, Eritrea, Vietnam). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -42,3 +45,5 @@ Colombia's own way (CS_Grado07 Secundaria Activa): Secundaria Activa organises G
 Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.
 
 Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Eritrea's land — map scale, area and population arithmetic first, then Eritrea's natural heritage (Red Sea coast, wildlife) and Eritrea's own disaster set (drought, locusts, earthquakes, volcanism) as the environmental core.
+
+Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.

@@ -1,6 +1,6 @@
 # Sources — Population — counting and graphing growth
 
-countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia
+countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia
 
 **Book 6:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 7:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Counting your own school | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 35–36 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia
 | Indonesia part (Grade 11, teacher guide — evidence) — Bab III Panduan pembelajaran: Penduduk sebagai sumber daya manusia, dinamika kependudukan (teaching guide) | Indonesia, *Panduan Guru Geografi untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide), Grade 11, Bab III Panduan pembelajaran: Penduduk sebagai sumber daya manusia, dinamika kependudukan (teaching guide) — printed p. 183 |
 | Colombia part (CS_Grado7 Postprimaria) — Módulo 4 Guía 11 La población de las sociedades de los siglos V al XV | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 7 (student guide)*, Módulo 4 Guía 11 La población de las sociedades de los siglos V al XV — printed p. 141 |
 | Slovenia part — Prebivalstvo: Število prebivalcev / Naravno gibanje (population number and natural movement) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Prebivalstvo: Število prebivalcev / Naravno gibanje (population number and natural movement) — printed p. 184 |
+| Vietnam part — Bài 19 (part): World population size and growth, 1950–2050 (7.8 billion in 2020; developed vs developing countries) | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 19 (part): World population size and growth, 1950–2050 (7.8 billion in 2020; developed vs developing countries) — printed p. 55 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Colombia, Slovenia). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Indonesia, Colombia, Slovenia, Vietnam). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -39,3 +42,5 @@ Searchable tags: population, counting people, enrolment, bar graph, line graph, 
 Colombia's own way (CS_Grado7 Postprimaria): the rural Postprimaria Grade 7 guide teaches the medieval/colonial world through territory — how societies transformed their natural environment, represented their territory, and used and exploited its natural resources.
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
+
+Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.

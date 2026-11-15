@@ -1,6 +1,6 @@
 # Sources — Reading a population pyramid
 
-countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji, Slovenia
+countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji, Slovenia, Vietnam
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republi
 
 **Book 13:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 14:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The pyramid’s shape | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 91–94 |
@@ -45,8 +47,9 @@ countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republi
 | Cambodia part — Ch.1 L1 ទម្រង់ប្រជាសាស្ត្រកម្ពុជា (Cambodia's population structure) [placement slug: population-transport-and-maps/population-structure-age-sex-and-pyramids] | Cambodia, *Cambodia Grade 12 Geography*, Ch.1 L1 ទម្រង់ប្រជាសាស្ត្រកម្ពុជា (Cambodia's population structure) — printed p. 2 |
 | Fiji part — 1.1.3 Population Graphs | Fiji, *Fiji Years 11–12 Geography*, 1.1.3 Population Graphs — printed p. 12 |
 | Slovenia part — Sestava prebivalstva (composition by sex and age, race, nationality, religion, language, education and economic structure) inside Prebivalstvo | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Sestava prebivalstva (composition by sex and age, race, nationality, religion, language, education and economic structure) inside Prebivalstvo — printed p. 184 |
+| Vietnam part — Bài 19 (part): Population structure — by sex, by age (the pyramids of Ethiopia, India and Canada, 2020), and by labour sector (low-income vs high-income countries) | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 19 (part): Population structure — by sex, by age (the pyramids of Ethiopia, India and Canada, 2020), and by labour sector (low-income vs high-income countries) — printed pp. 58–59 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Barbados, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji, Slovenia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Barbados, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji, Slovenia, Vietnam). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -71,3 +74,5 @@ Cambodia's own way (Cambodia Grade 12 Geography): the final Geography year is ec
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
+
+Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.

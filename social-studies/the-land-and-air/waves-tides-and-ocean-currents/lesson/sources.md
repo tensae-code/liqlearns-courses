@@ -1,16 +1,22 @@
 # Sources — Waves, Tides and Ocean Currents
 
-countries: India
+countries: India, Vietnam
 
 **Book 1:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
+**Book 2:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ch.5: ocean circulation — waves, tides and ocean currents; salinity | India, *India Grade 7 Our Environment*, Ch.5: ocean circulation — waves, tides and ocean currents; salinity — printed p. 34 |
 | Sub lesson 2 — India's way — the book's own teaching way | India — the books' own way of teaching (see below) |
+| Vietnam part — Bài 12 (part): Waves — how wind raises them, and tsunami (the lesson slug was proposed as NEW in this group's Pakistan file; counted here as an existing target) [placement slug: earth-and-space/how-ocean-water-moves-waves] | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 12 (part): Waves — how wind raises them, and tsunami (the lesson slug was proposed as NEW in this group's Pakistan file; counted here as an existing target) — printed p. 42 |
+| Vietnam part — Bài 12 (part): Tides — spring tides and neap tides shown by the Moon–Earth–Sun diagrams (the lesson slug was proposed as NEW in this group's Pakistan file; counted here as an existing target) [placement slug: earth-and-space/tides-and-the-moon] | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 12 (part): Tides — spring tides and neap tides shown by the Moon–Earth–Sun diagrams (the lesson slug was proposed as NEW in this group's Pakistan file; counted here as an existing target) — printed pp. 42–43 |
 
-**Acceptance count: taught in 1 country (India).**
+**Acceptance count: taught in 2 countries (India, Vietnam).**
 
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
 
 Searchable tags: waves tides and ocean currents, India, social studies, the-land-and-air
+
+Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.

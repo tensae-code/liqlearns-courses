@@ -1,6 +1,6 @@
 # Sources — Climate change — the basic concepts
 
-countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia
+countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia
 
 **Book 5:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 6:** *Chuyên đề học tập Địa lí 10* (student study-topics book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31084-2. Title as printed: CHUYÊN ĐỀ HỌC TẬP ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 38 per the record (read as the publisher's 38 page images, printed pp. 2–35 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Weather today, climate over years | G12 student #25, printed pp. 35–37 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia
 | Dominican Republic part (Grade 5) — Climate change | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, Climate change — printed p. 34 |
 | Rwanda part — 6.3.2 Climate change (Unit 6) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 6.3.2 Climate change (Unit 6) — printed p. 172 |
 | Slovenia part — Podnebne spremembe (climate change) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Podnebne spremembe (climate change) — printed p. 99 |
+| Vietnam part — Topic 10.1 (part): Climate change — the concept and its manifestations: global temperature up about 1 °C in 1901–2020, rainfall changing unevenly, more extreme weather, and sea level rising (2.2 mm/year over 1951–2020, 3.3 mm/year in 1993–2020) | Vietnam, *Vietnam Grade 10 Chuyên đề 10*, Topic 10.1 (part): Climate change — the concept and its manifestations: global temperature up about 1 °C in 1901–2020, rainfall changing unevenly, more extreme weather, and sea level rising (2.2 mm/year over 1951–2020, 3.3 mm/year in 1993–2020) — printed pp. 5–6 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -34,3 +37,5 @@ Dominican Republic's own way (Grade 5): Three geography units climb from the pla
 Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the fullest Geography book of the set — a whole unit on direction and location works Rwanda onto the East African and African maps by latitude and longitude and time zones, then physical features and climate, and a climate-change sequence (types, change, effects, overcoming) sits inside it; regional co-operation is taught bloc by bloc (COMESA, CEPGL, ECCAS, AU, NEPAD).
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
+
+Vietnam's own way (Vietnam Grade 10 Chuyên đề 10): the elective companion goes deep on just three things — climate change, urbanisation, and how to write a geography report — and keeps pulling the world material back to Vietnam (a metre of sea-level rise would flood 10–12% of Vietnam's area; Hanoi and Ho Chi Minh City as the home examples of developing-world urbanisation).

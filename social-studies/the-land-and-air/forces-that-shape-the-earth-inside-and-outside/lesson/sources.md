@@ -1,6 +1,6 @@
 # Sources — Forces that shape the Earth — inside and outside
 
-countries: Ethiopia, Cambodia, Rwanda
+countries: Ethiopia, Cambodia, Rwanda, Vietnam
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Cambodia, Rwanda
 
 **Book 3:** *Social Studies for Rwanda Schools — Primary 6, Pupil's Book, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies for Rwanda Schools — Primary 6, Pupil's Book, Revised Edition 2019. Grade: Grade 6 (Primary 6) (student/teacher: STUDENT). PDF pages: 157 (condensed-layout copy; printed pagination runs to p. 277 — cover verified against the record title; byte size 143,704,475 matches the edufeeds source's Content-Length exactly, the assembled file's prefix matches an independently downloaded sequential partial, and the PDF EOF sits at the file end; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Civics and governance apart from regional co-operation — national unity and Ndi Umunyarwanda, international co-operation and the UN, government and non-governmental organisations, heroism, risky behaviour, citizenship, leadership and organs of government (Civics), printed pp. 8–95; Unit 3 Hygiene — puberty, menstrual hygiene, chronic diseases (diabetes, cancer) (Health), pp. 96–113; Unit 11 Post independent Rwanda (History), pp. 230–243; Unit 12 The 1994 Genocide Against the Tutsi, incl. the Holocaust and other genocides (History), pp. 244–262; Unit 13 Effects of foreigners on East Africa — explorers, missionaries, traders, colonialists (History), pp. 263–277. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
+**Book 4:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two families of forces | G12 student #9, printed pp. 11–12, 24 |
 | Sub lesson 2 — Eruptions as the inside force at work | G12 student #9, printed pp. 11–12, 24 |
 | Cambodia part — Ch.1 L6 ភ្នំភ្លើង (volcanoes) [placement slug: earth-and-space/volcanoes-mountains-that-erupt] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.1 L6 ភ្នំភ្លើង (volcanoes) — printed p. 50 |
 | Rwanda part — 6.2.4 Formation of physical features (Unit 6) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 6.2.4 Formation of physical features (Unit 6) — printed p. 156 |
+| Vietnam part — Bài 7: Internal forces (folding, faulting, uplift and subsidence) and external forces (weathering — physical, chemical, biological; erosion, transport and deposition; Phong Nha cave; the Red River and Mekong deltas) | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 7: Internal forces (folding, faulting, uplift and subsidence) and external forces (weathering — physical, chemical, biological; erosion, transport and deposition; Phong Nha cave; the Red River and Mekong deltas) — printed pp. 24–26 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Cambodia, Rwanda).**
+**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Rwanda, Vietnam).**
 
 Placement honesty carried: the placements place the eruption-style / Krakatoa passage before the 1.4.2 heading, inside the flow of 1.4.1's closing pages (printed p. 24) — a layout slip in the book, named here; the content itself is taught as the placements give it.
 
@@ -24,3 +27,5 @@ Searchable tags: endogenic, exogenic, geological processes, Krakatoa, eruption s
 Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.
 
 Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the fullest Geography book of the set — a whole unit on direction and location works Rwanda onto the East African and African maps by latitude and longitude and time zones, then physical features and climate, and a climate-change sequence (types, change, effects, overcoming) sits inside it; regional co-operation is taught bloc by bloc (COMESA, CEPGL, ECCAS, AU, NEPAD).
+
+Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.

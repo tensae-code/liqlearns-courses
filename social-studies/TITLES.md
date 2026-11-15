@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1588**
+Geography lessons across the eight Geography titles: **1688**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1033,3 +1033,63 @@ Koper And Modern Infrastructure and The Suez Canal;
 People and Resources: Apartheid South Africas Racial
 System; Global Issues: Nuclear Testing In Oceania and
 The Shrinking Aral Sea.
+
++100 for Vietnam, 2026-11-14 — First Steps: Kinds Of
+Economic Regions, What Is A Region and Writing A
+Geography Report; Earth and Space: Sea Water Salt And
+Warmth and The Geographical Shell; The Land and Air:
+China Land And People, Japan Land And People, Lakes And
+How They Form, Latin America Land And People, Russia
+Land And People, Snow Ice And Groundwater, Soil And How
+It Forms, South Africa Land And People, Southeast Asia
+Land And People, Southwest Asia Land And People, The
+Atmosphere And Air Temperature, The Biosphere, The
+Mekong River And Its Commission, The United States Land
+And People, Vietnam Position And Territory, Vietnams
+Droughts And Salt Intrusion, Vietnams Floods, Vietnams
+Mekong Delta, Vietnams North Central Region, Vietnams
+Northern Midlands And Mountains, Vietnams Red River
+Delta, Vietnams Six Socio Economic Regions, Vietnams
+South Central Coast And Highlands, Vietnams Southeast
+Region, Vietnams Tropical Monsoon Nature, Vietnams
+Typhoons And Tropical Storms, Vietnams Varied Nature,
+Where Earthquakes And Volcanoes Cluster, World Soils
+And Vegetation Belts and Zonality And Azonality;
+Population, Transport and Maps: Asean Working Together,
+Latin America People And Cities, Posts Phones And The
+Internet, Railways And Trains, Reading A Rivers Regime,
+Reading Climate Maps And Charts, Ships And Planes,
+Southeast Asia People And Cities, The European Union,
+Urbanisation And Its Effects, Urbanisation In
+Developing Countries, Urbanisation In Rich Countries,
+Vietnams Key Economic Regions, Vietnams Population,
+Vietnams Transport And Communications and Ways Of
+Showing Things On Maps; People and Resources:
+Electricity The Power Industry, How An Economy Is Built
+Gdp And Gni, Mining Coal Oil And Metal Ores, Resources
+That Develop An Economy, Vietnams Forests And Fisheries
+and Vietnams Key Industries; Culture and Work: Chinas
+Economy, Crops And Where They Grow, Developing Craft
+Villages, Electronics And Computers, Forestry Planting
+And Logging, How Vietnams Farming Is Organised,
+Industry 40 Changes Work And The World, Industry 40
+Technology Trends, Industry What It Is, Japans Economy,
+Kinds Of Tourism, Latin Americas Economy, Livestock
+Around The World, Making Consumer Goods And Food,
+Organising Farming Across A Territory, Organising
+Industry Across A Territory, Russias Economy, Services
+The Third Part Of The Economy, South Africas Economy,
+Southeast Asias Economy, Southwest Asias Economy, The
+United States Economy, Tourism Around The World, Trade
+And Banking, Vietnams Changing Economy, Vietnams
+Changing Industry, Vietnams Craft Villages, Vietnams
+Farming, Vietnams Industrial Zones, Vietnams Sector
+Regions, Vietnams Tourism Resources, Vietnams Trade And
+Tourism, Vietnams Workers And Jobs and World Tourism
+Resources; Resources and Conflict: Sharing The East Sea
+Peacefully and Vietnams Seas And Islands; Global
+Issues: Environment And Natural Resources,
+Globalisation And Regionalisation, Green Growth, Rich
+Countries Poor Countries, Tourism Trends And Careers,
+Using Vietnams Natural Resources Wisely and World
+Organisations And Global Security.

@@ -1,6 +1,6 @@
 # Sources — Materials of the Crust — Elements, Minerals and Rocks
 
-countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia
+countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia
 
 **Book 9:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 10:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Eight elements, and what a mineral is (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1, printed pp. 11–14 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia
 | North Macedonia part (Grade 10 mk-g10) — 3. Геолошки состав на Земјината кора (литосферата) | North Macedonia, *North Macedonia Grade 10 mk-g10*, 3. Геолошки состав на Земјината кора (литосферата) — printed p. 11 |
 | Slovenia part — Vrste kamnin (kinds of rocks) inside Nastanek površja in kamnine | Slovenia, *Slovenia Grade 9 Geografija 9*, Vrste kamnin (kinds of rocks) inside Nastanek površja in kamnine — printed p. 16 |
 | Slovenia part — Kamnine in geološki razvoj Zemlje: Vrste kamnin (magmatic, sedimentary and metamorphic rocks) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Kamnine in geološki razvoj Zemlje: Vrste kamnin (magmatic, sedimentary and metamorphic rocks) — printed p. 27 |
+| Vietnam part — Bài 4 (part): Features of the Earth's crust (continental and oceanic) and the materials composing it — magmatic, sedimentary and metamorphic rocks; a task on rock types in Vietnam | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 4 (part): Features of the Earth's crust (continental and oceanic) and the materials composing it — magmatic, sedimentary and metamorphic rocks; a task on rock types in Vietnam — printed pp. 15–16 |
 
-**Acceptance count: taught in 5 countries (Barbados, Malaysia, India, North Macedonia, Slovenia). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -44,3 +47,5 @@ North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geogr
 Slovenia's own way (Slovenia Grade 9 Geografija 9): Grade 9 turns home — the whole book is Slovenia itself: first the country as a system (position and borders, relief and rocks, climate/vegetation/waters, settlement, population, settlements, economy, transport, environment), then its five natural regions one by one (Alpine, Pre-Alpine with the Ljubljana basin, Dinaric-Karst, Mediterranean, Pannonian). Named, not placed: the EU unit's history of the European Union and Slovenia-in-EU pros/cons (printed p. 7, Civics/History) and the state symbols inside the opening unit (p. 1, Civics).
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
+
+Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
