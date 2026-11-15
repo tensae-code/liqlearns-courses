@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -164,3 +164,52 @@ Pakistan's own way (History 7 (PCTB, SNC 2022), Grade 7 / Class 7 (student/teach
 **Acceptance count: taught in 11 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan).**
 
 Searchable tags: Pakistan, Exploration — Columbus, Vespucci and Magellan, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Suriname stocked
+
+**Book 5 — sr-g6-student (student book, Dutch)**
+- Title as printed: Wij en ons verleden — De geschiedenis van ons volk (title page adds "voor de vierde klas van het Basisonderwijs", an older class label carried in this 2004 revised edition; the record files it at Grade 6)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: MINOV Curriculumontwikkeling, Paramaribo; year 2004 (revised version; original 1984, improved 1989; authors Hassankhan, Loor, Sewpersad, Caprino); no ISBN printed
+- PDF pages: 86 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 2 to existing lessons, 9 NEW LESSON NEEDED
+- Suriname's own way: The older series volume is a straight chronological national survey in seven chapters — first peoples, Europeans, plantations and slavery, emancipation and contract labour, new livelihoods, oppression and resistance, crisis/war/independence — written to be read independently at home, with margin questions throughout and chapter question sets.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/suriname-placements.md.
+
+**Book 6 — sr-g7-student (student book, Dutch)**
+- Title as printed: Wij en ons verleden — Nieuwe Editie, 7
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerie van Onderwijs, Wetenschap en Cultuur (MinOWC), Paramaribo, with Vrije Universiteit Brussel team; year 2022; no ISBN printed
+- PDF pages: 144 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED
+- Suriname's own way: The new-edition Grade 7 book is organised in 8 themes of 3 lessons plus processing assignments (verwerkingsopdrachten with copy-sheets, maps and a board game of escape to a Maroon village): the national story is rebuilt theme by theme with keyword boxes, picture assignments and source extracts, ending each theme in group project work.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/suriname-placements.md.
+
+**Book 7 — sr-g7-teacher (teacher guide, Dutch)**
+- Title as printed: Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 7
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: Ministerie van Onderwijs, Wetenschap en Cultuur (MinOWC), Paramaribo, with Vrije Universiteit Brussel team; year 2022; no ISBN printed
+- PDF pages: 176 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED
+- Suriname's own way: The guide mirrors the student book's 8 themes and adds the full teaching apparatus: lesson goals per lesson, a didactic model with differentiation and 21st-century skills, copy sheets, and quarterly projects (wall newspaper, collage, researcher, object table; local-environment history, quartet card game, drama; museum visit, monument artwork, world map, timeline) — history is explicitly taught to form citizenship for Suriname, the Caricom community and the world.
+- Cited as teacher-guide evidence only, outside acceptance counts.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Suriname part — Hoofdstuk 2: Europeanen komen naar ons werelddeel (Columbus part) — story beats: Columbus reaches a "new world" believing it is India, names its friendly gift-giving people Indians, and European greed for gold and silver is awakened (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Suriname, *Grade 6 Geschiedenis*, printed p. 18 |
+| Suriname part — Thema 2 Les 2: Een zeeweg naar Indië gevonden? — story beats: Columbus sails west for Spain on 3 August 1492 with the Niña, Pinta and Santa Maria; the 1507 world map first shows the Americas he had actually reached (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Suriname, *Grade 7 Wij en ons verleden*, printed p. 31 |
+| Suriname part — Thema 2 Les 2: Een zeeweg naar Indië gevonden? (teacher guidance) — story beats: Teacher guidance for the Columbus lesson, same content as the student book (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Suriname, *Grade 7 Leerkrachtenboek*, printed p. 48 |
+
+Suriname's own way (Book 5 — Wij en ons verleden — De geschiedenis van ons volk (title page adds "voor de vierde klas van het Basisonderwijs", an older class label carried in this 2004 revised edition; the record files it at Grade 6), Grade 6 (student/teacher: STUDENT)): The older series volume is a straight chronological national survey in seven chapters — first peoples, Europeans, plantations and slavery, emancipation and contract labour, new livelihoods, oppression and resistance, crisis/war/independence — written to be read independently at home, with margin questions throughout and chapter question sets. That way is stocked here as the way Suriname teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Suriname's own way (Book 6 — Wij en ons verleden — Nieuwe Editie, 7, Grade 7 (student/teacher: STUDENT)): The new-edition Grade 7 book is organised in 8 themes of 3 lessons plus processing assignments (verwerkingsopdrachten with copy-sheets, maps and a board game of escape to a Maroon village): the national story is rebuilt theme by theme with keyword boxes, picture assignments and source extracts, ending each theme in group project work. That way is stocked here as the way Suriname teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Suriname's own way (Book 7 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 7, Grade 7 (student/teacher: TEACHER)): The guide mirrors the student book's 8 themes and adds the full teaching apparatus: lesson goals per lesson, a didactic model with differentiation and 21st-century skills, copy sheets, and quarterly projects (wall newspaper, collage, researcher, object table; local-environment history, quartet card game, drama; museum visit, monument artwork, world map, timeline) — history is explicitly taught to form citizenship for Suriname, the Caricom community and the world. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname).**

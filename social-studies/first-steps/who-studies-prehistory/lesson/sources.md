@@ -1,6 +1,6 @@
 # Sources — Archaeology, palaeontology, anthropology — who studies prehistory
 
-countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran
+countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -198,3 +198,39 @@ Iran's own way (Book 1 — History 1, Grade 10 (student book, Persian)): a full 
 **Acceptance count: taught in 11 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran).**
 
 Searchable tags: Iran, Archaeology, palaeontology, anthropology — who studies prehistory, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Suriname stocked
+
+**Book 6 — sr-g7-student (student book, Dutch)**
+- Title as printed: Wij en ons verleden — Nieuwe Editie, 7
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerie van Onderwijs, Wetenschap en Cultuur (MinOWC), Paramaribo, with Vrije Universiteit Brussel team; year 2022; no ISBN printed
+- PDF pages: 144 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED
+- Suriname's own way: The new-edition Grade 7 book is organised in 8 themes of 3 lessons plus processing assignments (verwerkingsopdrachten with copy-sheets, maps and a board game of escape to a Maroon village): the national story is rebuilt theme by theme with keyword boxes, picture assignments and source extracts, ending each theme in group project work.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/suriname-placements.md.
+
+**Book 7 — sr-g7-teacher (teacher guide, Dutch)**
+- Title as printed: Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 7
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: Ministerie van Onderwijs, Wetenschap en Cultuur (MinOWC), Paramaribo, with Vrije Universiteit Brussel team; year 2022; no ISBN printed
+- PDF pages: 176 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED
+- Suriname's own way: The guide mirrors the student book's 8 themes and adds the full teaching apparatus: lesson goals per lesson, a didactic model with differentiation and 21st-century skills, copy sheets, and quarterly projects (wall newspaper, collage, researcher, object table; local-environment history, quartet card game, drama; museum visit, monument artwork, world map, timeline) — history is explicitly taught to form citizenship for Suriname, the Caricom community and the world.
+- Cited as teacher-guide evidence only, outside acceptance counts.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Suriname part — Thema 1 Les 1: Kennis over vroeger — story beats: How we know about the first people in the Americas — archaeologists dig up old objects and read them to reconstruct how people lived and how the first inhabitants arrived (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Suriname, *Grade 7 Wij en ons verleden*, printed p. 11 |
+| Suriname part — Thema 1 Les 1: Kennis over vroeger (teacher guidance) — story beats: Teacher guidance for the archaeology-and-arrival lesson, same content as the student book (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Suriname, *Grade 7 Leerkrachtenboek*, printed p. 28 |
+
+Suriname's own way (Book 6 — Wij en ons verleden — Nieuwe Editie, 7, Grade 7 (student/teacher: STUDENT)): The new-edition Grade 7 book is organised in 8 themes of 3 lessons plus processing assignments (verwerkingsopdrachten with copy-sheets, maps and a board game of escape to a Maroon village): the national story is rebuilt theme by theme with keyword boxes, picture assignments and source extracts, ending each theme in group project work. That way is stocked here as the way Suriname teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Suriname's own way (Book 7 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 7, Grade 7 (student/teacher: TEACHER)): The guide mirrors the student book's 8 themes and adds the full teaching apparatus: lesson goals per lesson, a didactic model with differentiation and 21st-century skills, copy sheets, and quarterly projects (wall newspaper, collage, researcher, object table; local-environment history, quartet card game, drama; museum visit, monument artwork, world map, timeline) — history is explicitly taught to form citizenship for Suriname, the Caricom community and the world. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname).**

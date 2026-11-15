@@ -1,6 +1,6 @@
 # Sources — The Maya
 
-countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia
+countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -132,3 +132,39 @@ Bolivia's own way (Texto de Aprendizaje — Ciencias Sociales, 1er Año de Educa
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia).**
+
+---
+
+## History expansion (2026-11-15) — Suriname stocked
+
+**Book 6 — sr-g7-student (student book, Dutch)**
+- Title as printed: Wij en ons verleden — Nieuwe Editie, 7
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerie van Onderwijs, Wetenschap en Cultuur (MinOWC), Paramaribo, with Vrije Universiteit Brussel team; year 2022; no ISBN printed
+- PDF pages: 144 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED
+- Suriname's own way: The new-edition Grade 7 book is organised in 8 themes of 3 lessons plus processing assignments (verwerkingsopdrachten with copy-sheets, maps and a board game of escape to a Maroon village): the national story is rebuilt theme by theme with keyword boxes, picture assignments and source extracts, ending each theme in group project work.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/suriname-placements.md.
+
+**Book 7 — sr-g7-teacher (teacher guide, Dutch)**
+- Title as printed: Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 7
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: Ministerie van Onderwijs, Wetenschap en Cultuur (MinOWC), Paramaribo, with Vrije Universiteit Brussel team; year 2022; no ISBN printed
+- PDF pages: 176 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED
+- Suriname's own way: The guide mirrors the student book's 8 themes and adds the full teaching apparatus: lesson goals per lesson, a didactic model with differentiation and 21st-century skills, copy sheets, and quarterly projects (wall newspaper, collage, researcher, object table; local-environment history, quartet card game, drama; museum visit, monument artwork, world map, timeline) — history is explicitly taught to form citizenship for Suriname, the Caricom community and the world.
+- Cited as teacher-guide evidence only, outside acceptance counts.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Suriname part — Thema 1 Les 2: Grote beschavingen in ons werelddeel (Maya part) — story beats: In parts of the Americas farming begins early and great civilisations rise, the Maya among them, with cities where not everyone had to farm (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Suriname, *Grade 7 Wij en ons verleden*, printed p. 15 |
+| Suriname part — Thema 1 Les 2: Grote beschavingen (teacher guidance, Maya part) — story beats: Teacher guidance for the great-civilisations lesson, same content as the student book (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Suriname, *Grade 7 Leerkrachtenboek*, printed p. 30 |
+
+Suriname's own way (Book 6 — Wij en ons verleden — Nieuwe Editie, 7, Grade 7 (student/teacher: STUDENT)): The new-edition Grade 7 book is organised in 8 themes of 3 lessons plus processing assignments (verwerkingsopdrachten with copy-sheets, maps and a board game of escape to a Maroon village): the national story is rebuilt theme by theme with keyword boxes, picture assignments and source extracts, ending each theme in group project work. That way is stocked here as the way Suriname teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Suriname's own way (Book 7 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 7, Grade 7 (student/teacher: TEACHER)): The guide mirrors the student book's 8 themes and adds the full teaching apparatus: lesson goals per lesson, a didactic model with differentiation and 21st-century skills, copy sheets, and quarterly projects (wall newspaper, collage, researcher, object table; local-environment history, quartet card game, drama; museum visit, monument artwork, world map, timeline) — history is explicitly taught to form citizenship for Suriname, the Caricom community and the world. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname).**
