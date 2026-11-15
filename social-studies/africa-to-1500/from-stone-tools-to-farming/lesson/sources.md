@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -337,3 +337,20 @@ Pakistan's own way (History 6 (PCTB, SNC 2022), Grade 6 / Class 6 (student/teach
 **Acceptance count: taught in 16 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan).**
 
 Searchable tags: Pakistan, From stone tools to farming — the Neolithic Revolution, africa-to-1500, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Syria stocked
+
+**Book (Syria — SY-G7):** *التاريخ — الصف السابع الأساسي (History, Grade 7; NCCD developed-curriculum edition)* (student book, Arabic) — Syria. Title as printed: التاريخ — الصف السابع الأساسي (History, Grade 7; NCCD developed-curriculum edition). Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministry of Education / National Centre for Curriculum Development, Syrian Arab Republic; year first printed 2017–2018; no ISBN printed. PDF pages: 118 (cover/title page verified against the record title; read in place on disk, 63,477,805 bytes). Verdict: COMPLETE. Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+**Book (Syria — SY-G4):** *الدراسات الاجتماعية — الصف الرابع (Social Studies, Grade 4)* (student book, Arabic) — Syria. Title as printed: الدراسات الاجتماعية — الصف الرابع (Social Studies, Grade 4). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 school year (1447 AH); no ISBN printed. PDF pages: 112 (cover/title page verified against the record title; grabbed via grab.py url from the release record, 271,613,622 bytes, size verified; read from rendered pages). Verdict: COMPLETE — all five units present through the closing Unit 5 exercises. Tally: 17 placements — 10 to existing lessons, 7 NEW LESSON NEEDED. Non-History parts (named, not placed): Geography — Unit 1 الطبيعة في بلدي سورية (Nature in my country Syria: location, landform groups, natural environments, weather and climate, renewable and non-renewable resources, water resources, printed pp. 8–33) and the population-distribution and countryside/city-life lessons of Unit 3 (pp. 51–75, geography parts only); Economics — Unit 4 دعائم الاقتصاد في سورية (Pillars of the economy: agriculture, modern industry and trade, tourism economics, pp. 76–97); Civics — Unit 5 المواطنة lessons الحقوق and الواجبات (Rights; Duties, pp. 98–106). Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — Unit 2, Lesson 1: أساس الاستقرار البشري (Farming, the basis of human settlement) — story beats: after ages of wandering for food, people on Syria's Euphrates valley plant and reap, and the farming village is born (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Syria, *التاريخ — الصف السابع الأساسي (History, Grade 7)*, printed p. 43 |
+| Syria part — Unit 2 سورية والتاريخ, Lesson سورية مهد الحضارة (Syria, cradle of civilisation) — story beats: on Syria's land humans lived for thousands of years and moved from hunting and gathering to settling, farming the plains and building cities and centres of civilisation (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Syria, *الدراسات الاجتماعية — الصف الرابع (Social Studies, Grade 4)*, printed p. 36 |
+
+Syria's own way (التاريخ — الصف السابع الأساسي (History, Grade 7), Grade 7 (student/teacher: STUDENT)): ancient history is taught thematically — social life, economic life, the road to civilisation, intellectual creations — and anchored in Syria's own sites (Yabroud caves, Abu Hureyra, Jerf el-Ahmar, Ebla, Mari, Ugarit) before the wider region, with a historical-thinking skills toolkit (cause/effect, continuity/change, perspective, evidence) opened at the front. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Syria's own way (الدراسات الاجتماعية — الصف الرابع (Social Studies, Grade 4), Grade 4 (student/teacher: STUDENT)): Grade 4 carries a whole unit named “Syria and History” (سورية والتاريخ) — cradle of civilisation, historic sites, and transport and communication developing through the ages — and the book closes its citizenship unit with the martyrs of the Syrian revolution, told as the nation's own recent history. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria).**

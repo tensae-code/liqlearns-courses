@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -218,3 +218,20 @@ Pakistan's own way (History 7 (PCTB, SNC 2022), Grade 7 / Class 7 (student/teach
 **Acceptance count: taught in 12 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan).**
 
 Searchable tags: Pakistan, The rise and expansion of Islam, ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Syria stocked
+
+**Book (Syria — SY-G8):** *كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8)* (student book, Arabic) — Syria. Title as printed: كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8). Grade: Grade 8 (student/teacher: STUDENT). Publisher: Ministry of Education / National Centre for Curriculum Development, Syrian Arab Republic; year 2021–2022 edition (first printed 2018–2019); no ISBN printed. PDF pages: 128 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 59,325,185 bytes, size verified). Verdict: COMPLETE. Tally: 19 placements — 8 to existing lessons, 11 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+**Book (Syria — SY-G6):** *الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6)* (student book, Arabic) — Syria. Title as printed: الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 AH); no ISBN printed. PDF pages: 116 (cover/title page verified against the record title; read in place on disk, 35,135,330 bytes; image-only PDF, read from rendered pages). Verdict: COMPLETE. Tally: 9 placements — 8 to existing lessons, 1 NEW LESSON NEEDED. Non-History parts (named, not placed): Geography — Unit 1 Lesson 1 الوطن العربي في أفريقيا (the Arab homeland in Africa, printed p. 8); Unit 2 Lessons 1–2, 5–6 (landforms and resources of the Nile Valley and the African Horn, pp. 37–64); Unit 4 Lessons 1–2 (landforms and resources of Libya, pp. 82–91); Unit 5 Lessons 1–2 (landforms and resources of the Maghreb, pp. 102–109). Civics — Unit 1 Lesson 5 الدولة مفهومها ومقوماتها (the state, its concept and components, p. 30); Unit 3 الأسرة والمؤسسات (Family and institutions, pp. 66–80). Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — Unit 1, Lesson 1: حروب التحرير (The wars of liberation) — story beats: Arab armies free the Levant and build one state from India to al-Andalus, opening the medieval centuries in Syria (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Syria, *كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8)*, printed p. 21 |
+| Syria part — Unit 5, Lesson 4: الأندلس قبيل الفتح العربي الإسلامي وبعده (Al-Andalus before and after the Arab-Islamic conquest) — story beats: the Islamic state steps beyond Arabia into Europe; al-Andalus is the first landfall, won by Arab arms and organised by Arab administration (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Syria, *الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6)*, printed p. 113 |
+
+Syria's own way (كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8), Grade 8 (student/teacher: STUDENT)): the medieval centuries are told as Syria's own story inside the Arab state — liberation wars, the Damascus-centred state, its administration, the Crusader and Mongol assaults — then the same thematic lens as Grade 7 (society, economy, thought) turned on the Islamic-era civilisation. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Syria's own way (الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6), Grade 6 (student/teacher: STUDENT)): a combined Social Studies book whose History strand runs region by region across the Arab lands in Africa — ancient Egypt and Carthage first, then the Arab-Islamic liberation and civilisation of the Nile Valley, Libya, the Maghreb and al-Andalus, each region's Geography lessons interleaved with its History. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria).**

@@ -1,6 +1,6 @@
 # Sources — Comparing states: how kingdoms hold together
 
-countries: Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus
+countries: Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -104,3 +104,20 @@ Cyprus's own way (Grade 4 work cards): the Grade 3 comparison grid grows up with
 Zimbabwe's own way (History expansion, 2026-11-15): Grade 5 Topic 2 teaches the four pre-colonial states compared in tables — time, place, leadership, economy, religion, decline — and the guide explicitly teaches "balanced perspectives when studying history"; Grade 4 adds the dare, the indigenous court, as the institution that held the community together, and Grade 6 compares systems of governance outright. That way is stocked here as the way Zimbabwe teaches this thing. These books are teacher guides: their rows stand as teacher-guide evidence only, counted nowhere in acceptance. The books' stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus) — unchanged; the Zimbabwe placements above are teacher-guide evidence only, counted nowhere. Zimbabwe is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Syria stocked
+
+**Book (Syria — SY-G7):** *التاريخ — الصف السابع الأساسي (History, Grade 7; NCCD developed-curriculum edition)* (student book, Arabic) — Syria. Title as printed: التاريخ — الصف السابع الأساسي (History, Grade 7; NCCD developed-curriculum edition). Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministry of Education / National Centre for Curriculum Development, Syrian Arab Republic; year first printed 2017–2018; no ISBN printed. PDF pages: 118 (cover/title page verified against the record title; read in place on disk, 63,477,805 bytes). Verdict: COMPLETE. Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+**Book (Syria — SY-G8):** *كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8)* (student book, Arabic) — Syria. Title as printed: كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8). Grade: Grade 8 (student/teacher: STUDENT). Publisher: Ministry of Education / National Centre for Curriculum Development, Syrian Arab Republic; year 2021–2022 edition (first printed 2018–2019); no ISBN printed. PDF pages: 128 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 59,325,185 bytes, size verified). Verdict: COMPLETE. Tally: 19 placements — 8 to existing lessons, 11 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — Unit 3, Lesson 3: إدارة الدولة وتنظيمها (Running and organising the state) — story beats: kings hold their states together with officials, laws, institutions and treaties (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | Syria, *التاريخ — الصف السابع الأساسي (History, Grade 7)*, printed p. 81 |
+| Syria part — Unit 1, Lesson 3: التنظيم الإداري (Administrative organisation) — story beats: caliphs, governors and diwans run a strong state whose offices keep an empire of many peoples working (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | Syria, *كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8)*, printed p. 34 |
+
+Syria's own way (التاريخ — الصف السابع الأساسي (History, Grade 7), Grade 7 (student/teacher: STUDENT)): ancient history is taught thematically — social life, economic life, the road to civilisation, intellectual creations — and anchored in Syria's own sites (Yabroud caves, Abu Hureyra, Jerf el-Ahmar, Ebla, Mari, Ugarit) before the wider region, with a historical-thinking skills toolkit (cause/effect, continuity/change, perspective, evidence) opened at the front. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Syria's own way (كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8), Grade 8 (student/teacher: STUDENT)): the medieval centuries are told as Syria's own story inside the Arab state — liberation wars, the Damascus-centred state, its administration, the Crusader and Mongol assaults — then the same thematic lens as Grade 7 (society, economy, thought) turned on the Islamic-era civilisation. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria).**

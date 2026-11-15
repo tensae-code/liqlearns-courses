@@ -1,6 +1,6 @@
 # Sources — Carthage and the Punic Wars
 
-countries: Ethiopia, Egypt
+countries: Ethiopia, Egypt, Syria
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 84).
 
@@ -44,3 +44,15 @@ Morocco's own way: Moroccan History is one unbroken national line — the guide'
 Egypt's own way (Prep7 T1 "Africa and Egypt", Grade 7 (First Preparatory), Term 1 (student/teacher: STUDENT)): ancient Egypt is taught inside Africa — its three kingdom eras are each paired with Egypt's relations with the continent, and the medieval unit follows Islam's spread and Cairo's civilisational role in Africa. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Egypt).**
+
+## History expansion (2026-11-15) — Syria stocked
+
+**Book (Syria — SY-G6):** *الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6)* (student book, Arabic) — Syria. Title as printed: الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 AH); no ISBN printed. PDF pages: 116 (cover/title page verified against the record title; read in place on disk, 35,135,330 bytes; image-only PDF, read from rendered pages). Verdict: COMPLETE. Tally: 9 placements — 8 to existing lessons, 1 NEW LESSON NEEDED. Non-History parts (named, not placed): Geography — Unit 1 Lesson 1 الوطن العربي في أفريقيا (the Arab homeland in Africa, printed p. 8); Unit 2 Lessons 1–2, 5–6 (landforms and resources of the Nile Valley and the African Horn, pp. 37–64); Unit 4 Lessons 1–2 (landforms and resources of Libya, pp. 82–91); Unit 5 Lessons 1–2 (landforms and resources of the Maghreb, pp. 102–109). Civics — Unit 1 Lesson 5 الدولة مفهومها ومقوماتها (the state, its concept and components, p. 30); Unit 3 الأسرة والمؤسسات (Family and institutions, pp. 66–80). Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — Unit 1, Lesson 4: حضارة قرطاجة (The civilisation of Carthage) — story beats: Princess Elissa sails from the Phoenician coast of the Levant and founds Carthage, whose ships and markets rule the western Mediterranean (History expansion, 2026-11-15; original placement slug: africa-to-1500/carthage-and-the-punic-wars) | Syria, *الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6)*, printed p. 25 |
+
+Syria's own way (الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6), Grade 6 (student/teacher: STUDENT)): a combined Social Studies book whose History strand runs region by region across the Arab lands in Africa — ancient Egypt and Carthage first, then the Arab-Islamic liberation and civilisation of the Nile Valley, Libya, the Maghreb and al-Andalus, each region's Geography lessons interleaved with its History. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Syria).**

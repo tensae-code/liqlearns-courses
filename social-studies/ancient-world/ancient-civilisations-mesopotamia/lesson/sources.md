@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -201,3 +201,16 @@ Pakistan's own way (History 6 (PCTB, SNC 2022), Grade 6 / Class 6 (student/teach
 **Acceptance count: taught in 11 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan).**
 
 Searchable tags: Pakistan, Ancient civilisations — Mesopotamia, ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Syria stocked
+
+**Book (Syria — SY-G7):** *التاريخ — الصف السابع الأساسي (History, Grade 7; NCCD developed-curriculum edition)* (student book, Arabic) — Syria. Title as printed: التاريخ — الصف السابع الأساسي (History, Grade 7; NCCD developed-curriculum edition). Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministry of Education / National Centre for Curriculum Development, Syrian Arab Republic; year first printed 2017–2018; no ISBN printed. PDF pages: 118 (cover/title page verified against the record title; read in place on disk, 63,477,805 bytes). Verdict: COMPLETE. Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — Unit 3, Lesson 2: الإمبراطوريات القديمة (The ancient empires) — story beats: Sargon of Akkad's kingdom swallows its rivals and stretches into the first empire, and empire becomes the prize of war (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Syria, *التاريخ — الصف السابع الأساسي (History, Grade 7)*, printed p. 77 |
+| Syria part — Unit 4, Lesson 3: تمدن وحضارة (Urban life and civilisation) — story beats: planned cities and the stepped ziggurat show a society organising building, worship and knowledge in stone (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Syria, *التاريخ — الصف السابع الأساسي (History, Grade 7)*, printed p. 102 |
+
+Syria's own way (التاريخ — الصف السابع الأساسي (History, Grade 7), Grade 7 (student/teacher: STUDENT)): ancient history is taught thematically — social life, economic life, the road to civilisation, intellectual creations — and anchored in Syria's own sites (Yabroud caves, Abu Hureyra, Jerf el-Ahmar, Ebla, Mari, Ugarit) before the wider region, with a historical-thinking skills toolkit (cause/effect, continuity/change, perspective, evidence) opened at the front. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria).**

@@ -1,0 +1,16 @@
+# Sources — Maysalun and the Great Syrian Revolt
+
+countries: Syria
+
+**Book (Syria — SY-G9):** *التاريخ — الصف التاسع (History, Grade 9)* (student book, Arabic) — Syria. Title as printed: التاريخ — الصف التاسع (History, Grade 9). Grade: Grade 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 school year (1447 AH); no ISBN printed. PDF pages: 123 (cover/title page verified against the record title; grabbed via grab.py url from the release record, 212,933,742 bytes, size verified; read from rendered pages). Verdict: COMPLETE — all five units and all 26 lessons named in the contents are present in sequence through the closing Unit 5 questions on printed p. 123 (the contents page numbers drift +2 at the end of the book; the lessons themselves are all there). Tally: 30 placements — 6 to existing lessons, 24 NEW LESSON NEEDED. Non-History parts: none — the book is a History book throughout. Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — Unit 1, Lesson فرنسا تحتل سورية وتنهي الحكم العربي فيها (France occupies Syria and ends Arab rule) — story beats: the Syrian Congress rejected the Faisal–Clemenceau agreement and San Remo put Syria under French mandate; General Gouraud's ultimatum of 14 July 1920 demanded the army's dissolution, and though Faisal accepted, France marched; War Minister Yusuf al-Azma led the volunteers to Maysalun and was martyred there on 24 July 1920, and the French entered Damascus and ended the Arab government (History expansion, 2026-11-15; original placement slug: modern-world/maysalun-and-the-great-syrian-revolt) | Syria, *التاريخ — الصف التاسع (History, Grade 9)*, printed p. 20 |
+| Syria part — Unit 1, Lesson الشعب السوري يواجه الاحتلال الفرنسي بالثورات (The Syrian people confront the French occupation with revolts) — story beats: France split Syria into small statelets and looted it, and the revolts answered — Saleh al-Ali on the coast, Ibrahim Hananu in the north, Hawran in 1920, the Golan ambush of Gouraud's convoy in 1921 — until the Great Syrian Revolt of 1925–1927 under Sultan al-Atrash: al-Kafr, the siege of Suwayda, al-Mazraa where the French lost thousands, then the Ghouta and Damascus itself, which France bombarded and burned (the al-Hariqa quarter) (History expansion, 2026-11-15; original placement slug: modern-world/maysalun-and-the-great-syrian-revolt) | Syria, *التاريخ — الصف التاسع (History, Grade 9)*, printed pp. 22–24 |
+
+Syria's own way (التاريخ — الصف التاسع (History, Grade 9), Grade 9 (student/teacher: STUDENT)): the whole modern history of the Arab world is taught from Damascus outward — Syria's own road from the Arab government of 1918 through Maysalun, the Great Revolt and independence to the 2011 revolution and the fall of the regime on 8 December 2024 is the spine, and every other Arab country's struggle is told in the same frame of occupation, resistance and independence. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Syria).**
+
+Searchable tags: Syria, Maysalun and the Great Syrian Revolt, modern-world, History expansion 2026-11-15

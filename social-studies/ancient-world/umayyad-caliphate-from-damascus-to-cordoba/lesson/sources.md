@@ -1,6 +1,6 @@
 # Sources — The Umayyad Caliphate — from Damascus to Cordoba
 
-countries: Egypt
+countries: Egypt, Syria
 
 **Book 8:** *الدراسات الاجتماعية — العالم العربي... وطن يجمعنا (Social Studies — The Arab World… a Homeland that Gathers Us)* (student book, Arabic) — Egypt. Grade: Grade 6 (Sixth Primary), Term 1 (student book). Publisher: Ministry of Education and Technical Education, Egypt (Educational Content Sector; Salah al-Tilmiz Foundation for Printing and Publishing), 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 113 (grabbed from the library's GitHub release copy; read as single-page sheets; the History unit read in full, the Geography and economics units identified from the contents and curriculum map). Verdict: COMPLETE (History parts). Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1 (our Arab homeland — location and importance, terrain, climate and natural vegetation, environmental challenges) and Unit 3 (our Arab homeland and economic development — agricultural activity, animal and fish wealth, minerals and energy sources, tourism activity) — Geography/Economics. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -18,3 +18,15 @@ Egypt's own way (Sec11 "Egypt and Islamic Civilisation", Grade 11 (Second Second
 **Acceptance count: taught in 1 country (Egypt).**
 
 Searchable tags: Egypt, The Umayyad Caliphate — from Damascus to Cordoba, ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Syria stocked
+
+**Book (Syria — SY-G8):** *كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8)* (student book, Arabic) — Syria. Title as printed: كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8). Grade: Grade 8 (student/teacher: STUDENT). Publisher: Ministry of Education / National Centre for Curriculum Development, Syrian Arab Republic; year 2021–2022 edition (first printed 2018–2019); no ISBN printed. PDF pages: 128 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 59,325,185 bytes, size verified). Verdict: COMPLETE. Tally: 19 placements — 8 to existing lessons, 11 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — Unit 1, Lesson 2: دول وحضارة (States and civilisation) — story beats: after liberation the Arabs raise their world state with Damascus at its heart and give it its own character (History expansion, 2026-11-15; original placement slug: ancient-world/the-arab-state-from-damascus-umayyad-syria) | Syria, *كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8)*, printed p. 28 |
+
+Syria's own way (كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8), Grade 8 (student/teacher: STUDENT)): the medieval centuries are told as Syria's own story inside the Arab state — liberation wars, the Damascus-centred state, its administration, the Crusader and Mongol assaults — then the same thematic lens as Grade 7 (society, economy, thought) turned on the Islamic-era civilisation. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Egypt, Syria).**

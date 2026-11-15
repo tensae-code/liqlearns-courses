@@ -1,6 +1,6 @@
 # Sources — From barter to banknotes — the story of money
 
-countries: Pakistan
+countries: Pakistan, Syria
 
 **Book (Pakistan — Social Studies, Class 5 (PCTB, SNC 2020)):** *معاشرتی علوم — Social Studies, Class 5* (student book, Urdu) — Pakistan. Title as printed: معاشرتی علوم — Social Studies, Class 5 — based on the Single National Curriculum 2020 ("One Nation, One Curriculum"). Grade: Grade 5 / Class 5 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2020 edition (no year printed on cover); no ISBN printed. PDF pages: 114 (printed pp. 1–110 + national anthem page; read IN PLACE at phase3-staging; image-only scan read in full from page renders; cover and title page verified against the record; the TSV and books.json records are this same book, counted once). Verdict: COMPLETE. Tally: 13 placements — 5 to existing lessons, 8 NEW LESSON NEEDED (3 new slugs first created in this book; 5 placements reuse NEW slugs created in Books 1 and 5 of this file). Non-History parts (named, not placed): Chapter 1 Citizenship (printed pp. 1–9 — rights and responsibilities, the UN and the 1948 Declaration, freedom of speech; Civics); Chapter 3 State and Government (printed pp. 25–32 — federal, provincial and local government, the 1973 Constitution, political parties; Civics); Chapter 5 Geography (printed pp. 51–85 — globe and map skills, latitude and longitude, time zones, physical features of Pakistan, weather and climate, natural disasters, population); Chapter 6 Economics (printed pp. 86–108 — goods and services, inflation, taxes, trade, entrepreneurship) except its Evolution of Money unit, placed in this expansion. Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
 
@@ -14,3 +14,15 @@ Pakistan's own way (Social Studies, Class 5 (PCTB, SNC 2020), Grade 5 / Class 5 
 **Acceptance count: taught in 1 country (Pakistan).**
 
 Searchable tags: Pakistan, From barter to banknotes — the story of money, ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Syria stocked
+
+**Book (Syria — SY-G4):** *الدراسات الاجتماعية — الصف الرابع (Social Studies, Grade 4)* (student book, Arabic) — Syria. Title as printed: الدراسات الاجتماعية — الصف الرابع (Social Studies, Grade 4). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 school year (1447 AH); no ISBN printed. PDF pages: 112 (cover/title page verified against the record title; grabbed via grab.py url from the release record, 271,613,622 bytes, size verified; read from rendered pages). Verdict: COMPLETE — all five units present through the closing Unit 5 exercises. Tally: 17 placements — 10 to existing lessons, 7 NEW LESSON NEEDED. Non-History parts (named, not placed): Geography — Unit 1 الطبيعة في بلدي سورية (Nature in my country Syria: location, landform groups, natural environments, weather and climate, renewable and non-renewable resources, water resources, printed pp. 8–33) and the population-distribution and countryside/city-life lessons of Unit 3 (pp. 51–75, geography parts only); Economics — Unit 4 دعائم الاقتصاد في سورية (Pillars of the economy: agriculture, modern industry and trade, tourism economics, pp. 76–97); Civics — Unit 5 المواطنة lessons الحقوق and الواجبات (Rights; Duties, pp. 98–106). Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — Unit 4, Lesson العمل في التجارة في سورية (Work in trade in Syria) — story beats: in old times people exchanged what they produced for goods, a barter (مقايضة) in which the oil-maker gave part of his oil and received eggs and wheat; as life developed, peoples began to mint money and a person could sell his product or his work for coins (History expansion, 2026-11-15; original placement slug: africa-to-1500/first-cities-and-trade-in-the-fertile-crescent) | Syria, *الدراسات الاجتماعية — الصف الرابع (Social Studies, Grade 4)*, printed p. 88 |
+
+Syria's own way (الدراسات الاجتماعية — الصف الرابع (Social Studies, Grade 4), Grade 4 (student/teacher: STUDENT)): Grade 4 carries a whole unit named “Syria and History” (سورية والتاريخ) — cradle of civilisation, historic sites, and transport and communication developing through the ages — and the book closes its citizenship unit with the martyrs of the Syrian revolution, told as the nation's own recent history. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Pakistan, Syria).**

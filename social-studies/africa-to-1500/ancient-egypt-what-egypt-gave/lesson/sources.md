@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — What Egypt Gave
 
-countries: Ethiopia, Australia, Egypt, Pakistan
+countries: Ethiopia, Australia, Egypt, Pakistan, Syria
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 82).
 
@@ -79,3 +79,15 @@ Pakistan's own way (History 6 (PCTB, SNC 2022), Grade 6 / Class 6 (student/teach
 **Acceptance count: taught in 4 countries (Ethiopia, Australia, Egypt, Pakistan).**
 
 Searchable tags: Pakistan, Ancient Egypt — What Egypt Gave, africa-to-1500, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Syria stocked
+
+**Book (Syria — SY-G6):** *الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6)* (student book, Arabic) — Syria. Title as printed: الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 AH); no ISBN printed. PDF pages: 116 (cover/title page verified against the record title; read in place on disk, 35,135,330 bytes; image-only PDF, read from rendered pages). Verdict: COMPLETE. Tally: 9 placements — 8 to existing lessons, 1 NEW LESSON NEEDED. Non-History parts (named, not placed): Geography — Unit 1 Lesson 1 الوطن العربي في أفريقيا (the Arab homeland in Africa, printed p. 8); Unit 2 Lessons 1–2, 5–6 (landforms and resources of the Nile Valley and the African Horn, pp. 37–64); Unit 4 Lessons 1–2 (landforms and resources of Libya, pp. 82–91); Unit 5 Lessons 1–2 (landforms and resources of the Maghreb, pp. 102–109). Civics — Unit 1 Lesson 5 الدولة مفهومها ومقوماتها (the state, its concept and components, p. 30); Unit 3 الأسرة والمؤسسات (Family and institutions, pp. 66–80). Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — Unit 1, Lesson 3: حضارة مصر القديمة (The civilisation of ancient Egypt) — story beats: the year is cut into flood, sowing and harvest; the shaduf, canals, astronomy and engineering turn the river into a civilisation (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-what-egypt-gave) | Syria, *الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6)*, printed p. 19 |
+
+Syria's own way (الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6), Grade 6 (student/teacher: STUDENT)): a combined Social Studies book whose History strand runs region by region across the Arab lands in Africa — ancient Egypt and Carthage first, then the Arab-Islamic liberation and civilisation of the Nile Valley, Libya, the Maghreb and al-Andalus, each region's Geography lessons interleaved with its History. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Australia, Egypt, Pakistan, Syria).**

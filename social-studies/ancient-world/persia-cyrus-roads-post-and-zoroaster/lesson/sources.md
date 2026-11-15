@@ -1,6 +1,6 @@
 # Sources — Persia — Cyrus, roads, post and Zoroaster
 
-countries: Ethiopia, India, Pakistan
+countries: Ethiopia, India, Pakistan, Syria
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -40,3 +40,15 @@ Pakistan's own way (History 6 (PCTB, SNC 2022), Grade 6 / Class 6 (student/teach
 **Acceptance count: taught in 3 countries (Ethiopia, India, Pakistan).**
 
 Searchable tags: Pakistan, Persia — Cyrus, roads, post and Zoroaster, ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Syria stocked
+
+**Book (Syria — SY-G7):** *التاريخ — الصف السابع الأساسي (History, Grade 7; NCCD developed-curriculum edition)* (student book, Arabic) — Syria. Title as printed: التاريخ — الصف السابع الأساسي (History, Grade 7; NCCD developed-curriculum edition). Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministry of Education / National Centre for Curriculum Development, Syrian Arab Republic; year first printed 2017–2018; no ISBN printed. PDF pages: 118 (cover/title page verified against the record title; read in place on disk, 63,477,805 bytes). Verdict: COMPLETE. Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — Unit 3, Lesson 4: تنافس استعماري (Colonial rivalry) — story beats: foreign empires race to seize the Arab lands for their position and riches, the Achaemenid Persians first among them (559–330 BCE) (History expansion, 2026-11-15; original placement slug: ancient-world/persia-cyrus-roads-post-and-zoroaster) | Syria, *التاريخ — الصف السابع الأساسي (History, Grade 7)*, printed p. 85 |
+
+Syria's own way (التاريخ — الصف السابع الأساسي (History, Grade 7), Grade 7 (student/teacher: STUDENT)): ancient history is taught thematically — social life, economic life, the road to civilisation, intellectual creations — and anchored in Syria's own sites (Yabroud caves, Abu Hureyra, Jerf el-Ahmar, Ebla, Mari, Ugarit) before the wider region, with a historical-thinking skills toolkit (cause/effect, continuity/change, perspective, evidence) opened at the front. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, India, Pakistan, Syria).**

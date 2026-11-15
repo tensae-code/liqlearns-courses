@@ -1,6 +1,6 @@
 # Sources — Egypt under Muhammad Ali — building the modern state
 
-countries: Egypt
+countries: Egypt, Syria
 
 **Book 5:** *الدراسات الاجتماعية — مصر وقارات العالم الجديد (Social Studies — Egypt and the Continents of the New World)* (student book, Arabic) — Egypt. Grade: Grade 9 (Third Preparatory), Term 1 (student book). Publisher: Ministry of Education and Technical Education, Egypt (Educational Content Administration; Salah al-Talameezh); year 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 113 (read in place from phase3-staging; image-only scan read as 4-up page sheets; the History units read in full, Geography units identified from the contents). Verdict: COMPLETE (History parts). Tally: 9 placements — 2 to existing lessons, 7 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1 Lesson 1 (location and surface features of the New World continents) and the whole of Unit 3, Environmental Systems in the Continents of the New World (forest and grassland systems, desert and water environmental systems, climate change and its effect on environmental systems) — Geography. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -26,3 +26,15 @@ Egypt's own way (Sec12 "History of Egypt and the Arabs, Modern and Contemporary"
 **Acceptance count: taught in 1 country (Egypt).**
 
 Searchable tags: Egypt, Egypt under Muhammad Ali — building the modern state, africa-after-1500, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Syria stocked
+
+**Book (Syria — SY-G9):** *التاريخ — الصف التاسع (History, Grade 9)* (student book, Arabic) — Syria. Title as printed: التاريخ — الصف التاسع (History, Grade 9). Grade: Grade 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 school year (1447 AH); no ISBN printed. PDF pages: 123 (cover/title page verified against the record title; grabbed via grab.py url from the release record, 212,933,742 bytes, size verified; read from rendered pages). Verdict: COMPLETE — all five units and all 26 lessons named in the contents are present in sequence through the closing Unit 5 questions on printed p. 123 (the contents page numbers drift +2 at the end of the book; the lessons themselves are all there). Tally: 30 placements — 6 to existing lessons, 24 NEW LESSON NEEDED. Non-History parts: none — the book is a History book throughout. Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — Unit 1, Lesson العرب في العصر الحديث (The Arabs in the modern age) — story beats: after the French campaign left Egypt, the Ottoman state appointed Muhammad Ali in 1805; his reforms developed agriculture, industry and trade, strengthened the army and fleet, and his project expanded into Arabia and the Sudan and then into Bilad al-Sham, until the European states forced him out of Syria by the London treaty of 1841 (History expansion, 2026-11-15; original placement slug: modern-world/muhammad-alis-modernising-egypt-project) | Syria, *التاريخ — الصف التاسع (History, Grade 9)*, printed p. 12 |
+
+Syria's own way (التاريخ — الصف التاسع (History, Grade 9), Grade 9 (student/teacher: STUDENT)): the whole modern history of the Arab world is taught from Damascus outward — Syria's own road from the Arab government of 1918 through Maysalun, the Great Revolt and independence to the 2011 revolution and the fall of the regime on 8 December 2024 is the spine, and every other Arab country's struggle is told in the same frame of occupation, resistance and independence. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Egypt, Syria).**
