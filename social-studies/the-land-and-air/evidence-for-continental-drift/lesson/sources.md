@@ -1,6 +1,6 @@
 # Sources — Evidence for continental drift
 
-countries: Ethiopia, Bolivia, South Sudan
+countries: Ethiopia, Bolivia, South Sudan, Kazakhstan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Bolivia, South Sudan
 
 **Book 3:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
+**Book 4:** *География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Д. Т. Алиасқаров, Е. П. Шимина)* (student book, Kazakh) — Алматы «Атамұра»; year 2025; ISBN 978-601-10-0688-0. Title as printed: География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Д. Т. Алиасқаров, Е. П. Шимина). Grade: 7 (student/teacher: STUDENT). PDF pages: 272 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1473.pdf, 32,144,997 bytes from the recorded okulyk.kz source, page count matches the record; the file behind the record is the Kazakh edition, the record title is in Russian). Verdict: COMPLETE. Parallel edition named, not double-counted: the Russian parallel edition (record 1516.pdf in this record set) carries the same course; the book is placed once here, under this Kazakh edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The fit and the matching rocks | G12 student #4, printed pp. 3–4 |
 | Sub lesson 2 — Fossils and past climates | G12 student #4, printed pp. 3–4 |
 | Bolivia part — Wegener's evidences for continental drift | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 1*, Grade 7, Wegener's evidences for continental drift — printed p. 17 |
 | South Sudan part — Evidence for drift (Red Sea shores, ancient glaciation south of the Equator) | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Evidence for drift (Red Sea shores, ancient glaciation south of the Equator) — printed p. 18 |
+| Kazakhstan part — §17 Research and researchers of the lithosphere; practical work with map-schemes | Kazakhstan, *Kazakhstan Grade 7 Egorina*, §17 Research and researchers of the lithosphere; practical work with map-schemes — printed p. 67 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bolivia, South Sudan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, South Sudan, Kazakhstan).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -24,3 +27,5 @@ Bolivia's own way (Grade 7, Secundaria 1): The Bolivian Texto de Aprendizaje run
 Searchable tags: evidence for drift, Mesosaurus, jigsaw fit, fossils, paleoclimate, social studies, Bolivia, Ciencias Sociales Bolivia
 
 South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Egorina): the 2025 Atamura course is organised by numbered paragraphs (§1–§68) with coded learning goals (e.g. 7.3.2.4) and a «Негізгі ұғымдар» key-concepts box per paragraph; it gives Kazakhstani science its own paragraph (§3, research in the war and post-war years), a whole practical strand on building geographic databases (§§10, 18, 49, 54–55), and a country-studies block that classifies states by position — continental, archipelago, island and peninsular — with Kazakhstan's own economic-geographic position as the worked example.

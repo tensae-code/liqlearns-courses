@@ -1,0 +1,34 @@
+# The Political Map of the World
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: §49 Political map of the world; §50 Political typology of countries; §51 Quantitative and qualitative changes on the political map of the world; §62 Political typology of countries; the political map of the world; §63 Quantitative and qualitative changes on the political map of the world; §62 Classification of the world's countries by level of development; §65 Grouping of the world's countries; international organisations; §65 The Republic of Kazakhstan in the classification of the world's countries by development level; 6.1 Grouping countries by level of economic development; 6.1 Countries of the world; 6.2 Main objects of the political map; 6.4 Types of change on the political map — as Kazakhstan's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — The Political Map of the World
+
+Kazakhstan's book, the *Kazakhstan Grade 8 Abilmazhinova* (printed p. 232), teaches: §49 Political map of the world. Kazakhstan's book, the *Kazakhstan Grade 8 Abilmazhinova* (printed p. 235), teaches: §50 Political typology of countries. Kazakhstan's book, the *Kazakhstan Grade 8 Abilmazhinova* (printed p. 239), teaches: §51 Quantitative and qualitative changes on the political map of the world. Kazakhstan's book, the *Kazakhstan Grade 8 Karatabanov Part 2* (printed p. 103), teaches: §62 Political typology of countries; the political map of the world. Kazakhstan's book, the *Kazakhstan Grade 8 Karatabanov Part 2* (printed p. 111), teaches: §63 Quantitative and qualitative changes on the political map of the world. Kazakhstan's book, the *Kazakhstan Grade 9 Tolybekova Part 2* (printed p. 160), teaches: §62 Classification of the world's countries by level of development. Kazakhstan's book, the *Kazakhstan Grade 9 Usikov Part 2* (printed p. 231), teaches: §65 Grouping of the world's countries; international organisations. Kazakhstan's book, the *Kazakhstan Grade 9 Karatabanov* (printed p. 290), teaches: §65 The Republic of Kazakhstan in the classification of the world's countries by development level. Kazakhstan's book, the *Kazakhstan Grade 9 Sakhova NIS* (printed p. 142), teaches: 6.1 Grouping countries by level of economic development. Kazakhstan's book, the *Kazakhstan Grade 8 Sakhova NIS* (printed p. 141), teaches: 6.1 Countries of the world. Kazakhstan's book, the *Kazakhstan Grade 8 Sakhova NIS* (printed p. 143), teaches: 6.2 Main objects of the political map. Kazakhstan's book, the *Kazakhstan Grade 8 Sakhova NIS* (printed p. 147), teaches: 6.4 Types of change on the political map. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Kazakhstan's way — the book's own teaching way
+
+Kazakhstan's own way (Kazakhstan Grade 8 Abilmazhinova): the Grade 8 Mektep course deepens every Grade 7 line — relief classification and rock ages, global circulation and the climatic belts, natural zones of both hemispheres, demographic calculation and policy design (Practical №7 has pupils propose their own demographic-policy model), resource assessment, industry location factors, and the political map — closing with Kazakhstan's own place in political-integration processes (§54).
+
+Kazakhstan's own way (Kazakhstan Grade 8 Karatabanov): the Almatykitap Grade 8 course runs the same six-section architecture as the Mektep book (Book 7) but in Karatabanov's question-led style, closing Part 2 with §68 «Мой географический год» (My geographic year) — a pupil's own review of a year of geographic work.
+
+Kazakhstan's own way (Kazakhstan Grade 9 Tolybekova): the whole Grade 9 year is Kazakhstan itself — Part 1 walks the country's own relief, climate, rivers, lakes, natural zones and protected areas (opening with the research of Kazakhstani geographers, Shokan Ualikhanov first), and Part 2 its population, industries, economic regions and place in the world economy, ending with the geographic position of the Republic of Kazakhstan (§64).
+
+Kazakhstan's own way (Kazakhstan Grade 9 Usikov): the Atamura Grade 9 course pairs every Kazakhstan topic with its research base — sections close with "исследования, географические карты и базы данных" (research, geographic maps and databases) for the lithosphere (§15), climate (§24), inland waters (§31), social geography (§47), nature use (§51) and Kazakhstan in the world economy (§64); it also names the country's own naming heritage — Kazakh oronyms (§10), hydronyms (§27), climate in Kazakh folk terminology (§23) and choronyms (§67).
+
+Kazakhstan's own way (Kazakhstan Grade 9 Karatabanov): the one-volume Almatykitap Grade 9 course compresses the same Kazakhstan year into paired paragraphs and adds a naming thread of its own — Kazakh oronyms (§12), Kazakh hydronyms (§§26–27) and the nomination of atmospheric and climatic phenomena (§22) — closing with a complex country-study characterisation of Kazakhstan (§67) and «Мой географический год» (§68).
+
+Kazakhstan's own way (Kazakhstan Grade 9 Sakhova NIS): the NIS trial Grade 9 course is organised by problems rather than by the standard sections — forecasting lithospheric cataclysms and safety measures (3.1.2–3.1.3), the causes of water scarcity (3.3.4), the noosphere and its development in Kazakhstan (3.4.1–3.4.2), and a research lesson on the very concept of sustainable development (5.1.4).
+
+Kazakhstan's own way (Kazakhstan Grade 8 Sakhova NIS): the NIS Grade 8 course phrases its lessons as questions and tasks — «Әр жерде неліктен уақыт әркелкі?» (Why is time different in different places?, 2.2), «Тау жыныстары қалай пайда болады?» (How do rocks form?, 3.1.5), «Өзеннің суы қалай өзгереді?» (How does a river's water change?, 3.3.4) — and adds a lesson on the culture of showing geographic names on the map (2.3). This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Kazakhstan's way: do the activity in hands-on.md under this name.

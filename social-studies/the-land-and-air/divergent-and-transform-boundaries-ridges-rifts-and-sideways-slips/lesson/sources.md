@@ -1,6 +1,6 @@
 # Sources — Divergent and transform boundaries — ridges, rifts and sideways slips
 
-countries: Ethiopia, Jordan, South Sudan
+countries: Ethiopia, Jordan, South Sudan, Kazakhstan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -10,6 +10,14 @@ countries: Ethiopia, Jordan, South Sudan
 
 **Book 4:** *Secondary Geography 1 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Teacher's Guide. Grade: Secondary 1 / Grade 9 (student/teacher: TEACHER). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
+**Book 5:** *География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Д. Т. Алиасқаров, Е. П. Шимина)* (student book, Kazakh) — Алматы «Атамұра»; year 2025; ISBN 978-601-10-0688-0. Title as printed: География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Д. Т. Алиасқаров, Е. П. Шимина). Grade: 7 (student/teacher: STUDENT). PDF pages: 272 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1473.pdf, 32,144,997 bytes from the recorded okulyk.kz source, page count matches the record; the file behind the record is the Kazakh edition, the record title is in Russian). Verdict: COMPLETE. Parallel edition named, not double-counted: the Russian parallel edition (record 1516.pdf in this record set) carries the same course; the book is placed once here, under this Kazakh edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+**Book 6:** *География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Е. П. Шимина)* (student book, Kazakh) — Алматы «Атамұра»; year 2017; ISBN 978-601-306-746-9. Title as printed: География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Е. П. Шимина). Grade: 7 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/243.pdf, 19,625,908 bytes from the recorded okulyk.kz source, page count matches the record; the file behind the record is the Kazakh edition, the record title is in Russian). Verdict: COMPLETE. Parallel edition named, not double-counted: the Russian parallel edition (record 269.pdf in this record set) carries the same course; the book is placed once here, under this Kazakh edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+**Book 7:** *География — Учебник для 7 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина, Н. В. Ивлева)* (student book, Russian) — Алматы «Мектеп»; year 2025; ISBN 978-601-07-1757-2. Title as printed: География — Учебник для 7 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина, Н. В. Ивлева). Grade: 7 (student/teacher: STUDENT). PDF pages: 289 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1517.pdf, 52,645,398 bytes from the recorded okulyk.kz source, page count matches the record; the PDF carries one extra page over the printed 288). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+**Book 8:** *География — Учебник для 7 классов общеобразовательных школ (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина)* (student book, Russian) — Алматы «Мектеп»; year 2017; ISBN 978-601-07-0855-6. Title as printed: География — Учебник для 7 классов общеобразовательных школ (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина). Grade: 7 (student/teacher: STUDENT). PDF pages: 249 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/270.pdf, 23,296,746 bytes from the recorded okulyk.kz source, page count matches the record; the PDF carries one extra page over the printed 248). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Divergent — apart, with new crust | G12 student #8, printed pp. 9–11 |
@@ -17,8 +25,12 @@ countries: Ethiopia, Jordan, South Sudan
 | Jordan part — Unit 3 Lesson 2: Seafloor Spreading (توسع قاع المحيط) | Jordan, *Jordan G12 ES T1*, Unit 3 Lesson 2: Seafloor Spreading (توسع قاع المحيط) — printed p. 87 |
 | South Sudan part — Divergent and transform plate boundaries | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Divergent and transform plate boundaries — printed p. 20 |
 | South Sudan part — Guide: spreading sites and plate boundaries (Mid-Atlantic Ridge) (teacher guide — evidence) | South Sudan, *South Sudan Grade 9 S1 Geography TG* (teacher guide), Guide: spreading sites and plate boundaries (Mid-Atlantic Ridge) — printed p. 20 |
+| Kazakhstan part — §13 Tectonic movement of the lithosphere | Kazakhstan, *Kazakhstan Grade 7 Egorina*, §13 Tectonic movement of the lithosphere — printed p. 53 |
+| Kazakhstan part — §13 Tectonic movement of the lithosphere | Kazakhstan, *Kazakhstan Grade 7 Egorina 2017*, §13 Tectonic movement of the lithosphere — printed p. 43 |
+| Kazakhstan part — §12 Tectonic movements of the lithosphere | Kazakhstan, *Kazakhstan Grade 7 Tolybekova*, §12 Tectonic movements of the lithosphere — printed p. 70 |
+| Kazakhstan part — §12 Tectonic movements of the lithosphere | Kazakhstan, *Kazakhstan Grade 7 Tolybekova 2017*, §12 Tectonic movements of the lithosphere — printed p. 62 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Jordan, South Sudan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Jordan, South Sudan, Kazakhstan).**
 
 No book error in the placements for this lesson is taught here. Examples are taught exactly as the placements report them.
 
@@ -29,3 +41,11 @@ Jordan's own way (Jordan G12 ES T1): the final year opens with fossil fuels and 
 South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
 
 South Sudan's own way (South Sudan Grade 9 S1 Geography TG) (teacher guide — evidence): The guide mirrors the student's book unit by unit (its printed contents list the same 8 units) and adds content maps, key inquiry questions, expected answers and practical activities — including the sea-floor-spreading paper practical — for every topic. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).
+
+Kazakhstan's own way (Kazakhstan Grade 7 Egorina): the 2025 Atamura course is organised by numbered paragraphs (§1–§68) with coded learning goals (e.g. 7.3.2.4) and a «Негізгі ұғымдар» key-concepts box per paragraph; it gives Kazakhstani science its own paragraph (§3, research in the war and post-war years), a whole practical strand on building geographic databases (§§10, 18, 49, 54–55), and a country-studies block that classifies states by position — continental, archipelago, island and peninsular — with Kazakhstan's own economic-geographic position as the worked example.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Egorina 2017): the 2017 first edition of the Atamura course (the 2025 Book 2 is its revision): same six-section architecture but twelve numbered practical works, four of them database-building exercises on Kazakhstan itself — a geographic database for Kazakhstan's regions (§51) and for Kazakhstan's transport system (§52) — plus a practical on the natural complex of the pupil's own locality (§37).
+
+Kazakhstan's own way (Kazakhstan Grade 7 Tolybekova): the Mektep course teaches geographic nomenclature continent by continent (§§6–8: Africa/Australia/Antarctica, the Americas, Eurasia) with a practical on completing an outline map, then works through the natural complexes belt by belt (§§39–47: arctic, temperate forest/steppe, desert, tropical, subequatorial, equatorial); Kazakhstan anchors the applied ends — its regions' flora and fauna (§33), its soil types and soil resources (§§34–35), its population (§52, Practical №3) and its own economic-geographic position (§62).
+
+Kazakhstan's own way (Kazakhstan Grade 7 Tolybekova 2017): the 2017 first edition of the Mektep course (Book 5 is its 2025 revision): the same continent-by-continent nomenclature and belt-by-belt natural-complexes architecture, with a lithosphere field-research practical, a §52 «Человек — часть биосферы» (The human being as part of the biosphere), and a closing §60 «Этот многоликий мир» (This many-faced world) survey of the world's diversity.

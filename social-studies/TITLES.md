@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **3488**
+Geography lessons across the eight Geography titles: **3563**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -2439,3 +2439,56 @@ Impacts of Tourism and Why the European Union Matters.
 (Greece), each standing on student book(s); 5 stand on
 a teacher guide only, as evidence only, acceptance
 count 0 countries.)
+
++75 for Kazakhstan, 2026-11-15 — Earth and Space:
+Geological Time and the Age of Rocks and Time Zones and
+Why Time Differs; The Land and Air: Archipelago Island
+and Peninsular States, Climates of the Continents,
+Describing a Countrys Geographic Position, Forecasting
+Natural Hazards, Geographic Models, Great Travellers
+and Explorers, How Climate Shapes Human Life, How
+Relief Shapes Human Life, Kazakhstan Soil Types,
+Kazakhstani Geographers and Explorers, Kazakhstans
+Climate, Kazakhstans Flora and Fauna, Kazakhstans
+Minerals, Kazakhstans Natural Regions, Kazakhstans
+Natural Zones, Kazakhstans Relief Plains and Mountains,
+Kazakhstans Rivers and Lakes, Life in the Oceans,
+Natural Complexes by Geographic Belt, Natural
+Territorial Complexes, Natural Zones and Altitudinal
+Belts, Noosphere and Humanitys Impact, Ocean Water
+Movement Waves and Tides, Precipitation How Rain Forms,
+Rivers Valleys and Flow Regimes, Safety Rules in
+Earthquakes and Volcanoes, The Worlds Climatic Belts,
+Water Disasters and Safety, Weather Forecasting
+Synoptic Maps and World Soil Types; Population,
+Transport and Maps: Contour Map Work Completing an
+Outline Map, Demographic Policy, Demographic Problems,
+Geographic Nomenclature Names on the Map, Kazakhstans
+Administrative Division, Kazakhstans Population
+Composition and Density, Labour Resources, Migration
+People on the Move, Population Reproduction Types,
+Remote Sensing of the Earth, Settlements and Their
+Types, The Political Map of the World, Thematic Maps
+and Their Elements, Urbanisation, World Ethnic and
+Language Composition, World Population Racial
+Composition and World Religious Composition; People and
+Resources: Assessing Natural Resources, Distribution of
+Natural Resources, Economic Geographic Position of a
+Country, Human Development Index, Kazakhstans Economic
+Regions, Measuring a Countrys Development, Using Land
+Waters and Where Industry Locates Location Factors;
+Culture and Work: Economic Infrastructure, Forms of
+Government, Forms of Organising Production, Historical
+Cultural Regions of the World, Interreligious Harmony
+and Consent, Kazakhstans Agriculture, Kazakhstans
+Industries, Political Integration and International
+Organisations, Social Infrastructure Services for
+Settlements, Subjects of the World Economy, The
+Scientific Technical Revolution, The Service Sector and
+The Worlds Countries and Their Diversity; Resources and
+Conflict: Transboundary Water Problems; Global Issues:
+Air Pollution and the Atmosphere, Human Impact on
+Climate, Kazakhstans Protected Areas and Protecting
+Plants and Animals.
+(All 75 new lessons are taught in 1 country
+(Kazakhstan), each standing on student book(s).)

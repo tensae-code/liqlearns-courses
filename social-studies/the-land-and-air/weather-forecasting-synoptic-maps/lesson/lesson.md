@@ -1,0 +1,30 @@
+# Weather Forecasting Synoptic Maps
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Weather forecasting from synoptic charts; §20 Weather and forecasting it; §18 Weather and forecasting it in advance; §22 Rules for working with a synoptic map; §§20–21 How is weather formed?; §18 Atmospheric fronts; cyclones and anticyclones — as Kazakhstan's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Weather Forecasting Synoptic Maps
+
+Kazakhstan's book, the *Kazakhstan Grade 7 Amangalieva NIS* (printed p. 48), teaches: Weather forecasting from synoptic charts. Kazakhstan's book, the *Kazakhstan Grade 7 Egorina* (printed p. 77), teaches: §20 Weather and forecasting it. Kazakhstan's book, the *Kazakhstan Grade 7 Egorina 2017* (printed p. 59), teaches: §18 Weather and forecasting it in advance. Kazakhstan's book, the *Kazakhstan Grade 7 Egorina 2017* (printed p. 76), teaches: §22 Rules for working with a synoptic map. Kazakhstan's book, the *Kazakhstan Grade 7 Karatabanov Part 1* (printed p. 149), teaches: §§20–21 How is weather formed?. Kazakhstan's book, the *Kazakhstan Grade 9 Usikov Part 1* (printed p. 145), teaches: §18 Atmospheric fronts; cyclones and anticyclones. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Kazakhstan's way — the book's own teaching way
+
+Kazakhstan's own way (Kazakhstan Grade 7 Amangalieva NIS): the NIS (Nazarbayev Intellectual Schools) inquiry textbook: every lesson opens with a «Бұл сабақта» (In this lesson) goal box and closes with a «Сенің кезегің!» (Your turn!) task block; each section ends in a «Қорытынды» summary built round a concept map; the book closes with a trilingual Kazakh–Russian–English glossary. Country-studies section works through how a state improves its geographic position, with the UAE and Singapore as cases and Kazakhstan as the home example.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Egorina): the 2025 Atamura course is organised by numbered paragraphs (§1–§68) with coded learning goals (e.g. 7.3.2.4) and a «Негізгі ұғымдар» key-concepts box per paragraph; it gives Kazakhstani science its own paragraph (§3, research in the war and post-war years), a whole practical strand on building geographic databases (§§10, 18, 49, 54–55), and a country-studies block that classifies states by position — continental, archipelago, island and peninsular — with Kazakhstan's own economic-geographic position as the worked example.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Egorina 2017): the 2017 first edition of the Atamura course (the 2025 Book 2 is its revision): same six-section architecture but twelve numbered practical works, four of them database-building exercises on Kazakhstan itself — a geographic database for Kazakhstan's regions (§51) and for Kazakhstan's transport system (§52) — plus a practical on the natural complex of the pupil's own locality (§37).
+
+Kazakhstan's own way (Kazakhstan Grade 7 Karatabanov): every paragraph is titled as a question («Как устроена Земля внутри?», «Все ли одинаково обеспечены водой?») and every section closes with a «Мои географические достижения» (My geographic achievements) self-check page; Part 2 asks what is known about "our country's soils" (§§37–38) and how to develop natural resources "without harm to nature and people" (§§55–57).
+
+Kazakhstan's own way (Kazakhstan Grade 9 Usikov): the Atamura Grade 9 course pairs every Kazakhstan topic with its research base — sections close with "исследования, географические карты и базы данных" (research, geographic maps and databases) for the lithosphere (§15), climate (§24), inland waters (§31), social geography (§47), nature use (§51) and Kazakhstan in the world economy (§64); it also names the country's own naming heritage — Kazakh oronyms (§10), hydronyms (§27), climate in Kazakh folk terminology (§23) and choronyms (§67). This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Kazakhstan's way: do the activity in hands-on.md under this name.

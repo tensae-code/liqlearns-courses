@@ -1,6 +1,6 @@
 # Sources — A water world — how land and ocean are shared out
 
-countries: Ethiopia, Costa Rica, Jamaica, Palestine, Angola, North Macedonia, Fiji, Slovenia, Sri Lanka, Libya, Mozambique, Jordan, Greece
+countries: Ethiopia, Costa Rica, Jamaica, Palestine, Angola, North Macedonia, Fiji, Slovenia, Sri Lanka, Libya, Mozambique, Jordan, Greece, Kazakhstan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Costa Rica, Jamaica, Palestine, Angola, North Macedonia, Fi
 
 **Book 16:** *Γεωγραφία Στ΄ Δημοτικού — Μαθαίνω για τη Γη (Geography, Grade 6 Primary — "I Learn about the Earth")* (student book, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2616-2 (book code 0-10-0153). Title as printed: Γεωγραφία Στ΄ Δημοτικού — Μαθαίνω για τη Γη (Geography, Grade 6 Primary — "I Learn about the Earth"). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 162 (cover verified against the record title; byte size 48,655,538 exact match to the books.json record — downloaded from the record's ebooks.edu.gr source_url with a resumable loop after the GitHub Blob-API route failed). Verdict: COMPLETE. Parallel edition named, not double-counted: Book 16, the NEW (revised) edition of this Grade 6 student book (book code 0-10-0236, same ISBN), shares this book's chapter set, order and printed pagination exactly; its 51 placements are filed once here, under this old edition (code 0-10-0153). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
 
+**Book 17:** *География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева)* (student book, Kazakh) — Астана «Назарбаев Зияткерлік мектептері» ДББҰ (NIS), with UCL Institute of Education, London; year 2018; ISBN 978-601-328-195-7. Title as printed: География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева). Grade: 7 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1045.pdf, 65,250,742 bytes from the recorded okulyk.kz source, page count matches the record). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The big numbers | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 16 |
@@ -54,8 +56,9 @@ countries: Ethiopia, Costa Rica, Jamaica, Palestine, Angola, North Macedonia, Fi
 | Greece part — Ch.7 Η κατανομή των ηπείρων και των ωκεανών (distribution of continents and oceans) (teacher guide — evidence) | Greece, *Greece Grade 6 Geography Teacher Guide (old ed.)* (teacher guide), Ch.7 Η κατανομή των ηπείρων και των ωκεανών (distribution of continents and oceans) — printed p. 29 |
 | Greece part — Ch.7 Η κατανομή των ηπείρων και των ωκεανών (distribution of continents and oceans) — worksheet | Greece, *Greece Grade 6 Geography Workbook (old ed.)*, Ch.7 Η κατανομή των ηπείρων και των ωκεανών (distribution of continents and oceans) — worksheet — printed p. 12 |
 | Greece part — Ch.7 Η κατανομή των ηπείρων και των ωκεανών (distribution of continents and oceans) | Greece, *Greece Grade 6 Geography Student Book (old ed.)*, Ch.7 Η κατανομή των ηπείρων και των ωκεανών (distribution of continents and oceans) — printed p. 30 |
+| Kazakhstan part — Section summary: hydrosphere | Kazakhstan, *Kazakhstan Grade 7 Amangalieva NIS*, Section summary: hydrosphere — printed p. 66 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Costa Rica, Palestine, Angola, North Macedonia, Fiji, Slovenia, Sri Lanka, Libya, Mozambique, Jordan, Greece). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Costa Rica, Palestine, Angola, North Macedonia, Fiji, Slovenia, Sri Lanka, Libya, Mozambique, Jordan, Greece, Kazakhstan). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -88,3 +91,5 @@ Greece's own way (Greece Grade 6 Geography Teacher Guide (old ed.)) (teacher gui
 Greece's own way (Greece Grade 6 Geography Workbook (old ed.)): a worksheet for every one of the 45 student chapters plus 10 assessment sheets — one per unit and then one per continent — so the world tour is practised continent by continent.
 
 Greece's own way (Greece Grade 6 Geography Student Book (old ed.)): the student twin of Book 4's 45 chapters, with one addition the guide only implies — every continent section opens with a one-page "identity" profile of the continent (area, extremes, population at a glance) before its position, environment, states and peoples chapters.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Amangalieva NIS): the NIS (Nazarbayev Intellectual Schools) inquiry textbook: every lesson opens with a «Бұл сабақта» (In this lesson) goal box and closes with a «Сенің кезегің!» (Your turn!) task block; each section ends in a «Қорытынды» summary built round a concept map; the book closes with a trilingual Kazakh–Russian–English glossary. Country-studies section works through how a state improves its geographic position, with the UAE and Singapore as cases and Kazakhstan as the home example.

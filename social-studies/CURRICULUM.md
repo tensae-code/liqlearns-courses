@@ -7878,3 +7878,215 @@ the-land-and-air/making-hypotheses-about-a-continents-conditions,
 the-land-and-air/travelling-to-the-moluccas-indonesia,
 the-land-and-air/watching-the-earths-film-plate-tectonics.
 Geography lessons: 3311 → 3488.
+
+
+## Kazakhstan — Geography expansion (merged 2026-11-15)
+740 placement lines stocked from Kazakhstan's 13 kz-b
+books (Grades 7–9, all student books, all COMPLETE;
+okulyk.kz textbooks from NIS, Atamura, Mektep and
+Almatykitap). The placements file holds two reader
+passes: kz-b filed Books 1–13 (740 placements) and kz-a
+filed two extra sections — Book 1 (kz-a), Karatabanov
+G7 Part 1 in Kazakh (tally 25), and Book 2 (kz-a),
+Egorina G7 2025 in Russian (tally 65) — which duplicate
+kz-b's Book 4 (Part 1 portion) and Book 2 respectively,
+parallel editions of the same books placed once by
+kz-b. The kz-a duplicates (90 tally placements) were
+DROPPED, not stocked. The kz-b per-book tallies sum to
+exactly 740, matching the kz-b placement-line count
+book by book, and its existing/NEW split (347/393)
+agrees with the line flags (347 existing-flagged / 393
+NEW-flagged, 77 distinct NEW slugs) — no discrepancy in
+kz-b. (kz-a's two sections carry 88 slug placement
+lines against their 90 tally; the 2-line difference
+sits entirely in the dropped kz-a sections.) By lesson
+dir, 360 placements land in 70 standing lessons and 380
+in the 75 new lessons. Two NEW-flagged slugs already
+stand as lessons
+(culture-and-work/international-division-of-labour, 7
+placements;
+the-land-and-air/ocean-water-temperature-and-salinity,
+6 placements — 13 placements in all) and their
+placements are stocked there, not rebuilt. No
+existing-flagged slug is missing, so there are no
+remappings. All 13 books are student books, so
+Kazakhstan counts in every lesson it lands in and no
+lesson stands on teacher-guide evidence. Parallel
+Russian/Kazakh editions of one textbook are placed
+once, every edition named in the book entry.
+Kazakhstan's own way: three parallel Grade 7–9 course
+families run side by side — the NIS inquiry books (goal
+box and 'Your turn!' task block in every lesson,
+trilingual glossary), the question-led Almatykitap
+books (every paragraph titled as a question, 'My
+geographic achievements' self-checks), and the
+paragraph-numbered Atamura and Mektep courses with
+coded learning goals — and the whole Grade 9 year in
+every family is Kazakhstan itself: its relief, climate,
+waters, natural zones, population and economy. Stocked
+into standing lessons (360 placements across 70
+lessons). 75 NEW lessons built (380 placements) —
+**Earth and Space**: Geological Time and the Age of
+Rocks (printed p. 63; printed p. 104; printed p. 44;
+printed p. 58; printed p. 42; printed p. 36; printed p.
+38), Time Zones and Why Time Differs (printed p. 18);
+**The Land and Air**: Archipelago Island and Peninsular
+States (printed p. 245; printed p. 248; printed p. 197;
+printed p. 202; printed p. 205), Climates of the
+Continents (printed p. 87; printed p. 149), Describing
+a Countrys Geographic Position (printed p. 130; printed
+p. 239; printed p. 252; printed p. 195; printed p. 269;
+printed p. 270; printed p. 232; printed p. 235; printed
+p. 168; printed p. 238; printed p. 305), Forecasting
+Natural Hazards (printed p. 30), Geographic Models
+(printed p. 19; printed p. 23; printed p. 147; printed
+p. 136; printed p. 13), Great Travellers and Explorers
+(printed p. 10; printed p. 18), How Climate Shapes
+Human Life (printed p. 94; printed p. 155; printed p.
+38; printed p. 56), How Relief Shapes Human Life
+(printed p. 69; printed p. 112; printed p. 42),
+Kazakhstan Soil Types (printed p. 118; printed p. 25;
+printed p. 162; printed p. 165; printed p. 141),
+Kazakhstani Geographers and Explorers (printed p. 14;
+printed p. 13; printed p. 5; printed p. 6; printed p.
+16), Kazakhstans Climate (printed p. 84; printed p. 88;
+printed p. 91; printed p. 95; printed p. 98; printed p.
+107; printed p. 136; printed p. 154; printed p. 163;
+printed p. 178; printed p. 73; printed p. 78),
+Kazakhstans Flora and Fauna (printed p. 148; printed p.
+157), Kazakhstans Minerals (printed p. 74; printed p.
+78; printed p. 93; printed p. 100; printed p. 110;
+printed p. 60; printed p. 64), Kazakhstans Natural
+Regions (printed p. 163; printed p. 166; printed p.
+167; printed p. 4; printed p. 48; printed p. 143),
+Kazakhstans Natural Zones (printed p. 149; printed p.
+10; printed p. 128), Kazakhstans Relief Plains and
+Mountains (printed p. 54; printed p. 58; printed p. 65;
+printed p. 76; printed p. 84; printed p. 45),
+Kazakhstans Rivers and Lakes (printed p. 112; printed
+p. 118; printed p. 128; printed p. 134; printed p. 199;
+printed p. 209; printed p. 218; printed p. 94), Life in
+the Oceans (printed p. 139; printed p. 231; printed p.
+88), Natural Complexes by Geographic Belt (printed p.
+177; printed p. 181; printed p. 187; printed p. 191;
+printed p. 196; printed p. 200; printed p. 153; printed
+p. 157; printed p. 163; printed p. 167; printed p. 172;
+printed p. 176), Natural Territorial Complexes (printed
+p. 78; printed p. 80; printed p. 163; printed p. 167;
+printed p. 174; printed p. 127; printed p. 131; printed
+p. 45; printed p. 52; printed p. 171; printed p. 173;
+printed p. 148; printed p. 151; printed p. 148; printed
+p. 12; printed p. 95), Natural Zones and Altitudinal
+Belts (printed p. 123; printed p. 127; printed p. 133;
+printed p. 214; printed p. 224; printed p. 80; printed
+p. 82; printed p. 85), Noosphere and Humanitys Impact
+(printed p. 160; printed p. 41; printed p. 66; printed
+p. 68), Ocean Water Movement Waves and Tides (printed
+p. 62; printed p. 125; printed p. 94; printed p. 207;
+printed p. 137; printed p. 140; printed p. 126),
+Precipitation How Rain Forms (printed p. 42; printed p.
+96; printed p. 107; printed p. 96), Rivers Valleys and
+Flow Regimes (printed p. 107; printed p. 177; printed
+p. 182; printed p. 68), Safety Rules in Earthquakes and
+Volcanoes (printed p. 64; printed p. 51; printed p. 81;
+printed p. 72; printed p. 32), The Worlds Climatic
+Belts (printed p. 82; printed p. 140; printed p. 52;
+printed p. 54), Water Disasters and Safety (printed p.
+121; printed p. 203; printed p. 74), Weather
+Forecasting Synoptic Maps (printed p. 48; printed p.
+77; printed p. 59; printed p. 76; printed p. 149;
+printed p. 145), World Soil Types (printed p. 74);
+**Population, Transport and Maps**: Contour Map Work
+Completing an Outline Map (printed p. 41; printed p.
+36), Demographic Policy (printed p. 184; printed p. 47;
+printed p. 16), Demographic Problems (printed p. 179;
+printed p. 41; printed p. 109), Geographic Nomenclature
+Names on the Map (printed p. 36; printed p. 31; printed
+p. 37; printed p. 43; printed p. 47; printed p. 32;
+printed p. 38; printed p. 43; printed p. 20; printed p.
+14; printed p. 23; printed p. 55; printed p. 86;
+printed p. 103; printed p. 20), Kazakhstans
+Administrative Division (printed p. 246), Kazakhstans
+Population Composition and Density (printed p. 92;
+printed p. 226; printed p. 197; printed p. 4; printed
+p. 62; printed p. 151), Labour Resources (printed p.
+80; printed p. 165; printed p. 84), Migration People on
+the Move (printed p. 8; printed p. 71; printed p. 157;
+printed p. 80), Population Reproduction Types (printed
+p. 160; printed p. 26; printed p. 103), Remote Sensing
+of the Earth (printed p. 34; printed p. 37; printed p.
+36), Settlements and Their Types (printed p. 21;
+printed p. 95; printed p. 177; printed p. 86), The
+Political Map of the World (printed p. 232; printed p.
+235; printed p. 239; printed p. 103; printed p. 111;
+printed p. 160; printed p. 231; printed p. 290; printed
+p. 142; printed p. 141; printed p. 143; printed p.
+147), Thematic Maps and Their Elements (printed p. 31;
+printed p. 34; printed p. 46; printed p. 30; printed p.
+29; printed p. 14; printed p. 16; printed p. 15),
+Urbanisation (printed p. 28; printed p. 100; printed p.
+186; printed p. 90), World Ethnic and Language
+Composition (printed p. 96; printed p. 176; printed p.
+139; printed p. 66; printed p. 214; printed p. 184),
+World Population Racial Composition (printed p. 94),
+World Religious Composition (printed p. 98; printed p.
+183; printed p. 144; printed p. 75; printed p. 217;
+printed p. 187); **People and Resources**: Assessing
+Natural Resources (printed p. 187; printed p. 201;
+printed p. 54; printed p. 139; printed p. 121; printed
+p. 69; printed p. 110; printed p. 50; printed p. 96;
+printed p. 115), Distribution of Natural Resources
+(printed p. 106; printed p. 192; printed p. 92; printed
+p. 59; printed p. 36; printed p. 115; printed p. 197;
+printed p. 40), Economic Geographic Position of a
+Country (printed p. 122; printed p. 124; printed p.
+126; printed p. 128; printed p. 237; printed p. 240;
+printed p. 192; printed p. 195; printed p. 157; printed
+p. 271; printed p. 273; printed p. 236; printed p. 238;
+printed p. 244; printed p. 117; printed p. 151; printed
+p. 279; printed p. 149), Human Development Index
+(printed p. 94; printed p. 153; printed p. 226; printed
+p. 112; printed p. 114), Kazakhstans Economic Regions
+(printed p. 117; printed p. 188; printed p. 253),
+Measuring a Countrys Development (printed p. 142;
+printed p. 209; printed p. 263; printed p. 132), Using
+Land Waters (printed p. 104; printed p. 172; printed p.
+226), Where Industry Locates Location Factors (printed
+p. 222; printed p. 225; printed p. 89; printed p. 120;
+printed p. 135); **Culture and Work**: Economic
+Infrastructure (printed p. 202; printed p. 207; printed
+p. 72; printed p. 167; printed p. 120; printed p. 122;
+printed p. 127), Forms of Government (printed p. 145),
+Forms of Organising Production (printed p. 218; printed
+p. 84; printed p. 133), Historical Cultural Regions of
+the World (printed p. 186; printed p. 148; printed p.
+81; printed p. 220; printed p. 190; printed p. 148),
+Interreligious Harmony and Consent (printed p. 194;
+printed p. 156; printed p. 90; printed p. 223; printed
+p. 193), Kazakhstans Agriculture (printed p. 182),
+Kazakhstans Industries (printed p. 44; printed p. 55;
+printed p. 61; printed p. 68; printed p. 99; printed p.
+110; printed p. 160; printed p. 175; printed p. 205;
+printed p. 231; printed p. 239), Political Integration
+and International Organisations (printed p. 249;
+printed p. 252; printed p. 121; printed p. 163; printed
+p. 216; printed p. 297; printed p. 144; printed p.
+151), Social Infrastructure Services for Settlements
+(printed p. 218; printed p. 176; printed p. 131;
+printed p. 248; printed p. 217; printed p. 125),
+Subjects of the World Economy (printed p. 131; printed
+p. 122), The Scientific Technical Revolution (printed
+p. 89; printed p. 145; printed p. 218; printed p. 108),
+The Service Sector (printed p. 216), The Worlds
+Countries and Their Diversity (printed p. 240);
+**Resources and Conflict**: Transboundary Water
+Problems (printed p. 145; printed p. 231; printed p.
+119); **Global Issues**: Air Pollution and the
+Atmosphere (printed p. 46), Human Impact on Climate
+(printed p. 58), Kazakhstans Protected Areas (printed
+p. 153; printed p. 22; printed p. 34; printed p. 132),
+Protecting Plants and Animals (printed p. 142; printed
+p. 236; printed p. 91) — all 75 new lessons are taught
+in 1 country (Kazakhstan), 8 questions each, standing
+on Kazakhstan student book(s).
+Geography lessons: 3488 → 3563.

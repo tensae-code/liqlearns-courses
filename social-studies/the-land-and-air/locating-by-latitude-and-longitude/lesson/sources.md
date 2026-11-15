@@ -1,6 +1,6 @@
 # Sources — Locating by latitude and longitude
 
-countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq, Cuba, South Sudan
+countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq, Cuba, South Sudan, Kazakhstan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -26,6 +26,10 @@ countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq, Cuba, So
 
 **Book 12:** *Secondary Geography 2 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Teacher's Guide. Grade: Secondary 2 / Grade 10 (student/teacher: TEACHER). PDF pages: 135 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
+**Book 13:** *География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева)* (student book, Kazakh) — Астана «Назарбаев Зияткерлік мектептері» ДББҰ (NIS), with UCL Institute of Education, London; year 2018; ISBN 978-601-328-195-7. Title as printed: География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева). Grade: 7 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1045.pdf, 65,250,742 bytes from the recorded okulyk.kz source, page count matches the record). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+**Book 14:** *География — 7 класс, Часть 1 / Часть 2 (Р. А. Каратабанов, Ж. Р. Байметова)* (student book, Russian) — Алматы «АЛМАТЫКІТАП БАСПАСЫ»; year 2023 (work ©2017); ISBN 978-601-01-4117-9 (Part 1), general ISBN 978-602-02-1233-3. Title as printed: География — 7 класс, Часть 1 / Часть 2 (Р. А. Каратабанов, Ж. Р. Байметова). Grade: 7 (student/teacher: STUDENT). PDF pages: 264 (Part 1) + 192 (Part 2) (covers verified against the record titles; record files grade-07/gov/kazakhstan/geografija/student/1291.pdf, 48,138,715 bytes, and 1292.pdf, 35,312,811 bytes, from the recorded okulyk.kz sources, page counts match the records; duplicate records 271.pdf and 903.pdf carry the same Russian parts). Verdict: COMPLETE. Parallel editions named, not double-counted: the Kazakh parallel editions (records 1295.pdf/244.pdf for Part 1 and 1296.pdf/902.pdf for Part 2 in this record set) carry the same course; the book is placed once here, under this Russian edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Parallels and meridians | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 210–212 |
@@ -42,8 +46,10 @@ countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq, Cuba, So
 | Iraq part — Unit 1 Ch. 1 Natural characteristics of Iraq's geography: Iraq's location | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 1 Natural characteristics of Iraq's geography: Iraq's location — printed p. 5 |
 | Cuba part — Unidad 2 ep. 2.8 La localización geográfica (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 2 ep. 2.8 La localización geográfica — printed p. 34 |
 | South Sudan part — Guide: map elements — latitude/longitude and grid reference (teacher guide — evidence) | South Sudan, *South Sudan Grade 10 S2 Geography TG* (teacher guide), Guide: map elements — latitude/longitude and grid reference — printed p. 113 |
+| Kazakhstan part — Determining geographic coordinates | Kazakhstan, *Kazakhstan Grade 7 Amangalieva NIS*, Determining geographic coordinates — printed p. 20 |
+| Kazakhstan part — §10 How to find and show objects on a geographic map | Kazakhstan, *Kazakhstan Grade 7 Karatabanov Part 1*, §10 How to find and show objects on a geographic map — printed p. 79 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq). Cuba is named here as teacher-guide evidence only, counted nowhere. South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq, Kazakhstan). Cuba is named here as teacher-guide evidence only, counted nowhere. South Sudan is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: latitude, longitude, graticule, parallels, meridians, point C, social studies
 
@@ -66,3 +72,7 @@ Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fu
 Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it does not change the acceptance count above.
 
 South Sudan's own way (South Sudan Grade 10 S2 Geography TG) (teacher guide — evidence): Mirrors the student's book's 8 units with content maps, expected answers and group-presentation case studies (agriculture solutions, fishing solutions, fold-mountain impacts), plus a field-observation exercise on the environment near the school. That evidence is stocked here as the way South Sudan teaches this thing; it does not change the acceptance count above.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Amangalieva NIS): the NIS (Nazarbayev Intellectual Schools) inquiry textbook: every lesson opens with a «Бұл сабақта» (In this lesson) goal box and closes with a «Сенің кезегің!» (Your turn!) task block; each section ends in a «Қорытынды» summary built round a concept map; the book closes with a trilingual Kazakh–Russian–English glossary. Country-studies section works through how a state improves its geographic position, with the UAE and Singapore as cases and Kazakhstan as the home example.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Karatabanov): every paragraph is titled as a question («Как устроена Земля внутри?», «Все ли одинаково обеспечены водой?») and every section closes with a «Мои географические достижения» (My geographic achievements) self-check page; Part 2 asks what is known about "our country's soils" (§§37–38) and how to develop natural resources "without harm to nature and people" (§§55–57).

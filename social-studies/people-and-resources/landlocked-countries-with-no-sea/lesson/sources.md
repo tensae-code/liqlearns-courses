@@ -1,6 +1,6 @@
 # Sources — Landlocked — countries with no sea
 
-countries: Ethiopia, Bolivia, Zimbabwe, Uganda, Armenia, South Sudan
+countries: Ethiopia, Bolivia, Zimbabwe, Uganda, Armenia, South Sudan, Kazakhstan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -16,6 +16,10 @@ countries: Ethiopia, Bolivia, Zimbabwe, Uganda, Armenia, South Sudan
 
 **Book 7:** *Secondary Geography 2 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Teacher's Guide. Grade: Secondary 2 / Grade 10 (student/teacher: TEACHER). PDF pages: 135 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
+**Book 8:** *География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Д. Т. Алиасқаров, Е. П. Шимина)* (student book, Kazakh) — Алматы «Атамұра»; year 2025; ISBN 978-601-10-0688-0. Title as printed: География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Д. Т. Алиасқаров, Е. П. Шимина). Grade: 7 (student/teacher: STUDENT). PDF pages: 272 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1473.pdf, 32,144,997 bytes from the recorded okulyk.kz source, page count matches the record; the file behind the record is the Kazakh edition, the record title is in Russian). Verdict: COMPLETE. Parallel edition named, not double-counted: the Russian parallel edition (record 1516.pdf in this record set) carries the same course; the book is placed once here, under this Kazakh edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+**Book 9:** *География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Е. П. Шимина)* (student book, Kazakh) — Алматы «Атамұра»; year 2017; ISBN 978-601-306-746-9. Title as printed: География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Е. П. Шимина). Grade: 7 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/243.pdf, 19,625,908 bytes from the recorded okulyk.kz source, page count matches the record; the file behind the record is the Kazakh edition, the record title is in Russian). Verdict: COMPLETE. Parallel edition named, not double-counted: the Russian parallel edition (record 269.pdf in this record set) carries the same course; the book is placed once here, under this Kazakh edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What landlocked means | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 145–146 |
@@ -27,8 +31,10 @@ countries: Ethiopia, Bolivia, Zimbabwe, Uganda, Armenia, South Sudan
 | Uganda part — Topic 1: Uganda as a land locked country | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 1: Uganda as a land locked country — printed p. 17 |
 | Armenia part — §48 Armenia as a landlocked country: transport corridors to the sea | Armenia, *Armenia Grade 9 Geography of Armenia student*, §48 Armenia as a landlocked country: transport corridors to the sea — printed p. 127 |
 | South Sudan part — Guide: landlocked South Sudan — high transport costs as a hindrance to trade (teacher guide — evidence) | South Sudan, *South Sudan Grade 10 S2 Geography TG* (teacher guide), Guide: landlocked South Sudan — high transport costs as a hindrance to trade — printed p. 84 |
+| Kazakhstan part — §65 Continental (landlocked) states | Kazakhstan, *Kazakhstan Grade 7 Egorina*, §65 Continental (landlocked) states — printed p. 242 |
+| Kazakhstan part — §62 Continental (landlocked) states | Kazakhstan, *Kazakhstan Grade 7 Egorina 2017*, §62 Continental (landlocked) states — printed p. 199 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Uganda, Armenia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Uganda, Armenia, Kazakhstan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. South Sudan is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -43,3 +49,7 @@ Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial compan
 Armenia's own way (Armenia Grade 9 Geography of Armenia student): the whole grade-9 year is the home country — first the Armenian Highlands as a physical whole, then the Republic section by section (nature, population, economy), finishing marz by marz (all 10 provinces) so every learner ends by studying their own province.
 
 South Sudan's own way (South Sudan Grade 10 S2 Geography TG) (teacher guide — evidence): Mirrors the student's book's 8 units with content maps, expected answers and group-presentation case studies (agriculture solutions, fishing solutions, fold-mountain impacts), plus a field-observation exercise on the environment near the school. That evidence is stocked here as the way South Sudan teaches this thing; it does not change the acceptance count above.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Egorina): the 2025 Atamura course is organised by numbered paragraphs (§1–§68) with coded learning goals (e.g. 7.3.2.4) and a «Негізгі ұғымдар» key-concepts box per paragraph; it gives Kazakhstani science its own paragraph (§3, research in the war and post-war years), a whole practical strand on building geographic databases (§§10, 18, 49, 54–55), and a country-studies block that classifies states by position — continental, archipelago, island and peninsular — with Kazakhstan's own economic-geographic position as the worked example.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Egorina 2017): the 2017 first edition of the Atamura course (the 2025 Book 2 is its revision): same six-section architecture but twelve numbered practical works, four of them database-building exercises on Kazakhstan itself — a geographic database for Kazakhstan's regions (§51) and for Kazakhstan's transport system (§52) — plus a practical on the natural complex of the pupil's own locality (§37).

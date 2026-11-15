@@ -1,6 +1,6 @@
 # Sources — The Atmosphere — The Four Layers
 
-countries: Ethiopia, Mozambique, Laos, Bhutan
+countries: Ethiopia, Mozambique, Laos, Bhutan, Kazakhstan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -18,6 +18,12 @@ countries: Ethiopia, Mozambique, Laos, Bhutan
 
 **Book 8:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 9:** *География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева)* (student book, Kazakh) — Астана «Назарбаев Зияткерлік мектептері» ДББҰ (NIS), with UCL Institute of Education, London; year 2018; ISBN 978-601-328-195-7. Title as printed: География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева). Grade: 7 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1045.pdf, 65,250,742 bytes from the recorded okulyk.kz source, page count matches the record). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+**Book 10:** *География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Е. П. Шимина)* (student book, Kazakh) — Алматы «Атамұра»; year 2017; ISBN 978-601-306-746-9. Title as printed: География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Е. П. Шимина). Grade: 7 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/243.pdf, 19,625,908 bytes from the recorded okulyk.kz source, page count matches the record; the file behind the record is the Kazakh edition, the record title is in Russian). Verdict: COMPLETE. Parallel edition named, not double-counted: the Russian parallel edition (record 269.pdf in this record set) carries the same course; the book is placed once here, under this Kazakh edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+**Book 11:** *География — 7 класс, Часть 1 / Часть 2 (Р. А. Каратабанов, Ж. Р. Байметова)* (student book, Russian) — Алматы «АЛМАТЫКІТАП БАСПАСЫ»; year 2023 (work ©2017); ISBN 978-601-01-4117-9 (Part 1), general ISBN 978-602-02-1233-3. Title as printed: География — 7 класс, Часть 1 / Часть 2 (Р. А. Каратабанов, Ж. Р. Байметова). Grade: 7 (student/teacher: STUDENT). PDF pages: 264 (Part 1) + 192 (Part 2) (covers verified against the record titles; record files grade-07/gov/kazakhstan/geografija/student/1291.pdf, 48,138,715 bytes, and 1292.pdf, 35,312,811 bytes, from the recorded okulyk.kz sources, page counts match the records; duplicate records 271.pdf and 903.pdf carry the same Russian parts). Verdict: COMPLETE. Parallel editions named, not double-counted: the Kazakh parallel editions (records 1295.pdf/244.pdf for Part 1 and 1296.pdf/902.pdf for Part 2 in this record set) carry the same course; the book is placed once here, under this Russian edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Troposphere and stratosphere | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 22–24 |
@@ -29,8 +35,11 @@ countries: Ethiopia, Mozambique, Laos, Bhutan
 | Bhutan part — Ch.7 7.2 Structure of the Atmosphere | Bhutan, *Bhutan Grade 7 Geography*, Ch.7 7.2 Structure of the Atmosphere — printed p. 34 |
 | Bhutan part — Ch.6 6.2 Significance of atmosphere | Bhutan, *Bhutan Grade 8 Geography*, Ch.6 6.2 Significance of atmosphere — printed p. 41 |
 | Bhutan part — Ch.6 6.3 Structure of the atmosphere | Bhutan, *Bhutan Grade 9 Geography*, Ch.6 6.3 Structure of the atmosphere — printed p. 50 |
+| Kazakhstan part — Structure of the atmosphere and features of its layers | Kazakhstan, *Kazakhstan Grade 7 Amangalieva NIS*, Structure of the atmosphere and features of its layers — printed p. 38 |
+| Kazakhstan part — §17 Structure of the atmosphere and features of its layers | Kazakhstan, *Kazakhstan Grade 7 Egorina 2017*, §17 Structure of the atmosphere and features of its layers — printed p. 57 |
+| Kazakhstan part — §17 How is the atmosphere structured? | Kazakhstan, *Kazakhstan Grade 7 Karatabanov Part 1*, §17 How is the atmosphere structured? — printed p. 128 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Mozambique, Laos, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Mozambique, Laos, Bhutan, Kazakhstan).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -49,3 +58,9 @@ Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a 
 Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
 
 Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Amangalieva NIS): the NIS (Nazarbayev Intellectual Schools) inquiry textbook: every lesson opens with a «Бұл сабақта» (In this lesson) goal box and closes with a «Сенің кезегің!» (Your turn!) task block; each section ends in a «Қорытынды» summary built round a concept map; the book closes with a trilingual Kazakh–Russian–English glossary. Country-studies section works through how a state improves its geographic position, with the UAE and Singapore as cases and Kazakhstan as the home example.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Egorina 2017): the 2017 first edition of the Atamura course (the 2025 Book 2 is its revision): same six-section architecture but twelve numbered practical works, four of them database-building exercises on Kazakhstan itself — a geographic database for Kazakhstan's regions (§51) and for Kazakhstan's transport system (§52) — plus a practical on the natural complex of the pupil's own locality (§37).
+
+Kazakhstan's own way (Kazakhstan Grade 7 Karatabanov): every paragraph is titled as a question («Как устроена Земля внутри?», «Все ли одинаково обеспечены водой?») and every section closes with a «Мои географические достижения» (My geographic achievements) self-check page; Part 2 asks what is known about "our country's soils" (§§37–38) and how to develop natural resources "without harm to nature and people" (§§55–57).

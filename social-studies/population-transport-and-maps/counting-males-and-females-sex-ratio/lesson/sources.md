@@ -1,6 +1,6 @@
 # Sources — Counting males and females — sex ratio
 
-countries: Ethiopia, India, Sri Lanka, Mauritania, Iraq, Armenia
+countries: Ethiopia, India, Sri Lanka, Mauritania, Iraq, Armenia, Kazakhstan
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -16,6 +16,8 @@ countries: Ethiopia, India, Sri Lanka, Mauritania, Iraq, Armenia
 
 **Book 7:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 8:** *География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева)* (student book, Kazakh) — Астана «Назарбаев Зияткерлік мектептері» ДББҰ (NIS), with UCL Institute of Education, London; year 2018; ISBN 978-601-328-195-7. Title as printed: География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева). Grade: 7 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1045.pdf, 65,250,742 bytes from the recorded okulyk.kz source, page count matches the record). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ratio itself | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 108–109 |
@@ -26,8 +28,9 @@ countries: Ethiopia, India, Sri Lanka, Mauritania, Iraq, Armenia
 | Mauritania part — Unit 1 Lesson 5: the structure of the world's population | Mauritania, *Mauritania Grade 12 geo-6as-cd*, Unit 1 Lesson 5: the structure of the world's population — printed p. 41 |
 | Iraq part — Unit 1 Ch. 2: The sex composition — males per hundred females, and how it is calculated | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 2: The sex composition — males per hundred females, and how it is calculated — printed p. 49 |
 | Armenia part — Lesson 5.4 Sex composition and labour resources | Armenia, *Armenia Grade 7 Geography student*, Lesson 5.4 Sex composition and labour resources — printed p. 114 |
+| Kazakhstan part — Indicators of population composition | Kazakhstan, *Kazakhstan Grade 7 Amangalieva NIS*, Indicators of population composition — printed p. 90 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, India, Sri Lanka, Mauritania, Iraq, Armenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, India, Sri Lanka, Mauritania, Iraq, Armenia, Kazakhstan).**
 
 Carried exactly as the placements flag it: the book's formula frames the sex ratio as females per males, which reverses the males-per-females wording many other books use; the lesson teaches the book's own framing and names it, so learners are not tripped when they meet the other form. The placements give the measure and the regional comparison but no regional figures, so this lesson claims no sub-region numbers.
 
@@ -42,3 +45,5 @@ Mauritania's own way (Mauritania Grade 12 geo-6as-cd): A human-geography year in
 Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fullest treatment yet — the same national geography as Grade 5 but measured: the plain is 24% and about 600 km long, the desert plateau about 55%, the desert plant belt about 70%, two-thirds of the people live on the central and southern plain; every topic is pinned to numbered maps of Iraq.
 
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Amangalieva NIS): the NIS (Nazarbayev Intellectual Schools) inquiry textbook: every lesson opens with a «Бұл сабақта» (In this lesson) goal box and closes with a «Сенің кезегің!» (Your turn!) task block; each section ends in a «Қорытынды» summary built round a concept map; the book closes with a trilingual Kazakh–Russian–English glossary. Country-studies section works through how a state improves its geographic position, with the UAE and Singapore as cases and Kazakhstan as the home example.

@@ -1,6 +1,6 @@
 # Sources — Making maps with GIS
 
-countries: Ethiopia, Bangladesh, Bhutan, Armenia
+countries: Ethiopia, Bangladesh, Bhutan, Armenia, Kazakhstan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Bangladesh, Bhutan, Armenia
 
 **Book 5:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 6:** *География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Д. Т. Алиасқаров, Е. П. Шимина)* (student book, Kazakh) — Алматы «Атамұра»; year 2025; ISBN 978-601-10-0688-0. Title as printed: География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Д. Т. Алиасқаров, Е. П. Шимина). Grade: 7 (student/teacher: STUDENT). PDF pages: 272 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1473.pdf, 32,144,997 bytes from the recorded okulyk.kz source, page count matches the record; the file behind the record is the Kazakh edition, the record title is in Russian). Verdict: COMPLETE. Parallel edition named, not double-counted: the Russian parallel edition (record 1516.pdf in this record set) carries the same course; the book is placed once here, under this Kazakh edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+**Book 7:** *География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Е. П. Шимина)* (student book, Kazakh) — Алматы «Атамұра»; year 2017; ISBN 978-601-306-746-9. Title as printed: География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Е. П. Шимина). Grade: 7 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/243.pdf, 19,625,908 bytes from the recorded okulyk.kz source, page count matches the record; the file behind the record is the Kazakh edition, the record title is in Russian). Verdict: COMPLETE. Parallel edition named, not double-counted: the Russian parallel edition (record 269.pdf in this record set) carries the same course; the book is placed once here, under this Kazakh edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Analysis works the layers | G12 student #86, printed pp. 240–246 |
@@ -20,8 +24,14 @@ countries: Ethiopia, Bangladesh, Bhutan, Armenia
 | Bhutan part — Ch.4 4.11 Applications of GIS | Bhutan, *Bhutan Grade 11 Geography*, Ch.4 4.11 Applications of GIS — printed p. 69 |
 | Bhutan part — Ch.3 3.6 Application of GIS | Bhutan, *Bhutan Grade 12 Geography*, Ch.3 3.6 Application of GIS — printed p. 38 |
 | Armenia part — 1.6-1.7 Practical works with the Scanex Web GeoMixer web-mapping resource | Armenia, *Armenia Grade 10 Geography student*, 1.6-1.7 Practical works with the Scanex Web GeoMixer web-mapping resource — printed p. 23 |
+| Kazakhstan part — Practical work: digital resources and working with the computer | Kazakhstan, *Kazakhstan Grade 7 Egorina*, Practical work: digital resources and working with the computer — printed p. 42 |
+| Kazakhstan part — §49 Practical tasks: cartography and database of social geography | Kazakhstan, *Kazakhstan Grade 7 Egorina*, §49 Practical tasks: cartography and database of social geography — printed p. 198 |
+| Kazakhstan part — §55 Practical tasks: building a geographic database | Kazakhstan, *Kazakhstan Grade 7 Egorina*, §55 Practical tasks: building a geographic database — printed p. 210 |
+| Kazakhstan part — §44 Practical work №5: cartographic and geographic database | Kazakhstan, *Kazakhstan Grade 7 Egorina 2017*, §44 Practical work №5: cartographic and geographic database — printed p. 160 |
+| Kazakhstan part — §51 Practical work №8: building a geographic database for the regions of Kazakhstan | Kazakhstan, *Kazakhstan Grade 7 Egorina 2017*, §51 Practical work №8: building a geographic database for the regions of Kazakhstan — printed p. 175 |
+| Kazakhstan part — §52 Practical work №9: building a geographic database on Kazakhstan's transport system | Kazakhstan, *Kazakhstan Grade 7 Egorina 2017*, §52 Practical work №9: building a geographic database on Kazakhstan's transport system — printed p. 176 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Bhutan, Armenia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Bhutan, Armenia, Kazakhstan).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -34,3 +44,7 @@ Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is f
 Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.
 
 Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Egorina): the 2025 Atamura course is organised by numbered paragraphs (§1–§68) with coded learning goals (e.g. 7.3.2.4) and a «Негізгі ұғымдар» key-concepts box per paragraph; it gives Kazakhstani science its own paragraph (§3, research in the war and post-war years), a whole practical strand on building geographic databases (§§10, 18, 49, 54–55), and a country-studies block that classifies states by position — continental, archipelago, island and peninsular — with Kazakhstan's own economic-geographic position as the worked example.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Egorina 2017): the 2017 first edition of the Atamura course (the 2025 Book 2 is its revision): same six-section architecture but twelve numbered practical works, four of them database-building exercises on Kazakhstan itself — a geographic database for Kazakhstan's regions (§51) and for Kazakhstan's transport system (§52) — plus a practical on the natural complex of the pupil's own locality (§37).

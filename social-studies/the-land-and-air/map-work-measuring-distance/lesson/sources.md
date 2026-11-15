@@ -1,6 +1,6 @@
 # Sources — Map Work — Measuring Distance
 
-countries: Ethiopia, Malaysia, Eritrea, Papua New Guinea, Uganda, Mauritania, Libya, Moldova, Nepal, Iraq, Bhutan, Cuba, South Sudan
+countries: Ethiopia, Malaysia, Eritrea, Papua New Guinea, Uganda, Mauritania, Libya, Moldova, Nepal, Iraq, Bhutan, Cuba, South Sudan, Kazakhstan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -56,6 +56,8 @@ countries: Ethiopia, Malaysia, Eritrea, Papua New Guinea, Uganda, Mauritania, Li
 
 **Book 27:** *Primary Social Studies 4 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 4 Teacher's Guide. Grade: Primary 4 / Grade 4 (student/teacher: TEACHER). PDF pages: 88 (title page verified against the record title). Verdict: COMPLETE (combined Social Studies guide — Geography parts placed; Units 4 and 5 are mainly History/Civics and Civics, named in Book 15's header, not placed, except the settlement-regions note below). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
+**Book 28:** *География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева)* (student book, Kazakh) — Астана «Назарбаев Зияткерлік мектептері» ДББҰ (NIS), with UCL Institute of Education, London; year 2018; ISBN 978-601-328-195-7. Title as printed: География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева). Grade: 7 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1045.pdf, 65,250,742 bytes from the recorded okulyk.kz source, page count matches the record). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What is really wanted: ground distance | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 31–32 |
@@ -86,8 +88,9 @@ countries: Ethiopia, Malaysia, Eritrea, Papua New Guinea, Uganda, Mauritania, Li
 | South Sudan part — Finding distance and bearing in a map | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Finding distance and bearing in a map — printed p. 169 |
 | South Sudan part — Map reading: the Upendo Area map — scale for distance; measuring area by counting squares [placement slug: population-transport-and-maps/measuring-distance-and-area-on-a-map] | South Sudan, *South Sudan Grade 4 P4 Social Studies SB*, Map reading: the Upendo Area map — scale for distance; measuring area by counting squares — printed p. 55 |
 | South Sudan part — Guide: map reading — how to measure the distance of a straight line on a map (teacher guide — evidence) [placement slug: population-transport-and-maps/measuring-distance-and-area-on-a-map] | South Sudan, *South Sudan Grade 4 P4 Social Studies TG* (teacher guide), Guide: map reading — how to measure the distance of a straight line on a map — printed p. 54 |
+| Kazakhstan part — Calculating distance using scale | Kazakhstan, *Kazakhstan Grade 7 Amangalieva NIS*, Calculating distance using scale — printed p. 18 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Malaysia, Eritrea, Uganda, Mauritania, Libya, Moldova, Nepal, Iraq, Bhutan, Cuba, South Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Malaysia, Eritrea, Uganda, Mauritania, Libya, Moldova, Nepal, Iraq, Bhutan, Cuba, South Sudan, Kazakhstan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -142,3 +145,5 @@ South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic
 South Sudan's own way (South Sudan Grade 4 P4 Social Studies SB): Weather is learned by building the instruments — thermometer, rain gauge, wind vane and windsock made from local materials, then a school weather station — and map reading is taught on one worked map ("Upendo Area") with scale, symbol key and area measured by counting grid squares.
 
 South Sudan's own way (South Sudan Grade 4 P4 Social Studies TG) (teacher guide — evidence): The guide grounds every weather idea in farm and river work — wind for threshing and winnowing, rough water making fishing risky — and teaches that forests help in the formation of rain. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).
+
+Kazakhstan's own way (Kazakhstan Grade 7 Amangalieva NIS): the NIS (Nazarbayev Intellectual Schools) inquiry textbook: every lesson opens with a «Бұл сабақта» (In this lesson) goal box and closes with a «Сенің кезегің!» (Your turn!) task block; each section ends in a «Қорытынды» summary built round a concept map; the book closes with a trilingual Kazakh–Russian–English glossary. Country-studies section works through how a state improves its geographic position, with the UAE and Singapore as cases and Kazakhstan as the home example.

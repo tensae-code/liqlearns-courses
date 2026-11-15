@@ -1,6 +1,6 @@
 # Sources — What size and shape do to a country
 
-countries: Ethiopia, Turkmenistan, Eritrea, India, Sudan, Venezuela, Iran, Iraq, Nicaragua
+countries: Ethiopia, Turkmenistan, Eritrea, India, Sudan, Venezuela, Iran, Iraq, Nicaragua, Kazakhstan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Turkmenistan, Eritrea, India, Sudan, Venezuela, Iran, Iraq,
 
 **Book 19:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 20:** *География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева)* (student book, Kazakh) — Астана «Назарбаев Зияткерлік мектептері» ДББҰ (NIS), with UCL Institute of Education, London; year 2018; ISBN 978-601-328-195-7. Title as printed: География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева). Grade: 7 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1045.pdf, 65,250,742 bytes from the recorded okulyk.kz source, page count matches the record). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Effects of size | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 15–17 |
@@ -63,8 +65,9 @@ countries: Ethiopia, Turkmenistan, Eritrea, India, Sudan, Venezuela, Iran, Iraq,
 | Nicaragua part — Ventajas y desventajas de la posición geográfica y astronómica de los continentes | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Ventajas y desventajas de la posición geográfica y astronómica de los continentes — printed p. 17 |
 | Nicaragua part — Patrimonio territorial y cultural de Nicaragua | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Patrimonio territorial y cultural de Nicaragua — printed p. 11 |
 | Nicaragua part — Extensión, superficie, forma y límites de Nicaragua (políticos y naturales) | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Extensión, superficie, forma y límites de Nicaragua (políticos y naturales) — printed p. 16 |
+| Kazakhstan part — Classifying countries by their geographic position | Kazakhstan, *Kazakhstan Grade 7 Amangalieva NIS*, Classifying countries by their geographic position — printed p. 120 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Eritrea, India, Sudan, Venezuela, Iran, Iraq, Nicaragua).**
+**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Eritrea, India, Sudan, Venezuela, Iran, Iraq, Nicaragua, Kazakhstan).**
 
 Searchable tags: size and shape effects, administration, defence, national integration, compact state, social studies
 
@@ -101,3 +104,5 @@ Nicaragua's own way (Nicaragua Grade 9 Estudios Sociales G9 full-year): The clas
 Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Amangalieva NIS): the NIS (Nazarbayev Intellectual Schools) inquiry textbook: every lesson opens with a «Бұл сабақта» (In this lesson) goal box and closes with a «Сенің кезегің!» (Your turn!) task block; each section ends in a «Қорытынды» summary built round a concept map; the book closes with a trilingual Kazakh–Russian–English glossary. Country-studies section works through how a state improves its geographic position, with the UAE and Singapore as cases and Kazakhstan as the home example.

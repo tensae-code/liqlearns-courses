@@ -1,6 +1,6 @@
 # Sources — Volcanism — vents, fissures and the Ring of Fire
 
-countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba, South Sudan
+countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba, South Sudan, Kazakhstan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -34,6 +34,10 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Ir
 
 **Book 16:** *Secondary Geography 2 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Teacher's Guide. Grade: Secondary 2 / Grade 10 (student/teacher: TEACHER). PDF pages: 135 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
+**Book 17:** *География — Учебник для 7 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина, Н. В. Ивлева)* (student book, Russian) — Алматы «Мектеп»; year 2025; ISBN 978-601-07-1757-2. Title as printed: География — Учебник для 7 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина, Н. В. Ивлева). Grade: 7 (student/teacher: STUDENT). PDF pages: 289 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1517.pdf, 52,645,398 bytes from the recorded okulyk.kz source, page count matches the record; the PDF carries one extra page over the printed 288). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+**Book 18:** *География — Учебник для 7 классов общеобразовательных школ (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина)* (student book, Russian) — Алматы «Мектеп»; year 2017; ISBN 978-601-07-0855-6. Title as printed: География — Учебник для 7 классов общеобразовательных школ (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина). Grade: 7 (student/teacher: STUDENT). PDF pages: 249 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/270.pdf, 23,296,746 bytes from the recorded okulyk.kz source, page count matches the record; the PDF carries one extra page over the printed 248). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Vents and fissures | G12 student #16, printed pp. 19–20 |
@@ -55,8 +59,10 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Ir
 | South Sudan part — Volcanic mountains, with clay-volcano making practical | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Volcanic mountains, with clay-volcano making practical — printed p. 2 |
 | South Sudan part — Vulcanicity and volcanicity: intrusive vs extrusive features | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Vulcanicity and volcanicity: intrusive vs extrusive features — printed p. 5 |
 | South Sudan part — Guide: volcanic features and their effects on communication lines and settlement (teacher guide — evidence) | South Sudan, *South Sudan Grade 10 S2 Geography TG* (teacher guide), Guide: volcanic features and their effects on communication lines and settlement — printed p. 23 |
+| Kazakhstan part — §14 Volcanoes, geysers and hot springs | Kazakhstan, *Kazakhstan Grade 7 Tolybekova*, §14 Volcanoes, geysers and hot springs — printed p. 77 |
+| Kazakhstan part — §14 Volcanoes, geysers and hot springs | Kazakhstan, *Kazakhstan Grade 7 Tolybekova 2017*, §14 Volcanoes, geysers and hot springs — printed p. 69 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba, South Sudan).**
+**Acceptance count: taught in 12 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba, South Sudan, Kazakhstan).**
 
 No book error in the placements for this lesson is taught here. Counts and examples are taught exactly as the placements report them.
 
@@ -91,3 +97,7 @@ South Sudan's own way (South Sudan Grade 9 S1 Geography TG) (teacher guide — e
 South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.
 
 South Sudan's own way (South Sudan Grade 10 S2 Geography TG) (teacher guide — evidence): Mirrors the student's book's 8 units with content maps, expected answers and group-presentation case studies (agriculture solutions, fishing solutions, fold-mountain impacts), plus a field-observation exercise on the environment near the school. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).
+
+Kazakhstan's own way (Kazakhstan Grade 7 Tolybekova): the Mektep course teaches geographic nomenclature continent by continent (§§6–8: Africa/Australia/Antarctica, the Americas, Eurasia) with a practical on completing an outline map, then works through the natural complexes belt by belt (§§39–47: arctic, temperate forest/steppe, desert, tropical, subequatorial, equatorial); Kazakhstan anchors the applied ends — its regions' flora and fauna (§33), its soil types and soil resources (§§34–35), its population (§52, Practical №3) and its own economic-geographic position (§62).
+
+Kazakhstan's own way (Kazakhstan Grade 7 Tolybekova 2017): the 2017 first edition of the Mektep course (Book 5 is its 2025 revision): the same continent-by-continent nomenclature and belt-by-belt natural-complexes architecture, with a lithosphere field-research practical, a §52 «Человек — часть биосферы» (The human being as part of the biosphere), and a closing §60 «Этот многоликий мир» (This many-faced world) survey of the world's diversity.

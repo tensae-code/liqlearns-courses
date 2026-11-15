@@ -1,6 +1,6 @@
 # Sources — Latitude and altitude — the two big controls
 
-countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan, Libya, Mozambique, Iraq, Armenia, Cuba
+countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan, Libya, Mozambique, Iraq, Armenia, Cuba, Kazakhstan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -24,6 +24,10 @@ countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan, Libya, Mozambique, Iraq
 
 **Book 11:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 12:** *География — Учебник для 7 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина, Н. В. Ивлева)* (student book, Russian) — Алматы «Мектеп»; year 2025; ISBN 978-601-07-1757-2. Title as printed: География — Учебник для 7 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина, Н. В. Ивлева). Grade: 7 (student/teacher: STUDENT). PDF pages: 289 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1517.pdf, 52,645,398 bytes from the recorded okulyk.kz source, page count matches the record; the PDF carries one extra page over the printed 288). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+**Book 13:** *География — Учебник для 7 классов общеобразовательных школ (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина)* (student book, Russian) — Алматы «Мектеп»; year 2017; ISBN 978-601-07-0855-6. Title as printed: География — Учебник для 7 классов общеобразовательных школ (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина). Grade: 7 (student/teacher: STUDENT). PDF pages: 249 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/270.pdf, 23,296,746 bytes from the recorded okulyk.kz source, page count matches the record; the PDF carries one extra page over the printed 248). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Latitude | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 41–43 |
@@ -38,8 +42,10 @@ countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan, Libya, Mozambique, Iraq
 | Iraq part — Unit 1 Ch. 1, Climate and natural vegetation: the astronomical location (latitude circles) as the strongest factor in Iraq's climate — sun angle and length of day | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 1, Climate and natural vegetation: the astronomical location (latitude circles) as the strongest factor in Iraq's climate — sun angle and length of day — printed p. 16 |
 | Armenia part — Lesson 3.10 Natural-territorial complexes: horizontal (latitudinal) zonality and altitudinal zonality | Armenia, *Armenia Grade 7 Geography student*, Lesson 3.10 Natural-territorial complexes: horizontal (latitudinal) zonality and altitudinal zonality — printed p. 85 |
 | Cuba part — Capítulo 4 ep. 4.9 Factores modificadores del clima | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 4 ep. 4.9 Factores modificadores del clima — printed p. 121 |
+| Kazakhstan part — §18 Change of temperature on Earth | Kazakhstan, *Kazakhstan Grade 7 Tolybekova*, §18 Change of temperature on Earth — printed p. 95 |
+| Kazakhstan part — §18 Change of temperature on Earth | Kazakhstan, *Kazakhstan Grade 7 Tolybekova 2017*, §18 Change of temperature on Earth — printed p. 85 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Indonesia, Iran, Pakistan, Libya, Mozambique, Iraq, Armenia, Cuba). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Indonesia, Iran, Pakistan, Libya, Mozambique, Iraq, Armenia, Cuba, Kazakhstan). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -60,3 +66,7 @@ Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fu
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
 
 Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.
+
+Kazakhstan's own way (Kazakhstan Grade 7 Tolybekova): the Mektep course teaches geographic nomenclature continent by continent (§§6–8: Africa/Australia/Antarctica, the Americas, Eurasia) with a practical on completing an outline map, then works through the natural complexes belt by belt (§§39–47: arctic, temperate forest/steppe, desert, tropical, subequatorial, equatorial); Kazakhstan anchors the applied ends — its regions' flora and fauna (§33), its soil types and soil resources (§§34–35), its population (§52, Practical №3) and its own economic-geographic position (§62).
+
+Kazakhstan's own way (Kazakhstan Grade 7 Tolybekova 2017): the 2017 first edition of the Mektep course (Book 5 is its 2025 revision): the same continent-by-continent nomenclature and belt-by-belt natural-complexes architecture, with a lithosphere field-research practical, a §52 «Человек — часть биосферы» (The human being as part of the biosphere), and a closing §60 «Этот многоликий мир» (This many-faced world) survey of the world's diversity.

@@ -1,0 +1,26 @@
+# Sources — Protecting Plants and Animals
+
+countries: Kazakhstan
+
+**Book 1:** *География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова)* (student book, Russian) — Алматы «Мектеп»; year 2025; ISBN 978-601-07-1773-2. Title as printed: География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова). Grade: 8 (student/teacher: STUDENT). PDF pages: 273 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1531.pdf, 51,336,177 bytes from the recorded okulyk.kz source, page count matches the record; printed book 272 pp). Verdict: COMPLETE. Parallel editions named, not double-counted: record 309.pdf — the 2018 first edition in Kazakh, ISBN 978-601-07-0964-5, 256 printed pp, identical §§1–54 structure verified from its contents; record 344.pdf — the 2018 first edition in Russian, ISBN 978-601-07-0969-0, 264 printed pp, cover/verso verified; reissue records 1432.pdf and 1486.pdf belong to the same editions. The book is placed once here, under this 2025 edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+**Book 2:** *География — 8 класс, Часть 1 / Часть 2 (Р. А. Каратабанов, Г. А. Куанышева, Ж. Р. Байметова, К. М. Джаналева)* (student book, Russian) — Алматы «АЛМАТЫКІТАП БАСПАСЫ»; year 2023 (work ©2018); ISBN 978-601-01-3521-5 (Part 1), general ISBN 978-602-02-1237-1. Title as printed: География — 8 класс, Часть 1 / Часть 2 (Р. А. Каратабанов, Г. А. Куанышева, Ж. Р. Байметова, К. М. Джаналева). Grade: 8 (student/teacher: STUDENT). PDF pages: 264 (Part 1) + 156 (Part 2) (covers verified against the record titles; record files grade-08/gov/kazakhstan/geografija/student/1297.pdf, 51,610,047 bytes, and 1298.pdf, 30,989,706 bytes, from the recorded okulyk.kz sources, page counts match the records). Verdict: COMPLETE. Parallel editions named, not double-counted: the Kazakh parallel editions (records 1300.pdf/310.pdf for Part 1 and 1301.pdf/904.pdf, 905.pdf for Part 2 in this record set) carry the same course; record 345.pdf is the 2018 first printing of the Russian Part 1, same ISBN 978-601-01-3521-5, cover/verso verified. The book is placed once here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+**Book 3:** *География — 8-сыныпқа арналған оқулық (К. К. Сахова, Ж. Ф. Тенекебаева, А. Ж. Саддақасов, А. С. Кенжебаев)* (student book, Kazakh) — Нұр-Сұлтан «Назарбаев Зияткерлік мектептері» ДББҰ (NIS); year 2019; ISBN 978-601-328-352-4. Title as printed: География — 8-сыныпқа арналған оқулық (К. К. Сахова, Ж. Ф. Тенекебаева, А. Ж. Саддақасов, А. С. Кенжебаев). Grade: 8 (student/teacher: STUDENT). PDF pages: 160 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1072.pdf, 73,315,458 bytes from the recorded okulyk.kz source, page count matches the record). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — §28 Protection of the plant and animal world | Kazakhstan, *Kazakhstan Grade 8 Abilmazhinova*, §28 Protection of the plant and animal world — printed p. 142 |
+| Sub lesson 1 — §32 Protection of the plant and animal world | Kazakhstan, *Kazakhstan Grade 8 Karatabanov Part 1*, §32 Protection of the plant and animal world — printed p. 236 |
+| Sub lesson 1 — 3.4.6 Protecting plants and animals | Kazakhstan, *Kazakhstan Grade 8 Sakhova NIS*, 3.4.6 Protecting plants and animals — printed p. 91 |
+| Sub lesson 2 — Kazakhstan's way — the book's own teaching way | Kazakhstan — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Kazakhstan).**
+
+Kazakhstan's own way (Kazakhstan Grade 8 Abilmazhinova): the Grade 8 Mektep course deepens every Grade 7 line — relief classification and rock ages, global circulation and the climatic belts, natural zones of both hemispheres, demographic calculation and policy design (Practical №7 has pupils propose their own demographic-policy model), resource assessment, industry location factors, and the political map — closing with Kazakhstan's own place in political-integration processes (§54).
+
+Kazakhstan's own way (Kazakhstan Grade 8 Karatabanov): the Almatykitap Grade 8 course runs the same six-section architecture as the Mektep book (Book 7) but in Karatabanov's question-led style, closing Part 2 with §68 «Мой географический год» (My geographic year) — a pupil's own review of a year of geographic work.
+
+Kazakhstan's own way (Kazakhstan Grade 8 Sakhova NIS): the NIS Grade 8 course phrases its lessons as questions and tasks — «Әр жерде неліктен уақыт әркелкі?» (Why is time different in different places?, 2.2), «Тау жыныстары қалай пайда болады?» (How do rocks form?, 3.1.5), «Өзеннің суы қалай өзгереді?» (How does a river's water change?, 3.3.4) — and adds a lesson on the culture of showing geographic names on the map (2.3).
+
+Searchable tags: protecting plants and animals, Kazakhstan, social studies, global-issues
