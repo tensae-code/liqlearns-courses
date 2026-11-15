@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -181,3 +181,18 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Nepal's own way (Shikshak Nirdeshika, Class 8, Social Studies and Human Value Education 2081 (teacher's guide), Grade 8 (teacher guide)): Grade 8 "Our Past" opens with a definition — history is the account of past human activity, civilisation and state systems, studied from historical sources and analysed against the present — then runs Nepal's ancient story (name, dynasties, valley civilisation), the martyrs and the republic, and finishes with three world civilisations taught comparatively: Greece and Rome, the Indus Valley, and the Renaissance and its effects. That way is stocked here as the way Nepal teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 9 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus).** — unchanged; the Nepal placements above are teacher-guide evidence only, counted nowhere. Nepal is not added to this lesson's countries line.
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 1:** *ИСТОРИЈА за шести разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за шести разред основне школе (Istorija za šesti razred osnovne škole — History for the Sixth Grade of Primary School), DAISY edition. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva (ЗУНС), Podgorica; year 2016; no ISBN printed (the DAISY package metadata carries none). PDF pages: no PDF — DAISY ZIP (339,462,410 bytes, 457 entries); printed book runs to p. 113+ (text read in full from dtbook.xml, 598,153 bytes). Verdict: COMPLETE. Tally: 23 placements — 13 to existing lessons, 10 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.IV Ancient Greece §1: Cretan-Mycenaean culture — story beats: a sea-going palace culture flowers on Crete and is carried to mainland Mycenae (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Montenegro, *ИСТОРИЈА за шести разред основне школе (Istorija 6)*, printed p. 56 |
+
+Montenegro's own way (ИСТОРИЈА за шести разред основне школе (Istorija 6), Grade 6 (student/teacher: STUDENT)): A world-history year (history itself, prehistory, the Ancient East, Greece, Rome) that lands, in its final lesson, on home ground — the Illyrian tribes and Roman ruins of Montenegro itself, so a Montenegrin child ends antiquity standing in Doclea. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro).**

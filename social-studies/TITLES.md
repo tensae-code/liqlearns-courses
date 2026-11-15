@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **982**
+History lessons across the History titles: **1022**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3837,3 +3837,94 @@ Great Depression — 1929 4 → 5, The Second World
 War — the Pacific and the results 6 → 7, Exploration
 — causes and results 6 → 7, and The Cold War — what
 it was and what it did to Africa 5 → 6.
+
++40 for Montenegro, 2026-11-15 — Ancient World: From
+stone tools to metal ages, Culture of the Ancient
+East — scripts, epics and science, The Greco-Persian
+Wars, Macedonia and Alexander the Great, Greek
+religion, myths and the Olympic Games, Greek and
+Hellenistic culture, Roman religion and everyday
+life, Roman culture — literature and law, The
+Illyrians and Roman rule in Montenegro, The Slavs
+settle the Balkans, Duklja — the first Montenegrin
+state, The Christianisation of the South Slavs, Zeta
+in the Nemanjić state, Kings, towns and Church in
+late medieval Europe, Zeta under the Balšići, Zeta
+under the Crnojevići and the Ottoman advance, The
+Balkan states before the Ottoman conquest, The
+Albanians in the Middle Ages; Modern World:
+Montenegro under Ottoman rule — the 1500s and 1600s,
+The Dutch Revolt and the English Revolution,
+Enlightened absolutism in Europe, Montenegro,
+1697–1773 — the Petrović Njegoš dynasty begins,
+Montenegro builds a state — Petar I and Petar II
+Njegoš, Montenegro, 1851–1878 — principality and
+independence, Montenegro becomes a constitutional
+monarchy and kingdom, The democracies between the
+wars, The Soviet Union between the wars, Montenegro
+in the First World War, Serbia in the First World
+War, Montenegro loses its independence, 1918, The
+Kingdom of Serbs, Croats and Slovenes, The Kingdom
+of Yugoslavia and the royal dictatorship, Montenegro
+in the Yugoslav kingdom, Everyday life in interwar
+Yugoslavia, The Cold War world — superpowers and
+stagnation, Yugoslavia in the Second World War — the
+attack and the uprising, Montenegro in the Second
+World War — occupation and uprising, Yugoslavia,
+1945–1980 — a socialist federation, Montenegro in
+socialist Yugoslavia, The breakup of Yugoslavia and
+Montenegro regains independence. All 91 Montenegro
+placements are stocked (43 into 37 existing lessons,
+48 into the 40 new lessons) on Montenegro's four
+Istorija student books, Grades 6–9 (Zavod za
+udžbenike i nastavna sredstva, Podgorica, 2016,
+2017, 2018 and the undated Grade 7 book), DAISY
+talking-book editions read in full from dtbook.xml,
+counted in acceptance. HONESTY: all four are student
+books — no teacher guides in this set, so nothing is
+held outside acceptance counts. Three placements
+were stocked into the closest existing lessons under
+their original slugs: The Great Migration and the
+fall of the West into The Migration of Peoples — the
+Huns and the fall of Rome, The Black Death and late
+medieval society into The Black Death in Asia,
+Europe and Africa, and Balkan peoples in the Ottoman
+and Habsburg empires into The Eastern Question —
+nationalism in the Balkans. The existing lessons
+stocked rise with Montenegro added: What history is
+19 → 20, From evidence to a written history 15 → 16,
+Dating the past — calendars, timelines and periods
+14 → 15, Ancient civilisations — Mesopotamia 7 → 8,
+Ancient Egypt — the Nile Kingdom 9 → 10, Ancient
+civilisations — Greece: Crete 9 → 10, Ancient
+civilisations — Sparta, and Athens against Sparta 2
+→ 3, Ancient civilisations — Athens and democracy 6
+→ 7, Ancient civilisations — Rome 10 → 11, Ancient
+civilisations — Rome divides 5 → 6, The Migration of
+Peoples — the Huns and the fall of Rome 1 → 2,
+Medieval world — the Dark Age and feudalism 7 → 8,
+Medieval world — Byzantium and Justinian 4 → 5,
+Christianity — from persecuted sect to state
+religion 5 → 6, The rise and expansion of Islam 9 →
+10, The Black Death in Asia, Europe and Africa 1 →
+2, Exploration — Portugal and the sea routes to
+India 7 → 8, Medieval world — the Ottomans 4 → 5,
+Exploration — causes and results 7 → 8, Exploration
+— Columbus, Vespucci and Magellan 7 → 8, The
+Renaissance — what it was 6 → 7, The Reformation —
+Luther and the spread of Protestantism 4 → 5,
+Scientific Revolution and Enlightenment 5 → 6, The
+Industrial Revolution — what changed and why England
+first 7 → 8, American independence 5 → 6, 1789 — the
+French Revolution breaks out 5 → 6, Napoleon —
+reformer, conqueror, fallen 2 → 3, The Eastern
+Question — nationalism in the Balkans, empires in
+collision 1 → 2, The Industrial Revolution — its two
+stages 2 → 3, The First World War — causes 6 → 7,
+The First World War — course of the war 2 → 3, 1917
+twice — February and October in Russia 2 → 3, The
+First World War — Versailles and the results 2 → 3,
+Fascism and Nazism — two dictatorships compared 2 →
+3, The Second World War — causes 7 → 8, The Second
+World War — course in Europe 5 → 6, The world after
+1945 — losses, division and rebuilding 2 → 3.

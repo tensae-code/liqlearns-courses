@@ -1,6 +1,6 @@
 # Sources — Exploration — causes and results
 
-countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia
+countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 125).
 
@@ -135,3 +135,18 @@ Fiji's own way (Social Science Year 9 — Rediscovering Society, Year 9 (student
 Indonesia's own way (Sejarah Indonesia Kelas XI Semester 1 (Kurikulum 2013), Kelas XI / Grade 11, Semester 1 (student/teacher: STUDENT)): the older Kurikulum 2013 book is a war-by-war resistance atlas — each region's fight gets its own section in geographic order — framed by Sukarno's courtroom words on imperialism and by the question of why political independence has not yet meant economic independence. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia).**
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 3:** *ИСТОРИЈА за осми разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за осми разред основне школе (History for the Eighth Grade of Primary School), DAISY edition; authors Živko M. Andrijašević, Sait Šabotić, Dragutin Papović, Slobodan Drobnjak. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva, Podgorica; year 2017; no ISBN printed. PDF pages: no PDF — DAISY ZIP (218,603,009 bytes, 553 entries); printed book runs to p. 111+ (text read in full from dtbook.xml, 750,490 bytes). Verdict: COMPLETE. Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.1.1 The great geographical discoveries and the rise of Europe — story beats: in one generation Europe's map of the world doubles, and Europe begins its rise over it (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Montenegro, *ИСТОРИЈА за осми разред основне школе (Istorija 8)*, printed p. 8 |
+
+Montenegro's own way (ИСТОРИЈА за осми разред основне школе (Istorija 8), Grade 8 (student/teacher: STUDENT)): Two world chapters and two home chapters alternate: Europe of discoveries and revolutions, then Montenegro 1697–1851 building a theocratic state; the world to 1914, then Montenegro 1851–1914 racing to catch it — principality, wars, constitution. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro).**

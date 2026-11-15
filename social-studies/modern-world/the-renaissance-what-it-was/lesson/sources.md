@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait
+countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -120,3 +120,18 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Nepal's own way (Shikshak Nirdeshika, Class 8, Social Studies and Human Value Education 2081 (teacher's guide), Grade 8 (teacher guide)): Grade 8 "Our Past" opens with a definition — history is the account of past human activity, civilisation and state systems, studied from historical sources and analysed against the present — then runs Nepal's ancient story (name, dynasties, valley civilisation), the martyrs and the republic, and finishes with three world civilisations taught comparatively: Greece and Rome, the Indus Valley, and the Renaissance and its effects. That way is stocked here as the way Nepal teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait).** — unchanged; the Nepal placements above are teacher-guide evidence only, counted nowhere. Nepal is not added to this lesson's countries line.
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 3:** *ИСТОРИЈА за осми разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за осми разред основне школе (History for the Eighth Grade of Primary School), DAISY edition; authors Živko M. Andrijašević, Sait Šabotić, Dragutin Papović, Slobodan Drobnjak. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva, Podgorica; year 2017; no ISBN printed. PDF pages: no PDF — DAISY ZIP (218,603,009 bytes, 553 entries); printed book runs to p. 111+ (text read in full from dtbook.xml, 750,490 bytes). Verdict: COMPLETE. Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.1.2 (opening): The Renaissance — story beats: Italy teaches Europe to look at man and nature with new eyes (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Montenegro, *ИСТОРИЈА за осми разред основне школе (Istorija 8)*, printed p. 14 |
+
+Montenegro's own way (ИСТОРИЈА за осми разред основне школе (Istorija 8), Grade 8 (student/teacher: STUDENT)): Two world chapters and two home chapters alternate: Europe of discoveries and revolutions, then Montenegro 1697–1851 building a theocratic state; the world to 1914, then Montenegro 1851–1914 racing to catch it — principality, wars, constitution. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro).**

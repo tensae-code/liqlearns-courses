@@ -1,6 +1,6 @@
 # Sources — The Second World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji
+countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 136).
 
@@ -104,3 +104,18 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Fiji's own way (Exploring the World — Year 8 Social Science Pupil's Book (cover page note in PDF: "Cover page is with -ERC"; title from contents/front matter), Year 8 (student/teacher: STUDENT)): the focus widens from Pacific to world — world organisations, world peoples, famous lives and major world events, always brought back to Fiji examples (leprosy on Makogai, Pacific Games first held in Suva). That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji).**
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 4:** *ИСТОРИЈА — уџбеник за девети разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА — уџбеник за девети разред основне школе (History — Textbook for the Ninth Grade of Primary School), DAISY edition; authors Slavko Burzanović, Jasmina Đorđević. Grade: Grade 9 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva, Podgorica; year 2018; no ISBN printed. PDF pages: no PDF — DAISY ZIP (261,758,608 bytes, 702 entries); printed book runs to p. 138+ (text read in full from dtbook.xml, 868,296 bytes). Verdict: COMPLETE. Tally: 27 placements — 8 to existing lessons, 19 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.3.1 The beginning of the Second World War: Germany attacks Poland; Britain and France declare war on 3 September but give Poland no effective help, and Poland is defeated within a month, its government fleeing to London — story beats: the democracies declare war and watch their ally fall (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-causes) | Montenegro, *ИСТОРИЈА — уџбеник за девети разред основне школе (Istorija 9)*, printed p. 72 |
+
+Montenegro's own way (ИСТОРИЈА — уџбеник за девети разред основне школе (Istorija 9), Grade 9 (student/teacher: STUDENT)): The twentieth century is taught as a double story throughout — every world chapter (the wars, the revolutions, the -isms) is immediately followed by its Montenegrin/Yugoslav chapter, and the book ends where Montenegro's own story ends: the breakup of Yugoslavia and the renewal of Montenegrin independence. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro).**

@@ -11758,3 +11758,122 @@ the pupils' own lifetime, with contested events
 (Supersemar, 30 September 1965, May 1998) presented
 as evidence problems, not settled slogans.
 History lessons: 926 → 982.
+
+## History expansion — Montenegro — built 2026-11-15
+
+40 new lessons, 288 questions. **The Ancient World** +18:
+From stone tools to metal ages
+(ancient-world/from-stone-tools-to-metal-ages),
+Culture of the Ancient East — scripts, epics and science
+(ancient-world/culture-of-the-ancient-east-scripts-epics-and-science),
+The Greco-Persian Wars
+(ancient-world/the-greco-persian-wars),
+Macedonia and Alexander the Great
+(ancient-world/macedonia-and-alexander-the-great),
+Greek religion, myths and the Olympic Games
+(ancient-world/greek-religion-myths-and-the-olympic-games),
+Greek and Hellenistic culture
+(ancient-world/greek-and-hellenistic-culture),
+Roman religion and everyday life
+(ancient-world/roman-religion-and-everyday-life),
+Roman culture — literature and law
+(ancient-world/roman-culture-literature-and-law),
+The Illyrians and Roman rule in Montenegro
+(ancient-world/illyrians-and-roman-rule-in-montenegro),
+The Slavs settle the Balkans
+(ancient-world/the-slavs-settle-the-balkans),
+Duklja — the first Montenegrin state
+(ancient-world/duklja-the-first-montenegrin-state),
+The Christianisation of the South Slavs
+(ancient-world/christianisation-of-the-south-slavs),
+Zeta in the Nemanjić state
+(ancient-world/zeta-in-the-nemanjic-state),
+Kings, towns and Church in late medieval Europe
+(ancient-world/kings-towns-and-church-in-late-medieval-europe),
+Zeta under the Balšići
+(ancient-world/zeta-under-the-balsici),
+Zeta under the Crnojevići and the Ottoman advance
+(ancient-world/zeta-under-the-crnojevici-and-the-ottoman-advance),
+The Balkan states before the Ottoman conquest
+(ancient-world/the-balkan-states-before-the-ottoman-conquest),
+The Albanians in the Middle Ages
+(ancient-world/albanians-in-the-middle-ages),
+**The Modern World** +22:
+Montenegro under Ottoman rule — the 1500s and 1600s
+(modern-world/montenegro-under-ottoman-rule-1500s-1600s),
+The Dutch Revolt and the English Revolution
+(modern-world/the-dutch-revolt-and-the-english-revolution),
+Enlightened absolutism in Europe
+(modern-world/enlightened-absolutism-in-europe),
+Montenegro, 1697–1773 — the Petrović Njegoš dynasty begins
+(modern-world/montenegro-1697-1773-the-petrovic-njegos-dynasty-begins),
+Montenegro builds a state — Petar I and Petar II Njegoš
+(modern-world/montenegro-builds-a-state-petar-i-and-petar-ii-njegos),
+Montenegro, 1851–1878 — principality and independence
+(modern-world/montenegro-1851-1878-principality-and-independence),
+Montenegro becomes a constitutional monarchy and kingdom
+(modern-world/montenegro-becomes-a-constitutional-monarchy-and-kingdom),
+The democracies between the wars
+(modern-world/the-democracies-between-the-wars),
+The Soviet Union between the wars
+(modern-world/the-soviet-union-between-the-wars),
+Montenegro in the First World War
+(modern-world/montenegro-in-the-first-world-war),
+Serbia in the First World War
+(modern-world/serbia-in-the-first-world-war),
+Montenegro loses its independence, 1918
+(modern-world/montenegro-loses-its-independence-1918),
+The Kingdom of Serbs, Croats and Slovenes
+(modern-world/the-kingdom-of-serbs-croats-and-slovenes),
+The Kingdom of Yugoslavia and the royal dictatorship
+(modern-world/the-kingdom-of-yugoslavia-and-the-royal-dictatorship),
+Montenegro in the Yugoslav kingdom
+(modern-world/montenegro-in-the-yugoslav-kingdom),
+Everyday life in interwar Yugoslavia
+(modern-world/everyday-life-in-interwar-yugoslavia),
+The Cold War world — superpowers and stagnation
+(modern-world/the-cold-war-world-superpowers-and-stagnation),
+Yugoslavia in the Second World War — the attack and the uprising
+(modern-world/yugoslavia-in-the-second-world-war-the-attack-and-uprising),
+Montenegro in the Second World War — occupation and uprising
+(modern-world/montenegro-in-the-second-world-war-occupation-and-uprising),
+Yugoslavia, 1945–1980 — a socialist federation
+(modern-world/yugoslavia-1945-1980-a-socialist-federation),
+Montenegro in socialist Yugoslavia
+(modern-world/montenegro-in-socialist-yugoslavia),
+The breakup of Yugoslavia and Montenegro regains independence
+(modern-world/the-breakup-of-yugoslavia-and-montenegro-regains-independence).
+All 91 Montenegro placements are stocked (43 into
+37 existing lessons — What history is 1, From evidence to a written history 1, Dating the past — calendars, timelines and periods 2, Ancient civilisations — Mesopotamia 1, Ancient Egypt — the Nile Kingdom 1, Ancient civilisations — Greece: Crete 1, Ancient civilisations — Sparta, and Athens against Sparta 2, Ancient civilisations — Athens and democracy 1, Ancient civilisations — Rome 2, Ancient civilisations — Rome divides 1, The Migration of Peoples — the Huns and the fall of Rome 1, Medieval world — the Dark Age and feudalism 2, Medieval world — Byzantium and Justinian 2, Christianity — from persecuted sect to state religion 1, The rise and expansion of Islam 1, The Black Death in Asia, Europe and Africa 1, Exploration — Portugal and the sea routes to India 1, Medieval world — the Ottomans 2, Exploration — causes and results 1, Exploration — Columbus, Vespucci and Magellan 1, The Renaissance — what it was 1, The Reformation — Luther and the spread of Protestantism 1, Scientific Revolution and Enlightenment 1, The Industrial Revolution — what changed and why England first 1, American independence 1, 1789 — the French Revolution breaks out 1, Napoleon — reformer, conqueror, fallen 1, The Eastern Question — nationalism in the Balkans, empires in collision 1, The Industrial Revolution — its two stages 1, The First World War — causes 1, The First World War — course of the war 1, 1917 twice — February and October in Russia 1, The First World War — Versailles and the results 1, Fascism and Nazism — two dictatorships compared 1, The Second World War — causes 1, The Second World War — course in Europe 1, The world after 1945 — losses, division and rebuilding 1 — and 48 into the 40 new lessons)
+on 4 placed books: the Grade 6 Istorija student
+book (Zavod za udžbenike i nastavna sredstva,
+Podgorica, 2016), the Grade 7 Istorija student book
+(same publisher, year not printed), the Grade 8
+Istorija student book (2017) and the Grade 9
+Istorija student book (2018) — all DAISY
+talking-book editions, read in full from each
+book's dtbook.xml, printed pages being the books'
+own pagenum markers. HONESTY: all four books are
+student books, counted in acceptance; there are
+no teacher guides in this set, so nothing is held
+outside the counts. Three placements were stocked
+into the closest existing lessons, their original
+slugs recorded in the provenance rows: the Great
+Migration and the fall of the West into the
+Migration of Peoples — the Huns and the fall of
+Rome; the Black Death and late medieval society
+into the Black Death in Asia, Europe and Africa;
+and Balkan peoples in the Ottoman and Habsburg
+empires into the Eastern Question — nationalism
+in the Balkans. Every other stocked lesson adds
+Montenegro to its countries line and its
+acceptance count together. Montenegro's own way
+is stocked inside the lessons: Grade 6 ends
+antiquity on home ground in Doclea; Grade 7
+alternates Europe and Duklja/Zeta; Grade 8
+alternates Europe's revolutions with Montenegro
+1697–1914 building its state; Grade 9 tells the
+twentieth century as a double world-and-
+Montenegro/Yugoslavia story ending with the
+renewal of independence.
+History lessons: 982 → 1022.

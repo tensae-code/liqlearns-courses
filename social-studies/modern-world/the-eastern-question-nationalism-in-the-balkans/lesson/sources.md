@@ -1,6 +1,6 @@
 # Sources — The Eastern Question — nationalism in the Balkans, empires in collision
 
-countries: Ethiopia
+countries: Ethiopia, Montenegro
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -44,3 +44,17 @@ History fix note (2026-11-12): the audit found the Eastern Question taught from 
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 3:** *ИСТОРИЈА за осми разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за осми разред основне школе (History for the Eighth Grade of Primary School), DAISY edition; authors Živko M. Andrijašević, Sait Šabotić, Dragutin Papović, Slobodan Drobnjak. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva, Podgorica; year 2017; no ISBN printed. PDF pages: no PDF — DAISY ZIP (218,603,009 bytes, 553 entries); printed book runs to p. 111+ (text read in full from dtbook.xml, 750,490 bytes). Verdict: COMPLETE. Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.3.2 Balkan societies in the Ottoman and Habsburg empires — story beats: Balkan Christians live between a reforming sultan, an watching Austria and their own rising national movements (History expansion, 2026-11-15; original placement slug: modern-world/balkan-peoples-in-the-ottoman-and-habsburg-empires) | Montenegro, *ИСТОРИЈА за осми разред основне школе (Istorija 8)*, printed p. 64 |
+
+Montenegro's own way (ИСТОРИЈА за осми разред основне школе (Istorija 8), Grade 8 (student/teacher: STUDENT)): Two world chapters and two home chapters alternate: Europe of discoveries and revolutions, then Montenegro 1697–1851 building a theocratic state; the world to 1914, then Montenegro 1851–1914 racing to catch it — principality, wars, constitution. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Montenegro).**

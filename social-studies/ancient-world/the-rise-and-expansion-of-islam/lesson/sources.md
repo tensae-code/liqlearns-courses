@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -163,3 +163,18 @@ Kuwait's own way (Grade 11 Islamic History Term 1): Islamic History at secondary
 India's own way (Our Pasts-I, Grade 6): NCERT teaches history as a story journey — every chapter opens with a present-day child (Rasheeda, Tushar, Jaspal…) whose question starts the chapter, primary sources are quoted in boxes (the Rigveda dialogue, Ashoka's own inscription, Fa Xian, Banabhatta), an "Elsewhere" box sets India beside the wider world each chapter, and kings are taught alongside ordinary people — farmers, fishers, weavers, slaves — with the book's title itself plural: Our Pasts, because different groups lived different pasts. That way is stocked here as the way India teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India).**
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 2:** *ИСТОРИЈА за седми разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за седми разред основне школе (History for the Seventh Grade of Primary School), DAISY edition; authors Radovan Popović, Dragan Miranović. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva, Podgorica; year not printed in the DAISY front matter; no ISBN printed. PDF pages: no PDF — DAISY ZIP (304,724,745 bytes, 414 entries); printed book runs to p. 86+ (text read in full from dtbook.xml, 521,147 bytes); the book covers the 5th–17th centuries, including the first two centuries of Ottoman rule in Montenegro. Verdict: COMPLETE. Tally: 21 placements — 8 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.1.5 The Arabs and Islam — story beats: desert tribes united by a new faith step onto the world stage within a generation (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Montenegro, *ИСТОРИЈА за седми разред основне школе (Istorija 7)*, printed p. 20 |
+
+Montenegro's own way (ИСТОРИЈА за седми разред основне школе (Istorija 7), Grade 7 (student/teacher: STUDENT)): The medieval year alternates Europe and home in strict rhythm — migration, feudalism, Byzantium, the Church and Islam, then the Slavs arrive and the book stays with Duklja/Zeta (Vojislavljevići, Nemanjići, Balšići, Crnojevići) as Europe's late-medieval story frames it. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro).**

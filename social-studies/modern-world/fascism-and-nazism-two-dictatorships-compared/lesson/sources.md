@@ -1,6 +1,6 @@
 # Sources — Fascism and Nazism — two dictatorships compared
 
-countries: Ethiopia, Australia
+countries: Ethiopia, Australia, Montenegro
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -44,3 +44,18 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Australia).**
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 4:** *ИСТОРИЈА — уџбеник за девети разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА — уџбеник за девети разред основне школе (History — Textbook for the Ninth Grade of Primary School), DAISY edition; authors Slavko Burzanović, Jasmina Đorđević. Grade: Grade 9 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva, Podgorica; year 2018; no ISBN printed. PDF pages: no PDF — DAISY ZIP (261,758,608 bytes, 702 entries); printed book runs to p. 138+ (text read in full from dtbook.xml, 868,296 bytes). Verdict: COMPLETE. Tally: 27 placements — 8 to existing lessons, 19 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.1.6 The world of fascism and Nazism — story beats: democracy's failures breed movements that promise order through violence (History expansion, 2026-11-15; original placement slug: modern-world/fascism-and-nazism-two-dictatorships-compared) | Montenegro, *ИСТОРИЈА — уџбеник за девети разред основне школе (Istorija 9)*, printed p. 32 |
+
+Montenegro's own way (ИСТОРИЈА — уџбеник за девети разред основне школе (Istorija 9), Grade 9 (student/teacher: STUDENT)): The twentieth century is taught as a double story throughout — every world chapter (the wars, the revolutions, the -isms) is immediately followed by its Montenegrin/Yugoslav chapter, and the book ends where Montenegro's own story ends: the breakup of Yugoslavia and the renewal of Montenegrin independence. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Australia, Montenegro).**

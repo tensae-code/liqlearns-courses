@@ -1,6 +1,6 @@
 # Sources — Medieval world — Byzantium and Justinian
 
-countries: Ethiopia, France, Poland, Ecuador
+countries: Ethiopia, France, Poland, Ecuador, Montenegro
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -68,3 +68,19 @@ Poland's own way: Poland teaches art history as a school subject in its own righ
 Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, France, Poland, Ecuador).**
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 2:** *ИСТОРИЈА за седми разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за седми разред основне школе (History for the Seventh Grade of Primary School), DAISY edition; authors Radovan Popović, Dragan Miranović. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva, Podgorica; year not printed in the DAISY front matter; no ISBN printed. PDF pages: no PDF — DAISY ZIP (304,724,745 bytes, 414 entries); printed book runs to p. 86+ (text read in full from dtbook.xml, 521,147 bytes); the book covers the 5th–17th centuries, including the first two centuries of Ottoman rule in Montenegro. Verdict: COMPLETE. Tally: 21 placements — 8 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.1.3 Byzantium to the 13th century — story beats: Rome dies in the west and lives a thousand more years in Greek Constantinople (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Montenegro, *ИСТОРИЈА за седми разред основне школе (Istorija 7)*, printed p. 14 |
+| Montenegro part — Ch.3.4 Byzantium from the 13th century — story beats: the empire that survived a thousand years is carved up by its fellow Christians (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Montenegro, *ИСТОРИЈА за седми разред основне школе (Istorija 7)*, printed p. 57 |
+
+Montenegro's own way (ИСТОРИЈА за седми разред основне школе (Istorija 7), Grade 7 (student/teacher: STUDENT)): The medieval year alternates Europe and home in strict rhythm — migration, feudalism, Byzantium, the Church and Islam, then the Slavs arrive and the book stays with Duklja/Zeta (Vojislavljevići, Nemanjići, Balšići, Crnojevići) as Europe's late-medieval story frames it. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, France, Poland, Ecuador, Montenegro).**

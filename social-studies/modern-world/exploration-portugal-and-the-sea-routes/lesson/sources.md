@@ -1,6 +1,6 @@
 # Sources — Exploration — Portugal and the sea routes to India
 
-countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia
+countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -126,3 +126,18 @@ Kuwait's own way (Grade 12 Term 1): Grade 12 world history is a Europe-outward a
 Indonesia's own way (Sejarah untuk SMA/MA/SMK/MAK Kelas XI, Edisi Revisi, Kelas XI / Grade 11 (student/teacher: STUDENT)): the national story is told as resistance and awakening — every colonial episode is paired with the Indonesians who fought, organised, wrote or negotiated against it, and world events (1453, Versailles, the Depression, Hiroshima) are admitted only where they change Indonesia's fate. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia).**
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 2:** *ИСТОРИЈА за седми разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за седми разред основне школе (History for the Seventh Grade of Primary School), DAISY edition; authors Radovan Popović, Dragan Miranović. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva, Podgorica; year not printed in the DAISY front matter; no ISBN printed. PDF pages: no PDF — DAISY ZIP (304,724,745 bytes, 414 entries); printed book runs to p. 86+ (text read in full from dtbook.xml, 521,147 bytes); the book covers the 5th–17th centuries, including the first two centuries of Ottoman rule in Montenegro. Verdict: COMPLETE. Tally: 21 placements — 8 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.3.5 Conditions in Europe in the second half of the 15th century: European sailors who knew only the Mediterranean and a corner of the Atlantic put out onto the oceans in Portuguese and Spanish service, seeking the sea route to India — story beats: at the century's end Europe's ships leave the inland sea for the open ocean (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Montenegro, *ИСТОРИЈА за седми разред основне школе (Istorija 7)*, printed p. 62 |
+
+Montenegro's own way (ИСТОРИЈА за седми разред основне школе (Istorija 7), Grade 7 (student/teacher: STUDENT)): The medieval year alternates Europe and home in strict rhythm — migration, feudalism, Byzantium, the Church and Islam, then the Slavs arrive and the book stays with Duklja/Zeta (Vojislavljevići, Nemanjići, Balšići, Crnojevići) as Europe's late-medieval story frames it. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro).**

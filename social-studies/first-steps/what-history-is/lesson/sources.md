@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -410,3 +410,18 @@ Indonesia's own way (Buku Panduan Guru Sejarah untuk SMK Kelas X, Kelas X / Grad
 **Acceptance count: taught in 19 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia).**
 
 The teacher-guide rows above are evidence only; Indonesia's count in this lesson stands on the student book(s) stocked here.
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 1:** *ИСТОРИЈА за шести разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за шести разред основне школе (Istorija za šesti razred osnovne škole — History for the Sixth Grade of Primary School), DAISY edition. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva (ЗУНС), Podgorica; year 2016; no ISBN printed (the DAISY package metadata carries none). PDF pages: no PDF — DAISY ZIP (339,462,410 bytes, 457 entries); printed book runs to p. 113+ (text read in full from dtbook.xml, 598,153 bytes). Verdict: COMPLETE. Tally: 23 placements — 13 to existing lessons, 10 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.I Introduction to History §1: What is history? — story beats: a new pupil meets a new science whose laboratory is everything humans have ever done (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Montenegro, *ИСТОРИЈА за шести разред основне школе (Istorija 6)*, printed p. 8 |
+
+Montenegro's own way (ИСТОРИЈА за шести разред основне школе (Istorija 6), Grade 6 (student/teacher: STUDENT)): A world-history year (history itself, prehistory, the Ancient East, Greece, Rome) that lands, in its final lesson, on home ground — the Illyrian tribes and Roman ruins of Montenegro itself, so a Montenegrin child ends antiquity standing in Doclea. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro).**

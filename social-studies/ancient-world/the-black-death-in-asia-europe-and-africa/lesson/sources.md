@@ -1,6 +1,6 @@
 # Sources — The Black Death in Asia, Europe and Africa
 
-countries: Australia
+countries: Australia, Montenegro
 
 **Book (Australia aus-retroactive-1):** Title as printed: Retroactive 1 — NSW Australian Curriculum History, Stage 4, Second Edition (Jacaranda) Grade: Grade 7 record (Stage 4 = Years 7–8) (student/teacher: STUDENT) Publisher: Jacaranda / John Wiley & Sons Australia; year 2018 (second edition; first edition 2013); ISBN 978-0-7303-4800-9 PDF pages: 700 (cover verified against the record title; the PDF carries the full print book plus learnON-linked material, so PDF pages exceed the ~520 printed pages) Verdict: COMPLETE Tally: 31 placements — 21 to existing lessons, 10 NEW LESSON NEEDED Australia's own way: The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. Placements at liqlearns-courses-work/expansion-history-2026-11-15/australia-placements.md.
 
@@ -13,3 +13,18 @@ Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course 
 **Acceptance count: taught in 1 country (Australia).**
 
 Searchable tags: Australia, The Black Death in Asia, Europe and Africa, ancient-world, History expansion 2026-11-15
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 2:** *ИСТОРИЈА за седми разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за седми разред основне школе (History for the Seventh Grade of Primary School), DAISY edition; authors Radovan Popović, Dragan Miranović. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva, Podgorica; year not printed in the DAISY front matter; no ISBN printed. PDF pages: no PDF — DAISY ZIP (304,724,745 bytes, 414 entries); printed book runs to p. 86+ (text read in full from dtbook.xml, 521,147 bytes); the book covers the 5th–17th centuries, including the first two centuries of Ottoman rule in Montenegro. Verdict: COMPLETE. Tally: 21 placements — 8 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.3.2 Society in the developed and late Middle Ages — story beats: a disease arriving by ship unmakes the feudal world's numbers, wages and certainties (History expansion, 2026-11-15; original placement slug: ancient-world/the-black-death-and-late-medieval-society) | Montenegro, *ИСТОРИЈА за седми разред основне школе (Istorija 7)*, printed p. 49 |
+
+Montenegro's own way (ИСТОРИЈА за седми разред основне школе (Istorija 7), Grade 7 (student/teacher: STUDENT)): The medieval year alternates Europe and home in strict rhythm — migration, feudalism, Byzantium, the Church and Islam, then the Slavs arrive and the book stays with Duklja/Zeta (Vojislavljevići, Nemanjići, Balšići, Crnojevići) as Europe's late-medieval story frames it. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Australia, Montenegro).**

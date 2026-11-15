@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Athens and democracy
 
-countries: Ethiopia, France, Poland, Australia, Malaysia, India
+countries: Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -89,3 +89,18 @@ Malaysia's own way (Sejarah Tingkatan 1): Secondary history opens as "Our Histor
 India's own way (Our Pasts-I, Grade 6): NCERT teaches history as a story journey — every chapter opens with a present-day child (Rasheeda, Tushar, Jaspal…) whose question starts the chapter, primary sources are quoted in boxes (the Rigveda dialogue, Ashoka's own inscription, Fa Xian, Banabhatta), an "Elsewhere" box sets India beside the wider world each chapter, and kings are taught alongside ordinary people — farmers, fishers, weavers, slaves — with the book's title itself plural: Our Pasts, because different groups lived different pasts. That way is stocked here as the way India teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, France, Poland, Australia, Malaysia, India).**
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 1:** *ИСТОРИЈА за шести разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за шести разред основне школе (Istorija za šesti razred osnovne škole — History for the Sixth Grade of Primary School), DAISY edition. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva (ЗУНС), Podgorica; year 2016; no ISBN printed (the DAISY package metadata carries none). PDF pages: no PDF — DAISY ZIP (339,462,410 bytes, 457 entries); printed book runs to p. 113+ (text read in full from dtbook.xml, 598,153 bytes). Verdict: COMPLETE. Tally: 23 placements — 13 to existing lessons, 10 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.IV §4: Athenian democracy — story beats: victory over Persia makes Athens rich, imperial and democratic all at once (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-athens-and-democracy) | Montenegro, *ИСТОРИЈА за шести разред основне школе (Istorija 6)*, printed p. 65 |
+
+Montenegro's own way (ИСТОРИЈА за шести разред основне школе (Istorija 6), Grade 6 (student/teacher: STUDENT)): A world-history year (history itself, prehistory, the Ancient East, Greece, Rome) that lands, in its final lesson, on home ground — the Illyrian tribes and Roman ruins of Montenegro itself, so a Montenegrin child ends antiquity standing in Doclea. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro).**

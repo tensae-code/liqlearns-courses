@@ -1,6 +1,6 @@
 # Sources — 1789 — the French Revolution breaks out
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait
+countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -113,3 +113,18 @@ Non-History parts of this book, named in the placements, not placed here: none �
 Kuwait's own way (Grade 12 Term 2): Term 2 runs revolutions into world wars and ends the whole secondary History course at the United Nations and "the features of our contemporary world" — the present day as the final chapter. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait).**
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 3:** *ИСТОРИЈА за осми разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за осми разред основне школе (History for the Eighth Grade of Primary School), DAISY edition; authors Živko M. Andrijašević, Sait Šabotić, Dragutin Papović, Slobodan Drobnjak. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva, Podgorica; year 2017; no ISBN printed. PDF pages: no PDF — DAISY ZIP (218,603,009 bytes, 553 entries); printed book runs to p. 111+ (text read in full from dtbook.xml, 750,490 bytes). Verdict: COMPLETE. Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.3.1: The French bourgeois revolution, 1789 — story beats: France's citizens storm the old order and proclaim the rights of man (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Montenegro, *ИСТОРИЈА за осми разред основне школе (Istorija 8)*, printed p. 59 |
+
+Montenegro's own way (ИСТОРИЈА за осми разред основне школе (Istorija 8), Grade 8 (student/teacher: STUDENT)): Two world chapters and two home chapters alternate: Europe of discoveries and revolutions, then Montenegro 1697–1851 building a theocratic state; the world to 1914, then Montenegro 1851–1914 racing to catch it — principality, wars, constitution. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro).**

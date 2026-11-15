@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji
+countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -134,3 +134,18 @@ Non-History parts of this book, named in the placements, not placed here: Chapte
 Fiji's own way (Social Science Year 9 — Rediscovering Society, Year 9 (student/teacher: STUDENT)): a full "History of Fiji" chapter inside Social Science, proceeding by periods and trades — pre-contact, discovery, sandalwood, beche-de-mer, missionaries, Ma'afu and Cakobau — with named local leaders' biographies in the civics chapter. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji).**
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 3:** *ИСТОРИЈА за осми разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за осми разред основне школе (History for the Eighth Grade of Primary School), DAISY edition; authors Živko M. Andrijašević, Sait Šabotić, Dragutin Papović, Slobodan Drobnjak. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva, Podgorica; year 2017; no ISBN printed. PDF pages: no PDF — DAISY ZIP (218,603,009 bytes, 553 entries); printed book runs to p. 111+ (text read in full from dtbook.xml, 750,490 bytes). Verdict: COMPLETE. Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.3.1 The emancipation of the citizen (opening): The industrial revolution — story beats: steam frees production from muscle, and the citizen begins to be freed with it (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | Montenegro, *ИСТОРИЈА за осми разред основне школе (Istorija 8)*, printed p. 56 |
+
+Montenegro's own way (ИСТОРИЈА за осми разред основне школе (Istorija 8), Grade 8 (student/teacher: STUDENT)): Two world chapters and two home chapters alternate: Europe of discoveries and revolutions, then Montenegro 1697–1851 building a theocratic state; the world to 1914, then Montenegro 1851–1914 racing to catch it — principality, wars, constitution. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro).**

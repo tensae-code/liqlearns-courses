@@ -1,6 +1,6 @@
 # Sources — The First World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal
+countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 133).
 
@@ -90,3 +90,18 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Nepal's own way (Samajik Adhyayan, Class 10, Grade 10): Grade 10 history is the modern political story told as one dated chain — the 2007 BS revolution and the Delhi Compromise, the democratic decade, the Panchayat years, the movements of 2046 and 2062/63 BS, the civil-war peace and the republic — followed by the two World Wars, each with Nepal's own role in it, and a closing fieldwork lesson on finding and preserving local historical sites. That way is stocked here as the way Nepal teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal).**
+
+
+---
+
+## History expansion (2026-11-15) — Montenegro stocked
+
+**Book 4:** *ИСТОРИЈА — уџбеник за девети разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА — уџбеник за девети разред основне школе (History — Textbook for the Ninth Grade of Primary School), DAISY edition; authors Slavko Burzanović, Jasmina Đorđević. Grade: Grade 9 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva, Podgorica; year 2018; no ISBN printed. PDF pages: no PDF — DAISY ZIP (261,758,608 bytes, 702 entries); printed book runs to p. 138+ (text read in full from dtbook.xml, 868,296 bytes). Verdict: COMPLETE. Tally: 27 placements — 8 to existing lessons, 19 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Montenegro part — Ch.1.1 The First World War — story beats: two bullets in a Balkan city give the armed alliances their excuse (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-causes) | Montenegro, *ИСТОРИЈА — уџбеник за девети разред основне школе (Istorija 9)*, printed p. 10 |
+
+Montenegro's own way (ИСТОРИЈА — уџбеник за девети разред основне школе (Istorija 9), Grade 9 (student/teacher: STUDENT)): The twentieth century is taught as a double story throughout — every world chapter (the wars, the revolutions, the -isms) is immediately followed by its Montenegrin/Yugoslav chapter, and the book ends where Montenegro's own story ends: the breakup of Yugoslavia and the renewal of Montenegrin independence. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro).**
