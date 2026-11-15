@@ -1,6 +1,6 @@
 # Sources — Kinds of Natural Resources
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh, Turkmenistan, Indonesia, Bahamas, Samoa
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh, Turkmenistan, Indonesia, Bahamas, Samoa, Zimbabwe
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 45).
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh,
 
 **Book 15:** *Social Studies — Year 9, Book 1* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-008-5. Title as printed: Social Studies — Year 9, Book 1. Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Unit 4 Being Part of a Group, printed pp. 57–83 (groups people belong to, how villages are organised, Tonga, women kautaha in Tonga, the political system of Tonga — Sociology/Civics)). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 16:** *PlusOne Social Science Grade 3 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved)* (teacher guide, English) — Secondary Book Press, Harare; year 2025; ISBN 978-1-77934-506-5. Title as printed: PlusOne Social Science Grade 3 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved). Grade 3 (student/teacher: TEACHER). PDF pages: 174 (cover verified against the record title; byte size 5,433,260 = record size, 174 pp = record pages; fetched via grab.py release route). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Topic 1 Identity Units 1–5 (printed pp. 1–17); Topic 2 National history Units 6–8 events, symbols, local heroes (pp. 18–31, History/Civics); Topic 3 Heritage Units 9–11 family relationships, socialisation, ceremonies (pp. 32–38); Topic 4 Units 14–15 leisure facilities, games (pp. 45–52); Topic 8 Managing change Unit 28 (p. 89); Topic 9 Social etiquette Units 29–31 (pp. 92–103); Topic 10 Rights Units 32–34 (pp. 104–114, civics); Topic 11 Health Units 35–37 (pp. 117–126); Topic 12 Career/financial Units 38–39 (pp. 127–132); Topic 13 Religion Units 40–43 (pp. 133–144); Topic 14 Social services Units 44–45 (pp. 145–154).). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/zimbabwe-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils list and classify their locality's resources before the book classifies | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed p. 61 |
@@ -52,8 +54,9 @@ countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh,
 | Indonesia part (Grade 11, teacher guide — evidence) — Bab I Panduan pembelajaran: Potensi Sumber Daya Alam Indonesia dan pengaruhnya terhadap kehidupan (teaching guide) | Indonesia, *Panduan Guru Geografi untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide), Grade 11, Bab I Panduan pembelajaran: Potensi Sumber Daya Alam Indonesia dan pengaruhnya terhadap kehidupan (teaching guide) — printed p. 67 |
 | Bahamas part (Grade 3) — Natural Resources: kinds of resources and their uses — air and wind power, salt and fresh water, soil and plants, minerals and fuels | Bahamas, *Social Science, Grade 3*, Grade 3, Natural Resources: kinds of resources and their uses — air and wind power, salt and fresh water, soil and plants, minerals and fuels — printed pp. 39–41 |
 | Samoa part (Year 9, Book 1) — Unit 1 Topic 2 Our Resources | Samoa, *Social Studies, Year 9, Book 1*, Unit 1 Topic 2 Our Resources — printed p. 12 |
+| Zimbabwe part (Grade 3) — Unit 12: Natural resources (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 3 Teacher's Guide* (teacher guide), Unit 12: Natural resources — printed p. 39 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh, Turkmenistan, Indonesia, Bahamas, Samoa). Sweden is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh, Turkmenistan, Indonesia, Bahamas, Samoa). Sweden is named here as teacher-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -84,3 +87,5 @@ Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geo
 Bahamas' own way (Grade 3): The integrated Social Science pattern continues, but Grade 3 adds a distinct Bahamas-geography block in the middle of the book: a full map study of the archipelago (700 islands and cays, Family Islands, three sections), inter-island travel by Bahamasair, fast ferry and mailboat, and an island-by-island inventory of natural resources (Andros crabs, Abaco farming, Grand Bahama citrus and sponge), closing with Hurricane Dorian (2019) as the national extreme-weather case.
 
 Samoa's own way (Year 9, Book 1): Geography is taught through Samoa's own resources first — environment, land, rainforest, water and marine resources of Samoa itself, then how resources are shared out in Samoan community life.
+
+Zimbabwe's own way (Grade 3) (teacher guide — evidence): Grade 3 transport opens with the relationship between population and transport systems, then road accidents, pedestrian and passenger safety; global issues are drought, afforestation and reforestation. Contents numbering jumps from Unit 23 to Unit 25 (no Unit 24 listed). That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.

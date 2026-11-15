@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1071**
+Geography lessons across the eight Geography titles: **1092**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -633,3 +633,27 @@ Pacific Cooperation and Interdependence and
 Tropical Cyclones as Natural Hazards.
 (All 40 stand on Samoa's student books,
 counted in acceptance.)
+
++21 for Zimbabwe, 2026-11-14 — First Steps: My Country
+Zimbabwe — Its Shape on the Map; The Land and Air:
+Shelters Around the World; Population, Transport and
+Maps: Means of Communication — From Talk to Phones,
+Shelter — Homes for People and Animals, Development of
+Transport and Communication in Zimbabwe, Animal
+Transport — Riding, Leading and Herding, Hazards and
+Disasters in Transport and Communication, Population
+and Transport Systems — How They Shape Each Other, Why
+the Need for Transport Grows, Major Roads and Railways
+of Zimbabwe, Importance of Transport, Communication and
+ICTs, Zimbabwe's Transport and Communication Links with
+Other Countries and Development of Settlements in
+Zimbabwe; People and Resources: National Strategic
+Reserves — Keeping Grain and Essentials; Culture and
+Work: Indigenous and Modern Ways of Preserving Food;
+Resources and Conflict: Zimbabwe's Land Reform
+Programme; Global Issues: Natural and Human-Made
+Disasters Near Home, Veldfires — Causes, Prevention and
+Safety, Building Safely in Disaster-Prone Areas,
+Afforestation and Reforestation — Planting Trees Back
+and Disaster and Risk Management.
+(All 21 stand on Zimbabwe's teacher guides, cited as teacher-guide evidence only, counted nowhere in acceptance.)

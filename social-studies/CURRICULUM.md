@@ -2887,3 +2887,70 @@ Natural Hazards (Y13, printed p. 58) — the new
 lessons taught in 1 country (Samoa), 8 questions
 each.
 Geography lessons: 1031 → 1071.
+
+
+## Zimbabwe — Geography expansion (merged 2026-11-14)
+102 placements stocked from Zimbabwe's 9 distinct books
+— the PlusOne Social Science (Heritage-Based
+Curriculum, MoPSE approved) teacher guides for ECD A,
+ECD B and Grades 1, 2, 3, 4, 5, 6 and 7 (Secondary Book
+Press, Harare, 2025, all COMPLETE; 18 records / 9
+distinct books — each book appears twice, TSV +
+books.json, same repo path, read once). All 102
+placements are teacher-guide evidence, cited as the
+evidence they are, outside acceptance counts: Zimbabwe
+is added to each stocked lesson's countries line and
+named as teacher-guide evidence only, and every new
+lesson below stands on teacher-guide evidence only
+(acceptance count 0 countries). The guides are combined
+Social Science books — their History, Civics, Health,
+Religion and Career parts are named in each book's
+sources, not placed. Stocked into standing lessons (63
+placements) across First Steps, Population, Transport
+and Maps, People and Resources, Culture and Work,
+Resources and Conflict and Global Issues. No placement
+was remapped: every NEW LESSON NEEDED slug names a
+thing no standing lesson covers. 21 NEW lessons built
+(39 placements) — **First Steps**: My Country Zimbabwe
+— Its Shape on the Map (ECD A, printed p. 7; Grade 1,
+printed p. 11); **The Land and Air**: Shelters Around
+the World (Grade 4, printed p. 75); **Population,
+Transport and Maps**: Means of Communication — From
+Talk to Phones (ECD A, printed p. 28; ECD B, printed p.
+36; Grade 1, printed p. 38; Grade 2, printed p. 30;
+Grade 5, printed p. 64; Grade 3, printed p. 55),
+Shelter — Homes for People and Animals (ECD A, printed
+p. 30; ECD B, printed p. 38; Grade 1, printed p. 40;
+Grade 2, printed p. 33; Grade 5, printed p. 66; Grade
+7, printed p. 46; Grade 3, printed p. 72; Grade 3,
+printed p. 76; Grade 4, printed p. 73), Development of
+Transport and Communication in Zimbabwe (Grade 5,
+printed p. 51), Animal Transport — Riding, Leading and
+Herding (Grade 5, printed p. 59), Hazards and Disasters
+in Transport and Communication (Grade 7, printed p.
+37), Population and Transport Systems — How They Shape
+Each Other (Grade 3, printed p. 53), Why the Need for
+Transport Grows (Grade 4, printed p. 62), Major Roads
+and Railways of Zimbabwe (Grade 4, printed p. 64),
+Importance of Transport, Communication and ICTs (Grade
+6, printed p. 39), Zimbabwe's Transport and
+Communication Links with Other Countries (Grade 6,
+printed p. 45), Development of Settlements in Zimbabwe
+(Grade 6, printed p. 48); **People and Resources**:
+National Strategic Reserves — Keeping Grain and
+Essentials (Grade 5, printed p. 38); **Culture and
+Work**: Indigenous and Modern Ways of Preserving Food
+(Grade 7, printed p. 20); **Resources and Conflict**:
+Zimbabwe's Land Reform Programme (Grade 7, printed p.
+11); **Global Issues**: Natural and Human-Made
+Disasters Near Home (ECD A, printed p. 35; ECD B,
+printed p. 46; Grade 1, printed p. 46; Grade 2, printed
+p. 39), Veldfires — Causes, Prevention and Safety
+(Grade 1, printed p. 44), Building Safely in
+Disaster-Prone Areas (Grade 5, printed p. 70; Grade 4,
+printed p. 77), Afforestation and Reforestation —
+Planting Trees Back (Grade 3, printed p. 83), Disaster
+and Risk Management (Grade 6, printed p. 52) — the new
+lessons stand on teacher-guide evidence only
+(acceptance count 0 countries), 8 questions each.
+Geography lessons: 1071 → 1092.

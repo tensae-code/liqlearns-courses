@@ -1,6 +1,6 @@
 # Sources — Culture — cultural values
 
-countries: Ethiopia, Mongolia
+countries: Ethiopia, Mongolia, Zimbabwe
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -8,17 +8,22 @@ countries: Ethiopia, Mongolia
 
 **Book 3:** *Нийгэм судлал VIII (Social Studies VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VIII (Social Studies VIII). Grade: Grade 8 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 32,655,646 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
+**Book 4:** *PlusOne Social Science Grade 6 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved)* (teacher guide, English) — Secondary Book Press, Harare; year 2025; ISBN 978-1-77928-502-7. Title as printed: PlusOne Social Science Grade 6 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved). Grade 6 (student/teacher: TEACHER). PDF pages: 147 (cover verified against the record title; byte size 6,094,087 = record size, 147 pp = record pages; fetched via grab.py release route). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Topic 1 Identity Units 1–2 (printed pp. 1–4); Topic 2 National history Units 5–10 governance, colonisation, Chimurenga liberation history, symbols (pp. 10–23, History/Civics); Topic 3 Heritage Units 11–14 courtship, marriage, heirship (pp. 24–32); Topic 4 Unit 17 Responsibility at work (p. 37); Topic 8 Units 27–28 Peer influence (pp. 60–63); Topic 9 Unit 29 Norms and values (p. 64); Topic 10 Units 30–32 law-making, gender, workplace equity (pp. 68–74, civics); Topic 11 Health Units 34–39 (pp. 77–89); Topic 12 Units 40–41 Career/financial (pp. 90–94); Topic 13 Religion Units 42–53 (pp. 95–121); Topic 14 Unit 54 Social services in Zimbabwe (p. 122).). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/zimbabwe-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — How a society judges | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 47 |
 | Sub lesson 2 — Every culture has its own | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 47 |
 | Mongolia part — Where does the importance of a person's culture lie? | Mongolia, *Нийгэм судлал VII (Social Studies VII)*, Grade 7, Chapter II Individual and Culture: 2.1 Where does the importance of a person's culture lie? — printed p. 23 |
 | Mongolia part — Culture is norms | Mongolia, *Нийгэм судлал VIII (Social Studies VIII)*, Grade 8, Chapter II Individual and Culture: 2.2 Culture is norms — printed p. 30 |
+| Zimbabwe part (Grade 6) — Unit 4: Preservation of cultural identity (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 6 Teacher's Guide* (teacher guide), Unit 4: Preservation of cultural identity — printed p. 7 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mongolia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Mongolia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Mongolia's own way (Grade 7): the Grade 7 year works at the scale of the child's own life — my groups, my culture, my family's economy and budget, our school — before the local-area year in Grade 8. The book's Sociology parts (Chapter I, printed pp. 7–13) and Law/Civics parts (Chapters IV–V, printed pp. 59–93) are named in the placements, not placed. Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
 Searchable tags: culture: cultural values, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал
+
+Zimbabwe's own way (Grade 6) (teacher guide — evidence): Grade 6 shelter becomes settlement geography — development of settlements in Zimbabwe, siting of shelter in rural and urban areas, and disaster and risk management; transport adds road signs/signals/markings and Zimbabwe's transport and communication links with other countries, plus ICT development. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.

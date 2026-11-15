@@ -1,18 +1,23 @@
 # Sources — Road safety — what accidents cost
 
-countries: Ethiopia
+countries: Ethiopia, Zimbabwe
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 **Book 2:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (Unit 2, and §3.2 for the optimum-population lesson).
+
+**Book 3:** *PlusOne Social Science Grade 3 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved)* (teacher guide, English) — Secondary Book Press, Harare; year 2025; ISBN 978-1-77934-506-5. Title as printed: PlusOne Social Science Grade 3 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved). Grade 3 (student/teacher: TEACHER). PDF pages: 174 (cover verified against the record title; byte size 5,433,260 = record size, 174 pp = record pages; fetched via grab.py release route). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Topic 1 Identity Units 1–5 (printed pp. 1–17); Topic 2 National history Units 6–8 events, symbols, local heroes (pp. 18–31, History/Civics); Topic 3 Heritage Units 9–11 family relationships, socialisation, ceremonies (pp. 32–38); Topic 4 Units 14–15 leisure facilities, games (pp. 45–52); Topic 8 Managing change Unit 28 (p. 89); Topic 9 Social etiquette Units 29–31 (pp. 92–103); Topic 10 Rights Units 32–34 (pp. 104–114, civics); Topic 11 Health Units 35–37 (pp. 117–126); Topic 12 Career/financial Units 38–39 (pp. 127–132); Topic 13 Religion Units 40–43 (pp. 133–144); Topic 14 Social services Units 44–45 (pp. 145–154).). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/zimbabwe-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The world's and Ethiopia's toll | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 44 |
 | What one accident takes | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 44 |
 | What one accident takes — the economic bill (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed pp. 34–36 |
+| Zimbabwe part (Grade 3) — Unit 19: Road accidents (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 3 Teacher's Guide* (teacher guide), Unit 19: Road accidents — printed p. 61 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
 Searchable tags: traffic accidents, road deaths, Ethiopian study, students, accident harms, duties
+
+Zimbabwe's own way (Grade 3) (teacher guide — evidence): Grade 3 transport opens with the relationship between population and transport systems, then road accidents, pedestrian and passenger safety; global issues are drought, afforestation and reforestation. Contents numbering jumps from Unit 23 to Unit 25 (no Unit 24 listed). That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
