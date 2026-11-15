@@ -1,6 +1,6 @@
 # Sources — The Atmosphere — Its Gases and Layers
 
-countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombia, India
+countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombi
 
 **Book 10:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 11:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The air blanket's recipe | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombi
 | Colombia part (CS_Grado06 Secundaria Activa) — Unidad 1 Cap. 2 Tema 6 El aire de la Tierra | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 6 (module)*, Unidad 1 Cap. 2 Tema 6 El aire de la Tierra — printed p. 47 |
 | India part (Grade 6 The Earth Our Habitat) — Ch.5: composition and five layers of the atmosphere, air pressure | India, *India Grade 6 The Earth Our Habitat*, Ch.5: composition and five layers of the atmosphere, air pressure — printed p. 35 |
 | India part (Grade 7 Our Environment) — Ch.4 Air: composition of the atmosphere and its layers | India, *India Grade 7 Our Environment*, Ch.4 Air: composition of the atmosphere and its layers — printed p. 20 |
+| Cambodia part — Ch.3 L1 លក្ខណៈបរិយាកាស (characteristics of the atmosphere) [placement slug: the-land-and-air/air-the-atmosphere-around-us] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L1 លក្ខណៈបរិយាកាស (characteristics of the atmosphere) — printed p. 94 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa, Colombia, India). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -59,3 +62,5 @@ Colombia's own way (CS_Grado06 Secundaria Activa): Grade 6 Secundaria Activa sta
 India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.
 
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
+
+Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.

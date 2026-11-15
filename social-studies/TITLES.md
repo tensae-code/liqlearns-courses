@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1361**
+Geography lessons across the eight Geography titles: **1398**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -864,3 +864,29 @@ Highland Water Project — Case Study, Sustainable Water
 Supplies, Global Energy Supply and Demand, Impacts of
 Energy Insecurity, Increasing Energy Supply and
 Sustainable Energy Production.
+
++37 for Cambodia, 2026-11-14 — Earth and Space: Mass
+and Gravity — Keeping Us Grounded; The Land and Air:
+Brunei — Country Profile, Cambodia — Country Profile,
+China — Country Profile, Daily Life in the Polar
+Regions, Fresh Water on Earth, India — Country Profile,
+Indonesia — Country Profile, Japan — Country Profile,
+Laos — Country Profile, Life and Work in the Coastal
+Zone, Malaysia — Country Profile, Myanmar — Country
+Profile, Philippines — Country Profile, Thailand —
+Country Profile, Timor-Leste — Country Profile, United
+States — Country Profile, Vietnam — Country Profile and
+Weather and Climate of Cambodia; Population, Transport
+and Maps: Cambodia's Regions and Towns and Where
+Cambodia's People Live; People and Resources:
+Cambodia's Development Challenges, Cambodia's Mineral
+Resources, Global Finance and Capital Flows, Land Use
+in Cambodia's Regions, Newly Industrialised Countries
+of Asia-Pacific, Oasis Life in the Desert, Reclaiming
+and Expanding Farmland and World Economic Growth Poles;
+Culture and Work: Festivals Through the Year —
+Cambodia, Khmer Dance and Music Heritage and National
+Traditional Festivals — Cambodia; Global Issues: A
+World System Being Reordered, Noise Pollution, Solid
+Waste and Disposal, The European Union as an Economic
+Space and Understanding the Environment.

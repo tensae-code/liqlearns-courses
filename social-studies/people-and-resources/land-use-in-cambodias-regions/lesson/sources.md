@@ -1,0 +1,21 @@
+# Sources — Land Use in Cambodia's Regions
+
+countries: Cambodia
+
+**Book 1:** *សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House (គ្រឹះស្ថានបោះពុម្ពនិងចែកចាយ); year 2020 (12th printing); ISBN no ISBN printed. Title as printed: សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4) — Sala 00004333. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 113. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Non-Geography parts named, not placed: Ch.1 គំនិតល្អ (good conduct — goal-setting, honesty, children's rights, art, printed pp.1–36, Civics/Life Skills); Ch.2 ការរក្សាសុខភាពផ្ទាល់ខ្លួន (personal health care, printed pp.37–52, Science/Health); Ch.3 L4 អំណាចនីតិប្រតិបត្តិ (legislative/executive power, printed p.76) and L5 អាជ្ញាធរដែនដី (territorial authority, printed p.82, Civics); Ch.4 ជីវភាពសង្គមពីអតីតកាល (social life in the past — ancient buildings, life in ancient times, printed pp.95–112, History). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
+**Book 2:** *សិក្សាសង្គម ថ្នាក់ទី៥ (Social Studies, Grade 5)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; ISBN no ISBN printed. Title as printed: សិក្សាសង្គម ថ្នាក់ទី៥ (Social Studies, Grade 5) — Sala 00004332. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 129. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Non-Geography parts named, not placed: Ch.1 គីយាបថ្ល (conduct — goal-setting, manners and values, rights and responsibility, creativity, printed pp.1–38, Civics/Life Skills); Ch.2 គីយាបថប្រកបដោយសុខភាព (healthy conduct — avoiding danger, health care when sick, printed pp.39–52, Science/Health); Ch.3 L4 អំណាចនីតិបញ្ញត្តិ (legislative power, printed p.76, Civics); Ch.4 L3 សំណង់អគារបុរាណ (ancient buildings, printed p.102), L4 សម័យចេនឡា (Chenla era, printed p.108), L5 សម័យអង្គរ (Angkor era, printed p.116, History). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Ch.3 L6 ការប្រើប្រាស់ដីនៅតាមតំបន់នានា (land use in the different regions) | Cambodia, *Cambodia Grade 4 Social Studies*, Ch.3 L6 ការប្រើប្រាស់ដីនៅតាមតំបន់នានា (land use in the different regions) — printed p. 88 |
+| Sub lesson 1 — Ch.3 L5 ការប្រើប្រាស់ដីនៅតាមទីតាំងនានា (land use in various locations) | Cambodia, *Cambodia Grade 5 Social Studies*, Ch.3 L5 ការប្រើប្រាស់ដីនៅតាមទីតាំងនានា (land use in various locations) — printed p. 82 |
+| Sub lesson 2 — Cambodia's way — the book's own teaching way | Cambodia — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Cambodia).**
+
+Cambodia's own way (Cambodia Grade 4 Social Studies): Geography enters primary Social Studies inside a “society and culture” chapter — festivals, the value of work and regional land use taught from Cambodian village life before any map work.
+
+Cambodia's own way (Cambodia Grade 5 Social Studies): the same four-chapter frame as Grade 4, spiralling up — culture and land use return at a higher level, and the past chapter adds Khmer art motifs and traditional instruments as living heritage.
+
+Searchable tags: land use in cambodias regions, Cambodia, social studies, people-and-resources

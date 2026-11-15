@@ -1,16 +1,21 @@
 # Sources — Weather Forecasting
 
-countries: North Macedonia
+countries: North Macedonia, Cambodia
 
 **Book 1:** *Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education)* (student book, Macedonian) — North Macedonia, Тримакс (Trimaks), Skopje; year 2025; ISBN 978-608-204-519-1; author Prof. Dr. Blagoja Markoski; approved by the National Textbook Commission, decision 26-936/1 of 26.08.2025. Title as printed: Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education). Grade: Grade 10 / gymnasium Year 1 (student/teacher: STUDENT). PDF pages: 128 (cover/title verified against the record; matches the record's 128 pages). Verdict: COMPLETE. Records note: 11 records / 6 distinct books (2 TSV blob records for Grades 7 and 9 + 6 books.json records for Grades 7–12, of which Grades 7 and 9 duplicate the TSV records; plus 3 link_records from Telegram for Grades 8, 11 and 12, which are the same 3 books as the books.json Grade 8/11/12 records) / Grades 7, 9, 10 read full page-by-page via pdftotext -layout after cover verification (fetched by git sparse-checkout from the repo tree — the API routes truncated every transfer over ~21 MB, git transport verified the blobs itself). Grades 8, 11, 12 filed UNREAD: their files are NOT in the repo tree (verified by git ls-tree on main), NOT in any GitHub release (all 12 release tags searched), their phase3-staging geography/student folders are empty, the ministry source URLs now return 404, and Wayback holds no snapshot of the Macedonian Grade 8/11/12 editions — the only remaining copy is the Telegram channel named in the link records, which needs a Telegram browser task. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/north-macedonia-placements.md.
+
+**Book 2:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — 13. Временска прогноза | North Macedonia, *North Macedonia Grade 10 mk-g10*, 13. Временска прогноза — printed p. 36 |
 | Sub lesson 2 — North Macedonia's way — the book's own teaching way | North Macedonia — the books' own way of teaching (see below) |
+| Cambodia part — Ch.3 L11 ការព្យាករធាតុអាកាសនិងការប្រែប្រួលអាកាសធាតុ (weather forecasting and climate change) [placement slug: the-land-and-air/reading-the-sky-forecasting-the-weather] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L11 ការព្យាករធាតុអាកាសនិងការប្រែប្រួលអាកាសធាតុ (weather forecasting and climate change) — printed p. 164 |
 
-**Acceptance count: taught in 1 country (North Macedonia).**
+**Acceptance count: taught in 2 countries (North Macedonia, Cambodia).**
 
 North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geography as a systems science — Theme 1 works through the four spheres (lithosphere, atmosphere, hydrosphere, biosphere) lesson by lesson, then natural disasters by sphere; Theme 2 turns to people in geographical space (world urbanisation, energy, farming, industry, transport and trade, tourism, environmental impact); Theme 3 treats the world as one global system (globalisation, transport corridors and sea straits/canals, global networks and navigation systems, international organisations, global challenges and climate-change solutions). 43 numbered lessons.
 
 Searchable tags: weather forecasting, North Macedonia, social studies, the-land-and-air
+
+Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.

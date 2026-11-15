@@ -1,6 +1,6 @@
 # Sources — Water — Pollution and Shrinking Clean Water
 
-countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia
+countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 110).
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia
 
 **Book 6:** *Geografi untuk SMA Kelas XI* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kemendikbudristek; year 2021 (Cetakan Pertama); ISBN 978-602-244-846-4 (jil. 1); author Budi Handoyo. Title as printed: Geografi untuk SMA Kelas XI. Grade 11 / SMA Kelas XI (student). 248 PDF pp. (cover verified: "Geografi — SMA Kelas XI", Budi Handoyo, Kemendikbudristek). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" (penerbitcmedia.com/download1/BSE/.../g11_geografi.pdf) and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records; the books.json tree paths return 404 because the files live in releases, not the tree). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
 
+**Book 7:** *ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-018 (printed as 9-789-995-001-018). Title as printed: ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11) — Sala 00004288. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
+**Book 8:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Water pollution (Grade 7 depth): pollution of lakes, rivers, seas, oceans and groundwater; polluted water changes nature, cannot renew itself, loses physical quality, biological content and economic use; the kebele audit task | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 150–151 |
@@ -23,8 +27,10 @@ countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia
 | Bolivia part — Contamination of surface and underground water sources in Bolivia, above all from gold mining | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 1*, Grade 7, Contamination of surface and underground water sources in Bolivia, above all from gold mining — printed p. 23 |
 | Bangladesh part (Grade 7) — Protecting groundwater: class poster inquiry | Bangladesh, *History and Social Science, Class Seven*, Grade 7, Protecting groundwater: class poster inquiry — printed p. 148 |
 | Indonesia part (Grade 11) — Bab 3 I.E Pencemaran air, pantai dan laut, tanah | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 I.E Pencemaran air, pantai dan laut, tanah — printed p. 127 |
+| Cambodia part — Ch.3 L4 បញ្ហាសមុទ្រ (problems of the sea) | Cambodia, *Cambodia Grade 11 Geography*, Ch.3 L4 បញ្ហាសមុទ្រ (problems of the sea) — printed p. 82 |
+| Cambodia part — Ch.2 L4 ការបំពុលទឹក (water pollution) | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.2 L4 ការបំពុលទឹក (water pollution) — printed p. 84 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Bangladesh, Indonesia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Bangladesh, Indonesia, Cambodia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -37,3 +43,7 @@ Bolivia's own way (Grade 7, Secundaria 1): The Bolivian Texto de Aprendizaje run
 Searchable tags: water pollution, clean water shortage, desalination, water saving, Abay, groundwater, 80 countries, Ethiopia Grade 7 and Grade 8 Social Studies Chapter 7, Jamaica, curriculum guide evidence, Bolivia, Ciencias Sociales Bolivia
 
 Bangladesh's own way (Grade 7): Geography thins into economic history and a long Sustainable Development inquiry: pupils build a delta in a sand tray, trace the rivers that enter Bangladesh from other countries, map the country's new maritime boundary and its minerals, and audit groundwater and fossil fuels — the delta and the sea are the classroom.
+
+Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary Geography book is a human-impact course — people reshaping the earth, people destroying natural resources, the sea, pollution of air/water/noise/waste, economic globalisation, city and countryside, and a world of uneven development.
+
+Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.

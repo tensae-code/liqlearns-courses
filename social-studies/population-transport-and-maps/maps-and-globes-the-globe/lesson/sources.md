@@ -1,6 +1,6 @@
 # Sources — Maps and globes — the globe
 
-countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India
+countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India
 
 **Book 6:** *The Earth : Our Habitat — Textbook in Geography for Class VI (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition February 2006, this copy reprint 2020-21; ISBN 81-7450-491-5. Title as printed: The Earth : Our Habitat — Textbook in Geography for Class VI (Social Science). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title — cover render checked: "The Earth : Our Habitat, Textbook in Geography for Class VI, NCERT 2020-21"; grabbed via grab.py release route, 23,496,254 bytes, SHA/size verified by grab.py; duplicate TSV + books.json records grade-06/gov/india/the-earth-our-habitat.pdf counted once). Verdict: COMPLETE — 8 chapters, printed pp. 1-64 + appendices. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 7:** *សិក្សាសង្គម ថ្នាក់ទី៦ (Social Studies, Grade 6)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; ISBN no ISBN printed. Title as printed: សិក្សាសង្គម ថ្នាក់ទី៦ (Social Studies, Grade 6) — Sala 00004323. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 129. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Non-Geography parts named, not placed: Ch.1 ឥរិយាបថល្អ (good conduct — goal-setting, conduct and values, rights and responsibility, art and change, printed pp.1–32, Civics/Life Skills); Ch.2 ឥរិយាបថប្រកបដោយសុខភាព (healthy conduct — avoiding danger, the harm of traffic accidents, printed pp.33–50, Science/Health); Ch.3 L4 គុណភាព (quality — school levels and education quality in Cambodia, printed p.76, Civics/Education); Ch.4 L2 សម័យចតុមុខ (Chaktomuk era, printed p.102), L3 សម័យលង្វែក (Longvek era, printed p.110), L4 ទីតាំងរាជធានីនៅឧដុង្គ និងទំនាស់ផ្ទៃក្នុង (the capital at Oudong and internal conflict, printed p.118, History). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 45 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India
 | Dominican Republic part (Grade 5) — We build a terrestrial globe (group activity) | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, We build a terrestrial globe (group activity) — printed p. 18 |
 | Eritrea part (ER G4 Social Studies) — Chapter 6: 6.2 The globe | Eritrea, *ER G4 Social Studies*, Chapter 6: 6.2 The globe — printed p. 72 |
 | India part (Grade 6 The Earth Our Habitat) — Ch.2 Globe: Latitudes and Longitudes: the globe as true model of the Earth, axis and poles | India, *India Grade 6 The Earth Our Habitat*, Ch.2 Globe: Latitudes and Longitudes: the globe as true model of the Earth, axis and poles — printed p. 10 |
+| Cambodia part — Ch.3 L5 §2 ភូគោល (the globe) | Cambodia, *Cambodia Grade 6 Social Studies*, Ch.3 L5 §2 ភូគោល (the globe) — printed p. 85 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sweden, Dominican Republic, Eritrea, India). Sweden's teacher guide is named here as evidence only, counted nowhere — Sweden counts through its student training material.**
+**Acceptance count: taught in 6 countries (Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia). Sweden's teacher guide is named here as evidence only, counted nowhere — Sweden counts through its student training material.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -34,3 +37,5 @@ Dominican Republic's own way (Grade 5): Three geography units climb from the pla
 Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teaches Geography through the child's own surroundings first — our environment, protecting our soil, water, plants and animals, then maps and globes, community life, and the shapes of the land.
 
 India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.
+
+Cambodia's own way (Cambodia Grade 6 Social Studies): the primary Social Studies spiral ends with its first real map work — maps, the globe and the equator/parallels/meridians grid taught inside the “society today” chapter, anchored on a world map with Cambodia marked.

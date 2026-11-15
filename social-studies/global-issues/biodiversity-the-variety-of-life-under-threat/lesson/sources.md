@@ -1,6 +1,6 @@
 # Sources — Biodiversity — the variety of life, under threat
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India
+countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh
 
 **Book 13:** *Contemporary India-II — Textbook in Geography for Class X (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition January 2006, this copy reprint 2020-21; ISBN 81-7450-644-6. Title as printed: Contemporary India-II — Textbook in Geography for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 101 (cover render verified: "Contemporary India II, Textbook in Geography for Class X, NCERT 2020-21"; grabbed via grab.py release route, 15,769,167 bytes; duplicate TSV + books.json records grade-10/gov/india/class10-social-science-geography.pdf counted once). Verdict: COMPLETE — 7 chapters, printed pp. 1-91 + appendices and glossary to p. 96. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 14:** *ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-018 (printed as 9-789-995-001-018). Title as printed: ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11) — Sala 00004288. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Variety at every scale | G12 student #63, printed pp. 157–159 |
@@ -50,8 +52,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh
 | Colombia part (Insertos_sociales_05_Cartilla_02) — Questions 4 and 13: examples of natural landscape; what biodiversity means | Colombia, *Desafío por Colombia (board-game insert for Ciencias Sociales 5, Cartilla 2)*, Questions 4 and 13: examples of natural landscape; what biodiversity means — printed p. 1 (sheet) |
 | India part (Grade 8 Resources and Development) — Ch.2: conserving natural vegetation and wildlife — national parks, sanctuaries and biosphere reserves | India, *India Grade 8 Resources and Development*, Ch.2: conserving natural vegetation and wildlife — national parks, sanctuaries and biosphere reserves — printed p. 18 |
 | India part (Grade 10 Contemporary India-II) — Ch.2 Forest and Wildlife Resources: biodiversity; flora and fauna classed as normal, endangered, vulnerable, rare, endemic and extinct | India, *India Grade 10 Contemporary India-II*, Ch.2 Forest and Wildlife Resources: biodiversity; flora and fauna classed as normal, endangered, vulnerable, rare, endemic and extinct — printed p. 14 |
+| Cambodia part — Ch.2 L4 ការជូតពូជសត្វនិងរុក្ខជាតិ (the disappearance of animal and plant species) | Cambodia, *Cambodia Grade 11 Geography*, Ch.2 L4 ការជូតពូជសត្វនិងរុក្ខជាតិ (the disappearance of animal and plant species) — printed p. 52 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India).**
+**Acceptance count: taught in 12 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -80,3 +83,5 @@ Colombia's own way (Insertos_sociales_05_Cartilla_02): the Grade 5 review game i
 India's own way (Grade 8 Resources and Development): Grade 8 is a resources year, world-first but India-anchored throughout: resources and their conservation, then land/soil/water/vegetation, minerals and power, agriculture, industries and human resources — every world pattern is paired with its Indian distribution map and an Indian case study (Jamshedpur steel, Ahmedabad textiles, Bangalore IT, a farm in India set against a farm in the USA).
 
 India's own way (Grade 10 Contemporary India-II): Contemporary India-II is the human/economic book, matching Part I's physical book: India's resources, forests, water, agriculture, minerals and energy, manufacturing and the "lifelines" (transport, communication, trade) — taught throughout as development-versus-environment argument, with movements and case studies (Chipko, Narmada Bachao, rooftop rainwater harvesting in the Thar) carrying the criticism.
+
+Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary Geography book is a human-impact course — people reshaping the earth, people destroying natural resources, the sea, pollution of air/water/noise/waste, economic globalisation, city and countryside, and a world of uneven development.

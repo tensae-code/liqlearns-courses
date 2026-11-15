@@ -1,6 +1,6 @@
 # Sources — What a Desert Is
 
-countries: Ethiopia, Colombia, India, United Kingdom
+countries: Ethiopia, Colombia, India, United Kingdom, Cambodia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 107).
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Colombia, India, United Kingdom
 
 **Book 5:** *GCSE Geography AQA (Student Book)* (student book, English) — United Kingdom, Oxford University Press; year 2016; ISBN 978-0-19-836661-4; authors Nicholas Rowles, David Holmes, Bob Digby; series editor Simon Ross. Title as printed: GCSE Geography AQA (Student Book). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 356 (record figure; printed book pagination used in the rows below). Verdict: COMPLETE. Records note: 2 records / 1 distinct book (TSV release record + books.json record for the same book) / read via the book's archive.org source (archive.org item gcse-aqa-geography-student-book: EPUB + full OCR text of the same 355.2 MiB PDF whose byte size matches the books.json record's 372,407,314 bytes; title page and ISBN page verified from that OCR text) — the 372 MB GitHub release copy itself was not re-downloaded; the identical archive.org scan was read instead (all 24 chapters, contents pp. 4-5, glossary p. 346, index p. 350) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/united-kingdom-placements.md.
 
+**Book 6:** *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (14th printing); ISBN 978-995-000-820 (printed as 9-789-995-000-820). Title as printed: សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7) — Sala 00004321. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 304. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Non-Geography parts named, not placed: History section (ប្រវត្តិវិទ្យា, printed pp.76–150: ancient world — Egypt, Mesopotamia, Israel, India, China, Rome, ancient America; Cambodia — prehistory, Funan 50–550, Chenla 550–802; regional Asia); Civics section (សីលធម៌ ពលរដ្ឋវិទ្យា, printed pp.152–246: gender and human rights, friendship, family, living with the community, goal-setting for life, Buddhism and Hinduism); Economics section (សេដ្ឋវិទ្យា, printed pp.248–302: needs and money, work, government and the economy, economic security and hygiene). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Rain, not heat: a desert as under 250 mm of rain a year; about a third of the Earth's land is desert | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 145–147 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Colombia, India, United Kingdom
 | Colombia part (Insertos_sociales_04_Cartilla_02) — Questions 4, 5, 8, 9 and 14: deserts spreading, desert characteristics, polar animals and their adaptations, people living in deserts | Colombia, *Expedición Desconocida (board-game insert for Ciencias Sociales 4, Cartilla 2)*, Questions 4, 5, 8, 9 and 14: deserts spreading, desert characteristics, polar animals and their adaptations, people living in deserts — printed p. 1 (sheet) |
 | India part (Grade 7 Our Environment) — Ch.9 Life in the Deserts: hot and cold deserts defined | India, *India Grade 7 Our Environment*, Ch.9 Life in the Deserts: hot and cold deserts defined — printed p. 65 |
 | United Kingdom part — §7.1 Environmental characteristics of hot deserts | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §7.1 Environmental characteristics of hot deserts — printed p. 68 |
+| Cambodia part — Geography Ch.2 L1 ប្រជាជនក្នុងតំបន់វាលលំហក្តៅ (people in the hot deserts — world desert map) | Cambodia, *Cambodia Grade 7 Social Studies*, Geography Ch.2 L1 ប្រជាជនក្នុងតំបន់វាលលំហក្តៅ (people in the hot deserts — world desert map) — printed p. 28 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Colombia, India, United Kingdom).**
+**Acceptance count: taught in 5 countries (Ethiopia, Colombia, India, United Kingdom, Cambodia).**
 
 Book error taught corrected: the book's list of the four desert types is numbered 1, 2, 2, 3 as printed; the lesson teaches the four types as a clean list of four and names the misprint here. The rainfall, area and table figures are the book's own figures as printed, including its UN-era table. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -35,3 +38,5 @@ Colombia's own way (Insertos_sociales_04_Cartilla_02): the Grade 4 review game i
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
 
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
+
+Cambodia's own way (Cambodia Grade 7 Social Studies): from Grade 7 the combined Social Studies book splits into four named subject sections; its Geography section teaches people-in-environments — hot zones, deserts and oases, polar peoples, climate zones — through world case studies (Kenya farmers, Amazon, Inuit, Sahara oil) before turning to world population.

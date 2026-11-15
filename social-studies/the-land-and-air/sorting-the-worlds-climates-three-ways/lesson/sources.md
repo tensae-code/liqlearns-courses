@@ -1,6 +1,6 @@
 # Sources — Sorting the world's climates — three ways
 
-countries: Ethiopia, Ecuador, Colombia, Malaysia
+countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -16,6 +16,10 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia
 
 **Book 7:** *Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2017 (first printing 2017); ISBN 978-967-0463-47-6. Title as printed: Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM). Grade 8 / Tingkatan 2 (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title — "GEOGRAFI TINGKATAN 2"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 2 records — the TSV release record (mid-size-books-2, read here, 77,312,329 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only, as for Tingkatan 1). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 8:** *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (14th printing); ISBN 978-995-000-820 (printed as 9-789-995-000-820). Title as printed: សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7) — Sala 00004321. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 304. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Non-Geography parts named, not placed: History section (ប្រវត្តិវិទ្យា, printed pp.76–150: ancient world — Egypt, Mesopotamia, Israel, India, China, Rome, ancient America; Cambodia — prehistory, Funan 50–550, Chenla 550–802; regional Asia); Civics section (សីលធម៌ ពលរដ្ឋវិទ្យា, printed pp.152–246: gender and human rights, friendship, family, living with the community, goal-setting for life, Buddhism and Hinduism); Economics section (សេដ្ឋវិទ្យា, printed pp.248–302: needs and money, work, government and the economy, economic security and hygiene). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
+**Book 9:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why classify at all | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -27,8 +31,10 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia
 | Ecuador part — Los climas del mundo (inside the cartography tema) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Los climas del mundo (inside the cartography tema) — printed p. 99 |
 | Colombia part (CS_Grado07 Secundaria Activa) — Unidad 1 Cap. 1 Tema 2 Los climas de la Tierra | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 7 (module)*, Unidad 1 Cap. 1 Tema 2 Los climas de la Tierra — printed p. 24 |
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 7: the diversity of climates in Asia and the climate zones | Malaysia, *MY T2 Geografi*, Bab 7: the diversity of climates in Asia and the climate zones — printed pp. 104-110 |
+| Cambodia part — Geography Ch.3 L1 មនុស្សនិងមណ្ឌលអាកាសធាតុ (people and the climate zones — the five zones) | Cambodia, *Cambodia Grade 7 Social Studies*, Geography Ch.3 L1 មនុស្សនិងមណ្ឌលអាកាសធាតុ (people and the climate zones — the five zones) — printed p. 52 |
+| Cambodia part — Ch.3 L7 តំបន់អាកាសធាតុ (climate regions) | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L7 តំបន់អាកាសធាតុ (climate regions) — printed p. 138 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, Colombia, Malaysia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -43,3 +49,7 @@ Searchable tags: climate classification, greek zones, genetic empirical, koppen 
 Colombia's own way (CS_Grado07 Secundaria Activa): Secundaria Activa organises Grade 7 as climate first (with climate change and hydrometeorological threats), then a paired physical-and-human geography of Europe and America — continents taught as physical environments plus population — before the history units.
 
 Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.
+
+Cambodia's own way (Cambodia Grade 7 Social Studies): from Grade 7 the combined Social Studies book splits into four named subject sections; its Geography section teaches people-in-environments — hot zones, deserts and oases, polar peoples, climate zones — through world case studies (Kenya farmers, Amazon, Inuit, Sahara oil) before turning to world population.
+
+Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.

@@ -3517,3 +3517,75 @@ p. 290), Increasing Energy Supply (printed pp.
 296) — the new lessons are taught in 1 country (United
 Kingdom), 8 questions each.
 Geography lessons: 1269 → 1361.
+
+
+## Cambodia — Geography expansion (merged 2026-11-14)
+132 placement lines stocked from Cambodia's 11 placed
+books (24 records / 13 distinct books; Books 9 and 13
+carry no placements — Book 9's file is the MoEYS 2018
+detailed Geography curriculum for upper secondary,
+filed record-only, and Book 13 is a kindergarten
+teacher guide with no Geography teaching part) — the
+Khmer MoEYS Social Studies student books for Grades
+4–10, the standalone Geography student books for Grades
+11–12, the Grade 11 Earth Science student book, and one
+PARTIAL teacher item (Book 7, a 12-page Grade 9
+Geography slide deck for the minerals lesson only,
+stocked as evidence). Every book was read visually
+page-by-page from rendered pages — the Khmer text layer
+is legacy-font garbled. The placements file is the
+adjudicated canonical pass of 2026-11-14 (132 = 86 to
+existing lessons + 46 NEW LESSON NEEDED; the superseded
+parallel pass was not stocked). Stocked into standing
+lessons (84 placements across 58 lessons; 21 placements
+arrived under slugs with no lesson on disk and were
+stocked into the closest existing lesson covering that
+thing, the original slug recorded in each provenance
+row). 37 NEW lessons built (48 placements: the 46
+NEW-flagged placements plus the Earth's-gravity
+placement, built new under its own slug because no
+standing lesson covers gravity, and the USA
+mastery-of-space placement, stocked into the new United
+States country profile it belongs to in its own book) —
+**Earth and Space**: Mass and Gravity — Keeping Us
+Grounded (printed p. 10); **The Land and Air**: Brunei
+— Country Profile (printed p. 64), Cambodia — Country
+Profile (printed p. 2), China — Country Profile
+(printed p. 38), Daily Life in the Polar Regions
+(printed p. 42), Fresh Water on Earth (printed p. 68),
+India — Country Profile (printed p. 48), Indonesia —
+Country Profile (printed p. 24), Japan — Country
+Profile (printed p. 166; printed p. 174), Laos —
+Country Profile (printed p. 12), Life and Work in the
+Coastal Zone (printed p. 76), Malaysia — Country
+Profile (printed p. 56), Myanmar — Country Profile
+(printed p. 42), Philippines — Country Profile (printed
+p. 30), Thailand — Country Profile (printed p. 18),
+Timor-Leste — Country Profile (printed p. 72), United
+States — Country Profile (printed p. 134; printed p.
+140; printed p. 148; printed p. 156), Vietnam — Country
+Profile (printed p. 36), Weather and Climate of
+Cambodia (printed p. 154); **Population, Transport and
+Maps**: Cambodia's Regions and Towns (printed p. 102),
+Where Cambodia's People Live (printed p. 12); **People
+and Resources**: Cambodia's Development Challenges
+(printed p. 86), Cambodia's Mineral Resources (printed
+p. 2; PDF pp. 1–12 (slides, no printed pagination)),
+Global Finance and Capital Flows (printed p. 142), Land
+Use in Cambodia's Regions (printed p. 88; printed p.
+82), Newly Industrialised Countries of Asia-Pacific
+(printed p. 41), Oasis Life in the Desert (printed p.
+32), Reclaiming and Expanding Farmland (printed p. 18),
+World Economic Growth Poles (printed p. 122); **Culture
+and Work**: Festivals Through the Year — Cambodia
+(printed p. 54), Khmer Dance and Music Heritage
+(printed p. 54; printed p. 52), National Traditional
+Festivals — Cambodia (printed p. 60; printed p. 60;
+printed p. 60); **Global Issues**: A World System Being
+Reordered (printed p. 184), Noise Pollution (printed p.
+104), Solid Waste and Disposal (printed p. 110), The
+European Union as an Economic Space (printed p. 184;
+printed p. 190; printed p. 198), Understanding the
+Environment (printed p. 174) — the new lessons are
+taught in 1 country (Cambodia), 8 questions each.
+Geography lessons: 1361 → 1398.

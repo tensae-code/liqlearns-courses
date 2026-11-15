@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Difference and the Elements
 
-countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, Eritrea, India
+countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, Eritrea, India, Cambodia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, E
 
 **Book 11:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 12:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Short and small against long and wide | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 24–25 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, E
 | Malaysia part (MY T5 Geografi Tingkatan 5) — Bab 3 Fenomena Cuaca dan Iklim: the concepts of weather and climate and their elements (placement slug: the-land-and-air/weather-vs-climate) | Malaysia, *MY T5 Geografi*, Bab 3 Fenomena Cuaca dan Iklim: the concepts of weather and climate and their elements — printed pp. 36-44 |
 | Eritrea part (ER G5 Social Studies) — Chapter 9 ኵነታት ኣየር Weather: 9.1 Weather | Eritrea, *ER G5 Social Studies*, Chapter 9 ኵነታት ኣየር Weather: 9.1 Weather — printed p. 111 |
 | India part (Grade 7 Our Environment) — Ch.4: temperature, insolation and air pressure | India, *India Grade 7 Our Environment*, Ch.4: temperature, insolation and air pressure — printed p. 22 |
+| Cambodia part — Ch.3 L3 ធាតុអាកាសនិងអាកាសធាតុ (weather elements and climate) [placement slug: the-land-and-air/weather-vs-climate] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L3 ធាតុអាកាសនិងអាកាសធាតុ (weather elements and climate) — printed p. 108 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia, Eritrea, India). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia, Eritrea, India, Cambodia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -62,3 +65,5 @@ Malaysia's own way (MY T5 Geografi Tingkatan 5): the final form is the world's s
 Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.
 
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
+
+Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.

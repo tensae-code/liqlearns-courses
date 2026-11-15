@@ -1,6 +1,6 @@
 # Sources — Global warming and greenhouse gases
 
-countries: Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia
+countries: Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia
 
 **Book 5:** *Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2017 (first printing 2017); ISBN 978-967-0463-47-6. Title as printed: Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM). Grade 8 / Tingkatan 2 (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title — "GEOGRAFI TINGKATAN 2"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 2 records — the TSV release record (mid-size-books-2, read here, 77,312,329 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only, as for Tingkatan 1). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 6:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The greenhouse effect | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 8 — Economy, Environment and Climate Change, printed pp. 189–191 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia
 | Bangladesh part (Grade 6) — The Earth Getting Green comic: greenhouse gases and the greenhouse effect | Bangladesh, *History and Social Science, Class Six*, Grade 6, The Earth Getting Green comic: greenhouse gases and the greenhouse effect — printed pp. 137-143 |
 | Indonesia part (Grade 11) — Bab 3 I.E Masalah lingkungan: global warming | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 I.E Masalah lingkungan: global warming — printed p. 125 |
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 9 Pemanasan Global: meaning and factors of global warming | Malaysia, *MY T2 Geografi*, Bab 9 Pemanasan Global: meaning and factors of global warming — printed pp. 136-141 |
+| Cambodia part — Ch.4 L3 ប្រព័ន្ធនៃការប្រែប្រួលបរិស្ថានលើភពផែនដី (systems of environmental change on Earth) [placement slug: global-issues/climate-change-a-warming-world] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.4 L3 ប្រព័ន្ធនៃការប្រែប្រួលបរិស្ថានលើភពផែនដី (systems of environmental change on Earth) — printed p. 186 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -37,3 +40,5 @@ Searchable tags: global warming and greenhouse gases, grade 12 economics, ethiop
 Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course built around a class teacher character and group investigations; Geography is taught through the landform of Bengal itself — rivers, silt and hills explaining settlement, ancient states, ports and even the 1971 war — plus hands-on map-making (home-to-school route maps, a world-tour board game) and a pupil-run nature conservation club.
 
 Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.
+
+Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.

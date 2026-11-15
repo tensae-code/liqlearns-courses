@@ -1,6 +1,6 @@
 # Sources — Plate tectonics — the Earth's moving shell
 
-countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa, Malaysia, United Kingdom
+countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa, Malaysia, United Kingdom, Cambodia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dom
 
 **Book 11:** *GCSE Geography AQA (Student Book)* (student book, English) — United Kingdom, Oxford University Press; year 2016; ISBN 978-0-19-836661-4; authors Nicholas Rowles, David Holmes, Bob Digby; series editor Simon Ross. Title as printed: GCSE Geography AQA (Student Book). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 356 (record figure; printed book pagination used in the rows below). Verdict: COMPLETE. Records note: 2 records / 1 distinct book (TSV release record + books.json record for the same book) / read via the book's archive.org source (archive.org item gcse-aqa-geography-student-book: EPUB + full OCR text of the same 355.2 MiB PDF whose byte size matches the books.json record's 372,407,314 bytes; title page and ISBN page verified from that OCR text) — the 372 MB GitHub release copy itself was not re-downloaded; the identical archive.org scan was read instead (all 24 chapters, contents pp. 4-5, glossary p. 346, index p. 350) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/united-kingdom-placements.md.
 
+**Book 12:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Lithosphere on asthenosphere | G12 student #6, printed pp. 5–7 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dom
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 5.2-5.3: the world's plate boundaries and the effects of plate movement | Malaysia, *MY T4 Geografi*, Bab 5.2-5.3: the world's plate boundaries and the effects of plate movement — printed pp. 64-68 |
 | United Kingdom part — §2.1 Distribution of earthquakes and volcanoes | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §2.1 Distribution of earthquakes and volcanoes — printed p. 10 |
 | United Kingdom part — §2.2 Physical processes at plate margins | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §2.2 Physical processes at plate margins — printed p. 12 |
+| Cambodia part — Ch.1 L4 ផ្ទាកពីចលនីច (plate tectonics — Wegener and the Africa–South America fit) [placement slug: earth-and-space/continents-on-the-move-plate-tectonics] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.1 L4 ផ្ទាកពីចលនីច (plate tectonics — Wegener and the Africa–South America fit) — printed p. 24 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa, Malaysia, United Kingdom).**
+**Acceptance count: taught in 11 countries (Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa, Malaysia, United Kingdom, Cambodia).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -63,3 +66,5 @@ Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organ
 Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.
 
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
+
+Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.
