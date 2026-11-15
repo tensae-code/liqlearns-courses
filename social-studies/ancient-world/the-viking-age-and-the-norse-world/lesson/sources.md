@@ -1,0 +1,22 @@
+# Sources — The Viking Age and the Norse world
+
+countries: Iceland
+
+**Book (Iceland):** *Víkingaöld — Kennsluleiðbeiningar (Árin 800–1050)* (teacher guide, Icelandic) — Iceland. Title as printed: Víkingaöld — Kennsluleiðbeiningar (Árin 800–1050). Grade: Grade 5 (student/teacher: TEACHER). Publisher: Námsgagnastofnun, Kópavogur; year 2013 (1st edition, Sigrún Helgadóttir & Sigrún Björk Cortes); ISBN no ISBN printed. PDF pages: 49 (cover verified against the record title). Verdict: COMPLETE. Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/iceland-placements.md.
+
+This book is a teacher guide, not a pupil text. Every part of this lesson stands on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Origins and the ships: a seafaring people builds ever better ships, and the ships open the world — the Norse people's origins and the development of their ships (Uppruni, student book pp. 8–13) (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/the-viking-age-and-the-norse-world) | Iceland, *Víkingaöld — Kennsluleiðbeiningar* (teacher guide — evidence), Uppruni — printed p. 10 |
+| Sub lesson 2 — What a Viking was, 800–1050: not everyone in the age was a Viking — "to go a-viking" was a job, not a people (Víkingaöld, student book pp. 14–15) (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/the-viking-age-and-the-norse-world) | Iceland, *Víkingaöld — Kennsluleiðbeiningar* (teacher guide — evidence), Víkingaöld — printed p. 42 (workbook section) |
+| Sub lesson 3 — Raids, voyages and steering without maps: Norse sailors raid, trade and settle from Russia to America, steering by sun, birds and memory (Víkingar herjuðu víðs vegar, student book pp. 16–27) (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/the-viking-age-and-the-norse-world) | Iceland, *Víkingaöld — Kennsluleiðbeiningar* (teacher guide — evidence), Víkingar herjuðu víðs vegar — printed p. 16 |
+| Sub lesson 4 — Erik the Red and the seeress: outlawed Erik colonises Greenland, and a seeress is feasted and questioned about the future (Eiríks saga rauða, extracts, ch. 3–4) (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/the-viking-age-and-the-norse-world) | Iceland, *Víkingaöld — Kennsluleiðbeiningar* (teacher guide — evidence), Eiríks saga rauða — printed p. 8 |
+| Sub lesson 5 — Free farmers and the Althing: free farmers govern themselves at the Althing, where the allsherjargoði opens the assembly — Norse society, government and religion, and the Althing at Þingvellir (Norræn samfélög, student book pp. 28–37) (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/the-viking-age-and-the-norse-world) | Iceland, *Víkingaöld — Kennsluleiðbeiningar* (teacher guide — evidence), Norræn samfélög — printed p. 19 |
+| Sub lesson 6 — Inside the turf hall: inside the turf hall, women run the household, weave and keep the keys while men farm and sail — homes and daily life (Heimkynni og daglegt líf, student book pp. 38–46) (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/the-viking-age-and-the-norse-world) | Iceland, *Víkingaöld — Kennsluleiðbeiningar* (teacher guide — evidence), Heimkynni og daglegt líf — printed p. 23 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Iceland), named here, counted nowhere.**
+
+Iceland's own way: the Viking Age is taught from Iceland's own ground — children become archaeologists on a field trip, meet a real pagan grave (the "Fjallkona"), read Eiríks saga rauða in the original tradition, and end by building a timeline from 800 to today; the Althing at Þingvellir is the national centrepiece. That way is stocked here as the way Iceland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Searchable tags: Viking Age, Norse world, Althing, Þingvellir, Erik the Red, Eiríks saga rauða, seeress Þorbjörg, turf hall, Iceland Grade 5, ancient-world, teacher guide evidence

@@ -9031,3 +9031,82 @@ France record, *Géographie 2de GT — Manuel Libre de
 Géographie, Seconde*, is RECORD ONLY — pure
 Geography, not placed, with 0 placements. History
 lessons: 351 → 360.
+
+## History expansion — Iceland — built 2026-11-15
+
+10 new lessons, 84 questions, in **Ancient World**:
+The Viking Age and the Norse world
+(ancient-world/the-viking-age-and-the-norse-world);
+and in **Modern World**: Iceland's old society
+(modern-world/icelands-old-society), Jørgen
+Jørgensen's coup in Iceland, 1809
+(modern-world/jorgen-jorgensens-coup-in-iceland-1809),
+Iceland's late industrialisation
+(modern-world/icelands-late-industrialisation),
+Icelandic emigration to North America
+(modern-world/icelandic-emigration-to-north-america),
+Liberalism and socialism
+(modern-world/liberalism-and-socialism), Iceland's
+road to independence
+(modern-world/icelands-road-to-independence), Was
+Iceland a colony? (modern-world/was-iceland-a-colony),
+The 1918 Spanish flu
+(modern-world/the-1918-spanish-flu) and Women win
+the vote (modern-world/women-win-the-vote)
+— 29 placements stocked from Iceland's 2 distinct
+History books read here, both teacher guides: the
+Grade 5 teacher guide *Víkingaöld —
+Kennsluleiðbeiningar (Árin 800–1050)*
+(Námsgagnastofnun, Kópavogur, 2013; no ISBN
+printed): Fornleifar, into the existing Who studies
+prehistory lesson; Uppruni, Víkingaöld, Víkingar
+herjuðu víðs vegar, Eiríks saga rauða, Norræn
+samfélög and Heimkynni og daglegt líf, into the new
+Viking Age lesson; and Lok víkingaaldar with the
+Tímalína project, into the existing Dating the past
+lesson; and the Grade 8 teacher guide *Lýðræði og
+tækni — Saga 19. aldar, Kennsluleiðbeiningar*
+(Námsgagnastofnun, Kópavogi, 2014; Icelandic
+translation/adaptation of Matriks 8 Historie,
+Aschehaug 2006; no ISBN printed): Greining heimilda
+and Verkefnablað 5, into the existing From evidence
+to a written history and Fact or opinion lessons;
+Gamla samfélagið, into the new Iceland's old society
+lesson; the American and French revolutions,
+Napoleon's wars in the North and Fólksfjölgun og
+tækni, into the existing American independence,
+French Revolution, Napoleon and Industrial
+Revolution lessons; Valdarán Jørgens Jørgensens,
+into the new Jørgensen's coup lesson; Síðbúin
+atvinnubylting, into the new Late industrialisation
+lesson; the Sigurður worksheet, into the new
+Emigration lesson; the factory role-play worksheets,
+into the new Liberalism and socialism lesson;
+Þjóðríki verða til, Sameining Ítalíu and Sameining
+Þýskalands, into the existing Nationalism, Italy
+unifies and Germany unifies lessons; Verkefnablöð
+19–20 and Þjóðfrelsi og lýðræði, into the new Road
+to independence lesson; Evrópumenn leggja heiminn
+undir sig and Kapphlaupið um Afríku, into the
+existing Why Europe colonised and Scramble and
+Berlin lessons; Var Ísland nýlenda?, into the new
+Was Iceland a colony? lesson; Spænska veikin, into
+the new 1918 Spanish flu lesson; and Eiga konur að
+fá að gegna embættum?, into the new Women win the
+vote lesson. Both books are teacher guides, so all
+29 placements stand as teacher-guide evidence only,
+outside acceptance counts: the ten new lessons stand
+at 0 countries counted, and the thirteen existing
+lessons stocked keep their countries and counts
+unchanged, with Iceland named in their sources as
+evidence only. Iceland's three other records are
+RECORD ONLY, not placed, with 0 placements:
+*Spor 1 — Lífsleikni fyrir 1. bekk* (Grade 1, life
+skills), *Trúarbrögðin okkar —
+Kennsluleiðbeiningar* and its *Sögurammi* frame
+(Grade 1, religious education). Library debt,
+carried as filed: the Sögurammi record's books.json
+twin is flagged in_pushed: false — the file sits in
+the repo tree but is not marked as pushed, and the
+books.json flags for the Iceland trúarbrogð records
+disagree with the tree. History lessons: 360 → 370.

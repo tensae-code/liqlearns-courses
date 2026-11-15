@@ -33,3 +33,15 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
+
+## History expansion (2026-11-15) — Iceland stocked (teacher-guide evidence only)
+
+**Book (Iceland):** *Lýðræði og tækni — Saga 19. aldar, Kennsluleiðbeiningar (Democracy and Technology — History of the 19th Century)* (teacher guide, Icelandic) — Iceland. Title as printed: Lýðræði og tækni — Saga 19. aldar, Kennsluleiðbeiningar (Democracy and Technology — History of the 19th Century). Grade: Grade 8 (student/teacher: TEACHER). Publisher: Námsgagnastofnun, Kópavogi; year 2014 (Icelandic translation/adaptation of Matriks 8 Historie, Aschehaug 2006); ISBN no ISBN printed. PDF pages: 63 (cover verified against the record title). Verdict: COMPLETE. Tally: 21 placements — 11 to existing lessons, 10 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iceland part — Sameining Þýskalands (student book pp. 82–89); Kaiser Wilhelm's 1871 speech (worksheet 17) — story beats: Bismarck unifies Germany by blood and iron, and an emperor is proclaimed at Versailles (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/germany-unifies-bismarck-blood-and-iron) | Iceland, *Lýðræði og tækni — Saga 19. aldar, Kennsluleiðbeiningar* (teacher guide — evidence), Sameining Þýskalands — printed p. 36 |
+
+Iceland's own way: a Norwegian textbook re-rooted in Iceland — every world chapter is doubled with Icelandic source work: the 1703 census, tenant farmers and servants under the vistarband, Jørgen Jørgensen's 1809 coup, emigration to Canada, Jón Sigurðsson, the Spanish flu and the road to the 1944 republic; pupils judge sources, role-play strikes and suffrage debates, and keep asking "was Iceland a colony?" That way is stocked here as the way Iceland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Iceland placement above is teacher-guide evidence only, counted nowhere. Iceland is not added to this lesson's countries line.**

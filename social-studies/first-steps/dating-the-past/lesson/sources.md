@@ -47,3 +47,15 @@ This book is a teacher guide. The Morocco rows below stand on it as teacher-guid
 Morocco's own way: Moroccan History is one unbroken national line — the guide's own programme table runs Grade 4 "the recent past", Grade 5 "Morocco in the ancient age", Grade 6 "prehistory and the historical eras" — and Grade 5 walks a child from what a historian is, through prehistoric and Amazigh Morocco, to the dynasty sequence Idrisid → Almoravid → Almohad → Marinid → Saadian → Alaouite, each dynasty studied through one standing monument (Qarawiyyin, the Almoravid Dome, a madrasa, El Badi Palace, the kasbahs). That way is stocked here as the way Morocco teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Saudi Arabia) — unchanged; the Morocco placement above is teacher-guide evidence only, counted nowhere.**
+
+## History expansion (2026-11-15) — Iceland stocked (teacher-guide evidence only)
+
+**Book (Iceland):** *Víkingaöld — Kennsluleiðbeiningar (Árin 800–1050)* (teacher guide, Icelandic) — Iceland. Title as printed: Víkingaöld — Kennsluleiðbeiningar (Árin 800–1050). Grade: Grade 5 (student/teacher: TEACHER). Publisher: Námsgagnastofnun, Kópavogur; year 2013 (1st edition, Sigrún Helgadóttir & Sigrún Björk Cortes); ISBN no ISBN printed. PDF pages: 49 (cover verified against the record title). Verdict: COMPLETE. Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iceland part — Lok víkingaaldar (student book pp. 47–48) and Tímalína project — story beats: the age ends as Europe changes, and the class builds a timeline from the Viking Age to their own day (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Iceland, *Víkingaöld — Kennsluleiðbeiningar* (teacher guide — evidence), Lok víkingaaldar and Tímalína project — printed p. 27 |
+
+Iceland's own way: the Viking Age is taught from Iceland's own ground — children become archaeologists on a field trip, meet a real pagan grave (the "Fjallkona"), read Eiríks saga rauða in the original tradition, and end by building a timeline from 800 to today; the Althing at Þingvellir is the national centrepiece. That way is stocked here as the way Iceland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Saudi Arabia) — unchanged; the Iceland placement above is teacher-guide evidence only, counted nowhere. Iceland is not added to this lesson's countries line.**

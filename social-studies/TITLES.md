@@ -2573,7 +2573,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **360**
+History lessons across the History titles: **370**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2857,3 +2857,35 @@ and Enlightenment 1 → 2 and The Industrial
 Revolution — textiles, steam and rail 1 → 2). The
 other France record, *Géographie 2de GT*, is
 RECORD ONLY — pure Geography, not placed.
+
++10 for Iceland, 2026-11-15 — Ancient World: The
+Viking Age and the Norse world; Modern World:
+Iceland's old society, Jørgen Jørgensen's coup in
+Iceland, 1809, Iceland's late industrialisation,
+Icelandic emigration to North America, Liberalism
+and socialism, Iceland's road to independence, Was
+Iceland a colony?, The 1918 Spanish flu, and Women
+win the vote. All 29 Iceland placements stand on
+Iceland's two teacher guides — the Grade 5
+*Víkingaöld — Kennsluleiðbeiningar* (2013) and the
+Grade 8 *Lýðræði og tækni — Saga 19. aldar,
+Kennsluleiðbeiningar* (2014) — as teacher-guide
+evidence only, counted nowhere: the ten new lessons
+stand at 0 countries counted, and the thirteen
+existing lessons stocked (First Steps Who studies
+prehistory, Dating the past, From evidence to a
+written history and Fact or opinion; Modern World
+American independence, The French Revolution breaks
+out — 1789, Napoleon — reformer, conqueror, fallen,
+The Industrial Revolution — what changed and why
+England first, Nationalism — the feeling that made
+nation states, Italy unifies — Cavour and the
+patriots and Germany unifies — Bismarck, blood and
+iron; Africa after 1500 Why Europe colonised —
+motives and the civilizing mission and The Scramble
+and Berlin, 1884–85) keep their countries and
+acceptance counts unchanged, with Iceland named in
+their sources as evidence only. Iceland's three
+other records (*Spor 1* life skills; *Trúarbrögðin
+okkar* religious education and its *Sögurammi*
+frame) are RECORD ONLY — other subjects, not placed.

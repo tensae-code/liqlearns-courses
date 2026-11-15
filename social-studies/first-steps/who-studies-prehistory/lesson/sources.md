@@ -30,3 +30,15 @@ Searchable tags: archaeology, palaeontology, anthropology, prehistory, artefacts
 Gambia's own way (History expansion, 2026-11-15): A free, scholar-written regional textbook built for the WAEC exam shared by the five Anglophone West African states — West Africa's whole story told by West African and diaspora historians, with two chapters (women and authority; the environment) the authors added beyond the syllabus, and Gambian historian Hassoum Ceesay on the author team. That way is stocked here as the way Gambia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Gambia).**
+
+## History expansion (2026-11-15) — Iceland stocked (teacher-guide evidence only)
+
+**Book (Iceland):** *Víkingaöld — Kennsluleiðbeiningar (Árin 800–1050)* (teacher guide, Icelandic) — Iceland. Title as printed: Víkingaöld — Kennsluleiðbeiningar (Árin 800–1050). Grade: Grade 5 (student/teacher: TEACHER). Publisher: Námsgagnastofnun, Kópavogur; year 2013 (1st edition, Sigrún Helgadóttir & Sigrún Björk Cortes); ISBN no ISBN printed. PDF pages: 49 (cover verified against the record title). Verdict: COMPLETE. Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iceland part — Fornleifar (student book pp. 3–7): archaeology and the Fjallkona grave find — story beats: a woman's pagan grave is found and excavated, and children learn to read objects as evidence (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Iceland, *Víkingaöld — Kennsluleiðbeiningar* (teacher guide — evidence), Fornleifar — printed p. 4 |
+
+Iceland's own way: the Viking Age is taught from Iceland's own ground — children become archaeologists on a field trip, meet a real pagan grave (the "Fjallkona"), read Eiríks saga rauða in the original tradition, and end by building a timeline from 800 to today; the Althing at Þingvellir is the national centrepiece. That way is stocked here as the way Iceland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Gambia) — unchanged; the Iceland placement above is teacher-guide evidence only, counted nowhere. Iceland is not added to this lesson's countries line.**
