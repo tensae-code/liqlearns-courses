@@ -1,6 +1,6 @@
 # Sources — Kinds of Natural Resources
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 45).
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Sweden, Nauru, Tuvalu
 **Book 3:** *People and the Natural Environment in the Pacific* (student book, English) — Nauru, Institute of Education, University of the South Pacific (Tonga Campus), with UNESCO and Japanese Funds-in-Trust; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (record title says Social Science, Years 5-6; the book's own inner title page says "A Social Studies related reader for Years 7-8" — a record/printing mismatch, noted as a library debt). Grade 5 per record (inner title page: Years 7–8) (student). 24 PDF pp. (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nauru-placements.md.
 
 **Book 4:** *People and the Natural Environment in the Pacific* (student book, English) — Tuvalu, Institute of Education, University of the South Pacific (Tonga Campus), with UNESCO and Japanese Funds-in-Trust; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (record title says Social Science, Years 5-6; the book's own inner title page says "A Social Studies related reader for Years 7-8" — a record/printing mismatch, noted as a library debt). Grade 5 per record (inner title page: Years 7–8) (student). 24 PDF pp. (cover/title page verified against the record title; verified identical to the Nauru copy — same byte size, extracted text identical, cover renders identical — and read in full under Nauru; the Tuvalu copy was spot-checked (cover + contents text diff)). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/tuvalu-placements.md.
+
+**Book 5:** *People and the Natural Environment in the Pacific* (student book, English) — Niue, Institute of Education, University of the South Pacific (Tonga Campus), for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (inner title page: Years 7–8 — see the grade note). Grade: Grade 5 record / Years 5–6 per the Teacher Guide, Years 7–8 per the inner title page (student). Niue advisor: Birtha Togahai. 24 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE (content printed pp. 1–19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,8 +21,11 @@ countries: Ethiopia, Sweden, Nauru, Tuvalu
 | Sweden part — Humans use nature: finding nature's resources (forest, farmed land, lakes) in the objects of the pupil's own classroom and everyday life (teacher guide — evidence) | Sweden, *Människan och världen, Sverige — Lärarhandledning (GEOGRAFI)* (teacher guide), Grade 1, printed p. 2 (teaching notes for textbook pp. 50–59) |
 | Nauru part — Natural resources (what Pacific people traditionally took from nature: food, clothes, shelter, tools, medicine, art) | Nauru, *People and the Natural Environment in the Pacific*, Grade 5, Natural resources — printed p. 3 |
 | Tuvalu part — Natural resources (what Pacific people traditionally took from nature: food, clothes, shelter, tools, medicine, art) | Tuvalu, *People and the Natural Environment in the Pacific*, Grade 5, Natural resources (what Pacific people traditionally took from nature: food, clothes, shelter, tools, medicine, art) — printed p. 3 |
+| Niue part — Natural resources (what they are and what Pacific people traditionally made from them) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, Natural resources (what they are and what Pacific people traditionally made from them) — printed p. 3 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Nauru, Tuvalu). Sweden is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Nauru, Tuvalu, Niue). Sweden is named here as teacher-guide evidence only, counted nowhere.**
+
+Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
 Nauru's own way: the land-side companion to the sea reader — the natural environment, ecosystems and resources are taught through two Pacific case-study plants (taro/pulaka and the coconut, the "tree of life") across Tonga, Niue and Tuvalu, then traditional farming is set against modern farming's damage. That way is stocked here as the way Nauru teaches this thing.
 
@@ -28,4 +33,4 @@ Tuvalu's own way: the land-side companion to the sea reader — and Tuvalu's own
 
 No Addis Ababa teacher-guide material is folded into this lesson: the Addis Ababa guide's Unit 3 carries no counterpart to this classification beyond the student book's own teaching, so nothing here rests on teacher evidence. No book error flagged by the placements touches this lesson.
 
-Searchable tags: natural resources, biotic, abiotic, exhaustible, non-renewable, renewable, depletion warning, የተፈጥሮ ሀብቶች, Ethiopia Grade 7 Social Studies Chapter 3, Nauru, People and the Natural Environment in the Pacific, Tuvalu
+Searchable tags: natural resources, biotic, abiotic, exhaustible, non-renewable, renewable, depletion warning, የተፈጥሮ ሀብቶች, Ethiopia Grade 7 Social Studies Chapter 3, Nauru, People and the Natural Environment in the Pacific, Tuvalu, Niue

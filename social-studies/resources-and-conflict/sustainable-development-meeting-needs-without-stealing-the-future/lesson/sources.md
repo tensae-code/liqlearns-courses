@@ -1,21 +1,26 @@
 # Sources — Sustainable development — meeting needs without stealing the future
 
-countries: Ethiopia, Haiti
+countries: Ethiopia, Haiti, Niue
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
 **Book 2:** *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence, French) — Haiti, MENFP / Projet Nectar (Sciences humaines et sociales — Géographie, 7e année). Title as printed: Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes. (Projet Nectar, MENFP, Sciences humaines et sociales — Géographie, 7e année). Grade 7 (teacher). Publisher: MENFP / Projet Nectar; year not printed; no ISBN printed. 11 PDF pp. (cover verified against the record title). Verdict: COMPLETE. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
+
+**Book 3:** *Teacher Guide for the Science-Related & Social Studies-Related Primary School ESD Readers* (teacher guide, English) — Niue, Institute of Education, University of the South Pacific, for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: Teacher Guide for the Science-Related & Social Studies-Related Primary School ESD Readers. Grade: Grade 5 record; the guide covers Years 5–8 (teacher). 48 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE for the Social Studies side — the guide also carries notes for the two science readers (Book 2 and Book 4, printed pp. 20–23 and 29–31), named here but not placed; they are not Niue records in this group. Cited as evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The idea and its definition | G12 student #37, printed pp. 63–66 |
 | Sub lesson 2 — The three dimensions, nested | G12 student #37, printed pp. 63–66 |
 | Haiti part — Séance 3 Vers une Haïti verte: les enjeux de l'aménagement du territoire (aménagement, planification et développement durable; projet d'aménagement local ou national imaginé par les élèves) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 3 Vers une Haïti verte: les enjeux de l'aménagement du territoire (aménagement, planification et développement durable; projet d'aménagement local ou national imaginé par les élèves) — printed p. 9 |
+| Niue part — Core ESD concepts (balancing the social, economic and ecological pillars; systems thinking; tapu closed-season conservation traditions) (teacher guide — evidence) | Niue, *Teacher Guide for the Science-Related & Social Studies-Related Primary School ESD Readers* (teacher guide), Years 5–8, Core ESD concepts (balancing the social, economic and ecological pillars; systems thinking; tapu closed-season conservation traditions) — printed pp. 12–14 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 1 country (Ethiopia). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere.**
+
+Niue's own way (teacher guide — evidence): the guide localises the shared Pacific set country by country — its "Links to formal learning" section carries a dedicated Niue chapter (what sustainability means for Niueans; Niue curriculum links to SDG 4.7), the model other Pacific countries' sets follow. That evidence is stocked here as the way Niue teaches this thing; it does not change the acceptance count above.
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
 Book error taught corrected, exactly as the placements flag it: Unit 3's history mislabels its conferences — it calls the 1972 Stockholm conference '(known as the Brundtland Report)' and places a 'second UNCED' in Nairobi in 1987 — while the same spread later correctly attributes the Brundtland Commission's 1987 report 'Our Common Future'. This lesson teaches the corrected sequence (Stockholm 1972 and UNEP's founding; Brundtland 1987; Rio 1992; Johannesburg 2002) and names the error here only.
 
-Searchable tags: sustainable development, Brundtland, Our Common Future, Agenda 21, three dimensions, social studies, Haiti, Haïti verte, teacher sequence evidence
+Searchable tags: sustainable development, Brundtland, Our Common Future, Agenda 21, three dimensions, social studies, Haiti, Haïti verte, teacher sequence evidence, Niue, ESD Teacher Guide, teacher guide evidence

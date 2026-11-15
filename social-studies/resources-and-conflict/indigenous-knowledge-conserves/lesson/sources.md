@@ -1,6 +1,6 @@
 # Sources — Indigenous knowledge conserves
 
-countries: Ethiopia, Nauru, Tuvalu
+countries: Ethiopia, Nauru, Tuvalu, Niue
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Nauru, Tuvalu
 
 **Book 4:** *People and the Natural Environment in the Pacific* (student book, English) — Tuvalu, Institute of Education, University of the South Pacific (Tonga Campus), with UNESCO and Japanese Funds-in-Trust; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (record title says Social Science, Years 5-6; the book's own inner title page says "A Social Studies related reader for Years 7-8" — a record/printing mismatch, noted as a library debt). Grade 5 per record (inner title page: Years 7–8) (student). 24 PDF pp. (cover/title page verified against the record title; verified identical to the Nauru copy — same byte size, extracted text identical, cover renders identical — and read in full under Nauru; the Tuvalu copy was spot-checked (cover + contents text diff)). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/tuvalu-placements.md.
 
+**Book 5:** *People and the Natural Environment in the Pacific* (student book, English) — Niue, Institute of Education, University of the South Pacific (Tonga Campus), for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (inner title page: Years 7–8 — see the grade note). Grade: Grade 5 record / Years 5–6 per the Teacher Guide, Years 7–8 per the inner title page (student). Niue advisor: Birtha Togahai. 24 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE (content printed pp. 1–19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Knowledge accumulated over generations | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 6, printed pp. 154–156 |
@@ -18,8 +20,11 @@ countries: Ethiopia, Nauru, Tuvalu
 | Teaching pattern and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 6, guide printed pp. 117–130 |
 | Nauru part — People and the natural environment (thousands of years of living in harmony with land and ocean; sustainable living; Niue's sacred land) | Nauru, *People and the Natural Environment in the Pacific*, Grade 5, People and the natural environment — printed p. 5 |
 | Tuvalu part — People and the natural environment (thousands of years of living in harmony with land and ocean; sustainable living; Niue's sacred land) | Tuvalu, *People and the Natural Environment in the Pacific*, Grade 5, People and the natural environment (thousands of years of living in harmony with land and ocean; sustainable living; Niue's sacred land) — printed p. 5 |
+| Niue part — People and the natural environment (living in harmony with the land for thousands of years; Niue's belief that the land houses ancestral spirits; elders passing environmental knowledge through stories and practice) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, People and the natural environment (living in harmony with the land for thousands of years; Niue's belief that the land houses ancestral spirits; elders passing environmental knowledge through stories and practice) — printed pp. 5–6 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Nauru, Tuvalu).**
+**Acceptance count: taught in 4 countries (Ethiopia, Nauru, Tuvalu, Niue).**
+
+Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
 Nauru's own way: the land-side companion to the sea reader — the natural environment, ecosystems and resources are taught through two Pacific case-study plants (taro/pulaka and the coconut, the "tree of life") across Tonga, Niue and Tuvalu, then traditional farming is set against modern farming's damage. That way is stocked here as the way Nauru teaches this thing.
 
@@ -27,4 +32,4 @@ Tuvalu's own way: the land-side companion to the sea reader — and Tuvalu's own
 
 No book error is flagged for this lesson's pages in the placements. The teacher guide was first published in 2022 against the student book's 2023; the student book is the learner text of record, and the guide is cited as evidence only.
 
-Searchable tags: indigenous knowledge, plant medicine, biodiversity, conservation, ethiopia, social studies, resources and conflict, Nauru, People and the Natural Environment in the Pacific, Niue sacred land, Tuvalu
+Searchable tags: indigenous knowledge, plant medicine, biodiversity, conservation, ethiopia, social studies, resources and conflict, Nauru, People and the Natural Environment in the Pacific, Niue sacred land, Tuvalu, Niue Grade 5
