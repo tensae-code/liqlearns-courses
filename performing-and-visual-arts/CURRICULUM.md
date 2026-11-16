@@ -2420,7 +2420,34 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   Sumazau, Kolattam and Bharatanatyam; Bangsawan, Makyung and
   wayang kulit; Malay wood carving, tekat, batik, songket and pua.
 
-**The whole course stands at 715 lessons, 8,817 questions and
+- **Art expansion — Moldova (2026-11-16):** 419 placements stocked from
+  9 books (all student books, counted): 194 into existing lessons, 129
+  into already-built canonical lessons, and 96 into 32 NEW lessons
+  (Music: Musical Forms ×12; Moldovan and Romanian Composers ×10;
+  Musical Genres and Song Kinds ×7; Music Professions and Institutions
+  ×4; The Overture ×4; Moldovan Folk Instruments ×3; Metre and Time
+  Signatures ×2; Doina and Ciocîrlia ×2; Syncopation; Famous Melodies;
+  The Lied: Song with Piano; The Romance: Chamber Song; Collecting and
+  Arranging Folk Music; Consonance and Dissonance; The Musical
+  Miniature; The Symphony. Drama and Dance: Hora Dance ×5; Sîrba Dance
+  ×3; Bătuta Dance ×2; Brâul: The Belt Dance ×2; Călușarii; Hostropat
+  Wedding Dance; Mazurka. Visual Art: Stylisation and Decorative
+  Motifs ×7; Art Materials and Tools ×6; Moldovan Folk Ornaments ×6;
+  Genres of Painting ×4; Moldovan Art History ×2; Romanesque Art;
+  Gothic Art. Culture and Values: National Art and Identity; The We
+  Tree), 384 questions added, media as described slots only. Honesty
+  carried exactly as filed: all 9 books are COMPLETE student books;
+  the Autoevaluare/Evaluare assessment sections are named in the book
+  entries, not placed; the short "Dicționar"/"Glosar" glossary boxes
+  are inventory-only, named in the book entries, never stocked as
+  parts; songs are placed by title and theme only, never transcribed.
+  Moldova's own way is kept as named parts throughout: the hora, sîrba
+  and bătuta dances, the doina and Ciocîrlia, colinde and the calendar
+  customs, the fluier, nai, cimpoi and cobză, Moldovan folk ornament
+  and its motif meanings, and the Moldovan and Romanian composers,
+  singers and institutions named book by book.
+
+**The whole course stands at 747 lessons, 9,201 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

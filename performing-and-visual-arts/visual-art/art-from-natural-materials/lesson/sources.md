@@ -1,6 +1,6 @@
 # Sources — Art from Natural Materials
 
-countries: Mongolia
+countries: Mongolia, Moldova
 
 **Book 1:** *ДҮРСЛЭХ УРЛАГ, ТЕХНОЛОГИ I — Ерөнхий боловсролын сургуулийн 1 дүгээр ангийн сурах бичиг (Visual Art & Technology 1, textbook for grade 1 of the general education school)* (student book, Mongolian) — Mongolia, Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам (Ministry of Education, Culture, Science and Sports), Ulaanbaatar; cover edition 2020 (bibliographic record: UB 2014, 76 pages); authors' team led by Д.Цэдэн-Иш (D. Tseden-Ish), editor С.Нямсүрэн; ISBN 978-99973-69-53-6. Grade 1 (student book: STUDENT). Read as the ministry flipbook's 78 page images = cover + printed pp. 1–76 + back cover; every printed page read. Verdict: COMPLETE. Combined Visual Art & Technology volume: Part II (printed pp. 44–74) is the design-and-making strand — paper, leaf and clay construction, including simple models — placed as art-making; no electronics, machines or other non-art technology content exists in the volume. Exclusions named, not placed: Foreword (printed p. 5); the two poems and the song are placed by name and theme only — no verse text transcribed; Bibliography (printed p. 75 — inventory only). No PDF exists in the repo for this book — the library record is a PHANTOM PUSH (the repo holds no copy, in the tree or in any release); the book was read from the record's own recorded source, the Ministry's econtent.edu.mn flipbook edition, page-image by page-image — the same ministry book, verified by cover, imprint and ISBN against the record. The phantom-push debt stands for the library. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
 
@@ -15,7 +15,26 @@ countries: Mongolia
 | Mongolia — Part II: Өвс, ургамлаар бүтээл хийх (Creating with grass and plants) — a spider with a clay body and twig legs (a small spider's legs from grass), and a crane built from leaves and grass — a leaf body, a trimmed head and neck, grass legs and feathers — the appliqué leaves sealed with tape before they dry (student book; original target `visual-art/crafting-with-leaves`) | Book 2, printed p. 65 |
 | Mongolia — Part II: Навч, өвсөн наамал (Leaf and grass appliqué) — gathering and cleaning leaves and pressing them flat between book pages; a mouse glued from whole and halved leaves, with ears, whiskers and eyes; scissor safety rules pictured (student book; original target `visual-art/crafting-with-leaves`) | Book 2, printed p. 66 |
 
-**Acceptance count: taught in 1 country (Mongolia).**
+**Book 3:** *Educație plastică: Manual pentru clasele a III-a – a IV-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2016 (3rd edition); ISBN 978-9975-61-986-8 Grade: Grades 3–4 combined (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the end-of-chapter crossword/rebus checks and "Exerciții aplicative" practice prompts are assessment/practice apparatus, named here and not placed; the "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — G3 Ch. 1, Materiale de artă netradiționale — creating with what is around us: gathering and pressing leaves, cones, acorns, chestnuts and seeds, salt dough, napkin collage, a squirrel built leaf by leaf in pictured steps, and volumetric works from natural materials (student book; original target `visual-art/making-with-natural-and-found-materials`) | Book 3, printed pp. 17–22 |
+
+**Book 4:** *Educație plastică: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-939-8 (authors Eliza Puică-Vasilache, Zinaida Ursu) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 81 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluarea formativă sections (printed pp. 25, 40, 60, 72), the Evaluarea sumativă sections (pp. 41, 80) and the Autoevaluare (p. 75) are assessment only, named here and not placed. The "Termeni de atelier" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit I §3.1, Structuri minerale — mineral structures in art: the Amber Room, painting on stones, and mineral forms worked into tapestry, embroidery, ceramics and forged metal (student book; original target `visual-art/making-with-natural-and-found-materials`) | Book 4, printed p. 13 |
+
+**Book 5:** *Educație plastică: Manual pentru clasa a VII-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-389-7 Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluare inițială, printed p. 5, and Evaluarea sumativă nr. 1–2, printed pp. 37, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §7, Tehnici mixte și mijloace inovative — art from non-artistic materials: ephemeral compositions of snow, ice, leaves, sand and flowers that melt or blow away; and art from recyclables — a tea-time set from used tea bags, a composition of recovered pans (student book; original target `visual-art/making-with-natural-and-found-materials`) | Book 5, printed pp. 24–25 |
+| Moldova — Unit II §7 — Picasso's "Bull's Head" (1942): a bicycle saddle and handlebars found among waste, seen with an artist's eye, become a sculpture (student book; original target `visual-art/making-with-natural-and-found-materials`) | Book 5, printed p. 25 |
+
+**Acceptance count: taught in 2 countries (Mongolia, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/art-from-natural-materials`); the Mongolia placements were filed as NEW LESSON NEEDED under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs are placed by name and theme only, never transcribed.
 

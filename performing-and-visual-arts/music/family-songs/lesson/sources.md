@@ -1,6 +1,6 @@
 # Sources — Family Songs
 
-countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola, Rwanda, Malaysia
+countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola, Rwanda, Malaysia, Moldova
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -59,7 +59,13 @@ countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, An
 |---|---|
 | Malaysia — Unit 1 song "Lagu Ibu" — a song honouring mother, sung in ensemble (student book; original target `music/family-songs`) | Book 16, printed p. 7 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola, Malaysia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 17:** *Educație muzicală: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-445-0 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: the four Evaluare (assessment) sections, printed pp. 26, 38, 55, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 3, song "Mama, doar mama" — "Mother, only mother" (verses Eugen Rotaru, music Marius Țeicu), sung three ways: choir, soloists with choir, and dialogue (student book; original target `music/family-songs`) | Book 17, printed p. 54 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola, Malaysia, Moldova).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 No lyrics of any family song are transcribed; the songs are named and their messages summarised, as the placements give them. The same holds for Sub lesson 4's "ልጅነቴ" (My Childhood), added by Group G: named, sourced (ህይወት ማሞ, traditional melody) and summarised — never transcribed. The written-notes step is named and explained in words only — this lesson does not teach reading the notes themselves; that belongs to the notation lessons of Group E.
 

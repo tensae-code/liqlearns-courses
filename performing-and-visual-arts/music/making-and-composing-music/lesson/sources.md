@@ -1,6 +1,6 @@
 # Sources — Making and Composing Music
 
-countries: Barbados, Suriname, Cuba, Venezuela, Mongolia, Rwanda, Bolivia, Malaysia
+countries: Barbados, Suriname, Cuba, Venezuela, Mongolia, Rwanda, Bolivia, Malaysia, Moldova
 
 **Book 1:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
 
@@ -122,7 +122,19 @@ countries: Barbados, Suriname, Cuba, Venezuela, Mongolia, Rwanda, Bolivia, Malay
 |---|---|
 | Malaysia — Unit 6 Penghasilan Melodi Berdasarkan Improvisasi — producing a melody from improvisation (filed under the Book 14 lesson slug music/melody-creation-and-improvisation) (student book; original target `music/melody-creation-and-improvisation`) | Book 19, printed p. 118 |
 
-**Acceptance count: taught in 5 countries(Venezuela, Mongolia, Rwanda, Bolivia, Malaysia) — this lesson stands on Barbados curriculum syllabus evidence only, named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 20:** *Educație muzicală: Manual pentru clasa a 3-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2016; ISBN 978-9975-85-026-1 (barcode on back cover) Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the three Autoevaluare (self-assessment) sections, printed pp. 37, 67, 90 — assessment only, not placed. The listening repertoire of score fragments, printed pp. 91–95, repeats pieces already placed from Themes 1–2 and is not placed twice. Short "Dicționar" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Theme 3, Să improvizăm muzical — improvising: creating melodies and rhythms on the spot to show a mood or a picture (a spring tableau), and the "Musical Dialogues" improvisation game (student book; original target `music/improvising-music`) | Book 20, printed p. 83 |
+
+**Book 21:** *Educație muzicală: Manual pentru clasa a IV-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-382-8 (CIP page; authors Ion Gagim, Marina Cosumov, Liliana Cîșlaru) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Autoevaluare sections at printed pp. 28, 49, 76 and the summative Autoevaluare at pp. 93–95 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of songs already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 3, improvisation exercise — inventing a melody over a given rhythm and marking its anacrusis (student book; original target `music/improvising-music`) | Book 21, printed p. 57 |
+
+**Acceptance count: taught in 6 countries (Venezuela, Mongolia, Rwanda, Bolivia, Malaysia, Moldova) — this lesson stands on Barbados curriculum syllabus evidence only, named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/making-and-composing-music`); the Barbados placements were filed under the original string `music/composing-simple-tunes-and-lyrics`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: composing starts in Class 1, from the same three recorder notes the children are learning to read — B, A and G — fitted to given rhythm patterns, with lyrics of their own.
 

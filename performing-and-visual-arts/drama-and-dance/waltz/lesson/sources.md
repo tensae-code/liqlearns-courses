@@ -1,6 +1,6 @@
 # Sources — The Waltz
 
-countries: Iceland, Cuba, Mongolia
+countries: Iceland, Cuba, Mongolia, Moldova
 
 **Book 1:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -14,7 +14,25 @@ countries: Iceland, Cuba, Mongolia
 |---|---|
 | Mongolia — Вальс (Waltz) by I. Strauss — listening with attention and accompanying the waltz in quarter notes: the first share with the left hand, the second and third with the right; a waltz is in three shares, the first strong and the other two weak (student book; original target `drama-and-dance/dances-from-near-and-far`) | Book 3, printed p. 27 |
 
-**Acceptance count: taught in 2 countries(Cuba, Mongolia). Earlier evidence-only entries stay outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 4:** *Educație muzicală: Manual pentru clasa a 3-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2016; ISBN 978-9975-85-026-1 (barcode on back cover) Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the three Autoevaluare (self-assessment) sections, printed pp. 37, 67, 90 — assessment only, not placed. The listening repertoire of score fragments, printed pp. 91–95, repeats pieces already placed from Themes 1–2 and is not placed twice. Short "Dicționar" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Theme 2, Valsul — the waltz: a graceful turning dance in three beats, and Eugen Doga's waltz "Gingașa și tandra mea fiară", sung and danced at weddings and celebrations (student book; original target `drama-and-dance/waltz`) | Book 4, printed p. 61 |
+
+**Book 5:** *Educație muzicală: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-392-7 (authors Marina Morari, Pavlina Zavatin) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluare (assessment) sections at printed pp. 25, 49, 65, 80 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of pieces already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 2, Beethoven's Contredances — the contredance, a court dance in facing rows of pairs, and the album's three dance kinds: waltz, minuet and landler (student book; original target `drama-and-dance/waltz`) | Book 5, printed p. 33 |
+
+**Book 6:** *Educație muzicală: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-445-0 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: the four Evaluare (assessment) sections, printed pp. 26, 38, 55, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 4, Valsul nr. 15 — Brahms' Waltz No. 15 in C minor (from the 16 Waltzes, Op. 39): a lyrical piano waltz of legato, gliding sounds, made for music-making in the family (student book; original target `drama-and-dance/waltz`) | Book 6, printed p. 60 |
+
+**Acceptance count: taught in 3 countries (Cuba, Mongolia, Moldova). Earlier evidence-only entries stay outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/waltz`). The Iceland placements were filed as NEW LESSON NEEDED under the original string(s) `drama-and-dance/the-waltz`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Iceland's own way, carried in the placements: a listening journey through the whole history of popular music — taught by listening, playing rhythm parts from notation, singing, and dancing, with Iceland's own musicians, revue songs, seamen's songs and dance bands woven through as national content. Songs are placed by their teaching topics only — no lyrics or notation are transcribed.
 

@@ -1,6 +1,6 @@
 # Sources — Opera
 
-countries: Iceland, Malta, Belarus, Brazil, Cuba, Bolivia
+countries: Iceland, Malta, Belarus, Brazil, Cuba, Bolivia, Moldova
 
 **Book 1:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -36,7 +36,21 @@ countries: Iceland, Malta, Belarus, Brazil, Cuba, Bolivia
 |---|---|
 | Bolivia — The Lied's three shapes — the Lied, the brief lyric-romantic song for solo voice and (usually) piano, a poem set to music, brilliant in the Romantic era: strophic (the same melody in every stanza, A-A-A), bipartite (two sections repeated, A-A-B-B) and tripartite (the third part repeats the first, A-B-A); Franz Schubert, with more than 600 works, its outstanding composer, with Hugo Wolf and Gustav Mahler (teacher compendium — evidence; original target `music/opera-and-musical-theatre`) | Book 8, PDF p. 76 |
 
-**Acceptance count: taught in 4 countries (Belarus, Brazil, Cuba, Bolivia).** Iceland teacher guide evidence is named here, counted nowhere. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
+**Book 9:** *Educație muzicală: Manual pentru clasa a IV-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-382-8 (CIP page; authors Ion Gagim, Marina Cosumov, Liliana Cîșlaru) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Autoevaluare sections at printed pp. 28, 49, 76 and the summative Autoevaluare at pp. 93–95 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of songs already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 3, Interpreți vocali celebri — opera, the sung theatre: Maria Bieșu, prima donna of the national opera, and her prize-winning Cio-Cio-San in Puccini's "Madame Butterfly" (student book; original target `music/opera-and-its-world`) | Book 9, printed p. 67 |
+| Moldova — Unit 3, Interpreți vocali celebri — Maria Cebotari, whose name is engraved at La Scala, Valentina Naforniță, and tenor Mihai Munteanu (student book; original target `music/opera-and-its-world`) | Book 9, printed pp. 68–70 |
+
+**Book 10:** *Educație muzicală: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-392-7 (authors Marina Morari, Pavlina Zavatin) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluare (assessment) sections at printed pp. 25, 49, 65, 80 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of pieces already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 4, Genurile muzicii dramatice — musical theatre: opera, born in Italy in the 1500s, and ballet, born in France in the 1400s, both opening with an overture; Rameau's opera-ballet "Les Indes galantes" (student book; original target `music/opera-and-its-world`) | Book 10, printed p. 76 |
+| Moldova — Unit 4, Mozart's "Flautul fermecat" — The Magic Flute, the opera-fairy-tale with spoken dialogue instead of recitative, and Papageno's aria with its bells and flute (student book; original target `music/opera-and-its-world`) | Book 10, printed p. 77 |
+
+**Acceptance count: taught in 5 countries (Belarus, Brazil, Cuba, Bolivia, Moldova).** Iceland teacher guide evidence is named here, counted nowhere. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/opera`). The Iceland placements were filed as NEW LESSON NEEDED under the original string(s) `music/opera-and-the-total-work-of-art`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Iceland's own way, carried in the placements: a listening journey through the whole history of popular music — taught by listening, playing rhythm parts from notation, singing, and dancing, with Iceland's own musicians, revue songs, seamen's songs and dance bands woven through as national content. Songs are placed by their teaching topics only — no lyrics or notation are transcribed.
 

@@ -1,6 +1,6 @@
 # Sources — Traditional and Festival Songs
 
-countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Sri Lanka, Angola, Rwanda
+countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Sri Lanka, Angola, Rwanda, Moldova
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -78,7 +78,19 @@ countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia
 | Rwanda — Unit 3 Lesson 5: Songs related to birthdays — birthday songs wishing a good birthday, thanking God for baptism and remembering the date, and what is done for a person on their birthday (dancing, gifts) (teacher guide — evidence) | Book 24, printed p. 60 |
 
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Angola). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 25:** *Educație muzicală: Manual pentru clasa a 3-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2016; ISBN 978-9975-85-026-1 (barcode on back cover) Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the three Autoevaluare (self-assessment) sections, printed pp. 37, 67, 90 — assessment only, not placed. The listening repertoire of score fragments, printed pp. 91–95, repeats pieces already placed from Themes 1–2 and is not placed twice. Short "Dicționar" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Theme 2, song "Clopoței, clopoței..." — the winter sleigh-bell song (Jingle Bells melody) sung for the Christmas season with dance movements (student book; original target `music/traditional-and-festival-songs`) | Book 25, printed p. 53 |
+
+**Book 26:** *Educație muzicală: Manual pentru clasa a IV-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-382-8 (CIP page; authors Ion Gagim, Marina Cosumov, Liliana Cîșlaru) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Autoevaluare sections at printed pp. 28, 49, 76 and the summative Autoevaluare at pp. 93–95 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of songs already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 4, Muzica tradițiilor și obiceiurilor populare — music at the year's celebrations: Village Day, the "Limba noastră" language holiday, Children's Day and Knowledge Day (student book; original target `music/traditional-and-festival-songs`) | Book 26, printed p. 77 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Angola, Moldova). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 Traditional songs are placed by name, season and purpose only; their lyrics are never transcribed in this lesson — the books themselves print several of them as repertoire, and the lesson follows the placements in naming and summarising rather than copying. The Genna game song "አሲና በል" (Asina Bel, Grade 3 student textbook, printed p. 54) is named in the placements as its own target and belongs with the Genna game in the Culture and Values festival lesson, not here; it is not stocked in this lesson.
 

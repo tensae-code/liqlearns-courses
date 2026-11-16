@@ -1,7 +1,7 @@
 # Sources — Mixing Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Libya, Venezuela, Angola, Afghanistan, Rwanda
+countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Libya, Venezuela, Angola, Afghanistan, Rwanda, Moldova
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -91,7 +91,27 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique,
 | Rwanda — Part 2 Unit 1 Lesson 3: Methods of drawing and colour application — methods of drawing and of applying colour, including mixing primary colours into secondary colours (teacher guide evidence) (teacher guide — evidence) | Book 25, printed p. 67 |
 
 
-**Acceptance count: taught in 13 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Brazil, Venezuela, Angola, Afghanistan, Rwanda). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 26:** *Educație plastică: Manual pentru clasele a III-a – a IV-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2016 (3rd edition); ISBN 978-9975-61-986-8 Grade: Grades 3–4 combined (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the end-of-chapter crossword/rebus checks and "Exerciții aplicative" practice prompts are assessment/practice apparatus, named here and not placed; the "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — G3 Ch. 2, Amestecuri cromatice — mixing neighbouring colours into nuances and chromatic scales, complementary pairs neutralising to grey, mixing with white for light tones and black for dark tones, and colour fusion on the wet sheet (student book; original target `visual-art/mixing-colours`) | Book 26, printed pp. 33–36 |
+| Moldova — G4 Ch. 2, Nuanțele — nuances made by mixing neighbouring colours on the wheel in measured parts, named for the larger part (2 parts yellow + 1 green = yellow-green) (student book; original target `visual-art/mixing-colours`) | Book 26, printed p. 71 |
+
+**Book 27:** *Educație plastică: manual pentru clasa a 4-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2020; ISBN 978-9975-0-0407-7 (authors Ion Canțîru, Alexandru Vatavu, Olga Carauș) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 58 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the "Exerciții aplicative" end-of-unit exercise sets (printed pp. 35, 55) are practice/assessment apparatus, named here and not placed; "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 2, Amestecul cromatic — mixing colours: shades (nuanțe) from neighbouring colours on the wheel, named after the colour used in greater part (yellow-green against green-yellow) (student book; original target `visual-art/mixing-colours`) | Book 27, printed p. 33 |
+| Moldova — Unit 2, Tonul culorii — the tone of a colour: mix with white for light tones, with black for dark tones, and so render light, shadow, volume and space (student book; original target `visual-art/mixing-colours`) | Book 27, printed p. 36 |
+
+**Book 28:** *Educație plastică: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-938-1 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 81 (80 printed pages plus cover; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluarea formativă nr. 1–4, printed pp. 24, 41, 61, 73, and Evaluarea sumativă nr. 1–2, printed pp. 49, 80 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §4, Gradația valorică a culorii — value gradation and monochrome: mixing physically on the palette or optically; one colour opened with white and closed with black through all its tones; watercolour thinned for light tones; Picasso's "Guernica" in its sober grey-blue monochrome (student book; original target `visual-art/mixing-colours`) | Book 28, printed pp. 32–33 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Brazil, Venezuela, Angola, Afghanistan, Rwanda, Moldova). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 Sub lesson 2 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook. The Grade 3 Chapter 2 closing exercise carries the trap item "red mixed equally with yellow creates green" (false — it creates orange, per §2.3); the lesson teaches the corrected mixing and uses the trap as a question, exactly as the book's exercise frames it.
 

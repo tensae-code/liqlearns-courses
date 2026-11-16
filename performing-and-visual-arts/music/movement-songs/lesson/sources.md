@@ -1,6 +1,6 @@
 # Sources — Movement Songs
 
-countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan, Libya, Angola, Rwanda, Malaysia
+countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan, Libya, Angola, Rwanda, Malaysia, Moldova
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -57,7 +57,20 @@ countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan, Libya, Angola
 |---|---|
 | Malaysia — Unit 2 Kek Cawan Comel — singing the cupcake song and clapping its rhythm patterns (ti-ti, ta, ta-a, ta-a-a-a) (student book; original target `music/movement-songs`) | Book 16, printed pp. 18–19 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Fiji, Jordan, Angola, Malaysia).** Fiji's Year 1-2 teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 17:** *Educație muzicală: Manual pentru clasa a 3-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2016; ISBN 978-9975-85-026-1 (barcode on back cover) Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the three Autoevaluare (self-assessment) sections, printed pp. 37, 67, 90 — assessment only, not placed. The listening repertoire of score fragments, printed pp. 91–95, repeats pieces already placed from Themes 1–2 and is not placed twice. Short "Dicționar" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Theme 1, folk game-song "Nimeni nu e singurel" — a children's folk song-game about nobody being alone (ant with ant, dove with dove), sung as a game with self-made rhythmic accompaniment (student book; original target `music/movement-songs`) | Book 17, printed p. 19 |
+| Moldova — Theme 3, musical game "Dacă vesel se trăiește" — a circle song-game where each verse adds a gesture or dance movement everyone repeats (student book; original target `music/movement-songs`) | Book 17, printed p. 73 |
+
+**Book 18:** *Educație muzicală: Manual pentru clasa a IV-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-382-8 (CIP page; authors Ion Gagim, Marina Cosumov, Liliana Cîșlaru) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Autoevaluare sections at printed pp. 28, 49, 76 and the summative Autoevaluare at pp. 93–95 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of songs already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 1, Folclorul copiilor — children's own folklore: lullabies, the swinging game "Huța huța", calls to the sun, butterfly and rain, and the song-game "Facem hora mare" (student book; original target `music/movement-songs`) | Book 18, printed p. 13 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Fiji, Jordan, Angola, Malaysia, Moldova).** Fiji's Year 1-2 teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 1 placement asks for a GIF of the full clapping step pattern with children; full-body step choreography drawn frame by frame did not read truly, so the filed GIF carries the clap itself — the beat moment of the song — and the step pattern is taught in words and in the hands-on work. No motion that failed its frame check was filed.
 

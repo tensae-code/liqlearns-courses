@@ -1,6 +1,6 @@
 # Sources — Looking at Pictures
 
-countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwanda
+countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwanda, Moldova
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -53,7 +53,25 @@ countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwa
 | Rwanda — Unit 2 Lesson 4: Study and use of pictures related to the environment — studying printed pictures of the environment, judging the beauty of the objects and caring for the materials and tools (teacher guide — evidence) | Book 13, printed p. 32 |
 
 
-**Acceptance count: taught in 4 countries(Ethiopia, Honduras, Finland, Mongolia). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 14:** *Educație plastică: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-939-8 (authors Eliza Puică-Vasilache, Zinaida Ursu) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 81 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluarea formativă sections (printed pp. 25, 40, 60, 72), the Evaluarea sumativă sections (pp. 41, 80) and the Autoevaluare (p. 75) are assessment only, named here and not placed. The "Termeni de atelier" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit I §2, Comunicarea prin imagini vizual-plastice — an image speaks: reading a work through point, line, patch, form and colour (Rusu-Ciobanu's "Tinerețe"; Delacroix's "Liberty Leading the People") (student book; original target `first-steps/looking-at-pictures`) | Book 14, printed p. 6 |
+
+**Book 15:** *Educație plastică: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-938-1 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 81 (80 printed pages plus cover; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluarea formativă nr. 1–4, printed pp. 24, 41, 61, 73, and Evaluarea sumativă nr. 1–2, printed pp. 49, 80 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit I §1.1, Receptarea obiectelor — reading the objects of past ages inside paintings: the instruments and globes in Holbein's "Ambassadors", the room's things in Rusu-Ciobanu's "Micul dejun", and the prehistoric vestiges (axes, spearheads, cups) that sharp observation preserves (student book; original target `first-steps/looking-at-pictures`) | Book 15, printed p. 4 |
+
+**Book 16:** *Educație plastică: Manual pentru clasa a VII-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-389-7 Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluare inițială, printed p. 5, and Evaluarea sumativă nr. 1–2, printed pp. 37, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §11, Mesajul operei de artă — narrative images, which show a scene plainly, against suggestive images, which hide an idea: the Japanese gyotaku fish print beside Brâncuși's "Big Fish"; and the two roads of the viewer — deciphering the author's message, or finding one's own feelings reflected (student book; original target `first-steps/looking-at-pictures`) | Book 16, printed pp. 33–34 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Honduras, Finland, Mongolia, Moldova). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 Sub lesson 1 rests on the Grade 1 teacher guide's named visual-perception skill and is labelled teacher-guide evidence in the table; the lesson as a whole also rests on the student book's §1.5, so the acceptance count below counts the student book. The four family scenes are the student book's own §1.5 picture pages, described — not reproduced.
 

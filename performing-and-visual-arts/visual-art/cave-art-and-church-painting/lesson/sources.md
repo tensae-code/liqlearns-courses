@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -97,7 +97,26 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, S
 |---|---|
 | Bolivia — When and where art begins — the origin of art placed in the Palaeolithic, in the Stone Age: against the older theory of a European beginning 40,000 years ago with Homo sapiens, recent finds in Africa and Australia make art's appearance a universal phenomenon — and raise the possibility that Neanderthal man also produced art (teacher compendium — evidence) | Book 24, PDF p. 21 |
 
-**Acceptance count: taught in 14 countries(Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
+**Book 25:** *Educație plastică: Manual pentru clasele a III-a – a IV-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2016 (3rd edition); ISBN 978-9975-61-986-8 Grade: Grades 3–4 combined (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the end-of-chapter crossword/rebus checks and "Exerciții aplicative" practice prompts are assessment/practice apparatus, named here and not placed; the "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — G4 Ch. 2, Linia în arta veche — line at the beginning of art: the Lascaux cave paintings drawn in line, line's sober rule in Japanese prints, and Van Gogh's wheat field moved by lines and points (student book; original target `visual-art/cave-art-and-church-painting`) | Book 25, printed p. 62 |
+
+**Book 26:** *Educație plastică: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-939-8 (authors Eliza Puică-Vasilache, Zinaida Ursu) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 81 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluarea formativă sections (printed pp. 25, 40, 60, 72), the Evaluarea sumativă sections (pp. 41, 80) and the Autoevaluare (p. 75) are assessment only, named here and not placed. The "Termeni de atelier" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit I §1, Imaginea vizual-plastică în mediul înconjurător — visual images all around us, from the cave paintings of Lascaux and Altamira to posters, billboards, shop windows, frescoes, graffiti and mosaics (student book; original target `visual-art/cave-art-and-church-painting`) | Book 26, printed p. 4 |
+| Moldova — Unit IV §3.1, Arta Egiptului Antic — ancient Egypt: the Giza pyramids, temples with lotus capitals, and the strict canon for drawing a pharaoh (face and feet in profile, eyes, shoulders and torso from the front) (student book; original target `visual-art/cave-art-and-church-painting`) | Book 26, printed p. 65 |
+
+**Book 27:** *Educație plastică: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-938-1 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 81 (80 printed pages plus cover; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluarea formativă nr. 1–4, printed pp. 24, 41, 61, 73, and Evaluarea sumativă nr. 1–2, printed pp. 49, 80 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit I §5, Expresivitatea imaginii — cave painting (the Chauvet cave) as the first manifestation of plastic culture: birds, animals and hunting scenes on rock walls (student book; original target `visual-art/cave-art-and-church-painting`) | Book 27, printed p. 22 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 

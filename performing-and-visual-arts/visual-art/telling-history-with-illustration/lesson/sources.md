@@ -1,6 +1,6 @@
 # Sources — Telling History with Illustration
 
-countries: Ethiopia, Nicaragua
+countries: Ethiopia, Nicaragua, Moldova
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors እሸቱ ታደሰ (Eshetu Tadesse) and ደስታ ይትባረክ (Desta Yitbarek); editors አታላይ መስፍን (Atalay Mesfin) and ደምሌ አባተ (Demle Abate). Printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -14,7 +14,13 @@ countries: Ethiopia, Nicaragua
 | Sub lesson 4 — Telling history with theatre: theatre presenting the country's history, its setting and its characters on stage narrates unforgettably for the audience; named history plays — "ህንደኬ" (Hindeke), "የቴዎድሮስ ራዕይ" (The Vision of Tewodros), "ጣይቱ" (Taytu), "የቃቄ ውርደወት" (Qaqe Wirdiwet) — presented at the National Theatre, the Hager Fikir Theatre and other venues; practical — choose a one-moment scene from the country's great plays and tell the history and era it made you feel | Book 1, §3.1.3, printed p. 68 |
 | Nicaragua — Graphic representations of short stories — telling a short story through a succession of drawings (teacher guide — evidence) | Book 2, printed p. 17 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Book 3:** *Educație plastică: manual pentru clasa a 4-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2020; ISBN 978-9975-0-0407-7 (authors Ion Canțîru, Alexandru Vatavu, Olga Carauș) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 58 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the "Exerciții aplicative" end-of-unit exercise sets (printed pp. 35, 55) are practice/assessment apparatus, named here and not placed; "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 1, Ilustrația de carte — the drawings in a book are illustrations: polychrome or monochrome, their colours show the good hero from the wicked one; the class project "I am a book illustrator" (student book; original target `visual-art/telling-history-with-illustration`) | Book 3, printed p. 5 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Moldova). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: The named plays in Sub lesson 4 are placed by name and venue only, exactly as the placement gives them; no play text is transcribed. The Menelik-era photographs (the book's Fig. 37) are described, never copied. Ethiopia's age as a civilisation is taught in the book's own framing ("among the world's ancient civilisations, a country of many languages and astonishing cultures") and is carried as the book's teaching, not as a new claim.
 

@@ -1,6 +1,6 @@
 # Sources — Origami
 
-countries: Romania, Serbia, Finland, Angola, Mongolia
+countries: Romania, Serbia, Finland, Angola, Mongolia, Moldova
 
 **Book 1:** *Arte vizuale și abilități practice — Manual pentru clasa a III-a, Semestrul al II-lea (Visual Arts and Practical Skills, Grade 3, Semester 2)* (student book, Romanian) — Romania, Ministerul Educației și Cercetării Științifice / Editura CD Press, 2015; authors Mirela Flonta, Claudia Stupineanu, Simona Dobrescu; approved by ministerial order 5046/25.08.2015; ISBN 978-606-528-223-0 (work), 978-606-528-269-8 (Part 2), Grade 3, 48 PDF pp. STUDENT — student book. Verdict: COMPLETE. The PDF is image-only (no text layer), so it was read visually page by page from 100-DPI renders; PDF and renders deleted after filing. Cover verified: title, grade and semester match the record. Excluded per the placements: the three Recapitulare. Evaluare test pages (printed pp. 24, 34, 46) and the final evaluation test part (printed p. 47) are the book's own assessment — excluded; their companion PROJECTS (plaster vase, School Street, Hansel and Gretel set) do teach skills and are placed. The closing Dicționar (printed p. 48) is a glossary — inventory-only, named here, never stocked as parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/romania-placements.md.
 
@@ -37,7 +37,19 @@ countries: Romania, Serbia, Finland, Angola, Mongolia
 |---|---|
 | Mongolia — Part II: Цаас нугалж дүрс үүсгэх (Creating shapes by folding paper) — a folded-paper hen and a folded puppy, head and body, fold by fold from the diagrams (student book; original target `visual-art/folding-paper-origami`) | Book 7, printed pp. 42–43 |
 
-**Acceptance count: taught in 5 countries(Romania, Serbia, Finland, Angola, Mongolia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 8:** *Educație plastică: manual pentru clasa a 4-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2020; ISBN 978-9975-0-0407-7 (authors Ion Canțîru, Alexandru Vatavu, Olga Carauș) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 58 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the "Exerciții aplicative" end-of-unit exercise sets (printed pp. 35, 55) are practice/assessment apparatus, named here and not placed; "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 2, Procedee de obținere a formelor volumetrice — volumetric form has three dimensions; origami, the Japanese art of folding a square of paper into toys, birds and animals (student book; original target `visual-art/origami-paper-folding`) | Book 8, printed p. 31 |
+
+**Book 9:** *Educație plastică: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-939-8 (authors Eliza Puică-Vasilache, Zinaida Ursu) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 81 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluarea formativă sections (printed pp. 25, 40, 60, 72), the Evaluarea sumativă sections (pp. 41, 80) and the Autoevaluare (p. 75) are assessment only, named here and not placed. The "Termeni de atelier" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §2, Forme spațiale — making three-dimensional forms: modelled in clay, plasticine or wire, mocked up in paper and cardboard (the architectural machete), or folded — origami (student book; original target `visual-art/origami-paper-folding`) | Book 9, printed p. 30 |
+
+**Acceptance count: taught in 6 countries (Romania, Serbia, Finland, Angola, Mongolia, Moldova).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/origami`); the Romania placement was filed under the original string `visual-art/origami`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Romania's own way: a technique-first teaching — origami is taught as a named art with its own history and its own discipline of steps, paper and creases, before the folded models begin. (In this lesson's sources, Book 1 is the Romania Grade 3 Arte vizuale book.)
 

@@ -1,6 +1,6 @@
 # Sources — Sacred and Religious Songs
 
-countries: Jordan, Libya, Rwanda
+countries: Jordan, Libya, Rwanda, Moldova
 
 **Book 1:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
 
@@ -55,7 +55,13 @@ countries: Jordan, Libya, Rwanda
 | Rwanda — Part 1 Unit 1 Lesson 1: Singing in tune songs on the theme of church music with expressions — church songs sung in tune with expressions that carry the message (teacher guide evidence) (teacher guide — evidence; original target `music/religious-songs`) | Book 11, printed p. 2 |
 
 
-**Acceptance count: taught in 2 countries (Jordan, Rwanda).** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 12:** *Educație muzicală: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-445-0 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: the four Evaluare (assessment) sections, printed pp. 26, 38, 55, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 1, Muzica și cuvântul — the sung prayer: church chant as music wedded to the sacred word (student book; original target `music/sacred-music`) | Book 12, printed p. 6 |
+
+**Acceptance count: taught in 3 countries (Jordan, Rwanda, Moldova).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/sacred-and-religious-songs`); the Jordan placements were filed under the original string(s) `music/religious-songs` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 

@@ -1,6 +1,6 @@
 # Sources — Assemblage
 
-countries: Barbados, Serbia
+countries: Barbados, Serbia, Moldova
 
 **Book 1:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -14,7 +14,13 @@ countries: Barbados, Serbia
 | Serbia — "Tying and joining forms" — a new form can arise by joining or tying parts of old objects into new wholes; the way of joining already-used parts into a new whole is called assemblage, used by 20th-century artists with fabric, string, buttons and paper from old magazines and newspapers (Calder, Tinguely, Max Ernst pictured); make a work of your own free choice from parts of objects, and a character from your favourite cartoon from parts of various objects (original target `visual-art/assemblage`) | Book 2, printed pp. 34–35 |
 | Serbia — "Movement of living beings", the assemblage exercise — choose one animal and show it in movement, making the work from various parts of objects, cuttings from old newspapers and magazines, and coloured papers (original target `visual-art/assemblage`) | Book 2, printed p. 37 |
 
-**Acceptance count: taught in 1 country (Serbia). Barbados curriculum guide evidence is named here, counted nowhere.**
+**Book 3:** *Educație plastică: Manual pentru clasa a VII-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-389-7 Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluare inițială, printed p. 5, and Evaluarea sumativă nr. 1–2, printed pp. 37, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §7 — mixed techniques: working "with anything on anything", blurring the border of flat and spatial art; collage and assemblage born in 1912 when Picasso set a piece of printed oilcloth into a painting; the plastic gestures — spraying paint, merging materials, scratching the surface, incorporating objects (student book; original target `visual-art/mixed-techniques-and-assemblage`) | Book 3, printed pp. 25–26 |
+
+**Acceptance count: taught in 2 countries (Serbia, Moldova). Barbados curriculum guide evidence is named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/assemblage`); the Barbados placements were filed under the original string `visual-art/assemblage-and-found-object-art`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: assemblage in Class 4 is jewellery from the island's natural beads joined with man-made ones, objects built for space and balance, and wooden toys designed and made by the children. (In this lesson's sources, Book 1 is the Barbados Visual Arts Curriculum Guide.)
 

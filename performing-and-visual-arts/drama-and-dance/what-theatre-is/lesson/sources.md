@@ -1,6 +1,6 @@
 # Sources — What Theatre Is
 
-countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan, Venezuela, Malaysia
+countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan, Venezuela, Malaysia, Moldova
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -35,7 +35,13 @@ countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jord
 |---|---|
 | Malaysia — Unit 1 Asas Lakon: Pengenalan — acting basics: acting is imitating an action — of a person, an animal or a plant — and building a character from the imitation (dress, speech, gait) (student book; original target `drama-and-dance/what-theatre-is`) | Book 9, printed p. 1 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Iran, Jordan, Venezuela, Malaysia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 10:** *Educație muzicală: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-445-0 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: the four Evaluare (assessment) sections, printed pp. 26, 38, 55, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 1, Muzica și teatrul — theatre's long history in brief, music's place inside a stage show, and the syncretism of the arts in spectacle: opera and ballet as the meeting of literature, music, choreography, visual art and theatre (student book; original target `drama-and-dance/what-theatre-is`) | Book 10, printed pp. 22–23 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Iran, Jordan, Venezuela, Malaysia, Moldova). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson rests on the Grade 4 student book's own definition (§1.3). The book's performance picture (Fig. 1.12, printed p. 16) is described as a slot; it is not reproduced.
 

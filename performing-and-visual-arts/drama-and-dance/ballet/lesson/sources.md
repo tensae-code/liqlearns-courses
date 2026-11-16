@@ -1,6 +1,6 @@
 # Sources — Ballet
 
-countries: Malta, Belarus, Cuba
+countries: Malta, Belarus, Cuba, Moldova
 
 **Book 1:** *Music Shines II — Unit 9 Listening and Appraising (§§9.4–9.6)* (teacher guide pages + pupil activities, English) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 4 per record; the PDF carries the Year 4, Year 5 and Year 6 levels (printed pp. 157–169), 13 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 9. Cover/title page verified against the record title — first page is the Unit 9 divider, printed p. 157. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -12,7 +12,13 @@ countries: Malta, Belarus, Cuba
 
 | Belarus — Journey to the land Ballet: ballet is a musical performance whose story is told by music and dance — ballet master, ballerinas, dancers, corps de ballet and orchestra; Glebov's Belarusian ballet "The Little Prince" and its Adagio, the slow lyrical dance of the main heroes; Tchaikovsky's Nutcracker March, the Neapolitan Dance from Swan Lake with its solo trumpet, the Sleeping Beauty Waltz; Prokofiev's Cinderella Waltz (Midnight); Stravinsky's Petrushka dolls' dance; Khodosko's Belarusian ballet "The Golden Key", its Buratino and Karabas read from the music (student book; original target `drama-and-dance/ballet-a-story-told-in-dance`) | Book 2, printed pp. 99–111 |
 
-**Acceptance count: taught in 1 country (Belarus).** Malta teacher guide evidence is named here, counted nowhere. Cuba is added as a student book, inside the acceptance count.
+**Book 5:** *Educație muzicală: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-445-0 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: the four Evaluare (assessment) sections, printed pp. 26, 38, 55, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 1, Muzica și teatrul — ballet and its music: Mozart's ballet "Les petits riens" (1778, with choreographer Noverre) and Tchaikovsky's "Sleeping Beauty" — its Waltz, its Adagio, and the libretto that tells the story (student book; original target `drama-and-dance/ballet-and-its-music`) | Book 5, printed pp. 23–24 |
+
+**Acceptance count: taught in 2 countries (Belarus, Moldova).** Malta teacher guide evidence is named here, counted nowhere. Cuba is added as a student book, inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/ballet`). The Malta placements were filed as NEW LESSON NEEDED under the original string(s) `drama-and-dance/ballet-a-story-told-in-dance`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Malta's own way: ballet is met inside the listening-and-appraising unit — a story told in dance, appraised through Tchaikovsky's Nutcracker, retold by summary only. Songs and stories are placed by summary only, never transcribed.
 

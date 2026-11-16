@@ -1,6 +1,6 @@
 # Sources — Songs of Our Country
 
-countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria, Jordan, Libya, Mongolia, Malaysia
+countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria, Jordan, Libya, Mongolia, Malaysia, Moldova
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -94,7 +94,34 @@ countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria, Jo
 |---|---|
 | Malaysia — Unit 1 song "Berpisah Sementara" — a farewell song sung in three-part ensemble (student book; original target `music/songs-of-our-country`) | Book 26, printed p. 27 |
 
-**Acceptance count: taught in 7 countries(Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Mongolia, Malaysia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 27:** *Educație muzicală: Manual pentru clasa a 3-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2016; ISBN 978-9975-85-026-1 (barcode on back cover) Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the three Autoevaluare (self-assessment) sections, printed pp. 37, 67, 90 — assessment only, not placed. The listening repertoire of score fragments, printed pp. 91–95, repeats pieces already placed from Themes 1–2 and is not placed twice. Short "Dicționar" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Theme 1, song "Moldovioară, floare rară" — a song of love for Moldova, "little Moldova, rare flower", by Grigore Vieru and Ion Macovei (student book; original target `music/songs-of-our-country`) | Book 27, printed p. 25 |
+| Moldova — Theme 2, song "La noi" — a song about home: at our place the forest and the nai know the people's speech and song (Vieru/Chiriac) (student book; original target `music/songs-of-our-country`) | Book 27, printed p. 39 |
+| Moldova — Theme 2, songs "Limba românească" and "Limba noastră" — songs honouring the Romanian language as the nation's treasure, sung at the "Limba Noastră" national holiday (student book; original target `music/songs-of-our-country`) | Book 27, printed pp. 48, 50 |
+| Moldova — Theme 3, song "Doina noastră" — a song honouring "our doina" and the mother who sings it at the spring (student book; original target `music/songs-of-our-country`) | Book 27, printed p. 72 |
+
+**Book 28:** *Educație muzicală: Manual pentru clasa a IV-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-382-8 (CIP page; authors Ion Gagim, Marina Cosumov, Liliana Cîșlaru) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Autoevaluare sections at printed pp. 28, 49, 76 and the summative Autoevaluare at pp. 93–95 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of songs already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 1, Cântecul liric și romanța populară — the lyric folk song and popular romance ("Ciobănaș cu trei sute de oi"), the shepherd's song and the humorous song (student book; original target `music/songs-of-our-country`) | Book 28, printed pp. 17–18 |
+| Moldova — Unit 4, Muzica pentru copii — Daria Radu, composer of songs for children, and her song "Patria" (Homeland) (student book; original target `music/songs-of-our-country`) | Book 28, printed p. 81 |
+| Moldova — Unit 4, Muzica pentru copii — Constantin Rusnac's "Dragă-mi este țara mea": a slow hora-mare first part for the homeland's beauty, a lively sârbă second part (student book; original target `music/songs-of-our-country`) | Book 28, printed p. 85 |
+
+**Book 29:** *Educație muzicală: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-445-0 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: the four Evaluare (assessment) sections, printed pp. 26, 38, 55, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 3, song "Nemurirea noastră" — "Our Immortality", Mihail Ungureanu's solemn song to Eminescu, the nation's undying star (student book; original target `music/songs-of-our-country`) | Book 29, printed p. 40 |
+| Moldova — Unit 3, song "În țara mea" — "In my country", Grigore Vieru's verses set by Daria Radu, with a rhythmic accompaniment the class builds in Chrome Music Lab (student book; original target `music/songs-of-our-country`) | Book 29, printed p. 43 |
+| Moldova — Unit 3, song "Strămoșii noștri" — "Our Ancestors" (verses Vasile Cocarcea, music Gheorghe Maxian Deladolha): mountains, sea and forest as the nation's three pillars (student book; original target `music/songs-of-our-country`) | Book 29, printed p. 45 |
+| Moldova — Unit 3, song "Cinste lor" — "Honour to Them", Liana Opriș's song of remembrance for those who fought and gave their lives for the nation's freedom (student book; original target `music/songs-of-our-country`) | Book 29, printed p. 46 |
+| Moldova — Unit 4, folk song "Moldovă, Moldovioara mea" — the folk song "Moldova, my little Moldova", sung with plastic movements and dance steps fitted to it (student book; original target `music/songs-of-our-country`) | Book 29, printed p. 68 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Mongolia, Malaysia, Moldova).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 2 teacher guide is a scan with no text layer, read visually at section level; its part here is cited at section level only and labelled evidence, exactly as its placements file states. Work songs are named by their work and purpose only — their lyrics are not transcribed, as the placements direct.
 

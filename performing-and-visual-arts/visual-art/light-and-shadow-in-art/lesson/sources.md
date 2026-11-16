@@ -1,6 +1,6 @@
 # Sources — Light and Shadow in Art
 
-countries: Saudi Arabia, Angola
+countries: Saudi Arabia, Angola, Moldova
 
 **Book 1:** *التربية الفنية — الصف الرابع الابتدائي (Art Education — Fourth Grade Primary; the PDF binds الجزء الأول من المقرر, Part One of the Course, and الجزء الثاني من المقرر, Part Two, in one file)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Saudi Arabia, print edition 1448H / 2026 CE (cataloguing-in-publication 1446H); ISBN 978-603-8527-28-5, legal deposit 1446/12941. Grade: 4 (student/teacher: STUDENT). PDF pages: 179 (179 printed pages; printed folios match PDF pages throughout), text layer present. Verdict: COMPLETE per its own tables of contents. Excluded per standing rules, named here: unit assessments at printed pp. 36, 51–52, 69, 90 (Part One) and 112, 123, 138, 152, 172 (Part Two); figure indexes pp. 94–96 and 176–177 and references pp. 178–179, inventory-only; the term-project forms' blank fields are apparatus (the project itself is placed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
 
@@ -15,7 +15,21 @@ countries: Saudi Arabia, Angola
 | Angola — Tema 2.2.2 Diferença entre a luz e a sombra num objecto de uma só cor: light's direction — frontal, from the right, from below, from behind — changes how a single-coloured object's volume and texture are read; the object's own shadow (sombra própria) versus the shadow it projects (sombra projectada); lit surfaces are lighter, and darken as the light weakens (student book; original target `visual-art/light-and-shadow-on-objects`) | Book 2, printed pp. 41–42 |
 | Angola — Tema 1.3.2 A influência da luz: a Rodin sculpture photographed under frontal, side, low and top light — where light rays strike, colour is clearer and more luminous, darkening as intensity falls; colours change with the hours of the day, and light produces the shadow that defines colour, form, volume and texture (student book; original target `visual-art/light-and-shadow-on-objects`) | Book 3, printed pp. 45–46 |
 
-**Acceptance count: taught in 2 countries (Saudi Arabia, Angola).**
+**Book 4:** *Educație plastică: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-938-1 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 81 (80 printed pages plus cover; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluarea formativă nr. 1–4, printed pp. 24, 41, 61, 73, and Evaluarea sumativă nr. 1–2, printed pp. 49, 80 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §8, Clarobscurul — chiaroscuro in drawing: the distribution of light and shadow that gives volume, and its seven elements named — demitint, light, glint (luciu), passage (half-shadow), shadow, cast shadow, reflex (student book; original target `visual-art/chiaroscuro-light-and-shadow`) | Book 4, printed pp. 44–45 |
+| Moldova — Unit II §8.1 — rendering chiaroscuro: hatching on the form, in two-three directions, unordered, dotted, wavy; blending (estompare); and the light's position — frontal or back light (contre-jour) flattens, side light models best; strong light pushes the object forward, diffuse light recedes it (student book; original target `visual-art/chiaroscuro-light-and-shadow`) | Book 4, printed pp. 45–46 |
+| Moldova — Unit II §8.2 — chiaroscuro in painting: the polar contrast of light and dark (yellow the lightest colour, violet the darkest); Rembrandt, virtuoso of greys and depth; Caravaggio's figures lit hard against "heavy" shadows; candlelight in Georges de La Tour (student book; original target `visual-art/chiaroscuro-light-and-shadow`) | Book 4, printed pp. 47–48 |
+
+**Book 5:** *Educație plastică: Manual pentru clasa a VII-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-389-7 Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluare inițială, printed p. 5, and Evaluarea sumativă nr. 1–2, printed pp. 37, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §8 — the tonal contrast, light against dark, up to its extreme of black against white; and the optical-illusion contrasts — simultaneous and successive (stare at red, then at white, and see green) (student book; original target `visual-art/chiaroscuro-light-and-shadow`) | Book 5, printed p. 28 |
+
+**Acceptance count: taught in 3 countries (Saudi Arabia, Angola, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/light-and-shadow-in-art`); the Saudi Arabia placements were filed under the original string(s) `visual-art/light-and-shadow` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 

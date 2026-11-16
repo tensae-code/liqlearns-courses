@@ -1,6 +1,6 @@
 # Sources — Shapes, Forms and Patterns in Colour
 
-countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia, Afghanistan, Rwanda, Bolivia
+countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia, Afghanistan, Rwanda, Bolivia, Moldova
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -102,7 +102,19 @@ countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fij
 |---|---|
 | Bolivia — Cyclic curves — curves born of rolling motion: the helix (cylindrical and conical, for springs and screws), the cycloid, the epicycloid (used for ornamental patterns and gear teeth), the hypocycloid and the heart-shaped cardioid, in mechanical drawing (student book) | Book 26, printed pp. 15–18 |
 
-**Acceptance count: taught in 14 countries(Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan, Mongolia, Afghanistan, Rwanda, Bolivia).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 27:** *Educație plastică: manual pentru clasa a 4-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2020; ISBN 978-9975-0-0407-7 (authors Ion Canțîru, Alexandru Vatavu, Olga Carauș) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 58 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the "Exerciții aplicative" end-of-unit exercise sets (printed pp. 35, 55) are practice/assessment apparatus, named here and not placed; "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 2, Forma — form as an element of visual language: natural form against plastic form, flat two-dimensional form against volumetric form, spontaneous against elaborated (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 27, printed p. 27 |
+
+**Book 28:** *Educație plastică: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-939-8 (authors Eliza Puică-Vasilache, Zinaida Ursu) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 81 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluarea formativă sections (printed pp. 25, 40, 60, 72), the Evaluarea sumativă sections (pp. 41, 80) and the Autoevaluare (p. 75) are assessment only, named here and not placed. The "Termeni de atelier" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §3.3, Forme elaborate și spontane — flat forms are two-dimensional, volumetric forms three-dimensional; forms arise spontaneously, directed by the artist, or fully elaborated (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 28, printed p. 33 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan, Mongolia, Afghanistan, Rwanda, Bolivia, Moldova).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 2 teacher-guide part is cited at section level only (§§1.4–1.5, printed pp. 12–22) because that guide is a scan with no text layer and two of its contents entries are partly degraded in the scan — the placements say so, and the lesson claims no body wording from it. The fraction work is taught as the Grade 4 book's own question — into how many parts is the circle divided, and what fraction is the blue part — without importing a fraction curriculum from outside the placements.
 

@@ -1,6 +1,6 @@
 # Sources — Melody and Musical Phrases
 
-countries: Malaysia
+countries: Malaysia, Moldova
 
 **Book 1:** *Pendidikan Kesenian Tahun 4 Sekolah Kebangsaan (Kurikulum Standard Sekolah Rendah, Semakan 2017)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019 (Cetakan Pertama 2019); ISBN 978-983-49-2474-8 (as printed on the copyright spread) Tahun 4 / Grade 4 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 57 scan spreads = 108 printed pages (cover/title page verified against the record title; the PDF's internal metadata title "Buku Teks Muzik Tahun 4" is a scanner artefact — the printed cover and contents are Pendidikan Kesenian) Verdict: COMPLETE. Exclusions named: Glosari Seni Visual (printed p. 104) and Glosari Seni Muzik (printed p. 106) — glossaries, inventory-only, not placed. The two term-end exhibition/performance projects (Projek Kesenian Penggal Satu, printed p. 4; Penggal Dua, printed p. 54) are placed below as appreciation/exhibition teaching, not as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
 
@@ -20,7 +20,28 @@ countries: Malaysia
 |---|---|
 | Malaysia — Unit 4 Penghasilan Muzik — melody craft: melodic flow (aliran melodi), developing a melody from a motif, and noble values in producing a work (student book; original target `music/melodic-contour-and-development`) | Book 3, printed pp. 110–118 |
 
-**Acceptance count: taught in 1 country (Malaysia).**
+**Book 4:** *Educație muzicală: Manual pentru clasa a 3-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2016; ISBN 978-9975-85-026-1 (barcode on back cover) Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the three Autoevaluare (self-assessment) sections, printed pp. 37, 67, 90 — assessment only, not placed. The listening repertoire of score fragments, printed pp. 91–95, repeats pieces already placed from Themes 1–2 and is not placed twice. Short "Dicționar" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Theme 2, Ce este melodia? — what a melody is: a succession of sounds of different pitch and duration on one voice expressing a finished musical thought, "the soul of music" (student book; original target `music/melody-the-soul-of-music`) | Book 4, printed p. 38 |
+| Moldova — Theme 2, Structura melodiei — how a melody is built: motif-intonation, phrase, musical sentence and period, mapped onto the song "Graiul meu" (student book; original target `music/structure-of-a-melody`) | Book 4, printed p. 40 |
+
+**Book 5:** *Educație muzicală: Manual pentru clasa a IV-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-382-8 (CIP page; authors Ion Gagim, Marina Cosumov, Liliana Cîșlaru) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Autoevaluare sections at printed pp. 28, 49, 76 and the summative Autoevaluare at pp. 93–95 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of songs already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 3, Dialogul melodic — a melody built as question and answer: one phrase asks, the next replies (student book; original target `music/structure-of-a-melody`) | Book 5, printed p. 53 |
+
+**Book 6:** *Educație muzicală: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-392-7 (authors Marina Morari, Pavlina Zavatin) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluare (assessment) sections at printed pp. 25, 49, 65, 80 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of pieces already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 1, Mersul și conturul melodiei — a melody's walk and contour: ascending, descending, level, by leaps; wavy, spiral and dotted contours, traced with the hand (African melody "Ya-ba-da-ba-da") (student book; original target `music/melody-the-soul-of-music`) | Book 6, printed p. 15 |
+| Moldova — Unit 2, Melodia — melody, the chief means of musical expression: the composer's thought carried by a line of sounds shaped by rhythm, tempo, dynamics, mode and timbre (student book; original target `music/melody-the-soul-of-music`) | Book 6, printed p. 44 |
+| Moldova — Unit 3, Organizarea ideilor muzicale — the building blocks: the motif, smallest element; the phrase of two or more motifs; the period of two phrases, question and answer (student book; original target `music/structure-of-a-melody`) | Book 6, printed p. 50 |
+
+**Acceptance count: taught in 2 countries (Malaysia, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/melody-and-musical-phrases`). The Malaysia placements were filed as NEW LESSON NEEDED under the original string(s) `music/melodic-contour-and-development`, `music/question-and-answer-melodies`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Malaysia's own way is the lesson itself where the topic is Malaysian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 

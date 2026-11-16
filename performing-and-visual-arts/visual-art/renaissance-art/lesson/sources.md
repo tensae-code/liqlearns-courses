@@ -1,6 +1,6 @@
 # Sources — Renaissance Art
 
-countries: Mozambique, Brazil, Bulgaria, Venezuela
+countries: Mozambique, Brazil, Bulgaria, Venezuela, Moldova
 
 **Book 1:** *Educação Visual — Módulo 1 (PESD I — Programa do Ensino Secundário à Distância, 1º Ciclo)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Moçambique, 2023; elaborated by Dionísio Manjate and Félix Mindú; no ISBN printed, Grades 7–9 (the PESD I cycle is taught as one combined cycle, not split by grade), 152 PDF pp. STUDENT. Verdict: COMPLETE (cover/title verified — "EDUCAÇÃO VISUAL, MÓDULO 1, PESD I"; 20,947,967 bytes, exact match to the record; fetched from GitHub Releases, mid-size-books-8). Mozambique's own way: a self-study distance module — every lesson carries objectives, the teaching body, exercises, a summary and an answer key for the lone learner. Named, not placed: the per-lesson glossaries and the closing Bibliography (printed p. 150) — inventory only; the Unit 5 introduction (printed p. 127) announces a third textiles lesson on basketry (cestaria) that does not appear in this module — a gap in the book, noted as filed. Excluded per the placements: the end-of-module preparation test (Teste de Preparação de Fim do Módulo, printed pp. 138–144) and its answer key (printed pp. 145–149) — the book's own assessment; the lessons' exercises and answer keys are self-study apparatus (all teaching content is placed from the lesson bodies). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mozambique-placements.md.
 
@@ -18,7 +18,15 @@ countries: Mozambique, Brazil, Bulgaria, Venezuela
 | Venezuela — Escultura del Renacimiento: Renaissance sculpture — the human figure studied anatomically, naturalist and realist, in bronze casting and marble carving, on historical, biblical and mythological themes: Ghiberti's baptistery doors, Donatello's Gattamelata and David, Michelangelo's Pietà, Moses and David (student book) | Book 4, printed pp. 108–110 |
 | Venezuela — Pintura del Renacimiento: Renaissance painting — proportion studied; oil painting and fresco; linear and aerial perspective for depth; the portrait, self-portrait and landscape established: Michelangelo's Sistine ceiling, Leonardo's Last Supper and Gioconda, Raphael's School of Athens (student book) | Book 4, printed pp. 111–112 |
 
-**Acceptance count: taught in 4 countries (Mozambique, Brazil, Bulgaria, Venezuela).**
+**Book 5:** *Educație plastică: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-938-1 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 81 (80 printed pages plus cover; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluarea formativă nr. 1–4, printed pp. 24, 41, 61, 73, and Evaluarea sumativă nr. 1–2, printed pp. 49, 80 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit IV §2.1–2.2, Renașterea — Renaissance architecture and sculpture: Brunelleschi's dome for Florence, Bramante's Tempietto, St Peter's in Rome; Ghiberti's bronze Baptistery doors using linear perspective in relief; Donatello's "Gattamelata", the first equestrian statue on antiquity's canons (student book; original target `visual-art/renaissance-art`) | Book 5, printed pp. 68–69 |
+| Moldova — Unit IV §2.3, Pictura renascentistă — Renaissance painting: Botticelli; Leonardo — the "Mona Lisa" in sfumato, the "Last Supper" as a study of human temperaments; Michelangelo — "David", the Sistine "Genesis"; Raphael — the "Sistine Madonna", the "School of Athens" (student book; original target `visual-art/renaissance-art`) | Book 5, printed pp. 70–71 |
+| Moldova — Unit IV §2.4, Renașterea în alte țări — the Renaissance beyond Italy: Jan van Eyck, founder of oil painting (the "Arnolfini Portrait", its mirror reflecting the painter himself), and Albrecht Dürer, painter and engraver of the "Four Horsemen" and "Melencolia" (student book; original target `visual-art/renaissance-art`) | Book 5, printed p. 72 |
+
+**Acceptance count: taught in 5 countries (Mozambique, Brazil, Bulgaria, Venezuela, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/renaissance-art`); the Mozambique placements were filed under the original string(s) `visual-art/renaissance-art-and-its-masters`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Mozambique's own way: the Renaissance is taught in one dense page of its module — the transition, the leading arts, and the four masters with their works.
 

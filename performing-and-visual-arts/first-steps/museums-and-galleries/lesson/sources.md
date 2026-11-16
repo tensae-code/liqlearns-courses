@@ -1,6 +1,6 @@
 # Sources — Museums and Galleries
 
-countries: Serbia, Bulgaria, Cuba
+countries: Serbia, Bulgaria, Cuba, Moldova
 
 **Book 1:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -8,7 +8,35 @@ countries: Serbia, Bulgaria, Cuba
 |---|---|
 | Serbia — "Museum space" — museums are institutions that collect, keep, study and exhibit valuable objects and artworks; they have special exhibition rooms for displays, and run educational programmes, lectures and workshops; museum objects that are not exhibited are kept in special store rooms; Belgrade's Museum of Contemporary Art and Museum of Applied Art pictured, with an exhibition from the latter (original target `culture-and-values/museums-and-what-they-keep`) | Book 1, printed pp. 8–9 |
 
-**Acceptance count: taught in 3 countries (Serbia, Bulgaria, Cuba).**
+**Book 6:** *Educație plastică: Manual pentru clasele a III-a – a IV-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2016 (3rd edition); ISBN 978-9975-61-986-8 Grade: Grades 3–4 combined (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the end-of-chapter crossword/rebus checks and "Exerciții aplicative" practice prompts are assessment/practice apparatus, named here and not placed; the "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — G3 Ch. 4, Muzee și galerii — what a museum does (collect, keep, restore, show) and how a gallery differs; the Louvre, the British Museum, the Hermitage and the Vatican Museums, and Chișinău's "Constantin Brâncuși" exhibition centre (student book; original target `first-steps/art-museums-and-galleries`) | Book 6, printed p. 46 |
+| Moldova — G4 Ch. 4, Muzee și galerii de artă — Moldova's and Romania's own museums: the National Museum of Art of Moldova in Chișinău (founded 1939 by sculptor Alexandru Plămădeală, over 44,000 works), the National Museum of Art of Romania in Bucharest's former Royal Palace, and the Brukenthal Museum in Sibiu (student book; original target `first-steps/art-museums-and-galleries`) | Book 6, printed p. 89 |
+
+**Book 7:** *Educație plastică: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-939-8 (authors Eliza Puică-Vasilache, Zinaida Ursu) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 81 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluarea formativă sections (printed pp. 25, 40, 60, 72), the Evaluarea sumativă sections (pp. 41, 80) and the Autoevaluare (p. 75) are assessment only, named here and not placed. The "Termeni de atelier" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit V §1, Proiect artistic — putting on an exhibition: choosing the year's best works, framing them in a cardboard paspartu, titling and signing, hanging personal or group shows (student book; original target `first-steps/art-museums-and-galleries`) | Book 7, printed p. 73 |
+| Moldova — Unit V §2, Excursie la Muzeul Național de Artă al Moldovei — a guided walk through Moldova's National Art Museum: Plămădeală, Baillayre, Igor Vieru the rhapsode of the land, Mihai Grecu, Valentina Rusu-Ciobanu (student book; original target `first-steps/art-museums-and-galleries`) | Book 7, printed p. 76 |
+
+**Book 8:** *Educație plastică: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-938-1 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 81 (80 printed pages plus cover; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluarea formativă nr. 1–4, printed pp. 24, 41, 61, 73, and Evaluarea sumativă nr. 1–2, printed pp. 49, 80 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit V §2, Proiect de grup (II) — organising our own exhibition: choosing the year's best works, signing and framing them in paper frames, making the posters, leaflets and invitations (a real invitation of the "Constantin Brâncuși" Exhibition Centre as model), opening the show, guiding the tour — even an auction (student book; original target `first-steps/art-museums-and-galleries`) | Book 8, printed pp. 76–77 |
+| Moldova — Unit V §3, Călătorie în lumea artelor — a journey through the world's art houses: Moldova's National Art Museum in Chișinău (collector, keeper, restorer), Bucharest's National Art Museum, the Louvre (a kings' palace turned museum in 1793), the Hermitage, Chișinău's galleries and the Brâncuși Centre; what a vernisaj (opening) is (student book; original target `first-steps/art-museums-and-galleries`) | Book 8, printed pp. 78–79 |
+
+**Book 9:** *Educație plastică: Manual pentru clasa a VII-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-389-7 Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluare inițială, printed p. 5, and Evaluarea sumativă nr. 1–2, printed pp. 37, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit V §24, Muzee și spații pentru artă — museums and art spaces: the museum (from the Greek museion, temple of the muses) and its three functions — collecting masterpieces, conserving the artistic heritage, exhibiting to the public; holdings classified by epoch or by land; single-artist museums (Picasso in Paris, Miró in Barcelona); galleries, where works can be bought; and the visitor's rules — do not touch, view from a distance, no food, no loud talk (student book; original target `first-steps/art-museums-and-galleries`) | Book 9, printed p. 70 |
+| Moldova — Unit V §24 — art beyond the museum walls: public spaces as art spaces (the AIDS Memorial and the "Rugina & Co" sculptural complex in Chișinău's parks), Brâncuși's reconstructed atelier inside the Pompidou Centre, museums gone online in the pandemic — and the Ivankiv museum destroyed in the 2022 war in Ukraine, with dozens of Maria Prymachenko's works (student book; original target `first-steps/art-museums-and-galleries`) | Book 9, printed p. 71 |
+
+**Acceptance count: taught in 4 countries (Serbia, Bulgaria, Cuba, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `first-steps/museums-and-galleries`); the Serbia placements were filed under the original string(s) `culture-and-values/museums-and-what-they-keep`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: the museum is taught from Belgrade's own two pictured museums — the Museum of Contemporary Art and the Museum of Applied Art — and from the store rooms behind the exhibition rooms.
 

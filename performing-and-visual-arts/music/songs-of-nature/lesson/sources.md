@@ -1,6 +1,6 @@
 # Sources — Songs of Nature
 
-countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongolia, Rwanda, Malaysia
+countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongolia, Rwanda, Malaysia, Moldova
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -90,7 +90,23 @@ countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongol
 | Malaysia — Unit 4 Bunga Gergasi — the song about the Rafflesia, the world's biggest flower, sung with legato and staccato technique, plus clapping and playing its rhythm patterns on percussion (student book; original target `music/songs-of-nature`) | Book 20, printed pp. 40–43 |
 | Malaysia — Unit 7 Tapak Sulaiman — a song about the starfish and the seashore, sung with body percussion in groups; plus the Susun Notasi game: composing a melody from note cards G A B C' and playing it on the recorder (student book; original target `music/songs-of-nature`) | Book 20, printed pp. 68–71 |
 
-**Acceptance count: taught in 6 countries(Ethiopia, Turkmenistan, Belarus, Jordan, Mongolia, Malaysia).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 21:** *Educație muzicală: Manual pentru clasa a 3-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2016; ISBN 978-9975-85-026-1 (barcode on back cover) Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the three Autoevaluare (self-assessment) sections, printed pp. 37, 67, 90 — assessment only, not placed. The listening repertoire of score fragments, printed pp. 91–95, repeats pieces already placed from Themes 1–2 and is not placed twice. Short "Dicționar" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Theme 1, song "Acum e toamnă, da!" — an autumn song about yellowing leaves and ripening grapes, sung in dance character and in march character to compare (student book; original target `music/songs-of-nature`) | Book 21, printed p. 6 |
+
+**Book 22:** *Educație muzicală: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-445-0 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: the four Evaluare (assessment) sections, printed pp. 26, 38, 55, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 2, song "Ce frumoasă e pădurea!" — "How beautiful the forest is!", a song of the forest in summer, autumn and snow (verses Felicia Donceanu, music Jean Lupu) (student book; original target `music/songs-of-nature`) | Book 22, printed p. 31 |
+| Moldova — Unit 2, song "Codrii mei frumoși" — Eugen Doga's song to the old forests (verses Petru Cruceniuc): its "du-du-du" onomatopoeia, its great-hora rhythm and its direct address to the codru, analysed line by line (student book; original target `music/songs-of-nature`) | Book 22, printed pp. 33–34 |
+| Moldova — Unit 2, song "Revedere" — Eminescu's "Revedere" ("Little forest, little forest, how are you?") set by Dumitru Georgescu-Kiriac (student book; original target `music/songs-of-nature`) | Book 22, printed p. 34 |
+| Moldova — Unit 3, song "Vine iar primăvara" — "Spring is coming again" (verses Petre Popa, music Valeriu Ceban), with a body-percussion accompaniment the class designs and judges (student book; original target `music/songs-of-nature`) | Book 22, printed p. 48 |
+| Moldova — Unit 4, folk melody "Cucul" — the Swiss folk melody "The Cuckoo", sung with rhythmic accompaniment models (student book; original target `music/songs-of-nature`) | Book 22, printed p. 67 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Mongolia, Malaysia, Moldova).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 2 book prints the star song in Amharic and the Grade 3 book prints the same song in English; both placements are stocked — the Amharic here, the English in School Songs — exactly as the books place them. No song lyrics are transcribed; songs are named and their pictures summarised.
 

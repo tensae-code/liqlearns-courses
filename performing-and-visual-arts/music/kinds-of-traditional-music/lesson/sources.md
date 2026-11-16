@@ -1,6 +1,6 @@
 # Sources — Kinds of Traditional Music
 
-countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan, Colombia, Belarus
+countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan, Colombia, Belarus, Moldova
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -33,7 +33,21 @@ countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan, Colombia, Belarus
 
 | Belarus — Part 3, "Musical journeys" I — visiting the neighbours and Europe: Ukraine's "Shchedryk" in Leontovych's arrangement, the Russian song "Down the Mother Volga", "Moya Rossiya"; Poland's mazurka, the traditional dance, and Sakalouski's Mazurka; a Lithuanian folk song; France's "Sur le pont d'Avignon" and the donkey song (student book; original target `music/kinds-of-traditional-music`) | Book 8, printed pp. 66–81 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Colombia, Belarus).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
+**Book 9:** *Educație muzicală: Manual pentru clasa a IV-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-382-8 (CIP page; authors Ion Gagim, Marina Cosumov, Liliana Cîșlaru) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Autoevaluare sections at printed pp. 28, 49, 76 and the summative Autoevaluare at pp. 93–95 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of songs already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 1, Folclorul muzical — what musical folklore is: creation that is oral, collective, anonymous and syncretic, passed from mouth to mouth (student book; original target `music/kinds-of-traditional-music`) | Book 9, printed p. 9 |
+| Moldova — Unit 1, Varietatea cântecului popular — the kinds of folk song: songs of grief, longing (dor) and estrangement, haiduc songs and recruit songs (student book; original target `music/kinds-of-traditional-music`) | Book 9, printed p. 17 |
+| Moldova — Unit 3, Izvoarele muzicii academice — where composed music comes from: folk music, church music and the lăutari, the Codex Caioni, and Eminescu's poems set to music ("Revedere") (student book; original target `music/kinds-of-traditional-music`) | Book 9, printed p. 50 |
+
+**Book 10:** *Educație muzicală: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-392-7 (authors Marina Morari, Pavlina Zavatin) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluare (assessment) sections at printed pp. 25, 49, 65, 80 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of pieces already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 4, Genurile primare în audiție — hearing the primary genres: Doga's march "Majestic" and Grigoraș Dinicu's "Hora staccato" and "Hora mărțișorului" (student book; original target `music/kinds-of-traditional-music`) | Book 10, printed p. 68 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Moldova).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 The book prints one short shilela (qererito) example and one fukera example as repertoire; following the placements, they are placed by kind and purpose only — no chant verses are transcribed in this lesson. The Grade 2 chapter review's wording on this topic is folded into this lesson's questions, as review stock, per the course folding rules; it is not a separate lesson.
 

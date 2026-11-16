@@ -1,7 +1,7 @@
 # Sources — Colours Around Us
 
 
-countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saudi Arabia, Angola, Afghanistan, Rwanda, Bolivia
+countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saudi Arabia, Angola, Afghanistan, Rwanda, Bolivia, Moldova
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -77,7 +77,31 @@ countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saud
 |---|---|
 | Bolivia — The psychology of colour: Goethe and Babbit — every culture identified by its characteristic colours; Goethe's theory (colour as a subjective perception of the mind that influences mood and emotion) against Edwin D. Babbit's (each colour a wavelength of light that affects human psychology differently) (student book) | Book 20, printed pp. 26–28 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil, Saudi Arabia, Angola, Afghanistan, Bolivia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 21:** *Educație plastică: manual pentru clasa a 4-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2020; ISBN 978-9975-0-0407-7 (authors Ion Canțîru, Alexandru Vatavu, Olga Carauș) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 58 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the "Exerciții aplicative" end-of-unit exercise sets (printed pp. 35, 55) are practice/assessment apparatus, named here and not placed; "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 1, Semnificația culorilor în artă și în natură — colour in nature and in art: warm colours (red, orange, yellow) against cold ones (blue, green, violet), the one dominant colour, and how colour changes feelings (student book; original target `visual-art/colours-around-us`) | Book 21, printed p. 3 |
+
+**Book 22:** *Educație plastică: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-939-8 (authors Eliza Puică-Vasilache, Zinaida Ursu) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 81 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluarea formativă sections (printed pp. 25, 40, 60, 72), the Evaluarea sumativă sections (pp. 41, 80) and the Autoevaluare (p. 75) are assessment only, named here and not placed. The "Termeni de atelier" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §5, Culori calde și culori reci — warm and cold colours on Itten's circle: orange the warmest, blue the coldest; Picasso's blue, rose and black periods; warm colours advance, cold ones retreat (student book; original target `visual-art/colours-around-us`) | Book 22, printed p. 38 |
+
+**Book 23:** *Educație plastică: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-938-1 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 81 (80 printed pages plus cover; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluarea formativă nr. 1–4, printed pp. 24, 41, 61, 73, and Evaluarea sumativă nr. 1–2, printed pp. 49, 80 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §1 — the meanings of colours: red for ardour and struggle, yellow for light and wealth, blue for serenity, violet for sorrow, white for purity, black for darkness and eternity — and how peoples differ: black mourns in Europe, white among Muslims, Indians and Chinese; yellow is ardent love in Japan, parting in Europe; Picasso's Blue and Rose periods (student book; original target `visual-art/the-meaning-of-colours`) | Book 23, printed pp. 26–27 |
+
+**Book 24:** *Educație plastică: Manual pentru clasa a VII-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-389-7 Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluare inițială, printed p. 5, and Evaluarea sumativă nr. 1–2, printed pp. 37, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §10, Semnificația culorilor și formelor — colour-symbols and form-symbols: the blue of Picasso's 1901 self-portrait, painted at 20, making him look old and poor; the spiral as symbol of life, the sun and infinity (Hundertwasser's "Great Road"); Miró's points of many sizes becoming the nightingale's song, stars and rain (student book; original target `visual-art/the-meaning-of-colours`) | Book 24, printed pp. 31–32 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil, Saudi Arabia, Angola, Afghanistan, Bolivia, Moldova). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 Sub lesson 6 rests on teacher-guide evidence only for its own content; it is labelled as evidence in the part name, in the lesson text and in this table. The Grade 2 teacher guide is a scan with no usable text layer, read visually; its citation here is at section level only, as its placements require. The lesson as a whole stands on the Grade 1 and Grade 3 student textbooks, so the acceptance count counts pupil-taught content. The Grade 1 Chapter 3 summary's line — colours distinguish our clothes and beautify the surroundings (plants green, flowers red and yellow) — is carried in Colours on Clothes and in the question stock of this lesson, under the folding rules.
 

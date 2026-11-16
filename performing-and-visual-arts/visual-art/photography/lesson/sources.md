@@ -1,6 +1,6 @@
 # Sources — Photography
 
-countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran, Venezuela, Malaysia
+countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran, Venezuela, Malaysia, Moldova
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -73,7 +73,13 @@ countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran, Venezuela, Ma
 |---|---|
 | Malaysia — Tajuk 11 Seni Foto — cameras and imaging devices: kinds, formats, and creative composition techniques in photography (student book; original target `visual-art/photography`) | Book 15, printed pp. 136–148 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Honduras, Finland, Iran, Venezuela, Malaysia).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 16:** *Educație plastică: Manual pentru clasa a VII-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-389-7 Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluare inițială, printed p. 5, and Evaluarea sumativă nr. 1–2, printed pp. 37, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §7 — photography pushed by new technologies: Veronesi's transformed experimental portrait set against Potârniche's straight photograph — traditional against non-traditional (student book; original target `visual-art/photography`) | Book 16, printed p. 25 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Honduras, Finland, Iran, Venezuela, Malaysia, Moldova).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: Book 2's photography part is a teacher-guide part, cited at the section level its placement gives (§1.4, printed pp. 18–22, inside a wider shapes/forms/colours section) and labelled evidence; the lesson's core rests on Book 1, a student book. The Grade 3 book's camera is a film camera — light through a lens, an image on film, printed on prepared papers — and the lesson keeps the book's own account; phone cameras are mentioned only in the Do It First looking activity, not as book content. No camera technique beyond the placements (no exposure settings, no lens types) has been added.
 

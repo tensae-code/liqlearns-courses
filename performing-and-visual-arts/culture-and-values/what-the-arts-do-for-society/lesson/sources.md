@@ -1,6 +1,6 @@
 # Sources — What the Arts Do for Society
 
-countries: Ethiopia, Uganda, Samoa, Colombia, Libya, Cuba, Angola, Bolivia
+countries: Ethiopia, Uganda, Samoa, Colombia, Libya, Cuba, Angola, Bolivia, Moldova
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -88,7 +88,14 @@ countries: Ethiopia, Uganda, Samoa, Colombia, Libya, Cuba, Angola, Bolivia
 |---|---|
 | Bolivia — Song against the dictatorship — the social singer-songwriters under military dictatorship, and what their songs achieved: Savia Nueva's "Los mineros volveremos" makes you feel the miners' rage and desperation and see their situation without having been there — that, the chapter says, is the power of music, able to generate thoughts positive (growth, respect) or negative (depression, anguish) (teacher compendium — evidence) | Book 22, PDF pp. 45–46 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Colombia, Cuba, Angola, Bolivia).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
+**Book 23:** *Educație plastică: Manual pentru clasa a VII-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-389-7 Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluare inițială, printed p. 5, and Evaluarea sumativă nr. 1–2, printed pp. 37, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §12, Arta – mesager al problemelor societății — engaged art: works made to turn the public's mind on pollution, overconsumption, violence, discrimination and war — Tayou's installation of plastic bags; recovery art (the French "Recup'Art" movement) from waste; Joe Rush's "Mount Recyclemore", portraits of the G7 leaders from 20,000 pieces of electronic waste; Isaac Cordal's politicians discussing global warming as the water rises (student book; original target `culture-and-values/art-that-speaks-for-society`) | Book 23, printed pp. 35–36 |
+| Moldova — Unit II §12 — art answering catastrophe: the Cardiff mural of Ukraine's pain (2022), art of the Covid-19 isolation, and Arman's "Hope of Peace" in Beirut — a 32-metre accumulation of war tanks (student book; original target `culture-and-values/art-that-speaks-for-society`) | Book 23, printed p. 36 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Colombia, Cuba, Angola, Bolivia, Moldova).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 The harmful-practices material is taught as the books place it — harmful practices named for their health effects, and art's role in changing them; no practice is described beyond the placements' own words. 'Art for Current Issues' in Grades 7–8 is taught from the student books' own chapter and pages (Grade 7 Ch. 5's theme is set by its placement; Grade 8's issues are read in its student book at pp. 134–135) — the truncated Grade 7–8 teacher guides' corresponding units are not used as evidence for this lesson, which rests on pupil-taught books only.
 

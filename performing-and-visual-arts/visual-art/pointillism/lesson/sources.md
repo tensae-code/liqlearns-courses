@@ -1,6 +1,6 @@
 # Sources — Pointillism
 
-countries: Mozambique, Angola, Mongolia
+countries: Mozambique, Angola, Mongolia, Moldova
 
 **Book 1:** *Educação Visual — Módulo 1 (PESD I — Programa do Ensino Secundário à Distância, 1º Ciclo)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Moçambique, 2023; elaborated by Dionísio Manjate and Félix Mindú; no ISBN printed, Grades 7–9 (the PESD I cycle is taught as one combined cycle, not split by grade), 152 PDF pp. STUDENT. Verdict: COMPLETE (cover/title verified — "EDUCAÇÃO VISUAL, MÓDULO 1, PESD I"; 20,947,967 bytes, exact match to the record; fetched from GitHub Releases, mid-size-books-8). Mozambique's own way: a self-study distance module — every lesson carries objectives, the teaching body, exercises, a summary and an answer key for the lone learner. Named, not placed: the per-lesson glossaries and the closing Bibliography (printed p. 150) — inventory only; the Unit 5 introduction (printed p. 127) announces a third textiles lesson on basketry (cestaria) that does not appear in this module — a gap in the book, noted as filed. Excluded per the placements: the end-of-module preparation test (Teste de Preparação de Fim do Módulo, printed pp. 138–144) and its answer key (printed pp. 145–149) — the book's own assessment; the lessons' exercises and answer keys are self-study apparatus (all teaching content is placed from the lesson bodies). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mozambique-placements.md.
 
@@ -23,7 +23,25 @@ countries: Mozambique, Angola, Mongolia
 |---|---|
 | Mongolia — Part I: Цэгээр зурах (Drawing with dots) — pictures built from dots: joining dot grids, a chick drawn in dots step by step and then coloured, leaves and flowers formed by dot rows (student book; original target `visual-art/drawing-with-dots`) | Book 4, printed pp. 13–14 |
 
-**Acceptance count: taught in 3 countries(Mozambique, Angola, Mongolia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 5:** *Educație plastică: Manual pentru clasele a III-a – a IV-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2016 (3rd edition); ISBN 978-9975-61-986-8 Grade: Grades 3–4 combined (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the end-of-chapter crossword/rebus checks and "Exerciții aplicative" practice prompts are assessment/practice apparatus, named here and not placed; the "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — G4 Ch. 2, Punctul și poantilismul — pointillism: pictures built from thousands of separate colour dots the eye assembles from a distance — Seurat, Signac and Pissarro — and using big dark warm dots in front, small light cool dots far away, to suggest volume and space (student book; original target `visual-art/pointillism`) | Book 5, printed pp. 60–61 |
+
+**Book 6:** *Educație plastică: manual pentru clasa a 4-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2020; ISBN 978-9975-0-0407-7 (authors Ion Canțîru, Alexandru Vatavu, Olga Carauș) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 58 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the "Exerciții aplicative" end-of-unit exercise sets (printed pp. 35, 55) are practice/assessment apparatus, named here and not placed; "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 2, Punctul — the point, the smallest element of visual language, and pointillism (from 1885): paintings built of thousands of colour points — Signac, Seurat, Pissarro (student book; original target `visual-art/pointillism`) | Book 6, printed p. 21 |
+
+**Book 7:** *Educație plastică: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-939-8 (authors Eliza Puică-Vasilache, Zinaida Ursu) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 81 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluarea formativă sections (printed pp. 25, 40, 60, 72), the Evaluarea sumativă sections (pp. 41, 80) and the Autoevaluare (p. 75) are assessment only, named here and not placed. The "Termeni de atelier" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit II §3.1, Punctul cromatic — the coloured point: the neo-impressionists Signac, Pissarro and Seurat covered whole canvases with colour points; big and warm points come near, small and cold ones recede (student book; original target `visual-art/pointillism`) | Book 7, printed p. 31 |
+
+**Acceptance count: taught in 4 countries (Mozambique, Angola, Mongolia, Moldova).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/pointillism`); the Mozambique placements were filed under the original string(s) `visual-art/pointillism`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Mozambique's own way: pointillism is taught as a step-by-step procedure with household materials, inside its drawing lesson, for the lone distance learner.
 

@@ -1,7 +1,7 @@
 # Sources — The Primary Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda
+countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -44,7 +44,19 @@ countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan
 | Rwanda — Part 2 Unit 1: Colour and its behaviour (primary colours) — the three primary colours red, yellow and blue, which appear naturally and cannot be made by mixing any other colours (student book) | Book 13, printed p. 51 |
 
 
-**Acceptance count: taught in 9 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Book 14:** *Educație plastică: Manual pentru clasele a III-a – a IV-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2016 (3rd edition); ISBN 978-9975-61-986-8 Grade: Grades 3–4 combined (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the end-of-chapter crossword/rebus checks and "Exerciții aplicative" practice prompts are assessment/practice apparatus, named here and not placed; the "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — G3 Ch. 2, Culoarea — primary colours and the secondary colours mixed from them, shown on Itten's colour circle (student book; original target `visual-art/the-primary-colours`) | Book 14, printed p. 33 |
+
+**Book 15:** *Educație plastică: manual pentru clasa a 4-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2020; ISBN 978-9975-0-0407-7 (authors Ion Canțîru, Alexandru Vatavu, Olga Carauș) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 58 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the "Exerciții aplicative" end-of-unit exercise sets (printed pp. 35, 55) are practice/assessment apparatus, named here and not placed; "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit 2, Culoarea — an object's own (local) colour against its colour in light and surroundings; the three primaries red, yellow, blue and the secondaries mixed from them (student book; original target `visual-art/the-primary-colours`) | Book 15, printed p. 25 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 Sub lesson 5 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's basic-colours lesson and colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook, so the acceptance count counts pupil-taught content. The song "መስራች ቀለማት" is named and its teaching summarised only — its words are not transcribed; the song is sung in the Music unit's Primary Colours Song lesson. The Grade 3 chapter summary's closing exercise carries the check item "green is a primary colour — false", which the question stock uses.
 

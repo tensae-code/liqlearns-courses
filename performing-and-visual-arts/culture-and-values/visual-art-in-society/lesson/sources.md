@@ -1,6 +1,6 @@
 # Sources — Visual Art in Society
 
-countries: Ethiopia, Andorra, Libya, Malaysia
+countries: Ethiopia, Andorra, Libya, Malaysia, Moldova
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -18,7 +18,13 @@ countries: Ethiopia, Andorra, Libya, Malaysia
 |---|---|
 | Malaysia — Bab 3 Apresiasi Seni Kraf dan Budaya Visual — appreciating craft art, and visual culture (budaya visual): the craft arts inside Malaysian visual life (student book; original target `culture-and-values/visual-art-in-society`) | Book 4, printed pp. 176, 178 |
 
-**Acceptance count: taught in 1 country (Malaysia). Earlier stock stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 5:** *Educație plastică: Manual pentru clasa a V-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-939-8 (authors Eliza Puică-Vasilache, Zinaida Ursu) Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 81 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Evaluarea formativă sections (printed pp. 25, 40, 60, 72), the Evaluarea sumativă sections (pp. 41, 80) and the Autoevaluare (p. 75) are assessment only, named here and not placed. The "Termeni de atelier" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit IV §1, Rolul artelor plastice în societate și în cultură — what visual art does in society: a language of expression and a way of knowing — old paintings report an age's history, wars, trades, tastes and dress (student book; original target `culture-and-values/visual-art-in-society`) | Book 5, printed p. 61 |
+
+**Acceptance count: taught in 2 countries (Malaysia, Moldova). Earlier stock stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson rests only on the Grade 4 teacher guide's §§3.4–3.4.2 (printed pp. 59–61), labelled teacher-guide evidence throughout.
 

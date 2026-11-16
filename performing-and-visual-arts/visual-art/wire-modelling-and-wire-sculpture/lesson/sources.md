@@ -1,6 +1,6 @@
 # Sources — Wire Modelling and Wire Sculpture
 
-countries: Sri Lanka, Afghanistan
+countries: Sri Lanka, Afghanistan, Moldova
 
 **Book 1:** *Grade 11 Art and Craft pupil textbook, Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 11 (student/teacher: STUDENT). PDF pages: 221 (printed pages run 1–221). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
 
@@ -12,7 +12,13 @@ countries: Sri Lanka, Afghanistan
 
 | Sri Lanka — Sections 8.1–8.2 — sculpture on a skeleton — a fish built over wire with 2:1 sand–cement and finished in weather-seal or lacquer, then the human figure: 6 mm wire bent to proportion for a 14-inch figure, bound with fine wire and modelled over (student book; original target `visual-art/wire-armature-sculpture`) | Book 1, printed pp. 217–220 |
 
-**Acceptance count: taught in 2 countries (Sri Lanka, Afghanistan).**
+**Book 3:** *Educație plastică: Manual pentru clasele a III-a – a IV-a* (student book, Romanian) — Moldova, Editura ARC, Chișinău; year 2016 (3rd edition); ISBN 978-9975-61-986-8 Grade: Grades 3–4 combined (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the end-of-chapter crossword/rebus checks and "Exerciții aplicative" practice prompts are assessment/practice apparatus, named here and not placed; the "Glosar" boxes are inventory-only; the Pinocchio curiosity sidebars are enrichment notes, not separate teaching parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — G4 Ch. 1, Articole din sîrmă — modelling with copper or aluminium wire: bending and twisting it into artworks, a bird built step by step (beak, tail, legs) in pictured stages (student book; original target `visual-art/modelling-with-wire`) | Book 3, printed p. 58 |
+
+**Acceptance count: taught in 3 countries (Sri Lanka, Afghanistan, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/wire-modelling-and-wire-sculpture`); the Sri Lanka placements were filed under the original string(s) `visual-art/wire-armature-sculpture` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 

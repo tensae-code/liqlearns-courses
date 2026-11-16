@@ -1,6 +1,6 @@
 # Sources — Portrait Drawing and Painting
 
-countries: Singapore, Serbia, Colombia, Sudan, Belarus, Brazil, Angola
+countries: Singapore, Serbia, Colombia, Sudan, Belarus, Brazil, Angola, Moldova
 
 **Book 1:** *Nurturing Early Learners — A Curriculum Framework for Preschool Education in Singapore: Educators' Guide for Aesthetics and Creative Expression* (teacher guide, English) — Singapore, Ministry of Education, Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten (children aged 4–6: Nursery 2, Kindergarten 1–2), 126 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree (byte size 4,232,854 matches the record), PDF deleted after filing. Chapter 4's classroom-environment organisation and Chapter 5's monitoring-and-assessment framework are teacher apparatus — their worked examples' teaching content IS placed; the Bibliography (printed pp. 122–125) is inventory-only, named here, never stocked. Songs are filed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/singapore-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -35,7 +35,21 @@ countries: Singapore, Serbia, Colombia, Sudan, Belarus, Brazil, Angola
 | Brazil — Folha 8 — Arcimboldo's heads built from fruit, books and pots; building a figure from classified objects in groups (student book; original target `visual-art/arcimboldo-composite-heads`) | Book 7, printed p. 138 |
 | Angola — Tema 2.3 Pintura II: painting from observation and memory — things seen and remembered, stories heard — and painting your self-portrait or the portrait of someone you love, using different materials for each work and comparing them (student book; original target `visual-art/painting-from-memory-and-portraits`) | Book 8, printed p. 30 |
 
-**Acceptance count: taught in 6 countries (Serbia, Colombia, Sudan, Belarus, Brazil, Angola). Singapore teacher-guide evidence is named here, counted nowhere.**
+**Book 9:** *Educație plastică: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-938-1 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 81 (80 printed pages plus cover; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluarea formativă nr. 1–4, printed pp. 24, 41, 61, 73, and Evaluarea sumativă nr. 1–2, printed pp. 49, 80 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit III §2, Proporția și portretul — the portrait genre and its kinds (head, bust, statuary, group; en face and in profile); the head's proportions found by the Renaissance masters — chin-to-nose, nose, and forehead are equal; and deliberate distortion to heighten a face's expression (Picasso's "Weeping Woman") (student book; original target `visual-art/the-portrait`) | Book 9, printed p. 54 |
+| Moldova — Unit III §2.2, Etapele desenării unui portret — the stages of drawing a portrait: the vertical symmetry axis, the oval sharpened below, the axis divided in four, the eye line on the second segment, nose, lips, chin, hair and ears placed by the scheme — then the person's own traits kept (student book; original target `visual-art/the-portrait`) | Book 9, printed p. 55 |
+
+**Book 10:** *Educație plastică: Manual pentru clasa a VII-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-389-7 Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluare inițială, printed p. 5, and Evaluarea sumativă nr. 1–2, printed pp. 37, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit I §5, Portretul — the portrait and its kinds (portrait, self-portrait, statuary portrait, bust, group portrait, portrait with arms, equestrian portrait); the head's positions first studied in sketches; and the portrait's second task — the model's character and state of soul, heightened by deliberately neglecting realistic proportions (student book; original target `visual-art/the-portrait`) | Book 10, printed pp. 19–20 |
+| Moldova — Unit I §5 — the digital portrait and the portrait-symbol: computer image tools (Photoshop, Illustrator, Procreate, ZBrush); Arman's "Robot Self-Portrait", a 3D collage of the artist's own objects under plexiglass; Arcimboldo's composite heads of fruit and vegetables (student book; original target `visual-art/the-portrait`) | Book 10, printed p. 20 |
+
+**Acceptance count: taught in 7 countries (Serbia, Colombia, Sudan, Belarus, Brazil, Angola, Moldova). Singapore teacher-guide evidence is named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/portrait-drawing-and-painting`); the Singapore placements were filed under the original string `visual-art/self-portraits-and-the-artists-who-paint-them`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Singapore's own way, carried in the placements: one national early-years guide that treats art, music and movement as a single learning area, with Singapore's own heritage woven through as content. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 

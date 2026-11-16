@@ -1,6 +1,6 @@
 # Sources — The Human Figure in Art
 
-countries: Belarus, Mongolia
+countries: Belarus, Mongolia, Moldova
 
 **Book 1:** *Выяўленчае мастацтва. 5 клас (Fine Arts, Grade 5)* (student book, Belarusian) — Belarus, Нацыянальны інстытут адукацыі (National Institute of Education), Minsk; year 2009; ISBN 978-985-465-593-2; authors М. І. Касабуцкі (M. I. Kasabutski), В. М. Касабуцкі (V. M. Kasabutski); approved by the Ministry of Education of the Republic of Belarus. Title as printed: ВЫЯЎЛЕНЧАЕ МАСТАЦТВА — Вучэбны дапаможнік для 5 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання. Для работы ў класе (Fine Arts — textbook for Grade 5, for work in class). Grade 5 (student book: STUDENT). PDF pages: 96 (imprint title verified against the record; byte size 7,948,218). Verdict: COMPLETE — read in full from the downloaded file's text layer, page by page through all 28 numbered sections (contents verified at printed p. 94); the "Пытанні і творчыя заданні" (questions and creative tasks) pages are named here as apparatus and not placed separately. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
@@ -21,7 +21,21 @@ countries: Belarus, Mongolia
 | Mongolia — Part I: Гэр бүл, садан төрлөө зурах (Drawing my family and relatives) — how families can be drawn: a hand traced and coloured as a family tree, father's, mother's and siblings' names written at the fingertips; a family tree (ургийн мод) with portraits; parents' professions written beside their names; and the kinship words for father's-side and mother's-side relatives (student book; original target `visual-art/drawing-people`) | Book 3, printed pp. 13–14 |
 | Mongolia — Part I: Хүүхэлдэйн киноны баатрыг зурах (Drawing a cartoon hero) — naming the heroes in a child's "Masha and the Bear" painting, finding which part of the picture each detail came from, and drawing my own favourite cartoon hero (Tom and Jerry, Masha, the wolf); pupils' heroes — a rabbit, Minnie, Karlsson, Snow White, Winnie the Pooh — with impressions written and each other's works evaluated (student book; original target `visual-art/drawing-people`) | Book 3, printed pp. 31–32 |
 
-**Acceptance count: taught in 2 countries(Belarus, Mongolia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 4:** *Educație plastică: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-938-1 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 81 (80 printed pages plus cover; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluarea formativă nr. 1–4, printed pp. 24, 41, 61, 73, and Evaluarea sumativă nr. 1–2, printed pp. 49, 80 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit III §3, Proporțiile corpului uman — the canons of the body's proportions: Polykleitos' "Doryphoros" at 7 heads, Leonardo's Vitruvian Man in square and circle, the 8-head drawing scheme; a child's head fits 4–5 times, an adolescent's 6–7; and modern hyperbole — intentional distortion (Matisse's "Pink Nude") (student book; original target `visual-art/proportions-of-the-human-body`) | Book 4, printed pp. 56–57 |
+
+**Book 5:** *Educație plastică: Manual pentru clasa a VII-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-389-7 Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluare inițială, printed p. 5, and Evaluarea sumativă nr. 1–2, printed pp. 37, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit I §2, Figura umană ca sursă de inspirație — the human figure through the ages: prehistoric rock engravings; the canons of the great civilisations (Egyptian, Greek, Roman, Persian, Chinese, Cucuteni-Tripolie); rulers, commanders and church dignitaries as models, their social role readable in the details (student book; original target `visual-art/the-human-figure-in-art`) | Book 5, printed p. 12 |
+| Moldova — Unit I §2 — the figure today: likeness is no longer the goal — feelings and emotions are (Boltanski, Keith Haring); Yves Klein's anthropometries, where the model presses her paint-covered body onto the canvas and the body itself becomes the instrument (student book; original target `visual-art/the-human-figure-in-art`) | Book 5, printed p. 14 |
+| Moldova — Unit I §3, Proporțiile corpului uman — proportions change with age: the newborn's head is 1:4 of the body, its hands 2:5, its legs 1:3, its middle at the navel; in growing, the head doubles, the torso triples, the arms quadruple, the legs grow fivefold, the neck sevenfold; antiquity's beauty models and Leonardo's Vitruvian canon (head = 1/8) (student book; original target `visual-art/proportions-of-the-human-body`) | Book 5, printed pp. 15–16 |
+
+**Acceptance count: taught in 3 countries (Belarus, Mongolia, Moldova).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/the-human-figure-in-art`). The Belarus placement(s) were filed under the original string(s) `visual-art/drawing-people`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 

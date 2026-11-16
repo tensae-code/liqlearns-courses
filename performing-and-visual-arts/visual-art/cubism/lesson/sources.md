@@ -1,6 +1,6 @@
 # Sources — Cubism
 
-countries: Haiti, Sudan
+countries: Haiti, Sudan, Moldova
 
 **Book 1:** *EEA — Programme du 3e cycle (7e à 9e AF) — Éducation Esthétique et Artistique (EEA)* (teacher programme, French) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Direction Enseignement Fondamental (DEF), 2024 (« version définitive, 28 juillet 2024 » per the record; cover marked Tous Droits Réservés 2024–2025), no ISBN printed, Grades 7e à 9e AF combined, French, 63 PDF pp (3,278,166 bytes, matching the record's size_bytes). TEACHER — teacher programme. Verdict: COMPLETE — read in place in staging (cover verified against the record title — EEA programme cover, 3e cycle 7e à 9e AF). The common part for all subjects (PDF pp. 1–22) is out of scope and was not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
 
@@ -13,7 +13,13 @@ countries: Haiti, Sudan
 | Haiti — Unité 2, Formes géométriques et formes naturelles — telling geometric forms from natural or biomorphic forms, decomposing an object or picture into geometric forms, with the programme's own paired references — cubism and the Vèvès of Haiti (Haitian sacred art) (teacher programme — evidence; original target `visual-art/veve-and-cubism-form`) | Book 1, PDF p. 44 |
 | Sudan — Book 1, Artistic Culture, "The Cubist School": Cubism — Braque and Picasso breaking the body into crystalline, geometric form seen from several angles at once, in neutral colours (grey, black, green); its three stages, analytical, synthetic and collage, when newspaper, cloth, wood and matchboxes entered the panel to raise cheap things by art; its children — Orphism in Delaunay's musical colour, Constructivism and Suprematism — and its reach into architecture, utensils, textiles and jewellery (student book) | Book 2, printed p. 15 |
 
-**Acceptance count: taught in 1 country (Sudan). Before Sudan, this lesson stood on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.**
+**Book 3:** *Educație plastică: Manual pentru clasa a VII-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-389-7 Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluare inițială, printed p. 5, and Evaluarea sumativă nr. 1–2, printed pp. 37, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit IV §19 — Cubism (1907, Picasso and Braque): the spatial planes dissolved, objects built from cube, cylinder and cone and shown from several angles at once, in a limited colour range, without the laws of linear or aerial perspective (student book; original target `visual-art/cubism`) | Book 3, printed p. 58 |
+
+**Acceptance count: taught in 2 countries (Sudan, Moldova). Before Sudan, this lesson stood on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/cubism`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 

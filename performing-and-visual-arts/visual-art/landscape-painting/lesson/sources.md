@@ -1,6 +1,6 @@
 # Sources — Landscape Painting
 
-countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka
+countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka, Moldova
 
 **Book 1:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. The repo tree path is a PHANTOM PUSH (HTTP 404); the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link, 79,070,978 bytes and 80 pages, matching the record exactly, and the copy is staged under the push-don't-delete rule. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
@@ -23,7 +23,16 @@ countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka
 | Belarus — Part 3, the ABC of art: Depicting a landscape — passing on the depth of space, the state and mood of nature, and the landscape's colour scheme (kalaryt), in paint and in graphic media, through Belarusian and Russian landscape masters (Chepik, Tsvirka, Vasiliev, Maslenikau, Nemenski, Sadzin) (student book; original target `visual-art/painting-landscapes`) | Book 4, printed pp. 37–40 |
 | Belarus — Section 7, "The landscape genre": the national schools of realistic landscape painting in the 18th–19th centuries and the emotional qualities famous landscape painters gave it; in Belarus, Vashchanka's "In Polesie" and the oil-workers of Polesie (student book; original target `visual-art/painting-landscapes`) | Book 5, printed pp. 28–31 |
 
-**Acceptance count: taught in 5 countries (Turkmenistan, Pakistan, Sudan, Belarus, Jordan).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 8:** *Educație plastică: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-938-1 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 81 (80 printed pages plus cover; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluarea formativă nr. 1–4, printed pp. 24, 41, 61, 73, and Evaluarea sumativă nr. 1–2, printed pp. 49, 80 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit I §3, Peisaj — the landscape genre: a view of nature as subject, background in old painting, an independent genre from the 16th–17th centuries; clear atmosphere by chiaroscuro and colour contrasts, fog and dusk by blurred contours (student book; original target `visual-art/landscape-painting`) | Book 8, printed pp. 12–13 |
+| Moldova — Unit I §3 — choosing the view: the cardboard viewfinder (cadru) that selects the most impressive slice of a view, and the support's position — vertical for tall houses and trees, horizontal for wide panoramas of hills, sea and sky (student book; original target `visual-art/landscape-painting`) | Book 8, printed p. 13 |
+| Moldova — Unit I §3 — the stages of a landscape: compose the elements (near large, far small, for depth), draw with the horizon line, work it graphically (foreground accented, distance lighter), then colour — warm colours for light, cool for shadow (student book; original target `visual-art/landscape-painting`) | Book 8, printed pp. 14–15 |
+| Moldova — Unit I §3 — two manners of landscape: the realist (Shishkin's "Rye Field") and the decorative-stylised (acrylic, gouache, coloured paper, plasticine collage), with Cézanne's "Mont Sainte-Victoire" and Romanescu's "Zi de sărbătoare" (student book; original target `visual-art/landscape-painting`) | Book 8, printed p. 15 |
+
+**Acceptance count: taught in 6 countries (Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Moldova).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/landscape-painting`); the Turkmenistan placement(s) were filed as NEW LESSON NEEDED under the original string `visual-art/landscapes-and-seasons`, recorded in the provenance row(s) above and resolved to this lesson by slug-registry Part 2. This canonical lesson is built from the three Turkmenistan placements filed under the original string `visual-art/landscapes-and-seasons`, resolved here by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 

@@ -1,6 +1,6 @@
 # Sources — Observing Our Surroundings
 
-countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda
+countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -61,7 +61,13 @@ countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Bel
 | Rwanda — Part 2 Unit 1 Lesson 3: Drawing and painting natural objects — drawing and painting natural objects from the surroundings (teacher guide evidence) (teacher guide — evidence) | Book 16, printed p. 91 |
 
 
-**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 17:** *Educație plastică: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Editura Litera, Chișinău; year 2020; ISBN 978-9975-74-938-1 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 81 (80 printed pages plus cover; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: Evaluarea formativă nr. 1–4, printed pp. 24, 41, 61, 73, and Evaluarea sumativă nr. 1–2, printed pp. 49, 80 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova — Unit I §1.2, Relația om – spațiu — man inside nature: Friedrich's "Wanderer above the Sea of Fog", and the sketchbook habit of Leonardo and Dürer, who wandered picturesque places filling albums with nature's structures (student book; original target `first-steps/observing-our-surroundings`) | Book 17, printed p. 7 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 The definition of surroundings and the sound/movement distinction are the Grade 1 book's own Chapter 1 summary words (printed pp. 14–15), taught as the book states them. The teacher-guide row is evidence for the same watching skill and is labelled as such; the lesson's pupil-taught content rests on the student book.
 
