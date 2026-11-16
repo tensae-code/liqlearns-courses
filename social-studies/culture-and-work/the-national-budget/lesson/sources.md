@@ -1,6 +1,6 @@
 # Sources — The National Budget
 
-countries: Rwanda, Uganda, Bahamas
+countries: Rwanda, Uganda, Bahamas, Uzbekistan
 
 **Book 1:** *Social Studies for Rwanda Schools — Primary 6, Teacher's Book, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies for Rwanda Schools — Primary 6, Teacher's Book, Revised Edition 2019. Grade: Grade 6 (Primary 6) (student/teacher: TEACHER). PDF pages: 137 (cover/title page verified against the record title; PDF page count is lower than the printed pagination, which runs to p. 244 with references — the PDF is a condensed-layout copy; read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected). Verdict: COMPLETE (all 13 units' lesson lists and lesson developments read). Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Civics and governance — unity and co-operation, heroism, risky behaviour, citizenship, leadership and organs of government (Civics), printed pp. 12–68; Unit 3 Hygiene — puberty, menstrual hygiene, chronic diseases (Health), pp. 69–84; Unit 11 Post-independent Rwanda — First and Second Republics, Liberation 1990–1994 (History), pp. 191–203; Unit 12 The 1994 Genocide Against the Tutsi — causes, planning and execution, ideology, denial and prevention (History), pp. 204–220; Unit 13 Effects of foreigners in East Africa — explorers, missionaries, traders, colonialists (History), pp. 221–239. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -34,7 +34,15 @@ countries: Rwanda, Uganda, Bahamas
 Rwanda's own way (Rwanda Grade 6): P6 scales the P5 family budget up to the state — national revenue collected by the Rwanda Revenue Authority, a finance minister presenting the budget to parliament, and development read through Rwandan trade, agriculture and tourism.
 
 
-**Acceptance count: taught in 3 countries (Rwanda, Uganda, Bahamas).**
+**Book 6:** *Osnovy ekonomicheskikh znaniy (Fundamentals of Economic Knowledge), Grade 9* (student book, Russian) — Uzbekistan, State Scientific Publishing House "O'zbekiston milliy ensiklopediyasi", Tashkent; year 2006; ISBN 5-89890-127-2 (authors E. Sariqov, B. Haydarov; recommended by the Ministry of Public Education of the Republic of Uzbekistan; print run 26,025). Title as printed: «Основы экономических знаний» 9 (Fundamentals of Economic Knowledge, Grade 9); colophon gives the Uzbek original title "Iqtisodiy bilim asoslari — 9-sinf uchun darslik (rus tilida)", i.e. this file is the Russian-language edition of the ministry textbook named in the record ("Iqtisodiyot / Economics — Grade 9") — same book, grade and subject; language of this edition is Russian, not Uzbek. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 145 (printed book 144 pp. + back cover; cover and title page verified against the record — Grade 9 Economics; byte size 70,340,084, matching the rescue copy; scanned book with no text layer, read from rendered pages). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. I Entrepreneurship and Production, Topics 1–12, printed pp. 8–44; Ch. II State and Economy, Topics 13–18, pp. 50–70; Ch. III Economic Growth, Topics 19–21, pp. 76–87; Ch. IV Inflation and Unemployment, Topics 22–25, pp. 92–105; Ch. V World Economy, Topics 26–30, pp. 110–124. Excluded under the standing rules: the five chapter Revision/Assessment sections (pp. 45–49, 71–75, 88–91, 106–109, 125–128) and the answer key (pp. 138–139) are assessment apparatus, not placed; the Glossary of Economic Terms (pp. 129–137) is inventory-only, named not placed; the Appendices (pp. 140–144, Uzbekistan data tables and a circular-flow diagram) are placed once as a data exercise. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uzbekistan-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — Topic 15, The State Budget — teaches: the state budget as the state's yearly financial plan, its revenue side (taxes, duties, sales of state property and securities) and spending side (education and health first), read off Uzbekistan's real 2004 budget table in billion sum, and approved by the Oliy Majlis | Uzbekistan, *Uzbekistan Grade 9 Osnovy ekonomicheskikh znaniy*, Topic 15, The State Budget — printed p. 55 |
+
+Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
+
+**Acceptance count: taught in 4 countries (Rwanda, Uganda, Bahamas, Uzbekistan).**
 
 Bahamas' own way: public finance is taught through the Ministry of Finance and the national budget — the ministry creates and reports the Budget, and government borrows for capital works such as roads and schools.
 
@@ -44,4 +52,4 @@ Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the 
 
 Uganda's own way (Uganda Primary 5 Excel Standard Social Studies): the national budget is Uganda's own — a financial year running 1 July–30 June, prepared by the Ministry of Finance — and the three kinds of budget (surplus, balanced, deficit) are taught with the causes and dangers of a deficit, at Primary Five.
 
-Searchable tags: the national budget, Rwanda, social studies, culture-and-work, uganda, national budget, surplus balanced deficit, ministry of finance, financial year, bahamas
+Searchable tags: the national budget, Rwanda, social studies, culture-and-work, uganda, national budget, surplus balanced deficit, ministry of finance, financial year, bahamas, uzbekistan

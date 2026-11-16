@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **535**
+Economics lessons across the Economics titles: **551**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4431,4 +4431,20 @@ Goods, products and services, Final,
 intermediate and primary goods and Factor
 incomes — rent, wages, interest and profit;
 Macroeconomics: Welfare economy and the
-welfare state).
+welfare state; +16 for Uzbekistan,
+2026-11-16 — Microeconomics: Types of
+business activity, Registering and operating
+a formal business, Capital — fixed and
+circulating, and depreciation, Revenue,
+costs and profit of a business, Profitability
+and bankruptcy of a firm, Management —
+functions and methods and Marketing and its
+four stages; Market and Money: Simple and
+compound interest and The quantity theory of
+money; Macroeconomics: The Aral Sea — an
+ecological and economic disaster,
+Uzbekistan's economic potential, Effects of
+inflation on the economy, How inflation is
+fought, Trade unions and employers'
+associations, Uzbekistan's foreign trade and
+its structure and Global economic problems).

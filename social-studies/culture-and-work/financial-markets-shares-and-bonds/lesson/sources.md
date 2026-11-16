@@ -1,6 +1,6 @@
 # Sources — Financial Markets — Shares and Bonds
 
-countries: Mongolia
+countries: Mongolia, Uzbekistan
 
 **Book 1:** *Нийгэм судлал X (Social Studies X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал X (Social Studies X). Grade: Grade 10 (student). 151 PDF pp. (cover verified against the record title; secured GitHub release asset, 91,224,144 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book — note the books.json record says 7,193,154 bytes, which does not match the secured asset: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter openings read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -9,8 +9,16 @@ countries: Mongolia
 | Sub lesson 1 — Financial markets | Mongolia, *Нийгэм судлал X (Social Studies X)*, Grade 10, Chapter 4 Economics: 4.3 Financial markets — printed p. 91 |
 | Sub lesson 2 — Mongolia's way — the book's own teaching way | Mongolia, *Нийгэм судлал X (Social Studies X)*, Grade 10 — the book's own way of teaching (see below) — printed p. 91 |
 
-**Acceptance count: taught in 1 country (Mongolia).**
+**Book 2:** *Osnovy ekonomicheskikh znaniy (Fundamentals of Economic Knowledge), Grade 9* (student book, Russian) — Uzbekistan, State Scientific Publishing House "O'zbekiston milliy ensiklopediyasi", Tashkent; year 2006; ISBN 5-89890-127-2 (authors E. Sariqov, B. Haydarov; recommended by the Ministry of Public Education of the Republic of Uzbekistan; print run 26,025). Title as printed: «Основы экономических знаний» 9 (Fundamentals of Economic Knowledge, Grade 9); colophon gives the Uzbek original title "Iqtisodiy bilim asoslari — 9-sinf uchun darslik (rus tilida)", i.e. this file is the Russian-language edition of the ministry textbook named in the record ("Iqtisodiyot / Economics — Grade 9") — same book, grade and subject; language of this edition is Russian, not Uzbek. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 145 (printed book 144 pp. + back cover; cover and title page verified against the record — Grade 9 Economics; byte size 70,340,084, matching the rescue copy; scanned book with no text layer, read from rendered pages). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. I Entrepreneurship and Production, Topics 1–12, printed pp. 8–44; Ch. II State and Economy, Topics 13–18, pp. 50–70; Ch. III Economic Growth, Topics 19–21, pp. 76–87; Ch. IV Inflation and Unemployment, Topics 22–25, pp. 92–105; Ch. V World Economy, Topics 26–30, pp. 110–124. Excluded under the standing rules: the five chapter Revision/Assessment sections (pp. 45–49, 71–75, 88–91, 106–109, 125–128) and the answer key (pp. 138–139) are assessment apparatus, not placed; the Glossary of Economic Terms (pp. 129–137) is inventory-only, named not placed; the Appendices (pp. 140–144, Uzbekistan data tables and a circular-flow diagram) are placed once as a data exercise. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uzbekistan-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — Topic 4, The Joint-Stock Company — teaches: a large limited-liability firm whose charter fund is raised by selling shares; nominal value versus market price (course) of a share, dividends, ordinary versus preference shares and the controlling stake, worked on the family company "Ziyo-LTD" (40,000 shares of 1,000 sum, 25,000,000 sum net profit to divide) | Uzbekistan, *Uzbekistan Grade 9 Osnovy ekonomicheskikh znaniy*, Topic 4, The Joint-Stock Company — printed p. 17 |
+
+Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
+
+**Acceptance count: taught in 2 countries (Mongolia, Uzbekistan).**
 
 Mongolia's own way: the senior cycle drops the “Individual and…” frame for straight disciplines — Society, Culture, Law, Economics, Politics, International Relations — with Mongolia's own culture, macroeconomy and foreign relations as the worked examples. That way is stocked here as the way Mongolia teaches this thing. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
 
-Searchable tags: financial markets, shares, bonds, investment, Mongolia, Нийгэм судлал X, social studies, culture and work
+Searchable tags: financial markets, shares, bonds, investment, Mongolia, Нийгэм судлал X, social studies, culture and work, uzbekistan

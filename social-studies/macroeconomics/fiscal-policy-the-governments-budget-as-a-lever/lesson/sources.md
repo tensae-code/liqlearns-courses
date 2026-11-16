@@ -1,6 +1,6 @@
 # Sources — Fiscal policy — the government's budget as a lever
 
-countries: Ethiopia, Malaysia, Albania, Cambodia
+countries: Ethiopia, Malaysia, Albania, Cambodia, Uzbekistan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -25,7 +25,15 @@ countries: Ethiopia, Malaysia, Albania, Cambodia
 |---|---|
 | Cambodia part — Ch. 2, Lesson 7: Expenditure and fiscal policy — teaches: government spending and taxation as one lever — fiscal policy worked through the budget | Cambodia, *Cambodia Grade 11 G11 Economics*, Ch. 2, Lesson 7: Expenditure and fiscal policy — printed p. 118 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Cambodia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 5:** *Osnovy ekonomicheskikh znaniy (Fundamentals of Economic Knowledge), Grade 9* (student book, Russian) — Uzbekistan, State Scientific Publishing House "O'zbekiston milliy ensiklopediyasi", Tashkent; year 2006; ISBN 5-89890-127-2 (authors E. Sariqov, B. Haydarov; recommended by the Ministry of Public Education of the Republic of Uzbekistan; print run 26,025). Title as printed: «Основы экономических знаний» 9 (Fundamentals of Economic Knowledge, Grade 9); colophon gives the Uzbek original title "Iqtisodiy bilim asoslari — 9-sinf uchun darslik (rus tilida)", i.e. this file is the Russian-language edition of the ministry textbook named in the record ("Iqtisodiyot / Economics — Grade 9") — same book, grade and subject; language of this edition is Russian, not Uzbek. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 145 (printed book 144 pp. + back cover; cover and title page verified against the record — Grade 9 Economics; byte size 70,340,084, matching the rescue copy; scanned book with no text layer, read from rendered pages). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. I Entrepreneurship and Production, Topics 1–12, printed pp. 8–44; Ch. II State and Economy, Topics 13–18, pp. 50–70; Ch. III Economic Growth, Topics 19–21, pp. 76–87; Ch. IV Inflation and Unemployment, Topics 22–25, pp. 92–105; Ch. V World Economy, Topics 26–30, pp. 110–124. Excluded under the standing rules: the five chapter Revision/Assessment sections (pp. 45–49, 71–75, 88–91, 106–109, 125–128) and the answer key (pp. 138–139) are assessment apparatus, not placed; the Glossary of Economic Terms (pp. 129–137) is inventory-only, named not placed; the Appendices (pp. 140–144, Uzbekistan data tables and a circular-flow diagram) are placed once as a data exercise. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uzbekistan-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — Topic 18, Budget-Tax (Fiscal) Policy — teaches: how raising or cutting tax rates and state spending moves aggregate demand, output and employment up or down, traced on a chain diagram from a tax rise to employment, and that a deficit of 2–3% of GDP counts as normal | Uzbekistan, *Uzbekistan Grade 9 Osnovy ekonomicheskikh znaniy*, Topic 18, Budget-Tax (Fiscal) Policy — printed p. 68 |
+
+Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Cambodia, Uzbekistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -35,4 +43,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: fiscal policy — the government's budget as a lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, cambodia
+Searchable tags: fiscal policy — the government's budget as a lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, cambodia, uzbekistan

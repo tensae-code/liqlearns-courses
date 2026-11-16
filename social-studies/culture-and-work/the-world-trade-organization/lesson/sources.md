@@ -1,6 +1,6 @@
 # Sources — The World Trade Organization
 
-countries: South Sudan, Cambodia
+countries: South Sudan, Cambodia, Uzbekistan
 
 **Book 1:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -18,7 +18,15 @@ countries: South Sudan, Cambodia
 |---|---|
 | Cambodia part — Ch. 4, Lesson 3: The world trade system — teaches: the system that governs world trade and the organisation at its centre | Cambodia, *Cambodia Grade 12 G12 Economics*, Ch. 4, Lesson 3: The world trade system — printed p. 178 |
 
-**Acceptance count: taught in 2 countries (South Sudan, Cambodia).**
+**Book 4:** *Osnovy ekonomicheskikh znaniy (Fundamentals of Economic Knowledge), Grade 9* (student book, Russian) — Uzbekistan, State Scientific Publishing House "O'zbekiston milliy ensiklopediyasi", Tashkent; year 2006; ISBN 5-89890-127-2 (authors E. Sariqov, B. Haydarov; recommended by the Ministry of Public Education of the Republic of Uzbekistan; print run 26,025). Title as printed: «Основы экономических знаний» 9 (Fundamentals of Economic Knowledge, Grade 9); colophon gives the Uzbek original title "Iqtisodiy bilim asoslari — 9-sinf uchun darslik (rus tilida)", i.e. this file is the Russian-language edition of the ministry textbook named in the record ("Iqtisodiyot / Economics — Grade 9") — same book, grade and subject; language of this edition is Russian, not Uzbek. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 145 (printed book 144 pp. + back cover; cover and title page verified against the record — Grade 9 Economics; byte size 70,340,084, matching the rescue copy; scanned book with no text layer, read from rendered pages). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. I Entrepreneurship and Production, Topics 1–12, printed pp. 8–44; Ch. II State and Economy, Topics 13–18, pp. 50–70; Ch. III Economic Growth, Topics 19–21, pp. 76–87; Ch. IV Inflation and Unemployment, Topics 22–25, pp. 92–105; Ch. V World Economy, Topics 26–30, pp. 110–124. Excluded under the standing rules: the five chapter Revision/Assessment sections (pp. 45–49, 71–75, 88–91, 106–109, 125–128) and the answer key (pp. 138–139) are assessment apparatus, not placed; the Glossary of Economic Terms (pp. 129–137) is inventory-only, named not placed; the Appendices (pp. 140–144, Uzbekistan data tables and a circular-flow diagram) are placed once as a data exercise. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uzbekistan-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uzbekistan part — Topic 28, International Trade Organisations — teaches: GATT (1947) growing into the WTO, and the blocs — the European Union and its euro, ASEAN, NAFTA and the Eurasian customs union Uzbekistan joined in 2005 | Uzbekistan, *Uzbekistan Grade 9 Osnovy ekonomicheskikh znaniy*, Topic 28, International Trade Organisations — printed p. 118 |
+
+Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
+
+**Acceptance count: taught in 3 countries (South Sudan, Cambodia, Uzbekistan).**
 
 South Sudan's own way (South Sudan Grade 12 S4 Geography SB): A global book (globalization, oceans, world energy, the development gap) that keeps returning to South Sudan — ARCISS signing photo in Juba for political globalization, South Sudan classroom progress-check scenarios, and a closing exercise asking learners, as citizens of South Sudan, how their nation can grow economically.
 
@@ -26,4 +34,4 @@ South Sudan's own way (South Sudan Grade 12 S4 Geography TG) (teacher guide — 
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: the world trade organization, South Sudan, social studies, culture-and-work, cambodia
+Searchable tags: the world trade organization, South Sudan, social studies, culture-and-work, cambodia, uzbekistan
