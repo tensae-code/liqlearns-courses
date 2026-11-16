@@ -1,6 +1,6 @@
 # Sources — Video: Moving Pictures
 
-countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria
+countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -32,7 +32,7 @@ countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria
 | Brazil — Folha 6 — the videoclip: from Beatles and Dylan promo films to MTV (1981) (student book; original target `visual-art/video-moving-pictures`) | Book 7, printed p. 109 |
 | Brazil — Folha 8 "Arte: ilusão ou realidade?" — cinema, the Seventh Art: the Lumière brothers' first public show (1895) and the illusion that feels real; shooting a 5–10 minute class film with script, direction, sets and costume teams (student book; original target `visual-art/cinema-the-seventh-art`) | Book 7, printed p. 130 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Finland, Brazil, Bulgaria). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 5 countries (Ethiopia, Finland, Brazil, Bulgaria, Cuba). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 The Grade 5 book's tempo table oddity (Allegretto above Allegro) belongs to the music lesson and is not used here. The Grade 8 teacher-guide parts are inside that guide's surviving body pages (printed pp. 4–6) and are labelled evidence. Creative photography's techniques are taught as the Grade 7 guide names them; 'painting onto a printed photo' and double exposure are described, not faked — the lesson's picture is a drawn teaching board, not a photograph claiming those effects.
 
@@ -43,3 +43,27 @@ Searchable tags: video, moving pictures, shot sizes, close-up, medium view, long
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Изобразителното изкуство и другите изкуства – екранни изкуства (Fine Art and the Other Arts — the Screen Arts) — cinematography (from "kinesis" — movement, and "graphos" — I write): moving images lit and recorded on photographic film or in digital form, comprising film art and the film industry, special effects, animation and the sh… (student book) | Book 8, printed pp. 16–19 |
+
+**Book 9:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 4, Historietas y dibujos animados — appreciating how Cuban animated cartoons are made, through Elpidio Valdés, El Capitán Plin and Meñique (teacher guide — evidence; original target `visual-art/video-moving-pictures`) | Book 9, printed p. 52 |
+
+**Book 10:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1 — cinema: the pre-cinema thaumatrope (bird and cage on a spinning card), short against feature films, and the fiction genre rebuilding epochs and settings (student book; original target `visual-art/video-moving-pictures`) | Book 10, printed pp. 49–52 |
+| Cuba — Chapter 1 — video: from a television support technology to a new artistic medium of its own (student book; original target `visual-art/video-moving-pictures`) | Book 10, printed p. 55 |
+| Cuba — Chapter 2 — the audiovisual language: the plano general that informs from far away, and the shot sizes (student book; original target `visual-art/video-moving-pictures`) | Book 10, printed pp. 90–92 |
+
+**Book 11:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.9, El audiovisual en Cuba — the audiovisual language, digital art made under blockade conditions, and the Proyecto Lucas (student book; original target `visual-art/video-moving-pictures`) | Book 11, printed pp. 123–127 |
+| Cuba — §2.6, Una imagen en movimiento: el cine — the cinema as a cultural institution of the Cuban family, at its height during the Festival de Cine Latinoamericano (student book; original target `visual-art/video-moving-pictures`) | Book 11, printed p. 157 |

@@ -1,6 +1,6 @@
 # Sources — Reading the Beat
 
-countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Colombia, Belarus, Iran, Morocco, Bulgaria, Jordan, Sri Lanka, Libya
+countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Colombia, Belarus, Iran, Morocco, Bulgaria, Jordan, Sri Lanka, Libya, Cuba
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -98,7 +98,7 @@ countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua, Singapore, Trinidad and 
 | Morocco — "I Read a Musical Score" (أقرأ مدونة موسيقية) — sight-reading a whole simple score built from the quarter note, half note and their matching rests, to the pulse, worked through the French song "Au clair de la lune" (named; its words not transcribed) (teacher guide — evidence; original target `music/reading-the-beat`) | Book 21, printed p. 121 |
 | Morocco — "Duple Meter" (الوزن الثنائي), beating time like the conductor — the conductor (the maestro) beats duple meter with two vertical hand movements — down for the strong first beat, up for the weak second — so the musicians play in harmony and order; musical meter divides a piece into equal parts in duration (teacher guide — evidence; original target `music/reading-the-beat`) | Book 22, printed p. 90 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Turkmenistan, Colombia, Belarus, Iran, Bulgaria).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Turkmenistan, Colombia, Belarus, Iran, Bulgaria, Cuba).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The off-staff melody is named by its opening letters exactly as the placement quotes them; no melody is transcribed beyond that placement-quoted fragment, and no song is transcribed.
 
@@ -172,3 +172,25 @@ Searchable tags: reading the beat, sight-reading rhythm, beat movement-act with 
 |---|---|
 | Libya — Beating time with the hand — the conductor's hand signs for the simple metres drawn as paths: down-up for two, the triangle for three, the four-beat pattern, so the reader keeps the metre in the hand (teacher guide — evidence; original target `music/reading-the-beat`) | Book 31, printed p. 16 |
 | Libya — Rhythm-reading exercises — four written rhythm lines to be read and clapped at sight (teacher guide — evidence; original target `music/reading-the-beat`) | Book 31, printed p. 18 |
+
+**Book 32:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2 — pulse, accent and the 2/4, 3/4 and 4/4 bars, rhythmic and melodic ostinato, and polyrhythm (the Capetereal polyrhythm) performed with body percussion, instruments and cosófonos (student book; original target `music/reading-the-beat`) | Book 32, printed pp. 38–46 |
+
+**Book 33:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, §1.10 — musical games, rhythmic and melodic echoes, rhythmic and melodic ostinatos, sonorising poems, rhymes and riddles, and sound walks (teacher programme — evidence; original target `music/reading-the-beat`) | Book 33, printed p. 21 |
+| Cuba — Unit 2, §2.4 — long and short pulses and rhythmic designs carried by the body, joining clapping and feet to the accentuation of words (llanas, agudas, esdrújulas) (teacher programme — evidence; original target `music/reading-the-beat`) | Book 33, printed p. 34 |
+
+**Book 34:** *Las músicas de Cuba y del mundo — Educación Musical, sexto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2025; ISBN 978-959-13-5171-5 (print) / 978-959-13-5185-2 (digital). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1 — polyrhythms as the road into the Himno and the songs: tracking the pulses in simple 2/4, 3/4 and 4/4 (student book; original target `music/reading-the-beat`) | Book 34, printed pp. 26–27 |

@@ -1,6 +1,6 @@
 # Sources — Elements of Drama
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Sri Lanka
+countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Sri Lanka, Cuba
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil,
 | Morocco — "I Express by Dialogue" (أعرب بالحوار) — the forms of dialogue — monologue, two-person dialogue, group dialogue, scripted dialogue and improvised dialogue — practised through three short scenes observed then acted: a child's Eid monologue about helping a poor neighbour, a boy-and-mother dialogue about buying Eid shoes for the poor neighbour's son, and three butterflies caught in the rain (plots only) (teacher guide — evidence; original target `drama-and-dance/kinds-of-dialogue`) | Book 8, printed p. 58 |
 | Morocco — "I Express by Delivery and Movement" (أعبر بالإلقاء والحركة), kinds of dialogue — theatrical dialogue is three kinds — internal (the monologue), between two people, and group dialogue (slug first proposed in the Grade 3 filing) (teacher guide — evidence; original target `drama-and-dance/kinds-of-dialogue`) | Book 9, printed p. 56 |
 
-**Acceptance count: taught in 2 countries (Iran, Brazil).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Iran, Brazil, Cuba).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The element list is the guide's own (printed pp. 54–56), given whole; nothing is added to it or taken from it.
 
@@ -58,3 +58,10 @@ Searchable tags: elements of drama, character, tension, symbol, dramatic action,
 |---|---|
 
 | Sri Lanka — Competency 2.1 "Let's identify characters" — reading character in drama — recognising kinds of characters and their traits from what they do and say (teacher guide — evidence; original target `drama-and-dance/elements-of-drama`) | Book 10, printed pp. 11–12 |
+
+**Book 11:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 2 — the theatre text's structure (inicio, nudo/conflicto, desenlace) and silence's high expressive value on stage (student book; original target `drama-and-dance/elements-of-drama`) | Book 11, printed pp. 87–88 |

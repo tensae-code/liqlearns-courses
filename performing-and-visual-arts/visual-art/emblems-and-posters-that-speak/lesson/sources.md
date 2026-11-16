@@ -1,6 +1,6 @@
 # Sources — Emblems and Posters That Speak
 
-countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Papua New Guinea, Morocco, Jordan, Sri Lanka, Libya
+countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Papua New Guinea, Morocco, Jordan, Sri Lanka, Libya, Cuba
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -69,7 +69,7 @@ countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan,
 | Morocco — "Green Morocco" (المغرب الأخضر), making images that speak — drawing an advertising slogan for Moroccan citrus and creating a communicative image urging people to protect the environment — images designed to carry a message (teacher guide — evidence; original target `visual-art/emblems-and-posters-that-speak`) | Book 17, printed p. 86 |
 | Morocco — "Our Traditional Industry" (صناعتنا التقليدية) — enriching an image by collage and composition (الإلصاق والتركيب) with pictures, drawings, slogans, numbers and icons gathered from the internet, image libraries and software; groups make a digital poster (slogan, date, place, product photos scanned, downloaded or photographed) for an exhibition of the region's farm and craft products (teacher guide — evidence; original target `visual-art/emblems-and-posters-that-speak`) | Book 17, printed p. 88 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
 
 The famous emblems named (Coca-Cola, Nike, Apple, Pepsi, Walta Television) are named as the Grade 5 book names them, as examples of the three kinds — no mark is reproduced in the lesson's drawn picture, which is an invented teaching emblem, not a copy of any real one. The Grade 5 teacher-guide signs-and-posters part rests on that guide's closing syllabus tables and is labelled at that evidence level in the table.
 
@@ -105,3 +105,10 @@ Searchable tags: emblem, አርማ, poster, signs, design, advertising, health p
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Graphic art in daily life — the printing workshop opens the door to graphic art (al-jrafik): design and printing at work in newspapers, magazines, book covers, postcards, greeting cards and the wrapping of manufactured goods (teacher guide — evidence; original target `visual-art/emblems-and-posters-that-speak`) | Book 21, printed p. 74 |
+
+**Book 22:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 6, El diseño del ambiente escolar — designing posters and signs (carteles y señales) in free technique and digital format: the poster as an illustrated work that communicates to the crowds (teacher guide — evidence; original target `visual-art/emblems-and-posters-that-speak`) | Book 22, printed p. 63 |

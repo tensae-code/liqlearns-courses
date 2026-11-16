@@ -1,6 +1,6 @@
 # Sources — Moving to Music
 
-countries: Ethiopia, Guatemala, Canada, Barbados, Nicaragua, Singapore, Trinidad and Tobago, Malta, Finland, Fiji, Suriname, Bulgaria
+countries: Ethiopia, Guatemala, Canada, Barbados, Nicaragua, Singapore, Trinidad and Tobago, Malta, Finland, Fiji, Suriname, Bulgaria, Cuba
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -61,7 +61,7 @@ countries: Ethiopia, Guatemala, Canada, Barbados, Nicaragua, Singapore, Trinidad
 | Fiji — Unit 8 Sea, Activity 3 — a tempo listening game: two groups stand and sit on cued words while singing, starting slowly and increasing tempo (teacher guide — evidence) | Book 14, printed p. 29 |
 | Suriname — Dance Les 3–4: leading, following, leaning and supporting — partner work inside group dance — meeting on your routes and taking over each other's movements, now leading, now following; and in Lesson 4 the agreed signs X, Y and Z that switch the group between dancing a route together, freezing together in a leaning-and-supporting group shape for at least three seconds "like a group photo", and changing movement form (teacher guide — evidence; original target `drama-and-dance/dance-partner-work`) | Book 18, printed pp. 71, 75–76 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Canada, Finland, Bulgaria). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 17) is evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Canada, Finland, Bulgaria, Cuba). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 17) is evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 1 teacher-guide row is labelled evidence: it names the same free-movement strand at its Grade 1 root and does not change the count. The song ዳንስ (Dans) is placed by name, source (KCLS, as printed) and its direction content, exactly as the placement gives it; its verses are not transcribed.
 
@@ -75,3 +75,17 @@ Searchable tags: free movement to music, free dance, partner dance, ዳንስ, D
 | Bulgaria — Topic 11: Музика и танц (music and dance together) (student book) | Book 19, printed p. 16 |
 | Bulgaria — Topics 34–35: Ръченица and Народни танци (the Rachenitsa and folk dances) (student book) | Book 19, printed pp. 42, 43 |
 | Bulgaria — Topics 37–38: Валс and Валс и ръченица (the waltz, and waltz beside rachenitsa — two dance characters compared) (student book) | Book 19, printed pp. 45, 46 |
+
+**Book 20:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1 — corporización: expressing the qualities of sound and the expressive means with the moving body, in partial and total space (student book; original target `drama-and-dance/moving-to-music`) | Book 20, printed p. 21 |
+
+**Book 21:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, §1.12 — corporización of "Guajira Guantanamera": answering the music with the body and meeting the Cuban danceable genres through movement (teacher programme — evidence; original target `drama-and-dance/moving-to-music`) | Book 21, printed p. 21 |

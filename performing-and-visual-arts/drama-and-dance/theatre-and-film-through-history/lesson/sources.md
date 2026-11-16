@@ -1,6 +1,6 @@
 # Sources — Theatre and Film Through History
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil
+countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -52,8 +52,24 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil
 | Brazil — Folha 9 — medieval religious theatre: Mistérios, Autos and Paixões move from inside the church to the square; Brazil's Holy Week Passion plays today (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 12, printed p. 148 |
 | Brazil — Folha 9 — Elizabethan theatre and Shakespeare, the dramatist whose plays still move audiences (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 12, printed p. 150 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Brazil).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Brazil, Cuba).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Claims of firsts are taught as their sources give them: Fabula is 'probably the first original African play' and Hager Fikir the 'oldest indigenous theatre in Africa' — the guide's own wordings, kept with their caution. The Grade 10 guide records no separate 'Lesson 27' heading in its theatre sequence; the lesson follows its placements (Lesson 26 African theatre onward) and claims nothing about a Lesson 27.
 
 Searchable tags: theatre history, film history, theatron, Fabula, Tekle Hawariat, Hager Fikir Theatre, National Theatre, Seytan Bet, Haile Gerima, Ethiopian Film Corporation, film types, theatre types, Papua New Guinea, Brazil
+
+**Book 13:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 3 — XIX-century Cuban theatre: the actor Francisco Covarrubias (1812) and the teatro bufo drinking from Spanish comedy and North-American shows (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 13, printed pp. 132–133 |
+| Cuba — Chapter 4 — XX-century Cuban theatre and cinema: the La Cueva group opening with Pirandello, the Prado 260 room, the 1990s theatre of memory, and Cuban cinema's critical realism (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 13, printed pp. 161–167 |
+
+**Book 14:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.7, Retablos de ensueños: el teatro cubano — theatre from the aboriginal areítos and mimetismo through Heredia, Avellaneda and Milanés to José Triana, the Teatro Escambray, satirical theatre and the mountain theatre brigades (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 14, printed pp. 94–106 |
+| Cuba — §1.8, Miradas y perspectivas: el cine cubano contemporáneo — Cuban cinema from the Lumière arrival through the golden 1960s, the documentary school, Lucía, Cecilia, Juan Padrón's animation, Lista de espera, Suite Habana and Conducta (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 14, printed pp. 107–121 |

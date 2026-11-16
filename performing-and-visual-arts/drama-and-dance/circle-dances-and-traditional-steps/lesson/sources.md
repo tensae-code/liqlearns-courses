@@ -1,6 +1,6 @@
 # Sources — Circle Dances and Traditional Steps
 
-countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan
+countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -24,8 +24,15 @@ countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan
 | Iceland — Ring dances: teach the class to dance a ring dance (hringdans) while singing it (Kokkurinn við kabyssuna — the cook at his stove) (teacher guide — evidence) | Book 4, printed p. 38 |
 | Turkmenistan — "Хоровод" (The round dance) — what a dance is: rhythmic movements to music, and the round dance as its form; the closing review "Назови танцы" (Name the dances) is apparatus and not placed (student book; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 5, printed p. 39 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
 
 Nothing flagged. The circle song is named and its movement taught; its words are not transcribed beyond the title the placement gives.
 
 Searchable tags: circle dance, እንሽከረከራለን, Enshikerekeralen, traditional dance steps, facing dancers, group performance, Grade 1, Nicaragua, Iceland, Dægurspor
+
+**Book 6:** *Orientaciones Metodológicas — Educación Musical, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4689-6 (print) / 978-959-13-4690-2 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 172. Verdict: COMPLETE. Evaluation guidance and bibliographies excluded as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, Conceptos básicos — rondas, the oral-tradition ring games of the community, taught as cultural heritage that builds skill and values (teacher guide — evidence; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 6, printed p. 35 |

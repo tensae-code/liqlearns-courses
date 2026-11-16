@@ -1,6 +1,6 @@
 # Sources — Faster Notes, Dynamics and Tempo
 
-countries: Ethiopia, United Kingdom, Barbados, Albania, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Fiji, Suriname, Colombia, Belarus, Papua New Guinea, Morocco, Bulgaria, Jordan, Libya
+countries: Ethiopia, United Kingdom, Barbados, Albania, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Fiji, Suriname, Colombia, Belarus, Papua New Guinea, Morocco, Bulgaria, Jordan, Libya, Cuba
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -96,7 +96,7 @@ countries: Ethiopia, United Kingdom, Barbados, Albania, Nicaragua, Singapore, Tr
 |---|---|
 | Morocco — "I Learn the Eighth Note and the Eighth Rest" (أتعرف أحادية السن ونصف الزفرة) — the eighth note (أحادية السن) — a sound sign in two shapes worth half a beat, its beat kept by four light taps or by folding four fingers in turn — and the eighth rest (نصف الزفرة), the matching silence sign; writing both on the staff and reading short passages on Fa, Sol and La (teacher guide — evidence; original target `music/faster-notes-dynamics-and-tempo`) | Book 23, printed p. 66 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, United Kingdom, Turkmenistan, Fiji, Colombia, Belarus, Bulgaria, Jordan). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, United Kingdom, Turkmenistan, Fiji, Colombia, Belarus, Bulgaria, Jordan, Cuba). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book's tempo table lists Allegretto as "very fast", above Allegro "fast" — the lesson keeps the book's own ordering and says so in the tempo sub lesson, for fidelity to the source, exactly as the placements flag it. The seven-sounds table is the book's own mapping (C = Do … B = Si) with Do taken as the starting base, as printed.
 
@@ -147,3 +147,31 @@ Searchable tags: eighth note, dotted notes, dynamics, piano, forte, crescendo, d
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Dotted notes and ties — the dot that stretches a note by half its value, and the two ties: the melodic tie joining two notes of one pitch into a single sound, and the time tie joining values across the bar (teacher guide — evidence; original target `music/faster-notes-dynamics-and-tempo`) | Book 31, printed pp. 20–21 |
+
+**Book 32:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2, Los sonidos musicales — tempo: the composer's speed words and the metronome (clockwork and digital); dynamics: the force levels of a sound (student book; original target `music/faster-notes-dynamics-and-tempo`) | Book 32, printed pp. 55–56 |
+
+**Book 33:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2, §2.6 — games with the gradations of intensity from pianissimo to fortissimo and of speed from lento through moderado to rápido, applied to poems, rhymes, riddles, songs and listenings (teacher programme — evidence; original target `music/faster-notes-dynamics-and-tempo`) | Book 33, printed p. 34 |
+
+**Book 34:** *Las músicas de Cuba y del mundo — Educación Musical, sexto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2025; ISBN 978-959-13-5171-5 (print) / 978-959-13-5185-2 (digital). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 2, Música y bailes del mundo — rhythm from word lengths: three-syllable words as three eighth-note triplets on one beat, four-syllable words as four semiquavers (student book; original target `music/faster-notes-dynamics-and-tempo`) | Book 34, printed p. 41 |
+
+**Book 35:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 2 — the tempo table: Allegro, Presto, Vivace, accelerando and ritardando (student book; original target `music/faster-notes-dynamics-and-tempo`) | Book 35, printed p. 65 |

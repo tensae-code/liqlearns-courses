@@ -1,6 +1,6 @@
 # Sources — Design and Perspective: Near and Far
 
-countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Papua New Guinea, Brazil, Jordan, Libya
+countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Papua New Guinea, Brazil, Jordan, Libya, Cuba
 
 **Book 1:** *Grade 6 Performing and Visual Arts Teacher Guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Writers: Tibebu Woldeyohannes, Yirga Qumelachew, Yohannes Sebsebie. 96 PDF pages; printed front matter I–VI + body and syllabus to printed p. 119. Read in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
@@ -80,7 +80,7 @@ countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pa
 
 | Brazil — Folha 4 — perspective and symmetry compared across the Last Suppers of Leonardo, Dalí, Giotto and Rego Monteiro; making a symmetrical composition around a table (student book; original target `visual-art/design-and-perspective-near-and-far`) | Book 19, printed p. 72 |
 
-**Acceptance count: taught in 11 countries (Maldives, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Brazil, Jordan).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 12 countries (Maldives, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Brazil, Jordan, Cuba).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 6 teacher's guide (Addis Ababa City Administration Education Bureau, © 2014 E.C.). The placements file summarises the guide's §2.4 design section by its topic, its Amharic terms and its picture slot (a road narrowing to a vanishing point, nearer trees darker and larger); the lesson teaches at exactly that level and adds no perspective rules, constructions or terms the placement does not give.
 
@@ -111,3 +111,17 @@ Searchable tags: Maldives, Exploring Creative Arts 4, perspective, የርቀት�
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — The rules of perspective (Year 3) — perspective drawing's rules summed: parallel lines meet at a vanishing point on the horizon line; vertical lines stay vertical; surfaces shrink as they leave the eye; the ways of drawing it — photographic perspective, and geometric perspective at 45° and at 30° — with applications: a set of home tools, a street, and a classroom or shop interior drawn by the rules (teacher guide — evidence; original target `visual-art/design-and-perspective-near-and-far`) | Book 23, printed pp. 68–69 |
+
+**Book 24:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2, El volumen real y el virtual — real volume against virtual (pictured) volume, and the space indicators that fake depth on a flat surface: figure–ground, relative size, and warm colours advancing while cool colours recede (teacher guide — evidence; original target `visual-art/design-and-perspective-near-and-far`) | Book 24, printed p. 32 |
+
+**Book 25:** *Educación Laboral y Dibujo Básico — séptimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3816-7. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 198. Verdict: COMPLETE for the Dibujo Básico parts; labour parts (Capítulos II–III) named in the placements, not placed, per the combined-book rule; Glosario (printed p. 181) inventory only and Bibliografía (p. 187) excluded. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.10, Proyecciones — projection learned from the shadow: parallel and orthogonal projection, and the three views (frontal, superior, lateral izquierda) of an article (student book; original target `visual-art/design-and-perspective-near-and-far`) | Book 25, printed p. 64 |

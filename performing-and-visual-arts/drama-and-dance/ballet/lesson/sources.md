@@ -1,6 +1,6 @@
 # Sources — Ballet
 
-countries: Malta, Belarus
+countries: Malta, Belarus, Cuba
 
 **Book 1:** *Music Shines II — Unit 9 Listening and Appraising (§§9.4–9.6)* (teacher guide pages + pupil activities, English) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 4 per record; the PDF carries the Year 4, Year 5 and Year 6 levels (printed pp. 157–169), 13 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 9. Cover/title page verified against the record title — first page is the Unit 9 divider, printed p. 157. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -12,8 +12,22 @@ countries: Malta, Belarus
 
 | Belarus — Journey to the land Ballet: ballet is a musical performance whose story is told by music and dance — ballet master, ballerinas, dancers, corps de ballet and orchestra; Glebov's Belarusian ballet "The Little Prince" and its Adagio, the slow lyrical dance of the main heroes; Tchaikovsky's Nutcracker March, the Neapolitan Dance from Swan Lake with its solo trumpet, the Sleeping Beauty Waltz; Prokofiev's Cinderella Waltz (Midnight); Stravinsky's Petrushka dolls' dance; Khodosko's Belarusian ballet "The Golden Key", its Buratino and Karabas read from the music (student book; original target `drama-and-dance/ballet-a-story-told-in-dance`) | Book 2, printed pp. 99–111 |
 
-**Acceptance count: taught in 1 country (Belarus).** Malta teacher guide evidence is named here, counted nowhere.
+**Acceptance count: taught in 1 country (Belarus).** Malta teacher guide evidence is named here, counted nowhere. Cuba is added as a student book, inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/ballet`). The Malta placements were filed as NEW LESSON NEEDED under the original string(s) `drama-and-dance/ballet-a-story-told-in-dance`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Malta's own way: ballet is met inside the listening-and-appraising unit — a story told in dance, appraised through Tchaikovsky's Nutcracker, retold by summary only. Songs and stories are placed by summary only, never transcribed.
 
 Searchable tags: ballet, Nutcracker, Tchaikovsky, story in dance, Malta, Music Shines
+
+**Book 3:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 4 — Cuban ballet is born: Alberto Alonso hired by the Ballets Russes de Montecarlo (1935), Fernando and Alicia Alonso (student book; original target `drama-and-dance/cuban-ballet-and-alicia-alonso`) | Book 3, printed pp. 145–146 |
+
+**Book 4:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.6, Éxtasis del cuerpo: la danza — the Ballet Nacional bringing ballet massively to the people, Alicia Alonso, the Cuban school of ballet, Coppélia, Don Quijote, Swan Lake and Giselle, and Carlos Acosta's Acosta Danza (student book; original target `drama-and-dance/cuban-ballet-and-alicia-alonso`) | Book 4, printed pp. 85–88 |

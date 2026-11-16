@@ -1,6 +1,6 @@
 # Sources — How the Arts Belong Together
 
-countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and Tobago, Iceland, Serbia, Finland, Turkmenistan, Colombia, Belarus, Papua New Guinea, Brazil
+countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and Tobago, Iceland, Serbia, Finland, Turkmenistan, Colombia, Belarus, Papua New Guinea, Brazil, Cuba
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -98,8 +98,36 @@ countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and T
 
 | Brazil — Folha 6 "Imagine som" — image and sound share one vocabulary: harmonia, tonalidade, composição, escala, textura; timbre as the "colour of sound" (student book; original target `first-steps/how-the-arts-belong-together`) | Book 26, printed p. 99 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Maldives, Uganda, Serbia, Finland, Turkmenistan, Colombia, Belarus, Brazil).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Maldives, Uganda, Serbia, Finland, Turkmenistan, Colombia, Belarus, Brazil, Cuba).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The coin picture and the music example are Grade 2's own (§5.1, printed p. 71); the drama-into-drawing direction is Grade 3's own (§5.1, printed p. 69); the classroom doing-all-three scene and both review summaries are the books' own closing words, folded into the last sub lesson as the course structure map rules for review placements. No relationship claim is made that a book does not make.
 
 Searchable tags: Maldives, Exploring Creative Arts 4, how the arts belong together, two sides of one coin, relationship of the arts, drama into drawing, Iceland, Dægurspor, Finland, Colombia, Papua New Guinea, Brazil
+
+**Book 27:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, La música en la vida cotidiana — music and dance as two artistic languages that answer each other, with Alicia Alonso and ballet as the pictured example (student book; original target `first-steps/how-the-arts-belong-together`) | Book 27, printed p. 19 |
+
+**Book 28:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 5, Las artes plásticas y el teatro — the close bond between the visual arts and theatre: finding the plastic-arts elements inside stage works (teacher guide — evidence; original target `first-steps/how-the-arts-belong-together`) | Book 28, printed p. 56 |
+
+**Book 29:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, §1.2 — music and dance as two artistic languages that belong together: body, music and expression (corporización), and the creator–performer–audience relation in a community's sound world (teacher programme — evidence; original target `first-steps/how-the-arts-belong-together`) | Book 29, printed p. 20 |
+
+**Book 30:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §2.1, Juntos disfrutamos del arte — school, family and community enjoying art together: the instructor de arte in every effort, and promoción cultural as the way a whole people takes part (student book; original target `first-steps/how-the-arts-belong-together`) | Book 30, printed pp. 131–141 |

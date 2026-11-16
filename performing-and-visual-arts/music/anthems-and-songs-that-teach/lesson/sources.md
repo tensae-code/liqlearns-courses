@@ -1,6 +1,6 @@
 # Sources — Anthems and Songs That Teach
 
-countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji, Belarus, Brazil, Morocco, Jordan, Libya
+countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji, Belarus, Brazil, Morocco, Jordan, Libya, Cuba
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -71,7 +71,7 @@ countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji
 |---|---|
 | Morocco — "I Love Sport" (أحب الرياضة) — a song (words Salim Abdelkader, music Nadhir Wali Eddine, SANA TV) about loving sport and the playground, never tiring of play, never angered by losing; sport gives activity to mind and body, strength and understanding — sport is growth and medicine, and joy in life (summary only) (teacher guide — evidence; original target `music/songs-about-sport`) | Book 16, printed p. 80 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Honduras, Belarus, Brazil, Jordan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher module plan — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Honduras, Belarus, Brazil, Jordan, Cuba).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher module plan — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Both anthems are printed in full in the Grade 4 book; following the placements, they are placed here by name, role and teaching point only — no anthem or song text is transcribed anywhere in this lesson. The professionals song's credits are the book's own printed credits (melody Alemayehu W/Yohannes, poem Asefa Bekele). The Grade 6 appearance of the professionals song is the same song met again at the next level, as its placement extends it — it is one song, counted once.
 
@@ -119,3 +119,25 @@ Searchable tags: anthem, regional anthem, national anthem, የታታሪ ህዝ�
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — The national anthem — what a national anthem is: a composed musical piece with its own anthem character, counted among the Arab musical forms used in school life; the teacher chooses a Libyan national song, listens to it with the pupils, and analyses its words, melody and rhythm (teacher guide — evidence; original target `music/anthems-and-songs-that-teach`) | Book 22, printed p. 35 |
+
+**Book 23:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1 — the Himno de Bayamo (Himno Nacional de Cuba, Perucho Figueredo) solmised and sung (student book; original target `music/anthems-and-songs-that-teach`) | Book 23, printed p. 26 |
+
+**Book 24:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, §1.11 — mounting the Himno Nacional de Cuba (Himno de Bayamo, Perucho Figueredo) and "El Mambí" (Casas Romero/Lavilla): the anthem sung with posture, tuning, diction and rhythmic precision (teacher programme — evidence; original target `music/anthems-and-songs-that-teach`) | Book 24, printed p. 21 |
+
+**Book 25:** *Las músicas de Cuba y del mundo — Educación Musical, sexto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2025; ISBN 978-959-13-5171-5 (print) / 978-959-13-5185-2 (digital). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1 — the Himno Nacional de Cuba and its history, "La melodía de la libertad": La Bayamesa at 150 years, Perucho Figueredo's manuscript and Rodríguez Ferrer's instrumentation (student book; original target `music/anthems-and-songs-that-teach`) | Book 25, printed pp. 20–25 |
+| Cuba — Chapter 3 — "Cuba, ¡qué linda es Cuba!" sung with its rhythmic design, pulse and accent clapped (student book; original target `music/anthems-and-songs-that-teach`) | Book 25, printed p. 98 |

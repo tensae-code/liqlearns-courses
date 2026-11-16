@@ -1,6 +1,6 @@
 # Sources — What the Arts Do for Society
 
-countries: Ethiopia, Uganda, Samoa, Colombia, Libya
+countries: Ethiopia, Uganda, Samoa, Colombia, Libya, Cuba
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -49,7 +49,7 @@ countries: Ethiopia, Uganda, Samoa, Colombia, Libya
 
 | Colombia — Módulo 4, Guía 12 "Globalización e identidad" — globalisation and identity: world bodies and safeguard measures, and a people's work of conserving its own traditions and defining what must be kept (student book; original target `culture-and-values/what-the-arts-do-for-society`) | Book 11, printed pp. 98–104 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Colombia).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Colombia, Cuba).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The harmful-practices material is taught as the books place it — harmful practices named for their health effects, and art's role in changing them; no practice is described beyond the placements' own words. 'Art for Current Issues' in Grades 7–8 is taught from the student books' own chapter and pages (Grade 7 Ch. 5's theme is set by its placement; Grade 8's issues are read in its student book at pp. 134–135) — the truncated Grade 7–8 teacher guides' corresponding units are not used as evidence for this lesson, which rests on pupil-taught books only.
 
@@ -69,3 +69,17 @@ Searchable tags: what is art, role of art, art and society, art for current issu
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — What group art does — the closing critique of the collage workshop spells out the benefit of the collective artwork in every direction — economic, social and artistic — and art's effect on the environment and the community (teacher guide — evidence; original target `culture-and-values/what-the-arts-do-for-society`) | Book 13, printed p. 119 |
+
+**Book 14:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1, Las manifestaciones artísticas y sus funciones en la sociedad — the functions of the arts in society, including the therapeutic function used in medical treatments (student book; original target `culture-and-values/what-the-arts-do-for-society`) | Book 14, printed p. 34 |
+
+**Book 15:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.2, Bosquejo histórico de las artes en la Cuba actual — the arts organised after 1959: the writers' and artists' union (UNEAC) and the I Congreso de Educación y Cultura (1971) (student book; original target `culture-and-values/what-the-arts-do-for-society`) | Book 15, printed p. 13 |

@@ -1,6 +1,6 @@
 # Sources — Decorating Home and Environment
 
-countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran
+countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors ማስተዋል ጌታ ማስረሻ (Mastewal Geta Masresha) and ዮሐንስ ታደሰ በትሬ (Yohannes Tadesse Betre). Printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -26,8 +26,15 @@ countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran
 | Belarus — Part 3, Secrets of mastery: Decorating household objects — choosing the size of the decor and composing decoration on real things: a silver-and-enamel sugar bowl, a painted Belarusian chest, Zhostovo-style painted trays (student book; original target `visual-art/decorating-home-and-environment`) | Book 5, printed pp. 48–49 |
 | Iran — Module 4, Improving the environment with artworks: توسعه و بهسازی محیطی با آثار هنری: developing and beautifying the lived environment through artworks (student book) | Book 6, printed p. 137 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Finland, Turkmenistan, Belarus, Iran).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Finland, Turkmenistan, Belarus, Iran).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
 
 Honesty notes: The book's two Chapter 5 figures (paths and garden places; the ceramic interior) are described in words only, never copied. The festival-and-rains beautifying, and the soils/cattle-products/ash "paint", are taught exactly as the placement records them.
 
 Searchable tags: decorating, home and environment, ceramics, pottery, beautifying paths, interior decoration, gardening, architecture, Haiti, Finland
+
+**Book 7:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 6, El diseño del ambiente escolar — decorating the classroom for the end of the course with paper work, beautifying the school environment by hand (teacher guide — evidence; original target `visual-art/decorating-home-and-environment`) | Book 7, printed p. 63 |

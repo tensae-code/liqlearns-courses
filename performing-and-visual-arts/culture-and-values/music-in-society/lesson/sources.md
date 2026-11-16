@@ -1,6 +1,6 @@
 # Sources — Music in Society
 
-countries: Ethiopia, Andorra, Iceland
+countries: Ethiopia, Andorra, Iceland, Cuba
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -20,8 +20,29 @@ countries: Ethiopia, Andorra, Iceland
 | Iceland — Argentine tango lyrics: two tangos, two worlds — Malena sings the sorrow (tristeza) of the hard La Boca quarter; Por Una Cabeza belongs to the finest salons (and a famous film tango scene) (teacher guide — evidence) | Book 3, printed p. 24 |
 | Iceland — The Great Depression: songs of the crash — Bing Crosby's Brother, Can You Spare a Dime? read line by line, and Disney's Big Bad Wolf as the Depression itself, with the pigs' answer standing for Roosevelt's New Deal (teacher guide — evidence) | Book 3, printed p. 41 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Cuba). Earlier evidence-only entries stay outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson rests only on the Grade 4 teacher guide's society chapter (printed pp. 47–56), labelled teacher-guide evidence throughout. Songs are named and their functions taught; no lyrics are transcribed.
 
 Searchable tags: music in society, war songs, የጦርነት ዘፈኖች, lament, የለቅሶ ዜማዎች, children's songs, የሕፃናት ዜማዎች, እሹሩሩ, teacher guide evidence, Iceland, Dægurspor
+
+**Book 4:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, La música en la vida cotidiana — the kinds of music inside daily life: folclórica (oral tradition, anonymous, collective), popular and concert music (student book; original target `culture-and-values/music-in-society`) | Book 4, printed p. 17 |
+
+**Book 5:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, §1.3 — finding music inside everyday life: the music of daily activities and how it carries a people's identity and way of acting (teacher programme — evidence; original target `culture-and-values/music-in-society`) | Book 5, printed p. 20 |
+
+**Book 6:** *Las músicas de Cuba y del mundo — Educación Musical, sexto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2025; ISBN 978-959-13-5171-5 (print) / 978-959-13-5185-2 (digital). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1, La música como manifestación artística — music's social functions: it accompanies celebrations and funerals, communicates values and forms of behaviour, and builds thought, memory, attention and creativity (student book; original target `culture-and-values/music-in-society`) | Book 6, printed p. 7 |

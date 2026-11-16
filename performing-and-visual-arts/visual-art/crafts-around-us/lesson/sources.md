@@ -1,6 +1,6 @@
 # Sources — Crafts Around Us
 
-countries: Ethiopia, Honduras, Samoa, Nicaragua, Romania, Serbia, Finland, Mozambique, Pakistan, Sudan, Belarus, Papua New Guinea, Morocco, Jordan, Libya
+countries: Ethiopia, Honduras, Samoa, Nicaragua, Romania, Serbia, Finland, Mozambique, Pakistan, Sudan, Belarus, Papua New Guinea, Morocco, Jordan, Libya, Cuba
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -118,7 +118,7 @@ countries: Ethiopia, Honduras, Samoa, Nicaragua, Romania, Serbia, Finland, Mozam
 |---|---|
 | Morocco — "The Moroccan House" (البيت المغربي), the carpet — the Moroccan carpet (الزربية) as an ancient inherited craft, in its named kinds — Rabati, Fassi and Amazigh Taznakht; pupils complete a carpet design of their own (teacher guide — evidence; original target `visual-art/crafts-around-us`) | Book 30, printed p. 50 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Honduras, Romania, Serbia, Mozambique, Pakistan, Sudan, Belarus).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher-training report and teacher project material — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Honduras, Romania, Serbia, Mozambique, Pakistan, Sudan, Belarus).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher-training report and teacher project material — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
 
 Honesty notes: the Grade 7 student book prints its pottery firing temperatures as 600–1200 °F (earthenware), 1100–1200 °F (stoneware) and 2200–2600 °F (ceramic); the lesson teaches the families by their order of heat and their qualities, as the placements describe them, without resting any question on the printed figures. The Grade 7 teacher guide is a truncated scan (body printed pp. 1–109 only); the crafts part used here sits at printed pp. 108–109, inside the surviving body, and is labelled teacher-guide evidence. Books 8 and 9 are teacher guides for grades with no student books in this set, so their parts are evidence only and are labelled so; the lesson does not rest on them.
 
@@ -151,3 +151,10 @@ Searchable tags: crafts, handicrafts, እደ ጥበብ, metal work, pottery, dis
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Paper plates — a paper plate (round, square or rectangular) turned into a panel: its rim decorated as a frame with ornaments the pupil chooses freely, and a picture drawn inside it, the frame and the picture fitted to each other (teacher guide — evidence; original target `visual-art/crafts-around-us`) | Book 34, printed pp. 105–111 |
+
+**Book 35:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 3, Expresiones del arte popular — the artisan's craft visited at its source: community craft workshops, the weaver's loom (telar) and handmade, non-series work (teacher guide — evidence; original target `visual-art/crafts-around-us`) | Book 35, printed pp. 44–45 |

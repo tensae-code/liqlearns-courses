@@ -1,6 +1,6 @@
 # Sources — Photographs
 
-countries: Ethiopia, Guatemala, Albania, Iran, Brazil
+countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -35,8 +35,15 @@ countries: Ethiopia, Guatemala, Albania, Iran, Brazil
 
 | Brazil — Folha 5 — a photography walk around the school: each pupil photographs one place or scene, captions it and exhibits it (student book; original target `visual-art/photographs`) | Book 7, printed p. 90 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Iran, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Iran, Brazil, Cuba). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: every photograph in this lesson is described only as its placement describes it — the Sof Omar cave as a cave entrance in rock, the Tis Abay Falls as a wide waterfall, Bete Giyorgis as the rock-hewn church of St George at Lalibela, the Axum stele standing among ruins, Fasilides' castle at Gondar, Abebe Bikila running on a stadium track in a race, the walia standing on rocks against the sky, the Abbay Dam as a dam wall with water pouring through, and the market, harvest, landscape and aeroplane photographs as the Grade 2 figures name them. No photographic detail beyond the placements has been added. The Grade 3 page (Book 2, p. 68) also carries a chapter summary and closing exercise and a Review placement for Appreciating the Arts; only its two photographs and the "which pleased you" activity are stocked here, as the structure map directs — the review fold belongs to the First Steps appreciating lesson.
 
 Searchable tags: photographs, looking at photographs, Tis Abay, Blue Nile Falls, Abebe Bikila, Abbay Dam, walia ibex, market, harvest, landscape, መልክዓምድር, aeroplane, Bete Giyorgis, Axum, Fasilides, Sof Omar, appreciating photographs, Brazil
+
+**Book 8:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.4 — photography: its technique defined, then its Cuban road after 1959 — Korda's "Guerrillero Heroico", Raúl Corrales' "La marcha", and the Fondo Cubano de la Imagen Fotográfica's new generation (student book; original target `visual-art/photographs`) | Book 8, printed pp. 33–38 |

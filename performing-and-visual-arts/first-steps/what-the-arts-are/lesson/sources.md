@@ -1,6 +1,6 @@
 # Sources — What the Arts Are
 
-countries: Ethiopia, Guatemala, Honduras, Samoa, Trinidad and Tobago, Serbia, Turkmenistan, Mozambique, Pakistan, Belarus, Iran, Papua New Guinea, Brazil, Libya
+countries: Ethiopia, Guatemala, Honduras, Samoa, Trinidad and Tobago, Serbia, Turkmenistan, Mozambique, Pakistan, Belarus, Iran, Papua New Guinea, Brazil, Libya, Cuba
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
@@ -74,7 +74,7 @@ countries: Ethiopia, Guatemala, Honduras, Samoa, Trinidad and Tobago, Serbia, Tu
 
 | Brazil — Folha 1 "Arte: Quem tem uma explicação?" — what art is and is not; asking "what is art?" in front of a work (student book; original target `first-steps/what-the-arts-are`) | Book 19, printed p. 11 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Honduras, Serbia, Turkmenistan, Mozambique, Pakistan, Belarus, Iran, Brazil).** Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Honduras, Serbia, Turkmenistan, Mozambique, Pakistan, Belarus, Iran, Brazil, Cuba).** Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The two families are stated in the books' own summaries: Grade 2 (printed p. 21) names visual arts as drawing and photograph and performing arts as music, dance, theatre and drama; Grade 3 (printed p. 17) adds film and video to the visual branch. The lesson teaches both statements, in that order, and does not add any art neither book names.
 
@@ -86,3 +86,17 @@ Searchable tags: what the arts are, visual arts, performing arts, identifying th
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Introduction: art education, its definition and branches — what art education is and its branches taught one by one: drawing and painting, and the crafts — carpentry and joinery (half-lap, mortise-and-tenon, fretwork), metal forming (drawing, hammering, bending, cutting, engraving), leather work and bookbinding (teacher guide — evidence; original target `first-steps/what-the-arts-are`) | Book 20, printed p. 8 |
+
+**Book 21:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1, Las artes en la formación de una cultura general integral — the arts inside a general integral culture: cultura, arte, patrimonio and educación artística defined, and the art world's three roles — creador, intérprete, educador (student book; original target `first-steps/what-the-arts-are`) | Book 21, printed pp. 3–9 |
+
+**Book 22:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.1, Un acercamiento necesario a la cultura artística — building the concept cultura artística: culture as the cultivation of the human spirit, each art's own image-making means (literature with words, plástica with lines, forms and colours, music with sounds), and art as polifunctional (student book; original target `first-steps/what-the-arts-are`) | Book 22, printed pp. 9–12 |

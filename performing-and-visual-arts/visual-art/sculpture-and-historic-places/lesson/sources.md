@@ -1,6 +1,6 @@
 # Sources — Sculpture and Historic Places
 
-countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria, Sri Lanka, Libya
+countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria, Sri Lanka, Libya, Cuba
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -92,7 +92,7 @@ countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Paki
 
 | Brazil — Folha 15 — Paraná's sculptors: João Turin's animalist works, Zaco Paraná's O Semeador, Erbo Stenzel's Praça 19 de Dezembro monuments (student book; original target `visual-art/sculpture-and-historic-places`) | Book 20, printed p. 240 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Maldives, Romania, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria, Sri Lanka).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, Maldives, Romania, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria, Sri Lanka, Cuba).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: Sub lessons 5 and 6 rest on teacher-guide evidence and are labelled so in the lesson text and in this table; the lesson as a whole rests on student books (Books 1–6), so the acceptance count stands at 1 country. Book 7 (the Grade 8 teacher guide) is a truncated copy — body printed pp. 1–56 plus syllabus tables — and both of its parts used here (pp. 33–39 and pp. 53–56) sit inside the surviving body. Books 8 and 9 are teacher guides for grades with no student books in this set; their parts are evidence only. The Grade 7 student book's carving deep-dive is stocked here only as the fourth technique named inside the four-techniques part, exactly as its placement frames it against the other three.
 
@@ -134,3 +134,17 @@ Searchable tags: Maldives, Exploring Creative Arts 4, sculpture, ኪነ ቅር�
 |---|---|
 | Libya — The metal ages and ancient Libyan art — copper, bronze and iron ages, and Libya's own ancient art centres: the rock drawings of the south-west (the Fezzan and the Acacus country), the Hamada al-Hamra, and sites near Tarhuna and al-Uwaynat (teacher guide — evidence; original target `visual-art/sculpture-and-historic-places`) | Book 24, printed p. 21 |
 | Libya — Greek and Roman Libya — the Greek civilisation's periods and its orders, the Greek cities founded in Libya (Cyrene, Apollonia, Ptolemais, Tocra), and the Roman civilisation that followed and built on the Greek cities (teacher guide — evidence; original target `visual-art/sculpture-and-historic-places`) | Book 24, printed p. 22 |
+
+**Book 25:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2, El volumen real y el virtual — appreciating real volume in the community: sculptures, busts (the school's bust of Martí) and buildings visited and read as artworks (teacher guide — evidence; original target `visual-art/sculpture-and-historic-places`) | Book 25, printed p. 32 |
+
+**Book 26:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 3 — XVIII-century building and sculpture: the fortresses of Atarés and El Príncipe, white-wood and iron portones, balusters and rejas, the Santa María del Rosario church paintings, and religious statues with human hair (student book; original target `visual-art/sculpture-and-historic-places`) | Book 26, printed pp. 110–112 |

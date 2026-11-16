@@ -1,6 +1,6 @@
 # Sources — Recycled and Sustainable Crafting
 
-countries: Finland, Papua New Guinea
+countries: Finland, Papua New Guinea, Cuba
 
 **Book 1:** *KATSE TULEVAAN — Tulevaisuuden taidot, vastuulliset materiaalivalinnat ja elinkaariajattelu käsityöprosessissa (A Look Ahead — Future Skills, Responsible Material Choices and Life-Cycle Thinking in the Craft Process)* (craft-school project material, Finnish) — Finland, Taito käsityö- ja muotoilukoulut (craft and design schools), TuleVa project, year not printed (project material, c. 2024–2025), no ISBN printed, basic art education craft schools, pupils aged 7–15 in the pilots, 47 PDF pp. TEACHER — project material of the Taito craft and design schools (Näpsä, Taito Etelä-Suomi, Näppi, Jyväskylä). Verdict: COMPLETE for its craft parts. The development surveys (kehittämiskartoitukset) and skills tables are project apparatus — named in the placements, not placed; the "Useful 3D printing" pilot (product development and repairs by 3D printing, ages 9–14, printed p. 14) is technology — named, not placed. FETCH NOTE: the GitHub tree path returned HTTP 404 on two grab attempts; the book was read from its recorded aoe.fi source_url, byte size 15,895,944 = the record's size_bytes exactly, and its printed title matches the record — the content is the recorded book (a phantom push recovered byte-exact from aoe.fi); the 404 tree path is logged as a library debt. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md. **Teacher project material — EVIDENCE only, kept outside the acceptance count.**
 
@@ -13,8 +13,15 @@ countries: Finland, Papua New Guinea
 
 | Papua New Guinea — Unit 2 Craft, Topic Arts and Craft (Lessons 17–29) — investigating processes of recycling waste into useful products; the facts of paper pulping and working paper by pulping processes; 3D crafts, images and figures made from recycled paper pulp; 3D crafts for decoration, for sale and for wearing as jewellery (necklaces, armbands, bracelets, rings, earrings), and crafts made from waste natural/local materials and from waste artificial materials (plastic containers and old tyres remade as pot plants, swings and garden decorations), under the 4Rs — recycle, reuse, reduce, responsible (teacher guide — evidence; original target `visual-art/png-paper-pulping-and-recycled-crafts`) | Book 2, printed pp. 15, 35–36, 43–45 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Finland teacher project material evidence only, named here, counted nowhere.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 0 countries — this lesson stands on Finland teacher project material evidence only, named here, counted nowhere.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/recycled-and-sustainable-crafting`); the Finland placement was filed as NEW LESSON NEEDED under the original string `visual-art/responsible-craft-and-lifecycle-thinking`, recorded in the provenance row above and resolved to this lesson by slug-registry Part 2. Finland's own way: craft taught as a whole life-cycle — design, responsible material choice, making, care and repair, and recycling.
 
 Searchable tags: sustainable crafting, life-cycle thinking, repair, recycling, Katse tulevaan, Finland, Papua New Guinea
+
+**Book 3:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 3, Expresiones del arte popular — making a rag doll (muñeca de trapo) or another craft toy out of waste/discarded materials (teacher guide — evidence; original target `visual-art/craft-toys-from-recycled-materials`) | Book 3, printed p. 43 |

@@ -1,6 +1,6 @@
 # Sources — Composition in Visual Art
 
-countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colombia, Sudan, Belarus, Iran, Sri Lanka, Libya
+countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colombia, Sudan, Belarus, Iran, Sri Lanka, Libya, Cuba
 
 **Book 1:** *Performing and Visual Arts Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (first published 2022, GEQIP-E). Writers: Jinenus Wako (M.A), Tujuba Beyene (M.A). 90 PDF pages; printed pp. i–vi + 1–78. Printed page ≈ PDF page − 11 in the body. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
@@ -68,7 +68,7 @@ countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colo
 | Iran — Drawing L4, Composition: ترکیب‌بندی: arranging the parts of a drawing into a composed whole (student book) | Book 17, printed p. 16 |
 | Iran — Module 3, Analysing artworks: Space: فضا: analysing how space is used — the proportions elements take inside a defined space as visual composition in architecture and the visual arts, the two-dimensional arts (painting first) and the three-dimensional arts analysed in turn (student book) | Book 18, printed p. 52 |
 
-**Acceptance count: taught in 6 countries (Serbia, Mozambique, Colombia, Sudan, Belarus, Iran). Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Serbia, Mozambique, Colombia, Sudan, Belarus, Iran, Cuba). Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 10 teacher's guide (federal Ministry of Education, 2022, GEQIP-E). Grade 10 has no student book in hand. The placements file summarises Lessons 7–9 by their three topics — the concept of composition, its importance/purposes, and composition-and-design in 2D and 3D; the lesson teaches at exactly that level and invents no composition rules, named principles or examples the placement does not give.
 
@@ -105,3 +105,10 @@ Searchable tags: composition, composition in 2D and 3D, design, arranging, teach
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — My Flowers, stage two — three flowers of different shape and colour distributed inside one panel: building a composition from more than one element, with arrangement and rhythm of shape and colour (teacher guide — evidence; original target `visual-art/composition-in-visual-art`) | Book 22, printed pp. 39–43 |
+
+**Book 23:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 2 — equilibrio in visual works: symmetrical and radial balance (the orange cut through its centre) and regular rhythm of motif and pause (student book; original target `visual-art/composition-in-visual-art`) | Book 23, printed pp. 83–85 |

@@ -1,6 +1,6 @@
 # Sources — Puppet Theatre
 
-countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus
+countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba
 
 **Book 1:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -27,8 +27,15 @@ countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus
 
 | Belarus — Section 28, "Getting ready for a festival": making a carnival mask and flat toys for the celebration (student book; original target `drama-and-dance/masks-and-puppets`) | Book 6, printed pp. 92–93 |
 
-**Acceptance count: taught in 4 countries (Romania, Bhutan, Colombia, Belarus).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Romania, Bhutan, Colombia, Belarus).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/puppet-theatre`); the Barbados placements were filed under the original string `drama-and-dance/puppetry-and-masks`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: puppet theatre starts in Class 1 Cultural Awareness, with characters the children invent and puppets made from sticks, paper bags and socks. (In this lesson's sources, Book 1 is the Barbados Visual Arts Curriculum Guide.)
 
 Searchable tags: puppet theatre, stick puppets, paper-bag puppets, sock puppets, cartoon characters, Barbados, Nicaragua, Romania, Bhutan, Colombia
+
+**Book 7:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 5, Las artes plásticas y el teatro — making flat puppets (títeres planos) of characters from a Cuban cartoon or comic, in mixed techniques, for theatre (teacher guide — evidence; original target `drama-and-dance/flat-puppets`) | Book 7, printed p. 56 |

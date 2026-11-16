@@ -1,6 +1,6 @@
 # Sources — Sounds Around Us
 
-countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, Fiji, Colombia, Papua New Guinea, Brazil, Bulgaria, Jordan
+countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, Fiji, Colombia, Papua New Guinea, Brazil, Bulgaria, Jordan, Cuba
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -80,7 +80,7 @@ countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, 
 
 | Brazil — Folha 10 "O som nosso de cada dia" — sound sources and vibration; the resonance box that amplifies sound in guitar, piano and wind instruments (student book; original target `music/sounds-around-us`) | Book 21, printed p. 158 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Colombia, Brazil, Bulgaria, Jordan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Colombia, Brazil, Bulgaria, Jordan, Cuba). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No staff notation is claimed for Grade 1: the Grade 1 book teaches music by ear, and this lesson follows it. The teacher-guide part is evidence for the listening-first way of working; the pupil-taught parts stand on the two student textbooks.
 
@@ -99,3 +99,24 @@ Searchable tags: sounds around us, listening, sound, imitating sounds, ear, bird
 |---|---|
 | Jordan — Unit 2 Lesson 1 "Expressing with Voice and Body" — a person makes sound through the larynx and mouth and through body movements — patting the thigh, laughing, snapping the fingers, singing — heard through QR recordings and imitated (student book; original target `music/sounds-around-us`) | Book 23, printed p. 34 |
 | Jordan — Unit 2 Lesson 2 "A World Full of Sounds" — imitating the sounds of the countryside (rooster's crow, bird's chirp, horse's neigh) and of the city (traffic policeman's whistle, cars, the jet plane); nature's sounds fill the countryside and man-made sounds fill the city (student book; original target `music/sounds-around-us`) | Book 23, printed p. 36 |
+
+**Book 24:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, El sonido en la vida cotidiana — the sound landscape (paisaje sonoro): a community can be identified by its sounds, from storms and birds to its music (student book; original target `music/sounds-around-us`) | Book 24, printed p. 2 |
+
+**Book 25:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, §1.4 — exploring and identifying the sounds of the environment: building sound combinations, sound walks (caminatas sonoras) and sonorising chosen texts from the sounds around us (teacher programme — evidence; original target `music/sounds-around-us`) | Book 25, printed p. 20 |
+
+**Book 26:** *Las músicas de Cuba y del mundo — Educación Musical, sexto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2025; ISBN 978-959-13-5171-5 (print) / 978-959-13-5185-2 (digital). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1 — pleasant sounds against noise: classifying the environment's sounds, noise as a threat to hearing (sirens, tractors, trains), and the paisaje sonoro of a place (student book; original target `music/sounds-around-us`) | Book 26, printed pp. 4–5 |

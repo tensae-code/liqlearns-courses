@@ -1,6 +1,6 @@
 # Sources — Composing Music
 
-countries: Andorra, Singapore, Fiji, Suriname, Jordan
+countries: Andorra, Singapore, Fiji, Suriname, Jordan, Cuba
 
 **Book 1:** *Programa d'educació musical de primera ensenyança de l'Escola Andorrana — Annex IV of Decret 376/2021, BOPA núm. 123, 24-11-2021* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2021, ISBN 978-99920-0-931-4, Primera ensenyança, cycles 1–3 (ages 6–12), 39 PDF pp (record; Annex IV runs at BOPA pp. 199–237 of the full 510-page BOPA issue). TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and end-of-cycle expectation tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
@@ -22,7 +22,7 @@ countries: Andorra, Singapore, Fiji, Suriname, Jordan
 | Fiji — Sub-Strand 1 Composing a Song — composition as creating a piece by combining lyrics, melody and other elements, by two routes: (1) lyrics first — choose a topic, write rhyming lyrics of at least a verse and a chorus, break the lyrics into bars, set notes and rests to the word-rhythms, then find a melody from the C major scale's patterns, starting and ending on C (do/sa), and write the finished song on the staff; (2) melody first — catch a hummed melody, note it in solfa/sargam or pitch alphabets, combine the phrases on the staff, and fit lyrics to the melody's rhythm (student book; original target `music/composing-a-song`) | Book 4, printed pp. 1–12 |
 | Suriname — Music Les 1 "Improvisatie" — improvising on a given rhythm — body percussion in 4/4 (clap and stamp patterns), a rhythmic pattern with indigenous influences first counted aloud together, then each group of four or five inventing its own rhythm while the others improvise on it, closing with a whole-class round where the class accompanies softly (teacher guide — evidence; original target `music/improvising-on-a-rhythm`) | Book 5, printed pp. 30–32 |
 
-**Acceptance count: taught in 2 countries (Fiji, Jordan).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Fiji, Jordan).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/composing-music`); the Andorra placements were filed under the original strings `music/composing-from-cells-patterns-and-ostinatos` and `music/experimenting-improvising-composing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Andorra's own way, carried in the placements: primary music is built as a triangle — create, perform, analyse — and batxillerat music rests on creation and interpretation feeding each other. Both books are curriculum programme documents, so every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
@@ -34,3 +34,10 @@ Searchable tags: composing music, cells, patterns, ostinatos, question and answe
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 2 Lesson 2 "Improvisation and Creativity" — any person can invent a tune or a rhythm of their own — this is improvisation, or creativity, in music; listening to Chopin's Nocturne No. 2 while each child invents a body movement drawing the first letter of their name in the air or on the ground for the group to imitate, singing your own name melodically in a circle, and inventing rhythm patterns with rhythm sticks for the class to copy; Chopin, the Polish composer whose music renewed the way of playing the piano, and the nocturne as a piano piece expressing the calm of night (student book; original target `music/making-music-our-own-way`) | Book 6, printed p. 46 |
+
+**Book 7:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, §1.6 — using rhythms and melodies the pupils themselves create for clapping, heel-tapping, polyrhythms and whole-body movement in partial and total space (teacher programme — evidence; original target `music/creating-rhythms-and-melodies`) | Book 7, printed p. 20 |

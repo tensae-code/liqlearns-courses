@@ -1,6 +1,6 @@
 # Sources — Scales, Pitch and Key Signatures
 
-countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New Guinea, Bulgaria, Jordan, Sri Lanka, Libya
+countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New Guinea, Bulgaria, Jordan, Sri Lanka, Libya, Cuba
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -62,7 +62,7 @@ countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New G
 
 | Papua New Guinea — Units 11.1 and 12.1, Melody Studies — tones and semitones (a tone = two semitones) on the keyboard; accidentals — sharp raises, flat lowers, natural restores; the major scale's tone/semitone pattern in C major, then the G, D and F major scales, each sung in solfa, numbers and letter names; and tonic triads — a chord of root, third and fifth built on the keynote (teacher guide — evidence) | Book 12, printed pp. 31–32, 51–52 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Belarus, Bulgaria, Jordan). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Belarus, Bulgaria, Jordan, Cuba). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 6 book's key-signature exercise prints "E♭" in Amharic beside "(E Major scale)" in English — a printing tangle the placements record; the lesson teaches the D, E, A-flat exercise set as the placements resolve it and does not present the tangled line as a fact. The Grade 6 teacher-guide parts are evidence and are labelled so; the pupil-taught scale work stands on the Grade 6 student book.
 
@@ -109,3 +109,25 @@ Searchable tags: scale, major scale, minor scale, natural minor, harmonic minor,
 | Libya — The accidental signs — the full table of conversion signs: the sharp raising a half step, the double sharp, the natural that cancels, the flat lowering a half step — and the Arab quarter-tone signs, the half-sharp and half-flat, with the note that some of these signs are used only in Arabic music; each sign then worked through examples (teacher guide — evidence; original target `music/scales-pitch-and-key-signatures`) | Book 17, printed pp. 28–32 |
 | Libya — The ascending circle of fifths — deriving every sharp key signature by fifths from C, with the table of the major scales and the sharps each carries, up to F♯ major (teacher guide — evidence; original target `music/scales-pitch-and-key-signatures`) | Book 17, printed pp. 36–38 |
 | Libya — The descending circle of fifths — deriving the flat key signatures by descending fifths, with the table of flat major scales (teacher guide — evidence; original target `music/scales-pitch-and-key-signatures`) | Book 17, printed pp. 50, 52 |
+
+**Book 18:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2, Los sonidos musicales — the seven sounds do–si sung up, down and in patterns, and the interval as the relation between two sounds (student book; original target `music/scales-pitch-and-key-signatures`) | Book 18, printed p. 53 |
+
+**Book 19:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, §1.8 — the height (pitch) of musical sounds expressed four ways: voice, body, hand-sign mimicry (fonomimia) and drawing, alone and together, as ear training (teacher programme — evidence; original target `music/scales-pitch-and-key-signatures`) | Book 19, printed p. 20 |
+| Cuba — Unit 2, §2.3 — the C major and A minor scales sung, embodied and written, and finding the C major scale inside known songs (teacher programme — evidence; original target `music/scales-pitch-and-key-signatures`) | Book 19, printed p. 34 |
+
+**Book 20:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 2 — modalidad: the major and minor modes as the placing of tones and semitones around the tonic (student book; original target `music/scales-pitch-and-key-signatures`) | Book 20, printed p. 63 |

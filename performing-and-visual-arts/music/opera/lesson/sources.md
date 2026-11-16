@@ -1,6 +1,6 @@
 # Sources — Opera
 
-countries: Iceland, Malta, Belarus, Brazil
+countries: Iceland, Malta, Belarus, Brazil, Cuba
 
 **Book 1:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -24,8 +24,15 @@ countries: Iceland, Malta, Belarus, Brazil
 
 | Brazil — Folha 6 — opera: Monteverdi to Wagner's "complete work of art" joining music, dance, visual art and theatre; rock opera (Tommy, Hair, Jesus Christ Superstar) and staging a rock-opera scene (student book; original target `music/opera-and-the-total-work-of-art`) | Book 5, printed p. 103 |
 
-**Acceptance count: taught in 2 countries (Belarus, Brazil).** Iceland teacher guide evidence is named here, counted nowhere. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Belarus, Brazil, Cuba).** Iceland teacher guide evidence is named here, counted nowhere. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/opera`). The Iceland placements were filed as NEW LESSON NEEDED under the original string(s) `music/opera-and-the-total-work-of-art`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Iceland's own way, carried in the placements: a listening journey through the whole history of popular music — taught by listening, playing rhythm parts from notation, singing, and dancing, with Iceland's own musicians, revue songs, seamen's songs and dance bands woven through as national content. Songs are placed by their teaching topics only — no lyrics or notation are transcribed.
 
 Searchable tags: opera, operetta, Kálmán, Das Veilchen von Montmartre, Iceland, Dægurspor, Malta, Music Shines, Brazil
+
+**Book 6:** *Las músicas de Cuba y del mundo — Educación Musical, sexto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2025; ISBN 978-959-13-5171-5 (print) / 978-959-13-5185-2 (digital). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 2 — opera and Verdi, and the four great opera singers pictured: Pavarotti, Caballé, Domingo and Carreras (student book; original target `music/opera-and-its-singers`) | Book 6, printed pp. 69–70 |

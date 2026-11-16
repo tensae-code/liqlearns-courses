@@ -1,6 +1,6 @@
 # Sources — Digital and Computer Art
 
-countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya
+countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -27,7 +27,7 @@ countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya
 | Morocco — "Strange Animals" (حيوانات غريبة), changing an image — working on an image by deletion (الحذف — removing an element), addition (الإضافة — adding a new element) and exaggeration (المبالغة — enlarging an element), first seen in a digitally altered animal picture: what is strange in the giraffe, the elephant and the crow (teacher guide — evidence; original target `visual-art/the-digital-image`) | Book 5, printed p. 100 |
 | Morocco — "The Digital Image" (الصورة الرقمية) — what a digital image is and the tools that capture it (the mobile phone first, then the digital camera, tablet and computer); digital image processing (Traitement d'image numérique) — loading an image into processing software and using its icons to change colour, size, shape and position, cut, glue, add writing and add new elements; the guide's first step into digital work comes earlier, in Unit 4's introduction to digitising (Numériser) and processing images and texts (printed p. 88) (teacher guide — evidence; original target `visual-art/the-digital-image`) | Book 5, printed p. 102 |
 
-**Acceptance count: taught in 5 countries (Maldives, Turkmenistan, Sudan, Brazil, Bulgaria).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Maldives, Turkmenistan, Sudan, Brazil, Bulgaria, Cuba).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/digital-and-computer-art`); the two Maldives placements were filed under the original strings `visual-art/posterisation` and `visual-art/the-digital-image`, recorded in the provenance rows above.
 
@@ -45,3 +45,10 @@ Searchable tags: digital art, computer art, posterisation, character design, Mal
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Digital drawing — drawing and colouring on the computer with the Paint program: beginning from the line and the pure and impure geometric shapes, changing the line's style and the colour's degree, enlarging and shrinking, and placing the elements in the composition — the pupil draws and colours one object (a car, a train, a bicycle, a ball) (teacher guide — evidence; original target `visual-art/digital-drawing`) | Book 7, printed pp. 97–100 |
+
+**Book 8:** *Educación Laboral y Dibujo Básico — séptimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3816-7. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 198. Verdict: COMPLETE for the Dibujo Básico parts; labour parts (Capítulos II–III) named in the placements, not placed, per the combined-book rule; Glosario (printed p. 181) inventory only and Bibliografía (p. 187) excluded. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.12, El dibujo asistido por computadora — CAD as today's obligatory tool of technical offices: drawing lines, rectangles, polygons and circles with the toolbar commands (student book; original target `visual-art/computer-aided-drawing`) | Book 8, printed p. 81 |

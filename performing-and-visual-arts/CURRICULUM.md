@@ -2074,7 +2074,61 @@ lessons are the books'.
   the Islamic art of Ghadames, Tripoli and the
   zawiyas.
 
-**The whole course stands at 572 lessons, 7,266 questions and
+**Art expansion — Cuba (2026-11-16):** 237 placements
+  stocked from 8 books: *Educación Musical, 5to grado*
+  (student book, 2024), *Orientaciones Metodológicas:
+  Educación Musical, 5to grado* (teacher guide, 2024),
+  *Orientaciones Metodológicas: Educación Plástica,
+  5to grado* (teacher guide, 2024), *Programa: Educación
+  Musical, 5to grado* (teacher programme, 2024),
+  *Las músicas de Cuba y del mundo, 6to grado* (student
+  book, 2025), *Educación Artística, 7mo grado* (student
+  book, 2013), *Educación Laboral y Dibujo Básico, 7mo
+  grado* (student book, 2023 — Dibujo Básico parts only)
+  and *Cultura Artística, 10mo grado* (student book,
+  2023). The two teacher guides and the teacher
+  programme are EVIDENCE only, kept outside every
+  stocked lesson's acceptance count; the five student
+  books count. The Grade 2 Educación Plástica teacher
+  guide is UNREAD (source 404; Wayback capture rate-
+  limited) and was never placed. 167 placements into
+  existing and already-built canonical lessons, and 70
+  into 14 NEW lessons (First Steps: History of the Arts
+  Through Time. Visual Art: Scratch Techniques. Music:
+  Cuban Music Genres ×28; Music of Cuba; Musical
+  Textures; Music in the Media and on Radio; Rap and
+  Hip Hop. Drama and Dance: Cuban Dances and Steps
+  ×16; Flamenco; Street and Hip-Hop Dance; Zarzuela:
+  Spanish Musical Theatre. Culture and Values: History
+  and Folk Art of Cuba; Casas de Cultura: Cuba's
+  Culture Houses; Libraries Keepers of Knowledge),
+  168 questions added, media as described slots only.
+  Registry resolutions carried: the reader strings are
+  resolved in slug-registry Part 2 throughout — among
+  them graphic-notation-drawing-music → Graphic
+  Notation; found-object-instruments-cosophonos →
+  Making Your Own Instruments; singing-technique-and-
+  vocal-care → Singing Technique and Voice Care;
+  instrument-families-by-vibrating-agent → Instrument
+  Families; ensembles-orchestras-and-choirs → The
+  Orchestra and Its Instruments; music-and-technology
+  → Music Technology and Electronic Instruments;
+  punto/trova strings → Cuban Music Genres; cuban-
+  dance-steps → Cuban Dances and Steps; dance-language-
+  space-and-rhythm → Dance Composition and Modern
+  Dance (existing). Honesty carried exactly as filed:
+  all 8 placed books are COMPLETE (Book 7 for its
+  Dibujo Básico parts; its labour chapters are named,
+  not placed); glossaries are inventory-only; songs
+  are placed by title, genre and purpose only, never
+  transcribed. Cuba's own way is kept as named parts:
+  the danzón, son, mambo, chachachá, punto, rumba and
+  conga learned by singing, clapping, corporising and
+  dancing their pictured steps, the cosófonos of the
+  classroom music corner, esgrafiado, Cuban folk art,
+  and the casas de cultura.
+
+**The whole course stands at 586 lessons, 7,434 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

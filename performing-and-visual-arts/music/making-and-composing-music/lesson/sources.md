@@ -1,6 +1,6 @@
 # Sources — Making and Composing Music
 
-countries: Barbados, Suriname
+countries: Barbados, Suriname, Cuba
 
 **Book 1:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
 
@@ -16,8 +16,16 @@ countries: Barbados, Suriname
 | Suriname — Music Les 5–6 "Generale" and "Presentatie" — composing your group's own piece from the series' elements — rhythmic pattern, singing or rapping, body percussion, instruments, dynamics, break and cue — working with repetition, contrast and variation, dividing the tasks, rehearsing it in a general rehearsal with "tips and tops" feedback, and presenting it to an audience (slug first proposed by Venezuela) (teacher guide — evidence; original target `music/composing-music`) | Book 2, printed pp. 41–45 |
 | Suriname — Music Les 5–6 "Generale" (Dress Rehearsal) and "Presentatie" — the final presentation rule of the deepening year — each group arranges yet another people's rhythmic pattern, and must add to its music another KCE art domain belonging to that same people's group: a dance of that people, a short theatre piece before the presentation, or that people's traditional dress worn during it; at most six minutes per group, before an invited audience of other classes, parents and neighbours (slug first proposed by Venezuela) (teacher guide — evidence; original target `music/composing-music`) | Book 3, printed pp. 43–47 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Barbados curriculum syllabus evidence only, named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 0 countries — this lesson stands on Barbados curriculum syllabus evidence only, named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/making-and-composing-music`); the Barbados placements were filed under the original string `music/composing-simple-tunes-and-lyrics`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: composing starts in Class 1, from the same three recorder notes the children are learning to read — B, A and G — fitted to given rhythm patterns, with lyrics of their own.
 
 Searchable tags: composing, B A G, rhythm patterns, lyrics, Barbados, making music
+
+**Book 4:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2, §2.13 — vocal and body improvisation through voice effects and the body in movement and rest, over heard music, songs, rhymes, riddles, jitanjáforas and polyrhythms (teacher programme — evidence; original target `music/improvisation-with-voice-and-body`) | Book 4, printed p. 36 |
+| Cuba — Unit 4, §4.5 — improvisation-creation with voice and body over the region's musics, songs, rhymes, riddles, jitanjáforas and polyrhythms (teacher programme — evidence; original target `music/improvisation-with-voice-and-body`) | Book 4, printed p. 65 |

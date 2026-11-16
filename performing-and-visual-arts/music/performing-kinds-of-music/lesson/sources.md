@@ -1,6 +1,6 @@
 # Sources — Performing Kinds of Music
 
-countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya
+countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya, Cuba
 
 **Book 1:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., body/syllabus to printed p. 80. Printed page = PDF page − 6 in the body. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
 
@@ -32,7 +32,7 @@ countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya
 
 | Colombia — Módulo 4, Guía 20 "Reconocimiento de los ensambles" — recognising and classifying every ensemble met: matching instruments to ensembles and ensembles to their origin, function and rhythm (student book; original target `music/performing-kinds-of-music`) | Book 8, printed pp. 145–155 |
 
-**Acceptance count: taught in 2 countries (Uganda, Colombia).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Uganda, Colombia, Cuba).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only and is labelled so in its plan, text and sources. The Grade 2 teacher guide is a scan with no text layer; its parts are cited at section level only and no wording is quoted from it.
 
@@ -44,3 +44,26 @@ Searchable tags: performing kinds of music, call and answer, two groups singing,
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — How a song is taught — the guide's method: introduce the song's topic with a short story or discussion, read its words in clear rhythmic units, explain the words, the teacher plays and sings it well several times as the model to copy, then teaches it part by part and splits the class into groups to sing it (teacher guide — evidence; original target `music/performing-kinds-of-music`) | Book 9, printed p. 8 |
+
+**Book 10:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2 — singing in canon ("Golondrina", "Vamos a solmizar"), the habanera "La bella Lola", and tonalidad (major/minor) heard in the songs (student book; original target `music/performing-kinds-of-music`) | Book 10, printed pp. 48–51 |
+| Cuba — Unit 2 — the conga repertoire sung and played: "Los mambises" and "Uno, dos y tres" (conga oriental, Rafael Ortiz) (student book; original target `music/performing-kinds-of-music`) | Book 10, printed p. 75 |
+
+**Book 11:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2, §2.10 — performing the unit's repertoire: canons ("El verano ha llegado", "Golondrina", "Cuatro saltos en bajada"), the habanera "La bella Lola", congas and polyrhythms, sung and played in class (teacher programme — evidence; original target `music/performing-kinds-of-music`) | Book 11, printed p. 35 |
+
+**Book 12:** *Las músicas de Cuba y del mundo — Educación Musical, sexto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2025; ISBN 978-959-13-5171-5 (print) / 978-959-13-5185-2 (digital). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1 — solmising melodies and singing canons: "Las notas", "Ya hemos trabajado" and "Vamos a solmizar" (student book; original target `music/performing-kinds-of-music`) | Book 12, printed pp. 38–39 |
+| Cuba — Chapter 3 — the habanera "La bella Lola" performed from its fragment (student book; original target `music/performing-kinds-of-music`) | Book 12, printed p. 96 |

@@ -1,6 +1,6 @@
 # Sources — Dance Composition and Modern Dance
 
-countries: Ethiopia, Andorra, Canada, Uganda, Samoa, Nicaragua, Trinidad and Tobago, Suriname, Papua New Guinea, Brazil
+countries: Ethiopia, Andorra, Canada, Uganda, Samoa, Nicaragua, Trinidad and Tobago, Suriname, Papua New Guinea, Brazil, Cuba
 
 **Book 1:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
@@ -86,8 +86,22 @@ countries: Ethiopia, Andorra, Canada, Uganda, Samoa, Nicaragua, Trinidad and Tob
 | Brazil — Folha 19 — modern dance's pioneers: Isadora Duncan, Martha Graham and Laban free the body to express feeling; choreographing in pairs with a colourful sheet (student book; original target `drama-and-dance/dance-composition-and-modern-dance`) | Book 20, printed p. 305 |
 | Brazil — Folha 19 — the genres of dance: de espetáculo, étnicas, folclóricas, de salão, and those made by the cultural industry (student book; original target `drama-and-dance/genres-of-dance`) | Book 20, printed p. 308 |
 
-**Acceptance count: taught in 3 countries (Canada, Uganda, Brazil).** This lesson's original stock stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Canada, Uganda, Brazil, Cuba).** This lesson's original stock stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only — the Grade 5, 6, 9 and 10 guides — and its acceptance line says so; the pupil-taught dances it builds on live in the built dance lessons of this course. Modern dance is taught at the level the Grade 10 guide's placements give (styles, techniques, and the traditional/modern difference); no named modern-dance school or choreographer beyond the placements is introduced.
 
 Searchable tags: dance composition, dance elements, body shape, space, partner, time, force, modern dance, traditional dance composition, compositional techniques, Nicaragua, Papua New Guinea, Brazil
+
+**Book 21:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 2 — the language of dance: stage space and its strong areas, symmetry and asymmetry, rhythm building climaxes in time, and functional two-dimensional scenography (student book; original target `drama-and-dance/dance-language-space-and-rhythm`) | Book 21, printed pp. 77–80 |
+
+**Book 22:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.6 — Danza Contemporánea de Cuba and Ramiro Guerra: Suite Yoruba, Súlkary, and Marianela Boán's works (student book; original target `drama-and-dance/dance-composition-and-modern-dance`) | Book 22, printed pp. 89–91 |

@@ -1,6 +1,6 @@
 # Sources — Comics
 
-countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria, Sri Lanka
+countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria, Sri Lanka, Cuba
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -42,7 +42,7 @@ countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Bra
 
 | Brazil — Folha 5 — Lichtenstein and the language of comics: panels, speech balloons, onomatopoeia, flat colour with black outline; enlarging a comic panel 1:10 (student book; original target `visual-art/comics-as-art`) | Book 10, printed p. 91 |
 
-**Acceptance count: taught in 8 countries (Maldives, Honduras, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 6) is evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Maldives, Honduras, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 6) is evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/comics`); the Maldives placement was filed under the original string `visual-art/character-design`, recorded in the provenance rows above. The digital building of the same character is stocked in Digital and Computer Art, from the same unit's digital pages.
 
@@ -63,3 +63,10 @@ Searchable tags: comics, character design, cartoon characters, Kyle and Lulu, Hu
 |---|---|
 
 | Sri Lanka — Activity 6.6.1 "Let's appreciate comic-strip creations" — the comic strip as Sri Lankan art — the form's history in the island's papers (first Lankadeepa comic, 1951) and its named masters: Bandula Harischandra (1940– ), Daya Rajapaksa (1941– ) and Janaka Ratnayake, their strips pictured and appreciated (teacher guide — evidence; original target `visual-art/sri-lankan-comic-strip-art`) | Book 12, printed pp. 57–62 |
+
+**Book 13:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 4, Historietas y dibujos animados — creating your own small comic strip (historieta) with paper, coloured pencils and watercolour in only four tones (teacher guide — evidence; original target `visual-art/drawing-comics-historietas`) | Book 13, printed p. 52 |

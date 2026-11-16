@@ -1,6 +1,6 @@
 # Sources — Instrument Families
 
-countries: Haiti, Fiji, Colombia, Papua New Guinea, Morocco, Sri Lanka
+countries: Haiti, Fiji, Colombia, Papua New Guinea, Morocco, Sri Lanka, Cuba
 
 **Book 1:** *Musique — EEA (Éducation esthétique et artistique) Séquence 1 — « Introduction à la pratique de la musique » (Ipharès Blain Jr., juillet 2021)* (teacher guide, French) — Haiti, Projet Nectar, MENFP, 2021, no ISBN printed, Grade 7e année AF, French, 15 PDF pp (printed pp. 1–14). TEACHER — teacher guide. Verdict: COMPLETE (first page verified against the record — Musique EEA sequence, niveau 7e AF, durée 8 à 10 semaines). The record names this file EEA2; the document itself is titled Séquence 1 — the mismatch is in the record's short name only; the file is the 7e AF music introduction sequence the record points to. Exclusions per the placements: Séance 9 (Révision) and Séance 10 (Évaluation: Contrôle 1) are revision/assessment — named, not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -39,7 +39,7 @@ countries: Haiti, Fiji, Colombia, Papua New Guinea, Morocco, Sri Lanka
 | Morocco — "I Learn String Instruments" (أتعرف آلات وترية) — knowing and telling apart the string instruments — oud (the player strikes its strings with the risha), violin (kaman), qanun, rabab, ginbri, guitar and piano — matching instrument pictures to their Arabic and French names (oud/Luth, guitare, violon, kanoun) (teacher guide — evidence; original target `music/string-instruments-and-their-names`) | Book 7, printed p. 93 |
 | Morocco — "I Love Sport" (أحب الرياضة), string instruments — string instruments classified by how they are played — bowed (violin, rabab), plucked (oud, guitar, qanun) and struck (piano) — with their French names and picture matching (slug first proposed in the Grade 3 filing) (teacher guide — evidence; original target `music/string-instruments-and-their-names`) | Book 8, printed p. 80 |
 
-**Acceptance count: taught in 2 countries (Fiji, Colombia).** Haiti is added as teacher-guide / teacher-programme evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Fiji, Colombia, Cuba).** Haiti is added as teacher-guide / teacher-programme evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/instrument-families`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
@@ -54,3 +54,24 @@ Searchable tags: instrument families, woodwinds, bois, flute, oboe, clarinet, ba
 |---|---|
 
 | Sri Lanka — Competency 7.2: the Western wind instruments — meeting the brass and woodwind — Trumpet, Trombone, Euphonium, Oboe, Clarinet and Saxophone (named in English in the syllabus) — how each sounds and speaks (teacher guide — evidence; original target `music/western-wind-instruments`) | Book 9, syllabus p. xx |
+
+**Book 10:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2, Los medios sonoros — every instrument family by its vibrating agent, in pictured tables: aerophones (wood/metal wind, keyboard), chordophones (bowed, plucked, struck — the piano), membranophones, idiophones (xylophone, castañuelas, claves, maracas, güiro) and electrophones (student book; original target `music/instrument-families-by-vibrating-agent`) | Book 10, printed p. 58 |
+
+**Book 11:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2, §2.9 — recognising instruments by sight and sound through their vibrating agent: chordophones, aerophones, membranophones, idiophones and electrophones (teacher programme — evidence; original target `music/instrument-families-by-vibrating-agent`) | Book 11, printed p. 35 |
+
+**Book 12:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 2 — the full instrument classification in tables: chordophones (bowed, plucked), aerophones, percussion (idiophones and membranophones — timbales, platillos) and electrophones, down to Robert Moog's synthesizer (student book; original target `music/instrument-families-by-vibrating-agent`) | Book 12, printed pp. 66–73 |

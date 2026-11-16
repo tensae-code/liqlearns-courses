@@ -1,6 +1,6 @@
 # Sources — The Elements of Visual Art
 
-countries: Ethiopia, Andorra, Uganda, Barbados, Albania, Samoa, Singapore, Bhutan, Trinidad and Tobago, Haiti, Serbia, Mozambique, Pakistan, Colombia, Sudan, Iran, Brazil, Jordan, Libya
+countries: Ethiopia, Andorra, Uganda, Barbados, Albania, Samoa, Singapore, Bhutan, Trinidad and Tobago, Haiti, Serbia, Mozambique, Pakistan, Colombia, Sudan, Iran, Brazil, Jordan, Libya, Cuba
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -146,7 +146,7 @@ countries: Ethiopia, Andorra, Uganda, Barbados, Albania, Samoa, Singapore, Bhuta
 | Brazil — Folha 2 — form: figurative form vs abstract form, and what abstract forms can still say (student book; original target `visual-art/elements-of-visual-art`) | Book 29, printed p. 33 |
 | Brazil — Folha 17 — the attributes of colour: luminosidade, saturação, contraste, tonalidade (student book; original target `visual-art/elements-of-visual-art`) | Book 29, printed p. 283 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Iran, Brazil, Jordan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Iran, Brazil, Jordan, Cuba). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book teaches Allegretto as "very fast", above Allegro "fast", in its tempo table; that table belongs to the music lesson and is not used here. The Grade 7 teacher-guide parts in this lesson sit inside the guide's surviving body pages (printed pp. 26–41) and are labelled teacher-guide evidence; the pupil-taught parts stand on the two student textbooks, so the acceptance count is 1 country.
 
@@ -195,3 +195,18 @@ Searchable tags: elements of visual art, line, shape, form, space, texture, valu
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Elements of the artwork — the series' shared reminder before the lessons: the point, dotting, the line, area, colour, texture, light and shadow, space, shape and volume (teacher guide — evidence; original target `visual-art/elements-of-visual-art`) | Book 35, printed p. 24 |
+
+**Book 36:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, Las áreas — the area (área) as a building element of plastic art: flat zones made by contrasts of tone and colour and by dividing lines, structuring figure on ground, built from line, colour and texture (teacher guide — evidence; original target `visual-art/elements-of-visual-art`) | Book 36, printed pp. 23–24 |
+
+**Book 37:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1 — the visual manifestations surveyed: painting, the graphic arts (gráfica) and their materials, architecture, gardening and urban design as environmental art (student book; original target `visual-art/elements-of-visual-art`) | Book 37, printed pp. 38–45 |
+| Cuba — Chapter 2 — the visual language's lines and colours: what line kinds mean (greca = fortress/defence, radial = astonishment, discontinuous = intermittence) and how colours act on the body (blue cools, red raises pressure) (student book; original target `visual-art/elements-of-visual-art`) | Book 37, printed pp. 81–82 |

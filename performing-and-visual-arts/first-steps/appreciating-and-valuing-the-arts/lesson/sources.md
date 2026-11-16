@@ -1,6 +1,6 @@
 # Sources — Appreciating and Valuing the Arts
 
-countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania, Romania, Singapore, Trinidad and Tobago, Haiti, Malta, Mozambique, Pakistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Morocco, Libya
+countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania, Romania, Singapore, Trinidad and Tobago, Haiti, Malta, Mozambique, Pakistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Morocco, Libya, Cuba
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -131,7 +131,7 @@ countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania, Romania, Singa
 | Morocco — Semester project 1, "Our Morocco: Civilisation and Culture" (مغربنا حضارة وثقافة) — a term project in groups — paintings of Moroccan nature, civilisation and heritage for a visual-arts exhibition; a song or theatre scene glorifying Morocco; a large map of Morocco decorated with postcards of its cities and monuments, photos of national figures and local art groups (teacher guide — evidence; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 34, printed p. 59 |
 | Morocco — Semester project 2, "Our Region's Tourist Week" (الأسبوع السياحي لجهتنا) — a term project in groups — an advertising poster and an advertising board presenting the region's landscapes, monuments and facilities (drawing, cutting, collage, composite image), a regional dance or a song glorifying the region and homeland, and a theatre scene presenting the region's tourist assets (teacher guide — evidence; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 34, printed p. 97 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Uganda, Romania, Mozambique, Pakistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, Uganda, Romania, Mozambique, Pakistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Cuba).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 7 and 8 teacher-guide parts are EVIDENCE-LIMITED in the strict sense: those guides' files are truncated, so Units 4–5 are placed from their contents pages and syllabus tables only, and every such part is labelled so in its provenance — no body wording is claimed from pages that were not read. The Grade 9–10 parts stand on teacher-guide evidence (those grades have no student books). The lesson's first part rests on the Grade 7 student book, so the lesson counts as taught in 1 country (Ethiopia); every other part is evidence, labelled part by part.
 
@@ -143,3 +143,27 @@ Searchable tags: aesthetic value, judging beauty, appreciation, valuing the arts
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Artistic Vision — the second field: raising the power to contemplate and examine the beauty of movement and colour, knowing the aesthetic values in old and modern artefacts and the bases of composition, turning the artistic eye on coasts, desert, cities and villages, and studying still bodies' formations, lines and surface textures (teacher guide — evidence; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 35, printed pp. 11–12 |
+
+**Book 36:** *Orientaciones Metodológicas — Educación Musical, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4689-6 (print) / 978-959-13-4690-2 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 172. Verdict: COMPLETE. Evaluation guidance and bibliographies excluded as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Materiales complementarios, "El danzón en la formación de los públicos" — how the danzón formed its listening audiences: learning to value a genre by hearing it over time (teacher guide — evidence; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 36, printed p. 111 |
+
+**Book 37:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, §1.9 — creative listening: Ignacio Cervantes' "Adiós a Cuba", Roberto Valera's "Iré a Santiago" and Rosa Campos' "M con A, N con I, maní" heard and valued (teacher programme — evidence; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 37, printed p. 21 |
+| Cuba — Unit 2, §2.8 — listening to Cuban concert works: Lecuona's "La comparsa", Saumell's "La Tedezco", Cervantes' "Los muñecos" and José White's "La bella cubana" (teacher programme — evidence; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 37, printed p. 35 |
+| Cuba — Unit 3, §3.12 — listening with the expressive means in hand: traditional zapateo, Caturla's works, López Gavilán's guaguancó "Camerata", Failde's danzón "Las Alturas de Simpson", "Mambo No. 5" and the Matamoros sones (teacher programme — evidence; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 37, printed p. 50 |
+
+**Book 38:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §3.1, Ocio no, tiempo libre sí — free time is not idleness: telling tiempo libre from ocio, and spending it at Cuba's heritage places (Trinidad, the Morro of Santiago, Viñales) (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 38, printed pp. 173–175 |
+| Cuba — §3.3, Disfrute de la magia de las artes — enjoying the arts' magic in free time: Loynaz's verses, Amelia Peláez's vitrales, dancing the timba, Alicia Alonso's search for perfection, and what theatre does for vocabulary, attention and memory (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 38, printed pp. 178–184 |

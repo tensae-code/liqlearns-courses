@@ -1,6 +1,6 @@
 # Sources — The Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka
+countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Cuba
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -73,7 +73,7 @@ countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papu
 |---|---|
 | Morocco — Appendix: "The Stage" (خشبة المسرح) — the kinds of stage — the open stage (nothing separates actors from audience), the flexible stage (places of performance and audience can change), the circular stage (audience on all four sides, a low stage, actors entering through the audience) and the frontal stage (the commonest — audience in front, the play seen from the front only); and the division of the stage into named zones — nine zones the most used (some divide it into 16 or 32), with the nine-zone plan (teacher guide — evidence; original target `drama-and-dance/kinds-of-stage`) | Book 17, printed p. 137 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Honduras, Iran, Brazil, Jordan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Honduras, Iran, Brazil, Jordan, Cuba). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book's plot example is taught as the book gives it — a soldier wounded by enemy fire, his wife dying of grief, the story told by flashback — summarised, never reprinted. The teacher-guide parts (shot sizes move to the Video lesson; the Grade 6 guide's theatre-elements and genres part) are evidence and are labelled so.
 
@@ -95,3 +95,10 @@ Searchable tags: theatre elements, setting, መቼት, character, plot, ሴራ, 
 |---|---|
 
 | Sri Lanka — Competency 1.2 "Let's identify the physical aspects of drama" — the actor's physical instrument — how the body carries a play, studied in group work before any script is touched (teacher guide — evidence; original target `drama-and-dance/the-elements-of-theatre`) | Book 19, printed pp. 3–4 |
+
+**Book 20:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1 — theatre: from the Greek theatron, "place for seeing", to theatre's forms, musical theatre and opera among them (student book; original target `drama-and-dance/the-elements-of-theatre`) | Book 20, printed pp. 46–48 |

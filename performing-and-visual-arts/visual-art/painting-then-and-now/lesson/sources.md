@@ -1,6 +1,6 @@
 # Sources — Painting Then and Now
 
-countries: Ethiopia, Albania, Trinidad and Tobago
+countries: Ethiopia, Albania, Trinidad and Tobago, Cuba
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -27,8 +27,23 @@ countries: Ethiopia, Albania, Trinidad and Tobago
 
 | Trinidad and Tobago — Visual Arts Content: History of Art in Trinidad and Tobago (Form 1 Term 1) — exploring the history of art in Trinidad and Tobago and discussing local artists and their influence, Michel-Jean Cazabon named as the example (curriculum guide — evidence) | Book 5, printed p. 140 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Ethiopia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count.
 
 Honesty notes: this lesson stocks only what the structure map assigns to it — the Grade 3 then-and-now comparison and the appreciating-paintings pages, with the Grade 3 teacher guide's valuing part as labelled evidence. Other painting placements in the series carry their own lesson targets in the placements files (the paint kinds, watercolour and oil, cave art, and the great painters) and are not stocked here; they are recorded as not-in-this-map in the build log. Afework Tekle is named in the lesson exactly as the Grade 3 book names him — the modern example — with no biography added beyond the placements.
 
 Searchable tags: painting, Ethiopian painting, then and now, Afework Tekle, appreciating paintings, colour-painting, ቀለምቅብ
+
+**Book 6:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 3 — XIX-century visual arts: the colonial house, the first mural painter working fresco on wet plaster, academic painting, Romanach's "Marina" and Chartrand's landscapes (student book; original target `visual-art/painting-then-and-now`) | Book 6, printed pp. 126–131 |
+| Cuba — Chapter 4, Las artes visuales — XX–XXI visual arts: eclectic and glass-walled architecture, and the vanguard painters — Wifredo Lam ("La Jungla" in New York's museum), Amelia Peláez, Portocarrero, Mariano Rodríguez, Zaida del Río, Fabelo and Kcho, with Rita Longa's "Gallo de Morón" in sculpture (student book; original target `visual-art/painting-then-and-now`) | Book 6, printed pp. 147–160 |
+
+**Book 7:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.4, Líneas, formas y colores: las artes visuales — the abstract group Los Once (Raúl Martínez, Antonio Vidal, Fayad Jamís), Servando Cabrera's "Milicias Campesinas", Martínez's "15 repeticiones de Martí", and today's history painters Flora Fong, Nelson Domínguez and Ever Fonseca (student book; original target `visual-art/painting-then-and-now`) | Book 7, printed pp. 20–24 |

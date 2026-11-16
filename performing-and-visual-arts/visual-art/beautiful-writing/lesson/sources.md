@@ -1,6 +1,6 @@
 # Sources — Beautiful Writing
 
-countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Libya
+countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Libya, Cuba
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -113,7 +113,7 @@ countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus,
 |---|---|
 | Morocco — "The Art of Calligraphy" (فن الخط) — calligraphy defined as the art of beautiful writing in the world's languages; Arabic writing is joined and takes geometric shapes, which gives it its special beauty; pupils write the motto "God, Homeland, King" and colour the Basmala (teacher guide — evidence; original target `visual-art/beautiful-writing`) | Book 22, printed p. 48 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria, Libya). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added on its Grades 3–9 student calligraphy workbooks — counted in the acceptance count; the Libya Grade 1 teacher guide part is evidence only, kept outside it.
+**Acceptance count: taught in 12 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria, Libya, Cuba). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added on its Grades 3–9 student calligraphy workbooks — counted in the acceptance count; the Libya Grade 1 teacher guide part is evidence only, kept outside it.
 
 Honesty notes: the Grade 5 calligraphy plates placement (single/double/shaded examples in Amharic and English, with a two-tied-pencils GIF need) is stocked inside Sub lesson 5's practice set, where the Grade 6 book turns the same two-tools method into practice; no separate plate part is claimed. Line-kind Amharic names and spellings (ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, ነጠላ, ድርብ) are copied exactly from the Grade 3 placements.
 
@@ -203,3 +203,10 @@ Searchable tags: calligraphy, ኪነ-ፅህፈት, beautiful writing, letter for
 |---|---|
 | Libya — Instructions and the line-tables — both scripts (Naskh and Ruqʿa) by the series method, opening with the letters above and below the line for each script (student book; original target `visual-art/beautiful-writing`) | Book 31, printed pp. 3–7 |
 | Libya — Sourced texts as models — Qur'anic verses and hadith copied as calligraphy models, each with its source printed beneath ("Cooperate in righteousness and piety, and do not cooperate in sin and aggression"; the hadith "God loves that when one of you does a work, he perfects it"), together with national lines: "No glory for a people that does not enjoy freedom" and "Do not do in secret what you would be ashamed of in public" (student book; original target `visual-art/beautiful-writing`) | Book 31, printed pp. 8–47 |
+
+**Book 32:** *Educación Laboral y Dibujo Básico — séptimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3816-7. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 198. Verdict: COMPLETE for the Dibujo Básico parts; labour parts (Capítulos II–III) named in the placements, not placed, per the combined-book rule; Glosario (printed p. 181) inventory only and Bibliografía (p. 187) excluded. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.6, Rotulado — lettering as an art under norms: letter height and spacing for uniformity, tracing capitals, lowercase and numbers stroke by stroke, from C. W. Reinhardt's XIX-century lettering onward (student book; original target `visual-art/beautiful-writing`) | Book 32, printed p. 33 |

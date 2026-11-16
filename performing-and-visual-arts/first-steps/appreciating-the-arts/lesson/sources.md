@@ -1,6 +1,6 @@
 # Sources — Appreciating the Arts
 
-countries: Ethiopia, Cyprus, Jamaica, Andorra, Guatemala, Canada, Barbados, Singapore, Trinidad and Tobago, Serbia, Malta, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria, Jordan
+countries: Ethiopia, Cyprus, Jamaica, Andorra, Guatemala, Canada, Barbados, Singapore, Trinidad and Tobago, Serbia, Malta, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria, Jordan, Cuba
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -86,7 +86,7 @@ countries: Ethiopia, Cyprus, Jamaica, Andorra, Guatemala, Canada, Barbados, Sing
 
 | Brazil — Folha 1 — the Bienal: international art exhibitions (Venice 1895, São Paulo 1951) as places where art is shown and judged (student book; original target `first-steps/appreciating-the-arts`) | Book 24, printed p. 12 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Canada, Serbia, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria, Jordan).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 16) is evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 14 countries (Ethiopia, Canada, Serbia, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria, Jordan, Cuba).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 16) is evidence only, kept outside the acceptance count.
 
 The Sof Omar and Tis Abay Falls photographs are also the stock of the Photographs lesson in the Visual Art title; per the course structure map, their Grade 3 review placement is stocked here as appreciation content — the activity the book itself sets ('say which of the photographs pleased you'). The two definitions of appreciation (Grade 3's visiting-and-looking, Grade 2's expressing-by-doing) are both taught, as the books state them; they complete each other and neither is silently preferred.
 
@@ -134,3 +134,18 @@ Searchable tags: appreciating the arts, appreciation, visiting, ጉብኝት, So
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 3 Lesson 10 "Watching a Play" — watching a piece of theatre work to know the most important basic components of theatre and its skills — the play consists of a story performed by actors and actresses on the stage in front of the audience, with the help of the set, the clothes and the music; committing to positive behaviours when watching a play; watching plays develops the artistic taste, and theatre achieves direct interaction with the audience — recalling the watched play: was the actors' delivery clear, was there communication between the actors by voice and movement, and did the audience interact with the play (student book; original target `first-steps/appreciating-the-arts`) | Book 31, printed p. 80 |
+
+**Book 32:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Appreciation routes — appreciating the nearest surroundings: guided looking at local architecture, sculptures, plaques, murals and parks, learning to feel and say what the beautiful things around us give us (teacher guide — evidence; original target `first-steps/appreciating-the-arts`) | Book 32, printed p. 9 |
+
+**Book 33:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §2.2, De la mano de mi familia por el arte — the family as the first place where art is shared and enjoyed (student book; original target `first-steps/appreciating-the-arts`) | Book 33, printed p. 142 |
+| Cuba — §2.7, La expresión más pública: el teatro — the theatre as the most public expression, and how an audience behaves in it (leaving a seat only at the intermission, apologising with care) (student book; original target `first-steps/appreciating-the-arts`) | Book 33, printed p. 160 |

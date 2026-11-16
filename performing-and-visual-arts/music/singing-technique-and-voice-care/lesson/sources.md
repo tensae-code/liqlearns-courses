@@ -1,6 +1,6 @@
 # Sources — Singing Technique and Voice Care
 
-countries: Nicaragua, Haiti, Malta, Fiji, Suriname, Morocco
+countries: Nicaragua, Haiti, Malta, Fiji, Suriname, Morocco, Cuba
 
 **Book 1:** *Expresión Cultural y Artística — Manual Metodológico para la y el maestro — Segundo grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 2, 150 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Title/grade verified in the book's presentation: a support document for Grade 2 primary teachers. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 135) is a word list — inventory-only, named here, not stocked; Webgrafía not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -38,8 +38,29 @@ countries: Nicaragua, Haiti, Malta, Fiji, Suriname, Morocco
 | Morocco — "My Homeland! O Land of Peace!" (وطني! يا أرض السلام!), vocal warm-ups — vocalises (التسخينات الصوتية) before singing — they fix pronunciation, make the vocal cords more supple and prevent hoarseness — with new breathing exercises, inhaling and exhaling (slug first proposed in the Grade 3 filing) (teacher guide — evidence; original target `music/breathing-and-voice-warm-ups-for-singing`) | Book 8, printed p. 68 |
 | Morocco — "Live, My Country!" (يا بلادي عيشي), preparing to sing — before performing the song, breathing exercises and voice warm-ups (تسخين الصوت), then keeping its rhythm by light clapping and tapping on the tables and accompanying the singing with body movements (slug first proposed in the Grade 3 filing) (teacher guide — evidence; original target `music/breathing-and-voice-warm-ups-for-singing`) | Book 8, printed p. 118 |
 
-**Acceptance count: taught in 1 country (Fiji).** Nicaragua, Haiti and Malta are added as teacher-guide evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Fiji).** Nicaragua, Haiti and Malta are added as teacher-guide evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/singing-technique-and-voice-care`); the Nicaragua placement was filed under the original string `music/breathing-for-singing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Nicaragua's own way: singing breath is practised with chimbombas (balloons), so the learner can feel the air being taken in, held and let out.
 
 Searchable tags: singing technique, voice care, breathing for singing, chimbombas, balloons, inhaling, exhaling, holding the air, Nicaragua, Haiti, Malta, Music Shines
+
+**Book 9:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, ¡Llegó la hora de cantar! — preparing the singing voice: warm-up exercises for speaking, reciting and singing, and how the voice is emitted (tongue resting, breath) (student book; original target `music/singing-technique-and-vocal-care`) | Book 9, printed p. 25 |
+
+**Book 10:** *Orientaciones Metodológicas — Educación Musical, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4689-6 (print) / 978-959-13-4690-2 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 172. Verdict: COMPLETE. Evaluation guidance and bibliographies excluded as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2, Ideas esenciales — how the singing voice is prepared and cared for: posture, breathing, dosing the air at the attack, continuity and end of the sound, and vocal hygiene (teacher guide — evidence; original target `music/singing-technique-and-vocal-care`) | Book 10, printed p. 41 |
+
+**Book 11:** *Las músicas de Cuba y del mundo — Educación Musical, sexto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2025; ISBN 978-959-13-5171-5 (print) / 978-959-13-5185-2 (digital). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1, ¡A cantar y recitar! — the preparatory singing exercises pictured step by step: relaxation, breathing (in through the nose, hold three beats, out slowly on "mu") and vocalisation with the mouth placed for each vowel (student book; original target `music/singing-technique-and-vocal-care`) | Book 11, printed pp. 14–16 |

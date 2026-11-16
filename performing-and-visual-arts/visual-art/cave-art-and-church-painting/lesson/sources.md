@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -50,7 +50,7 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, S
 
 | Brazil — Folha 3 "Você suporta Arte?" — cave painting: detailed Paleolithic animals against simplified Neolithic figures, Lascaux's Black Bull, natural pigments; drawing in both styles using only natural materials (student book; original target `visual-art/cave-art-and-church-painting`) | Book 11, printed p. 43 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 
@@ -71,3 +71,10 @@ Searchable tags: cave art, Lascaux, Altamira, Porc-Epic, Lega Oda, Dire Dawa, Bo
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — The dawn of ancient art — a simplified history: the Old Stone Age (fire discovered, tools of stone, bone and horn), the Middle Stone Age, and the New Stone Age (farming begins, pottery and weaving are made, and wall drawing in the caves continues to the age's end) (teacher guide — evidence; original target `visual-art/cave-art-and-church-painting`) | Book 14, printed pp. 20–21 |
+
+**Book 15:** *Educación Laboral y Dibujo Básico — séptimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3816-7. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 198. Verdict: COMPLETE for the Dibujo Básico parts; labour parts (Capítulos II–III) named in the placements, not placed, per the combined-book rule; Glosario (printed p. 181) inventory only and Bibliografía (p. 187) excluded. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.1, Desarrollo y evolución del Dibujo Técnico como expresión gráfica — drawing begins as graphic expression: the Cueva de Ambrosio paintings (Matanzas) with their single and double lines (student book; original target `visual-art/cave-art-and-church-painting`) | Book 15, printed pp. 2–5 |

@@ -1,6 +1,6 @@
 # Sources — Architecture
 
-countries: Colombia, Belarus, Morocco
+countries: Colombia, Belarus, Morocco, Cuba
 
 **Book 1:** *Secundaria Activa — Educación Artística - Artes Visuales (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-497-0, ISBN serie Secundaria Activa 978-958-691-485-7; authors Paola Lorena Coral Pérez and Marcela Tristancho (update and qualification by Aguirre Asesores S.A.S., contract 428 of 2010). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 168 (title page verified against the record; byte size 9,617,292). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 12 Momentos. The book's self-assessment rubrics (autoevaluación) are assessment apparatus, named here and not placed. READ ROUTE: the ministry host (redes.colombiaaprende.edu.co) drops direct connections after the TLS handshake, and its June 2023 Wayback capture is a truncated ~538 KB file; this copy is the Wayback Machine's 10 Dec 2022 capture of the same ministry file (canonical digest), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
 
@@ -22,8 +22,15 @@ countries: Colombia, Belarus, Morocco
 | Morocco — "Kasbahs and Doors" (قصبات وأبواب) — Morocco's own architectural forms — kasbahs, palaces and doors: their walls, the ornaments decorating the walls, the dominant door colours and how the doors are ornamented; colouring a kasbah and its sky, and completing and colouring a door's decoration in two suitable colours (teacher guide — evidence; original target `visual-art/kasbahs-and-moroccan-doors`) | Book 3, printed p. 110 |
 | Morocco — "Architectural Art" (الفن المعماري), the madrasa — Morocco's old madrasa architecture as art — walls of zellige mosaic and carved wood read as a designed surface (slug first proposed in the Grade 3 filing for kasbahs and decorated doors) (teacher guide — evidence; original target `visual-art/kasbahs-and-moroccan-doors`) | Book 4, printed p. 62 |
 
-**Acceptance count: taught in 2 countries (Colombia, Belarus).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Colombia, Belarus, Cuba).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/architecture`); the Colombia placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Colombia's own way: architecture is taught inside a design project on transforming spaces — the world's shelters are read by the human need each one answers.
 
 Searchable tags: architecture, tipi, palafitos, Chiloé, Calatrava, Forbidden City, Colombia
+
+**Book 5:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — §1.4 — Cuban architecture: the colonial house's typology, the Girón building system and twelve-storey blocks, the Las Terrazas community, and diseño ambiental in dialogue with nature (Hotel Moka) (student book; original target `visual-art/architecture-and-environmental-design`) | Book 5, printed pp. 25–32 |

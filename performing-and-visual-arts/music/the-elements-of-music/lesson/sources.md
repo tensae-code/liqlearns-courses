@@ -1,6 +1,6 @@
 # Sources — The Elements of Music
 
-countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Fiji, Suriname, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Bulgaria, Jordan, Libya
+countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Fiji, Suriname, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Bulgaria, Jordan, Libya, Cuba
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -136,7 +136,7 @@ countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albani
 | Brazil — Folha 10 — the formal elements of every sound: timbre, intensidade (dinâmica), altura, densidade, duração (student book; original target `music/the-elements-of-music`) | Book 35, printed p. 163 |
 | Brazil — Folha 12 "No peito dos desafinados" — the five sound elements again, through the videokê machine: which element earns or loses your score (student book; original target `music/the-elements-of-music`) | Book 35, printed p. 190 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, United Kingdom, Uganda, Honduras, Turkmenistan, Fiji, Colombia, Belarus, Iran, Brazil, Bulgaria, Jordan).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 13 countries (Ethiopia, United Kingdom, Uganda, Honduras, Turkmenistan, Fiji, Colombia, Belarus, Iran, Brazil, Bulgaria, Jordan, Cuba).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The pupil book's list is pupil teaching; the guide's eight-element list is carried as labelled teacher-guide evidence, exactly as the placements label it. No element is added to either list.
 
@@ -171,3 +171,42 @@ Searchable tags: elements of music, beat melody harmony structure dynamics tone 
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — What music is, and its elements — music defined as a science of natural laws and an art of ordered sounds; its elements set out: melody/sound first (its sources: the human voice, and instruments — strings vibrating in the air, wind tubes of wood and metal, skins stretched over drums), then rhythm, the time element that divides melody into time units (teacher guide — evidence; original target `music/the-elements-of-music`) | Book 40, printed pp. 4–6 |
+
+**Book 41:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, El sonido en la vida cotidiana — the qualities of sound (altura, duración, intensidad, timbre) applied to voices and instruments, with the voice table soprano/mezzosoprano/contralto, tenor/barítono/bajo (student book; original target `music/the-elements-of-music`) | Book 41, printed pp. 5–10 |
+| Cuba — Unit 2, Los medios expresivos de la música — the expressive means named as one set (melodía, ritmo, armonía, dinámica, tempo, timbre, textura, forma), textura and forma new at this grade (student book; original target `music/the-elements-of-music`) | Book 41, printed p. 34 |
+| Cuba — Unit 2 — the musical phrase and binary form: works in two parts, the Himno Nacional and "La bella Lola" among them (student book; original target `music/the-elements-of-music`) | Book 41, printed p. 72 |
+
+**Book 42:** *Orientaciones Metodológicas — Educación Musical, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4689-6 (print) / 978-959-13-4690-2 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 172. Verdict: COMPLETE. Evaluation guidance and bibliographies excluded as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, Conceptos básicos — the four qualities of sound defined and taught: pitch (altura, from vibration frequency), intensity, duration and timbre, plus unison singing (teacher guide — evidence; original target `music/the-elements-of-music`) | Book 42, printed p. 34 |
+
+**Book 43:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 2, §2.1 — identifying the expressive means of the musical language inside songs and structured sound combinations (teacher programme — evidence; original target `music/the-elements-of-music`) | Book 43, printed p. 34 |
+
+**Book 44:** *Las músicas de Cuba y del mundo — Educación Musical, sexto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2025; ISBN 978-959-13-5171-5 (print) / 978-959-13-5185-2 (digital). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1 — the expressive means gathered in one scheme: registro, modalidad, tonalidad, dinámica, ritmo/métrica, melodía and medio sonoro, applied in a sound map (mapa sonoro) of the community (student book; original target `music/the-elements-of-music`) | Book 44, printed p. 6 |
+
+**Book 45:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Chapter 1, Nuestra realidad visual, sonora y cinética — the qualities of sound learned by experiment: feeling a fork's vibration, touching the throat while singing, pitch across instruments, and intensity measured in decibels (student book; original target `music/the-elements-of-music`) | Book 45, printed pp. 10–16 |
+| Cuba — Chapter 2, Los medios expresivos de los lenguajes artísticos — music's expressive means at secondary depth: the pulse as the music's heart (the negra), and tético (strong-beat) against anacrúsico (weak-beat) beginnings in names, rhymes and songs (student book; original target `music/the-elements-of-music`) | Book 45, printed pp. 57–62 |
+| Cuba — Chapter 2 — forma binaria A–B, the two-part structure inside Cuba's guajiras and boleros (student book; original target `music/the-elements-of-music`) | Book 45, printed p. 76 |

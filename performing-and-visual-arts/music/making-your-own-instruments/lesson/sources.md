@@ -1,6 +1,6 @@
 # Sources — Making Your Own Instruments
 
-countries: Singapore, Bhutan, Malta, Suriname
+countries: Singapore, Bhutan, Malta, Suriname, Cuba
 
 **Book 1:** *Nurturing Early Learners — A Curriculum Framework for Preschool Education in Singapore: Educators' Guide for Aesthetics and Creative Expression* (teacher guide, English) — Singapore, Ministry of Education, Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten (children aged 4–6: Nursery 2, Kindergarten 1–2), 126 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree (byte size 4,232,854 matches the record), PDF deleted after filing. Chapter 4's classroom-environment organisation and Chapter 5's monitoring-and-assessment framework are teacher apparatus — their worked examples' teaching content IS placed; the Bibliography (printed pp. 122–125) is inventory-only, named here, never stocked. Songs are filed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/singapore-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -28,8 +28,22 @@ countries: Singapore, Bhutan, Malta, Suriname
 | Suriname — Music Les 2 "Zelfgemaakt instrument" (Self-made Instrument) — the self-made instrument is a sheet of used paper — exploring its sounds by rubbing, hitting and tearing; solving multiplication sums by two rows counting with claps and stamps until both rows stamp together on the answer; groups composing and presenting their sum in paper sounds, and a closing talk on reusing paper and other sounding things from the environment (slug first proposed by Singapore) (teacher guide — evidence) | Book 6, printed pp. 32–33 |
 | Suriname — Music Les 2 "Zelfgemaakt instrument" (Self-made Instrument) — building real percussion instruments from things found in the surroundings — tins, bottles, rice, broomsticks, buckets — made to give three sounds: low and deep like a bass drum, sharp like a snare, and a shaker of a bottle or tin filled with sand, rice or stones; then multiplication done by two sound rows counting "tik" and "boem" until both sound together on the answer, with sums kept under 40 (slug first proposed by Singapore) (teacher guide — evidence) | Book 7, printed pp. 33–35 |
 
-**Acceptance count: taught in 1 country (Bhutan).** Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Bhutan).** Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/making-your-own-instruments`); the Singapore placements were filed under the original string `music/making-your-own-instruments`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Singapore's own way, carried in the placements: one national early-years guide that treats art, music and movement as a single learning area, with Singapore's own heritage woven through as content. Every part of this lesson is labelled evidence; no student-textbook claim is made for it. Bhutan is added as student workbook stock (see its rows above), and is counted in the acceptance count.
 
 Searchable tags: making instruments, shakers, yoghurt cups, recycled materials, recycling song, Singapore, Bhutan, Malta, Music Shines
+
+**Book 8:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1 — collecting sound sources from nature and the street (flamboyán pods, seeds, found objects — cosófonos) for the classroom music corner (student book; original target `music/found-object-instruments-cosophonos`) | Book 8, printed p. 14 |
+
+**Book 9:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unit 1, §1.5 — gathering sound-makers from nature and the street — seeds, pods (flamboyán pods) and found objects (cosófonos) — to stock the classroom music corner (teacher programme — evidence; original target `music/found-object-instruments-cosophonos`) | Book 9, printed p. 20 |
