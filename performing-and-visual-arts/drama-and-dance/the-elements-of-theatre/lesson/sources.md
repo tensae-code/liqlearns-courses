@@ -1,6 +1,6 @@
 # Sources — The Elements of Theatre
 
-countries: Ethiopia
+countries: Ethiopia, Egypt
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia
 **Book 5:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 **Book 6:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 **Book 7:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
+
+**Book 8:** *Theatre Education — Student Book — First Preparatory, Grade 7, First Term (التربية المسرحية — كتاب الطالب — الصف الأول الإعدادي — الفصل الدراسي الأول)* (student book, Arabic) — Egypt, وزارة التربية والتعليم (Ministry of Education and Technical Education, Egypt), 2025–2026, no ISBN printed, Grade 7, Arabic, 49 PDF pp. Verdict: COMPLETE (cover/title page verified against the record title). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/egypt-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -29,9 +31,10 @@ countries: Ethiopia
 | Sub lesson 6 — Elements and genres of theatre in the guides — the Grade 6 guide's theatre section (teacher guide — evidence) | Grade 6 Teacher Guide, §1.3, printed pp. 19–26 (teacher guide — evidence) |
 
 | Grade 6 Ch. 1 self-check + closing exercise — theatre/film items (G6S-37/G6S-38) (question stock, Sub lesson 11) | Grade 6 Student Textbook, Ch. 1 self-check table one + closing exercise, printed pp. 30–32 |
+| Egypt — Topic 10, Teacher's Day: the actor's four dimensions — listing the psychological, physical, social and vocal dimensions of the successful stage performer | Book 8, printed p. 44 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Egypt).**
 
 The Grade 5 book's plot example is taught as the book gives it — a soldier wounded by enemy fire, his wife dying of grief, the story told by flashback — summarised, never reprinted. The teacher-guide parts (shot sizes move to the Video lesson; the Grade 6 guide's theatre-elements and genres part) are evidence and are labelled so.
 
-Searchable tags: theatre elements, setting, መቼት, character, plot, ሴራ, theme, ጭብጥ, actors, audience, director, frontal stage, ፊት ለፊት መድረክ, arena stage, ክብ መድረክ, props, costume
+Searchable tags: theatre elements, setting, መቼት, character, plot, ሴራ, theme, ጭብጥ, actors, audience, director, frontal stage, ፊት ለፊት መድረክ, arena stage, ክብ መድረክ, props, costume, Egypt, actor's four dimensions

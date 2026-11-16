@@ -1,6 +1,6 @@
 # Sources — Writing and Putting On a Play
 
-countries: Ethiopia
+countries: Ethiopia, Egypt
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -11,6 +11,10 @@ countries: Ethiopia
 **Book 4:** *Performing and Visual Arts Teacher Guide Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, printed pp. i–vi + 1–78. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
 **Book 5:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
+
+**Book 6:** *Theatre Education — Student Book — First Preparatory, Grade 7, First Term (التربية المسرحية — كتاب الطالب — الصف الأول الإعدادي — الفصل الدراسي الأول)* (student book, Arabic) — Egypt, وزارة التربية والتعليم (Ministry of Education and Technical Education, Egypt), 2025–2026, no ISBN printed, Grade 7, Arabic, 49 PDF pp. Verdict: COMPLETE (cover/title page verified against the record title). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/egypt-placements.md.
+
+**Book 7:** *Theatre Education — Second Preparatory, Grade 8, First Term (التربية المسرحية — الصف الثاني الإعدادي — الفصل الدراسي الأول)* (student book, Arabic) — Egypt, وزارة التربية والتعليم (Ministry of Education and Technical Education, Egypt), 2025, no ISBN printed, Grade 8, Arabic, 81 PDF pp. Verdict: COMPLETE (cover/title page verified against the record title). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/egypt-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -26,9 +30,12 @@ countries: Ethiopia
 | Sub lesson 4 — The rehearsal ladder and the script's format — the student book's first-reading and table-reading account | Grade 8 Student Textbook, §2.3.1, printed pp. 58–59 |
 | Sub lesson 4 — The rehearsal ladder and the script's format — the student book's technical, final and farewell rehearsals | Grade 8 Student Textbook, §2.3.1, printed p. 61 |
 | Sub lesson 6 — Story shapes: one act, the short film, three acts — the Grade 10 full-length account (teacher guide — evidence) | Grade 10 Teacher Guide, Lessons 16–18, printed pp. 23–26 (teacher guide — evidence) |
+| Egypt — Topic 1, The Theatre Competition: foundations of playwriting — choosing the theatre form and the audience, then the foundations of a successful play: the idea inside a story frame, a complete story, characters with outward, social and inner sides, conflict ("no theatre without conflict"), and dialogue fitted to each character | Book 6, printed p. 9 |
+| Egypt — Topic 2, A New School Year: writing a theatre scene — writing a complete theatre scene of one's own | Book 6, printed p. 13 |
+| Egypt — Lesson 5, My Story: turning a real-life situation into a monodrama — writing a short script that treats an educational idea (bullying, caring for the environment, self-respect) and performing it with voice and body to move the audience | Book 7, printed p. 35 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Egypt).**
 
 The model play 'ሰላም' (Peace) in the Grade 8 student book is placed by its role — the rehearsal ladder's worked example from a local history — and is not transcribed. Screenwriting's worked examples use the book's own Ethiopian character names (Biruk, Tewodros) as the placements give them. The Grade 10 guide's harmonising example (the 'Feliz Navidad' composition) belongs to the music strand and is not used here.
 
-Searchable tags: plot, ሴራ, cause and effect, flashback, ምልሰት, play script, putting on a play, rehearsal ladder, table read, blocking, dress rehearsal, screenwriting, one-act play, three-act structure, story structure
+Searchable tags: plot, ሴራ, cause and effect, flashback, ምልሰት, play script, putting on a play, rehearsal ladder, table read, blocking, dress rehearsal, screenwriting, one-act play, three-act structure, story structure, Egypt, playwriting, monodrama

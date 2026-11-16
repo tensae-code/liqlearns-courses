@@ -99,7 +99,12 @@ The titles, in ladder order:
    expansion added: tableau — living pictures, freezing into a
    still picture of a scene in a financial institution and
    thought-tracking the frozen figures (Jamaica teacher
-   curriculum guide, evidence).
+   curriculum guide, evidence). The Art expansion added:
+   interactive theatre — the audience taking part in the
+   performance, ending in the "Rights and Duties" performance —
+   and stage movement and blocking, taught through stage
+   stances (وقفة) that speak without words (Egypt student
+   books).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New

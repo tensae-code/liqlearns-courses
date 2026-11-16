@@ -1,10 +1,12 @@
 # Sources — Art That Teaches the Community
 
-countries: Ethiopia
+countries: Ethiopia, Egypt
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
 **Book 2:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
+
+**Book 3:** *Theatre Education — Student Book — First Preparatory, Grade 7, First Term (التربية المسرحية — كتاب الطالب — الصف الأول الإعدادي — الفصل الدراسي الأول)* (student book, Arabic) — Egypt, وزارة التربية والتعليم (Ministry of Education and Technical Education, Egypt), 2025–2026, no ISBN printed, Grade 7, Arabic, 49 PDF pp. Verdict: COMPLETE (cover/title page verified against the record title). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/egypt-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -18,9 +20,10 @@ countries: Ethiopia
 
 | Sub lesson 5 — The Grade 5 chapter opens (chapter opening — Grade 5) — G5S-119 | Grade 5 Student Textbook, Ch. 5 chapter opener and aims (opening fold), printed p. 118 |
 | Sub lesson 5 — The self-check mechanic, stocked in this chapter's lead lesson — G5S-02 | Grade 5 Student Textbook, the self-check checklist (የማገናዘቢያ ነጥቦች), first printed pp. 38–39 |
+| Egypt — Topic 4, Theatre Day: a sketch that teaches saving water — taking part in a theatre sketch about keeping every drop of water | Book 3, printed p. 21 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Egypt).**
 
 HIV/AIDS and doping are taught exactly in the pupil book's own framing and wording, as a warning teaching. Both songs are placed by name, teaching/purpose and (for the Grade 6 reprint) printed credit line only; no lyrics are transcribed.
 
-Searchable tags: art that teaches the community, traffic safety, The Careful Student, ጠንቃቃ ተማሪ, Solomon Gela, Ezra Abate, HIV AIDS prevention, So AIDS Does Not Catch Us, doping stimulant drugs
+Searchable tags: art that teaches the community, traffic safety, The Careful Student, ጠንቃቃ ተማሪ, Solomon Gela, Ezra Abate, HIV AIDS prevention, So AIDS Does Not Catch Us, doping stimulant drugs, Egypt, saving water, theatre sketch

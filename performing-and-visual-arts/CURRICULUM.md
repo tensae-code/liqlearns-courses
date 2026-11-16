@@ -216,7 +216,23 @@ lessons are the books'.
   and Dance; Drama and Dance: Tableau — Living Pictures),
   24 questions added, media as described slots only.
 
-**The whole course stands at 173 lessons, 2,810 questions and
+- **Art expansion — Egypt — BUILT 2026-11-16:** 25 placements
+  stocked from 3 student books (Grade 7 and Grade 8 *Theatre
+  Education*, and the Grade 9 *Arabic Calligraphy Workbook* —
+  all Ministry of Education and Technical Education, Egypt,
+  Arabic): 22 into existing lessons (What Theatre Is; Mime,
+  Fables and First Plays ×3; Writing and Putting On a Play
+  ×3; Genres of Theatre and Film; Art That Teaches the
+  Community; Acting Together ×2; From Script to Stage ×2;
+  Technical and Performance Elements of Theatre ×2; The
+  Elements of Theatre; Playing a Person; Theatre in Society;
+  Acting Our History; Theatre on a Stage; Beautiful Writing
+  ×2), 2 NEW lessons (Drama and Dance: Interactive Theatre;
+  Stage Movement and Blocking — from the original string
+  stage-stances), 24 questions added, media as described
+  slots only.
+
+**The whole course stands at 175 lessons, 2,834 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
