@@ -1,10 +1,12 @@
 # Sources — Shapes, Forms and Patterns in Colour
 
-countries: Ethiopia
+countries: Ethiopia, Maldives
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
 **Book 2:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–ii + body/syllabus to printed p.80. Printed page = PDF page − 6 in the body. This guide is a scan with no text layer; it was read visually at section level, so its parts are cited at section level only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
+
+**Book 3:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -18,9 +20,10 @@ countries: Ethiopia
 | Sub lesson 3 — Counting instruments in patterns (Grade 4): instruments arranged in order make patterns and teach number (Fig. 5.15); Activity 5.3 counts kebero facing one way, masenqo another | Book 1, printed p. 87 |
 
 | Grade 4 Ch. 1 closing exercise — shape/form items (G4S-21) (question stock, Sub lesson 6) | Grade 4 Student Textbook, Ch. 1 closing exercise, printed pp. 20–21 |
+| Maldives — Symmetrical Patterns: symmetry for balance — one half the mirror image of the other across the line of symmetry, as in Islamic designs; designing a symmetrical tile pattern by tracing a motif and flipping the tracing to the other three sides, keeping the colours symmetrical too | Book 3, Unit 15, printed pp. 63–66 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Maldives).**
 
 The Grade 2 teacher-guide part is cited at section level only (§§1.4–1.5, printed pp. 12–22) because that guide is a scan with no text layer and two of its contents entries are partly degraded in the scan — the placements say so, and the lesson claims no body wording from it. The fraction work is taught as the Grade 4 book's own question — into how many parts is the circle divided, and what fraction is the blue part — without importing a fraction curriculum from outside the placements.
 
-Searchable tags: shapes in colour, ዝርግ ቅርፅ, forms, patterns, fractions through drawing, pictorial composition, stories through pictures, locality practice
+Searchable tags: Maldives, Exploring Creative Arts 4, shapes in colour, ዝርግ ቅርፅ, forms, patterns, fractions through drawing, pictorial composition, stories through pictures, locality practice

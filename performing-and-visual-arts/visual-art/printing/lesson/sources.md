@@ -1,6 +1,6 @@
 # Sources — Printing
 
-countries: Ethiopia
+countries: Ethiopia, Maldives
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia
 **Book 10:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
 **Book 11:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
+
+**Book 12:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -52,9 +54,10 @@ countries: Ethiopia
 | Sub lesson 7 — Carving safety (Grade 7): sharp tools (cutter, blade, knife) cause bleeding and cuts — work carefully; never share or pass sharp tools | Book 6, printed p. 48 |
 | Sub lessons 1, 5 and 6 — Printing kinds (Grade 5): printing is multiplying an image, text or design in the wanted quantity by carving, gouging, or painting the backs of found things; the kinds surveyed | Book 4, §2.3.3, printed p. 67 |
 | Closing-exercise question stock (Grade 5): the Chapter 4 closing exercise — the false 'most handicraft products are made in the modern way'; printing defined in multiple choice | Book 4, printed pp. 116–117 |
+| Maldives — Printed Landscapes: landscapes in print, and monotype printing — painting a picture on a smooth surface and pressing paper onto the wet paint to lift one unique print; Degas's imaginary landscapes; making a monotype of an imaginary landscape, scraping lines and textures with the brush's wooden tip (original target `visual-art/monotype-printing`) | Book 12, Unit 7, printed pp. 27–31 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Maldives).**
 
 Honesty notes: Books 10 and 11 are teacher guides; the Grade 7 guide is a truncated copy (body printed pp. 1–109 only) and the Grade 8 guide is truncated (body printed pp. 1–56 plus syllabus) — the printmaking parts used here sit inside the surviving body pages of both, and are labelled teacher-guide evidence. The Grade 6 book captions its stencil figure (Fig. 33, printed p. 53) "relief-cut printing works" while its own labels describe a stencil and its print; the lesson follows the content of the section, as the placements record it. The Grade 7 student book numbers its printing block §2.1.2 a second time (the paint kinds carry the same number) — placements follow the content, not the numbers, and so does this lesson. Batik and silk-screen keep their own book-given names and steps; nothing about them is borrowed from outside the placements.
 
-Searchable tags: printing, direct printing, ቀጥተኛ ህትመት, palm printing, leaf printing, found things, block printing, relief printing, mirror carving, potato printing, ህትመት በድንች ማተም, soap printing, stencil, batik, በሻማ ማቅለም, silk-screen, printmaking
+Searchable tags: Maldives, Exploring Creative Arts 4, printing, direct printing, ቀጥተኛ ህትመት, palm printing, leaf printing, found things, block printing, relief printing, mirror carving, potato printing, ህትመት በድንች ማተም, soap printing, stencil, batik, በሻማ ማቅለም, silk-screen, printmaking

@@ -1,6 +1,6 @@
 # Sources — Sculpture and Historic Places
 
-countries: Ethiopia
+countries: Ethiopia, Maldives
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -19,6 +19,8 @@ countries: Ethiopia
 **Book 8:** *Performing and Visual Arts Teacher Guide Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, ISBN 978-997744-2-046-9, printed pp. i–ix + 1–79. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g09-teacher-placements.md.
 
 **Book 9:** *Performing and Visual Arts Teacher Guide Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, printed pp. i–vi + 1–78. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
+
+**Book 10:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -47,9 +49,10 @@ countries: Ethiopia
 | Sub lesson 12 — Heritage in pictures, two (Grade 4): architecture and monuments — Fig. 3.4 the Aksum obelisk and the Gondar palace; Fig. 3.5 King Mikael's hall (Ayiteyef); Fig. 3.6 Menelik's house (Ankober) and the Shonke mosque | Book 2, printed p. 48 |
 | Sub lesson 12 — Heritage in pictures, three (Grade 4): Fig. 3.8 the Yemrehane Kristos rock church (Lalibela) | Book 2, printed p. 49 |
 | Sub lesson 12 — Activity 3.1 (Grade 4): draw and paint a traditional heritage object on paper | Book 2, printed p. 51 |
+| Maldives — A Relief (tile): building a relief tile — drawing a nature design on a Styrofoam tile, raising it with soaked paper strips, wrapping it in foil (or sand for a stone-like texture), painting black then gold — and joining the whole class's tiles into one mural (original target `visual-art/relief-raised-and-sunken`) | Book 10, Unit 3, printed pp. 11–12 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Maldives).**
 
 Honesty notes: Sub lessons 5 and 6 rest on teacher-guide evidence and are labelled so in the lesson text and in this table; the lesson as a whole rests on student books (Books 1–6), so the acceptance count stands at 1 country. Book 7 (the Grade 8 teacher guide) is a truncated copy — body printed pp. 1–56 plus syllabus tables — and both of its parts used here (pp. 33–39 and pp. 53–56) sit inside the surviving body. Books 8 and 9 are teacher guides for grades with no student books in this set; their parts are evidence only. The Grade 7 student book's carving deep-dive is stocked here only as the fourth technique named inside the four-techniques part, exactly as its placement frames it against the other three.
 
-Searchable tags: sculpture, ኪነ ቅርፅ, in the round, ዙረያ ገባ, relief, ሪሊፍ, modelling, carving, assembling, ማያያዝና መገጣጠም, casting, ኪነ-ቅርፅን ማራባት, mould, ሞልድ, gypsum, ጀሶ, jute, ጆንያ, papier-mâché, monuments, artifacts, historic places
+Searchable tags: Maldives, Exploring Creative Arts 4, sculpture, ኪነ ቅርፅ, in the round, ዙረያ ገባ, relief, ሪሊፍ, modelling, carving, assembling, ማያያዝና መገጣጠም, casting, ኪነ-ቅርፅን ማራባት, mould, ሞልድ, gypsum, ጀሶ, jute, ጆንያ, papier-mâché, monuments, artifacts, historic places

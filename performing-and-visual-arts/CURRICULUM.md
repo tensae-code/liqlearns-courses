@@ -232,7 +232,26 @@ lessons are the books'.
   stage-stances), 24 questions added, media as described
   slots only.
 
-**The whole course stands at 175 lessons, 2,834 questions and
+- **Art expansion — Maldives — BUILT 2026-11-16:** 25 placements
+  stocked from 1 student book (*Exploring Creative Arts 4* —
+  National Institute of Education, Ministry of Education,
+  Maldives, © 2025, English): 15 into existing lessons (Making
+  with Paper and Pieces ×3; Design and Perspective — Near and
+  Far; Elements and Principles of Design; Elements of Design
+  in 3D Arts ×2; Making with Clay and Paper; Shapes, Forms and
+  Patterns in Colour; The Colour Wheel; Paints and How They
+  Work; How the Arts Belong Together; First Marks and Scribbles
+  — from the original string doodle-art; Sculpture and Historic
+  Places — from relief-raised-and-sunken; Printing — from
+  monotype-printing), 8 NEW lessons (Visual Art: Symbolism in
+  Art; Mural Painting; Digital and Computer Art ×2 placements;
+  Impressionism; Comics; Imaginative and Expressive Art;
+  Maldivian Crafts and Dress ×2 placements; Drama and Dance:
+  Boduberu), 96 questions added, media as described slots only.
+  The book's glossary (printed pp. 79–81) is inventory only,
+  named in the book entries and never stocked.
+
+**The whole course stands at 183 lessons, 2,930 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

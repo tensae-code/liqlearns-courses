@@ -1,6 +1,6 @@
 # Sources — Making with Paper and Pieces
 
-countries: Ethiopia
+countries: Ethiopia, Maldives
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia
 **Book 6:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
 **Book 7:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
+
+**Book 8:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -32,9 +34,12 @@ countries: Ethiopia
 | Sub lesson 3 — Mosaic interior example (Grade 7): the mosaic teaching's interior example | Book 3, printed p. 4 |
 
 | Grade 6 Ch. 2 self-check + closing exercise — visual items (G6S-70/G6S-71) (question stock, Sub lesson 8) | Grade 6 Student Textbook, Ch. 2 self-check table one + closing exercise, printed pp. 61–64 |
+| Maldives — Doodle Toy: covering a paper toy template with your own doodles, then cutting, folding and slotting the parts together into a standing toy | Book 8, Unit 1, printed pp. 3–5 |
+| Maldives — Pop-up Surprise!: making a pop-up card — cutting and folding step-like folds inside a card and gluing repeated cut-out objects onto them so the repetition itself creates rhythm | Book 8, Unit 8, printed pp. 34–36 |
+| Maldives — Drawing with Scissors: the cut-paper collage — Matisse's freehand cutting of shapes from coloured paper; representing objects by their shapes alone, sizing and overlapping them to show near and far; the class's subject is the tourist attractions of the Maldives, the Munnaaru minaret among them | Book 8, Unit 9, printed pp. 37–41 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Maldives).**
 
 The Grade 5 teacher-guide part (potato printing and paper mosaic) and the Grade 2 teacher-guide part (decorating and drawing) are teacher-guide evidence and are labelled so; the Grade 2 guide is a scan with no text layer, cited at section level only (§2.4, printed pp. 35–37), as its placements require. Tie-dye's boiling step is taught as the Grade 7 book gives it and is a grown-up's job in the hands-on work; the lesson says so.
 
-Searchable tags: papier-mâché, collage, ኮላዥ, mosaic, paper mosaic, tie-dye, አስሮ ማቅለም, potato printing, ህትመት በድንች ማተም, decorating, texture, rough and smooth
+Searchable tags: Maldives, Exploring Creative Arts 4, papier-mâché, collage, ኮላዥ, mosaic, paper mosaic, tie-dye, አስሮ ማቅለም, potato printing, ህትመት በድንች ማተም, decorating, texture, rough and smooth

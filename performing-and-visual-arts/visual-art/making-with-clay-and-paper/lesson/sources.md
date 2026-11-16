@@ -1,6 +1,6 @@
 # Sources — Making with Clay and Paper
 
-countries: Ethiopia
+countries: Ethiopia, Maldives
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia
 **Book 4:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 
 **Book 5:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–ii + body/syllabus to printed p.80. Printed page = PDF page − 6 in the body. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
+
+**Book 6:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,9 +29,10 @@ countries: Ethiopia
 | Sub lesson 6 — Shaping letters from materials: shape the Amharic letters from different materials and show them (Activity 1, language activities page) | Book 1, printed p. 72 |
 
 | Sub lesson 7 — Papier-mâché (Grade 8 pupil content): making forms by cutting and kneading (ማቡካት) varied papers; tools — paper pieces, water, bucket, cooled boiled wheat/teff flour paste with sugar; process — soak ~24 hours, knead until binding, mix with paste, paste onto a form or join like clay; Figs. 29–30; Activity 2.13 — a waste basket for each classroom | Book 4, §2.6.3, printed pp. 72–75 |
+| Maldives — Decorative Textures: ceramics — objects of clay hardened in a brick-lined kiln, and the ceramicists who make them; decorating by carving lines, dots and textures with simple tools; making and decorating a pinch pot pinched from a ball of clay | Book 6, Unit 12, printed pp. 50–54 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Maldives).**
 
 Honesty notes: Book 5 (the Grade 2 teacher guide) is a scan with no usable text layer; its part is cited at section level only, exactly as its placements give it, and is labelled teacher-guide evidence. The Grade 5 modelling pages also teach the relief / in-the-round distinction; that distinction is taught in full in the Sculpture and Historic Places lesson, and here it appears only inside the clay-figure method. The Grade 3 New Year page (p. 56) pairs the card with collecting New Year songs; only the card — the visual-art part — is stocked here, as the structure map directs.
 
-Searchable tags: clay modelling, modelling, ቅርፅ ማውጫ, kneading, firing clay, plant colours, paper pictures, cut fold paste, architecture, ኪነ ህንፃ, New Year gift card, shaping letters, ጀበና, ድስት, ይቦካ
+Searchable tags: Maldives, Exploring Creative Arts 4, clay modelling, modelling, ቅርፅ ማውጫ, kneading, firing clay, plant colours, paper pictures, cut fold paste, architecture, ኪነ ህንፃ, New Year gift card, shaping letters, ጀበና, ድስት, ይቦካ

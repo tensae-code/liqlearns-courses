@@ -43,7 +43,15 @@ The titles, in ladder order:
    principles of design; Lalibela — churches carved from one
    rock; decorating home and environment; design and
    perspective — near and far; composition in visual art; and
-   the elements of design in 3D arts.
+   the elements of design in 3D arts. The Art expansion added:
+   symbolism in art (the Me-Symbol); mural painting, painted,
+   tiled and in relief; digital and computer art (posterisation
+   and a character built shape by shape on screen);
+   impressionism and impasto dabs; comics — character design,
+   with Kyle and Lulu; imaginative and expressive art — the
+   fantasy landscape; and Maldivian crafts and dress —
+   coconut-leaf weaving and the kasabu libaas (Maldives student
+   book).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -104,7 +112,10 @@ The titles, in ladder order:
    performance, ending in the "Rights and Duties" performance —
    and stage movement and blocking, taught through stage
    stances (وقفة) that speak without words (Egypt student
-   books).
+   books). The Art expansion also added: boduberu — the
+   Maldives' traditional big-drum dance, met through Zaeky
+   Zameel's ink drawing of it (Maldives student book, artwork
+   study).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
