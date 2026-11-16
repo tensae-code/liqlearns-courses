@@ -1,6 +1,6 @@
 # Sources — Models of Tourism Development
 
-countries: Greece, Bahamas, Venezuela, Egypt, Fiji
+countries: Greece, Bahamas, Venezuela, Egypt, Fiji, Iraq
 
 **Book 1:** *Τουριστική Γεωγραφία (Tourism Geography), Γ΄ ΕΠΑΛ — Τομέας Διοίκησης και Οικονομίας (Grade 12 vocational lyceum, Administration & Economics sector), revised edition (Αναθεωρημένη Έκδοση)* (student book, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-5121-8 (book code 0-24-0632). Title as printed: Τουριστική Γεωγραφία (Tourism Geography), Γ΄ ΕΠΑΛ — Τομέας Διοίκησης και Οικονομίας (Grade 12 vocational lyceum, Administration & Economics sector), revised edition (Αναθεωρημένη Έκδοση). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 306 (cover verified against the record title; byte size 45,985,578 exact match to the books.json record — fetched from the mid-size-books-7 release asset with a resumable downloader). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
 
@@ -39,7 +39,15 @@ countries: Greece, Bahamas, Venezuela, Egypt, Fiji
 |---|---|
 | Fiji part — Whales — teaches: after commercial whaling drove humpbacks toward extinction and protection let them recover, Tonga offers whale watching and swimming as ecotourism, balancing human needs and nature's needs | Fiji, *Fiji Grade 5 ESD Reader 1 People and the Sea in the Pacific*, Whales — teaches: after commercial whaling drove humpbacks toward extinction and protection let them recover, Tonga offers whale watching and swimming as ecotourism, balancing human needs and nature's needs — printed p. 10 |
 
-**Acceptance count: taught in 5 countries (Greece, Bahamas, Venezuela, Egypt, Fiji).**
+**Book 7:** *الاجتماعيات للصف الثالث المتوسط (Social Studies for Third Intermediate, Grade 9)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (2nd edition, 1445H); ISBN no ISBN printed. Title as printed: الاجتماعيات للصف الثالث المتوسط (Social Studies for Third Intermediate, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 160 (cover verified against the record title; grabbed via the release-asset route, 6,250,483 bytes; the books.json record carries no size). Verdict: COMPLETE. Contents map: Geography (Iraq's natural characteristics: landforms, climate, water) printed pp. 5–44; Geography/Population printed pp. 45–50; History (modern and contemporary Iraq: Ottoman era, WWI, the 1920 revolution, the monarchy, WWII) printed pp. 80–136; Civics (national and social values, rights and duties, environment, sustainable development) printed pp. 137–159; Economics parts printed pp. 51–79 and 152. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Tourism and holidaymaking — teaches: tourism as an economic, cultural and media side of Iraq today — movement of people to visit places — in its types: environmental tourism and religious tourism | Iraq, *Iraq Grade 9 Social Studies*, Tourism and holidaymaking — printed p. 75 |
+
+**Acceptance count: taught in 6 countries (Greece, Bahamas, Venezuela, Egypt, Fiji, Iraq).**
+
+Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 turns the governorate survey into one national economy — farming, animals, oil and minerals, factories, transport, trade and tourism of Iraq as a single system, with livestock and oil both named as sources of the national income.
 
 Fiji's own way (Fiji Grade 5 ESD Reader 1 People and the Sea in the Pacific): A regional Pacific reader used in Fiji — the sea is taught as a shared resource that traditional harvesting rules protected, and that selling fish for money now puts under pressure.
 
@@ -51,4 +59,4 @@ Greece's own way (Greece Grade 12 EPAL Tourism Geography): a vocational tourism-
 
 Egypt's own way (Grade 7 Term 2, egypt-placements-b.md): Africa's economies are taught sector by sector — farming, mining and energy, industry, tourism, transport and trade — each tied to sustainable development and to Egypt's place in Africa.
 
-Searchable tags: models of tourism development, Greece, social studies, people-and-resources, bahamas, venezuela, egypt, Fiji
+Searchable tags: models of tourism development, Greece, social studies, people-and-resources, bahamas, venezuela, egypt, Fiji, iraq

@@ -1,6 +1,6 @@
 # Sources — Economic Activities Of Our District
 
-countries: Nepal, Uganda, Rwanda, South Sudan, Honduras
+countries: Nepal, Uganda, Rwanda, South Sudan, Honduras, Iraq
 
 **Book 1:** *My Social Studies and Creative Arts Grade 5 (English Version)* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre; year First edition 2068 BS, revised edition 2074 BS; ISBN 978-99933-717-8-6 as printed — the same ISBN printed in the Grade 2 book, a publisher copy error. Title as printed: My Social Studies and Creative Arts Grade 5 (English Version). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 156 (cover/title page verified against the record title). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Lessons 2–5 dealings with neighbours, community help, equal treatment (printed pp. 4–11); Unit 2 Lessons 1, 3–5 traditions, festivals, pride, good people (pp. 12–21); Unit 3 Social Problems and their Solutions (pp. 22–33); Unit 4 Civics Sense (pp. 34–47, civics); Unit 6 Our Past (pp. 66–79, History); Unit 7 Lessons 2 and 4 School property, Use of national products (pp. 82, 86); Creative Arts (pp. 91–155). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
@@ -61,7 +61,15 @@ South Sudan's own way (South Sudan Primary 4): the economy is taught sector by s
 |---|---|
 | Nepal part — Economics expansion — Unit 7 Lesson 1 "Occupation of the People of Dolma's District" — teaches: a district's economic activities are surveyed place by place (herb collecting and carpet weaving in the high villages, farming and doko-weaving mid-district, business, labour and tourism in the towns) and drawn as a symbol map; what occupation people pick depends on the climate of the place | Nepal, *Nepal Grade 5 Social Studies & Creative Arts G5*, Unit 7 Lesson 1 "Occupation of the People of Dolma's District" — printed p. 80 |
 
-**Acceptance count: taught in 5 countries (Nepal, Uganda, Rwanda, South Sudan, Honduras).**
+**Book 9:** *الاجتماعيات للصف السادس الابتدائي (Social Studies for Grade 6 Primary)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (7th edition, 1445H); ISBN no ISBN printed. Title as printed: الاجتماعيات للصف السادس الابتدائي (Social Studies for Grade 6 Primary). Grade: 6 (student/teacher: STUDENT). PDF pages: 116 (cover verified against the record title; grabbed via the tree route, 5,056,737 bytes; the books.json record carries no size). Verdict: COMPLETE. Contents map: Geography/History (Iraq's eighteen governorates — location, terrain, climate, water, history sketch — one chapter each) printed pp. 4–95; Civics (our Iraqi society: components, rights, work and social values, law, public property) printed pp. 99–114; Economics parts: the "economic activity" section inside each governorate chapter, printed pp. 13–94. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The governorates' economic activity (the book's repeated pattern, first full at Sulaymaniyah) — teaches: each governorate's economic endowments split into agriculture, industry and mineral wealth, and services such as tourism — the same section repeated for all eighteen governorates | Iraq, *Iraq Grade 6 Social Studies*, The governorates' economic activity (the book's repeated pattern, first full at Sulaymaniyah) — printed p. 23 |
+
+**Acceptance count: taught in 6 countries (Nepal, Uganda, Rwanda, South Sudan, Honduras, Iraq).**
+
+Iraq's own way (Iraq Grade 6 Social Studies): the whole country is the textbook — every governorate is read the same way (land, water, then its economic activity: farming, industry and mineral wealth, transport, tourism), so a child learns economics as the sum of what each part of Iraq makes and moves.
 
 Nepal's own way (Nepal Grade 5 np-g5): Grade 5 "Our Earth" is a first full geography of Nepal — physical features, climate and lifestyle, natural vegetation, soils, map-drawing with symbols, globe and maps, and the wider South Asian neighbours; economic geography is district-based (Sankhuwasabha's occupations mapped place by place, from yak and sheep rearing and herb collecting in the high Himalaya to paddy in the low valleys).
 
@@ -73,4 +81,4 @@ Honduras's own way (Honduras Grade 1 G1 Student CCSS): Economics enters in Grade
 
 Honduras's own way (Honduras Grade 2 G2 Student CCSS): Grade 2 defines economic activity through the child's own department — its mining, farming, commerce and services, split rural vs urban.
 
-Searchable tags: economic activities of our district, Nepal, social studies, people-and-resources, uganda, district work, fishing farming weaving pottery brick laying mining teaching trading, rwanda, south sudan, honduras
+Searchable tags: economic activities of our district, Nepal, social studies, people-and-resources, uganda, district work, fishing farming weaving pottery brick laying mining teaching trading, rwanda, south sudan, honduras, iraq

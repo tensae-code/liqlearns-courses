@@ -1,6 +1,6 @@
 # Sources — Needs versus wants
 
-countries: Rwanda, Jordan, Armenia, Bulgaria
+countries: Rwanda, Jordan, Armenia, Bulgaria, Iraq
 
 **Book 1:** *Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019)* (student book, English) — Rwanda, REB; year 2019; ISBN no ISBN printed. Title as printed: Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 113 (cover verified against the record title; 97,794,186 bytes via release grab, size-verified by grab.py; an earlier interrupted download was discarded as corrupt and re-grabbed). Verdict: COMPLETE. Contents map: Economics parts printed pp. 40–46 (Unit 4 Economy) and pp. 2–13 (Unit 1 Socio-economic activities in our district); other units: Human/children's rights pp. 16–28, Hygiene pp. 31–38, Civics and governance pp. 49–58, Geography units pp. 60–98, History (Traditional Rwanda) pp. 100–107, Religious Studies pp. 108–188 (named only, not placed); glossary p. 189 is inventory-only, not placed. Teacher evidence: the P4 teacher guide (New Primary Social and Religious Studies for Rwanda — P4 Teacher's Guide, 100 PDF pp.) mirrors this pupil book's Unit 4 Economy — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
 
@@ -46,7 +46,15 @@ countries: Rwanda, Jordan, Armenia, Bulgaria
 |---|---|
 | Bulgaria part — Economics expansion — "Needs and resources" (Потребности и ресурси): a need (потребност) is the feeling of lacking something a person needs and wishes to have — the hungry person wants food, the homeless shelter, the lonely a friend; needs are not all equally important: the lesson's pyramid puts vital needs at the base (housing, food, clothing, healthcare), important needs above them (education, culture, sport) and luxury at the top (a branded garment, a mobile phone) — things we can do without; most needs are economic needs: the goods and services a person and society consume against payment of a price (filed as NEW LESSON NEEDED — microeconomics/needs-and-wants; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 5 Technology and Entrepreneurship*, "Needs and resources" (Потребности и ресурси) — printed p. 56 |
 
-**Acceptance count: taught in 4 countries (Rwanda, Jordan, Armenia, Bulgaria).**
+**Book 8:** *مبادئ الاقتصاد للصف الخامس الأدبي (Principles of Economics for the Fifth Literary class, Grade 11)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (8th edition, 1445H); ISBN no ISBN printed. Title as printed: مبادئ الاقتصاد للصف الخامس الأدبي (Principles of Economics for the Fifth Literary class, Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 80 (image-only scan with no usable text layer — read in full from page renders; cover verified against the record title; grabbed via the books.json tree route, 4,790,795 bytes; the record carries no size). Verdict: COMPLETE. Contents map: the book's own contents (printed p. 80) — Ch. 1 Economics: concepts and terms pp. 4–14; Ch. 2 Demand pp. 15–30; Ch. 3 Supply pp. 31–42; Ch. 4 Production, Costs and Revenue pp. 43–61; Ch. 5 Markets pp. 62–71; Ch. 6 Market Balance pp. 72–79 — all Economics (microeconomics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Economic needs and wants — teaches: a want as a personal feeling that may rest on a passing whim or imitation, a need as any desire that finds an economic resource to satisfy it; needs arise from human nature (food, water, air, warmth) and from acquired factors, and advertising and technology keep creating new needs (Economics expansion, 2026-11-16; original placement slug: microeconomics/needs-vs-wants-what-you-must-have-vs-what-you-would-like — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 11 Economics*, Economic needs and wants — printed p. 12 |
+
+**Acceptance count: taught in 5 countries (Rwanda, Jordan, Armenia, Bulgaria, Iraq).**
+
+Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
 
 Armenia's own way (Armenia Grade 7 Social Science student): Economics enters in Grade 7 as one chapter of Social Science, built around the learner's own future profession, household money in dram, and a worked personal budget from Abovyan; scarcity is also presented critically, as partly created by market arrangements.
 
@@ -63,4 +71,4 @@ Bulgaria's own way (Bulgaria Grade 2 Technology and Entrepreneurship): the Grade
 
 Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grade 5 the subject becomes a real textbook and Economics gets its own section — scarcity is named as the science's central problem, and price is taught through two market diagrams: big demand lifts prices, big supply pushes them down until some firms go bankrupt.
 
-Searchable tags: needs versus wants, needs, wants, prioritise, rwanda, social studies, microeconomics, jordan, armenia, bulgaria
+Searchable tags: needs versus wants, needs, wants, prioritise, rwanda, social studies, microeconomics, jordan, armenia, bulgaria, iraq

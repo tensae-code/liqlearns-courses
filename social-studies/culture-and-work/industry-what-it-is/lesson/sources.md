@@ -1,6 +1,6 @@
 # Sources — Industry What It Is
 
-countries: Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen, Fiji, Nicaragua
+countries: Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen, Fiji, Nicaragua, Iraq
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -67,7 +67,23 @@ South Sudan's own way (South Sudan Primary 4): the economy is taught sector by s
 |---|---|
 | Nicaragua part — Sector secundario: tipos de industria (Unit V) — teaches: what industry is and its types — artisanal versus industrial, and micro, small, medium and large industries — through Nicaragua's own industrial structure, agroindustry and value chains that reduce raw-material exports | Nicaragua, *Nicaragua Grade 10 Geografía 10° Grado*, Sector secundario: tipos de industria (Unit V) — printed p. 140 |
 
-**Acceptance count: taught in 9 countries (Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen, Fiji, Nicaragua).**
+**Book 11:** *الاجتماعيات للصف الخامس الابتدائي (Social Studies for Grade 5 Primary)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (10th edition, 1445H); ISBN no ISBN printed. Title as printed: الاجتماعيات للصف الخامس الابتدائي (Social Studies for Grade 5 Primary). Grade: 5 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; grabbed via the release-asset route, 8,907,160 bytes; the books.json record carries no size). Verdict: COMPLETE. Contents map: Geography (Iraq's location, divisions, landforms, climate, water) printed pp. 5–39; History (our identity/civilisation, Iraq capital of the Islamic caliphate, home of science and scholars) printed pp. 41–79; Civics (our Iraqi society; the state between rights and duties) printed pp. 81–101; Economics parts printed pp. 34–39 (inside the Geography unit). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Human phenomena and economic activity 2: industry — teaches: what industry is in Iraq, split into craft (hand) industry and modern industry, with Iraqi examples | Iraq, *Iraq Grade 5 Social Studies*, Human phenomena and economic activity 2: industry — printed p. 38 |
+
+**Book 12:** *الاجتماعيات للصف الثاني المتوسط (Social Studies for Second Intermediate, Grade 8)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (4th edition, 1445H); ISBN no ISBN printed. Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for Second Intermediate, Grade 8). Grade: 8 (student/teacher: STUDENT). PDF pages: 140 (cover verified against the record title; grabbed via the release-asset route, 5,987,059 bytes; the books.json record carries no size). Verdict: COMPLETE. Contents map: Geography (Arab world: location, terrain, climate, water) printed pp. 4–38; History (pre-Islamic Arabia, Mecca before Islam, the Prophetic biography in Mecca and Medina) printed pp. 70–139; Economics parts printed pp. 39–62 and 76–79, 94. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The main industries in the Arab world — teaches: extractive industries (oil, sulfur, phosphates out of the ground), chemical industries (fertilisers, cement, glass, soap, paper) and textiles (cotton and wool spinning, carpets, clothing) and where they are spread | Iraq, *Iraq Grade 8 Social Studies*, The main industries in the Arab world — printed p. 57 |
+
+**Acceptance count: taught in 10 countries (Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen, Fiji, Nicaragua, Iraq).**
+
+Iraq's own way (Iraq Grade 5 Social Studies): economics first appears inside the geography of Iraq itself, as "human phenomena and economic activity" — farming, industry and transport read off Iraq's own land and rivers.
+
+Iraq's own way (Iraq Grade 8 Social Studies): Grade 8 teaches the Arab world as one economic space — its crops, animals, oil and minerals, the conditions that make industry succeed, and its trade, foreign and domestic — after a first term spent on the same resources governorate by governorate at home.
 
 Nicaragua's own way (Nicaragua Grade 10 Geografía 10° Grado): economic geography is taught sector by sector through Nicaragua's own production — the primary sector as the raw-material base of the country, and industry policy (agroindustry, value chains, MIPYMEs) quoted from the national development plan.
 
@@ -85,4 +101,4 @@ Jordan's own way (Jordan Grade 4 Term 1): The economy is met as the country's wo
 
 Egypt's own way (Grade 9 combined edition, egypt-placements-b.md): the world economy is taught as resources and activities continent by continent, then as country models — India, Brazil and Nigeria against Germany and the USA — before the book returns to Egypt's own modern history.
 
-Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan, venezuela, jordan, egypt, yemen, Fiji, nicaragua
+Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan, venezuela, jordan, egypt, yemen, Fiji, nicaragua, iraq

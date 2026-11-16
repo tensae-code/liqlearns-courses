@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **646**
+Economics lessons across the Economics titles: **649**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4555,4 +4555,7 @@ endowment and Why government intervenes —
 regulation and consumer protection; Market
 and Money: Insurance — a contract against risk
 and Saving and investment — where to put
-savings).
+savings). +3 for Iraq,
+2026-11-16 — Macroeconomics: Iraq's oil and
+mineral wealth and Economic organisation in
+ancient Mesopotamia; Market and Money: BRICS).

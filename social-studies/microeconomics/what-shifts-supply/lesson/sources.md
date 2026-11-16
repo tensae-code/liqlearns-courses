@@ -1,6 +1,6 @@
 # Sources — What shifts supply
 
-countries: Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia
+countries: Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -51,7 +51,23 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Armenia part — Economics expansion — 3.2 Demand, supply and market price: supply shifters — input/factor prices raising unit cost, taxes, state support (subsidies) and price expectations | Armenia, *Armenia Grade 10 Social Science student*, 3.2 Demand, supply and market price — printed p. 72 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia).**
+**Book 9:** *مبادئ الاقتصاد للصف الخامس الأدبي (Principles of Economics for the Fifth Literary class, Grade 11)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (8th edition, 1445H); ISBN no ISBN printed. Title as printed: مبادئ الاقتصاد للصف الخامس الأدبي (Principles of Economics for the Fifth Literary class, Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 80 (image-only scan with no usable text layer — read in full from page renders; cover verified against the record title; grabbed via the books.json tree route, 4,790,795 bytes; the record carries no size). Verdict: COMPLETE. Contents map: the book's own contents (printed p. 80) — Ch. 1 Economics: concepts and terms pp. 4–14; Ch. 2 Demand pp. 15–30; Ch. 3 Supply pp. 31–42; Ch. 4 Production, Costs and Revenue pp. 43–61; Ch. 5 Markets pp. 62–71; Ch. 6 Market Balance pp. 72–79 — all Economics (microeconomics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Change in supply and its determinants — teaches: movements along the curve vs shifts of it, and the shifters: number of sellers, prices of production inputs, technology, and taxes and government support — with Iraq's support of farm production as the subsidy example (Economics expansion, 2026-11-16; original placement slug: microeconomics/factors-that-change-supply — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 11 Economics*, Change in supply and its determinants — printed p. 36 |
+
+**Book 10:** *الاقتصاد للصف السادس الأدبي (Economics for the Sixth Literary class, Grade 12)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (4th edition, 1445H); ISBN no ISBN printed. Title as printed: الاقتصاد للصف السادس الأدبي (Economics for the Sixth Literary class, Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 112 (cover verified against the record title; grabbed via the books.json tree route, 2,753,855 bytes; the record carries no size). Verdict: COMPLETE. Contents map: the book's own contents (printed pp. 4–5) — Ch. 1 Economics, the economic problem and glimpses of economic thought pp. 6–25; Ch. 2 Supply, demand and consumer behaviour pp. 28–44; Ch. 3 Income, consumption and saving pp. 47–61; Ch. 4 Public finance and monetary policy pp. 63–77; Ch. 5 Underdevelopment, economic development and human development pp. 79–93; Ch. 6 Foreign trade and international economic organisations pp. 95–109 — all Economics (micro and macro). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Supply: law, curve and changes — teaches: supply's conditions and determinants, the law of supply as the direct relation between price and quantity supplied, the upward-sloping curve, and how the whole curve shifts (e.g. under government taxes) while a price change only moves along it (Economics expansion, 2026-11-16; original placement slug: microeconomics/factors-that-change-supply — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 12 Economics*, Supply: law, curve and changes — printed p. 33 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq).**
+
+Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
+
+Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
 
 Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
@@ -65,4 +81,4 @@ Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same nationa
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: supply shifters, factor costs, technology, external shocks floods, taxes subsidies, transport, prices of other goods, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, bangladesh, yemen, armenia
+Searchable tags: supply shifters, factor costs, technology, external shocks floods, taxes subsidies, transport, prices of other goods, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, bangladesh, yemen, armenia, iraq

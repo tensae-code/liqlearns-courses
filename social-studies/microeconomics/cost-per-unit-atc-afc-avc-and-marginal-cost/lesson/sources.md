@@ -1,6 +1,6 @@
 # Sources — Cost per unit — ATC, AFC, AVC and marginal cost
 
-countries: Ethiopia, Ecuador, Albania, Uzbekistan, Fiji
+countries: Ethiopia, Ecuador, Albania, Uzbekistan, Fiji, Iraq
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -39,7 +39,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Fiji part — Lesson 2.3 Production Costs — teaches: fixed, variable and total cost, average total, variable and fixed cost, marginal cost, U-shaped curves and the long-run average cost curve, with cost-schedule calculations | Fiji, *Fiji Grade 11 Economics Year 11 Part 1*, Lesson 2.3 Production Costs — teaches: fixed, variable and total cost, average total, variable and fixed cost, marginal cost, U-shaped curves and the long-run average cost curve, with cost-schedule calculations — printed p. 41 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, Uzbekistan, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *مبادئ الاقتصاد للصف الخامس الأدبي (Principles of Economics for the Fifth Literary class, Grade 11)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (8th edition, 1445H); ISBN no ISBN printed. Title as printed: مبادئ الاقتصاد للصف الخامس الأدبي (Principles of Economics for the Fifth Literary class, Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 80 (image-only scan with no usable text layer — read in full from page renders; cover verified against the record title; grabbed via the books.json tree route, 4,790,795 bytes; the record carries no size). Verdict: COMPLETE. Contents map: the book's own contents (printed p. 80) — Ch. 1 Economics: concepts and terms pp. 4–14; Ch. 2 Demand pp. 15–30; Ch. 3 Supply pp. 31–42; Ch. 4 Production, Costs and Revenue pp. 43–61; Ch. 5 Markets pp. 62–71; Ch. 6 Market Balance pp. 72–79 — all Economics (microeconomics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Average and marginal costs — teaches: MC = ΔTC ÷ ΔQ and the averages AFC, AVC and ATC = AFC + AVC, all computed in a full table for a date-packing factory (Economics expansion, 2026-11-16; original placement slug: microeconomics/average-costs-afc-avc-and-atc — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 11 Economics*, Average and marginal costs — printed p. 51 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Ecuador, Uzbekistan, Fiji, Iraq). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
 
 Fiji's own way (Fiji Grade 11 Economics Year 11 Part 1): A full direct-approach course built on the circular flow, with Fiji examples throughout — ginger supply curves, Fiji import tables, quarry and land-rent income, the Attu family budget, Fiji credit facilities, sugar-industry production stages and Reserve Bank of Fiji policy tools.
 
@@ -51,4 +59,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Ecuador's own way (Ecuador Grade 13 Emprendimiento y Gestión): Economics enters the entrepreneurship course through the family and the small venture — costs are worked through a school-desk factory costed month by month in dollars, and every unit closes with a financial-education section that takes the same tools home to the family budget and the family's debts. The unit cost is built differently for each kind of firm — industrial, commercial, services and agricultural each count their own components.
 
-Searchable tags: ATC AFC AVC marginal cost, cost per unit formulas, MC minimum points, ethiopia, ecuador, unit cost, social studies, microeconomics, albania, uzbekistan, Fiji
+Searchable tags: ATC AFC AVC marginal cost, cost per unit formulas, MC minimum points, ethiopia, ecuador, unit cost, social studies, microeconomics, albania, uzbekistan, Fiji, iraq

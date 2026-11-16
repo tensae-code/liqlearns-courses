@@ -1,6 +1,6 @@
 # Sources — Sustainable development — meeting needs without stealing the future
 
-countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Guatemala, Kuwait, Jordan, Nepal
+countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Guatemala, Kuwait, Jordan, Nepal, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -64,7 +64,15 @@ countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, So
 |---|---|
 | Nepal part — Unit 10 Lesson 6 "Arthik Briddhi, Manav Bikash tatha Digo Bikash Awadharana (Concepts of Economic Growth, Human Development and Sustainable Development)", sustainable development — teaches: sustainable development defined as development the coming generations can also go on using — the 2030 Agenda's seventeen goals listed in full in a table (ending poverty, ending hunger, health, quality education, gender equality, clean water, energy access, decent work and economic growth, industry and infrastructure, reduced inequality, sustainable cities, responsible consumption and production, climate action, life below water and on land, peace and justice, partnership), with 169 targets and 232 indicators, the three dimensions (economic, social, environmental) and the five pillars — earth, people, prosperity, peace and partnership — and Nepal's own SDG financing needs | Nepal, *Nepal Grade 12 Social Studies & Life Skills*, Unit 10 Lesson 6 "Arthik Briddhi, Manav Bikash tatha Digo Bikash Awadharana (Concepts of Economic Growth, Human Development and Sustainable Development)", sustainable development — printed p. 325 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Kuwait, Jordan, Nepal). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere.**
+**Book 16:** *الاقتصاد للصف السادس الأدبي (Economics for the Sixth Literary class, Grade 12)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (4th edition, 1445H); ISBN no ISBN printed. Title as printed: الاقتصاد للصف السادس الأدبي (Economics for the Sixth Literary class, Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 112 (cover verified against the record title; grabbed via the books.json tree route, 2,753,855 bytes; the record carries no size). Verdict: COMPLETE. Contents map: the book's own contents (printed pp. 4–5) — Ch. 1 Economics, the economic problem and glimpses of economic thought pp. 6–25; Ch. 2 Supply, demand and consumer behaviour pp. 28–44; Ch. 3 Income, consumption and saving pp. 47–61; Ch. 4 Public finance and monetary policy pp. 63–77; Ch. 5 Underdevelopment, economic development and human development pp. 79–93; Ch. 6 Foreign trade and international economic organisations pp. 95–109 — all Economics (micro and macro). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Sustainable development: concept and dimensions — teaches: optimal use of natural resources without depleting them or adding pollution, securing future generations' share — in five dimensions: economic (e.g. reducing the Iraqi economy's dependence on oil), human (slowing population growth's pressure on resources), social, technological (cleaner, more efficient technology) and environmental | Iraq, *Iraq Grade 12 Economics*, Sustainable development: concept and dimensions — printed p. 89 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Kuwait, Jordan, Nepal, Iraq). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere.**
+
+Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
 
 Nepal's own way (Nepal Grade 12 Social Studies & Life Skills): Grade 12 economics is the development unit with real tables — sector shares of GDP, the trade growth and direction tables, Nepal's growth rates through the COVID year, the HDI bands, and Nurkse's vicious circle drawn as two loops, supply side and demand side.
 
@@ -86,7 +94,7 @@ Jordan's own way (Jordan Grade 6 Term 2): Economics arrives as one late unit bui
 
 Jordan's own way (Jordan Grade 8 Term 1): Development is taught head-on — growth against development, Malthus against the food supply, and the labour force counted the Jordanian way (everyone aged 15–65 able to work), before the sustainable-development goals close the unit.
 
-Searchable tags: sustainable development, Brundtland, Our Common Future, Agenda 21, three dimensions, social studies, Haiti, Haïti verte, teacher sequence evidence, Niue, ESD Teacher Guide, teacher guide evidence, China, PEP, People's Education Press, jordan, vietnam, nepal
+Searchable tags: sustainable development, Brundtland, Our Common Future, Agenda 21, three dimensions, social studies, Haiti, Haïti verte, teacher sequence evidence, Niue, ESD Teacher Guide, teacher guide evidence, China, PEP, People's Education Press, jordan, vietnam, nepal, iraq
 
 Bangladesh's own way (Grade 8): the year's Geography is one long chapter, "Protect the Bond between Nature and People": pupils model the world's biomes, compare world forest cover in 2000 and 2020, map Bangladesh's own forests and disaster-prone areas, and read a long inquiry-reader on biomes, sea resources and the Sundarbans mangrove.
 

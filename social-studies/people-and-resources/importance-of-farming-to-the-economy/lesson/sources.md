@@ -1,6 +1,6 @@
 # Sources — Importance of Farming to the Economy
 
-countries: South Sudan, Syria, Eritrea, Bahamas, Kuwait, Palestine, Jordan, Egypt
+countries: South Sudan, Syria, Eritrea, Bahamas, Kuwait, Palestine, Jordan, Egypt, Iraq
 
 **Book 1:** *Primary Social Studies 8 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 8 Pupil's Book. Grade: Primary 8 / Grade 8 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title). Note: this record's repo file sits at the nonstandard flat path grade-08/gov/south-sudan/social-studies/full-year-student.pdf (see group log, library debts).. Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1 The Coming of Europeans into Africa — colonisation, collaboration and resistance, colonial contributions (History), printed pp. 1–18 (the migration activity is placed below); Unit 4 National Unity (Civics), printed pp. 54–77; Unit 5 Peace in Our Time (Civics), printed pp. 78–86. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -101,7 +101,31 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Egypt part — النشاط الزراعي وموارده في العالم (Agricultural activity and its resources in the world) — teaches: why farming is a basic economic activity, the main agricultural resources and crops, and the types of farming — simple (primitive), advanced intensive, and commercial/scientific farming aimed at large-scale commercial production | Egypt, *Egypt Preparatory 9 Social Studies (both terms)*, Term 2 — printed p. 2 |
 
-**Acceptance count: taught in 8 countries (South Sudan, Syria, Eritrea, Bahamas, Kuwait, Palestine, Jordan, Egypt).** South Sudan was already counted in this lesson from the earlier waves (Primary 8 pupil's book above); the Economics-expansion Primary 4, Primary 5 and Primary 8 rows are stocked as depth for the same country, so the count does not rise.
+**Book 16:** *الاجتماعيات للصف الخامس الابتدائي (Social Studies for Grade 5 Primary)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (10th edition, 1445H); ISBN no ISBN printed. Title as printed: الاجتماعيات للصف الخامس الابتدائي (Social Studies for Grade 5 Primary). Grade: 5 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; grabbed via the release-asset route, 8,907,160 bytes; the books.json record carries no size). Verdict: COMPLETE. Contents map: Geography (Iraq's location, divisions, landforms, climate, water) printed pp. 5–39; History (our identity/civilisation, Iraq capital of the Islamic caliphate, home of science and scholars) printed pp. 41–79; Civics (our Iraqi society; the state between rights and duties) printed pp. 81–101; Economics parts printed pp. 34–39 (inside the Geography unit). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Human phenomena and economic activity 1: agriculture — teaches: farming as Iraq's basic economic activity, resting on its fertile land and river water, and the main crops grown | Iraq, *Iraq Grade 5 Social Studies*, Human phenomena and economic activity 1: agriculture — printed p. 36 |
+
+**Book 17:** *الاجتماعيات للصف الثاني المتوسط (Social Studies for Second Intermediate, Grade 8)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (4th edition, 1445H); ISBN no ISBN printed. Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for Second Intermediate, Grade 8). Grade: 8 (student/teacher: STUDENT). PDF pages: 140 (cover verified against the record title; grabbed via the release-asset route, 5,987,059 bytes; the books.json record carries no size). Verdict: COMPLETE. Contents map: Geography (Arab world: location, terrain, climate, water) printed pp. 4–38; History (pre-Islamic Arabia, Mecca before Islam, the Prophetic biography in Mecca and Medina) printed pp. 70–139; Economics parts printed pp. 39–62 and 76–79, 94. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Arab agriculture and its crops — teaches: the Arab world's varied crops by region, food crops and cash crops (cotton, sugar cane and beet, tobacco, coffee) and where each is grown, Iraq and Egypt among them | Iraq, *Iraq Grade 8 Social Studies*, Arab agriculture and its crops — printed p. 46 |
+
+**Book 18:** *الاجتماعيات للصف الثالث المتوسط (Social Studies for Third Intermediate, Grade 9)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (2nd edition, 1445H); ISBN no ISBN printed. Title as printed: الاجتماعيات للصف الثالث المتوسط (Social Studies for Third Intermediate, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 160 (cover verified against the record title; grabbed via the release-asset route, 6,250,483 bytes; the books.json record carries no size). Verdict: COMPLETE. Contents map: Geography (Iraq's natural characteristics: landforms, climate, water) printed pp. 5–44; Geography/Population printed pp. 45–50; History (modern and contemporary Iraq: Ottoman era, WWI, the 1920 revolution, the monarchy, WWII) printed pp. 80–136; Civics (national and social values, rights and duties, environment, sustainable development) printed pp. 137–159; Economics parts printed pp. 51–79 and 152. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Agriculture — teaches: farming as one of the most important economic activities, feeding the population — Iraq's rain-fed (dimi) farming region in the north and its irrigated region along the Tigris and Euphrates, with wheat, maize, vegetables and date palms (Baghdad first in date production) | Iraq, *Iraq Grade 9 Social Studies*, Agriculture — printed p. 51 |
+
+**Acceptance count: taught in 9 countries (South Sudan, Syria, Eritrea, Bahamas, Kuwait, Palestine, Jordan, Egypt, Iraq).** South Sudan was already counted in this lesson from the earlier waves (Primary 8 pupil's book above); the Economics-expansion Primary 4, Primary 5 and Primary 8 rows are stocked as depth for the same country, so the count does not rise.
+
+Iraq's own way (Iraq Grade 5 Social Studies): economics first appears inside the geography of Iraq itself, as "human phenomena and economic activity" — farming, industry and transport read off Iraq's own land and rivers.
+
+Iraq's own way (Iraq Grade 8 Social Studies): Grade 8 teaches the Arab world as one economic space — its crops, animals, oil and minerals, the conditions that make industry succeed, and its trade, foreign and domestic — after a first term spent on the same resources governorate by governorate at home.
+
+Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 turns the governorate survey into one national economy — farming, animals, oil and minerals, factories, transport, trade and tourism of Iraq as a single system, with livestock and oil both named as sources of the national income.
 
 Kuwait's own way (Kuwait Grade 6 Term 2): the modern economy is taught as resources-and-development of the Gulf states — oil and gas first, with the danger of depending on oil named from the start, then farming, livestock/fisheries, industry and trade, ending in GCC economic integration.
 
@@ -123,4 +147,4 @@ Egypt's own way (Grade 7 Term 2, egypt-placements-b.md): Africa's economies are 
 
 Egypt's own way (Grade 9 combined edition, egypt-placements-b.md): the world economy is taught as resources and activities continent by continent, then as country models — India, Brazil and Nigeria against Germany and the USA — before the book returns to Egypt's own modern history.
 
-Searchable tags: importance of farming to the economy, South Sudan, Syria, Eritrea, cotton, wheat, olives, citrus, sugar beet, ox-plough, contour ploughing, Elabered, Alighider, Sawa, livestock, social studies, people-and-resources, bahamas, palestine, jordan, egypt
+Searchable tags: importance of farming to the economy, South Sudan, Syria, Eritrea, cotton, wheat, olives, citrus, sugar beet, ox-plough, contour ploughing, Elabered, Alighider, Sawa, livestock, social studies, people-and-resources, bahamas, palestine, jordan, egypt, iraq

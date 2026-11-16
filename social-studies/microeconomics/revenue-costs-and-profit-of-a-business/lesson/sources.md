@@ -1,6 +1,6 @@
 # Sources — Revenue, costs and profit of a business
 
-countries: Uzbekistan, Armenia, Bulgaria, Iran
+countries: Uzbekistan, Armenia, Bulgaria, Iran, Iraq
 
 **Book 1:** *Osnovy ekonomicheskikh znaniy (Fundamentals of Economic Knowledge), Grade 9* (student book, Russian) — Uzbekistan, State Scientific Publishing House "O'zbekiston milliy ensiklopediyasi", Tashkent; year 2006; ISBN 5-89890-127-2 (authors E. Sariqov, B. Haydarov; recommended by the Ministry of Public Education of the Republic of Uzbekistan; print run 26,025). Title as printed: «Основы экономических знаний» 9 (Fundamentals of Economic Knowledge, Grade 9); colophon gives the Uzbek original title "Iqtisodiy bilim asoslari — 9-sinf uchun darslik (rus tilida)", i.e. this file is the Russian-language edition of the ministry textbook named in the record ("Iqtisodiyot / Economics — Grade 9") — same book, grade and subject; language of this edition is Russian, not Uzbek. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 145 (printed book 144 pp. + back cover; cover and title page verified against the record — Grade 9 Economics; byte size 70,340,084, matching the rescue copy; scanned book with no text layer, read from rendered pages). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. I Entrepreneurship and Production, Topics 1–12, printed pp. 8–44; Ch. II State and Economy, Topics 13–18, pp. 50–70; Ch. III Economic Growth, Topics 19–21, pp. 76–87; Ch. IV Inflation and Unemployment, Topics 22–25, pp. 92–105; Ch. V World Economy, Topics 26–30, pp. 110–124. Excluded under the standing rules: the five chapter Revision/Assessment sections (pp. 45–49, 71–75, 88–91, 106–109, 125–128) and the answer key (pp. 138–139) are assessment apparatus, not placed; the Glossary of Economic Terms (pp. 129–137) is inventory-only, named not placed; the Appendices (pp. 140–144, Uzbekistan data tables and a circular-flow diagram) are placed once as a data exercise. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uzbekistan-placements.md
 
@@ -44,7 +44,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Iran part — Economics expansion — Section 23 "Business model part 5: revenue generation": if customers are the heart of a business, revenue models are its arteries; the ways of earning revenue — usage fees (the more a service is used, the more is paid), sale of assets (income from selling the business's physical products), membership fees (selling continuous access to a service) and the rest of the revenue-method table (filed as NEW LESSON NEEDED — microeconomics/revenue-costs-and-profit-of-a-business; the lesson already exists in the current tree, built earlier in this expansion, so this placement is stocked into it here) | Iran, *Iran Grade 10 Entrepreneurship Workshop*, Section 23 "Business model part 5: revenue generation" — Iran Grade 10 Entrepreneurship Workshop, printed p. 93 |
 
-**Acceptance count: taught in 4 countries (Uzbekistan, Armenia, Bulgaria, Iran).**
+**Book 7:** *مبادئ الاقتصاد للصف الخامس الأدبي (Principles of Economics for the Fifth Literary class, Grade 11)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (8th edition, 1445H); ISBN no ISBN printed. Title as printed: مبادئ الاقتصاد للصف الخامس الأدبي (Principles of Economics for the Fifth Literary class, Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 80 (image-only scan with no usable text layer — read in full from page renders; cover verified against the record title; grabbed via the books.json tree route, 4,790,795 bytes; the record carries no size). Verdict: COMPLETE. Contents map: the book's own contents (printed p. 80) — Ch. 1 Economics: concepts and terms pp. 4–14; Ch. 2 Demand pp. 15–30; Ch. 3 Supply pp. 31–42; Ch. 4 Production, Costs and Revenue pp. 43–61; Ch. 5 Markets pp. 62–71; Ch. 6 Market Balance pp. 72–79 — all Economics (microeconomics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Revenue: total, average and marginal — teaches: TR = Q × P, AR = TR ÷ Q and MR = ΔTR ÷ ΔQ, worked for a children's-toy factory, with price = AR = MR when the seller cannot influence the price (Economics expansion, 2026-11-16; original placement slug: microeconomics/total-average-and-marginal-revenue — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 11 Economics*, Revenue: total, average and marginal — printed p. 54 |
+
+**Acceptance count: taught in 5 countries (Uzbekistan, Armenia, Bulgaria, Iran, Iraq).**
+
+Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
 
 Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
@@ -57,4 +65,4 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Iran's own way (Iran Grade 10 Entrepreneurship Workshop): entrepreneurship is a hands-on workshop for every branch, built around the business-model canvas (بوم مدل کسب و کار) that each student team must complete section by section.
 
-Searchable tags: revenue, costs and profit of a business, uzbekistan, grade 9 economics, social studies, microeconomics, armenia, bulgaria, iran
+Searchable tags: revenue, costs and profit of a business, uzbekistan, grade 9 economics, social studies, microeconomics, armenia, bulgaria, iran, iraq

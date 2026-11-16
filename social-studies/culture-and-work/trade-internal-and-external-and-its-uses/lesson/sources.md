@@ -197,7 +197,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Bulgaria part — Economics expansion — Lesson 59 "Main economic activities — service activities" (Основни стопански дейности – обслужващи): the service activities unite the branches in which services are performed — their characteristic is that they do not process raw materials and do not create material goods, but without them the development of the other two groups is impossible; the main ones are transport, trade and tourism, with education, science, culture, sport, healthcare, security, defence and finance also belonging to them; transport realises the production links between the separate activities — the raw materials reach the processing enterprises and the finished production reaches the consumers; trade is internal and external — internal trade is carried out through the commodity exchanges (стокови борси, wholesale) and the trade network (на дребно, retail), and external trade includes the import (внос) and export (износ) of goods from and to Bulgaria: the lesson's table for 2017 gives total exports of 34.1 billion leva against imports of 38.1 billion, with the European Union the main partner (22.4 out, 24.2 in) (filed as macroeconomics/exports-and-imports-trade-between-countries; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 7 Geography and Economics*, Lesson 59 "Main economic activities — service activities" (Основни стопански дейности – обслужващи) — printed pp. 134–136 |
 
+**Iraq — Economics expansion (2026-11-16):** the Grade 9 book is already cited above as Book 40; the Economics-expansion placement from it is stocked as the distinct row below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Commercial activity in Iraq — teaches: trade defined as moving goods and services from one region to another, in its two kinds — internal (domestic) and external (foreign) trade | Iraq, *Iraq Grade 9 Social Studies*, Commercial activity in Iraq — printed p. 74 |
+
 **Acceptance count: taught in 30 countries (Ethiopia, Costa Rica, Mongolia, Palestine, Indonesia, Dominican Republic, Eritrea, India, Uzbekistan, Slovenia, Sudan, Syria, Venezuela, Mauritania, Kuwait, Afghanistan, Iran, Libya, Moldova, Honduras, Nepal, Mozambique, Jordan, Iraq, Nicaragua, Bhutan, Cuba, South Sudan, Yemen, Bulgaria). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+Iraq was already counted in this lesson from the earlier waves; the Economics-expansion rows above are stocked as depth for the same country, so the count does not rise.
 
 Nepal's own way (Nepal Grade 6 Social Studies & Human Value Education G6): the unit opens with two entrepreneur stories — a Chepang beekeeper of Makwanpur who began with Rs. 1,000 in 2064 BS and now sells 15–20 tons of honey a year, and Magar homestays whose community fund keeps 10% of income — then defines the concept from them: economic activities are the means and sources of income.
 
@@ -216,7 +224,7 @@ Costa Rica's own way: the CONED 11 anthology opens with a Geography unit on glob
 
 Bulgaria's own way (Bulgaria Grade 7 Geography and Economics): the economy of a country is taught as three families of activities — extractive, processing and serving — and Bulgaria's own story is told in four stages, from the craft towns and the first Sliven textile factory of 1834 through nationalisation and the cooperatives to the post-1989 market transition and EU membership in 2007.
 
-Searchable tags: trade: internal and external trade and its uses, culture and work, social studies, ethiopia, Costa Rica, CONED Antología, Estudios Sociales, Mongolia, Нийгэм судлал, eritrea economics expansion, internal trade, international trade, fish sesame salt hides, palestine, yemen, nepal, bulgaria
+Searchable tags: trade: internal and external trade and its uses, culture and work, social studies, ethiopia, Costa Rica, CONED Antología, Estudios Sociales, Mongolia, Нийгэм судлал, eritrea economics expansion, internal trade, international trade, fish sesame salt hides, palestine, yemen, nepal, bulgaria, iraq
 
 Palestine's own way (Grade 6, PS G6P2): a mostly historical semester; its Geography survives in the trade geography of pre-Islamic Arabia (activities, markets mapped, trade with neighbouring regions) and in a closing traffic-safety lesson.
 

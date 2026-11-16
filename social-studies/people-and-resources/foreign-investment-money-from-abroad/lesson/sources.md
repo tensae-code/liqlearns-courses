@@ -1,6 +1,6 @@
 # Sources — Foreign Investment — Money from Abroad
 
-countries: Mongolia, Egypt, Honduras, Armenia
+countries: Mongolia, Egypt, Honduras, Armenia, Iraq
 
 **Book 1:** *Нийгэм судлал XI (Social Studies XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал XI (Social Studies XI). Grade: Grade 11 (student). ~196 PDF pp. (printed book to p. 191+) (cover verified against the record title via the ministry econtent flipbook — the same book as the secured GitHub release asset; note the release asset is 131,050,983 bytes under a doubled-prefix asset name while the books.json record says 86,546,502 bytes: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -27,7 +27,15 @@ countries: Mongolia, Egypt, Honduras, Armenia
 |---|---|
 | Armenia part — Economics expansion — 4.3 Armenia's financial system: the role of foreign investment in Armenia's economy | Armenia, *Armenia Grade 9 Social Science student*, 4.3 Armenia's financial system — printed p. 112 |
 
-**Acceptance count: taught in 3 countries (Mongolia, Egypt, Armenia). Honduras is teacher-guide evidence only — named here, counted nowhere.**
+**Book 5:** *الاجتماعيات للصف الثالث المتوسط (Social Studies for Third Intermediate, Grade 9)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (2nd edition, 1445H); ISBN no ISBN printed. Title as printed: الاجتماعيات للصف الثالث المتوسط (Social Studies for Third Intermediate, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 160 (cover verified against the record title; grabbed via the release-asset route, 6,250,483 bytes; the books.json record carries no size). Verdict: COMPLETE. Contents map: Geography (Iraq's natural characteristics: landforms, climate, water) printed pp. 5–44; Geography/Population printed pp. 45–50; History (modern and contemporary Iraq: Ottoman era, WWI, the 1920 revolution, the monarchy, WWII) printed pp. 80–136; Civics (national and social values, rights and duties, environment, sustainable development) printed pp. 137–159; Economics parts printed pp. 51–79 and 152. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The importance of direct foreign investment (enrichment box inside the industry section) — teaches: why direct foreign investment matters to a country's industry | Iraq, *Iraq Grade 9 Social Studies*, The importance of direct foreign investment (enrichment box inside the industry section) — printed p. 67 |
+
+**Acceptance count: taught in 4 countries (Mongolia, Egypt, Armenia, Iraq). Honduras is teacher-guide evidence only — named here, counted nowhere.**
+
+Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 turns the governorate survey into one national economy — farming, animals, oil and minerals, factories, transport, trade and tourism of Iraq as a single system, with livestock and oil both named as sources of the national income.
 
 Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
@@ -37,4 +45,4 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 
 Honduras's own way (Honduras Grade 6 G6 Teacher CCSS) (teacher guide — evidence): the guide mirrors the student book; the one additional-theory section placed here teaches that Honduras's economy rests partly on foreign investment, channelled mostly into financial intermediation. That book is a teacher guide, cited as evidence only, outside acceptance counts.
 
-Searchable tags: foreign investment, capital, Mongolia, Нийгэм судлал XI, social studies, people and resources, egypt, honduras, armenia
+Searchable tags: foreign investment, capital, Mongolia, Нийгэм судлал XI, social studies, people and resources, egypt, honduras, armenia, iraq

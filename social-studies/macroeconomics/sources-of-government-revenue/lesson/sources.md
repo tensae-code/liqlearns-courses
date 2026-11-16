@@ -1,6 +1,6 @@
 # Sources — Sources of government revenue
 
-countries: Uganda, Dominica
+countries: Uganda, Dominica, Iraq
 
 **Book 1:** *Excel Standard Social Studies, Pupils' Book Five, All Terms* (student book, English) — Uganda, Excel Publishers; year not printed; no ISBN printed. Title as printed: Excel Standard Social Studies — Pupil's Book 5 (First Edition, by Kimbuggwe Apollo). Grade: Primary Five / grade-05 (student/teacher: STUDENT). PDF pages: 213 (title page verified against the record title; page count matches the record. The three term booklets bound in this file carry their own footer pagination — placements cite the whole-book contents pagination). Verdict: COMPLETE — contents-first read: the Economics parts below read fully; History, Geography and Civics parts mapped, not placed. Contents map: Economics parts printed pp. 74–88, 105–117, 182–193; Geography (location, physical features, climate, vegetation, farming systems, population) printed pp. 6–73, 89–104, 194–201; History (pre-colonial peoples, foreign traders and explorers, colonial rule, independence) printed pp. 89–158; Civics (independent nation, government, constitution, rights) printed pp. 159–181, 187–193. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uganda-placements.md.
 
@@ -27,7 +27,15 @@ countries: Uganda, Dominica
 |---|---|
 | Dominica part — Unit 9.4 The Provision of Social Services — teaches: government provision of socially and economically desirable services the private sector under-provides — healthcare, national insurance contributions funding pensions and disability/unemployment/maternity benefits, free education, roads and transport (Economics expansion, 2026-11-16; original placement slug: macroeconomics/social-security-and-welfare — stocked here as the closest existing lesson covering this thing) | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 9.4 The Provision of Social Services — printed p. 335 |
 
-**Acceptance count: taught in 2 countries (Uganda, Dominica).**
+**Book 5:** *الاقتصاد للصف السادس الأدبي (Economics for the Sixth Literary class, Grade 12)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (4th edition, 1445H); ISBN no ISBN printed. Title as printed: الاقتصاد للصف السادس الأدبي (Economics for the Sixth Literary class, Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 112 (cover verified against the record title; grabbed via the books.json tree route, 2,753,855 bytes; the record carries no size). Verdict: COMPLETE. Contents map: the book's own contents (printed pp. 4–5) — Ch. 1 Economics, the economic problem and glimpses of economic thought pp. 6–25; Ch. 2 Supply, demand and consumer behaviour pp. 28–44; Ch. 3 Income, consumption and saving pp. 47–61; Ch. 4 Public finance and monetary policy pp. 63–77; Ch. 5 Underdevelopment, economic development and human development pp. 79–93; Ch. 6 Foreign trade and international economic organisations pp. 95–109 — all Economics (micro and macro). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Public revenues — teaches: the money the government collects to fund spending, divided by source (original revenues from its own property vs derived revenues cut from others' wealth, like taxes), by compulsion (taxes, fines, fees, compulsory loans vs rents and voluntary loans) and by regularity (Economics expansion, 2026-11-16; original placement slug: macroeconomics/public-revenue-where-government-money-comes-from — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 12 Economics*, Public revenues — printed p. 69 |
+
+**Acceptance count: taught in 3 countries (Uganda, Dominica, Iraq).**
+
+Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -37,4 +45,4 @@ Uganda's own way (Uganda Primary 5 Home-Study Merged Package): the home-study ve
 
 Uganda's own way (Uganda Senior 1 Entrepreneurship Textbook (NCDC Prototype)): an Entrepreneurship textbook that ends by teaching public finance — the Senior One learner meets government revenue, taxation and toll roads (the Entebbe Express Highway) as the last chapter of learning how businesses and the state fit together; revenue there belongs to the government and the local authorities together, and its sources are split into tax sources and non-tax sources.
 
-Searchable tags: sources of government revenue, government revenue, taxation main source, grants loans donations fines licences, tourism, sale of minerals and electricity, parastatal bodies, road and bridge tolls, national lottery, uganda, social studies, macroeconomics, dominica, csec principles of business, caribbean
+Searchable tags: sources of government revenue, government revenue, taxation main source, grants loans donations fines licences, tourism, sale of minerals and electricity, parastatal bodies, road and bridge tolls, national lottery, uganda, social studies, macroeconomics, dominica, csec principles of business, caribbean, iraq

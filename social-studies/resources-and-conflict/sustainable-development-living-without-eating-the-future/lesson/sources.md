@@ -142,7 +142,17 @@ Rwanda's own way (Rwanda Grade 6): P6 scales the P5 family budget up to the stat
 |---|---|
 | Armenia part — Economics expansion — 4.4 State economic and social policies: the UN Sustainable Development Goals as the frame for state economic and social policy | Armenia, *Armenia Grade 9 Social Science student*, 4.4 State economic and social policies — printed p. 126 |
 
+**Book 40:** *الاجتماعيات للصف الثالث المتوسط (Social Studies for Third Intermediate, Grade 9)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (2nd edition, 1445H); ISBN no ISBN printed. Title as printed: الاجتماعيات للصف الثالث المتوسط (Social Studies for Third Intermediate, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 160 (cover verified against the record title; grabbed via the release-asset route, 6,250,483 bytes; the books.json record carries no size). Verdict: COMPLETE. Contents map: Geography (Iraq's natural characteristics: landforms, climate, water) printed pp. 5–44; Geography/Population printed pp. 45–50; History (modern and contemporary Iraq: Ottoman era, WWI, the 1920 revolution, the monarchy, WWII) printed pp. 80–136; Civics (national and social values, rights and duties, environment, sustainable development) printed pp. 137–159; Economics parts printed pp. 51–79 and 152. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Sustainable development (in the values unit) — teaches: Iraq holds many natural resources and economic riches that are a rightful share to be preserved — the sustainable-development idea inside the national-values unit | Iraq, *Iraq Grade 9 Social Studies*, Sustainable development (in the values unit) — printed p. 152 |
+
 **Acceptance count: taught in 21 countries (Ethiopia, Niue, Costa Rica, Bolivia, Bangladesh, India, Rwanda, Slovenia, Uganda, Sudan, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan, Armenia, South Sudan, Kuwait). Guatemala is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Sri Lanka is named here as teacher-guide evidence only, counted nowhere. Cuba is named here as teacher-guide evidence only, counted nowhere.** Jordan was already counted in this lesson from the earlier waves; the Economics-expansion rows are stocked as depth for the same country, so the count does not rise.
+
+Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 turns the governorate survey into one national economy — farming, animals, oil and minerals, factories, transport, trade and tourism of Iraq as a single system, with livestock and oil both named as sources of the national income.
+
+Iraq was already counted in this lesson from the earlier waves; the Economics-expansion rows above are stocked as depth for the same country, so the count does not rise.
 
 Kuwait's own way (Kuwait Grade 8 Term 2): economics appears inside the Islamic world's challenge list — population pressure, poverty and its causes — and inside its institutions, above all the Islamic Development Bank as the development-finance answer.
 
@@ -164,7 +174,7 @@ Jordan's own way — Economics expansion (Jordan Grade 7 Term 1): Trade is taugh
 
 Jordan's own way — Economics expansion (Jordan Grade 8 Term 1): Development is taught head-on — growth against development, Malthus against the food supply, and the labour force counted the Jordanian way (everyone aged 15–65 able to work), before the sustainable-development goals close the unit.
 
-Searchable tags: sustainable development, life-support processes, genetic diversity, ethiopia, social studies, resources and conflict, Niue, People and the Natural Environment in the Pacific, Guatemala, Costa Rica, CONED Antología, Estudios Sociales, Jamaica, curriculum guide evidence, Bolivia, Ciencias Sociales Bolivia, rwanda, jordan, armenia
+Searchable tags: sustainable development, life-support processes, genetic diversity, ethiopia, social studies, resources and conflict, Niue, People and the Natural Environment in the Pacific, Guatemala, Costa Rica, CONED Antología, Estudios Sociales, Jamaica, curriculum guide evidence, Bolivia, Ciencias Sociales Bolivia, rwanda, jordan, armenia, iraq
 
 Bangladesh's own way (Grade 7): Geography thins into economic history and a long Sustainable Development inquiry: pupils build a delta in a sand tray, trace the rivers that enter Bangladesh from other countries, map the country's new maritime boundary and its minerals, and audit groundwater and fossil fuels — the delta and the sea are the classroom.
 

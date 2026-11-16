@@ -1,6 +1,6 @@
 # Sources — Perfect competition
 
-countries: Ethiopia, Kazakhstan, Albania, Yemen, Armenia
+countries: Ethiopia, Kazakhstan, Albania, Yemen, Armenia, Iraq
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -46,7 +46,15 @@ Grade 10 teacher-guide note (placements 10 and 12): the two added features come 
 |---|---|
 | Armenia part — Economics expansion — 3.3 Market competition and monopoly: perfect competition as a market of many buyers and sellers where no individual or group can influence how the market works | Armenia, *Armenia Grade 10 Social Science student*, 3.3 Market competition and monopoly — printed p. 78 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Kazakhstan, Yemen, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 8:** *مبادئ الاقتصاد للصف الخامس الأدبي (Principles of Economics for the Fifth Literary class, Grade 11)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (8th edition, 1445H); ISBN no ISBN printed. Title as printed: مبادئ الاقتصاد للصف الخامس الأدبي (Principles of Economics for the Fifth Literary class, Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 80 (image-only scan with no usable text layer — read in full from page renders; cover verified against the record title; grabbed via the books.json tree route, 4,790,795 bytes; the record carries no size). Verdict: COMPLETE. Contents map: the book's own contents (printed p. 80) — Ch. 1 Economics: concepts and terms pp. 4–14; Ch. 2 Demand pp. 15–30; Ch. 3 Supply pp. 31–42; Ch. 4 Production, Costs and Revenue pp. 43–61; Ch. 5 Markets pp. 62–71; Ch. 6 Market Balance pp. 72–79 — all Economics (microeconomics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The perfectly competitive market — teaches: very many buyers and sellers, a homogeneous product, free entry and exit and full information — a theoretical market whose closest real example is agricultural produce markets (tomatoes, cucumbers, apples, bananas) | Iraq, *Iraq Grade 11 Economics*, The perfectly competitive market — printed p. 65 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Kazakhstan, Yemen, Armenia, Iraq). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
 
 Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
@@ -58,4 +66,4 @@ Kazakhstan's own way (Kazakhstan Grade 10 Aganina): Economics is taught inside a
 
 Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same national curriculum taught in a three-lesson rhythm — one theory lesson, one game, one Kazakhstani or world business case (Rocket Study, Yuframe, Shymbulak, Elon Musk) — so every Economics concept is immediately played and then applied.
 
-Searchable tags: perfect competition features, homogeneous product, free entry exit, perfect information, price taker, AR MR P, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, yemen, armenia
+Searchable tags: perfect competition features, homogeneous product, free entry exit, perfect information, price taker, AR MR P, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, yemen, armenia, iraq

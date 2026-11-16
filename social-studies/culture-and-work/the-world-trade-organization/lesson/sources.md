@@ -1,6 +1,6 @@
 # Sources — The World Trade Organization
 
-countries: South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal
+countries: South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq
 
 **Book 1:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -38,7 +38,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nepal part — Unit 10 Lesson 3 "Nepalko Antarrashtriya Sambandha (Nepal's International Relations)", WTO — teaches: the World Trade Organization — its line from the 1947 General Agreement on Tariffs and Trade to the WTO in force from 1995, its objectives and its principles (trade without discrimination, free competition, equality, the end of tariff limits and the quota system), its functions (implementing multilateral agreements, settling trade disputes, reviewing national trade policies), Nepal's membership (GATT observer 1989, WTO member 2004, as printed), and a two-column table of the opportunities and challenges membership brings Nepal | Nepal, *Nepal Grade 12 Social Studies & Life Skills*, Unit 10 Lesson 3 "Nepalko Antarrashtriya Sambandha (Nepal's International Relations)", WTO — printed p. 308 |
 
-**Acceptance count: taught in 5 countries (South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal).**
+**Book 7:** *الاقتصاد للصف السادس الأدبي (Economics for the Sixth Literary class, Grade 12)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (4th edition, 1445H); ISBN no ISBN printed. Title as printed: الاقتصاد للصف السادس الأدبي (Economics for the Sixth Literary class, Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 112 (cover verified against the record title; grabbed via the books.json tree route, 2,753,855 bytes; the record carries no size). Verdict: COMPLETE. Contents map: the book's own contents (printed pp. 4–5) — Ch. 1 Economics, the economic problem and glimpses of economic thought pp. 6–25; Ch. 2 Supply, demand and consumer behaviour pp. 28–44; Ch. 3 Income, consumption and saving pp. 47–61; Ch. 4 Public finance and monetary policy pp. 63–77; Ch. 5 Underdevelopment, economic development and human development pp. 79–93; Ch. 6 Foreign trade and international economic organisations pp. 95–109 — all Economics (micro and macro). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The World Trade Organization — teaches: the WTO arising from GATT (1947) on 1 January 1995 after the Uruguay Round, covering goods, services and intellectual property — except oil — aiming to keep world markets open, with the book noting many developing-country economists see liberalisation serving the advanced economies and their multinationals first (Economics expansion, 2026-11-16; original placement slug: market-and-money/the-world-trade-organization — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 12 Economics*, The World Trade Organization — printed p. 103 |
+
+**Acceptance count: taught in 6 countries (South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq).**
+
+Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
 
 Nepal's own way (Nepal Grade 12 Social Studies & Life Skills): Grade 12 economics is the development unit with real tables — sector shares of GDP, the trade growth and direction tables, Nepal's growth rates through the COVID year, the HDI bands, and Nurkse's vicious circle drawn as two loops, supply side and demand side.
 
@@ -50,4 +58,4 @@ South Sudan's own way (South Sudan Grade 12 S4 Geography TG) (teacher guide — 
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: the world trade organization, South Sudan, social studies, culture-and-work, cambodia, uzbekistan, vietnam, nepal
+Searchable tags: the world trade organization, South Sudan, social studies, culture-and-work, cambodia, uzbekistan, vietnam, nepal, iraq

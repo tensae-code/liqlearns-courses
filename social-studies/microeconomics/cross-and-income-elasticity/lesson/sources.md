@@ -1,6 +1,6 @@
 # Sources — Cross and income elasticity
 
-countries: Ethiopia, Kazakhstan
+countries: Ethiopia, Kazakhstan, Iraq
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -16,10 +16,19 @@ countries: Ethiopia, Kazakhstan
 |---|---|
 | Kazakhstan — 1.6 forms of elasticity: cross elasticity for substitutes and complements, and income elasticity positive for normal and luxury goods, negative for inferior goods | Kazakhstan, *Fundamentals of Entrepreneurship and Business (Aganina, Grade 10)*, 1.6 Market Equilibrium — printed p. 44 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Kazakhstan).**
+**Book 3:** *مبادئ الاقتصاد للصف الخامس الأدبي (Principles of Economics for the Fifth Literary class, Grade 11)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (8th edition, 1445H); ISBN no ISBN printed. Title as printed: مبادئ الاقتصاد للصف الخامس الأدبي (Principles of Economics for the Fifth Literary class, Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 80 (image-only scan with no usable text layer — read in full from page renders; cover verified against the record title; grabbed via the books.json tree route, 4,790,795 bytes; the record carries no size). Verdict: COMPLETE. Contents map: the book's own contents (printed p. 80) — Ch. 1 Economics: concepts and terms pp. 4–14; Ch. 2 Demand pp. 15–30; Ch. 3 Supply pp. 31–42; Ch. 4 Production, Costs and Revenue pp. 43–61; Ch. 5 Markets pp. 62–71; Ch. 6 Market Balance pp. 72–79 — all Economics (microeconomics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Income elasticity of demand — teaches: the response of quantity demanded to a change in consumer income, high for luxuries, low for inferior goods and near one for necessities (Economics expansion, 2026-11-16; original placement slug: microeconomics/income-elasticity-of-demand — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 11 Economics*, Income elasticity of demand — printed p. 28 |
+| Iraq part — Cross elasticity of demand — teaches: the response of demand for one good to a price change in another — substitutes or complements — with its formula (Economics expansion, 2026-11-16; original placement slug: microeconomics/cross-elasticity-of-demand — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 11 Economics*, Cross elasticity of demand — printed p. 29 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Kazakhstan, Iraq).**
+
+Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
 
 The book's printed solution text for the income-elasticity table (incomes Birr 12,000 to 28,000) calls the result "luxury" loosely; this lesson teaches by the sign-and-size rules stated here — negative inferior, below 1 necessity, above 1 luxury — not by that sentence, exactly as the placements direct.
 
 Kazakhstan's own way (Kazakhstan Grade 10 Aganina): Economics is taught inside an entrepreneurship course — market theory arrives as the theory an entrepreneur needs, with tenge-denominated supply examples (a potato supply curve at 50-70 tenge), world oil prices deciding whether an Almaty-region furniture workshop profits, and Kazakhstan's own post-Soviet transition as the opening history.
 
-Searchable tags: cross elasticity, substitutes positive, complements negative, income elasticity, inferior good, luxury necessity, tea coffee, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics
+Searchable tags: cross elasticity, substitutes positive, complements negative, income elasticity, inferior good, luxury necessity, tea coffee, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, iraq
