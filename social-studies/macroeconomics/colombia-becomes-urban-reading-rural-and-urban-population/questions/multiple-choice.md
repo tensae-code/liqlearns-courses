@@ -1,0 +1,15 @@
+# Colombia becomes urban reading rural and urban population — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** About reading a data table of urban vs rural — the lesson teaches that —
+a) Reading a data table of urban vs rural population 1950–2003 (DANE census) — Colombia flipped from 63% rural in 1950 to 75% urban in 2003 — and asking which social phenomena pushed campesinos to leave the countryside  b) Reading a data table of urban vs rural population 1950–2003 (DANE census) — Colombia flipped from 63% rural in 1950 to 75% urban in 2003 — and asking which social phenomena pushed campesinos to leave the countryside  c) Reading a data table of urban vs rural population 1950–2003 (DANE census) — Colombia flipped from 63% rural in 1950 to 75% urban in 2003 — and asking which social phenomena pushed campesinos to leave the countryside
+**Answer: a) Reading a data table of urban vs rural population 1950–2003 (DANE census) — Colombia flipped from 63% rural in 1950 to 75% urban in 2003 — and asking which social phenomena pushed campesinos to leave the countryside**
+
+**2. (Sub lesson 2)** About reading a data table of urban vs rural — more — the lesson teaches that —
+a) Reading a data table of urban vs rural population 1950–2003 (DANE census) — Colombia flipped from 63% rural in 1950 to 75% urban in 2003 — and asking which social phenomena pushed campesinos to leave the countryside  b) Reading a data table of urban vs rural population 1950–2003 (DANE census) — Colombia flipped from 63% rural in 1950 to 75% urban in 2003 — and asking which social phenomena pushed campesinos to leave the countryside  c) Reading a data table of urban vs rural population 1950–2003 (DANE census) — Colombia flipped from 63% rural in 1950 to 75% urban in 2003 — and asking which social phenomena pushed campesinos to leave the countryside
+**Answer: b) Reading a data table of urban vs rural population 1950–2003 (DANE census) — Colombia flipped from 63% rural in 1950 to 75% urban in 2003 — and asking which social phenomena pushed campesinos to leave the countryside**
+
+**3. (Sub lesson 3)** About reading a data table of urban vs rural — more — the lesson teaches that —
+a) Reading a data table of urban vs rural population 1950–2003 (DANE census) — Colombia flipped from 63% rural in 1950 to 75% urban in 2003 — and asking which social phenomena pushed campesinos to leave the countryside  b) Reading a data table of urban vs rural population 1950–2003 (DANE census) — Colombia flipped from 63% rural in 1950 to 75% urban in 2003 — and asking which social phenomena pushed campesinos to leave the countryside  c) Reading a data table of urban vs rural population 1950–2003 (DANE census) — Colombia flipped from 63% rural in 1950 to 75% urban in 2003 — and asking which social phenomena pushed campesinos to leave the countryside
+**Answer: c) Reading a data table of urban vs rural population 1950–2003 (DANE census) — Colombia flipped from 63% rural in 1950 to 75% urban in 2003 — and asking which social phenomena pushed campesinos to leave the countryside**

@@ -1,6 +1,6 @@
 # Sources — Economic Systems Traditional Market Mixed
 
-countries: Armenia, Malaysia, United States
+countries: Armenia, Malaysia, United States, Colombia
 
 **Book 1:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 9-րդ դասարան — Հանրակրթական հիմնական դպրոցի դասագիրք (Social Science 9, basic-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-243-3. Authors: K. Harutyunyan, T. Simonyan, A. Manucharyan, N. Galstyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 9-րդ դասարան — Հանրակրթական հիմնական դպրոցի դասագիրք (Social Science 9, basic-school textbook). Grade: 9 (student/teacher: STUDENT). PDF pages: 180 (printed 176; cover/title page verified against the record title). Verdict: COMPLETE — the whole book is built around the state. Geography-scope part placed below: Theme 4 "State and economy" (printed pp. 84-127). NOT placed (named for later waves): Theme 1 "The state: an introduction" (pp. 5-42), Theme 2 "State and culture" (pp. 43-58), Theme 3 "State and civil society" (pp. 59-83), Theme 5 "State and citizenship" (pp. 128-171). Read from 100-DPI contact sheets (image-only book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -35,7 +35,16 @@ countries: Armenia, Malaysia, United States
 |---|---|
 | United States part — 1.1 What is Government? — teaches: governmental systems distinguished from economic systems, capitalism's development alongside democracy and socialism as the alternative system, in the US case a democratic government working with a capitalist economy | United States, *United States Grade 13 American Government 3e*, 1.1 What is Government? — printed p. 8 |
 
-**Acceptance count: taught in 3 countries (Armenia, Malaysia, United States).**
+**Book 6:** *Postprimaria — Ciencias Sociales 9º* (student book, Spanish) — Ministerio de Educación Nacional, República de Colombia (Postprimaria Rural; Fundación Manuel Mejía); ISBN no ISBN printed. Title as printed: Postprimaria — Ciencias Sociales 9º. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 222 (cover verified against the record title; 100,126,802 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 15–18, 21–22, 27–31, 66, 169–173, 177–178 (Módulo 1 is titled "¿Cómo la globalización y la mercantilización…"); History parts pp. 37–65 (20th-century wars, welfare state, slavery and human trafficking); Civics/History parts pp. 68–152 (violence and displacement in Colombia, environment and ethnic communities, campesino territories); Civics parts pp. 153–221 (student/worker/campesino movements, rights, identity, festivals). Guía 6's title promises unemployment and poverty, but its teaching pages treat violence's causes — no unemployment teaching part was found there. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 1, Guía 1: un mundo entre el capitalismo y el socialismo (conceptos) — teaches: an economic system is the set of institutions and structures a country adopts to organise production, distribution and consumption of goods; capital is a factor of production (buildings, machinery, installations) working with labour to produce goods; Marx's terms bourgeoisie (owning class of the means of production) and the salaried working class that owns none | Colombia, *Colombia Grade 9 Postprimaria G9*, Módulo 1, Guía 1: un mundo entre el capitalismo y el socialismo (conceptos) — printed p. 15 |
+
+**Acceptance count: taught in 4 countries (Armenia, Malaysia, United States, Colombia).**
+
+Colombia's own way (Colombia Grade 9 Postprimaria G9): Grade 9 argues the systems themselves — capitalism vs socialism as a classroom debate, globalisation in five authors' definitions, and a real 2010 minimum-wage negotiation as the source text.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -45,4 +54,4 @@ Armenia's own way (Armenia Grade 9 Social Science student): grade-9 Social Scien
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: economic systems traditional market mixed, Armenia, social studies, culture-and-work, malaysia, united states
+Searchable tags: economic systems traditional market mixed, Armenia, social studies, culture-and-work, malaysia, united states, colombia

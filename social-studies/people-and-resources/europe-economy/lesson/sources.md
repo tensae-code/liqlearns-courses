@@ -1,6 +1,6 @@
 # Sources — Europe Economy
 
-countries: Uzbekistan, Nicaragua
+countries: Uzbekistan, Nicaragua, Colombia
 
 **Book 1:** *Economic and Social Geography of the World, Grade 9* (student book, Russian) — Uzbekistan, IPTD «O'zbekiston», Tashkent; year 2006; ISBN 5-640-03154-9 (authors: Abduhakim Qayumov, Iranqul Safarov, Mahabbat Tillaboyeva). Title as printed: ЭКОНОМИЧЕСКАЯ И СОЦИАЛЬНАЯ ГЕОГРАФИЯ МИРА / Jahon iqtisodiy-ijtimoiy geografiyasi (Economic and Social Geography of the World), textbook for Grade 9 of general schools, recommended by the Ministry of Public Education of the Republic of Uzbekistan, 3rd edition, corrected and supplemented, translated from Uzbek by I. Khudaybergenov. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 242 (byte size 94,283,664 exact match to the record, blob SHA verified SHA-OK; cover, title page and imprint rendered and verified — image-only PDF, read in full via its printed contents, p. 241, §1-§68). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uzbekistan-placements.md.
 
@@ -21,7 +21,14 @@ countries: Uzbekistan, Nicaragua
 |---|---|
 | Nicaragua part — Actividades Económicas de Europa — teaches: Europe's economic activities — its developed industries and trade, North Sea oil and gas holders (Norway, Netherlands), and the features of the modern capitalist economy | Nicaragua, *Nicaragua Grade 9 Estudios Sociales 9*, Actividades Económicas de Europa — printed pp. 94–99 |
 
-**Acceptance count: taught in 2 countries (Uzbekistan, Nicaragua).**
+**Book 4:** *Secundaria Activa — Ciencias Sociales, Grado 7º* (student book, Spanish) — Ministerio de Educación Nacional, República de Colombia; ISBN no ISBN printed. Title as printed: Secundaria Activa — Ciencias Sociales, Grado 7º. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 248 (cover verified against the record title; 16,151,605 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 70–71, 77–79, 151, 160–164, 178–181; Geography parts pp. 14–69, 72–76, 80–117 (climate, climate change, physical geography of Europe and America, population); History parts pp. 118–160, 165–177, 182–237 (empires, Rome, Middle Ages, Renaissance, American empires, conquest, discrimination) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 2, Tema 6: ¿qué características tiene Europa? — teaches: industry is Europe's second sector (35% of GDP, about 30% of the active population), with heavy steel/metallurgy located in coal-mining basins (Ruhr in Germany, Liège in Belgium); forestry is exploited in the pine-rich north for ships, housing and furniture | Colombia, *Colombia Grade 7 Secundaria Activa G7*, Unidad 2, Tema 6: ¿qué características tiene Europa? — printed p. 70 |
+
+**Acceptance count: taught in 3 countries (Uzbekistan, Nicaragua, Colombia).**
 
 Nicaragua's own way (Nicaragua Grade 6 Estudios Sociales 6): the world is read continent by continent through a three-sector table first built for América, then each continent's farming, industry, trade and tourism in turn.
 
@@ -29,4 +36,4 @@ Nicaragua's own way (Nicaragua Grade 9 Estudios Sociales 9): "How much we produc
 
 Uzbekistan's own way (Uzbekistan Grade 9 Economic and Social Geography of the World): Grade 9 turns from physical to economic and social geography of the whole world: Part I works through the political map, world natural resources, world population, the scientific-technical revolution and the branches of the world economy; Part II then reviews every region in a fixed country-profile pattern (territory and position, natural resources, population, economy, transport, foreign ties), with Central Asia and Uzbekistan's neighbours given the fullest treatment, and closes with the global problems of humanity.
 
-Searchable tags: europe economy, Uzbekistan, social studies, people-and-resources, nicaragua
+Searchable tags: europe economy, Uzbekistan, social studies, people-and-resources, nicaragua, colombia

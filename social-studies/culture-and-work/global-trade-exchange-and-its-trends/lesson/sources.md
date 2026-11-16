@@ -1,6 +1,6 @@
 # Sources — Global Trade Exchange And Its Trends
 
-countries: Yemen, Honduras
+countries: Yemen, Honduras, Colombia
 
 **Book 1:** *جغرافية العالم المعاصر للصف الثالث الثانوي (Geography of the Contemporary World for the Third Secondary Grade = Grade 12)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية العالم المعاصر للصف الثالث الثانوي (Geography of the Contemporary World for the Third Secondary Grade = Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 147 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
@@ -27,7 +27,16 @@ countries: Yemen, Honduras
 |---|---|
 | Honduras part — Lesson 29 "La globalización" — teaches: globalisation's causes, characteristics and consequences — growing communication and interdependence uniting markets, societies and cultures — with an advantages/disadvantages table (Ianni) | Honduras, *Honduras Grade 9 G9 Student CCSS*, Lesson 29 "La globalización" — printed p. 180 |
 
-**Acceptance count: taught in 2 countries (Yemen, Honduras).**
+**Book 5:** *Secundaria Activa — Ciencias Sociales, Grado 6º* (student book, Spanish) — Ministerio de Educación Nacional, República de Colombia; ISBN no ISBN printed. Title as printed: Secundaria Activa — Ciencias Sociales, Grado 6º. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 256 (cover verified against the record title; 13,941,417 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 92–93, 117–119, 145–150, 185–193; Science/Geography parts pp. 14–91 (universe, Earth, water, air, evolution, settlement routes); Geography parts pp. 94–116, 120–131 (continents and their resources); History/Civics parts pp. 132–184, 194–255 (ancient agriculture and political structures, legacies, democracy, norms and laws) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 2, Tema 14: otras economías — teaches: Asian oil exporters (Saudi Arabia, UAE, Iran, Iraq, Kuwait, Indonesia) export oil through modern ports to Western Europe, the US and Japan, and import electronics, cars and machinery; China exports tea, rice, silk and cotton cloth, minerals and textiles, and imports fertilisers and industrial machinery | Colombia, *Colombia Grade 6 Secundaria Activa G6*, Unidad 2, Tema 14: otras economías — printed p. 119 |
+
+**Acceptance count: taught in 3 countries (Yemen, Honduras, Colombia).**
+
+Colombia's own way (Colombia Grade 6 Secundaria Activa G6): Secundaria Activa teaches the world economy comparatively — Asia's three agricultures, Japan's people, oil exporters — and names Colombia's own apertura económica debate.
 
 Yemen's own way (Yemen Grade 12 G12 Geography of the Contemporary World): the final year is political and economic geography of the whole contemporary world — how it is classified and developed, its blocs in the developed and developing worlds, transport and communications, world trade and tourism, and its shared problems (energy, pollution, unemployment).
 
@@ -37,4 +46,4 @@ Honduras's own way (Honduras Grade 4 G4 Student CCSS): Grade 4 widens the lens t
 
 Honduras's own way (Honduras Grade 9 G9 Student CCSS): Grade 9 closes the cycle with the world economy and Honduras inside it — work formal and informal, the lempira's devaluation named the country's biggest problem, and remittances weighed honestly: a strong boost to the economy that also demotivates production and drains the labour force.
 
-Searchable tags: global trade exchange and its trends, Yemen, social studies, culture-and-work, honduras
+Searchable tags: global trade exchange and its trends, Yemen, social studies, culture-and-work, honduras, colombia

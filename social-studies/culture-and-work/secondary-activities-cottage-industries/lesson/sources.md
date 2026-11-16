@@ -1,6 +1,6 @@
 # Sources — Secondary activities — cottage industries
 
-countries: Ethiopia, Zimbabwe, Syria, Sri Lanka, Mauritania, Kuwait, Nepal, Eritrea, Bahamas
+countries: Ethiopia, Zimbabwe, Syria, Sri Lanka, Mauritania, Kuwait, Nepal, Eritrea, Bahamas, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -88,7 +88,16 @@ countries: Ethiopia, Zimbabwe, Syria, Sri Lanka, Mauritania, Kuwait, Nepal, Erit
 |---|---|
 | Nepal part — Unit 8 Lesson 3 "Udyog (Industry)", cottage and small industry section — teaches: cottage and small industries introduced — businesses run on small investment with local resources and traditional skill (cloth, paper, metal, wood, dairy, oil-pressing and the like), the local jobs they open, the world-market demand for goods made on traditional art, skill and culture, and the income and employment possibilities they carry | Nepal, *Nepal Grade 9 Social Studies*, Unit 8 Lesson 3 "Udyog (Industry)", cottage and small industry section — printed p. 202 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Syria, Sri Lanka, Mauritania, Kuwait, Nepal, Eritrea, Bahamas). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Book 22:** *Postprimaria — Ciencias Sociales 6º* (student book, Spanish) — Ministerio de Educación Nacional, República de Colombia (Postprimaria Rural; Fundación Manuel Mejía); ISBN no ISBN printed. Title as printed: Postprimaria — Ciencias Sociales 6º. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 226 (cover verified against the record title; 106,188,444 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 37–38, 128–137, 150–152 (Módulo 4 is titled "Economía, población…"); History/Culture parts pp. 9–122 (origin peoples, their knowledge, technologies, art and territories); Geography parts pp. 89–122, 138–149 (territory, maps, population, migrations); Civics parts pp. 160–224 (power, political systems, democracy, conflicts, rights, participation) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 4, Guía 11: artesanía, subsistencia e identidad — teaches: craftwork is made manually with simple tools and local materials, knowledge passed down generations; the whole family takes part, and maker, seller, buyer and transport meet in the same place — the artisan makes the whole product and selects the materials | Colombia, *Colombia Grade 6 Postprimaria G6*, Módulo 4, Guía 11: artesanía, subsistencia e identidad — printed p. 131 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Syria, Sri Lanka, Mauritania, Kuwait, Nepal, Eritrea, Bahamas, Colombia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+
+Colombia's own way (Colombia Grade 6 Postprimaria G6): Postprimaria teaches Economics through indigenous production systems — ancestral farming, crafts, barter and the fights over tagua and coltan.
 
 Nepal's own way (Nepal Grade 4 Social Studies & Human Value Education G4 trial): the new trial curriculum teaches the village economy as one circle — make it locally (bamboo craft, sugarcane gud, Dhaka cloth), sell it at the weekly haat bazaar, earn income from the work, and keep what is left in the child's khutruke (piggy bank) for future use.
 
@@ -100,7 +109,7 @@ Bahamas' own way: cottage manufacturing is straw work and sisal — straw plaite
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
-Searchable tags: secondary activities: cottage industries, culture and work, social studies, ethiopia, eritrea, handicrafts, pottery, weaving, metalwork, basketry, jewellery, bahamas, nepal
+Searchable tags: secondary activities: cottage industries, culture and work, social studies, ethiopia, eritrea, handicrafts, pottery, weaving, metalwork, basketry, jewellery, bahamas, nepal, colombia
 
 Zimbabwe's own way (Grade 5) (teacher guide — evidence): Grade 5 transport is taught as a landlocked country's system — goods by rail/road/air/sea, animal transport (riding, leading, herding), and the roadports, seaports and airports Zimbabwe depends on; shelter links heritage sites (Matobo Hills) and map-drawing of Zimbabwe to building safely in disaster-prone areas. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
 

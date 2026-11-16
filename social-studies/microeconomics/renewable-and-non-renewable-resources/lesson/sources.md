@@ -1,6 +1,6 @@
 # Sources — Renewable and non-renewable resources
 
-countries: Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India
+countries: Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India, Colombia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -181,7 +181,25 @@ Bangladesh's own way (Bangladesh Grade 6 History and Social Science): in the new
 |---|---|
 | India part — Ch 1 Resources and Development: resources classified by origin (biotic/abiotic), exhaustibility (renewable/non-renewable), ownership (individual/community/national/international) and development status (potential, developed, stock, reserves) — teaches: the full resource classification | India, *India Grade 10 Contemporary India-II*, Ch 1 Resources and Development — printed p. 2 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India).**
+**Book 29:** *Postprimaria — Ciencias Sociales 6º* (student book, Spanish) — Ministerio de Educación Nacional, República de Colombia (Postprimaria Rural; Fundación Manuel Mejía); ISBN no ISBN printed. Title as printed: Postprimaria — Ciencias Sociales 6º. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 226 (cover verified against the record title; 106,188,444 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 37–38, 128–137, 150–152 (Módulo 4 is titled "Economía, población…"); History/Culture parts pp. 9–122 (origin peoples, their knowledge, technologies, art and territories); Geography parts pp. 89–122, 138–149 (territory, maps, population, migrations); Civics parts pp. 160–224 (power, political systems, democracy, conflicts, rights, participation) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 4, Guía 13: formas de apropiación de los recursos — teaches: minerals and oil are non-renewable (formed over millions of years, cannot be regenerated); metallic minerals can be reused through recycling, but coal and oil cannot | Colombia, *Colombia Grade 6 Postprimaria G6*, Módulo 4, Guía 13: formas de apropiación de los recursos — printed p. 151 |
+
+**Book 30:** *Secundaria Activa — Ciencias Sociales, Grado 6º* (student book, Spanish) — Ministerio de Educación Nacional, República de Colombia; ISBN no ISBN printed. Title as printed: Secundaria Activa — Ciencias Sociales, Grado 6º. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 256 (cover verified against the record title; 13,941,417 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 92–93, 117–119, 145–150, 185–193; Science/Geography parts pp. 14–91 (universe, Earth, water, air, evolution, settlement routes); Geography parts pp. 94–116, 120–131 (continents and their resources); History/Civics parts pp. 132–184, 194–255 (ancient agriculture and political structures, legacies, democracy, norms and laws) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 2, Tema 10: la despensa natural del ser humano — teaches: natural resources are the elements of nature a population uses to satisfy its needs; by their formation time they classify as renewable or non-renewable, and destroying resources is attacking life itself | Colombia, *Colombia Grade 6 Secundaria Activa G6*, Unidad 2, Tema 10: la despensa natural del ser humano — printed p. 92 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India, Colombia).**
+
+Colombia's own way (Colombia Grade 6 Postprimaria G6): Postprimaria teaches Economics through indigenous production systems — ancestral farming, crafts, barter and the fights over tagua and coltan.
+
+Colombia's own way (Colombia Grade 6 Secundaria Activa G6): Secundaria Activa teaches the world economy comparatively — Asia's three agricultures, Japan's people, oil exporters — and names Colombia's own apertura económica debate.
 
 India's own way (India Grade 8 Resources and Development): Economic geography is taught through Indian anchors — a 1.5-hectare Uttar Pradesh farm set against a 250-hectare Iowa farm, Jamshedpur steel, Ahmedabad as the "Manchester of India", and cooperative dairies (Amul/AMUL pattern, Sudha) as an ownership form.
 
@@ -222,4 +240,4 @@ Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grad
 
 Iran's own way (Iran Grade 6 Social Studies): the energy chapter turns Iran's oil story into a class debate — oil is a finite natural heritage, foreign companies took the profit for a century, and the country must learn to export other goods instead of depending on oil.
 
-Searchable tags: renewable non-renewable resources, fixed stock, recycling, solar soil coal oil, ethiopia, nauru, niue, tuvalu, syria, oil, gas, phosphates, natural resources, social studies, microeconomics, uganda, natural resources of uganda, east africa resources, land water minerals, resource conservation, misuse of resources, mongolia, exhaustible non-exhaustible, gold, dominican republic, palestine, jordan, bangladesh, egypt, Fiji, bulgaria, iran, india
+Searchable tags: renewable non-renewable resources, fixed stock, recycling, solar soil coal oil, ethiopia, nauru, niue, tuvalu, syria, oil, gas, phosphates, natural resources, social studies, microeconomics, uganda, natural resources of uganda, east africa resources, land water minerals, resource conservation, misuse of resources, mongolia, exhaustible non-exhaustible, gold, dominican republic, palestine, jordan, bangladesh, egypt, Fiji, bulgaria, iran, india, colombia

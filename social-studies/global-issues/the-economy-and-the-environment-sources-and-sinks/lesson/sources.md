@@ -1,6 +1,6 @@
 # Sources — The economy and the environment — sources and sinks
 
-countries: Ethiopia, Mozambique, Nauru, Niue, Tuvalu, France, Rwanda, Dominica, Uzbekistan, Fiji, Vietnam, Iran, Bolivia
+countries: Ethiopia, Mozambique, Nauru, Niue, Tuvalu, France, Rwanda, Dominica, Uzbekistan, Fiji, Vietnam, Iran, Bolivia, Colombia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -101,7 +101,16 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Bolivia part — La ecología y crisis ambiental (Year 4) — teaches: natural resources are not infinite and will run out if their renewal is not guaranteed; since the Industrial Revolution extraction became more aggressive, rapid and ambitious, and environmental degradation accelerated into climate change (teacher guide — evidence) | Bolivia, *Bolivia Compendio Ciencias Sociales*, La ecología y crisis ambiental (Year 4) — PDF p. 156 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Mozambique, Nauru, Niue, Tuvalu, France, Rwanda, Dominica, Uzbekistan, Fiji, Vietnam, Iran). Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+**Book 17:** *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva* (student book, Spanish) — Ministerio de Educación Nacional, Colombia (2010 version, adapted by Corpoeducación); ISBN no ISBN printed. Title as printed: Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 128 (cover verified against the record title; 15,702,136 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 31–32, 54–59; Geography parts pp. 7–53, 60–82 (relief, climate, natural regions of Colombia and the world); Civics/values parts pp. 85–124 (conflict, dilemmas, citizenship, inclusion). The Guía 11 closing self-check on household resource use (printed p. 82) is assessment apparatus, named not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 5, Guía 9: Colombia y sus recursos / algunas formas de aprovechar los recursos del trópico colombiano — teaches: Colombia's natural wealth (year-round sun, water, soils, plant and animal diversity) and how to work with tropical conditions instead of imported ways — intercropped planting, conserving forests and water sources | Colombia, *Colombia Grade 4 Escuela Nueva G4 Cartilla 2*, Unidad 5, Guía 9: Colombia y sus recursos / algunas formas de aprovechar los recursos del trópico colombiano — printed p. 31 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Mozambique, Nauru, Niue, Tuvalu, France, Rwanda, Dominica, Uzbekistan, Fiji, Vietnam, Iran, Colombia). Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+
+Colombia's own way (Colombia Grade 4 Escuela Nueva G4 Cartilla 2): the economy is read off the land region by region — what each natural region grows, raises, fishes and mines.
 
 Bolivia's own way (Bolivia Compendio Ciencias Sociales): economics is taught almost entirely through Bolivia's own history — the colonial extraction institutions (encomienda, mita, tribute), the silver-to-tin mining cycles and the barons who captured them, and the recurring national answers: nationalisation (1937, 1952, 2006), agrarian reform, stabilisation plans and the plurinational rejection of water privatisation.
 
@@ -117,6 +126,6 @@ No matching teacher guide exists in this band: the book recorded as this text's 
 
 Iran's own way (Iran Grade 7 Social Studies): production and consumption are taught with Iranian anchors throughout — the historic bazaar as market and social centre, compulsory third-party car insurance, and the Silk Road crossing Iran as a bridge between East and West.
 
-Searchable tags: the economy and the environment — sources and sinks, grade 12 economics, ethiopia, mozambique, nauru, niue, tuvalu, over-fishing, pacific, france, ses, ecological footprint, social studies, global issues, rwanda, dominica, csec principles of business, caribbean, uzbekistan, Fiji, vietnam, iran, bolivia
+Searchable tags: the economy and the environment — sources and sinks, grade 12 economics, ethiopia, mozambique, nauru, niue, tuvalu, over-fishing, pacific, france, ses, ecological footprint, social studies, global issues, rwanda, dominica, csec principles of business, caribbean, uzbekistan, Fiji, vietnam, iran, bolivia, colombia
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a long history — from Palaeolithic tool-making through manufacture and mercantilism to the Industrial Revolution and its consequences — before location, types and industrial landscapes; commerce likewise from barter and the invention of coin to trade blocs and unequal world flows.

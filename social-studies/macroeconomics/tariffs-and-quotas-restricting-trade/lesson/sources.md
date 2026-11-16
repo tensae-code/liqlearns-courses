@@ -1,6 +1,6 @@
 # Sources — Tariffs and quotas — restricting trade
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua, India, United States
+countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua, India, United States, Colombia
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -71,7 +71,16 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 | United States part — 19.3 The Benefits of Reducing Barriers to International Trade — teaches: tariffs as taxes on imports and barriers to trade, and the benefits of reducing those barriers | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 19.3 The Benefits of Reducing Barriers to International Trade — printed p. 448 |
 | United States part — 20.1 Protectionism: An Indirect Subsidy from Consumers to Producers — teaches: protectionism in its three main forms analysed through demand and supply as an indirect subsidy from consumers to producers, its effects on equilibrium calculated | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 20.1 Protectionism: An Indirect Subsidy from Consumers to Producers — printed p. 462 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua, India, United States). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 12:** *Ciencias Sociales 5 — Primera Cartilla, Escuela Nueva* (student book, Spanish) — Ministerio de Educación Nacional, Colombia (2010 version, adapted by Corpoeducación); ISBN no ISBN printed. Title as printed: Ciencias Sociales 5 — Primera Cartilla, Escuela Nueva. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 112 (cover verified against the record title; 14,608,389 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 41–53; History parts pp. 6–39 (Colony and Independence); Civics parts pp. 58–77 (norms, laws, Constitution, branches of power); Culture parts pp. 78–108 (Afro-Colombian and indigenous peoples) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 2, Guía 4: las luchas de los artesanos organizados / la República Popular — teaches: when governments declared freedom of commerce (free imports from industrialised countries), Colombian artisans saw their work and national industry threatened, organised in Democratic Societies, and backed the 1854 República Popular, which proclaimed respect for work and industry | Colombia, *Colombia Grade 5 Escuela Nueva G5 Cartilla 1*, Unidad 2, Guía 4: las luchas de los artesanos organizados / la República Popular — printed p. 48 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua, India, United States, Colombia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Colombia's own way (Colombia Grade 5 Escuela Nueva G5 Cartilla 1): Economics arrives as the history of Colombian work itself — campesinos, coffee labourers, artisans threatened by free trade, and the first unions and strikes.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -91,4 +100,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from family to country — occupations and production for the whole nation, social classes by income, the production-distribution-exchange-consumption chain, and exports/imports through customs with the arancel explained.
 
-Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, indonesia, nicaragua, india, united states
+Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, indonesia, nicaragua, india, united states, colombia

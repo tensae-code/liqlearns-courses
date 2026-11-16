@@ -1,6 +1,6 @@
 # Sources — Production — turning inputs into outputs
 
-countries: Ethiopia, Syria, France, Bahamas, Zimbabwe, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia, Nicaragua, Bulgaria, Iran
+countries: Ethiopia, Syria, France, Bahamas, Zimbabwe, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia, Nicaragua, Bulgaria, Iran, Colombia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -140,7 +140,26 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Iran part — Economics expansion — Lesson 7 "Production and distribution": why we produce; people use natural resources to make the goods they need, and families produce both for their own needs and for sale and income | Iran, *Iran Grade 7 Social Studies*, Lesson 7 "Production and distribution" — Iran Grade 7 Social Studies, printed p. 32 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Syria, France, Bahamas, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia, Nicaragua, Bulgaria, Iran). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 23:** *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva* (student book, Spanish) — Ministerio de Educación Nacional, República de Colombia; year 2010 version (adapted by Corpoeducación); ISBN no ISBN printed. Title as printed: Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 136 (cover verified against the record title; 14,284,344 bytes via release grab, size-verified by grab.py; tree route 404 — the book lives as a release asset, not a tree file). Verdict: COMPLETE. Contents map: Economics parts printed pp. 75–80, 105–108; Civics/identity/family/community-norms parts pp. 7–74, 81–98; Geography parts pp. 99–104, 109–117; Civics (municipality) pp. 118–131 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 3, Guía 6: los procesos productivos — teaches: raw materials are natural resources not yet transformed; people transform them into industrial products (factory, machines, large quantities) or manufactured products (by hand, small quantities) — resources + human work + tools = new products, worked through the industrial milk-production chain | Colombia, *Colombia Grade 2 Escuela Nueva G2 Cartilla 1*, Unidad 3, Guía 6: los procesos productivos — printed p. 106 |
+
+**Book 24:** *Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva* (student book, Spanish) — Ministerio de Educación Nacional, Colombia (2010 version, adapted by Corpoeducación); ISBN no ISBN printed. Title as printed: Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 112 (cover verified against the record title; 36,277,554 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 18, 42–43, 58–59, 70–91 (Unidad 7, "La importancia de la economía en nuestras vidas", is a full Economics unit); Geography parts pp. 6–66 (landscape, relief, biodiversity, population, regions); Civics/values parts pp. 92–108 (decisions, dilemmas, relationships) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 5, Guía 9: transformaciones — teaches: how raw materials are transformed step by step — clay fired into bricks, coffee beans roasted and ground into commercial coffee | Colombia, *Colombia Grade 5 Escuela Nueva G5 Cartilla 2*, Unidad 5, Guía 9: transformaciones — printed p. 18 |
+| Colombia part — Unidad 7, Guía 13: el trabajo como proceso — teaches: work transforms raw materials into products (trees into furniture, rubber into tyres, iron into bicycles), and in the process the materials, the tools and the people themselves change | Colombia, *Colombia Grade 5 Escuela Nueva G5 Cartilla 2*, Unidad 7, Guía 13: el trabajo como proceso — printed p. 73 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Syria, France, Bahamas, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia, Nicaragua, Bulgaria, Iran, Colombia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Colombia's own way (Colombia Grade 2 Escuela Nueva G2 Cartilla 1): rural Escuela Nueva children learn the economy from their own vereda — farm, livestock and fishing work first, then how town and country exchange products.
+
+Colombia's own way (Colombia Grade 5 Escuela Nueva G5 Cartilla 2): the fullest primary Economics unit in the set — work, goods, sectors, money, prices and the market are all taught from the child's own plaza de mercado, ending in a real market-day fieldwork and market survey.
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
@@ -182,4 +201,4 @@ Iran's own way (Iran Grade 5 Social Studies): industry is taught through Iran's 
 
 Iran's own way (Iran Grade 7 Social Studies): production and consumption are taught with Iranian anchors throughout — the historic bazaar as market and social centre, compulsory third-party car insurance, and the Silk Road crossing Iran as a bridge between East and West.
 
-Searchable tags: production inputs outputs, tangible intangible, wheat example, ethiopia, syria, made in syria, bread, raw materials, france, ses, market non-market production, social studies, microeconomics, bahamas, zimbabwe, teacher guide evidence, jordan, cambodia, bangladesh, Fiji, vietnam, armenia, nicaragua, bulgaria, iran
+Searchable tags: production inputs outputs, tangible intangible, wheat example, ethiopia, syria, made in syria, bread, raw materials, france, ses, market non-market production, social studies, microeconomics, bahamas, zimbabwe, teacher guide evidence, jordan, cambodia, bangladesh, Fiji, vietnam, armenia, nicaragua, bulgaria, iran, colombia

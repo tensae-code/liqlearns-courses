@@ -1,0 +1,12 @@
+# The Banco de la República is born — short answer
+
+Answer in one or two sentences, from the lesson.
+
+**1. (Sub lesson 1)** What does the lesson teach about the banco de la república began as a?
+**Answer:** The Banco de la República began as a sociedad anónima (a company whose members hold capital through shares — the term is defined in the margin) with $10 million oro of capital, 50% from the government, the rest from national and foreign commercial banks and individuals;
+
+**2. (Sub lesson 2)** What does the lesson teach about its creation brought a stable monetary and banking?
+**Answer:** Its creation brought a stable monetary and banking organisation, a single currency and a convertible bill, with functions to issue Colombia's legal money, set the discount rate and intervene to control interest rates, and watch the exchange market
+
+**3. (Sub lesson 3)** What does the lesson teach about its creation brought a stable monetary and banking — more?
+**Answer:** Its creation brought a stable monetary and banking organisation, a single currency and a convertible bill, with functions to issue Colombia's legal money, set the discount rate and intervene to control interest rates, and watch the exchange market

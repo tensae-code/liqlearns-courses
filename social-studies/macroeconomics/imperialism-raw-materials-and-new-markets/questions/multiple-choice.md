@@ -1,0 +1,15 @@
+# Imperialism raw materials and new markets — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** About the capitalist economy was the means by which — the lesson teaches that —
+a) The capitalist economy was the means by which industrialised Western countries extended dominion worldwide;  b) To guarantee production and cheapen costs they sought new markets and raw materials in greater quantity at lower price — conquering peoples such as Africa's, with forced labour, political domination and exploitation of all natural resources (the partition of Africa) imperialism differs from colonialism (constant…  c) Its economic causes — nations dominate others through the expansion of industrial capitalism, and powers rank in a hierarchy by military/political force and by the amount of capital they possess (same NEW slug first proposed at Book 23)
+**Answer: a) The capitalist economy was the means by which industrialised Western countries extended dominion worldwide;**
+
+**2. (Sub lesson 2)** About to guarantee production and cheapen costs they sought — the lesson teaches that —
+a) The capitalist economy was the means by which industrialised Western countries extended dominion worldwide;  b) To guarantee production and cheapen costs they sought new markets and raw materials in greater quantity at lower price — conquering peoples such as Africa's, with forced labour, political domination and exploitation of all natural resources (the partition of Africa) imperialism differs from colonialism (constant…  c) Its economic causes — nations dominate others through the expansion of industrial capitalism, and powers rank in a hierarchy by military/political force and by the amount of capital they possess (same NEW slug first proposed at Book 23)
+**Answer: b) To guarantee production and cheapen costs they sought new markets and raw materials in greater quantity at lower price — conquering peoples such as Africa's, with forced labour, political domination and exploitation of all natural resources (the partition of Africa) imperialism differs from colonialism (constant…**
+
+**3. (Sub lesson 3)** About its economic causes nations dominate others through the — the lesson teaches that —
+a) The capitalist economy was the means by which industrialised Western countries extended dominion worldwide;  b) To guarantee production and cheapen costs they sought new markets and raw materials in greater quantity at lower price — conquering peoples such as Africa's, with forced labour, political domination and exploitation of all natural resources (the partition of Africa) imperialism differs from colonialism (constant…  c) Its economic causes — nations dominate others through the expansion of industrial capitalism, and powers rank in a hierarchy by military/political force and by the amount of capital they possess (same NEW slug first proposed at Book 23)
+**Answer: c) Its economic causes — nations dominate others through the expansion of industrial capitalism, and powers rank in a hierarchy by military/political force and by the amount of capital they possess (same NEW slug first proposed at Book 23)**

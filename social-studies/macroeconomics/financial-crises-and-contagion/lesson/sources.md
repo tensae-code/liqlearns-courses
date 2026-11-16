@@ -1,6 +1,6 @@
 # Sources — Financial crises and contagion
 
-countries: Ethiopia, Venezuela, Armenia, Bolivia
+countries: Ethiopia, Venezuela, Armenia, Bolivia, Colombia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -33,7 +33,16 @@ countries: Ethiopia, Venezuela, Armenia, Bolivia
 |---|---|
 | Bolivia part — La crisis capitalista de 1929: una crisis de sobreproducción (Year 5) — teaches: capital concentrated in joint-stock companies whose shares rose far above their real value; firms built a productive capacity the market could not absorb, so supply overwhelmed demand, prices fell and losses followed — a crisis of overproduction (teacher guide — evidence) | Bolivia, *Bolivia Compendio Ciencias Sociales*, La crisis capitalista de 1929: una crisis de sobreproducción (Year 5) — PDF p. 216 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Venezuela, Armenia). Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *Secundaria Activa — Ciencias Sociales, Grado 9º* (student book, Spanish) — Ministerio de Educación Nacional, República de Colombia; ISBN no ISBN printed. Title as printed: Secundaria Activa — Ciencias Sociales, Grado 9º. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 287 (cover verified against the record title; 19,090,878 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 19, 61–75, 99–109, 124, 175, 220–258; History parts pp. 14–60 (imperialism, Belle Époque, First World War, Russian revolution); History parts pp. 76–98, 110–174, 176–219 (independence-era and 20th-century political history, Cold War); Civics/History parts pp. 259–267 (contemporary conflicts and Colombia) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 2, Tema 11: la crisis económica del 29 en Estados Unidos — teaches: after years of prosperity and stock-market optimism, US industry and agriculture produced a superproduction with too few markets to absorb it (subconsumo); share prices fell (copper and steel first), investors rushed to sell in late October 1929, and the crisis spread from the US to Europe — consequences: business closures, ruined farmers, unemployment, inflation, strikes | Colombia, *Colombia Grade 9 Secundaria Activa G9*, Unidad 2, Tema 11: la crisis económica del 29 en Estados Unidos — printed p. 99 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Venezuela, Armenia, Colombia). Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+
+Colombia's own way (Colombia Grade 9 Secundaria Activa G9): Grade 9 is economic history with the numbers kept — hectares, factory counts, the US$25 million Panama indemnity, the 6%-to-3% debt deal, and the Banco de la República's founding functions.
 
 Bolivia's own way (Bolivia Compendio Ciencias Sociales): economics is taught almost entirely through Bolivia's own history — the colonial extraction institutions (encomienda, mita, tribute), the silver-to-tin mining cycles and the barons who captured them, and the recurring national answers: nationalisation (1937, 1952, 2006), agrarian reform, stabilisation plans and the plurinational rejection of water privatisation.
 
@@ -44,4 +53,4 @@ Venezuela's own way (Venezuela Grade 8 Venezuela G8 Historia de la Humanidad SB 
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: financial crises and contagion, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, armenia, bolivia
+Searchable tags: financial crises and contagion, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, armenia, bolivia, colombia

@@ -1,6 +1,6 @@
 # Sources — Sectors Of The Economy
 
-countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Zimbabwe, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras, Nicaragua, Bulgaria, India, Bolivia
+countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Zimbabwe, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras, Nicaragua, Bulgaria, India, Bolivia, Colombia
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -242,7 +242,16 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Bolivia part — Sectores económicos — teaches: the three sectors defined by their position in the productive chain — primary/extraction (obtaining raw materials directly from nature: farming, herding, fishing, mining, timber), secondary/transformation (processing raw materials into consumption goods or semi-finished inputs), and tertiary/services (the sector with the most employment and growth in the world today) | Bolivia, *Bolivia Grade 10 Texto de Aprendizaje Ciencias Sociales Secundaria 4*, Sectores económicos — PDF pp. 79–80 |
 
-**Acceptance count: taught in 16 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras, Nicaragua, Bulgaria, India, Bolivia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 37:** *Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva* (student book, Spanish) — Ministerio de Educación Nacional, Colombia (2010 version, adapted by Corpoeducación); ISBN no ISBN printed. Title as printed: Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 112 (cover verified against the record title; 36,277,554 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 18, 42–43, 58–59, 70–91 (Unidad 7, "La importancia de la economía en nuestras vidas", is a full Economics unit); Geography parts pp. 6–66 (landscape, relief, biodiversity, population, regions); Civics/values parts pp. 92–108 (decisions, dilemmas, relationships) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 7, Guía 13: los sectores de la economía — teaches: economic activities classify into three sectors — primary (agriculture, livestock, mining, crafts; raw material from natural resources), secondary (industry transforming raw materials into products), and the urban sector of industrial production, distribution of goods and services (workers, technicians, merchants, sellers) | Colombia, *Colombia Grade 5 Escuela Nueva G5 Cartilla 2*, Unidad 7, Guía 13: los sectores de la economía — printed p. 74 |
+
+**Acceptance count: taught in 17 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras, Nicaragua, Bulgaria, India, Bolivia, Colombia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Colombia's own way (Colombia Grade 5 Escuela Nueva G5 Cartilla 2): the fullest primary Economics unit in the set — work, goods, sectors, money, prices and the market are all taught from the child's own plaza de mercado, ending in a real market-day fieldwork and market survey.
 
 Bolivia's own way (Bolivia Grade 10 Texto de Aprendizaje Ciencias Sociales Secundaria 4): alongside the national story (Sucre's tax design, the silver cycle, the rubber boom), this year carries the wave's most textbook-like basic economics in the Bolivia set — supply and demand, the production–distribution–consumption cycle and the three sectors, all inside a unit on natural resources and Mother Earth.
 
@@ -314,4 +323,4 @@ Bulgaria's own way (Bulgaria Grade 6 Geography and Economics): each continent's 
 
 Bulgaria's own way (Bulgaria Grade 10 Geography and Economics): at Grade 10 the pupil meets the whole national economy at once — its three sectors with the 2021 employment shares (services 74.2%, processing 21.9%, extractive 3.9%), GDP and GNI defined in a box, and the market economy explained through Bulgaria's own post-1989 reform: privatisation, commodity and labour exchanges, and prices set on the market.
 
-Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Syria, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources, laos, three kinds of business, producing trading services, weaving, repair shops, zimbabwe, teacher guide evidence, dominican republic, palestine, cambodia, egypt, honduras, nicaragua, bulgaria, india, bolivia
+Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Syria, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources, laos, three kinds of business, producing trading services, weaving, repair shops, zimbabwe, teacher guide evidence, dominican republic, palestine, cambodia, egypt, honduras, nicaragua, bulgaria, india, bolivia, colombia

@@ -368,7 +368,16 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Iraq part — Livestock wealth — teaches: animal wealth's big importance in Iraq's economy as an important source of national income, and the farming problems that hold it back (salinity and waterlogging of irrigated land) | Iraq, *Iraq Grade 9 Social Studies*, Livestock wealth — printed p. 57 |
 
-**Acceptance count: taught in 34 countries (Ethiopia, Guatemala, Ukraine, Ecuador, Bolivia, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Samoa, Colombia, Malaysia, Eritrea, Rwanda, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Moldova, Honduras, Nepal, Nicaragua, Bhutan, Armenia, Cuba, Greece, Kazakhstan, Kuwait, Jordan, Yemen, Iran, Iraq). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Book 95:** *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva* (student book, Spanish) — Ministerio de Educación Nacional, República de Colombia; year 2010 version (adapted by Corpoeducación); ISBN no ISBN printed. Title as printed: Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 136 (cover verified against the record title; 14,284,344 bytes via release grab, size-verified by grab.py; tree route 404 — the book lives as a release asset, not a tree file). Verdict: COMPLETE. Contents map: Economics parts printed pp. 75–80, 105–108; Civics/identity/family/community-norms parts pp. 7–74, 81–98; Geography parts pp. 99–104, 109–117; Civics (municipality) pp. 118–131 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 2, Guía 5: comunidades rurales y urbanas — teaches: communities are rural or urban by the work people do; rural work covers agriculture (coffee, yuca, cotton, rice, sugar cane, flowers), livestock, fishing and mining/timber extraction, alongside teachers, doctors and officials | Colombia, *Colombia Grade 2 Escuela Nueva G2 Cartilla 1*, Unidad 2, Guía 5: comunidades rurales y urbanas — printed p. 75 |
+
+**Acceptance count: taught in 34 countries (Ethiopia, Guatemala, Ukraine, Ecuador, Bolivia, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Samoa, Colombia, Malaysia, Eritrea, Rwanda, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Moldova, Honduras, Nepal, Nicaragua, Bhutan, Armenia, Cuba, Greece, Kazakhstan, Kuwait, Jordan, Yemen, Iran, Iraq). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.** Colombia was already counted in this lesson from the earlier waves; the Economics-expansion rows are stocked as depth for the same country, so the count does not rise.
+
+Colombia's own way (Colombia Grade 2 Escuela Nueva G2 Cartilla 1): rural Escuela Nueva children learn the economy from their own vereda — farm, livestock and fishing work first, then how town and country exchange products.
 
 Iraq's own way (Iraq Grade 8 Social Studies): Grade 8 teaches the Arab world as one economic space — its crops, animals, oil and minerals, the conditions that make industry succeed, and its trade, foreign and domestic — after a first term spent on the same resources governorate by governorate at home.
 
@@ -410,7 +419,7 @@ Iran's own way (Iran Grade 7 Social Studies): production and consumption are tau
 
 Iran's own way (Iran Grade 9 Social Studies): productivity is framed with Qur'anic and religious warrants (no extravagance, moderation, consultation) and capped by the resistance-economy doctrine; world inequality is read off Iran's own rising Human Development Index chart.
 
-Searchable tags: economic activities: the three levels, culture and work, social studies, ethiopia, Guatemala, Ukraine, Geografiya Gilberg, Ecuador, Bolivia, Ciencias Sociales Bolivia, eritrea economics expansion, primary secondary tertiary activities, palestine, venezuela, jordan, yemen, nepal, nicaragua, iran, iraq
+Searchable tags: economic activities: the three levels, culture and work, social studies, ethiopia, Guatemala, Ukraine, Geografiya Gilberg, Ecuador, Bolivia, Ciencias Sociales Bolivia, eritrea economics expansion, primary secondary tertiary activities, palestine, venezuela, jordan, yemen, nepal, nicaragua, iran, iraq, colombia
 
 Palestine's own way (Grade 7, PS G7P1): the world is taught continent by continent through one fixed lens — astronomical location (latitude and longitude) and geographical location first, then surface features and general characteristics — with the spread of the Islamic state across each continent as the historical thread.
 

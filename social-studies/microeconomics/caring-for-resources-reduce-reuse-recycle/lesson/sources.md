@@ -1,6 +1,6 @@
 # Sources — Caring for resources — reduce, reuse, recycle
 
-countries: Ethiopia, Zambia, Bahamas, Jordan, Fiji, Bulgaria, Iran, India
+countries: Ethiopia, Zambia, Bahamas, Jordan, Fiji, Bulgaria, Iran, India, Colombia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -79,7 +79,16 @@ countries: Ethiopia, Zambia, Bahamas, Jordan, Fiji, Bulgaria, Iran, India
 |---|---|
 | India part — Ch 1: resource conservation and sustainable development — using resources carefully, reducing consumption, recycling and reusing, with principles of sustainable development — teaches: conserving resources for future generations | India, *India Grade 8 Resources and Development*, Ch 1 — printed p. 4 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Bahamas, Jordan, Fiji, Bulgaria, Iran, India). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 13:** *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva* (student book, Spanish) — Ministerio de Educación Nacional, República de Colombia; year 2010 version (adapted by Corpoeducación); ISBN no ISBN printed. Title as printed: Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 136 (cover verified against the record title; 14,284,344 bytes via release grab, size-verified by grab.py; tree route 404 — the book lives as a release asset, not a tree file). Verdict: COMPLETE. Contents map: Economics parts printed pp. 75–80, 105–108; Civics/identity/family/community-norms parts pp. 7–74, 81–98; Geography parts pp. 99–104, 109–117; Civics (municipality) pp. 118–131 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 3, Guía 6: los recursos naturales se pueden agotar — teaches: badly used resources run out (polluted rivers, felled forests, dynamite fishing); communities must use natural resources responsibly because people depend on them to survive | Colombia, *Colombia Grade 2 Escuela Nueva G2 Cartilla 1*, Unidad 3, Guía 6: los recursos naturales se pueden agotar — printed p. 108 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Bahamas, Jordan, Fiji, Bulgaria, Iran, India, Colombia). Zambia is teacher-module evidence only — named here, counted nowhere.**
+
+Colombia's own way (Colombia Grade 2 Escuela Nueva G2 Cartilla 1): rural Escuela Nueva children learn the economy from their own vereda — farm, livestock and fishing work first, then how town and country exchange products.
 
 India's own way (India Grade 8 Resources and Development): Economic geography is taught through Indian anchors — a 1.5-hectare Uttar Pradesh farm set against a 250-hectare Iowa farm, Jamshedpur steel, Ahmedabad as the "Manchester of India", and cooperative dairies (Amul/AMUL pattern, Sudha) as an ownership form.
 
@@ -106,4 +115,4 @@ Bulgaria's own way (Bulgaria Grade 10 Geography and Economics): at Grade 10 the 
 
 Iran's own way (Iran Grade 3 Social Studies): Economics enters at Grade 3 through the family — needs, income, natural resources and careful consumption, with wastefulness (اسراف) framed as a religious as well as practical fault.
 
-Searchable tags: conservation pollution, reduce reuse recycle, waste, ethiopia, zambia, natural resource management, tree planting, teacher module evidence, social studies, microeconomics, bahamas, jordan, Fiji, bulgaria, iran, india
+Searchable tags: conservation pollution, reduce reuse recycle, waste, ethiopia, zambia, natural resource management, tree planting, teacher module evidence, social studies, microeconomics, bahamas, jordan, Fiji, bulgaria, iran, india, colombia

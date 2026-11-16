@@ -1,6 +1,6 @@
 # Sources — Markets — and the market for goods and services
 
-countries: Ethiopia, Guatemala, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia, Nepal, Bulgaria, Iran, Iraq, India
+countries: Ethiopia, Guatemala, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia, Nepal, Bulgaria, Iran, Iraq, India, Colombia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -126,7 +126,16 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | India part — Ch 7 Markets Around Us: weekly markets, neighbourhood shops, shopping complexes and malls as the places buying and selling happen — teaches: the kinds of markets in everyday life | India, *India Grade 7 Social and Political Life-II*, Ch 7 Markets Around Us — printed p. 82 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia, Nepal, Bulgaria, Iran, Iraq, India). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+**Book 20:** *Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva* (student book, Spanish) — Ministerio de Educación Nacional, Colombia (2010 version, adapted by Corpoeducación); ISBN no ISBN printed. Title as printed: Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 112 (cover verified against the record title; 36,277,554 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 18, 42–43, 58–59, 70–91 (Unidad 7, "La importancia de la economía en nuestras vidas", is a full Economics unit); Geography parts pp. 6–66 (landscape, relief, biodiversity, population, regions); Civics/values parts pp. 92–108 (decisions, dilemmas, relationships) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 7, Guía 14: elementos de intercambio / el mercado — teaches: every exchange has four elements (the buyer who demands, the seller who offers, the product, the money); buying and selling happens in a market — a plaza, shop, shopping centre or even the Internet — where offerers and demanders need and complement each other, with money mediating, and the seller's takings become new inputs and profit | Colombia, *Colombia Grade 5 Escuela Nueva G5 Cartilla 2*, Unidad 7, Guía 14: elementos de intercambio / el mercado — printed p. 84 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia, Nepal, Bulgaria, Iran, Iraq, India, Colombia). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+
+Colombia's own way (Colombia Grade 5 Escuela Nueva G5 Cartilla 2): the fullest primary Economics unit in the set — work, goods, sectors, money, prices and the market are all taught from the child's own plaza de mercado, ending in a real market-day fieldwork and market survey.
 
 India's own way (India Grade 7 Social and Political Life-II): Markets are taught as a chain you can walk — from a cotton farmer tied to a trader's loan, through ginning, spinning, putting-out weavers and an export factory, to a $26 shirt in a US store, with the money split counted at every step.
 
@@ -161,4 +170,4 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Iran's own way (Iran Grade 7 Social Studies): production and consumption are taught with Iranian anchors throughout — the historic bazaar as market and social centre, compulsory third-party car insurance, and the Silk Road crossing Iran as a bridge between East and West.
 
-Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit, rwanda, palestine, cambodia, bangladesh, yemen, vietnam, armenia, nepal, bulgaria, iran, iraq, india
+Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit, rwanda, palestine, cambodia, bangladesh, yemen, vietnam, armenia, nepal, bulgaria, iran, iraq, india, colombia

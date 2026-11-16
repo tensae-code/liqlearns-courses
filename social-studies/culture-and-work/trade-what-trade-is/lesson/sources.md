@@ -166,7 +166,25 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Pakistan part — Trade — teaches: trade split into domestic trade and international trade in a flow diagram, with self-sufficiency named as the no-trade case | Pakistan, *Pakistan Grade 4 Social Studies Class 4 SNC*, Trade — printed p. 97 |
 
-**Acceptance count: taught in 23 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, South Sudan, Pakistan).** South Sudan was already counted in this lesson from the earlier waves; the Economics-expansion Primary 4 teacher-guide and Primary 5 pupil's-book rows are stocked as depth for the same country, so the count does not rise. Jordan was already counted in this lesson from the earlier waves; the Economics-expansion rows are stocked as depth for the same country, so the count does not rise.
+**Book 46:** *Postprimaria — Ciencias Sociales 6º* (student book, Spanish) — Ministerio de Educación Nacional, República de Colombia (Postprimaria Rural; Fundación Manuel Mejía); ISBN no ISBN printed. Title as printed: Postprimaria — Ciencias Sociales 6º. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 226 (cover verified against the record title; 106,188,444 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 37–38, 128–137, 150–152 (Módulo 4 is titled "Economía, población…"); History/Culture parts pp. 9–122 (origin peoples, their knowledge, technologies, art and territories); Geography parts pp. 89–122, 138–149 (territory, maps, population, migrations); Civics parts pp. 160–224 (power, political systems, democracy, conflicts, rights, participation) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 4, Guía 11: el intercambio de productos — teaches: peoples developed exchange to obtain goods their territory does not produce; trade is the oldest form of cultural and economic encounter, and its origins lie in unequal resources, geographic position, new techniques, state organisation and groups specialising in exchange | Colombia, *Colombia Grade 6 Postprimaria G6*, Módulo 4, Guía 11: el intercambio de productos — printed p. 135 |
+
+**Book 47:** *Secundaria Activa — Ciencias Sociales, Grado 6º* (student book, Spanish) — Ministerio de Educación Nacional, República de Colombia; ISBN no ISBN printed. Title as printed: Secundaria Activa — Ciencias Sociales, Grado 6º. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 256 (cover verified against the record title; 13,941,417 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 92–93, 117–119, 145–150, 185–193; Science/Geography parts pp. 14–91 (universe, Earth, water, air, evolution, settlement routes); Geography parts pp. 94–116, 120–131 (continents and their resources); History/Civics parts pp. 132–184, 194–255 (ancient agriculture and political structures, legacies, democracy, norms and laws) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 3, Tema 21: el comercio y el contacto cultural y tecnológico — teaches: coastal peoples specialised in exploiting their region's most abundant natural resource to exchange it through sea merchants (mercaderes: people who buy or sell merchandise across geographic spaces), who founded exchange cities and workshops; barter is defined as exchanging products at the same equivalence | Colombia, *Colombia Grade 6 Secundaria Activa G6*, Unidad 3, Tema 21: el comercio y el contacto cultural y tecnológico — printed p. 187 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, South Sudan, Pakistan).** South Sudan was already counted in this lesson from the earlier waves; the Economics-expansion Primary 4 teacher-guide and Primary 5 pupil's-book rows are stocked as depth for the same country, so the count does not rise. Jordan was already counted in this lesson from the earlier waves; the Economics-expansion rows are stocked as depth for the same country, so the count does not rise. Colombia was already counted in this lesson from the earlier waves; the Economics-expansion rows are stocked as depth for the same country, so the count does not rise.
+
+Colombia's own way (Colombia Grade 6 Postprimaria G6): Postprimaria teaches Economics through indigenous production systems — ancestral farming, crafts, barter and the fights over tagua and coltan.
+
+Colombia's own way (Colombia Grade 6 Secundaria Activa G6): Secundaria Activa teaches the world economy comparatively — Asia's three agricultures, Japan's people, oil exporters — and names Colombia's own apertura económica debate.
 
 Pakistan's own way (Pakistan Grade 4 Social Studies Class 4 SNC): Economics enters at Class 4 as one named chapter of Social Studies, taught in Urdu with English concept labels, through Pakistani examples — the State Bank of Pakistan, a National Bank of Pakistan cheque, and Pakistan's own import/export goods.
 
@@ -179,7 +197,7 @@ Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade
 
 Jordan's own way — Economics expansion (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family story that starts at the hundred-year-old Hejaz railway, runs from barter and camel peddlers to e-commerce, and lands on the child's own choices — what a family can and cannot do without, where income comes from, and what 2, 3, 5 or 12 dinars in hand can buy.
 
-Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, eritrea economics expansion, buying selling exchanging, farmer bus owner wage worker, south sudan, palestine, jordan, pakistan
+Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, eritrea economics expansion, buying selling exchanging, farmer bus owner wage worker, south sudan, palestine, jordan, pakistan, colombia
 
 Palestine's own way (Grade 5, PS G5P2): the settlement story is told as a ladder — farming, animal domestication, the agricultural village, the Palestinian village of today, then the city located on the map — and the year closes with the road itself: what a road is, its parts, and how to cross it safely.
 

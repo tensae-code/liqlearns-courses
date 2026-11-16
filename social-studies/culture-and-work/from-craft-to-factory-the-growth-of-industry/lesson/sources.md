@@ -1,6 +1,6 @@
 # Sources — From Craft To Factory The Growth Of Industry
 
-countries: Iceland, Mozambique, Dominican Republic, Palestine, Venezuela, Bolivia
+countries: Iceland, Mozambique, Dominican Republic, Palestine, Venezuela, Bolivia, Colombia
 
 **Book 1:** *Módulo 7 de Geografia — Indústria e Comércio* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 7 de Geografia — Indústria e Comércio. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 80 (title page verified against the record title; byte size 3,077,013 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (contents page skips the Lição 3 number; the lesson is present in the body at printed p. 19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
@@ -47,7 +47,16 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Bolivia part — La Primera Revolución Industrial: la mecanización (Year 3) — teaches: mechanisation defined — machines replacing hand work in turning raw materials into finished products — steam power allowed mass production, textile mills produced cloth faster and in greater quantity, production costs fell and demand and economic prosperity rose (teacher guide — evidence) | Bolivia, *Bolivia Compendio Ciencias Sociales*, La Primera Revolución Industrial: la mecanización (Year 3) — PDF p. 94 |
 
-**Acceptance count: taught in 4 countries (Mozambique, Dominican Republic, Palestine, Venezuela). Iceland is teacher-guide evidence only — named here, counted nowhere. Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+**Book 8:** *Ciencias Sociales 5 — Primera Cartilla, Escuela Nueva* (student book, Spanish) — Ministerio de Educación Nacional, Colombia (2010 version, adapted by Corpoeducación); ISBN no ISBN printed. Title as printed: Ciencias Sociales 5 — Primera Cartilla, Escuela Nueva. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 112 (cover verified against the record title; 14,608,389 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 41–53; History parts pp. 6–39 (Colony and Independence); Civics parts pp. 58–77 (norms, laws, Constitution, branches of power); Culture parts pp. 78–108 (Afro-Colombian and indigenous peoples) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/colombia-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 2, Guía 4: el trabajo artesano / el trabajo obrero — teaches: artisans make goods by hand in workshops (cloth, hats, leather, furniture, tools); factory workers use production machines — the same shoe can be made artisanally, part by part by a shoemaker, or in a factory in large quantities | Colombia, *Colombia Grade 5 Escuela Nueva G5 Cartilla 1*, Unidad 2, Guía 4: el trabajo artesano / el trabajo obrero — printed p. 47 |
+
+**Acceptance count: taught in 5 countries (Mozambique, Dominican Republic, Palestine, Venezuela, Colombia). Iceland is teacher-guide evidence only — named here, counted nowhere. Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+
+Colombia's own way (Colombia Grade 5 Escuela Nueva G5 Cartilla 1): Economics arrives as the history of Colombian work itself — campesinos, coffee labourers, artisans threatened by free trade, and the first unions and strikes.
 
 Bolivia's own way (Bolivia Compendio Ciencias Sociales): economics is taught almost entirely through Bolivia's own history — the colonial extraction institutions (encomienda, mita, tribute), the silver-to-tin mining cycles and the barons who captured them, and the recurring national answers: nationalisation (1937, 1952, 2006), agrarian reform, stabilisation plans and the plurinational rejection of water privatisation.
 
@@ -61,4 +70,4 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a l
 
 Iceland's own way: economics arrives inside 19th-century history — pupils role-play a factory meeting where wages must fall, and rank strike-decision cards, before they ever meet a textbook definition. This Iceland material stands on the teacher guide as evidence only.
 
-Searchable tags: from craft to factory the growth of industry, Mozambique, Iceland, late industrial revolution, fisheries, joint-stock company, teacher guide evidence, social studies, culture-and-work, Dominican Republic, palestine, venezuela, bolivia
+Searchable tags: from craft to factory the growth of industry, Mozambique, Iceland, late industrial revolution, fisheries, joint-stock company, teacher guide evidence, social studies, culture-and-work, Dominican Republic, palestine, venezuela, bolivia, colombia
