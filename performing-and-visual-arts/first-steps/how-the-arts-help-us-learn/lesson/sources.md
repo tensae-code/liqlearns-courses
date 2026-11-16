@@ -1,6 +1,6 @@
 # Sources — How the Arts Help Us Learn
 
-countries: Ethiopia
+countries: Ethiopia, Jamaica
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
@@ -15,6 +15,8 @@ countries: Ethiopia
 **Book 7:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
 **Book 8:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
+
+**Book 9:** *National Standards Curriculum — Exploratory Core, Grade 6 (Language Arts | Science | Social Studies | Mathematics) (FINAL, Jan 08 2020)* (curriculum guide) — Jamaica, Ministry of Education, Youth & Information, Jamaica, 2020, no ISBN printed, Grade 6, English, 373 PDF pp. TEACHER — a curriculum guide for other subjects (Language Arts, Science, Social Studies, Mathematics); the arts appear in it as cross-curricular links and in the arts-teaching activities placed here. Read in place in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jamaica-placements.md. **Teacher curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -41,8 +43,10 @@ countries: Ethiopia
 | Sub lesson 19 — Art relates to every subject — the Grade 8 chapter set | Grade 8 Student Textbook, §5.1 Art relates to every subject, printed pp. 121–122; §5.1.1 Performing art and social science, printed pp. 124–125; §5.1.1 Performing art and mathematics, printed pp. 125–126; §5.1.1 Performing art and language, printed pp. 126–127 |
 | Sub lesson 20 — The Grade 4 chapter closes (chapter closing — Grade 4) — G4S-98 | Grade 4 Student Textbook, Ch. 5 summary and closing exercise (closing fold), printed pp. 97–99 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count.
 
 Every subject claim is a book's own claim, cited to its section and page: Grade 2's §5.2 sequence (language p. 74, science p. 79, social studies pp. 84–87, maths pp. 89–92) and Grade 3's §5.2 sequence (principle and language p. 71, maths pp. 74–76, science p. 77). The Grade 2 teacher-guide row is cited at section level only, because that guide is a scan with no text layer, read visually — as its placements file states. Health and physical education through the arts (Grade 2 §5.2.4, Grade 3 §5.2.4) belongs to the dance and games lessons and is not stocked here.
+
+| Jamaica — Mathematics: watch a video tutorial on area and perimeter, then generate songs, games, dramatizations, mimes and dance to differentiate the two concepts (teacher curriculum guide — evidence; original target `first-steps/how-the-arts-help-us-learn`) | Book 9, PDF p. 288 |
 
 Searchable tags: how the arts help us learn, arts for language, arts for maths, arts for science, arts for social studies, picture sums

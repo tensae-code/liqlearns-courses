@@ -72,7 +72,11 @@ The titles, in ladder order:
    (Cyprus teacher unit material, evidence); and work songs and
    sea shanties — "Day-O", the Jamaican banana-boat song of the
    night-shift banana loaders (Cyprus teacher unit material,
-   evidence, summary only).
+   evidence, summary only). The Art expansion added: Caribbean
+   music and dance — learning the Caribbean's music and dance
+   from a social studies text itself, using its features to
+   locate and extract what it says plainly (Jamaica teacher
+   curriculum guide, evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -91,7 +95,11 @@ The titles, in ladder order:
    drama structures, making art together, costume and make-up,
    the elements of drama and of film making, literary and
    technical elements of theatre, genres of theatre and film,
-   and styles and approaches in theatre and film.
+   and styles and approaches in theatre and film. The Art
+   expansion added: tableau — living pictures, freezing into a
+   still picture of a scene in a financial institution and
+   thought-tracking the frozen figures (Jamaica teacher
+   curriculum guide, evidence).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New

@@ -1,6 +1,6 @@
 # Sources — The Arts Connect to Everything
 
-countries: Ethiopia
+countries: Ethiopia, Jamaica
 
 **Book 1:** *Performing and Visual Arts Teacher Guide Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, ISBN 978-997744-2-046-9, printed pp. i–ix + 1–79. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g09-teacher-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia
 **Book 6:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 
 **Book 7:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
+
+**Book 8:** *National Standards Curriculum — Exploratory Core, Grade 4 (Language Arts | Science | Social Studies | Mathematics)* (curriculum guide) — Jamaica, Ministry of Education, Youth & Information, Jamaica, 2020 (Jan 2020 edition), no ISBN printed, Grade 4, English, 370 PDF pp. TEACHER — a curriculum guide for other subjects (Language Arts, Science, Social Studies, Mathematics); the arts appear in it as cross-curricular links and in the arts-teaching activities placed here. Read in place in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jamaica-placements.md. **Teacher curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -40,8 +42,10 @@ countries: Ethiopia
 
 | Sub lesson 13 — The Grade 8 chapter closes (chapter closing — Grade 8) — G8S-107 | Grade 8 Student Textbook, Ch. 5 summary, checklist and closing exercises (closing fold), printed pp. 136–137 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia) and Jamaica teacher curriculum-guide evidence, named here, counted nowhere.**
 
 This lesson stands on teacher-guide evidence only and carries the teacher-guide-evidence acceptance line. Its Grade 7–8 parts are EVIDENCE-LIMITED in the strict sense — those guides' files are truncated and their Unit 5 topics are placed from contents pages only, with no body wording claimed. The Grade 9–10 parts are read in full from the federal guides, which have no student books.
+
+| Jamaica — Perspectives of STEM/STEAM in relation to the National Standard Curriculum: why the Arts belong inside STEM — the "A" as Aesthetics, the discontent at neglecting the Performing Arts when creative industries contribute significantly to economic development, and the benefits of integrating the Arts (divergent thinking, arts integration, intrinsic motivation) (teacher curriculum guide — evidence; original target `first-steps/the-arts-connect-to-everything`) | Book 8, printed pp. xiv–xv |
 
 Searchable tags: arts integration, visual arts with other subjects, performing arts with other subjects, arts in society, arts in education, curriculum connections

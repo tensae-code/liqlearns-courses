@@ -204,7 +204,19 @@ lessons are the books'.
   The photocopiable song sheets are filed by summary only — no
   lyrics transcribed.
 
-**The whole course stands at 171 lessons, 2,786 questions and
+- **Art expansion — Jamaica — BUILT 2026-11-16:** 8 placements
+  stocked from 2 books (Grade 4 and Grade 6 *National Standards
+  Curriculum — Exploratory Core* guides — teacher curriculum
+  guides for other subjects, evidence only, kept outside the
+  acceptance counts; the Grade 5 guide is record-only for the
+  arts, 0 placements): 6 into existing lessons (The Arts Connect
+  to Everything; Appreciating the Arts; Acting Our History;
+  Mime, Fables and First Plays; Festivals and Their Arts; How
+  the Arts Help Us Learn), 2 NEW lessons (Music: Caribbean Music
+  and Dance; Drama and Dance: Tableau — Living Pictures),
+  24 questions added, media as described slots only.
+
+**The whole course stands at 173 lessons, 2,810 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
