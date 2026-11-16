@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **628**
+Economics lessons across the Economics titles: **636**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4533,4 +4533,13 @@ World Bank and the regional development banks;
 Microeconomics: Efficacy and efficiency in
 production, Setting the price of a product and
 The price as regulator of the economy).
-
++8 for Bulgaria,
+2026-11-16 — Microeconomics: Smart consumer
+choice — comparing goods and prices, Advertising
+— how it moves buyers, Enterprise specialisation
+and location, The entrepreneurial idea and the
+market niche, Market research — testing a
+business idea and Productivity — output per
+input; Macroeconomics: Public needs — services
+for everyone and Bulgaria — market-economy
+transition and EU membership).

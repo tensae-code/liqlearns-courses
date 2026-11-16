@@ -1,6 +1,6 @@
 # Sources — What a tax is
 
-countries: Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Albania, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua
+countries: Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Albania, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -137,7 +137,14 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nicaragua part — Los impuestos: redistribución en obras — teaches: taxes as redistribution — what the state collects returning to the population as public works and services | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Los impuestos: redistribución en obras — printed pp. 214–215 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+**Book 23:** Title as printed: Технологии и предприемачество за четвърти клас (Technology and Entrepreneurship for Grade 4). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Bit i Tekhnika (Издателство „Бит и техника" ООД, Varna); first edition 2019; no ISBN printed (the imprint carries a placeholder, ISBN 978-619-7457-XX-X). PDF pages: 42 (cover verified against the record title; image-only PDF read from 100-DPI contact sheets, Economics lessons read in full; byte size 12,150,450 verified against the repo record with matching blob SHA, fetched via the contents-metadata download URL). Verdict: PARTIAL — a crafts/technology workbook (mixed-bus contents-first): four lessons teach Economics concepts and are placed below; the rest is making activities, named in the Contents map and not placed. Contents map: Economics parts printed pp. 8 (Lesson 5 "The movement of money"), 10 (Lesson 7 "Money and banks"), 11 (Lesson 8 "Public needs"), 33 (Lesson 30 "Enterprises and professions"); Technology/crafts parts printed pp. 4–7, 9, 12–32, 34–39 (household electrical appliances and safety signs, household materials — with a packaging-durability table at printed p. 9, named not placed; stability of constructions, inclined plane, energy and motion, food processing, information activities and the lapbook, nature in danger, mechanisms, holiday crafts, end-of-year review and fun page). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria part — Economics expansion — Lesson 8 "Public needs" (Обществени потребности): the money needed for the services that satisfy public needs is provided in the form of taxes (данъци, the lesson's new word) — money that citizens and firms must set aside from their income and profit, whether or not they have used these services (filed as macroeconomics/taxes-where-the-money-comes-from; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 4 Technology and Entrepreneurship*, Lesson 8 "Public needs" (Обществени потребности) — printed p. 11 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
@@ -179,4 +186,7 @@ Laos' own way (Laos Grade 10 Business student): Economics is taught as the theor
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas, laos, income and taxes, wages salary profit, dominican republic, ITBIS, ISR, albania, uzbekistan, egypt, Fiji, vietnam, armenia, indonesia, nepal, nicaragua
+
+Bulgaria's own way (Bulgaria Grade 4 Technology and Entrepreneurship): Grade 4 is where money itself becomes the topic — its history from barter to banknotes, the bank as the go-between of people with surplus money and people who need it, and taxes explained as the price of needs no one can meet alone.
+
+Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas, laos, income and taxes, wages salary profit, dominican republic, ITBIS, ISR, albania, uzbekistan, egypt, Fiji, vietnam, armenia, indonesia, nepal, nicaragua, bulgaria

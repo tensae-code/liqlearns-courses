@@ -1,6 +1,6 @@
 # Sources — Domestic trade — wholesale and retail
 
-countries: Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan
+countries: Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -55,10 +55,20 @@ South Sudan's own way (South Sudan Primary 6): trade is taught as a tree — int
 |---|---|
 | Jordan part — Economics expansion — Unit 6 Lesson 2: The Trade Sector — domestic trade: trade inside the state's borders, moving goods and services between Jordan's own markets and shops, with retail trade among its kinds | Jordan, *Social Studies, Grade 5, Term 2*, Unit 6 Lesson 2: The Trade Sector — domestic trade — printed p. 32 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan).**
+
+**Book 8:** Title as printed: Технологии и предприемачество за пети клас (Technology and Entrepreneurship for Grade 5). Grade: Grade 5 (student/teacher: STUDENT). Publisher: Bit i Tekhnika (Издателство „Бит и техника" ООД, Varna); second edition 2026; ISBN 978-619-252-084-7. PDF pages: 86 (cover and title page verified against the record title; text-layer book, Economics section read in full from the text layer; byte size 21,238,259 verified against the repo record with matching blob SHA, fetched via the contents-metadata download URL). Verdict: PARTIAL — a Technology textbook with a dedicated Economics section (mixed-bus contents-first): Section 5 "Economics" (printed pp. 54–61) is placed below; the technology and nature sections are named in the Contents map and not placed. Contents map: Economics part printed pp. 54–61 (Section 5: needs and resources; basic economic activities — demand, supply, price; reasonable-shopping advice; the personal budget); Technology parts printed pp. 5–53 (design and construction, technique in the home, technologies — wood, textile and leather work, food and healthy eating, communications and control) and Section 6 "Nature at home" printed pp. 62–73 (plants and pets); section self-tests, summary diagrams (printed p. 76), final tests and the glossary (printed pp. 79–84) are assessment/inventory, not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria part — Economics expansion — "Basic economic activities" (Основни икономически дейности): in antiquity products were exchanged in kind; later producers began exchanging products for money, and traders appeared who bought up the producers' surplus products and resold them to the consumers looking for them — so the basic economic activities arose: production of goods, offering of services and trade in goods and services; trade is a service in which buying-and-selling of goods and services is done in order to resell them to other producers, traders and consumers, and the lesson's diagram runs producer → wholesale trader (търговец на едро) → retail traders (търговци на дребно) → consumers (filed as market-and-money/wholesalers-and-retailers; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 5 Technology and Entrepreneurship*, "Basic economic activities" (Основни икономически дейности) — printed p. 58 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria).**
 
 Venezuela's own way (Venezuela Grade 11 Venezuela G11 Geografía de Venezuela SB Spanish): the senior geography book is an economic survey of the whole country — land, oil, industry by ownership form, commerce under a fair-prices law, and integration as the Bolivarian alternative to free trade. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
 Jordan's own way (Jordan Grade 5 Term 2): Grade 5 gets the first formal market lesson in the whole set — supply and demand open with frost-damaged vegetables and Ramadan meat prices, trade is read off Aqaba port and Jordan's real export/import lists, and services are toured through Jordan's own schools platform, hospitals and tourist sites.
 
-Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money, south sudan, venezuela, jordan
+
+Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grade 5 the subject becomes a real textbook and Economics gets its own section — scarcity is named as the science's central problem, and price is taught through two market diagrams: big demand lifts prices, big supply pushes them down until some firms go bankrupt.
+
+Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money, south sudan, venezuela, jordan, bulgaria

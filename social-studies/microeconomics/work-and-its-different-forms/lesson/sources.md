@@ -1,6 +1,6 @@
 # Sources — Work and its different forms
 
-countries: United Arab Emirates, Jordan
+countries: United Arab Emirates, Jordan, Bulgaria
 
 **Book 1:** *Social Studies and National Education, Grade 1, Volume 3* (student book, Arabic) — United Arab Emirates, Ministry of Education, United Arab Emirates; year 2025–2026 (1446–1447H); no ISBN printed. Title as printed: الدراسات الاجتماعية والتربية الوطنية — كتاب الطالب — الصف الأول — المجلد الثالث (Social Studies and National Education — Student Book — Grade 1 — Volume 3). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 119 (cover/title page verified against the record title — this is the third-term volume named in the record). Verdict: COMPLETE (contents-first read: full contents mapped; the one Economics teaching lesson read fully page by page). Contents map: Economics parts printed pp. 40–53 (Unit 5, Lesson 3, "I love to work"); Civics parts pp. 12–25 and pp. 56–69; Geography/Science parts pp. 26–39 and pp. 82–94; History parts pp. 70–81; glossary p. 95 (inventory-only — named in this book entry, not stocked). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-arab-emirates-placements.md
 
@@ -16,10 +16,20 @@ countries: United Arab Emirates, Jordan
 |---|---|
 | Jordan part — Economics expansion — Unit 3 Lesson 4: Professions in My Homeland: a profession/occupation is the work people do to earn a living and serve society (teacher, engineer, doctor, programmer, seller, baker, trader), technology creates new professions (digital content maker, games developer), and every profession matters because people complete one another (filed as NEW LESSON NEEDED — microeconomics/occupations-jobs-people-do; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Jordan, *Social Studies, Grade 2, Term 1*, Unit 3 Lesson 4: Professions in My Homeland — printed p. 55 |
 
-**Acceptance count: taught in 2 countries (United Arab Emirates, Jordan).**
+
+**Book 3:** Title as printed: Технологии и предприемачество за седми клас (Technology and Entrepreneurship for Grade 7). Grade: Grade 7 (student/teacher: STUDENT). Publisher: Bit i Tekhnika (Издателство „Бит и техника" ООД, Varna); first edition 2018; ISBN 978-619-7457-29-2. PDF pages: 98 (cover verified against the record title; image-only PDF read from 100-DPI contact sheets, Economics section read in full; byte size 66,109,574 verified against the repo record with matching blob SHA, fetched via the contents-metadata download URL). Verdict: PARTIAL — a Technology textbook with a dedicated Economics section (mixed-bus contents-first): Section 5 "Economics" (printed pp. 65–78) plus the ecological-production topic in Section 6 (printed pp. 84–85) are placed below; the technology sections are named in the Contents map and not placed. Contents map: Economics parts printed pp. 66–71 (the enterprise as organisational form of business — firm, legal forms, marketing, advertising; exercises with the student firm, organisational structure, marketing research and the advertising-poster project), 72–73 (budget of the enterprise), 74–77 (professional orientation — profession and career), 84–85 (ecological agricultural production, inside Section 6 "Nature at home"); Technology parts printed pp. 5–64 (design and construction, technique — metrology, machines, the electronic revolution, communications and control) and the rest of Section 6 (agricultural activities in the personal holding); the section test (printed p. 78), final tests, summary diagrams and glossary at the end are assessment/inventory, not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria part — Economics expansion — "Professional orientation" (Професионално ориентиране): a profession is the totality of knowledge and skills that determines a person's ability to perform a definite work, and professional (career) orientation unites the choice of profession with the possibilities for education, training and employment, focusing on the interaction between learning and the labour market; in the project pages the point is made plainly — the most important source of income is the profession: it is the financial basis of the household, of the family and of life in general, and it is pointless to study a profession that does not answer to your wishes, preferences, inclinations and abilities (filed as culture-and-work/choosing-a-career-and-earning-a-living; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 7 Technology and Entrepreneurship*, "Professional orientation" (Професионално ориентиране) — printed pp. 74–77 |
+
+**Acceptance count: taught in 3 countries (United Arab Emirates, Jordan, Bulgaria).**
 
 United Arab Emirates' own way: economics begins in Grade 1 inside the work lesson — needs sorted at the supermarket shelf, then the child's own dirham coins named by value. This lesson is that work lesson's opening: work comes before needs and money in the book's own order. The lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
 Jordan's own way (Jordan Grade 2 Term 1): Work is introduced as the last lesson of the community unit — a profession is defined by earning a living and serving society, and a town story (teacher, doctor, cook, farmer) shows each job completing the others.
 
-Searchable tags: work, profession, jobs, policeman, united arab emirates, social studies, microeconomics, jordan
+
+Bulgaria's own way (Bulgaria Grade 7 Technology and Entrepreneurship): Grade 7 registers a firm — the class founds a student company, chooses between sole trader, partnership and limited company by who answers with their own property, writes its founding budget, and scores its market chance before it sells anything.
+
+Searchable tags: work, profession, jobs, policeman, united arab emirates, social studies, microeconomics, jordan, bulgaria

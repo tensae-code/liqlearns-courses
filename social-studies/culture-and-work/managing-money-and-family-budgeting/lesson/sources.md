@@ -1,6 +1,6 @@
 # Sources — Managing Money and Family Budgeting
 
-countries: Fiji, Ecuador, Cambodia
+countries: Fiji, Ecuador, Cambodia, Bulgaria
 
 **Book 1:** *Exploring the World — Year 8 Pupil's Book* (student book, English) — Fiji, Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed. Title as printed: Exploring the World — Year 8 Pupil's Book. Grade: Year 8 (student/teacher: STUDENT). PDF pages: 73 (title page verified against the record title — the title page itself notes the cover page is held separately; all teaching content present). Verdict: PARTIAL — cover art page absent from the file; all teaching content present. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Unit 1 Social Organisation and Processes — world organisations, personal/social groups, cultural identity and cohesion (printed pp. 7–24); Unit 2 Time, Continuity and Change — understanding the past and continuity and change in world history (pp. 25–36). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -29,7 +29,14 @@ countries: Fiji, Ecuador, Cambodia
 |---|---|
 | Fiji part — Lesson 2.1, Personal Finance: Budgets and Income Decisions — teaches: income, saving and debt decisions, income shocks and commitments, steps in preparing a budget, and worked family budgets with fixed and variable expenses | Fiji, *Fiji Grade 11 Economics Year 11 Part 1*, Lesson 2.1, Personal Finance: Budgets and Income Decisions — teaches: income, saving and debt decisions, income shocks and commitments, steps in preparing a budget, and worked family budgets with fixed and variable expenses — printed p. 26 |
 
-**Acceptance count: taught in 3 countries (Fiji, Ecuador, Cambodia).**
+
+**Book 5:** Title as printed: Технологии и предприемачество за шести клас (Technology and Entrepreneurship for Grade 6). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Bit i Tekhnika (Издателство „Бит и техника" ООД, Varna); second edition 2026; ISBN 978-619-252-085-4. PDF pages: 82 (cover and title page verified against the record title; text-layer book, Economics section read in full from the text layer; byte size 21,353,885 verified against the repo record with matching blob SHA, fetched via the contents-metadata download URL). Verdict: PARTIAL — a Technology textbook with a dedicated Economics section (mixed-bus contents-first): Section 5 "Economics" (printed pp. 49–61) plus the farm-business topic in Section 6 (printed p. 70) are placed below; the technology sections are named in the Contents map and not placed. Contents map: Economics parts printed pp. 50 (specialisation and division of labour), 52 (cost price and price of production — "Business and money"), 54–57 (budget — "Home economics", with the family-budget exercises), 58–61 (entrepreneurial business, with the Walt Disney story and a market-research task) and 70 ("Business in the village", inside Section 6 "Nature in the yard"); Technology parts printed pp. 5–48 (design and construction, technique — energy in the home, technologies — metal and combined materials, food technology, communications) and the rest of Section 6 (garden and farm animals); section self-tests, summary diagrams and the glossary (printed pp. 74–80) are assessment/inventory, not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria part — Economics expansion — "Home economics" (Домашна икономика): the ways to improve an unbalanced budget are increasing income, reducing expenses, or both; if income cannot be increased, a choice must be made in fixing the expenses, and the decision-taking strategy includes defining the alternatives, clarifying the criteria, and evaluating and choosing the alternatives — comparisons are made with the help of the decision grid; every household member can also add to income (a second job, work in the personal holding, care for elderly people or pets) (filed as culture-and-work/coping-when-money-is-tight; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 6 Technology and Entrepreneurship*, "Home economics" (Домашна икономика) — printed p. 54 |
+
+**Acceptance count: taught in 4 countries (Fiji, Ecuador, Cambodia, Bulgaria).**
 
 Fiji's own way (Fiji Grade 11 Economics Year 11 Part 1): A full direct-approach course built on the circular flow, with Fiji examples throughout — ginger supply curves, Fiji import tables, quarry and land-rent income, the Attu family budget, Fiji credit facilities, sugar-industry production stages and Reserve Bank of Fiji policy tools.
 
@@ -39,4 +46,7 @@ Ecuador's own way (Ecuador Grade 13 Emprendimiento y Gestión): Economics enters
 
 Cambodia's own way (Cambodia Grade 10 Social Studies): Economics at Grade 10 is taught through the family — the national sector shares are read from data tables, then the same lens is turned on the Khmer family's income and spending, and finally on running a family business and working out its profit.
 
-Searchable tags: managing money and family budgeting, Fiji, Ecuador, surplus, deficit, family budget, social studies, culture-and-work, cambodia
+
+Bulgaria's own way (Bulgaria Grade 6 Technology and Entrepreneurship): Grade 6 prices a product the Bulgarian way — cost price (себестойност) built from direct and indirect costs, a calculation (калкулация) that adds the planned profit, and an "alternative price" for the road not taken.
+
+Searchable tags: managing money and family budgeting, Fiji, Ecuador, surplus, deficit, family budget, social studies, culture-and-work, cambodia, bulgaria

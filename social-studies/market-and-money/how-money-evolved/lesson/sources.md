@@ -1,6 +1,6 @@
 # Sources — How money evolved — commodity, paper, cheques, electronic
 
-countries: Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen
+countries: Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -57,7 +57,14 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Yemen part — Unit 5 L1 Money §emergence and development of money — teaches: money emerging as exchange grew, from commodity money to the modern forms | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 5 L1 Money §emergence and development of money — printed p. 61 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen).**
+
+**Book 9:** Title as printed: Технологии и предприемачество за четвърти клас (Technology and Entrepreneurship for Grade 4). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Bit i Tekhnika (Издателство „Бит и техника" ООД, Varna); first edition 2019; no ISBN printed (the imprint carries a placeholder, ISBN 978-619-7457-XX-X). PDF pages: 42 (cover verified against the record title; image-only PDF read from 100-DPI contact sheets, Economics lessons read in full; byte size 12,150,450 verified against the repo record with matching blob SHA, fetched via the contents-metadata download URL). Verdict: PARTIAL — a crafts/technology workbook (mixed-bus contents-first): four lessons teach Economics concepts and are placed below; the rest is making activities, named in the Contents map and not placed. Contents map: Economics parts printed pp. 8 (Lesson 5 "The movement of money"), 10 (Lesson 7 "Money and banks"), 11 (Lesson 8 "Public needs"), 33 (Lesson 30 "Enterprises and professions"); Technology/crafts parts printed pp. 4–7, 9, 12–32, 34–39 (household electrical appliances and safety signs, household materials — with a packaging-durability table at printed p. 9, named not placed; stability of constructions, inclined plane, energy and motion, food processing, information activities and the lapbook, nature in danger, mechanisms, holiday crafts, end-of-year review and fun page). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria part — Economics expansion — Lesson 5 "The movement of money" (Движение на парите): in antiquity people made their own food and things and exchanged the surplus for products made by others, but exchange often failed for lack of agreement, so rare objects came to be used as exchange goods (shells, glass beads, animals' teeth); then real money was invented — objects recognised everywhere and by everyone; the first money was coins cut from the precious metals gold and silver, which set their value, and after them came banknotes — paper sheets with their exchange value printed on them, carried more easily and used more conveniently than heavy coins; to use money properly you must tell real banknotes from fakes by their security features (hologram strip, security thread, watermark, relief print, register); new word: money (пари) (filed as market-and-money/coins-and-banknotes-what-money-looks-like; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 4 Technology and Entrepreneurship*, Lesson 5 "The movement of money" (Движение на парите) — printed p. 8 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria).**
 
 Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
@@ -69,4 +76,7 @@ Uganda's own way: Uganda's money story is told in three steps — cowrie shells 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade, palestine, dominica, csec principles of business, caribbean, bangladesh, egypt, yemen
+
+Bulgaria's own way (Bulgaria Grade 4 Technology and Entrepreneurship): Grade 4 is where money itself becomes the topic — its history from barter to banknotes, the bank as the go-between of people with surplus money and people who need it, and taxes explained as the price of needs no one can meet alone.
+
+Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade, palestine, dominica, csec principles of business, caribbean, bangladesh, egypt, yemen, bulgaria
