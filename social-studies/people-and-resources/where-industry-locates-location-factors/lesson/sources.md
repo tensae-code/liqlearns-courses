@@ -1,6 +1,6 @@
 # Sources — Where Industry Locates Location Factors
 
-countries: Kazakhstan, South Sudan, Palestine, Venezuela, Egypt, Yemen, Iraq, India
+countries: Kazakhstan, South Sudan, Palestine, Venezuela, Egypt, Yemen, Iraq, India, Nigeria
 
 **Book 1:** *География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова)* (student book, Russian) — Алматы «Мектеп»; year 2025; ISBN 978-601-07-1773-2. Title as printed: География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова). Grade: 8 (student/teacher: STUDENT). PDF pages: 273 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1531.pdf, 51,336,177 bytes from the recorded okulyk.kz source, page count matches the record; printed book 272 pp). Verdict: COMPLETE. Parallel editions named, not double-counted: record 309.pdf — the 2018 first edition in Kazakh, ISBN 978-601-07-0964-5, 256 printed pp, identical §§1–54 structure verified from its contents; record 344.pdf — the 2018 first edition in Russian, ISBN 978-601-07-0969-0, 264 printed pp, cover/verso verified; reissue records 1432.pdf and 1486.pdf belong to the same editions. The book is placed once here, under this 2025 edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -77,7 +77,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | India part — Ch 6: industries locate where raw material, labour, capital, power and market combine at least cost; cities add agglomeration economies and services, linking industry and urbanisation — teaches: location decisions and agglomeration | India, *India Grade 10 Contemporary India-II*, Ch 6 — printed p. 64 |
 
-**Acceptance count: taught in 7 countries (Kazakhstan, Palestine, Venezuela, Egypt, Yemen, Iraq, India). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+**Book 14:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 9 — Location and localisation of industry — teaches: factors in the location and localisation of industry | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 9 — Location and localisation of industry — printed p. 111 |
+
+**Acceptance count: taught in 8 countries (Kazakhstan, Palestine, Venezuela, Egypt, Yemen, Iraq, India, Nigeria). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 India's own way (India Grade 8 Resources and Development): Economic geography is taught through Indian anchors — a 1.5-hectare Uttar Pradesh farm set against a 250-hectare Iowa farm, Jamshedpur steel, Ahmedabad as the "Manchester of India", and cooperative dairies (Amul/AMUL pattern, Sudha) as an ownership form.
 
@@ -99,4 +107,4 @@ Kazakhstan's own way (Kazakhstan Grade 8 Sakhova NIS): the NIS Grade 8 course ph
 
 Egypt's own way (Grade 9 combined edition, egypt-placements.md): Economics is taught as world economic geography — each activity (farming, grazing, mining, industry) is mapped worldwide with production bar charts, and every foreign country model ends with a section on that country's economic relations with Egypt.
 
-Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan, palestine, venezuela, egypt, yemen, iraq, india
+Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan, palestine, venezuela, egypt, yemen, iraq, india, nigeria

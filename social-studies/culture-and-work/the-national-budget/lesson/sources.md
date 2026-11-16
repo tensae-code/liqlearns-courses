@@ -1,6 +1,6 @@
 # Sources — The National Budget
 
-countries: Rwanda, Uganda, Bahamas, Uzbekistan, Vietnam, Indonesia, Nepal, Iran
+countries: Rwanda, Uganda, Bahamas, Uzbekistan, Vietnam, Indonesia, Nepal, Iran, Nigeria
 
 **Book 1:** *Social Studies for Rwanda Schools — Primary 6, Teacher's Book, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies for Rwanda Schools — Primary 6, Teacher's Book, Revised Edition 2019. Grade: Grade 6 (Primary 6) (student/teacher: TEACHER). PDF pages: 137 (cover/title page verified against the record title; PDF page count is lower than the printed pagination, which runs to p. 244 with references — the PDF is a condensed-layout copy; read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected). Verdict: COMPLETE (all 13 units' lesson lists and lesson developments read). Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Civics and governance — unity and co-operation, heroism, risky behaviour, citizenship, leadership and organs of government (Civics), printed pp. 12–68; Unit 3 Hygiene — puberty, menstrual hygiene, chronic diseases (Health), pp. 69–84; Unit 11 Post-independent Rwanda — First and Second Republics, Liberation 1990–1994 (History), pp. 191–203; Unit 12 The 1994 Genocide Against the Tutsi — causes, planning and execution, ideology, denial and prevention (History), pp. 204–220; Unit 13 Effects of foreigners in East Africa — explorers, missionaries, traders, colonialists (History), pp. 221–239. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -84,7 +84,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Iran part — Economics expansion — Lesson 4, budget sections: the budget (بودجه, defined) in simple words is the forecast of the government's income and outgoings — a document in which the government sets out a country's revenues and spending for a year, sent to parliament as the budget bill | Iran, *Iran Grade 8 Social Studies*, Lesson 4, budget sections — Iran Grade 8 Social Studies, printed p. 23 |
 
-**Acceptance count: taught in 8 countries (Rwanda, Uganda, Bahamas, Uzbekistan, Vietnam, Indonesia, Nepal, Iran).**
+**Book 14:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 11 — Budget — teaches: the government budget and sources of government revenue | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 11 — Budget — printed p. 142 |
+
+**Acceptance count: taught in 9 countries (Rwanda, Uganda, Bahamas, Uzbekistan, Vietnam, Indonesia, Nepal, Iran, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Nepal's own way (Nepal Grade 7 Social Studies & Human Value Education G7): economics is taught from documents — a farmer's letter about commercial maize and lentils, a newspaper editorial on livestock self-sufficiency, a World Consumer Rights Day leaflet, a DDC milk news item — each followed by the concept the document carries.
 
@@ -108,4 +116,4 @@ Uganda's own way (Uganda Primary 5 Excel Standard Social Studies): the national 
 
 Iran's own way (Iran Grade 8 Social Studies): cooperation is taught as an economic form, not only a virtue — the cooperative company with one member one vote, and the centuries-old waqf endowment whose farm and workshop income is directed to the needy.
 
-Searchable tags: the national budget, Rwanda, social studies, culture-and-work, uganda, national budget, surplus balanced deficit, ministry of finance, financial year, bahamas, uzbekistan, vietnam, indonesia, nepal, iran
+Searchable tags: the national budget, Rwanda, social studies, culture-and-work, uganda, national budget, surplus balanced deficit, ministry of finance, financial year, bahamas, uzbekistan, vietnam, indonesia, nepal, iran, nigeria

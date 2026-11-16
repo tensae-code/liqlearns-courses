@@ -1,6 +1,6 @@
 # Sources — The labour market
 
-countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India, United States, Bolivia, Costa Rica
+countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India, United States, Bolivia, Costa Rica, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -113,7 +113,24 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Costa Rica part — Trabajadores y productores de café — teaches: coffee labour is seasonal — the harvest comes once a year, so pickers alternated picking with other trades while waiting for the year-end harvest, women pickers formed part of the economically active population, and when crises hit indebted growers, big and small, many lost their farms and became peons on land they had owned | Costa Rica, *Estudios Sociales 11, Porras y Gamboa*, Grade 11 — printed p. 80 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Bahamas, Mongolia, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India, United States, Bolivia, Costa Rica). Albania is teacher-guide evidence only — named here, counted nowhere. Honduras's Grade 1 teacher guide is cited as evidence only — Honduras is counted for its Grade 9 student book named here, not for that guide.**
+**Book 17:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 8 — Labour market — teaches: labour force and labour market, efficiency and mobility of labour | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 8 — Labour market — printed p. 97 |
+
+
+**Book 18:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 5 — Labour market — teaches: features of the labour market, labour force, its efficiency and mobility, demand and supply of labour | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 5 — Labour market — printed p. 47 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Bahamas, Mongolia, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India, United States, Bolivia, Costa Rica, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere. Honduras's Grade 1 teacher guide is cited as evidence only — Honduras is counted for its Grade 9 student book named here, not for that guide.**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Costa Rica's own way (Estudios Sociales CONED 9): world economic history is the road into Costa Rica's own story — the book ends with the 19th-century agro-export model: coffee making a wage-labour economy and a coffee oligarchy, then the UFCO banana enclave on the Caribbean.
 
@@ -145,4 +162,4 @@ Honduras's own way (Honduras Grade 1 G1 Teacher CCSS) (teacher guide — evidenc
 
 Honduras's own way (Honduras Grade 9 G9 Student CCSS): Grade 9 closes the cycle with the world economy and Honduras inside it — work formal and informal, the lempira's devaluation named the country's biggest problem, and remittances weighed honestly: a strong boost to the economy that also demotivates production and drains the labour force.
 
-Searchable tags: labour market, employees supply labour, employers supply jobs, ethiopia, social studies, market and money, bahamas, mongolia, labour market, training job matching information, albania, cambodia, uzbekistan, honduras, Fiji, vietnam, india, united states, bolivia
+Searchable tags: labour market, employees supply labour, employers supply jobs, ethiopia, social studies, market and money, bahamas, mongolia, labour market, training job matching information, albania, cambodia, uzbekistan, honduras, Fiji, vietnam, india, united states, bolivia, nigeria

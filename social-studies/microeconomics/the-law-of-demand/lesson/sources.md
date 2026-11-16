@@ -1,6 +1,6 @@
 # Sources — The law of demand
 
-countries: Ethiopia, France, Kazakhstan, Albania, Jordan, Bangladesh, Yemen, Armenia, Nicaragua, Iran, Iraq, Pakistan
+countries: Ethiopia, France, Kazakhstan, Albania, Jordan, Bangladesh, Yemen, Armenia, Nicaragua, Iran, Iraq, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -95,7 +95,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Pakistan part — Ch. 4.3 Law of Demand — teaches: the law stated ("other things remaining the same, when price rises demand falls"), the schedule and curve, why the curve slopes down (price effect and substitution effect), the assumptions, and the limitations (precious goods, hoarding, ignorance) | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 4.3 Law of Demand — printed pp. 73-82 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, France, Kazakhstan, Jordan, Bangladesh, Yemen, Armenia, Nicaragua, Iran, Iraq, Pakistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 16:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 3 — Laws of demand and supply (demand side) — teaches: the law of demand and change in demand versus change in quantity demanded | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 3 — Laws of demand and supply (demand side) — printed p. 27 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, France, Kazakhstan, Jordan, Bangladesh, Yemen, Armenia, Nicaragua, Iran, Iraq, Pakistan, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium microeconomics course whose every Urdu section heading carries the English term in brackets, so the learner meets both languages' vocabulary at once; theory is built from schedules, tables and hand-drawn curves throughout, and distribution (rent, wages, interest, profit) closes the book as one factor-pricing chapter.
 
@@ -124,4 +132,4 @@ Jordan's own way (Jordan Grade 5 Term 2): Grade 5 gets the first formal market l
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: law of demand, ceteris paribus, demand schedule oranges, real income substitution, salt inelastic, ethiopia, france, ses, tobacco prices, milk producers, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, jordan, bangladesh, yemen, armenia, nicaragua, iran, iraq, pakistan
+Searchable tags: law of demand, ceteris paribus, demand schedule oranges, real income substitution, salt inelastic, ethiopia, france, ses, tobacco prices, milk producers, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, jordan, bangladesh, yemen, armenia, nicaragua, iran, iraq, pakistan, nigeria

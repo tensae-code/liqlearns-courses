@@ -1,6 +1,6 @@
 # Sources — Forms of business organisation
 
-countries: Cambodia, Pakistan
+countries: Cambodia, Pakistan, Nigeria
 
 **Book 1:** *សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10)* (student book, Khmer) — MoEYS; no ISBN printed on the pages read. Title as printed: សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 385 (cover/title page verified against the record title). Verdict: COMPLETE (Economics parts read in full: Home Economics Ch. 1 printed pp. 289–326 and Ch. 3 printed pp. 359–380). Contents map: Economics parts printed pp. 289–326 and 359–380 (inside the Home Economics section); Geography printed pp. 1–96 (industrial location, world agriculture, Asia-Pacific newly industrialising countries, population, urbanisation); History printed pp. 97–194; Civics printed pp. 195–288; Home Economics non-economics parts printed pp. 306–358 (household management, careers). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/cambodia-placements.md.
 
@@ -16,11 +16,19 @@ countries: Cambodia, Pakistan
 |---|---|
 | Pakistan part — Ch. 7 Organisation — teaches: the forms a business takes — sole proprietorship, partnership, joint-stock company, cooperative society and public enterprise (filed as NEW LESSON NEEDED under this same slug; the lesson already stood in the current tree, built by an earlier country in this chain, so the placement is stocked into it) | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 7 Organisation — printed pp. 148-154 |
 
-**Acceptance count: taught in 2 countries (Cambodia, Pakistan).**
+**Book 3:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 6 — Types of business enterprises — teaches: sole proprietorship, partnership, companies and public enterprises, features compared (filed as NEW LESSON NEEDED under this same slug; the lesson already stood in the current tree, built by an earlier country in this chain, so the placement is stocked into it) | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 6 — Types of business enterprises — printed p. 65 |
+
+**Acceptance count: taught in 3 countries (Cambodia, Pakistan, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium microeconomics course whose every Urdu section heading carries the English term in brackets, so the learner meets both languages' vocabulary at once; theory is built from schedules, tables and hand-drawn curves throughout, and distribution (rent, wages, interest, profit) closes the book as one factor-pricing chapter.
 
 
 Cambodia's own way (Cambodia Grade 10 Social Studies): Economics at Grade 10 is taught through the family — the national sector shares are read from data tables, then the same lens is turned on the Khmer family's income and spending, and finally on running a family business and working out its profit. This lesson is built from that book's placement: Home Economics Ch. 3, Lesson 2: family business organisation — teaches: the forms a small business can take, from one person's own business to shared-capital forms, and what each form means for the owners. The lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
-Searchable tags: forms of business organisation, cambodia, social studies, microeconomics, pakistan
+Searchable tags: forms of business organisation, cambodia, social studies, microeconomics, pakistan, nigeria

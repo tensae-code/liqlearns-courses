@@ -1,6 +1,6 @@
 # Sources — Trade unions and employers' associations
 
-countries: Uzbekistan
+countries: Uzbekistan, Nigeria
 
 **Book 1:** *Osnovy ekonomicheskikh znaniy (Fundamentals of Economic Knowledge), Grade 9* (student book, Russian) — Uzbekistan, State Scientific Publishing House "O'zbekiston milliy ensiklopediyasi", Tashkent; year 2006; ISBN 5-89890-127-2 (authors E. Sariqov, B. Haydarov; recommended by the Ministry of Public Education of the Republic of Uzbekistan; print run 26,025). Title as printed: «Основы экономических знаний» 9 (Fundamentals of Economic Knowledge, Grade 9); colophon gives the Uzbek original title "Iqtisodiy bilim asoslari — 9-sinf uchun darslik (rus tilida)", i.e. this file is the Russian-language edition of the ministry textbook named in the record ("Iqtisodiyot / Economics — Grade 9") — same book, grade and subject; language of this edition is Russian, not Uzbek. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 145 (printed book 144 pp. + back cover; cover and title page verified against the record — Grade 9 Economics; byte size 70,340,084, matching the rescue copy; scanned book with no text layer, read from rendered pages). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. I Entrepreneurship and Production, Topics 1–12, printed pp. 8–44; Ch. II State and Economy, Topics 13–18, pp. 50–70; Ch. III Economic Growth, Topics 19–21, pp. 76–87; Ch. IV Inflation and Unemployment, Topics 22–25, pp. 92–105; Ch. V World Economy, Topics 26–30, pp. 110–124. Excluded under the standing rules: the five chapter Revision/Assessment sections (pp. 45–49, 71–75, 88–91, 106–109, 125–128) and the answer key (pp. 138–139) are assessment apparatus, not placed; the Glossary of Economic Terms (pp. 129–137) is inventory-only, named not placed; the Appendices (pp. 140–144, Uzbekistan data tables and a circular-flow diagram) are placed once as a data exercise. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uzbekistan-placements.md
 
@@ -12,6 +12,14 @@ countries: Uzbekistan
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 1 country (Uzbekistan).**
+**Book 2:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
 
-Searchable tags: trade unions and employers' associations, uzbekistan, grade 9 economics, social studies, macroeconomics
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 5 — Trade unions and employers' associations — teaches: trade unions, employers' associations and their role in the labour market (filed as NEW LESSON NEEDED under this same slug; the lesson already stood in the current tree, built by an earlier country in this chain, so the placement is stocked into it) | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 5 — Trade unions and employers' associations — printed p. 62 |
+
+**Acceptance count: taught in 2 countries (Uzbekistan, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
+
+Searchable tags: trade unions and employers' associations, uzbekistan, grade 9 economics, social studies, macroeconomics, nigeria

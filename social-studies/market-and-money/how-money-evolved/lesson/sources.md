@@ -1,6 +1,6 @@
 # Sources — How money evolved — commodity, paper, cheques, electronic
 
-countries: Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan, Bolivia, Costa Rica
+countries: Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan, Bolivia, Costa Rica, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -119,7 +119,15 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 | Costa Rica part — Consecuencias económicas de las Cruzadas — teaches: the Crusades opened mercantile trade routes between West and East and spread metallic money — Florence's florin and Venice's ducat became internationally accepted coins | Costa Rica, *Estudios Sociales CONED 9*, Grade 9 — printed p. 40 |
 | Costa Rica part — El cacao en la Costa Rica colonial — teaches: cacao from Matina was exported to the Caribbean and Europe and, for lack of metallic money, was used as currency in the province in 1709 | Costa Rica, *Estudios Sociales CONED 9*, Grade 9 — printed p. 104 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan, Bolivia, Costa Rica).**
+**Book 19:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 11 — Historical development of money — teaches: how money developed from barter to modern forms | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 11 — Historical development of money — printed p. 142 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan, Bolivia, Costa Rica, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Costa Rica's own way (Estudios Sociales CONED 7): Economics is taught inside history and geography — the Neolithic surplus as the first economy, pre-Columbian markets and tribute, then Costa Rica's own ecological footprint/ecological debt (Estado de la Nación 2016 data) and its world-famous payment-for-environmental-services (PSA/Fonafifo) forest scheme as the national case studies.
 
@@ -147,4 +155,4 @@ Bulgaria's own way (Bulgaria Grade 4 Technology and Entrepreneurship): Grade 4 i
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade, palestine, dominica, csec principles of business, caribbean, bangladesh, egypt, yemen, bulgaria, iran, pakistan, bolivia
+Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade, palestine, dominica, csec principles of business, caribbean, bangladesh, egypt, yemen, bulgaria, iran, pakistan, bolivia, nigeria

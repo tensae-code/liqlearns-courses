@@ -1,6 +1,6 @@
 # Sources — Types of unemployment
 
-countries: Ethiopia, Mongolia, Albania, Uzbekistan, Fiji, Armenia, Indonesia, Iran, India, Pakistan
+countries: Ethiopia, Mongolia, Albania, Uzbekistan, Fiji, Armenia, Indonesia, Iran, India, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -70,7 +70,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Pakistan part — Ch. 9.6-9.8 Population, Labour Force and Unemployment in Pakistan — teaches: population education, the problems of the labour force (unskilled and uneducated labour force), and unemployment and underemployment in Pakistan — its causes (high rate of population growth, low increase in investment, shortage of employment opportunities) and solutions (proper population planning, industrial planning) | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 9.6-9.8 Population, Labour Force and Unemployment in Pakistan — printed pp. 165-174 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Mongolia, Uzbekistan, Fiji, Armenia, Indonesia, Iran, India, Pakistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 5 — Unemployment — teaches: types of unemployment, self-employment, job creation and dignity of labour | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 5 — Unemployment — printed p. 65 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Mongolia, Uzbekistan, Fiji, Armenia, Indonesia, Iran, India, Pakistan, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
 
@@ -93,4 +101,4 @@ Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is tau
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: types of unemployment, grade 12 economics, ethiopia, social studies, macroeconomics, mongolia, reducing unemployment, forms of employment, choosing a profession, albania, uzbekistan, Fiji, armenia, indonesia, iran, india, pakistan
+Searchable tags: types of unemployment, grade 12 economics, ethiopia, social studies, macroeconomics, mongolia, reducing unemployment, forms of employment, choosing a profession, albania, uzbekistan, Fiji, armenia, indonesia, iran, india, pakistan, nigeria

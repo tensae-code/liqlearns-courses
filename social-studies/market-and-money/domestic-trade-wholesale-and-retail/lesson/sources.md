@@ -1,6 +1,6 @@
 # Sources — Domestic trade — wholesale and retail
 
-countries: Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria, Iran, India
+countries: Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria, Iran, India, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -86,7 +86,15 @@ South Sudan's own way (South Sudan Primary 6): trade is taught as a tree — int
 |---|---|
 | India part — Ch 7: the chain of markets — a wholesale trader buys in bulk lots, traders sell to traders, and the retailer finally sells to the consumer; Aftab the wholesaler buys at the early-morning mandi auction — teaches: wholesale and retail links that move goods to faraway places | India, *India Grade 7 Social and Political Life-II*, Ch 7 — printed p. 87 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria, Iran, India).**
+**Book 13:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 12 — Distributive trade — teaches: channels of distribution, wholesalers and retailers and their functions | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 12 — Distributive trade — printed p. 148 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria, Iran, India, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 India's own way (India Grade 6 Social and Political Life-I): Economics enters through lived livelihood stories — named workers (a landless labourer, a small farmer in debt to a trader, a rickshaw puller, a casual garment worker, a salaried manager) whose earnings, loans and job security are compared in tables.
 
@@ -103,4 +111,4 @@ Iran's own way (Iran Grade 6 Social Studies): the energy chapter turns Iran's oi
 
 Iran's own way (Iran Grade 10 Entrepreneurship Workshop): entrepreneurship is a hands-on workshop for every branch, built around the business-model canvas (بوم مدل کسب و کار) that each student team must complete section by section.
 
-Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money, south sudan, venezuela, jordan, bulgaria, iran, india
+Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money, south sudan, venezuela, jordan, bulgaria, iran, india, nigeria

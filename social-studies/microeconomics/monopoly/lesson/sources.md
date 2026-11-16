@@ -1,6 +1,6 @@
 # Sources — Monopoly
 
-countries: Ethiopia, Albania, Yemen, Armenia, United States, Bolivia, Costa Rica
+countries: Ethiopia, Albania, Yemen, Armenia, United States, Bolivia, Costa Rica, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -62,7 +62,15 @@ Grade 10 teacher-guide note (placement 11): the added monopoly source and the fo
 | Costa Rica part — Flandes y la Liga Hanseática — teaches: the Hanseatic League of German merchant cities monopolised northern Europe's exports, funnelling grain, timber and furs through Bruges | Costa Rica, *Estudios Sociales CONED 9*, Grade 9 — printed p. 56 |
 | Costa Rica part — El Estanco del Tabaco — teaches: in 1766 Spain created the Tobacco Estanco for the Kingdom of Guatemala and gave Costa Rica the exclusive monopoly of the product | Costa Rica, *Estudios Sociales CONED 9*, Grade 9 — printed p. 104 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Yemen, Armenia, United States, Bolivia, Costa Rica). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 10:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 8 — Monopoly — teaches: monopoly and price/quantity determination under it | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 8 — Monopoly — printed p. 102 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Yemen, Armenia, United States, Bolivia, Costa Rica, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Costa Rica's own way (Estudios Sociales CONED 9): world economic history is the road into Costa Rica's own story — the book ends with the 19th-century agro-export model: coffee making a wage-labour economy and a coffee oligarchy, then the UFCO banana enclave on the Caribbean.
 
@@ -76,4 +84,4 @@ Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course t
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
-Searchable tags: monopoly, one seller, price maker, Ethiopian Electric Power, sources of monopoly power, Ambo spring, patents, MR below AR, TR peak 30, ethiopia, social studies, microeconomics, albania, yemen, armenia, united states, bolivia
+Searchable tags: monopoly, one seller, price maker, Ethiopian Electric Power, sources of monopoly power, Ambo spring, patents, MR below AR, TR peak 30, ethiopia, social studies, microeconomics, albania, yemen, armenia, united states, bolivia, nigeria

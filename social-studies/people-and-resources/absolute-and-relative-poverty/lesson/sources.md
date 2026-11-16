@@ -1,6 +1,6 @@
 # Sources — Absolute and relative poverty
 
-countries: Ethiopia, Nicaragua, Haiti, Palestine, Armenia, Nepal, Iran, United States
+countries: Ethiopia, Nicaragua, Haiti, Palestine, Armenia, Nepal, Iran, United States, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -59,7 +59,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | United States part — 14.1 Drawing the Poverty Line — teaches: how the poverty line is determined, and the US poverty rate over time and across groups of citizens | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 14.1 Drawing the Poverty Line — printed p. 328 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Nicaragua, Palestine, Armenia, Nepal, Iran, United States). Haiti is teacher-guide evidence only — named here, counted nowhere.**
+**Book 10:** *New Economics for Senior Secondary Schools 3* (student book, English) — Learn Africa Plc; year 2014 (New Edition; first published 1992); ISBN 978 978 925 150 6. Title as printed: New Economics for Senior Secondary Schools 3. Grade: Grade 12 / SS3 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; byte size 4,823,928 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–140 (all 13 chapters in 8 themes); Index pp. 141–152 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 12 — Poverty — teaches: poverty as a development challenge in Nigeria | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 12 — Poverty — printed p. 120 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Nicaragua, Palestine, Armenia, Nepal, Iran, United States, Nigeria). Haiti is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -73,6 +81,6 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Iran's own way (Iran Grade 9 Social Studies): productivity is framed with Qur'anic and religious warrants (no extravagance, moderation, consultation) and capped by the resistance-economy doctrine; world inequality is read off Iran's own rising Human Development Index chart.
 
-Searchable tags: absolute and relative poverty, grade 12 economics, ethiopia, nicaragua, haiti, poverty criteria, universal poverty threshold, teacher guide evidence, social studies, people and resources, palestine, armenia, nepal, iran, united states
+Searchable tags: absolute and relative poverty, grade 12 economics, ethiopia, nicaragua, haiti, poverty criteria, universal poverty threshold, teacher guide evidence, social studies, people and resources, palestine, armenia, nepal, iran, united states, nigeria
 
 Nicaragua's own way (Nicaragua Grade 7 Estudios Sociales G7 full-year): A full national Geography in five units — territorial patrimony and cartography, physical geography (relief, climate, hydrography, resources), population ("¿Cuántas mujeres, cuántos hombres?"), production, and a whole unit on natural-risk prevention — followed by six units of national History. Non-Geography parts named, not placed: Unit I state institutions (printed pp. 14–16, Civics); Unit VI origin societies (printed pp. 128–143, History, except the geographical-setting topic placed below); Unit VII European expansion and the Colony (printed pp. 148–165, History); Unit VIII Independence (printed pp. 170–184, History); Unit IX economic/political evolution 1857–1909 (printed pp. 190–205, History); Unit X defence of sovereignty and the Somoza period (printed pp. 210–233, History); Unit XI Nicaragua 1979 to the present (printed pp. 244–264, History).

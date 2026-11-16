@@ -1,6 +1,6 @@
 # Sources — Stages of economic integration
 
-countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia, Nepal, Nicaragua, Colombia
+countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia, Nepal, Nicaragua, Colombia, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -86,7 +86,15 @@ South Sudan's own way (South Sudan Primary 7): the country's economy is told thr
 |---|---|
 | Colombia part — Unidad 2, Tema 6: comercio — teaches: Europe is the world's greatest commercial power thanks to the European Union — 27 countries integrating economically through a unified currency (the euro), free trade among members with the world's lowest tariffs, and trade treaties worldwide, including with the Andean Community (Colombia, Ecuador, Peru, Bolivia) | Colombia, *Colombia Grade 7 Secundaria Activa G7*, Unidad 2, Tema 6: comercio — printed p. 71 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia, Nepal, Nicaragua, Colombia). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 14:** *New Economics for Senior Secondary Schools 3* (student book, English) — Learn Africa Plc; year 2014 (New Edition; first published 1992); ISBN 978 978 925 150 6. Title as printed: New Economics for Senior Secondary Schools 3. Grade: Grade 12 / SS3 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; byte size 4,823,928 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–140 (all 13 chapters in 8 themes); Index pp. 141–152 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 7 — Economic integration — teaches: stages of economic integration, with ECOWAS among the groupings | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 7 — Economic integration — printed p. 66 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia, Nepal, Nicaragua, Colombia, Nigeria). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
 Nicaragua's own way (Nicaragua Grade 9 Geografía 9° Grado): the distance-education twin of the Grade 9 world-economy unit, organised around technology as the difference between continents — US centre-pivot irrigation against Latin America's rain-fed traditional farming — and closing with the integration stages ladder and the international bodies (down to FAO's Nicaragua country programme) that soften globalisation's impact.
 
@@ -104,4 +112,4 @@ Honduras's own way (Honduras Grade 6 G6 Student CCSS): Grade 6 goes global — w
 
 Honduras's own way (Honduras Grade 8 G8 Student CCSS): Grade 8 teaches Latin America's development problem head-on — development vs underdevelopment, the integration ladder, and the debt lesson built around Honduras's own fiscal-deficit chart and the structural-adjustment era.
 
-Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia, dominican republic, DR-CAFTA, honduras, indonesia, nepal, nicaragua, colombia
+Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia, dominican republic, DR-CAFTA, honduras, indonesia, nepal, nicaragua, colombia, nigeria

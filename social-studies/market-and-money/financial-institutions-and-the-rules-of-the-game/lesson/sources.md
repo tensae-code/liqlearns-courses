@@ -1,6 +1,6 @@
 # Sources — Financial institutions and the rules of the game
 
-countries: Ethiopia, Dominica, Cambodia, Nepal
+countries: Ethiopia, Dominica, Cambodia, Nepal, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -40,7 +40,33 @@ Grade 10 teacher-guide note (placement 14): the five-component framework comes f
 |---|---|
 | Nepal part — Unit 8 Lessons 4–5 "Bittiya Shiksha / Bittiya Upakaran (Financial Education / Financial Tools)" — teaches: becoming acquainted with financial education and the financial tools and grasping their importance, from question lists and line diagrams, photographs of financial institutions, and the tools themselves in the hand — an ATM card, a mobile banking app, a chart of how to keep notes clean and safe, and a cheque specimen (teacher guide — evidence) | Nepal, *Nepal Grade 10 Teacher's Guide G10* (teacher guide), Unit 8 Lessons 4–5 "Bittiya Shiksha / Bittiya Upakaran (Financial Education / Financial Tools)" — guide PDF p. 226 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Dominica, Cambodia, Nepal).**
+**Book 7:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 10 — Financial institutions — teaches: meaning and types of financial institutions, banking and non-banking | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 10 — Financial institutions — printed p. 122 |
+
+
+**Book 8:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 13 — Types of financial institutions — teaches: banking and non-banking financial institutions, second treatment | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 13 — Types of financial institutions — printed p. 163 |
+
+
+**Book 9:** *New Economics for Senior Secondary Schools 3* (student book, English) — Learn Africa Plc; year 2014 (New Edition; first published 1992); ISBN 978 978 925 150 6. Title as printed: New Economics for Senior Secondary Schools 3. Grade: Grade 12 / SS3 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; byte size 4,823,928 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–140 (all 13 chapters in 8 themes); Index pp. 141–152 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 6 — Agencies that regulate the financial market — teaches: the agencies that regulate the money market | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 6 — Agencies that regulate the financial market — printed p. 44 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Dominica, Cambodia, Nepal, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
+
+Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
 Nepal's own way (Nepal Grade 10 Social Studies): Grade 10 economics is the money-and-state unit, taught as documents a pupil could meet in life — a student's study report for energy, a first-person story for foreign employment, a central-bank officer's school visit for financial education, a mother's letter for insurance, a street-corner conversation with a businessman for revenue, and the Sixteenth Plan's own target table for planning.
 
@@ -50,7 +76,7 @@ Dominica's own way: Economics lives inside the CSEC Principles of Business cours
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: institutions rules of the game, formal informal, depository contractual investment institutions, banks roles development, risk management, non-bank financial institutions, ethiopia, social studies, market and money, dominica, csec principles of business, caribbean, cambodia, nepal
+Searchable tags: institutions rules of the game, formal informal, depository contractual investment institutions, banks roles development, risk management, non-bank financial institutions, ethiopia, social studies, market and money, dominica, csec principles of business, caribbean, cambodia, nepal, nigeria
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

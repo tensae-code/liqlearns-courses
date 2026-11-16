@@ -1,6 +1,6 @@
 # Sources — Scarcity — wants without end, resources with limits
 
-countries: Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan
+countries: Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -69,7 +69,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Pakistan part — Ch. 1.1 Human Wants — teaches: economic vs non-economic wants and the characteristics of economic wants — unlimited, competing, recurring, satisfiable by alternate methods, complementary, habit-forming, shaped by fashion | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 1.1 Human Wants — printed pp. 1-4 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan).**
+**Book 12:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 1 — Basic concepts of economics — teaches: wants, scarcity, scale of preference and choice as the basic concepts | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 1 — Basic concepts of economics — printed p. 2 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium microeconomics course whose every Urdu section heading carries the English term in brackets, so the learner meets both languages' vocabulary at once; theory is built from schedules, tables and hand-drawn curves throughout, and distribution (rent, wages, interest, profit) closes the book as one factor-pricing chapter.
 
@@ -92,4 +100,4 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: scarcity shortage, unlimited wants finite resources, zero price test, ethiopia, social studies, microeconomics, mongolia, unlimited needs limited resources, tögrög, malaysia, bangladesh, egypt, yemen, Fiji, iraq, united states, pakistan
+Searchable tags: scarcity shortage, unlimited wants finite resources, zero price test, ethiopia, social studies, microeconomics, mongolia, unlimited needs limited resources, tögrög, malaysia, bangladesh, egypt, yemen, Fiji, iraq, united states, pakistan, nigeria

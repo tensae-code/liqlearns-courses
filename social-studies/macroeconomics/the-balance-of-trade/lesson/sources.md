@@ -1,6 +1,6 @@
 # Sources — The balance of trade
 
-countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran, Iraq, India
+countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran, Iraq, India, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -85,7 +85,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | India part — Ch 7 Lifelines of National Economy: trade and international trade; the balance of trade as exports minus imports, favourable and unfavourable; trade as a country's economic barometer; India's main exports and imports and large foreign-exchange earnings from IT exports — teaches: the balance of trade | India, *India Grade 10 Contemporary India-II*, Ch 7 Lifelines of National Economy — printed p. 88 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran, Iraq, India). Honduras's Grade 5 teacher guide is cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for that guide.**
+**Book 15:** *New Economics for Senior Secondary Schools 3* (student book, English) — Learn Africa Plc; year 2014 (New Edition; first published 1992); ISBN 978 978 925 150 6. Title as printed: New Economics for Senior Secondary Schools 3. Grade: Grade 12 / SS3 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; byte size 4,823,928 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–140 (all 13 chapters in 8 themes); Index pp. 141–152 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 8 — Balance of merchandise trade — teaches: Nigeria's balance of merchandise trade | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 8 — Balance of merchandise trade — printed p. 88 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran, Iraq, India, Nigeria). Honduras's Grade 5 teacher guide is cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for that guide.**
+
+Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
 India's own way (India Grade 10 Contemporary India-II): The Class X geography book doubles as economic geography of India — land reform and Bhoodan, manufacturing's stuck 17% GDP share, and trade read as the country's "economic barometer".
 
@@ -115,4 +123,4 @@ Honduras's own way (Honduras Grade 5 G5 Teacher CCSS) (teacher guide — evidenc
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: the balance of trade, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, dominican republic, jordan, uzbekistan, honduras, nepal, nicaragua, iran, iraq, india
+Searchable tags: the balance of trade, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, dominican republic, jordan, uzbekistan, honduras, nepal, nicaragua, iran, iraq, india, nigeria

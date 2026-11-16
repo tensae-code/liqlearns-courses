@@ -1,6 +1,6 @@
 # Sources — The production possibilities frontier
 
-countries: Ethiopia, Malaysia, Albania, Cambodia, Bangladesh, Armenia, Iran, Iraq, United States
+countries: Ethiopia, Malaysia, Albania, Cambodia, Bangladesh, Armenia, Iran, Iraq, United States, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -58,7 +58,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 | United States part — 2.2 The Production Possibilities Frontier and Social Choices — teaches: the production possibilities frontier read and interpreted, and productive efficiency versus allocative efficiency on it | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 2.2 The Production Possibilities Frontier and Social Choices — printed p. 33 |
 | United States part — 12.6 The Tradeoff between Economic Output and Environmental Protection — teaches: the production possibilities frontier used a second time, now as the tradeoff between economic output and environmental protection | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 12.6 The Tradeoff between Economic Output and Environmental Protection — printed p. 297 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, Cambodia, Bangladesh, Armenia, Iran, Iraq, United States). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 10:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 3 — Production possibility curve — teaches: the production possibility curve and what it shows | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 3 — Production possibility curve — printed p. 32 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Malaysia, Cambodia, Bangladesh, Armenia, Iran, Iraq, United States, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -76,4 +84,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: PPF PPC, production possibilities, efficient inefficient unattainable, assumptions, ethiopia, social studies, microeconomics, malaysia, albania, cambodia, bangladesh, armenia, iran, iraq, united states
+Searchable tags: PPF PPC, production possibilities, efficient inefficient unattainable, assumptions, ethiopia, social studies, microeconomics, malaysia, albania, cambodia, bangladesh, armenia, iran, iraq, united states, nigeria

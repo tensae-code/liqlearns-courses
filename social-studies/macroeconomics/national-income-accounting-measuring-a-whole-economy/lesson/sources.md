@@ -1,6 +1,6 @@
 # Sources — National income accounting — measuring a whole economy
 
-countries: Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan
+countries: Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -52,7 +52,15 @@ countries: Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan
 |---|---|
 | Pakistan part — Ch. 1.3 Methods of Measuring National Income — teaches: the three measuring methods — product, income and expenditure — with their precautions (underground activities, illegal earnings, transfer payments, unpaid services) | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 1.3 Methods of Measuring National Income — printed pp. 6-10 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan).**
+**Book 9:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 12 — National income accounting — teaches: the concept of income and of national income | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 12 — National income accounting — printed p. 153 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
 
@@ -69,4 +77,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: national income accounting, measuring aggregate activity, GDP GNP summary, output trend policy comparison, ethiopia, social studies, macroeconomics, cambodia, egypt, Fiji, indonesia, iraq, pakistan
+Searchable tags: national income accounting, measuring aggregate activity, GDP GNP summary, output trend policy comparison, ethiopia, social studies, macroeconomics, cambodia, egypt, Fiji, indonesia, iraq, pakistan, nigeria

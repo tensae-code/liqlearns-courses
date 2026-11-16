@@ -1,6 +1,6 @@
 # Sources — What shifts supply
 
-countries: Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Pakistan
+countries: Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -75,7 +75,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Pakistan part — Ch. 5 Changes in Supply — teaches: movement along the supply curve vs shifts of the whole curve — extension, contraction, rise and fall in supply — and the causes: prices of substitutes, unity of producers, supply of complementary goods, number of sellers | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 5 Changes in Supply — printed pp. 107-113 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Pakistan).**
+**Book 13:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 2 — Factors affecting changes in supply — teaches: the factors that shift supply | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 2 — Factors affecting changes in supply — printed p. 25 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Pakistan, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium microeconomics course whose every Urdu section heading carries the English term in brackets, so the learner meets both languages' vocabulary at once; theory is built from schedules, tables and hand-drawn curves throughout, and distribution (rent, wages, interest, profit) closes the book as one factor-pricing chapter.
 
@@ -98,4 +106,4 @@ Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same nationa
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: supply shifters, factor costs, technology, external shocks floods, taxes subsidies, transport, prices of other goods, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, bangladesh, yemen, armenia, iraq, united states, pakistan
+Searchable tags: supply shifters, factor costs, technology, external shocks floods, taxes subsidies, transport, prices of other goods, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, bangladesh, yemen, armenia, iraq, united states, pakistan, nigeria

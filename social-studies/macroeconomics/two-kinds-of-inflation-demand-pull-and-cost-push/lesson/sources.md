@@ -1,6 +1,6 @@
 # Sources — Two kinds of inflation — demand-pull and cost-push
 
-countries: Ethiopia, Albania, Bangladesh, Uzbekistan, Fiji, Vietnam, Armenia, Indonesia, Pakistan
+countries: Ethiopia, Albania, Bangladesh, Uzbekistan, Fiji, Vietnam, Armenia, Indonesia, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -68,7 +68,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Pakistan part — Ch. 10.6 Inflation — teaches: inflation and its kinds — demand-pull inflation and cost-push inflation — its consequences, the causes of inflation in Pakistan, and the measures to control it | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 10.6 Inflation — printed pp. 188-193 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bangladesh, Uzbekistan, Fiji, Vietnam, Armenia, Indonesia, Pakistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 15 — Inflation (types) — teaches: demand-pull and cost-push inflation within the inflation treatment | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 15 — Inflation (types) — printed p. 198 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Bangladesh, Uzbekistan, Fiji, Vietnam, Armenia, Indonesia, Pakistan, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Pakistan's own way (Pakistan Grade 5 Social Studies Class 5 SNC): The Class 5 chapter deepens the Class 4 set with Pakistan's own institutions as the teaching examples — PIA, Pakistan Railways, Pakistan Television, Pakistan Post and WAPDA for public services, the State Bank of Pakistan (established 1948), and Dr Akhtar Hameed Khan's microfinance work for social entrepreneurship.
 
@@ -87,4 +95,4 @@ Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: demand-pull inflation, cost-push inflation, too much money chasing too few goods, aggregate demand supply, ethiopia, social studies, macroeconomics, albania, bangladesh, uzbekistan, Fiji, vietnam, armenia, indonesia, pakistan
+Searchable tags: demand-pull inflation, cost-push inflation, too much money chasing too few goods, aggregate demand supply, ethiopia, social studies, macroeconomics, albania, bangladesh, uzbekistan, Fiji, vietnam, armenia, indonesia, pakistan, nigeria

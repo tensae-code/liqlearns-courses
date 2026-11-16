@@ -1,6 +1,6 @@
 # Sources — Money as a medium of exchange
 
-countries: Ethiopia, Dominica, Jordan, Yemen, Nicaragua, Iran
+countries: Ethiopia, Dominica, Jordan, Yemen, Nicaragua, Iran, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -41,7 +41,15 @@ countries: Ethiopia, Dominica, Jordan, Yemen, Nicaragua, Iran
 |---|---|
 | Iran part — Economics expansion — Lesson 8 "Consumption": a consumer (defined) buys goods and services to meet needs and wants, and pays with money; the seller takes that money and buys other goods in turn — money carries the value of what was sold | Iran, *Iran Grade 7 Social Studies*, Lesson 8 "Consumption" — Iran Grade 7 Social Studies, printed p. 37 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Dominica, Jordan, Yemen, Nicaragua, Iran).**
+**Book 7:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 11 — Functions of money — teaches: money as medium of exchange, measure of value, store of value and standard of deferred payment | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 11 — Functions of money — printed p. 142 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Dominica, Jordan, Yemen, Nicaragua, Iran, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
@@ -55,4 +63,4 @@ Jordan's own way (Jordan Grade 2 Term 2): A whole early-years Economics unit bui
 
 Iran's own way (Iran Grade 7 Social Studies): production and consumption are taught with Iranian anchors throughout — the historic bazaar as market and social centre, compulsory third-party car insurance, and the Silk Road crossing Iran as a bridge between East and West.
 
-Searchable tags: medium of exchange, transaction cost, specialisation division of labour, lubricant, ethiopia, social studies, market and money, dominica, csec principles of business, caribbean, jordan, yemen, nicaragua, iran
+Searchable tags: medium of exchange, transaction cost, specialisation division of labour, lubricant, ethiopia, social studies, market and money, dominica, csec principles of business, caribbean, jordan, yemen, nicaragua, iran, nigeria

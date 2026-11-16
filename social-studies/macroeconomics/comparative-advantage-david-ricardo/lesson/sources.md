@@ -1,6 +1,6 @@
 # Sources — Comparative advantage — David Ricardo
 
-countries: Ethiopia, Jordan, Bangladesh, Uzbekistan, Indonesia, Iran, Iraq, United States
+countries: Ethiopia, Jordan, Bangladesh, Uzbekistan, Indonesia, Iran, Iraq, United States, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -60,7 +60,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 | United States part — 2.2 The Production Possibilities Frontier and Social Choices — teaches: comparative advantage defined from production possibilities — specialising where opportunity cost is lowest | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 2.2 The Production Possibilities Frontier and Social Choices — printed p. 33 |
 | United States part — 19.4 What Happens When a Country Has an Absolute Advantage in All Goods — teaches: comparative advantage worked in full — the United States and Mexico in shoes and refrigerators, production possibilities and opportunity costs showing mutually beneficial trade even when one side leads in everything | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 19.4 What Happens When a Country Has an Absolute Advantage in All Goods — printed p. 450 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Jordan, Bangladesh, Uzbekistan, Indonesia, Iran, Iraq, United States).**
+**Book 10:** *New Economics for Senior Secondary Schools 3* (student book, English) — Learn Africa Plc; year 2014 (New Edition; first published 1992); ISBN 978 978 925 150 6. Title as printed: New Economics for Senior Secondary Schools 3. Grade: Grade 12 / SS3 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; byte size 4,823,928 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–140 (all 13 chapters in 8 themes); Index pp. 141–152 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 7 — Comparative cost advantage — teaches: comparative cost advantage as the basis of trade | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 7 — Comparative cost advantage — printed p. 61 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Jordan, Bangladesh, Uzbekistan, Indonesia, Iran, Iraq, United States, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -72,4 +80,4 @@ Jordan's own way (Jordan Grade 7 Term 1): Trade is taught from Aqaba port and th
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: comparative advantage, david ricardo, ethiopia, social studies, macroeconomics, jordan, bangladesh, uzbekistan, indonesia, iran, iraq, united states
+Searchable tags: comparative advantage, david ricardo, ethiopia, social studies, macroeconomics, jordan, bangladesh, uzbekistan, indonesia, iran, iraq, united states, nigeria

@@ -1,6 +1,6 @@
 # Sources — Land, labour, capital, entrepreneurship — and what each is paid
 
-countries: Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Albania, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India, Pakistan
+countries: Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Albania, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -142,7 +142,15 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Pakistan part — Ch. 7 Theory of Production (7.1-7.10) — teaches: production and the four factors with their characteristics and efficiency — land (limited supply, differences in fertility, location, transport), labour (an active factor with weak bargaining power; efficiency, mobility — geographical, occupational, horizontal, vertical, social), capital (its kinds and efficiency) and organisation (the entrepreneur's functions) | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 7 Theory of Production (7.1-7.10) — printed pp. 130-154 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India, Pakistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 23:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 4 — Factors of production — teaches: land, labour, capital and entrepreneurship and their rewards | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 4 — Factors of production — printed p. 44 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India, Pakistan, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium microeconomics course whose every Urdu section heading carries the English term in brackets, so the learner meets both languages' vocabulary at once; theory is built from schedules, tables and hand-drawn curves throughout, and distribution (rent, wages, interest, profit) closes the book as one factor-pricing chapter.
 
@@ -185,4 +193,4 @@ Iran's own way (Iran Grade 9 Social Studies): productivity is framed with Qur'an
 
 Iran's own way (Iran Grade 10 Entrepreneurship Workshop): entrepreneurship is a hands-on workshop for every branch, built around the business-model canvas (بوم مدل کسب و کار) that each student team must complete section by section.
 
-Searchable tags: factors of production, land labour capital entrepreneurship, rent wages interest profit, ethiopia, saudi arabia, resources human natural capital, oil minerals water, france, ses, productive combination, social studies, microeconomics, laos, resources of doing business, economic resources, human resources, time, kazakhstan, tenge, entrepreneurship and business basics, albania, dominica, csec principles of business, caribbean, jordan, bangladesh, egypt, yemen, armenia, nicaragua, iran, iraq, india, pakistan
+Searchable tags: factors of production, land labour capital entrepreneurship, rent wages interest profit, ethiopia, saudi arabia, resources human natural capital, oil minerals water, france, ses, productive combination, social studies, microeconomics, laos, resources of doing business, economic resources, human resources, time, kazakhstan, tenge, entrepreneurship and business basics, albania, dominica, csec principles of business, caribbean, jordan, bangladesh, egypt, yemen, armenia, nicaragua, iran, iraq, india, pakistan, nigeria

@@ -1,6 +1,6 @@
 # Sources — What to produce?
 
-countries: Ethiopia, Laos, Bangladesh, Yemen, Fiji, Armenia, Nicaragua
+countries: Ethiopia, Laos, Bangladesh, Yemen, Fiji, Armenia, Nicaragua, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -54,7 +54,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Nicaragua part — Ámbitos de la Economía Nacional: ¿Qué y cuánto producir? — teaches: deciding what and how much to produce from an inventory of a country's natural, human and financial resources, weighing alternatives when resources are limited | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Ámbitos de la Economía Nacional: ¿Qué y cuánto producir? — printed pp. 159–160 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Laos, Bangladesh, Yemen, Fiji, Armenia, Nicaragua).**
+**Book 9:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 5 — Basic economic problems of society — teaches: what to produce, how to produce and for whom to produce | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 5 — Basic economic problems of society — printed p. 60 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Laos, Bangladesh, Yemen, Fiji, Armenia, Nicaragua, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
@@ -68,4 +76,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Laos' own way (Laos Grade 10 Business student): Economics is taught as the theory inside a "become a businessperson" course, drawn from village life — weaving, market stalls and repair shops sorted into producing, trading and services; the circular flow is drawn between households and the village business, and "produce for whom?" is answered with a Rolls-Royce.
 
-Searchable tags: what to produce, allocation of resources, consumption capital goods, necessities luxuries, ethiopia, social studies, microeconomics, laos, produce what, society's needs, bangladesh, yemen, Fiji, armenia, nicaragua
+Searchable tags: what to produce, allocation of resources, consumption capital goods, necessities luxuries, ethiopia, social studies, microeconomics, laos, produce what, society's needs, bangladesh, yemen, Fiji, armenia, nicaragua, nigeria

@@ -1,6 +1,6 @@
 # Sources — Inflation — a general, lasting rise in prices
 
-countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan, Bolivia, Costa Rica
+countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan, Bolivia, Costa Rica, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -97,7 +97,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Costa Rica part — Las políticas económicas de Tinoco (1917–1919) — teaches: keeping note inconvertibility while letting many banks issue notes devalued the currency; borrowing from commercial banks and private lenders swelled internal debt, and prices rose as imports were restricted | Costa Rica, *Estudios Sociales CONED 11*, Grade 11 — printed p. 46 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Mongolia, Malaysia, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan, Bolivia, Costa Rica). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 16:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 15 — Meaning of inflation — teaches: what inflation is and its causes and effects | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 15 — Meaning of inflation — printed p. 198 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Mongolia, Malaysia, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan, Bolivia, Costa Rica, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Costa Rica's own way (Estudios Sociales CONED 11): the full national economic story in one book — agro-export dependence, the first state-intervention reforms of 1914, import substitution under the welfare state, then the 1980s crisis and the PAE adjustment that opened the economy and courted Intel and the free zones.
 
@@ -126,4 +134,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: inflation definition, general price level, price index, deflation, causes of inflation, ethiopia, social studies, macroeconomics, mongolia, inflation, bread, purchasing power, tögrög, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, Fiji, vietnam, indonesia, nicaragua, iran, pakistan, bolivia
+Searchable tags: inflation definition, general price level, price index, deflation, causes of inflation, ethiopia, social studies, macroeconomics, mongolia, inflation, bread, purchasing power, tögrög, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, Fiji, vietnam, indonesia, nicaragua, iran, pakistan, bolivia, nigeria

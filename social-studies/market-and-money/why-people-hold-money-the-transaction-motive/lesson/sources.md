@@ -1,6 +1,6 @@
 # Sources — Why people hold money 1 — the transaction motive
 
-countries: Ethiopia, Indonesia, Pakistan
+countries: Ethiopia, Indonesia, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -28,7 +28,15 @@ countries: Ethiopia, Indonesia, Pakistan
 |---|---|
 | Pakistan part — Ch. 2.7 Demand for Money — teaches: why people hold money, the transaction motive first — money held to bridge the gap between receiving income and spending it | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 2.7 Demand for Money — printed pp. 33-35 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Pakistan).**
+**Book 5:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 14 — Demand for money — teaches: the motives for holding money — transaction, precautionary and speculative | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 14 — Demand for money — printed p. 192 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Pakistan, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
 
@@ -39,4 +47,4 @@ Indonesia's own way (Indonesia Grade 11 Panduan Guru Ekonomi Edisi Revisi) (teac
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: demand for money keynes, transaction motive, income motive business motive, liquidity preference, ethiopia, social studies, market and money, indonesia, pakistan
+Searchable tags: demand for money keynes, transaction motive, income motive business motive, liquidity preference, ethiopia, social studies, market and money, indonesia, pakistan, nigeria

@@ -1,6 +1,6 @@
 # Sources — Why countries trade
 
-countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan
+countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -110,7 +110,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Pakistan part — Ch. 5.1 International Trade — teaches: domestic trade vs international trade and how they differ (mobility of labour and capital, government facilities, exchange rate of currencies, taste and standards, trade restrictions, availability of resources), with the advantages and disadvantages of international trade — availability of essential goods, large-scale production, disposal of surplus output, cheaper goods, markets for raw materials | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 5.1 International Trade — printed pp. 86-92 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan).**
+**Book 18:** *New Economics for Senior Secondary Schools 3* (student book, English) — Learn Africa Plc; year 2014 (New Edition; first published 1992); ISBN 978 978 925 150 6. Title as printed: New Economics for Senior Secondary Schools 3. Grade: Grade 12 / SS3 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; byte size 4,823,928 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–140 (all 13 chapters in 8 themes); Index pp. 141–152 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 7 — International trade — teaches: domestic trade against international trade and why countries trade | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 7 — International trade — printed p. 58 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
 Pakistan's own way (Pakistan Grade 5 Social Studies Class 5 SNC): The Class 5 chapter deepens the Class 4 set with Pakistan's own institutions as the teaching examples — PIA, Pakistan Railways, Pakistan Television, Pakistan Post and WAPDA for public services, the State Bank of Pakistan (established 1948), and Dr Akhtar Hameed Khan's microfinance work for social entrepreneurship.
 
@@ -139,4 +147,4 @@ Honduras's own way (Honduras Grade 5 G5 Student CCSS): Grade 5 turns outward to 
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras, Fiji, indonesia, nicaragua, iran, iraq, pakistan
+Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras, Fiji, indonesia, nicaragua, iran, iraq, pakistan, nigeria

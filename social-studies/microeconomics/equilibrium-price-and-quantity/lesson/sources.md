@@ -1,6 +1,6 @@
 # Sources — Equilibrium price and quantity — where the curves cross
 
-countries: Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Albania, Bangladesh, Yemen, Fiji, Vietnam, Armenia, Nicaragua, Iran, Iraq, United States, Pakistan, Bolivia
+countries: Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Albania, Bangladesh, Yemen, Fiji, Vietnam, Armenia, Nicaragua, Iran, Iraq, United States, Pakistan, Bolivia, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -117,7 +117,24 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Bolivia part — Oferta y demanda — teaches: the law of supply and demand as the basic principle on which a market economy rests — the relation between a product's demand and the quantity offered, given its selling price: at each market price, sellers are willing to make a determinate number of the good and buyers to buy a determinate number (filed as microeconomics/supply-and-demand-buyers-and-sellers-push-prices; stocked here as the closest existing lesson covering this thing) | Bolivia, *Bolivia Grade 10 Texto de Aprendizaje Ciencias Sociales Secundaria 4*, Oferta y demanda — PDF p. 78 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Bangladesh, Yemen, Fiji, Vietnam, Armenia, Nicaragua, Iran, Iraq, United States, Pakistan, Bolivia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 20:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 3 — Determination of market prices — teaches: how demand and supply together determine the market price | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 3 — Determination of market prices — printed p. 35 |
+
+
+**Book 21:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 2 — Determination of market prices — teaches: price determination by demand and supply, second treatment | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 2 — Determination of market prices — printed p. 26 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Bangladesh, Yemen, Fiji, Vietnam, Armenia, Nicaragua, Iran, Iraq, United States, Pakistan, Bolivia, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Bolivia's own way (Bolivia Grade 10 Texto de Aprendizaje Ciencias Sociales Secundaria 4): alongside the national story (Sucre's tax design, the silver cycle, the rubber boom), this year carries the wave's most textbook-like basic economics in the Bolivia set — supply and demand, the production–distribution–consumption cycle and the three sectors, all inside a unit on natural resources and Mother Earth.
 
@@ -156,4 +173,4 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: equilibrium price quantity, curves intersection, market equilibrium, ethiopia, france, ses, lunch deal, french housing, social studies, microeconomics, mongolia, flour schedule, shortage surplus, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, bangladesh, yemen, Fiji, vietnam, armenia, nicaragua, iran, iraq, united states, pakistan, bolivia
+Searchable tags: equilibrium price quantity, curves intersection, market equilibrium, ethiopia, france, ses, lunch deal, french housing, social studies, microeconomics, mongolia, flour schedule, shortage surplus, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, bangladesh, yemen, Fiji, vietnam, armenia, nicaragua, iran, iraq, united states, pakistan, bolivia, nigeria

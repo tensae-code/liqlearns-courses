@@ -1,6 +1,6 @@
 # Sources — What money is
 
-countries: Ethiopia, United Arab Emirates, Zambia, Syria, Uganda, Mongolia, Rwanda, Malaysia, Dominican Republic, Albania, Cambodia, Egypt, Yemen, Nicaragua, Iran, Iraq, India, Pakistan, Bolivia, Colombia
+countries: Ethiopia, United Arab Emirates, Zambia, Syria, Uganda, Mongolia, Rwanda, Malaysia, Dominican Republic, Albania, Cambodia, Egypt, Yemen, Nicaragua, Iran, Iraq, India, Pakistan, Bolivia, Colombia, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -157,7 +157,15 @@ Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first t
 |---|---|
 | Colombia part — Unidad 7, Guía 14: ¿qué es el dinero? — teaches: money is the means of exchange accepted by society as payment for goods, services and debts; before money, goods were exchanged directly (trueque/barter), and cattle, tobacco, skins, wheat, salt and gold served as money; Colombia's state bank, the Banco de la República, is authorised to print the bills in circulation | Colombia, *Colombia Grade 5 Escuela Nueva G5 Cartilla 2*, Unidad 7, Guía 14: ¿qué es el dinero? — printed p. 82 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, United Arab Emirates, Syria, Uganda, Mongolia, Rwanda, Malaysia, Dominican Republic, Cambodia, Egypt, Yemen, Nicaragua, Iran, Iraq, India, Pakistan, Bolivia, Colombia). Zambia is teacher-module evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 25:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 11 — Types and characteristics of money — teaches: types of money and the characteristics good money must have | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 11 — Types and characteristics of money — printed p. 143 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, United Arab Emirates, Syria, Uganda, Mongolia, Rwanda, Malaysia, Dominican Republic, Cambodia, Egypt, Yemen, Nicaragua, Iran, Iraq, India, Pakistan, Bolivia, Colombia, Nigeria). Zambia is teacher-module evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Colombia's own way (Colombia Grade 5 Escuela Nueva G5 Cartilla 2): the fullest primary Economics unit in the set — work, goods, sectors, money, prices and the market are all taught from the child's own plaza de mercado, ending in a real market-day fieldwork and market survey.
 
@@ -194,4 +202,4 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money, uganda, qualities of money, uses of money, coins and notes, mongolia, four functions of money, metal paper card electronic money, tögrög, rwanda, malaysia, dominican republic, albania, cambodia, egypt, yemen, nicaragua, iran, iraq, india, pakistan, bolivia, colombia
+Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money, uganda, qualities of money, uses of money, coins and notes, mongolia, four functions of money, metal paper card electronic money, tögrög, rwanda, malaysia, dominican republic, albania, cambodia, egypt, yemen, nicaragua, iran, iraq, india, pakistan, bolivia, colombia, nigeria

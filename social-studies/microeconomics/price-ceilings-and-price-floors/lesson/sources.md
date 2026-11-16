@@ -1,6 +1,6 @@
 # Sources — Price ceilings and price floors
 
-countries: Ethiopia, Albania, Bangladesh, Vietnam, Armenia, Nicaragua, United States
+countries: Ethiopia, Albania, Bangladesh, Vietnam, Armenia, Nicaragua, United States, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -48,7 +48,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | United States part — 3.4 Price Ceilings and Price Floors — teaches: price ceilings and price floors as government intervention in a market, and their anticipated and unanticipated outcomes | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 3.4 Price Ceilings and Price Floors — printed p. 67 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Vietnam, Armenia, Nicaragua, United States). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 8:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 7 — Price control / price legislation — teaches: price control and price legislation and their effects | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 7 — Price control / price legislation — printed p. 93 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Vietnam, Armenia, Nicaragua, United States, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -62,4 +70,4 @@ Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: price ceilings and price floors, grade 12 economics, ethiopia, social studies, microeconomics, albania, bangladesh, vietnam, armenia, nicaragua, united states
+Searchable tags: price ceilings and price floors, grade 12 economics, ethiopia, social studies, microeconomics, albania, bangladesh, vietnam, armenia, nicaragua, united states, nigeria

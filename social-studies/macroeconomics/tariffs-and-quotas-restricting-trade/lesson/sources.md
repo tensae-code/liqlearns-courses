@@ -1,6 +1,6 @@
 # Sources — Tariffs and quotas — restricting trade
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua, India, United States, Colombia
+countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua, India, United States, Colombia, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -78,7 +78,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Colombia part — Unidad 2, Guía 4: las luchas de los artesanos organizados / la República Popular — teaches: when governments declared freedom of commerce (free imports from industrialised countries), Colombian artisans saw their work and national industry threatened, organised in Democratic Societies, and backed the 1854 República Popular, which proclaimed respect for work and industry | Colombia, *Colombia Grade 5 Escuela Nueva G5 Cartilla 1*, Unidad 2, Guía 4: las luchas de los artesanos organizados / la República Popular — printed p. 48 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua, India, United States, Colombia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 13:** *New Economics for Senior Secondary Schools 3* (student book, English) — Learn Africa Plc; year 2014 (New Edition; first published 1992); ISBN 978 978 925 150 6. Title as printed: New Economics for Senior Secondary Schools 3. Grade: Grade 12 / SS3 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; byte size 4,823,928 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–140 (all 13 chapters in 8 themes); Index pp. 141–152 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 7 — Commercial policy — teaches: commercial policy — tariffs, quotas and protection | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 7 — Commercial policy — printed p. 65 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua, India, United States, Colombia, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
 Colombia's own way (Colombia Grade 5 Escuela Nueva G5 Cartilla 1): Economics arrives as the history of Colombian work itself — campesinos, coffee labourers, artisans threatened by free trade, and the first unions and strikes.
 
@@ -100,4 +108,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from family to country — occupations and production for the whole nation, social classes by income, the production-distribution-exchange-consumption chain, and exports/imports through customs with the arancel explained.
 
-Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, indonesia, nicaragua, india, united states, colombia
+Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, indonesia, nicaragua, india, united states, colombia, nigeria

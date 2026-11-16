@@ -1,6 +1,6 @@
 # Sources — The law of supply
 
-countries: Ethiopia, France, Kazakhstan, Albania, Jordan, Bangladesh, Yemen, Iran, Iraq
+countries: Ethiopia, France, Kazakhstan, Albania, Jordan, Bangladesh, Yemen, Iran, Iraq, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -66,7 +66,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Iraq part — The concept and law of supply — teaches: supply as the quantities producers are willing and able to offer at various prices in a set period — real supply needs desire joined to ability — and the law of supply: quantity supplied rises as price rises, P↑ ⇒ Qs↑ | Iraq, *Iraq Grade 11 Economics*, The concept and law of supply — printed p. 31 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, France, Kazakhstan, Jordan, Bangladesh, Yemen, Iran, Iraq). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 3 — Laws of demand and supply (supply side) — teaches: the law of supply and change in supply versus change in quantity supplied | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 3 — Laws of demand and supply (supply side) — printed p. 32 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, France, Kazakhstan, Jordan, Bangladesh, Yemen, Iran, Iraq, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
 
@@ -88,4 +96,4 @@ Jordan's own way (Jordan Grade 5 Term 2): Grade 5 gets the first formal market l
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: law of supply, supply schedule curve, upward sloping, direct relationship, ethiopia, france, ses, quinoa cote d'or, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, jordan, bangladesh, yemen, iran, iraq
+Searchable tags: law of supply, supply schedule curve, upward sloping, direct relationship, ethiopia, france, ses, quinoa cote d'or, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, jordan, bangladesh, yemen, iran, iraq, nigeria

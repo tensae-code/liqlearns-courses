@@ -1,6 +1,6 @@
 # Sources — Economic cost and accounting cost
 
-countries: Ethiopia, Fiji, United States
+countries: Ethiopia, Fiji, United States, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -22,7 +22,15 @@ countries: Ethiopia, Fiji, United States
 |---|---|
 | United States part — 7.1 Explicit and Implicit Costs, and Accounting and Economic Profit — teaches: profit as total revenue minus total cost, in its accounting form and its economic form (which also charges implicit costs) | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 7.1 Explicit and Implicit Costs, and Accounting and Economic Profit — printed p. 165 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Fiji, United States).**
+**Book 4:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 4 — Economists' and accountants' views of cost — teaches: the economist's cost against the accountant's cost, for a firm and for a nation | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 4 — Economists' and accountants' views of cost — printed p. 39 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Fiji, United States, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -30,4 +38,4 @@ Fiji's own way (Fiji Grade 11 Economics Year 11 Part 1): A full direct-approach 
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: economic cost accounting cost, implicit plus explicit, economic profit, ethiopia, social studies, microeconomics, Fiji, united states
+Searchable tags: economic cost accounting cost, implicit plus explicit, economic profit, ethiopia, social studies, microeconomics, Fiji, united states, nigeria

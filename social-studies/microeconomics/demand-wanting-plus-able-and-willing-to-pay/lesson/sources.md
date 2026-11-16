@@ -1,6 +1,6 @@
 # Sources — Demand — wanting, plus able and willing to pay
 
-countries: Ethiopia, Laos, Mongolia, Bangladesh, Yemen, Vietnam, Pakistan
+countries: Ethiopia, Laos, Mongolia, Bangladesh, Yemen, Vietnam, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -62,7 +62,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Pakistan part — Ch. 4.1-4.2 Demand — teaches: the meaning of demand and its kinds — derived demand, complementary (joint) demand, composite demand and demand for substitute goods | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 4.1-4.2 Demand — printed pp. 72-73 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Laos, Mongolia, Bangladesh, Yemen, Vietnam, Pakistan).**
+**Book 10:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 3 — Demand, schedules and curves — teaches: meaning of demand with demand schedules and curves drawn from them | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 3 — Demand, schedules and curves — printed p. 24 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Laos, Mongolia, Bangladesh, Yemen, Vietnam, Pakistan, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium microeconomics course whose every Urdu section heading carries the English term in brackets, so the learner meets both languages' vocabulary at once; theory is built from schedules, tables and hand-drawn curves throughout, and distribution (rent, wages, interest, profit) closes the book as one factor-pricing chapter.
 
@@ -77,4 +85,4 @@ Laos' own way (Laos Grade 11 Business student): the market is defined three ways
 
 Mongolia's own way (Mongolia Grade 8 Social Studies 8): the economy is taught from the home district outward — pupils map the enterprises around their own school, work a flour price schedule, then write a real small-business plan.
 
-Searchable tags: demand effective desire, quantity demanded, ability willingness to pay, birr jeans heater, ethiopia, social studies, microeconomics, laos, marketing meaning of market, need and purchasing power, mongolia, demand, english book, tögrög, bangladesh, yemen, vietnam, pakistan
+Searchable tags: demand effective desire, quantity demanded, ability willingness to pay, birr jeans heater, ethiopia, social studies, microeconomics, laos, marketing meaning of market, need and purchasing power, mongolia, demand, english book, tögrög, bangladesh, yemen, vietnam, pakistan, nigeria

@@ -1,6 +1,6 @@
 # Sources — Supply — schedules, curves and the function
 
-countries: Ethiopia, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States
+countries: Ethiopia, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -45,7 +45,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | United States part — 3.1 Demand, Supply, and Equilibrium in Markets for Goods and Services — teaches: supply and quantity supplied, the law of supply, and the supply schedule and curve | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 3.1 Demand, Supply, and Equilibrium in Markets for Goods and Services — printed p. 46 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States).**
+**Book 8:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 2 — Supply schedule and curve — teaches: supply schedules and curves revisited | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 2 — Supply schedule and curve — printed p. 21 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -57,4 +65,4 @@ Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course t
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: supply function, Qs a plus bP, minimum price, supply schedule rising with price, law of supply, ethiopia, social studies, microeconomics, malaysia, bangladesh, yemen, armenia, iraq, united states
+Searchable tags: supply function, Qs a plus bP, minimum price, supply schedule rising with price, law of supply, ethiopia, social studies, microeconomics, malaysia, bangladesh, yemen, armenia, iraq, united states, nigeria

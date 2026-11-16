@@ -1,6 +1,6 @@
 # Sources — Is economics a science, an art, or both?
 
-countries: Ethiopia, Pakistan
+countries: Ethiopia, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -16,11 +16,19 @@ countries: Ethiopia, Pakistan
 |---|---|
 | Pakistan part — Ch. 1 Scope and Nature of Economics — teaches: the scope of economics, the nature of economic laws, and economics as positive vs normative science, with applied economics named | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 1 Scope and Nature of Economics — printed pp. 20-28 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Pakistan).**
+**Book 3:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 1 — Nature of economics as a science / social science — teaches: economics as a science and as a social science, and why we study it | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 1 — Nature of economics as a science / social science — printed p. 5 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Pakistan, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium microeconomics course whose every Urdu section heading carries the English term in brackets, so the learner meets both languages' vocabulary at once; theory is built from schedules, tables and hand-drawn curves throughout, and distribution (rent, wages, interest, profit) closes the book as one factor-pricing chapter.
 
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: economics science art, positive description, prediction, problem solving, ethiopia, social studies, microeconomics, pakistan
+Searchable tags: economics science art, positive description, prediction, problem solving, ethiopia, social studies, microeconomics, pakistan, nigeria

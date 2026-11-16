@@ -1,6 +1,6 @@
 # Sources — What a tax is
 
-countries: Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Albania, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria, Iran, India, Pakistan, Bolivia, Costa Rica
+countries: Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Albania, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria, Iran, India, Pakistan, Bolivia, Costa Rica, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -206,7 +206,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Costa Rica part — Tributos aztecas e incas — teaches: conquered provinces sent regular tribute in maize, beans and goods to Tenochtitlán to fund government, and the Inca quipu cords recorded censuses and tribute payments — a pre-money tax in kind | Costa Rica, *Estudios Sociales CONED 7*, Grade 7 — printed pp. 72–74 and 80 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria, Iran, India, Pakistan, Bolivia, Costa Rica). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 34:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 11 — Taxation and taxes — teaches: taxation and the kinds of taxes | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 11 — Taxation and taxes — printed p. 132 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria, Iran, India, Pakistan, Bolivia, Costa Rica, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Costa Rica's own way (Estudios Sociales CONED 7): Economics is taught inside history and geography — the Neolithic surplus as the first economy, pre-Columbian markets and tribute, then Costa Rica's own ecological footprint/ecological debt (Estado de la Nación 2016 data) and its world-famous payment-for-environmental-services (PSA/Fonafifo) forest scheme as the national case studies.
 
@@ -268,4 +276,4 @@ Iran's own way (Iran Grade 7 Social Studies): production and consumption are tau
 
 Iran's own way (Iran Grade 8 Social Studies): cooperation is taught as an economic form, not only a virtue — the cooperative company with one member one vote, and the centuries-old waqf endowment whose farm and workshop income is directed to the needy.
 
-Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas, laos, income and taxes, wages salary profit, dominican republic, ITBIS, ISR, albania, uzbekistan, egypt, Fiji, vietnam, armenia, indonesia, nepal, nicaragua, bulgaria, iran, india, pakistan, bolivia
+Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas, laos, income and taxes, wages salary profit, dominican republic, ITBIS, ISR, albania, uzbekistan, egypt, Fiji, vietnam, armenia, indonesia, nepal, nicaragua, bulgaria, iran, india, pakistan, bolivia, nigeria

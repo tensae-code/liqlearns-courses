@@ -1,6 +1,6 @@
 # Sources — Fiscal policy — the government's budget as a lever
 
-countries: Ethiopia, Malaysia, Albania, Cambodia, Uzbekistan, Egypt, Honduras, Vietnam, Armenia, Indonesia, Nicaragua, United States, Pakistan
+countries: Ethiopia, Malaysia, Albania, Cambodia, Uzbekistan, Egypt, Honduras, Vietnam, Armenia, Indonesia, Nicaragua, United States, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -93,7 +93,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Pakistan part — Ch. 4.1 Public Finance — teaches: the meaning of private and public finance, their similarities and differences, the period of the budget, and the budget's shapes — surplus budget and deficit (unfavourable) budget | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 4.1 Public Finance — printed pp. 69-72 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Malaysia, Cambodia, Uzbekistan, Egypt, Honduras, Vietnam, Armenia, Indonesia, Nicaragua, United States, Pakistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 16:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 11 — Public finance and fiscal policy — teaches: meaning of public finance and fiscal policy | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 11 — Public finance and fiscal policy — printed p. 131 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Malaysia, Cambodia, Uzbekistan, Egypt, Honduras, Vietnam, Armenia, Indonesia, Nicaragua, United States, Pakistan, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
 
@@ -123,4 +131,4 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 
 Honduras's own way (Honduras Grade 8 G8 Student CCSS): Grade 8 teaches Latin America's development problem head-on — development vs underdevelopment, the integration ladder, and the debt lesson built around Honduras's own fiscal-deficit chart and the structural-adjustment era.
 
-Searchable tags: fiscal policy — the government's budget as a lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, cambodia, uzbekistan, egypt, honduras, vietnam, armenia, indonesia, nicaragua, united states, pakistan
+Searchable tags: fiscal policy — the government's budget as a lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, cambodia, uzbekistan, egypt, honduras, vietnam, armenia, indonesia, nicaragua, united states, pakistan, nigeria

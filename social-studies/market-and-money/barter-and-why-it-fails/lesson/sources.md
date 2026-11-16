@@ -1,6 +1,6 @@
 # Sources — Barter — and why it fails
 
-countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Zimbabwe, Palestine, Venezuela, Dominica, Jordan, Egypt, Yemen, Armenia, Iran, Pakistan, Bolivia, Colombia, Costa Rica
+countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Zimbabwe, Palestine, Venezuela, Dominica, Jordan, Egypt, Yemen, Armenia, Iran, Pakistan, Bolivia, Colombia, Costa Rica, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -174,7 +174,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Costa Rica part — La Revolución Neolítica / excedente productivo — teaches: once farming produced a surplus above own needs and reserves, villages could barter (trueque) the extra with other villages | Costa Rica, *Estudios Sociales CONED 7*, Grade 7 — printed p. 23 |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Palestine, Venezuela, Dominica, Jordan, Egypt, Yemen, Armenia, Iran, Pakistan, Bolivia, Colombia, Costa Rica). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 27:** *New Economics for Senior Secondary Schools 1* (student book, English) — Learn Africa Plc; year 2013 (New Edition; first published 1992); ISBN 978 978 925 148 3. Title as printed: New Economics for Senior Secondary Schools 1. Grade: Grade 10 / SS1 (student/teacher: STUDENT). PDF pages: 165 (cover/title page verified against the record title; byte size 926,615 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–157 (all 12 chapters); Index pp. 158–165 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 11 — The barter system — teaches: barter and its difficulties | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 11 — The barter system — printed p. 141 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Palestine, Venezuela, Dominica, Jordan, Egypt, Yemen, Armenia, Iran, Pakistan, Bolivia, Colombia, Costa Rica, Nigeria). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Costa Rica's own way (Estudios Sociales CONED 7): Economics is taught inside history and geography — the Neolithic surplus as the first economy, pre-Columbian markets and tribute, then Costa Rica's own ecological footprint/ecological debt (Estado de la Nación 2016 data) and its world-famous payment-for-environmental-services (PSA/Fonafifo) forest scheme as the national case studies.
 
@@ -212,4 +220,4 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 
 Iran's own way (Iran Grade 7 Social Studies): production and consumption are taught with Iranian anchors throughout — the historic bazaar as market and social centre, compulsory third-party car insurance, and the Silk Road crossing Iran as a bridge between East and West.
 
-Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox, mongolia, barter, livestock goods-money, paper money 1236, south sudan, zimbabwe, teacher guide evidence, palestine, venezuela, dominica, csec principles of business, caribbean, jordan, egypt, yemen, armenia, iran, pakistan, bolivia, colombia
+Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox, mongolia, barter, livestock goods-money, paper money 1236, south sudan, zimbabwe, teacher guide evidence, palestine, venezuela, dominica, csec principles of business, caribbean, jordan, egypt, yemen, armenia, iran, pakistan, bolivia, colombia, nigeria

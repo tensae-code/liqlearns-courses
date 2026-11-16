@@ -1,6 +1,6 @@
 # Sources — Cross and income elasticity
 
-countries: Ethiopia, Kazakhstan, Iraq, United States, Pakistan
+countries: Ethiopia, Kazakhstan, Iraq, United States, Pakistan, Nigeria
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -35,7 +35,15 @@ countries: Ethiopia, Kazakhstan, Iraq, United States, Pakistan
 |---|---|
 | Pakistan part — Ch. 4.7 Other Kinds of Elasticity — teaches: income elasticity and cross elasticity, the factors that make demand elastic or inelastic (nature of the good, substitutes, durability, habits, cheap vs expensive goods, distribution of wealth), and the demand function written as an equation | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 4.7 Other Kinds of Elasticity — printed pp. 91-100 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Kazakhstan, Iraq, United States, Pakistan).**
+**Book 6:** *New Economics for Senior Secondary Schools 2* (student book, English) — Learn Africa Plc; year 2014 (New edition; first published 1992); ISBN 978 978 925 149 0. Title as printed: New Economics for Senior Secondary Schools 2. Grade: Grade 11 / SS2 (student/teacher: STUDENT). PDF pages: 224 (cover/title page verified against the record title; byte size 4,927,094 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–209 (all 15 chapters in 7 themes); Index pp. 210–224 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nigeria part — Chapter 7 — Elasticity of demand (income and cross) — teaches: income and cross elasticity within the elasticity treatment | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 7 — Elasticity of demand (income and cross) — printed p. 82 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Kazakhstan, Iraq, United States, Pakistan, Nigeria).**
+
+Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
 Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium microeconomics course whose every Urdu section heading carries the English term in brackets, so the learner meets both languages' vocabulary at once; theory is built from schedules, tables and hand-drawn curves throughout, and distribution (rent, wages, interest, profit) closes the book as one factor-pricing chapter.
 
@@ -48,4 +56,4 @@ The book's printed solution text for the income-elasticity table (incomes Birr 1
 
 Kazakhstan's own way (Kazakhstan Grade 10 Aganina): Economics is taught inside an entrepreneurship course — market theory arrives as the theory an entrepreneur needs, with tenge-denominated supply examples (a potato supply curve at 50-70 tenge), world oil prices deciding whether an Almaty-region furniture workshop profits, and Kazakhstan's own post-Soviet transition as the opening history.
 
-Searchable tags: cross elasticity, substitutes positive, complements negative, income elasticity, inferior good, luxury necessity, tea coffee, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, iraq, united states, pakistan
+Searchable tags: cross elasticity, substitutes positive, complements negative, income elasticity, inferior good, luxury necessity, tea coffee, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, iraq, united states, pakistan, nigeria
