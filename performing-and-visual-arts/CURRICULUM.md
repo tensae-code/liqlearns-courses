@@ -2306,7 +2306,38 @@ Mongolia's thirteen student books (Grades 1–8: Visual Art &
   script calligraphy, and Mongolia's own opera, symphonies and
   ballets beside the world repertoire.
 
-**The whole course stands at 647 lessons, 8,069 questions and
+Afghanistan's thirteen student books (Grades 1–9: Art of Drawing
+  1–6, Beautiful Writing 2 and 4–6, Art 7–9) stocked 263
+  placements: 202 into existing lessons, 24 into already-built
+  canonical lessons (Blot and Splatter Painting ×4; Wire
+  Modelling and Wire Sculpture ×2; History of Art ×6; Islamic
+  Art ×5; Arabic and Islamic Calligraphy ×2; Woodworking;
+  Illustration and Book Design; Digital and Computer Art ×2;
+  Painting with Blown, Poured and Pressed Colour), and 37 into
+  7 NEW lessons (Visual Art: Dari Calligraphy: Naskh ×13; Dari
+  Calligraphy: Nastaliq ×9; Shikasteh Calligraphy; Art History
+  of Afghanistan ×7; Afghan Artists ×3; Miniature Painting ×2;
+  Gold-Thread Embroidery ×2), 56 questions added, media as
+  described slots only. Honesty carried exactly as filed: all
+  thirteen books are COMPLETE student books, read in full, and
+  secured as GitHub release assets in release mid-size-books-7
+  (the repo tree paths return 404, as filed); each book's
+  built-in teacher's-guide section and the Pashto national
+  anthem front matter are named in the book entries, not placed
+  separately; bibliographies are named, not placed. Two further
+  records (Beautiful Writing Grades 1 and 3) are UNREAD — their
+  only source is a Telegram channel link, not a file — and are
+  filed record-only in the placements, with 0 placements.
+  Afghanistan's own way is kept as named parts throughout:
+  calligraphy (حسن خط) as its own subject — Naskh in Grade 2,
+  Nastaliq from Grade 4 with its dot measure, Shikasteh, chalipa
+  and siyah-mashq in Grade 6; the draw-it-then-colour-it rhythm
+  of the primary drawing books; Afghan clothing coloured and
+  drawn itself; the historical monuments and the Bost Fortress
+  model; and the country's own art history, from the Nawur
+  plain stone tools and Mundigak to the National Museum.
+
+**The whole course stands at 654 lessons, 8,125 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

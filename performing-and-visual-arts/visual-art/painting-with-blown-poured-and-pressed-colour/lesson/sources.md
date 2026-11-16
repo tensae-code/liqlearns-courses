@@ -1,6 +1,6 @@
 # Sources — Painting with Blown, Poured and Pressed Colour
 
-countries: Finland, Saudi Arabia
+countries: Finland, Saudi Arabia, Afghanistan
 
 **Book 1:** *Opetusjakso nimeltä Kahdeksan (A Teaching Unit Named Eight); North Sámi edition: Gávcci-nammásaš oahpahusoassi, ed. Saara Krook* (teaching unit, Finnish + North Sámi) — Finland, LUMA Centre Lapland, University of Lapland, Rovaniemi, 2024, ISBN Finnish PDF 978-952-337-467-6, Sámi PDF 978-952-337-465-2 (Sámi print 978-952-337-466-9), CC BY-NC-SA, Grades 3–6, Finnish 66 PDF pp, Sámi 84 PDF pp. STUDENT — teaching unit pack. The Finnish edition was read fully; the Sámi edition was spot-checked (cover, imprint, introduction, contents and the season table): same unit, same eight-season structure and same lesson set in North Sámi — placed once here, both editions named. Verdict: COMPLETE for its arts parts. The unit's spine is environmental studies and maths — named in the placements, not placed; the Mustikkamagiaa (Blueberry Magic) art activity's step-by-step sheet is held on the LUMA Lapland site and only its goals and framing are printed in the book — its placement below is evidence at that level. FETCH NOTE: both GitHub tree paths returned HTTP 404 on two grab attempts; both editions were read from their recorded aoe.fi source_urls, byte sizes 18,451,934 (FI) and 21,841,122 (SME) = the records' size_bytes exactly, printed titles matching the records — the content is the recorded books (phantom pushes recovered byte-exact from aoe.fi); the 404 tree paths are logged as library debts. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md.
 
@@ -15,8 +15,16 @@ countries: Finland, Saudi Arabia
 | Saudi Arabia — Unit 1 Topic 1, Activities 1 and 3 — colour effects by blowing — blow through a drinking straw into liquid colour in a cup until bubbles rise, lay white paper on the bubbles and the paper takes the bubble pattern; and blow painting: put drops of colour on white paper and blow them so they spread across the surface (with the caution never to suck the… (student book; original target `visual-art/bubble-and-blow-painting`) | Book 2, printed pp. 13, 15 |
 | Saudi Arabia — Unit 1 Topic 1, Activity 2 — a butterfly by folding paper — scatter drops of colour on the middle of a white sheet, fold the sheet in half and press over the colour from outside so the colours spread inside, cut the folded sheet to a half-butterfly shape, then open it: the two wings come out equal (student book; original target `visual-art/fold-and-press-painting`) | Book 2, printed p. 14 |
 
-**Acceptance count: taught in 2 countries (Finland, Saudi Arabia).**
+**Acceptance count: taught in 3 countries (Finland, Saudi Arabia, Afghanistan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/painting-with-blown-poured-and-pressed-colour`); the Finland placement was filed as NEW LESSON NEEDED under the original string `visual-art/string-painting`, recorded in the provenance row above and resolved to this lesson by slug-registry Part 2. Finland's own way: the aurora is painted with the technique that moves like it — a waving string — and the picture itself records the science of what auroras are.
 
 Searchable tags: string painting, lankamaalaus, aurora, blown poured pressed colour, Finland
+
+**Book 3:** Title as printed: هنر رسامی — صنف ششم (Art of Drawing — Grade Six) Grade: Grade 6 (student/teacher: STUDENT — with a built-in teacher's-guide section; noted, not placed separately) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1397 SH (2018/19); no ISBN printed PDF pages: 74 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-06-gov-afghanistan-42730752d8.pdf, 28,132,582 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 30 placements — 29 to existing lessons, 1 NEW LESSON NEEDED Afghanistan's own way: the last primary drawing year studies movement (a horse's legs in motion), draws Afghan clothing itself, pours colour onto paper to find shapes in it, draws geometric shapes with nearness and distance (دوری و نزدیکی — perspective), and gives the whole final movement to the homeland's buildings — drawing, colouring and modelling historical buildings, and sketching a historic minaret in groups. Not placed: the Pashto national anthem front matter and the built-in teaching-guide section for the same lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 20: Making creative shapes from colour (ساختن اشکال ابتکاری از رنگ) — pouring colours onto the paper (ریختن رنگ‌ها بالای کاغذ) and finding and finishing shapes in the poured colour (student book; original target `visual-art/poured-colour-shapes`) | Book 3, printed p. 39 |
+
+Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.

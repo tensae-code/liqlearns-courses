@@ -1,6 +1,6 @@
 # Sources — Design and Perspective: Near and Far
 
-countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Papua New Guinea, Brazil, Jordan, Libya, Cuba, Venezuela, Angola, Mongolia
+countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Papua New Guinea, Brazil, Jordan, Libya, Cuba, Venezuela, Angola, Mongolia, Afghanistan
 
 **Book 1:** *Grade 6 Performing and Visual Arts Teacher Guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Writers: Tibebu Woldeyohannes, Yirga Qumelachew, Yohannes Sebsebie. 96 PDF pages; printed front matter I–VI + body and syllabus to printed p. 119. Read in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
@@ -122,7 +122,7 @@ countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pa
 |---|---|
 | Mongolia — Part I: Юмсын хол, ойр байршлыг хүйтэн, дулаан өнгөөр ялган дүрслэх (near and far shown by cold and warm colours) and Энгийн аргаар алслалтай зурах (drawing with perspective, the simple way) (student book; original target `visual-art/design-and-perspective-near-and-far`) | Book 32, printed pp. 21, 22 |
 
-**Acceptance count: taught in 15 countries(Maldives, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Brazil, Jordan, Cuba, Venezuela, Angola, Mongolia).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 16 countries(Maldives, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Brazil, Jordan, Cuba, Venezuela, Angola, Mongolia, Afghanistan).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 6 teacher's guide (Addis Ababa City Administration Education Bureau, © 2014 E.C.). The placements file summarises the guide's §2.4 design section by its topic, its Amharic terms and its picture slot (a road narrowing to a vanishing point, nearer trees darker and larger); the lesson teaches at exactly that level and adds no perspective rules, constructions or terms the placement does not give.
 
@@ -167,3 +167,17 @@ Searchable tags: Maldives, Exploring Creative Arts 4, perspective, የርቀት�
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — §1.10, Proyecciones — projection learned from the shadow: parallel and orthogonal projection, and the three views (frontal, superior, lateral izquierda) of an article (student book; original target `visual-art/design-and-perspective-near-and-far`) | Book 25, printed p. 64 |
+
+**Book 33:** Title as printed: هنر رسامی — صنف ششم (Art of Drawing — Grade Six) Grade: Grade 6 (student/teacher: STUDENT — with a built-in teacher's-guide section; noted, not placed separately) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1397 SH (2018/19); no ISBN printed PDF pages: 74 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-06-gov-afghanistan-42730752d8.pdf, 28,132,582 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 30 placements — 29 to existing lessons, 1 NEW LESSON NEEDED Afghanistan's own way: the last primary drawing year studies movement (a horse's legs in motion), draws Afghan clothing itself, pours colour onto paper to find shapes in it, draws geometric shapes with nearness and distance (دوری و نزدیکی — perspective), and gives the whole final movement to the homeland's buildings — drawing, colouring and modelling historical buildings, and sketching a historic minaret in groups. Not placed: the Pashto national anthem front matter and the built-in teaching-guide section for the same lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 16: Drawing geometric shapes (رسم اشکال هندسی) — the geometric shapes — circle, square, rectangle, rhombus, star, triangle — and drawing them with regard to distance and nearness (دوری و نزدیکی): perspective (student book; original target `visual-art/design-and-perspective-near-and-far`) | Book 33, printed p. 31 |
+
+**Book 34:** Title as printed: هنر — صنف ۸ (Art — Grade 8) Grade: Grade 8 (student/teacher: STUDENT) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1399 SH (2020); no ISBN printed PDF pages: 62 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-08-gov-afghanistan-d6c13d5ade.pdf, 11,015,808 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 21 placements — 9 to existing lessons, 12 NEW LESSON NEEDED Afghanistan's own way: Grade 8 is the Islamic-art year — Islamic art, its designs copied by hand, Islamic calligraphy crowned by copying the Basmala itself, Islamic architecture and a model bridge, the clay pen-holder and the wooden Quran stand (رحل) that the calligrapher needs, and miniature painting — all framed by Afghanistan's own Islamic-period history (Ghaznavid Ghazna, the Herat of the Ghurids and Timurids) and by the living crafts of every province, from Kabul's coppersmiths to Herat's glassblowers. Not placed: the Pashto national anthem front matter and the bibliography. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 5: Proportion, distance and nearness (تناسب، دوری و نزدیکی) — proportion and perspective — how distance and nearness are shown (student book; original target `visual-art/design-and-perspective-near-and-far`) | Book 34, printed p. 11 |
+
+Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.

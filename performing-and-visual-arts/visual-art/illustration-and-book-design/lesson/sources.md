@@ -1,6 +1,6 @@
 # Sources — Illustration and Book Design
 
-countries: Belarus, Bulgaria, Sri Lanka
+countries: Belarus, Bulgaria, Sri Lanka, Afghanistan
 
 **Book 1:** *Выяўленчае мастацтва. 5 клас (Fine Arts, Grade 5)* (student book, Belarusian) — Belarus, Нацыянальны інстытут адукацыі (National Institute of Education), Minsk; year 2009; ISBN 978-985-465-593-2; authors М. І. Касабуцкі (M. I. Kasabutski), В. М. Касабуцкі (V. M. Kasabutski); approved by the Ministry of Education of the Republic of Belarus. Title as printed: ВЫЯЎЛЕНЧАЕ МАСТАЦТВА — Вучэбны дапаможнік для 5 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання. Для работы ў класе (Fine Arts — textbook for Grade 5, for work in class). Grade 5 (student book: STUDENT). PDF pages: 96 (imprint title verified against the record; byte size 7,948,218). Verdict: COMPLETE — read in full from the downloaded file's text layer, page by page through all 28 numbered sections (contents verified at printed p. 94); the "Пытанні і творчыя заданні" (questions and creative tasks) pages are named here as apparatus and not placed separately. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
@@ -8,7 +8,7 @@ countries: Belarus, Bulgaria, Sri Lanka
 |---|---|
 | Belarus — Section 25, "Stylisation": simplifying an image down to geometric forms (a tree, an architectural shape), and stylised flower images in colour and in black-and-white variants (student book; original target `visual-art/stylising-shapes`) | Book 1, printed pp. 84–86 |
 
-**Acceptance count: taught in 2 countries (Belarus, Bulgaria).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Belarus, Bulgaria, Afghanistan).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/illustration-and-book-design`). The Belarus placement(s) were filed under the original string(s) `visual-art/stylising-shapes`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -32,3 +32,11 @@ Searchable tags: illustration, book design, stylisation, geometric forms, Belaru
 | Sri Lanka — Activity 4.2.1 "Let's create illustrations suited to a children's book" — illustrating a children's picture book — what a lama kathandar (children's story) book needs from its pictures, the four named illustration types in the guide's annex, and drawings made to carry a story for young readers (teacher guide — evidence; original target `visual-art/illustrating-a-childrens-book`) | Book 3, printed pp. 24–25 |
 
 | Sri Lanka — Activity 4.3.1 "Let's create a cover for a selected children's book" — book-cover design — analysing real covers, then designing one whose picture, lettering and colour promise the story inside (teacher guide — evidence; original target `visual-art/designing-a-book-cover`) | Book 3, printed pp. 26–27 |
+
+**Book 4:** Title as printed: هنر — صنف ۹ (Art — Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1399 SH (2020); no ISBN printed PDF pages: 58 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-09-gov-afghanistan-6a2e911d8c.pdf, 9,084,511 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 19 placements — 5 to existing lessons, 14 NEW LESSON NEEDED Afghanistan's own way: the last year of school art opens outward and forward — the art of the West and contemporary Western art beside Afghanistan's own contemporary masters; painting from poetry; designing a jantri, the beautiful wall calendar of the year; gold- and silver-thread embroidery; a Quranic verse worked in relief; and the computer taken up as an artist's tool, with a full lesson on painting in the Paint program. Not placed: the Pashto national anthem front matter and the bibliography. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 11: Painting from poetry (نقاشی از شعر) — making a painting out of a poem (student book; original target `visual-art/painting-from-poetry`) | Book 4, printed p. 31 |
+
+Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.

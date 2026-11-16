@@ -1,6 +1,6 @@
 # Sources — First Marks and Scribbles
 
-countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan, Mongolia
+countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan, Mongolia, Afghanistan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -27,7 +27,7 @@ countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan, Mongolia
 |---|---|
 | Mongolia — Part I: Санаамсаргүйгээр толболон зурах (drawing with spots/blots spontaneously — free mark-making) (student book; original target `visual-art/first-marks-and-scribbles`) | Book 7, printed p. 10 |
 
-**Acceptance count: taught in 4 countries(Ethiopia, Maldives, Jordan, Mongolia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries(Ethiopia, Maldives, Jordan, Mongolia, Afghanistan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Review placements fold into this lesson under the course folding rules: the Grade 1 Chapter 2 summary + review (printed pp. 34–35) and the Grade 2 Chapter 2 summary + closing exercise (printed pp. 45–46) are stocked as Sub lesson 3 and as question stock; no standalone Review lesson is built. The Grade 1 scribble page is picture-led (a full page of red scribble with no text layer beyond the running head); the placement is followed exactly as read.
 
@@ -39,3 +39,11 @@ Searchable tags: Maldives, Exploring Creative Arts 4, scribbling, ሞነጫጨ�
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — the story "Jude's Drawing" — a first drawing experience told as a story — choosing what to draw (a flower, then a sheep or a cat; Walid draws a puppy), not being satisfied with a drawing and trying again and again, and seeing your finished drawing hung on the wall (student book; original target `first-steps/my-first-drawing`) | Book 6, printed pp. 3–8 |
+
+**Book 8:** Title as printed: هنر رسامی — صنف اول (Art of Drawing — Grade One) Grade: Grade 1 (student/teacher: STUDENT — with a built-in teacher's-guide section, Part 2 رهنمای تدریس, covering the same lessons; noted, not placed separately) Publisher: Ministry of Education, Islamic Republic of Afghanistan (وزارت معارف); printed Kabul (Bahir press); year 1397 SH (2018/19); no ISBN printed PDF pages: 66 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-01-gov-afghanistan-5aa4073fc1.pdf, 14,515,810 bytes — the record is marked pushed and the file is indeed secured as a release asset, though it is not in the repo tree: the tree path returns 404 and the repo's own books.json marks this book availability "telegram" — see group log) Verdict: COMPLETE Tally: 28 placements — 28 to existing lessons, 0 NEW LESSON NEEDED Afghanistan's own way: drawing starts with how to hold the pencil, then free lines before regular lines; children draw and then colour the same subject in paired lessons (flower, leaf, vegetables, fruits, duck, fish, cat), and the year ends in paper craft — envelope, boat, paper flower, paper dove, a chicken assembled from cut shapes, and pictures begun from a coloured fingerprint. Not placed: the Pashto national anthem printed as front matter (standard in Afghan textbooks, not art teaching) and Part 2, the built-in teaching guide for the same 28 lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 4: Free lines (خط‌های آزاد) — free lines practised by hand movement with different tools, in groups, and again in the notebook at home (student book; original target `visual-art/first-marks-and-scribbles`) | Book 8, printed p. 7 |
+
+Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.

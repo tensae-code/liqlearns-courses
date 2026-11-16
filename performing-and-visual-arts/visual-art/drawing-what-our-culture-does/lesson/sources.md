@@ -1,7 +1,7 @@
 # Sources — Drawing What Our Culture Does
 
 
-countries: Ethiopia, Guatemala, Bhutan, Turkmenistan, Pakistan, Sudan
+countries: Ethiopia, Guatemala, Bhutan, Turkmenistan, Pakistan, Sudan, Afghanistan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -25,8 +25,16 @@ countries: Ethiopia, Guatemala, Bhutan, Turkmenistan, Pakistan, Sudan
 | Pakistan — Chapter 8: drawing and making what Pakistan's own culture makes — ajrak blocks, ralli quilts, embroidery (student book; original target `visual-art/drawing-what-our-culture-does`) | Book 5, printed pp. 176–196 |
 | Sudan — Drawing Lesson 3 "The Joy of Eid": drawing and colouring a festival the pupil lives — children and adults in their new bright Eid clothes at the prayer rows and at home — expressing the joy of Eid in water or wood colours (student book — PARTIAL, as filed (partial scan, 27 of ~60 pages)) | Book 6, printed p. 13 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Turkmenistan, Pakistan, Sudan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 6 countries (Ethiopia, Bhutan, Turkmenistan, Pakistan, Sudan, Afghanistan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 No honesty flags attach to this placement; it is followed exactly as read. Exercise 11's questions (when traditional dress is worn, and what it is for) are carried as part of the drawing work, as placed; the dress itself is taught in the Culture and Values unit's Traditional Dress lesson.
 
 Searchable tags: drawing cultural practices, threshing oxen, genna game, coffee roasting, children dancing, expressing feelings in drawing, Ethiopia Grade 1 drawing culture, Bhutan
+
+**Book 7:** Title as printed: هنر — صنف ۸ (Art — Grade 8) Grade: Grade 8 (student/teacher: STUDENT) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1399 SH (2020); no ISBN printed PDF pages: 62 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-08-gov-afghanistan-d6c13d5ade.pdf, 11,015,808 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 21 placements — 9 to existing lessons, 12 NEW LESSON NEEDED Afghanistan's own way: Grade 8 is the Islamic-art year — Islamic art, its designs copied by hand, Islamic calligraphy crowned by copying the Basmala itself, Islamic architecture and a model bridge, the clay pen-holder and the wooden Quran stand (رحل) that the calligrapher needs, and miniature painting — all framed by Afghanistan's own Islamic-period history (Ghaznavid Ghazna, the Herat of the Ghurids and Timurids) and by the living crafts of every province, from Kabul's coppersmiths to Herat's glassblowers. Not placed: the Pashto national anthem front matter and the bibliography. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 7: Mental painting of national festivals and games (نقاشی ذهنی از جشن‌ها و بازی‌های ملی) — painting from the mind the country's own celebrations and games (student book; original target `visual-art/drawing-what-our-culture-does`) | Book 7, printed p. 17 |
+
+Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Houses of Our Country
 
-countries: Ethiopia, Sudan, Belarus, Venezuela
+countries: Ethiopia, Sudan, Belarus, Venezuela, Afghanistan
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -23,8 +23,24 @@ countries: Ethiopia, Sudan, Belarus, Venezuela
 | Belarus — Part 2: Architecture — the beauty of buildings of Belarus: the 13th-century Kamianets tower, the Ruzhany palace complex, the Grodno Jesuit church and the National Library of Belarus in Minsk (student book; original target `visual-art/houses-of-our-country`) | Book 3, printed pp. 13–14 |
 | Venezuela — Vivienda indígena: the indigenous dwellings of Venezuela, shaped to climate and family life — the paravientos (lean-to shelter), the Yanomami shabono (a ring of shelters around a sacred centre), the Yekuana and Piaroa churuatas (conical roofs: the sky's vault and the axis of the world), the Barí bohío, the stilt palafitos of the Añú and Warao, and the stone chozas of the Andes (student book) | Book 4, printed pp. 26–30 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Belarus, Venezuela).**
+**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Belarus, Venezuela, Afghanistan).**
 
 The book's house and building plates are photographs; the lesson describes them only as their captions and placements describe them — highland against lowland building, the named church and mosque buildings — and invents no architectural detail beyond the placements.
 
 Searchable tags: appreciating art, houses, highland, lowland, Merto Lemariam, Tedbabe Mariam, home ornaments, wooden goods, door designs, exhibition, ስነ-ሕንፃ
+
+**Book 5:** Title as printed: هنر رسامی — صنف پنجم (Art of Drawing — Grade Five) Grade: Grade 5 (student/teacher: STUDENT — with a built-in teacher's-guide section, Part 2; noted, not placed separately) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1397 SH (2018/19); no ISBN printed PDF pages: 74 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-05-gov-afghanistan-f703698424.pdf, 28,504,309 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 30 placements — 30 to existing lessons, 0 NEW LESSON NEEDED Afghanistan's own way: Grade 5 draws with light lines first and makes the form stand out (برجسته) by rendering; it studies details a younger child would miss — birds' feet, a cow's head; it colours Afghan clothing (لباس افغانی) itself; and it ends the year drawing the country's historical monuments (آثار تاریخی) and building the Bost Fortress (قلعۀ بُست) as a handwork model — art placed openly in the service of the homeland's heritage. Not placed: the Pashto national anthem front matter and Part 2, the built-in teaching guide for the same lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 29: Drawing historical monuments (ترسیم آثار تاریخی) — drawing the country's historical monuments — looking closely at the built heritage of one's own land and drawing it (student book; original target `visual-art/houses-of-our-country`) | Book 5, printed p. 57 |
+
+**Book 6:** Title as printed: هنر رسامی — صنف ششم (Art of Drawing — Grade Six) Grade: Grade 6 (student/teacher: STUDENT — with a built-in teacher's-guide section; noted, not placed separately) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1397 SH (2018/19); no ISBN printed PDF pages: 74 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-06-gov-afghanistan-42730752d8.pdf, 28,132,582 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 30 placements — 29 to existing lessons, 1 NEW LESSON NEEDED Afghanistan's own way: the last primary drawing year studies movement (a horse's legs in motion), draws Afghan clothing itself, pours colour onto paper to find shapes in it, draws geometric shapes with nearness and distance (دوری و نزدیکی — perspective), and gives the whole final movement to the homeland's buildings — drawing, colouring and modelling historical buildings, and sketching a historic minaret in groups. Not placed: the Pashto national anthem front matter and the built-in teaching-guide section for the same lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 27: Drawing a historical building (ترسیم بنای تاریخی) — drawing one of the country's historical buildings (student book; original target `visual-art/houses-of-our-country`) | Book 6, printed p. 53 |
+| Afghanistan — Lesson 28: Colouring the historical building — colouring the drawn historical building (student book; original target `visual-art/houses-of-our-country`) | Book 6, printed p. 55 |
+| Afghanistan — Lesson 30: Drawing historical monuments (ترسیم آثار تاریخی) — drawing and colouring the historic minarets — in groups, sketching (اسکیچ) and colouring a historic minaret from the model, then showing the work to the other group (student book; original target `visual-art/houses-of-our-country`) | Book 6, printed p. 59 |
+
+Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.

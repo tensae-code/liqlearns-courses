@@ -1,7 +1,7 @@
 # Sources — Mixing Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Libya, Venezuela, Angola
+countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Libya, Venezuela, Angola, Afghanistan
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -66,7 +66,7 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique,
 | Venezuela — Mezcla de colores: aditivas y sustractivas: additive mixing (coloured lights: the three primaries together make white light) versus subtractive mixing (pigments on a surface, tending to black; two pigment primaries make a secondary) (student book) | Book 18, printed pp. 32–33 |
 | Angola — Tema 2.2: secondary colours — orange, green and violet — obtained by mixing two primary colours (student book; original target `visual-art/mixing-colours`) | Book 19, printed p. 27 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Brazil, Venezuela, Angola). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Brazil, Venezuela, Angola, Afghanistan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 2 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook. The Grade 3 Chapter 2 closing exercise carries the trap item "red mixed equally with yellow creates green" (false — it creates orange, per §2.3); the lesson teaches the corrected mixing and uses the trap as a question, exactly as the book's exercise frames it.
 
@@ -85,3 +85,17 @@ Searchable tags: mixing colours, secondary colours, green orange purple ወይ�
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Colouring in one colour family — the flower coloured within a single colour's degrees (a red and another red differing in degree), and the sunflower coloured in the warm family running yellow to orange to red — harmony without contrast (teacher guide — evidence; original target `visual-art/mixing-colours`) | Book 17, printed pp. 28–31 |
+
+**Book 20:** Title as printed: هنر رسامی — صنف سوم (Art of Drawing — Grade Three) Grade: Grade 3 (student/teacher: STUDENT — with a built-in teacher's-guide section; noted, not placed separately) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1397 SH (2018/19); no ISBN printed PDF pages: 74 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-03-gov-afghanistan-ed93bf9694.pdf, 17,882,572 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 30 placements — 30 to existing lessons, 0 NEW LESSON NEEDED Afghanistan's own way: Grade 3 keeps the draw-it-then-colour-it rhythm but widens the world — grapes and pear, carrot and onion, pomegranate, the dove and the parrot, a wheat ear, plate and bowl, the embroidered cap (کلاه), an aeroplane and a car — and lands two ideas the earlier grades prepared: designing a whole page with flowers, and mixing the three primary colours to make new colours and name them. Not placed: the Pashto national anthem front matter and the built-in teaching-guide section for the same lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 28: Mixing colours (ترکیب رنگ‌ها) — in groups, discussing the three primary colours (red, yellow, blue), mixing them on paper, and naming the new colours the mixtures give — orange, green and purple — then practising colour mixing at home (student book; original target `visual-art/mixing-colours`) | Book 20, printed p. 55 |
+
+**Book 21:** Title as printed: هنر رسامی — صنف پنجم (Art of Drawing — Grade Five) Grade: Grade 5 (student/teacher: STUDENT — with a built-in teacher's-guide section, Part 2; noted, not placed separately) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1397 SH (2018/19); no ISBN printed PDF pages: 74 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-05-gov-afghanistan-f703698424.pdf, 28,504,309 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 30 placements — 30 to existing lessons, 0 NEW LESSON NEEDED Afghanistan's own way: Grade 5 draws with light lines first and makes the form stand out (برجسته) by rendering; it studies details a younger child would miss — birds' feet, a cow's head; it colours Afghan clothing (لباس افغانی) itself; and it ends the year drawing the country's historical monuments (آثار تاریخی) and building the Bost Fortress (قلعۀ بُست) as a handwork model — art placed openly in the service of the homeland's heritage. Not placed: the Pashto national anthem front matter and Part 2, the built-in teaching guide for the same lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 4: The primary colours (رنگ‌های اصلی) — the three primary colours and the way of combining them — mixing two colours in equal measure (red, yellow, blue giving orange, green, purple), naming the colours obtained, and working the combinations in the drawing notebook (student book; original target `visual-art/mixing-colours`) | Book 21, printed p. 7 |
+
+Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.

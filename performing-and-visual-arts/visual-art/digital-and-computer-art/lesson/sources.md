@@ -1,6 +1,6 @@
 # Sources — Digital and Computer Art
 
-countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba, Venezuela
+countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba, Venezuela, Afghanistan
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -32,7 +32,7 @@ countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba
 | Venezuela — Arte digital: digital art — works made with computers and phones; some printed into physical existence, others existing only virtually, and net-art, creations made of images, texts and sounds on the internet itself (slug first proposed by Morocco) (student book; original target `visual-art/the-digital-image`) | Book 9, printed p. 111 |
 | Venezuela — Uso de la tecnología: technology in today's creation — computer-made designs and expressions known as net-art or digital art; and the scientific-technical reconstruction of Bolívar's face by craneometric technique (slug first proposed by Morocco) (student book; original target `visual-art/the-digital-image`) | Book 10, printed p. 230 |
 
-**Acceptance count: taught in 7 countries (Maldives, Turkmenistan, Sudan, Brazil, Bulgaria, Cuba, Venezuela).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Maldives, Turkmenistan, Sudan, Brazil, Bulgaria, Cuba, Venezuela, Afghanistan).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/digital-and-computer-art`); the two Maldives placements were filed under the original strings `visual-art/posterisation` and `visual-art/the-digital-image`, recorded in the provenance rows above.
 
@@ -57,3 +57,12 @@ Searchable tags: digital art, computer art, posterisation, character design, Mal
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — §1.12, El dibujo asistido por computadora — CAD as today's obligatory tool of technical offices: drawing lines, rectangles, polygons and circles with the toolbar commands (student book; original target `visual-art/computer-aided-drawing`) | Book 8, printed p. 81 |
+
+**Book 11:** Title as printed: هنر — صنف ۹ (Art — Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1399 SH (2020); no ISBN printed PDF pages: 58 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-09-gov-afghanistan-6a2e911d8c.pdf, 9,084,511 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 19 placements — 5 to existing lessons, 14 NEW LESSON NEEDED Afghanistan's own way: the last year of school art opens outward and forward — the art of the West and contemporary Western art beside Afghanistan's own contemporary masters; painting from poetry; designing a jantri, the beautiful wall calendar of the year; gold- and silver-thread embroidery; a Quranic verse worked in relief; and the computer taken up as an artist's tool, with a full lesson on painting in the Paint program. Not placed: the Pashto national anthem front matter and the bibliography. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 12: Knowing the computer (آشنایی با کمپیوتر) — meeting the computer as an artist's tool (student book; original target `visual-art/painting-on-a-computer`) | Book 11, printed p. 33 |
+| Afghanistan — Lesson 18: Using the Paint program for painting — painting on the computer — opening Paint (Start, Programs, Accessories, Paint); its window with the big white page; the drawing tools (pencil, eraser, brush, spray) chosen by click and moved by mouse; and the colour palette of black, white and 26 further colours for drawing coloured lines and shapes (student book; original target `visual-art/painting-on-a-computer`) | Book 11, printed p. 47 |
+
+Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,7 +1,7 @@
 # Sources — Colours Around Us
 
 
-countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saudi Arabia, Angola
+countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saudi Arabia, Angola, Afghanistan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -52,7 +52,7 @@ countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saud
 | Angola — Tema 2.1 Desenho com as cores: drawing with coloured lines — colour pencil, wax crayon and felt pen each give the line their colour; draw objects in their true colours (student book; original target `visual-art/colours-around-us`) | Book 13, printed pp. 24–25 |
 | Angola — Tema 2.2.4 A cor e as suas manifestações: a landscape's colours change with the hour and the season — intense on a sunny day, muted on a grey day; Luanda at night; colour is a quality of form together with structure, texture and configuration (student book; original target `visual-art/colours-around-us`) | Book 14, printed pp. 44–46 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil, Saudi Arabia, Angola). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil, Saudi Arabia, Angola, Afghanistan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 6 rests on teacher-guide evidence only for its own content; it is labelled as evidence in the part name, in the lesson text and in this table. The Grade 2 teacher guide is a scan with no usable text layer, read visually; its citation here is at section level only, as its placements require. The lesson as a whole stands on the Grade 1 and Grade 3 student textbooks, so the acceptance count counts pupil-taught content. The Grade 1 Chapter 3 summary's line — colours distinguish our clothes and beautify the surroundings (plants green, flowers red and yellow) — is carried in Colours on Clothes and in the question stock of this lesson, under the folding rules.
 
@@ -71,3 +71,17 @@ Searchable tags: colours around us, yellow adey bananas, red roses sunrise sacri
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Colour names taken from nature — the workshop teaches colours by their natural names: crop-green (like the crops), coffee-brown, sky-blue, gold, silver and bronze — colours known by the things of nature they resemble (teacher guide — evidence; original target `visual-art/colours-around-us`) | Book 11, printed p. 66 |
+
+**Book 15:** Title as printed: هنر رسامی — صنف اول (Art of Drawing — Grade One) Grade: Grade 1 (student/teacher: STUDENT — with a built-in teacher's-guide section, Part 2 رهنمای تدریس, covering the same lessons; noted, not placed separately) Publisher: Ministry of Education, Islamic Republic of Afghanistan (وزارت معارف); printed Kabul (Bahir press); year 1397 SH (2018/19); no ISBN printed PDF pages: 66 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-01-gov-afghanistan-5aa4073fc1.pdf, 14,515,810 bytes — the record is marked pushed and the file is indeed secured as a release asset, though it is not in the repo tree: the tree path returns 404 and the repo's own books.json marks this book availability "telegram" — see group log) Verdict: COMPLETE Tally: 28 placements — 28 to existing lessons, 0 NEW LESSON NEEDED Afghanistan's own way: drawing starts with how to hold the pencil, then free lines before regular lines; children draw and then colour the same subject in paired lessons (flower, leaf, vegetables, fruits, duck, fish, cat), and the year ends in paper craft — envelope, boat, paper flower, paper dove, a chicken assembled from cut shapes, and pictures begun from a coloured fingerprint. Not placed: the Pashto national anthem printed as front matter (standard in Afghan textbooks, not art teaching) and Part 2, the built-in teaching guide for the same 28 lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 2: Knowing the colours (شناخت رنگ‌ها) — first acquaintance with colours, in pictures (student book; original target `visual-art/colours-around-us`) | Book 15, printed p. 3 |
+
+**Book 16:** Title as printed: هنر رسامی — صنف دوم (Art of Drawing — Grade Two) Grade: Grade 2 (student/teacher: STUDENT — with a built-in teacher's-guide section, Part 2; noted, not placed separately) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1397 SH (2018/19); no ISBN printed PDF pages: 66 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-02-gov-afghanistan-62818f88ce.pdf, 19,498,841 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 28 placements — 27 to existing lessons, 1 NEW LESSON NEEDED Afghanistan's own way: Grade 2 drawing works through the child's own world one object at a time — apricot, aubergine, clay money-box, tulip, mountain, teapot and cup, the clay water jug (کوزه) — and keeps inventing techniques: blowing liquid colour through a pen tube into a tree, folding a painted half-butterfly so its other half copies across, stamping with a cut okra, building shapes from matchsticks, and decorating an inflated balloon. Not placed: the Pashto national anthem front matter and Part 2, the built-in teaching guide for the same lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 4: Kinds of colours (انواع رنگ‌ها) — the different kinds of colours, met in pictures (student book; original target `visual-art/colours-around-us`) | Book 16, printed p. 7 |
+
+Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.

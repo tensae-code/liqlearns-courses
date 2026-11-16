@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia, Venezuela, Mongolia
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -78,7 +78,7 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, S
 |---|---|
 | Mongolia — Chapter 1: Зураасан зургийн үүсэл, хөгжил (the origin and development of line drawing — Mongolia's rock paintings: Хойд цэнхэрийн агуйн хадны зураг, Гачууртын хадны зураг, Өлзийтын хадны зураг — "rock painting is the nomads' cultural heritage, the beginning of all visual art") (student book; original target `visual-art/cave-art-and-church-painting`; PARTIAL — grade part placed from the full chapter structure with section openings sampled, as filed) | Book 20, printed p. 4 |
 
-**Acceptance count: taught in 12 countries(Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia, Venezuela, Mongolia).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 13 countries(Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 
@@ -106,3 +106,11 @@ Searchable tags: cave art, Lascaux, Altamira, Porc-Epic, Lega Oda, Dire Dawa, Bo
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — §1.1, Desarrollo y evolución del Dibujo Técnico como expresión gráfica — drawing begins as graphic expression: the Cueva de Ambrosio paintings (Matanzas) with their single and double lines (student book; original target `visual-art/cave-art-and-church-painting`) | Book 15, printed pp. 2–5 |
+
+**Book 21:** Title as printed: هنر — صنف ۷ (Art — Grade 7; the cover prints "ART" in Latin letters under the Dari title) Grade: Grade 7 (student/teacher: STUDENT) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1399 SH (2020); no ISBN printed PDF pages: 58 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-07-gov-afghanistan-b128b1e7a9.pdf, 10,972,698 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 24 placements — 15 to existing lessons, 9 NEW LESSON NEEDED Afghanistan's own way: at secondary school, drawing and calligraphy merge into one subject, Art (هنر), and it becomes a real discipline — the elements (line, shape, colour, texture) studied one by one, clay and wire sculpture, and a full art-history spine: Afghanistan's own art from the 100,000-year-old stone tools of the Nawur plain and the cave lines of Aq Kupruk and Hazar Sum, through Mundigak and Gandhara, then the world's art (Mesopotamia, Iran, Egypt, India, China, Japan, Greece, Rome, Christian art), closing with the founders of modern Afghan art and the National Museum that guards it all. Not placed: the Pashto national anthem front matter and the book's bibliography (فهرست منابع). Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 8: Art of the Stone Age (هنر دورۀ سنگ) — the art of the Stone Age — the first people's making (student book; original target `visual-art/cave-art-and-church-painting`) | Book 21, printed p. 19 |
+
+Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.

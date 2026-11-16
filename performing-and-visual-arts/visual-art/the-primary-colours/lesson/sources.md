@@ -1,7 +1,7 @@
 # Sources — The Primary Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola
+countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -37,7 +37,7 @@ countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan
 | Iran — Painting L2, Primary colours: رنگهای اصلی: the pure primary colours, known by name and seen at work in Persian miniature painting (student book) | Book 8, printed p. 24 |
 | Angola — Tema 2.2: the primary colours named as magenta-red, cyan-blue and yellow (student book; original target `visual-art/the-primary-colours`) | Book 11, printed p. 27 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 8 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Sub lesson 5 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's basic-colours lesson and colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook, so the acceptance count counts pupil-taught content. The song "መስራች ቀለማት" is named and its teaching summarised only — its words are not transcribed; the song is sung in the Music unit's Primary Colours Song lesson. The Grade 3 chapter summary's closing exercise carries the check item "green is a primary colour — false", which the question stock uses.
 
@@ -55,3 +55,11 @@ Searchable tags: primary colours መስራች, red yellow blue, basic colours, m
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — "The Colours" — sung colour learning — my blue pencil draws a boat and a sky whose sun shines, my red pencil takes the view, all roses are red, and my yellow pencil asks where the yellow colour's place is (summary only) (student book; original target `visual-art/primary-colours-in-painting`) | Book 10, printed p. 7 |
+
+**Book 12:** Title as printed: هنر رسامی — صنف اول (Art of Drawing — Grade One) Grade: Grade 1 (student/teacher: STUDENT — with a built-in teacher's-guide section, Part 2 رهنمای تدریس, covering the same lessons; noted, not placed separately) Publisher: Ministry of Education, Islamic Republic of Afghanistan (وزارت معارف); printed Kabul (Bahir press); year 1397 SH (2018/19); no ISBN printed PDF pages: 66 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-01-gov-afghanistan-5aa4073fc1.pdf, 14,515,810 bytes — the record is marked pushed and the file is indeed secured as a release asset, though it is not in the repo tree: the tree path returns 404 and the repo's own books.json marks this book availability "telegram" — see group log) Verdict: COMPLETE Tally: 28 placements — 28 to existing lessons, 0 NEW LESSON NEEDED Afghanistan's own way: drawing starts with how to hold the pencil, then free lines before regular lines; children draw and then colour the same subject in paired lessons (flower, leaf, vegetables, fruits, duck, fish, cat), and the year ends in paper craft — envelope, boat, paper flower, paper dove, a chicken assembled from cut shapes, and pictures begun from a coloured fingerprint. Not placed: the Pashto national anthem printed as front matter (standard in Afghan textbooks, not art teaching) and Part 2, the built-in teaching guide for the same 28 lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 20: The primary colours (رنگ‌های اصلی) — the colours seen above — yellow, red, blue — are the primary colours; picking the primaries out from purple, green and orange, and finding primary-coloured objects at home (student book; original target `visual-art/the-primary-colours`) | Book 12, printed p. 39 |
+
+Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.

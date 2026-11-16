@@ -1,6 +1,6 @@
 # Sources — Shapes, Forms and Patterns in Colour
 
-countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia
+countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia, Afghanistan
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -71,7 +71,7 @@ countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fij
 |---|---|
 | Mongolia — Part I: Эвэр угалзыг харьцуулах (comparing the horn pattern) and Хамар угалзтай танилцах (getting to know the nose pattern) — Mongolia's own угалз ornament (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 20, printed pp. 30, 31 |
 
-**Acceptance count: taught in 11 countries(Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan, Mongolia).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 12 countries(Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan, Mongolia, Afghanistan).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 2 teacher-guide part is cited at section level only (§§1.4–1.5, printed pp. 12–22) because that guide is a scan with no text layer and two of its contents entries are partly degraded in the scan — the placements say so, and the lesson claims no body wording from it. The fraction work is taught as the Grade 4 book's own question — into how many parts is the circle divided, and what fraction is the blue part — without importing a fraction curriculum from outside the placements.
 
@@ -113,3 +113,11 @@ Searchable tags: Maldives, Exploring Creative Arts 4, shapes in colour, ዝር�
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Sweets as repeated units — a panel of coloured units of different sizes representing pieces of sweets, organised by repetition and distributed in a harmonious, beautiful arrangement (teacher guide — evidence; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 18, printed pp. 94–96 |
+
+**Book 21:** Title as printed: هنر رسامی — صنف پنجم (Art of Drawing — Grade Five) Grade: Grade 5 (student/teacher: STUDENT — with a built-in teacher's-guide section, Part 2; noted, not placed separately) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1397 SH (2018/19); no ISBN printed PDF pages: 74 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-05-gov-afghanistan-f703698424.pdf, 28,504,309 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 30 placements — 30 to existing lessons, 0 NEW LESSON NEEDED Afghanistan's own way: Grade 5 draws with light lines first and makes the form stand out (برجسته) by rendering; it studies details a younger child would miss — birds' feet, a cow's head; it colours Afghan clothing (لباس افغانی) itself; and it ends the year drawing the country's historical monuments (آثار تاریخی) and building the Bost Fortress (قلعۀ بُست) as a handwork model — art placed openly in the service of the homeland's heritage. Not placed: the Pashto national anthem front matter and Part 2, the built-in teaching guide for the same lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Lesson 14: Colouring geometric shapes — colouring the geometric shapes — shapes told and worked by their colours (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 21, printed p. 27 |
+
+Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.
