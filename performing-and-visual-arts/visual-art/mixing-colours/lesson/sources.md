@@ -1,7 +1,7 @@
 # Sources — Mixing Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus
+countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -27,6 +27,8 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique,
 
 **Book 12:** *Выяўленчае мастацтва. 5 клас (Fine Arts, Grade 5)* (student book, Belarusian) — Belarus, Нацыянальны інстытут адукацыі (National Institute of Education), Minsk; year 2009; ISBN 978-985-465-593-2; authors М. І. Касабуцкі (M. I. Kasabutski), В. М. Касабуцкі (V. M. Kasabutski); approved by the Ministry of Education of the Republic of Belarus. Title as printed: ВЫЯЎЛЕНЧАЕ МАСТАЦТВА — Вучэбны дапаможнік для 5 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання. Для работы ў класе (Fine Arts — textbook for Grade 5, for work in class). Grade 5 (student book: STUDENT). PDF pages: 96 (imprint title verified against the record; byte size 7,948,218). Verdict: COMPLETE — read in full from the downloaded file's text layer, page by page through all 28 numbered sections (contents verified at printed p. 94); the "Пытанні і творчыя заданні" (questions and creative tasks) pages are named here as apparatus and not placed separately. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
+**Book 13:** *فرهنگ و هنر — پایه هفتم (Culture and Art, Grade 7)* (student book, Persian) — Iran, سازمان پژوهش و برنامه‌ریزی آموزشی، وزارت آموزش و پرورش (Educational Research and Planning Organization, Ministry of Education, Iran); year 1405–1406 (2026–27); ISBN 978-964-05-2217-2, Grade 7, 136 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 13,892,647 and page count match the record exactly — re-fetched from the recorded chap.sch.ir source URL after the GitHub grab route disconnected and an earlier partial download of 12,159,714 bytes was discarded). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Mixing primaries makes green, orange and purple | Ethiopia, *Grade 3 Performing and Visual Arts Student Textbook*, §2.3, Drawing 19, Figure 20, Figure 21, Activities 12–13 and Drawing 22, printed pp. 32–33 |
@@ -46,8 +48,9 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique,
 | Colombia — Project 1, Subproject 1, Momento 1 continued: colour as the painter's material — as a musician composes with sounds, painters learn to "compose" with colour; Newton's experiments to understand where colour comes from; colour's two functions in nature, to highlight and to hide (ripe fruit, camouflage, the peacock's courtship plumage) (student book; original target `visual-art/colour-mixing-and-harmony`) | Book 11, printed pp. 16–44 |
 
 | Belarus — Section 21, "A close colour range": painting inside one close family of colours — Monet's Rouen Cathedral in the evening; Stazharau's still life; Huhel's "Blue Water"; Hramyka (student book; original target `visual-art/colour-mixing-and-harmony`) | Book 12, printed pp. 75–77 |
+| Iran — Painting L3, Secondary colours: رنگهای فرعی: the secondary colours made where two primaries meet, and complementary colours making a colour set brighter (student book) | Book 13, printed p. 27 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 8 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Sub lesson 2 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook. The Grade 3 Chapter 2 closing exercise carries the trap item "red mixed equally with yellow creates green" (false — it creates orange, per §2.3); the lesson teaches the corrected mixing and uses the trap as a question, exactly as the book's exercise frames it.
 

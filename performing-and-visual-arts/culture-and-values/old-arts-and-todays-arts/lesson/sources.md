@@ -1,6 +1,6 @@
 # Sources — Old Arts and Today's Arts
 
-countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus
+countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus
 
 **Book 9:** *Музыка. 4 клас (Music, Grade 4)* (student book, Belarusian) — Belarus, «Адукацыя і выхаванне» (Adukacyja i Vykhavanne), Minsk; year 2008; ISBN 978-985-471-263-5; authors А. Р. Гуляева (A. R. Huliaeva), С. А. Прастакова (S. A. Prastakova), С. М. Кабачэўская (S. M. Kabacheuskaya); approved by the Ministry of Education of the Republic of Belarus. Title as printed: МУЗЫКА — Вучэбны дапаможнік для 4 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання (Music — textbook for Grade 4). Grade 4 (student book: STUDENT). PDF pages: 144 (title page verified against the record; byte size 5,719,871). Verdict: COMPLETE — read in full from the downloaded file's text layer, contents pages included; the half-year and quarter "generalisation" pages are revision apparatus, named here and not placed. Songs are placed by title, composer and teaching purpose only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
+**Book 10:** *هنر — پایه دهم (Art, Grade 10)* (student book, Persian) — Iran, دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری، وزارت آموزش و پرورش (Ministry of Education, Iran); year 1405–1406 (2026–27); no ISBN printed, Grade 10, 144 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 16,342,065 and page count match the record exactly). Exclusion named in the placements: منابع (resources/bibliography, printed p. 143) is a reference list — inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Expressing culture in the arts (Sub lesson 1) | Grade 3 Student Textbook, Ch.3 chapter aims + introduction, printed p. 45 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus
 | Colombia — Project 1, Subproject 2, Momento 3 "Romper las reglas": representation systems change as knowledge and technology change, sometimes by strong ruptures — read first in the Maya mural of Bonampak (Mexico), its colours, profiles, skins and headdresses (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 8, printed pp. 78–87 |
 
 | Belarus — Part 1, "Music of palaces and estates": Lybin's "Ceremonial exit through the side gate" from the cycle "Music for the town of Nesvizh", and the song "Mir Castle" (words Tsitavets, music Kistsen) — the music of Belarus's own castles (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 9, printed pp. 49–51 |
+| Iran — Module 4, Guarding the heritage: protecting tangible cultural heritage, recreating and keeping alive the intangible heritage, and the factors that damage cultural heritage (student book) | Book 10, printed pp. 135–140 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Pakistan, Colombia, Belarus). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 5 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 The definition of ancient arts, the oral-to-recorded contrast and the protection ruling are Grade 3's own words (printed pp. 45 and 58), taught as printed. The closing exercise's keyed-false item (wedding poems and melodies are the same in all areas — false) is taught as the book keys it.
 

@@ -1,6 +1,6 @@
 # Sources — Design and Perspective: Near and Far
 
-countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus
+countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran
 
 **Book 1:** *Grade 6 Performing and Visual Arts Teacher Guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Writers: Tibebu Woldeyohannes, Yirga Qumelachew, Yohannes Sebsebie. 96 PDF pages; printed front matter I–VI + body and syllabus to printed p. 119. Read in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pa
 
 **Book 15:** *Выяўленчае мастацтва. 5 клас (Fine Arts, Grade 5)* (student book, Belarusian) — Belarus, Нацыянальны інстытут адукацыі (National Institute of Education), Minsk; year 2009; ISBN 978-985-465-593-2; authors М. І. Касабуцкі (M. I. Kasabutski), В. М. Касабуцкі (V. M. Kasabutski); approved by the Ministry of Education of the Republic of Belarus. Title as printed: ВЫЯЎЛЕНЧАЕ МАСТАЦТВА — Вучэбны дапаможнік для 5 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання. Для работы ў класе (Fine Arts — textbook for Grade 5, for work in class). Grade 5 (student book: STUDENT). PDF pages: 96 (imprint title verified against the record; byte size 7,948,218). Verdict: COMPLETE — read in full from the downloaded file's text layer, page by page through all 28 numbered sections (contents verified at printed p. 94); the "Пытанні і творчыя заданні" (questions and creative tasks) pages are named here as apparatus and not placed separately. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
+**Book 16:** *فرهنگ و هنر — پایه نهم (Culture and Art, Grade 9)* (student book, Persian) — Iran, سازمان پژوهش و برنامه‌ریزی آموزشی، وزارت آموزش و پرورش (Educational Research and Planning Organization, Ministry of Education, Iran); year 1405–1406 (2026–27); ISBN 978-964-05-2436-7, Grade 9, 192 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 35,471,440 and page count match the record exactly). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 (teacher guide — evidence) — Design for painting and printing: near and far — perspective (የርቀትና ቅርበት / ዕርዮተ አድማስ, the view of distance) | Book 1, §2.4, printed pp. 50–57 |
@@ -62,8 +64,9 @@ countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pa
 | Sudan — Book 2, Drawing, "Perspective in the Human Body": perspective inside the figure — the body's members taking different directions, all subject to perspective's laws: the seated person in a low place drawn with legs enlarged and head shrunk, the shape revolving with viewpoint and distance; and perspective used on purpose — exaggerating an important person among a group, or concentrating on one part of the body to deliver a meaning, as in graphic design, illustration and caricature (student book) | Book 14, printed p. 47 |
 
 | Belarus — Sections 16 and 18, "Perspective of the landscape" and "Perspective of the interior": the horizon line is always at the level of your eyes — crouch and it drops; the interior's two positions toward the viewer, the viewer's eye level on floor and walls, and the sequence of placing things in an interior (illustration to "Masha and the Bear") (student book; original target `visual-art/perspective-drawing`) | Book 15, printed pp. 61–65, 69–70 |
+| Iran — Drawing L1, Space and depth: فضا و عمق: showing space and depth in a drawing (student book) | Book 16, printed p. 3 |
 
-**Acceptance count: taught in 8 countries (Maldives, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 9 countries (Maldives, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 6 teacher's guide (Addis Ababa City Administration Education Bureau, © 2014 E.C.). The placements file summarises the guide's §2.4 design section by its topic, its Amharic terms and its picture slot (a road narrowing to a vanishing point, nearer trees darker and larger); the lesson teaches at exactly that level and adds no perspective rules, constructions or terms the placement does not give.
 

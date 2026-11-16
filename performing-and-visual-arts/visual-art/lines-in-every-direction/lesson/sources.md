@@ -1,7 +1,7 @@
 # Sources — Lines in Every Direction
 
 
-countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus
+countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -19,6 +19,9 @@ countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus
 
 **Book 8:** *Выяўленчае мастацтва. 1 клас (Fine Arts, Grade 1)* (student book, Belarusian) — Belarus, «Адукацыя і выхаванне» (Adukacyja i Vykhavanne), Minsk; year 2011; ISBN 978-985-471-426-4; authors М. А. Шкуратава (M. A. Shkuratava), Ю. А. Новікава (Yu. A. Novikava); approved by the Ministry of Education of the Republic of Belarus. Title as printed: Выяўленчае мастацтва — Вучэбны дапаможнік для 1 класа ўстаноў агульнай сярэдняй адукацыі з беларускай і рускай мовамі навучання — Для работы ў класе (Fine Arts — textbook for Grade 1, for work in class). Grade 1 (student book: STUDENT). PDF pages: 96 (cover verified: printed title, authors, publisher and year match the record; byte size 8,399,826). Verdict: COMPLETE — read in full: whole text layer plus rendered spot-checks of the picture sequences (drawing a horse from ovals, printed p. 22; modelling animals from a clay log, printed p. 54; paper-strip curling and gluing, printed p. 72; vytsinanka cut borders, printed p. 87). Read from the records' archive.org source_urls (the GitHub tree route failed — see the placements group log). Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
+**Book 9:** *فرهنگ و هنر — پایه هشتم (Culture and Art, Grade 8)* (student book, Persian) — Iran, وزارت آموزش و پرورش (Ministry of Education, Islamic Republic of Iran); year 1405–1406 (2026–27); ISBN 978-964-05-3474-8, Grade 8, 144 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 13,567,566 and page count match the record exactly). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
+**Book 10:** *فرهنگ و هنر — پایه هفتم (Culture and Art, Grade 7)* (student book, Persian) — Iran, سازمان پژوهش و برنامه‌ریزی آموزشی، وزارت آموزش و پرورش (Educational Research and Planning Organization, Ministry of Education, Iran); year 1405–1406 (2026–27); ISBN 978-964-05-2217-2, Grade 7, 136 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 13,892,647 and page count match the record exactly — re-fetched from the recorded chap.sch.ir source URL after the GitHub grab route disconnected and an earlier partial download of 12,159,714 bytes was discarded). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Lines that go across, down and slanting | Ethiopia, *Grade 1 Performing and Visual Arts Student Textbook*, §2.3, printed pp. 22–24 |
@@ -35,8 +38,10 @@ countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus
 | Fiji — Non-objective line design and doodling — a whole-sheet non-objective design with at least three line types and assorted colours showing rhythm, movement and value, after four sketches; doodling with colours (student book) | Book 7, printed pp. 19–21 |
 
 | Belarus — Part 6, the World of Lines and Paints: Types of lines — the kinds of line and what each does in a picture (student book; original target `visual-art/lines-in-every-direction`) | Book 8, printed p. 90 |
+| Iran — Illustration L1, Types of line: the kinds of line an illustrator uses and what each does in a picture (student book) | Book 9, printed p. 21 |
+| Iran — Drawing L3, Line in drawing: خط در طراحی: the kinds of line (soft, long, short, geometric) and what each does in a drawing (student book) | Book 10, printed p. 9 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bhutan, Fiji, Belarus).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Fiji, Belarus, Iran).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 4 rests on teacher-guide evidence only for its own content (the Grade 1 teacher guide's line lesson); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 1 student textbook, so the acceptance count counts pupil-taught content. The Grade 1 line-model pages are picture-led full pages; placements are followed exactly as read.
 

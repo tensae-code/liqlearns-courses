@@ -1,6 +1,6 @@
 # Sources — Technical and Performance Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia
+countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Fin
 
 **Book 10:** *Secundaria Activa — Educación Artística - Teatro (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-496-3, ISBN serie Secundaria Activa 978-958-691-485-7; author Paola Lorena Coral Pérez (update and qualification by Aguirre Asesores S.A.S.). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 166 (title page verified against the record; byte size 19,417,017). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 10 Momentos. Self-assessment rubrics are assessment apparatus, named here and not placed; the literary fragment read inside Momento 3 of Project 1 is named by title and author only, not transcribed. READ ROUTE: as with Books 3–4, the ministry host drops direct connections and the later Wayback captures are truncated (~608 KB); this copy is the Wayback Machine's 4 Nov 2014 capture of the same ministry file (the only complete capture), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
 
+**Book 11:** *فرهنگ و هنر — پایه هشتم (Culture and Art, Grade 8)* (student book, Persian) — Iran, وزارت آموزش و پرورش (Ministry of Education, Islamic Republic of Iran); year 1405–1406 (2026–27); ISBN 978-964-05-3474-8, Grade 8, 144 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 13,567,566 and page count match the record exactly). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
+
 | Lesson part | Book | Printed pages |
 |---|---|---|
 | Sub lesson 1 — Technical elements (teacher guide — evidence) (teacher guide — evidence) | Grade 8 Teacher Guide, printed pp. 10–11 |
@@ -39,8 +41,10 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Fin
 
 | Colombia — Project 1, Subproject 2, Momento 3 "Le doy vida a mi amigo el títere": giving the puppet life — every movement the puppet makes must have a reason, determined by the play, the dialogue and what is to be expressed; so the play is rehearsed many times, dialogues and the doll's movements repeated as often as needed (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 10 | printed pp. 80–94 |
 | Colombia — Project 2, Subproject 1, Momento 2 "Algunas habilidades y actitudes útiles para la escena": skills and attitudes for the stage — being relaxed and disposed, and above all concentration, the skill that serves stage practice and life itself (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 10 | printed pp. 113–126 |
+| Iran — Dramatic arts L3, Body and movement: the actor's body and movement as stage tools, using stage experience inside the scene (student book) | Book 11, printed p. 133 |
+| Iran — Dramatic arts L4, Feeling and imagination: احساس و تخیل: feeling and imagination as the actor's inner tools — talent and individual feeling are only one part of acting; the greater part is learned (student book) | Book 11, printed p. 135 |
 
-**Acceptance count: taught in 5 countries (Egypt, Honduras, Romania, Finland, Colombia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 10–11) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 

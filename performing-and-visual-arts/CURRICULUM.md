@@ -1648,8 +1648,48 @@ lessons are the books'.
   the Zhinovich orchestra, and Belarusian composers
   and folk instruments first in the Grade 4 year.
 
-**The whole course stands at 435 lessons, 5,745 questions and
-203 pictures/GIFs.** See ABOUT.md for the full book list and
+**Art expansion — Iran (2026-11-16):** 111 placements
+  stocked from 4 distinct student books: Culture and
+  Art Grades 7, 8 and 9 and Art Grade 10 (Ministry of
+  Education, Iran, Persian, 1405–1406 / 2026–27).
+  79 placements into 28 existing lessons (Beautiful
+  Writing ×14; Photography ×10; The Elements of Music
+  ×8; Drawing: The Foundation Skill ×7; The Elements
+  of Visual Art ×5; and the rest), 13 into 6
+  already-built canonical lessons (Illustration;
+  Weaving — filed as traditional-fabric-weaving;
+  Graphic Design; Ornament and Decorative Pattern —
+  filed as boteh-paisley-motif; Imagination and
+  Creativity in Art — filed as artistic-creativity;
+  Stage Movement and Blocking — filed as
+  movement-in-theatre-and-film), and 19 into 7 NEW lessons
+  (Visual Art: Traditional Geometric Motifs;
+  Zirlaki Lacquerwork; Iranian Traditional
+  Embroidery. Music: Iranian Vocal Traditions; The
+  Radif and the Dastgah System. First Steps: Art
+  Styles and Schools. Culture and Values: Iranian
+  Islamic Culture and Art), 48 questions added, media
+  as described slots only. Registry resolutions
+  carried: light-and-dark-colours → The Elements of
+  Visual Art; colour-contrasts → The Colour Wheel.
+  Honesty carried exactly as filed: all four books
+  are STUDENT books, so Iran enters every stocked
+  lesson's acceptance count (the 7 new lessons stand
+  at acceptance count 1, Iran); the Grade 10 book's
+  منابع bibliography (printed p. 143) is
+  inventory-only, named in its book entries, not
+  stocked; songs are placed by summary only, never
+  transcribed. Iran's own way is kept as named parts:
+  the five-part Culture and Art course, the classical
+  scripts (Kufi, Naskh, Thuluth, Muhaqqaq, Reyhan,
+  Tawqi, Riqa, Ta'liq, Nastaliq, Shekasteh Nastaliq),
+  gereh knot geometry and the boteh, zir-laki
+  lacquerwork, Darvish, Zartoshti and Pateh
+  embroidery, kilim weaving, and the radif-dastgah
+  vocal system.
+
+**The whole course stands at 442 lessons, 5,793 questions and
+210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
 *(Question total corrected 2026-11-13 after a file-level

@@ -1,6 +1,6 @@
 # Sources — Photography
 
-countries: Ethiopia, Honduras, Trinidad and Tobago, Finland
+countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -15,6 +15,10 @@ countries: Ethiopia, Honduras, Trinidad and Tobago, Finland
 **Book 6:** *Teacher's Guide — Secondary School Curriculum — VISUAL ARTS — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 73 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, portfolio/journal/research-project frameworks, VAPA mark sheets and curriculum adaptations, and Part 4 resource lists, are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 7:** *Jouluista valomaalausta (Christmassy Light Painting)* (student instruction sheet, Finnish) — Finland, University of Oulu LUMA Centre (LUMA-kalenteri), year not printed, no ISBN printed, general primary, 1 PDF p (the single page is the cover and the whole instruction). STUDENT. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md.
+
+**Book 8:** *فرهنگ و هنر — پایه هشتم (Culture and Art, Grade 8)* (student book, Persian) — Iran, وزارت آموزش و پرورش (Ministry of Education, Islamic Republic of Iran); year 1405–1406 (2026–27); ISBN 978-964-05-3474-8, Grade 8, 144 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 13,567,566 and page count match the record exactly). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
+**Book 9:** *فرهنگ و هنر — پایه نهم (Culture and Art, Grade 9)* (student book, Persian) — Iran, سازمان پژوهش و برنامه‌ریزی آموزشی، وزارت آموزش و پرورش (Educational Research and Planning Organization, Ministry of Education, Iran); year 1405–1406 (2026–27); ISBN 978-964-05-2436-7, Grade 9, 192 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 35,471,440 and page count match the record exactly). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
+**Book 10:** *فرهنگ و هنر — پایه هفتم (Culture and Art, Grade 7)* (student book, Persian) — Iran, سازمان پژوهش و برنامه‌ریزی آموزشی، وزارت آموزش و پرورش (Educational Research and Planning Organization, Ministry of Education, Iran); year 1405–1406 (2026–27); ISBN 978-964-05-2217-2, Grade 7, 136 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 13,892,647 and page count match the record exactly — re-fetched from the recorded chap.sch.ir source URL after the GitHub grab route disconnected and an earlier partial download of 12,159,714 bytes was discarded). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -34,8 +38,18 @@ countries: Ethiopia, Honduras, Trinidad and Tobago, Finland
 
 | Trinidad and Tobago — Sample Lesson Plan 5: Photography (Form 1) — introduction to the parts of a camera and their functions: exploring a digital camera in pairs, naming its parts on a diagram, then experimenting with taking pictures (teacher guide — evidence) | Book 6, printed p. 24 |
 | Finland — Whole sheet — the camera craft inside light painting: controlling exposure time, using the self-timer and a steady surface so the light drawing records sharply (student instruction sheet) | Book 7, printed p. 1 |
+| Iran — Photography L1, Texture in photography: seeing and photographing texture (بافت) as a picture element (student book) | Book 8, printed p. 38 |
+| Iran — Photography L2, Framing: قاب‌بندی: framing the shot, and the hours of daylight that suit photography in each season (student book) | Book 8, printed p. 41 |
+| Iran — Photography L3, Viewpoint: زاویه دید: how the camera's viewpoint angle changes the photograph (student book) | Book 8, printed p. 44 |
+| Iran — Photography L4, Colour in photography: using colour as a photographic element (student book) | Book 8, printed p. 47 |
+| Iran — Photography L2, Narrative photography: عکاسی روایی: photography that tells a story (student book) | Book 9, printed p. 61 |
+| Iran — Photography L3, Trends of photography: گرایش های عکاسی: the trends/directions photography takes (student book) | Book 9, printed p. 67 |
+| Iran — Photography L1, The viewfinder: منظره‌یاب: seeing and choosing the subject through the camera's viewfinder (پیرابند) and framing it there (student book) | Book 10, printed p. 37 |
+| Iran — Photography L2, Fully automatic cameras: دوربین‌های تمام خودکار: the parts of a point-and-shoot camera and how to place the subject in the frame with one (student book) | Book 10, printed p. 39 |
+| Iran — Photography L3, Point of emphasis: نقطهٔ تأکید: the photograph's point of emphasis — making one point draw the viewer's attention (student book) | Book 10, printed p. 41 |
+| Iran — Photography L4, Light: نور: the effect of the kinds of light in photography, practised at sunset and by lamplight (student book) | Book 10, printed p. 44 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Finland).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Honduras, Finland, Iran).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: Book 2's photography part is a teacher-guide part, cited at the section level its placement gives (§1.4, printed pp. 18–22, inside a wider shapes/forms/colours section) and labelled evidence; the lesson's core rests on Book 1, a student book. The Grade 3 book's camera is a film camera — light through a lens, an image on film, printed on prepared papers — and the lesson keeps the book's own account; phone cameras are mentioned only in the Do It First looking activity, not as book content. No camera technique beyond the placements (no exposure settings, no lens types) has been added.
 

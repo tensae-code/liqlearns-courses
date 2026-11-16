@@ -35,6 +35,10 @@ The titles, in ladder order:
    scenes built from everyday surroundings, with Magritte, Klee,
    Tabaković, de Chirico and Miró (Serbia student books).
  The Art expansion added: getting started with drawing tools — the plain pencil's thick and thin lines, erasing without tearing, coloured pencils pressed rich, watercolour and gouache mixed with water, and tools cleaned and put away; and sharing and exhibiting our art — the standing term task, a picture on a term theme and the best drawings placed in a sergi exhibition (Turkmenistan student books).
+ The Art expansion added:
+   art styles and schools — what a style (سبک) is and what a
+   school/movement (مکتب) is, told apart through realist and
+   surrealist painting (Iran student book).
 2. **Visual Art** — the hand and the eye: first marks and lines,
    shapes and forms, colouring, colours and mixing them, the crafts
    around us (metal, pottery, weaving), making with clay and paper,
@@ -260,6 +264,13 @@ The titles, in ladder order:
    from Belarus's stylisation teaching, simplifying an
    image to geometric forms in colour and black-and-white
    (Belarus student books).
+ The Art expansion added:
+   traditional geometric motifs — gereh knot geometry, the
+   drum-in-drum and wave motifs and chaharlangeh in grids, as in
+   the tilework of Yazd and Isfahan; zirlaki lacquerwork —
+   layered-paper bookbinding, boxes and wooden objects; and
+   Iranian traditional embroidery — Darvish, Zartoshti and the
+   woollen pateh of Kerman (Iran student books).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -479,6 +490,12 @@ The titles, in ladder order:
    variation and changing the musical colours; and
    composers of Belarus — Churkin, Hlebov and Luchanka
    (Belarus student books).
+ The Art expansion added:
+   Iranian vocal traditions — the folk vocal music of Iran's
+   peoples and regions and its religious singing; and the radif
+   and the dastgah system — Iran's own modal system, the ordered
+   repertoire of melodic models organised in dastgahs (Iran
+   student books).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -719,3 +736,7 @@ The titles, in ladder order:
    Marra, Suakin, Kerma's Deffufa, Meroe's pyramids), and
    Sudan's heritage colours and ornament (Sudan student
    books).
+ The Art expansion added:
+   Iranian Islamic culture and art — the marks (خصایص) of
+   Iranian-Islamic culture and how Iran's own arts carry them
+   (Iran student book).

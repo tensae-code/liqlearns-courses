@@ -1,10 +1,12 @@
 # Sources — Illustration
 
-countries: Haiti
+countries: Haiti, Iran
 
 **Book 1:** *Arts Visuels — EEA (Éducation esthétique et artistique) Séquence 1 — « Le point et la ligne comme moyen d'expression artistique » (Géraldine Colin, Arts Plastiques, juillet 2021)* (teacher guide, French) — Haiti, Projet Nectar, MENFP, 2021, no ISBN printed, Grade 7e année AF, French, 21 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (first page verified against the record title — sequence title, discipline Arts Visuels, niveau 7e AF, durée 8 heures). Exclusions per the placements: Séance 8 (Évaluation finale) is an assessment séance — named, not placed; the verbalisation/lexique fiches are glossary-type apparatus — named, not stocked. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 2:** *Éducation artistique — Arts visuels — Structure de la forme dans l'espace* (teacher guide, French) — Haiti, Projet Nectar, MENFP (Canoprof); intégration Canoprof: Mélanie Albairet, Arnaud Deschêls; Creative Commons BY-NC-SA; no year printed on the cover; no ISBN printed, Grade 8e année, French, 10 PDF pp (printed pp. 1–10). TEACHER — teacher guide. Verdict: COMPLETE (cover verified against the record title — sequence title, durée 12 heures). Exclusion per the placements: Séance 12 (presentation of the mini-portfolio with a prepared questionnaire) is the evaluation séance — named, not placed; the portfolio work itself is placed from Séances 10–11. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 3:** *فرهنگ و هنر — پایه هشتم (Culture and Art, Grade 8)* (student book, Persian) — Iran, وزارت آموزش و پرورش (Ministry of Education, Islamic Republic of Iran); year 1405–1406 (2026–27); ISBN 978-964-05-3474-8, Grade 8, 144 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 13,567,566 and page count match the record exactly). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,8 +14,10 @@ countries: Haiti
 | Sub lesson 2 — A story in images from history and heritage (teacher evidence) | See the Haiti provenance rows below |
 | Haiti — Séances 6–7, the portfolio's guiding line — a portfolio is a story told in images — finding a work's ligne directrice (guiding line), and building a mini-portfolio of 10–12 images on one theme with its verbalisation and its planned making-steps (gestes à mobiliser), telling your own story from your own heritage (teacher guide — evidence; original target `visual-art/telling-a-story-in-pictures-portfolio`) | Book 1, PDF pp. 17–19 |
 | Haiti — Séances 10–11, Création de projet artistique — creating a small story in images based on history or on heritage — choosing an element of heritage and/or environment for a mini-portfolio, finding its aesthetic and heritage references, and structuring everything gathered to tell your story in images, then analysing your own work against your environment and heritage (teacher guide — evidence; original target `visual-art/telling-a-story-in-pictures-portfolio`) | Book 2, printed p. 9 |
+| Iran — Illustration L3, Features of illustration: Illustration — what makes an illustration an illustration: it pictures a text, shows only part of the text in each image, and draws the reader on to the next picture (student book) | Book 3, printed p. 28 |
+| Iran — Illustration L4, The illustration process: the steps of making an illustration from text to finished picture, worked through a pictured story (student book) | Book 3, printed p. 32 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Iran).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/illustration`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 

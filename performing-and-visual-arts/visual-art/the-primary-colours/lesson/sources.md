@@ -1,7 +1,7 @@
 # Sources — The Primary Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia
+countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia
 
 **Book 7:** *Educación Artística — Postprimaria Rural — Guías del estudiante, Grados 6 y 7 (Artistic Education, Rural Post-primary, student guides, Grades 6 and 7)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional (MEN), Bogotá; year 2010; ISBN libro 978-958-691-416-1; ISBN obra 978-958-691-411-6. Grades 6–7 (student book: STUDENT). PDF pages: 218 (title/imprint pages verified against the record; byte size 113,210,688). Verdict: COMPLETE — read in full from the downloaded file's text layer, all 6 modules and 27 guides Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md. Every guide ends in an "Evaluemos" self/peer/teacher assessment section — assessment apparatus, named here and not placed.
 
+**Book 8:** *فرهنگ و هنر — پایه هفتم (Culture and Art, Grade 7)* (student book, Persian) — Iran, سازمان پژوهش و برنامه‌ریزی آموزشی، وزارت آموزش و پرورش (Educational Research and Planning Organization, Ministry of Education, Iran); year 1405–1406 (2026–27); ISBN 978-964-05-2217-2, Grade 7, 136 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 13,892,647 and page count match the record exactly — re-fetched from the recorded chap.sch.ir source URL after the GitHub grab route disconnected and an earlier partial download of 12,159,714 bytes was discarded). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What primary colours are | Ethiopia, *Grade 3 Performing and Visual Arts Student Textbook*, §1.2, printed p. 6 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia
 | Fiji — Colour Classification: Primary Colours — red, yellow and blue cannot be mixed from other colours; colouring characters and drawings in the three primaries (student book) | Book 6, printed pp. 40–49 |
 
 | Colombia — Módulo 2, Guía 6 "El color" — the three primary colours (yellow, blue, red) that no mixture produces, explored against the colours of the student's own region's landscapes, with Cézanne's Mont Sainte-Victoire (student book; original target `visual-art/the-primary-colours`) | Book 7, printed pp. 51–55 |
+| Iran — Painting L2, Primary colours: رنگهای اصلی: the pure primary colours, known by name and seen at work in Persian miniature painting (student book) | Book 8, printed p. 24 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Pakistan, Fiji, Colombia). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 5 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Sub lesson 5 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's basic-colours lesson and colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook, so the acceptance count counts pupil-taught content. The song "መስራች ቀለማት" is named and its teaching summarised only — its words are not transcribed; the song is sung in the Music unit's Primary Colours Song lesson. The Grade 3 chapter summary's closing exercise carries the check item "green is a primary colour — false", which the question stock uses.
 
