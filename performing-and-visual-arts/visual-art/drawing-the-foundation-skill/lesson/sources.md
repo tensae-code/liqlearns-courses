@@ -1,6 +1,6 @@
 # Sources — Drawing: The Foundation Skill
 
-countries: Ethiopia, Guatemala
+countries: Ethiopia, Guatemala, Uganda
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Guatemala
 **Book 4:** *Performing and Visual Arts Teacher Guide Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, ISBN 978-997744-2-046-9, printed pp. i–ix + 1–79. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g09-teacher-placements.md.
 
 **Book 5:** *Guía de orientaciones metodológicas para docentes de Segundo ciclo de primaria — Expresión artística: Expresemos y construyamos paz* (teacher guide, Spanish) — Guatemala, Ministerio de Educación de Guatemala (MINEDUC), with OEI Guatemala, 2017, no ISBN printed, Grades 4–6 (segundo ciclo de primaria), 51 PDF pp. TEACHER — teacher guide. Verdict: PARTIAL — this PDF is an excerpt: it holds the front matter and introduction (printed pp. 1–15), the opening page of every learning experience (printed pp. 23, 33, 41, 51, 61), and Grade 6 in full (printed pp. 62–91, incl. teacher orientations and bibliography). The Grade 4 and Grade 5 activity pages (printed pp. 16–22, 24–32, 34–40, 42–50, 52–60) are NOT in the file; Grade 4–5 placements below are made from each experience's opening page (competence, learning themes, methods) and its named activities in the contents, and are marked title/theme-level where that is all the evidence there is. Excluded per the placements: "Revisión de lo aprendido" (printed p. 75, revision), all autoevaluación/coevaluación checklists and teacher rubrics, and the bibliography (printed pp. 85–91 teacher orientations are method guidance, not pupil teaching content). The same PDF serves the grade-04, grade-05 and grade-06 records; it was read from the recorded archive.org source after the repo tree path returned 404 twice — byte size and pages match the record exactly, so the book is read, but the pushed copy is a PHANTOM PUSH (library debt). Placements at liqlearns-courses-work/expansion-art-2026-11-16/guatemala-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 6:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,8 +29,9 @@ countries: Ethiopia, Guatemala
 
 | Grade 6 Ch. 1 self-check + closing exercise — drawing items (G6S-37/G6S-38) (question stock, Sub lesson 8) | Grade 6 Student Textbook, Ch. 1 self-check table one + closing exercise, printed pp. 30–32 |
 | Guatemala — Creative drawing: drawing with no fixed technical rules to express a thought, an experience or an idea — Experiencia 1 "Conviviendo contigo" (Grade 4), activity "Dibujándonos" (theme/method level; activity pages not in this PDF) (teacher guide — evidence; original target `visual-art/drawing-the-foundation-skill`) | Book 5, printed p. 15 |
+| Uganda — Chapter 3: Exploring the Natural Environment — materials and tools for drawing and painting (including preparing your own materials), then drawing and painting objects from the natural environment | Book 6, printed pp. 18–19 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 2 countries (Ethiopia, Uganda). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 The Grade 9 teacher-guide part (the five basic skills of drawing) is teacher-guide evidence only and is labelled so in the table; the lesson's pupil-taught parts stand on the Grade 4–6 student books. The Grade 6 book's exercise prints "E♭" in Amharic beside "(E Major scale)" in its key-signature exercise — a music matter, not used in this lesson, recorded here because the same book is cited.
 

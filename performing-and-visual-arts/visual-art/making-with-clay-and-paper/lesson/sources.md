@@ -1,6 +1,6 @@
 # Sources — Making with Clay and Paper
 
-countries: Ethiopia, Maldives
+countries: Ethiopia, Maldives, Uganda
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia, Maldives
 **Book 5:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–ii + body/syllabus to printed p.80. Printed page = PDF page − 6 in the body. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
 
 **Book 6:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
+
+**Book 7:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -30,8 +32,9 @@ countries: Ethiopia, Maldives
 
 | Sub lesson 7 — Papier-mâché (Grade 8 pupil content): making forms by cutting and kneading (ማቡካት) varied papers; tools — paper pieces, water, bucket, cooled boiled wheat/teff flour paste with sugar; process — soak ~24 hours, knead until binding, mix with paste, paste onto a form or join like clay; Figs. 29–30; Activity 2.13 — a waste basket for each classroom | Book 4, §2.6.3, printed pp. 72–75 |
 | Maldives — Decorative Textures: ceramics — objects of clay hardened in a brick-lined kiln, and the ceramicists who make them; decorating by carving lines, dots and textures with simple tools; making and decorating a pinch pot pinched from a ball of clay | Book 6, Unit 12, printed pp. 50–54 |
+| Uganda — Chapter 7: Introduction to Pottery — clay as a natural material (found on river banks, stream beds and road cuts, made durable with fire), the clay methods, and making a pinch pot: clay preparation and forming the pot | Book 7, printed pp. 43–47 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Maldives).**
+**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda).**
 
 Honesty notes: Book 5 (the Grade 2 teacher guide) is a scan with no usable text layer; its part is cited at section level only, exactly as its placements give it, and is labelled teacher-guide evidence. The Grade 5 modelling pages also teach the relief / in-the-round distinction; that distinction is taught in full in the Sculpture and Historic Places lesson, and here it appears only inside the clay-figure method. The Grade 3 New Year page (p. 56) pairs the card with collecting New Year songs; only the card — the visual-art part — is stocked here, as the structure map directs.
 

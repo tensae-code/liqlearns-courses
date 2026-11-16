@@ -1,6 +1,6 @@
 # Sources — The Arts Connect to Everything
 
-countries: Ethiopia, Jamaica
+countries: Ethiopia, Jamaica, Uganda
 
 **Book 1:** *Performing and Visual Arts Teacher Guide Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, ISBN 978-997744-2-046-9, printed pp. i–ix + 1–79. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g09-teacher-placements.md.
 
@@ -17,6 +17,10 @@ countries: Ethiopia, Jamaica
 **Book 7:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
 **Book 8:** *National Standards Curriculum — Exploratory Core, Grade 4 (Language Arts | Science | Social Studies | Mathematics)* (curriculum guide) — Jamaica, Ministry of Education, Youth & Information, Jamaica, 2020 (Jan 2020 edition), no ISBN printed, Grade 4, English, 370 PDF pp. TEACHER — a curriculum guide for other subjects (Language Arts, Science, Social Studies, Mathematics); the arts appear in it as cross-curricular links and in the arts-teaching activities placed here. Read in place in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jamaica-placements.md. **Teacher curriculum guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 9:** *Performing Arts Teacher's Guide — Senior One (Lower Secondary Curriculum), PROTOTYPE* (teacher guide, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 74 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. The guide incorporates all the Learner's Book activities with additional guidance and possible responses (its own preface says so), so its placements are teacher-guide evidence for the same programme the textbook teaches. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 10:** *Performing Arts Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 48 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists Chapters 1, 2, 3, 5, 6, 7, 8 — there is no Chapter 4 in the textbook (the Teacher's Guide's Chapter 4, "Performing Arts Making Using African Styles", appears in the textbook only as Chapter 7, "Performing Arts in African Styles"). The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -41,8 +45,10 @@ countries: Ethiopia, Jamaica
 | Sub lesson 12 — The Grade 8 chapter opens (chapter opening — Grade 8) — G8S-95 | Grade 8 Student Textbook, Ch. 5 chapter opener and aims (opening fold), printed p. 120 |
 
 | Sub lesson 13 — The Grade 8 chapter closes (chapter closing — Grade 8) — G8S-107 | Grade 8 Student Textbook, Ch. 5 summary, checklist and closing exercises (closing fold), printed pp. 136–137 |
+| Uganda — Chapter 1 — how elements of the natural environment are reflected in the song, the drama and the dance, and how the pieces preserve and highlight cultural heritage (teacher guide — evidence) | Book 9, printed pp. 1–5 |
+| Uganda — Chapter 1 — explore how elements of the natural environment are reflected in the song, drama and dance, and highlight the aspects of cultural heritage in them | Book 10, printed pp. 1–5 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia) and Jamaica teacher curriculum-guide evidence, named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Uganda).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Jamaica teacher curriculum-guide evidence, named here, counted nowhere; the Uganda Teacher's Guide is likewise evidence only.
 
 This lesson stands on teacher-guide evidence only and carries the teacher-guide-evidence acceptance line. Its Grade 7–8 parts are EVIDENCE-LIMITED in the strict sense — those guides' files are truncated and their Unit 5 topics are placed from contents pages only, with no body wording claimed. The Grade 9–10 parts are read in full from the federal guides, which have no student books.
 

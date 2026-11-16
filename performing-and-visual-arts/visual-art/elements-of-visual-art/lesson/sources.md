@@ -1,6 +1,6 @@
 # Sources — The Elements of Visual Art
 
-countries: Ethiopia, Andorra
+countries: Ethiopia, Andorra, Uganda
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, Andorra
 **Book 7:** *Grade 6 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. 1–161. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
 **Book 8:** *Programa d'arts plàstiques del batxillerat general de l'Escola Andorrana — annex to Decret 237/2025, BOPA núm. 83, 9-7-2025* (curriculum programme document, Catalan; the record title adds “imatge i disseny”) — Andorra, Ministeri de Relacions Institucionals, Educació i Universitats, Govern d'Andorra, 2025 (programme first published 2019), ISBN 978-99920-82-22-5, Batxillerat general (ages 16–18), 28 PDF pp. TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and synthesis tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 9:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -62,8 +64,9 @@ countries: Ethiopia, Andorra
 
 | Sub lesson 19 — The Grade 8 chapter closes (chapter closing — Grade 8) — G8S-40 | Grade 8 Student Textbook, Ch. 1 summary, checklist and closing exercises (closing fold), printed pp. 42–47 |
 | Andorra — Bloc 1: the plastic language (batxillerat) — visual narrative built from signifiers and meanings: metaphor and symbol; the symbolic function and codes of colour; light's expressive function, chiaroscuro and light as a compositional element in 3D space; tonal ranges (gradations, flat surfaces, hatching, blending); negative and positive forms, contour and inner contour; textures visual, rough, smooth, satiny and opaque (programme document — evidence; original target `visual-art/elements-of-visual-art`) | Book 8, printed p. 16 |
+| Uganda — Chapter 2: Exploring Space, Line and Shape — the elements of art one by one: line, shape or form and space, texture, colour | Book 9, printed pp. 7–10 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 2 countries (Ethiopia, Uganda). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
 
 The Grade 5 book teaches Allegretto as "very fast", above Allegro "fast", in its tempo table; that table belongs to the music lesson and is not used here. The Grade 7 teacher-guide parts in this lesson sit inside the guide's surviving body pages (printed pp. 26–41) and are labelled teacher-guide evidence; the pupil-taught parts stand on the two student textbooks, so the acceptance count is 1 country.
 

@@ -1,6 +1,6 @@
 # Sources — What the Arts Do for Society
 
-countries: Ethiopia
+countries: Ethiopia, Uganda
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -13,6 +13,12 @@ countries: Ethiopia
 **Book 5:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
 **Book 6:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
+
+**Book 7:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
+
+**Book 8:** *Performing Arts Teacher's Guide — Senior One (Lower Secondary Curriculum), PROTOTYPE* (teacher guide, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 74 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. The guide incorporates all the Learner's Book activities with additional guidance and possible responses (its own preface says so), so its placements are teacher-guide evidence for the same programme the textbook teaches. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 9:** *Performing Arts Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 48 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists Chapters 1, 2, 3, 5, 6, 7, 8 — there is no Chapter 4 in the textbook (the Teacher's Guide's Chapter 4, "Performing Arts Making Using African Styles", appears in the textbook only as Chapter 7, "Performing Arts in African Styles"). The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -32,8 +38,11 @@ countries: Ethiopia
 | Sub lesson 13 — The Grade 4 chapter opens (chapter opening — Grade 4) — G4S-47 | Grade 4 Student Textbook, Ch. 3 chapter opener and aims (opening fold), printed p. 45 |
 
 | Sub lesson 14 — The Grade 4 chapter closes (chapter closing — Grade 4) — G4S-65 | Grade 4 Student Textbook, Ch. 3 summary and closing exercise (closing fold), printed pp. 63–64 |
+| Uganda — Chapter 1: the arts in the natural environment preserve culture and heritage (the chapter's own stated outcome, with culture and heritage among its key words) | Book 7, printed p. 1 |
+| Uganda — Chapters 3, 6 and 9: Performing Arts in the Economy — the performing arts as work: the production roles including a Director of Marketing who promotes live events by advertising, marketing recordings through social media, and how products from school performances can sell to audiences (teacher guide — evidence) | Book 8, printed pp. 21–26, 43, 63 |
+| Uganda — Chapter 3: Performing Arts in the Economy (and Activity 2.4, Studying and marketing music) — the different ways of earning income through performing arts, and marketing the music you make | Book 9, printed pp. 11, 12–17 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Uganda).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The harmful-practices material is taught as the books place it — harmful practices named for their health effects, and art's role in changing them; no practice is described beyond the placements' own words. 'Art for Current Issues' in Grades 7–8 is taught from the student books' own chapter and pages (Grade 7 Ch. 5's theme is set by its placement; Grade 8's issues are read in its student book at pp. 134–135) — the truncated Grade 7–8 teacher guides' corresponding units are not used as evidence for this lesson, which rests on pupil-taught books only.
 

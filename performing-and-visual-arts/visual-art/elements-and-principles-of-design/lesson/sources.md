@@ -1,11 +1,13 @@
 # Sources — Elements and Principles of Design
 
-countries: Ethiopia, Maldives
+countries: Ethiopia, Maldives, Uganda
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors ማስተዋል ጌታ ማስረሻ (Mastewal Geta Masresha) and ዮሐንስ ታደሰ በትሬ (Yohannes Tadesse Betre). Printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 **Book 2:** *Performing and Visual Arts Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (first published 2022, GEQIP-E). Writers: Samuel Mamaru (MA), Menor Tesfa (MA). ISBN 978-997744-2-046-9. Printed pp. i–ix + 1–79. Printed page ≈ PDF page − 12 in the body. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g09-teacher-placements.md.
 
 **Book 3:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
+
+**Book 4:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -14,8 +16,9 @@ countries: Ethiopia, Maldives
 | Sub lesson 3 — The principles of design: pattern, contrast, emphasis, balance, scale, unity/harmony (ውህደት), rhythm and repetition, oneness (አንድነት) and variety — each defined with its role and pictured (Figs. 7–15) | Book 1, §1.1.2, printed pp. 8–12 |
 | Sub lesson 4 (teacher guide — evidence) — Elements of art for design and their function in 3D art (Lessons 12–13): the elements of art reviewed as design tools and applied to three-dimensional work | Book 2, Unit 2 item 5, printed pp. 22–25 |
 | Maldives — Rhythmic Art: rhythm in art — repeating lines, shapes, colours and objects to guide the eye around a work, in 2-D prints (Hiroshige's Tokaido stations) and in 3-D (Sabuda's pop-up Alice in Wonderland); rhythm in art is like rhythm in music — both are built on repetition | Book 3, Unit 8, printed pp. 32–33 |
+| Uganda — Chapter 2: Experiencing Elements and Principles of Art — using the elements and principles together as the building blocks and language of art | Book 4, printed p. 12 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Maldives).**
+**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda).**
 
 Honesty notes: The anchor placement for this lesson is the Grade 7 book's §1.1 (printed pp. 1–2), which defines design and announces the chapter's order — elements first, then principles. Sub lessons 2 and 3 teach that announced content one by one from the book's own §1.1.1 and §1.1.2 placements (printed pp. 2–12), whose brief summaries are what the placements file gives; no element or principle definition is invented beyond them. Sub lesson 4 is the Grade 9 teacher's guide, labelled evidence; Grade 9 has no student book in hand, so that part counts nowhere. Picture 14201 is the builders' own drawn plate, not one of the book's Figs. 1–15.
 

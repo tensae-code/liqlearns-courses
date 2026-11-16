@@ -1,6 +1,6 @@
 # Sources — Printing
 
-countries: Ethiopia, Maldives
+countries: Ethiopia, Maldives, Uganda
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -25,6 +25,8 @@ countries: Ethiopia, Maldives
 **Book 11:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
 **Book 12:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
+
+**Book 13:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -55,8 +57,9 @@ countries: Ethiopia, Maldives
 | Sub lessons 1, 5 and 6 — Printing kinds (Grade 5): printing is multiplying an image, text or design in the wanted quantity by carving, gouging, or painting the backs of found things; the kinds surveyed | Book 4, §2.3.3, printed p. 67 |
 | Closing-exercise question stock (Grade 5): the Chapter 4 closing exercise — the false 'most handicraft products are made in the modern way'; printing defined in multiple choice | Book 4, printed pp. 116–117 |
 | Maldives — Printed Landscapes: landscapes in print, and monotype printing — painting a picture on a smooth surface and pressing paper onto the wet paint to lift one unique print; Degas's imaginary landscapes; making a monotype of an imaginary landscape, scraping lines and textures with the brush's wooden tip (original target `visual-art/monotype-printing`) | Book 12, Unit 7, printed pp. 27–31 |
+| Uganda — Chapter 6: Introduction to Fabric Decoration and Printmaking — the techniques of printmaking, traditional and contemporary: impression, block, plate, matrix and mono-print, and documenting the process | Book 13, printed pp. 36–37 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Maldives).**
+**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda).**
 
 Honesty notes: Books 10 and 11 are teacher guides; the Grade 7 guide is a truncated copy (body printed pp. 1–109 only) and the Grade 8 guide is truncated (body printed pp. 1–56 plus syllabus) — the printmaking parts used here sit inside the surviving body pages of both, and are labelled teacher-guide evidence. The Grade 6 book captions its stencil figure (Fig. 33, printed p. 53) "relief-cut printing works" while its own labels describe a stencil and its print; the lesson follows the content of the section, as the placements record it. The Grade 7 student book numbers its printing block §2.1.2 a second time (the paint kinds carry the same number) — placements follow the content, not the numbers, and so does this lesson. Batik and silk-screen keep their own book-given names and steps; nothing about them is borrowed from outside the placements.
 

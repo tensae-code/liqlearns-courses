@@ -1,6 +1,6 @@
 # Sources — The Elements of Music
 
-countries: Ethiopia, United Kingdom, Andorra
+countries: Ethiopia, United Kingdom, Andorra, Uganda
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia, United Kingdom, Andorra
 
 **Book 4:** *Programa d'educació musical de primera ensenyança de l'Escola Andorrana — Annex IV of Decret 376/2021, BOPA núm. 123, 24-11-2021* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2021, ISBN 978-99920-0-931-4, Primera ensenyança, cycles 1–3 (ages 6–12), 39 PDF pp (record; Annex IV runs at BOPA pp. 199–237 of the full 510-page BOPA issue). TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and end-of-cycle expectation tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 5:** *Performing Arts Teacher's Guide — Senior One (Lower Secondary Curriculum), PROTOTYPE* (teacher guide, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 74 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. The guide incorporates all the Learner's Book activities with additional guidance and possible responses (its own preface says so), so its placements are teacher-guide evidence for the same programme the textbook teaches. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 6:** *Performing Arts Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 48 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists Chapters 1, 2, 3, 5, 6, 7, 8 — there is no Chapter 4 in the textbook (the Teacher's Guide's Chapter 4, "Performing Arts Making Using African Styles", appears in the textbook only as Chapter 7, "Performing Arts in African Styles"). The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the six elements of music; Grade 5's scope | Grade 5 Student Textbook, printed p. 16 (§1.2) |
@@ -18,8 +22,10 @@ countries: Ethiopia, United Kingdom, Andorra
 | United Kingdom — Structure and texture (Bach): ABA ternary structure and contrapuntal (polyphonic) texture — a short opening theme passed between instruments at different times as fugal writing — with guided listening and wider listening to Handel's Concerto Grosso Op.6 No.5 and Vivaldi's 'Winter' | Book 3, printed p. 7 |
 | United Kingdom — Structure through changing elements (Defying Gravity): a song built in contrasting sections mapped bar by bar — changes of tempo, key, dynamics, texture and orchestration building to a climax; the vocal line's wide angular range; wider listening to songs from Matilda and Hairspray | Book 3, printed p. 53 |
 | Andorra — Bloc 1: elements of musical creation (cycles 1–3) — the elements named for creating: musical figures (rhythm), notes (pitch), melody, harmony (chord sequences, superimposed melodies), patterns and ostinatos, rhythmic and melodic cells, and musical question (suspensive) and answer (conclusive) phrases (programme document — evidence; original target `music/the-elements-of-music`) | Book 4, printed p. 25 |
+| Uganda — Chapter 2: Exploring the Basic Elements of Music — the basic elements worked through song: pitch, duration, tempo and rhythm, appreciating and using them to create and present music pieces (teacher guide — evidence) | Book 5, printed pp. 11–20 |
+| Uganda — Chapter 2: Exploring the Basic Elements of Music — pitch, duration and tempo explored through songs you sing, compose and present | Book 6, printed pp. 6–11 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, United Kingdom). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 3 countries (Ethiopia, United Kingdom, Uganda). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 The pupil book's list is pupil teaching; the guide's eight-element list is carried as labelled teacher-guide evidence, exactly as the placements label it. No element is added to either list.
 

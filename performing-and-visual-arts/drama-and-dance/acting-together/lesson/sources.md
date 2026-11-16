@@ -1,6 +1,6 @@
 # Sources — Acting Together
 
-countries: Ethiopia, Egypt
+countries: Ethiopia, Egypt, Uganda
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Egypt
 
 **Book 5:** *Theatre Education — Second Preparatory, Grade 8, First Term (التربية المسرحية — الصف الثاني الإعدادي — الفصل الدراسي الأول)* (student book, Arabic) — Egypt, وزارة التربية والتعليم (Ministry of Education and Technical Education, Egypt), 2025, no ISBN printed, Grade 8, Arabic, 81 PDF pp. Verdict: COMPLETE (cover/title page verified against the record title). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/egypt-placements.md.
 
+**Book 6:** *Performing Arts Teacher's Guide — Senior One (Lower Secondary Curriculum), PROTOTYPE* (teacher guide, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 74 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. The guide incorporates all the Learner's Book activities with additional guidance and possible responses (its own preface says so), so its placements are teacher-guide evidence for the same programme the textbook teaches. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 7:** *Performing Arts Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 48 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists Chapters 1, 2, 3, 5, 6, 7, 8 — there is no Chapter 4 in the textbook (the Teacher's Guide's Chapter 4, "Performing Arts Making Using African Styles", appears in the textbook only as Chapter 7, "Performing Arts in African Styles"). The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Acting together in a group | Grade 1 Student Textbook, §5.2, printed p. 71 |
@@ -17,8 +21,10 @@ countries: Ethiopia, Egypt
 | Sub lesson 3 — Passing a message by drama | Grade 3 Student Textbook, §2.7.1, printed p. 40 |
 | Egypt — Topic 5, I Have a Problem: writing a curriculum play together — co-writing a curriculum play (مسرحية منهجية) that turns a school subject into theatre | Book 4, printed p. 25 |
 | Egypt — Lesson 10, Our Theatre Project: a complete class theatre project — joining acting with planning and organisation, co-writing a scene, monodrama or dramatic treatment of a situation, performing before classmates on time and in coordination, and evaluating one's own and others' performances | Book 5, printed p. 69 |
+| Uganda — Chapter 1: Performing African traditional drama — retell the story in the folk song, identify its characters and dramatize it, then brainstorm the basic African characteristics of drama (teacher guide — evidence) | Book 6, printed p. 5 |
+| Uganda — Chapter 1 — retell the story in the folk song, identify the characters in it and dramatise it; a class play should have some folk songs, mimicry and simple dances | Book 7, printed pp. 3–5 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Egypt).**
+**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Uganda).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Nothing flagged. The Grade 3 methods passage is stocked in its book's own order; the four methods are the placement's four, word for word in substance.
 

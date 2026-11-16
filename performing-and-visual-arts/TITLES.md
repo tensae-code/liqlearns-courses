@@ -70,7 +70,11 @@ The titles, in ladder order:
    art, form by form; Baker Lake wall hangings — southern
    wool worked into Arctic designs; and contemporary Inuit
    art — new forms growing alongside the old (Canada
-   student books, Nunavut).
+   student books, Nunavut). The Art expansion added:
+   ancient Egyptian art — pyramids, the sphinx and paintings
+   evaluated by their elements and principles; and basketry —
+   coiling, plaiting, wicker and twining, patterned baskets
+   for use and for sale (Uganda student book).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -134,7 +138,11 @@ The titles, in ladder order:
    the new kinds it grew; pisiit — written Inuktitut songs
    sung together every Sunday; and contemporary Inuit
    music — many instruments, the internet, and new things
-   added to the old songs (Canada student books, Nunavut).
+   added to the old songs (Canada student books, Nunavut). The
+   Art expansion added: Ugandan folk songs — each ethnic
+   group's own tradition, Bunyoro's Kuhugura and Buganda's
+   eggono vocal tones, pentatonic songs with traditional
+   instruments (Uganda student book; teacher guide, evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -176,7 +184,10 @@ The titles, in ladder order:
    routine for performance nerves; the Sila Rainbow Dance
    Competition — teams, judges and the community hall; and
    the dancer's body — water and stretching (Canada student
-   books, Nunavut).
+   books, Nunavut). The Art expansion added:
+   Ugandan folk dances — each group's motifs, instruments,
+   costumes and props, choreographed to its folk song
+   (Uganda student book; teacher guide, evidence).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New

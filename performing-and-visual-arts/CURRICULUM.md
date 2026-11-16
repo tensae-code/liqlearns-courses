@@ -382,7 +382,41 @@ lessons are the books'.
   not placed; the nursery stories are placed by summary
   only, never transcribed.
 
-**The whole course stands at 219 lessons, 3,362 questions and
+- **Art expansion — Uganda — BUILT 2026-11-16:** 34 placements
+  stocked from 3 books (all National Curriculum Development
+  Centre (NCDC), Uganda, 2020, PROTOTYPE, Senior One
+  (= Grade 8), English, no ISBN printed: *Art and Design
+  Textbook*, 86 PDF pp, STUDENT, COMPLETE with the
+  contents/body Chapter 9/10 fault carried as filed;
+  *Performing Arts Textbook*, 48 PDF pp, STUDENT, COMPLETE
+  with the missing-Chapter-4 fault carried as filed;
+  *Performing Arts Teacher's Guide*, 74 PDF pp, TEACHER —
+  teacher guide, evidence only, kept outside the acceptance
+  counts, COMPLETE. All three repo tree paths are PHANTOM
+  PUSHES (HTTP 404); the books were read from their recorded
+  NCDC source_urls and re-staged, library debt carried as
+  filed): 28 into existing lessons (Appreciating and Valuing
+  the Arts; What the Arts Do for Society ×3; Observing Our
+  Surroundings; The Elements of Visual Art; Elements and
+  Principles of Design; Drawing: The Foundation Skill;
+  Graphic Design; Making with Paper and Pieces; Printing;
+  Shapes, Forms and Patterns in Colour; Making with Clay
+  and Paper; Cave Art and Church Painting; Acting Together
+  ×2; The Arts Connect to Everything ×2; The Elements of
+  Music ×2; Reading the Beat ×2; Performing Kinds of Music
+  ×2; How the Arts Belong Together ×2; Dance Composition
+  and Modern Dance ×2 — the last two from the original
+  string composing-dances-in-african-style), 4 NEW lessons
+  (Visual Art: Ancient Egyptian Art; Basketry — from
+  basket-weaving-techniques; Music: Ugandan Folk Songs;
+  Drama and Dance: Ugandan Folk Dances), 48 questions
+  added, media as described slots only. The Art and Design
+  book's chapter summaries and end-of-chapter activities
+  are study apparatus, named in the book entries and not
+  placed; songs are placed by name and kind only, never
+  transcribed.
+
+**The whole course stands at 223 lessons, 3,410 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
