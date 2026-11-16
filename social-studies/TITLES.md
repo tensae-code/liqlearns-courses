@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **398**
+Economics lessons across the Economics titles: **401**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4261,4 +4261,8 @@ Haiti, 2026-11-15 — Macroeconomics: Haiti's diaspora
 remittances and the national economy, Haiti's independence
 debt and the double debt and Public debt and development —
 Haiti's case; Microeconomics: The plantation economy of
-colonial Saint-Domingue).
+colonial Saint-Domingue).; +3 for Guatemala,
+2026-11-16 — Microeconomics: Costs, price and profit in
+a small project; Market and Money: Marketing strategies
+— the four Ps; Macroeconomics: Food security and food
+sovereignty).

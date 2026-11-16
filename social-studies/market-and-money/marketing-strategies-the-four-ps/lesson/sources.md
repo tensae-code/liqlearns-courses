@@ -1,0 +1,17 @@
+# Sources — Marketing strategies — the four Ps
+
+countries: Guatemala
+
+**Book 1:** *Guía de orientaciones metodológicas para docentes de segundo básico — Emprendimiento para la Productividad II — "Producción y costos del proyecto"* (teacher guide, Spanish) — Ministerio de Educación de Guatemala (MINEDUC), primera edición, Guatemala 2017 (same guide series imprint); no ISBN printed. Title as printed: Guía de orientaciones metodológicas para docentes de segundo básico — Emprendimiento para la Productividad II — "Producción y costos del proyecto". Grade: 8 (student/teacher: TEACHER). PDF pages: 88 (cover rendered and read; contents worked through and the two Economics experiences read in full; 11,920,344 bytes, matching the secured file). Verdict: PARTIAL — the Economics parts (Experiences 3 and 4) read in full and placed below; the rest is entrepreneurship-education material, named in the Contents map and not placed. Contents map: Economics parts Experience 3 "Estudio de factibilidad de mercado en la generación de nuestro proyecto empresarial", printed pp. 47–64, and Experience 4 "Producción y costos del proyecto", printed pp. 65–80; Experience 1 "Cultura empresarial" (pp. 15–32) and Experience 2 "Ubicando el rumbo en la generación de nuestro proyecto empresarial" (pp. 33–46) — named, not placed. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Marketing — bringing products and services to clients (teacher guide — evidence) | Guatemala, *Emprendimiento para la Productividad II Teacher's Guide*, Grade 8, Experience 3, the "Mercadeo" reading — marketing (mercadeo) as everything needed to bring products and services to clients so they are satisfied and the firm gains; it investigates and analyses the market, plans strategies to position itself, and evaluates constantly — printed p. 52 |
+| Sub lesson 2 — Product and price — what the client is really buying (teacher guide — evidence) | Guatemala, *Emprendimiento para la Productividad II Teacher's Guide*, Grade 8, Experience 3, the "Mercadeo" reading — the four strategies, the "4P": product (what the client is really buying — phone companies sell closeness and safety, appliance shops sell small instalments, not the stove), price, place (plaza) and promotion — printed p. 52 |
+| Sub lesson 3 — Place and promotion — reaching the client (teacher guide — evidence) | Guatemala, *Emprendimiento para la Productividad II Teacher's Guide*, Grade 8, Experience 3, the "Mercadeo" reading — place (plaza) and promotion (publicidad, sales promotion, personal selling, publicity, public relations) — printed p. 52 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Guatemala), named here, counted nowhere.**
+
+Guatemala's own way: marketing is met inside the market-feasibility experience of a pupil-run project — the "Mercadeo" reading gives the four Ps through what the client is really buying: phone companies sell closeness and safety, and appliance shops sell small instalments, not the stove. The lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
+
+Searchable tags: marketing, mercadeo, four Ps, 4P, product, price, place, promotion, publicidad, guatemala, emprendimiento, teacher guide evidence, social studies, market-and-money

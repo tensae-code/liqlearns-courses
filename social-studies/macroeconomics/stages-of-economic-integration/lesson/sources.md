@@ -1,6 +1,6 @@
 # Sources — Stages of economic integration
 
-countries: Argentina, Ethiopia
+countries: Argentina, Ethiopia, Guatemala
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -18,6 +18,14 @@ countries: Argentina, Ethiopia
 
 Argentina's own way: Economics enters primary Social Studies through Mercosur — integration is taught from children's own border experience, newspaper data and a pupil-built database on the South American gas pipeline case. This Argentina material stands on the teacher guide as evidence only.
 
-**Acceptance count: taught in 1 country (Ethiopia). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 3:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Ministerio de Educación de Guatemala (elaborated with USAID/Reforma Educativa en el Aula); Impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana, Cuarto grado. Grade: 4 (student/teacher: STUDENT). PDF pages: 256 (cover verified against the record title; 25,726,392 bytes — the release asset and the books.json record are byte-identical in size and page count, one printed book; the third record, the full-quality oversized release scan of the same title/grade, is counted as the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 41, 119–120, 166; History pp. 13–24, 61–72 (including the colonial "Organización económica" p. 71, a History part, named not placed), 109–118, 157–164; Geography pp. 34–40, 82–91, 130–138, 178–185; Civics pp. 30–51, 93–99, 139–147, 167–168, 191. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/guatemala-placements.md.
 
-Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics
+| Lesson part | Where it comes from |
+|---|---|
+| Guatemala — "Tratados de libre comercio": the 1958 Mercomún (Central American Common Market) let the area's products be sold freely, suspended taxes for Central American firms and opened borders to the area's goods; today's free trade treaties (TLC) set common rules to direct, improve and widen trade, and Guatemala has signed them with the United States, Mexico, Chile, Taiwan and Colombia | Guatemala, *Guatemala Grade 4 Ciencias Sociales G4*, "Tratados de libre comercio" — printed p. 166 |
+
+Guatemala's own way: integration is taught as Guatemala's own treaty story — the 1958 Mercomún first, then the free trade treaties (TLCs) Guatemala itself has signed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Guatemala). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+
+Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics

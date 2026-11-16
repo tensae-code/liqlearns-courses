@@ -1,6 +1,6 @@
 # Sources — Sectors Of The Economy
 
-countries: Iran, Ecuador
+countries: Iran, Ecuador, Guatemala
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -19,7 +19,13 @@ countries: Iran, Ecuador
 | Ecuador — Actividades económicas (Unidad 6, Conozcamos al Ecuador): Ecuador's economic activities are many and depend on sector and region; people work in different occupations to obtain the economic resources for the clothing, education and food they consume, which shapes family quality of life; in rural zones most work in agriculture, livestock-raising, fishing and crafts, and tourism contributes considerably to the country's growth | Ecuador, *Ecuador Grade 3 Estudios Sociales 3ro EGB*, Actividades económicas (Unidad 6, Conozcamos al Ecuador) — printed p. 124 |
 | Ecuador's way — the book's own teaching way | Ecuador — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 2 countries (Iran, Ecuador).**
+**Book 4:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Ministerio de Educación de Guatemala (elaborated with USAID/Reforma Educativa en el Aula); Impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana, Cuarto grado. Grade: 4 (student/teacher: STUDENT). PDF pages: 256 (cover verified against the record title; 25,726,392 bytes — the release asset and the books.json record are byte-identical in size and page count, one printed book; the third record, the full-quality oversized release scan of the same title/grade, is counted as the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 41, 119–120, 166; History pp. 13–24, 61–72 (including the colonial "Organización económica" p. 71, a History part, named not placed), 109–118, 157–164; Geography pp. 34–40, 82–91, 130–138, 178–185; Civics pp. 30–51, 93–99, 139–147, 167–168, 191. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guatemala — "Actividades económicas": an economic activity is work done to obtain products or services that satisfy needs; Central America's activities are grouped as agriculture, livestock, industry, communications and services, each tied to climate and place, with an economic map of Central America | Guatemala, *Guatemala Grade 4 Ciencias Sociales G4*, "Actividades económicas" — printed p. 41 |
+
+**Acceptance count: taught in 3 countries (Iran, Ecuador, Guatemala).**
 
 Iran's own way (Iran Grade 7 Social Studies): one combined Social Studies book of 24 lessons in 12 chapters. The Geography parts placed below are Ch. 5 Knowing our living environment (Lessons 9–10, printed pp. 43–56), Ch. 6 Protecting Iran's habitats (Lessons 11–12, printed pp. 57–72), Ch. 7 Population and resources (Lessons 13–14, printed pp. 73–88) and Ch. 8 Tourism in Iran (Lessons 15–16, printed pp. 89–102), plus the sectors part of Ch. 4. The other parts are named here, not placed: Civics — Ch. 1 Our rights and responsibilities (Lessons 1–2, printed pp. 1–12), Ch. 2 Law (Lessons 3–4, printed pp. 13–20), Ch. 3 Coping with incidents — empathy and insurance (Lessons 5–6, printed pp. 21–30); Economics — Ch. 4 Production, distribution, consumption (Lesson 8 Consumption, printed pp. 37–42; Lesson 7 placed above); History and Culture — Ch. 9 Our land, searching the distant past (Lessons 17–18, from printed p. 103), Ch. 10 Iran in ancient times (Lessons 19–20), Ch. 11 The coming of Islam to Iran and Islamic Iran (Lessons 21–22), and Ch. 12 Culture and art (Lessons 23–24) fill the rest of the book (printed pp. 103–178).
 
@@ -27,4 +33,6 @@ Iran's own way (Iran Grade 11 Geography (2)): the whole book is built on one org
 
 Ecuador's own way (Ecuador Grade 3 Estudios Sociales 3ro EGB): economic activities are taught by sector and region of the child's own parish and canton — rural agriculture, livestock, fishing and crafts (including paja toquilla) against town occupations, with tourism named as a growth activity for a biodiverse country.
 
-Searchable tags: sectors of the economy, Iran, Ecuador, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources
+Guatemala's own way (Guatemala Grade 4 Ciencias Sociales G4): economics is taught inside the national story — Central America's farm and factory map, then Guatemala's own money, its own taxes and its own trade treaties. Here the activities come first: agriculture, livestock, industry, communications and services, each tied to climate and place, on an economic map of Central America.
+
+Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources

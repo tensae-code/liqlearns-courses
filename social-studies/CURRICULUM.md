@@ -12886,3 +12886,107 @@ vestiges on Haiti's own ground, and public debt taught
 entirely through Haiti's own case as a year-long
 enquiry ending in the restitution debate. Economics
 lessons: 394 → 398.
+
+## Economics expansion — Guatemala — built 2026-11-16
+
+Guatemala — 12 placements stocked from 4 books with
+placements (1 student book and 3 teacher guides) of
+8 distinct books in the filing; the other 4 books
+(the Segundo Ciclo Social Studies guide and the three
+Ciencias Sociales y Formación Ciudadana guides for
+Grades 7–9) are record-only with 0 placements, as
+filed. 8 stocked into standing lessons and 4 NEW
+LESSON NEEDED lines built as 3 new lessons (the
+costs-price-and-profit slug is placed twice, from
+the Grade 7 and Grade 8 guides). The Grade 4 student
+book counts in acceptance; every placement from the
+three Emprendimiento para la Productividad teacher
+guides is cited as teacher-guide evidence only,
+OUTSIDE the acceptance counts. Stocked into standing
+lessons — **People and Resources**: Sectors of the
+economy ("Actividades económicas", printed p. 41 —
+an economic activity is work done to obtain products
+or services that satisfy needs; Central America's
+activities grouped as agriculture, livestock,
+industry, communications and services, each tied to
+climate and place, with an economic map of Central
+America; acceptance 2 → 3 countries, Iran, Ecuador
+and Guatemala) — **Culture and Work**: Central
+banks, money and credit policy ("Banco Central y el
+quetzal como moneda", printed p. 119 — many banks and
+even farms issuing their own money caused instability
+until the 1924 monetary reform unified the quetzal
+under the Banco Central de Guatemala as sole issuer;
+acceptance 1 → 2 countries, Mongolia and Guatemala);
+Trade — supply, demand and consumer rights (the
+"Mercadeo" reading's price strategy, printed p. 53 —
+a price set not from cost plus a percentage alone but
+from what the product is worth to the client and how
+great his need is: the law of supply and demand, with
+medicines as the example; teacher-guide evidence,
+acceptance unchanged — taught in 5 countries);
+Personal budget and saving ("Mi presupuesto
+personal", printed p. 66 — a worked month in
+quetzales: Q2,000 income against Q1,625 expenses,
+leaving a Q375 balance for a savings account;
+teacher-guide evidence, acceptance unchanged —
+taught in 1 country, Armenia) — **Macroeconomics**:
+What a tax is ("Impuestos y la Reforma fiscal",
+printed p. 120 — municipal arbitrios such as the
+IUSI property levy beside the State's taxes, among
+them the IVA at 12%; acceptance 1 → 2 countries,
+Ethiopia and Guatemala); Stages of economic
+integration ("Tratados de libre comercio", printed
+p. 166 — the 1958 Mercomún, then today's TLCs, signed
+by Guatemala with the United States, Mexico, Chile,
+Taiwan and Colombia; acceptance 1 → 2 countries,
+Ethiopia and Guatemala) — **Market and Money**:
+Markets — and the market for goods and services
+("Minimercado", printed p. 51 — pupil firms selling
+across three rounds against buyers with different
+purchasing power in symbolic money; teacher-guide
+evidence, acceptance unchanged — taught in 1
+country, Ethiopia) — **Resources and Conflict**:
+Sustainable development — meeting needs without
+stealing the future ("Desarrollo sostenible",
+printed p. 55 — the Brundtland sentence itself, with
+the economy as one of three interlocked circles;
+teacher-guide evidence, acceptance unchanged —
+taught in 7 countries). 3 new lessons built (12
+questions each, all standing on teacher-guide
+evidence only — acceptance 0 countries, Guatemala
+named, counted nowhere): **Microeconomics**: Costs,
+price and profit in a small project (Grade 7 guide,
+Experience 3, printed p. 56 — the bakery project's
+marketing phase fixing cost, price and profit
+margin, and its closing liquidation of costs on a
+set format, income against expenses, profit or loss
+from the two totals; and Grade 8 guide, Experience
+4, Actividad 3, printed p. 76 — costing a juice
+stall's product whole: variable against fixed costs,
+total and unit cost over 1,000 juices, selling price
+from competitors, quality and margin, net profit
+margin as projected sales minus total cost) —
+**Market and Money**: Marketing strategies — the
+four Ps (Grade 8 guide, Experience 3, the "Mercadeo"
+reading, printed p. 52 — marketing as everything
+needed to bring products and services to satisfied
+clients; product as what the client is really buying
+— phone companies sell closeness and safety,
+appliance shops sell small instalments, not the
+stove — price, place and promotion with its parts)
+— **Macroeconomics**: Food security and food
+sovereignty (Grade 9 guide, Experience 1, Actividad
+1, printed p. 19 — food and nutrition security with
+its history, born in the 1980s around production and
+availability, widened to access, completed in the
+1990s with safety, cultural preferences and human
+right, with the INCAP and FAO 1996 definitions in
+full; food sovereignty as the experience's second
+activity). Guatemala's own way: economics is taught
+inside the national story — Central America's farm
+and factory map, Guatemala's own money, taxes and
+treaties — and entrepreneurship by running real
+school projects, a bakery and a juice stall, whose
+paperwork carries the costs, prices and profits.
+Economics lessons: 398 → 401.
