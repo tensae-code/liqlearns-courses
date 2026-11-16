@@ -84,7 +84,20 @@ The titles, in ladder order:
    music and dance — learning the Caribbean's music and dance
    from a social studies text itself, using its features to
    locate and extract what it says plainly (Jamaica teacher
-   curriculum guide, evidence).
+   curriculum guide, evidence). The Art expansion added: the
+   GCSE set works of the United Kingdom — Bach's Brandenburg
+   Concerto No. 5 and the concerto grosso; the sonata and sonata
+   form through Beethoven's 'Pathétique'; Baroque music through
+   Purcell's 'Music for a While' — ground bass and word-painting;
+   pop music through Queen's 'Killer Queen' — verse-chorus form
+   and multi-tracking; music for the stage through 'Defying
+   Gravity' from Wicked; film music — the cue, underscoring and
+   the leitmotif — through John Williams' Star Wars; folk music
+   in modern dress through Afro Celt Sound System's fusion
+   'Release'; bossa nova through 'Samba Em Prelúdio'; and making
+   music with computers and apps, carrying the Anthology's
+   copyright and music-publishing chapter (United Kingdom
+   student book, scores by summary only).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and

@@ -251,7 +251,33 @@ lessons are the books'.
   The book's glossary (printed pp. 79–81) is inventory only,
   named in the book entries and never stocked.
 
-**The whole course stands at 183 lessons, 2,930 questions and
+- **Art expansion — United Kingdom — BUILT 2026-11-16:** 26
+  placements stocked from 1 student book (*Edexcel GCSE (9–1)
+  Anthology of Music*, ed. Julia Winterson — Pearson Education
+  Ltd, 2016, ISBN 978-1-292-11838-3, Grade 10): 10 into existing
+  lessons (Reading Music on the Staff ×5; The Elements of Music
+  ×2; Faster Notes, Dynamics and Tempo; Hearing Each Instrument;
+  Genres of Theatre and Film), 9 NEW lessons (Music: Bach:
+  Brandenburg Concerto No. 5; The Sonata and Sonata Form — from
+  beethoven-pathetique-and-sonata-form; Baroque Music — from
+  purcell-music-for-a-while; Pop Music — from
+  killer-queen-verse-chorus-pop-song; Music for the Stage:
+  'Defying Gravity'; Film Music — from
+  film-music-and-leitmotif-star-wars; Folk Music in Modern Dress
+  — from fusion-release-afro-celt-sound-system; Bossa Nova —
+  from samba-em-preludio-bossa-nova-fusion; Making Music with
+  Computers and Apps — from copyright-and-music-publishing),
+  108 questions added, media as described slots only. The book's
+  glossary (printed pp. 90–93) is inventory only, named in the
+  book entries and never stocked; scores are placed as study
+  summaries only, never transcribed. The 60 Oak National Academy
+  records are apparatus under the owner's Oak ruling —
+  record-only, never stocked. LIBRARY DEBT: the Anthology's
+  recorded GitHub copy is a phantom push (marked pushed, absent
+  from the tree and the releases); the book was read from its
+  recorded Internet Archive source instead.
+
+**The whole course stands at 192 lessons, 3,038 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
