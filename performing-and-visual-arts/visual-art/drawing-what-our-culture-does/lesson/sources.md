@@ -1,7 +1,7 @@
 # Sources — Drawing What Our Culture Does
 
 
-countries: Ethiopia, Guatemala, Bhutan, Turkmenistan
+countries: Ethiopia, Guatemala, Bhutan, Turkmenistan, Pakistan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Guatemala, Bhutan, Turkmenistan
 
 **Book 4:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. Title page verified against the record title; the repo tree path is a PHANTOM PUSH — grab.py tree returned HTTP 404 — so the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link; 79,070,978 bytes and 80 pages, both matching the record exactly. Downloaded copy staged under the push-don't-delete rule at the phase3-staging record path. Excluded per the placements: the four "Umumylaşdyryjy/Jemleýji sapak" (generalising/final review lessons, printed pp. 23, 40, 60, 76) — the book's own review lessons, named here; their questions are not placed, though their standing exhibition task is placed once as sharing practice. The short verses printed inside lessons (by Atamyrat Atabaýew, Berdi Kerbabaýew, Tagan Söhbedow, Ýagmyr Pirgulyýew) belong to the language course and are not placed here. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
+**Book 5:** *Art and Model Drawing — Class 9* (student book, English) — Pakistan, by Dr. Sadia Murtaza (Lahore College for Women University); editor Ms. Sidra Liaqat; Experimental Edition; Punjab Curriculum and Textbook Board, Lahore; no ISBN printed on the pages read, Class 9, 224 PDF pp. STUDENT. Verdict: COMPLETE (byte size 79,217,551 matches the record exactly; title, imprint and full contents pages read). Downloaded from its recorded Google Drive source_url (exact byte size), verified, read, and staged under the push-don't-delete rule. Standing exclusions named: Assessment/Examination instructions and questions for the theoretical examination, printed pp. 199–211, the Glossary, printed pp. 212–220, and the Bibliography, printed pp. 197–198 — inventory-only, not placed. Pakistan's own way: the senior course is half studio, half Pakistan itself — its own architecture (Mohenjo-daro to Minar-e-Pakistan), its own master painters and calligraphers by name, and its own textiles (ajrak, ralli) as a full chapter. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/pakistan-placements.md (links-group filings).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four pictured practices — threshing, dancing, genna, coffee roasting | Ethiopia, *Grade 1 Performing and Visual Arts Student Textbook*, §4.4, printed pp. 64–65 (Exercise 11, printed p. 64) |
@@ -18,8 +20,9 @@ countries: Ethiopia, Guatemala, Bhutan, Turkmenistan
 | Guatemala — Representing the expressions of one's own culture through drawing — Experiencia 2 (Grade 4) (theme level; activity pages not in this PDF) (teacher guide — evidence; original target `visual-art/drawing-what-our-culture-does`) | Book 2, printed p. 23 |
 | Bhutan — Lesson 13, Memorable Moments — draw and paint a memorable day of your own life — a picnic, a trek, tshechu, losar — and talk about the artwork | Book 3, printed p. 13 |
 | Turkmenistan — 3.9 "Milli bahar baýramy" (The National Spring Holiday) — the people celebrate the spring holiday (Nowruz) with special dishes; draw a decorative picture of the holiday and give it to your loved ones as a gift (student book; original target `visual-art/festivals-and-celebrations-in-art`) | Book 4, printed pp. 58–59 |
+| Pakistan — Chapter 8: drawing and making what Pakistan's own culture makes — ajrak blocks, ralli quilts, embroidery (student book; original target `visual-art/drawing-what-our-culture-does`) | Book 5, printed pp. 176–196 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bhutan, Turkmenistan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 4 countries (Ethiopia, Bhutan, Turkmenistan, Pakistan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 No honesty flags attach to this placement; it is followed exactly as read. Exercise 11's questions (when traditional dress is worn, and what it is for) are carried as part of the drawing work, as placed; the dress itself is taught in the Culture and Values unit's Traditional Dress lesson.
 

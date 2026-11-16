@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -16,12 +16,15 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago
 
 **Book 7:** *Secondary School Curriculum — THE VISUAL AND PERFORMING ARTS (VAPA) Curriculum Guide* (curriculum guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 195 PDF pp. TEACHER — curriculum guide. Verdict: COMPLETE — Part 1 (national curriculum framework, policies) is general-education apparatus, named here and not placed; the per-subject curriculum content (Dance printed pp. 55–67, Drama pp. 76–101, Music pp. 109–132, Visual Arts pp. 140–184) is placed at framework level, the four Teacher's Guides carrying the same content in lesson form. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 8:** *Art and Model Drawing — Class 9* (student book, English) — Pakistan, by Dr. Sadia Murtaza (Lahore College for Women University); editor Ms. Sidra Liaqat; Experimental Edition; Punjab Curriculum and Textbook Board, Lahore; no ISBN printed on the pages read, Class 9, 224 PDF pp. STUDENT. Verdict: COMPLETE (byte size 79,217,551 matches the record exactly; title, imprint and full contents pages read). Downloaded from its recorded Google Drive source_url (exact byte size), verified, read, and staged under the push-don't-delete rule. Standing exclusions named: Assessment/Examination instructions and questions for the theoretical examination, printed pp. 199–211, the Glossary, printed pp. 212–220, and the Bibliography, printed pp. 197–198 — inventory-only, not placed. Pakistan's own way: the senior course is half studio, half Pakistan itself — its own architecture (Mohenjo-daro to Minar-e-Pakistan), its own master painters and calligraphers by name, and its own textiles (ajrak, ralli) as a full chapter. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/pakistan-placements.md (links-group filings).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Cave art: how art began | Book 1, §3.2.1, printed pp. 89–91 |
 | Sub lesson 2 — Ethiopia's cave paintings: Porc-Epic and Lega Oda | Book 1, printed pp. 91–92 |
 | Sub lesson 3 — The Book of Paintings and church art | Book 1, §3.3.1, printed pp. 93–95 |
 | Sub lesson 4 — Cave art and painting types (teacher guide — evidence) | Book 2, Lessons 1–4, printed pp. 4–8 |
+| Pakistan — Chapter 6: History of Painting in South Asia — 6.1 The Ajanta Cave Paintings; 6.2 Mughal Painting (student book; original target `visual-art/cave-art-and-church-painting`) | Book 8, printed pp. 141–150 |
 
 | Sub lesson 5 — Painting, the branch and its idea sources (Grade 7): painting since cave-dwelling humans painted on cave walls, rock, wood and hides; ideas from observed/heard nature and human-made things, or from inner imagination | Book 3, §2.1, printed pp. 33–34 |
 | Closing-exercise question stock (Grade 5): the Chapter 3 closing exercise — Lega Oda's images, the diri definition, Dire Dawa as Ethiopia's cave-art answer, the ancient-painting mark that is NOT depth | Book 1, printed pp. 104–106 |
@@ -35,7 +38,7 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago
 
 | Trinidad and Tobago — Visual Arts Content (Form 1 Term 1) — ancient art: cave paintings, cave drawings and sculptures, artifacts as found objects, the function of art in the cave era, and producing your own interpretation of a cave painting (curriculum guide — evidence) | Book 7, printed p. 140 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Romania).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Romania, Pakistan).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 

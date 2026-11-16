@@ -1359,7 +1359,71 @@ lessons are the books'.
   complete technical-drawing course of step-by-step
   procedures tied to carpentry, metalwork and building work.
 
-**The whole course stands at 366 lessons, 5,006 questions and
+- **Art expansion — Pakistan — BUILT 2026-11-16:** 68 placements
+  stocked, reconciled against the placements file's own
+  tallies (Book 1 *Art and Drawing, Class 7*: tally claims 44;
+  Book 2 *Art and Drawing, Class 8*: 8 — 7 to existing, 1 NEW
+  LESSON NEEDED; Book 3 *Art and Model Drawing, Class 9*: 17 —
+  13 to existing, 4 NEW LESSON NEEDED; claimed total 69):
+  54 into existing official lessons (Drawing: The Foundation
+  Skill ×6 — one from the original string
+  model-drawing-and-eye-level, resolved to it by the slug
+  registry; Painting Still Life ×13; Making with Paper and
+  Pieces ×6; Appreciating Drawing ×3; Shapes You Can Draw ×3;
+  Design and Perspective: Near and Far ×2; Elements and
+  Principles of Design ×2; Elements of Visual Art ×2; Crafts
+  Around Us ×2; Printing ×2; Shapes, Forms and Patterns in
+  Colour ×3; The Primary Colours; What the Arts Are; Paints
+  and How They Work; Beautiful Writing; Emblems and Posters
+  That Speak; Cave Art and Church Painting; Sculpture and
+  Historic Places; Appreciating and Valuing the Arts; Drawing
+  What Our Culture Does; Old Arts and Today's Arts), 8 into
+  already-built canonical lessons (Imaginative and Expressive
+  Art ×2 — from painting-from-imagination and
+  expressional-painting; Technical Drawing ×3 — from
+  geometrical-constructions; Landscape Painting — from
+  painting-a-mosque; Geometric and Technical Drawing — from
+  orthographic-projection; Making Models and Maquettes — from
+  models-from-cut-straw), 6 NEW lessons (Visual Art: Arabic
+  and Islamic Calligraphy — from islamic-calligraphy; Abri
+  Marbled Paper; Architecture of Pakistan; Master Painters of
+  Pakistan — from culture-and-values/master-painters-of-pakistan;
+  Calligraphers of Pakistan — from pakistani-calligraphers;
+  Pakistani Textiles: Ajrak and Ralli — from
+  culture-and-values/pakistani-textiles-ajrak-and-ralli),
+  54 questions added, media as described slots only.
+  DIFFERENCE EXPLAINED: the placements file's tallies sum to
+  69, but the file contains 68 placement lines (43 + 8 + 17) —
+  the one-line difference sits in the Class 7 book, whose
+  tally claims 44 (36 to existing + 8 NEW) while its lines
+  count 43 (33 to existing-target strings + 10 NEW-marked
+  lines covering only 8 distinct NEW slugs,
+  geometrical-constructions appearing three times — the
+  tally's "8 NEW" counts distinct new lessons, not lines, and
+  its existing subtotal is 3 higher than the lines present);
+  all 68 lines present were stocked, none invented to match
+  the tally. Honesty carried exactly as filed: all three books
+  are STUDENT books, COMPLETE, so Pakistan enters every
+  stocked lesson's acceptance count (the 6 new lessons stand
+  at acceptance count 1, Pakistan). The Class 7 book is read
+  but its pushed copy is a PHANTOM PUSH (library debt) —
+  carried in its book entries. Named, not placed, as filed:
+  the Class 7 Glossary (printed pp. 80–83), the Class 8
+  glossary (فرہنگ, printed p. 98), and the Class 9 book's
+  assessment/examination instructions and questions (printed
+  pp. 199–211), Glossary (printed pp. 212–220) and
+  Bibliography (printed pp. 197–198) — inventory only.
+  Pakistan's own way is kept as named parts: a drawing-first
+  course of pictured constructions on centre line and eye
+  level, model drawing from real objects on the draughtsman's
+  bench, Islamic calligraphy composed inside geometric
+  frames, a mosque painted step by step and modelled in wheat
+  straw, abri marbled paper, and the senior book's Pakistan
+  itself — its architecture from Mohenjo-daro to
+  Minar-e-Pakistan, its master painters and calligraphers by
+  name, and its own textiles, ajrak and ralli.
+
+**The whole course stands at 372 lessons, 5,060 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

@@ -1,6 +1,6 @@
 # Sources — Paints and How They Work
 
-countries: Ethiopia, Maldives, Andorra, Bhutan, Serbia
+countries: Ethiopia, Maldives, Andorra, Bhutan, Serbia, Pakistan
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -18,12 +18,15 @@ countries: Ethiopia, Maldives, Andorra, Bhutan, Serbia
 
 
 **Book 8:** *Ликовна култура — за 3. разред основне школе (Likovna kultura / Visual Culture — for Grade 3 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković), illustrations by Слађана Љубић (Slađana Ljubić); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2020 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20327-4; approved for Grade 3 use by ministerial decision 650-02-00629/2019-07 of 16 January 2020, Grade 3, 76 PDF pp. STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (printed pp. 22, 38, 54); the story "Јежић" (The Little Hedgehog) by Elena Mikhalenko (printed pp. 57–59) — a reading text, named and not placed, its classroom use placed from printed p. 51; the work appendix (ornament strips printed pp. 55–56, picture grounds printed pp. 61–71, cut-out sculptures printed p. 73) — their classroom uses placed from printed pp. 7 and 9; the closing contents (printed pp. 74–75) and colophon — inventory only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
+**Book 9:** *Art and Model Drawing — Class 9* (student book, English) — Pakistan, by Dr. Sadia Murtaza (Lahore College for Women University); editor Ms. Sidra Liaqat; Experimental Edition; Punjab Curriculum and Textbook Board, Lahore; no ISBN printed on the pages read, Class 9, 224 PDF pp. STUDENT. Verdict: COMPLETE (byte size 79,217,551 matches the record exactly; title, imprint and full contents pages read). Downloaded from its recorded Google Drive source_url (exact byte size), verified, read, and staged under the push-don't-delete rule. Standing exclusions named: Assessment/Examination instructions and questions for the theoretical examination, printed pp. 199–211, the Glossary, printed pp. 212–220, and the Bibliography, printed pp. 197–198 — inventory-only, not placed. Pakistan's own way: the senior course is half studio, half Pakistan itself — its own architecture (Mohenjo-daro to Minar-e-Pakistan), its own master painters and calligraphers by name, and its own textiles (ajrak, ralli) as a full chapter. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/pakistan-placements.md (links-group filings).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Watercolour and oil: the first two | Book 1, §1.1.4, printed pp. 15–16 |
 | Sub lesson 2 — The paints: oil, pastel, acrylic, watercolour | Book 2, §2.3, printed pp. 48–49 |
 | Sub lesson 3 — The eight paints, part one: oil, watercolour, acrylic, gouache | Book 3, §2.1.2, printed pp. 36–39 |
 | Sub lesson 4 — The eight paints, part two: tempera, crayon, pastel, charcoal | Book 3, §2.1.2, printed pp. 40–42 |
+| Pakistan — Chapter 3: Painting Practice-I — what painting is, and the media one by one: fresco, tempera, oil painting, water colour and gouache, acrylics, pastels, spray paints, mixed media, digital painting; with three painting practices (pen and water colour — teapot and cups; water colour — terracotta pots; landscape with pastels on tinted sheet) (student book; original target `visual-art/paints-and-how-they-work`) | Book 9, printed pp. 44–75 |
 
 | Sub lesson 2 — The painting materials (Grade 7): paint, brush, palette, thinner (aqua-rage/thinner gas and tools), board, canvas, easel, papers of varied content and strength — the painter's full kit | Book 3, §2.1, printed p. 34 |
 
@@ -38,7 +41,7 @@ countries: Ethiopia, Maldives, Andorra, Bhutan, Serbia
 | Bhutan — Lesson 12, Water Colour Painting — draw objects, mix the water colour, and paint | Book 7, printed p. 12 |
 | Serbia — "Techniques: the relation of material, art technique and idea" — watercolour is painting with water colours on paper: the materials are the water colours and the paper, the technique is the way of working; a watercolour differs on dry or wet, smooth or rough paper, and the colour, mixed with much water, is transparent; gouache is water-colour painting with thick white added, so the layer is thick and opaque (Dufy, Nolde, Kandinsky, Matisse pictured); make two watercolours — one on dry paper, one on paper wetted first — and compare | Book 8, printed pp. 28–29 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Maldives, Bhutan, Serbia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 5 countries (Ethiopia, Maldives, Bhutan, Serbia, Pakistan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
 
 The Grade 7 book counts eight paint kinds by treating oil, watercolour, acrylic, gouache, tempera, crayon, pastel and charcoal as its §2.1.2 series; the lesson follows that count and that order, as the placements give them. Grade 7's oil-paint thinners are named as the book names them (aqua rage, white gas, a little edible oil) — named as book content, not as a recommendation for children to handle solvents; the hands-on work uses water-based paint only.
 
