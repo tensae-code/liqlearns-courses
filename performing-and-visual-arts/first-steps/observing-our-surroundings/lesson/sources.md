@@ -1,6 +1,6 @@
 # Sources — Observing Our Surroundings
 
-countries: Ethiopia, Uganda, Barbados
+countries: Ethiopia, Uganda, Barbados, Singapore
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 **Book 2:** *Grade 1 Performing and Visual Arts Teacher Guide (፩ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (Hamle 2014 E.C.), printed front matter i–ii + body/syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-teacher-placements.md.
@@ -9,6 +9,8 @@ countries: Ethiopia, Uganda, Barbados
 
 **Book 4:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 5:** *Nurturing Early Learners — A Curriculum Framework for Preschool Education in Singapore: Educators' Guide for Aesthetics and Creative Expression* (teacher guide, English) — Singapore, Ministry of Education, Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten (children aged 4–6: Nursery 2, Kindergarten 1–2), 126 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree (byte size 4,232,854 matches the record), PDF deleted after filing. Chapter 4's classroom-environment organisation and Chapter 5's monitoring-and-assessment framework are teacher apparatus — their worked examples' teaching content IS placed; the Bibliography (printed pp. 122–125) is inventory-only, named here, never stocked. Songs are filed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/singapore-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Observing our surroundings (Sub lesson 1) | Grade 1 Student Textbook, Ch.1 chapter aims, printed p. 1; Ch.1 summary + review questions (Review — Observing Our Surroundings), printed pp. 14–15 |
@@ -16,8 +18,9 @@ countries: Ethiopia, Uganda, Barbados
 | Watching and telling what happens (Sub lesson 2) | Grade 1 Student Textbook, §1.4 — watching on video and telling the action, printed p. 11 |
 | Uganda — Chapter 1: Observing and Appreciating Nature; Examining and Responding to the Natural Environment — get familiar with your natural environment, then draw from what you see | Book 3, printed pp. 3–5 |
 | Barbados — Observation (Class 1) — nature walks to observe and record line, colour, shape and texture in the environment; drawing objects, leaves, flowers and twigs from observation (curriculum guide — evidence) | Book 4, printed pp. 1, 27 |
+| Singapore — Nature walks that examine a leaf's colour, veins, lines, texture and smell, watch it sail and land, and listen to tree branches and to shoes on dry leaves, pebbles and sand — Ch.3 strategy, novel and sensory experiences (teacher guide — evidence) | Book 5, printed p. 64 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 2 countries (Ethiopia, Uganda). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 The definition of surroundings and the sound/movement distinction are the Grade 1 book's own Chapter 1 summary words (printed pp. 14–15), taught as the book states them. The teacher-guide row is evidence for the same watching skill and is labelled as such; the lesson's pupil-taught content rests on the student book.
 

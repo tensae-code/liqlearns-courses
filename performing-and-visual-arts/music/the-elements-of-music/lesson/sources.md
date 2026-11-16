@@ -1,6 +1,6 @@
 # Sources — The Elements of Music
 
-countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albania, Samoa, Nicaragua
+countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albania, Samoa, Nicaragua, Singapore
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albani
 
 **Book 13:** *Expresión Cultural y Artística — Texto para el Docente — 1er Grado, Educación Primaria* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), Managua, 2014 (Primera Edición, Septiembre 2014), no ISBN printed, Grade 1, 160 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title page verified against the record title; Grade 1 byte size matches the record exactly (5,555,205). Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 146) is a word list — inventory-only, named here, not stocked; Bibliography not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 14:** *Nurturing Early Learners — A Curriculum Framework for Preschool Education in Singapore: Educators' Guide for Aesthetics and Creative Expression* (teacher guide, English) — Singapore, Ministry of Education, Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten (children aged 4–6: Nursery 2, Kindergarten 1–2), 126 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree (byte size 4,232,854 matches the record), PDF deleted after filing. Chapter 4's classroom-environment organisation and Chapter 5's monitoring-and-assessment framework are teacher apparatus — their worked examples' teaching content IS placed; the Bibliography (printed pp. 122–125) is inventory-only, named here, never stocked. Songs are filed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/singapore-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the six elements of music; Grade 5's scope | Grade 5 Student Textbook, printed p. 16 (§1.2) |
@@ -48,7 +50,10 @@ countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albani
 | Samoa — Music, Years Two–Eight — the concepts of music built year by year: pitch, rhythm, harmony and form, growing to semitones and accidentals, calculating durations, rhythm dictation and reading and playing traditional notation (programme evidence) | Book 12, printed pp. 44–56 |
 | Nicaragua — Qualities of sound — height/pitch, intensity, tone, timbre and duration as the qualities every sound has, and reproducing sounds with pause and silence (teacher guide — evidence) | Book 13, printed p. 119 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, United Kingdom, Uganda, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
+| Singapore — Pitch and melody: high and low shown with the body, and the melodic line traced and drawn — Ch.1, Elements of Music (teacher guide — evidence) | Book 14, printed p. 23 |
+| Singapore — Rhythm against beat, worked on "Twinkle, Twinkle, Little Star" — Ch.1, Elements of Music (teacher guide — evidence) | Book 14, printed p. 23 |
+| Singapore — Timbre (each sound's own colour) and form, with "Hot Cross Buns" heard and moved as AABA — Ch.1, Elements of Music (teacher guide — evidence) | Book 14, printed p. 23 |
+**Acceptance count: taught in 4 countries (Ethiopia, United Kingdom, Uganda, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The pupil book's list is pupil teaching; the guide's eight-element list is carried as labelled teacher-guide evidence, exactly as the placements label it. No element is added to either list.
 

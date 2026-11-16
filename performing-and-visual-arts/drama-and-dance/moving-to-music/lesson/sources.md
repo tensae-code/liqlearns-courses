@@ -1,6 +1,6 @@
 # Sources — Moving to Music
 
-countries: Ethiopia, Guatemala, Canada, Barbados, Nicaragua
+countries: Ethiopia, Guatemala, Canada, Barbados, Nicaragua, Singapore
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Guatemala, Canada, Barbados, Nicaragua
 **Book 11:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 12:** *Expresión Cultural y Artística — Texto para el Docente — 1er Grado, Educación Primaria* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), Managua, 2014 (Primera Edición, Septiembre 2014), no ISBN printed, Grade 1, 160 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title page verified against the record title; Grade 1 byte size matches the record exactly (5,555,205). Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 146) is a word list — inventory-only, named here, not stocked; Bibliography not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 13:** *Nurturing Early Learners — A Curriculum Framework for Preschool Education in Singapore: Educators' Guide for Aesthetics and Creative Expression* (teacher guide, English) — Singapore, Ministry of Education, Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten (children aged 4–6: Nursery 2, Kindergarten 1–2), 126 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree (byte size 4,232,854 matches the record), PDF deleted after filing. Chapter 4's classroom-environment organisation and Chapter 5's monitoring-and-assessment framework are teacher apparatus — their worked examples' teaching content IS placed; the Bibliography (printed pp. 122–125) is inventory-only, named here, never stocked. Songs are filed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/singapore-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -34,7 +36,10 @@ countries: Ethiopia, Guatemala, Canada, Barbados, Nicaragua
 | Barbados — Singing / movement (Class 1) — using movement, marching and dance to express the rhythmic patterns in songs (curriculum syllabus — evidence) | Book 11, printed p. 5 |
 | Nicaragua — Rhythm and free body movement — what rhythm is, moving head, trunk, arms and legs, moving like nature (water, air, tree), slow and fast, and free body movement to Nicaraguan folk music (teacher guide — evidence) | Book 12, printed p. 42 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Canada). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+| Singapore — Young children meet music by pretending and moving; Bruner's enactive, iconic and symbolic modes; the Dalcroze, Kodály and Orff-Schulwerk approaches — Ch.1, Music and Movement in the Early Years (teacher guide — evidence; original target `first-steps/first-music-and-movement-experiences`) | Book 13, printed p. 20 |
+| Singapore — "Let's Move with the Music" (Kindergarten 1): singing "Twinkle, Twinkle" at changing tempos with scarves and ribbons, then moving to Mozart's variations on the same tune — Goal 1 example (teacher guide — evidence) | Book 13, printed p. 32 |
+| Singapore — Dalcroze's rule that musical concepts can be taught through movement; spontaneous movement ("float like a feather", "stomp like an elephant") against structured movement to the beat — Ch.3 strategy, moving and dancing (teacher guide — evidence) | Book 13, printed p. 82 |
+**Acceptance count: taught in 2 countries (Ethiopia, Canada). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 The Grade 1 teacher-guide row is labelled evidence: it names the same free-movement strand at its Grade 1 root and does not change the count. The song ዳንስ (Dans) is placed by name, source (KCLS, as printed) and its direction content, exactly as the placement gives it; its verses are not transcribed.
 

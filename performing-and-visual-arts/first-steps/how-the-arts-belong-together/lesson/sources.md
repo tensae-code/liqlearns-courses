@@ -1,6 +1,6 @@
 # Sources — How the Arts Belong Together
 
-countries: Ethiopia, Maldives, Uganda, Albania, Samoa
+countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Maldives, Uganda, Albania, Samoa
 
 **Book 10:** *Expressive Arts — Years 1–8, Primary School Curriculum* (curriculum statement / programme document, English) — Samoa, Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture (MESC), Samoa, 2013 (January 2013), ISBN 978-982-517-087-7, Years 1–8, 96 PDF pp. TEACHER — curriculum statement for teachers; programme document. Verdict: COMPLETE (as a programme document; it specifies teaching content by year and strand rather than pupil lessons). Title page verified against the record title; fetched from the recorded MESC source_url (1,069,629 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Assessment section and outcome-indicator tables (printed pp. 27–38) — assessment apparatus, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Programme document — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 11:** *Nurturing Early Learners — A Curriculum Framework for Preschool Education in Singapore: Educators' Guide for Aesthetics and Creative Expression* (teacher guide, English) — Singapore, Ministry of Education, Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten (children aged 4–6: Nursery 2, Kindergarten 1–2), 126 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree (byte size 4,232,854 matches the record), PDF deleted after filing. Chapter 4's classroom-environment organisation and Chapter 5's monitoring-and-assessment framework are teacher apparatus — their worked examples' teaching content IS placed; the Bibliography (printed pp. 122–125) is inventory-only, named here, never stocked. Songs are filed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/singapore-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | The arts woven together (Sub lesson 1) | Grade 1 Student Textbook, Ch.5 chapter aims + §5.1, printed p. 67; Grade 2 Student Textbook, Ch.5 chapter aims, printed p. 71; Grade 3 Student Textbook, Ch.5 chapter aims + §5.1, printed p. 69 |
@@ -40,7 +42,9 @@ countries: Ethiopia, Maldives, Uganda, Albania, Samoa
 | Albania — Music joined with the other arts — expressing a song's feelings also through poetry, drawing and dedications, and a film extract ("Mësonjëtorja") discussed in class (teacher guide — evidence) | Book 9, printed p. 25 |
 | Samoa — Organising Expressive Arts subjects — Music, Performing Arts and Visual Arts are three interrelated subjects with one unifying aspect, the development of the child's imagination, each organised in the same three strands: Creative Practice, Response and Analysis, and the art in Context (programme evidence) | Book 10, printed pp. 8–11 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
+| Singapore — "Responding to Music Through Art" (Kindergarten 2): listening to Rimsky-Korsakov's "Flight of the Bumble Bee" with eyes closed, talking about its tempo, dynamics, pitch and mood, then drawing what the music says — Goal 1 example (teacher guide — evidence) | Book 11, printed p. 35 |
+| Singapore — Drawing while listening: fast, upbeat passages of Schubert, Strauss and Grieg answered with dots and fast strokes, and colour chosen for the emotion the music carries — Ch.3 strategy, sensory experiences (teacher guide — evidence) | Book 11, printed p. 67 |
+**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The coin picture and the music example are Grade 2's own (§5.1, printed p. 71); the drama-into-drawing direction is Grade 3's own (§5.1, printed p. 69); the classroom doing-all-three scene and both review summaries are the books' own closing words, folded into the last sub lesson as the course structure map rules for review placements. No relationship claim is made that a book does not make.
 

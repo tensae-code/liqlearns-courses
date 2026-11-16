@@ -113,7 +113,15 @@ The titles, in ladder order:
    festona), the fish pencil-case and buttons sewn as a heart;
    and art from recycled materials — Roboțel from boxes and
    packaging, the Eco Butterfly from a plastic container, and
-   toys invented for an exhibition (Romania student book).
+   toys invented for an exhibition (Romania student book). The Art expansion added:
+   blot and splatter painting — the outdoor "Splat!" sheet and
+   blow art after Pollock, crazy hair blown through a straw;
+   shadow art — hunting shadows, body shadow figures, artworks
+   from leaves, twigs, pebbles and feathers, and a new picture
+   drawn from a cast shadow; and portrait drawing and painting —
+   the self-portraits of Georgette Chen, van Gogh and Kusama,
+   then your own, even in 3-D clay (Singapore teacher guide,
+   evidence).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -228,7 +236,14 @@ The titles, in ladder order:
    leaf-and-flower dance, both calling the rain after Easter
    into June, with Călușul, Sânzienele, Rusaliile, Drăgaica
    and Cununa grâului, the customs of the Earth and the Sun
-   (Romania student book).
+   (Romania student book). The Art expansion added:
+   making your own instruments — shakers from empty yoghurt
+   cups and recycled materials, played to a recycling song;
+   body percussion — the body's whole sound map, from tongue
+   clicks to toe taps, the Orff road into instruments; and
+   dikir barat — Singapore's Malay seated group singing, its
+   drums, synchronised hands and shouted "Hah!", studied,
+   then made your own (Singapore teacher guide, evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -295,7 +310,11 @@ The titles, in ladder order:
    lid, black-card shadow puppets on straws and the lamp
    behind the screen, with the art's road from India through
    China to 18th-century Europe, hand shadows and a glove
-   puppet sewn from an old glove (Romania student book).
+   puppet sewn from an old glove (Romania student book). The Art expansion added:
+   wayang kulit shadow puppetry — Singapore's Malay-Indonesian
+   heritage shadow theatre, named first among the shadow arts,
+   with puppet props made for your own shadow play (Singapore
+   teacher guide, evidence).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
@@ -325,3 +344,9 @@ The titles, in ladder order:
    Maramureș with its geometric, cosmic, floral and Christian
    motifs set symmetrically, dyes cooked from plants, and
    the blown-egg doll (Romania student book).
+ The Art expansion added:
+   Singapore's many music and dance traditions — learning to
+   recognise bhangra, Chinese opera, dikir barat, joget and
+   lion dance, the arts of Singapore's diverse heritage,
+   beside music and dance from the wider world (Singapore
+   teacher guide, evidence).

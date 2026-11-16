@@ -1,6 +1,6 @@
 # Sources — Faster Notes, Dynamics and Tempo
 
-countries: Ethiopia, United Kingdom, Barbados, Albania, Nicaragua
+countries: Ethiopia, United Kingdom, Barbados, Albania, Nicaragua, Singapore
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, United Kingdom, Barbados, Albania, Nicaragua
 **Book 6:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 7:** *Manual Metodológico Expresión Cultural y Artística — 4° Grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 4, 148 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "BAJA" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 8:** *Nurturing Early Learners — A Curriculum Framework for Preschool Education in Singapore: Educators' Guide for Aesthetics and Creative Expression* (teacher guide, English) — Singapore, Ministry of Education, Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten (children aged 4–6: Nursery 2, Kindergarten 1–2), 126 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree (byte size 4,232,854 matches the record), PDF deleted after filing. Chapter 4's classroom-environment organisation and Chapter 5's monitoring-and-assessment framework are teacher apparatus — their worked examples' teaching content IS placed; the Bibliography (printed pp. 122–125) is inventory-only, named here, never stocked. Songs are filed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/singapore-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -33,7 +35,10 @@ countries: Ethiopia, United Kingdom, Barbados, Albania, Nicaragua
 | Albania — The incomplete bar, the fermata and staccato — the upbeat/incomplete measure, and the character signs fermata (korona) and staccato (teacher guide — evidence) | Book 6, printed p. 23 |
 | Nicaragua — Vocal techniques — breathing, articulation and vocalisation for singing, and care of the breathing, phonating and resonating apparatus (teacher guide — evidence) | Book 7, printed p. 120 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, United Kingdom). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
+| Singapore — Dynamics (loud and soft, answered with the body, as lion dancers do) and tempo (fast and slow) — Ch.1, Elements of Music (teacher guide — evidence) | Book 8, printed p. 23 |
+| Singapore — "Loud and Soft Sounds in a Song" (Nursery 2): the local song "Come and Taste" (about Singapore food, filed by summary only) sung softly, loudly, and growing louder and softer (crescendo/decrescendo), with body movements matched to each dynamic, and the words adapted to other local dishes — Goal 2 example (teacher guide — evidence) | Book 8, printed p. 46 |
+| Singapore — Tempo heard and answered: Offenbach's fast "Can Can" against Bach's slow "Air on the G String", children naming which is faster and moving to each — Ch.5 worked example 5 (teacher guide — evidence; teaching content placed) | Book 8, printed p. 115 |
+**Acceptance count: taught in 2 countries (Ethiopia, United Kingdom). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book's tempo table lists Allegretto as "very fast", above Allegro "fast" — the lesson keeps the book's own ordering and says so in the tempo sub lesson, for fidelity to the source, exactly as the placements flag it. The seven-sounds table is the book's own mapping (C = Do … B = Si) with Do taken as the starting base, as printed.
 

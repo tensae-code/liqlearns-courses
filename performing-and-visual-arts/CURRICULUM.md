@@ -729,7 +729,45 @@ lessons are the books'.
   Romanian-style architecture and the castles of Hunedoara,
   Bran and Peleș.
 
-**The whole course stands at 261 lessons, 3,866 questions and
+- **Art expansion — Singapore — BUILT 2026-11-16:** 53 placements
+  stocked from 1 book (*Nurturing Early Learners — A Curriculum
+  Framework for Preschool Education in Singapore: Educators' Guide
+  for Aesthetics and Creative Expression*, Ministry of Education,
+  Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten,
+  English, 126 PDF pp, TEACHER, COMPLETE): 44 into existing
+  lessons, 8 NEW lessons (Visual Art: Blot and Splatter Painting —
+  from splatter-and-blow-painting; Shadow Art; Portrait Drawing
+  and Painting — from self-portraits-and-the-artists-who-paint-them;
+  Music: Making Your Own Instruments; Body Percussion; Dikir
+  Barat — from culture-and-values/dikir-barat; Drama and Dance:
+  Wayang Kulit Shadow Puppetry — from
+  culture-and-values/wayang-kulit-shadow-puppetry; Culture and
+  Values: Singapore's Many Music and Dance Traditions), 96
+  questions added, media as described slots only. DIFFERENCE
+  FROM THE FILE'S OWN TALLY, EXPLAINED: the placements file
+  tallied 39 to existing lessons and 14 NEW LESSON NEEDED. The
+  slug registry resolves first-steps/first-music-and-movement-experiences
+  to the EXISTING Moving to Music, visual-art/art-games to the
+  EXISTING Appreciating the Arts, music/composing-a-first-tune to
+  the already-built NEW Composing Music and
+  visual-art/constructing-with-recycled-materials (×2) to the
+  already-built NEW Art from Recycled Materials — so 44 (not 39)
+  placements went to lessons that already existed, 9 (not 14) to
+  new lessons, and 8 new lessons were built; the total of 53
+  reconciles exactly. As a teacher guide the book is EVIDENCE
+  only, kept outside every acceptance count (the eight new
+  lessons stand at acceptance count 0). Exclusions named:
+  Chapter 4's classroom-environment organisation and Chapter 5's
+  monitoring-and-assessment framework are teacher apparatus —
+  their worked examples' teaching content IS placed; the
+  Bibliography (printed pp. 122–125) is inventory-only. Songs
+  are filed by summary only, never transcribed. Singapore's own
+  way is kept as named parts — one early-years guide treating
+  art, music and movement as a single learning area, with
+  dikir barat, wayang kulit, batik, Georgette Chen and local
+  folksongs woven through as content.
+
+**The whole course stands at 269 lessons, 3,962 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
