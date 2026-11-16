@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda
+countries: Ethiopia, Uganda, Romania
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Uganda
 **Book 4:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
 **Book 5:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
+
+**Book 6:** *Arte vizuale și abilități practice — Manual pentru clasa a III-a, Semestrul al II-lea (Visual Arts and Practical Skills, Grade 3, Semester 2)* (student book, Romanian) — Romania, Ministerul Educației și Cercetării Științifice / Editura CD Press, 2015; authors Mirela Flonta, Claudia Stupineanu, Simona Dobrescu; approved by ministerial order 5046/25.08.2015; ISBN 978-606-528-223-0 (work), 978-606-528-269-8 (Part 2), Grade 3, 48 PDF pp. STUDENT — student book. Verdict: COMPLETE. The PDF is image-only (no text layer), so it was read visually page by page from 100-DPI renders; PDF and renders deleted after filing. Cover verified: title, grade and semester match the record. Excluded per the placements: the three Recapitulare. Evaluare test pages (printed pp. 24, 34, 46) and the final evaluation test part (printed p. 47) are the book's own assessment — excluded; their companion PROJECTS (plaster vase, School Street, Hansel and Gretel set) do teach skills and are placed. The closing Dicționar (printed p. 48) is a glossary — inventory-only, named here, never stocked as parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/romania-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,9 +29,10 @@ countries: Ethiopia, Uganda
 | Sub lesson 7 — The Grade 5 chapter opens (chapter opening — Grade 5) — G5S-84 | Grade 5 Student Textbook, Ch. 3 chapter opener and aims (opening fold), printed p. 84 |
 | Sub lesson 7 — The self-check mechanic, stocked in this chapter's lead lesson — G5S-02 | Grade 5 Student Textbook, the self-check checklist (የማገናዘቢያ ነጥቦች), first printed pp. 38–39 |
 | Uganda — Chapter 9 (listed as "Chapter 10" in the contents): Ancient Art — pre-historic rock art of the Palaeolithic and Neolithic periods: cave painting on walls and ceilings, painting figures on top of each other (superimposing), hunting-magic animal paintings, and Neolithic human-figure sculpture engraved on rock | Book 5, printed pp. 57–60 |
+| Romania — Cards, With Love!: the first inscribers were prehistoric people — animals and hunting scenes scratched on cave walls, handprints left by pressing a paint-covered hand to the wall or blowing colour around it, pigment ground from coloured stone and mixed with water, "brushes" of twigs, leaves and fingers | Book 6, printed p. 10 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda).**
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Romania).**
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 
-Searchable tags: cave art, Lascaux, Altamira, Porc-Epic, Lega Oda, Dire Dawa, Book of Paintings, መጽሐፈ ስዕላት, church painting, Debre Birhan Selassie
+Searchable tags: cave art, Lascaux, Altamira, Porc-Epic, Lega Oda, Dire Dawa, Book of Paintings, መጽሐፈ ስዕላት, church painting, Debre Birhan Selassie, Romania

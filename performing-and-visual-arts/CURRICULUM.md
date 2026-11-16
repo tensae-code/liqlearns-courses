@@ -679,7 +679,57 @@ lessons are the books'.
   El Güegüense (Pacific), La Polka (North-Central) and
   Palo de Mayo (Atlantic).
 
-**The whole course stands at 253 lessons, 3,770 questions and
+- **Art expansion — Romania — BUILT 2026-11-16:** 51 placements
+  stocked from 1 student book (*Arte vizuale și abilități practice
+  — Manual pentru clasa a III-a, Semestrul al II-lea*, Ministerul
+  Educației și Cercetării Științifice / Editura CD Press, 2015;
+  authors Mirela Flonta, Claudia Stupineanu, Simona Dobrescu;
+  approved by ministerial order 5046/25.08.2015; ISBN
+  978-606-528-223-0 (work), 978-606-528-269-8 (Part 2), Grade 3,
+  Romanian, 48 PDF pp, STUDENT, COMPLETE — the PDF is image-only,
+  read visually page by page from 100-DPI renders): 25 into
+  existing lessons (Making with Clay and Paper ×6; Making with
+  Paper and Pieces ×5; Sculpture and Historic Places ×5; Printing
+  ×2 — one from the original string monotype-printing; Cave Art
+  and Church Painting; Shapes You Can Draw; Playing a Person;
+  Costume and Make-Up for Theatre; Crafts Around Us; Technical
+  and Performance Elements of Theatre; Appreciating and Valuing
+  the Arts), 3 into already-built canonical lessons (Puppet
+  Theatre; Kite Making ×2), 8 NEW lessons (Visual Art: Origami;
+  Paper Quilling — from quilling; Architectural Models — from
+  architecture-and-models; Sewing and Tailoring; Art from
+  Recycled Materials — from constructing-with-recycled-materials;
+  Music: Moldovan and Romanian Calendar Customs and Songs — from
+  caloian-and-paparuda-rain-customs; Drama and Dance: Shadow
+  Theatre; Culture and Values: Easter in Song and Custom — from
+  romanian-easter-egg-art), 96 questions added, media as
+  described slots only. DIFFERENCE FROM THE FILE'S OWN TALLY,
+  EXPLAINED: the placements file tallied 24 to existing lessons
+  and 27 NEW LESSON NEEDED. The slug registry resolves
+  monotype-printing to the EXISTING Printing, quilling to Paper
+  Quilling, romanian-easter-egg-art to Easter in Song and
+  Custom, caloian-and-paparuda-rain-customs to Moldovan and
+  Romanian Calendar Customs and Songs, architecture-and-models
+  to Architectural Models and constructing-with-recycled-materials
+  to Art from Recycled Materials; puppet-theatre and kite-making
+  were already built by the Barbados merger and are stocked, not
+  rebuilt — so 25 (not 24) placements went to existing lessons,
+  3 to already-built canonical lessons, 23 to new lessons, and 8
+  new lessons were built; the total of 51 reconciles exactly.
+  Exclusions named: the three Recapitulare. Evaluare test pages
+  (printed pp. 24, 34, 46) and the final evaluation test part
+  (printed p. 47) — the book's own assessment, excluded, their
+  companion PROJECTS placed; the closing Dicționar (printed
+  p. 48) is a glossary — inventory-only, named in the book
+  entries and never stocked. Romania's own way is kept as named
+  parts — a technique-first semester (origami, quilling,
+  monotype, modelling, papier-mâché, scale models, sewing,
+  puppetry), încondeiere Easter eggs of Bucovina and Maramureș,
+  the Caloian and Paparuda rain customs, Brâncuși, Ion Mincu's
+  Romanian-style architecture and the castles of Hunedoara,
+  Bran and Peleș.
+
+**The whole course stands at 261 lessons, 3,866 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

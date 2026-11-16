@@ -101,7 +101,19 @@ The titles, in ladder order:
    lines; and Samoan tattoo designs — design principles
    in tattooing designs, and tattooing symbols documented
    with their meanings (Samoa curriculum statement,
-   programme evidence).
+   programme evidence). The Art expansion
+   added: origami — Japan's paper-folding art, its traditional
+   models and its folding discipline of steps, right paper and
+   thumbnail-pressed creases; paper quilling — rolled-paper
+   filigree, its nine basic forms and the quilled photo frame;
+   architectural models — architecture and Ion Mincu's
+   Romanian style, the macheta, card houses, town streets,
+   castles and Gaudí; sewing and tailoring — the little
+   tailor's craft in its own words (tipar, a însăila, a
+   festona), the fish pencil-case and buttons sewn as a heart;
+   and art from recycled materials — Roboțel from boxes and
+   packaging, the Eco Butterfly from a plastic container, and
+   toys invented for an exhibition (Romania student book).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -209,7 +221,14 @@ The titles, in ladder order:
    expansion added: singing technique and voice care —
    breathing for singing practised with chimbombas
    (balloons): inhaling, holding the air and exhaling
-   (Nicaragua teacher guide, evidence).
+   (Nicaragua teacher guide, evidence). The Art
+   expansion added: Moldovan and Romanian calendar customs
+   and songs — Caloianul, the children's clay-doll play sung
+   for the rain gate to open, and Paparuda, the girls'
+   leaf-and-flower dance, both calling the rain after Easter
+   into June, with Călușul, Sânzienele, Rusaliile, Drăgaica
+   and Cununa grâului, the customs of the Earth and the Sun
+   (Romania student book).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -271,7 +290,12 @@ The titles, in ladder order:
    and Palo de Mayo of the Atlantic, each with its
    history, basic steps, costumes and props, for
    school presentations (Nicaragua teacher guide,
-   evidence).
+   evidence). The Art expansion added:
+   shadow theatre — the baking-paper screen in a cardboard
+   lid, black-card shadow puppets on straws and the lamp
+   behind the screen, with the art's road from India through
+   China to 18th-century Europe, hand shadows and a glove
+   puppet sewn from an old glove (Romania student book).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
@@ -294,4 +318,10 @@ The titles, in ladder order:
  The Art expansion added:
    national symbols of Central America — the national
    symbols of the Central American countries, and what
-   they stand for (Honduras student book).
+   they stand for (Honduras student book). The Art expansion added:
+   Easter in song and custom — Romania's painted eggs as a
+   symbol of life and renewal, the red egg's meaning,
+   încondeiere, the wax-pattern egg art of Bucovina and
+   Maramureș with its geometric, cosmic, floral and Christian
+   motifs set symmetrically, dyes cooked from plants, and
+   the blown-egg doll (Romania student book).

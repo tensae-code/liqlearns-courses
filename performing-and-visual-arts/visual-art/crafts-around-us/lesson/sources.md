@@ -1,6 +1,6 @@
 # Sources — Crafts Around Us
 
-countries: Ethiopia, Honduras, Samoa, Nicaragua
+countries: Ethiopia, Honduras, Samoa, Nicaragua, Romania
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -31,6 +31,8 @@ countries: Ethiopia, Honduras, Samoa, Nicaragua
 
 **Book 15:** *Manual Metodológico para la y el maestro — Expresión Cultural y Artística — Tercer grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "baja" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 16:** *Arte vizuale și abilități practice — Manual pentru clasa a III-a, Semestrul al II-lea (Visual Arts and Practical Skills, Grade 3, Semester 2)* (student book, Romanian) — Romania, Ministerul Educației și Cercetării Științifice / Editura CD Press, 2015; authors Mirela Flonta, Claudia Stupineanu, Simona Dobrescu; approved by ministerial order 5046/25.08.2015; ISBN 978-606-528-223-0 (work), 978-606-528-269-8 (Part 2), Grade 3, 48 PDF pp. STUDENT — student book. Verdict: COMPLETE. The PDF is image-only (no text layer), so it was read visually page by page from 100-DPI renders; PDF and renders deleted after filing. Cover verified: title, grade and semester match the record. Excluded per the placements: the three Recapitulare. Evaluare test pages (printed pp. 24, 34, 46) and the final evaluation test part (printed p. 47) are the book's own assessment — excluded; their companion PROJECTS (plaster vase, School Street, Hansel and Gretel set) do teach skills and are placed. The closing Dicționar (printed p. 48) is a glossary — inventory-only, named here, never stocked as parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/romania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Metal work: curved knife, sickle, pointed tool, hoe blade | Book 1, §3.1, printed p. 37 |
@@ -60,9 +62,10 @@ countries: Ethiopia, Honduras, Samoa, Nicaragua
 | Samoa — Visual Arts, Year Four — Samoan material cultural forms: keep a journal inventory of the Samoan art forms used in cultural and ritual exchanges, and describe the processes and materials used in making Samoan traditional art forms and attire (programme evidence) | Book 13, printed p. 91 |
 | Nicaragua — Working with materials from the surroundings — making art with materials gathered from the local environment (teacher guide — evidence) | Book 14, printed p. 36 |
 | Nicaragua — The plastic arts of my community and their importance — what the community's plastic arts are and why they matter to the community (teacher guide — evidence) | Book 15, printed p. 2 |
+| Romania — Portfolio: An Accessory for Mother's Bag — fold ribbon ends into little circles, press and tie them at the middle with a cord, fix a safety pin, thread beads on the cord — a handmade accessory | Book 16, printed p. 39 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Honduras).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Romania).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: the Grade 7 student book prints its pottery firing temperatures as 600–1200 °F (earthenware), 1100–1200 °F (stoneware) and 2200–2600 °F (ceramic); the lesson teaches the families by their order of heat and their qualities, as the placements describe them, without resting any question on the printed figures. The Grade 7 teacher guide is a truncated scan (body printed pp. 1–109 only); the crafts part used here sits at printed pp. 108–109, inside the surviving body, and is labelled teacher-guide evidence. Books 8 and 9 are teacher guides for grades with no student books in this set, so their parts are evidence only and are labelled so; the lesson does not rest on them.
 
-Searchable tags: crafts, handicrafts, እደ ጥበብ, metal work, pottery, dist, ድስት, jebena, ጀበና, weaving, mesob, sefed, agelgil, barchuma, earthenware, stoneware, ceramic, ምድጃ, Nicaragua
+Searchable tags: crafts, handicrafts, እደ ጥበብ, metal work, pottery, dist, ድስት, jebena, ጀበና, weaving, mesob, sefed, agelgil, barchuma, earthenware, stoneware, ceramic, ምድጃ, Nicaragua, Romania

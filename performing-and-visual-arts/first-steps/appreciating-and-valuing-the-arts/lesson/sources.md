@@ -1,6 +1,6 @@
 # Sources — Appreciating and Valuing the Arts
 
-countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania
+countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania, Romania
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania
 
 **Book 11:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 12:** *Arte vizuale și abilități practice — Manual pentru clasa a III-a, Semestrul al II-lea (Visual Arts and Practical Skills, Grade 3, Semester 2)* (student book, Romanian) — Romania, Ministerul Educației și Cercetării Științifice / Editura CD Press, 2015; authors Mirela Flonta, Claudia Stupineanu, Simona Dobrescu; approved by ministerial order 5046/25.08.2015; ISBN 978-606-528-223-0 (work), 978-606-528-269-8 (Part 2), Grade 3, 48 PDF pp. STUDENT — student book. Verdict: COMPLETE. The PDF is image-only (no text layer), so it was read visually page by page from 100-DPI renders; PDF and renders deleted after filing. Cover verified: title, grade and semester match the record. Excluded per the placements: the three Recapitulare. Evaluare test pages (printed pp. 24, 34, 46) and the final evaluation test part (printed p. 47) are the book's own assessment — excluded; their companion PROJECTS (plaster vase, School Street, Hansel and Gretel set) do teach skills and are placed. The closing Dicționar (printed p. 48) is a glossary — inventory-only, named here, never stocked as parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/romania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Aesthetic value: judging beauty | Book 1, printed pp. 127–131 |
@@ -42,9 +44,10 @@ countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania
 | Uganda — Chapter 1: Appreciation of Art and Design — understanding art and design, and the importance of studying art | Book 9, printed pp. 1–2 |
 | Albania — Listening, feeling and judging music — hearing vocal, instrumental and orchestral works, naming their form and character, and saying what feeling the music gives, in simple musical words (teacher guide — evidence) | Book 10, printed p. 17 |
 | Albania — The listening list — twenty guided hearings from the national anthem through Beethoven's Fifth, Bach, Brahms, Schubert's "Bliri", Greensleeves, Silent Night, canons by Rameau and Mozart, to Strauss waltzes (works placed by name only) (teacher guide — evidence) | Book 11, printed p. 3 |
+| Romania — Final Project: We Are All Talented! — the end-of-year little artists' gala: each pupil selects and exhibits their favourite work from the Little Artist's Portfolio, with prizes and diplomas in categories (the craziest project, the strangest drawing, the most unusual costume), the class art journal exhibited, a sale-exhibition of works to raise funds for charity, and a parade of costumes and toys made from recycled materials | Book 12, printed p. 47 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Romania).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 7 and 8 teacher-guide parts are EVIDENCE-LIMITED in the strict sense: those guides' files are truncated, so Units 4–5 are placed from their contents pages and syllabus tables only, and every such part is labelled so in its provenance — no body wording is claimed from pages that were not read. The Grade 9–10 parts stand on teacher-guide evidence (those grades have no student books). The lesson's first part rests on the Grade 7 student book, so the lesson counts as taught in 1 country (Ethiopia); every other part is evidence, labelled part by part.
 
-Searchable tags: aesthetic value, judging beauty, appreciation, valuing the arts, cultural diversity, folk art diversity, African aesthetics, aesthetic education
+Searchable tags: aesthetic value, judging beauty, appreciation, valuing the arts, cultural diversity, folk art diversity, African aesthetics, aesthetic education, Romania
