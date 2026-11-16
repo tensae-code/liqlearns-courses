@@ -1,6 +1,6 @@
 # Sources — The Second World War — the Pacific and the results
 
-countries: Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan, North Macedonia, Cuba, China, Moldova, Nicaragua, Italy, Vietnam
+countries: Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan, North Macedonia, Cuba, China, Moldova, Nicaragua, Italy, Vietnam, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 138).
 
@@ -392,4 +392,21 @@ Vietnam's own way (Book 6 — G9 History and Geography (student book, Vietnamese
 
 Vietnam's own way (Book 10 — G11 study topics (student book, Vietnamese)): the Grade 11 elective goes deep on three things — traditional art read dynasty by dynasty as national evidence, the twentieth century taught as one long argument between war and peace (with Vietnam's own wars counted inside the world's), and history carried by named people: kings, generals, poets, a physician and an encyclopaedist. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 18 countries (Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan, North Macedonia, Cuba, China, Moldova, Nicaragua, Italy, Vietnam).**
+**Acceptance count: taught in 19 countries (Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan, North Macedonia, Cuba, China, Moldova, Nicaragua, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)**
+- Title as printed: Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2354-3
+- PDF pages: 258 (cover/title page verified against the record title; byte size 31,775,416 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 54 placements — 21 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Allied counteroffensive and the total defeat of Nazi Germany; Japan's surrender — story beats: Stalingrad, Normandy and the island war turn the tide; atomic bombs end the Pacific war (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-the-pacific-and-the-results) | Greece, *Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti*, printed p. 126 |
+
+Greece's own way (Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)): the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

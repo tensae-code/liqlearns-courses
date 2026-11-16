@@ -1,6 +1,6 @@
 # Sources — Capitalism — private ownership, factories, new classes
 
-countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova, Armenia, Nicaragua, Italy, Vietnam
+countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova, Armenia, Nicaragua, Italy, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -516,4 +516,21 @@ Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian))
 
 Vietnam's own way (Book 11 — G11 History (student book, Vietnamese)): Grade 11 runs three arcs in parallel — the world's two rival systems (capitalism from its revolutions, socialism from 1917), Southeast Asia's road out of colonial rule, and Vietnam read through its wars of defence, its three great reformers, and its sea sovereignty — so the pupil's own country is always the measuring rod. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 18 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova, Armenia, Nicaragua, Italy, Vietnam).**
+**Acceptance count: taught in 19 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova, Armenia, Nicaragua, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Economic developments: the beginnings of the Industrial Revolution and the economic theories — story beats: merchants, enclosures and new machines gather capital; Smith and the physiocrats explain it (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 167 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

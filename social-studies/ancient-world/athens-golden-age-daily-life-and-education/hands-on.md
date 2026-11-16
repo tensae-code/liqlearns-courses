@@ -1,0 +1,9 @@
+# Hands-on — Athens Golden Age Daily Life And Education
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Task 1
+List the parts of this story in order — Athens Golden Age Daily Life And Education — and say what changed in each part.
+
+## Task 2
+Draw or write the key scene of the first part, Ch. 22 The daily life and education of the Athenians, from the story as the book tells it, and label the people and the place in it.

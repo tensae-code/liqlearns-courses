@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Ottomans
 
-countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova, Armenia, Italy
+countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova, Armenia, Italy, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -618,4 +618,97 @@ Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian))
 
 Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)): Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 19 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova, Armenia, Italy).**
+**Acceptance count: taught in 20 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova, Armenia, Italy, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 5 — G5 History student book (student book, Greek)**
+- Title as printed: Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2584-4 (book code 0-10-0118)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,126,042 bytes, exactly matching the books.json size_bytes)
+- Verdict: COMPLETE
+- Tally: 43 placements — 12 to existing lessons, 31 NEW LESSON NEEDED
+- Greece's own way: a thousand years of Byzantium told as the biography of one city — Constantinople is founded, walled, rioted in, besieged, lost in 1204, regained and finally lost in 1453 — and the book opens by teaching children how to work with a history book and its sources before any story begins.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 33 The Ottoman Turks conquer Byzantine lands — story beats: the Ottomans cross into Europe, take Adrianople and ring the last Byzantine lands on every side (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)*, printed p. 101 |
+
+Greece's own way (Book 5 — G5 History student book (student book, Greek)): a thousand years of Byzantium told as the biography of one city — Constantinople is founded, walled, rioted in, besieged, lost in 1204, regained and finally lost in 1453 — and the book opens by teaching children how to work with a history book and its sources before any story begins. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G5 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2585-1 (book code 0-10-0119)
+- PDF pages: 58 (cover/title page verified against the record title; 4,306,687 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE (workbook has no exercise section for student-book Unit 37, Byzantine Cyprus — it passes straight from Unit 36 to Unit 38)
+- Tally: 45 placements — 13 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: the workbook is source-work — matching emperors' acts to results, reading source texts and pictures, and comparing then with now (how did the people reach the emperor then; how do we reach our rulers today).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 33 Ottomans take Byzantine lands exercises — story beats: map work follows the Ottoman crossing into Europe (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)*, printed p. 44 |
+
+Greece's own way (Book 6 — G5 History workbook (workbook, Greek)): the workbook is source-work — matching emperors' acts to results, reading source texts and pictures, and comparing then with now (how did the people reach the emperor then; how do we reach our rulers today). That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14 — G8 Medieval & Modern History student book (student book, Greek)**
+- Title as printed: Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2720-6 (book code 0-21-0087)
+- PDF pages: 154 (cover/title page verified against the record title; 33,113,265 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 4.III.1 Expansion of the Turks and last efforts to check them — story beats: the restored empire shrinks to a city-state as Ottomans take the Balkans and emperors beg in western courts (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Greece, *Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)*, printed p. 65 |
+
+Greece's own way (Book 14 — G8 Medieval & Modern History student book (student book, Greek)): Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G9 History Thematic Folder: Heraklion (teacher/classroom dossier, Greek)**
+- Title as printed: Θεματικός Φάκελος — Από τη Βενετοκρατία στην Οθωμανική κυριαρχία: Το Ηράκλειο Κρήτης (Thematic Folder — From Venetian Rule to Ottoman Domination: Heraklion, Crete), Γ' Γυμνασίου
+- Grade: 9 (student/teacher: TEACHER — a source dossier with worksheets for classroom use; the record lists it as teacher)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2020; ISBN 978-960-06-6128-6
+- PDF pages: 58 (cover/title page verified against the record title; byte size 3,494,602 matches the record exactly; the books.json tree route 404'd and no release asset could be located under the pushed naming, so the identical ministry PDF was read from the record's own source_url — see library debts)
+- Verdict: COMPLETE
+- Tally: 7 placements — 4 to existing lessons, 3 NEW LESSON NEEDED
+- Greece's own way: a whole dossier teaches history through one city: five worksheets, 56 numbered primary and secondary sources, group work and a research question — local history as the model for investigating any Greek town.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Worksheet 3: The Ottomans in Heraklion (17th–18th centuries) — story beats: a conquered city is re-founded as an Ottoman town — new rulers, converts, markets and monuments over the Venetian bones (teacher folder — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Greece, *Θεματικός Φάκελος — Από τη Βενετοκρατία στην Οθωμανική κυριαρχία: Το Ηράκλειο Κρήτης (Thematic Folder — From Venetian Rule to Ottoman Domination: Heraklion, Crete), Γ' Γυμνασίου*, printed p. 26 |
+
+Greece's own way (Book 3 — G9 History Thematic Folder: Heraklion (teacher/classroom dossier, Greek)): a whole dossier teaches history through one city: five worksheets, 56 numbered primary and secondary sources, group work and a research question — local history as the model for investigating any Greek town. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Ottoman Empire: its peak and its decline — story beats: Suleiman's empire spans three continents, then slowly loses ground to a changing Europe (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 6 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Ottomans and their rapid advance — story beats: a frontier beylik crosses into Europe and swallows the Balkans piece by piece (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 83 |
+| Greece part — The decline of the Ottoman Empire — story beats: defeats, capitulations and reform attempts mark the empire's long 18th century (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 184 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

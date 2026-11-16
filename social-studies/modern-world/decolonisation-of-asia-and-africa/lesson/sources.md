@@ -1,6 +1,6 @@
 # Sources — The decolonisation of Asia and Africa
 
-countries: Bolivia, Cambodia, Palestine, Nicaragua, Honduras
+countries: Bolivia, Cambodia, Palestine, Nicaragua, Honduras, Greece
 
 **Book 4 (bol-g12-student-sec6):** *Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia. Title as printed: Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva (cover: Área Ciencias Sociales). Grade: Grade 12 (student/teacher: STUDENT). Publisher: Ministerio de Educación de Bolivia; year not printed in the held portion; no ISBN printed. PDF pages: 126 (cover verified against the record title; the held file carries printed pp. 350–474, the later portion of the year's text as released, read in full). Verdict: PARTIAL — printed pp. 350–474 of the Secundaria 6 text; earlier printed pages are not in this file. Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED. Non-History parts (named, not placed): the Census (printed pp. 350–354 — Civics); globalisation and McLuhan's global village (printed p. 375 — Geography/media); geographic theory and scales (printed pp. 385–391 — Geography); identity, discrimination, youth political rights, human trafficking and child/adolescent labour law (printed pp. 447–463 — Civics); currency, inflation and monetary policy (printed pp. 467–473 — economics). Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
 
@@ -138,4 +138,66 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 
 Honduras's own way (Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)): the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 5 countries (Bolivia, Cambodia, Palestine, Nicaragua, Honduras).**
+**Acceptance count: taught in 6 countries (Bolivia, Cambodia, Palestine, Nicaragua, Honduras, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 16 — G9 Modern & Contemporary History student book (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2774-9 (book code 0-21-0151)
+- PDF pages: 194 (cover/title page verified against the record title; 22,275,331 bytes via grab.py release route — the books.json record for this book is the gr-b group's paired record; the TSV release asset is the same book)
+- Verdict: COMPLETE
+- Tally: 59 placements — 21 to existing lessons, 38 NEW LESSON NEEDED
+- Greece's own way: the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — §52 The end of colonialism and the emergence of the Third World — story beats: India, Algeria, Vietnam — the empires dissolve and a Third World claims the UN's stage (History expansion, 2026-11-15; original placement slug: modern-world/decolonisation-and-the-third-world) | Greece, *Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)*, printed p. 144 |
+
+Greece's own way (Book 16 — G9 Modern & Contemporary History student book (student book, Greek)): the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 1 — G9 Modern & Contemporary History (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2774-9
+- PDF pages: 194 (cover/title page verified against the record title; byte size 22,275,331 matches the record exactly; grabbed via the mid-size-books release asset after the books.json tree route returned 404)
+- Verdict: COMPLETE
+- Tally: 70 placements — 25 to existing lessons, 45 NEW LESSON NEEDED
+- Greece's own way: world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The end of colonialism and the emergence of the Third World — story beats: Asia and Africa throw off empire in one generation and try to stand between the two blocs (History expansion, 2026-11-15; original placement slug: modern-world/decolonisation-and-the-third-world) | Greece, *Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras*, printed p. 144 |
+
+Greece's own way (Book 1 — G9 Modern & Contemporary History (student book, Greek)): world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Postwar Africa and Asia — story beats: Ghana to Algeria, India to Vietnam — empire ends and new states seek their own road (History expansion, 2026-11-15; original placement slug: modern-world/decolonisation-and-the-third-world) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 135 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)**
+- Title as printed: Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2354-3
+- PDF pages: 258 (cover/title page verified against the record title; byte size 31,775,416 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 54 placements — 21 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Decolonisation and the Third World — story beats: Bandung and the Non-Aligned Movement try to give the new states of Asia and Africa a third road (History expansion, 2026-11-15; original placement slug: modern-world/decolonisation-and-the-third-world) | Greece, *Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti*, printed p. 151 |
+
+Greece's own way (Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)): the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

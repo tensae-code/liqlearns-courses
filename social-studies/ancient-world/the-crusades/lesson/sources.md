@@ -1,6 +1,6 @@
 # Sources — The Crusades
 
-countries: Armenia, Nicaragua
+countries: Armenia, Nicaragua, Greece
 
 **Book A1 — G7 World History student (student book, Armenian)**
 - Title as printed: «Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan
@@ -40,4 +40,21 @@ Searchable tags: Armenia, The Crusades, ancient-world/the-crusades, History expa
 
 Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 2 countries (Armenia, Nicaragua).**
+**Acceptance count: taught in 3 countries (Armenia, Nicaragua, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Crusades — story beats: western knights march east to free the Holy Land and found fragile states among older powers (History expansion, 2026-11-15; original placement slug: ancient-world/the-crusades) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 65 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

@@ -1,6 +1,6 @@
 # Sources — Arab-Islamic civilisation — science, literature and art
 
-countries: Egypt, Libya, Yemen, Jordan
+countries: Egypt, Libya, Yemen, Jordan, Greece
 
 **Book 4:** *الدراسات الاجتماعية — مصر وعلاقتها بآسيا وأوروبا (الأرض والحضارة والتنمية) (Social Studies — Egypt and its Relations with Asia and Europe: Land, Civilisation and Development)* (student book, Arabic) — Egypt. Grade: Grade 8 (Second Preparatory), Term 1 (student book). Publisher: Ministry of Education and Technical Education, Egypt (Educational Content Sector; Salah al-Talameezh); year 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 106 (printed folios match the contents page numbers; image-only scan read as 4-up page sheets; the History units read in full, Geography units identified from the contents). Source note: the targets marked this book in_pushed, but it is absent from the repo tree — it was read from its recorded ministry source_url at the exact recorded size, and the PDF has been staged at its recorded phase3-staging path under the push-don't-delete rule. Verdict: COMPLETE (History parts). Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1, Natural Features of the Continents of Asia and Europe (location and surface features; minerals and energy sources) and Unit 3, Environmental Systems in Asia and Europe (forest systems, grassland and desert systems, water environmental systems) — Geography. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -104,6 +104,23 @@ Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/arab-islamic
 
 Jordan's own way (Book 22 — History, Grade 12, Term 1 (تاريخ، الصف الثاني عشر، الفصل الأول)): the world is read from Amman — every civilisation unit closes by tying its subject to Jordan (Jordan–China relations since 1977, Jordan–Pakistan/India ties, Jordan–USA relations since 1949), and the Arab Islamic civilisation is taught as a working system of institutions (caliph, wazir, diwan, qadi, fleet, market inspector) rather than as a list of conquests. That way is stocked here as the way Jordan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 4 countries (Egypt, Libya, Yemen, Jordan).**
+**Acceptance count: taught in 5 countries (Egypt, Libya, Yemen, Jordan, Greece).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/arab-islamic-civilisation-science-literature-and-art
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Arab civilisation — story beats: Baghdad's scholars translate the ancients and advance medicine, algebra and astronomy (History expansion, 2026-11-15; original placement slug: ancient-world/arab-civilisation-science-and-learning) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 110 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

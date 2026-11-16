@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — textiles, steam and rail
 
-countries: Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Honduras, Italy, Vietnam
+countries: Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Honduras, Italy, Vietnam, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 131).
 
@@ -453,4 +453,21 @@ Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese
 
 Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 19 countries (Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Honduras, Italy, Vietnam).**
+**Acceptance count: taught in 20 countries (Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Honduras, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Industrial Revolution: mechanisation and transport — story beats: factories gather workers around machines; railways and steamships shrink the world (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-textiles-steam-and-rail) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 57 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

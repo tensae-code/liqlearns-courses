@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — China
 
-countries: Ethiopia, Australia, Malaysia, Ecuador, India, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Colombia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
+countries: Ethiopia, Australia, Malaysia, Ecuador, India, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Colombia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -773,4 +773,51 @@ Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 
 
 Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese)): Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 28 countries (Ethiopia, Australia, Malaysia, Ecuador, India, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Colombia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**
+**Acceptance count: taught in 29 countries (Ethiopia, Australia, Malaysia, Ecuador, India, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Colombia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — China — story beats: river farmers become an empire under one script and one bureaucracy, walled against the steppe (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-china) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 281 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)**
+- Title as printed: Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2946-0
+- PDF pages: 290 (cover/title page verified against the record title; byte size 23,175,326 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 24 placements — 8 to existing lessons, 16 NEW LESSON NEEDED
+- Greece's own way: the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 3.1: Chinese civilisation — story beats: lacquer, porcelain, silk and the scholar's simple furniture set a standard Europe will chase for centuries (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-china) | Greece, *Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos*, printed p. 79 |
+
+Greece's own way (Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)): the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G11/G12 EPAL History of Art (student book, Greek)**
+- Title as printed: Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou
+- Grade: 11–12 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2391-8
+- PDF pages: 370 (cover/title page verified against the record title; byte size 62,196,715 matches the record exactly; the grade-12 record is a cross-reference to this same book and is counted once)
+- Verdict: COMPLETE
+- Tally: 27 placements — 9 to existing lessons, 18 NEW LESSON NEEDED
+- Greece's own way: a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 9: The art of China — story beats: calligraphy, ink landscape and porcelain prize the scholar's brush over the monument (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-china) | Greece, *Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou*, printed p. 119 |
+
+Greece's own way (Book 9 — G11/G12 EPAL History of Art (student book, Greek)): a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

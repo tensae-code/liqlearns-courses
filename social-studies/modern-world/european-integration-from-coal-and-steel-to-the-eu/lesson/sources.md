@@ -1,0 +1,38 @@
+# Sources — European Integration From Coal And Steel To The Eu
+
+countries: Greece
+
+**Book 1 — G9 Modern & Contemporary History (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2774-9
+- PDF pages: 194 (cover/title page verified against the record title; byte size 22,275,331 matches the record exactly; grabbed via the mid-size-books release asset after the books.json tree route returned 404)
+- Verdict: COMPLETE
+- Tally: 70 placements — 25 to existing lessons, 45 NEW LESSON NEEDED
+- Greece's own way: world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Milestones in Europe's unification efforts (1951–2001) — story beats: coal and steel first, then a common market, a single market and a single currency — rivals choose to grow together (History expansion, 2026-11-15; original placement slug: modern-world/european-integration-from-coal-and-steel-to-the-eu) | Greece, *Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras*, printed p. 166 |
+| Greece part — Greece and Europe's unification; Greece as an EU member state — story beats: Greece joins in 1981, struggles to keep up, adopts the euro and argues over what membership costs and gives (History expansion, 2026-11-15; original placement slug: modern-world/european-integration-from-coal-and-steel-to-the-eu) | Greece, *Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras*, printed p. 169 |
+
+Greece's own way (Book 1 — G9 Modern & Contemporary History (student book, Greek)): world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)**
+- Title as printed: Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2354-3
+- PDF pages: 258 (cover/title page verified against the record title; byte size 31,775,416 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 54 placements — 21 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The road to European unification: realities and prospects — story beats: from the Coal and Steel Community to the European Union — former enemies pool sovereignty piece by piece (History expansion, 2026-11-15; original placement slug: modern-world/european-integration-from-coal-and-steel-to-the-eu) | Greece, *Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti*, printed p. 154 |
+
+Greece's own way (Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)): the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Greece).**
+
+Searchable tags: Greece, European Integration From Coal And Steel To The Eu, modern-world/european-integration-from-coal-and-steel-to-the-eu, History expansion 2026-11-15

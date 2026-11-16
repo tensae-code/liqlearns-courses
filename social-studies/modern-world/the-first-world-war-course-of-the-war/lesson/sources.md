@@ -1,6 +1,6 @@
 # Sources — The First World War — course of the war
 
-countries: Ethiopia, United States, Montenegro, Dominican Republic, Pakistan, Iran, Cambodia, South Sudan, Sri Lanka, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, China, Moldova, Armenia, Honduras, Italy
+countries: Ethiopia, United States, Montenegro, Dominican Republic, Pakistan, Iran, Cambodia, South Sudan, Sri Lanka, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, China, Moldova, Armenia, Honduras, Italy, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 134).
 
@@ -576,4 +576,21 @@ Italy's own way (Book 5 — La storia. Progettare il futuro, Vol. 3 (student boo
 
 Italy's own way (Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)): Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 21 countries (Ethiopia, United States, Montenegro, Dominican Republic, Pakistan, Iran, Cambodia, South Sudan, Sri Lanka, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, China, Moldova, Armenia, Honduras, Italy).**
+**Acceptance count: taught in 22 countries (Ethiopia, United States, Montenegro, Dominican Republic, Pakistan, Iran, Cambodia, South Sudan, Sri Lanka, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, China, Moldova, Armenia, Honduras, Italy, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)**
+- Title as printed: Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2354-3
+- PDF pages: 258 (cover/title page verified against the record title; byte size 31,775,416 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 54 placements — 21 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The conduct and outcome of the war (1914–1918) — story beats: trenches, submarines and total mobilisation grind four empires down until the Central Powers collapse (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-course-of-the-war) | Greece, *Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti*, printed p. 78 |
+
+Greece's own way (Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)): the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

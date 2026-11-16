@@ -1,6 +1,6 @@
 # Sources — 1789 — the French Revolution breaks out
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
+countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1018,4 +1018,66 @@ Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese
 
 Vietnam's own way (Book 11 — G11 History (student book, Vietnamese)): Grade 11 runs three arcs in parallel — the world's two rival systems (capitalism from its revolutions, socialism from 1917), Southeast Asia's road out of colonial rule, and Vietnam read through its wars of defence, its three great reformers, and its sea sovereignty — so the pupil's own country is always the measuring rod. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 33 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**
+**Acceptance count: taught in 34 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 16 — G9 Modern & Contemporary History student book (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2774-9 (book code 0-21-0151)
+- PDF pages: 194 (cover/title page verified against the record title; 22,275,331 bytes via grab.py release route — the books.json record for this book is the gr-b group's paired record; the TSV release asset is the same book)
+- Verdict: COMPLETE
+- Tally: 59 placements — 21 to existing lessons, 38 NEW LESSON NEEDED
+- Greece's own way: the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — §3 The outbreak and course of the French Revolution (1789–1794) — story beats: the Bastille, the Declaration, the king's flight and execution, and the Revolution devouring its children in the Terror (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Greece, *Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)*, printed p. 16 |
+
+Greece's own way (Book 16 — G9 Modern & Contemporary History student book (student book, Greek)): the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 1 — G9 Modern & Contemporary History (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2774-9
+- PDF pages: 194 (cover/title page verified against the record title; byte size 22,275,331 matches the record exactly; grabbed via the mid-size-books release asset after the books.json tree route returned 404)
+- Verdict: COMPLETE
+- Tally: 70 placements — 25 to existing lessons, 45 NEW LESSON NEEDED
+- Greece's own way: world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The French revolution breaks out and develops (1789–1794) — story beats: the Bastille falls, the king falls, the republic declares the rights of man and turns on its own (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Greece, *Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras*, printed p. 16 |
+
+Greece's own way (Book 1 — G9 Modern & Contemporary History (student book, Greek)): world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The French Revolution: outbreak, measures, Terror and Directory — story beats: hunger and ideas storm the Bastille; the republic guillotines its enemies and tires itself out (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 11 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The French Revolution (1789–1815, first part) — story beats: the Estates-General becomes a National Assembly and a revolution remakes France (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 174 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

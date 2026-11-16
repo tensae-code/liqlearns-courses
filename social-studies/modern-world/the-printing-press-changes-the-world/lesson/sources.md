@@ -1,6 +1,6 @@
 # Sources — The Printing Press Changes The World
 
-countries: Armenia, Italy
+countries: Armenia, Italy, Greece
 
 **Book A5 — G7 Social Science student (student book, Armenian) — COMBINED SUBJECT: History parts placed; other parts named, not placed**
 - Title as printed: «Հասարակագիտություն 7. Դասագիրք հանրակրթական դպրոցի համար» (Social Science 7, textbook for general schools) — Hrach Bayadyan, Davit Stepanyan, Vahram Soghomonyan
@@ -70,4 +70,21 @@ Italy's own way (Book 1 — La storia. Progettare il futuro, Vol. 1 (student boo
 
 Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)): Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 2 countries (Armenia, Italy).**
+**Acceptance count: taught in 3 countries (Armenia, Italy, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 10 — G11 EPAL History of the Graphic Arts (student book, Greek)**
+- Title as printed: Ιστορία των Γραφικών Τεχνών (History of the Graphic Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Manolis Vithynos
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2939-2
+- PDF pages: 266 (cover/title page verified against the record title; byte size 38,548,901 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 22 placements — 3 to existing lessons, 19 NEW LESSON NEEDED
+- Greece's own way: written communication is the thread — from cave signs and Linear B through Gutenberg to the computer — and Greek material (the Phaistos disc, the alphabet, Byzantine mosaics) sits at the centre of the world story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 9: Printing and Gutenberg — story beats: a Mainz goldsmith combines movable type, oil ink and the press, and the book stops being a treasure and becomes a crowd (History expansion, 2026-11-15; original placement slug: modern-world/gutenberg-and-the-printing-press) | Greece, *Ιστορία των Γραφικών Τεχνών (History of the Graphic Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Manolis Vithynos*, printed p. 100 |
+
+Greece's own way (Book 10 — G11 EPAL History of the Graphic Arts (student book, Greek)): written communication is the thread — from cave signs and Linear B through Gutenberg to the computer — and Greek material (the Phaistos disc, the alphabet, Byzantine mosaics) sits at the centre of the world story. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

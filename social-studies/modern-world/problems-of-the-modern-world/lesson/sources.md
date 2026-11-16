@@ -1,6 +1,6 @@
 # Sources — Problems Of The Modern World
 
-countries: Armenia
+countries: Armenia, Greece
 
 **Book A14 — G9 World History student (student book, Armenian)**
 - Title as printed: «Համաշխարհային պատմություն. 9-րդ դասարան. Հանրակրթական հիմնական դպրոցի դասագիրք» (World History, Grade 9: textbook for general basic schools) — Aram Nazaryan, Aram Kosyan, Vahram Petrosyan; methodical apparatus by Armine Sargsyan
@@ -41,6 +41,38 @@ Armenia's own way (Book A14 — G9 World History student (student book, Armenian
 Armenia's own way (Book B1 — G9 World History Teacher (teacher guide, Armenian)): Grade 9 World History is taught as five big themes running from the crisis of civilisation before 1914 to the scientific-technical revolution, with the teacher guide carrying the full state standard, Bloom-verb methodology, primary-source work and a 68-lesson thematic plan (2 hrs/week) rather than lesson text. That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 Armenia's own way (Book B11 — G12 World History Student (student book, Armenian)): the final school year drops chronology altogether and organises world history by six cross-cutting themes — Cooperation, Conflict, War, Problems of all mankind, The world at the modern stage, World culture in the newest period — each traced from the ancient world to today, with the Armenian Genocide as the anchor case of the genocide chapter. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 1 country (Armenia).**
+**Acceptance count: taught in 2 countries (Armenia, Greece).**
 
 Searchable tags: Armenia, Problems Of The Modern World, modern-world/problems-of-the-modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Problems and hopes: Europe today and the problems seeking solutions — story beats: overpopulation, inequality, refugees, racism, pollution — the book ends by handing today's problems to the learners (History expansion, 2026-11-15; original placement slug: modern-world/the-worlds-problems-today) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 147 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)**
+- Title as printed: Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2354-3
+- PDF pages: 258 (cover/title page verified against the record title; byte size 31,775,416 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 54 placements — 21 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Epilogue: the challenges of the 21st century — story beats: globalisation, terrorism after 11 September 2001, ecology movements and NGOs hand the learners an unfinished world (History expansion, 2026-11-15; original placement slug: modern-world/the-worlds-problems-today) | Greece, *Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti*, printed p. 228 |
+
+Greece's own way (Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)): the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

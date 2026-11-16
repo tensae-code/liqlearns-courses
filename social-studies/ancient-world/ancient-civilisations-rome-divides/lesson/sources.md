@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome divides
 
-countries: Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan, Sri Lanka, Iraq, Uzbekistan, North Macedonia, Cuba, Venezuela, Armenia, Honduras
+countries: Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan, Sri Lanka, Iraq, Uzbekistan, North Macedonia, Cuba, Venezuela, Armenia, Honduras, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -356,4 +356,85 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 
 Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 18 countries (Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan, Sri Lanka, Iraq, Uzbekistan, North Macedonia, Cuba, Venezuela, Armenia, Honduras).**
+**Acceptance count: taught in 19 countries (Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan, Sri Lanka, Iraq, Uzbekistan, North Macedonia, Cuba, Venezuela, Armenia, Honduras, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 5 — G5 History student book (student book, Greek)**
+- Title as printed: Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2584-4 (book code 0-10-0118)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,126,042 bytes, exactly matching the books.json size_bytes)
+- Verdict: COMPLETE
+- Tally: 43 placements — 12 to existing lessons, 31 NEW LESSON NEEDED
+- Greece's own way: a thousand years of Byzantium told as the biography of one city — Constantinople is founded, walled, rioted in, besieged, lost in 1204, regained and finally lost in 1453 — and the book opens by teaching children how to work with a history book and its sources before any story begins.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 5 Great changes in the empire's administration — story beats: Diocletian and Constantine remake the empire's government, army and coinage to survive its crises (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)*, printed p. 21 |
+| Greece part — Unit 9 The Empire is divided into Eastern and Western — story beats: Theodosius's two sons split the empire for good; the West will fall, the Greek East will become Byzantium (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)*, printed p. 31 |
+
+Greece's own way (Book 5 — G5 History student book (student book, Greek)): a thousand years of Byzantium told as the biography of one city — Constantinople is founded, walled, rioted in, besieged, lost in 1204, regained and finally lost in 1453 — and the book opens by teaching children how to work with a history book and its sources before any story begins. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G5 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2585-1 (book code 0-10-0119)
+- PDF pages: 58 (cover/title page verified against the record title; 4,306,687 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE (workbook has no exercise section for student-book Unit 37, Byzantine Cyprus — it passes straight from Unit 36 to Unit 38)
+- Tally: 45 placements — 13 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: the workbook is source-work — matching emperors' acts to results, reading source texts and pictures, and comparing then with now (how did the people reach the emperor then; how do we reach our rulers today).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 5 Administration changes exercises — story beats: exercises follow Diocletian's and Constantine's remaking of the empire (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)*, printed p. 8 |
+| Greece part — Unit 9 Empire divided exercises — story beats: map work splits the empire between Theodosius's sons, East against West (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)*, printed p. 12 |
+
+Greece's own way (Book 6 — G5 History workbook (workbook, Greek)): the workbook is source-work — matching emperors' acts to results, reading source texts and pictures, and comparing then with now (how did the people reach the emperor then; how do we reach our rulers today). That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G7 Ancient History student book (student book, Greek)**
+- Title as printed: Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2655-1 (book code 0-21-0007)
+- PDF pages: 154 (cover/title page verified against the record title; 24,095,964 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 49 placements — 15 to existing lessons, 34 NEW LESSON NEEDED
+- Greece's own way: the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. J4 The 3rd century AD: the Roman Empire in crisis — story beats: soldier-emperors, invasion and inflation nearly break the empire before Diocletian's surgery (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 144 |
+
+Greece's own way (Book 11 — G7 Ancient History student book (student book, Greek)): the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14 — G8 Medieval & Modern History student book (student book, Greek)**
+- Title as printed: Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2720-6 (book code 0-21-0087)
+- PDF pages: 154 (cover/title page verified against the record title; 33,113,265 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 1.I.2 Developments to the early 6th century — story beats: the empire splits, the West falls to Germanic kingdoms, and the East pays, fights and survives (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Greece, *Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)*, printed p. 10 |
+
+Greece's own way (Book 14 — G8 Medieval & Modern History student book (student book, Greek)): Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Rome completes its expansion (200–31 BC) — story beats: Roman legions take the East and the West in turn until the whole Mediterranean is one state's lake (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 184 |
+| Greece part — The consequences of the conquests — story beats: cheap grain and slaves ruin Italy's small farmers; reformers try and die, Italy unifies, and generals march armies into civil war (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 190 |
+| Greece part — The crisis of the Empire in the 3rd century — story beats: emperors are made and murdered by armies, money fails, society strains — the empire nearly breaks before 300 (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 228 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

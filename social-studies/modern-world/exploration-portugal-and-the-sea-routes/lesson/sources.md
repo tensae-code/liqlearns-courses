@@ -1,6 +1,6 @@
 # Sources — Exploration — Portugal and the sea routes to India
 
-countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba, China, Armenia, Italy
+countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba, China, Armenia, Italy, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -498,4 +498,51 @@ Italy's own way (Book 1 — La storia. Progettare il futuro, Vol. 1 (student boo
 
 Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)): Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 20 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba, China, Armenia, Italy).**
+**Acceptance count: taught in 21 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba, China, Armenia, Italy, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 8 — G6 History student book (student book, Greek)**
+- Title as printed: Ιστορία ΣΤ΄ Δημοτικού — Ιστορία του Νεότερου και Σύγχρονου Κόσμου (History, Grade 6 Primary: History of the Modern and Contemporary World)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: 2018 edition; ISBN 978-960-06-3199-9 (book code 0-10-0182)
+- PDF pages: 242 (cover/title page verified against the record title; read from the record's ministry source_url — 45,446,905 bytes, exactly matching the books.json size_bytes)
+- Verdict: COMPLETE
+- Tally: 49 placements — 4 to existing lessons, 45 NEW LESSON NEEDED
+- Greece's own way: Europe gets three chapters; Greece gets forty-six. After a short European runway (Renaissance, Discoveries, 1776/1789), the book becomes a national epic — Ottoman centuries, the 1821 Revolution hero by hero and battle by battle, then state-building to the EU — every chapter paired with a "The sources narrate" dossier of letters, songs and memoirs.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit A, ch. 2 From the Geographical Discoveries to the Enlightenment — story beats: bold sailors with new geography sail to unknown lands — Columbus's America on the map — and reason lights the road to the Enlightenment (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Greece, *Ιστορία ΣΤ΄ Δημοτικού — Ιστορία του Νεότερου και Σύγχρονου Κόσμου (History, Grade 6 Primary: History of the Modern and Contemporary World)*, printed p. 16 |
+
+Greece's own way (Book 8 — G6 History student book (student book, Greek)): Europe gets three chapters; Greece gets forty-six. After a short European runway (Renaissance, Discoveries, 1776/1789), the book becomes a national epic — Ottoman centuries, the 1821 Revolution hero by hero and battle by battle, then state-building to the EU — every chapter paired with a "The sources narrate" dossier of letters, songs and memoirs. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14 — G8 Medieval & Modern History student book (student book, Greek)**
+- Title as printed: Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2720-6 (book code 0-21-0087)
+- PDF pages: 154 (cover/title page verified against the record title; 33,113,265 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 7.I.1 The Discoveries — story beats: Portuguese caravels round Africa while Columbus stumbles on America — Europe's horizon doubles in one lifetime (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Greece, *Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)*, printed p. 110 |
+
+Greece's own way (Book 14 — G8 Medieval & Modern History student book (student book, Greek)): Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Discoveries — story beats: Portuguese caravels round Africa; Columbus stumbles on America; the oceans become highways (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 120 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

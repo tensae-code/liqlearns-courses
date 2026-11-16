@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — India's order and gifts
 
-countries: Ethiopia, Australia, Eritrea, India, Pakistan, Sri Lanka, Uzbekistan, Vietnam
+countries: Ethiopia, Australia, Eritrea, India, Pakistan, Sri Lanka, Uzbekistan, Vietnam, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -148,4 +148,21 @@ Searchable tags: Uzbekistan, History expansion 2026-11-15, ancient-world/ancient
 
 Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese)): the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 8 countries (Ethiopia, Australia, Eritrea, India, Pakistan, Sri Lanka, Uzbekistan, Vietnam).**
+**Acceptance count: taught in 9 countries (Ethiopia, Australia, Eritrea, India, Pakistan, Sri Lanka, Uzbekistan, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — India's history and civilisation (second part) — story beats: Mauryan and Gupta rulers unite the land while Buddhism and Hindu learning spread along the trade roads (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-indias-order-and-gifts) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 275 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

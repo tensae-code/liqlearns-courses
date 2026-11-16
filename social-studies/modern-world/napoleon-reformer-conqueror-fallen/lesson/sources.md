@@ -1,6 +1,6 @@
 # Sources — Napoleon — reformer, conqueror, fallen
 
-countries: Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Italy
+countries: Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Italy, Greece
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -467,4 +467,66 @@ Italy's own way (Book 3 — La storia. Progettare il futuro, Vol. 2 (student boo
 
 Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)): Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 18 countries (Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Italy).**
+**Acceptance count: taught in 19 countries (Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Italy, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 16 — G9 Modern & Contemporary History student book (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2774-9 (book code 0-21-0151)
+- PDF pages: 194 (cover/title page verified against the record title; 22,275,331 bytes via grab.py release route — the books.json record for this book is the gr-b group's paired record; the TSV release asset is the same book)
+- Verdict: COMPLETE
+- Tally: 59 placements — 21 to existing lessons, 38 NEW LESSON NEEDED
+- Greece's own way: the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — §4 The final phase of the French Revolution (1794–1799) and the Napoleonic era (1799–1815) — story beats: Thermidor ends the Terror, Bonaparte's coup turns revolution into empire, and Waterloo ends it (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | Greece, *Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)*, printed p. 20 |
+
+Greece's own way (Book 16 — G9 Modern & Contemporary History student book (student book, Greek)): the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 1 — G9 Modern & Contemporary History (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2774-9
+- PDF pages: 194 (cover/title page verified against the record title; byte size 22,275,331 matches the record exactly; grabbed via the mid-size-books release asset after the books.json tree route returned 404)
+- Verdict: COMPLETE
+- Tally: 70 placements — 25 to existing lessons, 45 NEW LESSON NEEDED
+- Greece's own way: world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The last phase of the revolution and the Napoleonic age (1794–1815) — story beats: chaos opens the door to a young general who crowns himself emperor, remakes Europe by war and code, and falls at Waterloo (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | Greece, *Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras*, printed p. 20 |
+
+Greece's own way (Book 1 — G9 Modern & Contemporary History (student book, Greek)): world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Napoleon Bonaparte (1769–1821) and the meaning of the French Revolution — story beats: the Revolution's general becomes emperor, exports its code by bayonet, and leaves Europe both freer and exhausted (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 14 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Napoleonic period (within the revolution chapter) — story beats: Bonaparte's armies carry the Code across Europe and wake the nationalism that destroys him (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 174 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

@@ -1,6 +1,6 @@
 # Sources — The Reformation — Luther and the spread of Protestantism
 
-countries: Ethiopia, France, Costa Rica, Belarus, Montenegro, Finland, Dominican Republic, Pakistan, Mongolia, Mozambique, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam
+countries: Ethiopia, France, Costa Rica, Belarus, Montenegro, Finland, Dominican Republic, Pakistan, Mongolia, Mozambique, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -437,4 +437,66 @@ Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian))
 
 Vietnam's own way (Book 4 — G7 History and Geography (student book, Vietnamese)): medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo). That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 19 countries (Ethiopia, France, Costa Rica, Belarus, Montenegro, Finland, Dominican Republic, Pakistan, Mongolia, Mozambique, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam).**
+**Acceptance count: taught in 20 countries (Ethiopia, France, Costa Rica, Belarus, Montenegro, Finland, Dominican Republic, Pakistan, Mongolia, Mozambique, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 14 — G8 Medieval & Modern History student book (student book, Greek)**
+- Title as printed: Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2720-6 (book code 0-21-0087)
+- PDF pages: 154 (cover/title page verified against the record title; 33,113,265 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 7.I.3 The Religious Reformation — story beats: Luther's theses split the western Church and redraw Europe's confessional map in blood (History expansion, 2026-11-15; original placement slug: modern-world/the-reformation-luther-and-protestantism) | Greece, *Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)*, printed p. 120 |
+
+Greece's own way (Book 14 — G8 Medieval & Modern History student book (student book, Greek)): Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G9 Ecclesiastical History Topics (student book, Greek)**
+- Title as printed: Θέματα Εκκλησιαστικής Ιστορίας — Εκκλησιαστική Ιστορία και Πατέρες και Θεολόγοι της Εκκλησίας, Τεύχος Α' (Topics of Ecclesiastical History, G' Ecclesiastical Gymnasium), by Dimitrios N. Moschos & Evangelia Voulgaraki
+- Grade: 9 (student/teacher: STUDENT) — ecclesiastical school track
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2024; ISBN 978-960-06-6217-7
+- PDF pages: 114 (cover/title page verified against the record title; byte size 13,445,336 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 13 placements — 4 to existing lessons, 9 NEW LESSON NEEDED
+- Greece's own way: church history is taught as the story of a travelling community — the preface pictures the Church as a ship the learners themselves crew — and every chapter is framed as a question the community had to answer, not a list of dates.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Reformation — story beats: Luther's protest against indulgences becomes a break with Rome and remakes the map of European Christianity (History expansion, 2026-11-15; original placement slug: modern-world/the-reformation-luther-and-protestantism) | Greece, *Θέματα Εκκλησιαστικής Ιστορίας — Εκκλησιαστική Ιστορία και Πατέρες και Θεολόγοι της Εκκλησίας, Τεύχος Α' (Topics of Ecclesiastical History, G' Ecclesiastical Gymnasium), by Dimitrios N. Moschos & Evangelia Voulgaraki*, printed p. 84 |
+
+Greece's own way (Book 2 — G9 Ecclesiastical History Topics (student book, Greek)): church history is taught as the story of a travelling community — the preface pictures the Church as a ship the learners themselves crew — and every chapter is framed as a question the community had to answer, not a list of dates. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Religious Reformation and its part in creating national states — story beats: Luther's break with Rome gives princes a church of their own and Europe a new map of faiths (History expansion, 2026-11-15; original placement slug: modern-world/the-reformation-luther-and-protestantism) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 4 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Religious Reformation (1517–1555) — story beats: Luther's theses split western Christianity; princes choose sides and Augsburg legalises the split (History expansion, 2026-11-15; original placement slug: modern-world/the-reformation-luther-and-protestantism) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 127 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

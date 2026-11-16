@@ -1,6 +1,6 @@
 # Sources — The First World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Italy, Vietnam
+countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Italy, Vietnam, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 133).
 
@@ -913,4 +913,66 @@ Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese
 
 Vietnam's own way (Book 10 — G11 study topics (student book, Vietnamese)): the Grade 11 elective goes deep on three things — traditional art read dynasty by dynasty as national evidence, the twentieth century taught as one long argument between war and peace (with Vietnam's own wars counted inside the world's), and history carried by named people: kings, generals, poets, a physician and an encyclopaedist. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 32 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Italy, Vietnam).**
+**Acceptance count: taught in 33 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 16 — G9 Modern & Contemporary History student book (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2774-9 (book code 0-21-0151)
+- PDF pages: 194 (cover/title page verified against the record title; 22,275,331 bytes via grab.py release route — the books.json record for this book is the gr-b group's paired record; the TSV release asset is the same book)
+- Verdict: COMPLETE
+- Tally: 59 placements — 21 to existing lessons, 38 NEW LESSON NEEDED
+- Greece's own way: the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — §31 The causes, outbreak and fronts of the First World War — story beats: alliances, arms races and one Sarajevo assassination chain the great powers into a war of trenches (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-causes) | Greece, *Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)*, printed p. 89 |
+
+Greece's own way (Book 16 — G9 Modern & Contemporary History student book (student book, Greek)): the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 1 — G9 Modern & Contemporary History (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2774-9
+- PDF pages: 194 (cover/title page verified against the record title; byte size 22,275,331 matches the record exactly; grabbed via the mid-size-books release asset after the books.json tree route returned 404)
+- Verdict: COMPLETE
+- Tally: 70 placements — 25 to existing lessons, 45 NEW LESSON NEEDED
+- Greece's own way: world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Causes, outbreak and fronts of the First World War — story beats: alliances, arms races and an assassination in Sarajevo pull Europe's empires into a war none can win quickly (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-causes) | Greece, *Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras*, printed p. 89 |
+
+Greece's own way (Book 1 — G9 Modern & Contemporary History (student book, Greek)): world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The First World War: causes and fronts — story beats: the Schlieffen gamble fails, trenches scar Europe, and the war goes global (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-causes) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 92 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)**
+- Title as printed: Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2354-3
+- PDF pages: 258 (cover/title page verified against the record title; byte size 31,775,416 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 54 placements — 21 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The rivalries of the Great Powers (1870–1914) — story beats: alliances, colonial clashes and arms races load the gun that Sarajevo fires (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-causes) | Greece, *Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti*, printed p. 75 |
+
+Greece's own way (Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)): the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

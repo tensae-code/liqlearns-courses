@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy, Vietnam
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -677,4 +677,23 @@ Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese
 
 Vietnam's own way (Book 10 — G11 study topics (student book, Vietnamese)): the Grade 11 elective goes deep on three things — traditional art read dynasty by dynasty as national evidence, the twentieth century taught as one long argument between war and peace (with Vietnam's own wars counted inside the world's), and history carried by named people: kings, generals, poets, a physician and an encyclopaedist. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 20 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy, Vietnam).**
+**Acceptance count: taught in 21 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 12 — G7 Herodotus, Histories in translation (student book, Greek)**
+- Title as printed: Αρχαία Ελληνικά Κείμενα — Ηροδότου Ιστορίες, Α΄ Γυμνασίου, Βιβλίο Μαθητή (Ancient Greek Texts: Herodotus's Histories, Grade 7 Gymnasium)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2651-3 (book code 0-21-0003)
+- PDF pages: 98 (cover/title page verified against the record title; 11,484,840 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 19 placements — 7 to existing lessons, 12 NEW LESSON NEEDED
+- Greece's own way: a whole schoolbook of one author — Herodotus in translation, unit by unit, so pupils learn the Persian Wars from the man who invented the inquiry that tells them; every unit is plot summary and source-reading, never transcription here.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Introduction: Life and work of Herodotus, chronological table, diagram of the History — story beats: the Halicarnassian exile travels the known world asking questions and becomes the father of history (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Greece, *Αρχαία Ελληνικά Κείμενα — Ηροδότου Ιστορίες, Α΄ Γυμνασίου, Βιβλίο Μαθητή (Ancient Greek Texts: Herodotus's Histories, Grade 7 Gymnasium)*, printed p. 8 |
+| Greece part — Book I, Unit 1 Proem — story beats: Herodotus states his purpose — that human deeds not be erased by time — and starts from the mythic abductions East and West traded (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Greece, *Αρχαία Ελληνικά Κείμενα — Ηροδότου Ιστορίες, Α΄ Γυμνασίου, Βιβλίο Μαθητή (Ancient Greek Texts: Herodotus's Histories, Grade 7 Gymnasium)*, printed p. 14 |
+| Greece part — Book IV, Unit 9a Herodotus as geographer (summary) — story beats: the Scythian logos maps rivers, peoples and the shape of the earth as the inquirer knew it (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Greece, *Αρχαία Ελληνικά Κείμενα — Ηροδότου Ιστορίες, Α΄ Γυμνασίου, Βιβλίο Μαθητή (Ancient Greek Texts: Herodotus's Histories, Grade 7 Gymnasium)*, printed p. 52 |
+
+Greece's own way (Book 12 — G7 Herodotus, Histories in translation (student book, Greek)): a whole schoolbook of one author — Herodotus in translation, unit by unit, so pupils learn the Persian Wars from the man who invented the inquiry that tells them; every unit is plot summary and source-reading, never transcription here. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

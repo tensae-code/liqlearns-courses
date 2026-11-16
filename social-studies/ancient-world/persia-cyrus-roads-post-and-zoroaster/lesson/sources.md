@@ -1,6 +1,6 @@
 # Sources — Persia — Cyrus, roads, post and Zoroaster
 
-countries: Ethiopia, India, Pakistan, Syria, Iran, Libya, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Afghanistan, China, Venezuela, Moldova, Armenia, Honduras
+countries: Ethiopia, India, Pakistan, Syria, Iran, Libya, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Afghanistan, China, Venezuela, Moldova, Armenia, Honduras, Greece
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -395,4 +395,51 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 
 Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 17 countries (Ethiopia, India, Pakistan, Syria, Iran, Libya, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Afghanistan, China, Venezuela, Moldova, Armenia, Honduras).**
+**Acceptance count: taught in 18 countries (Ethiopia, India, Pakistan, Syria, Iran, Libya, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Afghanistan, China, Venezuela, Moldova, Armenia, Honduras, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 3 — G4 History student book (student book, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2553-0 (book code 0-10-0090)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,179,619 bytes, exactly matching the books.json size_bytes; the >20 MB blob route is the one that failed on Book 1)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 15 The Persian state and the Greeks of Asia Minor — story beats: Darius rules a vast Persian empire whose Greek subjects in Asia Minor chafe — and Persian children are schooled to ride, shoot and tell the truth (History expansion, 2026-11-15; original placement slug: ancient-world/persia-cyrus-roads-post-and-zoroaster) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 46 |
+
+Greece's own way (Book 3 — G4 History student book (student book, Greek)): one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G7 Herodotus, Histories in translation (student book, Greek)**
+- Title as printed: Αρχαία Ελληνικά Κείμενα — Ηροδότου Ιστορίες, Α΄ Γυμνασίου, Βιβλίο Μαθητή (Ancient Greek Texts: Herodotus's Histories, Grade 7 Gymnasium)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2651-3 (book code 0-21-0003)
+- PDF pages: 98 (cover/title page verified against the record title; 11,484,840 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 19 placements — 7 to existing lessons, 12 NEW LESSON NEEDED
+- Greece's own way: a whole schoolbook of one author — Herodotus in translation, unit by unit, so pupils learn the Persian Wars from the man who invented the inquiry that tells them; every unit is plot summary and source-reading, never transcription here.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Book I, Unit 3 Croesus and Cyrus — story beats: Croesus misreads the oracle, crosses the Halys, and is saved on his own pyre by Cyrus, who then takes Sardis and founds Persian greatness (History expansion, 2026-11-15; original placement slug: ancient-world/persia-cyrus-roads-post-and-zoroaster) | Greece, *Αρχαία Ελληνικά Κείμενα — Ηροδότου Ιστορίες, Α΄ Γυμνασίου, Βιβλίο Μαθητή (Ancient Greek Texts: Herodotus's Histories, Grade 7 Gymnasium)*, printed p. 26 |
+
+Greece's own way (Book 12 — G7 Herodotus, Histories in translation (student book, Greek)): a whole schoolbook of one author — Herodotus in translation, unit by unit, so pupils learn the Persian Wars from the man who invented the inquiry that tells them; every unit is plot summary and source-reading, never transcription here. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Medes and the Persians — story beats: Cyrus unites the Medes and Persians and builds the largest empire yet, held together by roads, satraps and tolerance (History expansion, 2026-11-15; original placement slug: ancient-world/persia-cyrus-roads-post-and-zoroaster) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 47 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

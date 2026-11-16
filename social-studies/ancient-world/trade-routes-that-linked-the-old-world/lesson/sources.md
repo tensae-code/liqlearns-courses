@@ -1,6 +1,6 @@
 # Sources — Trade routes that linked the old world
 
-countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, China, Venezuela
+countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, China, Venezuela, Greece
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -543,6 +543,38 @@ Searchable tags: China, History expansion 2026-11-15, ancient-world/trade-routes
 
 Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Spanish)): a full world history for Venezuelan students that starts in Africa as "our mother continent", insists "we do not descend from the monkey", and reads every age through work, class struggle and liberation — ending in Latin America's own revolutions. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 18 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, China, Venezuela).**
+**Acceptance count: taught in 19 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, China, Venezuela, Greece).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, ancient-world/trade-routes-that-linked-the-old-world
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 14 — G8 Medieval & Modern History student book (student book, Greek)**
+- Title as printed: Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2720-6 (book code 0-21-0087)
+- PDF pages: 154 (cover/title page verified against the record title; 33,113,265 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 2.II.2 The trade and civilisation of Islam — story beats: Baghdad and Cordoba link the world's trade routes and guard Greek science in Arabic dress (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Greece, *Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)*, printed p. 29 |
+
+Greece's own way (Book 14 — G8 Medieval & Modern History student book (student book, Greek)): Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Eastern peoples and the Greeks — story beats: the Eastern peoples meet the Greeks through trade, colonies and war, and each side changes the other (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 53 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

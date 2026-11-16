@@ -1,6 +1,6 @@
 # Sources — Colonisation — the road to the Scramble
 
-countries: Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya, Mozambique, Sudan, Cuba, China
+countries: Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya, Mozambique, Sudan, Cuba, China, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -270,6 +270,23 @@ Searchable tags: Cuba, History expansion 2026-11-15, africa-after-1500/colonisat
 
 China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 11 countries (Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya, Mozambique, Sudan, Cuba, China).**
+**Acceptance count: taught in 12 countries (Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya, Mozambique, Sudan, Cuba, China, Greece).**
 
 Searchable tags: China, History expansion 2026-11-15, africa-after-1500/colonisation-the-road-to-the-scramble
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 1 — G9 Modern & Contemporary History (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2774-9
+- PDF pages: 194 (cover/title page verified against the record title; byte size 22,275,331 matches the record exactly; grabbed via the mid-size-books release asset after the books.json tree route returned 404)
+- Verdict: COMPLETE
+- Tally: 70 placements — 25 to existing lessons, 45 NEW LESSON NEEDED
+- Greece's own way: world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Colonialism and colonial rivalries — story beats: European powers race for colonies in Africa and Asia, and their rivalries poison relations at home (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-the-road-to-the-scramble) | Greece, *Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras*, printed p. 49 |
+
+Greece's own way (Book 1 — G9 Modern & Contemporary History (student book, Greek)): world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

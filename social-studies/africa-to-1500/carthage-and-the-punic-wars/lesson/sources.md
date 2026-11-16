@@ -1,6 +1,6 @@
 # Sources — Carthage and the Punic Wars
 
-countries: Ethiopia, Egypt, Syria, Palestine, Colombia, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Armenia
+countries: Ethiopia, Egypt, Syria, Palestine, Colombia, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Armenia, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 84).
 
@@ -294,6 +294,53 @@ Armenia's own way (Book A1 — G7 World History student (student book, Armenian)
 
 Armenia's own way (Book B6 — G10 World History Student (student book, Armenian)): Grade 10 World History is organised by civilisation rather than by date — each ancient society is presented through its "civilisation achievements" and what it left to the modern world, running from Egypt and Mesopotamia through Greece, Rome, Africa's empires and the Islamic world to the Reformation. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 12 countries (Ethiopia, Egypt, Syria, Palestine, Colombia, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Armenia).**
+**Acceptance count: taught in 13 countries (Ethiopia, Egypt, Syria, Palestine, Colombia, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Armenia, Greece).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, africa-to-1500/carthage-and-the-punic-wars
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 3 — G4 History student book (student book, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2553-0 (book code 0-10-0090)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,179,619 bytes, exactly matching the books.json size_bytes; the >20 MB blob route is the one that failed on Book 1)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 39 Carthage clashes with Rome — story beats: Hannibal crosses the Pyrenees and Alps with elephants to strike Italy, and meets his match in Scipio — Carthage's gamble decides the western Mediterranean (History expansion, 2026-11-15; original placement slug: africa-to-1500/carthage-and-the-punic-wars) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 121 |
+
+Greece's own way (Book 3 — G4 History student book (student book, Greek)): one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G4 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2554-7 (book code 0-10-0091)
+- PDF pages: 58 (cover/title page verified against the record title; 5,112,943 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE
+- Tally: 44 placements — 12 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: one exercise page per student-book chapter plus a revision lesson per unit — ordering events, acrostics of generals' names, true/false and "imagine you are a child in Sparta" writing keep the national story active rather than memorised.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 39 Carthage against Rome exercises — story beats: marking Hannibal's elephant march and his duel with Scipio (History expansion, 2026-11-15; original placement slug: africa-to-1500/carthage-and-the-punic-wars) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 47 |
+
+Greece's own way (Book 4 — G4 History workbook (workbook, Greek)): one exercise page per student-book chapter plus a revision lesson per unit — ordering events, acrostics of generals' names, true/false and "imagine you are a child in Sparta" writing keep the national story active rather than memorised. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Carthage — story beats: a Phoenician colony in Africa grows rich on trade and spreads its ports west until it blocks Rome's path (History expansion, 2026-11-15; original placement slug: africa-to-1500/carthage-and-the-punic-wars) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 165 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

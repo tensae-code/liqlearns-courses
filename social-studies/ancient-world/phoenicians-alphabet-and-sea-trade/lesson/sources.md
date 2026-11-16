@@ -1,6 +1,6 @@
 # Sources — The Phoenicians — alphabet and sea trade
 
-countries: Egypt, Cambodia, Libya
+countries: Egypt, Cambodia, Libya, Greece
 
 **Book 9:** *مصر الحضارة — حضارة مصر والعالم القديم (Egypt the Civilisation — the Civilisation of Egypt and the Ancient World)* (student book, Arabic) — Egypt. Grade: Grade 10 (First Secondary), full year (student book). Publisher: Ministry of Education and Technical Education, Egypt (Central Administration for Textbooks; Curriculum Development Centre), 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 171 (downloaded from the ministry source_url at the exact recorded size; read as 4-up page sheets; all four units read). Verdict: COMPLETE. Tally: 15 placements — 11 to existing lessons, 4 NEW LESSON NEEDED. Records note: the two Grade 10 records (Term 1 and Term 2) are the SAME book — the ministry issues this title as one full-year volume (the Term 2 file is even named "Tr1_2"); covers, author pages and contents of the two downloads are identical (one rendered contents sheet is byte-identical), so the book is filed once here. Both downloaded files are staged at their own recorded paths. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -74,4 +74,21 @@ Libya's own way (Book 1 — G10 Ancient Arab World (student book, Arabic)): the 
 
 Libya's own way (Book 4 — G7 History of Libya and the Ancient World (student book, Arabic)): Libya's ancient story is told inside the Arab world's: the ancient Libyans, their 30-letter script and the Garamantes get their own full lessons, and every visiting power — Phoenician, Greek, Roman, Vandal, Byzantine — is judged by what it did in Libya. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 3 countries (Egypt, Cambodia, Libya).**
+**Acceptance count: taught in 4 countries (Egypt, Cambodia, Libya, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Phoenicians — story beats: city sailors from Tyre and Sidon trade purple dye and cedar across the sea and hand the world its alphabet (History expansion, 2026-11-15; original placement slug: ancient-world/the-phoenicians-seafarers-and-the-alphabet) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 31 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

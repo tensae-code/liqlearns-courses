@@ -1,6 +1,6 @@
 # Sources — The Renaissance — its great figures
 
-countries: Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan, North Macedonia, China, Moldova, Armenia, Nicaragua, Italy, Vietnam
+countries: Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan, North Macedonia, China, Moldova, Armenia, Nicaragua, Italy, Vietnam, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 127).
 
@@ -356,4 +356,51 @@ Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 
 
 Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese)): Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 14 countries (Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan, North Macedonia, China, Moldova, Armenia, Nicaragua, Italy, Vietnam).**
+**Acceptance count: taught in 15 countries (Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan, North Macedonia, China, Moldova, Armenia, Nicaragua, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Humanism and the Renaissance in letters — story beats: Petrarch to Erasmus, scholars recover the classical world and invent a new kind of learning (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-its-great-figures) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 19 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Renaissance and Humanism — story beats: scholars and artists put man at the centre and antiquity on the desk (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-its-great-figures) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 115 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G11/G12 EPAL History of Art (student book, Greek)**
+- Title as printed: Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou
+- Grade: 11–12 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2391-8
+- PDF pages: 370 (cover/title page verified against the record title; byte size 62,196,715 matches the record exactly; the grade-12 record is a cross-reference to this same book and is counted once)
+- Verdict: COMPLETE
+- Tally: 27 placements — 9 to existing lessons, 18 NEW LESSON NEEDED
+- Greece's own way: a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 10: Art in the age of the Renaissance — story beats: perspective, anatomy and the artist as genius — Brunelleschi to Michelangelo rebuild the visible world (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-its-great-figures) | Greece, *Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou*, printed p. 133 |
+
+Greece's own way (Book 9 — G11/G12 EPAL History of Art (student book, Greek)): a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

@@ -1,6 +1,6 @@
 # Sources — The Scramble and Berlin 1884–85 — a continent partitioned on paper
 
-countries: Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique, North Macedonia, Cuba, China, Venezuela
+countries: Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique, North Macedonia, Cuba, China, Venezuela, Greece
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -321,6 +321,38 @@ Searchable tags: China, History expansion 2026-11-15, africa-after-1500/the-scra
 
 Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Spanish)): a full world history for Venezuelan students that starts in Africa as "our mother continent", insists "we do not descend from the monkey", and reads every age through work, class struggle and liberation — ending in Latin America's own revolutions. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 10 countries (Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique, North Macedonia, Cuba, China, Venezuela).**
+**Acceptance count: taught in 11 countries (Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique, North Macedonia, Cuba, China, Venezuela, Greece).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, africa-after-1500/the-scramble-and-berlin-1884-85
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The peak of European colonial expansion — story beats: in one generation Europe partitions nearly all Africa and dominates Asia's coasts (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-scramble-and-berlin-1884-85) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 61 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)**
+- Title as printed: Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2354-3
+- PDF pages: 258 (cover/title page verified against the record title; byte size 31,775,416 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 54 placements — 21 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The peak of European colonialism — story beats: the scramble partitions Africa and Asia's coasts; empire becomes the measure of a great power (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-scramble-and-berlin-1884-85) | Greece, *Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti*, printed p. 53 |
+
+Greece's own way (Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)): the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
+countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -854,4 +854,143 @@ Vietnam's own way (Book 4 — G7 History and Geography (student book, Vietnamese
 
 Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 30 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**
+**Acceptance count: taught in 31 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 8 — G6 History student book (student book, Greek)**
+- Title as printed: Ιστορία ΣΤ΄ Δημοτικού — Ιστορία του Νεότερου και Σύγχρονου Κόσμου (History, Grade 6 Primary: History of the Modern and Contemporary World)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: 2018 edition; ISBN 978-960-06-3199-9 (book code 0-10-0182)
+- PDF pages: 242 (cover/title page verified against the record title; read from the record's ministry source_url — 45,446,905 bytes, exactly matching the books.json size_bytes)
+- Verdict: COMPLETE
+- Tally: 49 placements — 4 to existing lessons, 45 NEW LESSON NEEDED
+- Greece's own way: Europe gets three chapters; Greece gets forty-six. After a short European runway (Renaissance, Discoveries, 1776/1789), the book becomes a national epic — Ottoman centuries, the 1821 Revolution hero by hero and battle by battle, then state-building to the EU — every chapter paired with a "The sources narrate" dossier of letters, songs and memoirs.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit A, ch. 1 The Renaissance and the Religious Reformation — story beats: art and learning are reborn in northern Italy and spread over Europe in two centuries, while the Reformation splits western Christianity (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Greece, *Ιστορία ΣΤ΄ Δημοτικού — Ιστορία του Νεότερου και Σύγχρονου Κόσμου (History, Grade 6 Primary: History of the Modern and Contemporary World)*, printed p. 12 |
+
+Greece's own way (Book 8 — G6 History student book (student book, Greek)): Europe gets three chapters; Greece gets forty-six. After a short European runway (Renaissance, Discoveries, 1776/1789), the book becomes a national epic — Ottoman centuries, the 1821 Revolution hero by hero and battle by battle, then state-building to the EU — every chapter paired with a "The sources narrate" dossier of letters, songs and memoirs. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G6 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία ΣΤ΄ Δημοτικού — Ιστορία του Νεότερου και Σύγχρονου Κόσμου, Τετράδιο Εργασιών (History Grade 6 workbook)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: 2018 edition; ISBN 978-960-06-3201-9 (book code 0-10-0183)
+- PDF pages: 46 (cover/title page verified against the record title; 3,052,024 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE
+- Tally: 6 placements — 1 to existing lessons, 5 NEW LESSON NEEDED
+- Greece's own way: unlike the earlier grades, this workbook is organised as one numbered exercise dossier per unit (not per chapter) — matching terms, map completion, timeline ordering, source commentary and internet research tasks (e.g. researching St Kosmas the Aetolian) that serve the whole unit's story at once.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit A exercise dossier (Europe in modern times) — story beats: pupils sort scholars, scientists and artists into Renaissance, Reformation and Enlightenment, and measure the Ottoman Empire on the student book's map (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Greece, *Ιστορία ΣΤ΄ Δημοτικού — Ιστορία του Νεότερου και Σύγχρονου Κόσμου, Τετράδιο Εργασιών (History Grade 6 workbook)*, printed pp. 5–10 |
+
+Greece's own way (Book 9 — G6 History workbook (workbook, Greek)): unlike the earlier grades, this workbook is organised as one numbered exercise dossier per unit (not per chapter) — matching terms, map completion, timeline ordering, source commentary and internet research tasks (e.g. researching St Kosmas the Aetolian) that serve the whole unit's story at once. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14 — G8 Medieval & Modern History student book (student book, Greek)**
+- Title as printed: Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2720-6 (book code 0-21-0087)
+- PDF pages: 154 (cover/title page verified against the record title; 33,113,265 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 7.I.2 Renaissance and Humanism — story beats: Greek scholars fleeing west and Italian patrons revive antiquity in art, letters and the study of man (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Greece, *Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)*, printed p. 113 |
+
+Greece's own way (Book 14 — G8 Medieval & Modern History student book (student book, Greek)): Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Spiritual and artistic developments of early modern Europe — story beats: humanists revive antiquity and artists learn perspective while printing spreads every idea (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 4 |
+| Greece part — The Renaissance in art — story beats: Brunelleschi, Leonardo and Michelangelo rebuild the visible world in perspective, marble and paint (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 19 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — From the Middle Ages to modern times — story beats: money, cities and curiosity loosen the medieval order (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 114 |
+| Greece part — The civilisation of the Renaissance (15th–16th centuries) — story beats: courts, academies and workshops from Florence to the North remake art and thought (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 149 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G11/G12 EPAL Protection of Cultural Heritage (student book, Greek)**
+- Title as printed: Προστασία της Πολιτιστικής Κληρονομιάς (Protection of Cultural Heritage), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, Conservation of Works of Art – Restoration specialty, by Emmanouil V. Marmaras, Stavroula Ch. Rapti & Eleni Stamatiou
+- Grade: 11–12 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2953-8
+- PDF pages: 162 (cover/title page verified against the record title; byte size 12,424,942 matches the record exactly; the grade-12 record is a cross-reference to this same book and is counted once)
+- Verdict: COMPLETE
+- Tally: 30 placements — 9 to existing lessons, 21 NEW LESSON NEEDED
+- Greece's own way: the conservation specialty's textbook teaches heritage as a story — every monument gets its history first and the history of its rescue second — and Greece's own sites (Knossos, Akrotiri, the Acropolis, Vergina) anchor the world cases.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 5.9: Conservation of the Sistine Chapel frescoes, Vatican — story beats: cleaning Michelangelo's ceiling reveals colours hidden for centuries and reopens the argument over what restoration may touch (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Greece, *Προστασία της Πολιτιστικής Κληρονομιάς (Protection of Cultural Heritage), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, Conservation of Works of Art – Restoration specialty, by Emmanouil V. Marmaras, Stavroula Ch. Rapti & Eleni Stamatiou*, printed p. 89 |
+
+Greece's own way (Book 12 — G11/G12 EPAL Protection of Cultural Heritage (student book, Greek)): the conservation specialty's textbook teaches heritage as a story — every monument gets its history first and the history of its rescue second — and Greece's own sites (Knossos, Akrotiri, the Acropolis, Vergina) anchor the world cases. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G11 EPAL History of Clothing II (student book, Greek)**
+- Title as printed: Ιστορία ενδυμασίας ΙΙ (History of Clothing II), Β' ΕΠΑ.Λ., Applied Arts sector, by Eleni Varopoulou & Damianos Zografos Zarifis
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-3147-0 (volume II of set 978-960-06-3145-6)
+- PDF pages: 274 (cover/title page verified against the record title; byte size 47,338,180 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 10 placements — 2 to existing lessons, 8 NEW LESSON NEEDED
+- Greece's own way: the second volume follows dress style by style — Renaissance, Baroque, Rococo, Neoclassicism, Romanticism — always tying the silhouette to the age's politics and art, and gives Greek 19th-century dress (urban and rural) its own full section.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 1: Renaissance dress — story beats: Italy, Germany, Spain and England each cut the new man differently — brocades, slashing, the Spanish ruff and farthingale map Europe's rival courts (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Greece, *Ιστορία ενδυμασίας ΙΙ (History of Clothing II), Β' ΕΠΑ.Λ., Applied Arts sector, by Eleni Varopoulou & Damianos Zografos Zarifis*, printed p. 11 |
+
+Greece's own way (Book 8 — G11 EPAL History of Clothing II (student book, Greek)): the second volume follows dress style by style — Renaissance, Baroque, Rococo, Neoclassicism, Romanticism — always tying the silhouette to the age's politics and art, and gives Greek 19th-century dress (urban and rural) its own full section. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)**
+- Title as printed: Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2946-0
+- PDF pages: 290 (cover/title page verified against the record title; byte size 23,175,326 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 24 placements — 8 to existing lessons, 16 NEW LESSON NEEDED
+- Greece's own way: the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapters 4–5: The Renaissance — story beats: the palazzo interior is reborn on classical rules — cassoni, maiolica and studioli for a merchant-prince's house (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Greece, *Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos*, printed p. 99 |
+
+Greece's own way (Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)): the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G11 EPAL History of the Graphic Arts (student book, Greek)**
+- Title as printed: Ιστορία των Γραφικών Τεχνών (History of the Graphic Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Manolis Vithynos
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2939-2
+- PDF pages: 266 (cover/title page verified against the record title; byte size 38,548,901 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 22 placements — 3 to existing lessons, 19 NEW LESSON NEEDED
+- Greece's own way: written communication is the thread — from cave signs and Linear B through Gutenberg to the computer — and Greek material (the Phaistos disc, the alphabet, Byzantine mosaics) sits at the centre of the world story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 10: The founding of the first printing houses in Europe's cities in the Renaissance — story beats: within a generation presses open from Venice to Paris and the printed book remakes learning (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Greece, *Ιστορία των Γραφικών Τεχνών (History of the Graphic Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Manolis Vithynos*, printed p. 109 |
+
+Greece's own way (Book 10 — G11 EPAL History of the Graphic Arts (student book, Greek)): written communication is the thread — from cave signs and Linear B through Gutenberg to the computer — and Greek material (the Phaistos disc, the alphabet, Byzantine mosaics) sits at the centre of the world story. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

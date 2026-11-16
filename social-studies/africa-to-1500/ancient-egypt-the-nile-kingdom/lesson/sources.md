@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — the Nile Kingdom
 
-countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras, Vietnam
+countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1091,4 +1091,37 @@ Vietnam's own way (Book 2 — G5 History and Geography (student book, Vietnamese
 
 Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese)): the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 38 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras, Vietnam).**
+**Acceptance count: taught in 39 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 12 — G7 Herodotus, Histories in translation (student book, Greek)**
+- Title as printed: Αρχαία Ελληνικά Κείμενα — Ηροδότου Ιστορίες, Α΄ Γυμνασίου, Βιβλίο Μαθητή (Ancient Greek Texts: Herodotus's Histories, Grade 7 Gymnasium)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2651-3 (book code 0-21-0003)
+- PDF pages: 98 (cover/title page verified against the record title; 11,484,840 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 19 placements — 7 to existing lessons, 12 NEW LESSON NEEDED
+- Greece's own way: a whole schoolbook of one author — Herodotus in translation, unit by unit, so pupils learn the Persian Wars from the man who invented the inquiry that tells them; every unit is plot summary and source-reading, never transcription here.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Book II, Unit 4 Egyptian logos: the land and the Nile — story beats: Herodotus calls Egypt the gift of the river and measures its floods, soil and antiquity (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Greece, *Αρχαία Ελληνικά Κείμενα — Ηροδότου Ιστορίες, Α΄ Γυμνασίου, Βιβλίο Μαθητή (Ancient Greek Texts: Herodotus's Histories, Grade 7 Gymnasium)*, printed p. 31 |
+| Greece part — Book II, Unit 6 Monuments of Egypt — story beats: pyramids, labyrinth and temples outsize everything Greek, and Herodotus counts their cost in radishes and kings (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Greece, *Αρχαία Ελληνικά Κείμενα — Ηροδότου Ιστορίες, Α΄ Γυμνασίου, Βιβλίο Μαθητή (Ancient Greek Texts: Herodotus's Histories, Grade 7 Gymnasium)*, printed p. 38 |
+
+Greece's own way (Book 12 — G7 Herodotus, Histories in translation (student book, Greek)): a whole schoolbook of one author — Herodotus in translation, unit by unit, so pupils learn the Persian Wars from the man who invented the inquiry that tells them; every unit is plot summary and source-reading, never transcription here. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Egypt: the land and its order — story beats: the Nile floods on time, the pharaoh organises the farming, and a kingdom holds together for three thousand years (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 20 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

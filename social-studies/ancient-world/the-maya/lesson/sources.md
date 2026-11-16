@@ -1,6 +1,6 @@
 # Sources — The Maya
 
-countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras, Vietnam
+countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras, Vietnam, Greece
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -703,4 +703,21 @@ Honduras's own way (Book 10 — G5 teacher (teacher guide, Spanish)): The guide 
 
 Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese)): Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 21 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras, Vietnam).**
+**Acceptance count: taught in 22 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 9 — G11/G12 EPAL History of Art (student book, Greek)**
+- Title as printed: Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou
+- Grade: 11–12 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2391-8
+- PDF pages: 370 (cover/title page verified against the record title; byte size 62,196,715 matches the record exactly; the grade-12 record is a cross-reference to this same book and is counted once)
+- Verdict: COMPLETE
+- Tally: 27 placements — 9 to existing lessons, 18 NEW LESSON NEEDED
+- Greece's own way: a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 9: Pre-Columbian art — story beats: Maya and Aztec pyramids, calendars in stone and featherwork rise without any contact with the Old World (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Greece, *Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou*, printed p. 127 |
+
+Greece's own way (Book 9 — G11/G12 EPAL History of Art (student book, Greek)): a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

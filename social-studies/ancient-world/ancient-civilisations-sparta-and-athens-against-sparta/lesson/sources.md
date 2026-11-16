@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Sparta, and Athens against Sparta
 
-countries: Ethiopia, Bangladesh, Montenegro, Pakistan, Iraq, Uzbekistan, North Macedonia, Venezuela, Moldova, Armenia, Nicaragua
+countries: Ethiopia, Bangladesh, Montenegro, Pakistan, Iraq, Uzbekistan, North Macedonia, Venezuela, Moldova, Armenia, Nicaragua, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -226,4 +226,68 @@ Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/ancient-ci
 
 Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 11 countries (Ethiopia, Bangladesh, Montenegro, Pakistan, Iraq, Uzbekistan, North Macedonia, Venezuela, Moldova, Armenia, Nicaragua).**
+**Acceptance count: taught in 12 countries (Ethiopia, Bangladesh, Montenegro, Pakistan, Iraq, Uzbekistan, North Macedonia, Venezuela, Moldova, Armenia, Nicaragua, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 3 — G4 History student book (student book, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2553-0 (book code 0-10-0090)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,179,619 bytes, exactly matching the books.json size_bytes; the >20 MB blob route is the one that failed on Book 1)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 10 Sparta: society and constitution — story beats: Sparta lives off conquered land worked by helots, ruled by two kings, elders and an assembly geared for war (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-sparta-and-athens-against-sparta) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 32 |
+| Greece part — Ch. 11 Sparta: life in the city — story beats: Spartan boys are taken into barracks, eat the black broth in common messes, and grow into the ancient world's most feared soldiers (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-sparta-and-athens-against-sparta) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 35 |
+
+Greece's own way (Book 3 — G4 History student book (student book, Greek)): one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G4 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2554-7 (book code 0-10-0091)
+- PDF pages: 58 (cover/title page verified against the record title; 5,112,943 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE
+- Tally: 44 placements — 12 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: one exercise page per student-book chapter plus a revision lesson per unit — ordering events, acrostics of generals' names, true/false and "imagine you are a child in Sparta" writing keep the national story active rather than memorised.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 10 Sparta society exercises — story beats: a diagram of kings, elders, helots and perioikoi fixes Sparta's war-society in shape (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-sparta-and-athens-against-sparta) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 15 |
+| Greece part — Ch. 11 Sparta life exercises — story beats: "imagine you are a child living in Sparta" — the agoge retold from inside a child's day (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-sparta-and-athens-against-sparta) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 16 |
+
+Greece's own way (Book 4 — G4 History workbook (workbook, Greek)): one exercise page per student-book chapter plus a revision lesson per unit — ordering events, acrostics of generals' names, true/false and "imagine you are a child in Sparta" writing keep the national story active rather than memorised. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G7 Ancient History student book (student book, Greek)**
+- Title as printed: Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2655-1 (book code 0-21-0007)
+- PDF pages: 154 (cover/title page verified against the record title; 24,095,964 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 49 placements — 15 to existing lessons, 34 NEW LESSON NEEDED
+- Greece's own way: the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. D3 Sparta — story beats: Lycurgus's Sparta organises every life for war on the backs of the helots (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-sparta-and-athens-against-sparta) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 48 |
+
+Greece's own way (Book 11 — G7 Ancient History student book (student book, Greek)): the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Homeric age — story beats: after the collapse, small kingdoms sing of heroes; Homer fixes the stories that will teach Greece who it is (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-sparta-and-athens-against-sparta) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 76 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

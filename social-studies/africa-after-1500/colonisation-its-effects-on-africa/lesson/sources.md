@@ -1,6 +1,6 @@
 # Sources — Colonisation — its effects on Africa
 
-countries: Ethiopia, Rwanda, Eritrea, South Sudan, Uganda, Mozambique, Sudan, Moldova
+countries: Ethiopia, Rwanda, Eritrea, South Sudan, Uganda, Mozambique, Sudan, Moldova, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -195,6 +195,23 @@ Searchable tags: Sudan, History expansion 2026-11-15, africa-after-1500/colonisa
 
 Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia". That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 8 countries (Ethiopia, Rwanda, Eritrea, South Sudan, Uganda, Mozambique, Sudan, Moldova).**
+**Acceptance count: taught in 9 countries (Ethiopia, Rwanda, Eritrea, South Sudan, Uganda, Mozambique, Sudan, Moldova, Greece).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, africa-after-1500/colonisation-its-effects-on-africa
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The consequences of colonialism — story beats: borders drawn in Europe, economies bent to exports, and peoples set against each other (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-its-effects-on-africa) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 64 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

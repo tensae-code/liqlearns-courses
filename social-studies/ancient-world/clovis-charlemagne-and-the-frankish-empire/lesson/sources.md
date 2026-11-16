@@ -1,6 +1,6 @@
 # Sources — Clovis Charlemagne And The Frankish Empire
 
-countries: North Macedonia, Moldova
+countries: North Macedonia, Moldova, Greece
 
 **Book 1 — Istorija 7 (History 7), Grade 7 (student book, Macedonian)**
 - Title as printed: ИСТОРИЈА 7 за седмо одделение во основно образование — учебник (History 7 for the seventh grade of primary education — textbook)
@@ -54,6 +54,38 @@ Searchable tags: North Macedonia, Clovis Charlemagne And The Frankish Empire, an
 
 Moldova's own way (Book 3 — moldova-g06-history (student book, Romanian)): the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 2 countries (North Macedonia, Moldova).**
+**Acceptance count: taught in 3 countries (North Macedonia, Moldova, Greece).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/clovis-charlemagne-and-the-frankish-empire
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 14 — G8 Medieval & Modern History student book (student book, Greek)**
+- Title as printed: Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2720-6 (book code 0-21-0087)
+- PDF pages: 154 (cover/title page verified against the record title; 33,113,265 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 6.I.2 Charlemagne and his age — story beats: the Frankish king is crowned emperor in Rome in 800 and schools and law briefly reunite the West (History expansion, 2026-11-15; original placement slug: ancient-world/charlemagne-and-the-carolingian-world) | Greece, *Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)*, printed p. 89 |
+
+Greece's own way (Book 14 — G8 Medieval & Modern History student book (student book, Greek)): Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Frankish state under the Merovingians and Carolingians — story beats: Clovis's Franks take Gaul; Charlemagne is crowned emperor in Rome in 800, a second empire in the West (History expansion, 2026-11-15; original placement slug: ancient-world/the-frankish-kingdoms-and-charlemagne) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 26 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

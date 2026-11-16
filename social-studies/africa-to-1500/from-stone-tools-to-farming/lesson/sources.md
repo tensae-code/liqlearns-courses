@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1240,4 +1240,70 @@ Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide 
 
 Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese)): the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 42 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam).**
+**Acceptance count: taught in 43 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 1 — G3 History student book (student book, Greek)**
+- Title as printed: Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία (History, Grade 3 Primary: From Mythology to History)
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy, Ministry of Education; year: reissue of the 2013 edition (digital reprint); ISBN 978-960-06-2515-8 (book code 0-10-0056)
+- PDF pages: 154 (cover/title page verified against the record title; grab.py blob route failed with IncompleteRead on the 40 MB file, read instead from the record's own ministry source_url — downloaded file is exactly 40,169,043 bytes, matching the books.json size_bytes)
+- Verdict: COMPLETE
+- Tally: 49 placements — 8 to existing lessons, 41 NEW LESSON NEEDED
+- Greece's own way: History begins as story — a whole first half retells Greek myth as narrative (creation, heroes, Troy, Odysseus) before "Prehistory" begins, so children meet the past first through tales their culture tells about itself; every chapter mixes the main story with vase-painting evidence, later poems and first-person object/character voices.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 7, ch. 1 Palaeolithic Age: when humans were food-gatherers and hunters — story beats: the first people live by gathering and hunting with stone tools, shelter in caves and leave rock paintings of their hunts (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία (History, Grade 3 Primary: From Mythology to History)*, printed p. 98 |
+| Greece part — Unit 7, ch. 2 Neolithic Age: when humans became farmers and herders — story beats: people learn to sow grain and tame animals, settle in villages, and grind, weave and make pots instead of wandering (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία (History, Grade 3 Primary: From Mythology to History)*, printed p. 101 |
+
+Greece's own way (Book 1 — G3 History student book (student book, Greek)): History begins as story — a whole first half retells Greek myth as narrative (creation, heroes, Troy, Odysseus) before "Prehistory" begins, so children meet the past first through tales their culture tells about itself; every chapter mixes the main story with vase-painting evidence, later poems and first-person object/character voices. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G3 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία, Τετράδιο Εργασιών (History Grade 3 workbook)
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2516-5 (book code 0-10-0057)
+- PDF pages: 62 (cover/title page verified against the record title; size 9,570,507 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE
+- Tally: 51 placements — 9 to existing lessons, 42 NEW LESSON NEEDED
+- Greece's own way: the workbook shadows the student book chapter by chapter with picture-reading, map, matching and "what would you say" exercises, closing each group of units with a revision lesson — practice is story-recall and image-evidence work, not dates.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 7, ch. 1 Palaeolithic exercises — story beats: pupils point out Greek Palaeolithic sites on the map — the gatherer-hunter life placed in their own country (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία, Τετράδιο Εργασιών (History Grade 3 workbook)*, printed p. 40 |
+| Greece part — Unit 7, ch. 2 Neolithic exercises — story beats: a comparison table sets wandering gatherers against settled farmers and herders (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία, Τετράδιο Εργασιών (History Grade 3 workbook)*, printed p. 41 |
+| Greece part — Revision lesson for Units 7, 8 — story beats: a diagram of the periods of Prehistory orders Stone Age and early Bronze Age into one timeline (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία, Τετράδιο Εργασιών (History Grade 3 workbook)*, printed p. 45 |
+
+Greece's own way (Book 2 — G3 History workbook (workbook, Greek)): the workbook shadows the student book chapter by chapter with picture-reading, map, matching and "what would you say" exercises, closing each group of units with a revision lesson — practice is story-recall and image-evidence work, not dates. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G7 Ancient History student book (student book, Greek)**
+- Title as printed: Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2655-1 (book code 0-21-0007)
+- PDF pages: 154 (cover/title page verified against the record title; 24,095,964 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 49 placements — 15 to existing lessons, 34 NEW LESSON NEEDED
+- Greece's own way: the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. A1 The Palaeolithic and Mesolithic Age — story beats: from homo habilis in Africa 2.5 million years ago to homo sapiens burying his dead with grave goods, the human chain spreads over the world with pebble tools and fire (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 6 |
+| Greece part — Ch. A2 The Neolithic Age — story beats: farming and herding end the wandering life; villages, pottery and polished stone remake the human world by 3000 BC (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 9 |
+
+Greece's own way (Book 11 — G7 Ancient History student book (student book, Greek)): the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G11/G12 EPAL History of Art (student book, Greek)**
+- Title as printed: Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou
+- Grade: 11–12 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2391-8
+- PDF pages: 370 (cover/title page verified against the record title; byte size 62,196,715 matches the record exactly; the grade-12 record is a cross-reference to this same book and is counted once)
+- Verdict: COMPLETE
+- Tally: 27 placements — 9 to existing lessons, 18 NEW LESSON NEEDED
+- Greece's own way: a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 1: Palaeolithic and Neolithic art — story beats: cave painters and the first farmers' figurines and settlements — art begins with survival and ritual (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Greece, *Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou*, printed p. 13 |
+
+Greece's own way (Book 9 — G11/G12 EPAL History of Art (student book, Greek)): a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

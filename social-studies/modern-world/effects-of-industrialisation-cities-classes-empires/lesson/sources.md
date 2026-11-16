@@ -1,6 +1,6 @@
 # Sources — Effects of industrialisation — cities, classes, empires
 
-countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam
+countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam, Greece
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -493,4 +493,36 @@ Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese
 
 Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 19 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam).**
+**Acceptance count: taught in 20 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 16 — G9 Modern & Contemporary History student book (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2774-9 (book code 0-21-0151)
+- PDF pages: 194 (cover/title page verified against the record title; 22,275,331 bytes via grab.py release route — the books.json record for this book is the gr-b group's paired record; the TSV release asset is the same book)
+- Verdict: COMPLETE
+- Tally: 59 placements — 21 to existing lessons, 38 NEW LESSON NEEDED
+- Greece's own way: the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — §13 Social and political dimensions of the Industrial Revolution — story beats: factory cities breed a working class, unions, socialism and the demand for the vote (History expansion, 2026-11-15; original placement slug: modern-world/effects-of-industrialisation-cities-classes-empires) | Greece, *Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)*, printed p. 44 |
+
+Greece's own way (Book 16 — G9 Modern & Contemporary History student book (student book, Greek)): the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 1 — G9 Modern & Contemporary History (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2774-9
+- PDF pages: 194 (cover/title page verified against the record title; byte size 22,275,331 matches the record exactly; grabbed via the mid-size-books release asset after the books.json tree route returned 404)
+- Verdict: COMPLETE
+- Tally: 70 placements — 25 to existing lessons, 45 NEW LESSON NEEDED
+- Greece's own way: world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Social and political dimensions of the industrial revolution — story beats: factory cities swell, a working class organises, and unions and socialist parties force politics to change (History expansion, 2026-11-15; original placement slug: modern-world/effects-of-industrialisation-cities-classes-empires) | Greece, *Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras*, printed p. 44 |
+
+Greece's own way (Book 1 — G9 Modern & Contemporary History (student book, Greek)): world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

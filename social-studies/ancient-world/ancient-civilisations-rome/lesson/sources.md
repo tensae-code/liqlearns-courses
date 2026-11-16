@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome
 
-countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam
+countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1144,4 +1144,150 @@ Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese
 
 Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 41 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam).**
+**Acceptance count: taught in 42 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 3 — G4 History student book (student book, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2553-0 (book code 0-10-0090)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,179,619 bytes, exactly matching the books.json size_bytes; the >20 MB blob route is the one that failed on Book 1)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 38 The Roman state — story beats: Rome grows from city to Italian power while its myths tell of heroes who founded her — Greece turns to face the new western giant (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 118 |
+| Greece part — Ch. 40 The subjugation of the Greek world — story beats: Macedon falls at Pydna in 168 BC and becomes a Roman province; southern Greece follows, and the free Greek world ends (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 124 |
+
+Greece's own way (Book 3 — G4 History student book (student book, Greek)): one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G4 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2554-7 (book code 0-10-0091)
+- PDF pages: 58 (cover/title page verified against the record title; 5,112,943 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE
+- Tally: 44 placements — 12 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: one exercise page per student-book chapter plus a revision lesson per unit — ordering events, acrostics of generals' names, true/false and "imagine you are a child in Sparta" writing keep the national story active rather than memorised.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 38 Roman state exercises — story beats: exercises build Rome's rise as Greece's western neighbour turns great power (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 46 |
+| Greece part — Ch. 40 Subjugation of the Greek world exercises — story beats: events put in order end the story — Pydna, province Macedon, then the south (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 48 |
+| Greece part — Revision lesson, Hellenistic years — story beats: true/false revision closes the ancient story with Rome master of the Greek world (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 49 |
+
+Greece's own way (Book 4 — G4 History workbook (workbook, Greek)): one exercise page per student-book chapter plus a revision lesson per unit — ordering events, acrostics of generals' names, true/false and "imagine you are a child in Sparta" writing keep the national story active rather than memorised. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G5 History student book (student book, Greek)**
+- Title as printed: Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2584-4 (book code 0-10-0118)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,126,042 bytes, exactly matching the books.json size_bytes)
+- Verdict: COMPLETE
+- Tally: 43 placements — 12 to existing lessons, 31 NEW LESSON NEEDED
+- Greece's own way: a thousand years of Byzantium told as the biography of one city — Constantinople is founded, walled, rioted in, besieged, lost in 1204, regained and finally lost in 1453 — and the book opens by teaching children how to work with a history book and its sources before any story begins.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 1 The Romans rule the Greeks — story beats: Rome governs conquered Greece, and the subject Greeks keep their language and cities under Roman order (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)*, printed p. 10 |
+| Greece part — Unit 3 The Roman Empire, a superpower of the ancient world — story beats: one empire rings the Mediterranean with roads, armies and law, too big for one city to rule (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)*, printed p. 14 |
+
+Greece's own way (Book 5 — G5 History student book (student book, Greek)): a thousand years of Byzantium told as the biography of one city — Constantinople is founded, walled, rioted in, besieged, lost in 1204, regained and finally lost in 1453 — and the book opens by teaching children how to work with a history book and its sources before any story begins. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G5 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2585-1 (book code 0-10-0119)
+- PDF pages: 58 (cover/title page verified against the record title; 4,306,687 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE (workbook has no exercise section for student-book Unit 37, Byzantine Cyprus — it passes straight from Unit 36 to Unit 38)
+- Tally: 45 placements — 13 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: the workbook is source-work — matching emperors' acts to results, reading source texts and pictures, and comparing then with now (how did the people reach the emperor then; how do we reach our rulers today).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 1 Romans rule Greeks exercises — story beats: matching Roman acts to their results rebuilds the conquest of Greece (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)*, printed p. 4 |
+| Greece part — Unit 3 Roman Empire superpower exercises — story beats: map and source work measures the empire that ringed the Mediterranean (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)*, printed p. 6 |
+
+Greece's own way (Book 6 — G5 History workbook (workbook, Greek)): the workbook is source-work — matching emperors' acts to results, reading source texts and pictures, and comparing then with now (how did the people reach the emperor then; how do we reach our rulers today). That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G7 Ancient History student book (student book, Greek)**
+- Title as printed: Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2655-1 (book code 0-21-0007)
+- PDF pages: 154 (cover/title page verified against the record title; 24,095,964 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 49 placements — 15 to existing lessons, 34 NEW LESSON NEEDED
+- Greece's own way: the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. I3 The Roman state gains great power — story beats: Rome unifies Italy and beats Carthage, turning east just as the Greek leagues quarrel (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 123 |
+| Greece part — Ch. I4 The subjugation of the Greek world — story beats: Cynoscephalae, Pydna and the sack of Corinth in 146 BC end Greek independence (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 125 |
+| Greece part — Ch. J1 The Roman Peace — story beats: Augustus's Pax Romana gives the Greek East two centuries of roads, cities and quiet (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 138 |
+
+Greece's own way (Book 11 — G7 Ancient History student book (student book, Greek)): the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Greeks of the West — story beats: Greek colonists in Sicily and Italy build rich cities; Syracuse becomes the great power of the western Greeks (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 154 |
+| Greece part — The peoples of Italy and the forming of the Roman state — story beats: Etruscans, Latins and others share Italy; Rome is founded, throws out its kings and builds the Republic (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 168 |
+| Greece part — The Empire at its peak: Augustus and his successors (27 BC–AD 193) — story beats: Augustus ends the civil wars and refounds Rome as an empire; two centuries of peace let Greek and Roman culture fuse (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 208 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G11 EPAL History of Clothing I (student book, Greek)**
+- Title as printed: Ιστορία ενδυμασίας Ι (History of Clothing I), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelia N. Georgitsoyanni
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-3146-3 (volume I of set 978-960-06-3145-6)
+- PDF pages: 182 (cover/title page verified against the record title; byte size 12,287,070 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 8 placements — 7 to existing lessons, 1 NEW LESSON NEEDED
+- Greece's own way: clothing history is taught civilisation by civilisation — each chapter first gives the period's history in brief, then reads its society through women's and men's dress, fabrics and accessories, with primary sources and images.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 5: Rome — general character, women's and men's dress, fabrics and accessories — story beats: the toga makes the citizen visible; its folds are a constitution worn on the body, while silk arrives from the far East (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία ενδυμασίας Ι (History of Clothing I), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelia N. Georgitsoyanni*, printed p. 107 |
+
+Greece's own way (Book 7 — G11 EPAL History of Clothing I (student book, Greek)): clothing history is taught civilisation by civilisation — each chapter first gives the period's history in brief, then reads its society through women's and men's dress, fabrics and accessories, with primary sources and images. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)**
+- Title as printed: Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2946-0
+- PDF pages: 290 (cover/title page verified against the record title; byte size 23,175,326 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 24 placements — 8 to existing lessons, 16 NEW LESSON NEEDED
+- Greece's own way: the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 1.3: Ancient Rome — the Roman private house, the minor arts and the Fayum portraits — story beats: the domus with its atrium and wall painting shows Rome living privately, while Fayum's painted faces look out from Egypt's graves (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos*, printed p. 47 |
+
+Greece's own way (Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)): the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G11/G12 EPAL History of Art (student book, Greek)**
+- Title as printed: Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou
+- Grade: 11–12 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2391-8
+- PDF pages: 370 (cover/title page verified against the record title; byte size 62,196,715 matches the record exactly; the grade-12 record is a cross-reference to this same book and is counted once)
+- Verdict: COMPLETE
+- Tally: 27 placements — 9 to existing lessons, 18 NEW LESSON NEEDED
+- Greece's own way: a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 6: Roman art — story beats: concrete vaults, triumphal arches and truthful portraits put art at the empire's service (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Greece, *Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou*, printed p. 83 |
+
+Greece's own way (Book 9 — G11/G12 EPAL History of Art (student book, Greek)): a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

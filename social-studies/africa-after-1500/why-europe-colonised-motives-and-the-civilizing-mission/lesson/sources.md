@@ -1,6 +1,6 @@
 # Sources — Why Europe colonised — motives and the civilizing-mission claim
 
-countries: Ethiopia, Rwanda, Costa Rica, Australia, Colombia, South Sudan, Samoa, Mozambique, Jordan, North Macedonia
+countries: Ethiopia, Rwanda, Costa Rica, Australia, Colombia, South Sudan, Samoa, Mozambique, Jordan, North Macedonia, Greece
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -256,6 +256,23 @@ North Macedonia's own way (Book 2 — Istorija 8 (History 8), Grade 8 (student b
 
 North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student book, Macedonian)): a thematic, not chronological, world survey in five themes — foundations, ideas and power, a connecting world, wars and freedom struggles, and history in today's world — that keeps returning to method (fact against interpretation, media, pop culture, identity, digital memory) and places Macedonia inside the Balkan, Byzantine and Ottoman stories, and on its own First World War front, rather than in a separate national narrative. That way is stocked here as the way North Macedonia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 10 countries (Ethiopia, Rwanda, Costa Rica, Australia, Colombia, South Sudan, Samoa, Mozambique, Jordan, North Macedonia).**
+**Acceptance count: taught in 11 countries (Ethiopia, Rwanda, Costa Rica, Australia, Colombia, South Sudan, Samoa, Mozambique, Jordan, North Macedonia, Greece).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, africa-after-1500/why-europe-colonised-motives-and-the-civilizing-mission
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 16 — G9 Modern & Contemporary History student book (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2774-9 (book code 0-21-0151)
+- PDF pages: 194 (cover/title page verified against the record title; 22,275,331 bytes via grab.py release route — the books.json record for this book is the gr-b group's paired record; the TSV release asset is the same book)
+- Verdict: COMPLETE
+- Tally: 59 placements — 21 to existing lessons, 38 NEW LESSON NEEDED
+- Greece's own way: the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — §15 Colonialism and colonial rivalries — story beats: European empires race for Africa and Asia, preaching civilisation and taking raw materials, markets and pride (History expansion, 2026-11-15; original placement slug: africa-after-1500/why-europe-colonised-motives-and-the-civilizing-mission) | Greece, *Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)*, printed p. 49 |
+
+Greece's own way (Book 16 — G9 Modern & Contemporary History student book (student book, Greek)): the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

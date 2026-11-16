@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — the Great Wall and China's gifts
 
-countries: Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan, Uzbekistan, China, Armenia, Vietnam
+countries: Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan, Uzbekistan, China, Armenia, Vietnam, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -277,4 +277,21 @@ Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese
 
 Vietnam's own way (Book 4 — G7 History and Geography (student book, Vietnamese)): medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo). That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 11 countries (Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan, Uzbekistan, China, Armenia, Vietnam).**
+**Acceptance count: taught in 12 countries (Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan, Uzbekistan, China, Armenia, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 10 — G11 EPAL History of the Graphic Arts (student book, Greek)**
+- Title as printed: Ιστορία των Γραφικών Τεχνών (History of the Graphic Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Manolis Vithynos
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2939-2
+- PDF pages: 266 (cover/title page verified against the record title; byte size 38,548,901 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 22 placements — 3 to existing lessons, 19 NEW LESSON NEEDED
+- Greece's own way: written communication is the thread — from cave signs and Linear B through Gutenberg to the computer — and Greek material (the Phaistos disc, the alphabet, Byzantine mosaics) sits at the centre of the world story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 5: Paper and ink — story beats: China invents paper and ink travels west with it, slowly replacing clay, papyrus and parchment (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-the-great-wall-and-chinas-gifts) | Greece, *Ιστορία των Γραφικών Τεχνών (History of the Graphic Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Manolis Vithynos*, printed p. 49 |
+
+Greece's own way (Book 10 — G11 EPAL History of the Graphic Arts (student book, Greek)): written communication is the thread — from cave signs and Linear B through Gutenberg to the computer — and Greek material (the Phaistos disc, the alphabet, Byzantine mosaics) sits at the centre of the world story. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

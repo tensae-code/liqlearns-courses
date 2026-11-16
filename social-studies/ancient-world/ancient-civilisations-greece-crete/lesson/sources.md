@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -982,4 +982,137 @@ Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 
 
 Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese)): Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 35 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam).**
+**Acceptance count: taught in 36 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 1 — G3 History student book (student book, Greek)**
+- Title as printed: Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία (History, Grade 3 Primary: From Mythology to History)
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy, Ministry of Education; year: reissue of the 2013 edition (digital reprint); ISBN 978-960-06-2515-8 (book code 0-10-0056)
+- PDF pages: 154 (cover/title page verified against the record title; grab.py blob route failed with IncompleteRead on the 40 MB file, read instead from the record's own ministry source_url — downloaded file is exactly 40,169,043 bytes, matching the books.json size_bytes)
+- Verdict: COMPLETE
+- Tally: 49 placements — 8 to existing lessons, 41 NEW LESSON NEEDED
+- Greece's own way: History begins as story — a whole first half retells Greek myth as narrative (creation, heroes, Troy, Odysseus) before "Prehistory" begins, so children meet the past first through tales their culture tells about itself; every chapter mixes the main story with vase-painting evidence, later poems and first-person object/character voices.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 9, ch. 1 Minoan Crete — story beats: King Minos's Crete grows rich as the oldest sea-power of the Aegean, trading from unwalled palace towns (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία (History, Grade 3 Primary: From Mythology to History)*, printed p. 115 |
+| Greece part — Unit 9, ch. 2 The palace of Knossos — story beats: the labyrinthine palace of Knossos rises with throne room, storerooms and plumbing — the real building behind the Labyrinth myth the children just read (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία (History, Grade 3 Primary: From Mythology to History)*, printed p. 117 |
+| Greece part — Unit 9, ch. 3 The daily life of the Minoans — story beats: cheerful, nature-loving Minoans farm, harvest grapes, dress brightly and enjoy games and festivals (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία (History, Grade 3 Primary: From Mythology to History)*, printed p. 120 |
+| Greece part — Unit 9, ch. 4 The religion and writing of the Minoans — story beats: Minoans worship the Great Goddess in cave shrines and spring festivals, leap over bulls, and keep records in scripts we still cannot fully read (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία (History, Grade 3 Primary: From Mythology to History)*, printed p. 123 |
+| Greece part — Unit 9, ch. 5 The art of the Minoans — story beats: Minoan potters and painters fill palaces with dolphins, lilies and sea life in frescoes and fine vases (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία (History, Grade 3 Primary: From Mythology to History)*, printed p. 127 |
+| Greece part — Unit 9, ch. 6 The eruption of the Thera volcano — story beats: in one night the Thera volcano explodes, shaking sleepers from their beds and burying the island town of Akrotiri — the blow that weakens Minoan Crete (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία (History, Grade 3 Primary: From Mythology to History)*, printed p. 130 |
+
+Greece's own way (Book 1 — G3 History student book (student book, Greek)): History begins as story — a whole first half retells Greek myth as narrative (creation, heroes, Troy, Odysseus) before "Prehistory" begins, so children meet the past first through tales their culture tells about itself; every chapter mixes the main story with vase-painting evidence, later poems and first-person object/character voices. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G3 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία, Τετράδιο Εργασιών (History Grade 3 workbook)
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2516-5 (book code 0-10-0057)
+- PDF pages: 62 (cover/title page verified against the record title; size 9,570,507 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE
+- Tally: 51 placements — 9 to existing lessons, 42 NEW LESSON NEEDED
+- Greece's own way: the workbook shadows the student book chapter by chapter with picture-reading, map, matching and "what would you say" exercises, closing each group of units with a revision lesson — practice is story-recall and image-evidence work, not dates.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 9, ch. 1 Minoan Crete exercises — story beats: exercises open the Minoan unit by placing Crete's palace cities on the sea routes (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία, Τετράδιο Εργασιών (History Grade 3 workbook)*, printed p. 46 |
+| Greece part — Unit 9, ch. 2 Palace of Knossos exercises — story beats: pupils label the numbered rooms of Knossos — the palace read as a plan (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία, Τετράδιο Εργασιών (History Grade 3 workbook)*, printed p. 47 |
+| Greece part — Unit 9, ch. 3 Daily life exercises — story beats: two pictures are mined for what they reveal about Minoan dress, food and work (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία, Τετράδιο Εργασιών (History Grade 3 workbook)*, printed p. 48 |
+| Greece part — Unit 9, ch. 4 Religion and writing exercises — story beats: pupils describe the goddess in the picture and her snakes — reading religion from images (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία, Τετράδιο Εργασιών (History Grade 3 workbook)*, printed p. 49 |
+| Greece part — Unit 9, ch. 5 Art of the Minoans exercises — story beats: exercises ask what helped Minoan art flourish — sea wealth turned into beauty (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία, Τετράδιο Εργασιών (History Grade 3 workbook)*, printed p. 50 |
+| Greece part — Revision lesson for Units 9, 10 — story beats: a sorting table — Knossos against Mycenae — forces the contrast between sea-palace Crete and fortress Greece (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Γ΄ Δημοτικού — Από τη Μυθολογία στην Ιστορία, Τετράδιο Εργασιών (History Grade 3 workbook)*, printed p. 56 |
+
+Greece's own way (Book 2 — G3 History workbook (workbook, Greek)): the workbook shadows the student book chapter by chapter with picture-reading, map, matching and "what would you say" exercises, closing each group of units with a revision lesson — practice is story-recall and image-evidence work, not dates. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G7 Ancient History student book (student book, Greek)**
+- Title as printed: Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2655-1 (book code 0-21-0007)
+- PDF pages: 154 (cover/title page verified against the record title; 24,095,964 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 49 placements — 15 to existing lessons, 34 NEW LESSON NEEDED
+- Greece's own way: the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. B3 The Minoan Civilisation — story beats: palace Crete grows rich on sea trade without walls, until earthquake and Thera's eruption break its power (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 23 |
+| Greece part — Ch. B4 The religion and art of the Minoans — story beats: goddess worship, bull-leaping frescoes and sea-life pottery show a civilisation that loved nature and ceremony (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 26 |
+
+Greece's own way (Book 11 — G7 Ancient History student book (student book, Greek)): the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Greek prehistory: the Aegean civilisations — story beats: Cycladic islanders, Minoan Crete with its palaces, then a sea-trading world the mainland will inherit (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 56 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G11/G12 EPAL Protection of Cultural Heritage (student book, Greek)**
+- Title as printed: Προστασία της Πολιτιστικής Κληρονομιάς (Protection of Cultural Heritage), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, Conservation of Works of Art – Restoration specialty, by Emmanouil V. Marmaras, Stavroula Ch. Rapti & Eleni Stamatiou
+- Grade: 11–12 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2953-8
+- PDF pages: 162 (cover/title page verified against the record title; byte size 12,424,942 matches the record exactly; the grade-12 record is a cross-reference to this same book and is counted once)
+- Verdict: COMPLETE
+- Tally: 30 placements — 9 to existing lessons, 21 NEW LESSON NEEDED
+- Greece's own way: the conservation specialty's textbook teaches heritage as a story — every monument gets its history first and the history of its rescue second — and Greece's own sites (Knossos, Akrotiri, the Acropolis, Vergina) anchor the world cases.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 6.2: Knossos — story beats: Evans uncovers the Minoan palace and rebuilds parts in concrete — a brilliant, controversial rescue that still divides archaeologists (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Προστασία της Πολιτιστικής Κληρονομιάς (Protection of Cultural Heritage), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, Conservation of Works of Art – Restoration specialty, by Emmanouil V. Marmaras, Stavroula Ch. Rapti & Eleni Stamatiou*, printed p. 96 |
+
+Greece's own way (Book 12 — G11/G12 EPAL Protection of Cultural Heritage (student book, Greek)): the conservation specialty's textbook teaches heritage as a story — every monument gets its history first and the history of its rescue second — and Greece's own sites (Knossos, Akrotiri, the Acropolis, Vergina) anchor the world cases. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G11 EPAL History of Clothing I (student book, Greek)**
+- Title as printed: Ιστορία ενδυμασίας Ι (History of Clothing I), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelia N. Georgitsoyanni
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-3146-3 (volume I of set 978-960-06-3145-6)
+- PDF pages: 182 (cover/title page verified against the record title; byte size 12,287,070 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 8 placements — 7 to existing lessons, 1 NEW LESSON NEEDED
+- Greece's own way: clothing history is taught civilisation by civilisation — each chapter first gives the period's history in brief, then reads its society through women's and men's dress, fabrics and accessories, with primary sources and images.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 3: Ancient Greece, prehistoric times — Cycladic, Minoan and Mycenaean dress — story beats: Minoan frescoes show fitted bodices and flounced skirts unlike anything around them; Mycenaean dress turns plainer and warlike (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία ενδυμασίας Ι (History of Clothing I), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelia N. Georgitsoyanni*, printed p. 57 |
+
+Greece's own way (Book 7 — G11 EPAL History of Clothing I (student book, Greek)): clothing history is taught civilisation by civilisation — each chapter first gives the period's history in brief, then reads its society through women's and men's dress, fabrics and accessories, with primary sources and images. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)**
+- Title as printed: Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2946-0
+- PDF pages: 290 (cover/title page verified against the record title; byte size 23,175,326 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 24 placements — 8 to existing lessons, 16 NEW LESSON NEEDED
+- Greece's own way: the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 1.2: Ancient Greece — Minoan, Mycenaean and later Greek houses, decoration, furniture, jewellery, dress and pottery — story beats: from Knossos's light-wells to the classical house, Greek decoration balances measure and ornament (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos*, printed p. 25 |
+
+Greece's own way (Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)): the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G11/G12 EPAL History of Art (student book, Greek)**
+- Title as printed: Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou
+- Grade: 11–12 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2391-8
+- PDF pages: 370 (cover/title page verified against the record title; byte size 62,196,715 matches the record exactly; the grade-12 record is a cross-reference to this same book and is counted once)
+- Verdict: COMPLETE
+- Tally: 27 placements — 9 to existing lessons, 18 NEW LESSON NEEDED
+- Greece's own way: a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 3: The art of the Aegean — Cycladic, Minoan and Mycenaean civilisations — story beats: marble figurines, frescoed palaces and gold masks — the Aegean as the starting point of European art (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Greece, *Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou*, printed p. 37 |
+
+Greece's own way (Book 9 — G11/G12 EPAL History of Art (student book, Greek)): a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

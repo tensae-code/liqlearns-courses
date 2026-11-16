@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Dark Age and feudalism
 
-countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam
+countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -835,4 +835,67 @@ Honduras's own way (Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 e
 
 Vietnam's own way (Book 4 — G7 History and Geography (student book, Vietnamese)): medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo). That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 28 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam).**
+**Acceptance count: taught in 29 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 14 — G8 Medieval & Modern History student book (student book, Greek)**
+- Title as printed: Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2720-6 (book code 0-21-0087)
+- PDF pages: 154 (cover/title page verified against the record title; 33,113,265 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 6.I.3 Feudalism in Western Europe — story beats: lords, vassals and serfs bind a land without states into a ladder of oaths and fiefs (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Greece, *Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)*, printed p. 91 |
+
+Greece's own way (Book 14 — G8 Medieval & Modern History student book (student book, Greek)): Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Economy and society in Western Europe: the feudal system — story beats: land for service, lords and serfs — a West without strong kings organises itself around the manor (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 48 |
+| Greece part — Society and power in Western Europe — story beats: three orders — those who pray, fight and work — and kings slowly gathering power back (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 62 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G11 EPAL History of Clothing I (student book, Greek)**
+- Title as printed: Ιστορία ενδυμασίας Ι (History of Clothing I), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelia N. Georgitsoyanni
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-3146-3 (volume I of set 978-960-06-3145-6)
+- PDF pages: 182 (cover/title page verified against the record title; byte size 12,287,070 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 8 placements — 7 to existing lessons, 1 NEW LESSON NEEDED
+- Greece's own way: clothing history is taught civilisation by civilisation — each chapter first gives the period's history in brief, then reads its society through women's and men's dress, fabrics and accessories, with primary sources and images.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 7: Medieval Western Europe — general character, women's and men's dress, fabrics and accessories — story beats: tunics lengthen into gowns, buttons and fitted cuts appear, and dress hardens into the three orders of feudal society (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Greece, *Ιστορία ενδυμασίας Ι (History of Clothing I), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelia N. Georgitsoyanni*, printed p. 143 |
+
+Greece's own way (Book 7 — G11 EPAL History of Clothing I (student book, Greek)): clothing history is taught civilisation by civilisation — each chapter first gives the period's history in brief, then reads its society through women's and men's dress, fabrics and accessories, with primary sources and images. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)**
+- Title as printed: Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2946-0
+- PDF pages: 290 (cover/title page verified against the record title; byte size 23,175,326 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 24 placements — 8 to existing lessons, 16 NEW LESSON NEEDED
+- Greece's own way: the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 2.2: The Western Middle Ages — story beats: castle and monastery furniture is heavy, rare and made to travel with a lord's household (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Greece, *Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos*, printed p. 69 |
+
+Greece's own way (Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)): the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

@@ -1,6 +1,6 @@
 # Sources — Christianity — from persecuted sect to state religion
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China, Venezuela, Moldova, Armenia, Vietnam
+countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China, Venezuela, Moldova, Armenia, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -375,4 +375,82 @@ Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 
 
 Vietnam's own way (Book 13 — G12 History study topics (student book, Vietnamese)): the final-year electives turn from events to systems — the pupil maps the nation's whole belief ecology from family altar to world religions, studies Japan as the region's development mirror, and ends with Vietnam's own walk into ASEAN, the UN, APEC and the WTO as a dated, negotiated process. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 15 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China, Venezuela, Moldova, Armenia, Vietnam).**
+**Acceptance count: taught in 16 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China, Venezuela, Moldova, Armenia, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 5 — G5 History student book (student book, Greek)**
+- Title as printed: Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2584-4 (book code 0-10-0118)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,126,042 bytes, exactly matching the books.json size_bytes)
+- Verdict: COMPLETE
+- Tally: 43 placements — 12 to existing lessons, 31 NEW LESSON NEEDED
+- Greece's own way: a thousand years of Byzantium told as the biography of one city — Constantinople is founded, walled, rioted in, besieged, lost in 1204, regained and finally lost in 1453 — and the book opens by teaching children how to work with a history book and its sources before any story begins.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 8 Christianity becomes the state's official religion — story beats: within one lifetime Christianity moves from persecuted sect to Theodosius's official faith, and the old temples close (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)*, printed p. 29 |
+
+Greece's own way (Book 5 — G5 History student book (student book, Greek)): a thousand years of Byzantium told as the biography of one city — Constantinople is founded, walled, rioted in, besieged, lost in 1204, regained and finally lost in 1453 — and the book opens by teaching children how to work with a history book and its sources before any story begins. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G5 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2585-1 (book code 0-10-0119)
+- PDF pages: 58 (cover/title page verified against the record title; 4,306,687 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE (workbook has no exercise section for student-book Unit 37, Byzantine Cyprus — it passes straight from Unit 36 to Unit 38)
+- Tally: 45 placements — 13 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: the workbook is source-work — matching emperors' acts to results, reading source texts and pictures, and comparing then with now (how did the people reach the emperor then; how do we reach our rulers today).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 8 Christianity official exercises — story beats: pupils test whether Theodosius's and Julian's acts fit a Christian or a pagan emperor (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)*, printed p. 11 |
+
+Greece's own way (Book 6 — G5 History workbook (workbook, Greek)): the workbook is source-work — matching emperors' acts to results, reading source texts and pictures, and comparing then with now (how did the people reach the emperor then; how do we reach our rulers today). That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G7 Ancient History student book (student book, Greek)**
+- Title as printed: Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2655-1 (book code 0-21-0007)
+- PDF pages: 154 (cover/title page verified against the record title; 24,095,964 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 49 placements — 15 to existing lessons, 34 NEW LESSON NEEDED
+- Greece's own way: the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. J3 The spread of Christianity — story beats: Paul and the apostles carry the new faith along Roman roads through the Greek cities despite persecutions (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 142 |
+
+Greece's own way (Book 11 — G7 Ancient History student book (student book, Greek)): the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Late antiquity: the Roman state transformed (4th–5th c.) — story beats: Diocletian reorganises the empire, Constantine turns it Christian and eastern, peoples migrate in, and the West falls while the East Hellenises (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 236 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G9 Ecclesiastical History Topics (student book, Greek)**
+- Title as printed: Θέματα Εκκλησιαστικής Ιστορίας — Εκκλησιαστική Ιστορία και Πατέρες και Θεολόγοι της Εκκλησίας, Τεύχος Α' (Topics of Ecclesiastical History, G' Ecclesiastical Gymnasium), by Dimitrios N. Moschos & Evangelia Voulgaraki
+- Grade: 9 (student/teacher: STUDENT) — ecclesiastical school track
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2024; ISBN 978-960-06-6217-7
+- PDF pages: 114 (cover/title page verified against the record title; byte size 13,445,336 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 13 placements — 4 to existing lessons, 9 NEW LESSON NEEDED
+- Greece's own way: church history is taught as the story of a travelling community — the preface pictures the Church as a ship the learners themselves crew — and every chapter is framed as a question the community had to answer, not a list of dates.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The opening from Palestine to the Greco-Roman world — story beats: a Jewish movement in Jerusalem becomes, within a generation, Greek-speaking communities across the Roman cities (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Greece, *Θέματα Εκκλησιαστικής Ιστορίας — Εκκλησιαστική Ιστορία και Πατέρες και Θεολόγοι της Εκκλησίας, Τεύχος Α' (Topics of Ecclesiastical History, G' Ecclesiastical Gymnasium), by Dimitrios N. Moschos & Evangelia Voulgaraki*, printed p. 9 |
+| Greece part — Persecutions, recognition and acceptance of Christianity — story beats: emperors persecute the Church in waves; Constantine legalises it, and within a century it is the empire's own religion (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Greece, *Θέματα Εκκλησιαστικής Ιστορίας — Εκκλησιαστική Ιστορία και Πατέρες και Θεολόγοι της Εκκλησίας, Τεύχος Α' (Topics of Ecclesiastical History, G' Ecclesiastical Gymnasium), by Dimitrios N. Moschos & Evangelia Voulgaraki*, printed p. 18 |
+
+Greece's own way (Book 2 — G9 Ecclesiastical History Topics (student book, Greek)): church history is taught as the story of a travelling community — the preface pictures the Church as a ship the learners themselves crew — and every chapter is framed as a question the community had to answer, not a list of dates. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -2244,4 +2244,81 @@ Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese
 
 Vietnam's own way (Book 12 — G11 Art theory & history (student book, Vietnamese)): where Grade 10's art book surveyed the past, Grade 11's teaches the pupil to work like a historian of art — verify the sources on an artist, date a work from documents, and read paintings as evidence, with Vietnam's resistance generation as the case study. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 44 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**
+**Acceptance count: taught in 45 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 5 — G5 History student book (student book, Greek)**
+- Title as printed: Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2584-4 (book code 0-10-0118)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,126,042 bytes, exactly matching the books.json size_bytes)
+- Verdict: COMPLETE
+- Tally: 43 placements — 12 to existing lessons, 31 NEW LESSON NEEDED
+- Greece's own way: a thousand years of Byzantium told as the biography of one city — Constantinople is founded, walled, rioted in, besieged, lost in 1204, regained and finally lost in 1453 — and the book opens by teaching children how to work with a history book and its sources before any story begins.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Introduction: How we work with the History book — story beats: before any past is told, pupils learn the historian's kit — sources, maps, timelines and pictures — and what this year's story will cover (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)*, printed p. 5 |
+
+Greece's own way (Book 5 — G5 History student book (student book, Greek)): a thousand years of Byzantium told as the biography of one city — Constantinople is founded, walled, rioted in, besieged, lost in 1204, regained and finally lost in 1453 — and the book opens by teaching children how to work with a history book and its sources before any story begins. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — G7 History thematic folder: The Acropolis of Athens (teacher folder, Greek)**
+- Title as printed: Θεματικός Φάκελος — Στο ψηλότερο σημείο: Η Ακρόπολη της Αθήνας, Α΄ Γυμνασίου (Thematic Folder: At the Highest Point — The Acropolis of Athens)
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year 2020; ISBN 978-960-06-6126-2 (book code 0-21-0198)
+- PDF pages: 42 (cover/title page verified against the record title; 1,152,886 bytes matches the books.json size_bytes; grabbed via grab.py tree route)
+- Verdict: COMPLETE
+- Tally: 4 placements — 1 to existing lessons, 3 NEW LESSON NEEDED
+- Greece's own way: a teacher's inquiry dossier, not a textbook — three teaching hours built on research questions ("Why is the Acropolis considered so important?"), source packs, worksheets, a comic-making task and an appendix of extra sources, training the second-order concepts (time, significance, cause, empathy, moral dimension) on one hill.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Appendix of additional sources for the teacher — story beats: a bank of written, visual and digital sources (Gombrich on the temples, the Acropolis Museum guide on alliance decrees, Platon on conservation) models how a history is built from evidence (teacher folder — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Greece, *Θεματικός Φάκελος — Στο ψηλότερο σημείο: Η Ακρόπολη της Αθήνας, Α΄ Γυμνασίου (Thematic Folder: At the Highest Point — The Acropolis of Athens)*, printed p. 33 |
+
+Greece's own way (Book 13 — G7 History thematic folder: The Acropolis of Athens (teacher folder, Greek)): a teacher's inquiry dossier, not a textbook — three teaching hours built on research questions ("Why is the Acropolis considered so important?"), source packs, worksheets, a comic-making task and an appendix of extra sources, training the second-order concepts (time, significance, cause, empathy, moral dimension) on one hill. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 15 — G8 History thematic folder: Wealth & Poverty in Byzantine Society (teacher folder, Greek)**
+- Title as printed: Θεματικός Φάκελος — Πλούτος και Φτώχεια στη Βυζαντινή Κοινωνία, Β΄ Γυμνασίου (Thematic Folder: Wealth and Poverty in Byzantine Society)
+- Grade: Grade 8 (student/teacher: TEACHER)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year 2020; ISBN 978-960-06-6127-9 (book code 0-21-0199)
+- PDF pages: 82 (cover/title page verified against the record title; 2,414,644 bytes matches the books.json size_bytes; grabbed via grab.py tree route)
+- Verdict: COMPLETE
+- Tally: 4 placements — 1 to existing lessons, 3 NEW LESSON NEEDED
+- Greece's own way: the companion dossier to Book 14's society sections — three source-based axes on rich and poor, the state between "dynatoi" and "penetes", and Byzantine philanthropy, closing with whole-class assessment exercises; social inequality is the explicit lens.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Closing assessment: whole-class evaluation exercises — story beats: pupils must argue the folder's question — how did rich and poor live, and who helped? — from the sources alone, the folder's method made visible (teacher folder — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Greece, *Θεματικός Φάκελος — Πλούτος και Φτώχεια στη Βυζαντινή Κοινωνία, Β΄ Γυμνασίου (Thematic Folder: Wealth and Poverty in Byzantine Society)*, printed p. 72 |
+
+Greece's own way (Book 15 — G8 History thematic folder: Wealth & Poverty in Byzantine Society (teacher folder, Greek)): the companion dossier to Book 14's society sections — three source-based axes on rich and poor, the state between "dynatoi" and "penetes", and Byzantine philanthropy, closing with whole-class assessment exercises; social inequality is the explicit lens. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G9 History Thematic Folder: Heraklion (teacher/classroom dossier, Greek)**
+- Title as printed: Θεματικός Φάκελος — Από τη Βενετοκρατία στην Οθωμανική κυριαρχία: Το Ηράκλειο Κρήτης (Thematic Folder — From Venetian Rule to Ottoman Domination: Heraklion, Crete), Γ' Γυμνασίου
+- Grade: 9 (student/teacher: TEACHER — a source dossier with worksheets for classroom use; the record lists it as teacher)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2020; ISBN 978-960-06-6128-6
+- PDF pages: 58 (cover/title page verified against the record title; byte size 3,494,602 matches the record exactly; the books.json tree route 404'd and no release asset could be located under the pushed naming, so the identical ministry PDF was read from the record's own source_url — see library debts)
+- Verdict: COMPLETE
+- Tally: 7 placements — 4 to existing lessons, 3 NEW LESSON NEEDED
+- Greece's own way: a whole dossier teaches history through one city: five worksheets, 56 numbered primary and secondary sources, group work and a research question — local history as the model for investigating any Greek town.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — How the thematic folder works: the research question and the worksheets — story beats: learners are given a question, not a chapter, and must build the answer out of sources in groups (teacher folder — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Greece, *Θεματικός Φάκελος — Από τη Βενετοκρατία στην Οθωμανική κυριαρχία: Το Ηράκλειο Κρήτης (Thematic Folder — From Venetian Rule to Ottoman Domination: Heraklion, Crete), Γ' Γυμνασίου*, printed p. 5 |
+
+Greece's own way (Book 3 — G9 History Thematic Folder: Heraklion (teacher/classroom dossier, Greek)): a whole dossier teaches history through one city: five worksheets, 56 numbered primary and secondary sources, group work and a research question — local history as the model for investigating any Greek town. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14 — G12 Themes of Modern Greek History (student book, Greek)**
+- Title as printed: Θέματα Νεοελληνικής Ιστορίας (Themes of Modern Greek History), Γ' Γενικού Λυκείου, Humanities orientation group; one author per theme: Georgios Margaritis (economy), Agathoklis Azelis (political parties), Nikolaos Andriotis (the refugee question), Theocharis Detorakis (the Cretan question), Konstantinos Fotiadis (Black Sea Hellenism)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2418-2
+- PDF pages: 290 (cover/title page verified against the record title; byte size 18,778,027 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 43 placements — 2 to existing lessons, 41 NEW LESSON NEEDED
+- Greece's own way: instead of another chronological survey, the final-year humanities book takes five deep themes — economy, parties, refugees, Crete, Pontus — and follows each across a century or more, closing with a source appendix (Parathemata) for document work.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Appendix: Parathemata (source extracts) — story beats: the book closes with numbered documents for each theme, so learners test the narratives against the evidence themselves (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Greece, *Θέματα Νεοελληνικής Ιστορίας (Themes of Modern Greek History), Γ' Γενικού Λυκείου, Humanities orientation group; one author per theme: Georgios Margaritis (economy), Agathoklis Azelis (political parties), Nikolaos Andriotis (the refugee question), Theocharis Detorakis (the Cretan question), Konstantinos Fotiadis (Black Sea Hellenism)*, printed p. 261 |
+
+Greece's own way (Book 14 — G12 Themes of Modern Greek History (student book, Greek)): instead of another chronological survey, the final-year humanities book takes five deep themes — economy, parties, refugees, Crete, Pontus — and follows each across a century or more, closing with a source appendix (Parathemata) for document work. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

@@ -1,6 +1,6 @@
 # Sources — Macedonia and Alexander the Great
 
-countries: Montenegro, Pakistan, North Macedonia, Moldova, Armenia
+countries: Montenegro, Pakistan, North Macedonia, Moldova, Armenia, Greece
 
 **Book 1:** *ИСТОРИЈА за шести разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за шести разред основне школе (Istorija za šesti razred osnovne škole — History for the Sixth Grade of Primary School), DAISY edition. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva (ЗУНС), Podgorica; year 2016; no ISBN printed (the DAISY package metadata carries none). PDF pages: no PDF — DAISY ZIP (339,462,410 bytes, 457 entries); printed book runs to p. 113+ (text read in full from dtbook.xml, 598,153 bytes). Verdict: COMPLETE. Tally: 23 placements — 13 to existing lessons, 10 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
 
@@ -89,6 +89,59 @@ Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/macedonia-
 
 Armenia's own way (Book A1 — G7 World History student (student book, Armenian)): a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 5 countries (Montenegro, Pakistan, North Macedonia, Moldova, Armenia).**
+**Acceptance count: taught in 6 countries (Montenegro, Pakistan, North Macedonia, Moldova, Armenia, Greece).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/macedonia-and-alexander-the-great
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 3 — G4 History student book (student book, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2553-0 (book code 0-10-0090)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,179,619 bytes, exactly matching the books.json size_bytes; the >20 MB blob route is the one that failed on Book 1)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 31 Alexander takes Asia Minor and Egypt — story beats: young Alexander crosses into Asia, frees the Greek cities, defeats Darius's armies and is welcomed in Egypt, founding cities as he goes (History expansion, 2026-11-15; original placement slug: ancient-world/alexander-the-great-conquers-the-persian-empire) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 98 |
+| Greece part — Ch. 32 The march to India; the end of the campaign — story beats: at the Indus Alexander meets his great disappointment — his exhausted soldiers refuse to go further, and he turns for home (History expansion, 2026-11-15; original placement slug: ancient-world/alexander-the-great-conquers-the-persian-empire) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 101 |
+| Greece part — Ch. 33 The death of Alexander — story beats: Alexander dies at Babylon leaving sixteen cities named Alexandria and an empire glittering with new buildings and no heir (History expansion, 2026-11-15; original placement slug: ancient-world/alexander-the-great-conquers-the-persian-empire) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 104 |
+
+Greece's own way (Book 3 — G4 History student book (student book, Greek)): one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G4 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2554-7 (book code 0-10-0091)
+- PDF pages: 58 (cover/title page verified against the record title; 5,112,943 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE
+- Tally: 44 placements — 12 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: one exercise page per student-book chapter plus a revision lesson per unit — ordering events, acrostics of generals' names, true/false and "imagine you are a child in Sparta" writing keep the national story active rather than memorised.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 31 Alexander takes Asia Minor and Egypt exercises — story beats: map work follows Alexander's first great victories and liberations (History expansion, 2026-11-15; original placement slug: ancient-world/alexander-the-great-conquers-the-persian-empire) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 37 |
+| Greece part — Ch. 32 March to India exercises — story beats: exercises end the campaign where the soldiers ended it — at the Indus, refusing to march on (History expansion, 2026-11-15; original placement slug: ancient-world/alexander-the-great-conquers-the-persian-empire) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 38 |
+| Greece part — Ch. 33 Death of Alexander exercises — story beats: true/false on Alexander's death and the cities he left behind (History expansion, 2026-11-15; original placement slug: ancient-world/alexander-the-great-conquers-the-persian-empire) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 39 |
+| Greece part — Revision lesson, Classical years — story beats: a crossword gathers Persian Wars, golden age, Peloponnesian War and Alexander into one Classical whole (History expansion, 2026-11-15; original placement slug: ancient-world/alexander-the-great-conquers-the-persian-empire) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 40 |
+
+Greece's own way (Book 4 — G4 History workbook (workbook, Greek)): one exercise page per student-book chapter plus a revision lesson per unit — ordering events, acrostics of generals' names, true/false and "imagine you are a child in Sparta" writing keep the national story active rather than memorised. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G7 Ancient History student book (student book, Greek)**
+- Title as printed: Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2655-1 (book code 0-21-0007)
+- PDF pages: 154 (cover/title page verified against the record title; 24,095,964 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 49 placements — 15 to existing lessons, 34 NEW LESSON NEEDED
+- Greece's own way: the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. G3 Alexander: the conquest of the East — story beats: Granicus, Issus and Gaugamela in seven years unmake the Persian Empire, and Egypt crowns its liberator pharaoh (History expansion, 2026-11-15; original placement slug: ancient-world/alexander-the-great-conquers-the-persian-empire) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 100 |
+| Greece part — Ch. G4 The work of Alexander — story beats: cities, trade roads and a common Greek tongue bind East and West into one world after the conqueror's early death (History expansion, 2026-11-15; original placement slug: ancient-world/alexander-the-great-conquers-the-persian-empire) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 102 |
+
+Greece's own way (Book 11 — G7 Ancient History student book (student book, Greek)): the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

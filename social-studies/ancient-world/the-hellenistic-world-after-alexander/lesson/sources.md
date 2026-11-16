@@ -1,6 +1,6 @@
 # Sources — The Hellenistic World After Alexander
 
-countries: Armenia
+countries: Armenia, Greece
 
 **Book A1 — G7 World History student (student book, Armenian)**
 - Title as printed: «Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan
@@ -42,6 +42,75 @@ Armenia's own way (Book A1 — G7 World History student (student book, Armenian)
 Armenia's own way (Book A3 — G7 World History teacher guide (teacher guide, Armenian)): a 68-lesson thematic plan for the student book with per-lesson teaching notes; the guide repeatedly teaches world events through Armenia's stake in them (Alexander's victory frees Armenia from Persia; Hellenistic culture is explained through Armenia's own Greek-lettered coins and inscriptions). That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 Armenia's own way (Book B6 — G10 World History Student (student book, Armenian)): Grade 10 World History is organised by civilisation rather than by date — each ancient society is presented through its "civilisation achievements" and what it left to the modern world, running from Egypt and Mesopotamia through Greece, Rome, Africa's empires and the Islamic world to the Reformation. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 1 country (Armenia).**
+**Acceptance count: taught in 2 countries (Armenia, Greece).**
 
 Searchable tags: Armenia, The Hellenistic World After Alexander, ancient-world/the-hellenistic-world-after-alexander, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 3 — G4 History student book (student book, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2553-0 (book code 0-10-0090)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,179,619 bytes, exactly matching the books.json size_bytes; the >20 MB blob route is the one that failed on Book 1)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 34 Alexander's empire is divided — story beats: the Successors carve the empire into kingdoms — Ptolemy's Egypt, the Seleucid east, and later Pergamon on the Asian coast (History expansion, 2026-11-15; original placement slug: ancient-world/the-hellenistic-kingdoms-after-alexander) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 107 |
+| Greece part — Ch. 35 Pyrrhus, king of Epirus — story beats: Pyrrhus wins battles against Rome at such cost that "Pyrrhic victory" enters the language, and his dream dies with his third defeat (History expansion, 2026-11-15; original placement slug: ancient-world/the-hellenistic-kingdoms-after-alexander) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 110 |
+| Greece part — Ch. 36 Daily life in Hellenistic times — story beats: festivals and fairs break the rhythm of work in great cosmopolitan cities where Greeks and easterners live side by side (History expansion, 2026-11-15; original placement slug: ancient-world/the-hellenistic-kingdoms-after-alexander) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 113 |
+| Greece part — Ch. 37 Arts and letters in Hellenistic times — story beats: Aristarchus of Samos first puts the sun at the centre, Alexandria's library gathers the world's books, and Rhodes raises its Colossus (History expansion, 2026-11-15; original placement slug: ancient-world/the-hellenistic-kingdoms-after-alexander) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 115 |
+
+Greece's own way (Book 3 — G4 History student book (student book, Greek)): one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G4 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2554-7 (book code 0-10-0091)
+- PDF pages: 58 (cover/title page verified against the record title; 5,112,943 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE
+- Tally: 44 placements — 12 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: one exercise page per student-book chapter plus a revision lesson per unit — ordering events, acrostics of generals' names, true/false and "imagine you are a child in Sparta" writing keep the national story active rather than memorised.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 34–35 Successors and Pyrrhus exercises — story beats: ordering Pyrrhus's costly victories inside the division of Alexander's empire (History expansion, 2026-11-15; original placement slug: ancient-world/the-hellenistic-kingdoms-after-alexander) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 42 |
+| Greece part — Ch. 36 Hellenistic daily life exercises — story beats: exercises picture festivals and city life across the Hellenistic kingdoms (History expansion, 2026-11-15; original placement slug: ancient-world/the-hellenistic-kingdoms-after-alexander) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 44 |
+| Greece part — Ch. 37 Hellenistic arts and letters exercises — story beats: matching scholars and wonders — Aristarchus, the Library, the Colossus — to their cities (History expansion, 2026-11-15; original placement slug: ancient-world/the-hellenistic-kingdoms-after-alexander) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 45 |
+
+Greece's own way (Book 4 — G4 History workbook (workbook, Greek)): one exercise page per student-book chapter plus a revision lesson per unit — ordering events, acrostics of generals' names, true/false and "imagine you are a child in Sparta" writing keep the national story active rather than memorised. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G7 Ancient History student book (student book, Greek)**
+- Title as printed: Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2655-1 (book code 0-21-0007)
+- PDF pages: 154 (cover/title page verified against the record title; 24,095,964 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 49 placements — 15 to existing lessons, 34 NEW LESSON NEEDED
+- Greece's own way: the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. I1 The Hellenistic kingdoms — story beats: Ptolemies, Seleucids and Antigonids rule Greek-speaking empires from Alexandria to Bactria (History expansion, 2026-11-15; original placement slug: ancient-world/the-hellenistic-kingdoms-after-alexander) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 118 |
+| Greece part — Ch. I2 The situation in the Greek lands — story beats: the Achaean and Aetolian leagues federate the old cities in a last experiment of Greek freedom (History expansion, 2026-11-15; original placement slug: ancient-world/the-hellenistic-kingdoms-after-alexander) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 121 |
+| Greece part — Ch. I5 Letters and arts of Hellenistic times — story beats: Alexandria's Museum and Library, Euclid and Archimedes carry Greek learning into science (History expansion, 2026-11-15; original placement slug: ancient-world/the-hellenistic-kingdoms-after-alexander) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 127 |
+
+Greece's own way (Book 11 — G7 Ancient History student book (student book, Greek)): the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Hellenistic world: Alexander's empire breaks apart — story beats: Alexander dies young, his generals carve the empire into kingdoms, and Greek cities from Egypt to Bactria share one world (History expansion, 2026-11-15; original placement slug: ancient-world/alexander-and-the-hellenistic-kingdoms) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 124 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

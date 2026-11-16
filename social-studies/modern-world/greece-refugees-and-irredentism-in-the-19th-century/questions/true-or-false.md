@@ -1,0 +1,9 @@
+# Greece Refugees And Irredentism In The 19th Century — true or false
+
+Say True or False, and why.
+
+**1. (Sub lesson 1)** risings in Thessaly, Epirus, Macedonia and Crete send wave after wave of refugees into the kingdom, keeping the Great Idea alive.
+**Answer: True** — the book tells this in Theme 3 D: Refugees and irredentist movements in the 19th century
+
+**2. (Sub lesson 1)** This part of *Θέματα Νεοελληνικής Ιστορίας (Themes of Modern Greek History), Γ' Γενικού Λυκείου, Humanities orientation group; one author per theme: Georgios Margaritis (economy), Agathoklis Azelis (political parties), Nikolaos Andriotis (the refugee question), Theocharis Detorakis (the Cretan question), Konstantinos Fotiadis (Black Sea Hellenism)* is about a different part of this story, told in another lesson of this expansion.
+**Answer: False** — it is about Theme 3 D: Refugees and irredentist movements in the 19th century

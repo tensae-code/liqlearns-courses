@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -856,4 +856,21 @@ Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian))
 
 Vietnam's own way (Book 4 — G7 History and Geography (student book, Vietnamese)): medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo). That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 29 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**
+**Acceptance count: taught in 30 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)**
+- Title as printed: Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2799-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 21,429,996 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 55 placements — 25 to existing lessons, 30 NEW LESSON NEEDED
+- Greece's own way: the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The geographical discoveries and their consequences — story beats: sailors round Africa and cross the Atlantic; silver, slaves and new foods remake three continents (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 3 |
+
+Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

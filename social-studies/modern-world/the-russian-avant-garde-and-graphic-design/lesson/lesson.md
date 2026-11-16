@@ -1,0 +1,21 @@
+# The Russian Avant Garde And Graphic Design
+
+## Do it first
+
+Before you read on, hold this lesson's one thing in mind: Rodchenko and Lissitzky put photomontage and diagonal type at the revolution's service As you read, keep asking where each part of that sentence is proved.
+
+## Sub lesson 1 — Unit 20: The art movements of the Russian avant-garde and graphic design
+
+Rodchenko and Lissitzky put photomontage and diagonal type at the revolution's service
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Say it to your companion
+
+Tell your companion the story as its beats, in order: Unit 20: The art movements of the Russian avant-garde and graphic design — Rodchenko and Lissitzky put photomontage and diagonal type at the revolution's service. Then let your companion ask you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. Rodchenko and Lissitzky put photomontage and diagonal type at the revolution's service
+2. Write, from memory, the lesson's key names and places in the order they happened.
+3. Say what Greece's own way of teaching this story is, from the books in lesson/sources.md.

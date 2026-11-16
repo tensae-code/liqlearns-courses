@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1168,4 +1168,36 @@ Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese
 
 Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese)): Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 36 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam).**
+**Acceptance count: taught in 37 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 11 — G7 Ancient History student book (student book, Greek)**
+- Title as printed: Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2655-1 (book code 0-21-0007)
+- PDF pages: 154 (cover/title page verified against the record title; 24,095,964 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 49 placements — 15 to existing lessons, 34 NEW LESSON NEEDED
+- Greece's own way: the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. B1 The peoples and civilisations of the Near East — story beats: river civilisations of Mesopotamia and Egypt and their neighbours invent writing, cities and empires around the Aegean's eastern shore (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Greece, *Αρχαία Ιστορία Α΄ Γυμνασίου — Βιβλίο Μαθητή (Ancient History, Grade 7 Gymnasium: From Prehistory to Constantine)*, printed p. 14 |
+
+Greece's own way (Book 11 — G7 Ancient History student book (student book, Greek)): the primary-school story is retold at gymnasium level as analysis — periodised chapters (Stone Age to "From Rome to Byzantium"), every section carrying sources, self-assessment exercises with printed answers, and a glossary; Cyprus's fortunes get their own section inside Alexander's chapter, a Greek-Cypriot thread the primary books do not have. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Mesopotamia: the land between the Tigris and Euphrates — story beats: river farmers between two rivers build the first cities; kings and gods rule them; writing and science grow out of daily work (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 10 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

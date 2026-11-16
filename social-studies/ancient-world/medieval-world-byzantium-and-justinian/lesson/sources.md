@@ -1,6 +1,6 @@
 # Sources — Medieval world — Byzantium and Justinian
 
-countries: Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China, Moldova, Armenia, Nicaragua, Vietnam
+countries: Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China, Moldova, Armenia, Nicaragua, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -347,4 +347,120 @@ Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (stude
 
 Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese)): Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 15 countries (Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China, Moldova, Armenia, Nicaragua, Vietnam).**
+**Acceptance count: taught in 16 countries (Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China, Moldova, Armenia, Nicaragua, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 5 — G5 History student book (student book, Greek)**
+- Title as printed: Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2584-4 (book code 0-10-0118)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,126,042 bytes, exactly matching the books.json size_bytes)
+- Verdict: COMPLETE
+- Tally: 43 placements — 12 to existing lessons, 31 NEW LESSON NEEDED
+- Greece's own way: a thousand years of Byzantium told as the biography of one city — Constantinople is founded, walled, rioted in, besieged, lost in 1204, regained and finally lost in 1453 — and the book opens by teaching children how to work with a history book and its sources before any story begins.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 13 Justinian reforms administration and legislation — story beats: Justinian and Tribonian gather Roman law into one code that will govern Europe for a thousand years (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)*, printed p. 42 |
+| Greece part — Unit 14 The Demes upset the capital with the Nika riot — story beats: Blues and Greens unite in the cry "Nika!", burn half the city, and Theodora's refusal to flee saves Justinian's throne (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)*, printed p. 45 |
+| Greece part — Unit 15 Hagia Sophia, a masterpiece of architecture — story beats: on the ashes of the riot Anthemius and Isidore raise Hagia Sophia's floating dome in under six years (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)*, printed p. 47 |
+| Greece part — Unit 16 The Byzantine state reaches the empire's old borders — story beats: Belisarius reconquers Africa and Italy, and Justinian's map almost restores the old Roman world — at a ruinous price (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια (History, Grade 5 Primary: In Byzantine Times)*, printed p. 49 |
+
+Greece's own way (Book 5 — G5 History student book (student book, Greek)): a thousand years of Byzantium told as the biography of one city — Constantinople is founded, walled, rioted in, besieged, lost in 1204, regained and finally lost in 1453 — and the book opens by teaching children how to work with a history book and its sources before any story begins. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G5 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2585-1 (book code 0-10-0119)
+- PDF pages: 58 (cover/title page verified against the record title; 4,306,687 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE (workbook has no exercise section for student-book Unit 37, Byzantine Cyprus — it passes straight from Unit 36 to Unit 38)
+- Tally: 45 placements — 13 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: the workbook is source-work — matching emperors' acts to results, reading source texts and pictures, and comparing then with now (how did the people reach the emperor then; how do we reach our rulers today).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit 13 Justinian reforms exercises — story beats: exercises follow Justinian gathering the laws and tightening the state (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)*, printed p. 16 |
+| Greece part — Unit 14 Nika riot exercises — story beats: pupils ask how the people spoke to the emperor then — acclamations in the Hippodrome — and how citizens speak to power now (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)*, printed p. 17 |
+| Greece part — Unit 15 Hagia Sophia exercises — story beats: matching church plans and styles reads Hagia Sophia against older temples (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)*, printed p. 18 |
+| Greece part — Unit 16 Empire regains old borders exercises — story beats: map work follows Belisarius's reconquests to the old Roman frontiers (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)*, printed p. 20 |
+| Greece part — Revision of Units 1–16 — story beats: picture description and chronological ordering bind Rome's transformation into Byzantium (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)*, printed p. 21 |
+| Greece part — General revision — story beats: from "divide and rule" to picking the year's three key events, the whole Byzantine millennium is judged by the pupils themselves (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία Ε΄ Δημοτικού — Στα Βυζαντινά Χρόνια, Τετράδιο Εργασιών (History Grade 5 workbook)*, printed p. 53 |
+
+Greece's own way (Book 6 — G5 History workbook (workbook, Greek)): the workbook is source-work — matching emperors' acts to results, reading source texts and pictures, and comparing then with now (how did the people reach the emperor then; how do we reach our rulers today). That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14 — G8 Medieval & Modern History student book (student book, Greek)**
+- Title as printed: Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2720-6 (book code 0-21-0087)
+- PDF pages: 154 (cover/title page verified against the record title; 33,113,265 bytes matches the books.json size_bytes; grabbed via grab.py release route)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 1.II.1 Justinian and his work — story beats: law code, Hagia Sophia, reconquest of the West — and plague and empty coffers as the bill (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Μεσαιωνική και Νεότερη Ιστορία Β΄ Γυμνασίου — Βιβλίο Μαθητή (Medieval and Modern History, Grade 8 Gymnasium)*, printed p. 16 |
+
+Greece's own way (Book 14 — G8 Medieval & Modern History student book (student book, Greek)): Byzantium is the spine — four of seven chapters — told as rise, golden age, crisis and fall, with its society (the "dynatoi" against the "penetes") and culture given full chapters; western medieval Europe and the early-modern turn are taught around it, and the book ends not in 1453 but with Hellenism living on under Venetian and Ottoman rule. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The age of Justinian — story beats: Justinian reconquers the West for a Roman world that is now Greek and Christian, and codifies its law (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 256 |
+| Greece part — Letters and arts of late antiquity — story beats: Christian learning and art grow inside Roman forms — churches, mosaics and histories of a changing world (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 261 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — From antiquity to the Middle Ages (introduction) — story beats: cities shrink behind walls, temples become churches, and Rome's eastern half slowly turns into Christian, Greek Byzantium (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 7 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G11 EPAL History of Clothing I (student book, Greek)**
+- Title as printed: Ιστορία ενδυμασίας Ι (History of Clothing I), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelia N. Georgitsoyanni
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-3146-3 (volume I of set 978-960-06-3145-6)
+- PDF pages: 182 (cover/title page verified against the record title; byte size 12,287,070 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 8 placements — 7 to existing lessons, 1 NEW LESSON NEEDED
+- Greece's own way: clothing history is taught civilisation by civilisation — each chapter first gives the period's history in brief, then reads its society through women's and men's dress, fabrics and accessories, with primary sources and images.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 6: Byzantium — the empire's dress, women's and men's clothing, fabrics and accessories — story beats: court dress becomes ceremony — silk, gold embroidery and prescribed colours rank the whole empire around the emperor (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία ενδυμασίας Ι (History of Clothing I), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelia N. Georgitsoyanni*, printed p. 125 |
+
+Greece's own way (Book 7 — G11 EPAL History of Clothing I (student book, Greek)): clothing history is taught civilisation by civilisation — each chapter first gives the period's history in brief, then reads its society through women's and men's dress, fabrics and accessories, with primary sources and images. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)**
+- Title as printed: Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2946-0
+- PDF pages: 290 (cover/title page verified against the record title; byte size 23,175,326 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 24 placements — 8 to existing lessons, 16 NEW LESSON NEEDED
+- Greece's own way: the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 2.1: Byzantium — story beats: icons, ivory, enamel and silk carry imperial and church splendour into the home and the palace (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Greece, *Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos*, printed p. 55 |
+
+Greece's own way (Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)): the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

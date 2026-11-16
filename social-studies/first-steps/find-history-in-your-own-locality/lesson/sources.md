@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia, Honduras, Vietnam
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia, Honduras, Vietnam, Greece
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1457,4 +1457,51 @@ Vietnam's own way (Book 7 — G10 History Study Topics (student book, Vietnamese
 
 Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 32 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia, Honduras, Vietnam).**
+**Acceptance count: taught in 33 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia, Honduras, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 3 — G4 History student book (student book, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2553-0 (book code 0-10-0090)
+- PDF pages: 146 (cover/title page verified against the record title; read from the record's ministry source_url — 24,179,619 bytes, exactly matching the books.json size_bytes; the >20 MB blob route is the one that failed on Book 1)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 43 Topics of local history: the history of my place — story beats: the child interviews grandparents, follows a family festival letter and tracks one local monument (the Fortezza) from yesterday to today (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια (History, Grade 4 Primary: In Ancient Times)*, printed p. 137 |
+
+Greece's own way (Book 3 — G4 History student book (student book, Greek)): one continuous national story from the Dorians to the Roman conquest, told chapter by chapter as biography and battle — Marathon, Thermopylae, Salamis get a full heroic chapter each — and the book ends by turning the child into a local historian of their own place. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G4 History workbook (workbook, Greek)**
+- Title as printed: Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: reissue of the 2013 edition; ISBN 978-960-06-2554-7 (book code 0-10-0091)
+- PDF pages: 58 (cover/title page verified against the record title; 5,112,943 bytes matches the books.json size_bytes; grabbed via grab.py)
+- Verdict: COMPLETE
+- Tally: 44 placements — 12 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: one exercise page per student-book chapter plus a revision lesson per unit — ordering events, acrostics of generals' names, true/false and "imagine you are a child in Sparta" writing keep the national story active rather than memorised.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch. 43 History of my place exercises — story beats: pupils research their own surname from the elders and write their place's history — the book ends in the child's own family (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Greece, *Ιστορία Δ΄ Δημοτικού — Στα Αρχαία Χρόνια, Τετράδιο Εργασιών (History Grade 4 workbook)*, printed p. 52 |
+
+Greece's own way (Book 4 — G4 History workbook (workbook, Greek)): one exercise page per student-book chapter plus a revision lesson per unit — ordering events, acrostics of generals' names, true/false and "imagine you are a child in Sparta" writing keep the national story active rather than memorised. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G9 History Thematic Folder: Heraklion (teacher/classroom dossier, Greek)**
+- Title as printed: Θεματικός Φάκελος — Από τη Βενετοκρατία στην Οθωμανική κυριαρχία: Το Ηράκλειο Κρήτης (Thematic Folder — From Venetian Rule to Ottoman Domination: Heraklion, Crete), Γ' Γυμνασίου
+- Grade: 9 (student/teacher: TEACHER — a source dossier with worksheets for classroom use; the record lists it as teacher)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2020; ISBN 978-960-06-6128-6
+- PDF pages: 58 (cover/title page verified against the record title; byte size 3,494,602 matches the record exactly; the books.json tree route 404'd and no release asset could be located under the pushed naming, so the identical ministry PDF was read from the record's own source_url — see library debts)
+- Verdict: COMPLETE
+- Tally: 7 placements — 4 to existing lessons, 3 NEW LESSON NEEDED
+- Greece's own way: a whole dossier teaches history through one city: five worksheets, 56 numbered primary and secondary sources, group work and a research question — local history as the model for investigating any Greek town.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Worksheet 5 (second part): the city as an archive — story beats: street names, walls and fountains become documents the learners read for themselves (teacher folder — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Greece, *Θεματικός Φάκελος — Από τη Βενετοκρατία στην Οθωμανική κυριαρχία: Το Ηράκλειο Κρήτης (Thematic Folder — From Venetian Rule to Ottoman Domination: Heraklion, Crete), Γ' Γυμνασίου*, printed p. 41 |
+
+Greece's own way (Book 3 — G9 History Thematic Folder: Heraklion (teacher/classroom dossier, Greek)): a whole dossier teaches history through one city: five worksheets, 56 numbered primary and secondary sources, group work and a research question — local history as the model for investigating any Greek town. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

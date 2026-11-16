@@ -1,6 +1,6 @@
 # Sources — The Thirty Years War And Westphalia
 
-countries: Moldova, Italy
+countries: Moldova, Italy, Greece
 
 **Book 3 — moldova-g06-history (student book, Romanian)**
 - Title as printed: Istoria românilor şi universală: Manual pentru clasa a VI-a
@@ -56,4 +56,21 @@ Italy's own way (Book 1 — La storia. Progettare il futuro, Vol. 1 (student boo
 
 Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)): Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 2 countries (Moldova, Italy).**
+**Acceptance count: taught in 3 countries (Moldova, Italy, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The rivalry of the European powers and the Thirty Years War (1618–1648) — story beats: a Bohemian revolt becomes Europe's religious-political inferno; Westphalia invents the sovereign-state order (History expansion, 2026-11-15; original placement slug: modern-world/the-thirty-years-war) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 146 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

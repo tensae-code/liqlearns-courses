@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Vietnam
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Vietnam, Greece
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -2072,4 +2072,51 @@ Vietnam's own way (Book 1 — G4 History and Geography (student book, Vietnamese
 
 Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese)): the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 46 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Vietnam).**
+**Acceptance count: taught in 47 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 4 — G10 Ancient World (student book, Greek)**
+- Title as printed: Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2013 (reprint 2016); ISBN 978-960-06-2314-7
+- PDF pages: 298 (cover/title page verified against the record title; byte size 17,594,697 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 30 placements — 24 to existing lessons, 6 NEW LESSON NEEDED
+- Greece's own way: each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chronological table of the ancient world — story beats: the book closes by laying every people's story on one timeline so learners can see who lived when (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 288 |
+
+Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)**
+- Title as printed: Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2354-3
+- PDF pages: 258 (cover/title page verified against the record title; byte size 31,775,416 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 54 placements — 21 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chronological tables (appendix) — story beats: the book's closing tables lay Greek and world events side by side on one timeline from 1815 to today (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Greece, *Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti*, printed p. 232 |
+
+Greece's own way (Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)): the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G11 EPAL History of Clothing II (student book, Greek)**
+- Title as printed: Ιστορία ενδυμασίας ΙΙ (History of Clothing II), Β' ΕΠΑ.Λ., Applied Arts sector, by Eleni Varopoulou & Damianos Zografos Zarifis
+- Grade: 11 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-3147-0 (volume II of set 978-960-06-3145-6)
+- PDF pages: 274 (cover/title page verified against the record title; byte size 47,338,180 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 10 placements — 2 to existing lessons, 8 NEW LESSON NEEDED
+- Greece's own way: the second volume follows dress style by style — Renaissance, Baroque, Rococo, Neoclassicism, Romanticism — always tying the silhouette to the age's politics and art, and gives Greek 19th-century dress (urban and rural) its own full section.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chronological table (appendix) — story beats: the closing table pins every style and garment to its dates, a timeline of five centuries of dress (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Greece, *Ιστορία ενδυμασίας ΙΙ (History of Clothing II), Β' ΕΠΑ.Λ., Applied Arts sector, by Eleni Varopoulou & Damianos Zografos Zarifis*, printed p. 267 |
+
+Greece's own way (Book 8 — G11 EPAL History of Clothing II (student book, Greek)): the second volume follows dress style by style — Renaissance, Baroque, Rococo, Neoclassicism, Romanticism — always tying the silhouette to the age's politics and art, and gives Greek 19th-century dress (urban and rural) its own full section. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

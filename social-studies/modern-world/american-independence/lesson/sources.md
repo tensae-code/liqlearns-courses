@@ -1,6 +1,6 @@
 # Sources — American independence
 
-countries: Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
+countries: Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -842,4 +842,66 @@ Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian))
 
 Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese)): Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 29 countries (Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**
+**Acceptance count: taught in 30 countries (Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 8 — G6 History student book (student book, Greek)**
+- Title as printed: Ιστορία ΣΤ΄ Δημοτικού — Ιστορία του Νεότερου και Σύγχρονου Κόσμου (History, Grade 6 Primary: History of the Modern and Contemporary World)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; year: 2018 edition; ISBN 978-960-06-3199-9 (book code 0-10-0182)
+- PDF pages: 242 (cover/title page verified against the record title; read from the record's ministry source_url — 45,446,905 bytes, exactly matching the books.json size_bytes)
+- Verdict: COMPLETE
+- Tally: 49 placements — 4 to existing lessons, 45 NEW LESSON NEEDED
+- Greece's own way: Europe gets three chapters; Greece gets forty-six. After a short European runway (Renaissance, Discoveries, 1776/1789), the book becomes a national epic — Ottoman centuries, the 1821 Revolution hero by hero and battle by battle, then state-building to the EU — every chapter paired with a "The sources narrate" dossier of letters, songs and memoirs.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Unit A, ch. 3 The American and French Revolutions — story beats: the colonists rise against Britain declaring that men are born equal (1776), and France follows with its own revolution — the two manifestos Greeks will read (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Greece, *Ιστορία ΣΤ΄ Δημοτικού — Ιστορία του Νεότερου και Σύγχρονου Κόσμου (History, Grade 6 Primary: History of the Modern and Contemporary World)*, printed p. 20 |
+
+Greece's own way (Book 8 — G6 History student book (student book, Greek)): Europe gets three chapters; Greece gets forty-six. After a short European runway (Renaissance, Discoveries, 1776/1789), the book becomes a national epic — Ottoman centuries, the 1821 Revolution hero by hero and battle by battle, then state-building to the EU — every chapter paired with a "The sources narrate" dossier of letters, songs and memoirs. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 16 — G9 Modern & Contemporary History student book (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» / Institute of Educational Policy; ISBN 978-960-06-2774-9 (book code 0-21-0151)
+- PDF pages: 194 (cover/title page verified against the record title; 22,275,331 bytes via grab.py release route — the books.json record for this book is the gr-b group's paired record; the TSV release asset is the same book)
+- Verdict: COMPLETE
+- Tally: 59 placements — 21 to existing lessons, 38 NEW LESSON NEEDED
+- Greece's own way: the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — §2 The American Revolution — story beats: thirteen colonies reject a king across an ocean and found a republic on the rights of man (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Greece, *Νεότερη και Σύγχρονη Ιστορία Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Modern and Contemporary History, Grade 9 Gymnasium)*, printed p. 14 |
+
+Greece's own way (Book 16 — G9 Modern & Contemporary History student book (student book, Greek)): the gymnasium cycle closes by deliberately teaching against memorisation (its own preface says so): two centuries from 1789 told as problems and inheritances, Greek history woven into Europe's at every step, with paired source extracts "from a different angle" and critical exercises instead of recitation. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 1 — G9 Modern & Contemporary History (student book, Greek)**
+- Title as printed: Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2774-9
+- PDF pages: 194 (cover/title page verified against the record title; byte size 22,275,331 matches the record exactly; grabbed via the mid-size-books release asset after the books.json tree route returned 404)
+- Verdict: COMPLETE
+- Tally: 70 placements — 25 to existing lessons, 45 NEW LESSON NEEDED
+- Greece's own way: world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The American revolution — story beats: Britain's colonies refuse its taxes, declare independence, and win a republic across the Atlantic (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Greece, *Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras*, printed p. 14 |
+
+Greece's own way (Book 1 — G9 Modern & Contemporary History (student book, Greek)): world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)**
+- Title as printed: Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2335-2
+- PDF pages: 210 (cover/title page verified against the record title; byte size 39,346,902 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 51 placements — 19 to existing lessons, 32 NEW LESSON NEEDED
+- Greece's own way: Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The American Revolution — story beats: thirteen colonies reject an empire and found a federal republic on Enlightenment paper (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 170 |
+
+Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

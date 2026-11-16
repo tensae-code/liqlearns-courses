@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova, Armenia, Nicaragua, Italy
+countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova, Armenia, Nicaragua, Italy, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -748,4 +748,21 @@ Italy's own way (Book 3 — La storia. Progettare il futuro, Vol. 2 (student boo
 
 Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)): Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-**Acceptance count: taught in 27 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova, Armenia, Nicaragua, Italy).**
+**Acceptance count: taught in 28 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova, Armenia, Nicaragua, Italy, Greece).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)**
+- Title as printed: Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2354-3
+- PDF pages: 258 (cover/title page verified against the record title; byte size 31,775,416 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 54 placements — 21 to existing lessons, 33 NEW LESSON NEEDED
+- Greece's own way: the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — The Industrial Revolution — story beats: factories, railways and a new working class remake society, and unions and socialism answer the factory owners (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | Greece, *Ιστορία του νεότερου και του σύγχρονου κόσμου (από το 1815 έως σήμερα) (History of the Modern and Contemporary World, from 1815 to today), Γ' Γενικού Λυκείου, by Ioannis Koliopoulos, Konstantinos Svolopoulos, Evanthis Hatzivassiliou, Theodoros Nimas & Haris Scholinaki-Chelioti*, printed p. 41 |
+
+Greece's own way (Book 13 — G12 Modern & Contemporary World History 1815–today (student book, Greek)): the final-year survey runs 1815 to the 21st century with Greek history woven into every European chapter rather than separated, and closes with a 60-page culture chapter and an epilogue on the challenges of the 21st century. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

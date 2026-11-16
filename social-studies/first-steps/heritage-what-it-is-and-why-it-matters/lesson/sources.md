@@ -2235,3 +2235,52 @@ Vietnam's own way (Book 14 — G12 History (student book, Vietnamese)): the fina
 Vietnam's own way (Book 15 — G12 Art (student book, Vietnamese)): in the final year the art elective turns from studying the past to staging it — the pupil learns to select, classify, label and publicise works, the same curatorial craft by which Vietnam's museums present the nation's history to the public. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 46 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos, China, Venezuela, Moldova, Nicaragua, Honduras, Vietnam).**
+
+## History expansion (2026-11-15) — Greece stocked
+
+**Book 3 — G9 History Thematic Folder: Heraklion (teacher/classroom dossier, Greek)**
+- Title as printed: Θεματικός Φάκελος — Από τη Βενετοκρατία στην Οθωμανική κυριαρχία: Το Ηράκλειο Κρήτης (Thematic Folder — From Venetian Rule to Ottoman Domination: Heraklion, Crete), Γ' Γυμνασίου
+- Grade: 9 (student/teacher: TEACHER — a source dossier with worksheets for classroom use; the record lists it as teacher)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; year 2020; ISBN 978-960-06-6128-6
+- PDF pages: 58 (cover/title page verified against the record title; byte size 3,494,602 matches the record exactly; the books.json tree route 404'd and no release asset could be located under the pushed naming, so the identical ministry PDF was read from the record's own source_url — see library debts)
+- Verdict: COMPLETE
+- Tally: 7 placements — 4 to existing lessons, 3 NEW LESSON NEEDED
+- Greece's own way: a whole dossier teaches history through one city: five worksheets, 56 numbered primary and secondary sources, group work and a research question — local history as the model for investigating any Greek town.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Worksheet 5: Heraklion through time — respect for memory and history? — story beats: the class walks its own city asking which Venetian and Ottoman remains were kept, which erased, and who decides (teacher folder — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Greece, *Θεματικός Φάκελος — Από τη Βενετοκρατία στην Οθωμανική κυριαρχία: Το Ηράκλειο Κρήτης (Thematic Folder — From Venetian Rule to Ottoman Domination: Heraklion, Crete), Γ' Γυμνασίου*, printed p. 41 |
+
+Greece's own way (Book 3 — G9 History Thematic Folder: Heraklion (teacher/classroom dossier, Greek)): a whole dossier teaches history through one city: five worksheets, 56 numbered primary and secondary sources, group work and a research question — local history as the model for investigating any Greek town. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14 — G12 Themes of Modern Greek History (student book, Greek)**
+- Title as printed: Θέματα Νεοελληνικής Ιστορίας (Themes of Modern Greek History), Γ' Γενικού Λυκείου, Humanities orientation group; one author per theme: Georgios Margaritis (economy), Agathoklis Azelis (political parties), Nikolaos Andriotis (the refugee question), Theocharis Detorakis (the Cretan question), Konstantinos Fotiadis (Black Sea Hellenism)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2418-2
+- PDF pages: 290 (cover/title page verified against the record title; byte size 18,778,027 matches the record exactly)
+- Verdict: COMPLETE
+- Tally: 43 placements — 2 to existing lessons, 41 NEW LESSON NEEDED
+- Greece's own way: instead of another chronological survey, the final-year humanities book takes five deep themes — economy, parties, refugees, Crete, Pontus — and follows each across a century or more, closing with a source appendix (Parathemata) for document work.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Theme 5 E: The cultural heritage of the refugees — story beats: language, dances, music and memory associations keep Pontic identity alive a century after the uprooting (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Greece, *Θέματα Νεοελληνικής Ιστορίας (Themes of Modern Greek History), Γ' Γενικού Λυκείου, Humanities orientation group; one author per theme: Georgios Margaritis (economy), Agathoklis Azelis (political parties), Nikolaos Andriotis (the refugee question), Theocharis Detorakis (the Cretan question), Konstantinos Fotiadis (Black Sea Hellenism)*, printed p. 258 |
+
+Greece's own way (Book 14 — G12 Themes of Modern Greek History (student book, Greek)): instead of another chronological survey, the final-year humanities book takes five deep themes — economy, parties, refugees, Crete, Pontus — and follows each across a century or more, closing with a source appendix (Parathemata) for document work. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G11/G12 EPAL Protection of Cultural Heritage (student book, Greek)**
+- Title as printed: Προστασία της Πολιτιστικής Κληρονομιάς (Protection of Cultural Heritage), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, Conservation of Works of Art – Restoration specialty, by Emmanouil V. Marmaras, Stavroula Ch. Rapti & Eleni Stamatiou
+- Grade: 11–12 (student/teacher: STUDENT) — vocational lyceum (EPAL)
+- Publisher: Ministry of Education / Institute of Educational Policy, Diofantos; ISBN 978-960-06-2953-8
+- PDF pages: 162 (cover/title page verified against the record title; byte size 12,424,942 matches the record exactly; the grade-12 record is a cross-reference to this same book and is counted once)
+- Verdict: COMPLETE
+- Tally: 30 placements — 9 to existing lessons, 21 NEW LESSON NEEDED
+- Greece's own way: the conservation specialty's textbook teaches heritage as a story — every monument gets its history first and the history of its rescue second — and Greece's own sites (Knossos, Akrotiri, the Acropolis, Vergina) anchor the world cases.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Chapter 1: Basic concepts of cultural heritage — story beats: what counts as a cultural good, why it must be saved, the monument's authenticity, historicity, quality and symbolism, and the world bodies (UNESCO, ICOMOS, ICCROM) that guard it (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Greece, *Προστασία της Πολιτιστικής Κληρονομιάς (Protection of Cultural Heritage), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, Conservation of Works of Art – Restoration specialty, by Emmanouil V. Marmaras, Stavroula Ch. Rapti & Eleni Stamatiou*, printed p. 16 |
+| Greece part — Chapter 3: Classification of cultural goods and their protection measures — story beats: goods are sorted by age, place, universal significance and kind, then guarded by preventive conservation, first aid and systematic care (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Greece, *Προστασία της Πολιτιστικής Κληρονομιάς (Protection of Cultural Heritage), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, Conservation of Works of Art – Restoration specialty, by Emmanouil V. Marmaras, Stavroula Ch. Rapti & Eleni Stamatiou*, printed p. 46 |
+| Greece part — Chapter 7.4: The 'style' of traditional settlements and its protection — story beats: a village's look is itself heritage — roofs, lanes and materials are protected as one work of many hands (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Greece, *Προστασία της Πολιτιστικής Κληρονομιάς (Protection of Cultural Heritage), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, Conservation of Works of Art – Restoration specialty, by Emmanouil V. Marmaras, Stavroula Ch. Rapti & Eleni Stamatiou*, printed p. 141 |
+
+Greece's own way (Book 12 — G11/G12 EPAL Protection of Cultural Heritage (student book, Greek)): the conservation specialty's textbook teaches heritage as a story — every monument gets its history first and the history of its rescue second — and Greece's own sites (Knossos, Akrotiri, the Acropolis, Vergina) anchor the world cases. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
