@@ -133,7 +133,18 @@ The titles, in ladder order:
    part); and making models and maquettes — a map of your
    school, then the school built as a model in big groups from
    clay/mud, cartons, sticks, stones and paper, painted when
-   dry (Bhutan student workbooks).
+   dry (Bhutan student workbooks). The Art expansion added:
+   Haitian naïve and Saint Soleil painting — composing with
+   point and line in the Saint-Soleil manner, natural Haitian
+   dyes (campêche, café, roucou, terre rouge), the naïve
+   painters Casimir Laurent and Préfète Duffaut, and Haitian
+   craft's graphic constructions; illustration — the portfolio
+   as a story told in images, 10–12 images on one theme with a
+   guiding line, built from history and heritage; and cubism —
+   decomposing things into geometric forms, with Haiti's
+   Vèvès as the programme's paired reference (Haiti teacher
+   guides / teacher programme, evidence).
+
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -286,7 +297,16 @@ The titles, in ladder order:
    Icelandic songwriters — Sigfús Halldórsson, Ingibjörg
    Þorbergs and the closing lives of the makers; and Cuban
    percussion — conga strokes and patterns played in class
-   (Iceland teacher guide, evidence).
+   (Iceland teacher guide, evidence). The Art expansion added:
+   playing the recorder — posture, breath and tonguing first,
+   then the notes fingering by fingering to the full octave
+   and B-flat; instrument families — the woodwinds one by one,
+   each with its history and concertos; ear training —
+   intonation, recognising and pinpointing pitch; and the
+   voice and its types — the voice's anatomy, its four
+   mechanisms, and types told apart by tessitura and timbre
+   (Haiti teacher guides / teacher programme, evidence).
+
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -422,3 +442,11 @@ The titles, in ladder order:
    Errol Hill and Errol John to Derek Walcott and Pearl
    Eintou Springer (Trinidad and Tobago teacher guide,
    evidence).
+ The Art expansion added:
+   Haitian heritage in art education — EEA's three volets and
+   Competency 3, knowing and upholding the national heritage,
+   creating from the heritage and visiting the places that
+   keep it; and careers and business in the arts — cultural
+   entrepreneurship, the cultural industries and institutions,
+   the métiers de l'art, a cultural agenda and managing
+   cultural projects (Haiti teacher programme, evidence).

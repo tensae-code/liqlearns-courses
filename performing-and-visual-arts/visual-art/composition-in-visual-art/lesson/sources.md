@@ -1,12 +1,14 @@
 # Sources — Composition in Visual Art
 
-countries: Ethiopia, Andorra, Albania
+countries: Ethiopia, Andorra, Albania, Haiti
 
 **Book 1:** *Performing and Visual Arts Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (first published 2022, GEQIP-E). Writers: Jinenus Wako (M.A), Tujuba Beyene (M.A). 90 PDF pages; printed pp. i–vi + 1–78. Printed page ≈ PDF page − 11 in the body. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
 **Book 2:** *Programa d'arts plàstiques del batxillerat general de l'Escola Andorrana — annex to Decret 237/2025, BOPA núm. 83, 9-7-2025* (curriculum programme document, Catalan; the record title adds “imatge i disseny”) — Andorra, Ministeri de Relacions Institucionals, Educació i Universitats, Govern d'Andorra, 2025 (programme first published 2019), ISBN 978-99920-82-22-5, Batxillerat general (ages 16–18), 28 PDF pp. TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and synthesis tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 3:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 4:** *Éducation artistique — Arts visuels — Structure de la forme dans l'espace* (teacher guide, French) — Haiti, Projet Nectar, MENFP (Canoprof); intégration Canoprof: Mélanie Albairet, Arnaud Deschêls; Creative Commons BY-NC-SA; no year printed on the cover; no ISBN printed, Grade 8e année, French, 10 PDF pp (printed pp. 1–10). TEACHER — teacher guide. Verdict: COMPLETE (cover verified against the record title — sequence title, durée 12 heures). Exclusion per the placements: Séance 12 (presentation of the mini-portfolio with a prepared questionnaire) is the evaluation séance — named, not placed; the portfolio work itself is placed from Séances 10–11. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -16,8 +18,10 @@ countries: Ethiopia, Andorra, Albania
 | Andorra — Bloc 1: dimension, form and space (batxillerat) — dimension sets the compositional space: two-dimensional works read from a single viewpoint inside a framing, three-dimensional works from many viewpoints, with volume, space and light in relation, full space and empty space, and natural and artificial shadows (programme document — evidence; original target `visual-art/composition-in-visual-art`) | Book 2, printed p. 16 |
 | Albania — Balance or visual weight; the human figure — composing by visual balance, and the human figure as a composition subject (teacher guide — evidence) | Book 3, printed p. 4 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+| Haiti — Séances 5–7, La forme comme élément principal de la composition — form as the principal element of composition — managing visual space, the principles of composition studied in depth (the components of composition), discovering contemporary productions, and making your own productions by copy (reproduction) (teacher guide — evidence) | Book 4, printed pp. 6–8 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 10 teacher's guide (federal Ministry of Education, 2022, GEQIP-E). Grade 10 has no student book in hand. The placements file summarises Lessons 7–9 by their three topics — the concept of composition, its importance/purposes, and composition-and-design in 2D and 3D; the lesson teaches at exactly that level and invents no composition rules, named principles or examples the placement does not give.
 
-Searchable tags: composition, composition in 2D and 3D, design, arranging, teacher guide evidence
+Searchable tags: composition, composition in 2D and 3D, design, arranging, teacher guide evidence, Haiti

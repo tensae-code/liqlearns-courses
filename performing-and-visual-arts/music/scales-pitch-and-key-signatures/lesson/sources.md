@@ -1,6 +1,6 @@
 # Sources — Scales, Pitch and Key Signatures
 
-countries: Ethiopia, Barbados, Albania, Samoa
+countries: Ethiopia, Barbados, Albania, Samoa, Haiti
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -13,6 +13,10 @@ countries: Ethiopia, Barbados, Albania, Samoa
 **Book 5:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 6:** *Music — Teacher Guide, Years 11 and 12* (teacher guide, English) — Samoa, Ministry of Education, Sports and Culture, Samoa, 2004, ISBN 982-517-075-1, Years 11–12, 90 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover verified against the record title; the repo tree path is a PHANTOM PUSH (HTTP 404), so the book was fetched from the recorded MESC source_url (14,769,796 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Glossary (printed p. 88) — inventory-only, named here, not stocked; assessment guidance in the introduction is apparatus, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 7:** *Musique — EEA (Éducation esthétique et artistique) Séquence 1 — « Introduction à la pratique de la musique » (Ipharès Blain Jr., juillet 2021)* (teacher guide, French) — Haiti, Projet Nectar, MENFP, 2021, no ISBN printed, Grade 7e année AF, French, 15 PDF pp (printed pp. 1–14). TEACHER — teacher guide. Verdict: COMPLETE (first page verified against the record — Musique EEA sequence, niveau 7e AF, durée 8 à 10 semaines). The record names this file EEA2; the document itself is titled Séquence 1 — the mismatch is in the record's short name only; the file is the 7e AF music introduction sequence the record points to. Exclusions per the placements: Séance 9 (Révision) and Séance 10 (Évaluation: Contrôle 1) are revision/assessment — named, not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 8:** *Éducation esthétique et artistique — Musique — La musique, outil de communication* (teacher guide, French) — Haiti, Projet Nectar, MENFP (Canoprof); éditorialisation numérique: Mélanie Albairet, Arnaud Deschêls; Creative Commons BY-NC-SA; no year printed on the cover; no ISBN printed, Grade 7e année, French, 14 PDF pp (printed pp. 3–14 per its own table of contents). TEACHER — teacher guide. Verdict: COMPLETE (cover verified against the record title). Exclusions per the placements: Séance 8 (Révisions) and Séance 9 (Examens) — named, not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,8 +42,13 @@ countries: Ethiopia, Barbados, Albania, Samoa
 | Albania — Accidentals: sharps and flats — the alteration signs that raise and lower sounds, read and sung in the score with the 12-sound chromatic filling of the C scale (teacher guide — evidence) | Book 5, printed p. 28 |
 | Samoa — Composition learning example — illustrate by example the application of primary chords in traditional Sāmoan songs and pop songs (teacher-guide evidence) | Book 6, printed p. 79 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count.
+| Haiti — Séance 4, De la gamme et de ses degrés — the major diatonic scale — its structure and the notion of degree (degré) (teacher guide — evidence) | Book 7, printed p. 5 |
+| Haiti — Séance 5, Les intervalles — intervals — their definition, their names and their different species (teacher guide — evidence) | Book 7, printed p. 7 |
+| Haiti — Séances 7–8, Gammes diatoniques majeures — building major diatonic scales from different tonics (5 tones and 2 semitones), tone and semitone, the key signature (armure), the order of sharps and of flats, and recognising scales from their key signature (teacher guide — evidence) | Book 7, printed pp. 9–10 |
+| Haiti — Séance 6, La gamme — the scale as music's phrases — if notes are music's words, scales are its sentences; the C major scale has no alteration and is the reference for building every major scale, by the succession tone / tone / semitone / tone / tone / tone / semitone (teacher guide — evidence) | Book 8, printed pp. 11–12 |
+
+**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 6 book's key-signature exercise prints "E♭" in Amharic beside "(E Major scale)" in English — a printing tangle the placements record; the lesson teaches the D, E, A-flat exercise set as the placements resolve it and does not present the tangled line as a fact. The Grade 6 teacher-guide parts are evidence and are labelled so; the pupil-taught scale work stands on the Grade 6 student book.
 
-Searchable tags: scale, major scale, minor scale, natural minor, harmonic minor, melodic minor, pitch, የድምፅ ቃና, key signature, sharp, flat, diatonic
+Searchable tags: scale, major scale, minor scale, natural minor, harmonic minor, melodic minor, pitch, የድምፅ ቃና, key signature, sharp, flat, diatonic, Haiti

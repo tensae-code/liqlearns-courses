@@ -956,7 +956,80 @@ lessons are the books'.
   Iceland's own musicians, revue songs, seamen's songs and
   dance bands woven through as national content.
 
-**The whole course stands at 304 lessons, 4,382 questions and
+- **Art expansion — Haiti — BUILT 2026-11-16:** 63 placements
+  stocked from 7 records / 7 distinct books, all TEACHER evidence
+  (six Projet Nectar (MENFP) teaching sequences, French, Grades
+  7e–8e, 2021 / no year printed, COMPLETE — EEA1 Arts visuels
+  Séquence 1, 21 PDF pp; EEA2 Musique Séquence 1, 15 PDF pp;
+  EEA3 Musique, 14 PDF pp; EEA4 Musique, 16 PDF pp; EEA5 Musique
+  « La voix », 14 PDF pp; EA1 Arts visuels (8e), 10 PDF pp — plus
+  the official EEA Programme du 3e cycle (7e à 9e AF), MENFP,
+  2024, 63 PDF pp, teacher programme, COMPLETE, read in place in
+  staging): 31 into existing lessons (Reading Music on the Staff
+  ×6; Scales, Pitch and Key Signatures ×4; Elements and
+  Principles of Design ×3; Appreciating and Valuing the Arts ×2;
+  Notes and Rests ×2; Reading the Beat ×2; Faster Notes,
+  Dynamics and Tempo ×2; Shapes You Can Draw ×2; and one each
+  into Drawing: The Foundation Skill, Sculpture and Historic
+  Places, Decorating Home and Environment, Emblems and Posters
+  That Speak, The Elements of Music, Moving in Note Values,
+  Elements of Visual Art, Composition in Visual Art), 11 into
+  lessons that already existed, resolved there from NEW lines
+  by the slug registry (Making Music with Computers and Apps
+  ×3 — from writing-music-with-software; Singing Technique and
+  Voice Care ×3 — from singing-posture-and-warm-up ×2 and
+  breathing-for-singing; Body Percussion ×2; Comics — from
+  haitian-popular-expression-comics; Traditional Music and
+  What It Does — from music-as-communication; and a fourth
+  placement into Elements and Principles of Design — from
+  design-with-form-and-heritage), 9 NEW lessons (Visual Art: Haitian Naïve and Saint
+  Soleil Painting ×3 — from saint-soleil-haitian-painting ×2 and
+  haitian-naive-and-saint-soleil-painters; Illustration ×2 —
+  from telling-a-story-in-pictures-portfolio; Cubism — from
+  veve-and-cubism-form; Music: Playing the Recorder ×4 — from
+  recorder-technique; Instrument Families ×3 — from
+  woodwind-instrument-families; The Voice and Its Types ×4 —
+  from the-voice-as-instrument; Ear Training, Dictation and
+  Sight-Singing — from intonation-ear-training; Culture and
+  Values: Haitian Heritage in Art Education ×2; Careers and
+  Business in the Arts — from
+  cultural-entrepreneurship-and-arts-jobs), 108 questions
+  added, media as described slots only. DIFFERENCE FROM THE
+  FILE'S OWN TALLY, EXPLAINED: the placements file's per-book
+  tallies give 29 to existing lessons and 34 NEW LESSON NEEDED,
+  but its own placement lines count 31 to existing and 32 NEW —
+  Book 2's tally undercounts its existing lines by one (7, not
+  6) and Book 5's tally overcounts its NEW lines by one (3, not
+  4); the total of 63 reconciles exactly. The slug registry
+  resolves two NEW lines to existing official lessons
+  (music-as-communication to Traditional Music and What It
+  Does, design-with-form-and-heritage to Elements and
+  Principles of Design), nine NEW lines to canonical lessons
+  already built (writing-music-with-software ×3, comics,
+  singing ×3, body-percussion ×2 — stocked, not rebuilt), and
+  the remaining 21 NEW lines to the 9 new lessons built here,
+  so 42 placements went to lessons that already existed and 21
+  to new lessons. No exclusions among the 63 placements: the
+  books' assessment/révision séances (EEA1 Séance 8; EEA2
+  Séances 9–10; EEA3/EEA4 Séances 8–9; EEA5 Séances 7–8; EA1
+  Séance 12) are named in the book entries, not placed, and
+  EEA1's verbalisation/lexique fiches are glossary-type
+  apparatus — named, not stocked; the EEA programme's common
+  part (PDF pp. 1–22) is out of scope and was not placed. As
+  teacher guides / a teacher programme, all seven books are
+  EVIDENCE only, kept outside every acceptance count (the nine
+  new lessons stand at acceptance count 0). Haiti's own way is
+  kept as named parts — EEA's three volets (visual arts, stage
+  arts, Haitian culture and heritage) with a cultural theme per
+  year, atelier sequences that make, analyse and verbalise, the
+  Saint-Soleil movement and the naïve painters (Casimir Laurent,
+  Préfète Duffaut), the Vèvès, Haitian popular bande dessinée,
+  artisanat and patrimoine, natural Haitian dyes (campêche,
+  café, roucou, terre rouge), and a flipped-classroom music
+  course running theory, solfège, recorder, MAO and
+  appreciation in every séance.
+
+**The whole course stands at 313 lessons, 4,490 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
