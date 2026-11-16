@@ -1,6 +1,6 @@
 # Sources — The traditional economy
 
-countries: Ethiopia
+countries: Ethiopia, Nauru
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -10,8 +10,19 @@ countries: Ethiopia
 | Sub lesson 2 — The family at the centre | Ethiopia, *Economics, Student Textbook, Grade 9*, Unit 2 — The Basic Economic Problems and Economic Systems, printed pp. 21–22 |
 | Sub lesson 3 — Barter, then change | Ethiopia, *Economics, Student Textbook, Grade 9*, Unit 2 — The Basic Economic Problems and Economic Systems, printed pp. 21–22 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book 2:** *People and the Sea in the Pacific — A Social Sciences related reader for Primary School, Book 1 (Education for Sustainable Development)* (student book, English) — Nauru, Institute of Education, University of the South Pacific (UNESCO / Japanese Funds-in-Trust); year 2020; ISBN no ISBN printed. Title as printed: People and the Sea in the Pacific — A Social Sciences related reader for Primary School, Book 1 (Education for Sustainable Development). Grade: Years 5-6 (student/teacher: STUDENT). PDF pages: 24 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 2, 10, 17-18; Ocean ecology / animal studies pp. 1, 3-11; Cultural traditions and traditional fishing pp. 6, 12-16; Sustainability action pp. 19. Records: 6 records / 3 distinct books / TSV release grabs verified against the books.json duplicates (same books; Reader 1 and Reader 3 byte-identical across the Nauru, Niue and Tuvalu copies — one regional USP set, read once in full and filed per country), Teacher Guide read in place in staging. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nauru-placements.md
+
+**Book 3:** *People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (Education for Sustainable Development)* (student book, English) — Nauru, Institute of Education, University of the South Pacific (UNESCO / Japanese Funds-in-Trust); year 2020; ISBN no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (Education for Sustainable Development). Grade: Years 5-6 (inner title page says Years 7-8; record and series place it at Years 5-6) (student/teacher: STUDENT). PDF pages: 24 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 3-4, 5, 8, 15, 17-19; Ecology / ecosystems pp. 1-2; Taro and coconut case studies (Tonga, Niue, Tuvalu) pp. 7-14; Sustainability action pp. 19. Records: 6 records / 3 distinct books / TSV release grabs verified against the books.json duplicates (same books; Reader 1 and Reader 3 byte-identical across the Nauru, Niue and Tuvalu copies — one regional USP set, read once in full and filed per country), Teacher Guide read in place in staging. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nauru-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nauru part — The exchange community of the Pacific: Fiji, Samoa, Tonga, Niue, Rotuma, Tokelau, Tuvalu, Futuna and Uvea once formed one exchange community circulating wealth, skills and arts with no borders — the traditional exchange economy before money | Nauru, *Reader 1 People and the Sea*, printed p. 2 |
+| Nauru part — How people farmed sustainably in the past: subsistence defined — people only grow what they need for their family and village to eat, not for selling at the market — with shifting cultivation and fallowing letting land regenerate 8-10 years; scarce resources were shared under traditional rules | Nauru, *Reader 3 People and the Natural Environment*, printed p. 15 |
+
+Nauru's own way: Nauru takes the shared regional Pacific reader as printed (local advisors Fay Itaia & Sharon Kam named in the book); the Economics is taught inside ocean sustainability — subsistence sharing versus fishing to sell. Same regional set; resources and farming are taught through Pacific subsistence practice — growing only what the family needs, shifting cultivation and fallowing — set against modern cash-crop farming for overseas demand.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Nauru).**
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: traditional economy, custom elders, family tribe, barter surplus, ethiopia, social studies, microeconomics
+Searchable tags: traditional economy, custom elders, family tribe, barter surplus, ethiopia, nauru, pacific exchange community, subsistence, shifting cultivation, social studies, microeconomics
