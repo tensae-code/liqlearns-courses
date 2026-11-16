@@ -1,6 +1,6 @@
 # Sources — Painting Still Life
 
-countries: Ethiopia, Barbados, Nicaragua
+countries: Ethiopia, Barbados, Nicaragua, Bhutan
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors እሸቱ ታደሰ (Eshetu Tadesse) and ደስታ ይትባረክ (Desta Yitbarek); editors አታላይ መስፍን (Atalay Mesfin) and ደምሌ አባተ (Demle Abate). Printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 **Book 2:** *Performing and Visual Arts, Teacher's Guide Book, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021). Writers: Bareke Tadesse, Gizachew Tasew, Sara Mengistu, Ashenafi Nigussie. Printed pp. 1–161 as paginated; the secured copy's body runs to printed p. 109 (Units 4–5 missing — this lesson's part is Unit 2, inside the body held). Printed page ≈ PDF page + 10 in the body. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
@@ -10,6 +10,8 @@ countries: Ethiopia, Barbados, Nicaragua
 **Book 4:** *Expresión Cultural y Artística — Manual Metodológico para la y el maestro — Segundo grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 2, 150 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Title/grade verified in the book's presentation: a support document for Grade 2 primary teachers. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 135) is a word list — inventory-only, named here, not stocked; Webgrafía not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 5:** *Manual Metodológico para la y el maestro — Expresión Cultural y Artística — Tercer grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "baja" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 6:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -21,9 +23,10 @@ countries: Ethiopia, Barbados, Nicaragua
 | Barbados — Picture Composition (Class 1) — mood painting inspired by music; drawing and painting from themes and life experiences; sketching and painting local scenery (curriculum guide — evidence) | Book 3, printed p. 4 |
 | Nicaragua — Drawing and painting the surroundings; drawing and painting my community — creating drawings and paintings of the environment and of the child's own community (teacher guide — evidence) | Book 4, printed p. 5 |
 | Nicaragua — Simple drawing and painting with primary-colour combinations — drawing and painting elements of the surroundings using combinations of the primary colours (teacher guide — evidence) | Book 5, printed p. 8 |
+| Bhutan — Lesson 8, Still Life Drawing — two or three household objects arranged close together; the arrangement itself is composed — moved until it looks nice — then drawn with darker, lighter and medium tones | Book 6, printed p. 8 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 2 countries (Ethiopia, Bhutan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Honesty notes: Sub lesson 5 stands on the Grade 7 teacher's guide and is labelled evidence there and in the table; it is not pupil text. The artist's name in that part, Solomon Wagaye, is copied from the placements file's own summary of the guide. The book's still-life plates (Fig. 23, the stage pictures, the Exercise 2.4 arrangements) are described in words only — artworks are described, never copied. Media 14200 and 14203 are the builders' own drawn plates, not the book's figures.
 
-Searchable tags: still life, painting, watercolour, spectrum, prism, rainbow, ሰማያዊ ወይነጠጅ, Solomon Wagaye, Lake Hawassa, palette, Nicaragua
+Searchable tags: still life, painting, watercolour, spectrum, prism, rainbow, ሰማያዊ ወይነጠጅ, Solomon Wagaye, Lake Hawassa, palette, Nicaragua, Bhutan

@@ -1,6 +1,6 @@
 # Sources — Paints and How They Work
 
-countries: Ethiopia, Maldives, Andorra
+countries: Ethiopia, Maldives, Andorra, Bhutan
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -11,6 +11,10 @@ countries: Ethiopia, Maldives, Andorra
 **Book 4:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
 **Book 5:** *Programa d'arts plàstiques del batxillerat general de l'Escola Andorrana — annex to Decret 237/2025, BOPA núm. 83, 9-7-2025* (curriculum programme document, Catalan; the record title adds “imatge i disseny”) — Andorra, Ministeri de Relacions Institucionals, Educació i Universitats, Govern d'Andorra, 2025 (programme first published 2019), ISBN 978-99920-82-22-5, Batxillerat general (ages 16–18), 28 PDF pp. TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and synthesis tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 6:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
+
+**Book 7:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -26,9 +30,13 @@ countries: Ethiopia, Maldives, Andorra
 | Sub lesson 6 — The Grade 7 chapter closes (chapter closing — Grade 7) — G7S-62 | Grade 7 Student Textbook, Ch. 2 self-check table, summary and closing exercise (closing fold), printed pp. 71–74 |
 | Maldives — Colour Expressions (batik-like painting): painting only primary dyes onto damp stretched cloth and letting them spread and mix into secondary and intermediate colours, then painting the design over the coloured cloth | Book 4, Unit 16, printed p. 70 |
 | Andorra — Bloc 3: the creation process (batxillerat) — materials and their communicative possibilities: dry, greasy and aqueous media and supports in 2D; subtraction, hollowing, addition, accumulation, construction and deconstruction in 3D; creation driven by sketches, trials (provatures), documentary research and one's own strategies against stereotypes (programme document — evidence; original target `visual-art/paints-and-how-they-work`) | Book 5, printed p. 20 |
+| Bhutan — Lesson 8, Fun With Colours — the same drawing painted three ways to compare the media: wax crayons, colour pencils, then water colour | Book 6, printed p. 8 |
+| Bhutan — Lesson 9, Water Colour — look at pictures or real objects, identify their colours, then draw and colour the given objects in water colour | Book 6, printed p. 9 |
+| Bhutan — Lesson 11, Water Colour Technique — colour the first picture very lightly with more water, then gradually increase the intensity by adding more colour | Book 7, printed p. 11 |
+| Bhutan — Lesson 12, Water Colour Painting — draw objects, mix the water colour, and paint | Book 7, printed p. 12 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Maldives). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Bhutan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
 
 The Grade 7 book counts eight paint kinds by treating oil, watercolour, acrylic, gouache, tempera, crayon, pastel and charcoal as its §2.1.2 series; the lesson follows that count and that order, as the placements give them. Grade 7's oil-paint thinners are named as the book names them (aqua rage, white gas, a little edible oil) — named as book content, not as a recommendation for children to handle solvents; the hands-on work uses water-based paint only.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, paints, oil paint, watercolour, acrylic, gouache, tempera, crayon, pastel, charcoal, palette, easel, thinner
+Searchable tags: Maldives, Exploring Creative Arts 4, paints, oil paint, watercolour, acrylic, gouache, tempera, crayon, pastel, charcoal, palette, easel, thinner, Bhutan

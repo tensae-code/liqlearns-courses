@@ -1,7 +1,7 @@
 # Sources — Mixing Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Singapore
+countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -13,6 +13,10 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore
 
 **Book 5:** *Nurturing Early Learners — A Curriculum Framework for Preschool Education in Singapore: Educators' Guide for Aesthetics and Creative Expression* (teacher guide, English) — Singapore, Ministry of Education, Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten (children aged 4–6: Nursery 2, Kindergarten 1–2), 126 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree (byte size 4,232,854 matches the record), PDF deleted after filing. Chapter 4's classroom-environment organisation and Chapter 5's monitoring-and-assessment framework are teacher apparatus — their worked examples' teaching content IS placed; the Bibliography (printed pp. 122–125) is inventory-only, named here, never stocked. Songs are filed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/singapore-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 6:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
+
+**Book 7:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Mixing primaries makes green, orange and purple | Ethiopia, *Grade 3 Performing and Visual Arts Student Textbook*, §2.3, Drawing 19, Figure 20, Figure 21, Activities 12–13 and Drawing 22, printed pp. 32–33 |
@@ -21,10 +25,12 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore
 
 | Closing-exercise question stock (Grade 3): the Chapter 2 summary and closing exercise carry the book's own colour-mixing definition among its definitions (sound; percussion instruments; open shape; colour mixing; calligraphy; modelling; leaf printing) | Book 1, printed pp. 43–44 |
 | Nicaragua — Combinations of primary and secondary colours — mixing and combining the primary and secondary colours in drawing and painting (teacher guide — evidence) | Book 4, printed p. 3 |
+| Bhutan — Lesson 7, Colour Mixing — with only the primary colours given, mix any two to reproduce the colour shown in the workbook, fill the circle, and write down the two colours used: primary colours make secondary colours | Book 6, printed p. 7 |
+| Bhutan — Lesson 10, Explore Water Colour Mixing — natural colours introduced; mix a colour with white for a brighter effect and with black for a darker effect | Book 7, printed p. 10 |
 
 | Singapore — "The Colour Challenge" (Kindergarten 1): mixing the primary watercolours (with white and black) to make as many colours as possible, recording each recipe, naming the new colours and making them lighter or darker — Goal 2 example (teacher guide — evidence) | Book 5, printed p. 41 |
-**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 2 countries (Ethiopia, Bhutan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Sub lesson 2 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook. The Grade 3 Chapter 2 closing exercise carries the trap item "red mixed equally with yellow creates green" (false — it creates orange, per §2.3); the lesson teaches the corrected mixing and uses the trap as a question, exactly as the book's exercise frames it.
 
-Searchable tags: mixing colours, secondary colours, green orange purple ወይንጠጅ, primary colours mixing equal measure, neutral colours, Ethiopia Grade 3 colours, Nicaragua
+Searchable tags: mixing colours, secondary colours, green orange purple ወይንጠጅ, primary colours mixing equal measure, neutral colours, Ethiopia Grade 3 colours, Nicaragua, Bhutan

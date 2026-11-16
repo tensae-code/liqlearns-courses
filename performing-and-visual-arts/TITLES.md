@@ -121,7 +121,19 @@ The titles, in ladder order:
    drawn from a cast shadow; and portrait drawing and painting —
    the self-portraits of Georgette Chen, van Gogh and Kusama,
    then your own, even in 3-D clay (Singapore teacher guide,
-   evidence).
+   evidence). The Art expansion added: abstract art — your own
+   abstract work, let dry, then talked about to the class;
+   caricature — different cartoon faces made from the teacher's
+   board examples and coloured; Bhutanese traditional drawing —
+   the Do-Yen-Na-Nga, the Five Senses offering, learned by
+   copying the teacher's displayed drawings; Sumdang —
+   Bhutan's traditional painting in its step order (basic
+   colour inside the outline, basic colour mixed with white at
+   the border, boundary lines in white, black to the inner
+   part); and making models and maquettes — a map of your
+   school, then the school built as a model in big groups from
+   clay/mud, cartons, sticks, stones and paper, painted when
+   dry (Bhutan student workbooks).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the

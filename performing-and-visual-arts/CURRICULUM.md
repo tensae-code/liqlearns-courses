@@ -767,7 +767,56 @@ lessons are the books'.
   dikir barat, wayang kulit, batik, Georgette Chen and local
   folksongs woven through as content.
 
-**The whole course stands at 269 lessons, 3,962 questions and
+- **Art expansion — Bhutan — BUILT 2026-11-16:** 56 placements
+  stocked from 2 student books (*Arts Education — Student's
+  Workbook for Class III*, Department of School Education (DSE),
+  Ministry of Education and Skills Development, Royal Government
+  of Bhutan, © 2023, reprint 2024, ISBN 178-99936-0-414-3, 32 PDF
+  pp, STUDENT, COMPLETE; and *Arts Education — Student's Workbook
+  for Class IV*, same publisher, © 2023, revised edition 2021,
+  reprint 2024, ISBN 178-99936-0-415-0, 30 PDF pp, STUDENT,
+  COMPLETE — both fetched by the release route, byte sizes and
+  MD5s matching the records exactly): 47 into existing lessons
+  (Making with Paper and Pieces ×18; Drawing: The Foundation
+  Skill ×8; Paints and How They Work ×4; Printing ×4; Making
+  with Clay and Paper ×3; Lines in Every Direction ×2; Mixing
+  Colours ×2; Elements of Visual Art; Shapes, Forms and Patterns
+  in Colour; Drawing What Our Culture Does; Costume and Make-Up
+  for Theatre; Design and Perspective: Near and Far; Painting
+  Still Life), 4 into already-built canonical lessons (Blot and
+  Splatter Painting ×2 — from splatter-and-blow-painting; Making
+  Your Own Instruments — the envelope rattle; Puppet Theatre —
+  from finger-puppets), 5 NEW lessons (Visual Art: Abstract Art —
+  from abstract-and-figurative-painting; Caricature — from
+  drawing-cartoon-faces; Bhutanese Traditional Drawing — the
+  Do-Yen-Na-Nga, Five Senses offering, copied from the teacher's
+  displayed drawings; Sumdang: Traditional Painting of Bhutan —
+  from sumdang-traditional-painting, its step order of basic
+  colour, white at the border, white boundary lines and black
+  inside; Making Models and Maquettes — from making-models, the
+  school model built in big groups from clay/mud, cartons,
+  sticks, stones and paper), 60 questions added, media as
+  described slots only. DIFFERENCE FROM THE FILE'S OWN TALLY,
+  EXPLAINED: the placements file tallied 47 to existing lessons
+  and 9 NEW LESSON NEEDED lines. The slug registry resolves three
+  of those nine lines to canonical lessons already built by the
+  Singapore merger (splatter-and-blow-painting ×2 to Blot and
+  Splatter Painting, making-your-own-instruments to Making Your
+  Own Instruments, finger-puppets to Puppet Theatre) — stocked,
+  not rebuilt — so 51 (not 47) placements went to lessons that
+  already existed, 5 to new lessons, and 5 new lessons were
+  built; the total of 56 reconciles exactly. No exclusions: both
+  books are COMPLETE student workbooks and every placed line was
+  stocked. Bhutan's own way is kept as named parts — a
+  one-lesson-one-page workbook that builds the hand first
+  (lines, curves, tone, mixing), then spends half its pages
+  making things (paper lanterns, doilies, rattles, finger
+  puppets, masks, clay figures, prints), with tshechu and losar
+  as drawing subjects and Bhutan's own traditional forms —
+  Do-Yen-Na-Nga drawing and Sumdang painting — taught by copying
+  and by step order.
+
+**The whole course stands at 274 lessons, 4,022 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

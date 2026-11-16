@@ -1,6 +1,6 @@
 # Sources — Design and Perspective: Near and Far
 
-countries: Ethiopia, Maldives, Barbados, Albania
+countries: Ethiopia, Maldives, Barbados, Albania, Bhutan
 
 **Book 1:** *Grade 6 Performing and Visual Arts Teacher Guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Writers: Tibebu Woldeyohannes, Yirga Qumelachew, Yohannes Sebsebie. 96 PDF pages; printed front matter I–VI + body and syllabus to printed p. 119. Read in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Maldives, Barbados, Albania
 
 **Book 4:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 5:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 (teacher guide — evidence) — Design for painting and printing: near and far — perspective (የርቀትና ቅርበት / ዕርዮተ አድማስ, the view of distance) | Book 1, §2.4, printed pp. 50–57 |
@@ -17,9 +19,10 @@ countries: Ethiopia, Maldives, Barbados, Albania
 | Maldives — Shape Up!: drawing 3-D forms on a 2-D surface — observing the 2-D shapes, lines and tones that make up an object, drawing it from different angles, and overlapping repeated objects so some stand in front of others (student book) | Book 2, Unit 5, printed pp. 17–21 |
 | Barbados — Picture Composition / Observation (Class 4) — portraiture in profile and front view; figure drawing with models in various positions; experimenting with perspective, foreground and background in compositions (curriculum guide — evidence) | Book 3, printed pp. 13–15, 25 |
 | Albania — Perspective with three vanishing points — the three-point perspective construction for space (teacher guide — evidence) | Book 4, printed p. 4 |
+| Bhutan — Lesson 3, Perspectives — perspective explained and drawn outside (footpath, road, trees): a flat road against a road with 3D effect, trees decreasing in size, and the vanishing point on the horizon at the viewer's eye level | Book 5, printed p. 3 |
 
-**Acceptance count: taught in 1 country (Maldives).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Maldives, Bhutan).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 6 teacher's guide (Addis Ababa City Administration Education Bureau, © 2014 E.C.). The placements file summarises the guide's §2.4 design section by its topic, its Amharic terms and its picture slot (a road narrowing to a vanishing point, nearer trees darker and larger); the lesson teaches at exactly that level and adds no perspective rules, constructions or terms the placement does not give.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, perspective, የርቀትና ቅርበት, ዕርዮተ አድማስ, near and far, vanishing point, design for painting and printing, teacher guide evidence
+Searchable tags: Maldives, Exploring Creative Arts 4, perspective, የርቀትና ቅርበት, ዕርዮተ አድማስ, near and far, vanishing point, design for painting and printing, teacher guide evidence, Bhutan

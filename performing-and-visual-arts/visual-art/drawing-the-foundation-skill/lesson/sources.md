@@ -1,6 +1,6 @@
 # Sources — Drawing: The Foundation Skill
 
-countries: Ethiopia, Guatemala, Uganda, Barbados, Honduras, Albania
+countries: Ethiopia, Guatemala, Uganda, Barbados, Honduras, Albania, Bhutan
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -21,6 +21,10 @@ countries: Ethiopia, Guatemala, Uganda, Barbados, Honduras, Albania
 **Book 9:** *Libro del Estudiante — Educación Artística — 8vo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 8, 290 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 8vo Grado"). Fetched from the recorded libroshonduras.com source URLs. The Introduction repeats the Grade 7 book's art-definitions opening (placed there, not re-placed here). Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences (printed pp. 95, 167, 203, 267) are named, not placed; Senderos (printed p. 17) is book-orientation apparatus, named, not placed; the Glosario (printed p. 269) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 8 teacher guide, *Guía del Docente — Educación Artística — 8vo Grado (Telebásica)* (198 PDF pp, TEACHER; its first download was corrupt with a broken xref, was discarded and re-fetched), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, Telebásica TV-programme guidance, materials lists and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
 
 **Book 10:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 11:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
+
+**Book 12:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -43,9 +47,17 @@ countries: Ethiopia, Guatemala, Uganda, Barbados, Honduras, Albania
 | Honduras — Block I S2, Exploring forms: artistic drawing — dibujo artístico as the way into making a work of art | Book 8, printed p. 37 |
 | Honduras — Block I S3, Creating visual artworks — the steps for creating an obra artística, from idea to finished visual work | Book 9, printed p. 65 |
 | Albania — Graphic techniques: coloured pencils and their different uses — drawing techniques with coloured/graphite pencils and what each is used for (teacher guide — evidence) | Book 10, printed p. 4 |
+| Bhutan — Lesson 3, Draw and Colour — copy and draw the pictures given in the book, then colour them with crayons | Book 11, printed p. 3 |
+| Bhutan — Lesson 5, Object Drawing — an object is placed on the table; children observe it and draw it in pencil, creating tones | Book 11, printed p. 5 |
+| Bhutan — Lesson 6, Sketching — taken outside, children sketch what they see in the environment, using tones wherever possible | Book 11, printed p. 6 |
+| Bhutan — Lesson 1, Drawing Facial Parts — look closely at a friend's eyes, nose, ears and mouth, studying each, and draw them one by one | Book 12, printed p. 1 |
+| Bhutan — Lesson 2, Sketching Figures — observe a classmate standing, make a sketch of the figure in soft pencil, then add basic details | Book 12, printed p. 2 |
+| Bhutan — Lesson 5, Sketching (Landscape) — go outside, choose a landscape, and sketch it with pencils of different grades | Book 12, printed p. 5 |
+| Bhutan — Lesson 7, Portrait — look at a friend's face and draw it using facial proportion, with eyes, nose and mouth placed, and tones (light, medium, dark) worked in 4B, B and 2B pencils | Book 12, printed p. 7 |
+| Bhutan — Lesson 26, Grid Drawing — look at the picture and draw an enlarged version of it on the empty grid provided | Book 12, printed p. 26 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Honduras).** Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Honduras, Bhutan).** Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 The Grade 9 teacher-guide part (the five basic skills of drawing) is teacher-guide evidence only and is labelled so in the table; the lesson's pupil-taught parts stand on the Grade 4–6 student books. The Grade 6 book's exercise prints "E♭" in Amharic beside "(E Major scale)" in its key-signature exercise — a music matter, not used in this lesson, recorded here because the same book is cited.
 
-Searchable tags: drawing, foundation skill, pencil grades, easel, shading, light and shade, gesture study, line drills, grid drawing, observational drawing, ስዕል
+Searchable tags: drawing, foundation skill, pencil grades, easel, shading, light and shade, gesture study, line drills, grid drawing, observational drawing, ስዕል, Bhutan
