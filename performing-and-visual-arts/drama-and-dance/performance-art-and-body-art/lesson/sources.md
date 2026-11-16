@@ -1,6 +1,6 @@
 # Sources — Performance Art and Body Art
 
-countries: Colombia, Brazil, Cuba, Venezuela
+countries: Colombia, Brazil, Cuba, Venezuela, North Macedonia
 
 **Book 1:** *Secundaria Activa — Educación Artística - Artes Visuales (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-497-0, ISBN serie Secundaria Activa 978-958-691-485-7; authors Paola Lorena Coral Pérez and Marcela Tristancho (update and qualification by Aguirre Asesores S.A.S., contract 428 of 2010). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 168 (title page verified against the record; byte size 9,617,292). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 12 Momentos. The book's self-assessment rubrics (autoevaluación) are assessment apparatus, named here and not placed. READ ROUTE: the ministry host (redes.colombiaaprende.edu.co) drops direct connections after the TLS handshake, and its June 2023 Wayback capture is a truncated ~538 KB file; this copy is the Wayback Machine's 10 Dec 2022 capture of the same ministry file (canonical digest), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
 
@@ -19,7 +19,7 @@ countries: Colombia, Brazil, Cuba, Venezuela
 | Venezuela — Acción artística corporal (performance): performance — the body action of a person or group in a plaza, museum, street or school, flexible and without fixed schemes, showing perceptions of shared realities; Joseph Beuys named as pioneer (student book; original target `drama-and-dance/performance-art`) | Book 4, printed pp. 110–111 |
 | Venezuela — Performance: performance — actions in which the body presents itself as the work of art, joining movement, space and sound; an interdisciplinary manifestation integrating plastic and sonic elements and theatricality (slug first proposed in Book 1) (student book; original target `drama-and-dance/performance-art`) | Book 5, printed p. 233 |
 
-**Acceptance count: taught in 4 countries (Colombia, Brazil, Cuba, Venezuela).**
+**Acceptance count: taught in 5 countries (Colombia, Brazil, Cuba, Venezuela, North Macedonia).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/performance-art-and-body-art`); the Colombia placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Colombia's own way: Secundaria Activa reaches performance art from the pupil's own day — an ordinary action, chosen and recreated, is the first performance.
 
@@ -31,3 +31,18 @@ Searchable tags: performance art, installation, happening, everyday actions, Col
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — §1.4 — the contemporary forms: happening, performance in Cuba since the 1960s–70s, body art (skin prepared and painted safely), land art using nature as the support, minimalism, and Kcho's generation (student book; original target `visual-art/happening-performance-and-body-art`) | Book 3, printed pp. 39–48 |
+
+**Book 6:** *Ликовна уметност 2 (Visual Art 2) — учебник за втора година гимназиско образование* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-86-6; author Nora Halimi; approved by the Ministry of Education and Science (decision no. 26-560/1 of 4.5.2026) Grade: Grade 11 (student/teacher: STUDENT) — gymnasium year II filed as grade 11. PDF pages: 128 (127 printed pages per CIP; read in place from phase3-staging, size and pages verified against the record; cover and imprint seen). Verdict: COMPLETE. North Macedonia's own way: the world's modern and contemporary art is taught whole, movement by movement — then the same story is told again on home ground: from the last icon-painters (zographs) through Skopje's post-earthquake brutalism and Kenzo Tange's master plan to today's installation, photography and video artists, with the country's Albanian artists named inside both stories. Excluded per standing rules: Речник на поими (the glossary of terms), printed pp. 122–126 — glossary/word list, inventory-only; the bibliography (p. 127) is not content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Флуксус и уметнички перформанс — art as process and event (1960s): Fluxus — Maciunas' happenings where the audience becomes part of the work, Beuys, Yoko Ono; performance art using the artist's own body, live and fleeting — Marina Abramović sitting in silence before visitors in "The Artist Is Present" (MoMA, 2010), Acconci, Schneemann; video and photography as its necessary documents (student book; original target `visual-art/performance-art`) | Book 6, printed pp. 42–43 |
+
+**Book 7:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Комбинирана техника — performance: the artist's own action as the artwork — Abramović and Beuys (student book; original target `visual-art/performance-art`) | Book 7, printed p. 70 |
+| North Macedonia — Перформанс — performance and happenings: theatre-like action without plot, made to carry a present-day idea (student book; original target `visual-art/performance-art`) | Book 7, printed p. 139 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

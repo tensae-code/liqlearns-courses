@@ -1,6 +1,6 @@
 # Sources — Listening to Music
 
-countries: Sri Lanka, Libya, Mongolia, Armenia
+countries: Sri Lanka, Libya, Mongolia, Armenia, North Macedonia
 
 **Book 1:** *Western Music — Teachers' Guide, Grade 9 (Implemented from 2018)* (teacher guide, English) — Sri Lanka, Department of Aesthetic Education, National Institute of Education, Maharagama, Sri Lanka; first print 2017; ISBN line printed blank. Grade: 9 (student/teacher: TEACHER). PDF pages: 100. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -116,7 +116,7 @@ countries: Sri Lanka, Libya, Mongolia, Armenia
 | Armenia — Your own taste, examined (teacher-guide evidence) — among the aims: give learners the chance to reflect on their own musical preferences, justify them and reach independent conclusions (teacher guide — evidence; original target `music/listening-and-describing`) | Book 18, printed p. 10 |
 
 
-**Acceptance count: taught in 2 countries (Mongolia, Armenia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count; the earlier evidence-only entries stay outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Mongolia, Armenia, North Macedonia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count; the earlier evidence-only entries stay outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/listening-to-music`); the Sri Lanka placements were filed under the original string(s) `music/listening-and-responding-to-music` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -129,3 +129,11 @@ Searchable tags: listening to music, Sri Lanka, Armenia
 |---|---|
 | Libya — Game 2: The Musical Ear (الأذن الموسيقية) — a skilled player performs varied pieces, instrumental and sung-without-voice; each pupil writes down the names of the pieces he recognises from hearing alone, and the winner names the most (teacher guide — evidence; original target `music/listening-games`) | Book 2, printed p. 14 |
 | Libya — Game 3: Know the Singer (معرفة المغني) — the class sits in a circle and one blindfolded pupil stands in the middle; the group sings a known folk song, one pupil taking each line in turn, and the blindfolded pupil must name each voice he hears (teacher guide — evidence; original target `music/listening-games`) | Book 2, printed p. 15 |
+
+**Book 19:** *Музичка уметност за II година гимназиско образование (Musical Art for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-91-0; authors Simona Zafirovska & Lejla Alimi Lumani; Ministry approval decision no. 26-748/1 of 16.6.2026 Grade: Grade 11 (gymnasium Year II; student/teacher: STUDENT). PDF pages: 176 (175 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: a full European music history is taught, but the book keeps coming home — a whole Macedonian composer school in three generations plus a parallel popular-and-jazz line, Macedonian festivals beside Glastonbury and Eurovision, and a closing heritage unit where the ritual songs and wedding dances of every people in the country are taught side by side, before the Balkans, Europe and the world. Excluded per standing rules: the bibliography (printed pp. 174–175) is not content; this book has no glossary. Directed-listening examples, singing exercises and notation-app tasks ride inside the placed lessons, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — directed listening: hearing a work on purpose and with attention — noting its style period, composer, performing forces, dynamics, tempo, character, melody and rhythm, and following its form and development; and what music does in the brain — mood, memory, movement (student book; original target `music/directed-listening`) | Book 19, printed p. 96 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

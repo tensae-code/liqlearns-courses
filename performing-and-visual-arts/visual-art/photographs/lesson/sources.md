@@ -1,6 +1,6 @@
 # Sources — Photographs
 
-countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Syria
+countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -51,7 +51,7 @@ countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Sy
 |---|---|
 | Syria — Lesson 29 "From Human Heritage: The Camera" — humanity's drive to document by image, from cave drawing to Ibn al-Haytham founding optics and the camera (qamara), drawing a person photographing with an old camera (student book; original target `visual-art/photographs`) | Book 11, printed p. 61 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Iran, Brazil, Cuba, Angola, Moldova, Syria). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: every photograph in this lesson is described only as its placement describes it — the Sof Omar cave as a cave entrance in rock, the Tis Abay Falls as a wide waterfall, Bete Giyorgis as the rock-hewn church of St George at Lalibela, the Axum stele standing among ruins, Fasilides' castle at Gondar, Abebe Bikila running on a stadium track in a race, the walia standing on rocks against the sky, the Abbay Dam as a dam wall with water pouring through, and the market, harvest, landscape and aeroplane photographs as the Grade 2 figures name them. No photographic detail beyond the placements has been added. The Grade 3 page (Book 2, p. 68) also carries a chapter summary and closing exercise and a Review placement for Appreciating the Arts; only its two photographs and the "which pleased you" activity are stocked here, as the structure map directs — the review fold belongs to the First Steps appreciating lesson.
 
@@ -63,3 +63,12 @@ Searchable tags: photographs, looking at photographs, Tis Abay, Blue Nile Falls,
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — §1.4 — photography: its technique defined, then its Cuban road after 1959 — Korda's "Guerrillero Heroico", Raúl Corrales' "La marcha", and the Fondo Cubano de la Imagen Fotográfica's new generation (student book; original target `visual-art/photographs`) | Book 8, printed pp. 33–38 |
+
+**Book 12:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Фотографија — what photography is: painting with light — it can show only what really stands before the camera, in a real place and moment (student book; original target `visual-art/photographs`) | Book 12, printed pp. 100–101 |
+| North Macedonia — Мотиви — photographic motifs: the portrait first of all — the face and character of a person — then reportage, and photography wedded to text in advertising (student book; original target `visual-art/photographs`) | Book 12, printed p. 117 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Beautiful Writing
 
-countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Libya, Cuba, Mongolia, Rwanda, Bolivia, Armenia
+countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Libya, Cuba, Mongolia, Rwanda, Bolivia, Armenia, North Macedonia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -176,7 +176,7 @@ countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus,
 | Armenia — Art and technologies: letters can be written and drawn — in our old books, the manuscripts (մատյաններ), letters were pictured; Chubaryan's monument "Mesrop Mashtots and Koryun" at Oshakan (student book; original target `visual-art/beautiful-writing`) | Book 42, printed p. 47 |
 
 
-**Acceptance count: taught in 16 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria, Libya, Cuba, Mongolia, Rwanda, Bolivia, Armenia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added on its Grades 3–9 student calligraphy workbooks — counted in the acceptance count; the Libya Grade 1 teacher guide part is evidence only, kept outside it. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 17 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria, Libya, Cuba, Mongolia, Rwanda, Bolivia, Armenia, North Macedonia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added on its Grades 3–9 student calligraphy workbooks — counted in the acceptance count; the Libya Grade 1 teacher guide part is evidence only, kept outside it. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: the Grade 5 calligraphy plates placement (single/double/shaded examples in Amharic and English, with a two-tied-pencils GIF need) is stocked inside Sub lesson 5's practice set, where the Grade 6 book turns the same two-tools method into practice; no separate plate part is claimed. Line-kind Amharic names and spellings (ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, ነጠላ, ድርብ) are copied exactly from the Grade 3 placements.
 
@@ -273,3 +273,11 @@ Searchable tags: calligraphy, ኪነ-ፅህፈት, beautiful writing, letter for
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — §1.6, Rotulado — lettering as an art under norms: letter height and spacing for uniformity, tracing capitals, lowercase and numbers stroke by stroke, from C. W. Reinhardt's XIX-century lettering onward (student book; original target `visual-art/beautiful-writing`) | Book 32, printed p. 33 |
+
+**Book 43:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Калиграфија — calligraphy: the history of writing from Babylonian clay tablets to paper, the Latin scripts and the Glagolitic and Cyrillic, the decorated initial that opened old manuscripts, and beautiful handwriting kept for the documents that matter (student book; original target `visual-art/beautiful-writing`) | Book 43, printed pp. 91–93 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

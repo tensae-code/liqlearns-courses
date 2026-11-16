@@ -1,6 +1,6 @@
 # Sources — Singing in Rounds: Canon
 
-countries: Fiji, Moldova
+countries: Fiji, Moldova, North Macedonia
 
 **Book 1:** *Performing Arts — Music Is Fun, Teachers Guide Year 2* (teacher guide, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 2, 34 PDF pp. TEACHER — teacher guide. The record says student book; the cover proves TEACHER GUIDE — carried exactly as filed. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: every theme is sung in up to three languages (English, iTaukei, Fiji Hindi); Fiji's own songs (Isa Noqu Vanua Ko Viti, Viti, Choo-choo, Basi Levu, Lori Levu, O Bawa) sit beside imported songs, and safety teaching (earthquake, flood, cyclone, tsunami, fire) is carried by song. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -24,8 +24,16 @@ countries: Fiji, Moldova
 | Moldova — Unit 2, exercise-song "Vine iarna" — "Winter is coming" sung first in unison, then in canon (student book; original target `music/canon-singing-in-rounds`) | Book 3, printed p. 35 |
 | Moldova — Unit 4, Cântați — Mozart's "Canon" ("Blânda seară lin coboară") sung first in unison, then in canon (student book; original target `music/canon-singing-in-rounds`) | Book 3, printed p. 70 |
 
-**Acceptance count: taught in 1 country (Moldova) — this lesson stands on Fiji teacher-guide evidence only, named here, counted nowhere.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Moldova, North Macedonia) — this lesson stands on Fiji teacher-guide evidence only, named here, counted nowhere.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/singing-in-rounds-canon`); the Fiji placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by name, purpose and summary only — never transcribed.
 
 Searchable tags: canon, rounds, London's Burning, Lodoni Sa Kama, iTaukei, Fiji
+
+**Book 4:** *Музичка уметност за IV година гимназиско образование (изборен предмет) (Music Art for Year IV of gymnasium education, elective subject)* (student book, Macedonian) — North Macedonia, Министерство за образование и наука на Република Македонија (Ministry of Education and Science), Skopje; year 2010 (CIP), copy in hand is the 2015 printing; ISBN 978-608-226-254-3; author Suzana Tnokova Kuzmanovska; Ministry approval decision no. 22-4028/1 of 29.06.2010 Grade: Grade 13 (gymnasium Year IV, elective) (student/teacher: STUDENT). PDF pages: 96 (96 printed pages per CIP including covers; image-only scan read page by page from rendered sheets; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the year's theory is carried on Macedonian backs — Teshkoto opens the book (in Blazhe Koneski's poem), Shuplevski, Skalovski and Prokopiev are the composer portraits, the folk songs are Bitola's, Christmas and Easter are told in Macedonian custom, and the ballet whose story is retold in full is Prokopiev's "Labin i Dojrana". Excluded per standing rules: the quotations page (printed p. 3) and the orchestra photograph (p. 4) are front matter; pure practice pages are not placed — the children's-instrument playing exercises (p. 20), the melodic exercises (pp. 38, 44), the syncopation/contratan/triplet drill examples (p. 53) and the recorder exercises (p. 65); the jazz (p. 60) and rock (p. 61) spreads are photo-and-listening pages whose teachable text duplicates Book 7's jazz and rock chapters; printed pp. 92–96 are a blank endpaper and blank staff paper. The Johann Strauss chapter (p. 72) repeats Book 7's Strauss biography and is placed here as printed in this book. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Вива ла мизика — Praetorius's "Viva la musica" sung as a canon, and what a canon is: the simplest form of many-voiced singing, one melody imitated by two, three or four voices entering at different times (student book; original target `music/canon-singing-in-rounds`) | Book 4, printed p. 5 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

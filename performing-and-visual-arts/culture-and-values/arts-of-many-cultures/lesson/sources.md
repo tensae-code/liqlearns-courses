@@ -1,6 +1,6 @@
 # Sources — Arts of Many Cultures
 
-countries: Armenia
+countries: Armenia, North Macedonia
 
 **Book 1:** *Երաժշտություն 4 (Music 4)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025 (guide's imprint year; the textbook is ministry-approved, ՀՏԴ 373:78(075.3)); ISBN not printed in the extracted front matter. Grade: 4 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 46,004,309 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE (the closing notation appendix, printed pp. 84-99, gives the year's songs in notation — inventory only; the subject index, pp. 100-101, is a glossary — inventory only). Author: Tatevik Shakhkulyan. The whole year is FOLK MUSIC: what a folk song is, how it reaches us, collectors, dances, work songs, feast songs, the instruments blul and dhol, strings and Sayat-Nova, weddings, choirs — Armenia's folk art first, then the world's (French, Italian, Polish, Scottish, Japanese, Maori, Ukrainian, American songs). Armenia's own way: grade 4 is the folk year — Komitas, Spiridon Melikyan and Mihran Tumajan are taught as the collectors who saved the songs; the Govnd and Ververi dances, the plough song and the spinning songs, Tsaghkazard and the wedding praise-songs are the core repertoire. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
 
@@ -53,8 +53,16 @@ countries: Armenia
 |---|---|
 | Armenia — Art in the land of the rising sun — the arts of Japan met as another people's heritage (student book; original target `culture-and-values/japanese-art`) | Book 8, printed p. 179 |
 
-**Acceptance count: taught in 1 country (Armenia).** Armenia's teacher-guide placements in this lesson are evidence only, kept outside the acceptance count; its student-book stock is inside the count.
+**Acceptance count: taught in 2 countries (Armenia, North Macedonia).** Armenia's teacher-guide placements in this lesson are evidence only, kept outside the acceptance count; its student-book stock is inside the count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `culture-and-values/arts-of-many-cultures`). The Armenia placements were filed under the original string(s) `culture-and-values/arts-of-other-cultures`, `culture-and-values/japanese-art`, `culture-and-values/music-of-many-cultures`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. Armenia's own way is the lesson itself where the topic is Armenian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
 Searchable tags: Armenia, Arts of Many Cultures, Do ALL nations have folk songs
+
+**Book 9:** *Музичка уметност за II година гимназиско образование (Musical Art for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-91-0; authors Simona Zafirovska & Lejla Alimi Lumani; Ministry approval decision no. 26-748/1 of 16.6.2026 Grade: Grade 11 (gymnasium Year II; student/teacher: STUDENT). PDF pages: 176 (175 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: a full European music history is taught, but the book keeps coming home — a whole Macedonian composer school in three generations plus a parallel popular-and-jazz line, Macedonian festivals beside Glastonbury and Eurovision, and a closing heritage unit where the ritual songs and wedding dances of every people in the country are taught side by side, before the Balkans, Europe and the world. Excluded per standing rules: the bibliography (printed pp. 174–175) is not content; this book has no glossary. Directed-listening examples, singing exercises and notation-app tasks ride inside the placed lessons, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — the world's musical heritage: West Africa's djembe and xylophones, the kora of the East, North Africa's oud and daf, the South's group singing; Asia's erhu, koto, sitar and tabla, Southeast Asia's metal and wooden percussion, the Middle East's ney and qanun; the Americas' Native and African-rooted music, Andean pan flute, salsa and samba; Aboriginal Australia's didgeridoo and the song-dances of Oceania (student book; original target `culture-and-values/world-music-heritage`) | Book 9, printed pp. 170–171 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

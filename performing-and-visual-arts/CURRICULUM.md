@@ -2535,7 +2535,29 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   miniatures, Martiros Saryan and Minas Avetisyan, the Sasna Tsrer
   epic, Zvartnots and Erebuni.
 
-**The whole course stands at 844 lessons, 10,365 questions and
+- **Art expansion — North Macedonia (2026-11-16):** 570 placements stocked from
+  7 student books (Macedonian, Grades 9–13 — gymnasium years I–IV filed as
+  grades 10–13): 435 into existing and already-built canonical lessons, and
+  135 into 51 NEW lessons (Music: Bel Canto; Chopin and the Piano; The Czech National School; Electronic Music and Techno; Ethnomusicology and Musical Folklore; European and Balkan Folk Music Heritage; Expressionism and Atonality; Macedonian Composers; Macedonian Folk Instruments; Macedonian Folk Song: Izvorna and Starogradska; Macedonian Performers and Conductors; Macedonian Popular and Jazz Composers; Medieval Music; Music Festivals and Concerts; Music of the Twentieth Century; Musical Form and Structure; National Schools in Music; Neoclassicism in Music; Neofolklorism; Orff Instruments and Carl Orff; Pre-Classical Music: Rococo and Galant; Recorded Sound; Renaissance Music; Rock Music; The Russian National School; The Class Music Project; Traditional Singing Styles of North Macedonia; Wagner and Music Drama;
+  Visual Art: Abstract Expressionism; Bauhaus; Conceptual Art; Constructivism and Suprematism; The Photographic Darkroom; Fresco Painting; History of Architecture; History of Photography; Macedonian Architecture and Mosaic; Macedonian Contemporary Art; Macedonian Filigree Jewellery; Macedonian Modern Art; Macedonian Woodcarving; Minimalism and Its Neighbours; Neo-Expressionism and New Painting; Neoplasticism; New Figuration and New Realism; Post-Impressionism; Tapestry and Gobelin Weaving;
+  Drama and Dance: Oro: Circle and Wedding Dances of North Macedonia;
+  Culture and Values: Cyril and Methodius, North Macedonian Calendar Customs
+  and Ritual Songs, The Macedonian Wedding Cycle), 612 questions added, media as
+  described slots only. Honesty carried exactly as filed: the eighth record,
+  named "G9 Art", is record-only — the file behind it is the Grade 8 book
+  (Ликовно образование за 8 одделение, Ordev & Ordev, Ministry 2010, ISBN
+  978-608-4575-68-9), not the Grade 9 book the record names, so it carries
+  0 placements and no book entry; the glossaries of the Grade 10 Music and
+  Grade 11 Art books are inventory-only, named in their book entries, never
+  stocked as parts; songs are placed by title and theme only, never
+  transcribed. North Macedonia's own way is kept as named parts throughout:
+  the oro dances and Teshkoto, the gajda, kaval, zurla and tapan, Glasoečko
+  singing and the Kopačkata, the wedding cycle of seven peoples and the
+  Galičnik wedding, the Macedonian composer school from Prokopiev and
+  Skalovski to Bužarovski, the Nerezi and Kurbinovo frescoes, the kopaničari
+  woodcarvers, silver filigree and the Ohrid pearl.
+
+**The whole course stands at 895 lessons, 10,977 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

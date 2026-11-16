@@ -1,6 +1,6 @@
 # Sources — Pointillism
 
-countries: Mozambique, Angola, Mongolia, Moldova, Syria
+countries: Mozambique, Angola, Mongolia, Moldova, Syria, North Macedonia
 
 **Book 1:** *Educação Visual — Módulo 1 (PESD I — Programa do Ensino Secundário à Distância, 1º Ciclo)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Moçambique, 2023; elaborated by Dionísio Manjate and Félix Mindú; no ISBN printed, Grades 7–9 (the PESD I cycle is taught as one combined cycle, not split by grade), 152 PDF pp. STUDENT. Verdict: COMPLETE (cover/title verified — "EDUCAÇÃO VISUAL, MÓDULO 1, PESD I"; 20,947,967 bytes, exact match to the record; fetched from GitHub Releases, mid-size-books-8). Mozambique's own way: a self-study distance module — every lesson carries objectives, the teaching body, exercises, a summary and an answer key for the lone learner. Named, not placed: the per-lesson glossaries and the closing Bibliography (printed p. 150) — inventory only; the Unit 5 introduction (printed p. 127) announces a third textiles lesson on basketry (cestaria) that does not appear in this module — a gap in the book, noted as filed. Excluded per the placements: the end-of-module preparation test (Teste de Preparação de Fim do Módulo, printed pp. 138–144) and its answer key (printed pp. 145–149) — the book's own assessment; the lessons' exercises and answer keys are self-study apparatus (all teaching content is placed from the lesson bodies). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mozambique-placements.md.
 
@@ -48,8 +48,17 @@ countries: Mozambique, Angola, Mongolia, Moldova, Syria
 |---|---|
 | Syria — Lesson 15 "Pointillism" — painting a landscape entirely from small dots of colour, Georges Seurat's invented technique, minding light areas and shadow areas (student book; original target `visual-art/pointillism-painting-with-dots`) | Book 8, printed p. 32 |
 
-**Acceptance count: taught in 5 countries (Mozambique, Angola, Mongolia, Moldova, Syria).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Mozambique, Angola, Mongolia, Moldova, Syria, North Macedonia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/pointillism`); the Mozambique placements were filed under the original string(s) `visual-art/pointillism`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Mozambique's own way: pointillism is taught as a step-by-step procedure with household materials, inside its drawing lesson, for the lone distance learner.
 
 Searchable tags: pointillism, pontilhismo, dots, graphite, tone, Mozambique, Syria
+
+**Book 9:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Боја: оптичко мешање — optical mixing: unmixed touches of pure colour that fuse in the viewer's eye — the pointillist way (student book; original target `visual-art/pointillism`) | Book 9, printed pp. 12–15 |
+| North Macedonia — Неоимпресионизам — Neo-Impressionism: the scientific point — pure colours set as dots to mix in the viewer's eye — Seurat and Signac (student book; original target `visual-art/pointillism`) | Book 9, printed p. 133 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

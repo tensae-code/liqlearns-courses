@@ -1,6 +1,6 @@
 # Sources — Video: Moving Pictures
 
-countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia
+countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia, North Macedonia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba, Venezuela, Mala
 |---|---|
 | Malaysia — Bab 1 Fotografi Kreatif, Pengiklanan, Kewartawanan — creative photography, advertising photography and photojournalism as working kinds (student book; original target `visual-art/video-moving-pictures`) | Book 14, printed pp. 30–33 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia, North Macedonia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 5 book's tempo table oddity (Allegretto above Allegro) belongs to the music lesson and is not used here. The Grade 8 teacher-guide parts are inside that guide's surviving body pages (printed pp. 4–6) and are labelled evidence. Creative photography's techniques are taught as the Grade 7 guide names them; 'painting onto a printed photo' and double exposure are described, not faked — the lesson's picture is a drawn teaching board, not a photograph claiming those effects.
 
@@ -78,3 +78,11 @@ Searchable tags: video, moving pictures, shot sizes, close-up, medium view, long
 |---|---|
 | Cuba — §1.9, El audiovisual en Cuba — the audiovisual language, digital art made under blockade conditions, and the Proyecto Lucas (student book; original target `visual-art/video-moving-pictures`) | Book 11, printed pp. 123–127 |
 | Cuba — §2.6, Una imagen en movimiento: el cine — the cinema as a cultural institution of the Cuban family, at its height during the Festival de Cine Latinoamericano (student book; original target `visual-art/video-moving-pictures`) | Book 11, printed p. 157 |
+
+**Book 15:** *Ликовна уметност 2 (Visual Art 2) — учебник за втора година гимназиско образование* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-86-6; author Nora Halimi; approved by the Ministry of Education and Science (decision no. 26-560/1 of 4.5.2026) Grade: Grade 11 (student/teacher: STUDENT) — gymnasium year II filed as grade 11. PDF pages: 128 (127 printed pages per CIP; read in place from phase3-staging, size and pages verified against the record; cover and imprint seen). Verdict: COMPLETE. North Macedonia's own way: the world's modern and contemporary art is taught whole, movement by movement — then the same story is told again on home ground: from the last icon-painters (zographs) through Skopje's post-earthquake brutalism and Kenzo Tange's master plan to today's installation, photography and video artists, with the country's Albanian artists named inside both stories. Excluded per standing rules: Речник на поими (the glossary of terms), printed pp. 122–126 — glossary/word list, inventory-only; the bibliography (p. 127) is not content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Видеоуметност — moving images as the medium: Nam June Paik, "father of video art", and his "TV Buddha" (a Buddha statue watching its own television); Bill Viola's water-and-fire "The Crossing"; Pipilotti Rist's playful video performances; video exploring time, identity, technology and society (student book; original target `visual-art/video-moving-pictures`) | Book 15, printed p. 44 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

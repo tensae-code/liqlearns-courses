@@ -1,6 +1,6 @@
 # Sources — Animal Songs
 
-countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia, Armenia
+countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia, Armenia, North Macedonia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -38,7 +38,7 @@ countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia, Arm
 | Armenia — Insects: Safaryan's "Meghun" (The bee) and Astvatsatryan's "Titern u meghun" (The butterfly and the bee) — small flying creatures in song and story (student book; original target `music/animal-songs`) | Book 8, printed p. 57 |
 
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Angola, Mongolia, Armenia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Angola, Mongolia, Armenia, North Macedonia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The placements name these songs, their givers and their sound-moments only; no lyrics are transcribed anywhere in this lesson, and none are claimed. The Grade 1 lamb placement asks for a GIF of a lamb bleating, mouth moving; that motion was judged a failed-motion risk (a drawn mouth cannot bleat truly) and was NOT filed — the bleating moment is carried by the described AUDIO slot instead, and the board picture covers the visual slot.
 
@@ -57,3 +57,11 @@ Searchable tags: animal songs, lamb, cat, dog, bird, ትንሽ በግ አለኝ,
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — The Bird Song (نشيد العصفور) — a song in the small bird's own voice: it flies where it wishes and settles on the branch, its mother taught it to fly, and it teaches the pupil that knowledge is light (teacher guide — evidence; original target `music/animal-songs`) | Book 5, printed p. 35 |
+
+**Book 9:** *Музичко образование за 9 одделение (Music Education for Grade 9, nine-year primary education)* (student book, Macedonian) — North Macedonia, Министерство за образование и наука на Република Северна Македонија (Ministry of Education and Science), Skopje; year 2022; ISBN 978-608-273-032-5; authors Slavjanka Dimova, Vera Angelovska, Marina Vasić-Stefanovska Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 102 (101 printed pages per CIP plus cover; cover and CIP verified against the record). Verdict: COMPLETE. Fetched from the repo tree (byte size + blob SHA verified). North Macedonia's own way: the book is a portrait of a multi-people country — songs are sung in Macedonian, Albanian, Romani, Aromanian, Turkish and Serbian, every people's wedding customs and costumes are taught side by side, and Macedonian folk music is followed into choral works, pop songs, jazz and film scores by Macedonian composers. Excluded per standing rules: the melodic and rhythmic drill exercises (printed pp. 9, 19, 22, 25) are practice material inside the placed theory lessons, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — song "Kelebek" (Butterfly), a Turkish children's song with Macedonian translation, music Cengiz Ibrahim: the butterfly with silk wings flying from branch to branch (student book; original target `music/animal-songs`) | Book 9, printed p. 84 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

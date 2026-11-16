@@ -1,6 +1,6 @@
 # Sources — Sacred and Religious Songs
 
-countries: Jordan, Libya, Rwanda, Moldova
+countries: Jordan, Libya, Rwanda, Moldova, North Macedonia
 
 **Book 1:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
 
@@ -61,7 +61,7 @@ countries: Jordan, Libya, Rwanda, Moldova
 |---|---|
 | Moldova — Unit 1, Muzica și cuvântul — the sung prayer: church chant as music wedded to the sacred word (student book; original target `music/sacred-music`) | Book 12, printed p. 6 |
 
-**Acceptance count: taught in 3 countries (Jordan, Rwanda, Moldova).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Jordan, Rwanda, Moldova, North Macedonia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/sacred-and-religious-songs`); the Jordan placements were filed under the original string(s) `music/religious-songs` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -89,3 +89,17 @@ Searchable tags: sacred and religious songs, Jordan, Rwanda
 |---|---|
 | Libya — A Child's Prayer (نشيد دعاء الطفل) — a sung prayer: my God, make the day happy and full of blessings, help me in my lessons and duties, light my mind and heart with useful knowledge, and protect my country (teacher guide — evidence; original target `music/devotional-songs-for-children`) | Book 5, printed pp. 35–36 |
 | Libya — The Two Testimonies (نشيد الشهادتين) — the testimony of faith set to music as a children's song: there is no god but God, and Muhammad is the messenger of God (teacher guide — evidence; original target `music/devotional-songs-for-children`) | Book 5, printed pp. 43–44 |
+
+**Book 13:** *Музичко образование за 9 одделение (Music Education for Grade 9, nine-year primary education)* (student book, Macedonian) — North Macedonia, Министерство за образование и наука на Република Северна Македонија (Ministry of Education and Science), Skopje; year 2022; ISBN 978-608-273-032-5; authors Slavjanka Dimova, Vera Angelovska, Marina Vasić-Stefanovska Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 102 (101 printed pages per CIP plus cover; cover and CIP verified against the record). Verdict: COMPLETE. Fetched from the repo tree (byte size + blob SHA verified). North Macedonia's own way: the book is a portrait of a multi-people country — songs are sung in Macedonian, Albanian, Romani, Aromanian, Turkish and Serbian, every people's wedding customs and costumes are taught side by side, and Macedonian folk music is followed into choral works, pop songs, jazz and film scores by Macedonian composers. Excluded per standing rules: the melodic and rhythmic drill exercises (printed pp. 9, 19, 22, 25) are practice material inside the placed theory lessons, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — song "Ко удара тако позно" (Who Knocks So Late), a Serbian song (verses Vojislav Ilić, arranged Predrag Miodrag): the child Rastko, Saint Sava, knocking at the monastery gate in the deep night (student book; original target `music/sacred-music`) | Book 13, printed p. 17 |
+
+**Book 14:** *Музичка уметност за I година гимназиско образование (Musical Art for Year I of Gymnasium Education)* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2025; ISBN 978-608-4855-74-3; authors Simona Zafirovska and Teuta Alimi Selmani; approved by the Ministry of Education and Science (decision no. 26-934/1) Grade: Grade 10 (student/teacher: STUDENT) — gymnasium year I filed as grade 10. PDF pages: 122 (120 printed pages per CIP; read in place from phase3-staging, size and pages verified against the record; cover seen). Verdict: COMPLETE. North Macedonia's own way: a full music-history arc (first peoples, antiquity, Middle Ages, Renaissance, Baroque) is taught beside a complete theory course, and the heritage unit treats every people's singing styles, oro dances and folk instruments as one shared treasury — with the UNESCO-listed Glasoečko two-part singing, the Kopačkata oro and the Macedonian gajda named as protected heritage. Excluded per standing rules: Речник (the glossary), printed pp. 113–116 — glossary/word list, inventory-only; the bibliography (pp. 117–118) is not content. Printed song texts ("O sole mio", "We Will Rock You", the folk-song listening examples) are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Baroque sacred vocal forms: the oratorio, opera's church brother without staging (Handel's "Messiah"); the cantata in several movements, reaching its peak in Bach; the passion, telling Christ's suffering from the Gospels for Good Friday; and the chorale, the simple hymn sung by choir and congregation (student book; original target `music/sacred-music`) | Book 14, printed p. 34 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

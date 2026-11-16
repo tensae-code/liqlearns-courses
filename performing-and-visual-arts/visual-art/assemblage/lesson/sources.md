@@ -1,6 +1,6 @@
 # Sources — Assemblage
 
-countries: Barbados, Serbia, Moldova
+countries: Barbados, Serbia, Moldova, North Macedonia
 
 **Book 1:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -20,8 +20,16 @@ countries: Barbados, Serbia, Moldova
 |---|---|
 | Moldova — Unit II §7 — mixed techniques: working "with anything on anything", blurring the border of flat and spatial art; collage and assemblage born in 1912 when Picasso set a piece of printed oilcloth into a painting; the plastic gestures — spraying paint, merging materials, scratching the surface, incorporating objects (student book; original target `visual-art/mixed-techniques-and-assemblage`) | Book 3, printed pp. 25–26 |
 
-**Acceptance count: taught in 2 countries (Serbia, Moldova). Barbados curriculum guide evidence is named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Serbia, Moldova, North Macedonia). Barbados curriculum guide evidence is named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/assemblage`); the Barbados placements were filed under the original string `visual-art/assemblage-and-found-object-art`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: assemblage in Class 4 is jewellery from the island's natural beads joined with man-made ones, objects built for space and balance, and wooden toys designed and made by the children. (In this lesson's sources, Book 1 is the Barbados Visual Arts Curriculum Guide.)
 
 Searchable tags: assemblage, bead jewellery, 3D objects, space, balance, wooden toys, Barbados
+
+**Book 4:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Колаж — collage: building a picture from cut and pasted paper, printed matter and cloth (student book; original target `visual-art/mixed-techniques-and-assemblage`) | Book 4, printed p. 52 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

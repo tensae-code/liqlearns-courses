@@ -1,6 +1,6 @@
 # Sources — Counterpoint, Polyphony and the Fugue
 
-countries: Venezuela, Malaysia, Armenia
+countries: Venezuela, Malaysia, Armenia, North Macedonia
 
 **Book 1:** *Educación Artística 1 — EDUCACIÓN ARTÍSTICA — Artes visuales / Artes escénicas / Artes musicales — 1er AÑO (Colección Bicentenario)* (student book, Spanish) — Venezuela, Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela; third edition, April 2014; ISBN 978-980-218-315-9 (Depósito Legal lf5162012370748). Series coordination Ángela Beatriz Calzadilla; authors Aura Marina Orta, Marianella Morales Mistron, Trina Borrego, Luis Galíndez, Alexander Lugo Rodríguez and others. Grade 7 (1er año, first year of secondary; student/teacher: STUDENT). PDF pages: 75 (printed pp. 10–143; the fetched PDF is 50,417,591 bytes; cover and title page verified — blue cover with indigenous petroglyph-style figures, “EDUCACIÓN ARTÍSTICA 1er AÑO”). Verdict: COMPLETE — read in full as extracted text (text PDF), cover verified. Named, not placed: the front-matter presidential message (not teaching content); the end-of-chapter suggested activities and question boxes (their skills are folded into the lesson lines they practise); the bibliography (printed pp. 141–143) — inventory only. Venezuela's own way: one single book teaches all three art languages together — visual, scenic (theatre/dance) and musical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/venezuela-placements.md.
 
@@ -21,10 +21,18 @@ countries: Venezuela, Malaysia, Armenia
 | Armenia — The birth of polyphony (Բազմաձայնության ծնունդը); "Ave Maria" — voices begin to sing together in parts (student book; original target `music/the-birth-of-polyphony`) | Book 3, printed p. 134 |
 
 
-**Acceptance count: taught in 3 countries (Venezuela, Malaysia, Armenia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Venezuela, Malaysia, Armenia, North Macedonia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/counterpoint-and-the-fugue`); the Venezuela placements were filed under the original string(s) `music/counterpoint-and-fugue` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
 
 Searchable tags: counterpoint, polyphony and the fugue, Venezuela, Armenia
+
+**Book 4:** *Музичка уметност за III година гимназиско образование (изборен предмет) (Music Art for Year III of gymnasium education, elective subject)* (student book, Macedonian) — North Macedonia, Министерство за образование и наука на Република Македонија (Ministry of Education and Science), Skopje; year 2010 (CIP), copy in hand is the 2013 printing; ISBN 978-608-226-255-0; author Suzana Tnokova Kuzmanovska; Ministry approval decision no. 22-4030/1 of 29.06.2010 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 104 (102 printed pages per CIP plus covers; image-only scan read page by page from rendered sheets; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: half the book is Macedonia itself — its musical folklore and the science that studies it, folk songs sorted by their work, costumes of the four regions, every folk instrument family, the oro dances region by region (Teshkoto, Kopachka, Rusalii), village and chalgija ensembles, Macedonian opera singers, composers and conductors, the first Macedonian opera and ballet, Badnik customs, Cyril and Methodius, and the country's festivals. Excluded per standing rules: the quotations page (printed p. 3) and the photo spreads (pp. 4, 5, 11, 37, 53) carry no teachable text; the "listening at the pupils' suggestion" page (p. 71) is an activity, not content; the Задача task boxes throughout are exercises inside the placed chapters, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Фуга — the fugue: the polyphonic form built on imitation — the exposition, where the voices chase the theme one after another (fuga — flight); the development through episodes; and the final part with its stretto, entries piling close — Bach its greatest master (student book; original target `music/the-fugue`) | Book 4, printed p. 63 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Composers and Their Lives
 
-countries: Syria, Armenia
+countries: Syria, Armenia, North Macedonia
 
 **Book 1:** *التربية الموسيقية (Music Education), Eighth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 85,804,582 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only book, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): "Let Us Play and Test Our Knowledge," printed p. 52 — a board-game revision of the book's content (assessment play, inventory only); closing "Anthems of the Book" appendix, printed pp. 54-64 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
 
@@ -90,8 +90,16 @@ countries: Syria, Armenia
 | Armenia — Bach's PASSIONS — of Bach's passions only two survive, according to John and according to Matthew; even the short pauses carry special meaning — in 18th-century music silence speaks (student book; original target `music/composers-and-their-music`) | Book 13, printed p. 22 |
 
 
-**Acceptance count: taught in 2 countries (Syria, Armenia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Syria, Armenia, North Macedonia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/composers-and-their-lives`). The Syria placements were filed under the original string(s) `music/famous-composers`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. Syria's own way is the lesson itself where the topic is Syrian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
 Searchable tags: Syria, Composers and Their Lives, Lesson 4 (composers), Armenia
+
+**Book 14:** *Музичка уметност за IV година гимназиско образование (изборен предмет) (Music Art for Year IV of gymnasium education, elective subject)* (student book, Macedonian) — North Macedonia, Министерство за образование и наука на Република Македонија (Ministry of Education and Science), Skopje; year 2010 (CIP), copy in hand is the 2015 printing; ISBN 978-608-226-254-3; author Suzana Tnokova Kuzmanovska; Ministry approval decision no. 22-4028/1 of 29.06.2010 Grade: Grade 13 (gymnasium Year IV, elective) (student/teacher: STUDENT). PDF pages: 96 (96 printed pages per CIP including covers; image-only scan read page by page from rendered sheets; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the year's theory is carried on Macedonian backs — Teshkoto opens the book (in Blazhe Koneski's poem), Shuplevski, Skalovski and Prokopiev are the composer portraits, the folk songs are Bitola's, Christmas and Easter are told in Macedonian custom, and the ballet whose story is retold in full is Prokopiev's "Labin i Dojrana". Excluded per standing rules: the quotations page (printed p. 3) and the orchestra photograph (p. 4) are front matter; pure practice pages are not placed — the children's-instrument playing exercises (p. 20), the melodic exercises (pp. 38, 44), the syncopation/contratan/triplet drill examples (p. 53) and the recorder exercises (p. 65); the jazz (p. 60) and rock (p. 61) spreads are photo-and-listening pages whose teachable text duplicates Book 7's jazz and rock chapters; printed pp. 92–96 are a blank endpaper and blank staff paper. The Johann Strauss chapter (p. 72) repeats Book 7's Strauss biography and is placed here as printed in this book. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Занимливости — stories of the composers: Henry Purcell, locked out all night by his wife, caught cold and died at 36; Beethoven the ladies' man, the "Moonlight" Sonata dedicated to his immortal beloved Giulietta Guicciardi; Paganini, who played whole concertos on one string and offered the Milan coachman 20 lire to drive him home "on one wheel"; and Borodin, the professor-chemist-general so absent-minded he forgot his own wife's name at the border (student book; original target `music/stories-of-the-composers`) | Book 14, printed pp. 89–90 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

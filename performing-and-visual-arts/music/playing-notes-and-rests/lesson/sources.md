@@ -1,6 +1,6 @@
 # Sources — Playing Notes and Rests
 
-countries: Ethiopia, Barbados, Morocco, Bulgaria, Libya, Bolivia, Armenia
+countries: Ethiopia, Barbados, Morocco, Bulgaria, Libya, Bolivia, Armenia, North Macedonia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Barbados, Morocco, Bulgaria, Libya, Bolivia, Armenia
 | Armenia — teaching a song from notation: the worked example of teaching "Կաքավի երգը" (The Partridge Song) — feeling phrase boundaries, regulating breathing, and accompanying with rhythm instruments (bells, frame drum, triangle) (teacher guide — evidence; original target `music/playing-notes-and-rests`) | Book 13, printed pp. 17–20 (teacher-guide evidence; song named only) |
 
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bulgaria, Bolivia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Bulgaria, Bolivia, North Macedonia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book continues past this lesson to the eighth note and dotted notes; those signs have their own targets in the placements and are not stocked here — this lesson stocks only the whole, half and quarter playing the placements assign to “Playing Notes and Rests”. The Grade 3 photographs of children drumming are described, not reproduced; GIF 9622 is a drawn practice loop in their place.
 
@@ -78,3 +78,12 @@ Searchable tags: playing notes and rests, drums, relay, ቅብብሎሽ, perform
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Band exercises 1–6 — full band scores in 2/4: a sung melody line with written parts for jingles, triangle and daf playing together and resting together (teacher guide — evidence; original target `music/playing-notes-and-rests`) | Book 11, printed pp. 24–26 |
+
+**Book 14:** *Музичка уметност за IV година гимназиско образование (изборен предмет) (Music Art for Year IV of gymnasium education, elective subject)* (student book, Macedonian) — North Macedonia, Министерство за образование и наука на Република Македонија (Ministry of Education and Science), Skopje; year 2010 (CIP), copy in hand is the 2015 printing; ISBN 978-608-226-254-3; author Suzana Tnokova Kuzmanovska; Ministry approval decision no. 22-4028/1 of 29.06.2010 Grade: Grade 13 (gymnasium Year IV, elective) (student/teacher: STUDENT). PDF pages: 96 (96 printed pages per CIP including covers; image-only scan read page by page from rendered sheets; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the year's theory is carried on Macedonian backs — Teshkoto opens the book (in Blazhe Koneski's poem), Shuplevski, Skalovski and Prokopiev are the composer portraits, the folk songs are Bitola's, Christmas and Easter are told in Macedonian custom, and the ballet whose story is retold in full is Prokopiev's "Labin i Dojrana". Excluded per standing rules: the quotations page (printed p. 3) and the orchestra photograph (p. 4) are front matter; pure practice pages are not placed — the children's-instrument playing exercises (p. 20), the melodic exercises (pp. 38, 44), the syncopation/contratan/triplet drill examples (p. 53) and the recorder exercises (p. 65); the jazz (p. 60) and rock (p. 61) spreads are photo-and-listening pages whose teachable text duplicates Book 7's jazz and rock chapters; printed pp. 92–96 are a blank endpaper and blank staff paper. The Johann Strauss chapter (p. 72) repeats Book 7's Strauss biography and is placed here as printed in this book. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Ноти / Паузи — notes: head, stem and flags; the values — whole (four beats), half, quarter, eighth, sixteenth — and the rests that mirror them, the signs of a measured silence (student book; original target `music/playing-notes-and-rests`) | Book 14, printed p. 33 |
+| North Macedonia — Знаци за продолжување на нотната вредност — lengthening a note: the dot (half as much again), the tie that joins two notes of one name into one duration, and the fermata (корона) that holds a note about twice as long (student book; original target `music/playing-notes-and-rests`) | Book 14, printed p. 35 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

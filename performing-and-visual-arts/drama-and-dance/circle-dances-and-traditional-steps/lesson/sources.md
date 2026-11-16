@@ -1,6 +1,6 @@
 # Sources — Circle Dances and Traditional Steps
 
-countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuela, Angola, Mongolia, Armenia
+countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuela, Angola, Mongolia, Armenia, North Macedonia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -50,7 +50,7 @@ countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuel
 | Armenia — Kochari taught step by step (teacher-guide evidence) — the guide teaches the basic movements of the Kochari dance and dances it to Khosrovyan's arrangement, inside the "Our country" lessons (teacher guide — evidence; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 11, printed p. 102 |
 
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Venezuela, Angola, Mongolia, Armenia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Venezuela, Angola, Mongolia, Armenia, North Macedonia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Nothing flagged. The circle song is named and its movement taught; its words are not transcribed beyond the title the placement gives.
 
@@ -62,3 +62,11 @@ Searchable tags: circle dance, እንሽከረከራለን, Enshikerekeralen, tr
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — Unit 1, Conceptos básicos — rondas, the oral-tradition ring games of the community, taught as cultural heritage that builds skill and values (teacher guide — evidence; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 6, printed p. 35 |
+
+**Book 12:** *Музичка уметност за I година гимназиско образование (Musical Art for Year I of Gymnasium Education)* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2025; ISBN 978-608-4855-74-3; authors Simona Zafirovska and Teuta Alimi Selmani; approved by the Ministry of Education and Science (decision no. 26-934/1) Grade: Grade 10 (student/teacher: STUDENT) — gymnasium year I filed as grade 10. PDF pages: 122 (120 printed pages per CIP; read in place from phase3-staging, size and pages verified against the record; cover seen). Verdict: COMPLETE. North Macedonia's own way: a full music-history arc (first peoples, antiquity, Middle Ages, Renaissance, Baroque) is taught beside a complete theory course, and the heritage unit treats every people's singing styles, oro dances and folk instruments as one shared treasury — with the UNESCO-listed Glasoečko two-part singing, the Kopačkata oro and the Macedonian gajda named as protected heritage. Excluded per standing rules: Речник (the glossary), printed pp. 113–116 — glossary/word list, inventory-only; the bibliography (pp. 117–118) is not content. Printed song texts ("O sole mio", "We Will Rock You", the folk-song listening examples) are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Танци и ора — dance against oro: the oro is the people's group dance — dancers holding hands, belt or shoulders, in circle, line or semicircle, to a fixed traditional step pattern, at celebrations, weddings and rites; its basic movements — steps, the little hop (potskok), turning, and figures of repeated step combinations; oro sorted by form, purpose, place and manner (student book; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 12, printed pp. 105–106 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Songs of Nature
 
-countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongolia, Rwanda, Malaysia, Moldova, Syria, Armenia
+countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongolia, Rwanda, Malaysia, Moldova, Syria, Armenia, North Macedonia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -139,7 +139,7 @@ countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongol
 | Armenia — Song "Աշուն" (Autumn) — a song picturing fields and gardens turning yellow and the birds leaving in autumn (summary only) (student book; original target `music/songs-of-nature`) | Book 26, printed p. 8 |
 
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Mongolia, Malaysia, Moldova, Syria, Armenia).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Mongolia, Malaysia, Moldova, Syria, Armenia, North Macedonia).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 2 book prints the star song in Amharic and the Grade 3 book prints the same song in English; both placements are stocked — the Amharic here, the English in School Songs — exactly as the books place them. No song lyrics are transcribed; songs are named and their pictures summarised.
 
@@ -165,3 +165,11 @@ Searchable tags: nature songs, surroundings, birds, star, planting, green land, 
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — A Child on the Beach (نشيد طفل على الشاطيء) — a sea song: playing in the sand without tiring, summer coming and going, the sea that takes you down to its depths, ships and sandcastles, and the sea's bounty (teacher guide — evidence; original target `music/songs-of-nature`) | Book 13, printed pp. 37–38 |
+
+**Book 27:** *Музичко образование за 9 одделение (Music Education for Grade 9, nine-year primary education)* (student book, Macedonian) — North Macedonia, Министерство за образование и наука на Република Северна Македонија (Ministry of Education and Science), Skopje; year 2022; ISBN 978-608-273-032-5; authors Slavjanka Dimova, Vera Angelovska, Marina Vasić-Stefanovska Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 102 (101 printed pages per CIP plus cover; cover and CIP verified against the record). Verdict: COMPLETE. Fetched from the repo tree (byte size + blob SHA verified). North Macedonia's own way: the book is a portrait of a multi-people country — songs are sung in Macedonian, Albanian, Romani, Aromanian, Turkish and Serbian, every people's wedding customs and costumes are taught side by side, and Macedonian folk music is followed into choral works, pop songs, jazz and film scores by Macedonian composers. Excluded per standing rules: the melodic and rhythmic drill exercises (printed pp. 9, 19, 22, 25) are practice material inside the placed theory lessons, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — song "Sumrak" (Twilight): when dusk falls and the day's work rests, the night veil hides every trace of care (student book; original target `music/songs-of-nature`) | Book 27, printed p. 42 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

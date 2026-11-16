@@ -1,0 +1,17 @@
+# Sources — Medieval Music
+
+countries: North Macedonia
+
+**Book 1:** *Музичка уметност за I година гимназиско образование (Musical Art for Year I of Gymnasium Education)* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2025; ISBN 978-608-4855-74-3; authors Simona Zafirovska and Teuta Alimi Selmani; approved by the Ministry of Education and Science (decision no. 26-934/1) Grade: Grade 10 (student/teacher: STUDENT) — gymnasium year I filed as grade 10. PDF pages: 122 (120 printed pages per CIP; read in place from phase3-staging, size and pages verified against the record; cover seen). Verdict: COMPLETE. North Macedonia's own way: a full music-history arc (first peoples, antiquity, Middle Ages, Renaissance, Baroque) is taught beside a complete theory course, and the heritage unit treats every people's singing styles, oro dances and folk instruments as one shared treasury — with the UNESCO-listed Glasoečko two-part singing, the Kopačkata oro and the Macedonian gajda named as protected heritage. Excluded per standing rules: Речник (the glossary), printed pp. 113–116 — glossary/word list, inventory-only; the bibliography (pp. 117–118) is not content. Printed song texts ("O sole mio", "We Will Rock You", the folk-song listening examples) are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — the Middle Ages, sacred music: the Gregorian chant — one-voice Latin chant sung without instruments, the foundation of Western notation, polyphony and music education; the first polyphony, organum, and the Notre Dame school of Leonin and Perotin growing from two voices to four; notation — neumes, Guido d'Arezzo's four-line system and solmisation from the hymn to St John; the Mass becoming the great polyphonic work (student book; original target `music/medieval-music`) | Book 1, printed pp. 19–21 |
+| North Macedonia — the Eastern church: John Kukuzel, "the Angel-Voiced" (14th century), Byzantine theorist, composer and chanter who reformed the Eastern neumatic notation with signs for duration and dynamics, making church singing readable for centuries (student book; original target `music/medieval-music`) | Book 1, printed p. 21 |
+| North Macedonia — secular music of the Middle Ages: the travelling poet-musicians — troubadours, trouvères, minnesänger — singing in the people's language of love, heroism, nature and daily life; the motet, madrigal, ballade and canzonetta; the court dances pavane (slow and stately) and galliard (quick and leaping) (student book; original target `music/medieval-music`) | Book 1, printed pp. 21–22 |
+
+**Acceptance count: taught in 1 country (North Macedonia).**
+
+This is a canonical NEW lesson (slug-registry Part 1: `music/medieval-music`). The North Macedonia placements were filed under the original string(s) `music/medieval-music`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. North Macedonia's own way is the lesson itself where the topic is Macedonian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
+
+Searchable tags: North Macedonia, Medieval Music, the Middle Ages, sacred music: the Gregorian chant, the Eastern church, secular music of the Middle Ages: the travelling poet-musicians

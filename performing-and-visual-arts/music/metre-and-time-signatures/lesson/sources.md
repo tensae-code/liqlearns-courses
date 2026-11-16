@@ -1,6 +1,6 @@
 # Sources — Metre and Time Signatures
 
-countries: Moldova, Armenia
+countries: Moldova, Armenia, North Macedonia
 
 **Book 1:** *Educație muzicală: Manual pentru clasa a IV-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-382-8 (CIP page; authors Ion Gagim, Marina Cosumov, Liliana Cîșlaru) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Autoevaluare sections at printed pp. 28, 49, 76 and the summative Autoevaluare at pp. 93–95 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of songs already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
 
@@ -27,8 +27,16 @@ countries: Moldova, Armenia
 | Armenia — Three beats — in this song there are 3 beats, the first strong, the others softer: the 3-beat measure, clapped then beaten (student book; original target `music/strong-and-weak-beats`) | Book 4, printed p. 27 |
 
 
-**Acceptance count: taught in 2 countries (Moldova, Armenia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Moldova, Armenia, North Macedonia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/metre-and-time-signatures`). The Moldova placements were filed as NEW LESSON NEEDED under the original string(s) `music/anacrusis-the-upbeat`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Moldova's own way is the lesson itself where the topic is Moldovan: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
 Searchable tags: Moldova, Metre and Time Signatures, Anacruza, creative work, Armenia
+
+**Book 5:** *Музичка уметност за II година гимназиско образование (Musical Art for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-91-0; authors Simona Zafirovska & Lejla Alimi Lumani; Ministry approval decision no. 26-748/1 of 16.6.2026 Grade: Grade 11 (gymnasium Year II; student/teacher: STUDENT). PDF pages: 176 (175 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: a full European music history is taught, but the book keeps coming home — a whole Macedonian composer school in three generations plus a parallel popular-and-jazz line, Macedonian festivals beside Glastonbury and Eurovision, and a closing heritage unit where the ritual songs and wedding dances of every people in the country are taught side by side, before the Balkans, Europe and the world. Excluded per standing rules: the bibliography (printed pp. 174–175) is not content; this book has no glossary. Directed-listening examples, singing exercises and notation-app tasks ride inside the placed lessons, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — the anacrusis (predtakt): the incomplete opening bar that is not counted as the first bar and is completed by the incomplete final bar (student book; original target `music/anacrusis-the-upbeat`) | Book 5, printed p. 110 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

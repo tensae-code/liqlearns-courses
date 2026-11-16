@@ -1,6 +1,6 @@
 # Sources — Impressionism
 
-countries: Maldives, Sudan, Brazil, Armenia
+countries: Maldives, Sudan, Brazil, Armenia, North Macedonia
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -25,8 +25,22 @@ countries: Maldives, Sudan, Brazil, Armenia
 | Armenia — IMPRESSIONISM and POST-IMPRESSIONISM — inside the 19th-century European fine-art survey (Spain, France): Impressionism (printed p. 143) and Post-Impressionism (printed p. 151) given their own chapters (student book; original target `visual-art/impressionism`) | Book 4, printed p. 140 |
 
 
-**Acceptance count: taught in 4 countries (Maldives, Sudan, Brazil, Armenia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Maldives, Sudan, Brazil, Armenia, North Macedonia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/impressionism`); the Maldives placement was filed under the original string `visual-art/impressionism-and-impasto`, recorded in the provenance rows above.
 
 Searchable tags: impressionism, impasto, Monet, ocean wave, Maldives, Exploring Creative Arts 4, Brazil, Armenia
+
+**Book 5:** *Ликовна уметност 2 (Visual Art 2) — учебник за втора година гимназиско образование* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-86-6; author Nora Halimi; approved by the Ministry of Education and Science (decision no. 26-560/1 of 4.5.2026) Grade: Grade 11 (student/teacher: STUDENT) — gymnasium year II filed as grade 11. PDF pages: 128 (127 printed pages per CIP; read in place from phase3-staging, size and pages verified against the record; cover and imprint seen). Verdict: COMPLETE. North Macedonia's own way: the world's modern and contemporary art is taught whole, movement by movement — then the same story is told again on home ground: from the last icon-painters (zographs) through Skopje's post-earthquake brutalism and Kenzo Tange's master plan to today's installation, photography and video artists, with the country's Albanian artists named inside both stories. Excluded per standing rules: Речник на поими (the glossary of terms), printed pp. 122–126 — glossary/word list, inventory-only; the bibliography (p. 127) is not content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Импресионизам — the art of catching light: painting en plein air, fleeting impressions and atmosphere, free visible brushstrokes, vivid colour, asymmetric compositions of modern life — Monet ("Impression, Sunrise", the water lilies), Renoir ("Bal at the Moulin de la Galette"), Degas (the ballet dancers), Pissarro, Morisot, Cassatt, Sisley; in sculpture Rodin's roughly-modelled "Balzac" (student book; original target `visual-art/impressionism`) | Book 5, printed pp. 11–13 |
+
+**Book 6:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Импресионизам — Impressionism: colour and light first, form dissolved in the short stroke, painted out of doors — Monet, Renoir, Degas, Pissarro (student book; original target `visual-art/impressionism`) | Book 6, printed p. 133 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

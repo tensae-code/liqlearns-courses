@@ -1,6 +1,6 @@
 # Sources — The Waltz
 
-countries: Iceland, Cuba, Mongolia, Moldova, Syria
+countries: Iceland, Cuba, Mongolia, Moldova, Syria, North Macedonia
 
 **Book 1:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -39,7 +39,7 @@ countries: Iceland, Cuba, Mongolia, Moldova, Syria
 |---|---|
 | Syria — Lesson 19 "The Waltz" — pieces in triple time are called waltzes and dances are built on them; hearing a waltz among other pieces and learning the waltz's steps (student book; original target `drama-and-dance/the-waltz`) | Book 7, printed p. 54 |
 
-**Acceptance count: taught in 4 countries (Cuba, Mongolia, Moldova, Syria). Earlier evidence-only entries stay outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Cuba, Mongolia, Moldova, Syria, North Macedonia). Earlier evidence-only entries stay outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/waltz`). The Iceland placements were filed as NEW LESSON NEEDED under the original string(s) `drama-and-dance/the-waltz`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Iceland's own way, carried in the placements: a listening journey through the whole history of popular music — taught by listening, playing rhythm parts from notation, singing, and dancing, with Iceland's own musicians, revue songs, seamen's songs and dance bands woven through as national content. Songs are placed by their teaching topics only — no lyrics or notation are transcribed.
 
@@ -52,3 +52,11 @@ Searchable tags: waltz, Ländler, Viennese waltz, Blue Danube, triple time, Icel
 |---|---|
 | Cuba — Chapter 2 — el vals: the turning dance of Germany and Austria, Johann Strauss the Waltz King and the "Danubio azul", and the vals at Cuba's quinceañera parties (student book; original target `drama-and-dance/waltz-vals`) | Book 2, printed pp. 43–46 |
 | Cuba — Chapter 2 — the vals in Peru and Cuba: Chabuca Granda's "La flor de la canela", Peru's most representative song, and Ernesto Lecuona's Cuban valses (student book; original target `drama-and-dance/waltz-vals`) | Book 2, printed pp. 48–50 |
+
+**Book 8:** *Музичка уметност за I година гимназиско образование (Musical Art for Year I of Gymnasium Education)* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2025; ISBN 978-608-4855-74-3; authors Simona Zafirovska and Teuta Alimi Selmani; approved by the Ministry of Education and Science (decision no. 26-934/1) Grade: Grade 10 (student/teacher: STUDENT) — gymnasium year I filed as grade 10. PDF pages: 122 (120 printed pages per CIP; read in place from phase3-staging, size and pages verified against the record; cover seen). Verdict: COMPLETE. North Macedonia's own way: a full music-history arc (first peoples, antiquity, Middle Ages, Renaissance, Baroque) is taught beside a complete theory course, and the heritage unit treats every people's singing styles, oro dances and folk instruments as one shared treasury — with the UNESCO-listed Glasoečko two-part singing, the Kopačkata oro and the Macedonian gajda named as protected heritage. Excluded per standing rules: Речник (the glossary), printed pp. 113–116 — glossary/word list, inventory-only; the bibliography (pp. 117–118) is not content. Printed song texts ("O sole mio", "We Will Rock You", the folk-song listening examples) are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — the triple 3/4 bar, first beat strong: the rhythm of the waltz, the turning dance of elegance born in the 18th century, felt and tapped in Shostakovich's Waltz No. 2 (student book; original target `drama-and-dance/waltz`) | Book 8, printed p. 72 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

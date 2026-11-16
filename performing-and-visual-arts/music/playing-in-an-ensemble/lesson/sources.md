@@ -1,6 +1,6 @@
 # Sources — Playing in an Ensemble
 
-countries: Fiji, Suriname, Malaysia, Indonesia
+countries: Fiji, Suriname, Malaysia, Indonesia, North Macedonia
 
 **Book 1:** *Performing Arts — Music Is Fun, Year 8* (student workbook, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 8, 18 PDF pp. STUDENT — copyright page names it a Student Workbook. Verdict: COMPLETE (image-heavy book read visually, page by page). Fiji's own way: the elements of music become tools of expression and judgement, and the year ends by turning Fiji's inherited stories — myths, legends, folklore — into drama with song, dance and instruments woven in. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md.
 
@@ -83,8 +83,17 @@ countries: Fiji, Suriname, Malaysia, Indonesia
 | Indonesia — Bab II Karya Kolaborasi — a collaborative music work — creating music together across players and parts (teacher guide — evidence; original target `music/collaborative-music-making`) | Book 14, printed p. 77 |
 | Indonesia — Bab III Penyajian dan Pendokumentasian Karya Kolaborasi — presenting and documenting the collaborative work — performing it publicly and recording it for keeping (teacher guide — evidence; original target `music/collaborative-music-making`) | Book 14, printed p. 115 |
 
-**Acceptance count: taught in 2 country (Fiji, Malaysia).** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Fiji, Malaysia, North Macedonia).** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/playing-in-an-ensemble`); the Fiji placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by name, purpose and summary only — never transcribed.
 
 Searchable tags: ensemble, melody, harmony, accompaniment, soprano alto tenor bass, Fiji
+
+**Book 15:** *Музичка уметност за II година гимназиско образование (Musical Art for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-91-0; authors Simona Zafirovska & Lejla Alimi Lumani; Ministry approval decision no. 26-748/1 of 16.6.2026 Grade: Grade 11 (gymnasium Year II; student/teacher: STUDENT). PDF pages: 176 (175 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: a full European music history is taught, but the book keeps coming home — a whole Macedonian composer school in three generations plus a parallel popular-and-jazz line, Macedonian festivals beside Glastonbury and Eurovision, and a closing heritage unit where the ritual songs and wedding dances of every people in the country are taught side by side, before the Balkans, Europe and the world. Excluded per standing rules: the bibliography (printed pp. 174–175) is not content; this book has no glossary. Directed-listening examples, singing exercises and notation-app tasks ride inside the placed lessons, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — singing with interpretation: "Let It Be" learned by ear and sung karaoke-style, solo verse against group chorus, with breathing, diction and intonation coached; and "Dona nobis pacem" sung from notation as one calm group sound over simple keyboard chords (student book; original target `music/performing-music`) | Book 15, printed pp. 142–143 |
+| North Macedonia — forming a class rock band: a rock song learned by ear (Bon Jovi's "You Give Love a Bad Name", or a Macedonian band's — Superhiks, Elita 5, Leb i sol), a rhythm accompaniment built on classroom percussion, simple chords on keyboard or guitar, solo against group singing with rock energy and stage presence (student book; original target `music/performing-music`) | Book 15, printed pp. 144–145 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

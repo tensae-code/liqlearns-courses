@@ -1,6 +1,6 @@
 # Sources — Costume and Make-Up for Theatre
 
-countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Guinea, Venezuela, Malaysia, Indonesia
+countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Guinea, Venezuela, Malaysia, Indonesia, North Macedonia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
@@ -97,8 +97,16 @@ countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Gui
 |---|---|
 | Indonesia — Unit Pembelajaran 3 Menggagas Unsur-unsur Pendukung Tari — conceiving a dance's supporting elements — costume: the traditional dress of Yogyakarta, Riau and West Java and themed costumes (Kijang, farmer, bird dances); make-up: transferring a face design to the face, character make-up sketched and applied (peacock, other birds, flora), and corrective make-up for formal events and for dance (teacher guide — evidence; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 19, printed p. 145 |
 
-**Acceptance count: taught in 5 countries (Romania, Bhutan, Serbia, Venezuela, Malaysia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Romania, Bhutan, Serbia, Venezuela, Malaysia, North Macedonia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 5 teacher guide (printed pp. 48–61, §2.3) as labelled evidence — the guide's longest theatre section, on the practical craft of stage appearance.
 
 Searchable tags: costume, make-up, face painting, albasat, Grade 5 teacher guide, §2.3, evidence, Nicaragua, Romania, Bhutan, Papua New Guinea
+
+**Book 20:** *Ликовна уметност 2 (Visual Art 2) — учебник за втора година гимназиско образование* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-86-6; author Nora Halimi; approved by the Ministry of Education and Science (decision no. 26-560/1 of 4.5.2026) Grade: Grade 11 (student/teacher: STUDENT) — gymnasium year II filed as grade 11. PDF pages: 128 (127 printed pages per CIP; read in place from phase3-staging, size and pages verified against the record; cover and imprint seen). Verdict: COMPLETE. North Macedonia's own way: the world's modern and contemporary art is taught whole, movement by movement — then the same story is told again on home ground: from the last icon-painters (zographs) through Skopje's post-earthquake brutalism and Kenzo Tange's master plan to today's installation, photography and video artists, with the country's Albanian artists named inside both stories. Excluded per standing rules: Речник на поими (the glossary of terms), printed pp. 122–126 — glossary/word list, inventory-only; the bibliography (p. 127) is not content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Костимографија — costume design for theatre, film, opera and ballet: the costume interpreting character, time, place, social status and inner state — Broadway's "The Lion King", where Julie Taymor's 232 puppets and masks let the audience see puppet and actor at once (student book; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 20, printed p. 105 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

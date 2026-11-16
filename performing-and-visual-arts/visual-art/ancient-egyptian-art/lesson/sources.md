@@ -1,6 +1,6 @@
 # Sources — Ancient Egyptian Art
 
-countries: Uganda, Brazil, Venezuela, Armenia
+countries: Uganda, Brazil, Venezuela, Armenia, North Macedonia
 
 **Book 1:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
@@ -34,8 +34,16 @@ countries: Uganda, Brazil, Venezuela, Armenia
 | Armenia — The ancient-world section (teacher-guide evidence) — its separate texts turn to Ancient Egypt, the Aegean and Ancient Greece (sculpture among them) (teacher guide — evidence; original target `visual-art/ancient-egyptian-art`) | Book 5, printed p. 13 |
 
 
-**Acceptance count: taught in 4 countries (Uganda, Brazil, Venezuela, Armenia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Uganda, Brazil, Venezuela, Armenia, North Macedonia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/ancient-egyptian-art`); the Uganda placement was filed under the original string recorded in the provenance rows above, resolved by slug-registry Part 2 to this lesson. Uganda's own way: art is learned from the natural environment — materials are gathered from the surroundings, African styles are to be adapted into the learner's own work, and basketry is taught as a functional craft of the cultural setting, made for use and for sale.
 
 Searchable tags: ancient Egypt, pyramids, sphinx, Egyptian painting, Nile boats, Uganda, Brazil, Armenia
+
+**Book 6:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Египетска уметност — Egyptian art: art made for eternity — the pyramids of Giza, the temples of Karnak, Luxor and Abu Simbel, the Sphinx, idealised pharaohs, and wall painting wedded to hieroglyphs (student book; original target `visual-art/ancient-egyptian-art`) | Book 6, printed p. 127 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

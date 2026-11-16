@@ -1,6 +1,6 @@
 # Sources — Typography
 
-countries: Rwanda, Malaysia
+countries: Rwanda, Malaysia, North Macedonia
 
 **Book 1:** *Creative Arts for Rwanda Primary Schools — Work Book 4* (student book, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: STUDENT), 112 PDF pp. Verdict: COMPLETE. Tally: 34 placements — 22 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: a pupil's workbook in two parts — Music, Dance and Drama (singing in traditional rhythms; the umuduri musical bow; icyivugo self-praise poetry) and Fine Arts and Crafts (drawing, motifs and stencil design, calligraphy and posters, clay, waste-material collage, embroidery). Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): glossaries at the ends of Fine Arts Units 2 and 4 — inventory-only, named here, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
 
@@ -33,8 +33,16 @@ countries: Rwanda, Malaysia
 |---|---|
 | Malaysia — Tajuk 10 Seni Reka Grafik (Tipografi) — typography: definition, applications, kinds and classification of type, and expressive typography (student book; original target `visual-art/typography`) | Book 5, printed pp. 116–135 |
 
-**Acceptance count: taught in 2 country (Rwanda, Malaysia).** Rwanda's teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Rwanda, Malaysia, North Macedonia).** Rwanda's teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/typography`); the Rwanda placements were filed as NEW LESSON NEEDED under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2.
 
 Searchable tags: typography, letter styles, serif, sans-serif, Gothic, italics, three-dimensional letters, Rwanda
+
+**Book 6:** *Ликовна уметност 2 (Visual Art 2) — учебник за втора година гимназиско образование* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-86-6; author Nora Halimi; approved by the Ministry of Education and Science (decision no. 26-560/1 of 4.5.2026) Grade: Grade 11 (student/teacher: STUDENT) — gymnasium year II filed as grade 11. PDF pages: 128 (127 printed pages per CIP; read in place from phase3-staging, size and pages verified against the record; cover and imprint seen). Verdict: COMPLETE. North Macedonia's own way: the world's modern and contemporary art is taught whole, movement by movement — then the same story is told again on home ground: from the last icon-painters (zographs) through Skopje's post-earthquake brutalism and Kenzo Tange's master plan to today's installation, photography and video artists, with the country's Albanian artists named inside both stories. Excluded per standing rules: Речник на поими (the glossary of terms), printed pp. 122–126 — glossary/word list, inventory-only; the bibliography (p. 127) is not content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Типографија и илустрација — typography: shaping letters so text is readable, clear and attractive — the font and its styles (regular, bold, italic), the font families (serif, sans-serif, script, display, monospace), Helvetica (1957) as the neutral classic of identity and signage; illustration as the visual explanation of a text for posters, books, teaching materials, animation and film; the designer's tools — Photoshop, Illustrator, InDesign, Canva, After Effects, Figma (student book; original target `visual-art/typography`) | Book 6, printed pp. 100–101 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

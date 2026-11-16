@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova, Indonesia, Armenia
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova, Indonesia, Armenia, North Macedonia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -129,7 +129,7 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, S
 | Armenia — The Origin of Art: primitive art (Արվեստի ծագումը, Նախնադարյան արվեստ) — how art began with the first peoples (student book; original target `visual-art/cave-art-and-church-painting`) | Book 29, printed p. 22 |
 
 
-**Acceptance count: taught in 16 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova, Armenia).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 17 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova, Armenia, North Macedonia).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 
@@ -165,3 +165,12 @@ Searchable tags: cave art, Lascaux, Altamira, Porc-Epic, Lega Oda, Dire Dawa, Bo
 | Afghanistan — Lesson 8: Art of the Stone Age (هنر دورۀ سنگ) — the art of the Stone Age — the first people's making (student book; original target `visual-art/cave-art-and-church-painting`) | Book 21, printed p. 19 |
 
 Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 30:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Палеолит — Palaeolithic art: cave paintings of animals at Lascaux and Altamira, drawn to hold the animal's soul for the hunt, and the Venus of Willendorf (student book; original target `visual-art/cave-art-and-church-painting`) | Book 30, printed p. 126 |
+| North Macedonia — Неолит — Neolithic art: settled villages, pottery, and the megaliths — menhirs, dolmens and Stonehenge (student book; original target `visual-art/cave-art-and-church-painting`) | Book 30, printed p. 126 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Greek and Roman Art
 
-countries: Jordan, Venezuela, Armenia
+countries: Jordan, Venezuela, Armenia, North Macedonia
 
 **Book 1:** *التربية الفنية والموسيقية والمسرحية — الصف العاشر (Art, Music and Theatre Education — Grade Ten), teacher's guide (دليل المعلم)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Amman; year 2025 (first experimental edition, 1446H/2025); ISBN 978-9923-41-960-1. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 125 (cover/title page verified against the record title; printed page numbers equal PDF page numbers). Verdict: COMPLETE — read in full, page by page. Note: the Grade 10 student book is not among this group's records; this guide is the only evidence held for the Grade 10 curriculum, so every placement from it is marked teacher-guide evidence. The per-lesson self-assessment rubrics are assessment apparatus with no teaching content and are not placed; the three embedded play/story texts are summarised, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -32,8 +32,17 @@ countries: Jordan, Venezuela, Armenia
 | Armenia — Art of Ancient Rome (Հին Հռոմի արվեստը) — Roman building, sculpture and painting (student book; original target `visual-art/ancient-roman-art`) | Book 4, printed p. 88 |
 
 
-**Acceptance count: taught in 2 countries (Venezuela, Armenia).** Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Venezuela, Armenia, North Macedonia).** Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/greek-and-roman-art`); the Jordan placements were filed under the original string(s) `visual-art/art-of-roman-civilisation` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
 Searchable tags: greek and roman art, Jordan, Armenia
+
+**Book 5:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Грчка уметност — Greek art: the humanist measure — temples in the Doric, Ionic and Corinthian orders, ideal marble bodies (Polykleitos, Myron, the Nike of Samothrace), and black- and red-figure vases (student book; original target `visual-art/ancient-greek-art`) | Book 5, printed p. 128 |
+| North Macedonia — Римска уметност — Roman art: the great builders — Pantheon, Colosseum, aqueducts and triumphal arches — realistic portrait busts, mosaics and illusionistic wall painting (student book; original target `visual-art/ancient-roman-art`) | Book 5, printed p. 129 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

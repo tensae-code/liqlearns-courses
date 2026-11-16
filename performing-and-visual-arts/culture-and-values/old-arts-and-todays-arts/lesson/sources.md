@@ -1,6 +1,6 @@
 # Sources — Old Arts and Today's Arts
 
-countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria
+countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -64,7 +64,7 @@ countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Braz
 |---|---|
 | Syria — Lesson 29 "From Human Heritage: The Radio" — the old radio as human heritage — how its making developed across the ages, what it meant in grandparents' lives, drawing a family listening together (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 15, printed p. 60 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.**
+**Acceptance count: taught in 11 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 The definition of ancient arts, the oral-to-recorded contrast and the protection ruling are Grade 3's own words (printed pp. 45 and 58), taught as printed. The closing exercise's keyed-false item (wedding poems and melodies are the same in all areas — false) is taught as the book keys it.
 
@@ -75,3 +75,18 @@ Searchable tags: old arts and today's arts, expressing culture in the arts, anci
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Topic 46: Музика на различни етнически общности (the music of different ethnic communities) (student book) | Book 12, printed p. 53 |
+
+**Book 16:** *Музичка уметност за I година гимназиско образование (Musical Art for Year I of Gymnasium Education)* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2025; ISBN 978-608-4855-74-3; authors Simona Zafirovska and Teuta Alimi Selmani; approved by the Ministry of Education and Science (decision no. 26-934/1) Grade: Grade 10 (student/teacher: STUDENT) — gymnasium year I filed as grade 10. PDF pages: 122 (120 printed pages per CIP; read in place from phase3-staging, size and pages verified against the record; cover seen). Verdict: COMPLETE. North Macedonia's own way: a full music-history arc (first peoples, antiquity, Middle Ages, Renaissance, Baroque) is taught beside a complete theory course, and the heritage unit treats every people's singing styles, oro dances and folk instruments as one shared treasury — with the UNESCO-listed Glasoečko two-part singing, the Kopačkata oro and the Macedonian gajda named as protected heritage. Excluded per standing rules: Речник (the glossary), printed pp. 113–116 — glossary/word list, inventory-only; the bibliography (pp. 117–118) is not content. Printed song texts ("O sole mio", "We Will Rock You", the folk-song listening examples) are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — the country's UNESCO-protected music heritage: the male two-part "Glasoečko" singing of Dolni Polog, the "Kopačkata" oro of Dramče, the Macedonian gajda (listed 2024), and the Albanians' iso-polyphony (listed 2008) — intangible heritage of humanity (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 16, printed p. 97 |
+| North Macedonia — Заштита и одржување на народната музичка традиција — keeping the folk music heritage: conservation of recordings, instruments and scores in museums and archives; reconstruction of lost songs, instruments and dances; the sound archive of field recordings; festivals, school events, folklore groups and teaching; the "Marko Cepenkov" Institute of Folklore (founded 1950), and the old people who are "living archives", remembering songs 300 years old (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 16, printed pp. 111–112 |
+
+**Book 17:** *Музичка уметност за II година гимназиско образование (Musical Art for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-91-0; authors Simona Zafirovska & Lejla Alimi Lumani; Ministry approval decision no. 26-748/1 of 16.6.2026 Grade: Grade 11 (gymnasium Year II; student/teacher: STUDENT). PDF pages: 176 (175 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: a full European music history is taught, but the book keeps coming home — a whole Macedonian composer school in three generations plus a parallel popular-and-jazz line, Macedonian festivals beside Glastonbury and Eurovision, and a closing heritage unit where the ritual songs and wedding dances of every people in the country are taught side by side, before the Balkans, Europe and the world. Excluded per standing rules: the bibliography (printed pp. 174–175) is not content; this book has no glossary. Directed-listening examples, singing exercises and notation-app tasks ride inside the placed lessons, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — keeping the musical heritage: why the music of the region, Europe and the world must be preserved, and how — digital archives and ICT, festivals, education projects, and the part each person can play in carrying traditional music forward (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 17, printed pp. 172–173 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

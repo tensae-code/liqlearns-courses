@@ -1,6 +1,6 @@
 # Sources — Technical and Performance Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil, Jordan, Sri Lanka, Venezuela, Malaysia, Indonesia, Armenia
+countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil, Jordan, Sri Lanka, Venezuela, Malaysia, Indonesia, Armenia, North Macedonia
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -117,7 +117,7 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Fin
 | Armenia — The actor's art (Դերասանի արվեստը) — acting in the ancient Greek theatre (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 28, printed p. 73 |
 
 
-**Acceptance count: taught in 12 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil, Jordan, Venezuela, Malaysia, Indonesia, Armenia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as student-book stock (see its rows above), inside the acceptance count; Indonesia's teacher-guide rows in this lesson are evidence. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 13 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil, Jordan, Venezuela, Malaysia, Indonesia, Armenia, North Macedonia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as student-book stock (see its rows above), inside the acceptance count; Indonesia's teacher-guide rows in this lesson are evidence. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 10–11) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 
@@ -160,3 +160,11 @@ Searchable tags: technical elements, performance elements, scenery, props, proje
 |---|---|
 
 | Sri Lanka — Competency 2.5 "Let's plan the physical aspects of a production" — production planning in six group crafts — make-up, costume design, singing/music, set design, play production and lighting — each group planning its craft for one shared play (teacher guide — evidence; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 17, printed pp. 19–22 |
+
+**Book 29:** *Музичко образование за 9 одделение (Music Education for Grade 9, nine-year primary education)* (student book, Macedonian) — North Macedonia, Министерство за образование и наука на Република Северна Македонија (Ministry of Education and Science), Skopje; year 2022; ISBN 978-608-273-032-5; authors Slavjanka Dimova, Vera Angelovska, Marina Vasić-Stefanovska Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 102 (101 printed pages per CIP plus cover; cover and CIP verified against the record). Verdict: COMPLETE. Fetched from the repo tree (byte size + blob SHA verified). North Macedonia's own way: the book is a portrait of a multi-people country — songs are sung in Macedonian, Albanian, Romani, Aromanian, Turkish and Serbian, every people's wedding customs and costumes are taught side by side, and Macedonian folk music is followed into choral works, pop songs, jazz and film scores by Macedonian composers. Excluded per standing rules: the melodic and rhythmic drill exercises (printed pp. 9, 19, 22, 25) are practice material inside the placed theory lessons, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — the stage crafts of opera: the scenographer who designs the set for the drama's time and place, the choreographer who shapes the dancers' movements, the costume designer who must know the dress of every epoch — and the prompter and stage manager who hold the performance together (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 29, printed p. 62 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

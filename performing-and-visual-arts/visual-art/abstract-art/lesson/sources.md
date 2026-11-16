@@ -1,6 +1,6 @@
 # Sources — Abstract Art
 
-countries: Bhutan, Finland, Sudan, Brazil, Moldova
+countries: Bhutan, Finland, Sudan, Brazil, Moldova, North Macedonia
 
 **Book 1:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
@@ -43,8 +43,16 @@ countries: Bhutan, Finland, Sudan, Brazil, Moldova
 | Moldova — Unit IV §19, Arta modernă și contemporană — transfiguration: Picasso's Sylvette as photograph-true portrait, as transformed vision, as flat silhouette — simplification and flattening as the first step toward modern art; figurative content against nonfigurative and abstract (student book; original target `visual-art/abstract-art`) | Book 8, printed p. 57 |
 | Moldova — Unit IV §19 — Kandinsky's abstractionism: the painted object disappears altogether and lines, colours and forms themselves remain; and contemporary art (after the Second World War) fusing the old branches, using new technologies, classifying itself no longer by branch (student book; original target `visual-art/abstract-art`) | Book 8, printed pp. 58–59 |
 
-**Acceptance count: taught in 5 countries (Bhutan, Finland, Sudan, Brazil, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Bhutan, Finland, Sudan, Brazil, Moldova, North Macedonia).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/abstract-art`); the Bhutan placements were filed as NEW LESSON NEEDED under the original string `visual-art/abstract-and-figurative-painting`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Bhutan's own way, carried in the placements: a one-lesson-one-page workbook that builds the hand first — lines, curves, tone, mixing — then spends half its pages making things, with Bhutanese life (tshechu, losar) and Bhutan's own traditional forms as content.
 
 Searchable tags: abstract art, abstract painting, Bhutan, Finland, Brazil
+
+**Book 9:** *Ликовна уметност 2 (Visual Art 2) — учебник за втора година гимназиско образование* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-86-6; author Nora Halimi; approved by the Ministry of Education and Science (decision no. 26-560/1 of 4.5.2026) Grade: Grade 11 (student/teacher: STUDENT) — gymnasium year II filed as grade 11. PDF pages: 128 (127 printed pages per CIP; read in place from phase3-staging, size and pages verified against the record; cover and imprint seen). Verdict: COMPLETE. North Macedonia's own way: the world's modern and contemporary art is taught whole, movement by movement — then the same story is told again on home ground: from the last icon-painters (zographs) through Skopje's post-earthquake brutalism and Kenzo Tange's master plan to today's installation, photography and video artists, with the country's Albanian artists named inside both stories. Excluded per standing rules: Речник на поими (the glossary of terms), printed pp. 122–126 — glossary/word list, inventory-only; the bibliography (p. 127) is not content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Апстрактна уметност — colour, line and form set free from objects: Kandinsky, father of abstraction ("Composition VIII"); Mondrian's neoplasticism of geometry and primary colours; Malevich's Suprematist "Black Square"; Klee; abstract sculpture — Brâncuși's "Bird in Space", Henry Moore's reclining figures; the Bauhaus joining abstraction to design and architecture; Stieglitz's cloud "Equivalents" and Georgia O'Keeffe's stylised nature (student book; original target `visual-art/abstract-art`) | Book 9, printed pp. 30–32 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

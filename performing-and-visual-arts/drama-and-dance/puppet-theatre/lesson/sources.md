@@ -1,6 +1,6 @@
 # Sources — Puppet Theatre
 
-countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba, Mongolia, Rwanda, Bolivia, Syria
+countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba, Mongolia, Rwanda, Bolivia, Syria, North Macedonia
 
 **Book 1:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -73,7 +73,7 @@ countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba, Mongol
 |---|---|
 | Syria — Companion activities — making dolls from fabric — "I make my doll from fabric leftovers" (student book; original target `drama-and-dance/puppets-and-shadow-puppets`) | Book 14, printed p. 47 |
 
-**Acceptance count: taught in 7 countries (Romania, Bhutan, Colombia, Belarus, Mongolia, Bolivia, Syria).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Romania, Bhutan, Colombia, Belarus, Mongolia, Bolivia, Syria, North Macedonia).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/puppet-theatre`); the Barbados placements were filed under the original string `drama-and-dance/puppetry-and-masks`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: puppet theatre starts in Class 1 Cultural Awareness, with characters the children invent and puppets made from sticks, paper bags and socks. (In this lesson's sources, Book 1 is the Barbados Visual Arts Curriculum Guide.)
 
@@ -85,3 +85,12 @@ Searchable tags: puppet theatre, stick puppets, paper-bag puppets, sock puppets,
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — Unit 5, Las artes plásticas y el teatro — making flat puppets (títeres planos) of characters from a Cuban cartoon or comic, in mixed techniques, for theatre (teacher guide — evidence; original target `drama-and-dance/flat-puppets`) | Book 7, printed p. 56 |
+
+**Book 15:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Кукларство — puppetry: the oldest theatre of all — shadow figures, marionettes and glove puppets; Punch, Petrushka and Kasperle; the Czech puppet schools (student book; original target `drama-and-dance/puppet-theatre`) | Book 15, printed p. 96 |
+| North Macedonia — Кукларство — making a glove puppet: the head modelled by kaširanje over a bottle with flour-and-water glue, the finger rings in neck and hands, cloth hands, the shirt-body, and the costume that tells the character (student book; original target `drama-and-dance/puppet-theatre`) | Book 15, printed pp. 97–99 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.

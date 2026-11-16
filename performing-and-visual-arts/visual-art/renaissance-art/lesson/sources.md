@@ -1,6 +1,6 @@
 # Sources — Renaissance Art
 
-countries: Mozambique, Brazil, Bulgaria, Venezuela, Moldova, Armenia
+countries: Mozambique, Brazil, Bulgaria, Venezuela, Moldova, Armenia, North Macedonia
 
 **Book 1:** *Educação Visual — Módulo 1 (PESD I — Programa do Ensino Secundário à Distância, 1º Ciclo)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Moçambique, 2023; elaborated by Dionísio Manjate and Félix Mindú; no ISBN printed, Grades 7–9 (the PESD I cycle is taught as one combined cycle, not split by grade), 152 PDF pp. STUDENT. Verdict: COMPLETE (cover/title verified — "EDUCAÇÃO VISUAL, MÓDULO 1, PESD I"; 20,947,967 bytes, exact match to the record; fetched from GitHub Releases, mid-size-books-8). Mozambique's own way: a self-study distance module — every lesson carries objectives, the teaching body, exercises, a summary and an answer key for the lone learner. Named, not placed: the per-lesson glossaries and the closing Bibliography (printed p. 150) — inventory only; the Unit 5 introduction (printed p. 127) announces a third textiles lesson on basketry (cestaria) that does not appear in this module — a gap in the book, noted as filed. Excluded per the placements: the end-of-module preparation test (Teste de Preparação de Fim do Módulo, printed pp. 138–144) and its answer key (printed pp. 145–149) — the book's own assessment; the lessons' exercises and answer keys are self-study apparatus (all teaching content is placed from the lesson bodies). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mozambique-placements.md.
 
@@ -39,7 +39,7 @@ countries: Mozambique, Brazil, Bulgaria, Venezuela, Moldova, Armenia
 | Armenia — RENAISSANCE (Վերածնունդ) — the Italian Renaissance: proto- and early Renaissance, the High Renaissance, Raphael Santi (1483-1520); the Northern Renaissance; art's human-centred, humane and secular character as the era's chief mark (student book; original target `visual-art/renaissance-art`) | Book 7, printed p. 4 |
 
 
-**Acceptance count: taught in 6 countries (Mozambique, Brazil, Bulgaria, Venezuela, Moldova, Armenia).** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Mozambique, Brazil, Bulgaria, Venezuela, Moldova, Armenia, North Macedonia).** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/renaissance-art`); the Mozambique placements were filed under the original string(s) `visual-art/renaissance-art-and-its-masters`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Mozambique's own way: the Renaissance is taught in one dense page of its module — the transition, the leading arts, and the four masters with their works.
 
@@ -50,3 +50,11 @@ Searchable tags: Renaissance, Leonardo da Vinci, Michelangelo, Rafael Sanzio, Do
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Изкуство и време, §§6–7 — the Renaissance in Italy (Giotto, Michelangelo's David, Leonardo's Mona Lisa) and in Northern Europe (Dürer, Bruegel's Tower of Babel); the Baroque by country — Italian (Caravaggio, Bernini's Ecstasy of Saint Teresa), Flemish (Rubens), Dutc… (student book; original target `visual-art/renaissance-baroque-and-romantic-art`) | Book 3, printed pp. 9–12 |
+
+**Book 8:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Ренесанса — Renaissance art: man at the centre — perspective and anatomy, Leonardo's sfumato, Michelangelo's force, Raphael's harmony (student book; original target `visual-art/renaissance-art`) | Book 8, printed p. 131 |
+
+North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
