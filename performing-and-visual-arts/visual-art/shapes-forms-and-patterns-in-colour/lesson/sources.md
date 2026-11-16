@@ -1,6 +1,6 @@
 # Sources — Shapes, Forms and Patterns in Colour
 
-countries: Ethiopia, Maldives, Uganda, Bhutan
+countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Maldives, Uganda, Bhutan
 
 **Book 5:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
+
+**Book 6:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Shapes told by colour | Book 1, §1.2, printed pp. 10–13 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Maldives, Uganda, Bhutan
 | Maldives — Symmetrical Patterns: symmetry for balance — one half the mirror image of the other across the line of symmetry, as in Islamic designs; designing a symmetrical tile pattern by tracing a motif and flipping the tracing to the other three sides, keeping the colours symmetrical too | Book 3, Unit 15, printed pp. 63–66 |
 | Uganda — Chapter 6: Patterns from Nature; Designing a Motif — motifs made from natural or human-made materials, designing a motif for a mono-print, and motif patterns and their applications | Book 4, printed pp. 38–41 |
 | Bhutan — Lesson 11, Symmetry Colouring — observe the colour symmetry and complete the pictures so both halves match | Book 5, printed p. 11 |
+| Serbia — "Visual features of natural and man-made forms": natural forms — people recognise forms by their special features (colour, size, material); natural forms are created in nature — a butterfly wing's patterns, a leaf's veins, a zebra's stripes, a giraffe's patches, a parrot's feathers, a fish's scales | Book 6, printed p. 18 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Maldives, Uganda, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Maldives, Uganda, Bhutan, Serbia).**
 
 The Grade 2 teacher-guide part is cited at section level only (§§1.4–1.5, printed pp. 12–22) because that guide is a scan with no text layer and two of its contents entries are partly degraded in the scan — the placements say so, and the lesson claims no body wording from it. The fraction work is taught as the Grade 4 book's own question — into how many parts is the circle divided, and what fraction is the blue part — without importing a fraction curriculum from outside the placements.
 

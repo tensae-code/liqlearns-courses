@@ -1,6 +1,6 @@
 # Sources — Design and Perspective: Near and Far
 
-countries: Ethiopia, Maldives, Barbados, Albania, Bhutan
+countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia
 
 **Book 1:** *Grade 6 Performing and Visual Arts Teacher Guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Writers: Tibebu Woldeyohannes, Yirga Qumelachew, Yohannes Sebsebie. 96 PDF pages; printed front matter I–VI + body and syllabus to printed p. 119. Read in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Maldives, Barbados, Albania, Bhutan
 
 **Book 5:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
+
+**Book 6:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 (teacher guide — evidence) — Design for painting and printing: near and far — perspective (የርቀትና ቅርበት / ዕርዮተ አድማስ, the view of distance) | Book 1, §2.4, printed pp. 50–57 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Maldives, Barbados, Albania, Bhutan
 | Barbados — Picture Composition / Observation (Class 4) — portraiture in profile and front view; figure drawing with models in various positions; experimenting with perspective, foreground and background in compositions (curriculum guide — evidence) | Book 3, printed pp. 13–15, 25 |
 | Albania — Perspective with three vanishing points — the three-point perspective construction for space (teacher guide — evidence) | Book 4, printed p. 4 |
 | Bhutan — Lesson 3, Perspectives — perspective explained and drawn outside (footpath, road, trees): a flat road against a road with 3D effect, trees decreasing in size, and the vanishing point on the horizon at the viewer's eye level | Book 5, printed p. 3 |
+| Serbia — "Nearer — farther" — forms nearer to us we see as bigger, and farther ones smaller and less clear; a tree-lined avenue, street lamps in a row, hills in the distance; draw camping in nature — several tents on one meadow, the nearer tents bigger and the farther ones smaller (Šumanović and Gauguin pictured) | Book 6, printed pp. 30–31 |
 
-**Acceptance count: taught in 2 countries (Maldives, Bhutan).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Maldives, Bhutan, Serbia).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 6 teacher's guide (Addis Ababa City Administration Education Bureau, © 2014 E.C.). The placements file summarises the guide's §2.4 design section by its topic, its Amharic terms and its picture slot (a road narrowing to a vanishing point, nearer trees darker and larger); the lesson teaches at exactly that level and adds no perspective rules, constructions or terms the placement does not give.
 

@@ -25,7 +25,16 @@ The titles, in ladder order:
    Ethiopian traditional dance and theatre (teacher-guide
    evidence); and the four value-of lessons — music works, dance
    works, theatre and film works, visual art works — carried as
-   contents-only evidence from the truncated Grade 8 guide.
+   contents-only evidence from the truncated Grade 8 guide. The Art expansion added:
+   museums and galleries — what a museum is and does: it
+   collects, keeps, studies and exhibits, stores what is not
+   shown, and teaches with programmes, lectures and workshops,
+   met through Belgrade's Museum of Contemporary Art and Museum
+   of Applied Art; and imagination and creativity in art —
+   reality and imagination as equal spurs to creating, unreal
+   scenes built from everyday surroundings, with Magritte, Klee,
+   Tabaković, de Chirico and Miró (Serbia student books).
+
 2. **Visual Art** — the hand and the eye: first marks and lines,
    shapes and forms, colouring, colours and mixing them, the crafts
    around us (metal, pottery, weaving), making with clay and paper,
@@ -144,6 +153,26 @@ The titles, in ladder order:
    decomposing things into geometric forms, with Haiti's
    Vèvès as the programme's paired reference (Haiti teacher
    guides / teacher programme, evidence).
+ The Art expansion
+   added: interior design — rooms shaped for their purpose,
+   ambience made of light, colour and spacing, and artworks
+   placed well in closed spaces; signs, symbols and pictograms
+   — subject pictures, the hand alphabet, Braille, traffic
+   signs, seals, coats of arms and Serbia's three flags;
+   contemporary art — the Futurists Russolo and Balla painting
+   the speed of the machine age; kinetic art and moving
+   sculpture — Calder's mobiles and a wire-and-paper animal that
+   flutters; animation — cartoon and puppet films, two invented
+   heroes, and a class film sketched in fifteen scenes from
+   "Ježić"; op art and optical illusions — Riley, Vasarely, and
+   lines that seem to stir; craft materials and how they behave
+   — hard stone, wood and bone against soft clay, plaster and
+   plasticine; Serbian traditional crafts — useful and beautiful
+   at once, the Zlakusa potters firing clay the Stone Age way,
+   the Pirot kilim and the Radul ring; and ornamentation —
+   pattern repeated in a definite rhythm, from Ravenna's mosaic
+   to an ornament in your own region's spirit (Serbia student
+   books).
 
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
@@ -398,7 +427,13 @@ The titles, in ladder order:
    which begins Iceland's own söngleikur tradition; tango —
    Buenos Aires' forged dance, from the poor quarters to
    Paris; and dances of the jazz age — charleston and foxtrot
-   in the art deco age (Iceland teacher guide, evidence).
+   in the art deco age (Iceland teacher guide, evidence). The Art expansion added:
+   scenography and stage design — stage space open and closed,
+   Epidaurus where nature completed the set, cold and warm stage
+   light, painted backdrops, and a stage space built by a group
+   of five from foils, fabrics, mirrors and card (Serbia student
+   books).
+
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
@@ -450,3 +485,10 @@ The titles, in ladder order:
    entrepreneurship, the cultural industries and institutions,
    the métiers de l'art, a cultural agenda and managing
    cultural projects (Haiti teacher programme, evidence).
+ The Art expansion added:
+   folk costumes of Serbia and the world — uniforms read as
+   signs of occupation (1813, 1830, 1942), folk costume
+   (народна ношња) from everyday dress to today's particular
+   occasions, and the costumes of the world's peoples from
+   Arctic dress and the Indian sari to a Serbian couple in
+   folk costume (Serbia student book).

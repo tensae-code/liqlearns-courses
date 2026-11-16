@@ -1,6 +1,6 @@
 # Sources — Making with Paper and Pieces
 
-countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, Singapore, Bhutan, Trinidad and Tobago
+countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, Singapore, Bhutan, Trinidad and Tobago, Serbia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, S
 
 **Book 17:** *Teacher's Guide — Secondary School Curriculum — VISUAL ARTS — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 73 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, portfolio/journal/research-project frameworks, VAPA mark sheets and curriculum adaptations, and Part 4 resource lists, are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+
+**Book 18:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Papier-mâché: mould and pulp | Book 1, §2.3.1, printed pp. 29–30 |
@@ -90,8 +92,9 @@ countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, S
 | Singapore — Camouflage learned through art: a collage of magazine-paper strips that hides an animal in its environment — Ch.3 strategy, themes (teacher guide — evidence) | Book 14, printed p. 68 |
 | Singapore — Eric Carle's collage technique with hand-painted papers (beside Ed Young's mixed media and Taro Gomi's hidden-object drawings) as illustration children can study and try — Ch.3 strategy, picture books (teacher guide — evidence) | Book 14, printed p. 71 |
 | Trinidad and Tobago — Sample Lesson Plan 4: Tie Dye (Form 1) — resist methods in tie-dye: the tie itself makes the resist and the design; other resist materials (stones, pegs, bottles) combined and dye applied by the brush-on technique (teacher guide — evidence) | Book 17, printed p. 23 |
+| Serbia — "Imagining and imagination", the making exercise — using old magazines and newspapers, make a being from imagination (a collage creature), and think up a name that suits it | Book 18, printed p. 13 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Maldives, Uganda, Honduras, Romania, Bhutan).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Maldives, Uganda, Honduras, Romania, Bhutan, Serbia).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 teacher-guide part (potato printing and paper mosaic) and the Grade 2 teacher-guide part (decorating and drawing) are teacher-guide evidence and are labelled so; the Grade 2 guide is a scan with no text layer, cited at section level only (§2.4, printed pp. 35–37), as its placements require. Tie-dye's boiling step is taught as the Grade 7 book gives it and is a grown-up's job in the hands-on work; the lesson says so.
 

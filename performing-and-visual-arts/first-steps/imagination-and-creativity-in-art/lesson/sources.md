@@ -1,0 +1,15 @@
+# Sources — Imagination and Creativity in Art
+
+countries: Serbia
+
+**Book 1:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Serbia — "Art Games: imagining and imagination" — reality and imagination have an equally important role as spurs to creating artworks; imagination lets a person imagine and combine different spaces, shapes and events; modern artists find inspiration for unusual, unreal scenes in our everyday surroundings, and imagination is irreplaceable as a spur to artistic creation — and can also spur finding solutions in daily life; works by Magritte, Klee, Ivan Tabaković, de Chirico and Miró pictured (original target `first-steps/imagination-and-making`) | Book 1, printed pp. 12–13 |
+
+**Acceptance count: taught in 1 country (Serbia).**
+
+This is a canonical NEW lesson (slug-registry Part 1: `first-steps/imagination-and-creativity-in-art`); the Serbia placements were filed under the original string(s) `first-steps/imagination-and-making`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: imagination is taught beside Serbia's own Ivan Tabaković among Magritte, Klee, de Chirico and Miró, and practised by building a named collage creature from old magazines.
+
+Searchable tags: imagination, creativity, unreal scenes, Magritte, Klee, Tabakovic, de Chirico, Miro, collage creature, Serbia

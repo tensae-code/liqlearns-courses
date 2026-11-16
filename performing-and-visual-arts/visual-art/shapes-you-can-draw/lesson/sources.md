@@ -1,7 +1,7 @@
 # Sources — Shapes You Can Draw
 
 
-countries: Ethiopia, Albania, Romania, Haiti
+countries: Ethiopia, Albania, Romania, Haiti, Serbia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Albania, Romania, Haiti
 
 **Book 6:** *Éducation artistique — Arts visuels — Structure de la forme dans l'espace* (teacher guide, French) — Haiti, Projet Nectar, MENFP (Canoprof); intégration Canoprof: Mélanie Albairet, Arnaud Deschêls; Creative Commons BY-NC-SA; no year printed on the cover; no ISBN printed, Grade 8e année, French, 10 PDF pp (printed pp. 1–10). TEACHER — teacher guide. Verdict: COMPLETE (cover verified against the record title — sequence title, durée 12 heures). Exclusion per the placements: Séance 12 (presentation of the mini-portfolio with a prepared questionnaire) is the evaluation séance — named, not placed; the portfolio work itself is placed from Séances 10–11. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+
+**Book 7:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Round and oval shapes | Ethiopia, *Grade 1 Performing and Visual Arts Student Textbook*, §ዝርግ ቅርፅ, printed pp. 26–30 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Albania, Romania, Haiti
 
 | Haiti — Séances 1–2, Création de formes — the basic geometric forms — their characteristics and their aesthetic vocabulary — executed freehand (à main levée) in pencil and charcoal (teacher guide — evidence) | Book 6, printed pp. 4–5 |
 | Haiti — Séances 1–2, Création de formes (instruments) — the same basic geometric forms executed with geometric instruments, in painting, and digitally — and knowing the importance of geometric forms in making artworks (teacher guide — evidence) | Book 6, printed p. 5 |
+| Serbia — "Simple and complex" — the basic simple geometric forms are circle, square and triangle; complex forms are rhombus, star, spiral, semicircle, trapezoid, hexagon, octagon and more, seen in road signs, a starfish and a shell's spiral; complex forms are made of simple ones (Klee, Picasso); cut circles, squares and triangles from coloured papers, glue them into a complex form and name the work | Book 7, printed pp. 26–27 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Romania).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Romania, Serbia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 3 forms placement (printed pp. 30–31) also carries a paper-collage picture (Drawing 17, flowers made by cutting and pasting papers); collage-making belongs to the Making cluster of this course, so only the forms content of those pages is stocked here and the collage is not taught in this lesson. Grade 2's house placement spans printed pp. 36–38 and the car placement is on printed p. 38, exactly as placed.
 

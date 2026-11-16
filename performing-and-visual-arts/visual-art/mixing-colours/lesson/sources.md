@@ -1,7 +1,7 @@
 # Sources — Mixing Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan
+countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan
 
 **Book 7:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
+
+**Book 8:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Mixing primaries makes green, orange and purple | Ethiopia, *Grade 3 Performing and Visual Arts Student Textbook*, §2.3, Drawing 19, Figure 20, Figure 21, Activities 12–13 and Drawing 22, printed pp. 32–33 |
@@ -29,7 +31,8 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan
 | Bhutan — Lesson 10, Explore Water Colour Mixing — natural colours introduced; mix a colour with white for a brighter effect and with black for a darker effect | Book 7, printed p. 10 |
 
 | Singapore — "The Colour Challenge" (Kindergarten 1): mixing the primary watercolours (with white and black) to make as many colours as possible, recording each recipe, naming the new colours and making them lighter or darker — Goal 2 example (teacher guide — evidence) | Book 5, printed p. 41 |
-**Acceptance count: taught in 2 countries (Ethiopia, Bhutan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
+| Serbia — "Coloured and colourless", the mixing experiment — mix two colours at a time, and notice which colours can be made by mixing, and which cannot | Book 8, printed p. 23 |
+**Acceptance count: taught in 3 countries (Ethiopia, Bhutan, Serbia). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Sub lesson 2 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook. The Grade 3 Chapter 2 closing exercise carries the trap item "red mixed equally with yellow creates green" (false — it creates orange, per §2.3); the lesson teaches the corrected mixing and uses the trap as a question, exactly as the book's exercise frames it.
 

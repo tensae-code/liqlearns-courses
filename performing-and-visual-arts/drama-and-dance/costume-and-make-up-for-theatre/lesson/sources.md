@@ -1,6 +1,6 @@
 # Sources — Costume and Make-Up for Theatre
 
-countries: Ethiopia, Nicaragua, Romania, Bhutan
+countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Nicaragua, Romania, Bhutan
 
 **Book 4:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
+
+**Book 5:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 | Lesson part | Book | Printed pages |
 |---|---|---|
 | Sub lesson 1 — Costume — clothing builds the character (teacher guide — evidence) (teacher guide — evidence) | Grade 5 Teacher Guide, §2.3, printed pp. 48–61 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Nicaragua, Romania, Bhutan
 | Nicaragua — Folk props and costumes that identify the community — making dance utilería from maize grains, beans, straws and recycled material, and folk costumes from newspaper (teacher guide — evidence) | Book 2, printed p. 33 |
 | Romania — The Superhero's Cape: make a superhero cape — cut the bottom off a blue plastic bag, fold and cut a semicircle for the neck holes, cut stars from yellow cloth and sew them onto the cape's surface, thread a lace through the holes — the mantle is ready | Book 3, printed p. 39 |
 | Bhutan — Lesson 20, Mask — draw an oval or circle on card, cut out eyes, nose and mouth, draw and paint stripes, curl them round a pencil, stick them on top as hair, and tie the mask on with thread through holes at the ears | Book 4, printed p. 20 |
+| Serbia — "Stage space — masks, costumes": costumes and the costume designer — on the stage, costumes, masks and props are used, specially made for each performance; the person who makes costumes and masks is the costume designer (костимограф); an African mask and a Japanese mask pictured; in three groups choose or invent a story of at least ten characters, each member paints one character's costume; draw a mask on a whole sheet and colour it | Book 5, printed pp. 10–11 |
 
-**Acceptance count: taught in 2 countries (Romania, Bhutan).** Ethiopia teacher-guide evidence is named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Romania, Bhutan, Serbia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 5 teacher guide (printed pp. 48–61, §2.3) as labelled evidence — the guide's longest theatre section, on the practical craft of stage appearance.
 

@@ -1,16 +1,20 @@
 # Sources — Assemblage
 
-countries: Barbados
+countries: Barbados, Serbia
 
 **Book 1:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
+
+**Book 2:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Bead jewellery from natural and man-made beads (curriculum guide — evidence; original target `visual-art/assemblage-and-found-object-art`) | Book 1, printed p. 15 |
 | Sub lesson 2 — 3D objects showing space and balance (curriculum guide — evidence; original target `visual-art/assemblage-and-found-object-art`) | Book 1, printed p. 15 |
 | Sub lesson 3 — Toys from wood: design and make (curriculum guide — evidence; original target `visual-art/assemblage-and-found-object-art`) | Book 1, printed p. 15 |
+| Serbia — "Tying and joining forms" — a new form can arise by joining or tying parts of old objects into new wholes; the way of joining already-used parts into a new whole is called assemblage, used by 20th-century artists with fabric, string, buttons and paper from old magazines and newspapers (Calder, Tinguely, Max Ernst pictured); make a work of your own free choice from parts of objects, and a character from your favourite cartoon from parts of various objects (original target `visual-art/assemblage`) | Book 2, printed pp. 34–35 |
+| Serbia — "Movement of living beings", the assemblage exercise — choose one animal and show it in movement, making the work from various parts of objects, cuttings from old newspapers and magazines, and coloured papers (original target `visual-art/assemblage`) | Book 2, printed p. 37 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Barbados curriculum guide evidence only, named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Serbia). Barbados curriculum guide evidence is named here, counted nowhere.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/assemblage`); the Barbados placements were filed under the original string `visual-art/assemblage-and-found-object-art`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: assemblage in Class 4 is jewellery from the island's natural beads joined with man-made ones, objects built for space and balance, and wooden toys designed and made by the children. (In this lesson's sources, Book 1 is the Barbados Visual Arts Curriculum Guide.)
 

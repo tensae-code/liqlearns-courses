@@ -1,6 +1,6 @@
 # Sources — Comics
 
-countries: Maldives, Honduras, Haiti
+countries: Maldives, Honduras, Haiti, Serbia
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -9,6 +9,8 @@ countries: Maldives, Honduras, Haiti
 
 **Book 4:** *EEA — Programme du 3e cycle (7e à 9e AF) — Éducation Esthétique et Artistique (EEA)* (teacher programme, French) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Direction Enseignement Fondamental (DEF), 2024 (« version définitive, 28 juillet 2024 » per the record; cover marked Tous Droits Réservés 2024–2025), no ISBN printed, Grades 7e à 9e AF combined, French, 63 PDF pp (3,278,166 bytes, matching the record's size_bytes). TEACHER — teacher programme. Verdict: COMPLETE — read in place in staging (cover verified against the record title — EEA programme cover, 3e cycle 7e à 9e AF). The common part for all subjects (PDF pp. 1–22) is out of scope and was not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
 
+
+**Book 5:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Character design: creating the look and personality of a cartoon character for a show, comic, mascot, book or poster, by balancing and combining basic shapes into composite shapes (original target `visual-art/character-design`) | Book 1, Unit 11: Cartoon Characters, printed pp. 45–47 |
@@ -18,8 +20,9 @@ countries: Maldives, Honduras, Haiti
 | Honduras — Block I S4, Making serial images: the comic — making imágenes seriadas and the characteristics of the historieta (comic) as a sequence of images (original target `visual-art/comics-historieta`) | Book 3, printed p. 71 |
 
 | Haiti — Axe 4, Les expressions populaires haïtiennes — Haitian popular expression as visual art — caricature illustrations and narrative bandes dessinées (comics) created from Haitian traditional tales, proverbs and characters of the Haitian imagination (contes, proverbes, personnages traditionnels haïtiens) (teacher programme — evidence; original target `visual-art/haitian-popular-expression-comics`) | Book 4, PDF pp. 39–40, 50 |
+| Serbia — "Comics and animated film": the comic — a comic is made of pictures and words by which a definite story is told; several little pictures connected in a series that makes a whole, drawn or painted, are printed as a comic (a Peanuts panel and a four-panel comic pictured); choose one story and present it as a comic, taking care that everything is clear and surveyable (original target `visual-art/comics-banda-desenhada`) | Book 5, printed p. 52 |
 
-**Acceptance count: taught in 2 countries (Maldives, Honduras).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Maldives, Honduras, Serbia).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/comics`); the Maldives placement was filed under the original string `visual-art/character-design`, recorded in the provenance rows above. The digital building of the same character is stocked in Digital and Computer Art, from the same unit's digital pages.
 

@@ -1029,7 +1029,69 @@ lessons are the books'.
   course running theory, solfège, recorder, MAO and
   appreciation in every séance.
 
-**The whole course stands at 313 lessons, 4,490 questions and
+- **Art expansion — Serbia — BUILT 2026-11-16:** 64 placements
+  stocked from 2 records / 2 distinct books, both STUDENT
+  (Ликовна култура / Visual Culture, Grades 2 and 3, by Dr Rajka
+  Bošković, Zavod za udžbenike / Arhiknjiga — Grade 2, first
+  edition 2019, ISBN 978-86-17-20168-3, 56 PDF pp; Grade 3, first
+  edition 2020, ISBN 978-86-17-20327-4, 76 PDF pp; both COMPLETE,
+  read visually from page renders): 29 into existing lessons
+  (The Elements of Visual Art ×4; Composition in Visual Art ×4;
+  Elements and Principles of Design ×2; Drawing: The Foundation
+  Skill ×2; Emblems and Posters That Speak ×2; Observing Our
+  Surroundings ×2; and one each into What the Arts Are, Making
+  with Paper and Pieces, Costume and Make-Up for Theatre,
+  Shapes, Forms and Patterns in Colour, Mixing Colours, How the
+  Arts Belong Together, Shapes You Can Draw, Design and
+  Perspective: Near and Far, Sculpture and Historic Places,
+  Appreciating the Arts, Elements of Film Making, Paints and How
+  They Work, Crafts Around Us), 16 into lessons that already
+  existed, resolved there from NEW lines by the slug registry
+  (Mime, Fables and First Plays ×3 — from pantomime and
+  expressing-by-gesture ×2; Beautiful Writing ×3 — from
+  calligraphy-beautiful-writing; Sculpture and Historic Places —
+  from relief-raised-and-sunken; Architectural Models — from
+  architecture-and-models; Origami; Assemblage ×2; Comics — from
+  comics-banda-desenhada; Art from Recycled Materials — from
+  constructing-with-recycled-materials; Shadow Theatre; Nature
+  in Art — from messages-in-nature; Portrait Drawing and
+  Painting — from portrait-and-self-portrait), 13 NEW lessons
+  (First Steps: Museums and Galleries — from
+  museums-and-what-they-keep; Imagination and Creativity in Art
+  — from imagination-and-making; Visual Art: Interior Design
+  ×2 — from designing-a-room; Signs, Symbols and Pictograms ×3;
+  Contemporary Art — from contemporary-art-movements; Kinetic
+  Art and Moving Sculpture — from
+  kinetic-sculpture-and-mobiles; Animation ×2 — from
+  animated-film; Op Art and Optical Illusions — from
+  optical-illusions; Craft Materials and How They Behave — from
+  hard-and-soft-materials; Serbian Traditional Crafts — from
+  serbian-traditional-crafts; Ornamentation; Drama and Dance:
+  Scenography and Stage Design ×3 — from
+  stage-space-and-scenography; Culture and Values: Folk
+  Costumes of Serbia and the World), 156 questions added, media
+  as described slots only. The placements file's own tallies
+  reconcile exactly: Book 1 tallies 35 (17 existing, 18 NEW) and
+  Book 2 tallies 29 (12 existing, 17 NEW) — 64 in all, 29 direct
+  to existing lessons and 35 NEW lines, of which the registry
+  resolves 7 to existing official lessons, 9 to canonical
+  lessons already built, and 19 to the 13 new lessons built
+  here; no difference to explain. No exclusions among the 64
+  placements: the books' part summaries "НАУЧИЛИ СМО ДА..."
+  (Grade 2 printed pp. 14, 42, 54; Grade 3 printed pp. 22, 38,
+  54), the Grade 3 story "Јежић" (printed pp. 57–59, placed by
+  its classroom use only, never transcribed), the Grade 3 work
+  appendix and picture grounds (uses placed from printed
+  pp. 7 and 9), and the closing contents and colophons are
+  named in the book entries, not placed. Serbia's own way is
+  kept as named parts — visual culture taught looking-first,
+  through Serbian artists and heritage (Ivan Tabaković, Sava
+  Šumanović, Nadežda Petrović, Sreten Stojanović), the Vinča
+  sculpture, the Miroslav Gospel, the Dečani Chrysobull,
+  Belgrade's museums and monuments, the Pirot kilim and the
+  Zlakusa potters.
+
+**The whole course stands at 326 lessons, 4,646 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

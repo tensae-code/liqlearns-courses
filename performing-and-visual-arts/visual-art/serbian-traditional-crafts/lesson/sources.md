@@ -1,0 +1,15 @@
+# Sources — Serbian Traditional Crafts
+
+countries: Serbia
+
+**Book 1:** *Ликовна култура — за 3. разред основне школе (Likovna kultura / Visual Culture — for Grade 3 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković), illustrations by Слађана Љубић (Slađana Ljubić); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2020 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20327-4; approved for Grade 3 use by ministerial decision 650-02-00629/2019-07 of 16 January 2020, Grade 3, 76 PDF pp. STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (printed pp. 22, 38, 54); the story "Јежић" (The Little Hedgehog) by Elena Mikhalenko (printed pp. 57–59) — a reading text, named and not placed, its classroom use placed from printed p. 51; the work appendix (ornament strips printed pp. 55–56, picture grounds printed pp. 61–71, cut-out sculptures printed p. 73) — their classroom uses placed from printed pp. 7 and 9; the closing contents (printed pp. 74–75) and colophon — inventory only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Serbia — "Products of artistic crafts" — artistic crafts are diverse and highly valued today, although industrial mass production exists; their products are at the same time useful and beautiful; they developed from old traditional crafts, practised today in village and city (a traditional Japanese doll, hats, Serbian earrings, the 14th-century Radul ring and a Pirot kilim pictured); it matters to preserve the old traditional crafts — the pottery of baked-clay vessels is preserved at Užice, where the Zlakusa art colony makes and fires clay vessels in the way it was done in the Stone Age; pottery-making is one of the oldest crafts, often called folk ceramics; the potter's craft has existed in Serbia since ancient times (a vase by Dušan Janković, a carved wooden chair and a mid-19th-century Kosovo dress pictured) (original target `culture-and-values/serbian-traditional-crafts`) | Book 1, printed pp. 30–31 |
+
+**Acceptance count: taught in 1 country (Serbia).**
+
+This is a canonical NEW lesson (slug-registry Part 1: `visual-art/serbian-traditional-crafts`); the Serbia placements were filed under the original string(s) `culture-and-values/serbian-traditional-crafts`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way is this lesson's whole content: the Zlakusa potters firing Stone-Age-style at Užice, the Pirot kilim, the 14th-century Radul ring and Serbian earrings, taught as living crafts, not museum pieces.
+
+Searchable tags: Serbian traditional crafts, artistic crafts, Zlakusa pottery, Užice, Pirot kilim, Radul ring, folk ceramics, Serbia

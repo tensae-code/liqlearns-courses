@@ -1,6 +1,6 @@
 # Sources — Paints and How They Work
 
-countries: Ethiopia, Maldives, Andorra, Bhutan
+countries: Ethiopia, Maldives, Andorra, Bhutan, Serbia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Maldives, Andorra, Bhutan
 
 **Book 7:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
+
+**Book 8:** *Ликовна култура — за 3. разред основне школе (Likovna kultura / Visual Culture — for Grade 3 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković), illustrations by Слађана Љубић (Slađana Ljubić); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2020 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20327-4; approved for Grade 3 use by ministerial decision 650-02-00629/2019-07 of 16 January 2020, Grade 3, 76 PDF pp. STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (printed pp. 22, 38, 54); the story "Јежић" (The Little Hedgehog) by Elena Mikhalenko (printed pp. 57–59) — a reading text, named and not placed, its classroom use placed from printed p. 51; the work appendix (ornament strips printed pp. 55–56, picture grounds printed pp. 61–71, cut-out sculptures printed p. 73) — their classroom uses placed from printed pp. 7 and 9; the closing contents (printed pp. 74–75) and colophon — inventory only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Watercolour and oil: the first two | Book 1, §1.1.4, printed pp. 15–16 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Maldives, Andorra, Bhutan
 | Bhutan — Lesson 9, Water Colour — look at pictures or real objects, identify their colours, then draw and colour the given objects in water colour | Book 6, printed p. 9 |
 | Bhutan — Lesson 11, Water Colour Technique — colour the first picture very lightly with more water, then gradually increase the intensity by adding more colour | Book 7, printed p. 11 |
 | Bhutan — Lesson 12, Water Colour Painting — draw objects, mix the water colour, and paint | Book 7, printed p. 12 |
+| Serbia — "Techniques: the relation of material, art technique and idea" — watercolour is painting with water colours on paper: the materials are the water colours and the paper, the technique is the way of working; a watercolour differs on dry or wet, smooth or rough paper, and the colour, mixed with much water, is transparent; gouache is water-colour painting with thick white added, so the layer is thick and opaque (Dufy, Nolde, Kandinsky, Matisse pictured); make two watercolours — one on dry paper, one on paper wetted first — and compare | Book 8, printed pp. 28–29 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Bhutan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 4 countries (Ethiopia, Maldives, Bhutan, Serbia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
 
 The Grade 7 book counts eight paint kinds by treating oil, watercolour, acrylic, gouache, tempera, crayon, pastel and charcoal as its §2.1.2 series; the lesson follows that count and that order, as the placements give them. Grade 7's oil-paint thinners are named as the book names them (aqua rage, white gas, a little edible oil) — named as book content, not as a recommendation for children to handle solvents; the hands-on work uses water-based paint only.
 
