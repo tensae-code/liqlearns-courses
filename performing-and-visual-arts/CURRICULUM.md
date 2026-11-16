@@ -2269,8 +2269,8 @@ lessons are the books'.
 
 Mongolia's thirteen student books (Grades 1–8: Visual Art &
   Technology 1–5, Visual Art 6 and 8, Music 1, 3, 4, 5, 6 and 8)
-  stocked 254 placements: 133 into existing lessons, 104 into
-  already-built canonical lessons, and 17 into 17 NEW lessons
+  stocked 254 placements: 223 into existing and already-built
+  canonical lessons, and 31 into 17 NEW lessons
   (First Steps: From Idea to Finished Picture. Visual Art:
   Art from Natural Materials; Handmade Cards and Gifts;
   Mongolian Crafts; Mongolian Khee Ornament Patterns; Mongolian
