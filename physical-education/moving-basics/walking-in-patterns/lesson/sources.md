@@ -1,6 +1,6 @@
 # Sources — Walking in Patterns
 
-countries: Ethiopia
+countries: Ethiopia, Mozambique
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -10,6 +10,8 @@ countries: Ethiopia
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
 
 **Book — Grade 2 teacher (teacher guide — evidence):** *Grade 2 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ, ሁለተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g02-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
+
+**Book — Mozambique Grade 1 teacher manual (teacher guide — evidence):** *Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física* (teacher guide, Portuguese) — Title as printed: Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física — Grade: Grade 1 (student/teacher: TEACHER) — Publisher: MINEDH / IEDA (Mozambique); year: no year printed on the cover; ISBN: no ISBN printed — PDF pages: 216 (cover verified against the record title). Other subjects in the same manual (named, not placed): Língua Portuguesa, printed pp. 4–146; Matemática, printed pp. 147–182. The Educação Física part runs printed pp. 183–214, bibliography p. 215. Standing exclusion named: the PE part's Avaliação section (printed p. 194) is assessment guidance — named here, not placed. Verdict: COMPLETE (PE part). Downloaded PDF from the ministry IEDA site (5,891,019 bytes, exactly the recorded size; 216 pages), cover rendered and verified, full text read. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mozambique-pe-placements.md. Mozambique's own way: Grade 1 PE is taught entirely through play — the manual's recommended "recreative-formative" method builds every lesson from recreational games, songs and dances; there are no sport modalities in the first cycle, and children teach each other the dances they know. Its traditional games (Neca, O pião, Ao fom fim…) are named as content handed down across generations.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -21,7 +23,9 @@ countries: Ethiopia
 | Walking tall — Grade 8 (teacher guide — evidence) | Ethiopia, Grade 8 teacher §3.2 walking procedure (teacher guide — evidence), printed pp. 40–41 |
 | Walking drills that stretch you as you go — Grade 9 (teacher guide — evidence) | Ethiopia, Grade 9 teacher Unit 2 flexibility drills (teacher guide — evidence), printed pp. 26–30 |
 | Selame Selame — greet, pass the cloth, change places (teacher guide — evidence) | Ethiopia, Grade 2 teacher §1.1 Task 1 (teacher guide — evidence), printed pp. 2–3 |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
+| Mozambique — 2.ª Parte, Exercícios de organização e controlo: Formaturas — organisation and control exercises: the basic formations, done to command voices (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Exercícios de organização e controlo: Formaturas, printed p. 200 |
+| Mozambique — 2.ª Parte, Marchas — marching: files and columns all moving in the same direction (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Marchas, printed p. 204 |
+**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1.
 
 The Grade 4 teacher guide scan is TRUNCATED: it holds printed pp. 1–39 of 72+. Missing: all of Chapter 4 (pp. 40–54), Chapter 5 Gymnastics (pp. 55–65) and Chapter 6 (pp. 66–72+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 

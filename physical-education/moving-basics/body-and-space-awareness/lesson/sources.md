@@ -1,0 +1,15 @@
+# Sources — Body and Space Awareness
+
+countries: Mozambique
+
+**Acceptance count: taught in 0 countries** (founded on teacher-guide evidence only — Mozambique's *Manual do Professor, 1.ª classe*; no pupil's book in hand). Mozambique is named in the countries line and in the rows below, but outside the acceptance count.
+
+**Book — Mozambique Grade 1 teacher manual (teacher guide — evidence):** *Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física* (teacher guide, Portuguese) — Title as printed: Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física — Grade: Grade 1 (student/teacher: TEACHER) — Publisher: MINEDH / IEDA (Mozambique); year: no year printed on the cover; ISBN: no ISBN printed — PDF pages: 216 (cover verified against the record title). Other subjects in the same manual (named, not placed): Língua Portuguesa, printed pp. 4–146; Matemática, printed pp. 147–182. The Educação Física part runs printed pp. 183–214, bibliography p. 215. Standing exclusion named: the PE part's Avaliação section (printed p. 194) is assessment guidance — named here, not placed. Verdict: COMPLETE (PE part). Downloaded PDF from the ministry IEDA site (5,891,019 bytes, exactly the recorded size; 216 pages), cover rendered and verified, full text read. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mozambique-pe-placements.md. Mozambique's own way: Grade 1 PE is taught entirely through play — the manual's recommended "recreative-formative" method builds every lesson from recreational games, songs and dances; there are no sport modalities in the first cycle, and children teach each other the dances they know. Its traditional games (Neca, O pião, Ao fom fim…) are named as content handed down across generations.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Finding your way in space — spatial orientation exercises with command voices (teacher guide — evidence) (original target `moving-basics/finding-your-way-in-space`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Exercícios de organização e controlo: Orientação, printed p. 202 |
+
+This is a canonical NEW lesson (slug-registry Part 1: `moving-basics/body-and-space-awareness` — Body and space awareness: where I am in space — left and right, directions, personal space and shared space); the Mozambique placement was filed under the original string `moving-basics/finding-your-way-in-space`, resolved to this canonical slug by registry Part 2 and recorded in the provenance row above. Mozambique enters this lesson as teacher-guide evidence only: it is named in the countries line and in the row above, but it is NOT added to the acceptance count — a teacher guide never substitutes for a pupil's book.
+
+Searchable tags: body and space awareness, finding your way in space, Orientação, spatial orientation, command voices, organisation and control exercises, left and right, personal space shared space, Mozambique Grade 1 Teacher Manual Educação Física

@@ -1,6 +1,6 @@
 # Sources — Games for Awareness and Quick Response
 
-countries: Ethiopia
+countries: Ethiopia, Mozambique
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia
 
 **Book 9:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
 
+**Book 10 — Mozambique Grade 1 teacher manual (teacher guide — evidence):** *Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física* (teacher guide, Portuguese) — Title as printed: Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física — Grade: Grade 1 (student/teacher: TEACHER) — Publisher: MINEDH / IEDA (Mozambique); year: no year printed on the cover; ISBN: no ISBN printed — PDF pages: 216 (cover verified against the record title). Other subjects in the same manual (named, not placed): Língua Portuguesa, printed pp. 4–146; Matemática, printed pp. 147–182. The Educação Física part runs printed pp. 183–214, bibliography p. 215. Standing exclusion named: the PE part's Avaliação section (printed p. 194) is assessment guidance — named here, not placed. Verdict: COMPLETE (PE part). Downloaded PDF from the ministry IEDA site (5,891,019 bytes, exactly the recorded size; 216 pages), cover rendered and verified, full text read. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mozambique-pe-placements.md. Mozambique's own way: Grade 1 PE is taught entirely through play — the manual's recommended "recreative-formative" method builds every lesson from recreational games, songs and dances; there are no sport modalities in the first cycle, and children teach each other the dances they know. Its traditional games (Neca, O pião, Ao fom fim…) are named as content handed down across generations.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 8 — Spot the Difference and the Learning Logo — watching people closely (teacher guide — evidence) | Ethiopia, *Grade 8 Teacher Guide*, §2.2, printed pp. 20–26 (teacher guide — evidence) |
@@ -34,8 +36,9 @@ countries: Ethiopia
 | Sub lesson 6 — Attention and observation games (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §§2.3–2.3.2, printed pp. 18–19; and *Grade 6 Teacher Guide*, §2.3, printed pp. 23–25 |
 | Sub lesson 7 — Attention control and mindfulness (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, §2.3, printed pp. 22–26 |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 6 (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 2 summary + assessment answers, printed pp. 20–21 (teacher guide — evidence) |
+| Mozambique — 2.ª Parte, Jogos de aplicação: Corridas e deslocamentos — application game "Quem forma mais rápido" (who forms up fastest): running and moving to form groups on command (teacher guide — evidence) (original target `games-to-play/games-for-awareness-and-quick-response`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Jogos de aplicação: Corridas e deslocamentos, printed p. 203 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 

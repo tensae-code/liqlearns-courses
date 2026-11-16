@@ -1,6 +1,6 @@
 # Sources — What Physical Education Is and Where It Came From
 
-countries: Ethiopia
+countries: Ethiopia, Mozambique
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia
 **Book 3:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
 **Book 4:** *Grade 6 Health and Physical Education Teacher Guide* (የሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, ስድስተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. 1–43 held of 96 (51 PDF pages). Printed page = PDF page − 8. TRUNCATED — the file holds printed pp. 1–43 of 96. Read in full, page by page, from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-teacher-placements.md.
+
+**Book 5 — Mozambique Grade 1 teacher manual (teacher guide — evidence):** *Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física* (teacher guide, Portuguese) — Title as printed: Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física — Grade: Grade 1 (student/teacher: TEACHER) — Publisher: MINEDH / IEDA (Mozambique); year: no year printed on the cover; ISBN: no ISBN printed — PDF pages: 216 (cover verified against the record title). Other subjects in the same manual (named, not placed): Língua Portuguesa, printed pp. 4–146; Matemática, printed pp. 147–182. The Educação Física part runs printed pp. 183–214, bibliography p. 215. Standing exclusion named: the PE part's Avaliação section (printed p. 194) is assessment guidance — named here, not placed. Verdict: COMPLETE (PE part). Downloaded PDF from the ministry IEDA site (5,891,019 bytes, exactly the recorded size; 216 pages), cover rendered and verified, full text read. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mozambique-pe-placements.md. Mozambique's own way: Grade 1 PE is taught entirely through play — the manual's recommended "recreative-formative" method builds every lesson from recreational games, songs and dances; there are no sport modalities in the first cycle, and children teach each other the dances they know. Its traditional games (Neca, O pião, Ao fom fim…) are named as content handed down across generations.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,8 +21,9 @@ countries: Ethiopia
 | Prove-it questions folded from the book's own Chapter 1 summary exercises — Sub lesson 1 | Ethiopia, *Grade 5 Student Textbook*, Chapter 1 summary exercises, printed p. 7 |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 3 (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
+| Mozambique — 1.ª parte, Introdução — what Physical Education is: a process that develops the child through physical activity (teacher guide — evidence) (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 1.ª parte, Introdução, printed p. 184 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 

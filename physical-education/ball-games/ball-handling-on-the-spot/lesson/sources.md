@@ -1,6 +1,6 @@
 # Sources — Ball Handling on the Spot
 
-countries: Ethiopia
+countries: Ethiopia, Mozambique
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -14,6 +14,8 @@ countries: Ethiopia
 
 **Book — Grade 2 teacher (teacher guide — evidence):** *Grade 2 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ, ሁለተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g02-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
+**Book — Mozambique Grade 1 teacher manual (teacher guide — evidence):** *Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física* (teacher guide, Portuguese) — Title as printed: Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física — Grade: Grade 1 (student/teacher: TEACHER) — Publisher: MINEDH / IEDA (Mozambique); year: no year printed on the cover; ISBN: no ISBN printed — PDF pages: 216 (cover verified against the record title). Other subjects in the same manual (named, not placed): Língua Portuguesa, printed pp. 4–146; Matemática, printed pp. 147–182. The Educação Física part runs printed pp. 183–214, bibliography p. 215. Standing exclusion named: the PE part's Avaliação section (printed p. 194) is assessment guidance — named here, not placed. Verdict: COMPLETE (PE part). Downloaded PDF from the ministry IEDA site (5,891,019 bytes, exactly the recorded size; 216 pages), cover rendered and verified, full text read. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mozambique-pe-placements.md. Mozambique's own way: Grade 1 PE is taught entirely through play — the manual's recommended "recreative-formative" method builds every lesson from recreational games, songs and dances; there are no sport modalities in the first cycle, and children teach each other the dances they know. Its traditional games (Neca, O pião, Ao fom fim…) are named as content handed down across generations.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Passing in a circle | Ethiopia, Grade 1 student §1.2.2 On-the-spot ball work above the waist, printed pp. 16–17 |
@@ -25,7 +27,8 @@ countries: Ethiopia
 | Skills with objects — throw, catch, kick (teacher guide — evidence) | Ethiopia, Grade 1 teacher §1.3 Skills done with objects (teacher guide — evidence), printed pp. 5–6 |
 | Ball control with hands and feet together (teacher guide — evidence) | Ethiopia, Grade 1 teacher, ball play with hands and feet together, ስዕል 3.3 (teacher guide — evidence), printed p. 31 |
 | Balls into the basket, and heel kicks (teacher guide — evidence) | Ethiopia, Grade 2 teacher §1.2 Tasks 1–2 (teacher guide — evidence), printed pp. 7–8 |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
+| Mozambique — 1.ª parte, Jogos com a bola — ball games for beginners: every child touching, throwing and kicking the ball in team games; no sport modalities in the first cycle (teacher guide — evidence) (original target `ball-games/ball-handling-on-the-spot`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 1.ª parte, Jogos com a bola, printed p. 196 |
+**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 

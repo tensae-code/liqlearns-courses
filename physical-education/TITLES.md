@@ -49,3 +49,11 @@ The PE expansion then added: **Water Safety and Rescue**
 Games of Zambia**
 (`traditional-games-and-dances/traditional-games-of-zambia`)
 — 2 new lessons, bringing this course to 67 lessons.
+
+The PE expansion then added: **Body and Space Awareness**
+(`moving-basics/body-and-space-awareness`), **Traditional
+Games of Mozambique**
+(`traditional-games-and-dances/traditional-games-of-mozambique`)
+and **Teaching and Organising PE**
+(`sport-and-its-story/teaching-and-organising-pe`)
+— 3 new lessons, bringing this course to 70 lessons.
