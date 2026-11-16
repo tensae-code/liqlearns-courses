@@ -1,6 +1,6 @@
 # Sources — Observing Our Surroundings
 
-countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Indonesia, Greece, China, Vietnam, Kazakhstan, Dominican Republic
+countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Indonesia, Greece, China, Vietnam, Kazakhstan, Dominican Republic, New Zealand
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -85,7 +85,7 @@ countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Bel
 |---|---|
 | Indonesia — BAB I Ekspedisi Visual — a visual expedition — going out to observe, record and gather visual material from the world as an artist's research (teacher guide — evidence; original target `visual-art/visual-expedition`) | Book 20, printed p. 32 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova, Greece, China, Vietnam, Kazakhstan, Dominican Republic). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 14 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova, Greece, China, Vietnam, Kazakhstan, Dominican Republic). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. New Zealand is added as teacher-note evidence (the Teaching Notes page of its student reader) — evidence only, kept outside the acceptance count.
 
 The definition of surroundings and the sound/movement distinction are the Grade 1 book's own Chapter 1 summary words (printed pp. 14–15), taught as the book states them. The teacher-guide row is evidence for the same watching skill and is labelled as such; the lesson's pupil-taught content rests on the student book.
 
@@ -167,3 +167,11 @@ Kazakhstan is added as student-book stock (see its rows above), inside the accep
 | Dominican Republic — Unit 2, Paisaje rural y urbano — telling the rural landscape from the urban landscape in pictures: what each shows, its common sounds, and describing the place where I live (student book) | Book 28, printed pp. 36–37 |
 
 Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 29:** *Drawing in the Forest* (student book, English with te reo Māori words) — New Zealand, Ministry of Education, New Zealand, © Crown 2025; ISBN 978-1-77697-683-6 (print). Title as printed: Drawing in the Forest — Ready to Read Phonics Plus, Rākau, by Christine Braid, illustrated by Stevie Mahardhika. Grade: 1 (early reader) (student/teacher: STUDENT). PDF pages: 10 (cover verified against the record title; byte size 2,388,903 matches the record). Verdict: COMPLETE. Named, not placed: the cover's tree-stage words (Kākano seed, Tupu seedling, Māhuri sapling, Rākau tree) and the focus sounds (au, aw) are reading/science content of the phonics series, not arts teaching. New Zealand's own way: an early phonics reader whose whole story is an art lesson — a class goes to a forest park, looks very closely at what it finds, draws it close-up, and holds an art show to teach visitors about the park. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/new-zealand-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| New Zealand — The class trip to the forest park — look closely at the things you find before you draw them (the observation and discussion prompts come from the Teaching Notes on the book's last page — teacher-note evidence) | Book 29, PDF pp. 3, 10 |
+
+New Zealand is added as teacher-note evidence (see its row above), kept outside the acceptance count.

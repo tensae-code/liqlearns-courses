@@ -1,7 +1,7 @@
 # Sources — Appreciating Drawing
 
 
-countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Indonesia, Armenia, Vietnam
+countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Indonesia, Armenia, Vietnam, New Zealand
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -104,7 +104,7 @@ countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Indonesia, Armenia,
 | Armenia — Compare and find sameness and difference — Picasso and Saryan side by side: looking slowly and saying what you see (student book; original target `visual-art/appreciating-drawing`) | Book 17, printed p. 55 |
 
 
-**Acceptance count: taught in 7 countries (Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Armenia, Vietnam).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Armenia, Vietnam, New Zealand).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 No honesty flags attach to this placement; it is followed exactly as read.
 
@@ -117,3 +117,11 @@ Searchable tags: appreciating drawing, what is drawing, drawing materials charco
 | Vietnam — Bài 3, Explore and Recognise — how a work is appreciated, and what a work is made of — each fine-art work shows many elements such as culture, time, place and material and conveys diverse ideas and content, and the viewer appreciates it by concept and creative trend fitting the era, through the form-creation elements and principles, through aesthetic experience (experience, life capital, understanding of the specific field), and by exploring the hidden ideas behind the images each author wants to convey (Phạm Văn Đôn's wood-engraving print "Bác Hồ với nông dân" — Uncle Hồ with Farmers, 1972); and a form-creation or applied fine-art work gathers the basic elements — dot, line, shape, mass, colour, dark-light, texture, space — arranged and handled fittingly by the form-creation principles — balance, contrast, repetition, rhythm, emphasis, proportion, movement, harmony (Phạm Hậu's lacquer "Gió mùa hạ" — Summer Wind, 1940; Lương Xuân Nhị's oil painting "Thiếu nữ Nhật Bản" — Japanese Young Woman, 1942; Nguyễn Đình Hàm's silk painting of 1958) (student book) | Book 18, printed p. 20 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 19:** *Drawing in the Forest* (student book, English with te reo Māori words) — New Zealand, Ministry of Education, New Zealand, © Crown 2025; ISBN 978-1-77697-683-6 (print). Title as printed: Drawing in the Forest — Ready to Read Phonics Plus, Rākau, by Christine Braid, illustrated by Stevie Mahardhika. Grade: 1 (early reader) (student/teacher: STUDENT). PDF pages: 10 (cover verified against the record title; byte size 2,388,903 matches the record). Verdict: COMPLETE. Named, not placed: the cover's tree-stage words (Kākano seed, Tupu seedling, Māhuri sapling, Rākau tree) and the focus sounds (au, aw) are reading/science content of the phonics series, not arts teaching. New Zealand's own way: an early phonics reader whose whole story is an art lesson — a class goes to a forest park, looks very closely at what it finds, draws it close-up, and holds an art show to teach visitors about the park. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/new-zealand-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| New Zealand — The class art show "Jaws, Claws, and Paws" — the children's close-up drawings are arranged and shown to an audience to teach people about the forest park (student book) | Book 19, PDF p. 9 |
+
+New Zealand is added as student-book stock (see its rows above), inside the acceptance count.
