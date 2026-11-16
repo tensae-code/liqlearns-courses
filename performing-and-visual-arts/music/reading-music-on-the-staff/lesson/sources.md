@@ -1,6 +1,6 @@
 # Sources — Reading Music on the Staff
 
-countries: Ethiopia, United Kingdom
+countries: Ethiopia, United Kingdom, Andorra
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia, United Kingdom
 **Book 5:** *Grade 5 Performing and Visual Arts Teacher Guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
 **Book 6:** *Edexcel GCSE (9–1) Anthology of Music* (student book, English), edited by Julia Winterson — United Kingdom, Pearson Education Ltd with Peters Edition Ltd and Faber Music Ltd, 2016 (first published 2016), ISBN 978-1-292-11838-3, Grade 10 (GCSE, Years 10–11), 97 PDF pp. Verdict: COMPLETE — all 97 pages read (score pages placed as study summaries only; no notation or song lyrics transcribed). Read from the scanned page images at the book's recorded source (Internet Archive item `edexcel-gcse-9-1-anthology-of-music`, 97 pages, matching the record) in the 2026-11-16 Art expansion read, because the recorded GitHub copy is a PHANTOM PUSH — marked pushed but absent from the tree and the releases, so it could not be fetched by the tree route (see the placements file). Placements at liqlearns-courses-work/expansion-art-2026-11-16/united-kingdom-placements.md. The book's Glossary of Key Words (printed pp. 90–93) is inventory only, named here and never stocked as parts.
+
+**Book 7:** *Programa d'educació musical de primera ensenyança de l'Escola Andorrana — Annex IV of Decret 376/2021, BOPA núm. 123, 24-11-2021* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2021, ISBN 978-99920-0-931-4, Primera ensenyança, cycles 1–3 (ages 6–12), 39 PDF pp (record; Annex IV runs at BOPA pp. 199–237 of the full 510-page BOPA issue). TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and end-of-cycle expectation tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -43,8 +45,9 @@ countries: Ethiopia, United Kingdom
 | United Kingdom — Short score and guitar articulation (Killer Queen): several instruments sharing a stave, only the important elements shown; guitar slides, bends and vibrato; wider listening to the Beach Boys' 'God Only Knows' and ABBA's 'Super Trouper' | Book 6, printed pp. 36–37 |
 | United Kingdom — Short score and colla voce (Defying Gravity): following a short score by the vocal line's words, cross note-heads marking spoken lyrics, colla voce (the accompaniment follows the solo voice), and a score transposed a semitone for easier reading | Book 6, printed p. 52 |
 | United Kingdom — Three-part score and repeat signs (Samba Em Prelúdio): following a three-part score (voice, guitar, bass guitar) one part at a time, the D.S. al Coda repeat instruction; wider listening to Afro-Cuban jazz and Buena Vista Social Club | Book 6, printed pp. 82–83 |
+| Andorra — Bloc 1: recording creations (cycles 1–3) — keeping music in conventional and non-conventional notation (scores) and in sound and audiovisual recordings, with technology as the tool for composing, editing and reproducing (programme document — evidence; original target `music/reading-music-on-the-staff`) | Book 7, printed p. 26 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, United Kingdom).**
+**Acceptance count: taught in 2 countries (Ethiopia, United Kingdom). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
 
 The Grade 5 book teaches the tempo word Allegretto as "very fast", above Allegro — a tempo-table matter kept in the music lesson on dynamics and tempo, not repeated here. The G clef's and F clef's stroke orders are taught as the Grade 4 placements describe the figures (the G clef rising from the second line; the F clef from the fourth line with its two dots around that line); no stroke order beyond the placements is claimed.
 

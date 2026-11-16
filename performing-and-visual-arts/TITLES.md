@@ -51,7 +51,13 @@ The titles, in ladder order:
    with Kyle and Lulu; imaginative and expressive art — the
    fantasy landscape; and Maldivian crafts and dress —
    coconut-leaf weaving and the kasabu libaas (Maldives student
-   book).
+   book). The Art expansion added:
+   history of art — art and power, art and mentality, and art
+   and conflicts, taught through questions, not chronology;
+   women in art history — women as model, patron and artist;
+   and famous artists and masterpieces — the latest trends,
+   from op and kinetic art to conceptual art and land art
+   (Andorra programme documents, evidence).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -97,7 +103,12 @@ The titles, in ladder order:
    'Release'; bossa nova through 'Samba Em Prelúdio'; and making
    music with computers and apps, carrying the Anthology's
    copyright and music-publishing chapter (United Kingdom
-   student book, scores by summary only).
+   student book, scores by summary only). The Art expansion
+   added: composing music — building pieces from cells,
+   patterns and ostinatos, and the three acts of experimenting,
+   improvising and composing; and conducting — pulse, metre,
+   tempo, cues, rehearsals and one unified musical idea
+   (Andorra programme documents, evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -138,4 +149,9 @@ The titles, in ladder order:
    audit close-out added: indigenous knowledge of Ethiopia;
    traditional music and what it does; dance in society; music
    in society; theatre in society; visual art in society; dance,
-   culture and society; and performing art's three benefits.
+   culture and society; and performing art's three benefits. The
+   Art expansion added: art as protest — realism, social
+   realism, revolutionary sculpture and Brasília's protesting
+   architecture; and art of our country — the Romanesque of
+   Andorra read as art and as religious power (Andorra
+   programme documents, evidence).

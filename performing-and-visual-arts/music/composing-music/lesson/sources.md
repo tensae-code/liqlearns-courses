@@ -1,0 +1,19 @@
+# Sources — Composing Music
+
+countries: Andorra
+
+**Book 1:** *Programa d'educació musical de primera ensenyança de l'Escola Andorrana — Annex IV of Decret 376/2021, BOPA núm. 123, 24-11-2021* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2021, ISBN 978-99920-0-931-4, Primera ensenyança, cycles 1–3 (ages 6–12), 39 PDF pp (record; Annex IV runs at BOPA pp. 199–237 of the full 510-page BOPA issue). TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and end-of-cycle expectation tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 2:** *Programa de l'assignatura d'educació musical del batxillerat general de l'Escola Andorrana — Decret del 20-3-2019, BOPA núm. 29, 27-3-2019* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2019, no ISBN printed in the fetched text, Batxillerat general (ages 16–18), 21 PDF pp. TEACHER — programme document. Verdict: COMPLETE as a programme document — read in full via the source_url text; the PDF's text layer is partly garbled in the fetched extraction (a font-encoding fault in the gazette PDF), but every heading, competence and block table is legible and placed from those; assessment criteria and synthesis tables are apparatus, named here and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Composing from cells, patterns and ostinatos (programme document — evidence; original target `music/composing-from-cells-patterns-and-ostinatos`) | Book 1, printed pp. 25–26 |
+| Sub lesson 2 — Experiment and improvise (programme document — evidence; original target `music/experimenting-improvising-composing`) | Book 2, printed pp. 4–6 |
+| Sub lesson 3 — Composition — the lasting product (programme document — evidence; original target `music/experimenting-improvising-composing`) | Book 2, printed pp. 4–6 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on Andorra curriculum programme document evidence only, named here, counted nowhere.**
+
+This is a canonical NEW lesson (slug-registry Part 1: `music/composing-music`); the Andorra placements were filed under the original strings `music/composing-from-cells-patterns-and-ostinatos` and `music/experimenting-improvising-composing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Andorra's own way, carried in the placements: primary music is built as a triangle — create, perform, analyse — and batxillerat music rests on creation and interpretation feeding each other. Both books are curriculum programme documents, so every part of this lesson is labelled evidence; no student-textbook claim is made for it.
+
+Searchable tags: composing music, cells, patterns, ostinatos, question and answer phrases, improvisation, experimentation, composition, Andorra

@@ -1,6 +1,6 @@
 # Sources — Appreciating and Valuing the Arts
 
-countries: Ethiopia, Cyprus
+countries: Ethiopia, Cyprus, Andorra
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Cyprus
 
 **Book 6:** *The Magic Box — Year 6, Project Unit 2 "Favourite Music", Part 1 (English Primary Schools, Cyprus, schools.ac.cy)* (teacher unit material) — Cyprus, Cyprus Ministry of Education English Primary Schools materials (schools.ac.cy); no year or ISBN printed, Year 6, English, 9 PDF pp. TEACHER — a teacher's unit plan for one 40-minute lesson plus projects. Read in full as text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cyprus-placements.md. **Teacher unit material — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 7:** *Programa d'arts plàstiques del batxillerat general de l'Escola Andorrana — annex to Decret 237/2025, BOPA núm. 83, 9-7-2025* (curriculum programme document, Catalan; the record title adds “imatge i disseny”) — Andorra, Ministeri de Relacions Institucionals, Educació i Universitats, Govern d'Andorra, 2025 (programme first published 2019), ISBN 978-99920-82-22-5, Batxillerat general (ages 16–18), 28 PDF pp. TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and synthesis tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Aesthetic value: judging beauty | Book 1, printed pp. 127–131 |
@@ -25,8 +27,10 @@ countries: Ethiopia, Cyprus
 | Sub lesson 6 — The Grade 7 chapter aims — value what is around you | Grade 7 Student Textbook, Ch. 4 chapter opener and aims, printed p. 126 |
 | Sub lesson 7 — The Grade 7 chapter closes (chapter closing — Grade 7) — G7S-116 | Grade 7 Student Textbook, Ch. 4 self-check table, summary and closing exercise (closing fold), printed pp. 145–147 |
 | Cyprus — Unit objectives — becoming aware of and appreciating kinds of music from around the world (teacher unit material — evidence; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 6, PDF p. 1 |
+| Andorra — Competence C1 (batxillerat) — interpreting artistic-plastic manifestations through observation, analysis and criticism: relating the formal elements of works to their meanings and judging them with argued opinions (programme document — evidence; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 7, printed pp. 9–11 |
+| Andorra — Bloc 2: the aesthetic discourse (batxillerat) — beauty and counter-beauty (bellesa i contrabellesa) as expressive and communicative values inside art's functions, analysed by debate, with appropriation and transformation of images and new creation forms (multimedia art, net art, urban art) (programme document — evidence; original target `first-steps/beauty-and-counter-beauty`) | Book 7, printed pp. 18–19 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Ethiopia).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.
 
 The Grade 7 and 8 teacher-guide parts are EVIDENCE-LIMITED in the strict sense: those guides' files are truncated, so Units 4–5 are placed from their contents pages and syllabus tables only, and every such part is labelled so in its provenance — no body wording is claimed from pages that were not read. The Grade 9–10 parts stand on teacher-guide evidence (those grades have no student books). The lesson's first part rests on the Grade 7 student book, so the lesson counts as taught in 1 country (Ethiopia); every other part is evidence, labelled part by part.
 

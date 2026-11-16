@@ -277,7 +277,36 @@ lessons are the books'.
   from the tree and the releases); the book was read from its
   recorded Internet Archive source instead.
 
-**The whole course stands at 192 lessons, 3,038 questions and
+- **Art expansion — Andorra — BUILT 2026-11-16:** 28 placements
+  stocked from 4 books (all Catalan curriculum programme
+  documents, BOPA official gazette — TEACHER programme
+  documents, evidence only, kept outside the acceptance
+  counts: the primary music programme, Decret 376/2021; the
+  batxillerat visual arts programme, Decret 237/2025; the
+  batxillerat music programme, Decret del 20-3-2019; and the
+  batxillerat history of art programme, Decret del 9-12-2020):
+  18 into existing lessons (The Elements of Music; Dance
+  Composition and Modern Dance; Reading Music on the Staff;
+  School Songs; Traditional Dances and Culture; Hearing Each
+  Instrument; Old Arts and Today's Arts; Appreciating and
+  Valuing the Arts ×2 — the second from the original string
+  beauty-and-counter-beauty; The Elements of Visual Art;
+  Composition in Visual Art; Visual Art in Society; Paints and
+  How They Work; Performing Kinds of Music; Music in Society;
+  Sounds Around Us; Our Instruments; Appreciating the Arts —
+  from the original string how-to-look-at-art), 7 NEW lessons
+  (Music: Composing Music — from composing-from-cells-
+  patterns-and-ostinatos and experimenting-improvising-
+  composing; Conducting — from conducting-an-ensemble;
+  Visual Art: Women in Art History; History of Art — from
+  art-of-the-world ×2 and art-history-timeline; Famous Artists
+  and Masterpieces — from famous-artists; Culture and Values:
+  Art as Protest; Art of Our Country), 84 questions added,
+  media as described slots only. The decrees' legal preambles,
+  assessment criteria and synthesis/expectation tables are
+  apparatus, named in the book entries and not placed.
+
+**The whole course stands at 199 lessons, 3,122 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

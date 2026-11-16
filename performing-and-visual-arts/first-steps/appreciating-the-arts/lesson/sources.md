@@ -1,6 +1,6 @@
 # Sources — Appreciating the Arts
 
-countries: Ethiopia, Cyprus, Jamaica
+countries: Ethiopia, Cyprus, Jamaica, Andorra
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
@@ -11,6 +11,8 @@ countries: Ethiopia, Cyprus, Jamaica
 
 **Book 5:** *National Standards Curriculum — Exploratory Core, Grade 4 (Language Arts | Science | Social Studies | Mathematics)* (curriculum guide) — Jamaica, Ministry of Education, Youth & Information, Jamaica, 2020 (Jan 2020 edition), no ISBN printed, Grade 4, English, 370 PDF pp. TEACHER — a curriculum guide for other subjects (Language Arts, Science, Social Studies, Mathematics); the arts appear in it as cross-curricular links and in the arts-teaching activities placed here. Read in place in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jamaica-placements.md. **Teacher curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 6:** *Programa de l'assignatura d'història de les arts del batxillerat general de l'Escola Andorrana — Decret del 9-12-2020 (BOPA núm. 149, 16-12-2020), republishing the full programme as amended (Decret del 20-3-2019 as modified by Decret del 9-12-2020)* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2020 (programme first published 2019), no ISBN printed in the fetched text, Batxillerat general (ages 16–18), 28 PDF pp. TEACHER — programme document. Verdict: COMPLETE as a programme document — read in full via the source_url text; assessment criteria (CA1 pertinence, CA2 precision, CA3 critical sense), end-of-cycle expectations and the synthesis table are apparatus, named here and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Visiting and looking (Sub lesson 1) | Grade 3 Student Textbook, §4.1 — chapter aims, what appreciating is, and the visit (ጉብኝት), printed p. 59 |
@@ -19,7 +21,8 @@ countries: Ethiopia, Cyprus, Jamaica
 
 | Sub lesson 4 — The Grade 1 chapter closes — what we appreciated (closing fold) | Grade 1 Student Textbook, Ch. 4 summary + review (closing fold), printed p. 66 |
 | Cyprus — Projects A and B and the song portfolio — across the year the class learns the unit's songs and keeps them in a portfolio, and each pupil presents a favourite song to the class with a presentation or a gapped-words handout: appreciation shown by doing (teacher unit material — evidence; original target `first-steps/appreciating-the-arts`) | Book 4, PDF pp. 5–6 |
-**Acceptance count: taught in 1 country (Ethiopia).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count.
+| Andorra — Competence C1 and Bloc 1: Art as a means of communication (batxillerat) — interpreting the artwork through aesthetic codes, artistic sensitivity and historical contextualisation, using an analysis scheme agreed in class with three parts: general documentation, formal analysis and interpretation; decoding the pictorial, sculptural and architectural languages, their materials, techniques, formal and meaningful elements, and a synthetic visual panorama of the great periods and styles (programme document — evidence; original target `first-steps/how-to-look-at-art`) | Book 6, printed pp. 2–3, 9–10 |
+**Acceptance count: taught in 1 country (Ethiopia).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.
 
 The Sof Omar and Tis Abay Falls photographs are also the stock of the Photographs lesson in the Visual Art title; per the course structure map, their Grade 3 review placement is stocked here as appreciation content — the activity the book itself sets ('say which of the photographs pleased you'). The two definitions of appreciation (Grade 3's visiting-and-looking, Grade 2's expressing-by-doing) are both taught, as the books state them; they complete each other and neither is silently preferred.
 
