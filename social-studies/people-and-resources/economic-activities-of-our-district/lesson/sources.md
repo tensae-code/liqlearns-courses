@@ -1,6 +1,6 @@
 # Sources — Economic Activities Of Our District
 
-countries: Nepal
+countries: Nepal, Uganda
 
 **Book 1:** *My Social Studies and Creative Arts Grade 5 (English Version)* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre; year First edition 2068 BS, revised edition 2074 BS; ISBN 978-99933-717-8-6 as printed — the same ISBN printed in the Grade 2 book, a publisher copy error. Title as printed: My Social Studies and Creative Arts Grade 5 (English Version). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 156 (cover/title page verified against the record title). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Lessons 2–5 dealings with neighbours, community help, equal treatment (printed pp. 4–11); Unit 2 Lessons 1, 3–5 traditions, festivals, pride, good people (pp. 12–21); Unit 3 Social Problems and their Solutions (pp. 22–33); Unit 4 Civics Sense (pp. 34–47, civics); Unit 6 Our Past (pp. 66–79, History); Unit 7 Lessons 2 and 4 School property, Use of national products (pp. 82, 86); Creative Arts (pp. 91–155). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
@@ -12,10 +12,18 @@ countries: Nepal
 | Sub lesson 1 — Unit 6 Lesson 2: Local economic activities (identify and explain their importance) (teacher guide — evidence) | Nepal, *Nepal Grade 5 TG np-g5tg* (teacher guide), Unit 6 Lesson 2: Local economic activities (identify and explain their importance) — TG printed p. 117 (unit start) |
 | Sub lesson 2 — Nepal's way — the book's own teaching way | Nepal — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Nepal).**
+**Book 3:** *Social Studies Home-Study Learning, Primary Four* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, Uganda; year 2020; no ISBN printed. Title as printed: Home-Study Learning — Primary 4 — Social Studies, August 2020. Grade: Primary Four / grade-04 (student/teacher: STUDENT). PDF pages: 42 (cover verified against the record title; page count matches the record). Verdict: COMPLETE — contents-first read: the Economics parts below read fully; the rest mapped, not placed. Contents map: Economics parts printed pp. 15–16, 18–19, 30–35; Geography (physical features, vegetation) printed pp. 4–12; Civics (leaders, children's rights and responsibilities) printed pp. 13–14, 20–29. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uganda part — Types of Work Done by People in Our Districts: the kinds of work done locally (fishing, farming, weaving, pottery, brick laying, mining, teaching, trading, treating others), why people work — to get food, money and other needs — and the problems faced at work | Uganda, *Uganda Primary 4 Home-Study Social Studies*, Types of Work Done by People in Our Districts — printed p. 15 |
+
+**Acceptance count: taught in 2 countries (Nepal, Uganda).**
 
 Nepal's own way (Nepal Grade 5 np-g5): Grade 5 "Our Earth" is a first full geography of Nepal — physical features, climate and lifestyle, natural vegetation, soils, map-drawing with symbols, globe and maps, and the wider South Asian neighbours; economic geography is district-based (Sankhuwasabha's occupations mapped place by place, from yak and sheep rearing and herb collecting in the high Himalaya to paddy in the low valleys).
 
 Nepal's own way (Nepal Grade 5 TG np-g5tg) (teacher guide — evidence): Guide to the new-curriculum Grade 5 book (companion to the trial-edition line, not to the older English np-g5): its "Hamro Prithvi" unit teaches the solar system and Earth's structure, then Nepal's natural form, climate, vegetation, population and social life, local disasters, and map-making — learners draw their own province's map showing their district and local level and study the Nepal map. Economic unit works from local economic activities and locally produced goods (and the markets that sell them) up to the country's major economic activities across Himalayan, Hilly and Terai regions. That book is a teacher guide, cited as evidence only; Nepal is counted in this lesson for its student book(s) named here, not for this guide.
 
-Searchable tags: economic activities of our district, Nepal, social studies, people-and-resources
+Uganda's own way (Uganda Primary 4 Home-Study Social Studies): Economics enters through the district — the work people around the child do, how a child adds to family income, and the services the government brings to the district; this placement keeps that way: the district's own kinds of work, named one by one, and why people work.
+
+Searchable tags: economic activities of our district, Nepal, social studies, people-and-resources, uganda, district work, fishing farming weaving pottery brick laying mining teaching trading

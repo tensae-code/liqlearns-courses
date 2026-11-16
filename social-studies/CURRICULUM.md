@@ -13188,3 +13188,92 @@ and oil prices, the gender pay gap in
 spreadsheets) with a synthesis and exercise for
 nearly every notion. Economics lessons:
 404 → 406.
+
+## Economics expansion — Uganda — built 2026-11-16
+
+Uganda — 21 placements stocked from 5 student
+books with placements (6 distinct books filed;
+the Primary Six home-study book is record-only
+with 0 placements). The filing's tally (18 to
+existing lessons + 3 NEW LESSON NEEDED) matches
+the placement lines exactly — no difference;
+the 3 NEW lines all name the one new lesson
+below, so 1 new lesson is built. All books are
+student books in English, so every placement
+counts in acceptance. 18 stocked into standing
+lessons — **People and Resources**: Economic
+activities of our district (Primary 4 Home-Study,
+Types of Work Done by People in Our Districts,
+printed p. 15; acceptance 1 → 2 countries);
+Our production and income-generating work
+(Primary 4 Home-Study, Factors Contributing to
+People's Way of Life, printed p. 18; acceptance
+1 → 2); Tourism supply and demand (Excel
+Primary 5, Tourism Industry in Uganda, printed
+p. 74, and Excel Primary 6, Tourism Industry in
+East Africa, printed p. 86; acceptance 1 → 2) —
+**Population, Transport and Maps**: Social
+services and important places in our province
+(Primary 4 Home-Study, How to Meet People's
+Needs in Our District, printed p. 30; acceptance
+1 → 2) — **Microeconomics**: Renewable and
+non-renewable resources (Excel Primary 5,
+Topic 5: Natural Resources of Uganda, printed
+p. 79; Excel Primary 6, Topic 2: Major Resources
+of East Africa, printed p. 73; Primary 5
+Home-Study merged package, Types of Natural
+Resources in Uganda, Social Studies printed
+p. 29; acceptance 5 → 6) — **Market and Money**:
+Barter and why it fails (Excel Primary 5,
+pre-colonial Uganda, printed p. 105, and Excel
+Primary 6, pre-colonial East Africa, printed
+p. 52; acceptance 3 → 4); How money evolved
+(Excel Primary 5, Monetary Trade — cowrie
+shells, Indian rupees, the shilling, printed
+p. 105, and Excel Primary 6, printed p. 52;
+acceptance 1 → 2); What money is (Excel
+Primary 5, Forms, Qualities and Uses of Money,
+printed p. 106, and Excel Primary 6, printed
+p. 53; acceptance 3 → 4 countries; Zambia
+remains teacher-module evidence only) —
+**Macroeconomics**: Direct and indirect taxes
+(Excel Primary 5, Taxation — PAYE, VAT, customs
+and excise, the Uganda Revenue Authority,
+smuggling, printed p. 182; acceptance 1 → 2);
+Regional integration — gains and costs (Excel
+Primary 6, Topic 1: East African Community,
+printed p. 12; acceptance 1 → 2 countries;
+Argentina remains teacher-guide evidence only);
+What a tax is (Senior One Entrepreneurship,
+Chapter 5.1.3: Tax Sources, printed p. 62;
+acceptance 2 → 3) — **Culture and Work**: The
+national budget (Excel Primary 5, Budgeting and
+Government Expenditure, printed p. 184;
+acceptance 1 → 2). 1 new lesson built
+(12 questions): **Macroeconomics**: Sources of
+government revenue (Excel Primary 5, Sources of
+Government Revenue, printed p. 182; Primary 5
+Home-Study merged package, Lesson 6: Sources of
+Revenue and Expenditure by the Government,
+Social Studies printed p. 68; Senior One
+Entrepreneurship, Chapter 5: Government
+Revenue, printed p. 58 — government revenue as
+the government's income, taxation its main
+source, and the non-tax sources: grants, loans,
+donations, fines, licences, fees, tourism, sale
+of minerals and electricity, earnings from
+government enterprises, the national lottery,
+rent and rates, and road and bridge tolls).
+Uganda's own way: Economics enters through the
+district at Primary Four — the work people
+around the child do, how a child adds to family
+income, and the services the government brings
+to the district; the Excel ladder teaches real
+public finance at Primary Five (PAYE, VAT, the
+Uganda Revenue Authority, budgets) alongside
+barter, cowrie shells and the shilling, then
+widens to the East African Community as a
+working market at Primary Six; and an
+Entrepreneurship textbook ends by teaching
+government revenue and toll roads at Senior One.
+Economics lessons: 406 → 407.

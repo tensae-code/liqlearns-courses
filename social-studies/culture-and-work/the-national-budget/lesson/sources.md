@@ -1,6 +1,6 @@
 # Sources — The National Budget
 
-countries: Rwanda
+countries: Rwanda, Uganda
 
 **Book 1:** *Social Studies for Rwanda Schools — Primary 6, Teacher's Book, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies for Rwanda Schools — Primary 6, Teacher's Book, Revised Edition 2019. Grade: Grade 6 (Primary 6) (student/teacher: TEACHER). PDF pages: 137 (cover/title page verified against the record title; PDF page count is lower than the printed pagination, which runs to p. 244 with references — the PDF is a condensed-layout copy; read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected). Verdict: COMPLETE (all 13 units' lesson lists and lesson developments read). Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Civics and governance — unity and co-operation, heroism, risky behaviour, citizenship, leadership and organs of government (Civics), printed pp. 12–68; Unit 3 Hygiene — puberty, menstrual hygiene, chronic diseases (Health), pp. 69–84; Unit 11 Post-independent Rwanda — First and Second Republics, Liberation 1990–1994 (History), pp. 191–203; Unit 12 The 1994 Genocide Against the Tutsi — causes, planning and execution, ideology, denial and prevention (History), pp. 204–220; Unit 13 Effects of foreigners in East Africa — explorers, missionaries, traders, colonialists (History), pp. 221–239. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -12,10 +12,18 @@ countries: Rwanda
 | Sub lesson 1 — 5.2 National budget: national revenue and expenditure, types of budget (Unit 5) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 5.2 National budget: national revenue and expenditure, types of budget (Unit 5) — printed pp. 129–132 |
 | Sub lesson 2 — Rwanda's way — the book's own teaching way | Rwanda — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Rwanda).**
+**Book 3:** *Excel Standard Social Studies, Pupils' Book Five, All Terms* (student book, English) — Uganda, Excel Publishers; year not printed; no ISBN printed. Title as printed: Excel Standard Social Studies — Pupil's Book 5 (First Edition, by Kimbuggwe Apollo). Grade: Primary Five / grade-05 (student/teacher: STUDENT). PDF pages: 213 (title page verified against the record title; page count matches the record. The three term booklets bound in this file carry their own footer pagination — placements cite the whole-book contents pagination). Verdict: COMPLETE — contents-first read: the Economics parts below read fully; History, Geography and Civics parts mapped, not placed. Contents map: Economics parts printed pp. 74–88, 105–117, 182–193; Geography (location, physical features, climate, vegetation, farming systems, population) printed pp. 6–73, 89–104, 194–201; History (pre-colonial peoples, foreign traders and explorers, colonial rule, independence) printed pp. 89–158; Civics (independent nation, government, constitution, rights) printed pp. 159–181, 187–193. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uganda part — Budgeting and Government Expenditure: a budget and a national budget (income against expenditure for a financial year, 1 July–30 June in Uganda, prepared by the Ministry of Finance); surplus, balanced and deficit budgets with causes and dangers of a deficit; and how government spends its revenue — schools, health, roads, salaries, loans, development programmes | Uganda, *Uganda Primary 5 Excel Standard Social Studies*, Budgeting and Government Expenditure — printed p. 184 |
+
+**Acceptance count: taught in 2 countries (Rwanda, Uganda).**
 
 Rwanda's own way (Rwanda Grade 6 Social Studies TG) (teacher guide — evidence): P6 widens the frame from the province to the country, then to East Africa and Africa — Rwanda is located by latitude and longitude (1°S–3°S, 28°E–31°E), its landlocked position is taught as the reason for regional co-operation, and every unit is built around a problem statement with the pupil's book activities answered in the guide. That book is a teacher guide, cited as evidence only; Rwanda is counted in this lesson for its student book(s) named here, not for this guide.
 
 Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the fullest Geography book of the set — a whole unit on direction and location works Rwanda onto the East African and African maps by latitude and longitude and time zones, then physical features and climate, and a climate-change sequence (types, change, effects, overcoming) sits inside it; regional co-operation is taught bloc by bloc (COMESA, CEPGL, ECCAS, AU, NEPAD).
 
-Searchable tags: the national budget, Rwanda, social studies, culture-and-work
+Uganda's own way (Uganda Primary 5 Excel Standard Social Studies): the national budget is Uganda's own — a financial year running 1 July–30 June, prepared by the Ministry of Finance — and the three kinds of budget (surplus, balanced, deficit) are taught with the causes and dangers of a deficit, at Primary Five.
+
+Searchable tags: the national budget, Rwanda, social studies, culture-and-work, uganda, national budget, surplus balanced deficit, ministry of finance, financial year

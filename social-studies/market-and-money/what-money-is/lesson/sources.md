@@ -1,6 +1,6 @@
 # Sources — What money is
 
-countries: Ethiopia, United Arab Emirates, Zambia, Syria
+countries: Ethiopia, United Arab Emirates, Zambia, Syria, Uganda
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -34,8 +34,22 @@ Zambia's own way: Economics at Grade 4 is money and enterprise in kwacha — mar
 
 Syria's own way: Economics enters Grade 1 through the homeland unit — the child meets money first as the nation's own banknotes, identifying each pictured note's denomination and the antiquity shown on it, before the same unit's money-box lesson turns to saving.
 
-**Acceptance count: taught in 3 countries (Ethiopia, United Arab Emirates, Syria). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 5:** *Excel Standard Social Studies, Pupils' Book Five, All Terms* (student book, English) — Uganda, Excel Publishers; year not printed; no ISBN printed. Title as printed: Excel Standard Social Studies — Pupil's Book 5 (First Edition, by Kimbuggwe Apollo). Grade: Primary Five / grade-05 (student/teacher: STUDENT). PDF pages: 213 (title page verified against the record title; page count matches the record. The three term booklets bound in this file carry their own footer pagination — placements cite the whole-book contents pagination). Verdict: COMPLETE — contents-first read: the Economics parts below read fully; History, Geography and Civics parts mapped, not placed. Contents map: Economics parts printed pp. 74–88, 105–117, 182–193; Geography (location, physical features, climate, vegetation, farming systems, population) printed pp. 6–73, 89–104, 194–201; History (pre-colonial peoples, foreign traders and explorers, colonial rule, independence) printed pp. 89–158; Civics (independent nation, government, constitution, rights) printed pp. 159–181, 187–193. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uganda part — Economic Organisation: Forms, Qualities and Uses of Money: coins and notes; the qualities of money (portable, durable, divisible, acceptable) and its uses (medium of exchange, measure of value, payment of debts, buying goods, services and assets) | Uganda, *Uganda Primary 5 Excel Standard Social Studies*, Economic Organisation: Forms, Qualities and Uses of Money — printed p. 106 |
+
+**Book 6:** *Excel Standard Social Studies, Pupils' Book Six, All Terms* (student book, English) — Uganda, Excel Publishers; year not printed; no ISBN printed. Title as printed: Excel Standard Social Studies — Pupil's Book 6 (First Edition). Grade: Primary Six / grade-06 (student/teacher: STUDENT). PDF pages: 210 (title page verified against the record title; page count matches the record. Term booklets carry their own footer pagination — placements cite the whole-book contents pagination). Verdict: COMPLETE — contents-first read: the Economics parts below read fully; History, Geography and Civics parts mapped, not placed. Contents map: Economics parts printed pp. 12–14, 52–53, 73, 86–87; Geography (EAC location, resources survey, transport and communication, population, environment) printed pp. 6–11, 65–72, 74–85, 88–139, 189–201; History (peoples of East Africa, early visitors, road to independence) printed pp. 25–51, 55–64, 140–188; Civics (EAC organs and symbols, democratic rule) printed pp. 15–24, 179–188. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uganda part — Economic Organisation: Qualities and Uses of Money: money should be portable, durable, divisible and acceptable; its uses as medium of exchange, measure of value, payment of debts and buying goods, services and assets | Uganda, *Uganda Primary 6 Excel Standard Social Studies*, Economic Organisation: Qualities and Uses of Money — printed p. 53 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, United Arab Emirates, Syria, Uganda). Zambia is teacher-module evidence only — named here, counted nowhere.**
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money
+Uganda's own way: the qualities and uses of money are taught twice on the Excel ladder — at Primary Five with the forms of money (coins and notes) and again at Primary Six for East Africa — the same four qualities (portable, durable, divisible, acceptable) both times.
+
+Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money, uganda, qualities of money, uses of money, coins and notes

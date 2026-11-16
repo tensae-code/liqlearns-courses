@@ -1,6 +1,6 @@
 # Sources — Social Services and Important Places in Our Province
 
-countries: Rwanda
+countries: Rwanda, Uganda
 
 **Book 1:** *Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: TEACHER). PDF pages: 106 (cover verified against the record title — read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected; this book appears only as a books.json record, with no size/pages in the record to check against). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society (Civics), TG content map printed p. xvi; Unit 3 Hygiene and sanitation, incl. HIV/AIDS, STIs and TB (Health), p. xviii; Unit 4 Civics and governance — peer pressure, national symbols, leadership and good governance (Civics), p. xviii; Unit 10 Colonial Rwanda (History), p. xxvi. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -25,7 +25,13 @@ countries: Rwanda
 | Sub lesson 1 — 4.2 Problems faced by public places and assets; 4.3 Preserving public places and assets (Unit 4) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 4.2 Problems faced by public places and assets; 4.3 Preserving public places and assets (Unit 4) — printed pp. 119–121 |
 | Sub lesson 2 — Rwanda's way — the book's own teaching way | Rwanda — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Rwanda).**
+**Book 6:** *Social Studies Home-Study Learning, Primary Four* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Ministry of Education and Sports, Uganda; year 2020; no ISBN printed. Title as printed: Home-Study Learning — Primary 4 — Social Studies, August 2020. Grade: Primary Four / grade-04 (student/teacher: STUDENT). PDF pages: 42 (cover verified against the record title; page count matches the record). Verdict: COMPLETE — contents-first read: the Economics parts below read fully; the rest mapped, not placed. Contents map: Economics parts printed pp. 15–16, 18–19, 30–35; Geography (physical features, vegetation) printed pp. 4–12; Civics (leaders, children's rights and responsibilities) printed pp. 13–14, 20–29. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uganda part — How to Meet People's Needs in Our District: social services as the services government provides (education, security, water, transport, medical care), who provides them and where (teachers, doctors, police, bankers; schools, hospitals, banks), and the problems districts meet providing them — poverty, corruption, high population — with solutions such as creating employment and group farming | Uganda, *Uganda Primary 4 Home-Study Social Studies*, How to Meet People's Needs in Our District — printed p. 30 |
+
+**Acceptance count: taught in 2 countries (Rwanda, Uganda).**
 
 Rwanda's own way (Rwanda Grade 5 Social Studies TG) (teacher guide — evidence): from P5 the medium is English and the organising frame is the child's own PROVINCE — its location, services, environment, climate, population and infrastructure — before the frame widens to the whole country at P6. That book is a teacher guide, cited as evidence only; Rwanda is counted in this lesson for its student book(s) named here, not for this guide.
 
@@ -37,4 +43,6 @@ Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches th
 
 Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the fullest Geography book of the set — a whole unit on direction and location works Rwanda onto the East African and African maps by latitude and longitude and time zones, then physical features and climate, and a climate-change sequence (types, change, effects, overcoming) sits inside it; regional co-operation is taught bloc by bloc (COMESA, CEPGL, ECCAS, AU, NEPAD).
 
-Searchable tags: social services and important places in our province, Rwanda, social studies, population-transport-and-maps
+Uganda's own way (Uganda Primary 4 Home-Study Social Studies): Economics enters through the district — the work people around the child do, how a child adds to family income, and the services the government brings to the district; this placement keeps that way: social services are the government's services in the child's own district, with the district's own problems in providing them — poverty, corruption, high population — and its own solutions.
+
+Searchable tags: social services and important places in our province, Rwanda, social studies, population-transport-and-maps, uganda, district, social services, government provides, corruption, group farming

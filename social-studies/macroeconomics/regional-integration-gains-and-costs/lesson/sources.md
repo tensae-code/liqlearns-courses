@@ -1,6 +1,6 @@
 # Sources — Regional integration — gains and costs
 
-countries: Argentina, Ethiopia
+countries: Argentina, Ethiopia, Uganda
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -18,6 +18,14 @@ countries: Argentina, Ethiopia
 
 Argentina's own way: Economics enters primary Social Studies through Mercosur — integration is taught from children's own border experience, newspaper data and a pupil-built database on the South American gas pipeline case. This Argentina material stands on the teacher guide as evidence only.
 
-**Acceptance count: taught in 1 country (Ethiopia). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 3:** *Excel Standard Social Studies, Pupils' Book Six, All Terms* (student book, English) — Uganda, Excel Publishers; year not printed; no ISBN printed. Title as printed: Excel Standard Social Studies — Pupil's Book 6 (First Edition). Grade: Primary Six / grade-06 (student/teacher: STUDENT). PDF pages: 210 (title page verified against the record title; page count matches the record. Term booklets carry their own footer pagination — placements cite the whole-book contents pagination). Verdict: COMPLETE — contents-first read: the Economics parts below read fully; History, Geography and Civics parts mapped, not placed. Contents map: Economics parts printed pp. 12–14, 52–53, 73, 86–87; Geography (EAC location, resources survey, transport and communication, population, environment) printed pp. 6–11, 65–72, 74–85, 88–139, 189–201; History (peoples of East Africa, early visitors, road to independence) printed pp. 25–51, 55–64, 140–188; Civics (EAC organs and symbols, democratic rule) printed pp. 15–24, 179–188. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uganda-placements.md.
 
-Searchable tags: regional integration, gains and costs, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics
+| Lesson part | Where it comes from |
+|---|---|
+| Uganda part — Topic 1: East African Community: why the EAC was formed and revived (common currency aim, reduced trade barriers and smuggling, free movement of people and goods), its benefits to individuals (jobs, wider market for traders' goods, lower taxes on imports), to member states (wider market, sea-port access for landlocked members) and the trade problems of landlocked countries (delays, high import taxes, high transport costs, high prices) | Uganda, *Uganda Primary 6 Excel Standard Social Studies*, Topic 1: East African Community — printed p. 12 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Uganda). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+
+Uganda's own way: the Excel ladder widens from Uganda to the region — Primary Six teaches the East African Community as a working market: common currency aim, fewer trade barriers, free movement, wider markets, and the landlocked country's trade costs, Uganda being landlocked itself.
+
+Searchable tags: regional integration, gains and costs, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics, uganda, east african community, EAC, landlocked, free movement, common currency
