@@ -1,10 +1,12 @@
 # Sources — Literary Elements of Drama
 
-countries: Ethiopia, Colombia
+countries: Ethiopia, Colombia, Venezuela
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
 **Book 2:** *Secundaria Activa — Educación Artística - Teatro (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-496-3, ISBN serie Secundaria Activa 978-958-691-485-7; author Paola Lorena Coral Pérez (update and qualification by Aguirre Asesores S.A.S.). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 166 (title page verified against the record; byte size 19,417,017). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 10 Momentos. Self-assessment rubrics are assessment apparatus, named here and not placed; the literary fragment read inside Momento 3 of Project 1 is named by title and author only, not transcribed. READ ROUTE: as with Books 3–4, the ministry host drops direct connections and the later Wayback captures are truncated (~608 KB); this copy is the Wayback Machine's 4 Nov 2014 capture of the same ministry file (the only complete capture), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
+
+**Book 3:** *Educación Artística 1 — EDUCACIÓN ARTÍSTICA — Artes visuales / Artes escénicas / Artes musicales — 1er AÑO (Colección Bicentenario)* (student book, Spanish) — Venezuela, Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela; third edition, April 2014; ISBN 978-980-218-315-9 (Depósito Legal lf5162012370748). Series coordination Ángela Beatriz Calzadilla; authors Aura Marina Orta, Marianella Morales Mistron, Trina Borrego, Luis Galíndez, Alexander Lugo Rodríguez and others. Grade 7 (1er año, first year of secondary; student/teacher: STUDENT). PDF pages: 75 (printed pp. 10–143; the fetched PDF is 50,417,591 bytes; cover and title page verified — blue cover with indigenous petroglyph-style figures, “EDUCACIÓN ARTÍSTICA 1er AÑO”). Verdict: COMPLETE — read in full as extracted text (text PDF), cover verified. Named, not placed: the front-matter presidential message (not teaching content); the end-of-chapter suggested activities and question boxes (their skills are folded into the lesson lines they practise); the bibliography (printed pp. 141–143) — inventory only. Venezuela's own way: one single book teaches all three art languages together — visual, scenic (theatre/dance) and musical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/venezuela-placements.md.
 
 | Lesson part | Book | Printed pages |
 |---|---|---|
@@ -12,8 +14,11 @@ countries: Ethiopia, Colombia
 | Sub lesson 2 — Plot structure — the mountain (teacher guide — evidence) (teacher guide — evidence) | Grade 8 Teacher Guide, printed pp. 8–10 |
 
 | Colombia — Project 1, Subproject 1, Momento 3 "El personaje y el texto": character and text — building a character out of a written work, reading a fragment of "The Hobbit" by J.R.R. Tolkien (Bilbo Baggins and his mother Belladonna Took) to find who the character is from what the text says (student book; original target `drama-and-dance/literary-elements-of-drama`) | Book 2 | printed pp. 36–64 |
+| Venezuela — Texto dramático: the dramatic text — the discourse an author creates to be interpreted by a director and represented by actors; its themes may be historical, imagined, realistic, legendary, dramatic or comic (student book) | Book 3, printed p. 40 |
+| Venezuela — Dramaturgo/Dramaturga: the playwright, creator of dramatic texts — with Venezuela's own named: César Rengifo, the most representative author of Venezuelan historical theatre, José Ignacio Cabrujas, Román Chalbaud and Elisa Lerner (student book) | Book 3, printed p. 41 |
+| Venezuela — La composición dramática: dramatic composition — how the dramatic work is structured: its acts and scenes, its characters and the place where the events happen — a fictitious world that feels real (student book) | Book 3, printed p. 85 |
 
-**Acceptance count: taught in 1 country (Colombia).** Ethiopia teacher-guide evidence is named here, counted nowhere.
+**Acceptance count: taught in 2 countries (Colombia, Venezuela).** Ethiopia teacher-guide evidence is named here, counted nowhere.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 8–10) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 

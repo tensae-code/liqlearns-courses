@@ -2181,7 +2181,53 @@ lessons are the books'.
   textiles in their folk colours, and the standing
   safety page printed in every term.
 
-**The whole course stands at 594 lessons, 7,530 questions and
+**Art expansion — Venezuela (2026-11-16):** 241 placements
+  stocked from 2 books, both student books (Spanish,
+  Ministerio del Poder Popular para la Educación,
+  Colección Bicentenario): *Educación Artística 1*
+  (Grade 7, 3rd ed. April 2014, ISBN 978-980-218-315-9)
+  and *Recorriendo el Arte 2* (Grade 8, 3rd ed. April
+  2014, ISBN 978-980-218-331-9). Both books are COMPLETE
+  and count in full — there are no teacher guides or
+  programme documents in this country's set, so nothing
+  is evidence-only. 177 placements into existing and
+  already-built canonical lessons, and 64 into 24 NEW
+  lessons (Culture and Values: Venezuelan Art Through
+  the Ages ×23; Venezuelas Heritage ×6. Visual Art:
+  Avant-Garde Movements ×8; Art of Ancient America ×7;
+  Art Movements of the 19th Century ×6; Colonial Art in
+  Latin America ×2; Geoglyphs ×2; Latin American Art ×2;
+  Mesopotamian Art ×2; Installation Art ×3; Art of the
+  First Peoples; Naive Painting. Music: Counterpoint
+  and the Fugue; Music of Ancient Greece and Rome;
+  Music of the Ancient Civilisations; Orchestration;
+  The Venezuelan Waltz and Salon Music. Drama and
+  Dance: Diablos Danzantes de Yare ×2; Ancient Greek
+  and Roman Theatre ×2; Circus Arts; Renaissance
+  Theatre; Spanish Golden Age Theatre; Street Theatre;
+  Theatre of the Absurd), 288 questions added, media as
+  described slots only. Registry resolutions carried:
+  the reader strings are resolved in slug-registry
+  Part 2 throughout — among them the five Venezuelan
+  country strings (colonial art, 19th-century art,
+  20th-century art, kinetic art, Juan Félix Sánchez)
+  → Venezuelan Art Through the Ages; petroglyphs,
+  world heritage, heritage objects, indigenous peoples
+  and stolen heritage → Venezuelas Heritage; Diablos
+  → drama-and-dance/diablos-danzantes-de-yare.
+  Honesty carried exactly as filed: both books read in
+  full as extracted text, covers verified; the
+  bibliographies are inventory-only and named in the
+  sources entries; Book 2's closing teacher-facing
+  essay is named as apparatus, its core teaching placed
+  once as filed. Venezuela's own way is kept as named
+  parts: the petroglyphs, kinetic art (Cruz-Diez, Soto,
+  Gego, Otero), the Diablos Danzantes de Yare, the
+  cuatro, maracas and harp, the work songs (arreo,
+  pilón, ordeño) and the heritage objects (gurrufío,
+  trompo, papagayo, budare, tinajero).
+
+**The whole course stands at 618 lessons, 7,818 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

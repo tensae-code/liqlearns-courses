@@ -1,11 +1,13 @@
 # Sources — Traditional Dress
 
-countries: Ethiopia, Samoa
+countries: Ethiopia, Samoa, Venezuela
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
 **Book 3:** *Expressive Arts — Years 1–8, Primary School Curriculum* (curriculum statement / programme document, English) — Samoa, Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture (MESC), Samoa, 2013 (January 2013), ISBN 978-982-517-087-7, Years 1–8, 96 PDF pp. TEACHER — curriculum statement for teachers; programme document. Verdict: COMPLETE (as a programme document; it specifies teaching content by year and strand rather than pupil lessons). Title page verified against the record title; fetched from the recorded MESC source_url (1,069,629 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Assessment section and outcome-indicator tables (printed pp. 27–38) — assessment apparatus, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Programme document — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 4:** *Recorriendo el Arte 2 — RECORRIENDO EL ARTE — Educación Artística — 2do AÑO (Colección Bicentenario)* (student book, Spanish) — Venezuela, Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela; third edition, April 2014; ISBN 978-980-218-331-9 (Depósito Legal lf51620123701319, as printed). Series coordination Ángela Beatriz Calzadilla; same author team as Book 1. Grade 8 (2do año, second year of secondary; student/teacher: STUDENT). PDF pages: 132 (printed pp. 12–255; the fetched PDF is 13,377,588 bytes; cover verified — blue cover with pre-Columbian artefacts). Verdict: COMPLETE — read in full as extracted text (text PDF), cover verified. Named, not placed: the closing teacher-facing essay “Conceptos básicos para la conducción estratégica del aprendizaje artístico” (printed pp. 247–250) — pedagogical guidance for teachers; its core teaching about sensitive knowledge is placed once, as filed; the bibliography (printed pp. 251–255) — inventory only; end-of-chapter suggested activities (their skills folded into the lines they practise). Venezuela's own way: Book 2 walks the whole history of art, starting at home — Venezuela's original peoples first — and returning to Venezuela for the colonial, republican, 20th-century and contemporary chapters. Placements at liqlearns-courses-work/expansion-art-2026-11-16/venezuela-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,8 +15,9 @@ countries: Ethiopia, Samoa
 | Appreciating traditional dress (Sub lesson 2) | Grade 1 Student Textbook, Ch.4 chapter aims + §4.1 — traditional dress (appreciating), printed p. 60 |
 | Dress then and now (Sub lesson 3) | Grade 3 Student Textbook, §3.1(ለ) — dress old and now, printed p. 47 (Figure 2), with Figure 3, printed p. 48 |
 | Samoa — Visual Arts, Year Four — ritual and ceremony in Samoan family, village and national life: the purpose and function of ceremonial apparel and body decoration, what they are made from and how they are valued, and planning designs for three-dimensional customary attire and adornments from found and natural materials (programme evidence) | Book 3, printed p. 91 |
+| Venezuela — Indumentaria indígena: indigenous dress and adornment with ritual meaning — showy necklaces, feather headdresses and crowns (hawk and macaw feathers for shamans), ornaments of pearls, gold, shells, bone and semiprecious stones, and today's bead necklaces (student book) | Book 4, printed p. 31 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Venezuela).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
 
 The dress photographs are described from the placements, not reproduced. 'Tibeb' is used as the books and placements use it — the woven patterned border work of the white dress. The old-times materials (animal skin and hair, cotton) and the protection ruling are Grade 3's own words (printed p. 47).
 

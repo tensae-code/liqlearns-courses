@@ -1,6 +1,6 @@
 # Sources — What Theatre Is
 
-countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan
+countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan, Venezuela
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jord
 
 **Book 6:** *فرهنگ و هنر — پایه هشتم (Culture and Art, Grade 8)* (student book, Persian) — Iran, وزارت آموزش و پرورش (Ministry of Education, Islamic Republic of Iran); year 1405–1406 (2026–27); ISBN 978-964-05-3474-8, Grade 8, 144 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 13,567,566 and page count match the record exactly). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
 
+**Book 8:** *Educación Artística 1 — EDUCACIÓN ARTÍSTICA — Artes visuales / Artes escénicas / Artes musicales — 1er AÑO (Colección Bicentenario)* (student book, Spanish) — Venezuela, Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela; third edition, April 2014; ISBN 978-980-218-315-9 (Depósito Legal lf5162012370748). Series coordination Ángela Beatriz Calzadilla; authors Aura Marina Orta, Marianella Morales Mistron, Trina Borrego, Luis Galíndez, Alexander Lugo Rodríguez and others. Grade 7 (1er año, first year of secondary; student/teacher: STUDENT). PDF pages: 75 (printed pp. 10–143; the fetched PDF is 50,417,591 bytes; cover and title page verified — blue cover with indigenous petroglyph-style figures, “EDUCACIÓN ARTÍSTICA 1er AÑO”). Verdict: COMPLETE — read in full as extracted text (text PDF), cover verified. Named, not placed: the front-matter presidential message (not teaching content); the end-of-chapter suggested activities and question boxes (their skills are folded into the lesson lines they practise); the bibliography (printed pp. 141–143) — inventory only. Venezuela's own way: one single book teaches all three art languages together — visual, scenic (theatre/dance) and musical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/venezuela-placements.md.
+
 | Lesson part | Book | Printed pages |
 |---|---|---|
 | Sub lesson 1 — Theatre is art for an audience | Grade 4 Student Textbook, §1.3, printed p. 15 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jord
 | Trinidad and Tobago — Subject Philosophy (Forms 1–3) — drama defined as the enactment of real and imagined events through role-play, playmaking and performance, balancing process with product and giving learners the roles of actor, director, writer, designer and audience (teacher guide — evidence) | Book 4, printed pp. 2–3 |
 | Suriname — Theatre domain introduction: what theatre is — theatre is a message shared with an audience — without an audience, no theatre; its three basics are a playing space, the players and the public, and it is the art where the disciplines come together — dance, song, poetry and music on the inner side, architecture, sculpture, painting and drawing on the outer; the maker means the audience can use to build a performance are named: play, playing space, make-up (grime), costume, dance, set (decor), light, sound, music and image projection (teacher guide — evidence) | Book 5, printed pp. 156–157 |
 | Iran — Dramatic arts L1, Play and acting: بازی و بازیگری: what play and acting are, and choosing and reading a play script (student book) | Book 6, printed p. 128 |
+| Venezuela — Teatro: theatre as the staged representation of a text in which actors carry the dramatic action through characters — a collective, community art — and as the building where plays, concerts and dances are presented (student book) | Book 8, printed p. 39 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Iran, Jordan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Iran, Jordan, Venezuela). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson rests on the Grade 4 student book's own definition (§1.3). The book's performance picture (Fig. 1.12, printed p. 16) is described as a slot; it is not reproduced.
 

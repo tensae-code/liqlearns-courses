@@ -1,14 +1,17 @@
 # Sources — Chords and Harmony
 
-countries: Brazil, Sri Lanka
+countries: Brazil, Sri Lanka, Venezuela
 
 **Book 1:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+**Book 3:** *Educación Artística 1 — EDUCACIÓN ARTÍSTICA — Artes visuales / Artes escénicas / Artes musicales — 1er AÑO (Colección Bicentenario)* (student book, Spanish) — Venezuela, Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela; third edition, April 2014; ISBN 978-980-218-315-9 (Depósito Legal lf5162012370748). Series coordination Ángela Beatriz Calzadilla; authors Aura Marina Orta, Marianella Morales Mistron, Trina Borrego, Luis Galíndez, Alexander Lugo Rodríguez and others. Grade 7 (1er año, first year of secondary; student/teacher: STUDENT). PDF pages: 75 (printed pp. 10–143; the fetched PDF is 50,417,591 bytes; cover and title page verified — blue cover with indigenous petroglyph-style figures, “EDUCACIÓN ARTÍSTICA 1er AÑO”). Verdict: COMPLETE — read in full as extracted text (text PDF), cover verified. Named, not placed: the front-matter presidential message (not teaching content); the end-of-chapter suggested activities and question boxes (their skills are folded into the lesson lines they practise); the bibliography (printed pp. 141–143) — inventory only. Venezuela's own way: one single book teaches all three art languages together — visual, scenic (theatre/dance) and musical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/venezuela-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Brazil — Folha 10 — harmony (chords, consonance and dissonance in jazz and bossa nova), melody built from scales, polyphony (student book; original target `music/harmony-melody-and-polyphony`) | Book 1, printed p. 167 |
+| Venezuela — Armonía: harmony — the combination of sounds creating the music's tensions, consonances and dissonances (student book; original target `music/harmony`) | Book 3, printed p. 78 |
 
-**Acceptance count: taught in 1 country (Brazil).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Brazil, Venezuela).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/chords-and-harmony`); the placement(s) were filed as NEW LESSON NEEDED under the original string(s) `music/harmony-melody-and-polyphony`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Brazil's own way is kept as named parts, exactly as its book teaches it. Songs and stories are placed by summary only, never transcribed.
 

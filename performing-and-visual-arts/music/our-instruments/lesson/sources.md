@@ -1,6 +1,6 @@
 # Sources — Our Instruments
 
-countries: Ethiopia, Andorra, Albania, Colombia
+countries: Ethiopia, Andorra, Albania, Colombia, Venezuela
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Andorra, Albania, Colombia
 
 **Book 8:** *Secundaria Activa — Educación Artística - Música (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-495-6, ISBN serie Secundaria Activa 978-958-691-485-7; author Paola Lorena Coral Pérez (update and qualification by Aguirre Asesores S.A.S.). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 211 (title page verified against the record; byte size 17,973,089). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 14 Momentos. Self-assessment rubrics are assessment apparatus, named here and not placed. READ ROUTE: as with Book 3, the ministry host drops direct connections and the June 2023 Wayback capture is truncated (~584 KB); this copy is the Wayback Machine's 27 Jul 2021 capture of the same ministry file (canonical digest), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
 
+**Book 9:** *Educación Artística 1 — EDUCACIÓN ARTÍSTICA — Artes visuales / Artes escénicas / Artes musicales — 1er AÑO (Colección Bicentenario)* (student book, Spanish) — Venezuela, Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela; third edition, April 2014; ISBN 978-980-218-315-9 (Depósito Legal lf5162012370748). Series coordination Ángela Beatriz Calzadilla; authors Aura Marina Orta, Marianella Morales Mistron, Trina Borrego, Luis Galíndez, Alexander Lugo Rodríguez and others. Grade 7 (1er año, first year of secondary; student/teacher: STUDENT). PDF pages: 75 (printed pp. 10–143; the fetched PDF is 50,417,591 bytes; cover and title page verified — blue cover with indigenous petroglyph-style figures, “EDUCACIÓN ARTÍSTICA 1er AÑO”). Verdict: COMPLETE — read in full as extracted text (text PDF), cover verified. Named, not placed: the front-matter presidential message (not teaching content); the end-of-chapter suggested activities and question boxes (their skills are folded into the lesson lines they practise); the bibliography (printed pp. 141–143) — inventory only. Venezuela's own way: one single book teaches all three art languages together — visual, scenic (theatre/dance) and musical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — መሰንቆ masenqo (first meeting, inside the song “መዘመር መዘመር” / Singing, Singing) | Grade 1 Student Textbook, printed p. 33 |
@@ -34,8 +36,10 @@ countries: Ethiopia, Andorra, Albania, Colombia
 | Albania — Playing the fyell in C major and A minor — step-by-step fyell practice of both scales, in group and solo, with the rules for using the instrument (teacher guide — evidence) | Book 7, printed p. 23 |
 
 | Colombia — Project 2, Subproject 1, Momento 1 "El mundo de los instrumentos musicales": instruments through history — war drums as protagonists, and the slave of "The Thousand and One Nights" who gifts his mistress a lute (student book; original target `music/our-instruments`) | Book 8, printed pp. 102–109 |
+| Venezuela — Los instrumentos musicales y la organología: what a musical instrument is — anything that can produce sound can serve — and organology, the science that studies instruments' history and technique within their culture (student book) | Book 9, printed pp. 80–81 |
+| Venezuela — Instrumentos venezolanos: Venezuela's emblematic instruments pictured as national heritage objects — the cuatro, the maracas and the harp (student book) | Book 9, printed p. 135 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Colombia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Colombia, Venezuela). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 Teacher Guide is a scan with no usable text layer; it was read visually and is cited at section level only — no body wording is taken from it. The Grade 1 song is placed by name, purpose and teaching content only; its words are not transcribed. Picture 9600 is a drawn teaching board in the books' order, not a copy of any book photograph.
 
