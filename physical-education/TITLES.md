@@ -92,3 +92,8 @@ Skills** (`moving-basics/how-we-learn-movement-skills`),
 and **Sport Psychology**
 (`sport-and-its-story/sport-psychology`)
 — 4 new lessons, bringing this course to 82 lessons.
+
+The PE expansion then added: **Kickball**
+(`ball-games/kickball`) and **Ultimate Frisbee**
+(`ball-games/ultimate-frisbee`)
+— 2 new lessons, bringing this course to 84 lessons.

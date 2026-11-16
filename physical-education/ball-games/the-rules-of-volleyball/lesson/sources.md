@@ -1,9 +1,11 @@
 # Sources — The Rules of Volleyball
 
-countries: Ethiopia
+countries: Ethiopia, Timor-Leste
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
+
+**Book — Timor-Leste Grade 7 teacher guide (teacher guide — evidence):** *Educação Física 7 — Guia do Professor* (teacher guide, Portuguese/Tetum) — Title as printed: Educação Física / Edukasaun Fízika 7 — Guia do Professor / Matadalan ba Manorin — Grade: Grade 7 (student/teacher: TEACHER) — Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed — PDF pages: 276 (cover verified; this is the second, unnamed Educação Física Drive record — the file behind it is the teacher guide). Verdict: COMPLETE. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-pe-placements.md. Timor-Leste's own way: the guide repeats the student book's period cycle as full lesson plans and adds the reference library the student book only lists — a seven-sport appendix (football/futsal, volleyball, handball, basketball, kickball, ultimate frisbee and "human football") with basic rules and mini-games for each, plus gymnastics and athletics appendices. The period lesson plans duplicate the student book and are not re-placed; the rows from this book are the guide's own added teaching content.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,7 +14,8 @@ countries: Ethiopia
 | How a rally is played, and when the ball is out | Ethiopia, Grade 9 student §5.2 Rules of volleyball (playing format and playing actions, incl. when the ball is out), printed pp. 85–90 |
 | Facilities, equipment and the referees (teacher guide — evidence) | Ethiopia, Grade 9 teacher Unit 5, Rules of volleyball (teacher guide — evidence), printed pp. 63–64 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
+| Timor-Leste — Appendix 4: Volleyball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-volleyball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed pp. 157–230 (Appendix 4) |
+**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count.
 
 The Grade 9 books are the English federal 2023 GEQIP-E series; Grade 9 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 

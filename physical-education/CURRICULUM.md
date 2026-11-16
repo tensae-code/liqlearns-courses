@@ -147,6 +147,19 @@ not in GitHub), and the guide was read from the ministry
 download-list copy, staged at both staging paths under
 the push-don't-delete rule.
 
+**PE expansion — Timor-Leste — BUILT 2026-11-16:** 25 placements
+from Timor-Leste's Educação Física 7 student book and
+teacher guide (Grade 7, Portuguese/Tetum) stocked — 23
+into existing lessons (including Swimming Basics and
+Games for Playing Together) and 2 as new lessons
+(Kickball; Ultimate Frisbee) — bringing this course to
+**84 lessons**. The student book is student-book stock,
+inside the acceptance counts; the teacher guide is filed
+as evidence only, outside the acceptance counts; the
+third record, the 2011 secondary curriculum plan
+(Plano Curricular do Ensino Secundário, on Scribd), is
+UNREAD with 0 placements.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -196,6 +209,8 @@ the push-don't-delete rule.
 6. **The Rules of Volleyball** (`ball-games/the-rules-of-volleyball`) — the volleyball court and its free zone, the net at 9.50–10 m, twelve players and the rotational order, with the Grade 9 guide's rules section as labelled evidence.
 7. **The Rules of Basketball** (`ball-games/the-rules-of-basketball`) — basketball's rules in two passes, Grade 9 then Grade 10 — court, scoring, quarters, throw-ins, time-outs and substitutions, with both guides' rules sections as labelled evidence.
 8. **The Rules of Handball** (`ball-games/the-rules-of-handball`) — handball's colour-banded court and goals, playing time, the ball, fouls and personal punishments, opening with the Grade 9 book and deepened by both guides as labelled evidence.
+9. **Kickball** (`ball-games/kickball`) — kickball: the North-American kick-and-run ball game — its rules and mini-games, as Timor-Leste's Grade 7 teacher guide teaches them in its seven-sport appendix (Timor-Leste's teacher guide, evidence only).
+10. **Ultimate Frisbee** (`ball-games/ultimate-frisbee`) — Ultimate Frisbee: the self-refereed team frisbee game — its rules and mini-games, as Timor-Leste's Grade 7 teacher guide teaches them in its seven-sport appendix (Timor-Leste's teacher guide, evidence only).
 
 ## Unit 6 — Games to Play
 

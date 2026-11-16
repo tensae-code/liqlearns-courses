@@ -1,6 +1,6 @@
 # Sources — Games for Communication and Cooperation
 
-countries: Ethiopia, Samoa
+countries: Ethiopia, Samoa, Timor-Leste
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Samoa
 
 **Book — Samoa Years 1–8 curriculum statement (curriculum statement — evidence):** *Health and Physical Education, Years 1–8, Primary School Curriculum* (curriculum statement, English) — Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum — Grade: Years 1–8 (student/teacher: TEACHER — curriculum statement for teachers) — Publisher: Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture, Samoa; year 2013; ISBN 978-982-517-093-8 — PDF pages: 56 (cover/title page verified against the record title; the secured GitHub copy and the ministry download-list copy are byte-identical — same blob SHA — so the two records are one book). Verdict: COMPLETE — the statement's core-content tables (printed pp. 24–30) carry the full teaching content by year; the year-level sections (printed pp. 31–56) restate it as achievement objectives and learning outcomes. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-pe-placements.md. Samoa's own way: one combined Health and PE subject built on *soifua maloloina* (holistic well-being — physical, mental, emotional, social, spiritual); movement is taught through three strands, with cultural dance and Samoan games inside the movement strand, and fitness framed as "fitness for living".
 
+**Book — Timor-Leste Grade 7 student book (student book):** *Educação Física 7 — Manual do aluno* (student book, Portuguese/Tetum) — Title as printed: Educação Física / Edukasaun Fízika 7 — Manual do aluno / Manuál ba estudante — Grade: Grade 7 (student/teacher: STUDENT) — Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed — PDF pages: 89 (cover verified against the record title, "Edukasaun Fizika - K7.pdf"). Verdict: COMPLETE — the teacher guide's Appendices 4–6, listed in this book's index at printed pp. 157–244, are not bound into the student book; they are placed from the teacher guide. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-pe-placements.md. Timor-Leste's own way: PE is built as a repeating cycle each period — the class makes essential agreements, chooses its own sport, develops skills, then runs its own tournament — with fitness and pulse work woven in, a water-safety investigation in Period 3, and a stretching guide and warm-up games as appendices. Assessment grids and final assessment tasks are excluded per the brief (assessment items, named here only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 8 — Pair Hunting and the Rope Tug — the Grade 8 social games | Ethiopia, *Grade 8 Student Textbook*, §§2.2.1–2.2.2, printed pp. 12–14 |
@@ -37,7 +39,8 @@ countries: Ethiopia, Samoa
 | Sub lesson 11 — Cooperation skills — the Grade 7 framing | Ethiopia, *Grade 7 Student Textbook*, §2.5 item 14, printed pp. 23–24 |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Samoa — Socialisation through physical activities, Years 1–4 — life skills in movement lessons: cooperation and sharing, following instructions and rules, trusting others (curriculum statement — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 26 |
-**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count.
+| Timor-Leste — Period 1: Getting to know each other and creating essential agreements — the class agrees how it will work, play and treat each other (original target `games-to-play/games-for-communication-and-cooperation`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 4 |
+**Acceptance count: taught in 2 countries (Ethiopia, Timor-Leste).** Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
