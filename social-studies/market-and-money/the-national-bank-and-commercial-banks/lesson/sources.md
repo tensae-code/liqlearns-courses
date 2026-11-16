@@ -1,6 +1,6 @@
 # Sources — The National Bank and commercial banks
 
-countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Albania, Dominica, Uzbekistan
+countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Albania, Dominica, Uzbekistan, Egypt
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -63,7 +63,13 @@ Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics u
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Dominica, Uzbekistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *الإحصاء والاقتصاد (Statistics and Economics), Third Secondary, Student Book* (student book, Arabic) — Ministry of Education and Technical Education, Egypt; first edition 2016/2017, this printing 2025–2026; ISBN 978-977-706-029-5. Title as printed: الإحصاء والاقتصاد (Statistics and Economics). Grade: Secondary 12 (Third Secondary), Term 1 (student/teacher: STUDENT). PDF pages: 188 (one bound volume of 192 printed pages: Part One Statistics, printed pp. 1–126, then Part Two Economics, printed pp. 127–192; cover verified against the record title). The record's own ministry URL is dead (Azure BlobNotFound); the book was recovered complete from the Wayback Machine snapshot of that same URL (2025-09-01) and staged under the push-don't-delete rule. Verdict: COMPLETE — the Economics part was read page by page to its last teaching page (printed p. 182, chapter questions excluded as assessment). The Statistics part is mathematics, named in the Contents map and not placed. Contents map: Statistics printed pp. 1–126 (correlation and regression; conditional probability; random variables and probability distributions; the normal distribution — mathematics, not placed); Economics parts printed pp. 130–182 (Ch. 1 Economics and the economic problem; Ch. 2 Factors of production; Ch. 3 National income; Ch. 4 Public finance and the role of the state; Ch. 5 Money and banks; Ch. 6 International economic relations). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/egypt-placements-b.md (Book 12).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — البنوك وأنواعها (Banks and their types) — teaches: banks as financial intermediaries gathering savings, and the types — central bank, commercial banks, specialised banks, investment banks, universal and electronic banks — plus the banks' role in issuing paper money | Egypt, *Egypt Secondary 12 Statistics and Economics*, printed pp. 165–167 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -75,7 +81,9 @@ Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is tau
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan
+Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
+
+Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, egypt
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

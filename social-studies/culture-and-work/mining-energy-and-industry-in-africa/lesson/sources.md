@@ -7,6 +7,7 @@ countries: Egypt
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Unit 3 Lesson 2: Mining, energy and industry in Africa — mineral distribution, fossil energy sources, industry's problems and African and Egyptian efforts to raise it | Egypt, *Social Studies, Grade 7, Term 2*, Grade 7, Unit 3 Lesson 2: Mining, energy and industry in Africa — mineral distribution, fossil energy sources, industry's problems and African and Egyptian efforts to raise it — printed p. 54 |
+| Economics part — Unit 3 Lesson 2 “Mining, energy and industry in Africa” — teaches: the natural and human factors of mining, Africa's basic, light, precious, strategic and chemical minerals, fossil and renewable energy sources, extractive and manufacturing industry, the sector's problems and the green-economy response (Economics filing, egypt-placements.md Book 4 — stocked as a distinct Economics row against the Book 1 entry already cited here from the Geography wave; the links-group filing, egypt-placements-b.md Book 7, places the same lesson of its 110-page copy into culture-and-work/africa-industry) | Egypt, *Social Studies, Grade 7, Term 2*, Unit 3 Lesson 2 — printed p. 54 |
 | Sub lesson 2 — Egypt's way — the book's own teaching way | Egypt — the book's own way of teaching (see below) |
 
 **Acceptance count: taught in 1 country (Egypt).**

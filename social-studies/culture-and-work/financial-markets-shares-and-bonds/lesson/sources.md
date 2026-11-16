@@ -1,6 +1,6 @@
 # Sources — Financial Markets — Shares and Bonds
 
-countries: Mongolia, Uzbekistan
+countries: Mongolia, Uzbekistan, Egypt
 
 **Book 1:** *Нийгэм судлал X (Social Studies X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал X (Social Studies X). Grade: Grade 10 (student). 151 PDF pp. (cover verified against the record title; secured GitHub release asset, 91,224,144 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book — note the books.json record says 7,193,154 bytes, which does not match the secured asset: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter openings read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -17,8 +17,16 @@ countries: Mongolia, Uzbekistan
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 2 countries (Mongolia, Uzbekistan).**
+**Book 3:** *الإحصاء والاقتصاد (Statistics and Economics), Third Secondary, Student Book* (student book, Arabic) — Ministry of Education and Technical Education, Egypt; first edition 2016/2017, this printing 2025–2026; ISBN 978-977-706-029-5. Title as printed: الإحصاء والاقتصاد (Statistics and Economics). Grade: Secondary 12 (Third Secondary), Term 1 (student/teacher: STUDENT). PDF pages: 188 (one bound volume of 192 printed pages: Part One Statistics, printed pp. 1–126, then Part Two Economics, printed pp. 127–192; cover verified against the record title). The record's own ministry URL is dead (Azure BlobNotFound); the book was recovered complete from the Wayback Machine snapshot of that same URL (2025-09-01) and staged under the push-don't-delete rule. Verdict: COMPLETE — the Economics part was read page by page to its last teaching page (printed p. 182, chapter questions excluded as assessment). The Statistics part is mathematics, named in the Contents map and not placed. Contents map: Statistics printed pp. 1–126 (correlation and regression; conditional probability; random variables and probability distributions; the normal distribution — mathematics, not placed); Economics parts printed pp. 130–182 (Ch. 1 Economics and the economic problem; Ch. 2 Factors of production; Ch. 3 National income; Ch. 4 Public finance and the role of the state; Ch. 5 Money and banks; Ch. 6 International economic relations). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/egypt-placements-b.md (Book 12).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — البورصة أو سوق تداول الأوراق المالية (The stock exchange) — teaches: the securities market in its two parts — the primary (issue) market and the secondary (trading) market — shares versus bonds and the difference between them, and the functions of the bourse | Egypt, *Egypt Secondary 12 Statistics and Economics*, printed pp. 168–170 |
+
+**Acceptance count: taught in 3 countries (Mongolia, Uzbekistan, Egypt).**
 
 Mongolia's own way: the senior cycle drops the “Individual and…” frame for straight disciplines — Society, Culture, Law, Economics, Politics, International Relations — with Mongolia's own culture, macroeconomy and foreign relations as the worked examples. That way is stocked here as the way Mongolia teaches this thing. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
 
-Searchable tags: financial markets, shares, bonds, investment, Mongolia, Нийгэм судлал X, social studies, culture and work, uzbekistan
+Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
+
+Searchable tags: financial markets, shares, bonds, investment, Mongolia, Нийгэм судлал X, social studies, culture and work, uzbekistan, egypt

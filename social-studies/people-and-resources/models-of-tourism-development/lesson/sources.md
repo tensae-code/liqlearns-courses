@@ -1,6 +1,6 @@
 # Sources — Models of Tourism Development
 
-countries: Greece, Bahamas, Venezuela
+countries: Greece, Bahamas, Venezuela, Egypt
 
 **Book 1:** *Τουριστική Γεωγραφία (Tourism Geography), Γ΄ ΕΠΑΛ — Τομέας Διοίκησης και Οικονομίας (Grade 12 vocational lyceum, Administration & Economics sector), revised edition (Αναθεωρημένη Έκδοση)* (student book, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-5121-8 (book code 0-24-0632). Title as printed: Τουριστική Γεωγραφία (Tourism Geography), Γ΄ ΕΠΑΛ — Τομέας Διοίκησης και Οικονομίας (Grade 12 vocational lyceum, Administration & Economics sector), revised edition (Αναθεωρημένη Έκδοση). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 306 (cover verified against the record title; byte size 45,985,578 exact match to the books.json record — fetched from the mid-size-books-7 release asset with a resumable downloader). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
 
@@ -27,7 +27,13 @@ countries: Greece, Bahamas, Venezuela
 |---|---|
 | Venezuela part — Una industria sin chimeneas: tourism is called the industry without chimneys because it has no smoke-belching factories; its raw material is nature and culture, it produces recreation and wellbeing, brings employment, foreign currency (divisas) and tax revenue, and the Constitution treats it as an economic activity of national interest for diversifying the economy — but unorganised tourism damages the environment, so sites have a carrying capacity (capacidad de carga) that planning must respect | Venezuela, *Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish*, Una industria sin chimeneas — printed p. 52 |
 
-**Acceptance count: taught in 3 countries (Greece, Bahamas, Venezuela).**
+**Book 5:** *الدراسات الاجتماعية — إفريقيا ومصر (Social Studies — Africa and Egypt)* (student book, Arabic) — Ministry of Education and Technical Education, Egypt; year 2025–2026; no ISBN printed. Title as printed: الدراسات الاجتماعية — إفريقيا ومصر. Grade: Preparatory 7 (First Preparatory), Term 2 (student/teacher: STUDENT). PDF pages: 110 (read in place in phase3-staging, where this book already sits secured; cover/title verified against the record). Verdict: COMPLETE. Contents map: Geography/Population printed pp. 8–27 (Unit 1: the population of Africa); History printed pp. 28–43 (Unit 2: Egypt–Africa relations under Muhammad Ali and his successors); Economics parts printed pp. 46–79 (Unit 3: الأنشطة الاقتصادية ودورها في التنمية المستدامة بإفريقيا — Economic activities and their role in sustainable development in Africa); History printed pp. 80–100 (Unit 4: the colonisation of Africa and liberation movements). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/egypt-placements-b.md (Book 7). The secured filing (egypt-placements.md, Book 4) files a 104-PDF-page copy of the same Term 2 course with its own placements, stocked separately exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — السياحة ومواقع التراث العالمي في إفريقيا (Tourism and World Heritage sites in Africa) — teaches: Africa's tourism assets and tourism for sustainable development — jobs, poverty reduction and foreign currency | Egypt, *Egypt Preparatory 7 Social Studies T2*, printed p. 62 |
+
+**Acceptance count: taught in 4 countries (Greece, Bahamas, Venezuela, Egypt).**
 
 Venezuela's own way (Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish): G6 names the system outright — capitalism, dependent capitalism and the informal economy are defined in the pupil's own book, and development is redefined as gains in people's standard of living with the least environmental damage. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
@@ -35,4 +41,6 @@ Bahamas' own way: Grade 5 is a national-history year; the one Economics thread i
 
 Greece's own way (Greece Grade 12 EPAL Tourism Geography): a vocational tourism-geography course — one conceptual chapter (what tourism geography studies, the history of world tourism, supply and demand, tourism resources, development models including sustainable and alternative tourism), then the world read as destinations: Greece first and region by region (a full chapter, with each region's tourism resources), then Europe country by country, then the Americas, Asia, Africa and Oceania — closing with per-chapter questions and activities (including building real tour itineraries) and appendix data tables and excursion programmes.
 
-Searchable tags: models of tourism development, Greece, social studies, people-and-resources, bahamas, venezuela
+Egypt's own way (Grade 7 Term 2, egypt-placements-b.md): Africa's economies are taught sector by sector — farming, mining and energy, industry, tourism, transport and trade — each tied to sustainable development and to Egypt's place in Africa.
+
+Searchable tags: models of tourism development, Greece, social studies, people-and-resources, bahamas, venezuela, egypt

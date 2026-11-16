@@ -1,6 +1,6 @@
 # Sources — Transport and Economic Development
 
-countries: South Sudan, Palestine
+countries: South Sudan, Palestine, Egypt
 
 **Book 1:** *Secondary Geography 3 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 3 Student's Book. Grade: Secondary 3 / Grade 11 (student/teacher: STUDENT). PDF pages: 137 (cover/title page verified against the record title). Verdict: COMPLETE — read from the publisher source file (cgatechnologies.org.uk, the record's own source_url) because the repo route 404s: this book is NOT in GitHub (books.json in_pushed: false). Downloaded file is 22,614,974 bytes, exactly the recorded size_bytes. Staged under the 2026-11-13 rule at phase3-staging/grade-11/gov/south-sudan/geography/student/full-year.pdf (books.json record already present there). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -20,10 +20,18 @@ countries: South Sudan, Palestine
 
 Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
 
-**Acceptance count: taught in 2 countries (South Sudan, Palestine).**
+**Book 4:** *الدراسات الاجتماعية — إفريقيا ومصر معًا على طريق التنمية والحضارة (Social Studies — Africa and Egypt Together on the Path of Development and Civilisation)* (student book, Arabic) — Ministry of Education and Technical Education, Arab Republic of Egypt (prepared by Salah El-Din Educational Content Co.); year not printed on cover; no ISBN printed. Title as printed: الدراسات الاجتماعية — إفريقيا ومصر معًا على طريق التنمية والحضارة. Grade: Grade 7 (First Preparatory), Term 2 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 71,438,198 matches the record; read in place from staging). Verdict: COMPLETE (the Economics unit — Unit 3 — read fully, page by page). Contents map: Geography printed pp. 8–23 (Unit 1: population of Africa); History printed pp. 28–41 (Unit 2: Egypt's relations with Africa under Muhammad Ali and his successors), 80–97 (Unit 4: the colonisation of Africa and Egypt's support for liberation movements); Economics parts printed pp. 46–75 (Unit 3: economic activities and their role in sustainable development in Africa). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/egypt-placements.md (Book 4). The links-group filing (egypt-placements-b.md, Book 7) files a 110-PDF-page 2025–2026 copy of the same Term 2 course with its own placements, stocked separately exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — Unit 3 Lesson 4, first part “Transport in Africa” — teaches: water, land and air transport in Africa, its problems (old railways, weak networks) and the big linking projects such as the Cairo–Cape Town road and Egypt's role in them | Egypt, *Egypt Grade 7 Social Prp1 T2*, Unit 3 Lesson 4, first part — printed p. 70 |
+
+**Acceptance count: taught in 3 countries (South Sudan, Palestine, Egypt).**
 
 South Sudan's own way (South Sudan Grade 11 S3 Geography SB): A world-geography book (trade routes, megacities, Southeast Asia) anchored back to South Sudan throughout — humanitarian airlift airfields, Thuraya satellite phones, a tourism plan for South Sudan, Juba as the urbanisation example.
 
 South Sudan's own way (South Sudan Grade 11 S3 Geography TG) (teacher guide — evidence): Mirrors the student's book's 8 units with content maps and expected answers; repeatedly localises world topics (domestic trade with South Sudan examples, what the South Sudan government should improve to sustain tourism). That book is a teacher guide, cited as evidence only; South Sudan is counted in this lesson for its student book(s) named here, not for this guide.
 
-Searchable tags: transport and economic development, South Sudan, social studies, population-transport-and-maps, palestine
+Egypt's own way (Grade 7 Term 2, egypt-placements.md): Africa's economy is taught activity by activity, and every lesson ends with what Egypt and Africa together are doing to develop that activity — continental programmes, Egyptian projects and the AfCFTA.
+
+Searchable tags: transport and economic development, South Sudan, social studies, population-transport-and-maps, palestine, egypt

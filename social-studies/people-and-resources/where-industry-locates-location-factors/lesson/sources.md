@@ -1,6 +1,6 @@
 # Sources — Where Industry Locates Location Factors
 
-countries: Kazakhstan, South Sudan, Palestine, Venezuela
+countries: Kazakhstan, South Sudan, Palestine, Venezuela, Egypt
 
 **Book 1:** *География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова)* (student book, Russian) — Алматы «Мектеп»; year 2025; ISBN 978-601-07-1773-2. Title as printed: География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова). Grade: 8 (student/teacher: STUDENT). PDF pages: 273 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1531.pdf, 51,336,177 bytes from the recorded okulyk.kz source, page count matches the record; printed book 272 pp). Verdict: COMPLETE. Parallel editions named, not double-counted: record 309.pdf — the 2018 first edition in Kazakh, ISBN 978-601-07-0964-5, 256 printed pp, identical §§1–54 structure verified from its contents; record 344.pdf — the 2018 first edition in Russian, ISBN 978-601-07-0969-0, 264 printed pp, cover/verso verified; reissue records 1432.pdf and 1486.pdf belong to the same editions. The book is placed once here, under this 2025 edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -47,7 +47,13 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Venezuela part — Paisajes urbano-industriales: what an industry needs: an industry needs high capital investment, specialised labour (workers, technicians, employees), an appropriate place near energy sources, raw materials and markets, and easy access to ports, airports, roads and storage; industry types are consumer/light, intermediate and basic (oil, hydroelectric, petrochemical, steel, aluminium) | Venezuela, *Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish*, Paisajes urbano-industriales: what an industry needs — printed p. 39 |
 
-**Acceptance count: taught in 3 countries (Kazakhstan, Palestine, Venezuela). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+**Book 9:** *وطني حياتي — الدراسات الاجتماعية — جغرافية العالم وتاريخ مصر الحديث والمعاصر (My Homeland Is My Life — Social Studies — World Geography and the Modern and Contemporary History of Egypt)* (student book, Arabic) — Ministry of Education and Technical Education, Arab Republic of Egypt; year 2025–2026 (printed on cover); no ISBN printed. Title as printed: وطني حياتي — الدراسات الاجتماعية — جغرافية العالم وتاريخ مصر الحديث والمعاصر. Grade: Grade 9 (Third Preparatory), combined two-term edition filed under the Term 2 record (student/teacher: STUDENT). PDF pages: 186 (cover verified: Third Preparatory, “for the two terms”; byte size 28,097,411 matches the record; read in place from staging). Note: the record names this file Term 2, but the book itself is the older combined Term 1 + Term 2 edition — same grade and subject, filed as the distinct book it is. Verdict: COMPLETE (Economics parts read fully, page by page: Term 2 Unit 1 and Unit 2). Contents map: Term 1 — Geography printed pp. 2–40 (physical and population geography of the world); History printed pp. 41–88 (Egypt under Ottoman rule; Egypt and the colonial advance, national liberation). Term 2 — Economics parts printed pp. 3–47 (Unit 1 resources and economic activities in the world; Unit 2 models of developing and developed countries); History printed pp. 49–75 (July 1952 revolution and the Arab–Israeli conflict); Civics printed pp. 77–90 (political life and parties; Egypt and regional/international organisations). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/egypt-placements.md (Book 2). The same book is filed again by the links group at egypt-placements-b.md (Book 11) with its own Term-2 pagination as read; each filing's placements are stocked exactly as filed, never silently merged.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — Unit 1 Lesson 4 “Industrial activity in the world” — teaches: the natural and human factors industry needs and the world's five main industrial regions, comparing developed and developing countries | Egypt, *Egypt Grade 9 Social Prp3 T2 (combined edition)*, Unit 1 Lesson 4 — printed p. 22 |
+
+**Acceptance count: taught in 4 countries (Kazakhstan, Palestine, Venezuela, Egypt). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
 
 Venezuela's own way (Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish): G6 names the system outright — capitalism, dependent capitalism and the informal economy are defined in the pupil's own book, and development is redefined as gains in people's standard of living with the least environmental damage. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
@@ -59,4 +65,6 @@ Kazakhstan's own way (Kazakhstan Grade 9 Sakhova NIS): the NIS trial Grade 9 cou
 
 Kazakhstan's own way (Kazakhstan Grade 8 Sakhova NIS): the NIS Grade 8 course phrases its lessons as questions and tasks — «Әр жерде неліктен уақыт әркелкі?» (Why is time different in different places?, 2.2), «Тау жыныстары қалай пайда болады?» (How do rocks form?, 3.1.5), «Өзеннің суы қалай өзгереді?» (How does a river's water change?, 3.3.4) — and adds a lesson on the culture of showing geographic names on the map (2.3).
 
-Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan, palestine, venezuela
+Egypt's own way (Grade 9 combined edition, egypt-placements.md): Economics is taught as world economic geography — each activity (farming, grazing, mining, industry) is mapped worldwide with production bar charts, and every foreign country model ends with a section on that country's economic relations with Egypt.
+
+Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan, palestine, venezuela, egypt

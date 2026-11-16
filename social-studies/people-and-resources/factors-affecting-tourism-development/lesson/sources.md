@@ -1,6 +1,6 @@
 # Sources — Factors Affecting Tourism Development
 
-countries: Fiji, South Sudan
+countries: Fiji, South Sudan, Egypt
 
 **Book 1:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -17,8 +17,24 @@ countries: Fiji, South Sudan
 
 South Sudan's own way (South Sudan Primary 6): trade is taught as a tree — internal trade splits into wholesale and retail, external into import and export, with South Sudan's own lists (imports raw sugar, medicine, cereal flour, cars; exports coffee and oil) — and every sector study (tourism, fishing) is carried through benefits, problems and solutions for the country's economy.
 
-**Acceptance count: taught in 2 countries (Fiji, South Sudan).**
+**Book 3:** *الدراسات الاجتماعية — إفريقيا ومصر معًا على طريق التنمية والحضارة (Social Studies — Africa and Egypt Together on the Path of Development and Civilisation)* (student book, Arabic) — Ministry of Education and Technical Education, Arab Republic of Egypt (prepared by Salah El-Din Educational Content Co.); year not printed on cover; no ISBN printed. Title as printed: الدراسات الاجتماعية — إفريقيا ومصر معًا على طريق التنمية والحضارة. Grade: Grade 7 (First Preparatory), Term 2 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 71,438,198 matches the record; read in place from staging). Verdict: COMPLETE (the Economics unit — Unit 3 — read fully, page by page). Contents map: Geography printed pp. 8–23 (Unit 1: population of Africa); History printed pp. 28–41 (Unit 2: Egypt's relations with Africa under Muhammad Ali and his successors), 80–97 (Unit 4: the colonisation of Africa and Egypt's support for liberation movements); Economics parts printed pp. 46–75 (Unit 3: economic activities and their role in sustainable development in Africa). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/egypt-placements.md (Book 4). The links-group filing (egypt-placements-b.md, Book 7) files a 110-PDF-page 2025–2026 copy of the same Term 2 course with its own placements, stocked separately exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — Unit 3 Lesson 3 “Tourism and world heritage sites in Africa” — teaches: the natural and human ingredients of tourism in Africa, why tourism matters (income, investment, jobs), world heritage sites as an attraction, the obstacles holding African tourism back and Egyptian–African efforts, with a 2023 arrivals/receipts data table | Egypt, *Egypt Grade 7 Social Prp1 T2*, Unit 3 Lesson 3 — printed p. 62 |
+
+**Book 4:** *الدراسات الاجتماعية — العالم العربي… وطن يجمعنا (Social Studies — The Arab World… A Homeland That Unites Us)* (student book, Arabic) — Ministry of Education and Technical Education, Arab Republic of Egypt; year 2025/2026 (printed on cover); no ISBN printed (this copy is a CamScanner scan). Title as printed: الدراسات الاجتماعية — العالم العربي… وطن يجمعنا. Grade: Grade 6 (Sixth Primary), Term 1 (student/teacher: STUDENT). PDF pages: 113 (cover verified against the record title; grabbed via the TSV record's release asset — byte size 272,886,262 matches the books.json record exactly; the duplicate books.json tree record is the same book, its file being absent from the repo tree — the release copy is the secured one). Verdict: COMPLETE (the Economics unit — Unit 3 — read fully, page by page; the unit assessment and general revision at printed pp. 106–112 are assessment items, named here and not placed, per the standing exclusion). Contents map: Geography printed pp. 8–36 (Unit 1: our Arab homeland — location, terrain, climate and vegetation, environmental challenges); History printed pp. 42–70 (Unit 2: the Islamic state from its emergence to a world state); Economics parts printed pp. 76–105 (Unit 3: our Arab homeland and economic development). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/egypt-placements.md (Book 9).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — Unit 3 Lesson 4 “Tourism activity in our Arab homeland” — teaches: the natural and human ingredients that attract tourists, eight kinds of tourism (religious, cultural, medical, recreational, shopping, environmental, conference, sports), tourism's importance for national income and jobs, and Arab governments' development efforts including Egypt's Grand Egyptian Museum and New Alamein | Egypt, *Egypt Grade 6 Social Prim6 T1*, Unit 3 Lesson 4 — printed p. 100 |
+
+**Acceptance count: taught in 3 countries (Fiji, South Sudan, Egypt).**
 
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
 
-Searchable tags: factors affecting tourism development, Fiji, social studies, people-and-resources, south sudan
+Egypt's own way (Grade 7 Term 2, egypt-placements.md): Africa's economy is taught activity by activity, and every lesson ends with what Egypt and Africa together are doing to develop that activity — continental programmes, Egyptian projects and the AfCFTA.
+
+Egypt's own way (Grade 6 Term 1): the Arab world's economy is taught resource by resource — what the land needs, what each country leads in, what problems hold it back, and what Arab states (Egypt's Future of Egypt and Toshka projects among them) are doing about it.
+
+Searchable tags: factors affecting tourism development, Fiji, social studies, people-and-resources, south sudan, egypt

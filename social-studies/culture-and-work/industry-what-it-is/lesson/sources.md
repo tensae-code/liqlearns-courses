@@ -1,6 +1,6 @@
 # Sources — Industry What It Is
 
-countries: Vietnam, Eritrea, South Sudan, Venezuela, Jordan
+countries: Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -43,7 +43,13 @@ South Sudan's own way (South Sudan Primary 4): the economy is taught sector by s
 |---|---|
 | Jordan part — Economics expansion — Unit 4 Lesson 2: Industry: industry is a conversion process applied to raw materials to raise their value and usefulness in human life; it meets people's needs, provides work for labour and develops the other economic activities, and comes in two kinds — manufacturing industries (food, textiles, medicines) and extractive industries that draw natural resources from the earth (fertilisers, oil) | Jordan, *Social Studies, Grade 4, Term 1*, Unit 4 Lesson 2: Industry — printed p. 65 |
 
-**Acceptance count: taught in 5 countries (Vietnam, Eritrea, South Sudan, Venezuela, Jordan).**
+**Book 7:** *وطني حياتي — الدراسات الاجتماعية: جغرافية العالم وتاريخ مصر الحديث والمعاصر (My Homeland Is My Life — Social Studies: World Geography and the Modern and Contemporary History of Egypt)* (student book, Arabic) — Ministry of Education and Technical Education, Egypt (CACD); year 2025–2026 edition; no ISBN printed. Title as printed: وطني حياتي — الدراسات الاجتماعية: جغرافية العالم وتاريخ مصر الحديث والمعاصر. Grade: Preparatory 9 (Third Preparatory), Terms 1 and 2 in one volume (student/teacher: STUDENT). PDF pages: 186 (read in place in phase3-staging, where this book already sits secured; cover and both terms' contents verified visually). Verdict: COMPLETE. Contents map: Term 1 — Geography (physical geography of the world; population geography of the world) and History (Egypt under Ottoman rule; Egypt and the colonial advance). Term 2 — Economics parts: Unit 1 الموارد والأنشطة الاقتصادية في العالم (Resources and economic activities in the world), Term-2 printed pp. 2–26; Unit 2 نماذج لبعض الدول النامية والمتقدمة (Models of some developing and developed countries), Term-2 printed pp. 27–48; History Term-2 printed pp. 49–76 (the July 23 Revolution and the Arab–Israeli conflict); Civics Term-2 printed pp. 77–90 (political life and Egypt's international relations). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/egypt-placements-b.md (Book 11). The same book is filed in egypt-placements.md (Book 2) with different Term-2 pagination as read; both filings are carried exactly as filed. Named, not placed in this filing: Term-2 Unit 1 Lesson 2 الرعي والثروة الحيوانية والسمكية في العالم (Grazing, livestock and fisheries in the world), Term-2 printed p. 9, and Lesson 3 النشاط التعديني في العالم (Mining activity in the world), Term-2 printed p. 15 — world production inventories in the same style as the Preparatory 8 minerals lesson.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — النشاط الصناعي في العالم (Industrial activity in the world) — teaches: what industrial activity is, its main world regions and the factors behind them | Egypt, *Egypt Preparatory 9 Social Studies (both terms)*, Term 2 — printed p. 23 |
+
+**Acceptance count: taught in 6 countries (Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt).**
 
 Venezuela's own way (Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish): G6 names the system outright — capitalism, dependent capitalism and the informal economy are defined in the pupil's own book, and development is redefined as gains in people's standard of living with the least environmental damage. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
@@ -53,4 +59,6 @@ Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course tha
 
 Jordan's own way (Jordan Grade 4 Term 1): The economy is met as the country's working sectors — farming first (with Jordan's own crops and its export surplus), then industry split into extractive and manufacturing, then the energy Jordan must import or harvest from its sun and wind.
 
-Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan, venezuela, jordan
+Egypt's own way (Grade 9 combined edition, egypt-placements-b.md): the world economy is taught as resources and activities continent by continent, then as country models — India, Brazil and Nigeria against Germany and the USA — before the book returns to Egypt's own modern history.
+
+Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan, venezuela, jordan, egypt

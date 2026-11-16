@@ -1,6 +1,6 @@
 # Sources — Industries That Run On Minerals And Power
 
-countries: Pakistan, Kuwait
+countries: Pakistan, Kuwait, Egypt
 
 **Book 1:** *GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition; author Muhammad Ramzan Khan; ISBN no ISBN printed. Title as printed: GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 93 (read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record). Verdict: COMPLETE. Read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
@@ -16,10 +16,26 @@ countries: Pakistan, Kuwait
 | Kuwait part — Mineral resources — what a mineral is, why mineral resources differ, and the big producers (Mauritania first in iron ore, then Turkey; gold and silver shares of world output) and their industries such as cars and heavy equipment | Kuwait, *Kuwait Grade 8 Social Studies G8 T1*, Mineral resources — printed p. 70 |
 
 
-**Acceptance count: taught in 2 countries (Pakistan, Kuwait).**
+**Book 3:** *وطني حياتي — الدراسات الاجتماعية — جغرافية العالم وتاريخ مصر الحديث والمعاصر (My Homeland Is My Life — Social Studies — World Geography and the Modern and Contemporary History of Egypt)* (student book, Arabic) — Ministry of Education and Technical Education, Arab Republic of Egypt; year 2025–2026 (printed on cover); no ISBN printed. Title as printed: وطني حياتي — الدراسات الاجتماعية — جغرافية العالم وتاريخ مصر الحديث والمعاصر. Grade: Grade 9 (Third Preparatory), combined two-term edition filed under the Term 2 record (student/teacher: STUDENT). PDF pages: 186 (cover verified: Third Preparatory, “for the two terms”; byte size 28,097,411 matches the record; read in place from staging). Note: the record names this file Term 2, but the book itself is the older combined Term 1 + Term 2 edition — same grade and subject, filed as the distinct book it is. Verdict: COMPLETE (Economics parts read fully, page by page: Term 2 Unit 1 and Unit 2). Contents map: Term 1 — Geography printed pp. 2–40 (physical and population geography of the world); History printed pp. 41–88 (Egypt under Ottoman rule; Egypt and the colonial advance, national liberation). Term 2 — Economics parts printed pp. 3–47 (Unit 1 resources and economic activities in the world; Unit 2 models of developing and developed countries); History printed pp. 49–75 (July 1952 revolution and the Arab–Israeli conflict); Civics printed pp. 77–90 (political life and parties; Egypt and regional/international organisations). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/egypt-placements.md (Book 2). The same book is filed again by the links group at egypt-placements-b.md (Book 11) with its own Term-2 pagination as read; each filing's placements are stocked exactly as filed, never silently merged.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — Unit 1 Lesson 3 “Mining activity in the world” — teaches: mineral resources (iron, copper, bauxite) and the world's energy sources (coal, petroleum, natural gas, nuclear, wind) with producing-region maps and charts | Egypt, *Egypt Grade 9 Social Prp3 T2 (combined edition)*, Unit 1 Lesson 3 — printed p. 15 |
+
+**Book 4:** *الدراسات الاجتماعية — العالم العربي… وطن يجمعنا (Social Studies — The Arab World… A Homeland That Unites Us)* (student book, Arabic) — Ministry of Education and Technical Education, Arab Republic of Egypt; year 2025/2026 (printed on cover); no ISBN printed (this copy is a CamScanner scan). Title as printed: الدراسات الاجتماعية — العالم العربي… وطن يجمعنا. Grade: Grade 6 (Sixth Primary), Term 1 (student/teacher: STUDENT). PDF pages: 113 (cover verified against the record title; grabbed via the TSV record's release asset — byte size 272,886,262 matches the books.json record exactly; the duplicate books.json tree record is the same book, its file being absent from the repo tree — the release copy is the secured one). Verdict: COMPLETE (the Economics unit — Unit 3 — read fully, page by page; the unit assessment and general revision at printed pp. 106–112 are assessment items, named here and not placed, per the standing exclusion). Contents map: Geography printed pp. 8–36 (Unit 1: our Arab homeland — location, terrain, climate and vegetation, environmental challenges); History printed pp. 42–70 (Unit 2: the Islamic state from its emergence to a world state); Economics parts printed pp. 76–105 (Unit 3: our Arab homeland and economic development). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/egypt-placements.md (Book 9).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — Unit 3 Lesson 3, first part “Minerals in our Arab homeland” — teaches: iron, copper, gold, manganese, phosphate and sulphur — the first producing Arab country for each and what each is used for in industry, on a minerals map of the Arab world | Egypt, *Egypt Grade 6 Social Prim6 T1*, Unit 3 Lesson 3, first part — printed p. 93 |
+
+**Acceptance count: taught in 3 countries (Pakistan, Kuwait, Egypt).**
 
 Kuwait's own way (Kuwait Grade 8 Term 1): Grade 8 teaches economics twice over — as the economic life of the historical Islamic civilisation (irrigation, industries, trade centres, the market inspector), then as the modern Islamic world's resource base under the heading of how the natural environment shapes economy and society.
 
 Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.
 
-Searchable tags: industries that run on minerals and power, Pakistan, social studies, people-and-resources
+Egypt's own way (Grade 9 combined edition, egypt-placements.md): Economics is taught as world economic geography — each activity (farming, grazing, mining, industry) is mapped worldwide with production bar charts, and every foreign country model ends with a section on that country's economic relations with Egypt.
+
+Egypt's own way (Grade 6 Term 1): the Arab world's economy is taught resource by resource — what the land needs, what each country leads in, what problems hold it back, and what Arab states (Egypt's Future of Egypt and Toshka projects among them) are doing about it.
+
+Searchable tags: industries that run on minerals and power, Pakistan, social studies, people-and-resources, egypt
