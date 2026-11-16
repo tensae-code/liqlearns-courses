@@ -1,6 +1,6 @@
 # Sources — Emblems and Posters That Speak
 
-countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Papua New Guinea, Morocco, Jordan
+countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Papua New Guinea, Morocco, Jordan, Sri Lanka
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -69,7 +69,7 @@ countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan,
 | Morocco — "Green Morocco" (المغرب الأخضر), making images that speak — drawing an advertising slogan for Moroccan citrus and creating a communicative image urging people to protect the environment — images designed to carry a message (teacher guide — evidence; original target `visual-art/emblems-and-posters-that-speak`) | Book 17, printed p. 86 |
 | Morocco — "Our Traditional Industry" (صناعتنا التقليدية) — enriching an image by collage and composition (الإلصاق والتركيب) with pictures, drawings, slogans, numbers and icons gathered from the internet, image libraries and software; groups make a digital poster (slogan, date, place, product photos scanned, downloaded or photographed) for an exhibition of the region's farm and craft products (teacher guide — evidence; original target `visual-art/emblems-and-posters-that-speak`) | Book 17, printed p. 88 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The famous emblems named (Coca-Cola, Nike, Apple, Pepsi, Walta Television) are named as the Grade 5 book names them, as examples of the three kinds — no mark is reproduced in the lesson's drawn picture, which is an invented teaching emblem, not a copy of any real one. The Grade 5 teacher-guide signs-and-posters part rests on that guide's closing syllabus tables and is labelled at that evidence level in the table.
 
@@ -81,3 +81,13 @@ Searchable tags: emblem, አርማ, poster, signs, design, advertising, health p
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Visual Lesson 3 "Logo Design" — a logo as the symbol that carries an identity and is remembered at a glance (the Hashemite Kingdom and Arab Army emblems pictured); the marks of a successful logo — simple, fitting, unique — and the three kinds: wordmark, pictorial and combination logos, with Jordanian ministry and corporation logos as the examples (teacher guide — evidence; original target `visual-art/emblems-and-posters-that-speak`) | Book 18, printed p. 22 |
+
+**Book 19:** *Grade 9 Art Teacher Guide — චිත්‍ර කලාව (Sinhala medium) / சித்திரக் கலை (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first printing 2017, for the 2018 syllabus; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 108 (front matter i–xxii + printed pp. 1–86); Tamil 128. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies, activities and annexes — placements filed once for both editions). Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 4.1.1 "Let's create a poster for 'Wana Samana Sumanthi' (a theme)" — poster design that speaks at a distance — a theme poster planned for a real school event (24-hour event named in the guide), its main element, lettering and colour chosen for the message (teacher guide — evidence; original target `visual-art/emblems-and-posters-that-speak`) | Book 19, printed p. 20 |

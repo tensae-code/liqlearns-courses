@@ -1,6 +1,6 @@
 # Sources — The Orchestra and Its Instruments
 
-countries: Malta
+countries: Malta, Sri Lanka
 
 **Book 1:** *Music Shines I — Unit 8 Instruments of the Orchestra (Chapter 7)* (teacher guide pages + pupil activities, English) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 1 per record; the PDF carries the Year 1, Year 2 and Year 3 levels (printed pp. 116–122), 7 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 8. Cover/title page verified against the record title — first page is the Unit 8 divider, printed p. 116. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -16,8 +16,18 @@ countries: Malta
 | Malta — §8.5 (Year 5) Britten, "The Young Person's Guide to the Orchestra": the orchestra's seating plan and sections — twenty-six named instruments placed in their family sections on a diagram and coloured by family, then each section known by its marks (cup mouthpieces and bells for brass, reeds for woodwind, four strings — forty-seven on the harp — the largest section for strings, hit/shaken/scraped for percussion) (teacher guide — evidence; original target `music/instruments-of-the-orchestra`) | Book 2, printed pp. 149–151 |
 | Malta — §8.6 (Year 6) Characteristics of instruments: telling near-identical instruments apart — the string family's pitch order (violin highest, double bass deepest) and how the harp differs; woodwind reeds (double reed oboe/bassoon, single reed clarinet, none for flute/piccolo, the piccolo as the flute's 'little brother'); brass (the trombone's slide against valves, the tuba's deepest voice) (teacher guide — evidence; original target `music/instruments-of-the-orchestra`) | Book 2, printed pp. 152–154 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Malta teacher guide evidence only, named here, counted nowhere.**
+**Acceptance count: taught in 0 countries — this lesson stands on Malta teacher guide evidence only, named here, counted nowhere.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/the-orchestra-and-its-instruments`). The Malta placements were filed as NEW LESSON NEEDED under the original string(s) `music/instruments-of-the-orchestra`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Malta's own way: orchestral instruments are learned ears-first — every instrument is met with its recorded sound, recognised by timbre, and only then sorted into its family; the orchestra is then learned through story (Grieg) and seating plan (Britten). Songs and stories are placed by summary only, never transcribed.
 
 Searchable tags: orchestra, instruments of the orchestra, families, strings woodwind brass percussion, Grieg, Britten, Malta, Music Shines
+
+**Book 3:** *Western Music — Teachers' Guide, Grade 9 (Implemented from 2018)* (teacher guide, English) — Sri Lanka, Department of Aesthetic Education, National Institute of Education, Maharagama, Sri Lanka; first print 2017; ISBN line printed blank. Grade: 9 (student/teacher: TEACHER). PDF pages: 100. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 5.1.1: the woodwind instruments of the orchestra — the woodwind family defined and described — structure, sound production and tone of each woodwind instrument (joins Malta Books 4 and 10's orchestra placements) (teacher guide — evidence; original target `music/instruments-of-the-orchestra`) | Book 3, printed p. 34 |

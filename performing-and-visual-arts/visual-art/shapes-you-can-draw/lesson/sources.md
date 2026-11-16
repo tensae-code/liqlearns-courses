@@ -1,7 +1,7 @@
 # Sources — Shapes You Can Draw
 
 
-countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan
+countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -63,7 +63,7 @@ countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Bel
 | Morocco — "The Girl Friends" (الصديقات) — observing a painting, counting its faces and shapes, then creating an artwork built from geometric shapes with overlapping and contrast (teacher guide — evidence; original target `visual-art/shapes-you-can-draw`) | Book 13, printed p. 44 |
 | Morocco — "Faces" (وجوه) — shaping with geometric shapes and sizes — regularity and irregularity, juxtaposition and contrast — colouring faces built from circles, half-circles and rectangles, then drawing a face from a model's stages or from imagination (teacher guide — evidence; original target `visual-art/shapes-you-can-draw`) | Book 13, printed p. 103 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus, Jordan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus, Jordan, Sri Lanka).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 3 forms placement (printed pp. 30–31) also carries a paper-collage picture (Drawing 17, flowers made by cutting and pasting papers); collage-making belongs to the Making cluster of this course, so only the forms content of those pages is stocked here and the collage is not taught in this lesson. Grade 2's house placement spans printed pp. 36–38 and the car placement is on printed p. 38, exactly as placed.
 
@@ -93,3 +93,13 @@ Searchable tags: shapes, oval ዝርግ ቅርፅ open shape, regular shapes, ge
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 1 Lesson 2 "Similar Shapes and Non-Similar Shapes" — shapes around us are similar — matching around the axis of similarity (the symmetry line), which may run horizontally or vertically — or non-similar; sorting a leaf, a tree landscape and a mosque front as similar or not, drawing the other half of given shapes so they become similar, and the Appendix 1 cut-out fruit halves pasted into whole symmetrical fruits (printed p. 82) (student book; original target `visual-art/symmetry-and-the-symmetry-line`) | Book 17, printed p. 12 |
+
+**Book 18:** *Grade 11 Art and Craft pupil textbook, Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 11 (student/teacher: STUDENT). PDF pages: 221 (printed pages run 1–221). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Section 1.2.2 "Let's make a ball using regular pentagon shapes" — geometry you can sew — pentagons and hexagons constructed in circles, cut in cloth with seam allowances, and stitched edge to edge (A–G joins marked) into a ball, footballs and lanterns pictured (student book; original target `visual-art/making-a-ball-from-pentagon-shapes`) | Book 18, printed pp. 13–16 |

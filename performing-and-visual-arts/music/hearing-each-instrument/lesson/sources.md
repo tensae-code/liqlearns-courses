@@ -1,6 +1,6 @@
 # Sources — Hearing Each Instrument
 
-countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singapore, Trinidad and Tobago, Iceland, Malta, Fiji, Colombia, Belarus, Morocco, Bulgaria
+countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singapore, Trinidad and Tobago, Iceland, Malta, Fiji, Colombia, Belarus, Morocco, Bulgaria, Sri Lanka
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -68,7 +68,7 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singa
 |---|---|
 | Morocco — "I Distinguish String Instruments by Sound" (أميز أصوات آلات وترية) — knowing string instruments by ear — raising the right hand for a string sound (violin, qanun, banjo, watar, rabab, oud) and the left for a non-string sound (darbuka, tabl), then writing the name of each string instrument heard (oud, violin, rabab, qanun, ginbri, guitar) (teacher guide — evidence; original target `music/hearing-each-instrument`) | Book 16, printed p. 141 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, United Kingdom, Honduras, Colombia, Belarus, Bulgaria).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, United Kingdom, Honduras, Colombia, Belarus, Bulgaria).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The song is placed by name, purpose and teaching content only — its words are never transcribed; only the sound-words are the teaching content, as the placements state. A coffee-ceremony painting printed with the Grade 1 chapter's singing work belongs to the course's appreciation material and is not stocked as a part of this lesson.
 
@@ -93,3 +93,23 @@ Searchable tags: hearing instruments by sound, We Too Have Music, እኛም አ�
 | Bulgaria — Topic 27: Музикални инструменти (musical instruments gathered) (student book) | Book 19, printed p. 40 |
 | Bulgaria — Topics 14–16: Орган (organ), Акордеон (accordion), Кларинет (clarinet) (student book) | Book 20, printed pp. 22–24 |
 | Bulgaria — Topic 18: Духови инструменти (wind instruments as a family) (student book) | Book 20, printed p. 26 |
+
+**Book 21:** *Grade 9 Oriental Music Teacher Guide Collection — පෙරදිග සංගීතය (Sinhala medium)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2009, in force from 2010; no ISBN printed. Grade: 9 (student/teacher: TEACHER). PDF pages: 165. Verdict: COMPLETE. The closing school-based assessment rubrics are assessment apparatus, named in the placements and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 22:** *Grade 9 Oriental Music Teacher Guide — පෙරදිග සංගීතය (Sinhala medium)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2018; ISBN line printed blank on the imprint page read. Grade: 9 (student/teacher: TEACHER). PDF pages: 145. Verdict: COMPLETE — a restructured curriculum (96 periods), not a reprint of the 2010 guide. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 2.2.1 "Let's classify musical instruments" — the instrument families sorted by how they sound — the Hindustani classification (string, wind, skin and solid instruments) worked through worksheets and a pictured instrument wheel, each instrument known by family and by ear (teacher guide — evidence; original target `music/hearing-each-instrument`) | Book 21, printed pp. 53–56 |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 2.3: identifying the percussion instruments — knowing the drum family by sight, sound and safe handling — the instruments of the oriental ensemble identified and cared for (teacher guide — evidence; original target `music/hearing-each-instrument`) | Book 22, syllabus p. xviii |

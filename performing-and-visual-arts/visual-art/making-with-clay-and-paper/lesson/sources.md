@@ -1,6 +1,6 @@
 # Sources — Making with Clay and Paper
 
-countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, Singapore, Bhutan, Finland, Turkmenistan, Sudan, Belarus, Iran, Papua New Guinea, Jordan
+countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, Singapore, Bhutan, Finland, Turkmenistan, Sudan, Belarus, Iran, Papua New Guinea, Jordan, Sri Lanka
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -101,7 +101,7 @@ countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, S
 | Papua New Guinea — Unit 2 Crafts, Topic Weaving and Modelling (Lessons 12–15) — creating simple models and artifacts using coconut leaves by traditional methods, making pottery from clay (clay choice influenced by purpose: art for sale, national identity, culture, tourism, gifts), constructing a model of an image, weaving with paper, and threading beads, seeds and shells into a necklace (teacher guide — evidence) | Book 23, printed pp. 19, 36 |
 | Papua New Guinea — Unit 2 Crafts, Topic Arts and Crafts (Lessons 27–32) — facts of clay and its processes of pottery work, exploring pottery with clay, making pottery craft with patterns and designs; local fibre and fabric products, the features of fibres in fabrics, and making fibre and fabric products from local or artificial fibres (teacher guide — evidence) | Book 24, printed pp. 15, 55–56 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Maldives, Uganda, Honduras, Romania, Bhutan, Turkmenistan, Sudan, Belarus, Iran).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Finland is added as teacher project material — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, Maldives, Uganda, Honduras, Romania, Bhutan, Turkmenistan, Sudan, Belarus, Iran, Sri Lanka).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Finland is added as teacher project material — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: Book 5 (the Grade 2 teacher guide) is a scan with no usable text layer; its part is cited at section level only, exactly as its placements give it, and is labelled teacher-guide evidence. The Grade 5 modelling pages also teach the relief / in-the-round distinction; that distinction is taught in full in the Sculpture and Historic Places lesson, and here it appears only inside the clay-figure method. The Grade 3 New Year page (p. 56) pairs the card with collecting New Year songs; only the card — the visual-art part — is stocked here, as the structure map directs.
 
@@ -113,3 +113,13 @@ Searchable tags: Maldives, Exploring Creative Arts 4, clay modelling, modelling,
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Visual Lesson 7 "An Artist from My Country", Activity 2 — making a clay plate in Mahmoud Taha's manner, pictured step by step — roll coloured clay or paste into coils about 20 cm long, coil them in a spiral on the upturned plate, add wavy and zigzag coils and fill the gaps with spirals, then let the piece dry and turn it out (teacher guide — evidence; original target `visual-art/making-with-clay-and-paper`) | Book 25, printed p. 53 |
+
+**Book 26:** *Grade 10 Art and Craft pupil textbook (மாணவர் பாட நூல்), Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 10 (student/teacher: STUDENT). PDF pages: 223 (printed pages run 1–223). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Section 5.3, slab work — building with clay sheets — slabs rolled even (slab roller), cut by cardboard templates, scored and joined, then surface decoration: relief carving in its depths and terracotta finishing (student book; original target `visual-art/slab-building-and-clay-decoration`) | Book 26, printed pp. 149–152 |

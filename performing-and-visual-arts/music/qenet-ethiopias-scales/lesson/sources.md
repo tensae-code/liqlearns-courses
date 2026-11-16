@@ -1,6 +1,6 @@
 # Sources — Qenet: Ethiopia's Scales
 
-countries: Ethiopia, Trinidad and Tobago
+countries: Ethiopia, Trinidad and Tobago, Sri Lanka
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -39,8 +39,18 @@ countries: Ethiopia, Trinidad and Tobago
 
 | Trinidad and Tobago — Contemporary educators' methods (Forms 1–3) — the Kodály method's solfège hand signs, stick notation and rhythm solmisation named among the methods the curriculum is built on (placed here as the course's hand-sign/solfège lesson; the method itself is Hungarian, evidence noted) (teacher guide — evidence) | Book 5, printed p. 6 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Ethiopia).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Anchihoye practice songs named in the Grade 8 guide's answer key are placed by title and purpose only — no song is transcribed. The Grade 8 student book's four-qenet-from-intervals work is taught at the level its placement gives (the qenet rebuilt from interval theory) without inventing interval tables the placement does not print. Teacher-guide parts are labelled evidence; the qenet constructions themselves stand on the Grade 7 student book.
 
 Searchable tags: qenet, ቅኝት, Tizta, Bati, Anchi Hoye, Ambassel, pentatonic, solfeggio, Kodály, hand signs, sight reading, dictation, 6/8, tizita, bati
+
+**Book 6:** *Western Music — Teachers' Guide, Grade 9 (Implemented from 2018)* (teacher guide, English) — Sri Lanka, Department of Aesthetic Education, National Institute of Education, Maharagama, Sri Lanka; first print 2017; ISBN line printed blank. Grade: 9 (student/teacher: TEACHER). PDF pages: 100. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 8.1 "Sight sings from a score / Sings scales" — the singer's reading skill — an unseen score sung at sight with correct technique, and scales sung clean (teacher guide — evidence; original target `music/sight-singing-and-singing-scales`) | Book 6, printed p. 78 |

@@ -1,6 +1,6 @@
 # Sources — The Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Jordan
+countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -73,7 +73,7 @@ countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papu
 |---|---|
 | Morocco — Appendix: "The Stage" (خشبة المسرح) — the kinds of stage — the open stage (nothing separates actors from audience), the flexible stage (places of performance and audience can change), the circular stage (audience on all four sides, a low stage, actors entering through the audience) and the frontal stage (the commonest — audience in front, the play seen from the front only); and the division of the stage into named zones — nine zones the most used (some divide it into 16 or 32), with the nine-zone plan (teacher guide — evidence; original target `drama-and-dance/kinds-of-stage`) | Book 17, printed p. 137 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Honduras, Iran, Brazil, Jordan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Honduras, Iran, Brazil, Jordan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book's plot example is taught as the book gives it — a soldier wounded by enemy fire, his wife dying of grief, the story told by flashback — summarised, never reprinted. The teacher-guide parts (shot sizes move to the Video lesson; the Grade 6 guide's theatre-elements and genres part) are evidence and are labelled so.
 
@@ -85,3 +85,13 @@ Searchable tags: theatre elements, setting, መቼት, character, plot, ሴራ, 
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 3 Lesson 2 "The Components of Theatre" — theatre's main components are the stage, the actors and the audience; a play is presented by actors before an audience on a stage, in a hall or in a public square, and actors can present many professions (student book; original target `drama-and-dance/the-elements-of-theatre`) | Book 18, printed p. 58 |
+
+**Book 19:** *Grade 9 Drama and Theatre Teacher Guide — නාට්‍ය හා රංග කලාව (Sinhala medium) / நாடகமும் அரங்கியலும் (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2018; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 119; Tamil 142. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies and activities — placements filed once for both editions). Play-script excerpts printed in the guide as teaching material are summarised by purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 1.2 "Let's identify the physical aspects of drama" — the actor's physical instrument — how the body carries a play, studied in group work before any script is touched (teacher guide — evidence; original target `drama-and-dance/the-elements-of-theatre`) | Book 19, printed pp. 3–4 |

@@ -1,6 +1,6 @@
 # Sources — Sculpture and Historic Places
 
-countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria
+countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria, Sri Lanka
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -92,7 +92,7 @@ countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Paki
 
 | Brazil — Folha 15 — Paraná's sculptors: João Turin's animalist works, Zaco Paraná's O Semeador, Erbo Stenzel's Praça 19 de Dezembro monuments (student book; original target `visual-art/sculpture-and-historic-places`) | Book 20, printed p. 240 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Maldives, Romania, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, Maldives, Romania, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria, Sri Lanka).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
 
 Honesty notes: Sub lessons 5 and 6 rest on teacher-guide evidence and are labelled so in the lesson text and in this table; the lesson as a whole rests on student books (Books 1–6), so the acceptance count stands at 1 country. Book 7 (the Grade 8 teacher guide) is a truncated copy — body printed pp. 1–56 plus syllabus tables — and both of its parts used here (pp. 33–39 and pp. 53–56) sit inside the surviving body. Books 8 and 9 are teacher guides for grades with no student books in this set; their parts are evidence only. The Grade 7 student book's carving deep-dive is stocked here only as the fourth technique named inside the four-techniques part, exactly as its placement frames it against the other three.
 
@@ -104,3 +104,25 @@ Searchable tags: Maldives, Exploring Creative Arts 4, sculpture, ኪነ ቅር�
 |---|---|
 | Bulgaria — Модерно изкуство, §§2–3 Kinetic and Modern Sculpture — kinetic sculpture that actually moves: Alexander Calder's mobiles, Jean Tinguely's machines and Theo Jansen's wind-walking Strandbeesten; and modern sculpture: Lynn Chadwick's figures, Man Ray's surrealist "Gift" (1921) and Henry Moore's Re… (student book) | Book 21, printed pp. 15–16 |
 | Bulgaria — Скулптура (Sculpture) — sculpture works in volumetric three-dimensional forms, in clay, gypsum, stone, wood, bone, metal and plasticine; a work is preceded by sketches (ескизи) and studies (етюди) from nature, then a model in soft material, then the chosen materia… (student book) | Book 21, printed pp. 37–38 |
+
+**Book 22:** *Grade 10 Art and Craft pupil textbook (மாணவர் பாட நூல்), Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 10 (student/teacher: STUDENT). PDF pages: 223 (printed pages run 1–223). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
+
+**Book 23:** *Grade 11 Art and Craft pupil textbook, Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 11 (student/teacher: STUDENT). PDF pages: 221 (printed pages run 1–221). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Chapter 9 "Garden decoration" — sculpture for outdoors — the three relief depths (full, half and low relief), the garden-design principles (site, proportion, balance, attraction), and the sculptor's materials: stone, metal, wood and fired clay (student book; original target `visual-art/garden-sculpture`) | Book 22, printed pp. 209–212 |
+
+| Sri Lanka — Section 9.3 and closing pages — a garden statue made — clay prepared and modelled (the bust in progress pictured), plaster moulds cast and opened at 20 minutes, the cast dried, painted and varnished to survive the weather (student book; original target `visual-art/casting-and-modelling-garden-statues`) | Book 22, printed pp. 221–223 |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Section 8.3 "Let's build a statue using plaster of Paris" — plaster as a sculptor's material — its quick setting used for garden statues, the mix (1 kg plaster to 300 g… water measured in the book) and salt added (10 g per kg) to slow the set (student book; original target `visual-art/plaster-of-paris-sculpture`) | Book 23, printed pp. 220–221 |

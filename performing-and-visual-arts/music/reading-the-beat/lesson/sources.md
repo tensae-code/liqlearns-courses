@@ -1,6 +1,6 @@
 # Sources — Reading the Beat
 
-countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Colombia, Belarus, Iran, Morocco, Bulgaria, Jordan
+countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Colombia, Belarus, Iran, Morocco, Bulgaria, Jordan, Sri Lanka
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -98,7 +98,7 @@ countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua, Singapore, Trinidad and 
 | Morocco — "I Read a Musical Score" (أقرأ مدونة موسيقية) — sight-reading a whole simple score built from the quarter note, half note and their matching rests, to the pulse, worked through the French song "Au clair de la lune" (named; its words not transcribed) (teacher guide — evidence; original target `music/reading-the-beat`) | Book 21, printed p. 121 |
 | Morocco — "Duple Meter" (الوزن الثنائي), beating time like the conductor — the conductor (the maestro) beats duple meter with two vertical hand movements — down for the strong first beat, up for the weak second — so the musicians play in harmony and order; musical meter divides a piece into equal parts in duration (teacher guide — evidence; original target `music/reading-the-beat`) | Book 22, printed p. 90 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Turkmenistan, Colombia, Belarus, Iran, Bulgaria).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Turkmenistan, Colombia, Belarus, Iran, Bulgaria).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The off-staff melody is named by its opening letters exactly as the placement quotes them; no melody is transcribed beyond that placement-quoted fragment, and no song is transcribed.
 
@@ -125,3 +125,35 @@ Searchable tags: reading the beat, sight-reading rhythm, beat movement-act with 
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Music Lesson 8 "Exercises in Music Reading" — the unit's applied reading practice — singing a 4/4 exercise by solfege with hand conducting while observing the expression marks (p, f, mp, pp, ff) and their gradations, then reading a rhythmic exercise in 9/8 built from quavers, crotchets, dotted crotchets and rests (teacher guide — evidence; original target `music/reading-the-beat`) | Book 26, printed p. 84 |
+
+**Book 27:** *Grade 9 Oriental Music Teacher Guide Collection — පෙරදිග සංගීතය (Sinhala medium)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2009, in force from 2010; no ISBN printed. Grade: 9 (student/teacher: TEACHER). PDF pages: 165. Verdict: COMPLETE. The closing school-based assessment rubrics are assessment apparatus, named in the placements and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 28:** *Grade 9 Oriental Music Teacher Guide — පෙරදිග සංගීතය (Sinhala medium)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2018; ISBN line printed blank on the imprint page read. Grade: 9 (student/teacher: TEACHER). PDF pages: 145. Verdict: COMPLETE — a restructured curriculum (96 periods), not a reprint of the 2010 guide. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 29:** *Western Music — Teachers' Guide, Grade 9 (Implemented from 2018)* (teacher guide, English) — Sri Lanka, Department of Aesthetic Education, National Institute of Education, Maharagama, Sri Lanka; first print 2017; ISBN line printed blank. Grade: 9 (student/teacher: TEACHER). PDF pages: 100. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 1.2.1 "Let's identify tala patterns with mixed beats" — Hindustani tala counted and clapped — mixed-beat cycles charted beat by beat (counts running to 10 and 14), the Khali/Bhari (empty/full) beats marked, so rhythm is read with the hands (teacher guide — evidence; original target `music/reading-the-beat`) | Book 27, printed pp. 26–28 |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 1.2: mixed and foreign rhythm patterns — tala beyond the square counts — Hindustani and local tala patterns plus 5/4 and 7/4 rhythms played on Darbak, Congo Drum, Jembe, Tambourine and Cajon (instruments named in English in the syllabus) (teacher guide — evidence; original target `music/reading-the-beat`) | Book 28, syllabus p. xvii |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activities 6.2.1–6.2.2: simple time signatures — all simple time signatures defined, described and felt — the beat groups read from the signature (teacher guide — evidence; original target `music/reading-the-beat`) | Book 29, printed p. 43 |
+
+| Sri Lanka — Activity 7.1.3 "Clap the rhythm reading from a score" — rhythm straight off the page — a score's rhythms clapped accurately at sight (teacher guide — evidence; original target `music/reading-the-beat`) | Book 29, printed p. 68 |

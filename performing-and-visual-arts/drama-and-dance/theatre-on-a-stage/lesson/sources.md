@@ -1,6 +1,6 @@
 # Sources — Theatre on a Stage
 
-countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan
+countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -30,7 +30,7 @@ countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan
 
 | Brazil — Folha 18 — theatre spaces through history: Greek hillside theatres, Rome's first curtains, medieval simultaneous staging on market squares, the Elizabethan round house, the Italian stage (student book; original target `drama-and-dance/theatre-on-a-stage`) | Book 10, printed p. 294 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Honduras, Brazil, Jordan). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Honduras, Brazil, Jordan). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 row is the series' own deepening of the same stage idea (its elements list — setting, character, plot, script, theme — is named in the provenance row only; the lesson's teaching stays at the Grade 2 stage picture and the menibanib, exactly as STRUCTURE.md groups them).
 
@@ -44,3 +44,13 @@ Searchable tags: theatre on a stage, stage, audience, curtains, መነባንብ,
 | Jordan — Unit 3 Lesson 1 "The Stage" — the stage is made of the acting place, the curtains and the actors'/actresses' dressing rooms (the wings); the stage is the place set for acting, opening and closing the front curtain signals the play's beginning and end, and the dressing rooms are where the actors prepare before the play begins (student book; original target `drama-and-dance/theatre-on-a-stage`) | Book 11, printed p. 72 |
 | Jordan — Unit 3 Lesson 2 "Theatre and the Audience" — there is no theatre without an audience; the audience is a group of people who gather to enjoy watching a play — it keeps calm and sits in its places, and encourages the theatre team by clapping at the play's end; telling correct audience behaviour from incorrect (the clapping audience against the eating, chatting one) (student book; original target `drama-and-dance/the-theatre-audience`) | Book 11, printed p. 75 |
 | Jordan — Unit 3 Lesson 3 "Acting Areas on the Stage" — the acting areas are the places of the actors' standing on the stage — centre, right and left on the pictured stage grid facing the audience; the actor can move and pass between the areas, and while standing on the stage the actor must not give his back to the audience (student book; original target `drama-and-dance/theatre-on-a-stage`) | Book 11, printed p. 78 |
+
+**Book 12:** *Grade 9 Drama and Theatre Teacher Guide — නාට්‍ය හා රංග කලාව (Sinhala medium) / நாடகமும் அரங்கியலும் (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2018; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 119; Tamil 142. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies and activities — placements filed once for both editions). Play-script excerpts printed in the guide as teaching material are summarised by purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 1.3 "Let's identify the stage aspects of drama" — the two classical stage manners, Loka Dharmi (life-like) and Natya Dharmi (stylised), met through the Kanda Vala folk play (teacher guide — evidence; original target `drama-and-dance/theatre-on-a-stage`) | Book 12, printed pp. 5–6 |

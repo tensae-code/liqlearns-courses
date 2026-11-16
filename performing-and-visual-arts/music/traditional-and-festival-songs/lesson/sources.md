@@ -1,6 +1,6 @@
 # Sources — Traditional and Festival Songs
 
-countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan
+countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Sri Lanka
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -65,7 +65,7 @@ countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia
 | Belarus — Part 4, "The Kupala wreath": the midsummer festival songs "Kupalinka", "Oi, rana na Ivana" and "Sionnia Kupala, a zaustra Yan" (student book; original target `music/traditional-and-festival-songs`) | Book 16, printed pp. 131–134 |
 | Belarus — Part 3, "Returning home": calling the spring — the folk song "Zhavoronochki, pryliatsitse" (Larks, fly to us) and "My idziom hukats viasnu" (We are going to call the spring, words Tsitavets, music Siarykh) (student book; original target `music/traditional-and-festival-songs`) | Book 16, printed pp. 100–105 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Traditional songs are placed by name, season and purpose only; their lyrics are never transcribed in this lesson — the books themselves print several of them as repertoire, and the lesson follows the placements in naming and summarising rather than copying. The Genna game song "አሲና በል" (Asina Bel, Grade 3 student textbook, printed p. 54) is named in the placements as its own target and belongs with the Genna game in the Culture and Values festival lesson, not here; it is not stocked in this lesson.
 
@@ -87,3 +87,37 @@ Searchable tags: traditional songs, festival songs, Abebayehush, Adey, Hoya Hoye
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 2 Lesson 9 (chant part) — the Eid chant "Ya Eid, Ahlan Ahlan wa Sahlan" — a welcome chant for the Eid festival, greeting the month of goodness whose crescent has appeared, sung with its recording (student book; original target `music/eid-festival-chant`) | Book 19, printed p. 51 |
+
+**Book 20:** *Grade 9 Oriental Music Teacher Guide Collection — පෙරදිග සංගීතය (Sinhala medium)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2009, in force from 2010; no ISBN printed. Grade: 9 (student/teacher: TEACHER). PDF pages: 165. Verdict: COMPLETE. The closing school-based assessment rubrics are assessment apparatus, named in the placements and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 21:** *Grade 9 Oriental Music Teacher Guide — පෙරදිග සංගීතය (Sinhala medium)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2018; ISBN line printed blank on the imprint page read. Grade: 9 (student/teacher: TEACHER). PDF pages: 145. Verdict: COMPLETE — a restructured curriculum (96 periods), not a reprint of the 2010 guide. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 22:** *Western Music — Teachers' Guide, Grade 9 (Implemented from 2018)* (teacher guide, English) — Sri Lanka, Department of Aesthetic Education, National Institute of Education, Maharagama, Sri Lanka; first print 2017; ISBN line printed blank. Grade: 9 (student/teacher: TEACHER). PDF pages: 100. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 3.1.1 "Let's sing simple songs made from folk-song tunes (Jana Gee)" — Sri Lanka's folk songs sung properly — the Jana Gee tradition introduced through the song 'Adaraye Ullpathu Amma' (summarised, not transcribed): how a folk tune carries a new simple song (teacher guide — evidence; original target `music/traditional-and-festival-songs`) | Book 20, printed pp. 57–59 |
+
+| Sri Lanka — Activity 3.3.2 "Let's sing Deshabhimani Gee (patriotic songs)" — the patriotic songbook — Sri Lanka's Deshabhimani songs sung with their makers named (Ananda Samarakoon and the national song-writers in the guide's list), country carried in song (teacher guide — evidence; original target `music/traditional-and-festival-songs`) | Book 20, printed pp. 69–70 |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 3.1: Jana Gee folk songs — the folk-song singing carried into the 2018 syllabus — simple songs built on Jana Gee tunes (the folk source named with its song) sung by the class (teacher guide — evidence; original target `music/traditional-and-festival-songs`) | Book 21, syllabus p. xviii |
+
+| Sri Lanka — Competencies 5.2–5.3: Meri Yuwan Gee and Kandyan (group) songs — singing together as a band — the Meri Yuwan songs and Sri Lanka's Kandyan Gee (group songs) sung and appreciated as communal music (teacher guide — evidence; original target `music/traditional-and-festival-songs`) | Book 21, syllabus p. xix |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 2.2.1 "Sings Folk Songs" — Sri Lanka's folk songs inside the Western classroom — what folk songs are, how they are categorised, and singing them with respect for the heritage they carry (teacher guide — evidence; original target `music/traditional-and-festival-songs`) | Book 22, printed p. 6 |

@@ -1,6 +1,6 @@
 # Sources — Technical and Performance Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil, Jordan
+countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil, Jordan, Sri Lanka
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -49,7 +49,7 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Fin
 
 | Brazil — Folha 11 — the actor's instruments: gestural and facial expression and mime; vocal expression, diction and voice care; dramatic action and conflict; improvisation, with Boal's image games (Completando a imagem) (student book; original target `drama-and-dance/the-actors-body-voice-and-improvisation`) | Book 12, printed p. 178 |
 
-**Acceptance count: taught in 8 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil, Jordan).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows.
+**Acceptance count: taught in 8 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil, Jordan).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 10–11) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 
@@ -82,3 +82,13 @@ Searchable tags: technical elements, performance elements, scenery, props, proje
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Theatre Lesson 5 "Theatrical Scenography" — scenography, from the Greek skini (scene) and grafo (drawing) — designing the stage scene as one coordinated whole of seven elements: the actor as prime mover, decor, lighting, costumes, makeup, visual and sound effects such as wind, rain and thunder, and the props actors handle; pupils design scenography for a scene and build a model scene in a cardboard box (teacher guide — evidence; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 16, printed p. 110 |
+
+**Book 17:** *Grade 9 Drama and Theatre Teacher Guide — නාට්‍ය හා රංග කලාව (Sinhala medium) / நாடகமும் அரங்கியலும் (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2018; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 119; Tamil 142. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies and activities — placements filed once for both editions). Play-script excerpts printed in the guide as teaching material are summarised by purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 2.5 "Let's plan the physical aspects of a production" — production planning in six group crafts — make-up, costume design, singing/music, set design, play production and lighting — each group planning its craft for one shared play (teacher guide — evidence; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 17, printed pp. 19–22 |

@@ -1,6 +1,6 @@
 # Sources — Composition in Visual Art
 
-countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colombia, Sudan, Belarus, Iran
+countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colombia, Sudan, Belarus, Iran, Sri Lanka
 
 **Book 1:** *Performing and Visual Arts Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (first published 2022, GEQIP-E). Writers: Jinenus Wako (M.A), Tujuba Beyene (M.A). 90 PDF pages; printed pp. i–vi + 1–78. Printed page ≈ PDF page − 11 in the body. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
@@ -68,8 +68,18 @@ countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colo
 | Iran — Drawing L4, Composition: ترکیب‌بندی: arranging the parts of a drawing into a composed whole (student book) | Book 17, printed p. 16 |
 | Iran — Module 3, Analysing artworks: Space: فضا: analysing how space is used — the proportions elements take inside a defined space as visual composition in architecture and the visual arts, the two-dimensional arts (painting first) and the three-dimensional arts analysed in turn (student book) | Book 18, printed p. 52 |
 
-**Acceptance count: taught in 6 countries (Serbia, Mozambique, Colombia, Sudan, Belarus, Iran). Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Serbia, Mozambique, Colombia, Sudan, Belarus, Iran). Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 10 teacher's guide (federal Ministry of Education, 2022, GEQIP-E). Grade 10 has no student book in hand. The placements file summarises Lessons 7–9 by their three topics — the concept of composition, its importance/purposes, and composition-and-design in 2D and 3D; the lesson teaches at exactly that level and invents no composition rules, named principles or examples the placement does not give.
 
 Searchable tags: composition, composition in 2D and 3D, design, arranging, teacher guide evidence, Haiti, Colombia
+
+**Book 19:** *Grade 9 Art Teacher Guide — චිත්‍ර කලාව (Sinhala medium) / சித்திரக் கலை (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first printing 2017, for the 2018 syllabus; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 108 (front matter i–xxii + printed pp. 1–86); Tamil 128. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies, activities and annexes — placements filed once for both editions). Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 2.2.1 "Let's compose a picture with natural and created objects" — building a composed picture from natural and man-made objects, arranged with balance and relationship rather than copied singly (further compositions listed: leaves-and-flowers and mixed-object sets) (teacher guide — evidence; original target `visual-art/composition-in-visual-art`) | Book 19, printed pp. 12–13 |

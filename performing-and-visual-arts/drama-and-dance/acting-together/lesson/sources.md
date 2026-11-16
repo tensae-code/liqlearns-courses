@@ -1,6 +1,6 @@
 # Sources — Acting Together
 
-countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji, Morocco, Jordan
+countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji, Morocco, Jordan, Sri Lanka
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -54,7 +54,7 @@ countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji, Morocco, Jordan
 | Morocco — "The Forest Calls for Help" (الغابة تستنجد) — a play — in spring the Trees (willow, holm oak and cedar) dance and sing until a picnicking man lights a fire to cook and ignores their pleas (they shelter birds and animals, hold back the wind, scent the air); they call for help, the Forest Guard makes him put the fire out and fines him, and the Trees applaud justice and dance again (plot only) (teacher guide — evidence; original target `drama-and-dance/acting-together`) | Book 14, printed p. 108 |
 | Morocco — "I Am Morocco" (أنا المغرب) — a play — a visiting tourist girl with camera and map meets Morocco himself (a boy in jellaba, selham, balgha slippers and tarboush), who presents his parts one by one: the Atlas Mountains (white cap for snow, branches for forests), the Green Plains (flowers and a basket of fruit), the Sea (with his fishing rod), the Desert (a girl in Saharan melhafa), Moroccan Dress (a girl in caftan and cherbil — "my caftan crossed borders") and Moroccan Cuisine (a cook with a tagine — couscous, tagine, bastilla); all close clapping, dancing and singing "Live, My Country!" (plot only) (teacher guide — evidence; original target `drama-and-dance/acting-together`) | Book 14, printed p. 120 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Uganda, Finland, Fiji, Jordan).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 10) is evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Uganda, Finland, Fiji, Jordan).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 10) is evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Nothing flagged. The Grade 3 methods passage is stocked in its book's own order; the four methods are the placement's four, word for word in substance.
 
@@ -74,3 +74,13 @@ Searchable tags: acting together, group drama, simple drama methods, passing a m
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — the story's ending — the mess of crumpled, scattered paper the drawing made, and tidying it together — Jude gathers the paper and Walid helps her (student book; original target `culture-and-values/working-together-in-art`) | Book 16, printed p. 8 |
+
+**Book 17:** *Grade 9 Drama and Theatre Teacher Guide — නාට්‍ය හා රංග කලාව (Sinhala medium) / நாடகமும் அரங்கியலும் (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2018; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 119; Tamil 142. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies and activities — placements filed once for both editions). Play-script excerpts printed in the guide as teaching material are summarised by purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 3.9.1 "Let's perform from the village (Gamin Rangamu)" — a class building its own stage space and performance together out of song, poetry and dance drawn from village life (teacher guide — evidence; original target `drama-and-dance/acting-together`) | Book 17, printed p. 62 |

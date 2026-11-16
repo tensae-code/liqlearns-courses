@@ -1,6 +1,6 @@
 # Sources — Observing Our Surroundings
 
-countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan
+countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -39,7 +39,7 @@ countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Bel
 
 | Belarus — Part 1: The beauty of the surrounding environment — the colours of the native land in a picture gallery of the home countryside through the seasons, learning to notice the state of nature (student book; original target `first-steps/observing-our-surroundings`) | Book 10, printed pp. 6–7 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The definition of surroundings and the sound/movement distinction are the Grade 1 book's own Chapter 1 summary words (printed pp. 14–15), taught as the book states them. The teacher-guide row is evidence for the same watching skill and is labelled as such; the lesson's pupil-taught content rests on the student book.
 
@@ -51,3 +51,13 @@ Searchable tags: observing our surroundings, surroundings, watching and telling,
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 1 Lesson 10 "Nature Around Us" — nature is beautiful and must be preserved; God granted Jordan many forms of nature — mountains, plains, desert and sea — and many shapes can be drawn from the shapes in nature: matching river, sea, desert and mountain pictures to their words and drawing an island, a river and mountains (student book; original target `first-steps/observing-our-surroundings`) | Book 11, printed p. 38 |
+
+**Book 12:** *Grade 9 Art Teacher Guide — චිත්‍ර කලාව (Sinhala medium) / சித்திரக் கலை (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first printing 2017, for the 2018 syllabus; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 108 (front matter i–xxii + printed pp. 1–86); Tamil 128. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies, activities and annexes — placements filed once for both editions). Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 1.2.1 "Let's draw a scene" — composing a picture from a closely observed scene of the surroundings (the guide's set scene is a වැලි දිනය / sandy-day scene at a named place), noting place, weather, colour and light before drawing (teacher guide — evidence; original target `first-steps/observing-our-surroundings`) | Book 12, printed p. 4 |

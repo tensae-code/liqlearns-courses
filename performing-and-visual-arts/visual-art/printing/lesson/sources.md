@@ -1,6 +1,6 @@
 # Sources — Printing
 
-countries: Ethiopia, Maldives, Uganda, Barbados, Albania, Romania, Singapore, Bhutan, Trinidad and Tobago, Finland, Mozambique, Pakistan, Fiji, Suriname, Colombia, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Jordan
+countries: Ethiopia, Maldives, Uganda, Barbados, Albania, Romania, Singapore, Bhutan, Trinidad and Tobago, Finland, Mozambique, Pakistan, Fiji, Suriname, Colombia, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Jordan, Sri Lanka
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -144,7 +144,7 @@ countries: Ethiopia, Maldives, Uganda, Barbados, Albania, Romania, Singapore, Bh
 | Morocco — "Let's Preserve the Trees" (لنحافظ على الأشجار) — printing and collage with trace-leaving tools — drawing a tree trunk and making its crown by gluing buttons, bottle caps or small seashells, or by printing with cotton, sponge, potato pieces or the pupils' own palms in transparent watercolour (teacher guide — evidence; original target `visual-art/printing`) | Book 35, printed p. 94 |
 | Morocco — "The Olympic Games" (الألعاب الأولمبية), printing — printing defined (l'empreinte) — artworks made with materials from nature or from waste, using paint; collage and printing combine in one work, and pupils make an Olympic emblem by printing (teacher guide — evidence; original target `visual-art/printing`) | Book 36, printed p. 74 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Maldives, Uganda, Romania, Bhutan, Mozambique, Pakistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria, Jordan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher-training report — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 16 countries (Ethiopia, Maldives, Uganda, Romania, Bhutan, Mozambique, Pakistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria, Jordan, Sri Lanka). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher-training report — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: Books 10 and 11 are teacher guides; the Grade 7 guide is a truncated copy (body printed pp. 1–109 only) and the Grade 8 guide is truncated (body printed pp. 1–56 plus syllabus) — the printmaking parts used here sit inside the surviving body pages of both, and are labelled teacher-guide evidence. The Grade 6 book captions its stencil figure (Fig. 33, printed p. 53) "relief-cut printing works" while its own labels describe a stencil and its print; the lesson follows the content of the section, as the placements record it. The Grade 7 student book numbers its printing block §2.1.2 a second time (the paint kinds carry the same number) — placements follow the content, not the numbers, and so does this lesson. Batik and silk-screen keep their own book-given names and steps; nothing about them is borrowed from outside the placements.
 
@@ -162,3 +162,23 @@ Searchable tags: Maldives, Exploring Creative Arts 4, printing, direct printing,
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 1 Lesson 9 "Printing" — printing is an artistic technique based on producing coloured drawings by different methods, using varied materials and tools — tree leaves, cotton sticks, pieces of vegetables and fruits — dipped in the colours and then printed on the paper to produce an artwork; making a tree-leaf print panel with watercolours and a brush, keeping clothes clean when using watercolours, and which is faster for getting more panels, printing or drawing (student book; original target `visual-art/printmaking`) | Book 38, printed p. 28 |
+
+**Book 39:** *Grade 10 Art and Craft pupil textbook (மாணவர் பாட நூல்), Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 10 (student/teacher: STUDENT). PDF pages: 223 (printed pages run 1–223). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
+
+**Book 40:** *Grade 11 Art and Craft pupil textbook, Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 11 (student/teacher: STUDENT). PDF pages: 221 (printed pages run 1–221). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Section 3.3 "Let's decorate using one block" — printing by hand — one motif repeated in colours and arrangements, natural printing from leaves and cut vegetables (okra prints pictured), choosing and carving a block, and making the stamp pad (student book; original target `visual-art/block-printing-on-fabric`) | Book 39, printed pp. 77–80 |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Section 2.2, screen-frame printing — stencil screen printing whole — the frame prepared, the design transferred, binder paste spread with the squeegee, one screen per colour for multi-colour work, the print fixed by ironing the back (student book; original target `visual-art/screen-printing-on-fabric`) | Book 40, printed pp. 37–38 |

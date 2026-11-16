@@ -1,6 +1,6 @@
 # Sources — Playing the Recorder
 
-countries: Haiti
+countries: Haiti, Sri Lanka
 
 **Book 1:** *Musique — EEA (Éducation esthétique et artistique) Séquence 1 — « Introduction à la pratique de la musique » (Ipharès Blain Jr., juillet 2021)* (teacher guide, French) — Haiti, Projet Nectar, MENFP, 2021, no ISBN printed, Grade 7e année AF, French, 15 PDF pp (printed pp. 1–14). TEACHER — teacher guide. Verdict: COMPLETE (first page verified against the record — Musique EEA sequence, niveau 7e AF, durée 8 à 10 semaines). The record names this file EEA2; the document itself is titled Séquence 1 — the mismatch is in the record's short name only; the file is the 7e AF music introduction sequence the record points to. Exclusions per the placements: Séance 9 (Révision) and Séance 10 (Évaluation: Contrôle 1) are revision/assessment — named, not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -19,8 +19,18 @@ countries: Haiti
 | Haiti — Musique, Unité 3: La pratique instrumentale — instrumental practice on the programme's three instruments — recorder (flûte à bec), voice and percussion — for interpretation, improvisation, reproduction and creation, playing together in small and large groups, judged in end-of-year auditions and recitals (teacher programme — evidence; original target `music/recorder-technique`) | Book 2, PDF pp. 52–53, 61–62 |
 | Haiti — Séances 1–7, Pratique instrumentale: flûte à bec — recorder practice running through the sequence, strengthening basic technique and learning the note B-flat (Si bémol) on the recorder (teacher guide — evidence; original target `music/recorder-technique`) | Book 3, printed pp. 4–13 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.**
+**Acceptance count: taught in 0 countries — this lesson stands on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/playing-the-recorder`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
 Searchable tags: recorder, flûte à bec, fingerings, doigtés, tablature, Si bémol, Haiti
+
+**Book 4:** *Western Music — Teachers' Guide, Grade 9 (Implemented from 2018)* (teacher guide, English) — Sri Lanka, Department of Aesthetic Education, National Institute of Education, Maharagama, Sri Lanka; first print 2017; ISBN line printed blank. Grade: 9 (student/teacher: TEACHER). PDF pages: 100. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 4.1 "Performs the recorder within the prescribed range" — real recorder craft — pinched (thumb) notes, the notes Middle C, F, B-flat and higher E from the fingering chart, legato and staccato tonguing, C and D major scales and simple melodies (teacher guide — evidence; original target `music/playing-the-recorder`) | Book 4, printed pp. 22–25 |

@@ -1,6 +1,6 @@
 # Sources — Landscape Painting
 
-countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan
+countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka
 
 **Book 1:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. The repo tree path is a PHANTOM PUSH (HTTP 404); the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link, 79,070,978 bytes and 80 pages, matching the record exactly, and the copy is staged under the push-don't-delete rule. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
@@ -23,7 +23,7 @@ countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan
 | Belarus — Part 3, the ABC of art: Depicting a landscape — passing on the depth of space, the state and mood of nature, and the landscape's colour scheme (kalaryt), in paint and in graphic media, through Belarusian and Russian landscape masters (Chepik, Tsvirka, Vasiliev, Maslenikau, Nemenski, Sadzin) (student book; original target `visual-art/painting-landscapes`) | Book 4, printed pp. 37–40 |
 | Belarus — Section 7, "The landscape genre": the national schools of realistic landscape painting in the 18th–19th centuries and the emotional qualities famous landscape painters gave it; in Belarus, Vashchanka's "In Polesie" and the oil-workers of Polesie (student book; original target `visual-art/painting-landscapes`) | Book 5, printed pp. 28–31 |
 
-**Acceptance count: taught in 5 countries (Turkmenistan, Pakistan, Sudan, Belarus, Jordan).**
+**Acceptance count: taught in 5 countries (Turkmenistan, Pakistan, Sudan, Belarus, Jordan).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/landscape-painting`); the Turkmenistan placement(s) were filed as NEW LESSON NEEDED under the original string `visual-art/landscapes-and-seasons`, recorded in the provenance row(s) above and resolved to this lesson by slug-registry Part 2. This canonical lesson is built from the three Turkmenistan placements filed under the original string `visual-art/landscapes-and-seasons`, resolved here by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -35,3 +35,13 @@ Searchable tags: landscape, seasons, autumn, winter gouache, rainbow, älemgoşa
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 1 Lesson 8 "Drawing a Scene from Nature" — nature is the main source and the first inspiration for the artist in drawing his panels — the artist feels the Creator's power in nature's diverse forms and imitates them into art panels (the Irbid plains, Wadi Rum and the Koura lake pictured as Jordanian scenes); the artist's panels mostly express his environment and surroundings, so many panels around us are of natural scenes — ticking which pictured panel shows a natural scene, then drawing and colouring a natural scene I love, choosing its suitable colours (student book; original target `visual-art/landscapes`) | Book 6, printed p. 26 |
+
+**Book 7:** *Grade 9 Art Teacher Guide — චිත්‍ර කලාව (Sinhala medium) / சித்திரக் கலை (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first printing 2017, for the 2018 syllabus; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 108 (front matter i–xxii + printed pp. 1–86); Tamil 128. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies, activities and annexes — placements filed once for both editions). Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 5.2.1 "Let's go to the sea beach" — landscape painting from a real place — the seashore studied and painted as a scene composition, its natural features, light and colour observed on site (teacher guide — evidence; original target `visual-art/painting-the-seashore`) | Book 7, printed pp. 30–32 |

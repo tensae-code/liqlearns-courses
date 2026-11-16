@@ -1,6 +1,6 @@
 # Sources — Geometric and Technical Drawing
 
-countries: Mozambique, Pakistan
+countries: Mozambique, Pakistan, Sri Lanka
 
 **Book 1:** *Educação Visual — Módulo 2 (PESD I — Programa do Ensino Secundário à Distância, 1º Ciclo)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Moçambique, 2023; elaborated by Dionísio Manjate and Félix Mindú; no ISBN printed, Grades 7–9 (the PESD I cycle is taught as one combined cycle, not split by grade), 236 PDF pp. STUDENT. Verdict: COMPLETE (cover/title verified — "EDUCAÇÃO VISUAL, MÓDULO 2, PESD I"; 18,438,526 bytes, exact match to the record; fetched from GitHub Releases, mid-size-books-8). Mozambique's own way: Module 2 is a complete technical-drawing course for the lone distance learner — geometric construction, projections, axonometry, dimensioning and perspective taught as numbered step-by-step procedures, every construction tied to community carpentry, metalwork and building work. Named, not placed: the closing Bibliography (printed p. 234) — inventory only. Excluded per the placements: the end-of-module preparation test (Teste de Preparação de Fim do Módulo, printed pp. 218–225) and its answer key (printed pp. 226–233) — the book's own assessment; the lessons' exercises and answer keys are self-study apparatus. Book quirks, as filed: the printed contents contain no Lesson 31 — numbering jumps from Lesson 30 to Lesson 32 — although Lessons 32 and 33 cite a "Lesson 31" on complex plane forms in axonometry (that teaching is carried inside Lesson 30's sequence); two different lessons are both numbered 36 — one-point visual perspective (printed p. 153) and the third view of complex volumetric forms (printed p. 164); Lesson 28 is titled for plane forms but its worked example and summary treat three-dimensional forms; the basketry (cestaria) lesson announced in Module 1 appears in neither module. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mozambique-placements.md.
 
@@ -14,8 +14,32 @@ countries: Mozambique, Pakistan
 | Mozambique — Lesson 24, "Conic Curves (continued)": the parabola and the hyperbola — the parabola defined, its elements (directrix, axis, focus, parameter, vertex) and its construction by intersecting arcs from the focus onto lines parallel to the directrix, the points joined freehand (the satellite dish as its everyday form); the hyperbola defined as an open two-branch curve, its elements (axis, vertices, foci) and its construction by the same intersecting-arc method (pots and hourglasses as its everyday forms); compositions from the three conics (student book; original target `visual-art/parabola-and-hyperbola`) | Book 1, printed pp. 76–83 |
 | Pakistan — Chapter 4: Orthographic Projection — how a solid object is drawn flat: the front view, side view and top view explained with a stepped block behind a transparent plane at eye level, then the three views laid out together on one sheet (student book; original target `visual-art/orthographic-projection`) | Book 2, printed pp. 39–41 |
 
-**Acceptance count: taught in 2 countries (Mozambique, Pakistan).**
+**Acceptance count: taught in 3 countries (Mozambique, Pakistan, Sri Lanka).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/geometric-and-technical-drawing`); the Mozambique placements were filed under the original string(s) `visual-art/drawing-spirals`, `visual-art/ovulo-and-oval`, `visual-art/conic-curves-and-the-ellipse` and `visual-art/parabola-and-hyperbola`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Mozambique's own way: the curved constructions are taught as numbered step-by-step procedures for the lone distance learner, each tied to community carpentry, metalwork, textiles and ornament. In this lesson's sources, Book 1 is Mozambique's Module 2 (the module is the lesson's Book 1).
 
 Searchable tags: geometric drawing, spirals, óvulo, oval, conic curves, ellipse, parabola, hyperbola, foci method, Mozambique
+
+**Book 3:** *Grade 10 Art and Craft pupil textbook (மாணவர் பாட நூல்), Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 10 (student/teacher: STUDENT). PDF pages: 223 (printed pages run 1–223). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
+
+**Book 4:** *Grade 11 Art and Craft pupil textbook, Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 11 (student/teacher: STUDENT). PDF pages: 221 (printed pages run 1–221). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Chapter 2, drawing instruments and line types — the technical-drawing kit used properly — pencil grades 2H/HB/2B, eraser, drawing board, T-ruler and clips, then the line alphabet (thick/thin continuous, dashed, chain and freehand lines, each with its job) and dividing a straight line into equal parts (student book; original target `visual-art/geometrical-drawing-tools-and-lines`) | Book 3, printed pp. 17–20 |
+
+| Sri Lanka — Chapter 2, constructions — compass craft step by step — angle types, constructing and bisecting 60°, raising a perpendicular, and building regular polygons (pentagon, hexagon) inside a circle by two methods (student book; original target `visual-art/constructing-angles-and-polygons`) | Book 3, printed pp. 30–44 |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Section 1.1 "Let's make creations using cylinders" — surface development drawn properly — a cylinder (4 cm across, 5 cm high) unrolled into its rectangle-and-circles net by the 12-division method, then the development used to build a real object (the cylinder-bodied doll) (student book; original target `visual-art/surface-development-of-solids`) | Book 4, printed pp. 1–4 |
+
+| Sri Lanka — Section 1.3 close — the ellipse used as a design shape — an oval wall hanging cut in foam sheet, its flower drawn, embossed with a pencil and cut with a penknife, backed and hung (student book; original target `visual-art/the-ellipse-in-craft`) | Book 4, printed p. 25 |

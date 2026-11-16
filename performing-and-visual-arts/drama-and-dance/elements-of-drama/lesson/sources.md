@@ -1,6 +1,6 @@
 # Sources — Elements of Drama
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco
+countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Sri Lanka
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -43,8 +43,18 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil,
 | Morocco — "I Express by Dialogue" (أعرب بالحوار) — the forms of dialogue — monologue, two-person dialogue, group dialogue, scripted dialogue and improvised dialogue — practised through three short scenes observed then acted: a child's Eid monologue about helping a poor neighbour, a boy-and-mother dialogue about buying Eid shoes for the poor neighbour's son, and three butterflies caught in the rain (plots only) (teacher guide — evidence; original target `drama-and-dance/kinds-of-dialogue`) | Book 8, printed p. 58 |
 | Morocco — "I Express by Delivery and Movement" (أعبر بالإلقاء والحركة), kinds of dialogue — theatrical dialogue is three kinds — internal (the monologue), between two people, and group dialogue (slug first proposed in the Grade 3 filing) (teacher guide — evidence; original target `drama-and-dance/kinds-of-dialogue`) | Book 9, printed p. 56 |
 
-**Acceptance count: taught in 2 countries (Iran, Brazil).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Iran, Brazil).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The element list is the guide's own (printed pp. 54–56), given whole; nothing is added to it or taken from it.
 
 Searchable tags: elements of drama, character, tension, symbol, dramatic action, Grade 7 teacher guide, evidence, Papua New Guinea, Brazil
+
+**Book 10:** *Grade 9 Drama and Theatre Teacher Guide — නාට්‍ය හා රංග කලාව (Sinhala medium) / நாடகமும் அரங்கியலும் (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2018; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 119; Tamil 142. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies and activities — placements filed once for both editions). Play-script excerpts printed in the guide as teaching material are summarised by purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 2.1 "Let's identify characters" — reading character in drama — recognising kinds of characters and their traits from what they do and say (teacher guide — evidence; original target `drama-and-dance/elements-of-drama`) | Book 10, printed pp. 11–12 |

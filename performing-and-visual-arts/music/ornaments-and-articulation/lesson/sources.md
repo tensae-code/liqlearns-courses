@@ -1,0 +1,19 @@
+# Sources — Ornaments and Articulation Marks
+
+countries: Sri Lanka
+
+**Book 1:** *Western Music — Teachers' Guide, Grade 9 (Implemented from 2018)* (teacher guide, English) — Sri Lanka, Department of Aesthetic Education, National Institute of Education, Maharagama, Sri Lanka; first print 2017; ISBN line printed blank. Grade: 9 (student/teacher: TEACHER). PDF pages: 100. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 6.3.1 "Appoggiatura, upper and lower mordents, repeat marks" — ornaments heard and used — the leaning note and the mordents shown on cards, followed in played music, the extra notes counted and the repeat marks obeyed (teacher guide — evidence; original target `music/ornaments-in-music`) | Book 1, printed p. 49 |
+
+**Acceptance count: taught in 0 countries.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+
+This is a canonical NEW lesson (slug-registry Part 1: `music/ornaments-and-articulation`); the Sri Lanka placements were filed under the original string(s) `music/ornaments-in-music` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
+
+Searchable tags: ornaments and articulation, Sri Lanka

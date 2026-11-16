@@ -1,6 +1,6 @@
 # Sources — Making with Paper and Pieces
 
-countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, Singapore, Bhutan, Trinidad and Tobago, Serbia, Finland, Turkmenistan, Mozambique, Pakistan, Fiji, Sudan, Belarus, Iran, Papua New Guinea, Brazil, Morocco, Jordan
+countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, Singapore, Bhutan, Trinidad and Tobago, Serbia, Finland, Turkmenistan, Mozambique, Pakistan, Fiji, Sudan, Belarus, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -169,7 +169,7 @@ countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, S
 | Morocco — "Strange Animals" (حيوانات غريبة), collage creatures — making strange animals by hand — an elephant or horse whose head is deleted and replaced with a duck's head, a cat given a rooster's head, a magazine animal head glued onto a dog; then finding magazine pictures, changing them by deletion, addition and exaggeration, and gluing them into the workbook (teacher guide — evidence; original target `visual-art/making-with-paper-and-pieces`) | Book 35, printed p. 100 |
 | Morocco — "Off to Our Tourist Cities!" (هيا إلى مدننا السياحية), a composite picture of a city — making a composite picture (الصورة المركبة) of Marrakech — its squares, monuments, souks and products — by collage with coloured or magazine papers (or a digital app), then a group composite picture of the pupils' own city or region (teacher guide — evidence; original target `visual-art/making-with-paper-and-pieces`) | Book 35, printed p. 112 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Maldives, Uganda, Honduras, Romania, Bhutan, Serbia, Finland, Turkmenistan, Mozambique, Pakistan, Fiji, Sudan, Belarus, Iran, Brazil, Jordan).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Finland's teacher-guide and project-material parts (Books 21 and 22) are evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows.
+**Acceptance count: taught in 18 countries (Ethiopia, Maldives, Uganda, Honduras, Romania, Bhutan, Serbia, Finland, Turkmenistan, Mozambique, Pakistan, Fiji, Sudan, Belarus, Iran, Brazil, Jordan, Sri Lanka).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Finland's teacher-guide and project-material parts (Books 21 and 22) are evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows.
 
 The Grade 5 teacher-guide part (potato printing and paper mosaic) and the Grade 2 teacher-guide part (decorating and drawing) are teacher-guide evidence and are labelled so; the Grade 2 guide is a scan with no text layer, cited at section level only (§2.4, printed pp. 35–37), as its placements require. Tie-dye's boiling step is taught as the Grade 7 book gives it and is a grown-up's job in the hands-on work; the lesson says so.
 
@@ -187,3 +187,37 @@ Searchable tags: Maldives, Exploring Creative Arts 4, papier-mâché, collage, �
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Visual Lesson 2 "The Art of Mosaic" — mosaic as assembling small pieces of stone, glass or coloured ceramic into designs, its three kinds (stone, glass, ceramic), and the full making process pictured step by step — draw the design on the base, cut and glue the pieces, fill the gaps with gypsum or white cement, clean and polish, and leave a day to dry (teacher guide — evidence; original target `visual-art/making-with-paper-and-pieces`) | Book 37, printed p. 14 |
+
+**Book 38:** *Grade 9 Art Teacher Guide — චිත්‍ර කලාව (Sinhala medium) / சித்திரக் கலை (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first printing 2017, for the 2018 syllabus; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 108 (front matter i–xxii + printed pp. 1–86); Tamil 128. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies, activities and annexes — placements filed once for both editions). Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 39:** *Grade 10 Art and Craft pupil textbook (மாணவர் பாட நூல்), Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 10 (student/teacher: STUDENT). PDF pages: 223 (printed pages run 1–223). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
+
+**Book 40:** *Grade 11 Art and Craft pupil textbook, Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 11 (student/teacher: STUDENT). PDF pages: 221 (printed pages run 1–221). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 4.1.2 "Let's create a collage for various needs" — collage as a designed picture — cut and pasted pieces assembled for a set purpose, with the basic elements of the medium taught first (teacher guide — evidence; original target `visual-art/making-with-paper-and-pieces`) | Book 38, printed p. 22 |
+
+| Sri Lanka — Activity 5.3.1 "Let's make a figure composition from pasted pieces" — building a human-figure picture composition by collage — figure shapes cut and pasted from paper pieces into a designed whole (teacher guide — evidence; original target `visual-art/making-with-paper-and-pieces`) | Book 38, printed pp. 33–34 |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Chapter 2 close — the geometry turned decorative — flowers built from divided circles and other media, choosing medium, tools and natural materials for a bouquet (the chapter's summary and making exercises) (student book; original target `visual-art/making-flowers-from-different-media`) | Book 39, printed p. 29 |
+
+| Sri Lanka — Activity 4.5 — paper weaving — a table mat woven from two colours of paper ribbon in circle, rectangle and oval shapes, the weave patterns pictured (student book; original target `visual-art/paper-crafts`) | Book 39, printed p. 113 |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Section 7.1 "Let's prepare paper flowers" — artificial flowers from paper — the paper types (tissue, crepe, oil paper, Demy), templates traced from real flowers, and petals shaped with the pictured ball-and-hook tools on a sponge pad (student book; original target `visual-art/paper-flowers`) | Book 40, printed pp. 207–208 |

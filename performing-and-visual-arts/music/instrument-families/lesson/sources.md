@@ -1,6 +1,6 @@
 # Sources — Instrument Families
 
-countries: Haiti, Fiji, Colombia, Papua New Guinea, Morocco
+countries: Haiti, Fiji, Colombia, Papua New Guinea, Morocco, Sri Lanka
 
 **Book 1:** *Musique — EEA (Éducation esthétique et artistique) Séquence 1 — « Introduction à la pratique de la musique » (Ipharès Blain Jr., juillet 2021)* (teacher guide, French) — Haiti, Projet Nectar, MENFP, 2021, no ISBN printed, Grade 7e année AF, French, 15 PDF pp (printed pp. 1–14). TEACHER — teacher guide. Verdict: COMPLETE (first page verified against the record — Musique EEA sequence, niveau 7e AF, durée 8 à 10 semaines). The record names this file EEA2; the document itself is titled Séquence 1 — the mismatch is in the record's short name only; the file is the 7e AF music introduction sequence the record points to. Exclusions per the placements: Séance 9 (Révision) and Séance 10 (Évaluation: Contrôle 1) are revision/assessment — named, not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -39,8 +39,18 @@ countries: Haiti, Fiji, Colombia, Papua New Guinea, Morocco
 | Morocco — "I Learn String Instruments" (أتعرف آلات وترية) — knowing and telling apart the string instruments — oud (the player strikes its strings with the risha), violin (kaman), qanun, rabab, ginbri, guitar and piano — matching instrument pictures to their Arabic and French names (oud/Luth, guitare, violon, kanoun) (teacher guide — evidence; original target `music/string-instruments-and-their-names`) | Book 7, printed p. 93 |
 | Morocco — "I Love Sport" (أحب الرياضة), string instruments — string instruments classified by how they are played — bowed (violin, rabab), plucked (oud, guitar, qanun) and struck (piano) — with their French names and picture matching (slug first proposed in the Grade 3 filing) (teacher guide — evidence; original target `music/string-instruments-and-their-names`) | Book 8, printed p. 80 |
 
-**Acceptance count: taught in 2 countries (Fiji, Colombia).** Haiti is added as teacher-guide / teacher-programme evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Fiji, Colombia).** Haiti is added as teacher-guide / teacher-programme evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/instrument-families`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
 Searchable tags: instrument families, woodwinds, bois, flute, oboe, clarinet, bassoon, cor anglais, Vivaldi RV 443, Haiti, Colombia, Papua New Guinea
+
+**Book 9:** *Grade 9 Oriental Music Teacher Guide — පෙරදිග සංගීතය (Sinhala medium)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2018; ISBN line printed blank on the imprint page read. Grade: 9 (student/teacher: TEACHER). PDF pages: 145. Verdict: COMPLETE — a restructured curriculum (96 periods), not a reprint of the 2010 guide. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 7.2: the Western wind instruments — meeting the brass and woodwind — Trumpet, Trombone, Euphonium, Oboe, Clarinet and Saxophone (named in English in the syllabus) — how each sounds and speaks (teacher guide — evidence; original target `music/western-wind-instruments`) | Book 9, syllabus p. xx |

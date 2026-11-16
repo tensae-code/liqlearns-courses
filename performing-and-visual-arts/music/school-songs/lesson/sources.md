@@ -1,6 +1,6 @@
 # Sources — School Songs
 
-countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finland, Turkmenistan, Fiji, Bulgaria, Jordan
+countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finland, Turkmenistan, Fiji, Bulgaria, Jordan, Sri Lanka
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -55,7 +55,7 @@ countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finl
 | Turkmenistan — "Наша школа" (Our School; words G. Bäşiýew, music N. Muhadow, Russian text Yu. Kushak) — the school song, in the main text and the notation appendix (summary only) (student book; original target `music/school-songs`) | Book 13, printed pp. 10, 56 |
 | Fiji — Unit 3 Books — songs celebrating books and reading (Books I Love in English and iTaukei, the Library Song with its animal visitors), sung with meaning, expression and group movement (teacher guide — evidence; original target `music/songs-about-books-and-reading`) | Book 14, printed pp. 14–16 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Finland, Turkmenistan, Bulgaria, Jordan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Finland, Turkmenistan, Bulgaria, Jordan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Fidel song and the ABC song are charts sung, not lyrics: the letters in order are their content, and only the letter orders the placements themselves quote are printed in this lesson. The Grade 3 book prints the Twinkle song in English as its one full English text; this lesson names it and places it, and does not re-transcribe it.
 
@@ -91,3 +91,23 @@ Searchable tags: school songs, ABC song, Twinkle Twinkle, fidel song, let's go t
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 2 Lesson 10 "The BINGO Song" — silence (the rest) is one of the important elements in music, learned through performing the BINGO song — the English song of the farmer and his dog Bingo, whose name's letters are dropped one by one and replaced by silence as the verses repeat; music is used in teaching foreign languages, since songs' words are memorised easily because of the tune and the enjoyable repetition of the words (summary only — no words transcribed) (student book; original target `music/school-songs`) | Book 19, printed p. 56 |
+
+**Book 20:** *Grade 9 Oriental Music Teacher Guide — පෙරදිග සංගීතය (Sinhala medium)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2018; ISBN line printed blank on the imprint page read. Grade: 9 (student/teacher: TEACHER). PDF pages: 145. Verdict: COMPLETE — a restructured curriculum (96 periods), not a reprint of the 2010 guide. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 21:** *Western Music — Teachers' Guide, Grade 9 (Implemented from 2018)* (teacher guide, English) — Sri Lanka, Department of Aesthetic Education, National Institute of Education, Maharagama, Sri Lanka; first print 2017; ISBN line printed blank. Grade: 9 (student/teacher: TEACHER). PDF pages: 100. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 5.1: singing an English song — ABBA's 'I Have a Dream' sung by the class (named in English in the syllabus) — a world pop song learned properly: melody, words' meaning and ensemble singing (teacher guide — evidence; original target `music/singing-english-and-world-songs`) | Book 20, syllabus p. xix |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 8.1.3 "Singing popular songs" — popular songs sung as class repertoire — performance with vocal technique (teacher guide — evidence; original target `music/school-songs`) | Book 21, printed p. 78 |

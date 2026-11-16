@@ -1,6 +1,6 @@
 # Sources — Comics
 
-countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria
+countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria, Sri Lanka
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -42,7 +42,7 @@ countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Bra
 
 | Brazil — Folha 5 — Lichtenstein and the language of comics: panels, speech balloons, onomatopoeia, flat colour with black outline; enlarging a comic panel 1:10 (student book; original target `visual-art/comics-as-art`) | Book 10, printed p. 91 |
 
-**Acceptance count: taught in 8 countries (Maldives, Honduras, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 6) is evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Maldives, Honduras, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 6) is evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/comics`); the Maldives placement was filed under the original string `visual-art/character-design`, recorded in the provenance rows above. The digital building of the same character is stocked in Digital and Computer Art, from the same unit's digital pages.
 
@@ -53,3 +53,13 @@ Searchable tags: comics, character design, cartoon characters, Kyle and Lulu, Hu
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Изкуството на карикатурата (The Art of Caricature) — caricature and the comic created by artists who express elegantly and often wittily what they want to share with viewers, making them reflect on themes or on themselves and reach conclusions with a smile (caricaturist Brian Farrington: the… (student book; original target `visual-art/caricature-and-comics`) | Book 11, printed pp. 18–21 |
+
+**Book 12:** *Grade 9 Art Teacher Guide — චිත්‍ර කලාව (Sinhala medium) / சித்திரக் கலை (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first printing 2017, for the 2018 syllabus; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 108 (front matter i–xxii + printed pp. 1–86); Tamil 128. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies, activities and annexes — placements filed once for both editions). Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 6.6.1 "Let's appreciate comic-strip creations" — the comic strip as Sri Lankan art — the form's history in the island's papers (first Lankadeepa comic, 1951) and its named masters: Bandula Harischandra (1940– ), Daya Rajapaksa (1941– ) and Janaka Ratnayake, their strips pictured and appreciated (teacher guide — evidence; original target `visual-art/sri-lankan-comic-strip-art`) | Book 12, printed pp. 57–62 |

@@ -1,6 +1,6 @@
 # Sources — Playing a Person
 
-countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil, Morocco, Jordan
+countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -55,7 +55,7 @@ countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guine
 | Morocco — "I Portray the Doctor" (أشخص الطبيب) — turning the short story "The Little Doctor" (الطبيب الصغير) — Saïd dresses in his doctor father's white coat and plays at examining his sister Zaynab, who flees laughing at the injection — into an acted scene: pupils draw the dialogue out of the story, build the scene and act it in pairs with props (white coat, glassless glasses frame, a whistle on a string as stethoscope, syringe, empty medicine box) (plot only) (teacher guide — evidence; original target `drama-and-dance/playing-a-person`) | Book 11, printed p. 91 |
 | Morocco — "I Play a Theatrical Role" (ألعب دورا مسرحيا) — playing varied characters — a doctor examining a patient, a lawyer pleading in court, a traffic policeman, and characters the pupils propose — alongside the actor's on-stage activities: dialoguing, orating, chanting, playing an instrument and dancing; imitating an actor delivering an oration (teacher guide — evidence; original target `drama-and-dance/playing-a-person`) | Book 12, printed p. 70 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Romania, Colombia, Brazil, Jordan).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Romania, Colombia, Brazil, Jordan).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Book error, taught corrected: the Grade 2 book mislabels the artist's activity as ተግባር 2.3.1 (a publisher numbering error, flagged in the placement); the lesson follows the roles' printed order (§§2.3–2.3.6), not the faulty activity number. The teacher's praise song ንኢር መምህሬ (Nur Mehire) shares §2.3.4 with the teacher role; the song itself is stocked in the Music lessons and is named here only, not taught as a song.
 
@@ -67,3 +67,13 @@ Searchable tags: playing a person, theatre game, role play, father, mother, teac
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 3 Lesson 6 "Imitating the Roles in a Play" — imitating a role means the actor performs a job, a profession or a character in the play — chef, fisherman, doctor, firefighter, clown — and role imitation makes the audience interact with the play (student book; original target `drama-and-dance/playing-a-person`) | Book 13, printed p. 66 |
+
+**Book 14:** *Grade 9 Drama and Theatre Teacher Guide — නාට්‍ය හා රංග කලාව (Sinhala medium) / நாடகமும் அரங்கியலும் (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2018; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 119; Tamil 142. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies and activities — placements filed once for both editions). Play-script excerpts printed in the guide as teaching material are summarised by purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 2.2 "Let's study roles" — role (භූමිකා) analysis — how one person carries many roles (the guide's diagram webs a single figure's roles at home, school and society) and how a stage role is built from the roles of life (teacher guide — evidence; original target `drama-and-dance/playing-a-person`) | Book 14, printed pp. 13–14 |

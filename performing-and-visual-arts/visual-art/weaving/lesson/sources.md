@@ -1,6 +1,6 @@
 # Sources — Weaving
 
-countries: Barbados, Trinidad and Tobago, Finland, Mozambique, Fiji, Sudan, Iran, Jordan
+countries: Barbados, Trinidad and Tobago, Finland, Mozambique, Fiji, Sudan, Iran, Jordan, Sri Lanka
 
 **Book 1:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -38,7 +38,7 @@ countries: Barbados, Trinidad and Tobago, Finland, Mozambique, Fiji, Sudan, Iran
 | Iran — Kilim weaving L2, Tools, equipment and materials: ابزار، وسایل و مواد گلیم‌بافی: the loom, tools and materials of kilim weaving, and securing the weft as the weaving begins (student book; original target `visual-art/traditional-fabric-weaving`) | Book 9, printed p. 88 |
 | Iran — Kilim weaving L3, Weaving a patterned kilim: بافت گلیم نقش‌دار: drawing a suitable design and weaving a patterned kilim — its motifs built mostly on triangles and diamonds (student book; original target `visual-art/traditional-fabric-weaving`) | Book 9, printed p. 90 |
 
-**Acceptance count: taught in 5 countries (Mozambique, Fiji, Sudan, Iran, Jordan).** Barbados is named in this lesson on curriculum guide evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher-training report and teacher project material — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows.
+**Acceptance count: taught in 6 countries (Mozambique, Fiji, Sudan, Iran, Jordan, Sri Lanka).** Barbados is named in this lesson on curriculum guide evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher-training report and teacher project material — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/weaving`); the Barbados placements were filed under the original string `visual-art/weaving-baskets-and-textiles`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: weaving grows from the island's natural materials into complex, mixed-media work — objects made to be both decorative and useful. (In this lesson's sources, Book 1 is the Barbados Visual Arts Curriculum Guide.)
 
@@ -56,3 +56,33 @@ Searchable tags: weaving, natural materials, mixed media, decorative, useful obj
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Visual Lesson 4 "The Weaving Craft in Jordan" — how weaving works — two sets of threads interlaced at right angles, the lengthwise warp (al-sada) and the crosswise weft (al-luhma); the craft's stages from spinning natural wool, through dyeing with natural or made dyes, to weaving on the hand loom; then a pictured project weaving a striped piece on a home-made cardboard loom, from ruling and cutting the card to tying off and lifting the finished piece (teacher guide — evidence; original target `visual-art/weaving-on-a-simple-loom`) | Book 11, printed p. 32 |
+
+**Book 12:** *Grade 10 Art and Craft pupil textbook (மாணவர் பாட நூல்), Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 10 (student/teacher: STUDENT). PDF pages: 223 (printed pages run 1–223). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
+
+**Book 13:** *Grade 11 Art and Craft pupil textbook, Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 11 (student/teacher: STUDENT). PDF pages: 221 (printed pages run 1–221). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Chapter 1, the weaving craft — cloth made by hand — the handloom at work (fig. 1.1), yarn dyed and woven into patterned textiles, weaving as one of the island's living village industries (student book; original target `visual-art/weaving-on-a-loom`) | Book 12, printed p. 3 |
+
+| Sri Lanka — Section 4.3 "Tablet weaving" — weaving bands with cards — twelve 5×5 cm cardboard tablets cut and holed, threaded, turned and beaten to weave straps and friendship bands, the full process in diagrams (student book; original target `visual-art/tablet-card-weaving`) | Book 12, printed pp. 101–104 |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Section 3.1.2 — how yarn is numbered — single, two-ply, three-ply and multi-ply yarns and their count notation (2/20s, 3/30s…), the count ranges for thick, medium and fine yarns (student book; original target `visual-art/yarn-counts-and-plies`) | Book 13, printed pp. 61–62 |
+
+| Sri Lanka — Section 3.2 "Calculating the cost of woven creations" — the weaver's arithmetic — warp ends from width and count, total warp length, skeins needed and yarn weight in kilograms, each as a worked example with the formula shown (student book; original target `visual-art/calculating-yarn-and-cost-for-weaving`) | Book 13, printed pp. 63–64 |
+
+| Sri Lanka — Chapter 3, warping equipment — getting the warp ready — the warping frame, the section (lease) frame and the warping drum (Pavodu Kudam) pictured and explained, yarn lengthened on the warping board peg by peg without tangling (student book; original target `visual-art/weaving-on-a-loom`) | Book 13, printed pp. 77–80 |
+
+| Sri Lanka — Section 3.5 — twill structure read from the draft — the 2/2 twill draft diagram (peg plan, threading, treadling) and the six twill family types, denim and drill among the cloths named (student book; original target `visual-art/twill-weaves`) | Book 13, printed p. 93 |
+
+| Sri Lanka — Section 3.6 "Let's weave a table mat on a simple loom" — the whole weave in order — yarn wound on the pirn, warp lengthened, warp set on the loom, weaving begun with the prepared warp (student book; original target `visual-art/weaving-on-a-loom`) | Book 13, printed pp. 94–96 |

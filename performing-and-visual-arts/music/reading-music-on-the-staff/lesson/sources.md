@@ -1,6 +1,6 @@
 # Sources — Reading Music on the Staff
 
-countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Samoa, Nicaragua, Trinidad and Tobago, Haiti, Malta, Turkmenistan, Fiji, Colombia, Belarus, Papua New Guinea, Brazil, Morocco, Bulgaria, Jordan
+countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Samoa, Nicaragua, Trinidad and Tobago, Haiti, Malta, Turkmenistan, Fiji, Colombia, Belarus, Papua New Guinea, Brazil, Morocco, Bulgaria, Jordan, Sri Lanka
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -127,7 +127,7 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Samoa
 | Morocco — "I Sing: Fa, Sol, La" (أغني: فا، صول، لا) — reading the notes Fa, Sol and La in a simple score to the musical pulse, writing them on the staff in quarter-note and eighth-note shapes, and the rule that two neighbouring eighth notes are written joined by a beam; then singing the French song "À la claire fontaine" from its score while beating duple meter (song named only) (teacher guide — evidence; original target `music/reading-music-on-the-staff`) | Book 27, printed p. 104 |
 | Morocco — "I Read a Musical Score" (أقرأ مدونة موسيقية) — gathering the whole sign family — telling the sound signs (quarter, half and eighth notes) from the silence signs (quarter rest, half rest, eighth rest) and the duration each one lasts, drawing their shapes, and reading a simple score aloud in turns (teacher guide — evidence; original target `music/reading-music-on-the-staff`) | Book 27, printed p. 116 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, United Kingdom, Honduras, Turkmenistan, Fiji, Colombia, Belarus, Brazil, Bulgaria).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, United Kingdom, Honduras, Turkmenistan, Fiji, Colombia, Belarus, Brazil, Bulgaria).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book teaches the tempo word Allegretto as "very fast", above Allegro — a tempo-table matter kept in the music lesson on dynamics and tempo, not repeated here. The G clef's and F clef's stroke orders are taught as the Grade 4 placements describe the figures (the G clef rising from the second line; the F clef from the fourth line with its two dots around that line); no stroke order beyond the placements is claimed.
 
@@ -154,3 +154,35 @@ Searchable tags: staff, ስታፍ, G clef, treble clef, F clef, bass clef, bars,
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Music Lesson 2 "The Musical Measure 9/8" — the 9/8 measure — the top number counts nine unit forms in the bar and the bottom number makes the quaver the unit — set against the measures already known (2/4, 3/4, 4/4, 7/4, 3/8, 6/8), with melodic reading and rhythmic dictation in 9/8 (teacher guide — evidence; original target `music/reading-music-on-the-staff`) | Book 31, printed p. 62 |
+
+**Book 32:** *Grade 9 Oriental Music Teacher Guide Collection — පෙරදිග සංගීතය (Sinhala medium)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2009, in force from 2010; no ISBN printed. Grade: 9 (student/teacher: TEACHER). PDF pages: 165. Verdict: COMPLETE. The closing school-based assessment rubrics are assessment apparatus, named in the placements and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 33:** *Grade 9 Oriental Music Teacher Guide — පෙරදිග සංගීතය (Sinhala medium)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2018; ISBN line printed blank on the imprint page read. Grade: 9 (student/teacher: TEACHER). PDF pages: 145. Verdict: COMPLETE — a restructured curriculum (96 periods), not a reprint of the 2010 guide. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 34:** *Western Music — Teachers' Guide, Grade 9 (Implemented from 2018)* (teacher guide, English) — Sri Lanka, Department of Aesthetic Education, National Institute of Education, Maharagama, Sri Lanka; first print 2017; ISBN line printed blank. Grade: 9 (student/teacher: TEACHER). PDF pages: 100. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 7.1.1 "Let's present music in the Western system" — staff notation whole — sharps, flats and naturals, clefs, minim and crotchet rests, the tie, time signatures (4/4, 3/4, 2/4, 6/8 pictured), key signatures and the F, G, C and B-flat major/minor scales (teacher guide — evidence; original target `music/reading-music-on-the-staff`) | Book 32, printed pp. 135–141 |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Competency 8.1: Western notation — the same staff system as Book 5's 7.1 (sharps, flats, naturals, clef, rests, tie, time signature, key signatures F/G/C/B-flat, major & minor scales), re-taught in the 2018 order (teacher guide — evidence; original target `music/reading-music-on-the-staff`) | Book 33, syllabus p. xx |
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activity 6.1.1: notes up to three ledger lines — reading and writing the staff beyond its five lines — notes placed, named and performed up to three ledger lines (teacher guide — evidence; original target `music/reading-music-on-the-staff`) | Book 34, printed p. 40 |
+
+| Sri Lanka — Activity 6.8.1: terms and signs — the working vocabulary of the score — musical terms and signs identified on sight and on hearing (teacher guide — evidence; original target `music/reading-music-on-the-staff`) | Book 34, printed p. 62 |

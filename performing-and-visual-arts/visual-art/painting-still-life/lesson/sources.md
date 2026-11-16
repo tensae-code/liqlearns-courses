@@ -1,6 +1,6 @@
 # Sources — Painting Still Life
 
-countries: Ethiopia, Barbados, Nicaragua, Bhutan, Trinidad and Tobago, Pakistan, Sudan, Belarus, Papua New Guinea
+countries: Ethiopia, Barbados, Nicaragua, Bhutan, Trinidad and Tobago, Pakistan, Sudan, Belarus, Papua New Guinea, Sri Lanka
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors እሸቱ ታደሰ (Eshetu Tadesse) and ደስታ ይትባረክ (Desta Yitbarek); editors አታላይ መስፍን (Atalay Mesfin) and ደምሌ አባተ (Demle Abate). Printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 **Book 2:** *Performing and Visual Arts, Teacher's Guide Book, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021). Writers: Bareke Tadesse, Gizachew Tasew, Sara Mengistu, Ashenafi Nigussie. Printed pp. 1–161 as paginated; the secured copy's body runs to printed p. 109 (Units 4–5 missing — this lesson's part is Unit 2, inside the body held). Printed page ≈ PDF page + 10 in the body. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
@@ -66,8 +66,20 @@ countries: Ethiopia, Barbados, Nicaragua, Bhutan, Trinidad and Tobago, Pakistan,
 | Papua New Guinea — Unit 1 Arts, Topic Painting (Lessons 11–16) — mixing a range of hues from the primary colours and white; expressive painting about yourself or about an issue; painting natural or organic shapes — a still life of fruits, plants and animals set up and painted; abstract painting built from shapes; and landscape painting developed in sequence — background first, then middle ground, then foreground, with tones controlled to create depth, including a landscape painted through imagination (teacher guide — evidence) | Book 13, printed pp. 14, 33–34 |
 | Papua New Guinea — Unit 1 Arts, Topic Painting (Lessons 3–5) — drawing and painting a subject of interest — landscape, figure, portrait and narrative painting that depicts a story, each theme's features described — and how to mount an artwork: framing a picture correctly for exhibition (teacher guide — evidence (PARTIAL — the guide itself is unfinished)) | Book 14, printed p. 24 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Pakistan, Sudan, Belarus). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Pakistan, Sudan, Belarus). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: Sub lesson 5 stands on the Grade 7 teacher's guide and is labelled evidence there and in the table; it is not pupil text. The artist's name in that part, Solomon Wagaye, is copied from the placements file's own summary of the guide. The book's still-life plates (Fig. 23, the stage pictures, the Exercise 2.4 arrangements) are described in words only — artworks are described, never copied. Media 14200 and 14203 are the builders' own drawn plates, not the book's figures.
 
 Searchable tags: still life, painting, watercolour, spectrum, prism, rainbow, ሰማያዊ ወይነጠጅ, Solomon Wagaye, Lake Hawassa, palette, Nicaragua, Bhutan, Papua New Guinea
+
+**Book 15:** *Grade 9 Art Teacher Guide — චිත්‍ර කලාව (Sinhala medium) / சித்திரக் கலை (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first printing 2017, for the 2018 syllabus; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 108 (front matter i–xxii + printed pp. 1–86); Tamil 128. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies, activities and annexes — placements filed once for both editions). Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+
+| Lesson part | Where it comes from |
+
+|---|---|
+
+| Sri Lanka — Activities 2.1.1–2.1.2 "Let's draw objects by studying them / in combination" — still life properly — studying single natural and man-made objects (form, proportion, light) with 2B/4B pencil work, then arranging and drawing objects in combination (teacher guide — evidence; original target `visual-art/painting-still-life`) | Book 15, printed pp. 8, 10 |
+
+| Sri Lanka — Activity 5.1.1 "Let's compose a still life in a clay-based medium" — still-life composition in mixed media — arranging real objects (about 15 cm × 12 cm study size) and rendering them with clay/mud-based and mixed materials (Tools listed), the medium itself part of the study (teacher guide — evidence; original target `visual-art/painting-still-life`) | Book 15, printed pp. 28–29 |

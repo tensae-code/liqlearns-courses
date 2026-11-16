@@ -1978,7 +1978,51 @@ lessons are the books'.
   patterns, the Badia's art, Madaba mosaic, and the
   potter-calligrapher Mahmoud Taha.
 
-**The whole course stands at 533 lessons, 6,798 questions and
+**Art expansion — Sri Lanka (2026-11-16):** 153 placements
+  stocked from 8 books: *Grade 9 Art Teacher Guide*
+  (NIE, 2018 syllabus, Sinhala medium with Tamil
+  parallel edition), *Grade 9 Drama and Theatre
+  Teacher Guide* (NIE, 2018, Sinhala with Tamil
+  parallel edition), *Grade 9 Oriental Music Teacher
+  Guide Collection* (NIE, 2010 edition), *Grade 9
+  Oriental Music Teacher Guide* (NIE, 2018), *Grade 9
+  Western Music Teacher Guide* (NIE, 2018, English),
+  *Grade 10 Art and Craft* (Educational Publications
+  Department, 2016, Tamil, student book), *Grade 11
+  Art and Craft* (Educational Publications
+  Department, 2016, Tamil, student book), and
+  *Thogumugai: Tamil Grades 12–13* (Educational
+  Publications Department, 2020, student book — drama
+  part only). The five Grade 9 teacher guides are
+  EVIDENCE only, kept outside every stocked lesson's
+  acceptance count; the three student books count.
+  The Grade 12 Engineering Drawing book is
+  record-only (another subject entirely) and was
+  never placed. 88 placements into existing
+  and already-built canonical lessons, and 65
+  into 35 NEW lessons (Visual Art: Appreciating a Sri Lankan Artist; Batik ×2; Beadwork; Beeralu Bobbin Lace; Crochet; Flower Arranging, Ikebana and Bonsai; Folk and Heritage Arts of Sri Lanka ×7; Glazes and Kiln Firing ×3; Making Soft Toys ×2; Metalwork; Pottery Making ×3; Sri Lankan Traditional Decorative Patterns ×5; Textile Fibres and Fabrics; Throwing on the Potter's Wheel; Wire Modelling and Wire Sculpture. Music:
+  Chords and Triads; Converting Between Oriental and Western Notation; The Electronic Keyboard and Auto-Accompaniment; Gami Gee: Work Songs of Sri Lanka; The Harnawi Singing Style; Kandyan Upcountry Music; Light Songs of Sri Lanka; Listening to Music; Ornaments and Articulation Marks; Playing Oriental Instruments; Raga, Tala and Sargam ×8; Rondo Form; Sound, Acoustics and Equipment ×2; Sri Lankan Traditional Drums ×2; Wannam Praise Songs of Sri Lanka. Drama and Dance: Abhinaya: The Four Kinds of Acting Expression ×2; Sri Lankan Folk Drama and Play ×3; Sri Lankan Playwrights ×2; Sri Lankan Stylised Theatre ×2; Tamil Drama of Sri Lanka), 420
+  questions added, media as described slots only.
+  Registry resolutions carried: the reader strings
+  are resolved in slug-registry Part 2 throughout —
+  among them ves-masks, hindu-kovil, laksha,
+  sandakada-pahana and stone-entrance strings (filed
+  under Culture and Values) → Folk and Heritage Arts
+  of Sri Lanka; nadagam and kanda-vala strings →
+  Sri Lankan Folk Drama and Play; raga-and-sargam →
+  Raga, Tala and Sargam; sri-lankan-traditional-motifs
+  → Sri Lankan Traditional Decorative Patterns.
+  Honesty carried exactly as filed: all placed books
+  are COMPLETE; songs and play excerpts are placed by
+  summary only, never transcribed; the Oriental Music
+  guides' assessment rubrics are named, not placed.
+  Sri Lanka's own way is kept as named parts: Ves
+  masks, kovil chariots, Matale lacquer, moonstones,
+  Wannam and Gami Gee songs, Harnawi singing, the
+  island's drums, Beeralu lace, batik dyeing and the
+  village crafts of the Art and Craft books.
+
+**The whole course stands at 568 lessons, 7,218 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
