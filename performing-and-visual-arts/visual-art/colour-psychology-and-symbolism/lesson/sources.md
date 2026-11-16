@@ -1,6 +1,6 @@
 # Sources — Colour Psychology and Symbolism
 
-countries: Sudan, Kazakhstan
+countries: Sudan, Kazakhstan, Dominican Republic
 
 **Book 1:** *الفنون والتصميم (Arts & Design) — للصفين الأول والثاني الثانوي (for the First and Second Secondary years), Secondary Stage (المرحلة الثانوية)* (student book, Arabic) — Sudan, National Center for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht Al-Ruda — Republic of Sudan, Ministry of Education; authors Mohamed Al-Amin Ali, Abdul Basit Abdullah Al-Khatim, Mohamed Mohamed Idris (College of Arts, University of Sudan) and Khidir Mohamed Othman (NCCR); no year printed in the pages held; ISBN 978-99942-53-46-3, Grade 10, 103 PDF pp. STUDENT — the printed volume is one combined book serving the First and Second Secondary years (Grades 10 and 11); this entry is its Grade 10 row. Verdict: COMPLETE — read in full, page by page. Named in the header, not placed: "Design Tools & Materials" (printed pp. 63–64) is a materials inventory and "Guidance for the Student" (printed pp. 64–65) is workshop-care instruction — apparatus/inventory; the Colouring book's closing questions and exercises (printed p. 84) are assessment, not placed. The Grade 11 record is a duplicate scan of this same volume — record-only, not stocked twice. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sudan-placements.md.
 
@@ -8,7 +8,7 @@ countries: Sudan, Kazakhstan
 |---|---|
 | Sub lesson 1 — Book 4, Colouring, "The Psychology of Colours": colours' proven effect on the human psyche, mood, health and productive power, and their symbolism read colour by colour: white for purity, light, joy and peace; black for darkness and grief, the Abbasids' colour of mourning; yellow for light, sun and gold, much used in mosque and church ornament; red for raging feeling, strength, revolution and danger, the traffic signal's colour; blue for friendship, wisdom and eternity; violet, love and wisdom mixed, for calm sadness; green for growth, hope, life and peace — and the warm colours (red, orange, yellow) against the cool (blue, green, violet) (student book; original target `visual-art/psychology-and-symbolism-of-colour`) | Book 1, printed p. 76 |
 
-**Acceptance count: taught in 2 countries (Sudan, Kazakhstan).**
+**Acceptance count: taught in 3 countries (Sudan, Kazakhstan, Dominican Republic).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/colour-psychology-and-symbolism`); the Sudan placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Sudan's own way is kept as the named sub lessons above.
 
@@ -21,3 +21,11 @@ Searchable tags: colour psychology and symbolism, Sudan
 | Kazakhstan — lessons 7–8 «Түс арқылы сезімімізді білдіреміз» — expressing feelings through colour harmony: light unsaturated colours for tenderness and calm (Cassatt, Morisot), saturated colours for joy and celebration (Muratbaev), dark unsaturated for heavy moods (Polenov, Kazyulov, Akashev) (student book; original target `visual-art/colour-and-feelings`) | Book 2, printed p. 28 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 3:** *Educación Artística 4° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-006-7. Grade: 10 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 35,275,479 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 85–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed; the carnival merengue printed at p. 66 is placed by name and composer only — no lyrics transcribed. Dominican Republic's own way: identity is the whole syllabus — Dominican painting recreated and read as social discourse, merengue danced as UNESCO Intangible Cultural Heritage, popular dances compared (merengue, bachata, dembow), syncretism in the dances, Dominican percussionists and their experimental instruments, bachata patterns on buckets, carnival masks built layer by layer, and patriotic theatre. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 1, Artes Visuales: El color en las artes visuales dominicanas como discurso social — colour in Dominican visual arts as social discourse: the cultural components in Dominican artists' works read as speech about the society and its classes (student book; original target `visual-art/colour-as-social-discourse-in-dominican-art`) | Book 3, printed pp. 18–19 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

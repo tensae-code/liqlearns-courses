@@ -2715,7 +2715,38 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   wave tally of 1,566 differs by 7 (see MERGE-LOG for the
   per-book reconciliation).
 
-**The whole course stands at 1,087 lessons, 13,193 questions and
+- **Art expansion — Dominican Republic (2026-11-16):** 299
+  placements stocked from 11 books (the complete Libro Abierto
+  series, Grades 2–12): 203 into existing lessons under their own
+  strings, 56 into already-built canonical lessons, and 40 into
+  14 NEW lessons (Visual Art: Great Painters of the Dominican
+  Republic; Muñecas Limé: Faceless Dolls of the Dominican
+  Republic; Vernacular Architecture of the Dominican Republic.
+  Music: Décima and Dominican Speech; Dominican Folk Music and
+  Instruments; Dominican Minor Percussion; Musical Avant-Gardes
+  and Electronic Music. Drama and Dance: Carabiné Dance of the
+  Dominican Republic; Comedy and the Clown; Dominican Comedy
+  Characters; Merengue: Dance of the Dominican Republic; Theatre
+  Against Racism. Culture and Values: Copyright in the Arts;
+  Dominican Carnival), 168 questions added, media as described
+  slots. Every placement string resolved via slug-registry
+  Part 2 — no unresolved strings, no mid-merge registry
+  additions needed; original strings are recorded in the
+  provenance rows wherever they differ from the canonical
+  target. Dominican Republic's own way is kept as named parts
+  throughout — carnival and its Guloyas, comparsas, caretas and
+  recycled costumes; the pregoneros; güira, tambora and
+  acordeón; merengue and the carabiné; the faceless Limé dolls;
+  and the theatre annexes' prize plays (Pedro Mir, the Mirabal
+  allegory "Mariposita Valiente", Duarte, Trinidad Sánchez,
+  Ercilia Pepín), placed by name and plot summary only, never
+  transcribed. The books' own unit evaluations and Annex II
+  resource lists are excluded as filed (assessment/inventory
+  only), named in the book entries. All 11 books are student
+  books; the placements file's header tallies sum to 299 and
+  the lines present are 299 — stocked as present.
+
+**The whole course stands at 1,101 lessons, 13,361 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

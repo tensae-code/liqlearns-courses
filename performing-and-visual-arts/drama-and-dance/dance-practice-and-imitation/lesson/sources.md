@@ -1,6 +1,6 @@
 # Sources — Dance Practice and Imitation
 
-countries: Ethiopia, Canada, Trinidad and Tobago, Morocco, Jordan, Mongolia, Malaysia, Indonesia
+countries: Ethiopia, Canada, Trinidad and Tobago, Morocco, Jordan, Mongolia, Malaysia, Indonesia, Dominican Republic
 
 **Book 1:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
 
@@ -85,7 +85,7 @@ countries: Ethiopia, Canada, Trinidad and Tobago, Morocco, Jordan, Mongolia, Mal
 |---|---|
 | Indonesia — Bab I Eksplorasi Gerak dan Suara — observing and imitating — exploring movement and sound from what is seen and heard (teacher guide — evidence; original target `drama-and-dance/moving-with-stimuli`) | Book 16, printed p. 19 |
 
-**Acceptance count: taught in 4 countries(Canada, Jordan, Mongolia, Malaysia).** Ethiopia is teacher-guide evidence only, named here, counted nowhere. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Canada, Jordan, Mongolia, Malaysia, Dominican Republic).** Ethiopia is teacher-guide evidence only, named here, counted nowhere. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson's original stock stands on the Grade 3 teacher guide (printed pp. 34–40, §§2.2–2.3.1) as labelled evidence. Canada's nursery student books now teach the same cluster directly: practising for weeks for a talent show, learning a move by watching and copying it, and practising a routine until both bodies move as one. The Canada stories are placed by summary only, never transcribed.
 
@@ -97,3 +97,11 @@ Searchable tags: dance practice, theme, chibt, imitation, Grade 3 teacher guide,
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 3 Lesson 5 "Imitation and Mimicry in Theatre" — imitation is actors presenting characters resembling real-life characters, using movements, sounds and costumes — a child in rabbit dress, an astronaut — and imitating the animals the actors play on stage (student book; original target `drama-and-dance/dance-practice-and-imitation`) | Book 7, printed p. 64 |
+
+**Book 17:** *Educación Artística 3° Primaria (Libro Abierto)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), with Fe y Alegría; author Gricel Paulino Adames; year 2024 (Segunda edición 2026); ISBN 978-9945-646-24-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; record pages 80 matches; repo asset byte size 41,596,961 verified on download). Verdict: COMPLETE. Exclusions named, not placed: the four unit Evaluation spreads (printed pp. 24–25, 40–41, 56–57, 72–73) — assessment only; bibliography pp. 74–75. Dominican Republic's own way: the arts are learned by expressing through many media in one book — body, voice, clown and comedy (with Dominican TV comedy characters), string instruments, recycled-material crafts and instruments, the world's folk dances and the country's own merengue, and a first script with its plot parts performed for the community. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 1, Me preparo para la fiesta — rehearsing a dance to perform at Carla's birthday party: practising the steps together until the party performance (student book) | Book 17, printed pp. 14–15 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

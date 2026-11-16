@@ -1,6 +1,6 @@
 # Sources — Street Art and Graffiti
 
-countries: Albania, Brazil, Bulgaria, Cuba, Venezuela, North Macedonia, Kazakhstan
+countries: Albania, Brazil, Bulgaria, Cuba, Venezuela, North Macedonia, Kazakhstan, Dominican Republic
 
 **Book 1:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -20,7 +20,7 @@ countries: Albania, Brazil, Bulgaria, Cuba, Venezuela, North Macedonia, Kazakhst
 | Venezuela — Lo que se encuentra en la calle: art leaving the museum — any space the artist chooses is valid, the street the ideal space of the spectators' multipresence; art no longer elitist but public expression any passer-by can join (slug first proposed in Book 1) (student book; original target `visual-art/street-art`) | Book 6, printed p. 235 |
 | Venezuela — Grafitis: graffiti — street wall murals born in 1970s North America out of hip hop music and spread across Latin American society; spray on wall the basic technique, public walls now granted to groups to paint (student book; original target `visual-art/street-art`) | Book 6, printed p. 236 |
 
-**Acceptance count: taught in 6 countries (Brazil, Bulgaria, Cuba, Venezuela, North Macedonia, Kazakhstan). Before Brazil, this lesson stood on Albania teacher-guide evidence only, named here, counted nowhere.**
+**Acceptance count: taught in 7 countries (Brazil, Bulgaria, Cuba, Venezuela, North Macedonia, Kazakhstan, Dominican Republic). Before Brazil, this lesson stood on Albania teacher-guide evidence only, named here, counted nowhere.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/street-art-and-graffiti`; the Albania placement's original target `visual-art/urban-graffiti` resolves to it in slug-registry Part 2). Albania's own way: the Grade 9 course runs graffiti inside its modern visual-art sequence, between graphic techniques and decorative stamping — a city art taught in the same strand as the classical techniques.
 
@@ -60,3 +60,11 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | Kazakhstan — § 2 (continued). Инсталляция и стрит-арт — what it teaches: инсталляция (installation) — a spatial composition from varied real objects united by a single artistic conception; creating unusual combinations of ordinary things, the artist gives them a new, symbolic sense (the known installators: R. Rauschenberg, E. Kienholz; M. Narymbetov's «Черный ангел» pictured); стрит-арт (street art) — a direction of fine art in which artists' works are placed in the city space (graffiti, murals, drawings on asphalt and so on); one of street art's forms is the мурал (mural) — a large-scale wall image created on a building's facade and other architectural surfaces (the known masters: D. Shabbash, V. Potapov, V. Chtak, A. Tulesova; the mural «Умай» in Shymkent and the mural «Первая ласточка» in Almaty pictured) (student book; original target `visual-art/installation-and-street-art`) | Book 9, printed p. 13 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 10:** *Educación Artística 6° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-008-1. Grade: 12 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 36,099,717 verified on download). Verdict: COMPLETE (as printed; the Annex I third play, "Viendo llover desde el cielo", is present only as its opening page, printed p. 83 — the book itself ends the annex there). Exclusions named, not placed: Unit 4 self-evaluations and crosswords (printed pp. 58–59, 62–63) — assessment only; Annex II resource lists pp. 85–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: the final year goes public — murals after the Dominican muralists, graffiti and kinetic sculpture, street theatre and stilt dancing, an inventory of the community's cultural spaces with an action-plan dossier, music in public space, and a children's flag play that teaches Duarte and the Trinitaria by clowning and merengue. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 1, Artes Visuales: Graffiti en casa — graffiti at home: researching graffiti first, then making it in a home space as an art of the wall (student book; original target `visual-art/graffiti-as-art`) | Book 10, printed pp. 20–21 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

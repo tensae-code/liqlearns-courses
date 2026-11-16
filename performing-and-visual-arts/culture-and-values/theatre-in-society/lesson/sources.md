@@ -1,6 +1,6 @@
 # Sources — Theatre in Society
 
-countries: Ethiopia, Egypt, Vietnam
+countries: Ethiopia, Egypt, Vietnam, Dominican Republic
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -13,7 +13,7 @@ countries: Ethiopia, Egypt, Vietnam
 | Sub lesson 3 — Theatre from history (teacher guide — evidence) (teacher guide — evidence) | The role of theatre art in society — from history, §3.3.3 (teacher guide — evidence) | Grade 4 Teacher's Guide, printed pp. 57–58 |
 | Egypt — Lesson 7, Theatre Unites Us: theatre's role in treating social and personal disagreements — acting a scene of conflict between two people and inventing a positive ending in which the conflict is solved by dialogue and cooperation | Book 2, printed p. 48 |
 
-**Acceptance count: taught in 2 countries (Egypt, Vietnam).** Ethiopia teacher-guide evidence is named here, counted nowhere.
+**Acceptance count: taught in 3 countries (Egypt, Vietnam, Dominican Republic).** Ethiopia teacher-guide evidence is named here, counted nowhere.
 
 This lesson rests only on the Grade 4 teacher guide's §§3.3–3.3.3 (printed pp. 57–58), labelled teacher-guide evidence throughout.
 
@@ -26,3 +26,11 @@ Searchable tags: theatre in society, faith, culture, history, teacher guide evid
 | Vietnam — Bài 1 Recognise — the role of stage art design in life — from the 20th century, with the leap progress of science, technique and electronic technology, sound and lighting, stage art design became an important, indispensable profession in almost all performance events in the world — building the performance space for plays, programmes and events so the viewer imagines the story's situation frames or the impressions of the acts and programmes, and leading the viewer into the art world so the programme is more attractive and vivid (the play "Adventure in the Animation World"; the Odeon of Herodes Atticus, Athens); the profession has many practical applications and diverse demand — in schools, festival and anniversary performances of music and spoken drama need scene and stage design for the collective activities' aesthetic effect, and outside society festivals, events and activities in agencies, organisations, businesses, theatres, film studios, television stations and residential areas always require skilled, creative stage design artists (design forms: singing-dancing-music – drama – variety) (student book) | Book 3, printed p. 12 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 4:** *Educación Artística 6° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-008-1. Grade: 12 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 36,099,717 verified on download). Verdict: COMPLETE (as printed; the Annex I third play, "Viendo llover desde el cielo", is present only as its opening page, printed p. 83 — the book itself ends the annex there). Exclusions named, not placed: Unit 4 self-evaluations and crosswords (printed pp. 58–59, 62–63) — assessment only; Annex II resource lists pp. 85–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: the final year goes public — murals after the Dominican muralists, graffiti and kinetic sculpture, street theatre and stilt dancing, an inventory of the community's cultural spaces with an action-plan dossier, music in public space, and a children's flag play that teaches Duarte and the Trinitaria by clowning and merengue. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 2, Artes Escénicas: Salas teatrales oficiales e independientes — official and independent theatre halls: the country's public and independent cultural buildings (the Sala Carlos Piantini of the Teatro Nacional pictured); making an inventory of my sector's cultural spaces and goods and what they lack, and preparing a dossier with an action plan and offer of theatre services (student book) | Book 4, printed pp. 38–42 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

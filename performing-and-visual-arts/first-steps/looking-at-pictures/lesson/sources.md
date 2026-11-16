@@ -1,6 +1,6 @@
 # Sources — Looking at Pictures
 
-countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwanda, Moldova, Indonesia, Greece, Vietnam, Kazakhstan
+countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwanda, Moldova, Indonesia, Greece, Vietnam, Kazakhstan, Dominican Republic
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -77,7 +77,7 @@ countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwa
 |---|---|
 | Indonesia — Bab II Bicara Tentang Karya — talking about artworks — the basic art vocabulary (point, line, shape, form, colour) and the expression words a work can carry (cheerful, calm, crowded, dark, warm), with positive comments on friends' work (teacher guide — evidence; original target `first-steps/looking-at-pictures`) | Book 17, printed p. 102 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Honduras, Finland, Mongolia, Moldova, Greece, Vietnam, Kazakhstan). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Honduras, Finland, Mongolia, Moldova, Greece, Vietnam, Kazakhstan, Dominican Republic). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 1 rests on the Grade 1 teacher guide's named visual-perception skill and is labelled teacher-guide evidence in the table; the lesson as a whole also rests on the student book's §1.5, so the acceptance count below counts the student book. The four family scenes are the student book's own §1.5 picture pages, described — not reproduced.
 
@@ -182,3 +182,17 @@ Vietnam is added as student-book stock (see its rows above), inside the acceptan
 | Kazakhstan — Quarter 1 "Native expanses of Kazakhstan", Lesson 1 "An excursion to the museum" — what a work of art is; the National Museum of Kazakhstan; masterpieces from Leonardo and Van Gogh to Kasteev and Aitbaev; a baguette frame made for a favourite drawing (student book) | Book 30, printed pp. 4-7 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 31:** *Educación Artística 4° Primaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; contents by MINERD art teachers in 2020–2021 workshops; year 2023; ISBN 978-9945-28-009-8. Grade: 4 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; record pages 80 matches; repo asset byte size 25,203,971 verified on download). Verdict: COMPLETE (printed p. 48 is a blank divider before Annex I, as printed). Exclusions named, not placed: unit self-evaluations (printed pp. 29, 38) — assessment only; Annex II digital/bibliographic resource lists pp. 67–71 (inventory only); the two Annex I plays and the monologue are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: a workbook (cuadernillo) of do-it-at-home activities across three strands — Artes Escénicas, Educación Musical, Artes Visuales — ending in a theatre annex with prize-mentioned Dominican plays: one on the young poet Pedro Mir, one allegory of the Mirabal sisters ("Mariposita Valiente"), so national history is learned by acting it. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 2, Artes Visuales: Veo las cosas diferentes — changing the way of looking: drawing people, animals and things transformed into another representation, because changing how we look is how artworks are recognised (student book) | Book 31, printed pp. 46–47 |
+
+**Book 32:** *Educación Artística 1° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-003-6. Grade: 7 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; record pages 112 matches; repo asset byte size 41,750,476 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 97–103 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: secondary art opens with formal visual reading (inventory, chiaroscuro, texture, colour circle, composition), then stagecraft whole — body, acting, staging, pantomime, monologue — with Dominican content inside it: merengue's variants classified by Fradique Lizardo, merengue rhythm patterns played with pencils, the faceless Limé dolls as national craft, and a theatre annex that mounts a school play and performs "Mariposita Valiente" and an anti-racist play. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 1, Artes Visuales: Inventario visual: mirada formal e iconográfica — the visual inventory: reading a chosen painting twice over, with a formal look (its elements) and an iconographic look (what it means) (student book) | Book 32, printed pp. 16–17 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

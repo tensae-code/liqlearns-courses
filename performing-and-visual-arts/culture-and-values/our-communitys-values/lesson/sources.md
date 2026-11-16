@@ -1,6 +1,6 @@
 # Sources — Our Community's Values
 
-countries: Ethiopia, Guatemala, Nicaragua, Fiji, Libya, Malaysia, Syria, Kazakhstan
+countries: Ethiopia, Guatemala, Nicaragua, Fiji, Libya, Malaysia, Syria, Kazakhstan, Dominican Republic
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
@@ -52,7 +52,7 @@ countries: Ethiopia, Guatemala, Nicaragua, Fiji, Libya, Malaysia, Syria, Kazakhs
 | Syria — Lesson 19 "The Exchange Garden" — let us not throw books in the street — keep them in our home library, share them with classmates and exchange them (student book; original target `culture-and-values/looking-after-shared-things`) | Book 11, printed p. 56 |
 | Syria — Lesson 20 "Behaviours in the Art Lesson" — how to behave in the art lesson — the class's shared rules for making and respecting work (student book; original target `culture-and-values/respecting-others-work`) | Book 11, printed p. 58 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Malaysia, Syria, Kazakhstan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Malaysia, Syria, Kazakhstan, Dominican Republic). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 The values list is Grade 2's own (§3.1–3.1.1, printed p. 48), including shimglina glossed as the book's placements gloss it (elder mediation/reconciliation). The Adwa story stands inside Grade 2's values chapter (its introduction, printed p. 47); the full Adwa telling belongs to the drama-and-dance lessons and is not duplicated here beyond that chapter fact. Exemplarity is Grade 3's own definition (§2.1.4, printed p. 25).
 
@@ -114,3 +114,11 @@ Searchable tags: cultural values, our community's values, shimglina, mesob, rece
 | Kazakhstan — 8-сабақ «Құндылықтар шеңбері» — the Circle of Values drawn as a shanyrak: homeland-mother, land, people, mother tongue, family, flag, anthem, friendship, country — and group creative works on "Отан-Ана" and "Достығымыз жарасқан" (student book) | Book 19, printed p. 29 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count; its teacher-material rows are evidence only, kept outside the acceptance count.
+
+**Book 20:** *Educación Artística 3° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-005-0. Grade: 9 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 38,623,682 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 83–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: a camera-and-screen book — photography as record, light and concept; home cinema and the cine-fórum; black theatre and shadow theatre built from a cardboard box; music as audiovisual language and emotion, patriotic hymns mastered, and music made at home with a virtual flute and a drum-pad app; the annex performs a washerwoman's monologue for the unsung heroes and "Trinidad" again. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 1, Artes Visuales: Proyecto de Artes Visuales para la Convivencia Pacífica y el Diálogo Intercultural — a visual art project for peaceful coexistence and intercultural dialogue, researched from racial and cultural differences (student book) | Book 20, printed pp. 12–13 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

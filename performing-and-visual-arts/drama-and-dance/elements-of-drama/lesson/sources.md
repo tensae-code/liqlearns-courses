@@ -1,6 +1,6 @@
 # Sources — Elements of Drama
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Sri Lanka, Cuba, Venezuela, Indonesia, Greece
+countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Sri Lanka, Cuba, Venezuela, Indonesia, Greece, Dominican Republic
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -52,7 +52,7 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil,
 |---|---|
 | Indonesia — Bab 2 Menulis Lakon — what a lakon (play) is and its function, and the elements that form a lakon (teacher guide — evidence; original target `drama-and-dance/elements-of-drama`) | Book 13, printed p. 85 |
 
-**Acceptance count: taught in 5 countries (Iran, Brazil, Cuba, Venezuela, Greece).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Iran, Brazil, Cuba, Venezuela, Greece, Dominican Republic).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The element list is the guide's own (printed pp. 54–56), given whole; nothing is added to it or taken from it.
 
@@ -88,3 +88,11 @@ Searchable tags: elements of drama, character, tension, symbol, dramatic action,
 | Greece — Zone 7: Δράση (action) (student book) | Book 15, printed  |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 16:** *Educación Artística 5° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-007-4. Grade: 11 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 32,262,874 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 85–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: the avant-gardes are the syllabus — cubism, op art, geometric abstraction, collage, performance, tableau vivant — with theatre history from antiquity to Brecht and a Dominican theatre history to research, dance appreciated aesthetically and danced as a contemporary solo, music heard across eras (Vivaldi, Piazzolla) into electronic vanguards and semiotics, and copyright taught as an artist's working law. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 2, Artes Escénicas: Un Gesto, una acción (semiótica) — a gesture, an action: the semiotics of the stage sign — a sign's relation to its referent (smoke as sign of fire, crying as sign of intense emotion, sadness or joy) (student book) | Book 16, printed pp. 46–47 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

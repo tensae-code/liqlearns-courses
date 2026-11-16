@@ -1,6 +1,6 @@
 # Sources — Dance Education and Indigenous Dance
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Venezuela, Indonesia, Armenia, China, Kazakhstan
+countries: Ethiopia, Samoa, Trinidad and Tobago, Venezuela, Indonesia, Armenia, China, Kazakhstan, Dominican Republic
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -75,7 +75,7 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Venezuela, Indonesia, Armenia, 
 | Armenia — Dance (Պար) — dance introduced as an art type, movement as expression (student book; original target `drama-and-dance/dance-education-and-indigenous-dance`) | Book 13, printed p. 15 |
 
 
-**Acceptance count: taught in 4 countries (Venezuela, Armenia, China, Kazakhstan) — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Venezuela, Armenia, China, Kazakhstan, Dominican Republic) — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 7 teacher guide (printed pp. 86–94) as labelled evidence, including its Paleolithic rock-painting history and its Wolayta Seleme-Seleme viewing example.
 
@@ -96,3 +96,11 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Kazakhstan — Lesson 11 "The art of dance" — dynamics and proportion: how artists show movement (Ysmailova's Kazakh dance paintings); a dancing figure drawn in stages with an emotion (student book; original target `drama-and-dance/dance-and-movement`) | Book 15, printed pp. 48-51 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 16:** *Educación Artística 3° Primaria (Libro Abierto)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), with Fe y Alegría; author Gricel Paulino Adames; year 2024 (Segunda edición 2026); ISBN 978-9945-646-24-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; record pages 80 matches; repo asset byte size 41,596,961 verified on download). Verdict: COMPLETE. Exclusions named, not placed: the four unit Evaluation spreads (printed pp. 24–25, 40–41, 56–57, 72–73) — assessment only; bibliography pp. 74–75. Dominican Republic's own way: the arts are learned by expressing through many media in one book — body, voice, clown and comedy (with Dominican TV comedy characters), string instruments, recycled-material crafts and instruments, the world's folk dances and the country's own merengue, and a first script with its plot parts performed for the community. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 3, Danzamos o bailamos — danza against baile: baile as free, spontaneous expression to a favourite song; danza as coordinated movements in an order (choreography) carrying a message and caring for beauty (student book) | Book 16, printed p. 46 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

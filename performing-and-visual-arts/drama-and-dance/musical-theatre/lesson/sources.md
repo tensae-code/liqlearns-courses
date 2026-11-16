@@ -1,6 +1,6 @@
 # Sources — Musical Theatre
 
-countries: Iceland, Indonesia, North Macedonia, China, Kazakhstan
+countries: Iceland, Indonesia, North Macedonia, China, Kazakhstan, Dominican Republic
 
 **Book 1:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -16,7 +16,7 @@ countries: Iceland, Indonesia, North Macedonia, China, Kazakhstan
 | Indonesia — Bab 4 Memproduksi Pementasan Teater Musikal — producing a musical theatre performance — coordinating acting, music and staging into a full musical show (teacher guide — evidence; original target `drama-and-dance/musical-theatre-production`) | Book 2, printed p. 212 |
 | Indonesia — Bab 1 — the musical-theatre form itself as repertoire — its coordination map of performance elements, with 'The Phantom of the Opera' as the pictured example (teacher guide — evidence; original target `drama-and-dance/musical-theatre-production`) | Book 2, printed p. 48 |
 
-**Acceptance count: taught in 3 countries (North Macedonia, China, Kazakhstan).** Before North Macedonia, this lesson stood on Iceland teacher guide evidence only, named here, counted nowhere. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (North Macedonia, China, Kazakhstan, Dominican Republic).** Before North Macedonia, this lesson stood on Iceland teacher guide evidence only, named here, counted nowhere. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/musical-theatre`). The Iceland placements were filed as NEW LESSON NEEDED under the original string(s) `drama-and-dance/the-icelandic-musical`, `drama-and-dance/the-icelandic-revue`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Iceland's own way, carried in the placements: a listening journey through the whole history of popular music — taught by listening, playing rhythm parts from notation, singing, and dancing, with Iceland's own musicians, revue songs, seamen's songs and dance bands woven through as national content. Songs are placed by their teaching topics only — no lyrics or notation are transcribed.
 
@@ -71,3 +71,11 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Kazakhstan — Lesson 22 «Музыка и театр» — what it teaches: music's work inside a drama performance — it sets the emotional air, underlines the idea, fixes time and place, characterises a person and drives tempo, sounding inside the action or outside it (overture, entr'acte); Beethoven's «Egmont», Mendelssohn's «A Midsummer Night's Dream», Khachaturian's Waltz from «Маскарад», and the Kazakh composers who wrote for drama (student book; original target `drama-and-dance/music-in-the-drama-theatre`) | Book 9, printed p. 94 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 10:** *Educación Artística 2° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-004-3. Grade: 8 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 46,244,303 verified on download). Verdict: COMPLETE. Exclusions named, not placed: the closing Evaluación (printed pp. 80–81) — self-assessment only; Annex resource lists pp. 83–87 (inventory only). One song's printed words (Vicente García's "Dulcito e coco", pp. 46–47) are placed by name and theme only — no lyrics transcribed. Dominican Republic's own way: the arts argue their place in society's history — fluid painting, modelling and the Venus figures, world heritage, theatre that cares for the environment, stage direction and musical theatre, modern-to-urban dance, the messages inside songs, and an applied-arts unit of identity: architectural models of the Colonial City, string art, interior design and clothes re-dyed with natural colours. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 2, Artes Escénicas: El teatro musical / Vamos al teatro a ver un musical — musical theatre: the style that combines music, songs, dialogue and dance on great stages (West End, Broadway), researched in its origin and evolution, with professional productions in Santo Domingo (the Teatro Nacional Eduardo Brito's "Grease" pictured); preparing to attend and study a musical (student book) | Book 10, printed pp. 29–30, 34–35 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Traditional Dances and Culture
 
-countries: Ethiopia, Andorra, Trinidad and Tobago, Belarus, Mongolia, Indonesia
+countries: Ethiopia, Andorra, Trinidad and Tobago, Belarus, Mongolia, Indonesia, Dominican Republic
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -38,8 +38,23 @@ countries: Ethiopia, Andorra, Trinidad and Tobago, Belarus, Mongolia, Indonesia
 |---|---|
 | Indonesia — Unit Pembelajaran 2 Konsep Tari — the concept of dance — what dance is and what makes a movement a dance (teacher guide — evidence; original target `drama-and-dance/traditional-dances-and-culture`) | Book 7, printed p. 35 |
 
-**Acceptance count: taught in 2 countries(Belarus, Mongolia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Belarus, Mongolia, Dominican Republic).** Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 4 teacher guide (printed pp. 36–37, §2.2) as labelled evidence; the definitions are the guide's own framing of the pupil-taught dances.
 
 Searchable tags: culture, bahl, traditional dance, Grade 4 teacher guide, §2.2, evidence
+
+**Book 8:** *Educación Artística 3° Primaria (Libro Abierto)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), with Fe y Alegría; author Gricel Paulino Adames; year 2024 (Segunda edición 2026); ISBN 978-9945-646-24-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; record pages 80 matches; repo asset byte size 41,596,961 verified on download). Verdict: COMPLETE. Exclusions named, not placed: the four unit Evaluation spreads (printed pp. 24–25, 40–41, 56–57, 72–73) — assessment only; bibliography pp. 74–75. Dominican Republic's own way: the arts are learned by expressing through many media in one book — body, voice, clown and comedy (with Dominican TV comedy characters), string instruments, recycled-material crafts and instruments, the world's folk dances and the country's own merengue, and a first script with its plot parts performed for the community. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 3, Danzas populares del mundo — folk dances of the world (at least one European, one African and one Antillean in the unit's contents), danced and located in their countries and continents: the marinera of Peru, the polka, the Agbadza among them, with each dance's costume drawn (student book) | Book 8, printed pp. 44, 47 |
+
+**Book 9:** *Educación Artística 4° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-006-7. Grade: 10 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 35,275,479 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 85–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed; the carnival merengue printed at p. 66 is placed by name and composer only — no lyrics transcribed. Dominican Republic's own way: identity is the whole syllabus — Dominican painting recreated and read as social discourse, merengue danced as UNESCO Intangible Cultural Heritage, popular dances compared (merengue, bachata, dembow), syncretism in the dances, Dominican percussionists and their experimental instruments, bachata patterns on buckets, carnival masks built layer by layer, and patriotic theatre. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 2, Artes Escénicas: Danzas populares — popular dances as expressions that tell much about a people; dancing and comparing merengue, bachata and dembow in a comparison chart (student book) | Book 9, printed pp. 24–25 |
+| Dominican Republic — Unit 3, Educación Musical: Expresión de la danza dominicana — the expression of Dominican dance: naming traditional rhythms, telling which I have danced, and where each comes from — its origin and province (student book) | Book 9, printed pp. 42–43 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

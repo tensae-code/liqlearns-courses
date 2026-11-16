@@ -1,6 +1,6 @@
 # Sources — Art That Teaches the Community
 
-countries: Ethiopia, Egypt, Fiji, Papua New Guinea, Morocco, Libya, Rwanda
+countries: Ethiopia, Egypt, Fiji, Papua New Guinea, Morocco, Libya, Rwanda, Dominican Republic
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -80,7 +80,7 @@ countries: Ethiopia, Egypt, Fiji, Papua New Guinea, Morocco, Libya, Rwanda
 | Rwanda — Part 1 Unit 1 Lesson 3: Singing songs about Peace Education with emotional expressions — peace-education songs performed expressively (teacher guide evidence) (teacher guide — evidence) | Book 13, printed p. 8 |
 
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Rwanda).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Rwanda, Dominican Republic).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 HIV/AIDS and doping are taught exactly in the pupil book's own framing and wording, as a warning teaching. Both songs are placed by name, teaching/purpose and (for the Grade 6 reprint) printed credit line only; no lyrics are transcribed.
 
@@ -92,3 +92,11 @@ Searchable tags: art that teaches the community, traffic safety, The Careful Stu
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Game 4: Traffic Signals (إشارات المرور) — a story-song: Salem hurries across on the red light and the traffic policeman teaches him that red means wait and prepare, yellow means get ready, and green means cross quickly and safely; its teaching aims are respect for traffic signals and love of order, and its musical aim is perceiving the eighth-note sign (teacher guide — evidence; original target `music/art-that-teaches-the-community`) | Book 7, printed pp. 16–17 |
+
+**Book 14:** *Educación Artística 2° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-004-3. Grade: 8 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 46,244,303 verified on download). Verdict: COMPLETE. Exclusions named, not placed: the closing Evaluación (printed pp. 80–81) — self-assessment only; Annex resource lists pp. 83–87 (inventory only). One song's printed words (Vicente García's "Dulcito e coco", pp. 46–47) are placed by name and theme only — no lyrics transcribed. Dominican Republic's own way: the arts argue their place in society's history — fluid painting, modelling and the Venus figures, world heritage, theatre that cares for the environment, stage direction and musical theatre, modern-to-urban dance, the messages inside songs, and an applied-arts unit of identity: architectural models of the Colonial City, string art, interior design and clothes re-dyed with natural colours. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 2, Artes Escénicas: Cuido mi entorno para vivir mejor — preparing a theatre work on caring for the surroundings, in the frame of the "Fábrica de Murales" project (murals, education and art for sustainable development and building citizenship) (student book) | Book 14, printed pp. 26–27 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

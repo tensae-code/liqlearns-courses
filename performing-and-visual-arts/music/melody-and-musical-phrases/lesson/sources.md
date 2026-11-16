@@ -1,6 +1,6 @@
 # Sources — Melody and Musical Phrases
 
-countries: Malaysia, Moldova, Armenia, Greece
+countries: Malaysia, Moldova, Armenia, Greece, Dominican Republic
 
 **Book 1:** *Pendidikan Kesenian Tahun 4 Sekolah Kebangsaan (Kurikulum Standard Sekolah Rendah, Semakan 2017)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019 (Cetakan Pertama 2019); ISBN 978-983-49-2474-8 (as printed on the copyright spread) Tahun 4 / Grade 4 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 57 scan spreads = 108 printed pages (cover/title page verified against the record title; the PDF's internal metadata title "Buku Teks Muzik Tahun 4" is a scanner artefact — the printed cover and contents are Pendidikan Kesenian) Verdict: COMPLETE. Exclusions named: Glosari Seni Visual (printed p. 104) and Glosari Seni Muzik (printed p. 106) — glossaries, inventory-only, not placed. The two term-end exhibition/performance projects (Projek Kesenian Penggal Satu, printed p. 4; Penggal Dua, printed p. 54) are placed below as appreciation/exhibition teaching, not as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
 
@@ -48,7 +48,7 @@ countries: Malaysia, Moldova, Armenia, Greece
 | Armenia — Theme 2: What joins speech and music — the "Musical alphabet" song (Ohanyan) divided into motives, phrases and sentences: how a melody is built like speech (student book; original target `music/melody-and-accompaniment`) | Book 7, printed p. 25 |
 
 
-**Acceptance count: taught in 4 countries (Malaysia, Moldova, Armenia, Greece).** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Malaysia, Moldova, Armenia, Greece, Dominican Republic).** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/melody-and-musical-phrases`). The Malaysia placements were filed as NEW LESSON NEEDED under the original string(s) `music/melodic-contour-and-development`, `music/question-and-answer-melodies`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Malaysia's own way is the lesson itself where the topic is Malaysian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
@@ -74,3 +74,11 @@ Searchable tags: Malaysia, Creating question phrases and answer phrases (frasa s
 | Greece — Chapter 7: Σε ρωτάω κι απαντάς (I ask you and you answer — musical question and answer) (student book; original target `music/question-and-answer-phrasing`) | Book 10, printed p. 13 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 11:** *Educación Artística 1° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-003-6. Grade: 7 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; record pages 112 matches; repo asset byte size 41,750,476 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 97–103 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: secondary art opens with formal visual reading (inventory, chiaroscuro, texture, colour circle, composition), then stagecraft whole — body, acting, staging, pantomime, monologue — with Dominican content inside it: merengue's variants classified by Fradique Lizardo, merengue rhythm patterns played with pencils, the faceless Limé dolls as national craft, and a theatre annex that mounts a school play and performs "Mariposita Valiente" and an anti-racist play. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 3, Educación Musical: Melodías, frases, semifrases y motivo — melody defined (a coherent succession of sounds of different pitch and duration, independent of the words); the motif as the minimal musical cell of three or four notes that motivates a phrase, with the repeated "ojalá" of "Ojalá que llueva café en el campo" as the worked example (song named only); hunting the melody and its elements in a popular song I choose (student book; original target `music/melody-phrases-and-motif`) | Book 11, printed pp. 62–63 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

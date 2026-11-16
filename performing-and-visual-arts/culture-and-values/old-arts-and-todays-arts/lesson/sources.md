@@ -1,6 +1,6 @@
 # Sources — Old Arts and Today's Arts
 
-countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia, Greece, China, Vietnam, Kazakhstan
+countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia, Greece, China, Vietnam, Kazakhstan, Dominican Republic
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -64,7 +64,7 @@ countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Braz
 |---|---|
 | Syria — Lesson 29 "From Human Heritage: The Radio" — the old radio as human heritage — how its making developed across the ages, what it meant in grandparents' lives, drawing a family listening together (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 15, printed p. 60 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia, Greece, China, Vietnam, Kazakhstan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.**
+**Acceptance count: taught in 16 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia, Greece, China, Vietnam, Kazakhstan, Dominican Republic). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 The definition of ancient arts, the oral-to-recorded contrast and the protection ruling are Grade 3's own words (printed pp. 45 and 58), taught as printed. The closing exercise's keyed-false item (wedding poems and melodies are the same in all areas — false) is taught as the book keys it.
 
@@ -137,3 +137,11 @@ Vietnam is added as student-book stock (see its rows above), inside the acceptan
 | Kazakhstan — Lesson 21 "Traditions of the Kazakh people" — ornamented chests (sandyk), carved wooden dishes, silver jewellery by zergers (jewellers), the ornamented dombra and national dress: decorating things (ashekeyleu) as the people's art (student book) | Book 23, printed pp. 102-104 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 24:** *Educación Artística 3° Primaria (Libro Abierto)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), with Fe y Alegría; author Gricel Paulino Adames; year 2024 (Segunda edición 2026); ISBN 978-9945-646-24-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; record pages 80 matches; repo asset byte size 41,596,961 verified on download). Verdict: COMPLETE. Exclusions named, not placed: the four unit Evaluation spreads (printed pp. 24–25, 40–41, 56–57, 72–73) — assessment only; bibliography pp. 74–75. Dominican Republic's own way: the arts are learned by expressing through many media in one book — body, voice, clown and comedy (with Dominican TV comedy characters), string instruments, recycled-material crafts and instruments, the world's folk dances and the country's own merengue, and a first script with its plot parts performed for the community. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 3, Cultura dominicana y foránea — Dominican culture and foreign cultures: what culture is, what we celebrate as Dominicans, and an identity mural researched from magazines and newspapers (student book) | Book 24, printed pp. 48–49 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

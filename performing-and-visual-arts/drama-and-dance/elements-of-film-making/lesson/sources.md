@@ -1,6 +1,6 @@
 # Sources — Elements of Film Making
 
-countries: Ethiopia, Serbia, Suriname, Venezuela, Armenia
+countries: Ethiopia, Serbia, Suriname, Venezuela, Armenia, Dominican Republic
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -43,8 +43,17 @@ countries: Ethiopia, Serbia, Suriname, Venezuela, Armenia
 | Armenia — Theme 2.2: Music and cinema — cinema as a synthetic visual art resting on script, décor, acting and music; silent film and the first sound film (1928); Armenian cinema and the Hayfilm studio (student book; original target `drama-and-dance/elements-of-film-making`) | Book 8, printed pp. 84–91 |
 
 
-**Acceptance count: taught in 3 countries (Serbia, Venezuela, Armenia). Ethiopia teacher-guide evidence is named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Serbia, Venezuela, Armenia, Dominican Republic). Ethiopia teacher-guide evidence is named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 5–6) as labelled evidence. The G8 guide's Units 4–5 are EVIDENCE-LIMITED (contents + syllabus only); this topic sits in the guide's full body (Units 1–3), so it is labelled teacher-guide evidence without the limited tag.
 
 Searchable tags: film making, camera shots, mise-en-scène, lighting, editing, Grade 8 teacher guide, evidence, Armenia
+
+**Book 9:** *Educación Artística 3° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-005-0. Grade: 9 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 38,623,682 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 83–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: a camera-and-screen book — photography as record, light and concept; home cinema and the cine-fórum; black theatre and shadow theatre built from a cardboard box; music as audiovisual language and emotion, patriotic hymns mastered, and music made at home with a virtual flute and a drum-pad app; the annex performs a washerwoman's monologue for the unsung heroes and "Trinidad" again. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 1, Artes Visuales: Produzco cine en casa — producing cinema at home: visiting the location, photographing it, holding it in mind, giving the team its space, and thinking about sound, because impeccable sound matters (student book) | Book 9, printed pp. 20–21 |
+| Dominican Republic — Unit 1, Artes Visuales: Cortometraje sobre la "Integración familiar en tiempos especiales" — a short film on family integration in special times, planned with its human resources and its lighting resources (fluorescent or traditional lamps) (student book) | Book 9, printed pp. 24–25 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

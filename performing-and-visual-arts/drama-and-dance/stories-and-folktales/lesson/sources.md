@@ -1,6 +1,6 @@
 # Sources — Stories and Folktales
 
-countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil, Morocco, Libya, Venezuela, Mongolia, Indonesia, China, Vietnam, Kazakhstan
+countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil, Morocco, Libya, Venezuela, Mongolia, Indonesia, China, Vietnam, Kazakhstan, Dominican Republic
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -86,7 +86,7 @@ countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Surin
 |---|---|
 | Indonesia — Bab I — storytelling (mendongeng) — narrative structure, vocabulary and emotional expression in telling (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 18, printed p. 20 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Finland, Fiji, Brazil, Venezuela, Mongolia, China, Vietnam, Kazakhstan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Finland, Fiji, Brazil, Venezuela, Mongolia, China, Vietnam, Kazakhstan, Dominican Republic). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 All three stories are taught as PLOT SUMMARY ONLY, exactly as the placements give them — no sentence of the books' text is reproduced. The Grade 1 and Grade 2 teacher guides' tales-and-riddles placements (g01-teacher p. 47 §3.3; g02-teacher pp. 46–48 §3.3) name tales and riddles as theatre's roots; that framing is carried in this lesson's plan level line and in the Riddles lesson, labelled there as teacher-guide evidence, and does not change this lesson's pupil-book count.
 
@@ -143,3 +143,11 @@ Vietnam is added as student-book stock (see its rows above), inside the acceptan
 | Kazakhstan — Lessons 11-12 "A fairy-tale town" and "The magic world of fairy tales" — the tale built and pictured (student book) | Book 24, printed pp. 42-47 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 25:** *Educación Artística 6° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-008-1. Grade: 12 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 36,099,717 verified on download). Verdict: COMPLETE (as printed; the Annex I third play, "Viendo llover desde el cielo", is present only as its opening page, printed p. 83 — the book itself ends the annex there). Exclusions named, not placed: Unit 4 self-evaluations and crosswords (printed pp. 58–59, 62–63) — assessment only; Annex II resource lists pp. 85–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: the final year goes public — murals after the Dominican muralists, graffiti and kinetic sculpture, street theatre and stilt dancing, an inventory of the community's cultural spaces with an action-plan dossier, music in public space, and a children's flag play that teaches Duarte and the Trinitaria by clowning and merengue. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Annex I, Teatro: "Viendo llover desde el cielo" (in honour of Gabriel García Márquez; José Miguel Alzate, adaptation) — a stage adaptation honouring García Márquez, present in this book only as its opening page (named as printed) (student book) | Book 25, printed p. 83 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Observing Our Surroundings
 
-countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Indonesia, Greece, China, Vietnam, Kazakhstan
+countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Indonesia, Greece, China, Vietnam, Kazakhstan, Dominican Republic
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -85,7 +85,7 @@ countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Bel
 |---|---|
 | Indonesia — BAB I Ekspedisi Visual — a visual expedition — going out to observe, record and gather visual material from the world as an artist's research (teacher guide — evidence; original target `visual-art/visual-expedition`) | Book 20, printed p. 32 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova, Greece, China, Vietnam, Kazakhstan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 14 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova, Greece, China, Vietnam, Kazakhstan, Dominican Republic). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The definition of surroundings and the sound/movement distinction are the Grade 1 book's own Chapter 1 summary words (printed pp. 14–15), taught as the book states them. The teacher-guide row is evidence for the same watching skill and is labelled as such; the lesson's pupil-taught content rests on the student book.
 
@@ -159,3 +159,11 @@ Vietnam is added as student-book stock (see its rows above), inside the acceptan
 | Kazakhstan — Term 3 "Journey", Lesson 17 "Journey — the road to knowledge" — the beautiful places of the homeland, looked at closely (student book) | Book 27, printed pp. 74-75 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 28:** *Educación Artística 3° Primaria (Libro Abierto)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), with Fe y Alegría; author Gricel Paulino Adames; year 2024 (Segunda edición 2026); ISBN 978-9945-646-24-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; record pages 80 matches; repo asset byte size 41,596,961 verified on download). Verdict: COMPLETE. Exclusions named, not placed: the four unit Evaluation spreads (printed pp. 24–25, 40–41, 56–57, 72–73) — assessment only; bibliography pp. 74–75. Dominican Republic's own way: the arts are learned by expressing through many media in one book — body, voice, clown and comedy (with Dominican TV comedy characters), string instruments, recycled-material crafts and instruments, the world's folk dances and the country's own merengue, and a first script with its plot parts performed for the community. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 2, Paisaje rural y urbano — telling the rural landscape from the urban landscape in pictures: what each shows, its common sounds, and describing the place where I live (student book) | Book 28, printed pp. 36–37 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Listening to Music
 
-countries: Sri Lanka, Libya, Mongolia, Armenia, North Macedonia, Greece, China, Kazakhstan
+countries: Sri Lanka, Libya, Mongolia, Armenia, North Macedonia, Greece, China, Kazakhstan, Dominican Republic
 
 **Book 1:** *Western Music — Teachers' Guide, Grade 9 (Implemented from 2018)* (teacher guide, English) — Sri Lanka, Department of Aesthetic Education, National Institute of Education, Maharagama, Sri Lanka; first print 2017; ISBN line printed blank. Grade: 9 (student/teacher: TEACHER). PDF pages: 100. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -116,7 +116,7 @@ countries: Sri Lanka, Libya, Mongolia, Armenia, North Macedonia, Greece, China, 
 | Armenia — Your own taste, examined (teacher-guide evidence) — among the aims: give learners the chance to reflect on their own musical preferences, justify them and reach independent conclusions (teacher guide — evidence; original target `music/listening-and-describing`) | Book 18, printed p. 10 |
 
 
-**Acceptance count: taught in 6 countries (Mongolia, Armenia, North Macedonia, Greece, China, Kazakhstan).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count; the earlier evidence-only entries stay outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Mongolia, Armenia, North Macedonia, Greece, China, Kazakhstan, Dominican Republic).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count; the earlier evidence-only entries stay outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/listening-to-music`); the Sri Lanka placements were filed under the original string(s) `music/listening-and-responding-to-music` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -247,3 +247,11 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Kazakhstan — Lesson 27 «Интеллектуальная музыка» — what it teaches: intellectual music — works of complex form and deep philosophical content that ask much of player and listener; in Kazakh music, songs and kui carrying philosophical, aesthetic and ethical thought (student book; original target `music/intellectual-music-deep-listening`) | Book 31, printed p. 109 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 32:** *Educación Artística 5° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-007-4. Grade: 11 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 32,262,874 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 85–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: the avant-gardes are the syllabus — cubism, op art, geometric abstraction, collage, performance, tableau vivant — with theatre history from antiquity to Brecht and a Dominican theatre history to research, dance appreciated aesthetically and danced as a contemporary solo, music heard across eras (Vivaldi, Piazzolla) into electronic vanguards and semiotics, and copyright taught as an artist's working law. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 3, Educación Musical: Escuchando a Piazzolla y Vivaldi — guided listening across eras: Vivaldi, the baroque composer-violinist of some 800 works, and Piazzolla, heard and compared as works of different epochs (student book; original target `music/guided-listening-across-eras`) | Book 32, printed pp. 50–51 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

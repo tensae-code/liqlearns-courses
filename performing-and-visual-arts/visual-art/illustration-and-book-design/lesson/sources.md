@@ -1,6 +1,6 @@
 # Sources — Illustration and Book Design
 
-countries: Belarus, Bulgaria, Sri Lanka, Afghanistan, Rwanda, Indonesia
+countries: Belarus, Bulgaria, Sri Lanka, Afghanistan, Rwanda, Indonesia, Dominican Republic
 
 **Book 1:** *Выяўленчае мастацтва. 5 клас (Fine Arts, Grade 5)* (student book, Belarusian) — Belarus, Нацыянальны інстытут адукацыі (National Institute of Education), Minsk; year 2009; ISBN 978-985-465-593-2; authors М. І. Касабуцкі (M. I. Kasabutski), В. М. Касабуцкі (V. M. Kasabutski); approved by the Ministry of Education of the Republic of Belarus. Title as printed: ВЫЯЎЛЕНЧАЕ МАСТАЦТВА — Вучэбны дапаможнік для 5 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання. Для работы ў класе (Fine Arts — textbook for Grade 5, for work in class). Grade 5 (student book: STUDENT). PDF pages: 96 (imprint title verified against the record; byte size 7,948,218). Verdict: COMPLETE — read in full from the downloaded file's text layer, page by page through all 28 numbered sections (contents verified at printed p. 94); the "Пытанні і творчыя заданні" (questions and creative tasks) pages are named here as apparatus and not placed separately. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
@@ -21,7 +21,7 @@ countries: Belarus, Bulgaria, Sri Lanka, Afghanistan, Rwanda, Indonesia
 |---|---|
 | Indonesia — Bab 2, Cara Membangun Kemampuan — painting sparked by a story — a storybook read aloud used as the trigger (pemantik) for children's painting exploration (teacher guide — evidence; original target `visual-art/painting-inspired-by-stories`) | Book 6, printed p. 81 |
 
-**Acceptance count: taught in 4 countries (Belarus, Bulgaria, Afghanistan, Rwanda).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Belarus, Bulgaria, Afghanistan, Rwanda, Dominican Republic).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/illustration-and-book-design`). The Belarus placement(s) were filed under the original string(s) `visual-art/stylising-shapes`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -53,3 +53,11 @@ Searchable tags: illustration, book design, stylisation, geometric forms, Belaru
 | Afghanistan — Lesson 11: Painting from poetry (نقاشی از شعر) — making a painting out of a poem (student book; original target `visual-art/painting-from-poetry`) | Book 4, printed p. 31 |
 
 Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 7:** *Educación Artística 3° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-005-0. Grade: 9 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 38,623,682 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 83–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: a camera-and-screen book — photography as record, light and concept; home cinema and the cine-fórum; black theatre and shadow theatre built from a cardboard box; music as audiovisual language and emotion, patriotic hymns mastered, and music made at home with a virtual flute and a drum-pad app; the annex performs a washerwoman's monologue for the unsung heroes and "Trinidad" again. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 4, Artes Aplicadas: Estilizando formas y figuras como síntesis del diseño de ilustraciones — stylising forms and figures as the synthesis of illustration design: the steps of stylising an image on a theme from daily, historical or social life (student book; original target `visual-art/stylisation-in-illustration-design`) | Book 7, printed pp. 56–57 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

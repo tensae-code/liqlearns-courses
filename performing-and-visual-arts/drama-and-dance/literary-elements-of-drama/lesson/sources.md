@@ -1,6 +1,6 @@
 # Sources — Literary Elements of Drama
 
-countries: Ethiopia, Colombia, Venezuela, Indonesia, Armenia, Greece
+countries: Ethiopia, Colombia, Venezuela, Indonesia, Armenia, Greece, Dominican Republic
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -31,7 +31,7 @@ countries: Ethiopia, Colombia, Venezuela, Indonesia, Armenia, Greece
 | Armenia — Ancient Greek drama; the Greek tragedians — tragedy and its great writers (student book; original target `drama-and-dance/literary-elements-of-drama`) | Book 5, printed p. 74 |
 
 
-**Acceptance count: taught in 4 countries (Colombia, Venezuela, Armenia, Greece).** Ethiopia teacher-guide evidence is named here, counted nowhere. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Colombia, Venezuela, Armenia, Greece, Dominican Republic).** Ethiopia teacher-guide evidence is named here, counted nowhere. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 8–10) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 
@@ -50,3 +50,11 @@ Searchable tags: Aristotle, literary elements, plot, climax, denouement, Grade 8
 | Greece — Zone 9: Δραματοποίηση 1: Δραματική ανάλυση (dramatisation 1 — dramatic analysis) (student book) | Book 7, printed  |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 8:** *Educación Artística 3° Primaria (Libro Abierto)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), with Fe y Alegría; author Gricel Paulino Adames; year 2024 (Segunda edición 2026); ISBN 978-9945-646-24-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; record pages 80 matches; repo asset byte size 41,596,961 verified on download). Verdict: COMPLETE. Exclusions named, not placed: the four unit Evaluation spreads (printed pp. 24–25, 40–41, 56–57, 72–73) — assessment only; bibliography pp. 74–75. Dominican Republic's own way: the arts are learned by expressing through many media in one book — body, voice, clown and comedy (with Dominican TV comedy characters), string instruments, recycled-material crafts and instruments, the world's folk dances and the country's own merengue, and a first script with its plot parts performed for the community. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 4, La trama en las artes escénicas — the plot (trama) of a performing work: its three parts inicio (beginning), nudo (knot/conflict) and desenlace (ending), found inside a story about Carla's embarrassment; the performing arts named as theatre, song and dance on a stage before an audience (student book) | Book 8, printed pp. 64–66 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

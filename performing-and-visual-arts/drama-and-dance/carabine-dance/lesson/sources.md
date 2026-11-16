@@ -1,0 +1,16 @@
+# Sources — Carabiné Dance of the Dominican Republic
+
+countries: Dominican Republic
+
+**Book 1:** *Educación Artística 6° Primaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-011-1. Grade: 6 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; record pages 80 matches; repo asset byte size 22,955,599 verified on download). Verdict: COMPLETE. Exclusions named, not placed: unit Evaluations (printed pp. 34–35, 60–61) — assessment, crossword and word-search only; Annex resource lists pp. 63–71 (templates and inventory only — the sock-puppet template p. 65 and carabiné cut-out costume pieces p. 66 are apparatus for activities already placed). Dominican Republic's own way: technique first (drawing, shading, still life, stamping, engraving, vocal technique, mouth puppets), then research as an art skill — analysing a short film and TV, visiting the Prado virtually, filming an autobiography — and folklore studied and done: the carabiné dance with its bastonero, an inventory of Dominican folk rhythms, and the tambora and güira played and built. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Unit 2, Artes Escénicas: El carabiné — the carabiné, a Dominican folk rhythm and dance from the early-19th-century French occupation: soldiers on duty are said to have danced in coordination with the carbine on the shoulder; of strong African influence, an ancestor of merengue and kompa, played with tambora, pandero and acordeón like the mangulina and pambiche (original target `drama-and-dance/carabine-dance-of-the-dominican-republic`) | Book 1, printed p. 49 |
+| Sub lesson 2 — Unit 2, Artes Escénicas: A bailar en la punt'el pie / Elementos para el baile del carabiné — dancing the carabiné on tiptoe under the bastonero (caller): the opening sway, gentlemen circling and changing ladies until each finds his partner, the ordered turns ("ron entre ron" — circle upon circle), and the closing reverencia (bow) to the public; its dress — her skirt with two pleats, side bun and showy rose, his blue jacket and trousers, cane hat and bow tie (original target `drama-and-dance/carabine-dance-of-the-dominican-republic`) | Book 1, printed pp. 50–52 |
+
+**Acceptance count: taught in 1 country (Dominican Republic).**
+
+This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/carabine-dance`); the Dominican Republic placements were filed under the original string(s) `drama-and-dance/carabine-dance-of-the-dominican-republic`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Dominican Republic's own way: the carabiné is taught whole — its soldier origin story, its African strength, its place as ancestor of merengue and kompa, and its full dancing order with the bastonero, the turns and the closing reverencia.
+
+Searchable tags: carabiné, folk dance, bastonero, tiptoe, merengue ancestor, Dominican Republic

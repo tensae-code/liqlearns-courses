@@ -1,6 +1,6 @@
 # Sources — Land Art
 
-countries: Syria, North Macedonia, Greece
+countries: Syria, North Macedonia, Greece, Dominican Republic
 
 **Book 1:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Basic Education Stage, Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education (specialist committee authorship); year: first printed 2017-2018, this copy school year 2021-2022; no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 67 (cover/title pages verified against the record title; byte size 525,814,190 matches record; image-heavy scan read visually page by page with its text layer). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
 
@@ -21,7 +21,7 @@ countries: Syria, North Macedonia, Greece
 | Syria — "I Contemplate Art in Nature" — contemplating the shape of the clouds, the sand dunes and mountains in the desert, natural erosion forming spontaneous artworks, and the caves in the mountains (student book; original target `first-steps/art-in-nature-land-art`) | Book 3, printed p. 36 |
 | Syria — Companion activities — creating an artwork from your imagination using environment waste during a trip you take (student book; original target `first-steps/art-in-nature-land-art`) | Book 3, printed p. 45 |
 
-**Acceptance count: taught in 3 countries (Syria, North Macedonia, Greece).**
+**Acceptance count: taught in 4 countries (Syria, North Macedonia, Greece, Dominican Republic).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/land-art`). The Syria placements were filed under the original string(s) `first-steps/art-in-nature-land-art`, `first-steps/designing-a-peace-garden`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. Syria's own way is the lesson itself where the topic is Syrian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
@@ -60,3 +60,11 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | Greece — Unit B B5: Τέχνη της γης (art of the earth — land art, making art with and in the land itself) (student book) | Book 8, printed p. 48 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 9:** *Educación Artística 3° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-005-0. Grade: 9 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 38,623,682 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 83–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: a camera-and-screen book — photography as record, light and concept; home cinema and the cine-fórum; black theatre and shadow theatre built from a cardboard box; music as audiovisual language and emotion, patriotic hymns mastered, and music made at home with a virtual flute and a drum-pad app; the annex performs a washerwoman's monologue for the unsung heroes and "Trinidad" again. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 4, Artes Aplicadas: Reconozco mi entorno. Lo imagino y se materializa — recognising my surroundings, imagining them and making them material: art the tide carries away, after Jamie Harkins's beach works at Mount Maunganui — drawings made in the sand of one's own shore (student book; original target `visual-art/ephemeral-land-art`) | Book 9, printed pp. 62–63 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

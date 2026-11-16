@@ -1,6 +1,6 @@
 # Sources — Op Art and Optical Illusions
 
-countries: Serbia, Brazil, Syria, North Macedonia, Greece
+countries: Serbia, Brazil, Syria, North Macedonia, Greece, Dominican Republic
 
 **Book 1:** *Ликовна култура — за 3. разред основне школе (Likovna kultura / Visual Culture — for Grade 3 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković), illustrations by Слађана Љубић (Slađana Ljubić); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2020 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20327-4; approved for Grade 3 use by ministerial decision 650-02-00629/2019-07 of 16 January 2020, Grade 3, 76 PDF pp. STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (printed pp. 22, 38, 54); the story "Јежић" (The Little Hedgehog) by Elena Mikhalenko (printed pp. 57–59) — a reading text, named and not placed, its classroom use placed from printed p. 51; the work appendix (ornament strips printed pp. 55–56, picture grounds printed pp. 61–71, cut-out sculptures printed p. 73) — their classroom uses placed from printed pp. 7 and 9; the closing contents (printed pp. 74–75) and colophon — inventory only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -38,7 +38,7 @@ countries: Serbia, Brazil, Syria, North Macedonia, Greece
 | Syria — Lesson 2 "Straight Lines and Their Harmony with Black and White" — observe how man benefited from straight lines in black and white and employed them in his daily life (the cushions); think of forming an artwork from straight lines in black and white to create visual movement (student book; original target `visual-art/op-art-optical-illusion`) | Book 5, printed p. 5 |
 | Syria — Lesson 11 (the Op Art panel) — contemplating the panel before you, which forms an optical illusion (Op Art) through the perspective straight lines that form surfaces and volumes; forming an optical artwork showing the importance of the surfaces and perspective straight lines that turned the compositions into volumes (student book; original target `visual-art/op-art-optical-illusion`) | Book 5, printed p. 22 |
 
-**Acceptance count: taught in 5 countries (Serbia, Brazil, Syria, North Macedonia, Greece). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
+**Acceptance count: taught in 6 countries (Serbia, Brazil, Syria, North Macedonia, Greece, Dominican Republic). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/op-art-and-optical-illusions`); the Serbia placements were filed under the original string(s) `visual-art/optical-illusions`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: optical illusion is taught by testing — the child measures the dotted and arrowed lines for sameness of length and judges whether the blue and red circles rest or move, before following Vasarely.
 
@@ -66,3 +66,11 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | Greece — Εργασία 26: Χώρος — μορφή και φόντο (Figure and ground) — in black-and-white images the figure-ground relation flips — focus on the black shapes and they come forward, focus on the white and they do (workbook; original target `visual-art/optical-illusions`) | Book 8, printed p. 28 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 9:** *Educación Artística 5° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-007-4. Grade: 11 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 32,262,874 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 85–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: the avant-gardes are the syllabus — cubism, op art, geometric abstraction, collage, performance, tableau vivant — with theatre history from antiquity to Brecht and a Dominican theatre history to research, dance appreciated aesthetically and danced as a contemporary solo, music heard across eras (Vivaldi, Piazzolla) into electronic vanguards and semiotics, and copyright taught as an artist's working law. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 1, Artes Visuales: Op Art — Op Art ("arte óptico"), the mid-20th-century movement that creates optical effects and illusions of movement (student book; original target `visual-art/op-art-optical-art`) | Book 9, printed p. 17 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

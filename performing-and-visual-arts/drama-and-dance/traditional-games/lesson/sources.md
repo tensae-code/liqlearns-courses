@@ -1,6 +1,6 @@
 # Sources — Traditional Games
 
-countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria, Angola, Indonesia, China, Kazakhstan
+countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria, Angola, Indonesia, China, Kazakhstan, Dominican Republic
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -54,7 +54,7 @@ countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria, Angola, Indonesia
 |---|---|
 | Indonesia — Unit Pembelajaran 2 Menata Gerak Tari Kreasi Baru — traditional games as dance themes, named and described — Terompah Panjang/Bakiak (long wooden clogs walked in together), Lompat Tali, Petak Umpet, and Cublak-cublak Suweng of Central Java, Yogyakarta and East Java — with Bakiak, Cublak-cublak Suweng and Gobag Sodor dance videos appreciated (teacher guide — evidence; original target `drama-and-dance/traditional-games`) | Book 11, printed p. 89 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Angola, China, Kazakhstan).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Angola, China, Kazakhstan, Dominican Republic).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Per STRUCTURE.md, the Practical Exercises chapter opener stocks into this lesson as its opening part; the opener's other strands (notes on drums, colour mixing, calligraphy, leaf printing) belong to their own lessons and are not stocked here, and its Review fold is carried by those same lessons. The games' songs (the Dimbushe Gela song, the Qilmosh counting song beyond the one refrain line the placement itself quotes, and ገመድ ዝለሉ Gemed Zilelu) are placed by name and shape only; verses are not transcribed.
 
@@ -100,3 +100,23 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Kazakhstan — 6-сабақ — the game «Жасырынбақ» (Hide-and-Seek): two teams find the words about respect hidden inside counsel verses, then sing the found words to a given notation together (student book; original target `drama-and-dance/hidden-words-song-game`) | Book 16, printed p. 26 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 17:** *Educación Artística 2° Primaria (Libro Abierto)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023 (1ra Edición 2024); ISBN 978-9945-646-23-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; record pages 80 matches). Verdict: COMPLETE. Exclusions named, not placed: the four unit Evaluation spreads (printed pp. 24–25, 40–41, 56–57, 72–73) — assessment only; bibliography pp. 74–75. Dominican Republic's own way: art is taught through the child's own body and emotions first, then through Dominican carnival — its characters, comparsas, recycled costumes and masks — and through the pregoneros (street criers) and the country's own percussion (güira, tambora, acordeón); posters carry the class's message to the community. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 1, Juego y canto — Dominican traditional games with songs and movement handed down in families: "A la rueda, rueda", "Las cortinas del palacio", "El gato y el ratón", "El pañuelo", "Un, dos, tres, pisá colá" (student book) | Book 17, printed p. 13 |
+
+**Book 18:** *Educación Artística 5° Primaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; contents by MINERD art teachers in 2020–2021 workshops; year 2023; ISBN 978-9945-28-010-4. Grade: 5 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; record pages 80 matches; repo asset byte size 21,297,834 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II digital/bibliographic resource lists pp. 67–71 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: the Grade 5 cuadernillo turns to cultural identity — mime and puppets, Picasso's collage and papier-mâché, Dominican vernacular architecture studied like a reporter and rebuilt as a model, traditional ring games — and an annex of patriotic plays (Duarte three times over, the independence founders, Trinidad Sánchez, Ercilia Pepín) that teach the nation's history on stage. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 2, Artes Escénicas: Me divierto jugando diferentes juegos infantiles tradicionales — traditional ring games (juegos de ronda) of Dominican folklore: "Mambrú se fue a la guerra" and "Un, dos, tres, pisá colao" named as clues; listing the ring games I know, asking parents and grandparents, and playing one I barely know (student book) | Book 18, printed pp. 32–33 |
+
+**Book 19:** *Educación Artística 6° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-008-1. Grade: 12 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 36,099,717 verified on download). Verdict: COMPLETE (as printed; the Annex I third play, "Viendo llover desde el cielo", is present only as its opening page, printed p. 83 — the book itself ends the annex there). Exclusions named, not placed: Unit 4 self-evaluations and crosswords (printed pp. 58–59, 62–63) — assessment only; Annex II resource lists pp. 85–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: the final year goes public — murals after the Dominican muralists, graffiti and kinetic sculpture, street theatre and stilt dancing, an inventory of the community's cultural spaces with an action-plan dossier, music in public space, and a children's flag play that teaches Duarte and the Trinitaria by clowning and merengue. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 2, Artes Escénicas: Construimos nuestros zancos, bailamos y nos divertimos — building our own small stilts (zancos) from tins, decorating them with paint, drawings or glued cloths with an adult's help, then dancing on them (student book; original target `drama-and-dance/zancos-stilt-dancing`) | Book 19, printed pp. 36–37 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

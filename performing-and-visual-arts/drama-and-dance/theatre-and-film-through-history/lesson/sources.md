@@ -1,6 +1,6 @@
 # Sources — Theatre and Film Through History
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba, Venezuela, Mongolia, Armenia, Greece, China
+countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba, Venezuela, Mongolia, Armenia, Greece, China, Dominican Republic
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -87,7 +87,7 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba,
 | Armenia — The 19TH CENTURY IN CINEMA — Victor Fleming's "Gone with the Wind" (1939); Scorsese's "The Age of Innocence" (1993); Bondarchuk's "War and Peace" (1967); Parajanov's "Hakob Hovnatanyan" (1967) (student book; original target `drama-and-dance/the-birth-of-cinema`) | Book 19, printed p. 119 |
 
 
-**Acceptance count: taught in 8 countries (Ethiopia, Brazil, Cuba, Venezuela, Mongolia, Armenia, Greece, China).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Brazil, Cuba, Venezuela, Mongolia, Armenia, Greece, China, Dominican Republic).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Claims of firsts are taught as their sources give them: Fabula is 'probably the first original African play' and Hager Fikir the 'oldest indigenous theatre in Africa' — the guide's own wordings, kept with their caution. The Grade 10 guide records no separate 'Lesson 27' heading in its theatre sequence; the lesson follows its placements (Lesson 26 African theatre onward) and claims nothing about a Lesson 27.
 
@@ -124,3 +124,18 @@ Greece is added as student-book stock (see its rows above), inside the acceptanc
 | China — Unit 1 §2 — music in drama — xiqu and its music; opera and musical and their music; music in spoken drama, film and TV (student book) | Book 21, printed pp. 9–15 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 22:** *Educación Artística 4° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-006-7. Grade: 10 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 35,275,479 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 85–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed; the carnival merengue printed at p. 66 is placed by name and composer only — no lyrics transcribed. Dominican Republic's own way: identity is the whole syllabus — Dominican painting recreated and read as social discourse, merengue danced as UNESCO Intangible Cultural Heritage, popular dances compared (merengue, bachata, dembow), syncretism in the dances, Dominican percussionists and their experimental instruments, bachata patterns on buckets, carnival masks built layer by layer, and patriotic theatre. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 2, Artes Escénicas: La escena caribeña — the Caribbean scene: its principal groups and techniques, among representative Caribbean theatre works with their common themes (student book) | Book 22, printed pp. 36–37 |
+
+**Book 23:** *Educación Artística 5° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-007-4. Grade: 11 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 32,262,874 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 85–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: the avant-gardes are the syllabus — cubism, op art, geometric abstraction, collage, performance, tableau vivant — with theatre history from antiquity to Brecht and a Dominican theatre history to research, dance appreciated aesthetically and danced as a contemporary solo, music heard across eras (Vivaldi, Piazzolla) into electronic vanguards and semiotics, and copyright taught as an artist's working law. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 2, Artes Escénicas: Historia del Teatro Occidental — the history of western theatre by milestones, from antiquity to the 19th century: the Renaissance breaking with medieval tradition in the 16th century and exalting human qualities, and the styles, forms and schools enriched century by century (student book) | Book 23, printed pp. 32–34 |
+| Dominican Republic — Unit 2, Artes Escénicas: Investigar la historia del teatro dominicano — researching the history of Dominican theatre as our own stage past (student book) | Book 23, printed p. 35 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

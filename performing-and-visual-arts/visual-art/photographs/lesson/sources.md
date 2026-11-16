@@ -1,6 +1,6 @@
 # Sources — Photographs
 
-countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia, Greece, Vietnam, Kazakhstan
+countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia, Greece, Vietnam, Kazakhstan, Dominican Republic
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -51,7 +51,7 @@ countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Sy
 |---|---|
 | Syria — Lesson 29 "From Human Heritage: The Camera" — humanity's drive to document by image, from cave drawing to Ibn al-Haytham founding optics and the camera (qamara), drawing a person photographing with an old camera (student book; original target `visual-art/photographs`) | Book 11, printed p. 61 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia, Greece, Vietnam, Kazakhstan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia, Greece, Vietnam, Kazakhstan, Dominican Republic). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: every photograph in this lesson is described only as its placement describes it — the Sof Omar cave as a cave entrance in rock, the Tis Abay Falls as a wide waterfall, Bete Giyorgis as the rock-hewn church of St George at Lalibela, the Axum stele standing among ruins, Fasilides' castle at Gondar, Abebe Bikila running on a stadium track in a race, the walia standing on rocks against the sky, the Abbay Dam as a dam wall with water pouring through, and the market, harvest, landscape and aeroplane photographs as the Grade 2 figures name them. No photographic detail beyond the placements has been added. The Grade 3 page (Book 2, p. 68) also carries a chapter summary and closing exercise and a Review placement for Appreciating the Arts; only its two photographs and the "which pleased you" activity are stocked here, as the structure map directs — the review fold belongs to the First Steps appreciating lesson.
 
@@ -156,3 +156,12 @@ Vietnam is added as student-book stock (see its rows above), inside the acceptan
 | Kazakhstan — photographing one city view at different times of day and analysing how its colour harmony changes (Almaty canal photographs) (student book) | Book 24, printed p. 75 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 25:** *Educación Artística 3° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-005-0. Grade: 9 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 38,623,682 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 83–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: a camera-and-screen book — photography as record, light and concept; home cinema and the cine-fórum; black theatre and shadow theatre built from a cardboard box; music as audiovisual language and emotion, patriotic hymns mastered, and music made at home with a virtual flute and a drum-pad app; the annex performs a washerwoman's monologue for the unsung heroes and "Trinidad" again. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 1, Artes Visuales: La fotografía como registro de acontecimientos y situaciones — photography as the record of events and situations; light as photography's most important element — its direction, intensity and reach emphasising or neutralising (student book) | Book 25, printed pp. 14–15 |
+| Dominican Republic — Unit 1, Artes Visuales: Fotografía conceptual "Una mirada a uno mismo y a la sociedad" — conceptual photography: a look at oneself and at society, a photographic work created with editing software if required (student book) | Book 25, printed pp. 18–19 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

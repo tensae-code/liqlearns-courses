@@ -1,6 +1,6 @@
 # Sources — Playing Notes and Rests
 
-countries: Ethiopia, Barbados, Morocco, Bulgaria, Libya, Bolivia, Armenia, North Macedonia, Vietnam
+countries: Ethiopia, Barbados, Morocco, Bulgaria, Libya, Bolivia, Armenia, North Macedonia, Vietnam, Dominican Republic
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Barbados, Morocco, Bulgaria, Libya, Bolivia, Armenia, North
 | Armenia — teaching a song from notation: the worked example of teaching "Կաքավի երգը" (The Partridge Song) — feeling phrase boundaries, regulating breathing, and accompanying with rhythm instruments (bells, frame drum, triangle) (teacher guide — evidence; original target `music/playing-notes-and-rests`) | Book 13, printed pp. 17–20 (teacher-guide evidence; song named only) |
 
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bulgaria, Bolivia, North Macedonia, Vietnam). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Bulgaria, Bolivia, North Macedonia, Vietnam, Dominican Republic). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book continues past this lesson to the eighth note and dotted notes; those signs have their own targets in the placements and are not stocked here — this lesson stocks only the whole, half and quarter playing the placements assign to “Playing Notes and Rests”. The Grade 3 photographs of children drumming are described, not reproduced; GIF 9622 is a drawn practice loop in their place.
 
@@ -119,3 +119,11 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | Vietnam — Theme 4 Apply–Create — an ensemble of self-chosen instruments with beat box — tambourine, thanh phách and beat box (performing with mouth, lips and tongue to imitate the drum kit) playing together in 3/4 (student book) | Book 18, printed p. 36 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 19:** *Educación Artística 1° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-003-6. Grade: 7 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; record pages 112 matches; repo asset byte size 41,750,476 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 97–103 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: secondary art opens with formal visual reading (inventory, chiaroscuro, texture, colour circle, composition), then stagecraft whole — body, acting, staging, pantomime, monologue — with Dominican content inside it: merengue's variants classified by Fradique Lizardo, merengue rhythm patterns played with pencils, the faceless Limé dolls as national craft, and a theatre annex that mounts a school play and performs "Mariposita Valiente" and an anti-racist play. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 3, Educación Musical: Con mi flauta, repite después de mí — melodic echoes on the recorder, physical or virtual (app), for a family member to repeat with the voice in tune or with the body percussively (student book) | Book 19, printed p. 64 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

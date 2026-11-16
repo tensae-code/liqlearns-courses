@@ -1,6 +1,6 @@
 # Sources — Festivals and Their Arts
 
-countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan, Fiji, Bulgaria, Venezuela, Mongolia, Malaysia, Armenia, Kazakhstan
+countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan, Fiji, Bulgaria, Venezuela, Mongolia, Malaysia, Armenia, Kazakhstan, Dominican Republic
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -100,7 +100,7 @@ countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenist
 | Armenia — The Venetian carnival — the mask tradition comes from the Middle Ages; the February carnival ends with Barekendan; Canaletto's Grand Canal (1740), Longhi's "Ridotto" (1750), Tiepolo's "Masked Ball" (1757) (student book; original target `culture-and-values/festivals-and-their-arts`) | Book 24, printed p. 80 |
 
 
-**Acceptance count: taught in 9 countries (Ethiopia, Honduras, Turkmenistan, Bulgaria, Venezuela, Mongolia, Malaysia, Armenia, Kazakhstan).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Honduras, Turkmenistan, Bulgaria, Venezuela, Mongolia, Malaysia, Armenia, Kazakhstan, Dominican Republic).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Citation fix (PVA coverage audit §4, G3S-64): the Genna game song 'አሲና በል' (Asina Bel) stands on printed p. 54 in the Grade 3 book; this lesson previously folded it under the Arafa-and-Genna citation at printed p. 53. The row above now cites its own page, printed p. 54. The song is placed by name and purpose only — a call-and-response game song of the Genna game — and is never transcribed.
 
@@ -195,3 +195,17 @@ Searchable tags: festivals, Meskel, Demera, Timket, Arafa, Genna, እንቁር, 
 | Kazakhstan — Section 6 lessons — traditions and folklore: folk instruments, folk dance, the Nauryz song (teacher-guide evidence) | Book 35, printed pp. 3-4 |
 
 Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count; its teacher-material rows are evidence only, kept outside the acceptance count.
+
+**Book 36:** *Educación Artística 5° Primaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; contents by MINERD art teachers in 2020–2021 workshops; year 2023; ISBN 978-9945-28-010-4. Grade: 5 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; record pages 80 matches; repo asset byte size 21,297,834 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II digital/bibliographic resource lists pp. 67–71 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: the Grade 5 cuadernillo turns to cultural identity — mime and puppets, Picasso's collage and papier-mâché, Dominican vernacular architecture studied like a reporter and rebuilt as a model, traditional ring games — and an annex of patriotic plays (Duarte three times over, the independence founders, Trinidad Sánchez, Ercilia Pepín) that teach the nation's history on stage. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Annex I, Teatro: "Significado de la Navidad" by Leslye Rivera Casanoba — a Christmas play in six characters where one voice declares he hates Christmas — its songs, its noise — and the meaning of the festival is argued out on stage (plot summary only) (student book) | Book 36, printed pp. 48–49 |
+
+**Book 37:** *Educación Artística 2° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-004-3. Grade: 8 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 46,244,303 verified on download). Verdict: COMPLETE. Exclusions named, not placed: the closing Evaluación (printed pp. 80–81) — self-assessment only; Annex resource lists pp. 83–87 (inventory only). One song's printed words (Vicente García's "Dulcito e coco", pp. 46–47) are placed by name and theme only — no lyrics transcribed. Dominican Republic's own way: the arts argue their place in society's history — fluid painting, modelling and the Venus figures, world heritage, theatre that cares for the environment, stage direction and musical theatre, modern-to-urban dance, the messages inside songs, and an applied-arts unit of identity: architectural models of the Colonial City, string art, interior design and clothes re-dyed with natural colours. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 4, Artes Aplicadas: Artesanía para épocas especiales — craft for special seasons: thinking of a festivity and making the craft work that belongs to it (student book) | Book 37, printed pp. 60–61 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

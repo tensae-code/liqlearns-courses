@@ -1,6 +1,6 @@
 # Sources — Technical and Performance Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil, Jordan, Sri Lanka, Venezuela, Malaysia, Indonesia, Armenia, North Macedonia, Greece
+countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil, Jordan, Sri Lanka, Venezuela, Malaysia, Indonesia, Armenia, North Macedonia, Greece, Dominican Republic
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -117,7 +117,7 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Fin
 | Armenia — The actor's art (Դերասանի արվեստը) — acting in the ancient Greek theatre (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 28, printed p. 73 |
 
 
-**Acceptance count: taught in 14 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil, Jordan, Venezuela, Malaysia, Indonesia, Armenia, North Macedonia, Greece).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as student-book stock (see its rows above), inside the acceptance count; Indonesia's teacher-guide rows in this lesson are evidence. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 15 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil, Jordan, Venezuela, Malaysia, Indonesia, Armenia, North Macedonia, Greece, Dominican Republic).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as student-book stock (see its rows above), inside the acceptance count; Indonesia's teacher-guide rows in this lesson are evidence. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 10–11) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 
@@ -189,3 +189,11 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | Greece — Zone 6: Το αντικείμενο (the object — props in play) (student book) | Book 32, printed  |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 33:** *Educación Artística 1° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-003-6. Grade: 7 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; record pages 112 matches; repo asset byte size 41,750,476 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 97–103 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: secondary art opens with formal visual reading (inventory, chiaroscuro, texture, colour circle, composition), then stagecraft whole — body, acting, staging, pantomime, monologue — with Dominican content inside it: merengue's variants classified by Fradique Lizardo, merengue rhythm patterns played with pencils, the faceless Limé dolls as national craft, and a theatre annex that mounts a school play and performs "Mariposita Valiente" and an anti-racist play. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 2, Artes Escénicas: La actuación en el teatro / Elementos del espacio escénico y la puesta en escena — what theatrical acting is, and the staging (puesta en escena) as the composition of all means that present a work: the stage space's elements (the front curtain among them) that build the setting and carry the story; the performing arts family named whole — theatre, pantomime, puppets, opera, dance kinds, musical theatre, zarzuela (student book) | Book 33, printed pp. 34–37 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.

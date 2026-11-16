@@ -1,6 +1,6 @@
 # Sources — Cubism
 
-countries: Haiti, Sudan, Moldova, Armenia, North Macedonia
+countries: Haiti, Sudan, Moldova, Armenia, North Macedonia, Dominican Republic
 
 **Book 1:** *EEA — Programme du 3e cycle (7e à 9e AF) — Éducation Esthétique et Artistique (EEA)* (teacher programme, French) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Direction Enseignement Fondamental (DEF), 2024 (« version définitive, 28 juillet 2024 » per the record; cover marked Tous Droits Réservés 2024–2025), no ISBN printed, Grades 7e à 9e AF combined, French, 63 PDF pp (3,278,166 bytes, matching the record's size_bytes). TEACHER — teacher programme. Verdict: COMPLETE — read in place in staging (cover verified against the record title — EEA programme cover, 3e cycle 7e à 9e AF). The common part for all subjects (PDF pp. 1–22) is out of scope and was not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
 
@@ -26,7 +26,7 @@ countries: Haiti, Sudan, Moldova, Armenia, North Macedonia
 | Armenia — CUBISM — Cézanne's still life with apples and oranges (1895-1900) and his "Card Players"; Braque's "Houses at L'Estaque" (1908); Picasso — painter, sculptor, ceramist, stage designer: "Les Demoiselles d'Avignon" (1907), "Girl with a Mandolin" (1910), "Woman's Head: Fernande" (1909); Cubism also influenced Armenian fine art; task: make your own cubist work from a famous piece (student book; original target `visual-art/cubism`) | Book 4, printed p. 97 |
 
 
-**Acceptance count: taught in 4 countries (Sudan, Moldova, Armenia, North Macedonia). Before Sudan, this lesson stood on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Sudan, Moldova, Armenia, North Macedonia, Dominican Republic). Before Sudan, this lesson stood on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/cubism`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
@@ -45,3 +45,11 @@ Searchable tags: cubism, geometric forms, natural forms, Vèvès, decomposition,
 | North Macedonia — Кубизам — Cubism: form taken apart and rebuilt — analytic and synthetic cubism — Picasso, Braque, Gris, Léger (student book; original target `visual-art/cubism`) | Book 6, printed p. 135 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 7:** *Educación Artística 5° Secundaria (Libro Abierto, Cuadernillo)* (student book, Spanish) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-28-007-4. Grade: 11 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; record pages 96 matches; repo asset byte size 32,262,874 verified on download). Verdict: COMPLETE. Exclusions named, not placed: Annex II resource lists pp. 85–87 (inventory only); the Annex I plays are placed by name and plot summary only — no script text transcribed. Dominican Republic's own way: the avant-gardes are the syllabus — cubism, op art, geometric abstraction, collage, performance, tableau vivant — with theatre history from antiquity to Brecht and a Dominican theatre history to research, dance appreciated aesthetically and danced as a contemporary solo, music heard across eras (Vivaldi, Piazzolla) into electronic vanguards and semiotics, and copyright taught as an artist's working law. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic — Unit 1, Artes Visuales: Experimentar con el Cubismo — experimenting with Cubism, the revolutionary 20th-century movement, in my own work (student book) | Book 7, printed pp. 13–14 |
+
+Dominican Republic is added as student-book stock (see its rows above), inside the acceptance count.
