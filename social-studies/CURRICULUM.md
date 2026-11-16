@@ -12652,3 +12652,73 @@ enterprise in kwacha — market sellers, maize farmers and
 shopkeepers as the entrepreneurs, a K10/K20 in play money
 for the needs-vs-wants lessons, and a classroom market day.
 Economics lessons: 386 → 389.
+
+## Economics expansion — Ecuador — built 2026-11-15
+
+Ecuador — 8 placements stocked from 2 student books:
+*Estudios Sociales 3ro EGB* (student book, Spanish;
+Ministerio de Educación del Ecuador / SM Ediciones
+Ecuador, 2016; no ISBN printed; 176 PDF pp.) and
+*Emprendimiento y Gestión, Tercero de Bachillerato*
+(student book, Spanish; Ministerio de Educación del
+Ecuador / Maya Ediciones C. Ltda., 2019; ISBN
+978-9978-52-359-9; 192 PDF pp.). 7 stocked into standing
+lessons — **People and Resources**: Sectors of the
+economy (Actividades económicas, Unidad 6, printed
+p. 124 — economic activities by sector and region of the
+child's own parish and canton; rural agriculture,
+livestock, fishing and crafts against town occupations,
+tourism as a growth activity; acceptance 1 → 2 countries,
+Iran and Ecuador) — **Culture and Work**: Services — the
+third part of the economy (Servicios públicos y privados,
+Unidad 6, printed p. 126 — public services electricity,
+sewerage, drinking water, telephone, rubbish collection,
+firefighters and the 911, against health, education and
+transport as both public and private; acceptance 1 → 2
+countries, Vietnam and Ecuador); Making a family budget
+(Educación financiera: El presupuesto familiar, Unidad 1,
+printed p. 37 — a monthly budget of income against
+spending classified essential, medium importance or
+eventual/emergency, closing with surplus or deficit;
+acceptance 1 → 2 countries, Rwanda and Ecuador — Zambia
+remains teacher-module evidence only); Managing money
+and family budgeting (Educación financiera: Cómo mejorar
+el presupuesto familiar, Unidad 2, printed p. 71 —
+improving a surplus/deficit budget from both sides, earn
+more and spend less; acceptance 1 → 2 countries, Fiji
+and Ecuador); Managing credit and loans (Educación
+financiera: Optimización de deudas familiares, Unidad 3,
+printed p. 97 — good debts that "pay themselves" against
+bad debts for pleasure or unnecessary consumption;
+acceptance 1 → 2 countries, Armenia and Ecuador) —
+**Microeconomics**: Fixed cost, variable cost, total
+cost (Costos fijos y variables, Unidad 2, printed p. 54 —
+total cost as fixed plus variable, worked through a
+wooden school-desk venture, operator's wage $400 and
+machine rental $100 fixed, wood $21 and materials $3 per
+desk variable, output 30 to 300 desks; acceptance 1 → 2
+countries, Ethiopia and Ecuador); Cost per unit — ATC,
+AFC, AVC and marginal cost (Determinar el costo del
+producto, Unidad 2, printed p. 62 — the unit cost built
+from components that differ by type of firm, falling as
+production increases, and what allows a selling price to
+be set; acceptance 1 → 2 countries, Ethiopia and
+Ecuador) — and 1 new lesson built (12 questions, in
+**Market and Money**, acceptance 1 country, Ecuador):
+The time value of money (El costo del dinero en el
+tiempo, Unidad 5, printed p. 142 — a dollar today is
+worth more than a dollar in the future, because inflation
+erodes what the same money buys and money has a cost; a
+loan is repaid with interest; future cash flows are
+brought to present value with a discount rate
+representing the opportunity cost of money, using
+compound-interest formulas, as the basis for net present
+value, VAN). Ecuador's own way: economic activities are
+taught by sector and region of the child's own parish
+and canton at Grade 3; at Grade 13 Economics enters the
+entrepreneurship course through the family and the small
+venture — costs worked through a school-desk factory
+costed month by month in dollars, and every unit closes
+with a financial-education section that takes the same
+tools home to the family budget and the family's debts.
+Economics lessons: 389 → 390.

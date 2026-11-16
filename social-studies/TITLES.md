@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **389**
+Economics lessons across the Economics titles: **390**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4251,4 +4251,5 @@ instruments — cheques and orders, Hire purchase — buying on
 instalments and Trade discount and cash discount; +3 for
 Zambia, 2026-11-15 — Microeconomics: Entrepreneurship and
 its benefits, Legal forms of business and Impulse buying
-and needs vs wants).
+and needs vs wants; +1 for Ecuador, 2026-11-15 — Market and
+Money: The time value of money).

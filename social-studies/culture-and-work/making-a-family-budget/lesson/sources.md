@@ -1,6 +1,6 @@
 # Sources — Making a Family Budget
 
-countries: Rwanda, Zambia
+countries: Rwanda, Zambia, Ecuador
 
 **Book 1:** *Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: TEACHER). PDF pages: 106 (cover verified against the record title — read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected; this book appears only as a books.json record, with no size/pages in the record to check against). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society (Civics), TG content map printed p. xvi; Unit 3 Hygiene and sanitation, incl. HIV/AIDS, STIs and TB (Health), p. xviii; Unit 4 Civics and governance — peer pressure, national symbols, leadership and good governance (Civics), p. xviii; Unit 10 Colonial Rwanda (History), p. xxvi. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -25,7 +25,14 @@ countries: Rwanda, Zambia
 |---|---|
 | Zambia evidence — Budgeting: preparing a simple budget and making a shopping list that puts needs before wants within a set amount of kwacha (teacher module — evidence) | Zambia, *Social Studies Teaching Module — Grade 4, Term 3*, Topic 4.9 Learning About Money, Sub-topic 4.9.2 Budgeting, printed p. 18 |
 
-**Acceptance count: taught in 1 country (Rwanda). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 6:** *Emprendimiento y Gestión, Tercero de Bachillerato* (student book, Spanish) — Ministerio de Educación del Ecuador / Maya Ediciones C. Ltda.; year 2019; ISBN 978-9978-52-359-9. Title as printed: Emprendimiento y Gestión — BGU 3 (Tercero de Bachillerato General Unificado). Grade: Grade 13 (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title; byte size 31,782,522 matches the books.json record exactly; the books.json record carries no page count. Access note: the books.json tree path returned HTTP 404, so the book was read from its TSV twin, the mid-size-books-8 release asset — the tree-path absence is logged as a library debt.) Verdict: COMPLETE. Contents map: Economics parts printed pp. 37, 54–57, 62–65, 71, 97, 142–145; Business pp. 10–36, 40–53, 58–61, 66–99, 154–175; Accounting/Finance pp. 102–131, 132–141, 146–153, plus the worked investment-project annexes (projected cash flow, income statement, opening balance sheet). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ecuador — Educación financiera: El presupuesto familiar (Unidad 1): to control a family's income and outgoings, draw up a monthly budget planning what will come in (salaries, overtime, microenterprise income) and what will be spent (food, rent, education, clothing, transport, utilities, school supplies, credit-card payments and debts), classifying spending as essential, of medium importance, or eventual/emergency, and closing with the month's surplus or deficit | Ecuador, *Ecuador Grade 13 Emprendimiento y Gestión*, Educación financiera: El presupuesto familiar (Unidad 1) — printed p. 37 |
+| Ecuador's way — the book's own teaching way | Ecuador — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Rwanda, Ecuador). Zambia is teacher-module evidence only — named here, counted nowhere.**
 
 Zambia's own way: Economics at Grade 4 is money and enterprise in kwacha — market sellers, maize farmers and shopkeepers as the entrepreneurs, a K10/K20 in play money for the needs-vs-wants lessons, and a classroom market day. The budget is a shopping list in kwacha that puts needs before wants. This Zambia material stands on the teacher module as evidence only.
 
@@ -37,4 +44,6 @@ Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches th
 
 Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the fullest Geography book of the set — a whole unit on direction and location works Rwanda onto the East African and African maps by latitude and longitude and time zones, then physical features and climate, and a climate-change sequence (types, change, effects, overcoming) sits inside it; regional co-operation is taught bloc by bloc (COMESA, CEPGL, ECCAS, AU, NEPAD).
 
-Searchable tags: making a family budget, Rwanda, Zambia, kwacha, shopping list, needs before wants, teacher module evidence, social studies, culture-and-work
+Ecuador's own way (Ecuador Grade 13 Emprendimiento y Gestión): Economics enters the entrepreneurship course through the family and the small venture — costs are worked through a school-desk factory costed month by month in dollars, and every unit closes with a financial-education section that takes the same tools home to the family budget and the family's debts. The family budget itself is drawn up monthly, income (salaries, overtime, microenterprise income) against spending sorted as essential, of medium importance, or eventual/emergency, closing with the month's surplus or deficit.
+
+Searchable tags: making a family budget, Rwanda, Zambia, Ecuador, kwacha, shopping list, needs before wants, family budget, surplus, deficit, teacher module evidence, social studies, culture-and-work
