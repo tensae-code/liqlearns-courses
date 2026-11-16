@@ -1,6 +1,6 @@
 # Sources — Managing Credit And Loans
 
-countries: Armenia, Ecuador, Laos, Palestine
+countries: Armenia, Ecuador, Laos, Palestine, Albania
 
 **Book 1:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (title page 2024); ISBN 978-9939-99-040-8. Authors: K. Harutyunyan, H. Barseghyan, N. Galstyan, A. Manucharyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography-scope parts placed below: Theme 3 "Market economy" (printed pp. 54-87) and Theme 4 "Personal finance management" (pp. 88-127). NOT placed (named for later waves): Theme 1 "Problems of modern man and society" (pp. 4-18), Theme 2 "Political ideologies" (pp. 19-53). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -48,7 +48,15 @@ countries: Armenia, Ecuador, Laos, Palestine
 
 Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
 
-**Acceptance count: taught in 4 countries (Armenia, Ecuador, Laos, Palestine).**
+**Book 8:** *Libër Mësuesi Ekonomia 12* (teacher guide, Albanian) — Albania, Mediaprint; year 2018 (first edition); ISBN 978-9928-08-351-7. Title as printed: Libër mësuesi — Ekonomia 12 (teacher's book for the Ekonomia 12 textbook by Prof. Dr. Luljeta Minxhozi and Merita Shuka). Grade: Grade 12 (student/teacher: TEACHER). PDF pages: 161 (title page verified against the record title; the PDF opens with Mediaprint web frontmatter, title page inside; 2,844,937 bytes and 161 pages, both matching the record; grabbed via grab.py tree, verified; 1 record / 1 distinct book; read in full, PDF deleted after filing). Verdict: COMPLETE — pure Economics teacher guide read fully: yearly plan, period plans, daily lesson plans for all 16 chapters, period tests and a model project. Placements below are the guide's own teaching content, marked TEACHER in the source line. Contents map: Economics parts — the whole book (16 chapters, printed pp. 4–156; daily lesson plans: Ch.1 p. 32, Ch.2 p. 41, Ch.3 p. 58, Ch.4 p. 61, Ch.5 p. 67, Ch.6 p. 74, Ch.7 p. 81, Ch.8 p. 85, Ch.9 p. 94, Ch.10 p. 99, Ch.11 p. 107, Ch.12 p. 112, Ch.13 p. 117, Ch.14 p. 124, Ch.15 p. 131, Ch.16 p. 136). Named but not placed: Ch.14 “Aftësitë për sukses” (success skills — work-readiness and communication skills, not an Economics concept part); the period tests (printed pp. 143–156) are the book's own assessment items, excluded by the standing rule. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/albania-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Albania part — buying on credit: advantages and disadvantages of credit, including a mortgage video case (teacher guide — evidence) | Albania, *Libër mësuesi — Ekonomia 12 (Teacher Guide)*, Ch.3 — buying on credit, printed p. 58 |
+
+**Acceptance count: taught in 4 countries (Armenia, Ecuador, Laos, Palestine). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
 Armenia's own way (Armenia Grade 10 Social Science student): the senior Social Science course turns practical — after ideologies it teaches the market economy and then personal finance (choosing financial services, savings, credit, consumer rights, fraud) as life skills.
 
@@ -58,4 +66,4 @@ Laos' own way (Laos Grade 11 Business Combined student): costs and capital are t
 
 Laos' own way (Laos Grade 11 Business student): the market is defined three ways at once — everyday (a place to buy and sell), economic (the group of buyers and sellers who exchange), and marketing (people with a need and the money to pay) — and costs are drilled with the SMOC sorting exercise (Salary, Material, Other, Capital).
 
-Searchable tags: managing credit and loans, Armenia, Ecuador, good debts, bad debts, family debts, social studies, culture-and-work, laos, start-up money, collateral, 5 Cs of credit, palestine
+Searchable tags: managing credit and loans, Armenia, Ecuador, good debts, bad debts, family debts, social studies, culture-and-work, laos, start-up money, collateral, 5 Cs of credit, palestine, albania

@@ -1,6 +1,6 @@
 # Sources — Personal Budget And Saving
 
-countries: Armenia, Guatemala, Syria, Rwanda, Zimbabwe
+countries: Armenia, Guatemala, Syria, Rwanda, Zimbabwe, Albania
 
 **Book 1:** *Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school)* (student book, Armenian) — «Մասնակցային դպրոց» ԿՀ (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1725-6. Authors: H. Bayadyan, D. Stepanyan, V. Soghomonyan. Title as printed: Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school). Grade: 7 (student/teacher: STUDENT). PDF pages: 146 (printed 144; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography parts placed below: Ch. 1 "Man and nature" (printed pp. 12-27) and the economy parts of Ch. 7 "Man and economy" (pp. 102-127). NOT placed (named for later waves): Ch. 2 "Man and society" (pp. 28-41, incl. history of printing), Ch. 3 "Man, cognition and behaviour" (pp. 42-55), Ch. 4 "Man and morality" (pp. 56-71), Ch. 5 "Man and beauty" (pp. 72-89), Ch. 6 "Law in our life" (pp. 90-101), Ch. 7 §§7.3 personal finance in part, Ch. 8 "Man and politics" (pp. 128-139). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -77,7 +77,15 @@ Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics u
 |---|---|
 | Zimbabwe part — Unit 35: Financial literacy: financial literacy as understanding and managing personal or business finances — budgeting (tracking income and expenses so you do not spend more than you earn), saving for goals, investing, and understanding loans and credit (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 7 Teacher's Guide*, Unit 35: Financial literacy — printed pp. 90–91 |
 
-**Acceptance count: taught in 3 countries (Armenia, Syria, Rwanda). Guatemala is teacher-guide evidence only — named here, counted nowhere. Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 15:** *Libër Mësuesi Ekonomia 12* (teacher guide, Albanian) — Albania, Mediaprint; year 2018 (first edition); ISBN 978-9928-08-351-7. Title as printed: Libër mësuesi — Ekonomia 12 (teacher's book for the Ekonomia 12 textbook by Prof. Dr. Luljeta Minxhozi and Merita Shuka). Grade: Grade 12 (student/teacher: TEACHER). PDF pages: 161 (title page verified against the record title; the PDF opens with Mediaprint web frontmatter, title page inside; 2,844,937 bytes and 161 pages, both matching the record; grabbed via grab.py tree, verified; 1 record / 1 distinct book; read in full, PDF deleted after filing). Verdict: COMPLETE — pure Economics teacher guide read fully: yearly plan, period plans, daily lesson plans for all 16 chapters, period tests and a model project. Placements below are the guide's own teaching content, marked TEACHER in the source line. Contents map: Economics parts — the whole book (16 chapters, printed pp. 4–156; daily lesson plans: Ch.1 p. 32, Ch.2 p. 41, Ch.3 p. 58, Ch.4 p. 61, Ch.5 p. 67, Ch.6 p. 74, Ch.7 p. 81, Ch.8 p. 85, Ch.9 p. 94, Ch.10 p. 99, Ch.11 p. 107, Ch.12 p. 112, Ch.13 p. 117, Ch.14 p. 124, Ch.15 p. 131, Ch.16 p. 136). Named but not placed: Ch.14 “Aftësitë për sukses” (success skills — work-readiness and communication skills, not an Economics concept part); the period tests (printed pp. 143–156) are the book's own assessment items, excluded by the standing rule. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/albania-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Albania part — Konsumatori në ekonominë e tregut: the individual consumer and the personal budget — sources of income, why people save, comparing saving methods, and building a personal budget using Bank of Albania videos (teacher guide — evidence) | Albania, *Libër mësuesi — Ekonomia 12 (Teacher Guide)*, Ch.3 Konsumatori në ekonominë e tregut — the individual consumer and the personal budget, printed p. 58 |
+
+**Acceptance count: taught in 3 countries (Armenia, Syria, Rwanda). Guatemala is teacher-guide evidence only — named here, counted nowhere. Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
 Zimbabwe's own way (PlusOne Social Science Grade 1 Teacher's Guide) (teacher guide — evidence): Grade 1 financial literacy is built on the formal/informal work split — a teacher or nurse with a contract and fixed salary against the market vendor, gardener and sack-carrier — and on income-generating projects (selling vegetables, baking cakes, tailoring, selling rabbits) a family can start.
 
@@ -104,4 +112,4 @@ Syria's own way (Syria Grade 1 Social Studies, links filing): Economics enters G
 
 Syria's own way (Syria Grade 2 Social Studies): the saved money is spent by need — the child opens the money box to find 900 Syrian pounds saved since last year and arranges a priced list of purchases in a table according to need.
 
-Searchable tags: personal budget and saving, Armenia, Guatemala, Syria, syrian pounds, money box, حصّالتي, presupuesto personal, quetzales, teacher guide evidence, social studies, culture-and-work, rwanda, zimbabwe, teacher guide evidence
+Searchable tags: personal budget and saving, Armenia, Guatemala, Syria, syrian pounds, money box, حصّالتي, presupuesto personal, quetzales, teacher guide evidence, social studies, culture-and-work, rwanda, zimbabwe, teacher guide evidence, albania

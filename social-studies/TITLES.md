@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **477**
+Economics lessons across the Economics titles: **482**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4363,4 +4363,11 @@ and dependence, Palestine's economy
 under occupation, Small projects in
 the national economy and Causes of
 poverty; Market and Money: Palestine's
-trade links — ports and crossings).
+trade links — ports and crossings).;
++5 for Albania,
+2026-11-16 — Market and Money: Business
+finance — sources and Personal finance
+planning; Macroeconomics: Budget deficit
+and public debt; Microeconomics: Business
+ethics and social responsibility and
+Becoming an entrepreneur).

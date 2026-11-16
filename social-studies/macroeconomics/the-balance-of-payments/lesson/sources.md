@@ -1,6 +1,6 @@
 # Sources — The balance of payments — a country's account with the world
 
-countries: Ethiopia, Malaysia, Dominican Republic
+countries: Ethiopia, Malaysia, Dominican Republic, Albania
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -25,7 +25,15 @@ countries: Ethiopia, Malaysia, Dominican Republic
 |---|---|
 | Dominican Republic part — Otras transacciones con el exterior (Unidad 9): the systematically higher value of goods imports over exports gives a chronic merchandise deficit; the services balance is positive thanks to tourism but does not offset it, income earned by foreign investment flows out, remittances sent by Dominicans abroad flow in, and the resulting current-account balance is always negative (a Central Bank table gives −4,023.5 million dollars in 2010 and −6,326.8 million in 2022) — a country that has consumed more foreign exchange than it generated must finance the deficit with foreign investment, direct or portfolio, and external borrowing, public or private | Dominican Republic, *Ciencias Sociales 6° Secundaria*, Otras transacciones con el exterior (Unidad 9) — printed p. 162 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Dominican Republic).**
+**Book 6:** *Libër Mësuesi Ekonomia 12* (teacher guide, Albanian) — Albania, Mediaprint; year 2018 (first edition); ISBN 978-9928-08-351-7. Title as printed: Libër mësuesi — Ekonomia 12 (teacher's book for the Ekonomia 12 textbook by Prof. Dr. Luljeta Minxhozi and Merita Shuka). Grade: Grade 12 (student/teacher: TEACHER). PDF pages: 161 (title page verified against the record title; the PDF opens with Mediaprint web frontmatter, title page inside; 2,844,937 bytes and 161 pages, both matching the record; grabbed via grab.py tree, verified; 1 record / 1 distinct book; read in full, PDF deleted after filing). Verdict: COMPLETE — pure Economics teacher guide read fully: yearly plan, period plans, daily lesson plans for all 16 chapters, period tests and a model project. Placements below are the guide's own teaching content, marked TEACHER in the source line. Contents map: Economics parts — the whole book (16 chapters, printed pp. 4–156; daily lesson plans: Ch.1 p. 32, Ch.2 p. 41, Ch.3 p. 58, Ch.4 p. 61, Ch.5 p. 67, Ch.6 p. 74, Ch.7 p. 81, Ch.8 p. 85, Ch.9 p. 94, Ch.10 p. 99, Ch.11 p. 107, Ch.12 p. 112, Ch.13 p. 117, Ch.14 p. 124, Ch.15 p. 131, Ch.16 p. 136). Named but not placed: Ch.14 “Aftësitë për sukses” (success skills — work-readiness and communication skills, not an Economics concept part); the period tests (printed pp. 143–156) are the book's own assessment items, excluded by the standing rule. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/albania-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Albania part — exchange rates and the balance of payments: why exchange rates move and the difference between the balance of payments and the trade balance (teacher guide — evidence) | Albania, *Libër mësuesi — Ekonomia 12 (Teacher Guide)*, Ch.12 — exchange rates and the balance of payments, printed p. 112 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Dominican Republic). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
 Dominican Republic's own way (Dominican Republic Grade 12 Ciencias Sociales 6° Secundaria): the school-leaving book ends with the national economy measured — GDP, openness, the balance of payments and per-capita income are all taught on Central Bank tables for 2010–2022, and the unit's own conclusion is critical: GDP per capita doubled while the average worker's income stagnated, so other sectors appropriated the increase.
 
@@ -33,7 +41,7 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
-Searchable tags: balance of payments, residents rest of world, disequilibrium deficit surplus, reserves, trade deficit link, ethiopia, social studies, macroeconomics, malaysia, dominican republic
+Searchable tags: balance of payments, residents rest of world, disequilibrium deficit surplus, reserves, trade deficit link, ethiopia, social studies, macroeconomics, malaysia, dominican republic, albania
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 
