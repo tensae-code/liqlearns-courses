@@ -1,6 +1,6 @@
 # Sources — Renewable and non-renewable resources
 
-countries: Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda
+countries: Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -64,7 +64,13 @@ Syria's own way: the resources lesson sits inside Unit 1, Nature in my country S
 |---|---|
 | Uganda part — Types of Natural Resources in Uganda: resources as materials people use to meet their needs; natural resources as materials existing on their own in the environment; renewable resources that can be replaced naturally against non-renewable ones that can never be replaced; the importance of land, water, minerals, climate, people, animals and plants, how people misuse resources, and ways of caring for them | Uganda, *Uganda Primary 5 Home-Study Merged Package*, Types of Natural Resources in Uganda — Social Studies printed p. 29 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda).**
+**Book 10:** *НИЙГЭМ СУДЛАЛ VII (Social Studies VII)* (student book, Mongolian) — Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-03-0. Title as printed: НИЙГЭМ СУДЛАЛ VII (Social Studies VII). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/mongolia-placements.md. Contents map: Economics parts printed pp. 39–54 (Chapter III, The Individual and the Economy); Society/sociology pp. 7–20; Culture pp. 23–35; Civics/Law (human rights) pp. 59–75; Civics (collective governance) pp. 80–93; glossary p. 94 (inventory-only — named in this book entry, not stocked).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — 3.4 Division of labour and its significance — production uses resources; natural resources divide into exhaustible and non-exhaustible, taught through Mongolia's gold (about 10 tonnes mined a year) | Mongolia, *Social Studies 7*, Chapter III, 3.4 Division of labour and its significance — printed p. 51 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia).**
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
@@ -72,4 +78,6 @@ Grade 12 extension added 2026-11-12 (Ethiopia Wave 4, Band E): sub lesson 4 and 
 
 Uganda's own way: Uganda teaches the two kinds of resources three times over — in the Excel Primary Five book as Uganda's own resources with land the most important, in the Excel Primary Six book widened to East Africa's resources, and in the home-study package in guided self-study steps: resources as materials that meet needs, how people misuse them, and ways of caring for them.
 
-Searchable tags: renewable non-renewable resources, fixed stock, recycling, solar soil coal oil, ethiopia, nauru, niue, tuvalu, syria, oil, gas, phosphates, natural resources, social studies, microeconomics, uganda, natural resources of uganda, east africa resources, land water minerals, resource conservation, misuse of resources
+Mongolia's own way (Mongolia Grade 7 Social Studies 7): Economics enters through the child's own life — needs, the family budget in tögrög, household chores and herding work — before any market abstraction; property is taught through the school itself.
+
+Searchable tags: renewable non-renewable resources, fixed stock, recycling, solar soil coal oil, ethiopia, nauru, niue, tuvalu, syria, oil, gas, phosphates, natural resources, social studies, microeconomics, uganda, natural resources of uganda, east africa resources, land water minerals, resource conservation, misuse of resources, mongolia, exhaustible non-exhaustible, gold

@@ -1,6 +1,6 @@
 # Sources — Markets — and the market for goods and services
 
-countries: Ethiopia, Guatemala, France, Laos
+countries: Ethiopia, Guatemala, France, Laos, Mongolia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -34,7 +34,13 @@ countries: Ethiopia, Guatemala, France, Laos
 |---|---|
 | Teacher guide — evidence for the Laos part above: the guide mirrors the pupil book (lesson plans for the same chapters); no separate placement was filed from it, to avoid double-counting (teacher guide — evidence) | Laos, *Laos Grade 11 Business Teacher Guide*, lesson plans mirroring the pupil book's Ch. 1 §§1, 4-5 and Ch. 2 §6 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, France, Laos). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *НИЙГЭМ СУДЛАЛ VIII (Social Studies VIII)* (student book, Mongolian) — Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-10-8. Title as printed: НИЙГЭМ СУДЛАЛ VIII (Social Studies VIII). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/mongolia-placements.md. Contents map: Economics parts printed pp. 43–58 (Chapter III, The Individual and the Economy); Society/local community pp. 6–22; Culture pp. 25–39; Civics/Law (human rights) pp. 63–79; Civics (local governance) pp. 82–94.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — 3.2 The local market — a market as the meeting of buyers with money and sellers seeking profit, and exchange arising from the division of labour | Mongolia, *Social Studies 8*, Chapter III, 3.2 The local market — printed p. 51 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, France, Laos, Mongolia). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
 
 France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
@@ -46,4 +52,6 @@ Guatemala's own way (teacher guide — evidence): the market is learned by runni
 
 Laos' own way (Laos Grade 11 Business student): the market is defined three ways at once — everyday (a place to buy and sell), economic (the group of buyers and sellers who exchange), and marketing (people with a need and the money to pay) — and costs are drilled with the SMOC sorting exercise (Salary, Material, Other, Capital).
 
-Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense
+Mongolia's own way (Mongolia Grade 8 Social Studies 8): the economy is taught from the home district outward — pupils map the enterprises around their own school, work a flour price schedule, then write a real small-business plan.
+
+Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit

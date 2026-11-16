@@ -13582,3 +13582,111 @@ economic, marketing); and costs and capital are taught
 with full kip arithmetic and the SMOC sorting exercise
 (Salary, Material, Other, Capital). Economics lessons:
 417 → 422.
+
+## Economics expansion — Mongolia — built 2026-11-16
+
+Mongolia — 23 placements stocked from 3 student books
+(all Ministry of Education, Culture, Science and
+Sports, Ulaanbaatar, 2019, 2nd edition): *Social
+Studies 7* (Grade 7, ISBN 978-99978-61-03-0,
+COMPLETE), *Social Studies 8* (Grade 8, ISBN
+978-99978-61-10-8, COMPLETE) and *Social Studies 9*
+(Grade 9, ISBN 978-99978-61-16-0, COMPLETE — read in
+place in staging; the record's size_bytes does not
+match the staging file's actual bytes, the file
+itself is the correct book). mongolia-placements.md
+was read in full (7 records / 5 distinct books). The
+placement lines actually written are 18 to existing
+lessons + 5 NEW LESSON NEEDED, matching the wave
+close — no difference. All 3 student books count in
+acceptance. The Grade 10 and Grade 11 Social Studies
+books are RECORD-ONLY — UNREAD phantom pushes (the
+records claim in_pushed: true; grab.py returned
+HTTP 404 twice for each and the files are absent in
+phase3-staging — library debts as filed), 0
+placements, stocked nowhere. The Grade 7 book's
+glossary p. 94 is inventory-only, named in its book
+entries, not stocked. 18 stocked into standing
+lessons — **Microeconomics**: Scarcity — wants
+without end (Grade 7, 3.1, printed p. 39; acceptance
+1 → 2); Scarcity forces choice (Grade 7, 3.1,
+printed p. 42; acceptance 2 → 3); Free resources and
+scarce resources (Grade 7, 3.1, printed p. 41;
+acceptance 1 → 2); Renewable and non-renewable
+resources (Grade 7, 3.4, printed p. 51; acceptance
+6 → 7); Households — owners of the factors (Grade 7,
+3.5, printed p. 52; acceptance 1 → 2); Demand —
+wanting, plus able and willing to pay (Grade 8, 3.2,
+printed p. 53; acceptance 2 → 3); Equilibrium price
+and quantity (Grade 8, 3.2, printed p. 54; acceptance
+2 → 3) — **Market and Money**: Markets — and the
+market for goods and services (Grade 8, 3.2, printed
+p. 51; acceptance 3 → 4); The labour market (Grade 9,
+3.1, printed p. 42; acceptance 2 → 3); Wage
+determination in the labour market (Grade 9, 3.1,
+printed p. 44; acceptance 2 → 3); What money is
+(Grade 9, 3.4, printed p. 53; acceptance 4 → 5); The
+national bank and commercial banks (Grade 9, 3.5,
+printed p. 55; acceptance 3 → 4); Financial
+intermediaries — savers to borrowers (Grade 9, 3.5,
+printed p. 56; acceptance 1 → 2); Barter — and why
+it fails (Grade 9, Chapter III source study, printed
+p. 59; acceptance 5 → 6) — **Macroeconomics**: The
+labour force and the unemployment rate (Grade 9,
+3.1, printed p. 45; acceptance 2 → 3); Inflation — a
+general, lasting rise in prices (Grade 9, 3.2,
+printed p. 46; acceptance 1 → 2); Types of
+unemployment (Grade 9, 3.3, printed p. 49; acceptance
+1 → 2); Unemployment and the labour force (Grade 9,
+3.3, printed p. 52; acceptance 1 → 2) — and 5 new
+lessons built (12 questions each) — in
+**Microeconomics**: Household budget — income,
+spending and saving (Grade 7, 3.2, printed p. 43 —
+budget as a plan of income, wages / savings interest
+/ dividends / business income / pensions, against
+spending, worked as a family table in thousand
+tögrög, with saving goals and loans/debt), Division
+of labour — at home and at work (Grade 7, 3.3–3.4,
+printed p. 47 — tasks shared at home, then
+specialisation in production, profession and skill
+shaping income through a Mongolian actor's career)
+and A small business plan project (Grade 8, 3.3,
+printed p. 55 — from an unmet local need to a plan:
+goal, organisation, production plan and financial
+calculation of income, costs, profit and tax, a
+group project pitched for local investment, with a
+riddle-recording kindergarten case study); in
+**Macroeconomics**: The local economy — sectors and
+entities (Grade 8, 3.1, printed p. 43 — population,
+sectors: industry and construction, agriculture,
+trade and services; three kinds of organisation:
+state, non-state, profit-seeking enterprise; worked
+through 2015 Övörkhangai aimag statistics and a
+street-map survey of the pupil's own district); in
+**Market and Money**: How a payslip is worked out —
+nominal and real wages (Grade 9, 3.2, printed p. 46
+— real wage = nominal wage divided by the price
+level, and a full payslip: 850,000 tögrög gross less
+10% social insurance and 10% income tax to a 695,500
+tögrög take-home). Checked first: the Tier D
+Geography-wave lessons built from these same books
+(The family budget — planning household money;
+Sharing the work — division of labour; Starting a
+small business project) name those topics at
+Geography scope only and do not teach the Economics
+content placed here, and Belarus's Wages — nominal
+and real, piece-rate and time-rate covers the wage
+definitions, not a payslip worked line by line — so
+the five NEW lessons were built in the Tier A titles
+as filed. Mongolia's own way: Economics enters
+through the child's own life — needs, the family
+budget in tögrög, household chores and herding work
+— before any market abstraction (Grade 7); the
+economy is taught from the home district outward —
+pupils map the enterprises around their own school,
+work a flour price schedule, then write a real
+small-business plan (Grade 8); the labour market is
+taught with real Mongolian wage schedules in tögrög,
+a full payslip worked line by line, and national
+statistics pupils must compute rates from (Grade 9).
+Economics lessons: 422 → 427.

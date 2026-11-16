@@ -1,6 +1,6 @@
 # Sources — Equilibrium price and quantity — where the curves cross
 
-countries: Ethiopia, France
+countries: Ethiopia, France, Mongolia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -16,10 +16,18 @@ countries: Ethiopia, France
 |---|---|
 | France part — "Comment s'ajuste l'équilibre ?": formation of the equilibrium price, movements along and shifts of the curves, worked on the lunch-deal market, oil prices and French housing | France, *SES 2de, Manuel Libre de Sciences économiques et sociales, Seconde (Manuels Libres)*, Ch. Marché, section "Comment s'ajuste l'équilibre ?" |
 
-**Acceptance count: taught in 2 countries (Ethiopia, France).**
+**Book 3:** *НИЙГЭМ СУДЛАЛ VIII (Social Studies VIII)* (student book, Mongolian) — Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-10-8. Title as printed: НИЙГЭМ СУДЛАЛ VIII (Social Studies VIII). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/mongolia-placements.md. Contents map: Economics parts printed pp. 43–58 (Chapter III, The Individual and the Economy); Society/local community pp. 6–22; Culture pp. 25–39; Civics/Law (human rights) pp. 63–79; Civics (local governance) pp. 82–94.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — 3.2 The local market — supply as producers' willingness to sell, and the equilibrium price where the demand and supply curves cross, with a flour demand/supply schedule and graph exercise computing shortage and surplus at each price | Mongolia, *Social Studies 8*, Chapter III, 3.2 The local market — printed p. 54 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, France, Mongolia).**
 
 France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: equilibrium price quantity, curves intersection, market equilibrium, ethiopia, france, ses, lunch deal, french housing, social studies, microeconomics
+Mongolia's own way (Mongolia Grade 8 Social Studies 8): the economy is taught from the home district outward — pupils map the enterprises around their own school, work a flour price schedule, then write a real small-business plan.
+
+Searchable tags: equilibrium price quantity, curves intersection, market equilibrium, ethiopia, france, ses, lunch deal, french housing, social studies, microeconomics, mongolia, flour schedule, shortage surplus
