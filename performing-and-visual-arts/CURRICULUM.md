@@ -1688,7 +1688,63 @@ lessons are the books'.
   embroidery, kilim weaving, and the radif-dastgah
   vocal system.
 
-**The whole course stands at 442 lessons, 5,793 questions and
+**Art expansion — Papua New Guinea (2026-11-16):** 114 placements
+  stocked from 8 distinct teacher guides: Arts Grades
+  3, 4, 5, 6, 7 and 8 and Music and Theatre Arts
+  Grades 11–12 (Department of Education, Papua New
+  Guinea, English). All eight are TEACHER guides, so
+  Papua New Guinea enters the stocked lessons'
+  countries: lines as evidence only, outside every
+  acceptance count (the 17 new lessons stand at
+  acceptance count 0, evidence only). 86 placements
+  into existing and already-built canonical lessons
+  (Dance Composition and Modern Dance ×7; Drawing:
+  The Foundation Skill ×5; Sounds Around Us ×4; The
+  Elements of Music ×4; How the Arts Belong
+  Together ×4; Crafts Around Us ×4 — including the
+  3D-craft strings; Theatre and Film Through
+  History ×4 — including PNG actors and world
+  theatre forms; and the rest), and 28 into 17 NEW
+  lessons (Visual Art: Body Painting — filed as
+  png-organic-colours-and-body-painting; Papua New
+  Guinea Carving and Storyboards; Papua New Guinea
+  Weaving and Bilum; Papua New Guinea Painting.
+  Music: Papua New Guinea Instruments and Music —
+  kundu and the music industry together; Playing a
+  Simple Melody (Papua New Guinea); PNG Stringband:
+  Pawa and Oomcha; PNG Traditional and Contemporary
+  Music; Playing the Guitar; Singing in Parts;
+  Music Production and the Recording Studio;
+  Commercial Music and Copyright. Drama and Dance:
+  PNG Traditional Dances; Pacific Dances; Papua New
+  Guinean Plays and Playwrights; PNG Theatre Styles
+  and Practices; Folk Dances of the World), 170
+  questions added, media as described slots only.
+  Registry resolutions carried: intervals-and-ear-
+  training → Intervals; png-indigenous-instrument-
+  families → Instrument Families; tragedy-and-
+  comedy-plays → Genres of Theatre and Film;
+  awareness-theatre → Art That Teaches the
+  Community; png-tie-dye → Making with Paper and
+  Pieces; western-dances-and-patterns → Ballroom
+  and Social Dances; png-paper-pulping → Recycled
+  and Sustainable Crafting. Honesty carried exactly
+  as filed: the Grade 8 Arts guide is PARTIAL — the
+  guide itself is unfinished (Terms 2–4 "yet to be
+  completed") — and is evidence like the rest;
+  glossaries are inventory-only, named in the book
+  entries, not stocked; songs placed by summary
+  only, never transcribed. Papua New Guinea's own
+  way is kept as named parts: the arts as one
+  integrated community life, organic colours and
+  body painting, carved storyboards, coconut-leaf
+  weaving and the bilum, the kundu and garamut,
+  stringbands, pawa and Oom-Cha, Sanguma and
+  Tambaran Culture, and the named mask and dance
+  theatres (Orokolo Eharo, Sepik Tambaran,
+  Trobriand Kesawaga, Malangan, Kerema Hevehe).
+
+**The whole course stands at 459 lessons, 5,963 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

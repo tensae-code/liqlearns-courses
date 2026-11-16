@@ -270,7 +270,19 @@ The titles, in ladder order:
    the tilework of Yazd and Isfahan; zirlaki lacquerwork —
    layered-paper bookbinding, boxes and wooden objects; and
    Iranian traditional embroidery — Darvish, Zartoshti and the
-   woollen pateh of Kerman (Iran student books).
+   woollen pateh of Kerman (Iran student books). The Art expansion added:
+   body painting — Papua New Guinea's organic colours
+   from flowers, leaves, clay, soil and charcoal, worn
+   on the skin in traditional designs with meanings;
+   Papua New Guinea carving and storyboards — everyday
+   life and legends carried in wood, with soft carving
+   and modelling in clay, shells and soap; Papua New
+   Guinea weaving and bilum — a mat from coconut
+   fronds, and fibre dyed and woven into bilums,
+   baskets, belts and mats; and Papua New Guinea
+   painting — traditional painting set beside
+   contemporary painting (Papua New Guinea teacher
+   guides, evidence).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -495,7 +507,19 @@ The titles, in ladder order:
    peoples and regions and its religious singing; and the radif
    and the dastgah system — Iran's own modal system, the ordered
    repertoire of melodic models organised in dastgahs (Iran
-   student books).
+   student books). The Art expansion added:
+   Papua New Guinea instruments and music — the kundu
+   and garamut heard and named, song collections and
+   the PNG music industry; playing a simple melody
+   (Papua New Guinea) — sol-fa sight-reading and
+   part-singing through the National Anthem; PNG
+   stringband: pawa and oomcha; PNG traditional and
+   contemporary music — Sanguma and Tambaran Culture;
+   playing the guitar, with keyboard studies beside
+   it; singing in parts; music production and the
+   recording studio; and commercial music and
+   copyright (Papua New Guinea teacher guides,
+   evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -625,7 +649,20 @@ The titles, in ladder order:
    performance art and body art — everyday actions as the
    starting point of art, a daily action chosen and
    recreated to make others reflect, through installation,
-   happening and performance (Colombia student book).
+   happening and performance (Colombia student book). The Art expansion added:
+   PNG traditional dances — customs and protocols,
+   the dances of the Highlands, Papua, Islands and
+   Momase, bilas and body painting as part of the
+   dancing, and preserving the dances; Pacific
+   dances — Manus Garamut, Hula, Tamure and the rest,
+   compared, created and performed; Papua New
+   Guinean plays and playwrights — Nora Vagi Brash
+   and Russell Soaba; PNG theatre styles and
+   practices — Orokolo Eharo, Sepik Tambaran,
+   Trobriand Kesawaga, Malangan and Kerema Hevehe;
+   and folk dances of the world — the Oriental/
+   Eastern dances (Papua New Guinea teacher guides,
+   evidence).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New

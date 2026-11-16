@@ -1,0 +1,18 @@
+# Sources — Papua New Guinea Weaving and Bilum
+
+countries: Papua New Guinea
+
+**Book 1:** *Arts Teacher Guide — Primary Grade 3 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-589-2, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 2,457,723 bytes and 78 pages match the record exactly). Excluded per the placements: Assessment and Reporting section (printed pp. 49–60, assessment only), Glossary (printed p. 68, inventory only), planning/timetable apparatus. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 2:** *Arts Teacher Guide — Primary Grade 8 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-28-4, Grade 8, 72 PDF pp. TEACHER — teacher guide. Verdict: PARTIAL — the guide itself is unfinished: its yearly overview covers Term 1 in full but Terms 2–4 are marked "yet to be completed", its termly plan names Topics 9–12 with standards "yet to be created", and the Guided Lessons section notes the drawing and painting guided lessons are "yet to be inserted" (cover/title page verified against the record title; 4,758,794 bytes and 72 pages match the record exactly; fetched in 900 KB Range chunks via raw.githubusercontent.com with byte-size and git blob SHA verification). Every topic that IS specified is placed. Excluded per the placements: Assessment and Reporting section (printed pp. 46–52, assessment only), Glossary (printed pp. 57–59, inventory only), Resources/References and appendices. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide (PARTIAL — the guide itself is unfinished) — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Unit 2 Craft, Topic Weaving and Modelling (Lessons 11–13) — local fibre and fabric crafts: what is made locally, twines and materials, and weaving a simple mat from coconut fronds step by step (teacher guide — evidence; original target `visual-art/png-coconut-leaf-weaving`) | Book 1, printed pp. 20, 31, 41 |
+| Papua New Guinea — Unit 2 Craft, Topic Arts and Craft (standard 8.1.3b) — producing a fibre product: gathering suitable fibres, dyeing and colouring all fibres ready for weaving, sun-drying them, and weaving bags, bilums, baskets, belts and mats (teacher guide — evidence (PARTIAL — the guide itself is unfinished); original target `visual-art/png-fibre-weaving-and-bilum`) | Book 2, printed p. 26 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on Papua New Guinea teacher guide evidence only, named here, counted nowhere.**
+
+This is a canonical NEW lesson (slug-registry Part 1: `visual-art/papua-new-guinea-weaving-and-bilum`). The placement was filed as NEW LESSON NEEDED under the original string `visual-art/png-coconut-leaf-weaving`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. The placement was filed as NEW LESSON NEEDED under the original string `visual-art/png-fibre-weaving-and-bilum`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Papua New Guinea's own way is kept as named parts, exactly as the guides teach it. Songs are placed by summary only, never transcribed.
+
+Searchable tags: papua new guinea weaving and bilum, Papua New Guinea

@@ -1,6 +1,6 @@
 # Sources — Theatre and Film Through History
 
-countries: Ethiopia, Samoa, Trinidad and Tobago
+countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -22,7 +22,7 @@ countries: Ethiopia, Samoa, Trinidad and Tobago
 |---|---|
 | Sub lesson 1 — Theatre and film, and their participants | Book 1, §§1.5–1.5.3, printed pp. 26–29 |
 | Sub lesson 2 — Types of theatre and of film | Book 2, §1.3.2–§1.4.2, printed pp. 25–29 |
-| Sub lesson 3 — Theatre and film in Ethiopia (teacher guide — evidence) | Book 3, printed pp. 17–25 |
+| Sub lesson 3 — Theatre and film in Ethiopia (teacher guide — evidence) | Book 10, printed pp. 17–25 |
 | Sub lesson 4 — History of Ethiopian theatre and film (teacher guide — evidence) | Book 4, Lessons 7–11, printed pp. 12–17 |
 | Sub lesson 5 — African and world theatre and film (teacher guide — evidence) | Book 5, Lessons 26–29, printed pp. 41–48 |
 | Sub lesson 6 — What film art is — and how it began (teacher guide — evidence) | Grade 3 Teacher Guide, §2.3, printed pp. 41–42 |
@@ -30,12 +30,22 @@ countries: Ethiopia, Samoa, Trinidad and Tobago
 | Sub lesson 8 — Film's seven preparation stages | Grade 8 Student Textbook, §1.3, printed pp. 39–40 |
 | Sub lesson 9 — Local histories — theatre and film's foundation | Grade 8 Student Textbook, §3.3, printed pp. 98–99 |
 | Sub lesson 1 — Theatre and film, and their participants — the Grade 7 first-performance account | Grade 7 Student Textbook, §1.3, printed p. 24 |
-| Samoa — Year 11 and Year 12 Drama: Film and Video, Parts 1 and 2 — film and video as a drama study across both years (teacher-guide evidence) | Book 8, printed pp. 53, 81 |
+| Samoa — Year 11 and Year 12 Drama: Film and Video, Parts 1 and 2 — film and video as a drama study across both years (teacher-guide evidence) | Book 11, printed pp. 53, 81 |
 
 | Trinidad and Tobago — Content Framework (Form 2) — Greek, Medieval and Elizabethan theatre, formal and informal theatre spaces in Trinidad and Tobago and the features of theatre spaces (teacher guide — evidence) | Book 9, printed pp. 5–6 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 10:** *Arts Teacher Guide — Primary Grade 5 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-587-8, Grade 5, 94 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 2,775,009 bytes and 94 pages match the record exactly). Excluded per the placements: Assessment and Reporting section (printed pp. 72–77, assessment only), Glossary (printed pp. 82–84, inventory only), planning apparatus. Note carried as filed: the appendix "Knowledge, Skills, Attitudes and Values for the lessons" (printed pp. 69–71) carries mis-pasted non-arts content — a production error in the guide itself; only its painting lines are placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 11:** *Theatre Arts — Upper Secondary Teacher Guide* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2008; ISBN 978-9980-9925-0-5, Grades 11–12, 56 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 368,743 bytes and 56 pages match the record exactly). Excluded per the placements: the assessment chapters (printed pp. 16–32, 40–43, assessment only), glossaries (printed pp. 48–55, inventory only), resource lists. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Papua New Guinea — Unit 5 Drama, Topic Papua New Guinean Actors and Movies (Lessons 79–84) — researching past and present Papua New Guinean actors (William Takaku from Bougainville is the guide's named example), the benefits of being an actor, inferring and predicting about actors in PNG, and creating and presenting a play (teacher guide — evidence; original target `drama-and-dance/png-actors-and-film`) | Book 10, printed pp. 23, 43 |
+| Papua New Guinea — Unit 5 Drama, Topic World Famous Actors and Movies (Lessons 85–90) — present and past world actors (the guide names Jackie Chan, Daniel Radcliffe and Chris Tucker), actors' roles in film and on stage, choosing an actor and his or her roles, and costumes for actors (teacher guide — evidence) | Book 10, printed pp. 23, 44 |
+| Papua New Guinea — Unit 12.2 Development of Theatre — Greek theatre, where written theatre began, its ritual nature and outdoor venues bearing close relationships with Papua New Guinean theatre; Shakespeare and the Renaissance revival of the classical playwrights; tragedy and comedy as the major genres — tragedy as pride before a fall, a flaw in the hero or heroine leading to disaster — studied through Hamlet, King Lear and Peter Kama Kerpi's "Voices from the Ridge" (plot as orientation, conflict and resolution; character studied through what a character says, does, and what others say about them); translating a Greek or Shakespearean plot into a Papua New Guinean contemporary situation, and writing a character study and dramatising its PNG equivalent (teacher guide — evidence) | Book 11, printed pp. 36–37 |
+| Papua New Guinea — Unit 12.2 Development of Theatre, World Theatre Research Project — researching a world theatre form and presenting it: Japanese Kabuki, Noh and Bunraku puppets, Balinese Ramayana dance theatre and shadow plays, Indonesian Ludruk theatre, Indian Kerala theatre and Indian dance, Aboriginal Australian dance, Bollywood and Hollywood, European classical ballet and opera, Punch and Judy puppets, the Muppets, radio drama and rap dance, beside Greek and Shakespearean tragedy and comedy (teacher guide — evidence; original target `drama-and-dance/world-theatre-forms`) | Book 11, printed p. 37 |
+
+**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Claims of firsts are taught as their sources give them: Fabula is 'probably the first original African play' and Hager Fikir the 'oldest indigenous theatre in Africa' — the guide's own wordings, kept with their caution. The Grade 10 guide records no separate 'Lesson 27' heading in its theatre sequence; the lesson follows its placements (Lesson 26 African theatre onward) and claims nothing about a Lesson 27.
 
-Searchable tags: theatre history, film history, theatron, Fabula, Tekle Hawariat, Hager Fikir Theatre, National Theatre, Seytan Bet, Haile Gerima, Ethiopian Film Corporation, film types, theatre types
+Searchable tags: theatre history, film history, theatron, Fabula, Tekle Hawariat, Hager Fikir Theatre, National Theatre, Seytan Bet, Haile Gerima, Ethiopian Film Corporation, film types, theatre types, Papua New Guinea

@@ -1,6 +1,6 @@
 # Sources — Ballroom and Social Dances
 
-countries: Trinidad and Tobago, Iceland
+countries: Trinidad and Tobago, Iceland, Papua New Guinea
 
 **Book 1:** *Teacher's Guide — Secondary School Curriculum — DANCE — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva; year not printed in fetched text; no ISBN printed, Forms 1–3 (Grades 7–9), 57 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — assessment rubrics/checklists (Part 3) and the Glossary of Key Terms in Dance (printed pp. 49+) are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -14,8 +14,13 @@ countries: Trinidad and Tobago, Iceland
 
 | Iceland — The sarabande's journey: a daring dance in Spain's Central-American colonies in the 1500s, tamed in Spain, Italy and France into the slow, dignified court dance of the Baroque suite (Händel's Sarabande, played and heard) (teacher guide — evidence; original target `drama-and-dance/the-sarabande`) | Book 2, printed p. 4 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Trinidad and Tobago teacher guide evidence only, named here, counted nowhere.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 3:** *Arts Teacher Guide — Primary Grade 7 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-27-7, Grade 7, 90 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 5,245,448 bytes and 90 pages match the record exactly; the file is NOT in the repo tree — fetched via the Release route from its books.json download_url, release mid-size-books-8, byte size verified). The guide's own Content Background leaves the same "insert explanation here" template gaps as Grade 6; every topic is still fully specified in the termly overview and KSAV tables. Excluded per the placements: Assessment, Reporting and Recording section (printed pp. 56–62, assessment only), Glossary (printed pp. 67–68, inventory only), Resources/References and appendices. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Papua New Guinea — Unit 4 Dance, Topic Types of Western Dances and Patterns (Lessons 41–50) — naming Western dances and why each is unique, by country of origin; exploring and practising dance patterns and movements from three countries in the West; Western country dance and its features — dress and the music that goes with it — and performing a Western dance pattern collaboratively (the guide's resource examples: hip hop, line dance, country-western two-step) (teacher guide — evidence; original target `drama-and-dance/western-dances-and-patterns`) | Book 3, printed pp. 15–16, 38, 48–51 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on Trinidad and Tobago teacher guide evidence only, named here, counted nowhere.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/ballroom-dances`); the Trinidad and Tobago placements were filed as NEW LESSON NEEDED under the original string(s) `drama-and-dance/social-dance-and-responsible-dancing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Trinidad and Tobago's own way: social dancing is taught frankly inside its Dance curriculum — the country's own party musics, Soca and Dancehall, are the lesson's music, and the lesson's work is the line between appropriate and inappropriate dancing and the responsible choices of adolescence.
 
-Searchable tags: ballroom, social dance, Soca, Dancehall, appropriate dancing, responsible choices, Trinidad and Tobago, Iceland, Dægurspor
+Searchable tags: ballroom, social dance, Soca, Dancehall, appropriate dancing, responsible choices, Trinidad and Tobago, Iceland, Dægurspor, Papua New Guinea

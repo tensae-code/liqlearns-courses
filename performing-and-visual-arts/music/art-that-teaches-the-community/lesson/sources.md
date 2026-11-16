@@ -1,6 +1,6 @@
 # Sources — Art That Teaches the Community
 
-countries: Ethiopia, Egypt, Fiji
+countries: Ethiopia, Egypt, Fiji, Papua New Guinea
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -26,8 +26,13 @@ countries: Ethiopia, Egypt, Fiji
 | Fiji — Unit 2 Natural Disasters — songs that teach safety: the earthquake stop-drop-cover song, the flood (Noah) song, cyclone rain songs in English and iTaukei, an original disaster-preparedness poem-song, and singing the tsunami drill (teacher guide — evidence) | Book 4, printed pp. 7–13 |
 | Fiji — Unit 7 Fire — the fire-extinguisher PASS steps (pull, aim, squeeze, sweep) set to a known tune and sung line by line, with group movement dances to the fire songs (teacher guide — evidence) | Book 4, printed pp. 24–25 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Egypt).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 5:** *Theatre Arts — Upper Secondary Teacher Guide* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2008; ISBN 978-9980-9925-0-5, Grades 11–12, 56 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 368,743 bytes and 56 pages match the record exactly). Excluded per the placements: the assessment chapters (printed pp. 16–32, 40–43, assessment only), glossaries (printed pp. 48–55, inventory only), resource lists. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Papua New Guinea — Unit 12.3 Awareness Theatre — researching awareness theatre groups in Papua New Guinea (drawing on the National AIDS Council, the Department of Health, government departments, theatre groups and NGOs) and what awareness theatre is for; researching, analysing and demonstrating awareness theatre on real issues — environmental (water and air pollution, rising sea levels), land disputes, health (HIV and AIDS, maternal health, family planning), social (alcohol abuse, illegal drugs), illegal squatters, political (corruption, the limited preferential voting system) and economic issues — and developing the research findings into a scripted awareness play for the community (teacher guide — evidence; original target `drama-and-dance/awareness-theatre`) | Book 5, printed pp. 38–39 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Egypt).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 HIV/AIDS and doping are taught exactly in the pupil book's own framing and wording, as a warning teaching. Both songs are placed by name, teaching/purpose and (for the Grade 6 reprint) printed credit line only; no lyrics are transcribed.
 
-Searchable tags: art that teaches the community, traffic safety, The Careful Student, ጠንቃቃ ተማሪ, Solomon Gela, Ezra Abate, HIV AIDS prevention, So AIDS Does Not Catch Us, doping stimulant drugs, Egypt, saving water, theatre sketch
+Searchable tags: art that teaches the community, traffic safety, The Careful Student, ጠንቃቃ ተማሪ, Solomon Gela, Ezra Abate, HIV AIDS prevention, So AIDS Does Not Catch Us, doping stimulant drugs, Egypt, saving water, theatre sketch, Papua New Guinea

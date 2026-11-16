@@ -1,6 +1,6 @@
 # Sources — Emblems and Posters That Speak
 
-countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran
+countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Papua New Guinea
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -55,8 +55,13 @@ countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan,
 | Sudan — Book 3, Design, "Exercises and Practical Activity": the Design book's practice programme: a girl's dress fabric in three colours only; an awareness message against over-cutting and over-grazing the trees; a warning slogan against harmful habits; a logo in not more than four colours for the Ministry of Education; a traffic-awareness design; a two-colour artwork for Peace Day; a furnishing fabric at 30×30 cm; a wildlife-protection design from a given photograph; and a postage stamp expressing Sudanese oil production (student book) | Book 14, printed p. 99 |
 | Iran — Graphics L2, Poster and page layout: اعلان و صفحه آرایی: designing a poster/announcement and laying out a page (student book) | Book 15, printed p. 44 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
+
+**Book 16:** *Arts Teacher Guide — Primary Grade 8 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-28-4, Grade 8, 72 PDF pp. TEACHER — teacher guide. Verdict: PARTIAL — the guide itself is unfinished: its yearly overview covers Term 1 in full but Terms 2–4 are marked "yet to be completed", its termly plan names Topics 9–12 with standards "yet to be created", and the Guided Lessons section notes the drawing and painting guided lessons are "yet to be inserted" (cover/title page verified against the record title; 4,758,794 bytes and 72 pages match the record exactly; fetched in 900 KB Range chunks via raw.githubusercontent.com with byte-size and git blob SHA verification). Every topic that IS specified is placed. Excluded per the placements: Assessment and Reporting section (printed pp. 46–52, assessment only), Glossary (printed pp. 57–59, inventory only), Resources/References and appendices. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide (PARTIAL — the guide itself is unfinished) — EVIDENCE only, kept outside the acceptance count.**
+
+| Papua New Guinea — Unit 1 Arts, Topic Painting (Lessons 6–10) — designing and painting a large-scale banner: composition and balance, lettering and designing, drawing and painting, graphics and creative design, carried through to the finished banner (teacher guide — evidence (PARTIAL — the guide itself is unfinished)) | Book 16, printed pp. 24–25 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The famous emblems named (Coca-Cola, Nike, Apple, Pepsi, Walta Television) are named as the Grade 5 book names them, as examples of the three kinds — no mark is reproduced in the lesson's drawn picture, which is an invented teaching emblem, not a copy of any real one. The Grade 5 teacher-guide signs-and-posters part rests on that guide's closing syllabus tables and is labelled at that evidence level in the table.
 
-Searchable tags: emblem, አርማ, poster, signs, design, advertising, health poster, campaign poster, ማስታወቂያ, Haiti
+Searchable tags: emblem, አርማ, poster, signs, design, advertising, health poster, campaign poster, ማስታወቂያ, Haiti, Papua New Guinea

@@ -1,6 +1,6 @@
 # Sources — Elements of Drama
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Iran
+countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -17,12 +17,20 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Iran
 | Samoa — Drama, Year Six — the elements of drama studied in depth: role/character (inner and outer life, authentic characters against stereotypes), relationship, time and place, tension built with sound, light and stage effects, and focus and emphasis (programme evidence) | Book 2 | printed pp. 82–83 |
 
 | Trinidad and Tobago — Content Framework: actor's tools (Form 1) — body warm-up, breathing techniques, voice warm-up, voice projection, speech diction and enunciation, sound and silence, pauses and beats, soundscapes and sound effects as the performer's working tools (teacher guide — evidence) | Book 3, printed p. 5 |
-| Iran — Dramatic arts L1, Dialogue: گفت‌وگو کنید: dialogue as an element and chief tool of creation in the dramatic arts, and how stage dialogue resembles everyday talk (student book) | Book 4, printed p. 119 |
-| Iran — Dramatic arts L2, Dramatic dialogue: گفت‌وگوی نمایشی: writing dramatic dialogue — a remembered incident of conflict between two or more people, written as stage talk and carried to an ending (student book) | Book 4, printed p. 121 |
-| Iran — Dramatic arts L3, Character and situation in drama: شخصیت و موقعیت در نمایش: character and situation — building a play's people by closely observing how classmates behave and speak (student book) | Book 4, printed p. 124 |
+| Iran — Dramatic arts L1, Dialogue: گفت‌وگو کنید: dialogue as an element and chief tool of creation in the dramatic arts, and how stage dialogue resembles everyday talk (student book) | Book 5, printed p. 119 |
+| Iran — Dramatic arts L2, Dramatic dialogue: گفت‌وگوی نمایشی: writing dramatic dialogue — a remembered incident of conflict between two or more people, written as stage talk and carried to an ending (student book) | Book 5, printed p. 121 |
+| Iran — Dramatic arts L3, Character and situation in drama: شخصیت و موقعیت در نمایش: character and situation — building a play's people by closely observing how classmates behave and speak (student book) | Book 5, printed p. 124 |
 
-**Acceptance count: taught in 1 country (Iran).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 5:** *Arts Teacher Guide — Primary Grade 6 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-26-0, Grade 6, 116 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 4,174,019 bytes and 116 pages match the record exactly; fetched in 900 KB Range chunks via raw.githubusercontent.com with byte-size and git blob SHA verification after the Contents-raw route truncated three times). The guide's own Content Background leaves a few "insert explanation here" template gaps (e.g. drawing techniques, printed p. 20); every topic is still fully specified in the termly overview and KSAV tables. Excluded per the placements: Assessment and Reporting section (printed pp. 77–89, assessment only), Glossary (printed pp. 94–95, inventory only), Resources/References and appendices. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 6:** *Theatre Arts — Upper Secondary Teacher Guide* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2008; ISBN 978-9980-9925-0-5, Grades 11–12, 56 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 368,743 bytes and 56 pages match the record exactly). Excluded per the placements: the assessment chapters (printed pp. 16–32, 40–43, assessment only), glossaries (printed pp. 48–55, inventory only), resource lists. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Papua New Guinea — Unit 5 Drama, Topics Types of Stages and Stage Areas (Content Background) — what drama is: a dramatic art of communication between actor and audience that can carry information and awareness (human rights, health) to a wide society; Aristotle's elements of drama — action/plot with its pattern (initial entanglement, rising action, climax, falling action, resolution), characters, language, and music in a play; the drama vocabulary: dialogue, character, audience, stagecraft, genre, convention, theme, actors, stage, script, playwright, improvise, costumes, props, backdrop, mime (teacher guide — evidence) | Book 5, printed pp. 35–38 |
+| Papua New Guinea — Unit 11.1 Creative Drama — the elements of drama: plot, character, setting, climax, diction and theme — and how a story's narration becomes action and dialogue in a play (teacher guide — evidence) | Book 6, printed p. 33 |
+
+**Acceptance count: taught in 1 country (Iran).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The element list is the guide's own (printed pp. 54–56), given whole; nothing is added to it or taken from it.
 
-Searchable tags: elements of drama, character, tension, symbol, dramatic action, Grade 7 teacher guide, evidence
+Searchable tags: elements of drama, character, tension, symbol, dramatic action, Grade 7 teacher guide, evidence, Papua New Guinea

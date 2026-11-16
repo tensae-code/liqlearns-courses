@@ -1,6 +1,6 @@
 # Sources — Scales, Pitch and Key Signatures
 
-countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus
+countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New Guinea
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -48,17 +48,22 @@ countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus
 | Albania — Accidentals: sharps and flats — the alteration signs that raise and lower sounds, read and sung in the score with the 12-sound chromatic filling of the C scale (teacher guide — evidence) | Book 5, printed p. 28 |
 | Samoa — Composition learning example — illustrate by example the application of primary chords in traditional Sāmoan songs and pop songs (teacher-guide evidence) | Book 6, printed p. 79 |
 
-| Haiti — Séance 4, De la gamme et de ses degrés — the major diatonic scale — its structure and the notion of degree (degré) (teacher guide — evidence) | Book 7, printed p. 5 |
-| Haiti — Séance 5, Les intervalles — intervals — their definition, their names and their different species (teacher guide — evidence) | Book 7, printed p. 7 |
-| Haiti — Séances 7–8, Gammes diatoniques majeures — building major diatonic scales from different tonics (5 tones and 2 semitones), tone and semitone, the key signature (armure), the order of sharps and of flats, and recognising scales from their key signature (teacher guide — evidence) | Book 7, printed pp. 9–10 |
+| Haiti — Séance 4, De la gamme et de ses degrés — the major diatonic scale — its structure and the notion of degree (degré) (teacher guide — evidence) | Book 12, printed p. 5 |
+| Haiti — Séance 5, Les intervalles — intervals — their definition, their names and their different species (teacher guide — evidence) | Book 12, printed p. 7 |
+| Haiti — Séances 7–8, Gammes diatoniques majeures — building major diatonic scales from different tonics (5 tones and 2 semitones), tone and semitone, the key signature (armure), the order of sharps and of flats, and recognising scales from their key signature (teacher guide — evidence) | Book 12, printed pp. 9–10 |
 | Haiti — Séance 6, La gamme — the scale as music's phrases — if notes are music's words, scales are its sentences; the C major scale has no alteration and is the reference for building every major scale, by the succession tone / tone / semitone / tone / tone / tone / semitone (teacher guide — evidence) | Book 8, printed pp. 11–12 |
 | Fiji — Sub-Strand 1, Unit 1 Topic 1 Tonic Solfa — pitch as high/low; the tonic solfa system do–re–mi–fa–so–la–ti–do sung up and down the steps, in random order and as numbers 1–8, with actions (student book) | Book 9, printed pp. 1–4 |
 | Fiji — Sub-Strand 1, Topic 3 Semitone Pitches — accidentals (sharp raises a semitone, flat lowers, natural cancels), the semitone as the interval between neighbouring keys, and the five semitone pitch names beyond the seven main pitches, named in solfa and sargam on the keyboard; an accidental's effect lasts only within its bar (student book) | Book 10, printed pp. 5–7 |
 
 | Belarus — Mode (lad) — order and agreement among sounds: the major mode sounds cheerful, light and firm, the minor soft, darkened and sad; Beethoven's "Cheerful. Sad" heard whole, its mode and mood tracked to the ending (student book; original target `music/scales-pitch-and-key-signatures`) | Book 11, printed pp. 32–33 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Fiji, Belarus). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 12:** *Music — Upper Secondary Teacher Guide* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2008; ISBN 978-9980-9924-2-0, Grades 11–12, 83 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 520,329 bytes and 83 pages match the record exactly). Excluded per the placements: the assessment chapters and sample tests (printed pp. 13–25, 62–65, 73–83, assessment only), glossaries (printed pp. 69–72, inventory only), resource lists. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Papua New Guinea — Units 11.1 and 12.1, Melody Studies — tones and semitones (a tone = two semitones) on the keyboard; accidentals — sharp raises, flat lowers, natural restores; the major scale's tone/semitone pattern in C major, then the G, D and F major scales, each sung in solfa, numbers and letter names; and tonic triads — a chord of root, third and fifth built on the keynote (teacher guide — evidence) | Book 12, printed pp. 31–32, 51–52 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Fiji, Belarus). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 6 book's key-signature exercise prints "E♭" in Amharic beside "(E Major scale)" in English — a printing tangle the placements record; the lesson teaches the D, E, A-flat exercise set as the placements resolve it and does not present the tangled line as a fact. The Grade 6 teacher-guide parts are evidence and are labelled so; the pupil-taught scale work stands on the Grade 6 student book.
 
-Searchable tags: scale, major scale, minor scale, natural minor, harmonic minor, melodic minor, pitch, የድምፅ ቃና, key signature, sharp, flat, diatonic, Haiti
+Searchable tags: scale, major scale, minor scale, natural minor, harmonic minor, melodic minor, pitch, የድምፅ ቃና, key signature, sharp, flat, diatonic, Haiti, Papua New Guinea

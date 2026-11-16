@@ -1,6 +1,6 @@
 # Sources — Shapes, Forms and Patterns in Colour
 
-countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus
+countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -25,7 +25,7 @@ countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fij
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Shapes told by colour | Book 1, §1.2, printed pp. 10–13 |
-| Sub lesson 2 — Forms: geometric, natural, insect and man-made | Book 1, printed pp. 14–15 |
+| Sub lesson 2 — Forms: geometric, natural, insect and man-made | Book 11, printed pp. 14–15 |
 | Sub lesson 3 — Patterns: shapes and colours in order | Book 1, §5.1–§5.1.1, printed pp. 81–85 |
 | Sub lesson 4 — Stories and letters through pictures | Book 1, §5.1.3, printed pp. 88–89 |
 | Sub lesson 5 — Perceiving and practising in our locality (teacher guide — evidence) | Book 2, §§1.4–1.5, printed pp. 12–22 (section level only — scan with no text layer) |
@@ -33,22 +33,33 @@ countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fij
 | Pakistan — Chapter 5, Problems 2–3 — designs in rectangles: a vertical design of zigzag graph lines growing into rows of coloured triangles, and a horizontal design of crossed diagonals growing into a chevron pattern in red, green and yellow (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 8, printed pp. 44–45 |
 | Pakistan — Chapter 5, Problems 4–6 — designs built in circles and squares: a six-petal flower inside a hexagon, a hexagon set inside a circle inside a square, and a four-petal design made from four semicircles on a square's diagonals — each constructed in steps, then coloured (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 8, printed pp. 46–48 |
 
-| Sub lesson 6 — Corridors and colour composition (Grade 4): Fig. 5.13 a line-and-colour veranda; Fig. 5.14 geometric forms showing colour-painting composition when corridors are placed | Book 1, printed p. 87 |
-| Sub lesson 3 — Counting instruments in patterns (Grade 4): instruments arranged in order make patterns and teach number (Fig. 5.15); Activity 5.3 counts kebero facing one way, masenqo another | Book 1, printed p. 87 |
+| Sub lesson 6 — Corridors and colour composition (Grade 4): Fig. 5.13 a line-and-colour veranda; Fig. 5.14 geometric forms showing colour-painting composition when corridors are placed | Book 11, printed p. 87 |
+| Sub lesson 3 — Counting instruments in patterns (Grade 4): instruments arranged in order make patterns and teach number (Fig. 5.15); Activity 5.3 counts kebero facing one way, masenqo another | Book 11, printed p. 87 |
 
 | Grade 4 Ch. 1 closing exercise — shape/form items (G4S-21) (question stock, Sub lesson 6) | Grade 4 Student Textbook, Ch. 1 closing exercise, printed pp. 20–21 |
 | Maldives — Symmetrical Patterns: symmetry for balance — one half the mirror image of the other across the line of symmetry, as in Islamic designs; designing a symmetrical tile pattern by tracing a motif and flipping the tracing to the other three sides, keeping the colours symmetrical too | Book 3, Unit 15, printed pp. 63–66 |
 | Uganda — Chapter 6: Patterns from Nature; Designing a Motif — motifs made from natural or human-made materials, designing a motif for a mono-print, and motif patterns and their applications | Book 4, printed pp. 38–41 |
 | Bhutan — Lesson 11, Symmetry Colouring — observe the colour symmetry and complete the pictures so both halves match | Book 5, printed p. 11 |
-| Serbia — "Visual features of natural and man-made forms": natural forms — people recognise forms by their special features (colour, size, material); natural forms are created in nature — a butterfly wing's patterns, a leaf's veins, a zebra's stripes, a giraffe's patches, a parrot's feathers, a fish's scales | Book 6, printed p. 18 |
+| Serbia — "Visual features of natural and man-made forms": natural forms — people recognise forms by their special features (colour, size, material); natural forms are created in nature — a butterfly wing's patterns, a leaf's veins, a zebra's stripes, a giraffe's patches, a parrot's feathers, a fish's scales | Book 13, printed p. 18 |
 | Mozambique — Lesson 14, "Transformation of Form": the mesh and the module — a mesh (malha) as a simple modular structure organising a surface from regular flat shapes (triangular, quadrangular, circular, hexagonal meshes); creating a module from one mesh shape, representing it in one square, repeating it across the whole mesh, erasing the mesh away and colouring (valorização) the modular structure that remains, in one colour or alternating colours (procedure as printed) (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 7, printed pp. 98–101 |
 | Mozambique — Lesson 14, "Transformation of Form": rotation — drawing the module on card, cutting it out and marking a fixed rotation point, then rotating it regularly or irregularly so new forms appear from the turning — an infinity of forms from one module — erasing the construction lines to present the final form (procedure as printed) (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 7, printed pp. 104–105 |
 | Fiji — Shape-and-colour sponge printing and colour pictograms — sponge shapes printed in named colours and described; picture collections sorted into primary-colour and secondary-colour pages (food, clothing, flowers) (student book) | Book 9, printed pp. 54, 57–59 |
 
 | Belarus — Part 4, the Art Workshop: Learning to decorate objects — the elements and motifs of decor, the step sequence for carrying out decoration, and geometric and plant ornament (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 10, printed pp. 67–70 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus).**
+
+**Book 11:** *Arts Teacher Guide — Primary Grade 3 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-589-2, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 2,457,723 bytes and 78 pages match the record exactly). Excluded per the placements: Assessment and Reporting section (printed pp. 49–60, assessment only), Glossary (printed p. 68, inventory only), planning/timetable apparatus. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 12:** *Arts Teacher Guide — Primary Grade 4 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-588-5, Grade 4, 94 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 3,121,077 bytes and 94 pages match the record exactly). Excluded per the placements: Assessment and Reporting section (printed pp. 67–74, assessment only), Glossary (printed pp. 79–81, inventory only), Resources/References and planning apparatus. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 13:** *Arts Teacher Guide — Primary Grade 8 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-28-4, Grade 8, 72 PDF pp. TEACHER — teacher guide. Verdict: PARTIAL — the guide itself is unfinished: its yearly overview covers Term 1 in full but Terms 2–4 are marked "yet to be completed", its termly plan names Topics 9–12 with standards "yet to be created", and the Guided Lessons section notes the drawing and painting guided lessons are "yet to be inserted" (cover/title page verified against the record title; 4,758,794 bytes and 72 pages match the record exactly; fetched in 900 KB Range chunks via raw.githubusercontent.com with byte-size and git blob SHA verification). Every topic that IS specified is placed. Excluded per the placements: Assessment and Reporting section (printed pp. 46–52, assessment only), Glossary (printed pp. 57–59, inventory only), Resources/References and appendices. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide (PARTIAL — the guide itself is unfinished) — EVIDENCE only, kept outside the acceptance count.**
+
+| Papua New Guinea — Content Background: Exploring Patterns — patterns driven by repetition, by numbers and by symmetry, patterns judged by the artist's eye, and random patterns made by a coin-toss printing game (teacher guide — evidence) | Book 11, printed pp. 28–29 |
+| Papua New Guinea — Content Background: Exploring Patterns — patterns driven by repetition, by numbers and by symmetry, patterns judged by the artist's eye, and random patterns made by a coin-toss printing game (teacher guide — evidence) | Book 12, printed pp. 27–28 |
+| Papua New Guinea — Content Background: Exploring Patterns — patterns driven by repetition, by numbers and by symmetry, patterns judged by the artist's eye, and random patterns made by a coin-toss printing game (teacher guide — evidence (PARTIAL — the guide itself is unfinished)) | Book 13, printed pp. 21–22 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 teacher-guide part is cited at section level only (§§1.4–1.5, printed pp. 12–22) because that guide is a scan with no text layer and two of its contents entries are partly degraded in the scan — the placements say so, and the lesson claims no body wording from it. The fraction work is taught as the Grade 4 book's own question — into how many parts is the circle divided, and what fraction is the blue part — without importing a fraction curriculum from outside the placements.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, shapes in colour, ዝርግ ቅርፅ, forms, patterns, fractions through drawing, pictorial composition, stories through pictures, locality practice, Bhutan
+Searchable tags: Maldives, Exploring Creative Arts 4, shapes in colour, ዝርግ ቅርፅ, forms, patterns, fractions through drawing, pictorial composition, stories through pictures, locality practice, Bhutan, Papua New Guinea

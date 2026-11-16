@@ -1,6 +1,6 @@
 # Sources — Genres of Theatre and Film
 
-countries: Ethiopia, Egypt, United Kingdom
+countries: Ethiopia, Egypt, United Kingdom, Papua New Guinea
 
 **Book 1:** *Performing and Visual Arts Teacher Guide Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, ISBN 978-997744-2-046-9, printed pp. i–ix + 1–79. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g09-teacher-placements.md.
 
@@ -15,10 +15,15 @@ countries: Ethiopia, Egypt, United Kingdom
 | Egypt — Topic 3, Artistic Differences: the play against the theatre sketch — telling the full play (المسرحية) apart from the short theatre sketch (الاسكتش المسرحي) | Book 2, printed p. 17 |
 | United Kingdom — What a musical is (Wicked): a musical defined as an extended piece of musical theatre integrating songs, spoken dialogue, acting and dance — shown through Wicked, the Oz story retold from the witches' point of view | Book 3, printed pp. 52–53 |
 
-**Acceptance count: taught in 2 countries (Egypt, United Kingdom).** Ethiopia teacher-guide evidence is named here, counted nowhere.
+
+**Book 4:** *Arts Teacher Guide — Primary Grade 7 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-27-7, Grade 7, 90 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 5,245,448 bytes and 90 pages match the record exactly; the file is NOT in the repo tree — fetched via the Release route from its books.json download_url, release mid-size-books-8, byte size verified). The guide's own Content Background leaves the same "insert explanation here" template gaps as Grade 6; every topic is still fully specified in the termly overview and KSAV tables. Excluded per the placements: Assessment, Reporting and Recording section (printed pp. 56–62, assessment only), Glossary (printed pp. 67–68, inventory only), Resources/References and appendices. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Papua New Guinea — Unit 5 Drama, Topic Tragedy and Comedy Plays (Lessons 56–76) — what tragedy and comedy dramas are and their features; planning, writing, rehearsing and performing a tragedy drama and a comedy drama; a tragedy drama built on a health issue (its causes, symptoms and prevention — tuberculosis, malaria, HIV/AIDS and others named) and a comedy drama built on a social issue, both used to create awareness (teacher guide — evidence; original target `drama-and-dance/tragedy-and-comedy-plays`) | Book 4, printed pp. 17, 40, 52–53 |
+
+**Acceptance count: taught in 2 countries (Egypt, United Kingdom).** Ethiopia teacher-guide evidence is named here, counted nowhere. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Grade 9 has NO student book; this lesson stands on the federal Grade 9 teacher guide (Lessons 20–21, printed pp. 31–35) as labelled evidence only, exactly as the placement directs.
 
 Egypt's Grade 7 student book adds a student-book source to this lesson: the play-versus-sketch distinction above. The United Kingdom's GCSE Anthology of Music adds a second student-book source: the definition of a musical, taught through Wicked. The Grade 9 Ethiopia statement below it stands for the Ethiopia guide evidence only.
 
-Searchable tags: genre, tragedy, comedy, film genres, Grade 9 teacher guide, Lessons 20-21, evidence, Egypt, theatre sketch, الاسكتش المسرحي
+Searchable tags: genre, tragedy, comedy, film genres, Grade 9 teacher guide, Lessons 20-21, evidence, Egypt, theatre sketch, الاسكتش المسرحي, Papua New Guinea

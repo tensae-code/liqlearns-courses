@@ -1,6 +1,6 @@
 # Sources — Instrument Families
 
-countries: Haiti, Fiji, Colombia
+countries: Haiti, Fiji, Colombia, Papua New Guinea
 
 **Book 1:** *Musique — EEA (Éducation esthétique et artistique) Séquence 1 — « Introduction à la pratique de la musique » (Ipharès Blain Jr., juillet 2021)* (teacher guide, French) — Haiti, Projet Nectar, MENFP, 2021, no ISBN printed, Grade 7e année AF, French, 15 PDF pp (printed pp. 1–14). TEACHER — teacher guide. Verdict: COMPLETE (first page verified against the record — Musique EEA sequence, niveau 7e AF, durée 8 à 10 semaines). The record names this file EEA2; the document itself is titled Séquence 1 — the mismatch is in the record's short name only; the file is the 7e AF music introduction sequence the record points to. Exclusions per the placements: Séance 9 (Révision) and Séance 10 (Évaluation: Contrôle 1) are revision/assessment — named, not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -25,8 +25,13 @@ countries: Haiti, Fiji, Colombia
 
 | Colombia — Project 2, Subproject 1, Momento 3 "La dulzura de los instrumentos de viento (aerófonos) y de cuerda (cordófonos)": the world's instrument families classified by how the sound is made — aerophones, and chordophones divided into struck strings (the piano's hammers), bowed strings (violin, viola, cello, double bass) and plucked strings (student book; original target `music/instrument-families-of-the-world`) | Book 5, printed pp. 120–130 |
 
-**Acceptance count: taught in 2 countries (Fiji, Colombia).** Haiti is added as teacher-guide / teacher-programme evidence only, kept outside the acceptance count.
+
+**Book 6:** *Music — Upper Secondary Teacher Guide* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2008; ISBN 978-9980-9924-2-0, Grades 11–12, 83 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 520,329 bytes and 83 pages match the record exactly). Excluded per the placements: the assessment chapters and sample tests (printed pp. 13–25, 62–65, 73–83, assessment only), glossaries (printed pp. 69–72, inventory only), resource lists. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Papua New Guinea — Unit 11.2 Instrument Studies 1, Indigenous Musical Instruments (teacher guide — evidence; original target `music/png-indigenous-instrument-families`) | Book 6, printed pp. 36–39 |
+
+**Acceptance count: taught in 2 countries (Fiji, Colombia).** Haiti is added as teacher-guide / teacher-programme evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/instrument-families`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
-Searchable tags: instrument families, woodwinds, bois, flute, oboe, clarinet, bassoon, cor anglais, Vivaldi RV 443, Haiti, Colombia
+Searchable tags: instrument families, woodwinds, bois, flute, oboe, clarinet, bassoon, cor anglais, Vivaldi RV 443, Haiti, Colombia, Papua New Guinea

@@ -1,0 +1,21 @@
+# Sources — Body Painting
+
+countries: Papua New Guinea
+
+**Book 1:** *Arts Teacher Guide — Primary Grade 3 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-589-2, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 2,457,723 bytes and 78 pages match the record exactly). Excluded per the placements: Assessment and Reporting section (printed pp. 49–60, assessment only), Glossary (printed p. 68, inventory only), planning/timetable apparatus. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 2:** *Arts Teacher Guide — Primary Grade 4 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-588-5, Grade 4, 94 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 3,121,077 bytes and 94 pages match the record exactly). Excluded per the placements: Assessment and Reporting section (printed pp. 67–74, assessment only), Glossary (printed pp. 79–81, inventory only), Resources/References and planning apparatus. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 3:** *Arts Teacher Guide — Primary Grade 5 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-587-8, Grade 5, 94 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 2,775,009 bytes and 94 pages match the record exactly). Excluded per the placements: Assessment and Reporting section (printed pp. 72–77, assessment only), Glossary (printed pp. 82–84, inventory only), planning apparatus. Note carried as filed: the appendix "Knowledge, Skills, Attitudes and Values for the lessons" (printed pp. 69–71) carries mis-pasted non-arts content — a production error in the guide itself; only its painting lines are placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Unit 1 Arts, Topic Painting (Lessons 7–10) — environmentally friendly organic colours made from flowers, leaves, clay, soil and charcoal vs modern paints; painting in geometric arrangement and narrative painting about your own life; traditional body painting with organic mediums; knowing a local painter (teacher guide — evidence; original target `visual-art/png-organic-colours-and-body-painting`) | Book 1, printed pp. 20, 30, 40 |
+| Papua New Guinea — Unit 5 Drama, Topic Costume and Make-up (Lessons 86–89) — plants used to make paint, making traditional paint, traditional designs and their meanings, and the steps of making coconut oil (teacher guide — evidence; original target `visual-art/png-organic-colours-and-body-painting`) | Book 2, printed p. 22 |
+| Papua New Guinea — Unit 1 Arts, Topic Painting (appendix KSAV for Lesson 8) — organic mediums of painting vs modern mediums: organic colours listed and identified, painting in geometrical arrangement with organic paints, and body painting using traditional organic medium (teacher guide — evidence; original target `visual-art/png-organic-colours-and-body-painting`) | Book 3, printed p. 69 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on Papua New Guinea teacher guide evidence only, named here, counted nowhere.**
+
+This is a canonical NEW lesson (slug-registry Part 1: `visual-art/body-painting`). The placement was filed as NEW LESSON NEEDED under the original string `visual-art/png-organic-colours-and-body-painting`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Papua New Guinea's own way is kept as named parts, exactly as the guides teach it. Songs are placed by summary only, never transcribed.
+
+Searchable tags: body painting, Papua New Guinea

@@ -1,7 +1,7 @@
 # Sources — Lines in Every Direction
 
 
-countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran
+countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran, Papua New Guinea
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -41,8 +41,13 @@ countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran
 | Iran — Illustration L1, Types of line: the kinds of line an illustrator uses and what each does in a picture (student book) | Book 9, printed p. 21 |
 | Iran — Drawing L3, Line in drawing: خط در طراحی: the kinds of line (soft, long, short, geometric) and what each does in a drawing (student book) | Book 10, printed p. 9 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Fiji, Belarus, Iran).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 11:** *Arts Teacher Guide — Primary Grade 3 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-589-2, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 2,457,723 bytes and 78 pages match the record exactly). Excluded per the placements: Assessment and Reporting section (printed pp. 49–60, assessment only), Glossary (printed p. 68, inventory only), planning/timetable apparatus. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Papua New Guinea — Unit 1 Arts, Topic Drawing (Lessons 1–6) — line characteristics straight/curve, thick/thin, short/long, vertical/horizontal; how a line feels; the expressed line; lines becoming shapes, regular and irregular, including traditionally created shapes (teacher guide — evidence) | Book 11, printed pp. 20, 30, 38–39 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Fiji, Belarus, Iran).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 4 rests on teacher-guide evidence only for its own content (the Grade 1 teacher guide's line lesson); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 1 student textbook, so the acceptance count counts pupil-taught content. The Grade 1 line-model pages are picture-led full pages; placements are followed exactly as read.
 
-Searchable tags: lines, horizontal vertical diagonal curved, zigzag, wave pattern, oval loops, what is a line, Ethiopia Grade 1 drawing, Nicaragua, Bhutan
+Searchable tags: lines, horizontal vertical diagonal curved, zigzag, wave pattern, oval loops, what is a line, Ethiopia Grade 1 drawing, Nicaragua, Bhutan, Papua New Guinea

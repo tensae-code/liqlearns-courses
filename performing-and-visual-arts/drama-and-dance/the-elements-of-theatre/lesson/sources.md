@@ -1,6 +1,6 @@
 # Sources — The Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran
+countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -52,8 +52,13 @@ countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran
 | Trinidad and Tobago — Content Framework: blocking and stagecraft (Form 1) — blocking taught whole: stage positions, stage areas, set levels, movement on stage, entrances and exits, stage setting and staging the play, with theatre spaces, theatre etiquette and safety in drama (teacher guide — evidence) | Book 13, printed p. 5 |
 | Iran — Dramatic arts L2, Elements of acting: the elements an actor works with on stage (student book) | Book 14, printed p. 131 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Honduras, Iran). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 15:** *Arts Teacher Guide — Primary Grade 6 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-26-0, Grade 6, 116 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 4,174,019 bytes and 116 pages match the record exactly; fetched in 900 KB Range chunks via raw.githubusercontent.com with byte-size and git blob SHA verification after the Contents-raw route truncated three times). The guide's own Content Background leaves a few "insert explanation here" template gaps (e.g. drawing techniques, printed p. 20); every topic is still fully specified in the termly overview and KSAV tables. Excluded per the placements: Assessment and Reporting section (printed pp. 77–89, assessment only), Glossary (printed pp. 94–95, inventory only), Resources/References and appendices. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Papua New Guinea — Unit 5 Drama, Topic Types of Stages and Stage Areas (Lessons 70–81) — the types of stages and their functions: proscenium (the picture-frame wall, raked stages, wings and fly loft), arena (theatre-in-the-round), thrust, and flexible stages; the stage areas named from the actor's point of view — downstage, upstage, stage right, stage left, centre stage and their refinements (teacher guide — evidence) | Book 15, printed pp. 17, 38–40, 63–64 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Honduras, Iran). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book's plot example is taught as the book gives it — a soldier wounded by enemy fire, his wife dying of grief, the story told by flashback — summarised, never reprinted. The teacher-guide parts (shot sizes move to the Video lesson; the Grade 6 guide's theatre-elements and genres part) are evidence and are labelled so.
 
-Searchable tags: theatre elements, setting, መቼት, character, plot, ሴራ, theme, ጭብጥ, actors, audience, director, frontal stage, ፊት ለፊት መድረክ, arena stage, ክብ መድረክ, props, costume, Egypt, actor's four dimensions, Nicaragua
+Searchable tags: theatre elements, setting, መቼት, character, plot, ሴራ, theme, ጭብጥ, actors, audience, director, frontal stage, ፊት ለፊት መድረክ, arena stage, ክብ መድረክ, props, costume, Egypt, actor's four dimensions, Nicaragua, Papua New Guinea

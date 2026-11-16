@@ -1,6 +1,6 @@
 # Sources — How Animals and People Move
 
-countries: Ethiopia, Samoa, Nicaragua, Singapore
+countries: Ethiopia, Samoa, Nicaragua, Singapore, Papua New Guinea
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 **Book 2:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
@@ -24,8 +24,17 @@ countries: Ethiopia, Samoa, Nicaragua, Singapore
 | Nicaragua — Body-movement techniques — body exercises: head and arms, back and stretching, legs and feet (teacher guide — evidence) | Book 5, printed p. 43 |
 
 | Singapore — "We are Sea Creatures" (Kindergarten 2): soft body percussion keeps the beat while children invent and vote on the movements of sea creatures — Goal 1 example (teacher guide — evidence) | Book 6, printed p. 33 |
-**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.
+
+
+**Book 7:** *Arts Teacher Guide — Primary Grade 3 — Standards Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-589-2, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 2,457,723 bytes and 78 pages match the record exactly). Excluded per the placements: Assessment and Reporting section (printed pp. 49–60, assessment only), Glossary (printed p. 68, inventory only), planning/timetable apparatus. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 8:** *Theatre Arts — Upper Secondary Teacher Guide* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2008; ISBN 978-9980-9925-0-5, Grades 11–12, 56 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 368,743 bytes and 56 pages match the record exactly). Excluded per the placements: the assessment chapters (printed pp. 16–32, 40–43, assessment only), glossaries (printed pp. 48–55, inventory only), resource lists. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Papua New Guinea — Unit 5 Drama, Topic Creating Drama (Lessons 73–78) — comedy skits with animal characters: imitating how animals move, sound and communicate; make-believe play; planning and practising a skit (teacher guide — evidence) | Book 7, printed pp. 23, 34, 47 |
+| Papua New Guinea — Unit 11.2 Creative Dance — warm-up and warm-down practice (stretches; the Tight Rope balance exercise; Hot Stones leaping and somersaulting) and the class dance activities: the Name Dance, spelling your name with your entire body; the Animal Dance, becoming an animal and exploring its relationships to the other animals in the group; and Moving to Music, exploring how different music affects the body, then making the movements larger or smaller, faster or slower with tempo change — movements organised into sequences and performed in groups, reflecting feelings, emotions, time, objects, animals and events (teacher guide — evidence) | Book 8, printed p. 34 |
+
+**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 1 teacher guide's opening movement-to-music placement (printed p. 8, §1.2 of g01-teacher-placements.md) belongs to the Moving to Music lesson's family, not this one, and is stocked there. The family-walking GIF (9752) is cited in this lesson's plan add-on list; its marker sits in Sub lesson 1 of lesson.md, where the family walk is taught.
 
-Searchable tags: how animals move, how people move, gait, gallop, prowl, hen, horse, cat, donkey, bird take-off, Grade 1, Nicaragua
+Searchable tags: how animals move, how people move, gait, gallop, prowl, hen, horse, cat, donkey, bird take-off, Grade 1, Nicaragua, Papua New Guinea
