@@ -2587,7 +2587,37 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   by the direct and indirect methods; Karagkiozis shadow theatre; and
   the May-tree custom.
 
-**The whole course stands at 918 lessons, 11,253 questions and
+- **Art expansion — Laos (2026-11-16):** 756 placements stocked from
+  22 books (all teacher guides, Lao, Grades 1–11 — so Laos counts
+  nowhere in the acceptance counts and stands as teacher-guide
+  evidence in every lesson it touches): 590 into existing and
+  already-built canonical lessons, and 166 into 20 NEW lessons
+  (Music: The Khene and Its Notation; Khene: The Lao Mouth Organ;
+  Lao Composers; Lao Folk Instruments; Khong Vong: Lao Gong
+  Circles; Lao Bamboo Flutes: The Khui; Lam: Lao Sung Poetry;
+  Lam Kep; Lam Phan Non; Lam Phoen; Lam Salavan; Lam Soen;
+  Lam Toei; Khap Thoum Luang Prabang; Thai Melodies;
+  Drama and Dance: Fon Jampa Muang Lao; Lamvong: Lao Circle
+  Dance; Lao Folk Dance: Positions and Poses;
+  Visual Art: Drawing on a Theme;
+  Culture and Values: Lao Art History).
+  Laos's own way is kept as named parts throughout: staff notation
+  taught through the khene and its own notation, read in exercises
+  and written from dictation grade by grade; the lam sung-poetry
+  forms (Lam Phu Thai, Lam Khon Sawan, Lam Tang Wai, Lam Kep,
+  Lam Phoen, Lam Phan Non, Lam Salavan, Lam Soen, Lam Toei) each
+  with its accompanying dance; the lamvong circle dance and the
+  55 named poses of Fon Jampa Muang Lao; Lao folk instruments
+  named one family at a time; five Lao composers' lives; Lao
+  pattern work (the flame motif and the hundred-eye medallion);
+  and a five-lesson history of Lao art from before Lan Xang to
+  the three kingdoms. Songs are placed by summary only, never
+  transcribed. The placements file's header tallies sum to 755;
+  the lines present are 756 — Book 4 (Music G7) carries 28 lines
+  (18 NEW) against its filed tally of 27 (17 NEW); the lines
+  present were stocked, as filed in the MERGE-LOG.
+
+**The whole course stands at 938 lessons, 11,493 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

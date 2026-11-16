@@ -1,6 +1,6 @@
 # Sources — Intervals
 
-countries: Albania, Malta, Papua New Guinea, Jordan, Sri Lanka, Malaysia, Syria, North Macedonia
+countries: Albania, Malta, Papua New Guinea, Jordan, Sri Lanka, Malaysia, Syria, North Macedonia, Laos
 
 **Book 1:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -53,7 +53,7 @@ countries: Albania, Malta, Papua New Guinea, Jordan, Sri Lanka, Malaysia, Syria,
 | Syria — Lesson 13 "The Fa Major Scale" — writing the name of the interval between the degrees; recalling that the flat sign (♭) lowers the degree by a semitone distance (student book; original target `music/musical-intervals`) | Book 10, printed p. 34 |
 | Syria — Lesson 16 (Ugaritic intervals) — Ugaritic music used the musical intervals, each interval bearing a name that indicates its number and direction; Ugaritic music rests on a scale of clear musical distances called the Ugaritic seven-note scale; the Ugaritic musical scale is among the oldest musical scales known in the world — about 900 years before the diatonic scale the world ascribes to the Greek Pythagoras (student book; original target `music/musical-intervals`) | Book 10, printed p. 41 |
 
-**Acceptance count: taught in 3 countries (Malaysia, Syria, North Macedonia). Earlier stock stands on Albania teacher-guide evidence only, named here, counted nowhere.** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Malaysia, Syria, North Macedonia). Earlier stock stands on Albania teacher-guide evidence only, named here, counted nowhere.** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Laos is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/intervals`). Albania's own way: the Grade 7 Kodály-based course teaches intervals inside its scales-and-accidentals work — distances named by counting from the first sound, then built, sung and played, on voice, keyboard and fyell.
 
@@ -89,3 +89,9 @@ Searchable tags: intervals, octave, distance between sounds, Albania, Muzika 7, 
 | North Macedonia — Интервали — intervals: the distance between two tones — harmonic when they sound together (the ground of harmony), melodic when one follows the other (the ground of melody); prime, second, third, fourth, fifth, sixth, seventh and octave, each in its sizes (student book; original target `music/intervals`) | Book 12, printed p. 56 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 13:** *ຄູ່ມືຄູ ສິລະປະດົນຕີ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Music Art, Secondary Year 1)* (teacher guide, Lao) — Laos, Ministry of Education and Sports, Research Institute for Educational Sciences; year 2012; no ISBN printed Grade: 6 (student/teacher: TEACHER). PDF pages: 104 (cover/title page verified against the record title; record size 1,536,832 bytes matched). Verdict: COMPLETE. Laos's own way: the first secondary year builds all notation from the khene's own note rows (ແຖວໂນດແຟ), then sings the nation, meets one national composer, and learns dance first as a named set of hand and foot positions before the lamvong itself. Excluded (standing exclusions): Lessons 28, 30, 32, 33 are ທວນຄືນ (revision) lessons — named, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/laos-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 8, the distance between two notes — an interval is the gap between two sounds; the eight interval sizes shown on the staff and named in exercises (teacher guide — evidence; original target `music/intervals-between-notes`) | Book 13, printed p. 23 |
