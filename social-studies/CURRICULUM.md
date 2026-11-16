@@ -12604,3 +12604,51 @@ is Kenya's carrier for Economics at Form 1 — trade and payment
 are taught through Kenyan specimens, a Kenya Commercial Bank
 cheque, a Kenya inland money order and postal order, and
 shilling-priced worked examples. Economics lessons: 383 → 386.
+
+## Economics expansion — Zambia — built 2026-11-15
+
+Zambia — 6 placements stocked from *Social Studies Grade 4
+Teaching Module, Term 3* (teacher module, English; Ministry
+of Education, Republic of Zambia — Curriculum Development
+Centre, © 2026; no ISBN printed; 41 PDF pp.). The module is a
+teacher teaching module, written to bridge the absence of
+approved textbooks under the Competence-Based Curriculum; it
+is cited as teacher-module evidence only, OUTSIDE the
+acceptance counts, in every row. 3 stocked into standing
+lessons — **Microeconomics**: Caring for resources — reduce,
+reuse, recycle (Sub-topic 4.7.1 Natural Resource Management,
+printed p. 1 — the community's natural resources (land,
+water, forests, minerals) managed wisely by tree planting,
+keeping rivers clean and recycling waste; acceptance
+unchanged, taught in 1 country, Ethiopia) — **Market and
+Money**: What money is (Topic 4.9 Learning About Money,
+introduction, printed p. 15 — money as what we use to buy
+goods and services instead of trading items like maize for
+fish, with the kwacha as Zambia's money; acceptance
+unchanged, taught in 2 countries, Ethiopia and United Arab
+Emirates) — **Culture and Work**: Making a family budget
+(Sub-topic 4.9.2 Budgeting, printed p. 18 — preparing a
+simple budget and a shopping list that puts needs before
+wants within a set amount of kwacha; acceptance unchanged,
+taught in 1 country, Rwanda) — and 3 new lessons built (12
+questions each, all in **Microeconomics**, all standing on
+teacher-module evidence only, acceptance 0 countries):
+Entrepreneurship and its benefits (Topic 4.8 and Sub-topic
+4.8.1, printed p. 7 — what an entrepreneur is; the key words
+business, goods, services, profit, loss, capital, savings
+and risk; and how entrepreneurs earn money, create jobs and
+provide goods and services for families and communities),
+Legal forms of business (Sub-topic 4.8.2 Types of Businesses,
+printed p. 12 — sole trader, partnership, cooperative and
+limited company, told through Mr Banda's grocery shop, Mary
+and John's tailoring partnership, a farmers' maize
+cooperative and a transport company owned by shareholders)
+and Impulse buying and needs vs wants (Sub-topic 4.9.1,
+printed p. 15 — needs vs wants and managing impulse buying,
+through the K10 bread-and-sweets story, the "Mwansa and the
+K20" scenario and a classroom market with play money).
+Zambia's own way: Economics at Grade 4 is money and
+enterprise in kwacha — market sellers, maize farmers and
+shopkeepers as the entrepreneurs, a K10/K20 in play money
+for the needs-vs-wants lessons, and a classroom market day.
+Economics lessons: 386 → 389.

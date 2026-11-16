@@ -1,6 +1,6 @@
 # Sources — Making a Family Budget
 
-countries: Rwanda
+countries: Rwanda, Zambia
 
 **Book 1:** *Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: TEACHER). PDF pages: 106 (cover verified against the record title — read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected; this book appears only as a books.json record, with no size/pages in the record to check against). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society (Civics), TG content map printed p. xvi; Unit 3 Hygiene and sanitation, incl. HIV/AIDS, STIs and TB (Health), p. xviii; Unit 4 Civics and governance — peer pressure, national symbols, leadership and good governance (Civics), p. xviii; Unit 10 Colonial Rwanda (History), p. xxvi. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -19,7 +19,15 @@ countries: Rwanda
 | Sub lesson 1 — 5.1 Family budget: family income and expenditure, and the importance of a family budget (Unit 5, Budget) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 5.1 Family budget: family income and expenditure, and the importance of a family budget (Unit 5, Budget) — printed pp. 126–128 |
 | Sub lesson 2 — Rwanda's way — the book's own teaching way | Rwanda — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Rwanda).**
+**Book 5:** *Social Studies Grade 4 Teaching Module, Term 3* (teacher module, English) — Zambia, Ministry of Education, Republic of Zambia — Curriculum Development Centre; year 2026 (© Curriculum Development Centre 2026); no ISBN printed. Title as printed: Social Studies Teaching Module — Grade 4, Term 3. Grade: Grade 4 (student/teacher: TEACHER). PDF pages: 41 (cover verified against the record title; 432,443 bytes, grabbed via grab.py url, verified). Verdict: COMPLETE (for Economics scope) — a teacher teaching module (written to bridge the absence of approved textbooks under the Competence-Based Curriculum) whose Term 3 topics were mapped contents-first and whose Economics topics (4.8 Entrepreneurship, 4.9 Learning About Money) were read fully and are placed as the module's own teaching content, marked TEACHER in the source line. Contents map: Topic 4.7 Environment — Sub-topic 4.7.1 Natural Resource Management (contents p. 1); Topic 4.8 Entrepreneurship — 4.8.1 Benefits of Entrepreneurship (p. 7), 4.8.2 Types of Businesses (p. 12); Topic 4.9 Learning About Money — 4.9.1 Impulse Buying (p. 15), 4.9.2 Budgeting (p. 18); Sample Lesson Plan (p. 22) and References (p. 25) named, not placed (the module's own apparatus). No History/Geography/Civics parts in this term module. Cited as teacher-module evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/zambia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zambia evidence — Budgeting: preparing a simple budget and making a shopping list that puts needs before wants within a set amount of kwacha (teacher module — evidence) | Zambia, *Social Studies Teaching Module — Grade 4, Term 3*, Topic 4.9 Learning About Money, Sub-topic 4.9.2 Budgeting, printed p. 18 |
+
+**Acceptance count: taught in 1 country (Rwanda). Zambia is teacher-module evidence only — named here, counted nowhere.**
+
+Zambia's own way: Economics at Grade 4 is money and enterprise in kwacha — market sellers, maize farmers and shopkeepers as the entrepreneurs, a K10/K20 in play money for the needs-vs-wants lessons, and a classroom market day. The budget is a shopping list in kwacha that puts needs before wants. This Zambia material stands on the teacher module as evidence only.
 
 Rwanda's own way (Rwanda Grade 5 Social Studies TG) (teacher guide — evidence): from P5 the medium is English and the organising frame is the child's own PROVINCE — its location, services, environment, climate, population and infrastructure — before the frame widens to the whole country at P6. That book is a teacher guide, cited as evidence only; Rwanda is counted in this lesson for its student book(s) named here, not for this guide.
 
@@ -29,4 +37,4 @@ Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches th
 
 Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the fullest Geography book of the set — a whole unit on direction and location works Rwanda onto the East African and African maps by latitude and longitude and time zones, then physical features and climate, and a climate-change sequence (types, change, effects, overcoming) sits inside it; regional co-operation is taught bloc by bloc (COMESA, CEPGL, ECCAS, AU, NEPAD).
 
-Searchable tags: making a family budget, Rwanda, social studies, culture-and-work
+Searchable tags: making a family budget, Rwanda, Zambia, kwacha, shopping list, needs before wants, teacher module evidence, social studies, culture-and-work
