@@ -1,14 +1,17 @@
 # Sources — Public goods and the free rider
 
-countries: Ethiopia, Rwanda
+countries: Ethiopia, Rwanda, Malaysia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
+
+**Book 5:** *Ekonomi Tingkatan 5* (student book, Malay) — Zeti Enterprise for Kementerian Pendidikan Malaysia (Ministry of Education); year 2017 (first printing); ISBN 978-983-3485-11-6. Title as printed: EKONOMI Tingkatan 5 — Buku Teks KSSM. Grade: Grade 11 (Form 5) (student/teacher: STUDENT). PDF pages: 259 (cover verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book is Economics: Economy and government pp. 1–118; Malaysia and the global economy pp. 119–234; glossary p. 235 (inventory-only); chapter-end summative exercises are assessment. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/malaysia-placements.md
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Non-rival and non-excludable | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 3 — Market Failure and Consumer Protection, printed pp. 51–54 |
 | Sub lesson 2 — The free-rider problem | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 3 — Market Failure and Consumer Protection, printed pp. 51–54 |
 | Sub lesson 3 — Ethiopia's own mechanisms | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 3 — Market Failure and Consumer Protection, printed pp. 51–54 |
+| Malaysia — 1.1.1 The government's role as producer: government as producer of public goods (barang awam) and social goods and as a public-sector employer | Malaysia, *Ekonomi Tingkatan 5*, 1.1.1 The government's role as producer — printed p. 2 |
 
 **Book 2:** *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2* (student book, Kinyarwanda; parallel English edition: Social and Religious Studies — Primary Two Pupil's Book, REB 2020, 207 PDF pages, 66,849,262 bytes — cover + contents + Economy spreads at printed pp. 62 and 71 spot-checked, same Unit 6 Economy content, placed once here) — Rwanda, REB (Rwanda Education Board); year 2019; ISBN no ISBN printed. Title as printed: Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; 56,123,108 bytes via release grab). Verdict: COMPLETE. Contents map: Economics parts printed pp. 62–73 (Unit 6 Ubukungu / Economy); other units: Family pp. 1–8, School/Village/Cell pp. 9–30, Hygiene pp. 31–39, Diseases pp. 40–45, Social behaviour pp. 46–61, Environment pp. 74–83, Transport/Communication pp. 84–88, Local/School history pp. 89–95 (named only, not placed). Teacher evidence: the P2 teacher guides (Kinyarwanda, REB 2019, 104 PDF pp.; and English Social and Religious Studies Teacher's Guide P2, REB 2020, 196 PDF pp.) mirror this pupil book's Unit 6 Economy — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
 
@@ -35,8 +38,10 @@ Rwanda's own way (Rwanda Grade 3): P3 Economics is a saving curriculum — where
 Rwanda's own way (Rwanda Grade 6): P6 scales the P5 family budget up to the state — national revenue collected by the Rwanda Revenue Authority, a finance minister presenting the budget to parliament, and development read through Rwandan trade, agriculture and tourism.
 
 
-**Acceptance count: taught in 2 countries (Ethiopia, Rwanda).**
+**Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Malaysia).**
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda
+Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
+
+Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia

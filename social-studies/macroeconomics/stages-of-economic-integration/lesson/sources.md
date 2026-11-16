@@ -1,14 +1,17 @@
 # Sources — Stages of economic integration
 
-countries: Argentina, Ethiopia, Guatemala, South Sudan
+countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
+
+**Book 5:** *Ekonomi Tingkatan 5* (student book, Malay) — Zeti Enterprise for Kementerian Pendidikan Malaysia (Ministry of Education); year 2017 (first printing); ISBN 978-983-3485-11-6. Title as printed: EKONOMI Tingkatan 5 — Buku Teks KSSM. Grade: Grade 11 (Form 5) (student/teacher: STUDENT). PDF pages: 259 (cover verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book is Economics: Economy and government pp. 1–118; Malaysia and the global economy pp. 119–234; glossary p. 235 (inventory-only); chapter-end summative exercises are assessment. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/malaysia-placements.md
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Free trade area and customs union | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 5 — Trade and Finance, printed pp. 140–141 |
 | Sub lesson 2 — The common market | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 5 — Trade and Finance, printed pp. 140–141 |
 | Sub lesson 3 — The economic union | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 5 — Trade and Finance, printed pp. 140–141 |
+| Malaysia — 2.2.6–2.2.7 Economic blocs and agreements: economic blocs and trade agreements Malaysia belongs to and their effects | Malaysia, *Ekonomi Tingkatan 5*, 2.2.6–2.2.7 Economic blocs and agreements — printed p. 140 |
 
 **Book 2:** *Cuadernos para el aula: Ciencias Sociales 6* (teacher guide, Spanish) — Argentina, Ministerio de Educación, Ciencia y Tecnología de la Nación Argentina; year not printed on the pages read; ISBN 978-950-00-0629-3. Title as printed: Ciencias Sociales 6 — Núcleos de Aprendizajes Prioritarios (NAP), Serie Cuadernos para el aula, Segundo Ciclo EGB / Nivel Primario. Grade: 6th year of primary (Segundo Ciclo) (student/teacher: TEACHER) — note: the repo record sits in a grade-04 folder, but the printed book is for 6º año/grado; the record title itself (NAP 2º ciclo, Ciencias Sociales) matches the book. PDF pages: 138 (cover verified against the record title). Verdict: COMPLETE (for Economics scope) — combined Social Studies teacher notebook read contents-first; the Economics parts (Latin American economic integration / Mercosur, in Axes 1 and 3) were read fully. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/argentina-placements.md
 
@@ -34,6 +37,8 @@ Guatemala's own way: integration is taught as Guatemala's own treaty story — t
 
 South Sudan's own way (South Sudan Primary 7): the country's economy is told through oil and minerals — mining is debated in class as "the backbone to the economy of South Sudan", with over-reliance on it (and world price swings) named as a danger in the same unit — and regional integration is taught through the blocs South Sudan actually belongs to (EAC, IGAD) alongside ECOWAS, SADC and the AU.
 
-**Acceptance count: taught in 3 countries (Ethiopia, Guatemala, South Sudan). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, South Sudan, Malaysia). Argentina is teacher-guide evidence only — named here, counted nowhere.**
 
-Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan
+Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
+
+Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia

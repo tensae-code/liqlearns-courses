@@ -1,14 +1,17 @@
 # Sources — What money is
 
-countries: Ethiopia, United Arab Emirates, Zambia, Syria, Uganda, Mongolia, Rwanda
+countries: Ethiopia, United Arab Emirates, Zambia, Syria, Uganda, Mongolia, Rwanda, Malaysia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
+
+**Book 10:** *Ekonomi Tingkatan 4* (student book, Malay) — Zeti Enterprise for Kementerian Pendidikan Malaysia (Ministry of Education); year 2016 (first printing); ISBN 978-983-3485-10-9. Title as printed: EKONOMI Tingkatan 4 — Buku Teks KSSM. Grade: Grade 10 (Form 4) (student/teacher: STUDENT). PDF pages: 275 (cover verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book is Economics: Introduction pp. 1–46; Markets pp. 47–122; Money, banks and individual income pp. 123–204; Production pp. 205–253; glossary p. 254 (inventory-only); chapter-end summative exercises and case studies are assessment (case-study content is placed under its chapter). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/malaysia-placements.md
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The definition | Ethiopia, *Economics, Student Textbook, Grade 9*, Unit 6 — Introduction to Money, printed pp. 68–69 |
 | Sub lesson 2 — Acceptance is a convention | Ethiopia, *Economics, Student Textbook, Grade 9*, Unit 6 — Introduction to Money, printed pp. 68–69 |
 | Sub lesson 3 — The five qualities | Ethiopia, *Economics, Student Textbook, Grade 9*, Unit 6 — Introduction to Money, printed pp. 68–69 |
+| Malaysia — 3.1 Money and banks: the four functions of money, with a Bitcoin explainer as the modern contrast | Malaysia, *Ekonomi Tingkatan 4*, 3.1 Money and banks — printed p. 124 |
 
 **Book 2:** *Social Studies and National Education, Grade 1, Volume 3* (student book, Arabic) — United Arab Emirates, Ministry of Education, United Arab Emirates; year 2025–2026 (1446–1447H); no ISBN printed. Title as printed: الدراسات الاجتماعية والتربية الوطنية — كتاب الطالب — الصف الأول — المجلد الثالث (Social Studies and National Education — Student Book — Grade 1 — Volume 3). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 119 (cover/title page verified against the record title — this is the third-term volume named in the record). Verdict: COMPLETE (contents-first read: full contents mapped; the one Economics teaching lesson read fully page by page). Contents map: Economics parts printed pp. 40–53 (Unit 5, Lesson 3, "I love to work"); Civics parts pp. 12–25 and pp. 56–69; Geography/Science parts pp. 26–39 and pp. 82–94; History parts pp. 70–81; glossary p. 95 (inventory-only — named in this book entry, not stocked). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-arab-emirates-placements.md
 
@@ -69,7 +72,7 @@ Rwanda's own way (Rwanda Grade 2): Economics enters at P2 through the household 
 Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first time and ties money to the district — Lake Kivu fishing, Kigali markets and tourist crafts — with saving taught as planning before spending and comparing what a bank pays.
 
 
-**Acceptance count: taught in 6 countries (Ethiopia, United Arab Emirates, Syria, Uganda, Mongolia, Rwanda). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, United Arab Emirates, Syria, Uganda, Mongolia, Rwanda, Malaysia). Zambia is teacher-module evidence only — named here, counted nowhere.**
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
@@ -77,4 +80,6 @@ Uganda's own way: the qualities and uses of money are taught twice on the Excel 
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money, uganda, qualities of money, uses of money, coins and notes, mongolia, four functions of money, metal paper card electronic money, tögrög, rwanda
+Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
+
+Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money, uganda, qualities of money, uses of money, coins and notes, mongolia, four functions of money, metal paper card electronic money, tögrög, rwanda, malaysia

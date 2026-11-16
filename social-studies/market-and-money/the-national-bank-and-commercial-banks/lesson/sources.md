@@ -1,14 +1,17 @@
 # Sources — The National Bank and commercial banks
 
-countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda
+countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
+
+**Book 7:** *Ekonomi Tingkatan 4* (student book, Malay) — Zeti Enterprise for Kementerian Pendidikan Malaysia (Ministry of Education); year 2016 (first printing); ISBN 978-983-3485-10-9. Title as printed: EKONOMI Tingkatan 4 — Buku Teks KSSM. Grade: Grade 10 (Form 4) (student/teacher: STUDENT). PDF pages: 275 (cover verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book is Economics: Introduction pp. 1–46; Markets pp. 47–122; Money, banks and individual income pp. 123–204; Production pp. 205–253; glossary p. 254 (inventory-only); chapter-end summative exercises and case studies are assessment (case-study content is placed under its chapter). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/malaysia-placements.md
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The National Bank — referee and issuer | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 5 — Banking and Finance, printed pp. 103 |
 | Sub lesson 2 — The Commercial Bank — the public's bank | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 5 — Banking and Finance, printed pp. 103–104 |
 | Sub lesson 3 — The Development Bank — projects | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 5 — Banking and Finance, printed pp. 104 |
+| Malaysia — 3.1 Money and banks: Bank Negara Malaysia's functions as central bank and the role of commercial banks (bank perdagangan) in Malaysian society | Malaysia, *Ekonomi Tingkatan 4*, 3.1 Money and banks — printed p. 124 |
 
 **Book 2:** *Social Studies, Grade 4 Primary* (student book, Arabic) — Saudi Arabia, Ministry of Education, Kingdom of Saudi Arabia; year 1448H / 2026 CE; no ISBN printed. Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي (Social Studies — Grade 4 Primary). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 228 (cover verified against the record title; the file holds both parts of the course, Units 1–9). Verdict: COMPLETE (contents-first read: all nine units mapped; the Economics unit read fully page by page). Contents map: Economics parts printed pp. 90–105 (Unit 4, Economics); Civics parts pp. 10–37 (citizenship) and pp. 142–159 (responsible citizenship); History parts pp. 38–61, pp. 160–201 (the Arabian Peninsula) and pp. 184–227 (the Prophets and the Prophet's biography); Geography parts pp. 62–89 and pp. 112–141 (Earth and the map); unit assessments excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/saudi-arabia-placements.md.
 
@@ -39,13 +42,15 @@ Saudi Arabia's own way: a whole Economics unit in Grade 4, anchored in the Kingd
 Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics unit — a worked family budget in francs with surplus, deficit and balanced outcomes, named Rwandan banks and SACCOs (Umwalimu, Umurenge, Zigama CSS), and markets as a source of government revenue.
 
 
-**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda).**
+**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia).**
 
 Bahamas' own way: the Central Bank of The Bahamas regulates all banks and issues Bahamian notes, and the Bahamian dollar exchanges one-to-one with the US dollar.
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda
+Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
+
+Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda, malaysia
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

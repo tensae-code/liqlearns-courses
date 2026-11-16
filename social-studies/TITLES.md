@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **458**
+Economics lessons across the Economics titles: **461**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4333,3 +4333,10 @@ growth and jobs, How tourism earns a country
 money, Mining in South Sudan's economy and
 Challenges facing mining; Market and Money:
 Cash crop farming — growing for sale).
++3 for Malaysia,
+2026-11-16 — Market and Money: Personal
+budgeting, saving and investment — risk and
+return; Macroeconomics: Government revenue
+and the national budget and Globalisation,
+multinationals and foreign direct
+investment).

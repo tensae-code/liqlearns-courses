@@ -14178,3 +14178,97 @@ IGAD) and cash-crop farming following the
 money round the farm — bank loan, harvest
 sale at a supply-and-demand price, loan repaid.
 Economics lessons: 451 → 458.
+
+## Economics expansion — Malaysia — built 2026-11-16
+
+Malaysia — 40 placements stocked from 2
+books (4 records / 2 distinct books filed;
+TSV+books.json duplicates read once). The
+placement lines actually written are 37 to
+existing lessons + 3 NEW LESSON NEEDED,
+matching the wave close's 40; the filing's
+own Book 1 tally line says 19 (18 to existing
++ 1 NEW) but its lines as written are 20
+(19 to existing + 1 NEW) — the stocked total
+follows the lines. Both books are student
+books, so every placement counts in
+acceptance: *Ekonomi Tingkatan 4* (Grade 10 /
+Form 4, Zeti Enterprise for Kementerian
+Pendidikan Malaysia, 2016, ISBN
+978-983-3485-10-9, COMPLETE) and *Ekonomi
+Tingkatan 5* (Grade 11 / Form 5, same
+publisher, 2017, ISBN 978-983-3485-11-6,
+COMPLETE). Both glossaries (Tingkatan 4
+p. 254; Tingkatan 5 p. 235) are
+inventory-only, named in every book entry,
+not stocked. Stocked into standing lessons —
+Microeconomics: Scarcity — wants without end
+(T4 p. 2; acceptance 2 → 3); Opportunity cost
+(T4 p. 2; 3 → 4); The production possibilities
+frontier (T4 p. 2; 1 → 2); Demand schedules,
+curves and the function (T4 p. 48; 1 → 2);
+Supply schedules, curves and the function
+(T4 p. 48; 1 → 2); Equilibrium price and
+quantity (T4 p. 48; 4 → 5); What shifts demand
+(T4 p. 48; 2 → 3); What shifts supply
+(T4 p. 48; 2 → 3); Price elasticity of demand
+(T4 p. 88; 2 → 3); Elasticity of supply
+(T4 p. 88; 2 → 3); Firms hiring factors,
+making goods (T4 p. 206; 1 → 2); Total,
+average and marginal product (T4 p. 206;
+1 → 2); Cost curves and profit (T4 p. 206;
+2 → 3); Externalities — private cost, social
+cost (T4 p. 232 and T5 p. 2, two rows; 1 → 2);
+Public goods and the free rider (T5 p. 2;
+2 → 3) — Culture and Work: Economic systems —
+traditional, market, mixed (T4 p. 16; 1 → 2)
+— Market and Money: What money is (T4 p. 124;
+6 → 7); The national bank and commercial
+banks (T4 p. 124; 5 → 6) — Macroeconomics:
+Personal and disposable income (T4 p. 142;
+1 → 2); Productivity — why some countries are
+rich (T4 p. 232; 1 → 2); Macroeconomic policy
+objectives and instruments (T5 p. 2; 1 → 2);
+The consumer price index and inflation
+(T5 p. 22; 1 → 2); Inflation — a general,
+lasting rise in prices (T5 p. 22; 2 → 3);
+Unemployment and the labour force (T5 p. 22;
+2 → 3); Frictional, structural and cyclical
+unemployment (T5 p. 22; 2 → 3); GDP — what a
+country produces inside its borders (T5
+p. 22; 2 → 3); Measuring economic growth
+(T5 p. 22; 2 → 3); Fiscal policy — the
+government's budget as a lever (T5 p. 61;
+1 → 2); Progressive, proportional and
+regressive taxes (T5 p. 61; 1 → 2); Monetary
+policy — the central bank's lever (T5 p. 61;
+1 → 2); Why countries trade (T5 p. 140;
+3 → 4); Tariffs and quotas — restricting
+trade (T5 p. 140; 1 → 2); Stages of economic
+integration (T5 p. 140; 3 → 4); The balance
+of trade (T5 p. 176; 2 → 3); The balance of
+payments (T5 p. 176; 1 → 2); Exchange rates —
+the price of a currency (T5 p. 202; 1 → 2).
+And 3 new lessons built (12 questions each)
+— in Market and Money: Personal budgeting,
+saving and investment — risk and return
+(T4, 3.3, printed p. 157) — in
+Macroeconomics: Government revenue and the
+national budget (T5, 1.3.2 & 1.3.4–1.3.5,
+printed p. 61); Globalisation,
+multinationals and foreign direct investment
+(T5, 2.1, printed p. 120). Checked first:
+none of the 3 NEW slugs existed in the
+current tree and no existing lesson covers
+those things, so each was built once under
+its named slug. Malaysia's own way: a full
+KSSM economics course in Malay with bilingual
+BM–BI glossaries, ringgit-denominated tables
+throughout, and Malaysian institutions (Bank
+Negara, KWSP/EPF, PERKESO) as the living
+examples; Form 5 turns to the state and the
+world — Bank Negara's policy tools, the
+national budget (Belanjawan), and Malaysia's
+own trade composition and direction as the
+data pupils analyse. Economics lessons:
+458 → 461.

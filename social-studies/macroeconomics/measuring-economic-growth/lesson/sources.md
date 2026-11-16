@@ -1,14 +1,17 @@
 # Sources — Measuring economic growth
 
-countries: Ethiopia, France
+countries: Ethiopia, France, Malaysia
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
+
+**Book 4:** *Ekonomi Tingkatan 5* (student book, Malay) — Zeti Enterprise for Kementerian Pendidikan Malaysia (Ministry of Education); year 2017 (first printing); ISBN 978-983-3485-11-6. Title as printed: EKONOMI Tingkatan 5 — Buku Teks KSSM. Grade: Grade 11 (Form 5) (student/teacher: STUDENT). PDF pages: 259 (cover verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book is Economics: Economy and government pp. 1–118; Malaysia and the global economy pp. 119–234; glossary p. 235 (inventory-only); chapter-end summative exercises are assessment. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/malaysia-placements.md
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Short-run and long-run growth | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 6 — Economic Growth, printed pp. 116–118 |
 | Sub lesson 2 — Growth inside development | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 6 — Economic Growth, printed pp. 118–119 |
 | Sub lesson 3 — Countries classified by income | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 6 — Economic Growth, printed pp. 124–125 |
+| Malaysia — 1.2.7–1.2.8 Malaysia's economic growth; causes and effects of growth: growth measured from GDP, Malaysia's own growth record, and what causes growth and what it does | Malaysia, *Ekonomi Tingkatan 5*, 1.2.7–1.2.8 Malaysia's economic growth; causes and effects of growth — printed p. 22 |
 
 **Book 2:** *Economics, Teacher Guide Book, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha (MA, MSc), Leta Sera (PhD). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Curriculum Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). © 2022 (the copyright page is an unfinished placeholder: 'First Published xxxxx 2022', printer and contract number as x's, ISBN blank; the title page's evaluators line is blank). Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-teacher-placements.md
 | Sub lesson 4 — Ethiopia's growth snapshot, 2010/11–2019/20 (teacher guide) (teacher guide — evidence) | Ethiopia, *Economics, Teacher Guide Book, Grade 10*, Unit 6 — Economic Growth, printed pp. 82–83 |
@@ -22,10 +25,12 @@ Grade 10 teacher-guide note (placement 19): the data snapshot comes from the act
 |---|---|
 | France part — "Richesse et croissance économique": economic growth over the long run — the Malthusian trap, the Industrial Revolution break, the Trente Glorieuses, world growth trends since 1900 | France, *SES 2de, Manuel Libre de Sciences économiques et sociales, Seconde (Manuels Libres)*, Ch. Richesses, section "Richesse et croissance économique" |
 
-**Acceptance count: taught in 2 countries (Ethiopia, France).**
+**Acceptance count: taught in 3 countries (Ethiopia, France, Malaysia).**
 
 France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
 Dated snapshots labelled as the placements direct: the World Bank income thresholds taught here are the 2008 bands (low income up to $975; lower-middle $976–3,855; upper-middle $3,856–11,906; high income $11,907 and above, across 210 economies), and the UN least-developed-country list is the 2010 list of 49 countries. Both are taught as dated snapshots, not current fact.
 
-Searchable tags: growth rate formula, per-capita real GDP, structural change, growth versus development, World Bank income bands 2008, least developed countries 2010, ethiopia, france, ses, trente glorieuses, malthusian trap, social studies, macroeconomics
+Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
+
+Searchable tags: growth rate formula, per-capita real GDP, structural change, growth versus development, World Bank income bands 2008, least developed countries 2010, ethiopia, france, ses, trente glorieuses, malthusian trap, social studies, macroeconomics, malaysia

@@ -1,9 +1,11 @@
 # Sources — Opportunity cost — the next best thing you gave up
 
-countries: Ethiopia, Belarus, France
+countries: Ethiopia, Belarus, France, Malaysia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
+
+**Book 5:** *Ekonomi Tingkatan 4* (student book, Malay) — Zeti Enterprise for Kementerian Pendidikan Malaysia (Ministry of Education); year 2016 (first printing); ISBN 978-983-3485-10-9. Title as printed: EKONOMI Tingkatan 4 — Buku Teks KSSM. Grade: Grade 10 (Form 4) (student/teacher: STUDENT). PDF pages: 275 (cover verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book is Economics: Introduction pp. 1–46; Markets pp. 47–122; Money, banks and individual income pp. 123–204; Production pp. 205–253; glossary p. 254 (inventory-only); chapter-end summative exercises and case studies are assessment (case-study content is placed under its chapter). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/malaysia-placements.md
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,6 +14,7 @@ countries: Ethiopia, Belarus, France
 | Sub lesson 3 — Computing it from a table | Ethiopia, *Economics, Student Textbook, Grade 9*, Unit 2 — The Basic Economic Problems and Economic Systems, printed pp. 15, 27–28 |
 | The worked X–Y solution — opportunity cost of X rising 5, 15, 20 units of Y (teacher guide — evidence) | Ethiopia, *Economics, Teacher Guide, Grade 9*, printed pp. 22–23 |
 | The worked cloth-and-sugar solution (recomputed in this lesson — see honesty note) (teacher guide — evidence) | Ethiopia, *Economics, Teacher Guide, Grade 9*, printed pp. 22–23 |
+| Malaysia — 1.1 Scarcity, choice and opportunity cost: opportunity cost (kos lepas) for individuals, firms (the profit of the next-best project given up) and government | Malaysia, *Ekonomi Tingkatan 4*, 1.1 Scarcity, choice and opportunity cost — printed p. 2 |
 
 **Book 3:** *Person. Society. State, Grade 9 — Book 2 «Свет людзей» (The World of People)* (student book, Belarusian) — Belarus, Народная асвета (Narodnaya Asveta), Minsk; year 2001; ISBN 985-12-0294-0. Title as printed: ЧАЛАВЕК. ГРАМАДСТВА. ДЗЯРЖАВА — Кніга другая: СВЕТ ЛЮДЗЕЙ (Person. Society. State — Book Two: The World of People). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 83 (spread scans; cover/title page verified — the record names the four-book Grade 9 course; the file behind it is Book 2 of the four, «Свет людзей», and only this volume was placed). Verdict: COMPLETE for the volume in hand (contents-first read: full contents mapped from the book's own Змест; the Economics teaching parts in Theme VII read fully page by page). Contents map: Economics parts printed pp. 216–217 (§28 profit passage) and pp. 221–227 (§29, the person as consumer); Philosophy/Psychology pp. 3–106 (who we are, cognition, the person's micro-environment, family, conflict); Civics pp. 107–197 (life of society, society and the state, human rights — including §25 social and economic rights, a rights chapter, not economics teaching); Labour-law parts of Theme VII (§§26–28) pp. 198–220 are Civics; name glossary pp. 230–238 (inventory-only — named in this book entry, not stocked). Records: 2 records / 1 distinct book / TSV+books.json duplicates read once via grab.py (release route). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/belarus-placements.md
 
@@ -27,7 +30,7 @@ Belarus's own way: economics arrives inside a philosophy-and-civics course as th
 |---|---|
 | France part — "Qu'est-ce que le coût d'opportunité": opportunity cost inside the allocation-of-resources problem | France, *SES 2de, Manuel Libre de Sciences économiques et sociales, Seconde (Manuels Libres)*, Ch. Method, section "Quelles questions se posent les économistes" |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Belarus, France).**
+**Acceptance count: taught in 4 countries (Ethiopia, Belarus, France, Malaysia).**
 
 France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
@@ -35,4 +38,6 @@ Worked-answer errors corrected here, named only in this file: (1) The teacher gu
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: opportunity cost, next best alternative, production possibility calculation, ethiopia, belarus, price of choice, rational consumer, france, ses, cout d'opportunite, social studies, microeconomics
+Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
+
+Searchable tags: opportunity cost, next best alternative, production possibility calculation, ethiopia, belarus, price of choice, rational consumer, france, ses, cout d'opportunite, social studies, microeconomics, malaysia

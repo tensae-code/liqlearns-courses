@@ -1,14 +1,17 @@
 # Sources — What shifts supply
 
-countries: Ethiopia, Kazakhstan
+countries: Ethiopia, Kazakhstan, Malaysia
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
+
+**Book 5:** *Ekonomi Tingkatan 4* (student book, Malay) — Zeti Enterprise for Kementerian Pendidikan Malaysia (Ministry of Education); year 2016 (first printing); ISBN 978-983-3485-10-9. Title as printed: EKONOMI Tingkatan 4 — Buku Teks KSSM. Grade: Grade 10 (Form 4) (student/teacher: STUDENT). PDF pages: 275 (cover verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book is Economics: Introduction pp. 1–46; Markets pp. 47–122; Money, banks and individual income pp. 123–204; Production pp. 205–253; glossary p. 254 (inventory-only); chapter-end summative exercises and case studies are assessment (case-study content is placed under its chapter). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/malaysia-placements.md
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Movements along the supply curve | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 2 — Theories of Demand and Supply, printed pp. 29–33 |
 | Sub lesson 2 — The supply shifters | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 2 — Theories of Demand and Supply, printed pp. 29–33 |
 | Sub lesson 3 — Shift effects on equilibrium | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 2 — Theories of Demand and Supply, printed pp. 40–42 |
+| Malaysia — 2.1 Market equilibrium: factors that shift supply, and how a market re-equilibrates when demand or supply changes | Malaysia, *Ekonomi Tingkatan 4*, 2.1 Market equilibrium — printed p. 48 |
 
 **Book 2:** *Economics, Teacher Guide Book, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha (MA, MSc), Leta Sera (PhD). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Curriculum Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). © 2022 (the copyright page is an unfinished placeholder: 'First Published xxxxx 2022', printer and contract number as x's, ISBN blank; the title page's evaluators line is blank). Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-teacher-placements.md
 | Sub lesson 4 — One more supply determinant — the objective of the firm (teacher guide) (teacher guide — evidence) | Ethiopia, *Economics, Teacher Guide Book, Grade 10*, Unit 2 — Theories of Demand and Supply, printed pp. 18–19 |
@@ -28,7 +31,7 @@ Grade 10 teacher-guide note (placements 5–6): the objective of the firm joins 
 |---|---|
 | Kazakhstan — Lesson 11 factors affecting supply: the non-price factors that change supply, a stated lesson aim | Kazakhstan, *Fundamentals of Entrepreneurship and Business, Part 1 (Duisenkhanov, Grade 10)*, Lesson 11 The Mechanism of Market Functioning — printed p. 42 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Kazakhstan).**
+**Acceptance count: taught in 3 countries (Ethiopia, Kazakhstan, Malaysia).**
 
 Worked-answer error, taught corrected: the §2.2.3 supply-factor bullet on the price of other goods reads backwards as printed. Taught corrected here: if the price of another good a producer could make instead RISES, supply of this good falls (shifts left), because producers switch to the better-paying good — and the reverse when that other price falls.
 
@@ -36,4 +39,6 @@ Kazakhstan's own way (Kazakhstan Grade 10 Aganina): Economics is taught inside a
 
 Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same national curriculum taught in a three-lesson rhythm — one theory lesson, one game, one Kazakhstani or world business case (Rocket Study, Yuframe, Shymbulak, Elon Musk) — so every Economics concept is immediately played and then applied.
 
-Searchable tags: supply shifters, factor costs, technology, external shocks floods, taxes subsidies, transport, prices of other goods, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics
+Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
+
+Searchable tags: supply shifters, factor costs, technology, external shocks floods, taxes subsidies, transport, prices of other goods, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia
