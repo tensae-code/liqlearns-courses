@@ -1,6 +1,6 @@
 # Sources — Fixing unemployment — the solution set
 
-countries: Ethiopia, Mongolia, Zimbabwe, Uzbekistan, Vietnam
+countries: Ethiopia, Mongolia, Zimbabwe, Uzbekistan, Vietnam, Indonesia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -36,7 +36,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 4: the State's role in controlling unemployment — teaches: the State regularly publishes and forecasts unemployment information and issues solutions: perfecting labour-market institutions and applying labour law correctly, encouraging production and business establishments to expand and create more jobs, carrying out social-security policies and supporting enterprises to solve workers' employment, and training a highly qualified workforce and diversifying school types while supporting workers to create their own jobs (the Labour Code 2019's vocational-training provisions are quoted) (Economics expansion, 2026-11-16; original placement slug: people-and-resources/government-policies-for-jobs-and-unemployment — stocked here as the closest existing lesson covering this thing) | Vietnam, *Vietnam Grade 11 Economic & Legal Education*, Lesson 4: the State's role in controlling unemployment — printed p. 27 |
-**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Uzbekistan, Vietnam). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Book 8:** *EKONOMI — SMA Kelas XI* (student book, Indonesian) — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), 2022, ISBN 978-602-244-851-8 / 978-602-244-852-5. Title as printed: EKONOMI — SMA Kelas XI (Yeni Fitriani, Aisyah Nurjanah). Grade: 11 (student/teacher: STUDENT). PDF pages: 224 (grabbed file 3,265,906 bytes = record size exactly; cover verified — title, grade and authors match the record; the record's source was a repost blog, the book itself is the official ministry book). Verdict: COMPLETE (pure Economics, read page by page). Contents map: Bab 1 Badan Usaha dalam Perekonomian (business entities — Economics parts placed; §F Manajemen is Business/management content, named here, NOT placed) · Bab 2 Pendapatan Nasional dan Kesenjangan Ekonomi · Bab 3 Ketenagakerjaan · Bab 4 Teori Uang, Indeks Harga dan Inflasi · Bab 5 Kebijakan Moneter dan Kebijakan Fiskal (D. Evaluasi Kebijakan Ekonomi is the chapter's evaluation/assessment part, named, not placed) · Glosarium (inventory only, named, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 3 C. Upaya Mengatasi Pengangguran — teaches: remedies — more investment, job training, overseas work cooperation, promoting small enterprises (UMKM) | Indonesia, *Indonesia Grade 11 Ekonomi*, Bab 3 C. Upaya Mengatasi Pengangguran — printed p. 107 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Uzbekistan, Vietnam, Indonesia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+
+Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupiah with Indonesian provincial data; cooperatives taught as the “soko guru” (main pillar) of the Indonesian economy with SHU surplus-sharing calculations; the state/regional/private ownership ladder (BUMN–BUMD–BUMS) as the map of who owns the economy.
 
 Vietnam's own way (Vietnam Grade 11 Economic & Legal Education): the macro topics are taught from Vietnam's own statistics and history — the CPI chart 2016–2021, the 775% inflation of 1986, COVID-era unemployment of 3.2%, the Q3 2022 labour-market bulletin — and the State's controlling role is quoted from the Law on the State Bank and the Labour Code.
 
@@ -44,7 +52,7 @@ Mongolia's own way (Grade 9): Social Studies is a five-chapter spiral (Individua
 
 No book error is flagged for this lesson's pages in the placements; the section is a stated-business section ("forwarding workable solutions") and the lesson keeps its three named legs without inventing programmes the placements do not name.
 
-Searchable tags: unemployment solutions, job creation, employability, skills, sustainable development, ethiopia, social studies, people and resources, Mongolia, Нийгэм судлал, uzbekistan, vietnam
+Searchable tags: unemployment solutions, job creation, employability, skills, sustainable development, ethiopia, social studies, people and resources, Mongolia, Нийгэм судлал, uzbekistan, vietnam, indonesia
 
 Zimbabwe's own way (Grade 7) (teacher guide — evidence): Grade 7 turns analytical — factors behind transport-mode choice, up-to-date maps/charts (routes, contours, scale-and-distance work) for domestic, regional and international travel, transport hazards from floods/fog/earthquakes, shelter shortages and siting factors, and desertification with land rehabilitation (afforestation, gully filling). That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
 

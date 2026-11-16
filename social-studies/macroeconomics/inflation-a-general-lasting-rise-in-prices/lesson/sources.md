@@ -1,6 +1,6 @@
 # Sources — Inflation — a general, lasting rise in prices
 
-countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh, Fiji, Vietnam
+countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh, Fiji, Vietnam, Indonesia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -52,7 +52,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 3: inflation — teaches: inflation is the continuous rise of the general price level of the economy's goods and services over a period, usually measured by the consumer price index (the inflation rate is computed from CPI change, and Vietnam's CPI growth 2016–2021 is charted); by rate it is moderate inflation (one digit a year, under 10% — prices change slowly and the economy is counted stable), galloping inflation (two digits up to 1000% — money loses value fast and people shun cash) or hyperinflation (over 1000% — the economy falls into crisis, as Vietnam's 775% of 1986 shows) (Economics expansion, 2026-11-16; original placement slug: macroeconomics/inflation-what-it-is-and-how-its-measured — stocked here as the closest existing lesson covering this thing) | Vietnam, *Vietnam Grade 11 Economic & Legal Education*, Lesson 3: inflation — printed p. 17 |
-**Acceptance count: taught in 7 countries (Ethiopia, Mongolia, Malaysia, Dominica, Bangladesh, Fiji, Vietnam). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 9:** *EKONOMI — SMA Kelas XI* (student book, Indonesian) — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), 2022, ISBN 978-602-244-851-8 / 978-602-244-852-5. Title as printed: EKONOMI — SMA Kelas XI (Yeni Fitriani, Aisyah Nurjanah). Grade: 11 (student/teacher: STUDENT). PDF pages: 224 (grabbed file 3,265,906 bytes = record size exactly; cover verified — title, grade and authors match the record; the record's source was a repost blog, the book itself is the official ministry book). Verdict: COMPLETE (pure Economics, read page by page). Contents map: Bab 1 Badan Usaha dalam Perekonomian (business entities — Economics parts placed; §F Manajemen is Business/management content, named here, NOT placed) · Bab 2 Pendapatan Nasional dan Kesenjangan Ekonomi · Bab 3 Ketenagakerjaan · Bab 4 Teori Uang, Indeks Harga dan Inflasi · Bab 5 Kebijakan Moneter dan Kebijakan Fiskal (D. Evaluasi Kebijakan Ekonomi is the chapter's evaluation/assessment part, named, not placed) · Glosarium (inventory only, named, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 4 C. Pengertian Inflasi — teaches: what inflation is | Indonesia, *Indonesia Grade 11 Ekonomi*, Bab 4 C. Pengertian Inflasi — printed p. 135 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Mongolia, Malaysia, Dominica, Bangladesh, Fiji, Vietnam, Indonesia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupiah with Indonesian provincial data; cooperatives taught as the “soko guru” (main pillar) of the Indonesian economy with SHU surplus-sharing calculations; the state/regional/private ownership ladder (BUMN–BUMD–BUMS) as the map of who owns the economy.
 
 Vietnam's own way (Vietnam Grade 11 Economic & Legal Education): the macro topics are taught from Vietnam's own statistics and history — the CPI chart 2016–2021, the 775% inflation of 1986, COVID-era unemployment of 3.2%, the Q3 2022 labour-market bulletin — and the State's controlling role is quoted from the Law on the State Bank and the Labour Code.
 
@@ -68,4 +76,4 @@ Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is tau
 
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
-Searchable tags: inflation definition, general price level, price index, deflation, causes of inflation, ethiopia, social studies, macroeconomics, mongolia, inflation, bread, purchasing power, tögrög, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, Fiji, vietnam
+Searchable tags: inflation definition, general price level, price index, deflation, causes of inflation, ethiopia, social studies, macroeconomics, mongolia, inflation, bread, purchasing power, tögrög, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, Fiji, vietnam, indonesia

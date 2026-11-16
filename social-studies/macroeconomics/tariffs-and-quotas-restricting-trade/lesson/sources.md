@@ -1,6 +1,6 @@
 # Sources — Tariffs and quotas — restricting trade
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras, Fiji
+countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras, Fiji, Indonesia
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -46,7 +46,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Fiji part — Lesson 4.2 Free Trade vs Protectionism — teaches: free trade with no artificial barriers, specialisation by comparative advantage, efficiency, competition and living standards, against protectionism | Fiji, *Fiji Grade 11 Economics Year 11 Part 2*, Lesson 4.2 Free Trade vs Protectionism — teaches: free trade with no artificial barriers, specialisation by comparative advantage, efficiency, competition and living standards, against protectionism — printed p. 102 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 8:** *EKONOMI — SMA/MA Kelas XII* (student book, Indonesian) — Kemendikbudristek, 2022, ISBN 978-602-427-972-1 (series ISBN 978-602-244-851-8 also printed). Title as printed: EKONOMI — SMA/MA Kelas XII. Grade: 12 (student/teacher: STUDENT). PDF pages: 232 (grabbed file 12,912,196 bytes = record size exactly; cover verified). Verdict: PARTIAL — Bab 1–3 are Economics and are placed; Bab 4 Akuntansi (printed pp. 133–197) is Accounting — named here, NOT placed. Contents map: Bab 1 Pertumbuhan dan Pembangunan Ekonomi · Bab 2 Ekonomi Internasional · Bab 3 APBN dan APBD (incl. Perpajakan) · Bab 4 Akuntansi — accounting equation, journals, financial statements (Accounting, NOT placed) · Glosarium (inventory only, named, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 2 D. Kebijakan Perdagangan Internasional — teaches: protection policy — tariffs, quotas, export bans and subsidies — with a pro/contra debate on protection | Indonesia, *Indonesia Grade 12 Ekonomi*, Bab 2 D. Kebijakan Perdagangan Internasional — printed p. 54 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Indonesia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Indonesia's own way (Indonesia Grade 12 Ekonomi): growth measured on Indonesia's own PDB series; trade taught through Indonesia's nickel-export case; budgets are Indonesia's real APBN/APBD with village funds (Dana Desa) as the regional-budget story.
 
 Fiji's own way (Fiji Grade 11 Economics Year 11 Part 2): International and development topics are worked with Fiji data — a Fiji CPI table to a 2008 base year, Fiji's January 2010 balance of payments, and Fiji unemployment with cane-cutting seasonal work and government job actions.
 
@@ -58,4 +66,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from family to country — occupations and production for the whole nation, social classes by income, the production-distribution-exchange-consumption chain, and exports/imports through customs with the arancel explained.
 
-Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji
+Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, indonesia

@@ -1,6 +1,6 @@
 # Sources — National income accounting — measuring a whole economy
 
-countries: Ethiopia, Cambodia, Egypt, Fiji
+countries: Ethiopia, Cambodia, Egypt, Fiji, Indonesia
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -28,7 +28,23 @@ countries: Ethiopia, Cambodia, Egypt, Fiji
 |---|---|
 | Fiji part — Lesson 3.1 Calculation of National Income — teaches: GDP and national income, nominal versus real GDP, real GDP per capita, and the circular flow with saving, investment, government spending, taxation and net exports as leakages and injections | Fiji, *Fiji Grade 11 Economics Year 11 Part 1*, Lesson 3.1 Calculation of National Income — teaches: GDP and national income, nominal versus real GDP, real GDP per capita, and the circular flow with saving, investment, government spending, taxation and net exports as leakages and injections — printed p. 70 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Egypt, Fiji).**
+**Book 5:** *EKONOMI — SMA Kelas XI* (student book, Indonesian) — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), 2022, ISBN 978-602-244-851-8 / 978-602-244-852-5. Title as printed: EKONOMI — SMA Kelas XI (Yeni Fitriani, Aisyah Nurjanah). Grade: 11 (student/teacher: STUDENT). PDF pages: 224 (grabbed file 3,265,906 bytes = record size exactly; cover verified — title, grade and authors match the record; the record's source was a repost blog, the book itself is the official ministry book). Verdict: COMPLETE (pure Economics, read page by page). Contents map: Bab 1 Badan Usaha dalam Perekonomian (business entities — Economics parts placed; §F Manajemen is Business/management content, named here, NOT placed) · Bab 2 Pendapatan Nasional dan Kesenjangan Ekonomi · Bab 3 Ketenagakerjaan · Bab 4 Teori Uang, Indeks Harga dan Inflasi · Bab 5 Kebijakan Moneter dan Kebijakan Fiskal (D. Evaluasi Kebijakan Ekonomi is the chapter's evaluation/assessment part, named, not placed) · Glosarium (inventory only, named, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 2 A. Pendapatan Nasional — teaches: the concept of national income and what measuring it is for | Indonesia, *Indonesia Grade 11 Ekonomi*, Bab 2 A. Pendapatan Nasional — printed p. 49 |
+
+**Book 6:** *Buku Panduan Guru EKONOMI — Edisi Revisi, SMA/MA Kelas XI* (teacher guide, Indonesian) — Kemendikbudristek, 2024 (revised edition), ISBN 978-623-388-199-9 / 978-623-388-200-2. Title as printed: Buku Panduan Guru EKONOMI — Edisi Revisi, SMA/MA Kelas XI (Yeni Fitriani, Aisyah Nurjanah). Grade: 11 (student/teacher: TEACHER). PDF pages: 208 (grabbed file 6,828,661 bytes = record size exactly; cover verified). Verdict: COMPLETE (pure Economics teacher guide; its own teaching guidance and worked answers placed, marked TEACHER). NOTE: this revised-edition guide accompanies the REVISED student book, whose chapters differ from the 2022 student book in hand — Bab I Growth & Poverty (national income, growth, inequality, poverty), Bab II Employment, Bab III Money, Inflation & Monetary Policy, Bab IV APBN, APBD & Fiscal Policy. Filed as the guide's own content, not as a substitute for the student book. Contents map: Panduan Umum (general guidance, not placed) · Panduan Khusus Bab I Pertumbuhan Ekonomi dan Kemiskinan · Bab II Ketenagakerjaan · Bab III Uang, Inflasi, dan Kebijakan Moneter · Bab IV APBN, APBD, dan Kebijakan Fiskal (each chapter: learning objectives, aperception, step-by-step teaching guidance for the student book's activities, summative assessment and full answer keys — the assessment items themselves are named, not placed). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab I teaching guidance & answer key — teaches: worked national-income calculations the teacher walks through (TEACHER) | Indonesia, *Indonesia Grade 11 Panduan Guru Ekonomi Edisi Revisi*, Bab I teaching guidance & answer key — guide p. 30 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Cambodia, Egypt, Fiji, Indonesia).**
+
+Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupiah with Indonesian provincial data; cooperatives taught as the “soko guru” (main pillar) of the Indonesian economy with SHU surplus-sharing calculations; the state/regional/private ownership ladder (BUMN–BUMD–BUMS) as the map of who owns the economy.
+
+Indonesia's own way (Indonesia Grade 11 Panduan Guru Ekonomi Edisi Revisi) (teacher guide — evidence): the guide works with real Indonesian data — provincial per-capita PDRB tables, BPS poverty lines, the open unemployment rate (TPT), provincial minimum wages (UMP) — and adds online-loan (pinjol) financial-literacy teaching. That book is a teacher guide, cited as evidence only; Indonesia is counted in this lesson for its student book(s) named here, not for this guide.
 
 Fiji's own way (Fiji Grade 11 Economics Year 11 Part 1): A full direct-approach course built on the circular flow, with Fiji examples throughout — ginger supply curves, Fiji import tables, quarry and land-rent income, the Attu family budget, Fiji credit facilities, sugar-industry production stages and Reserve Bank of Fiji policy tools.
 
@@ -36,4 +52,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: national income accounting, measuring aggregate activity, GDP GNP summary, output trend policy comparison, ethiopia, social studies, macroeconomics, cambodia, egypt, Fiji
+Searchable tags: national income accounting, measuring aggregate activity, GDP GNP summary, output trend policy comparison, ethiopia, social studies, macroeconomics, cambodia, egypt, Fiji, indonesia

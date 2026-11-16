@@ -1,6 +1,6 @@
 # Sources — What a tax is
 
-countries: Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Albania, Uzbekistan, Egypt, Fiji, Vietnam, Armenia
+countries: Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Albania, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -95,7 +95,23 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Armenia part — Economics expansion — 4.2 Market economy: tax as a compulsory payment to the state that funds schools, hospitals, roads and state employees' pay | Armenia, *Armenia Grade 9 Social Science student*, 4.2 Market economy — printed p. 93 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Uzbekistan, Egypt, Fiji, Vietnam, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 16:** *EKONOMI — SMA/MA Kelas XII* (student book, Indonesian) — Kemendikbudristek, 2022, ISBN 978-602-427-972-1 (series ISBN 978-602-244-851-8 also printed). Title as printed: EKONOMI — SMA/MA Kelas XII. Grade: 12 (student/teacher: STUDENT). PDF pages: 232 (grabbed file 12,912,196 bytes = record size exactly; cover verified). Verdict: PARTIAL — Bab 1–3 are Economics and are placed; Bab 4 Akuntansi (printed pp. 133–197) is Accounting — named here, NOT placed. Contents map: Bab 1 Pertumbuhan dan Pembangunan Ekonomi · Bab 2 Ekonomi Internasional · Bab 3 APBN dan APBD (incl. Perpajakan) · Bab 4 Akuntansi — accounting equation, journals, financial statements (Accounting, NOT placed) · Glosarium (inventory only, named, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 3 C. Perpajakan — teaches: what a tax is, the functions of tax, and what taxes pay for | Indonesia, *Indonesia Grade 12 Ekonomi*, Bab 3 C. Perpajakan — printed p. 116 |
+
+**Book 17:** *Buku Panduan Guru EKONOMI — SMA/MA Kelas XII* (teacher guide, Indonesian) — Kemendikbudristek, 2022, ISBN 978-602-427-912-7 (series ISBN 978-602-244-853-2 also printed). Title as printed: Buku Panduan Guru EKONOMI — SMA/MA Kelas XII. Grade: 12 (student/teacher: TEACHER). PDF pages: 248 (grabbed file 4,126,544 bytes = record size exactly; cover verified). Verdict: PARTIAL — the guide's Bab 1–3 teaching guidance and worked answers are placed (TEACHER); Bab 4 Akuntansi guidance (guide pp. 145–200) is Accounting — named here, NOT placed. Contents map: Panduan Umum (general guidance, not placed) · Bab 1 Pertumbuhan dan Pembangunan Ekonomi (guide p. 25) · Bab 2 Ekonomi Internasional (p. 59) · Bab 3 APBN dan APBD (p. 115) · Bab 4 Akuntansi (p. 145 — Accounting, NOT placed) · Glosarium (inventory only, named, not placed). Each chapter: learning scheme, step-by-step teaching guidance, assessment, full answer keys, teacher reflection, enrichment. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 3 Kunci Jawaban — teaches: worked answers on taxation (TEACHER) | Indonesia, *Indonesia Grade 12 Panduan Guru Ekonomi*, Bab 3 Kunci Jawaban — guide p. 131 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Indonesia's own way (Indonesia Grade 12 Ekonomi): growth measured on Indonesia's own PDB series; trade taught through Indonesia's nickel-export case; budgets are Indonesia's real APBN/APBD with village funds (Dana Desa) as the regional-budget story.
+
+Indonesia's own way (Indonesia Grade 12 Panduan Guru Ekonomi) (teacher guide — evidence): the guide's worked answers run on the student book's Indonesian data — PDB growth series, Indonesia's trade and balance-of-payments cases, the APBN/APBD. That book is a teacher guide, cited as evidence only; Indonesia is counted in this lesson for its student book(s) named here, not for this guide.
 
 Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
@@ -123,4 +139,4 @@ Laos' own way (Laos Grade 10 Business student): Economics is taught as the theor
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas, laos, income and taxes, wages salary profit, dominican republic, ITBIS, ISR, albania, uzbekistan, egypt, Fiji, vietnam, armenia
+Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas, laos, income and taxes, wages salary profit, dominican republic, ITBIS, ISR, albania, uzbekistan, egypt, Fiji, vietnam, armenia, indonesia

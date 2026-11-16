@@ -1,6 +1,6 @@
 # Sources — Stages of economic integration
 
-countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras
+countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -55,7 +55,15 @@ South Sudan's own way (South Sudan Primary 7): the country's economy is told thr
 |---|---|
 | Honduras part — Lesson 35 "Desarrollo económico de América Latina" — teaches: the integration ladder — preferential trade agreements, free-trade zones, customs unions, common markets, up to economic and monetary unions (MERCOSUR, ALCA named) | Honduras, *Honduras Grade 8 G8 Student CCSS*, Lesson 35 "Desarrollo económico de América Latina" — printed p. 214 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 9:** *EKONOMI — SMA/MA Kelas XII* (student book, Indonesian) — Kemendikbudristek, 2022, ISBN 978-602-427-972-1 (series ISBN 978-602-244-851-8 also printed). Title as printed: EKONOMI — SMA/MA Kelas XII. Grade: 12 (student/teacher: STUDENT). PDF pages: 232 (grabbed file 12,912,196 bytes = record size exactly; cover verified). Verdict: PARTIAL — Bab 1–3 are Economics and are placed; Bab 4 Akuntansi (printed pp. 133–197) is Accounting — named here, NOT placed. Contents map: Bab 1 Pertumbuhan dan Pembangunan Ekonomi · Bab 2 Ekonomi Internasional · Bab 3 APBN dan APBD (incl. Perpajakan) · Bab 4 Akuntansi — accounting equation, journals, financial statements (Accounting, NOT placed) · Glosarium (inventory only, named, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 2 F. Kerja Sama Ekonomi Internasional — teaches: forms of international economic cooperation — bilateral, regional, multilateral | Indonesia, *Indonesia Grade 12 Ekonomi*, Bab 2 F. Kerja Sama Ekonomi Internasional — printed p. 70 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+
+Indonesia's own way (Indonesia Grade 12 Ekonomi): growth measured on Indonesia's own PDB series; trade taught through Indonesia's nickel-export case; budgets are Indonesia's real APBN/APBD with village funds (Dana Desa) as the regional-budget story.
 
 Dominican Republic's own way (Dominican Republic Grade 10 Ciencias Sociales 4° Secundaria): at this level the analysis turns Marxian in vocabulary — capitalism is explained through the separation of the worker from the means of production and the owner's appropriation of surplus labour (plusvalía), and imperialism through cartels, monopoly centralisation and the export of capital.
 
@@ -65,4 +73,4 @@ Honduras's own way (Honduras Grade 6 G6 Student CCSS): Grade 6 goes global — w
 
 Honduras's own way (Honduras Grade 8 G8 Student CCSS): Grade 8 teaches Latin America's development problem head-on — development vs underdevelopment, the integration ladder, and the debt lesson built around Honduras's own fiscal-deficit chart and the structural-adjustment era.
 
-Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia, dominican republic, DR-CAFTA, honduras
+Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia, dominican republic, DR-CAFTA, honduras, indonesia

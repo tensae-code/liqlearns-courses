@@ -1,6 +1,6 @@
 # Sources — Direct and indirect taxes
 
-countries: Ethiopia, Uganda, Dominica, Uzbekistan, Egypt, Vietnam
+countries: Ethiopia, Uganda, Dominica, Uzbekistan, Egypt, Vietnam, Indonesia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -43,7 +43,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 6: direct and indirect taxes — teaches: by the method of assessment the tax system splits into direct taxes, levied directly on the income or assets of organisations and individuals, where payer and bearer are one (corporate income tax — 15/17/20% by revenue band, 25–50% for oil, gas and rare resources — personal income tax on a progressive schedule from 5% to 35%, non-agricultural land-use tax at 0.03%), and indirect taxes, levied through the prices of goods and services, where the producer pays on the consumer's behalf (special consumption tax — tobacco at 75% — VAT, environmental protection tax on petrol) (Economics expansion, 2026-11-16) | Vietnam, *Vietnam Grade 10 Economic & Legal Education*, Lesson 6: direct and indirect taxes — printed p. 39 |
-**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Dominica, Uzbekistan, Egypt, Vietnam).**
+**Book 7:** *EKONOMI — SMA/MA Kelas XII* (student book, Indonesian) — Kemendikbudristek, 2022, ISBN 978-602-427-972-1 (series ISBN 978-602-244-851-8 also printed). Title as printed: EKONOMI — SMA/MA Kelas XII. Grade: 12 (student/teacher: STUDENT). PDF pages: 232 (grabbed file 12,912,196 bytes = record size exactly; cover verified). Verdict: PARTIAL — Bab 1–3 are Economics and are placed; Bab 4 Akuntansi (printed pp. 133–197) is Accounting — named here, NOT placed. Contents map: Bab 1 Pertumbuhan dan Pembangunan Ekonomi · Bab 2 Ekonomi Internasional · Bab 3 APBN dan APBD (incl. Perpajakan) · Bab 4 Akuntansi — accounting equation, journals, financial statements (Accounting, NOT placed) · Glosarium (inventory only, named, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 3 C. Jenis-Jenis Pajak — teaches: types of tax — direct and indirect, central and regional (income tax PPh, VAT PPN, land & building tax PBB, luxury-goods tax PPnBM) | Indonesia, *Indonesia Grade 12 Ekonomi*, Bab 3 C. Jenis-Jenis Pajak — printed p. 124 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Dominica, Uzbekistan, Egypt, Vietnam, Indonesia).**
+
+Indonesia's own way (Indonesia Grade 12 Ekonomi): growth measured on Indonesia's own PDB series; trade taught through Indonesia's nickel-export case; budgets are Indonesia's real APBN/APBD with village funds (Dana Desa) as the regional-budget story.
 
 Vietnam's own way (Vietnam Grade 10 Economic & Legal Education): a full school Economics course built on Vietnamese cases and current law — the Si Ma Cai periodic market for exchange, pork-price swings for market functions, the 2025 State Budget Law's own revenue/expenditure tables, corporate income-tax tiers and the progressive personal income-tax schedule, and a student's 80/13/7 spending rule for personal finance.
 
@@ -55,4 +63,4 @@ Uganda's own way (Uganda Primary 5 Excel Standard Social Studies): a commercial 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: direct and indirect taxes, grade 12 economics, ethiopia, social studies, macroeconomics, uganda, PAYE, VAT, customs duty, excise duty, uganda revenue authority, smuggling, dominica, csec principles of business, caribbean, uzbekistan, egypt, vietnam
+Searchable tags: direct and indirect taxes, grade 12 economics, ethiopia, social studies, macroeconomics, uganda, PAYE, VAT, customs duty, excise duty, uganda revenue authority, smuggling, dominica, csec principles of business, caribbean, uzbekistan, egypt, vietnam, indonesia

@@ -1,6 +1,6 @@
 # Sources — Why countries trade
 
-countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji
+countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -68,7 +68,23 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Fiji part — Exports and Imports / Importance of Industries — teaches: exports sell goods and services overseas and earn foreign reserves, Fiji's export and import lists and trading partners, domestic versus international trade, and industry creating employment, foreign exchange, GDP and a multiplier effect | Fiji, *Fiji Grade 10 Year 10 Social Science*, Exports and Imports / Importance of Industries — teaches: exports sell goods and services overseas and earn foreign reserves, Fiji's export and import lists and trading partners, domestic versus international trade, and industry creating employment, foreign exchange, GDP and a multiplier effect — printed p. 75 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji).**
+**Book 11:** *EKONOMI — SMA/MA Kelas XII* (student book, Indonesian) — Kemendikbudristek, 2022, ISBN 978-602-427-972-1 (series ISBN 978-602-244-851-8 also printed). Title as printed: EKONOMI — SMA/MA Kelas XII. Grade: 12 (student/teacher: STUDENT). PDF pages: 232 (grabbed file 12,912,196 bytes = record size exactly; cover verified). Verdict: PARTIAL — Bab 1–3 are Economics and are placed; Bab 4 Akuntansi (printed pp. 133–197) is Accounting — named here, NOT placed. Contents map: Bab 1 Pertumbuhan dan Pembangunan Ekonomi · Bab 2 Ekonomi Internasional · Bab 3 APBN dan APBD (incl. Perpajakan) · Bab 4 Akuntansi — accounting equation, journals, financial statements (Accounting, NOT placed) · Glosarium (inventory only, named, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 2 A. Konsep dan Manfaat Perdagangan Internasional — teaches: the concept of international trade and its benefits — friendship, state revenue, needs met, wider markets, technology exchange, jobs | Indonesia, *Indonesia Grade 12 Ekonomi*, Bab 2 A. Konsep dan Manfaat Perdagangan Internasional — printed p. 42 |
+
+**Book 12:** *Buku Panduan Guru EKONOMI — SMA/MA Kelas XII* (teacher guide, Indonesian) — Kemendikbudristek, 2022, ISBN 978-602-427-912-7 (series ISBN 978-602-244-853-2 also printed). Title as printed: Buku Panduan Guru EKONOMI — SMA/MA Kelas XII. Grade: 12 (student/teacher: TEACHER). PDF pages: 248 (grabbed file 4,126,544 bytes = record size exactly; cover verified). Verdict: PARTIAL — the guide's Bab 1–3 teaching guidance and worked answers are placed (TEACHER); Bab 4 Akuntansi guidance (guide pp. 145–200) is Accounting — named here, NOT placed. Contents map: Panduan Umum (general guidance, not placed) · Bab 1 Pertumbuhan dan Pembangunan Ekonomi (guide p. 25) · Bab 2 Ekonomi Internasional (p. 59) · Bab 3 APBN dan APBD (p. 115) · Bab 4 Akuntansi (p. 145 — Accounting, NOT placed) · Glosarium (inventory only, named, not placed). Each chapter: learning scheme, step-by-step teaching guidance, assessment, full answer keys, teacher reflection, enrichment. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 2 Panduan Pembelajaran — teaches: teaching the concept and benefits of international trade (TEACHER) | Indonesia, *Indonesia Grade 12 Panduan Guru Ekonomi*, Bab 2 Panduan Pembelajaran — guide p. 69 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia).**
+
+Indonesia's own way (Indonesia Grade 12 Ekonomi): growth measured on Indonesia's own PDB series; trade taught through Indonesia's nickel-export case; budgets are Indonesia's real APBN/APBD with village funds (Dana Desa) as the regional-budget story.
+
+Indonesia's own way (Indonesia Grade 12 Panduan Guru Ekonomi) (teacher guide — evidence): the guide's worked answers run on the student book's Indonesian data — PDB growth series, Indonesia's trade and balance-of-payments cases, the APBN/APBD. That book is a teacher guide, cited as evidence only; Indonesia is counted in this lesson for its student book(s) named here, not for this guide.
 
 Fiji's own way (Fiji Grade 10 Year 10 Social Science): Year 10 economics is economic geography of Fiji itself — village, semi-subsistence and commercial farming, the sugar industry's markets and problems, then industry as primary, secondary and tertiary activity with location factors and trade.
 
@@ -82,4 +98,4 @@ Honduras's own way (Honduras Grade 4 G4 Student CCSS): Grade 4 widens the lens t
 
 Honduras's own way (Honduras Grade 5 G5 Student CCSS): Grade 5 turns outward to the Americas — Honduras's trade network and treaties, its free-trade zone at Choloma, tourism, and the integration blocs (MCCA, CARICOM, CELAC) as the road to development.
 
-Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras, Fiji
+Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras, Fiji, indonesia

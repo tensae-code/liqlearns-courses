@@ -1,6 +1,6 @@
 # Sources — Monetary policy — the central bank's lever
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Cambodia, Uzbekistan, Fiji, Armenia
+countries: Ethiopia, Malaysia, Albania, Dominica, Cambodia, Uzbekistan, Fiji, Armenia, Indonesia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -52,7 +52,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Armenia part — Economics expansion — 2.2 Employment and unemployment (inflation block): monetary policy run by central banks for price stability, the refinancing rate, and inflation targeting — Armenia's 12-month target is 3% with a ±1 point tolerance band (filed as macroeconomics/central-banks-and-monetary-policy; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 11 Social Science student*, 2.2 Employment and unemployment (inflation block) — printed p. 69 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Dominica, Cambodia, Uzbekistan, Fiji, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 9:** *EKONOMI — SMA Kelas XI* (student book, Indonesian) — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), 2022, ISBN 978-602-244-851-8 / 978-602-244-852-5. Title as printed: EKONOMI — SMA Kelas XI (Yeni Fitriani, Aisyah Nurjanah). Grade: 11 (student/teacher: STUDENT). PDF pages: 224 (grabbed file 3,265,906 bytes = record size exactly; cover verified — title, grade and authors match the record; the record's source was a repost blog, the book itself is the official ministry book). Verdict: COMPLETE (pure Economics, read page by page). Contents map: Bab 1 Badan Usaha dalam Perekonomian (business entities — Economics parts placed; §F Manajemen is Business/management content, named here, NOT placed) · Bab 2 Pendapatan Nasional dan Kesenjangan Ekonomi · Bab 3 Ketenagakerjaan · Bab 4 Teori Uang, Indeks Harga dan Inflasi · Bab 5 Kebijakan Moneter dan Kebijakan Fiskal (D. Evaluasi Kebijakan Ekonomi is the chapter's evaluation/assessment part, named, not placed) · Glosarium (inventory only, named, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 5 A. Konsep Kebijakan Moneter — teaches: the concept of monetary policy run by the central bank | Indonesia, *Indonesia Grade 11 Ekonomi*, Bab 5 A. Konsep Kebijakan Moneter — printed p. 159 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, Dominica, Cambodia, Uzbekistan, Fiji, Armenia, Indonesia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupiah with Indonesian provincial data; cooperatives taught as the “soko guru” (main pillar) of the Indonesian economy with SHU surplus-sharing calculations; the state/regional/private ownership ladder (BUMN–BUMD–BUMS) as the map of who owns the economy.
 
 Armenia's own way (Armenia Grade 11 Social Science student): Grade 11 macroeconomics is anchored in Armenian official statistics — learners compute with the Statistical Committee's data, meet the 425-item consumer basket Armenia uses for inflation, the Central Bank's 3% ±1 inflation target, and the Armenian-born Nobel laureate Daron Acemoglu's "Narrow Corridor" on institutions and prosperity.
 
@@ -68,4 +76,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: monetary policy — the central bank's lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, cambodia, uzbekistan, Fiji, armenia
+Searchable tags: monetary policy — the central bank's lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, cambodia, uzbekistan, Fiji, armenia, indonesia

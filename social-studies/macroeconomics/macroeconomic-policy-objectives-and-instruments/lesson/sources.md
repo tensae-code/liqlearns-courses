@@ -1,6 +1,6 @@
 # Sources — Macroeconomic policy — objectives and instruments
 
-countries: Ethiopia, Malaysia, Cambodia
+countries: Ethiopia, Malaysia, Cambodia, Indonesia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -26,7 +26,15 @@ countries: Ethiopia, Malaysia, Cambodia
 |---|---|
 | Cambodia part — Ch. 2, Lesson 3: Coordination of macroeconomic policy — teaches: macroeconomic policy as a coordinated whole — the objectives the instruments must serve together | Cambodia, *Cambodia Grade 12 G12 Economics*, Ch. 2, Lesson 3: Coordination of macroeconomic policy — printed p. 84 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Cambodia).**
+**Book 5:** *EKONOMI — SMA Kelas XI* (student book, Indonesian) — Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), 2022, ISBN 978-602-244-851-8 / 978-602-244-852-5. Title as printed: EKONOMI — SMA Kelas XI (Yeni Fitriani, Aisyah Nurjanah). Grade: 11 (student/teacher: STUDENT). PDF pages: 224 (grabbed file 3,265,906 bytes = record size exactly; cover verified — title, grade and authors match the record; the record's source was a repost blog, the book itself is the official ministry book). Verdict: COMPLETE (pure Economics, read page by page). Contents map: Bab 1 Badan Usaha dalam Perekonomian (business entities — Economics parts placed; §F Manajemen is Business/management content, named here, NOT placed) · Bab 2 Pendapatan Nasional dan Kesenjangan Ekonomi · Bab 3 Ketenagakerjaan · Bab 4 Teori Uang, Indeks Harga dan Inflasi · Bab 5 Kebijakan Moneter dan Kebijakan Fiskal (D. Evaluasi Kebijakan Ekonomi is the chapter's evaluation/assessment part, named, not placed) · Glosarium (inventory only, named, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 5 opening — teaches: the goals of economic policy — controlled inflation, high employment, balanced exports, a stable exchange rate | Indonesia, *Indonesia Grade 11 Ekonomi*, Bab 5 opening — printed p. 157 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Cambodia, Indonesia).**
+
+Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupiah with Indonesian provincial data; cooperatives taught as the “soko guru” (main pillar) of the Indonesian economy with SHU surplus-sharing calculations; the state/regional/private ownership ladder (BUMN–BUMD–BUMS) as the map of who owns the economy.
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
@@ -36,4 +44,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: macroeconomic policy — objectives and instruments, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, cambodia
+Searchable tags: macroeconomic policy — objectives and instruments, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, cambodia, indonesia

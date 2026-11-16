@@ -1,6 +1,6 @@
 # Sources — The balance of payments — a country's account with the world
 
-countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji
+countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indonesia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -43,7 +43,23 @@ countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji
 |---|---|
 | Fiji part — Lesson 4.1 Balance of Payment — teaches: the balance of payments as the record of transactions with the rest of the world, its current account and capital account components and balances, with Fiji's January 2010 balance of payments worked | Fiji, *Fiji Grade 11 Economics Year 11 Part 2*, Lesson 4.1 Balance of Payment — teaches: the balance of payments as the record of transactions with the rest of the world, its current account and capital account components and balances, with Fiji's January 2010 balance of payments worked — printed p. 95 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Dominican Republic, Egypt, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 9:** *EKONOMI — SMA/MA Kelas XII* (student book, Indonesian) — Kemendikbudristek, 2022, ISBN 978-602-427-972-1 (series ISBN 978-602-244-851-8 also printed). Title as printed: EKONOMI — SMA/MA Kelas XII. Grade: 12 (student/teacher: STUDENT). PDF pages: 232 (grabbed file 12,912,196 bytes = record size exactly; cover verified). Verdict: PARTIAL — Bab 1–3 are Economics and are placed; Bab 4 Akuntansi (printed pp. 133–197) is Accounting — named here, NOT placed. Contents map: Bab 1 Pertumbuhan dan Pembangunan Ekonomi · Bab 2 Ekonomi Internasional · Bab 3 APBN dan APBD (incl. Perpajakan) · Bab 4 Akuntansi — accounting equation, journals, financial statements (Accounting, NOT placed) · Glosarium (inventory only, named, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 2 E. Neraca Pembayaran — teaches: the balance of payments — debit and credit transactions, current, capital and financial accounts, and what it tells the government | Indonesia, *Indonesia Grade 12 Ekonomi*, Bab 2 E. Neraca Pembayaran — printed p. 63 |
+
+**Book 10:** *Buku Panduan Guru EKONOMI — SMA/MA Kelas XII* (teacher guide, Indonesian) — Kemendikbudristek, 2022, ISBN 978-602-427-912-7 (series ISBN 978-602-244-853-2 also printed). Title as printed: Buku Panduan Guru EKONOMI — SMA/MA Kelas XII. Grade: 12 (student/teacher: TEACHER). PDF pages: 248 (grabbed file 4,126,544 bytes = record size exactly; cover verified). Verdict: PARTIAL — the guide's Bab 1–3 teaching guidance and worked answers are placed (TEACHER); Bab 4 Akuntansi guidance (guide pp. 145–200) is Accounting — named here, NOT placed. Contents map: Panduan Umum (general guidance, not placed) · Bab 1 Pertumbuhan dan Pembangunan Ekonomi (guide p. 25) · Bab 2 Ekonomi Internasional (p. 59) · Bab 3 APBN dan APBD (p. 115) · Bab 4 Akuntansi (p. 145 — Accounting, NOT placed) · Glosarium (inventory only, named, not placed). Each chapter: learning scheme, step-by-step teaching guidance, assessment, full answer keys, teacher reflection, enrichment. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab 2 Kunci Jawaban — teaches: worked balance-of-payments answers — classifying real Indonesian transactions (TEACHER) | Indonesia, *Indonesia Grade 12 Panduan Guru Ekonomi*, Bab 2 Kunci Jawaban — guide p. 87 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Dominican Republic, Egypt, Fiji, Indonesia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Indonesia's own way (Indonesia Grade 12 Ekonomi): growth measured on Indonesia's own PDB series; trade taught through Indonesia's nickel-export case; budgets are Indonesia's real APBN/APBD with village funds (Dana Desa) as the regional-budget story.
+
+Indonesia's own way (Indonesia Grade 12 Panduan Guru Ekonomi) (teacher guide — evidence): the guide's worked answers run on the student book's Indonesian data — PDB growth series, Indonesia's trade and balance-of-payments cases, the APBN/APBD. That book is a teacher guide, cited as evidence only; Indonesia is counted in this lesson for its student book(s) named here, not for this guide.
 
 Fiji's own way (Fiji Grade 11 Economics Year 11 Part 2): International and development topics are worked with Fiji data — a Fiji CPI table to a 2008 base year, Fiji's January 2010 balance of payments, and Fiji unemployment with cane-cutting seasonal work and government job actions.
 
@@ -57,7 +73,7 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: balance of payments, residents rest of world, disequilibrium deficit surplus, reserves, trade deficit link, ethiopia, social studies, macroeconomics, malaysia, dominican republic, albania, egypt, Fiji
+Searchable tags: balance of payments, residents rest of world, disequilibrium deficit surplus, reserves, trade deficit link, ethiopia, social studies, macroeconomics, malaysia, dominican republic, albania, egypt, Fiji, indonesia
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

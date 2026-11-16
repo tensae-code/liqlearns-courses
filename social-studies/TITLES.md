@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **583**
+Economics lessons across the Economics titles: **601**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4492,4 +4492,19 @@ sharing risk).
 +2 for Armenia,
 2026-11-16 — Market and Money: Consumer protection
 in finance; Macroeconomics: Institutions and
-prosperity).
+prosperity); +18 for Indonesia,
+2026-11-16 — Microeconomics: Business entities
+in the economy, Private business forms — BUMS and
+Cooperatives; Market and Money: Wage systems and
+the minimum wage; Macroeconomics: State-owned
+enterprises — BUMN, Regionally-owned enterprises
+— BUMD, Causes of the economic gap, Solutions to
+the economic gap, Indonesia's employment problems,
+Measuring inflation from the price index, Benefits
+and impacts of economic policy, Poverty and the
+poverty line, The digital economy, Regional budgets
+— APBD, Theories of economic growth, Economic
+development and its indicators, Factors that drive
+development and What drives and blocks
+international trade).
+
