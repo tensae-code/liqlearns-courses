@@ -1,7 +1,7 @@
 # Sources — Shapes You Can Draw
 
 
-countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka, Libya, Angola, Mongolia, Afghanistan, Rwanda
+countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka, Libya, Angola, Mongolia, Afghanistan, Rwanda, Bolivia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -130,7 +130,42 @@ countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Bel
 | Rwanda — Part 2 Unit 1 Lesson 2: Drawing and painting basic objects — drawing and painting basic (geometric-shaped) objects (teacher guide evidence) (teacher guide — evidence) | Book 36, printed p. 89 |
 
 
-**Acceptance count: taught in 13 countries(Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus, Jordan, Sri Lanka, Angola, Mongolia, Afghanistan, Rwanda).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 37:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 3er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 9 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — the acrylic chapter's values part ("Los roles de la familia en equidad e igualdad de oportunidades") is a non-art part, named in the placements, not placed; the recurring question/activity boxes are not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Polycentric and conic curves — open curves (the wavy line, the spiral) and closed curves; the conic sections defined and drawn: the ellipse, the parabola (with its focus and directrix) and the hyperbola (student book) | Book 37, printed pp. 11–14 |
+
+**Book 38:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 6to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 12 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the opening Three Little Pigs tale is the architectural chapter's framing story, named in its placement line. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Scales and the escalímetro — scale as the proportion between the real object and its drawing: the graphic scale, the triangular escalímetro rule carrying six scales, and the three families — enlargement (2:1 to 50:1), reduction (1:2 to 1:10000) and natural (1:1) — under normalisation, the shared norms that make drawings readable (student book) | Book 38, printed pp. 11–12 |
+| Bolivia — Dimensioning (acotación) — annotating the drawing with reference lines, extension lines, arrowheads and figures; and its systems: in series or chain, in parallel from one base line, combined, progressive, and by coordinates for pieces with right-angled surfaces (student book) | Book 38, printed pp. 13–14 |
+
+**Book 39:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 1er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 7 (student/teacher: STUDENT), 50 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the chapter glossaries are inventory only and are named inside their placements' lines rather than placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — The instruments of technical drawing — materials against instruments: the papers and canvases (by weight, texture, size and grid) and the instruments themselves — the ruler (30 cm, engraved in cm and mm), the escuadra set square (45° and 90°), the cartabón (30°, 60°, 90°) for horizontal, vertical and inclined strokes, and the compass with its centre point (student book) | Book 39, printed pp. 12–14 |
+| Bolivia — Angles in daily life — the angle as the opening between two sides from one vertex, measured in degrees from 0° to the full 360° turn; its parts (sides, vertex, opening) and its classification by opening — null (0°), acute, right and the rest — applied to objects of everyday life (student book) | Book 39, printed pp. 17–18 |
+
+**Book 40:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 2do Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 8 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Triangles and parallelograms — the triangle's elements and notable lines (perpendicular bisectors, angle bisector, altitude, medians) and points (circumcentre, incentre); the parallelograms classified (square, rectangle, rhombus, rhomboid) against the non-parallelograms (right and isosceles trapeziums, trapezoid); and the production: draw your own house and your bedroom, kitchen and living-room furniture with the figures, and make decorative figures for craft objects (student book) | Book 40, printed pp. 7–10 |
+| Bolivia — Circumference, circle and polygons — finding π by wrapping a cord around a ring and dividing by the radius; the circle's elements; the polygon's elements (vertices, apothem, centre, sides, diagonals, perimeter, angles); the compass constructions (hexagon stepped round the circle, triangle from the hexagon, pentagon given radius or side, octagon, nonagon) — and the polygons' decorative application (student book) | Book 40, printed pp. 11–13 |
+
+**Book 41:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Artes Plásticas y Visuales, Subsistema de Educación Regular* (teacher compendium, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; official document 2023; no ISBN printed, filed under grade-07 in the library record; the book itself spans Secundaria 1–6 (student/teacher: TEACHER), 132 PDF pp. Verdict: COMPLETE, with the method stated plainly: the compendium recompiles the official learning texts for teachers, but its body is a fuller curriculum text than the abridged 2023 student books; it was read in full, page by page, and the placements file only the teaching distinct from, or materially fuller than, the student books' placements. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md. **Teacher compendium — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Compass constructions, step by step — drawing parallels with set square and cartabón (guide line, match the cartabón's long side, slide and rule); and raising a perpendicular from a point on a segment with the compass alone, in six steps — semicircle from the point, successive arcs cutting points 1 to 4, and the join from the point to point 4 (teacher compendium — evidence) | Book 41, PDF pp. 13–14 |
+| Bolivia — The full classification of angles — by opening: null (0°), acute, right (90°), obtuse, straight (llano, 180°), reflex or oblique (180°–360°) and perigonal or complete (360°); and by position in the circle: interior, central and inscribed angles (teacher compendium — evidence) | Book 41, PDF p. 15 |
+| Bolivia — The polycentric curves, constructed — the open ondulada (a succession of semicircles joined at their ends, built with compass and ruler — China's Wavy Bridge pictured); and the closed family drawn from their axes: the óvalo (major and minor axis), the ovoide (the avocado's shape), the cordiforme (the heart shape, in the three-leaf clover) and the escudo (shield) (teacher compendium — evidence) | Book 41, PDF pp. 43–44 |
+
+**Acceptance count: taught in 14 countries(Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus, Jordan, Sri Lanka, Angola, Mongolia, Afghanistan, Rwanda, Bolivia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
 
 The Grade 3 forms placement (printed pp. 30–31) also carries a paper-collage picture (Drawing 17, flowers made by cutting and pasting papers); collage-making belongs to the Making cluster of this course, so only the forms content of those pages is stocked here and the collage is not taught in this lesson. Grade 2's house placement spans printed pp. 36–38 and the car placement is on printed p. 38, exactly as placed.
 

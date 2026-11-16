@@ -1,6 +1,6 @@
 # Sources — Composition in Visual Art
 
-countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colombia, Sudan, Belarus, Iran, Sri Lanka, Libya, Cuba, Saudi Arabia, Venezuela, Angola, Mongolia, Rwanda
+countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colombia, Sudan, Belarus, Iran, Sri Lanka, Libya, Cuba, Saudi Arabia, Venezuela, Angola, Mongolia, Rwanda, Bolivia
 
 **Book 1:** *Performing and Visual Arts Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (first published 2022, GEQIP-E). Writers: Jinenus Wako (M.A), Tujuba Beyene (M.A). 90 PDF pages; printed pp. i–vi + 1–78. Printed page ≈ PDF page − 11 in the body. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
@@ -127,7 +127,27 @@ countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colo
 | Rwanda — Part 2 Unit 1 Lesson 4: Drawing and painting from a landscape — drawing and painting a landscape composition from the surroundings (teacher guide evidence) (teacher guide — evidence) | Book 33, printed p. 92 |
 
 
-**Acceptance count: taught in 12 countries(Serbia, Mozambique, Colombia, Sudan, Belarus, Iran, Cuba, Saudi Arabia, Venezuela, Angola, Mongolia, Rwanda). Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 34:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 3er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 9 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — the acrylic chapter's values part ("Los roles de la familia en equidad e igualdad de oportunidades") is a non-art part, named in the placements, not placed; the recurring question/activity boxes are not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Laws of composition — organising lines, forms, colours and textures into a balanced, meaningful design: the law of visual weights (large, bright, colourful elements weigh more and draw the eye), the golden section (the Greeks' harmonious division, found also in nature), and the rule of thirds (student book) | Book 34, printed pp. 27–28 |
+| Bolivia — Rhythm and a landscape step by step — rhythm as the regular repetition of elements (uniform rhythm, rhythm by symmetry, decreasing rhythm), then a composition built in pictured steps: sketch, paint the sky, paint the foliage, the railway lines, the details, the finished work (student book) | Book 34, printed p. 29 |
+| Bolivia — Abstract composition — compositions that do not represent recognisable objects: simplification and geometric forms (circles, squares, triangles, pentagons), colours, lines and textures as pure expression — with Kandinsky, Mondrian and Pollock named (student book) | Book 34, printed p. 30 |
+
+**Book 35:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 1er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 7 (student/teacher: STUDENT), 50 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the chapter glossaries are inventory only and are named inside their placements' lines rather than placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Symmetry, asymmetry, blocking-in, proportion — the elements that organise a drawing on its support: symmetry (visual weight distributed equally on both sides of the axis — axial symmetry, vertical or horizontal), asymmetry (not imbalance but variety in the inequality of the parts), encaje (placing the object in the working space with light, soft-pencil lines that fix the proportions before the details), and proportion itself (student book) | Book 35, printed pp. 25–26 |
+
+**Book 36:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 2do Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 8 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Composing and framing the still life — composition as the intentional organising, distributing and ordering of the visual elements to attract the viewer; and the encuadre: decide the zone of interest — the focal point that must hold the attention — and the framing, vertical or horizontal, and its size (student book) | Book 36, printed pp. 25–26 |
+
+**Acceptance count: taught in 13 countries(Serbia, Mozambique, Colombia, Sudan, Belarus, Iran, Cuba, Saudi Arabia, Venezuela, Angola, Mongolia, Rwanda, Bolivia). Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 10 teacher's guide (federal Ministry of Education, 2022, GEQIP-E). Grade 10 has no student book in hand. The placements file summarises Lessons 7–9 by their three topics — the concept of composition, its importance/purposes, and composition-and-design in 2D and 3D; the lesson teaches at exactly that level and invents no composition rules, named principles or examples the placement does not give.
 

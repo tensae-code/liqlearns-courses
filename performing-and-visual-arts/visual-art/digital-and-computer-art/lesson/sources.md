@@ -1,6 +1,6 @@
 # Sources — Digital and Computer Art
 
-countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba, Venezuela, Afghanistan
+countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba, Venezuela, Afghanistan, Bolivia
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -32,7 +32,49 @@ countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba
 | Venezuela — Arte digital: digital art — works made with computers and phones; some printed into physical existence, others existing only virtually, and net-art, creations made of images, texts and sounds on the internet itself (slug first proposed by Morocco) (student book; original target `visual-art/the-digital-image`) | Book 9, printed p. 111 |
 | Venezuela — Uso de la tecnología: technology in today's creation — computer-made designs and expressions known as net-art or digital art; and the scientific-technical reconstruction of Bolívar's face by craneometric technique (slug first proposed by Morocco) (student book; original target `visual-art/the-digital-image`) | Book 10, printed p. 230 |
 
-**Acceptance count: taught in 8 countries (Maldives, Turkmenistan, Sudan, Brazil, Bulgaria, Cuba, Venezuela, Afghanistan).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 12:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 3er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 9 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — the acrylic chapter's values part ("Los roles de la familia en equidad e igualdad de oportunidades") is a non-art part, named in the placements, not placed; the recurring question/activity boxes are not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — RGB: colour made of light — the additive synthesis: red, green and blue light combined produce every visible colour, and the three together give white; RGB is the colour of screens, so designs for digital media (flyers, posters, logos for social networks and television) are built in it (student book; original target `visual-art/digital-drawing`) | Book 12, printed pp. 19–20 |
+| Bolivia — Image quality in digital design — designing on the computer or phone: use sharp high-quality images, never blurred or pixelated ones; a good image attracts the viewer and joins the idea to the word made image (student book; original target `visual-art/digital-drawing`) | Book 12, printed p. 21 |
+| Bolivia — Traditional and digital illustration — the two kinds of illustration: the traditional, made and painted by hand, and the digital, made with technology (student book; original target `visual-art/digital-drawing`) | Book 12, printed p. 22 |
+
+**Book 13:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 4to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 10 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — The logo process, by hand and digital — sketching every idea in rough lines, improving the design little by little, then the final design drawn by hand or in a digital program (Canva, Illustrator, Inkscape), caring for colours and typography, and presenting and applying the logo across the corporate identity (student book; original target `visual-art/digital-drawing`) | Book 13, printed pp. 17–18 |
+
+**Book 14:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 5to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 11 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the chapter glossaries are inventory only and are named in their placements' lines rather than placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Layout (maquetación) and the magazine — editorial design's characteristics: visual hierarchy, appropriate typography, balanced layout with white space, strategic images and stylistic consistency, worked in design programs; and the magazine's parts — cover, contents, interior notes and back cover (student book; original target `visual-art/digital-drawing`) | Book 14, printed pp. 10–13 |
+| Bolivia — Producing stationery for print — the production steps for editorial paper goods: design and layout, margins and spacing, images at print resolution, preparation for printing in CMYK, an exhaustive quality control (typography, alignment, colour) with a paper proof, and the choice of paper and weight (student book; original target `visual-art/digital-drawing`) | Book 14, printed pp. 14–15 |
+
+**Book 15:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 6to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 12 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the opening Three Little Pigs tale is the architectural chapter's framing story, named in its placement line. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — AutoCAD and design technology — from the hand-drawn era (bond and onion-skin paper, furniture templates, lettering, pens of graded thickness — admirable precision with no errors allowed) to the computer: AutoCAD for designing and scaling architectural plans, elevations, sections and views, printed on plotters (student book; original target `visual-art/digital-drawing`) | Book 15, printed pp. 18, 21 |
+| Bolivia — Editing image and video — pixel images against vector images (the class colours both to see the difference); Photoshop, the famous editor and retoucher since the 1990s; Lightroom, for developing photographs only (brightness, contrast, saturation, white balance, presets, noise — no montage); and Illustrator for vector work (student book; original target `visual-art/digital-drawing`) | Book 15, printed pp. 19–20 |
+
+**Book 16:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 1er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 7 (student/teacher: STUDENT), 50 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the chapter glossaries are inventory only and are named inside their placements' lines rather than placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Drawing digitally from the first year — the Sketchbook program named as the year's digital drawing tool, technology stimulating creative thought and carrying drawing onto the screen (student book; original target `visual-art/digital-drawing`) | Book 16, printed p. 7 |
+| Bolivia — Design software and artificial intelligence — design programs from the 1990s onward (Adobe's family; free Canva and Freepik; phone applications with their templates) and AI image generation, a system of algorithms that creates images and videos resembling reality (student book; original target `visual-art/digital-drawing`) | Book 16, printed p. 14 |
+| Bolivia — The branches and digital tools of graphic design — design's conceptual elements (point, line, plane, volume) and visual elements (form and the rest); its branches — corporate identity (emblems, logotypes, isotypes, monograms), multimedia design (photography, video, animation, sound, text) and industrial design; and its digital tools in the immediate context, Illustrator (vectorised logos and typography) and InDesign (page layout for print and digital, integrating video, audio and animation) (student book; original target `visual-art/digital-drawing`) | Book 16, printed pp. 20–22 |
+
+**Book 17:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Artes Plásticas y Visuales, Subsistema de Educación Regular* (teacher compendium, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; official document 2023; no ISBN printed, filed under grade-07 in the library record; the book itself spans Secundaria 1–6 (student/teacher: TEACHER), 132 PDF pp. Verdict: COMPLETE, with the method stated plainly: the compendium recompiles the official learning texts for teachers, but its body is a fuller curriculum text than the abridged 2023 student books; it was read in full, page by page, and the placements file only the teaching distinct from, or materially fuller than, the student books' placements. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md. **Teacher compendium — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — The architectural software family — the TIC for architectural design named as a set: AutoCAD, Autodesk Revit, 3DS Max, ArchiCAD and SketchUp — drawing, modelling, animation and rendering software in 2D and 3D for visualising designs (teacher compendium — evidence; original target `visual-art/digital-drawing`) | Book 17, PDF p. 113 |
+
+**Acceptance count: taught in 9 countries (Maldives, Turkmenistan, Sudan, Brazil, Bulgaria, Cuba, Venezuela, Afghanistan, Bolivia).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/digital-and-computer-art`); the two Maldives placements were filed under the original strings `visual-art/posterisation` and `visual-art/the-digital-image`, recorded in the provenance rows above.
 

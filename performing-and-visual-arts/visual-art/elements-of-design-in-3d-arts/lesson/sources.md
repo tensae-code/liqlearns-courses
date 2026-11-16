@@ -1,6 +1,6 @@
 # Sources — Elements of Design in 3D Arts
 
-countries: Ethiopia, Maldives, Mozambique, Libya, Venezuela, Angola
+countries: Ethiopia, Maldives, Mozambique, Libya, Venezuela, Angola, Bolivia
 
 **Book 1:** *Performing and Visual Arts, Teacher's Guide Book, Grade 8* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau (March 2022). Writers: Bareke Tadesse, Gizachew Tasew, Daniel Sisay, Ashenafi Nigussie. 68 PDF pages; printed page = PDF page − 8 in the body. The secured copy is TRUNCATED (body printed pp. 1–56 held, then syllabus only) — this lesson's part is Unit 1, inside the body held. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -23,7 +23,25 @@ countries: Ethiopia, Maldives, Mozambique, Libya, Venezuela, Angola
 | Venezuela — Diseño tridimensional: three-dimensional design of the objects of human life — architectural, interior, industrial and fashion design joining function, form and material; Don Luis Zambrano named as pioneer of popular technology and industrial design in Venezuela (student book) | Book 6, printed pp. 102–103 |
 | Angola — Tema 1.2.2 A estrutura e a sua resistência: a structure's organising principles — resistance, balance and stability; the material must suit the function (an elephant could not stand on a dog-sized skeleton); how the elements are organised decides the load a structure can bear (student book; original target `visual-art/elements-of-design-in-3d-arts`) | Book 7, printed p. 12 |
 
-**Acceptance count: taught in 4 countries (Maldives, Mozambique, Venezuela, Angola).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 8:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 4to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 10 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Volumetric bodies — the football opened the lesson: a regulation ball is a truncated icosahedron of 12 pentagons and 20 hexagons; then the polyhedron's elements (face, edge, vertex, diagonal), building a tetrahedron and a dodecahedron step by step, prisms, and the solids of revolution (cylinder, cone, sphere) (student book) | Book 8, printed pp. 7–10 |
+
+**Book 9:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 6to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 12 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the opening Three Little Pigs tale is the architectural chapter's framing story, named in its placement line. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — The house set and the scale model — the full design set of a dwelling (plan, roof plan, section, elevation, perspective plan) and maquetismo: the three-dimensional scale model that lets you view the proposal from every angle, detect errors and correct them — keeping the scale exact through the build (student book) | Book 9, printed pp. 17–18 |
+
+**Book 10:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Artes Plásticas y Visuales, Subsistema de Educación Regular* (teacher compendium, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; official document 2023; no ISBN printed, filed under grade-07 in the library record; the book itself spans Secundaria 1–6 (student/teacher: TEACHER), 132 PDF pp. Verdict: COMPLETE, with the method stated plainly: the compendium recompiles the official learning texts for teachers, but its body is a fuller curriculum text than the abridged 2023 student books; it was read in full, page by page, and the placements file only the teaching distinct from, or materially fuller than, the student books' placements. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md. **Teacher compendium — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — The kinds of scale model — maquetismo's family: the architectural model; aeromodelismo (designing, building and flying scale aircraft); the military model (vehicles and dioramas of any epoch); the railway model (landscapes, stations and places of the railway); the naval model; the object model; and the systems model (a solar system, a digestive system, a rural irrigation system) (teacher compendium — evidence) | Book 10, PDF p. 112 |
+
+**Acceptance count: taught in 5 countries (Maldives, Mozambique, Venezuela, Angola, Bolivia).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 8 teacher's guide (Addis Ababa City Administration Education Bureau, March 2022). The secured copy of that guide is truncated — its body runs to printed p. 56 — but this lesson's part is Unit 1 (printed pp. 11–12), inside the body held, and is NOT evidence-limited in that sense; it is still teacher-guide evidence and labelled so. The placements file summarises the item by its topic list; the lesson teaches at exactly that level and invents no definitions beyond the placement's own words (line made of points, dynamic, expressing gesture/direction, activating surrounding space; shape as 2D enclosed area, geometric or organic).
 

@@ -1,6 +1,6 @@
 # Sources — Making Traditional Instruments
 
-countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola
+countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -32,7 +32,14 @@ countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola
 | Fiji — Unit 1, Activity 2 — making sound-makers from available materials (tapping, shaking, clapping), a box-and-rubber-band string instrument, a straw recorder and a bottle flute, and changing pitch by band tension, straw length and water amount (teacher guide — evidence; original target `music/making-simple-instruments-and-changing-pitch`) | Book 7, printed p. 11 |
 | Angola — Tema 3.3 Técnica das argolas: the coil technique used to build clay wind instruments such as ocarinas and flutes — pierce the air holes with a stick so blown air circulates and gives different sounds, and cut the mouth opening with a flat ice-lolly stick before firing (student book; original target `music/making-a-clay-ocarina`) | Book 9, printed pp. 44–45 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Honduras, Jordan, Angola). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 10:** *Educación Musical — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 1er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 7 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — excluded per the brief and named here only: "Refuerzo mis aprendizajes" (printed pp. 19–20), the review/values section. Songs are placed by title and theme only; no lyrics are reproduced, including the chovena and cueca texts the book prints. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Musical glasses — a homemade instrument in the idiophones chapter: take seven glasses of one model, a jar of water (coloured if possible) and a fork; fill the glasses with water, tuning each against a recorder's note until the exact sound is reached (student book) | Book 10, printed p. 14 |
+| Bolivia — Making the claves and the triangle — the rhythmic band's instruments built in class: claves — a cylindrical stick of about 2 cm (a broomstick serves), cut in pieces of 15–20 cm, sanded with medium-grain paper and varnished, the length, thickness and density deciding the sound's quality; and the triangle — 45–60 cm of thin construction iron or aluminium tube, a beater of thinner iron or a big 10–12 cm nail, hung from strong string or nylon (student book) | Book 10, printed pp. 41–42 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Honduras, Jordan, Angola, Bolivia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Making steps are taught at the level the placements carry them — materials, building order and tuning by ear; no measurements or tool procedures beyond the placements are invented.
 

@@ -1,6 +1,6 @@
 # Sources — Beat Instruments
 
-countries: Ethiopia, Malta, Colombia, Bulgaria, Libya, Angola
+countries: Ethiopia, Malta, Colombia, Bulgaria, Libya, Angola, Bolivia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -26,7 +26,19 @@ countries: Ethiopia, Malta, Colombia, Bulgaria, Libya, Angola
 | Colombia — Project 2, Subproject 1, Momento 2 "La fuerza y el poder de la percusión y de los idiófonos": percussion and idiophones — the hand-struck drums: bongos, congas, cununos, the tambora of merengue and the caja vallenata (student book; original target `music/beat-instruments`) | Book 4, printed pp. 110–119 |
 | Angola — G1 Tema 4.1: maracas and triangle as beat instruments — naming, picturing and playing them (student book; original target `music/beat-instruments`) | Book 9, printed p. 19 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Colombia, Bulgaria, Angola).** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 10:** *Educación Musical — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 1er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 7 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — excluded per the brief and named here only: "Refuerzo mis aprendizajes" (printed pp. 19–20), the review/values section. Songs are placed by title and theme only; no lyrics are reproduced, including the chovena and cueca texts the book prints. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Idiophones: the body itself sounds — in Hornbostel-Sachs, the idiophones are percussion whose sound is the vibration of their own body (wood, metal or stone — rigid, sonorous, elastic), needing no strings, membranes or air columns; classified by action — struck, scraped (bottles, güiro, carraca) and shaken (maracas, sonajas, cascabeles) — with the claves made from two wooden cylinders (student book) | Book 10, printed pp. 33–34 |
+
+**Book 11:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Educación Musical, Subsistema de Educación Regular* (teacher compendium, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; official document 2023; no ISBN printed, filed under grade-07 in the library record; the book itself spans Secundaria 1–6 (student/teacher: TEACHER), 106 PDF pp. Verdict: COMPLETE, with the same method as the Art compendium: read in full, page by page, filing only teaching distinct from, or materially fuller than, the student books' placements. The anthem texts the compendium prints (Aymara and Guaraní versions included) are placed by title and purpose only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md. **Teacher compendium — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Idiophones by the action that sounds them — clashed together (castanets, claves, cymbals); struck with stick or mallet (xylophone, bells, triangle); struck with hands or fingers; shaken (jingle bells, maracas, shaker); plucked (the kalimba or thumb piano, the jew's harp); and scraped (the anise bottle, the güira, the Tibetan bowl) — and, before all classification, the autófonos found sounding in nature (stones, branches, leaves) and the cotidiáfonos of everyday life (pens as drumsticks, tables, sticks) (teacher compendium — evidence) | Book 11, PDF pp. 20–21 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Colombia, Bulgaria, Angola, Bolivia).** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
 
 The Grade 3 closing exercise asks whether the atamo is one of the church beat instruments; the book's own §2.1.2 teaching places the atamo in secular music, and the lesson teaches that — the exercise item is carried in sources only, exactly as printed, and is not taught as church use. The bell, qachil and tsenatsil are named in this lesson's set because the book lists them in it; their teaching lives in the Church Instruments lesson, from the same page.
 

@@ -1,6 +1,6 @@
 # Sources — Playing Notes and Rests
 
-countries: Ethiopia, Barbados, Morocco, Bulgaria, Libya
+countries: Ethiopia, Barbados, Morocco, Bulgaria, Libya, Bolivia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -30,7 +30,13 @@ countries: Ethiopia, Barbados, Morocco, Bulgaria, Libya
 | Morocco — "I Read the Half Note and the Half Rest" (أقرأ البيضاء ونصف البرهة) — reading the half note and half rest inside short scores to the pulse (the two-beat word "maman" in "Ah! vous dirai-je maman" as the half-note example) (teacher guide — evidence; original target `music/playing-notes-and-rests`) | Book 5, printed p. 105 |
 | Morocco — "I Learn the Half Note and the Half Rest" (أتعرف البيضاء ونصف البرهة) — the half note (La blanche) — a sound sign in two shapes worth two beats — and the half rest (La demi-pause), the silence sign worth two beats; every sound sign has its matching silence sign; writing and reading them in simple scores on Fa, Sol and La (teacher guide — evidence; original target `music/playing-notes-and-rests`) | Book 6, printed p. 78 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bulgaria). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 12:** *Educación Musical — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 1er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 7 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — excluded per the brief and named here only: "Refuerzo mis aprendizajes" (printed pp. 19–20), the review/values section. Songs are placed by title and theme only; no lyrics are reproduced, including the chovena and cueca texts the book prints. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Forming the rhythmic band — once every idiophone has its rhythmic line: begin playing two lines together, add a third, and finally play all the lines at once — the banda rítmica formed, a percussion group interpreting rhythms with idiophones alone (student book) | Book 12, printed p. 42 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Bulgaria, Bolivia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 5 book continues past this lesson to the eighth note and dotted notes; those signs have their own targets in the placements and are not stocked here — this lesson stocks only the whole, half and quarter playing the placements assign to “Playing Notes and Rests”. The Grade 3 photographs of children drumming are described, not reproduced; GIF 9622 is a drawn practice loop in their place.
 

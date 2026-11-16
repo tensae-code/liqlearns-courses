@@ -1,7 +1,7 @@
 # Sources — Lines in Every Direction
 
 
-countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran, Papua New Guinea, Jordan, Libya, Saudi Arabia, Venezuela, Angola, Mongolia, Afghanistan
+countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran, Papua New Guinea, Jordan, Libya, Saudi Arabia, Venezuela, Angola, Mongolia, Afghanistan, Bolivia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -96,7 +96,19 @@ countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran,
 |---|---|
 | Mongolia — Part I: Зураасны төрөл, бэлгэдэлтэй танилцах (the kinds of line, and their symbols/meanings) and Хатуу цаас ашиглан зураасаар дүрслэх (depicting with line on stiff paper) (student book; original target `visual-art/lines-in-every-direction`) | Book 27, printed pp. 14, 15 |
 
-**Acceptance count: taught in 11 countries(Ethiopia, Bhutan, Fiji, Belarus, Iran, Jordan, Saudi Arabia, Venezuela, Angola, Mongolia, Afghanistan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 30:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 1er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 7 (student/teacher: STUDENT), 50 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the chapter glossaries are inventory only and are named inside their placements' lines rather than placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Point, line, plane, volume — geometry's fundamental elements: the point, origin of a stroke, without length or thickness; the line as a succession of associated points; and the line classified by form — straight, curve (arcs), broken or polygonal, and mixed — by position, and by relation or direction (student book) | Book 30, printed pp. 15–16 |
+
+**Book 31:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Artes Plásticas y Visuales, Subsistema de Educación Regular* (teacher compendium, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; official document 2023; no ISBN printed, filed under grade-07 in the library record; the book itself spans Secundaria 1–6 (student/teacher: TEACHER), 132 PDF pp. Verdict: COMPLETE, with the method stated plainly: the compendium recompiles the official learning texts for teachers, but its body is a fuller curriculum text than the abridged 2023 student books; it was read in full, page by page, and the placements file only the teaching distinct from, or materially fuller than, the student books' placements. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md. **Teacher compendium — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — The line types of technical drawing and their functions — the full table the student books omit: thick line for visible contours and edges; fine line for auxiliary and dimension lines; fine dashed for hidden contours; fine dash-and-point for axes of revolution and symmetry; thick dash-and-point for lines under special specification; fine dash-and-double-point for adjacent parts and centres of gravity; the dimension line with arrows; long-and-short dash for cuts and sections; fine freehand for view limits; and the zigzag line (teacher compendium — evidence) | Book 31, PDF pp. 12–13 |
+
+**Acceptance count: taught in 12 countries(Ethiopia, Bhutan, Fiji, Belarus, Iran, Jordan, Saudi Arabia, Venezuela, Angola, Mongolia, Afghanistan, Bolivia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
 
 Sub lesson 4 rests on teacher-guide evidence only for its own content (the Grade 1 teacher guide's line lesson); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 1 student textbook, so the acceptance count counts pupil-taught content. The Grade 1 line-model pages are picture-led full pages; placements are followed exactly as read.
 

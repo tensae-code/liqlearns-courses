@@ -1,6 +1,6 @@
 # Sources — Puppet Theatre
 
-countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba, Mongolia, Rwanda
+countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba, Mongolia, Rwanda, Bolivia
 
 **Book 1:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -53,7 +53,13 @@ countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba, Mongol
 | Rwanda — Unit 5 Lesson 2: Create puppets inspired from the surrounding using different materials — creating puppets of things from the surrounding out of gathered materials (teacher guide — evidence; original target `drama-and-dance/making-and-using-puppets`) | Book 11, printed p. 45 |
 
 
-**Acceptance count: taught in 5 countries(Romania, Bhutan, Colombia, Belarus, Mongolia).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 12:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 4to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 10 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Puppets (títeres) in Bolivia — the puppet theatre the Quechua and Aymara peoples practised (Potosí, the Villa Imperial, is named as its likely home): one of the most accepted arts of its age, telling of the harvest, indigenous and peasant life, dances and ceremonies, pre-Columbian tales, legends and myths, with decoration, music, masks, costume and language all in the show (student book; original target `drama-and-dance/puppets-and-shadow-plays`) | Book 12, printed p. 41 |
+
+**Acceptance count: taught in 6 countries(Romania, Bhutan, Colombia, Belarus, Mongolia, Bolivia).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/puppet-theatre`); the Barbados placements were filed under the original string `drama-and-dance/puppetry-and-masks`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: puppet theatre starts in Class 1 Cultural Awareness, with characters the children invent and puppets made from sticks, paper bags and socks. (In this lesson's sources, Book 1 is the Barbados Visual Arts Curriculum Guide.)
 

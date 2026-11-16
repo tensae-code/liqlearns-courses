@@ -1,6 +1,6 @@
 # Sources — Design and Perspective: Near and Far
 
-countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Papua New Guinea, Brazil, Jordan, Libya, Cuba, Venezuela, Angola, Mongolia, Afghanistan
+countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Papua New Guinea, Brazil, Jordan, Libya, Cuba, Venezuela, Angola, Mongolia, Afghanistan, Bolivia
 
 **Book 1:** *Grade 6 Performing and Visual Arts Teacher Guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Writers: Tibebu Woldeyohannes, Yirga Qumelachew, Yohannes Sebsebie. 96 PDF pages; printed front matter I–VI + body and syllabus to printed p. 119. Read in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
@@ -122,7 +122,29 @@ countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pa
 |---|---|
 | Mongolia — Part I: Юмсын хол, ойр байршлыг хүйтэн, дулаан өнгөөр ялган дүрслэх (near and far shown by cold and warm colours) and Энгийн аргаар алслалтай зурах (drawing with perspective, the simple way) (student book; original target `visual-art/design-and-perspective-near-and-far`) | Book 32, printed pp. 21, 22 |
 
-**Acceptance count: taught in 16 countries(Maldives, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Brazil, Jordan, Cuba, Venezuela, Angola, Mongolia, Afghanistan).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 35:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 4to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 10 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — The axonometric systems — drawing an object in one view with its three dimensions measurable: the orthogonal family (isometric, dimetric, trimetric) and the oblique (caballera and militar), with Leonardo da Vinci's sketches as the system's ancestors (student book) | Book 35, printed pp. 11–12 |
+| Bolivia — Conic perspective — the elements (horizon line, viewpoint, vanishing point, ground line, picture plane) and the three systems: frontal perspective of one point (the Last Supper, its vanishing point on Christ's head), two points, and aerial perspective of three points — with three-dimensional letters designed in perspective (student book) | Book 35, printed pp. 13–14 |
+
+**Book 36:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 5to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 11 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the chapter glossaries are inventory only and are named in their placements' lines rather than placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Orthogonal views of real buildings — volumetric technical drawing reads the buildings of the context (a courthouse, a minimal house) by their views — front (alzado), top (planta), right, left, bottom and back — the orthogonal projections of descriptive geometry, with the study techniques of decomposition, 3D reconstruction and comparison against the original (student book) | Book 36, printed pp. 6–7 |
+| Bolivia — The dihedral and trihedral systems — projection onto two planes (the dihedral system) and onto three (the trihedral: horizontal, vertical and profile planes), with abatimiento, the folding of the planes flat to read the true views (student book) | Book 36, printed pp. 8–9 |
+
+**Book 37:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 6to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 12 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the opening Three Little Pigs tale is the architectural chapter's framing story, named in its placement line. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Architectural drawing — opened through the Three Little Pigs (building is the how, the with-what and the for-what): architecture as the art, science and technique of building for society, and architectural drawing as its graphic language of lines and symbols, read under national and international norms (student book) | Book 37, printed pp. 7–8 |
+| Bolivia — Walls and architectural symbols — how walls are drawn in plan at the working scale (load-bearing against partition), the graphic symbols for every element of the construction, and the chapter's production: draw the architectural plan of your own house — rooms, dining room, living room, bathrooms — every element true to scale (student book) | Book 37, printed p. 14 |
+| Bolivia — Structure, zoning and orientation — the basic conditions of the work (the Leaning Tower of Pisa as the warning: weak foundations incline a tower for centuries): the structure as the frame that gives equilibrium and stability (concrete, steel, wood); zoning the dwelling by location, accessibility and functionality; and orientation — in Bolivia, face the house north to take the most sun in the cold periods (student book) | Book 37, printed pp. 15–17 |
+
+**Acceptance count: taught in 17 countries(Maldives, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Brazil, Jordan, Cuba, Venezuela, Angola, Mongolia, Afghanistan, Bolivia).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 6 teacher's guide (Addis Ababa City Administration Education Bureau, © 2014 E.C.). The placements file summarises the guide's §2.4 design section by its topic, its Amharic terms and its picture slot (a road narrowing to a vanishing point, nearer trees darker and larger); the lesson teaches at exactly that level and adds no perspective rules, constructions or terms the placement does not give.
 

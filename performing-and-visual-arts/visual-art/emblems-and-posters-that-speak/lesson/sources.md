@@ -1,6 +1,6 @@
 # Sources — Emblems and Posters That Speak
 
-countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Papua New Guinea, Morocco, Jordan, Sri Lanka, Libya, Cuba, Venezuela, Rwanda
+countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Papua New Guinea, Morocco, Jordan, Sri Lanka, Libya, Cuba, Venezuela, Rwanda, Bolivia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -98,7 +98,43 @@ countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan,
 | Rwanda — Part 2 Unit 3 Lesson 2: How to design a poster — designing a poster (teacher guide evidence) (teacher guide — evidence) | Book 27, printed p. 82 |
 
 
-**Acceptance count: taught in 9 countries (Ethiopia, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Venezuela, Rwanda). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
+**Book 28:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 3er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 9 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — the acrylic chapter's values part ("Los roles de la familia en equidad e igualdad de oportunidades") is a non-art part, named in the placements, not placed; the recurring question/activity boxes are not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Shields (escudos) — inside the curves chapter: the shield as a graphic design that carries an entity's identity, its symbolism built from colours, animals, geometric figures and natural elements, with composition and typography (student book) | Book 28, printed p. 13 |
+
+**Book 29:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 4to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 10 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Logo design: kinds and styles — the logotipo (letters), the isotipo (symbol alone: pictogram, monogram, anagram, sigla, initial, signature), the imagotipo (both joined); and the styles, from linear minimalist logos on — with the Bolivian Salvietti logo and its legend of the duende of Pura Pura (student book) | Book 29, printed pp. 15–16 |
+
+**Book 30:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 5to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 11 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the chapter glossaries are inventory only and are named in their placements' lines rather than placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Editorial design: poster, diptych, triptych — the graphic pieces of everyday publicity: the afiche and its parts (image, message, colour palette, contact information), the díptico (one sheet folded in two: four faces), and the tríptico in its envolvente, acordeón and ventana folds (student book) | Book 30, printed pp. 10–12 |
+
+**Book 31:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 1er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 7 (student/teacher: STUDENT), 50 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the chapter glossaries are inventory only and are named inside their placements' lines rather than placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Pictograms and design as communication — the pictogram, an iconic visual design that represents an object or action figuratively to transmit a message — simple, legible, referential, understandable by anyone, made for a specific space or situation; and graphic design defined as visual communication through images, texts, symbols and illustrations (student book) | Book 31, printed pp. 19–20 |
+
+**Book 32:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 2do Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 8 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Typography with image, colour and form — combining type with the other visual elements for effective communication: contrast (a different type so it stands out), harmony (elements that complement each other), space (letting the typography breathe), and hierarchy (sizes and styles that rank the information) (student book) | Book 32, printed p. 18 |
+
+**Book 33:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Artes Plásticas y Visuales, Subsistema de Educación Regular* (teacher compendium, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; official document 2023; no ISBN printed, filed under grade-07 in the library record; the book itself spans Secundaria 1–6 (student/teacher: TEACHER), 132 PDF pp. Verdict: COMPLETE, with the method stated plainly: the compendium recompiles the official learning texts for teachers, but its body is a fuller curriculum text than the abridged 2023 student books; it was read in full, page by page, and the placements file only the teaching distinct from, or materially fuller than, the student books' placements. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md. **Teacher compendium — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — The six kinds of isotipo — the symbol-only marks classified: monograma (one or several initials, freely combined), anagrama (built from syllables to shorten the brand's name so it is easily remembered), sigla (initials kept separate, to be read letter by letter), inicial (the first initial alone), firma (the signature-structured mark) and pictograma (the icon) — with the corporate-identity process: audience, message, company type and values first (an ecology company: honesty, innovation, environmental conscience → forms of tree, leaves, world, hands) (teacher compendium — evidence) | Book 33, PDF pp. 65–66 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Venezuela, Rwanda, Bolivia). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
 
 The famous emblems named (Coca-Cola, Nike, Apple, Pepsi, Walta Television) are named as the Grade 5 book names them, as examples of the three kinds — no mark is reproduced in the lesson's drawn picture, which is an invented teaching emblem, not a copy of any real one. The Grade 5 teacher-guide signs-and-posters part rests on that guide's closing syllabus tables and is labelled at that evidence level in the table.
 

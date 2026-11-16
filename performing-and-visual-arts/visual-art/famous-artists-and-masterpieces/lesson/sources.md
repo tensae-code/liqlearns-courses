@@ -1,6 +1,6 @@
 # Sources — Famous Artists and Masterpieces
 
-countries: Andorra, Colombia
+countries: Andorra, Colombia, Bolivia
 
 **Book 1:** *Programa de l'assignatura d'història de les arts del batxillerat general de l'Escola Andorrana — Decret del 9-12-2020 (BOPA núm. 149, 16-12-2020), republishing the full programme as amended (Decret del 20-3-2019 as modified by Decret del 9-12-2020)* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2020 (programme first published 2019), no ISBN printed in the fetched text, Batxillerat general (ages 16–18), 28 PDF pp. TEACHER — programme document. Verdict: COMPLETE as a programme document — read in full via the source_url text; assessment criteria (CA1 pertinence, CA2 precision, CA3 critical sense), end-of-cycle expectations and the synthesis table are apparatus, named here and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
@@ -16,7 +16,39 @@ countries: Andorra, Colombia
 | Colombia — Módulo 4, Guía 18 "Artistas representativos en el arte" — representative artists and artistic movements in the history of art, their techniques, styles and themes — and the artists of the student's own region, met through their photographs and works (student book; original target `visual-art/famous-artists`) | Book 2, printed pp. 131–136 |
 | Colombia — Módulo 5, Guía 17 "Pintura de expresión y acción" — the avant-gardes (vanguardias): cubism and the painting of expression and action, and the invention that changed what painters could register (student book; original target `visual-art/famous-artists`) | Book 3, printed pp. 142–148 |
 
-**Acceptance count: taught in 1 country (Colombia).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.
+**Book 4:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 4to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 10 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Portrait and self-portrait — the chapter studies portraits by Bolivian artists (Mario Conde, Ricardo Pérez Alcalá, Rosmery Mamani) and sets the pupil to sketch a portrait of a family member, teacher or classmate (student book; original target `visual-art/artists-and-their-masterpieces`) | Book 4, printed pp. 19, 22 |
+
+**Book 5:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 5to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 11 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the chapter glossaries are inventory only and are named in their placements' lines rather than placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Bolivian artists of the social figure — Bolivian painters committed to the working class and the peasantry, protagonists of the social vindications: Arturo Borda, Cecilio Guzmán de Rojas and Wálter Solón Romero, whose figure drawing serves the community's own story (student book; original target `visual-art/artists-and-their-masterpieces`) | Book 5, printed p. 26 |
+| Bolivia — Bolivia's artists through its history — the painters who went to the Chaco War (1932–1935) as soldiers and witnesses — Cecilio Guzmán de Rojas ("Cama nro 33. Evacuable"), Arturo Borda, Miguel Alandia Pantoja, Gil Coimbra; Juan Rimsa, Lithuanian-born, decorated with the Cóndor de los Andes ("Trilogía andina"); Arturo Borda, multifaceted pioneer of theatre and cinema; Gil Imaná Garrón's murals; and Ricardo Pérez Alcalá, among Latin America's finest watercolourists — biographies and major works (student book; original target `visual-art/artists-and-their-masterpieces`) | Book 5, printed pp. 30–33 |
+
+**Book 6:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 6to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 12 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the opening Three Little Pigs tale is the architectural chapter's framing story, named in its placement line. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Bolivia's muralists — the murals of Mamani Mamani on the buildings of El Alto, analysed figure by figure for what they represent; and the Bolivian muralists known for showing in their works the country's cultural diversity, its landscapes and its people (student book; original target `visual-art/artists-and-their-masterpieces`) | Book 6, printed pp. 27, 30 |
+
+**Book 7:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 2do Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 8 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Bolivia's social painting of the 20th century — the 1950s muralist movement (Lorgio Vaca of Santa Cruz; Miguel Alandia Pantoja — "Educación y lucha de clases", 1957, "La nueva Santa Cruz"), its murals on social and political themes exalting the indigenous and peasant cultures; painting through the dictatorships of the 1970s–80s (Wálter Solón Romero — "Mañana habrá pan", 1974, "Retrato de un pueblo", 1988); and Roberto Mamani Mamani maintaining the tradition (student book; original target `visual-art/artists-and-their-masterpieces`) | Book 7, printed p. 34 |
+
+**Book 8:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Artes Plásticas y Visuales, Subsistema de Educación Regular* (teacher compendium, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; official document 2023; no ISBN printed, filed under grade-07 in the library record; the book itself spans Secundaria 1–6 (student/teacher: TEACHER), 132 PDF pp. Verdict: COMPLETE, with the method stated plainly: the compendium recompiles the official learning texts for teachers, but its body is a fuller curriculum text than the abridged 2023 student books; it was read in full, page by page, and the placements file only the teaching distinct from, or materially fuller than, the student books' placements. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md. **Teacher compendium — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Portrait and self-portrait, defined — the portrait as the plastic expression of a person's image, in which face and expression predominate, aiming to show likeness, personality and even state of mind — a portrait photograph is not a simple photo but a composed image of the person in a still pose; portraits run from the Egyptians to Picasso's dislocated, cubist portrait; and the self-portrait, the artist's representation of himself (teacher compendium — evidence; original target `visual-art/artists-and-their-masterpieces`) | Book 8, PDF p. 69 |
+| Bolivia — The colonial schools: Potosina and Collao — the Potosí school of the 17th century (the Cerro Rico's wealth; artists teaching natives to paint for the new churches — Francisco Herrera y Velarde, Francisco López de Castro, Melchor Pérez de Holguín, Gaspar Melchor Berrio); and the Collao school of La Paz, from the late 17th century — Leonardo Flores, the Master of Calamarca and his majestic angels in Calamarca church, and Juan López de los Ríos — as the foreign artists disappeared, Bolivia's own artists took the attention with a style of their own, the gold-leaf ornament fading with time (teacher compendium — evidence; original target `visual-art/artists-and-their-masterpieces`) | Book 8, PDF pp. 76–77 |
+
+**Acceptance count: taught in 2 countries (Colombia, Bolivia).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/famous-artists-and-masterpieces`); the Andorra placement was filed under the original string `visual-art/famous-artists` (its Bloc 7, Art and the latest trends), recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Artists and movements are met by name and kind only, as the placement gives them. The book is a curriculum programme document, so every part of this lesson is labelled evidence; no student-textbook claim is made for it. Colombia's parts above come from a student book and are counted in the acceptance count.
 

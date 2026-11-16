@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -78,7 +78,26 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, S
 |---|---|
 | Mongolia — Chapter 1: Зураасан зургийн үүсэл, хөгжил (the origin and development of line drawing — Mongolia's rock paintings: Хойд цэнхэрийн агуйн хадны зураг, Гачууртын хадны зураг, Өлзийтын хадны зураг — "rock painting is the nomads' cultural heritage, the beginning of all visual art") (student book; original target `visual-art/cave-art-and-church-painting`; PARTIAL — grade part placed from the full chapter structure with section openings sampled, as filed) | Book 20, printed p. 4 |
 
-**Acceptance count: taught in 13 countries(Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 22:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 3er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 9 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — the acrylic chapter's values part ("Los roles de la familia en equidad e igualdad de oportunidades") is a non-art part, named in the placements, not placed; the recurring question/activity boxes are not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Images through history — humanity has always communicated by images: the cave paintings (pinturas rupestres), the frescoes of Greece and Rome, the ceramic vessels, the scenes in Egyptian tombs (student book) | Book 22, printed p. 22 |
+
+**Book 23:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 4to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 10 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Colonial and Baroque art in Bolivia — the Spanish brought their art and its techniques at their height: chiaroscuro and tenebrism (only some figures lit, the rest taken by black), religious pictures and sculptures to teach the faith, the painted angels of the colonial style — and later the Baroque arriving in the Audiencia de Charcas, while the Renaissance never took root (student book) | Book 23, printed pp. 35–36 |
+| Bolivia — The Potosí school painters — Diego de la Puente (born in Peru, 1586), formed in the Potosí school, whose Jesuit works (Cristo en la columna, the Taller de Nazaret, San Miguel Arcángel) hang from Lima to La Paz; and Francisco Herrera y Velarde "el viejo", who came from Extremadura to Potosí in the mid-1600s (student book) | Book 23, printed p. 37 |
+
+**Book 24:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Artes Plásticas y Visuales, Subsistema de Educación Regular* (teacher compendium, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; official document 2023; no ISBN printed, filed under grade-07 in the library record; the book itself spans Secundaria 1–6 (student/teacher: TEACHER), 132 PDF pp. Verdict: COMPLETE, with the method stated plainly: the compendium recompiles the official learning texts for teachers, but its body is a fuller curriculum text than the abridged 2023 student books; it was read in full, page by page, and the placements file only the teaching distinct from, or materially fuller than, the student books' placements. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md. **Teacher compendium — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — When and where art begins — the origin of art placed in the Palaeolithic, in the Stone Age: against the older theory of a European beginning 40,000 years ago with Homo sapiens, recent finds in Africa and Australia make art's appearance a universal phenomenon — and raise the possibility that Neanderthal man also produced art (teacher compendium — evidence) | Book 24, PDF p. 21 |
+
+**Acceptance count: taught in 14 countries(Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 

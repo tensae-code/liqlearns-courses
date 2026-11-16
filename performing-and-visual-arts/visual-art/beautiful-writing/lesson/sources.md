@@ -1,6 +1,6 @@
 # Sources — Beautiful Writing
 
-countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Libya, Cuba, Mongolia, Rwanda
+countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Libya, Cuba, Mongolia, Rwanda, Bolivia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -144,7 +144,26 @@ countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus,
 | Rwanda — Part 2 Unit 3 Lesson 3: Writing in calligraphic hand — writing in a calligraphic hand (teacher guide evidence) (teacher guide — evidence) | Book 37, printed p. 84 |
 
 
-**Acceptance count: taught in 14 countries(Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria, Libya, Cuba, Mongolia, Rwanda). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added on its Grades 3–9 student calligraphy workbooks — counted in the acceptance count; the Libya Grade 1 teacher guide part is evidence only, kept outside it. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 38:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 1er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 7 (student/teacher: STUDENT), 50 PDF pp. Verdict: COMPLETE — no excluded sections in this book; the chapter glossaries are inventory only and are named inside their placements' lines rather than placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Monograms and lettering — designing a monogram from your own initials: the artist abbreviates, interlaces, fuses and fragments letters, forms and symbols into one sign that identifies a person, business or institution (the pictorial monogram pictured); with the lettering (rotulación) of straight and inclined letters and numbers ruled on the grid (student book) | Book 38, printed pp. 11–12 |
+
+**Book 39:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 2do Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 8 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Typography and lettering — typography everywhere (plazas, markets, traffic signs, websites) and why it decides legibility and the message's perception; the history of rotulación, from primitive signs through medieval titles and labels to Gutenberg's press and C. W. Reinhardt's normalised alphabet (from the Gothic letters) in the late 19th century; manual and digital typography; and choosing a font — know the audience, consider the purpose, legibility is decisive, never more than two or three fonts in one project (student book) | Book 39, printed pp. 15–17 |
+
+**Book 40:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Artes Plásticas y Visuales, Subsistema de Educación Regular* (teacher compendium, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; official document 2023; no ISBN printed, filed under grade-07 in the library record; the book itself spans Secundaria 1–6 (student/teacher: TEACHER), 132 PDF pp. Verdict: COMPLETE, with the method stated plainly: the compendium recompiles the official learning texts for teachers, but its body is a fuller curriculum text than the abridged 2023 student books; it was read in full, page by page, and the placements file only the teaching distinct from, or materially fuller than, the student books' placements. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md. **Teacher compendium — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — The monogram's Bolivian history — under the monogram chapter, two marks of identity: the macuquina, the colonial coin struck artisanally by hammer, with irregular edges and poor inscriptions; and in eastern Bolivia the yerra, the cattle brand — marking livestock with the hot iron (with cold iron, tattoos and ear marks as alternatives), a custom practised since ancient Egypt, some 2,000 years before Christ (teacher compendium — evidence) | Book 40, PDF p. 10 |
+| Bolivia — Normalised lettering: DIN 16 and DIN 17 — DIN 16, the inclined normalised letter, and DIN 17, the vertical normalised letter, the most used for lettering drawings; typography's inclination varying from 8° to 16°; and the chapter's exercise in lettering as drawing: draw the silhouette of a flower, an animal or a human figure and fill it with pure letters or phrases of values (teacher compendium — evidence) | Book 40, PDF pp. 32–34 |
+
+**Acceptance count: taught in 15 countries(Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria, Libya, Cuba, Mongolia, Rwanda, Bolivia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added on its Grades 3–9 student calligraphy workbooks — counted in the acceptance count; the Libya Grade 1 teacher guide part is evidence only, kept outside it. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
 
 Honesty notes: the Grade 5 calligraphy plates placement (single/double/shaded examples in Amharic and English, with a two-tied-pencils GIF need) is stocked inside Sub lesson 5's practice set, where the Grade 6 book turns the same two-tools method into practice; no separate plate part is claimed. Line-kind Amharic names and spellings (ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, ነጠላ, ድርብ) are copied exactly from the Grade 3 placements.
 

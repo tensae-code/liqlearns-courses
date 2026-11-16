@@ -2371,7 +2371,23 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   and umurishyo w'ingoma, the umuduri, umudiho and
   umushayayo, and the Ubumwe and Twamagane Jenoside songs.
 
-**The whole course stands at 664 lessons, 8,205 questions and
+- **Art expansion — Bolivia (2026-11-16):** 331 placements stocked from
+  14 books (12 student books counted; the two teacher compendia —
+  Artes Plásticas y Visuales and Educación Musical — are EVIDENCE
+  only, kept outside the acceptance counts): 283 into existing and
+  already-built canonical lessons, and 48 into 4 NEW lessons
+  (Visual Art: Bolivian Ceramics ×4; Bolivian Origin Arts ×15;
+  Music: Bolivian Folk Music and Instruments ×21; Drama and
+  Dance: Bolivian Folk Dances ×8). Bolivia's own way is kept as
+  named parts throughout: Tiwanaku sculpture and the aguayo,
+  Caporales, Tinku and the Machetero, taquirari and chobena,
+  quena and tarka, Los Kjarkas and Savia Andina. Songs and the
+  anthem are placed by title and theme only, never transcribed;
+  chapter glossaries are inventory-only, named in the book
+  entries, not placed; the Refuerzo review sections are named,
+  not placed.
+
+**The whole course stands at 668 lessons, 8,253 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

@@ -1,6 +1,6 @@
 # Sources — Performing Kinds of Music
 
-countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya, Cuba, Angola, Mongolia, Rwanda
+countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya, Cuba, Angola, Mongolia, Rwanda, Bolivia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., body/syllabus to printed p. 80. Printed page = PDF page − 6 in the body. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
 
@@ -65,7 +65,13 @@ countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya, C
 | Rwanda — Part 1 Unit 1 Lesson 5: Singing songs in tune with expressions — the unit's general skill — singing any song in tune with expressions, practised and performed (teacher guide evidence) (teacher guide — evidence) | Book 18, printed p. 14 |
 
 
-**Acceptance count: taught in 5 countries(Uganda, Colombia, Cuba, Angola, Mongolia).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 19:** *Educación Musical — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 6to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 12 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — excluded per the brief and named here only: "Refuerzo mis aprendizajes" (printed pp. 16–17), the review/values section; the crossword (printed p. 23) is a pure assessment item and is not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — The folk orchestra — interpreting harmonic, melodic and rhythmic instruments together according to the context: every pupil brings an instrument from home, and the nomenclature is what lets all of them combine in the same key and keep the melody — no player leaving the tonality — with a notation application so every interpreter can follow the written music and their moment to enter (student book) | Book 19, printed pp. 39–40 |
+
+**Acceptance count: taught in 6 countries(Uganda, Colombia, Cuba, Angola, Mongolia, Bolivia).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on teacher-guide evidence only and is labelled so in its plan, text and sources. The Grade 2 teacher guide is a scan with no text layer; its parts are cited at section level only and no wording is quoted from it.
 

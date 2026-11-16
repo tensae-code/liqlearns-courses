@@ -1,6 +1,6 @@
 # Sources — What the Arts Do for Society
 
-countries: Ethiopia, Uganda, Samoa, Colombia, Libya, Cuba, Angola
+countries: Ethiopia, Uganda, Samoa, Colombia, Libya, Cuba, Angola, Bolivia
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -52,7 +52,43 @@ countries: Ethiopia, Uganda, Samoa, Colombia, Libya, Cuba, Angola
 | Colombia — Módulo 4, Guía 12 "Globalización e identidad" — globalisation and identity: world bodies and safeguard measures, and a people's work of conserving its own traditions and defining what must be kept (student book; original target `culture-and-values/what-the-arts-do-for-society`) | Book 11, printed pp. 98–104 |
 | Angola — Tema 2.2.3 O estudo da cestaria e dos seus valores estéticos e funcionais: basketry's aesthetic and functional value — the beauty the maker gives the object, and its social usefulness: handmade baskets carry produce, store clothes and kitchen utensils, serve as table bases for plates, bowls and cups, and become furniture (student book; original target `culture-and-values/what-the-arts-do-for-society`) | Book 16, printed p. 80 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Colombia, Cuba, Angola).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 17:** *Educación Musical — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 3er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the book's own bibliography entry); no ISBN printed, Grade 9 (student/teacher: STUDENT), 52 PDF pp. Verdict: COMPLETE — excluded per the brief and named here only: "Refuerzo mis aprendizajes" (printed pp. 19–20), the review/values section. Songs are placed by title and theme only; no lyrics are reproduced. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Music and its social effects — music in society: its positive effects on adolescents, its negative effects when genres carry messages against moral values or towards harmful consumption, and music as therapy (coordination, balance, memory, less stress, better mood) (student book) | Book 17, printed pp. 15–16 |
+
+**Book 18:** *Artes Plásticas y Visuales — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 4to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023; no ISBN printed, Grade 10 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Watercolour against racism, for inclusion — art as a tool against racism and social discrimination: choosing colours that represent diversity (varied skin tones, the colours of different cultures) and representing festivals, traditional dress and folk dances to show the value of every culture (student book) | Book 18, printed pp. 29–30 |
+
+**Book 19:** *Educación Musical — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 4to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the book's own bibliography entry); no ISBN printed, Grade 10 (student/teacher: STUDENT), 50 PDF pp. Verdict: COMPLETE — excluded per the brief and named here only: "Refuerzo nuestros aprendizajes" (printed pp. 19–20), the review/values section. The anthem is placed by title and history only; no lyrics are reproduced, including the Aymara and Guaraní versions the book prints. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Music as a decolonising element — revaluing our own dances and music: Abya Yala means "saved territory", and knowing the relation of our dances to the musical expressions of Abya Yala is recovering them as ours (student book) | Book 19, printed p. 9 |
+
+**Book 20:** *Educación Musical — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 5to Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 11 (student/teacher: STUDENT), 52 PDF pp. Verdict: COMPLETE — excluded per the brief and named here only: "Refuerzo mis aprendizajes" (printed pp. 18–19), the review/values section. Songs and the anthem are placed by title, theme and analysis only; no lyrics are reproduced, including the Aymara song texts the book prints. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Music as language and intercultural communication — built from combined sounds as speech is built from phonemes, music is called the universal language: a source of social cohesion and cultural exchange without prejudice, tied to the work of the community — the farmers' music follows the agricultural stage (preparing the land, sowing, harvest), as it does for muleteers and herders; children's songs travel the world, and protest songs accompany groups in struggle (student book) | Book 20, printed pp. 6–7 |
+
+**Book 21:** *Educación Musical — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 1er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the series' own bibliography); no ISBN printed, Grade 7 (student/teacher: STUDENT), 48 PDF pp. Verdict: COMPLETE — excluded per the brief and named here only: "Refuerzo mis aprendizajes" (printed pp. 19–20), the review/values section. Songs are placed by title and theme only; no lyrics are reproduced, including the chovena and cueca texts the book prints. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — What music does for us — listening as a gratifying, brain-stimulating activity that moves mood and lowers stress, anxiety and exhaustion, used as non-pharmacological therapy in hospitals; and the sidebar's catalogue of music's functions: musics for producing, for harvesting, for falling in love, for forgetting, for suffering and for ceasing to suffer, of longing and of hope (student book) | Book 21, printed p. 7 |
+
+**Book 22:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Educación Musical, Subsistema de Educación Regular* (teacher compendium, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; official document 2023; no ISBN printed, filed under grade-07 in the library record; the book itself spans Secundaria 1–6 (student/teacher: TEACHER), 106 PDF pp. Verdict: COMPLETE, with the same method as the Art compendium: read in full, page by page, filing only teaching distinct from, or materially fuller than, the student books' placements. The anthem texts the compendium prints (Aymara and Guaraní versions included) are placed by title and purpose only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md. **Teacher compendium — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Song against the dictatorship — the social singer-songwriters under military dictatorship, and what their songs achieved: Savia Nueva's "Los mineros volveremos" makes you feel the miners' rage and desperation and see their situation without having been there — that, the chapter says, is the power of music, able to generate thoughts positive (growth, respect) or negative (depression, anguish) (teacher compendium — evidence) | Book 22, PDF pp. 45–46 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Colombia, Cuba, Angola, Bolivia).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
 
 The harmful-practices material is taught as the books place it — harmful practices named for their health effects, and art's role in changing them; no practice is described beyond the placements' own words. 'Art for Current Issues' in Grades 7–8 is taught from the student books' own chapter and pages (Grade 7 Ch. 5's theme is set by its placement; Grade 8's issues are read in its student book at pp. 134–135) — the truncated Grade 7–8 teacher guides' corresponding units are not used as evidence for this lesson, which rests on pupil-taught books only.
 

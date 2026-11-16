@@ -1,6 +1,6 @@
 # Sources — Modern Instruments
 
-countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola
+countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, Bolivia
 
 **Book 1:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 
@@ -28,7 +28,25 @@ countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola
 | Angola — G2 Tema 4.2 Instrumentos de sopro: wind instruments — saxophone and trumpet, with Angolan and world players pictured (Nanuto, Sanguito, Louis Armstrong) (student book; original target `music/modern-instruments`) | Book 8, printed pp. 38–39 |
 | Angola — G2 Tema 4.3 Instrumentos de cordas: string instruments as the book classes them — guitar and piano, with players pictured (student book; original target `music/modern-instruments`) | Book 8, printed p. 39 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Angola).** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 9:** *Educación Musical — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 2do Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the book's own bibliography entry); no ISBN printed, Grade 8 (student/teacher: STUDENT), 50 PDF pp. Verdict: COMPLETE — excluded per the brief and named here only: "Refuerzo mis aprendizajes" (printed pp. 19–20), a review/values-reflection section; the recurring Valoración/Producción question boxes are activities, not lessons. Songs are placed by title and theme only; no lyrics are reproduced. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — Military music and the military band — the musical forms of the republican era opened by the military band and its instruments, the bands that march in the civic parades (student book) | Book 9, printed p. 17 |
+
+**Book 10:** *Educación Musical — Educación Secundaria Comunitaria Productiva, Subsistema de Educación Regular, 3er Año de Escolaridad* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2023 (the book's own bibliography entry); no ISBN printed, Grade 9 (student/teacher: STUDENT), 52 PDF pp. Verdict: COMPLETE — excluded per the brief and named here only: "Refuerzo mis aprendizajes" (printed pp. 19–20), the review/values section. Songs are placed by title and theme only; no lyrics are reproduced. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — The instrumental ensemble — an ensemble is built of three families: melodic instruments (recorder, zampoña, violin, trumpet — one note at a time), harmonic instruments and rhythmic instruments; the parts are joined into one ensemble, with five counsels for learning an instrument (student book) | Book 10, printed pp. 43–44 |
+
+**Book 11:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Educación Musical, Subsistema de Educación Regular* (teacher compendium, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; official document 2023; no ISBN printed, filed under grade-07 in the library record; the book itself spans Secundaria 1–6 (student/teacher: TEACHER), 106 PDF pp. Verdict: COMPLETE, with the same method as the Art compendium: read in full, page by page, filing only teaching distinct from, or materially fuller than, the student books' placements. The anthem texts the compendium prints (Aymara and Guaraní versions included) are placed by title and purpose only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bolivia-placements.md. **Teacher compendium — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia — The Military School of Music and the Chaco marches — the Escuela Militar de Música, created 20 May 1889 under President Aniceto Arce, drawing musicians from every regiment for technical and artistic training; and in the Chaco War, with nationalist spirit ablaze, its masterworks: Talacocha, Despedida de Tarija, Terremoto de Sipe Sipe, Pabellón Tricolor — the military band itself built of brass, edge, reed and percussion families (teacher compendium — evidence) | Book 11, PDF p. 29 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Angola, Bolivia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
 
 Modern instruments are treated at the level the Grade 8 placements carry them — the book treats traditional and modern families exhaustively; the sound-role pairings follow the book's family order. No brand names or models are introduced.
 
