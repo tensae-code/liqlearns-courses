@@ -1,7 +1,7 @@
 # Sources — Shapes You Can Draw
 
 
-countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka
+countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka, Libya
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -63,7 +63,7 @@ countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Bel
 | Morocco — "The Girl Friends" (الصديقات) — observing a painting, counting its faces and shapes, then creating an artwork built from geometric shapes with overlapping and contrast (teacher guide — evidence; original target `visual-art/shapes-you-can-draw`) | Book 13, printed p. 44 |
 | Morocco — "Faces" (وجوه) — shaping with geometric shapes and sizes — regularity and irregularity, juxtaposition and contrast — colouring faces built from circles, half-circles and rectangles, then drawing a face from a model's stages or from imagination (teacher guide — evidence; original target `visual-art/shapes-you-can-draw`) | Book 13, printed p. 103 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus, Jordan, Sri Lanka).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus, Jordan, Sri Lanka).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 3 forms placement (printed pp. 30–31) also carries a paper-collage picture (Drawing 17, flowers made by cutting and pasting papers); collage-making belongs to the Making cluster of this course, so only the forms content of those pages is stocked here and the collage is not taught in this lesson. Grade 2's house placement spans printed pp. 36–38 and the car placement is on printed p. 38, exactly as placed.
 
@@ -103,3 +103,18 @@ Searchable tags: shapes, oval ዝርግ ቅርፅ open shape, regular shapes, ge
 |---|---|
 
 | Sri Lanka — Section 1.2.2 "Let's make a ball using regular pentagon shapes" — geometry you can sew — pentagons and hexagons constructed in circles, cut in cloth with seam allowances, and stitched edge to edge (A–G joins marked) into a ball, footballs and lanterns pictured (student book; original target `visual-art/making-a-ball-from-pentagon-shapes`) | Book 18, printed pp. 13–16 |
+
+**Book 19:** *دليل المعلم لمادة التربية الفنية — للصف الأول من مرحلة التعليم الأساسي (Teacher's Guide for Art Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Lesson 2: How lines relate to shape — lines join into the geometric shapes (square, triangle, rectangle, semicircle, circle), and each shape is linked to what it stands for in living nature (fruit, trees) and still nature (household tools, buildings) (teacher guide — evidence; original target `visual-art/shapes-you-can-draw`) | Book 19, printed p. 35 |
+| Libya — Lesson 5: The world of trains — building a train by repeating squares and rectangles as carriages, each carriage coloured a different colour, with the train also built practically from paper and boxes (teacher guide — evidence; original target `visual-art/shapes-you-can-draw`) | Book 19, printed p. 50 |
+
+**Book 20:** *دليل المعلم لمادة التربية الفنية — للسنة الأولى من التعليم الثانوي (Teacher's Guide for Art Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 97 (cover/title page verified against the record title). Verdict: COMPLETE — note: although titled the Year 1 guide, the volume carries the whole secondary course: syllabus maps for Years 1–3 (printed pp. 6–8), then each year's full sections and art plates, closing with teacher apparatus (the art plan, the art room, assessment elements — assessment named here, not placed, per the brief — and recommendations to the teacher). Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: although titled the Year 1 guide, the volume carries the whole secondary course (syllabus maps and sections for Years 1–3); its closing assessment apparatus is named in the placements, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Shape — when a line closes, a shape is born: the natural shape (a tree leaf, a seashell, a butterfly) against the geometric shape (square, rectangle, triangle, slanted forms) (teacher guide — evidence; original target `visual-art/shapes-you-can-draw`) | Book 20, printed p. 18 |

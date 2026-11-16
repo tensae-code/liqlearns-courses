@@ -1,6 +1,6 @@
 # Sources — Paints and How They Work
 
-countries: Ethiopia, Maldives, Andorra, Bhutan, Serbia, Pakistan, Suriname, Colombia, Sudan, Belarus, Papua New Guinea, Brazil, Morocco, Bulgaria
+countries: Ethiopia, Maldives, Andorra, Bhutan, Serbia, Pakistan, Suriname, Colombia, Sudan, Belarus, Papua New Guinea, Brazil, Morocco, Bulgaria, Libya
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -85,7 +85,7 @@ countries: Ethiopia, Maldives, Andorra, Bhutan, Serbia, Pakistan, Suriname, Colo
 | Morocco — "On Board the Boat" (على متن الزورق) — painting with transparent watercolours (Aquarelle) — recognising the watercolour forms sold in the market, the correct way to use them without waste, and keeping hands, clothes and tools clean while painting a boat scene (teacher guide — evidence; original target `visual-art/paints-and-how-they-work`) | Book 19, printed p. 149 |
 | Morocco — "Off to Our Tourist Cities!" (هيا إلى مدننا السياحية), watercolour — colouring with transparent watercolour (الصباغة المائية الشفافة — Aquarelle), practised by painting the Menara basin in Marrakech, alongside coloured pencils and coloured powder; the model painting is the Koutoubia minaret (teacher guide — evidence; original target `visual-art/paints-and-how-they-work`) | Book 20, printed p. 112 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Maldives, Bhutan, Serbia, Pakistan, Colombia, Sudan, Belarus, Brazil, Bulgaria). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Maldives, Bhutan, Serbia, Pakistan, Colombia, Sudan, Belarus, Brazil, Bulgaria). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 7 book counts eight paint kinds by treating oil, watercolour, acrylic, gouache, tempera, crayon, pastel and charcoal as its §2.1.2 series; the lesson follows that count and that order, as the placements give them. Grade 7's oil-paint thinners are named as the book names them (aqua rage, white gas, a little edible oil) — named as book content, not as a recommendation for children to handle solvents; the hands-on work uses water-based paint only.
 
@@ -96,3 +96,10 @@ Searchable tags: Maldives, Exploring Creative Arts 4, paints, oil paint, waterco
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Техники и технологии в живописта (Techniques and Technologies in Painting) — paints are pigments (natural or synthetic) mixed with binders (glue, emulsion, wax, oil), laid evenly (покривно) or thinned (разреждане) for nuance and blending; watercolour, diluted with water — "wet on wet" with soft transitions, or "prim… (student book) | Book 21, printed pp. 33–34 |
+
+**Book 22:** *دليل المعلم لمادة التربية الفنية — للسنة الأولى من التعليم الثانوي (Teacher's Guide for Art Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 97 (cover/title page verified against the record title). Verdict: COMPLETE — note: although titled the Year 1 guide, the volume carries the whole secondary course: syllabus maps for Years 1–3 (printed pp. 6–8), then each year's full sections and art plates, closing with teacher apparatus (the art plan, the art room, assessment elements — assessment named here, not placed, per the brief — and recommendations to the teacher). Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: although titled the Year 1 guide, the volume carries the whole secondary course (syllabus maps and sections for Years 1–3); its closing assessment apparatus is named in the placements, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Colour in practice — studying colour compositions and their degrees, colouring natural models from the pupil's own environment (flowers, tree branches, shells, fruits), with the tools named: expression pens, coloured pencils, pastel chalks and water colours, and colour shown through glass, mosaic and pierced screens (teacher guide — evidence; original target `visual-art/paints-and-how-they-work`) | Book 22, printed pp. 26–27 |

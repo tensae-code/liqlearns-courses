@@ -1,6 +1,6 @@
 # Sources — Looking at Pictures
 
-countries: Ethiopia, Honduras, Singapore, Finland, Morocco
+countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -34,8 +34,22 @@ countries: Ethiopia, Honduras, Singapore, Finland, Morocco
 |---|---|
 | Morocco — "Green Morocco" (المغرب الأخضر), the kinds of image — the four kinds of image — the artistic image (addresses feelings, draws us to beauty), the communicative image (informs and raises awareness), the documentary image (dates and witnesses an important event, like the 1956 photo of Mohammed V launching collective ploughing) and the advertising image (promotes a product to sell it, like argan oil) — and reading an image's dimensions and meaningful zones (teacher guide — evidence; original target `first-steps/looking-at-pictures`) | Book 8, printed p. 86 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Finland). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Finland). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 1 rests on the Grade 1 teacher guide's named visual-perception skill and is labelled teacher-guide evidence in the table; the lesson as a whole also rests on the student book's §1.5, so the acceptance count below counts the student book. The four family scenes are the student book's own §1.5 picture pages, described — not reproduced.
 
 Searchable tags: looking at pictures, reading a picture, picture message, identifying pictures, Finland
+
+**Book 9:** *دليل المعلم لمادة التربية الفنية — للسنة الأولى من التعليم الثانوي (Teacher's Guide for Art Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 97 (cover/title page verified against the record title). Verdict: COMPLETE — note: although titled the Year 1 guide, the volume carries the whole secondary course: syllabus maps for Years 1–3 (printed pp. 6–8), then each year's full sections and art plates, closing with teacher apparatus (the art plan, the art room, assessment elements — assessment named here, not placed, per the brief — and recommendations to the teacher). Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: although titled the Year 1 guide, the volume carries the whole secondary course (syllabus maps and sections for Years 1–3); its closing assessment apparatus is named in the placements, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The Year 1 art plates — full-page plates to read as pictures: Saharan rock paintings of camels, the ruins of Leptis Magna, a carved Medusa head, classical figure sculpture, and a white Libyan mosque (teacher guide — evidence; original target `first-steps/looking-at-pictures`) | Book 9, printed pp. 30–38 |
+
+**Book 10:** *كتاب المعلم لمادة التربية الفنية — للصف الثالث من مرحلة التعليم الأساسي (Teacher's Book for Art Education — Grade Three of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 112 (cover/title page verified against the record title). Verdict: COMPLETE — the front matter (definition of art education, the curriculum and plan, aims for the cycle and the grade) is the series' shared teacher apparatus, named here; the fourteen lessons are placed below. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: the front matter (definition of art education, curriculum and plan, aims) is the series' shared teacher apparatus, named in the placements. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Works by Libyan artists — the trees lesson studies paintings by Libyan artists (the Sidi al-Misri forest in Tripoli), then builds its own trees in pictured stages: sketching the elements, the outlines, the details, and three stages of colouring (teacher guide — evidence; original target `first-steps/looking-at-pictures`) | Book 10, printed pp. 79–85 |

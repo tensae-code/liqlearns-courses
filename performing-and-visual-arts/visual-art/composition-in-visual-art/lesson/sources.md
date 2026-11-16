@@ -1,6 +1,6 @@
 # Sources — Composition in Visual Art
 
-countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colombia, Sudan, Belarus, Iran, Sri Lanka
+countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colombia, Sudan, Belarus, Iran, Sri Lanka, Libya
 
 **Book 1:** *Performing and Visual Arts Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (first published 2022, GEQIP-E). Writers: Jinenus Wako (M.A), Tujuba Beyene (M.A). 90 PDF pages; printed pp. i–vi + 1–78. Printed page ≈ PDF page − 11 in the body. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
@@ -68,7 +68,7 @@ countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colo
 | Iran — Drawing L4, Composition: ترکیب‌بندی: arranging the parts of a drawing into a composed whole (student book) | Book 17, printed p. 16 |
 | Iran — Module 3, Analysing artworks: Space: فضا: analysing how space is used — the proportions elements take inside a defined space as visual composition in architecture and the visual arts, the two-dimensional arts (painting first) and the three-dimensional arts analysed in turn (student book) | Book 18, printed p. 52 |
 
-**Acceptance count: taught in 6 countries (Serbia, Mozambique, Colombia, Sudan, Belarus, Iran). Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Serbia, Mozambique, Colombia, Sudan, Belarus, Iran). Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 10 teacher's guide (federal Ministry of Education, 2022, GEQIP-E). Grade 10 has no student book in hand. The placements file summarises Lessons 7–9 by their three topics — the concept of composition, its importance/purposes, and composition-and-design in 2D and 3D; the lesson teaches at exactly that level and invents no composition rules, named principles or examples the placement does not give.
 
@@ -83,3 +83,25 @@ Searchable tags: composition, composition in 2D and 3D, design, arranging, teach
 |---|---|
 
 | Sri Lanka — Activity 2.2.1 "Let's compose a picture with natural and created objects" — building a composed picture from natural and man-made objects, arranged with balance and relationship rather than copied singly (further compositions listed: leaves-and-flowers and mixed-object sets) (teacher guide — evidence; original target `visual-art/composition-in-visual-art`) | Book 19, printed pp. 12–13 |
+
+**Book 20:** *دليل المعلم لمادة التربية الفنية — للصف الأول من مرحلة التعليم الأساسي (Teacher's Guide for Art Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Lesson 3: How lines and shapes relate in a composition — joining shapes to build a pictured thing: a mosque drawn step by step from a square, big and small rectangles, semicircles, a crescent (curved line) and a star (broken line); the same joining builds a house, boat or car, coloured inside the shape boundaries (teacher guide — evidence; original target `visual-art/composition-in-visual-art`) | Book 20, printed p. 38 |
+
+**Book 21:** *كتاب المعلم لمادة التربية الفنية — للصف الثالث من مرحلة التعليم الأساسي (Teacher's Book for Art Education — Grade Three of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 112 (cover/title page verified against the record title). Verdict: COMPLETE — the front matter (definition of art education, the curriculum and plan, aims for the cycle and the grade) is the series' shared teacher apparatus, named here; the fourteen lessons are placed below. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: the front matter (definition of art education, curriculum and plan, aims) is the series' shared teacher apparatus, named in the placements. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — My Beautiful Aeroplane — composing a picture of aeroplanes crossing the sky: distributing the elements with balance inside the panel, using line against shape and the feeling of mass, and building beautiful colour relations between the elements (teacher guide — evidence; original target `visual-art/composition-in-visual-art`) | Book 21, printed pp. 33–37 |
+| Libya — The Little Engineer: the village — composing a panel of a Libyan village: a group of houses, each house a complete unit of its own, differing in shape and colour — against the city's repeated facades, the village gives different rhythms of shape and colour, and the pupil colours freely, even at random, to learn boldness in colour (teacher guide — evidence; original target `visual-art/composition-in-visual-art`) | Book 21, printed pp. 86–88 |
+
+**Book 22:** *كتاب المعلم لمادة التربية الفنية — للصف الثاني من مرحلة التعليم الأساسي (Teacher's Book for Art Education — Grade Two of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 2 (student/teacher: TEACHER — see mismatch note). PDF pages: 119 (cover/title page checked by eye and by the text layer). Verdict: COMPLETE with a record mismatch — the assignment record names this file the Grade 2 art STUDENT book, but the secured file is the Grade 2 TEACHER's book of the same ministry series (its title page, its "To the teacher" opening and its "How to use the teacher's book" chapter all say so). The book was read in full and is filed as what it is; the placements below carry the teacher book's name. Library debt: the Grade 2 pupil book itself is not in hand — the record points at the teacher book instead. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. RECORD MISMATCH carried exactly as filed: the assignment record names this file the Grade 2 art STUDENT book, but the secured file is the Grade 2 TEACHER's book of the same ministry series (its title page, 'To the teacher' opening and 'How to use the teacher's book' chapter all say so); it is carried here as the teacher book it is. Library debt: the Grade 2 pupil book itself is not in hand. **Teacher book — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — My Flowers, stage two — three flowers of different shape and colour distributed inside one panel: building a composition from more than one element, with arrangement and rhythm of shape and colour (teacher guide — evidence; original target `visual-art/composition-in-visual-art`) | Book 22, printed pp. 39–43 |

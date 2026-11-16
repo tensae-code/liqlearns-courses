@@ -1,6 +1,6 @@
 # Sources — Anthems and Songs That Teach
 
-countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji, Belarus, Brazil, Morocco, Jordan
+countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji, Belarus, Brazil, Morocco, Jordan, Libya
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -71,7 +71,7 @@ countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji
 |---|---|
 | Morocco — "I Love Sport" (أحب الرياضة) — a song (words Salim Abdelkader, music Nadhir Wali Eddine, SANA TV) about loving sport and the playground, never tiring of play, never angered by losing; sport gives activity to mind and body, strength and understanding — sport is growth and medicine, and joy in life (summary only) (teacher guide — evidence; original target `music/songs-about-sport`) | Book 16, printed p. 80 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Honduras, Belarus, Brazil, Jordan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher module plan — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Honduras, Belarus, Brazil, Jordan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher module plan — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Both anthems are printed in full in the Grade 4 book; following the placements, they are placed here by name, role and teaching point only — no anthem or song text is transcribed anywhere in this lesson. The professionals song's credits are the book's own printed credits (melody Alemayehu W/Yohannes, poem Asefa Bekele). The Grade 6 appearance of the professionals song is the same song met again at the next level, as its placement extends it — it is one song, counted once.
 
@@ -89,3 +89,33 @@ Searchable tags: anthem, regional anthem, national anthem, የታታሪ ህዝ�
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 2 Lesson 6 "The Jordanian Flag Anthem" — the flag in any state is its official emblem and the national symbol representing it, and every colour and shape in it carries a meaning — in Jordan's flag: the black, the white, the green, the red and the seven-pointed star; flags have been used since ancient times to distinguish countries, and some countries have a special anthem for the flag, as in Jordan, whose flag anthem sings the state's values and principles and stirs enthusiasm and pride in the homeland; the anthem's poet, Abdul Munim Al-Rifai, is named and pictured, and the anthem is read, explained and sung with the recordings (summary only — no words transcribed) (student book; original target `music/jordanian-flag-anthem`) | Book 18, printed p. 46 |
+
+**Book 19:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الأول بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 40 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The national anthem — Libya's national anthem, printed in full with its written notation, as the first song of the songs part (teacher guide — evidence; original target `music/anthems-and-songs-that-teach`) | Book 19, printed pp. 29–30 |
+
+**Book 20:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الثاني بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 2 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 2 (student/teacher: TEACHER). PDF pages: 44 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The national anthem — Libya's national anthem with its notation, opening the songs part as in Grade 1 (teacher guide — evidence; original target `music/anthems-and-songs-that-teach`) | Book 20, printed pp. 31–32 |
+| Libya — The Greeting Song (نشيد التحية) — a manners song: when you meet a group, greet them with "peace be upon you" on arriving (teacher guide — evidence; original target `music/anthems-and-songs-that-teach`) | Book 20, printed p. 33 |
+
+**Book 21:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الثالث بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 3 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 49 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The national anthem — Libya's national anthem with notation, opening the songs part (teacher guide — evidence; original target `music/anthems-and-songs-that-teach`) | Book 21, printed pp. 33–34 |
+| Libya — A Thousand Greetings (نشيد ألف تحية لشرطي المرور) — a song for a professional: a thousand greetings with flowers to the traffic policeman, who stands in rain and heat for our sake, his three signals keeping every danger away (teacher guide — evidence; original target `music/anthems-and-songs-that-teach`) | Book 21, printed pp. 45–46 |
+
+**Book 22:** *دليل المعلم لمادة التربية الموسيقية — للسنة الأولى بمرحلة التعليم الثانوي (Teacher's Guide for Music Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 65 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The national anthem — what a national anthem is: a composed musical piece with its own anthem character, counted among the Arab musical forms used in school life; the teacher chooses a Libyan national song, listens to it with the pupils, and analyses its words, melody and rhythm (teacher guide — evidence; original target `music/anthems-and-songs-that-teach`) | Book 22, printed p. 35 |

@@ -2022,7 +2022,59 @@ lessons are the books'.
   island's drums, Beeralu lace, batik dyeing and the
   village crafts of the Art and Craft books.
 
-**The whole course stands at 568 lessons, 7,218 questions and
+**Art expansion — Libya (2026-11-16):** 193 placements
+  stocked from 15 books: *Art Education G1 teacher
+  guide* (2018–2019), *Music Education G1, G2 and G3
+  teacher guides* (2018–2019), *Arabic Calligraphy
+  workbooks G3–G9* (2019–2020, student workbooks),
+  *Art Education G10 teacher guide* (2019–2020 — the
+  volume carries the whole secondary course, Years
+  1–3), *Music Education G10 teacher guide*
+  (2019–2020), *Art Education G3 teacher guide*
+  (2018–2019), and *Art Education G2 teacher book*
+  (2018–2019 — see the honesty note below), all from
+  the Ministry of Education — Center for Educational
+  Curricula and Educational Research. The eight
+  teacher guides/books are EVIDENCE only, kept
+  outside every stocked lesson's acceptance count;
+  the seven student calligraphy workbooks count
+  (all into Beautiful Writing). 170 placements into
+  existing lessons, 15 into already-built canonical
+  lessons (Islamic Art ×4; History of Art ×2;
+  Caricature; Digital and Computer Art; Listening
+  to Music ×2; Sacred and Religious Songs ×5), and
+  8 into 4 NEW lessons (Visual Art: Masks. Music:
+  Daf and Bendir: Frame Drums ×2; Arabic Maqam and
+  Music Forms ×2; Arab Instruments: Oud and Qanun
+  ×3), 48 questions added, media as described slots
+  only. Registry resolutions carried: the reader
+  strings are resolved in slug-registry Part 2
+  throughout — among them making-masks → Masks;
+  daf-frame-drum → Daf and Bendir: Frame Drums;
+  devotional-songs-for-children → Sacred and
+  Religious Songs; listening-games → Listening to
+  Music; history-of-world-art → History of Art;
+  arab-maqamat → Arabic Maqam and Music Forms;
+  arab-instruments → Arab Instruments: Oud and
+  Qanun; characters-and-caricature → Caricature;
+  digital-drawing → Digital and Computer Art.
+  Honesty carried exactly as filed: Book 15's record
+  says "G2 Art student book" but the secured file is
+  actually the TEACHER book — it is carried as the
+  teacher book it is (evidence rules apply) and the
+  Grade 2 pupil book is not in hand; the G10 Art
+  guide's closing assessment apparatus is named in
+  the placements, not placed; all songs are placed
+  by summary only, never transcribed. Libya's own
+  way is kept as named parts: the daf and bendir
+  frame drums, the maqamat ʿAjam and Rast with their
+  quarter-tone signs, the oud, qanun and nay, the
+  Naskh/Ruqʿa/Thuluth calligraphy workbook series,
+  Saharan rock painting, Greek and Roman Libya, and
+  the Islamic art of Ghadames, Tripoli and the
+  zawiyas.
+
+**The whole course stands at 572 lessons, 7,266 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

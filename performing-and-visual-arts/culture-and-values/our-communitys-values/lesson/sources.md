@@ -1,6 +1,6 @@
 # Sources — Our Community's Values
 
-countries: Ethiopia, Guatemala, Nicaragua, Fiji
+countries: Ethiopia, Guatemala, Nicaragua, Fiji, Libya
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
@@ -26,8 +26,15 @@ countries: Ethiopia, Guatemala, Nicaragua, Fiji
 | Fiji — Sub-Strand 4 A Performance of Moral Values — what a moral value is (principles for choosing right from wrong; friendship, loyalty, generosity, forgiveness, kindness, consideration, love, honesty build harmony in the community), and creating a group performance that expresses one chosen value — by arranging a song, choreographing a dance, or building a drama plot with musical components — planned on a performance-plan sheet and performed to others (student book) | Book 5, printed pp. 24–26 |
 | Fiji — Sub-Strand 4 Research and Perform for a Peaceful World — investigating performing-arts works whose theme is peace, in Fiji and around the world (named examples placed by title and purpose only, as filed), researching one, analysing how it communicates peace, sharing the findings, and choosing, practising and performing one work that promotes peaceful coexistence (student book) | Book 6, printed pp. 25–27 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Fiji). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 2 countries (Ethiopia, Fiji). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The values list is Grade 2's own (§3.1–3.1.1, printed p. 48), including shimglina glossed as the book's placements gloss it (elder mediation/reconciliation). The Adwa story stands inside Grade 2's values chapter (its introduction, printed p. 47); the full Adwa telling belongs to the drama-and-dance lessons and is not duplicated here beyond that chapter fact. Exemplarity is Grade 3's own definition (§2.1.4, printed p. 25).
 
 Searchable tags: cultural values, our community's values, shimglina, mesob, receiving guests, exemplarity, being an example, Nicaragua
+
+**Book 7:** *كتاب المعلم لمادة التربية الفنية — للصف الثالث من مرحلة التعليم الأساسي (Teacher's Book for Art Education — Grade Three of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 112 (cover/title page verified against the record title). Verdict: COMPLETE — the front matter (definition of art education, the curriculum and plan, aims for the cycle and the grade) is the series' shared teacher apparatus, named here; the fourteen lessons are placed below. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: the front matter (definition of art education, curriculum and plan, aims) is the series' shared teacher apparatus, named in the placements. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The gift itself — the necklace is made as a present for the pupil's mother: the guide dwells on the mother's place in the child's heart and how giving her a thing made by his own hands builds his trust in himself, his family and his community (teacher guide — evidence; original target `culture-and-values/our-communitys-values`) | Book 7, printed pp. 101–102 |

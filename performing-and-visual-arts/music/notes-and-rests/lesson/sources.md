@@ -1,6 +1,6 @@
 # Sources — Notes and Rests
 
-countries: Ethiopia, Barbados, Albania, Trinidad and Tobago, Haiti, Malta, Turkmenistan, Belarus, Papua New Guinea, Brazil, Morocco, Bulgaria
+countries: Ethiopia, Barbados, Albania, Trinidad and Tobago, Haiti, Malta, Turkmenistan, Belarus, Papua New Guinea, Brazil, Morocco, Bulgaria, Libya
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -94,7 +94,7 @@ countries: Ethiopia, Barbados, Albania, Trinidad and Tobago, Haiti, Malta, Turkm
 | Morocco — "I Learn the Quarter Note and the Quarter Rest" (أتعرف السوداء والزفرة) — the quarter note (la noire) as a sound sign worth one beat and the quarter rest (le soupir) as a silence sign worth one beat; the musical pulse likened to a heartbeat and a clock; music read left to right (teacher guide — evidence; original target `music/notes-and-rests`) | Book 20, printed p. 50 |
 | Morocco — "I Learn the Half Note and the Half Rest" (أتعرف البيضاء ونصف البرهة) — the half note (la blanche) as a sound sign worth two beats and the half rest (la demi-pause) as a silence sign worth two beats — every sound sign has a matching silence sign of equal length (teacher guide — evidence; original target `music/notes-and-rests`) | Book 20, printed p. 89 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Belarus, Brazil, Bulgaria). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Belarus, Brazil, Bulgaria). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Notation diagrams in this lesson's pictures are drawn exactly as the placements describe the signs: whole note an open oval with no stem (4 beats), half note the open oval with a stem on its right side (2 beats), quarter note a filled head with stem (1 beat); whole rest a filled block hanging from a line (4 silent beats), half rest a filled block sitting on a line (2 silent beats), quarter rest its printed squiggle (1 silent beat). The Grade 3 book's whole-note diagram shows a dark oval head above its beat line while the Grade 2 book and the value tables teach the open oval; the lesson teaches the open oval, the form the definitions and the Grade 4 table agree on, and the Grade 3 wording is carried as the egg-shape and four-beat teaching. The Note-Values Song is placed by name and teaching content only; its words are not transcribed. No staff notation is taught in this lesson: the books' signs are learned as signs with values first, exactly as Grades 2–4 teach them.
 
@@ -115,3 +115,18 @@ Searchable tags: notes and rests, whole note, ሙሉ ኖታ, half note, ግማ�
 | Bulgaria — Topic 12: Кратки и дълги тонови трайности (short and long note values) (student book) | Book 22, printed p. 18 |
 | Bulgaria — Topic 26: Тонови трайности (note values) (student book) | Book 23, printed p. 38 |
 | Bulgaria — Topics 6–9: note values and rests in full — whole and half notes (p. 10), whole and half rests (p. 11), quarter and eighth notes (p. 12), quarter and eighth rests (p. 13) (student book) | Book 24, printed pp. 10–13 |
+
+**Book 25:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الثالث بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 3 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 49 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Game 3: Telling long sounds from short sounds — a "Do" is played held for four beats while the first group bounces a small ball on the ground for exactly the sound's length and the second group catches it; short sounds are answered with short bounces (teacher guide — evidence; original target `music/notes-and-rests`) | Book 25, printed p. 15 |
+
+**Book 26:** *دليل المعلم لمادة التربية الموسيقية — للسنة الأولى بمرحلة التعليم الثانوي (Teacher's Guide for Music Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 65 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The note shapes — the family of note values drawn as a tree: the whole note (4 beats), half (2), quarter (1), eighth, sixteenth, thirty-second and sixty-fourth, each halving the one before, with the beaming rules for the tailed notes (teacher guide — evidence; original target `music/notes-and-rests`) | Book 26, printed pp. 11–12 |
+| Libya — The rests — a table matching every note to its rest: the whole rest of 4 beats down to the sixty-fourth rest, silence measured exactly like sound (teacher guide — evidence; original target `music/notes-and-rests`) | Book 26, printed p. 13 |

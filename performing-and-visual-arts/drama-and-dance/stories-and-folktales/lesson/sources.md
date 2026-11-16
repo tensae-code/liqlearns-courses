@@ -1,6 +1,6 @@
 # Sources — Stories and Folktales
 
-countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil, Morocco
+countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil, Morocco, Libya
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -46,8 +46,15 @@ countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Surin
 | Morocco — "Juha and the Cooking Pot" (جحا والطنجرة) — the classic Juha tale acted as a two-person comic dialogue — Juha borrows his neighbour's pot, returns it with a small pot ("your pot gave birth"), borrows it again and tearfully announces the pot has died (plot only) (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 10, printed p. 98 |
 | Morocco — "Once Upon a Time" (كان يا ما كان) — a sung story-play in call-and-response — a Singer tells how he answered a man's insult with an insult "like fire", and the Chorus corrects him: answering insult with insult is wrong; performed the following week in groups with singing, dance and rhythm, the audience keeping time (plot only) (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 10, printed p. 137 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Finland, Fiji, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Finland, Fiji, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 All three stories are taught as PLOT SUMMARY ONLY, exactly as the placements give them — no sentence of the books' text is reproduced. The Grade 1 and Grade 2 teacher guides' tales-and-riddles placements (g01-teacher p. 47 §3.3; g02-teacher pp. 46–48 §3.3) name tales and riddles as theatre's roots; that framing is carried in this lesson's plan level line and in the Riddles lesson, labelled there as teacher-guide evidence, and does not change this lesson's pupil-book count.
 
 Searchable tags: stories and folktales, telling stories aloud, የነሰላም ፎቶ, Selam's Photograph, ታዛዧ ዉሻ, The Obedient Dog, የተዋበ መንደር, The Beautiful Village, seedling planting, Grade 1, Finland, Brazil
+
+**Book 11:** *كتاب المعلم لمادة التربية الفنية — للصف الثالث من مرحلة التعليم الأساسي (Teacher's Book for Art Education — Grade Three of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 112 (cover/title page verified against the record title). Verdict: COMPLETE — the front matter (definition of art education, the curriculum and plan, aims for the cycle and the grade) is the series' shared teacher apparatus, named here; the fourteen lessons are placed below. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: the front matter (definition of art education, curriculum and plan, aims) is the series' shared teacher apparatus, named in the placements. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Cartoon panels into a story — the cartoon lesson's storytelling step: building a dramatic shape or story from the characters in small panels, then gathering the panels into one tale (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 11, printed p. 92 |

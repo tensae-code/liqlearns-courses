@@ -1,6 +1,6 @@
 # Sources — Art That Teaches the Community
 
-countries: Ethiopia, Egypt, Fiji, Papua New Guinea, Morocco
+countries: Ethiopia, Egypt, Fiji, Papua New Guinea, Morocco, Libya
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -37,8 +37,15 @@ countries: Ethiopia, Egypt, Fiji, Papua New Guinea, Morocco
 |---|---|
 | Morocco — "A Friend Told Me" (قال لي صديق) — a road-safety song — a friend asks how you walk in the street; the singer walks on the far right, keeps order, uses the pedestrian crossing, watches at all times and follows the traffic guide (summary only) (teacher guide — evidence; original target `music/art-that-teaches-the-community`) | Book 6, printed p. 96 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Egypt).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Egypt).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 HIV/AIDS and doping are taught exactly in the pupil book's own framing and wording, as a warning teaching. Both songs are placed by name, teaching/purpose and (for the Grade 6 reprint) printed credit line only; no lyrics are transcribed.
 
 Searchable tags: art that teaches the community, traffic safety, The Careful Student, ጠንቃቃ ተማሪ, Solomon Gela, Ezra Abate, HIV AIDS prevention, So AIDS Does Not Catch Us, doping stimulant drugs, Egypt, saving water, theatre sketch, Papua New Guinea
+
+**Book 7:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الثاني بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 2 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 2 (student/teacher: TEACHER). PDF pages: 44 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Game 4: Traffic Signals (إشارات المرور) — a story-song: Salem hurries across on the red light and the traffic policeman teaches him that red means wait and prepare, yellow means get ready, and green means cross quickly and safely; its teaching aims are respect for traffic signals and love of order, and its musical aim is perceiving the eighth-note sign (teacher guide — evidence; original target `music/art-that-teaches-the-community`) | Book 7, printed pp. 16–17 |

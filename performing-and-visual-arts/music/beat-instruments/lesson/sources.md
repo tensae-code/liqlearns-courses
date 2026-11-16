@@ -1,6 +1,6 @@
 # Sources — Beat Instruments
 
-countries: Ethiopia, Malta, Colombia, Bulgaria
+countries: Ethiopia, Malta, Colombia, Bulgaria, Libya
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -23,7 +23,7 @@ countries: Ethiopia, Malta, Colombia, Bulgaria
 
 | Colombia — Project 2, Subproject 1, Momento 2 "La fuerza y el poder de la percusión y de los idiófonos": percussion and idiophones — the hand-struck drums: bongos, congas, cununos, the tambora of merengue and the caja vallenata (student book; original target `music/beat-instruments`) | Book 4, printed pp. 110–119 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Colombia, Bulgaria).** Malta is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Colombia, Bulgaria).** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 3 closing exercise asks whether the atamo is one of the church beat instruments; the book's own §2.1.2 teaching places the atamo in secular music, and the lesson teaches that — the exercise item is carried in sources only, exactly as printed, and is not taught as church use. The bell, qachil and tsenatsil are named in this lesson's set because the book lists them in it; their teaching lives in the Church Instruments lesson, from the same page.
 
@@ -34,3 +34,27 @@ Searchable tags: beat instruments, percussion, atamo, አታሞ, kebero, ከበ�
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Topic 30: Ударни инструменти (percussion instruments) (student book) | Book 5, printed p. 37 |
+
+**Book 6:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الأول بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 40 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The children's rhythm band (الباند) — rhythm is the element taught first at this stage; the band's instruments are of two kinds, indefinite-pitch beat instruments and definite-pitch instruments like the xylophone, and the band teaches group work and the sense of hearing through playing good pieces together (teacher guide — evidence; original target `music/beat-instruments`) | Book 6, printed pp. 9, 17–19 |
+| Libya — The rhythm band instruments one by one — drums (wooden frame with skin stretched on both sides, set on a stand and struck with sticks), castanets/clappers (string type and handled type, struck against the left palm), the triangle (its three parts: the resonant metal bar open at one corner, the metal beater, and the holder, and how it is held and struck), jingles (a wooden handle carrying metal discs), cymbals (two hollowed metal discs played by rubbing together or tapping one with a stick), and the xylophone (a wooden box with resonant bars, each bar one scale degree, struck with two small mallets) (teacher guide — evidence; original target `music/beat-instruments`) | Book 6, printed pp. 23–26 |
+
+**Book 7:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الثالث بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 3 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 49 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The percussion family pictured — a labelled picture of the world's percussion: drum kit, congas, glockenspiel, kettledrum, xylophone, steel drum, maracas, castanets, triangle and tambourine, opening the band part (teacher guide — evidence; original target `music/beat-instruments`) | Book 7, printed p. 23 |
+
+**Book 8:** *دليل المعلم لمادة التربية الموسيقية — للسنة الأولى بمرحلة التعليم الثانوي (Teacher's Guide for Music Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 65 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The tabla — the tabla (darbuka): the goblet drum of the Arab ensemble, pictured and named among the percussion instruments (teacher guide — evidence; original target `music/beat-instruments`) | Book 8, printed p. 59 |
+| Libya — The riq — the riq: the small tambourine of the eastern takht, its frame set with cymbals, shown from the front and the back (teacher guide — evidence; original target `music/beat-instruments`) | Book 8, printed p. 60 |
+| Libya — Bongos, triangle and jingles — the bongos (two small joined drums played with the fingers), the triangle (a bent metal rod struck with a metal stick), and the jingles (hollow metal balls with pellets inside, mounted on a handle and shaken) (teacher guide — evidence; original target `music/beat-instruments`) | Book 8, printed pp. 61–62 |

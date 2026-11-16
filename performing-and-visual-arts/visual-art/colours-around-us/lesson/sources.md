@@ -1,7 +1,7 @@
 # Sources — Colours Around Us
 
 
-countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil
+countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -38,8 +38,22 @@ countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil
 
 | Brazil — Folha 7 — colours in rooms: dark tones weigh and shrink a space, light tones open it (student book; original target `visual-art/colours-around-us`) | Book 9, printed p. 120 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 5 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 6 rests on teacher-guide evidence only for its own content; it is labelled as evidence in the part name, in the lesson text and in this table. The Grade 2 teacher guide is a scan with no usable text layer, read visually; its citation here is at section level only, as its placements require. The lesson as a whole stands on the Grade 1 and Grade 3 student textbooks, so the acceptance count counts pupil-taught content. The Grade 1 Chapter 3 summary's line — colours distinguish our clothes and beautify the surroundings (plants green, flowers red and yellow) — is carried in Colours on Clothes and in the question stock of this lesson, under the folding rules.
 
 Searchable tags: colours around us, yellow adey bananas, red roses sunrise sacrifice berbere, yellow turmeric እርድ hope happiness, blue ሰማያዊ sky water calm, Ethiopian flag colours, Ethiopia Grade 1 Grade 3 colours, Colombia, Brazil
+
+**Book 10:** *دليل المعلم لمادة التربية الفنية — للصف الأول من مرحلة التعليم الأساسي (Teacher's Guide for Art Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Lesson 4: Getting to know colours and their names — colours named from nature: blue like the sea, red like tomato and strawberry, yellow like banana and pear, orange like the orange, violet like grapes and roses, green like pepper, leaves and cucumber; drawing and colouring simple nature models (teacher guide — evidence; original target `visual-art/colours-around-us`) | Book 10, printed p. 45 |
+
+**Book 11:** *كتاب المعلم لمادة التربية الفنية — للصف الثالث من مرحلة التعليم الأساسي (Teacher's Book for Art Education — Grade Three of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 112 (cover/title page verified against the record title). Verdict: COMPLETE — the front matter (definition of art education, the curriculum and plan, aims for the cycle and the grade) is the series' shared teacher apparatus, named here; the fourteen lessons are placed below. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: the front matter (definition of art education, curriculum and plan, aims) is the series' shared teacher apparatus, named in the placements. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Colour names taken from nature — the workshop teaches colours by their natural names: crop-green (like the crops), coffee-brown, sky-blue, gold, silver and bronze — colours known by the things of nature they resemble (teacher guide — evidence; original target `visual-art/colours-around-us`) | Book 11, printed p. 66 |

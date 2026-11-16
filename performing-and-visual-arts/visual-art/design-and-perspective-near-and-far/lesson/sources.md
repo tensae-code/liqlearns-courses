@@ -1,6 +1,6 @@
 # Sources — Design and Perspective: Near and Far
 
-countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Papua New Guinea, Brazil, Jordan
+countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Papua New Guinea, Brazil, Jordan, Libya
 
 **Book 1:** *Grade 6 Performing and Visual Arts Teacher Guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Writers: Tibebu Woldeyohannes, Yirga Qumelachew, Yohannes Sebsebie. 96 PDF pages; printed front matter I–VI + body and syllabus to printed p. 119. Read in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
@@ -80,7 +80,7 @@ countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pa
 
 | Brazil — Folha 4 — perspective and symmetry compared across the Last Suppers of Leonardo, Dalí, Giotto and Rego Monteiro; making a symmetrical composition around a table (student book; original target `visual-art/design-and-perspective-near-and-far`) | Book 19, printed p. 72 |
 
-**Acceptance count: taught in 11 countries (Maldives, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Brazil, Jordan).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 11 countries (Maldives, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Brazil, Jordan).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 6 teacher's guide (Addis Ababa City Administration Education Bureau, © 2014 E.C.). The placements file summarises the guide's §2.4 design section by its topic, its Amharic terms and its picture slot (a road narrowing to a vanishing point, nearer trees darker and larger); the lesson teaches at exactly that level and adds no perspective rules, constructions or terms the placement does not give.
 
@@ -104,3 +104,10 @@ Searchable tags: Maldives, Exploring Creative Arts 4, perspective, የርቀት�
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 1 Lesson 3 "Size and Dimension" — the artist uses size to express dimension (distance) in the picture — near things in a picture appear larger in size than far things; why an orange tree looks bigger than the mountains behind it, why the stars look smaller than the moon, and colouring the animals near to me blue and the far ones yellow on the pictured perspective ladder (student book; original target `visual-art/design-and-perspective-near-and-far`) | Book 22, printed p. 14 |
+
+**Book 23:** *دليل المعلم لمادة التربية الفنية — للسنة الأولى من التعليم الثانوي (Teacher's Guide for Art Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 97 (cover/title page verified against the record title). Verdict: COMPLETE — note: although titled the Year 1 guide, the volume carries the whole secondary course: syllabus maps for Years 1–3 (printed pp. 6–8), then each year's full sections and art plates, closing with teacher apparatus (the art plan, the art room, assessment elements — assessment named here, not placed, per the brief — and recommendations to the teacher). Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: although titled the Year 1 guide, the volume carries the whole secondary course (syllabus maps and sections for Years 1–3); its closing assessment apparatus is named in the placements, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The rules of perspective (Year 3) — perspective drawing's rules summed: parallel lines meet at a vanishing point on the horizon line; vertical lines stay vertical; surfaces shrink as they leave the eye; the ways of drawing it — photographic perspective, and geometric perspective at 45° and at 30° — with applications: a set of home tools, a street, and a classroom or shop interior drawn by the rules (teacher guide — evidence; original target `visual-art/design-and-perspective-near-and-far`) | Book 23, printed pp. 68–69 |

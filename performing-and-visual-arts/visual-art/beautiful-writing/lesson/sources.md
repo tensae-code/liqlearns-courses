@@ -1,6 +1,6 @@
 # Sources — Beautiful Writing
 
-countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria
+countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Libya
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -113,7 +113,7 @@ countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus,
 |---|---|
 | Morocco — "The Art of Calligraphy" (فن الخط) — calligraphy defined as the art of beautiful writing in the world's languages; Arabic writing is joined and takes geometric shapes, which gives it its special beauty; pupils write the motto "God, Homeland, King" and colour the Basmala (teacher guide — evidence; original target `visual-art/beautiful-writing`) | Book 22, printed p. 48 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria, Libya). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added on its Grades 3–9 student calligraphy workbooks — counted in the acceptance count; the Libya Grade 1 teacher guide part is evidence only, kept outside it.
 
 Honesty notes: the Grade 5 calligraphy plates placement (single/double/shaded examples in Amharic and English, with a two-tied-pencils GIF need) is stocked inside Sub lesson 5's practice set, where the Grade 6 book turns the same two-tools method into practice; no separate plate part is claimed. Line-kind Amharic names and spellings (ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, ነጠላ, ድርብ) are copied exactly from the Grade 3 placements.
 
@@ -128,3 +128,78 @@ Searchable tags: calligraphy, ኪነ-ፅህፈት, beautiful writing, letter for
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Шрифт (Typeface) — the typeface defined: a set of graphic drawings of letter outlines and signs in one stylistic and compositional system; the first writing was pictography — information as pictures on rock, cave walls, bone and skin; cuneiform of Sumer and t… (student book) | Book 23, printed pp. 19–22 |
+
+**Book 24:** *دليل المعلم لمادة التربية الفنية — للصف الأول من مرحلة التعليم الأساسي (Teacher's Guide for Art Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Lesson 6: Composing ornament from letters — making a decorative composition (زخرفة) out of Arabic letters, feeling the letters' shapes and their beauty (teacher guide — evidence; original target `visual-art/beautiful-writing`) | Book 24, printed p. 55 |
+| Libya — Lesson 7: An art panel — formations from Arabic calligraphy — pupils draw Arabic letter formations that fill a whole shape or area (letters interlaced inside a circle or square, a letter repeated to build the pattern), studying pictured calligraphic artworks; letters can also be worked sunken and raised (relief) (teacher guide — evidence; original target `visual-art/beautiful-writing`) | Book 24, printed p. 59 |
+| Libya — Workshop 3: Letters, numerals and numbers — drawing, colouring and printing letters, numerals and numbers into one beautiful decorative composition, as a mural or art panel, using pens, marker colours, wax, charcoal, spray and collage (teacher guide — evidence; original target `visual-art/beautiful-writing`) | Book 24, printed p. 62 |
+
+**Book 25:** *كراسة الخط العربي — لتحسين خط النسخ — للصف الثالث من مرحلة التعليم الأساسي (Arabic Calligraphy Workbook — to improve Naskh handwriting — Grade 3 of Basic Education)* (workbook, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: STUDENT). PDF pages: 48 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — General instructions: how calligraphy is taught — of the Arabic scripts (Naskh and Ruqʿa) this workbook trains Naskh; the pupil sits correctly, the teacher writes the model on the board, reads it with the class and explains it, each pupil writes balancing his line against the model, the best handwriting is displayed to encourage the rest, and the school forms an Arabic calligraphy group (student book; original target `visual-art/beautiful-writing`) | Book 25, printed p. 5 |
+| Libya — Letters above and below the line — Naskh letters sorted by the line: the letters written on/above the line, and the letters part of which descends below the line, shown in one table before practice begins (student book; original target `visual-art/beautiful-writing`) | Book 25, printed p. 7 |
+| Libya — The single letters — every letter of the alphabet in Naskh model form (plus the lām-alif ligature), one ruled page per letter group, copied line by line (student book; original target `visual-art/beautiful-writing`) | Book 25, printed pp. 9–14 |
+| Libya — Words built on each letter — for every letter, model words with that letter picked out in red at its start, middle or end, copied on ruled lines (e.g. for jīm: جواد، فجر، منتج، زجاج) (student book; original target `visual-art/beautiful-writing`) | Book 25, printed pp. 15–47 |
+| Libya — Sentence models — whole sentences written as calligraphy models to copy: "The camel is the ship of the desert", "The pupils are in the school", "The Qur'an is the Muslim's way of life", closing with "Democracy is the demand of the peoples" (student book; original target `visual-art/beautiful-writing`) | Book 25, printed pp. 22, 33, 40, 48 |
+
+**Book 26:** *كراسة الخط العربي — لتحسين خط الرقعة — للصف الرابع من مرحلة التعليم الأساسي (Arabic Calligraphy Workbook — to improve Ruqʿa handwriting — Grade 4 of Basic Education)* (workbook, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 4 (student/teacher: STUDENT). PDF pages: 46 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — General instructions: a second script — the instructions name the Arabic scripts and assign this workbook to Ruqʿa; the teaching method is the series method: correct sitting, the teacher's model on the board read and explained, pupils copying against the model, the best handwriting displayed, and a school calligraphy group formed (student book; original target `visual-art/beautiful-writing`) | Book 26, printed p. 5 |
+| Libya — Ruqʿa letters and the line — the Ruqʿa letters written above the line listed and modelled, then the few Ruqʿa letters part of which descends below the line (student book; original target `visual-art/beautiful-writing`) | Book 26, printed pp. 6–7 |
+| Libya — The single letters in Ruqʿa — every letter in its compact slanted Ruqʿa form (plus the lām-alif), modelled at the head of ruled pages and copied line by line (student book; original target `visual-art/beautiful-writing`) | Book 26, printed pp. 8–12 |
+| Libya — Words built on each letter in Ruqʿa — model words for every letter with the letter picked out in red, copied on ruled lines in the Ruqʿa hand (student book; original target `visual-art/beautiful-writing`) | Book 26, printed pp. 13–45 |
+| Libya — Sentence models and a closing display piece — sentence models to copy (e.g. "The pupil loves his mother"), and the workbook closes with a decorative calligraphy panel of a Qur'anic phrase, "My success is only through God", shown as finished calligraphy art (student book; original target `visual-art/beautiful-writing`) | Book 26, printed pp. 19, 46 |
+
+**Book 27:** *كراسة الخط العربي — لتحسين خطي النسخ والرقعة — للصف الخامس من مرحلة التعليم الأساسي (Arabic Calligraphy Workbook — to improve both Naskh and Ruqʿa handwriting — Grade 5 of Basic Education)* (workbook, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 5 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — General instructions: two scripts in one workbook — the instructions assign this workbook to both Naskh and Ruqʿa, with the series method (board model, copying against it, best work displayed, school calligraphy group) (student book; original target `visual-art/beautiful-writing`) | Book 27, printed p. 5 |
+| Libya — Four line-tables — the letters above the line and the letters descending below it are tabled separately for Naskh and for Ruqʿa, so the pupil sees how the same letter sits in each script (student book; original target `visual-art/beautiful-writing`) | Book 27, printed pp. 6–9 |
+| Libya — One sentence, two scripts — for every letter of the alphabet a model sentence (proverbs and wise sayings with the letter picked out in red) is given twice: written in Naskh on one page and in Ruqʿa on the facing page, each copied on ruled lines (student book; original target `visual-art/beautiful-writing`) | Book 27, printed pp. 10–67 |
+| Libya — Closing display piece — the workbook ends with a decorative calligraphy panel of the Qur'anic words "Taught by the pen — taught man what he did not know", calligraphy shown as finished art (student book; original target `visual-art/beautiful-writing`) | Book 27, printed p. 68 |
+
+**Book 28:** *كراسة الخط العربي — لتحسين خطي النسخ والرقعة — للصف السادس من مرحلة التعليم الأساسي (Arabic Calligraphy Workbook — to improve both Naskh and Ruqʿa handwriting — Grade 6 of Basic Education)* (workbook, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 6 (student/teacher: STUDENT). PDF pages: 54 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Instructions and the four line-tables — the workbook again serves both scripts (Naskh and Ruqʿa) by the series method, opening with the letters above and below the line tabled for each script (student book; original target `visual-art/beautiful-writing`) | Book 28, printed pp. 5–9 |
+| Libya — Set phrases in two scripts — whole phrases as models, each copied in Naskh and then in Ruqʿa: the Basmala, "My Lord, increase me in knowledge", wisdom sayings, and the patriotic line "I love my country with a love that fills my heart" (student book; original target `visual-art/beautiful-writing`) | Book 28, printed pp. 10–51 |
+| Libya — Closing display piece — a bold decorative calligraphy panel of "Alhamdu lillah" (Praise be to God) closes the workbook as finished calligraphy art (student book; original target `visual-art/beautiful-writing`) | Book 28, printed p. 52 |
+
+**Book 29:** *كراسة الخط العربي — لتحسين خطي النسخ والرقعة — للصف السابع من مرحلة التعليم الأساسي (Arabic Calligraphy Workbook — to improve both Naskh and Ruqʿa handwriting — Grade 7 of Basic Education)* (workbook, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 7 (student/teacher: STUDENT). PDF pages: 48 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Instructions and the line-tables — both scripts (Naskh and Ruqʿa) served by the series method, opening with the letters above and below the line for each script (student book; original target `visual-art/beautiful-writing`) | Book 29, printed pp. 5–9 |
+| Libya — Proverbs in two scripts — each model proverb is copied twice, in Naskh and in Ruqʿa: "A kind word is charity", "Reform yourself and people will be reformed for you", "A man's worth is in his two smallest parts — his heart and his tongue", "The best speech is brief and meaningful", "Treat people as you wish them to treat you" (student book; original target `visual-art/beautiful-writing`) | Book 29, printed pp. 10–47 |
+
+**Book 30:** *كراسة الخط العربي — لتحسين خط النسخ والرقعة والثلث — للصف الثامن من مرحلة التعليم الأساسي (Arabic Calligraphy Workbook — to improve Naskh, Ruqʿa and Thuluth handwriting — Grade 8 of Basic Education)* (workbook, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 8 (student/teacher: STUDENT). PDF pages: 46 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Instructions: a third script — the instructions name the Arabic scripts this workbook treats: Naskh, Ruqʿa and now Thuluth, with the series method (board model, copying against it, best work displayed, school calligraphy group) (student book; original target `visual-art/beautiful-writing`) | Book 30, printed p. 5 |
+| Libya — Line-tables for the scripts — the letters above the line and below it tabled for Naskh and Ruqʿa before the practice pages (student book; original target `visual-art/beautiful-writing`) | Book 30, printed pp. 6–9 |
+| Libya — Wisdom lines in three scripts and a Thuluth panel — model lines copied in turn in Naskh, Ruqʿa and Thuluth: "Character grows like a plant when watered with noble deeds", "The best of people is he who lives as a mercy to people", "No right is lost while someone claims it", "The sun's ray is not hidden and the light of truth is not quenched", closing with a decorative panel of the opening of Surah al-Qalam, "By the pen and what they write" (student book; original target `visual-art/beautiful-writing`) | Book 30, printed pp. 10–46 |
+
+**Book 31:** *كراسة الخط العربي — لتحسين خطي النسخ والرقعة — للصف التاسع من مرحلة التعليم الأساسي (Arabic Calligraphy Workbook — to improve both Naskh and Ruqʿa handwriting — Grade 9 of Basic Education)* (workbook, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 9 (student/teacher: STUDENT). PDF pages: 48 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Instructions and the line-tables — both scripts (Naskh and Ruqʿa) by the series method, opening with the letters above and below the line for each script (student book; original target `visual-art/beautiful-writing`) | Book 31, printed pp. 3–7 |
+| Libya — Sourced texts as models — Qur'anic verses and hadith copied as calligraphy models, each with its source printed beneath ("Cooperate in righteousness and piety, and do not cooperate in sin and aggression"; the hadith "God loves that when one of you does a work, he perfects it"), together with national lines: "No glory for a people that does not enjoy freedom" and "Do not do in secret what you would be ashamed of in public" (student book; original target `visual-art/beautiful-writing`) | Book 31, printed pp. 8–47 |

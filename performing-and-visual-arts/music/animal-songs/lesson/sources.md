@@ -1,6 +1,6 @@
 # Sources — Animal Songs
 
-countries: Ethiopia, Turkmenistan, Belarus, Jordan
+countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Turkmenistan, Belarus, Jordan
 
 | Belarus — Part 1, "In a good fairy-tale land": the folk song of the sparrow who built his little house, Kortes's "Dance of the Fairy" for listening, and the song of friends (words Klimkovich, music Voitsik) (student book; original target `music/animal-songs`) | Book 3, printed pp. 26–30 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Belarus, Jordan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Belarus, Jordan).** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The placements name these songs, their givers and their sound-moments only; no lyrics are transcribed anywhere in this lesson, and none are claimed. The Grade 1 lamb placement asks for a GIF of a lamb bleating, mouth moving; that motion was judged a failed-motion risk (a drawn mouth cannot bleat truly) and was NOT filed — the bleating moment is carried by the described AUDIO slot instead, and the board picture covers the visual slot.
 
@@ -30,3 +30,10 @@ Searchable tags: animal songs, lamb, cat, dog, bird, ትንሽ በግ አለኝ,
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — the animal songs — "Ali Baba", the cumulative farm song imitating the cat's, dog's, chicken's and sheep's sounds, ending with the cunning fox who eats the little chickens (printed p. 3); "The Camel", big and obedient, ridden in the desert (printed p. 5); "The Hen and Her Chicks", who walk to the valley, eat sweet grain and return on time (printed p. 6); "The Cat" and "My Cat Namira", the beautiful white house cat who loves cleanliness, food and play and can catch the mouse (printed pp. 14, 16); "The Elephant", heavy as a mountain and slow, against the light bird jumping happily on the branch, and "The Chicks", who drank the water and raised their heads in thanks (printed p. 16); "My Rabbit", called to come, jump, eat the sweet green grass and play (printed p. 17) (student book; original target `music/songs-about-animals`) | Book 4, printed pp. 3, 5, 6, 14, 16, 17 |
+
+**Book 5:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الأول بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 40 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The Bird Song (نشيد العصفور) — a song in the small bird's own voice: it flies where it wishes and settles on the branch, its mother taught it to fly, and it teaches the pupil that knowledge is light (teacher guide — evidence; original target `music/animal-songs`) | Book 5, printed p. 35 |

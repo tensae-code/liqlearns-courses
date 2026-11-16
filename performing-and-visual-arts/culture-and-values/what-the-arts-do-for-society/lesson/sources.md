@@ -1,6 +1,6 @@
 # Sources — What the Arts Do for Society
 
-countries: Ethiopia, Uganda, Samoa, Colombia
+countries: Ethiopia, Uganda, Samoa, Colombia, Libya
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -49,8 +49,23 @@ countries: Ethiopia, Uganda, Samoa, Colombia
 
 | Colombia — Módulo 4, Guía 12 "Globalización e identidad" — globalisation and identity: world bodies and safeguard measures, and a people's work of conserving its own traditions and defining what must be kept (student book; original target `culture-and-values/what-the-arts-do-for-society`) | Book 11, printed pp. 98–104 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Colombia).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Colombia).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The harmful-practices material is taught as the books place it — harmful practices named for their health effects, and art's role in changing them; no practice is described beyond the placements' own words. 'Art for Current Issues' in Grades 7–8 is taught from the student books' own chapter and pages (Grade 7 Ch. 5's theme is set by its placement; Grade 8's issues are read in its student book at pp. 134–135) — the truncated Grade 7–8 teacher guides' corresponding units are not used as evidence for this lesson, which rests on pupil-taught books only.
 
 Searchable tags: what is art, role of art, art and society, art for current issues, harmful traditions, nature through art, Sakadeg, ብልህነት, cultural heritage, environment songs, Colombia
+
+**Book 12:** *دليل المعلم لمادة التربية الفنية — للسنة الأولى من التعليم الثانوي (Teacher's Guide for Art Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 97 (cover/title page verified against the record title). Verdict: COMPLETE — note: although titled the Year 1 guide, the volume carries the whole secondary course: syllabus maps for Years 1–3 (printed pp. 6–8), then each year's full sections and art plates, closing with teacher apparatus (the art plan, the art room, assessment elements — assessment named here, not placed, per the brief — and recommendations to the teacher). Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: although titled the Year 1 guide, the volume carries the whole secondary course (syllabus maps and sections for Years 1–3); its closing assessment apparatus is named in the placements, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Artistic Expression — the first field of the subject defined: expressing topics through the plastic media inside the school — topics serving religious and national purposes, community events and achievements, folk arts of every kind, expression by the rules of composition, the modern art schools, and the materials of ornament, sculpture and carving, with exhibitions and camps to show the work (teacher guide — evidence; original target `culture-and-values/what-the-arts-do-for-society`) | Book 12, printed pp. 9–10 |
+| Libya — A beautiful school through art — the guide's closing vision: the art teacher builds the school's aesthetic life — exhibitions of pupils' work inside and outside the school, art activity groups, a library corner of art books and pictures of old civilisations and folk arts, gardens and wall magazines, theatre and music activity with its costumes and invitations, and school art magazines (teacher guide — evidence; original target `culture-and-values/what-the-arts-do-for-society`) | Book 12, printed pp. 88–89 |
+
+**Book 13:** *كتاب المعلم لمادة التربية الفنية — للصف الثاني من مرحلة التعليم الأساسي (Teacher's Book for Art Education — Grade Two of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 2 (student/teacher: TEACHER — see mismatch note). PDF pages: 119 (cover/title page checked by eye and by the text layer). Verdict: COMPLETE with a record mismatch — the assignment record names this file the Grade 2 art STUDENT book, but the secured file is the Grade 2 TEACHER's book of the same ministry series (its title page, its "To the teacher" opening and its "How to use the teacher's book" chapter all say so). The book was read in full and is filed as what it is; the placements below carry the teacher book's name. Library debt: the Grade 2 pupil book itself is not in hand — the record points at the teacher book instead. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. RECORD MISMATCH carried exactly as filed: the assignment record names this file the Grade 2 art STUDENT book, but the secured file is the Grade 2 TEACHER's book of the same ministry series (its title page, 'To the teacher' opening and 'How to use the teacher's book' chapter all say so); it is carried here as the teacher book it is. Library debt: the Grade 2 pupil book itself is not in hand. **Teacher book — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — What group art does — the closing critique of the collage workshop spells out the benefit of the collective artwork in every direction — economic, social and artistic — and art's effect on the environment and the community (teacher guide — evidence; original target `culture-and-values/what-the-arts-do-for-society`) | Book 13, printed p. 119 |

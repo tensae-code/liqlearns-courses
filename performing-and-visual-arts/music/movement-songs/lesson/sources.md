@@ -1,6 +1,6 @@
 # Sources — Movement Songs
 
-countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan
+countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan, Libya
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -41,7 +41,7 @@ countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan
 | Papua New Guinea — Unit 3 Music, Topic Performing a Simple Song (Lessons 32–47) — illustrated music, pitch in music, familiar tunes, beats/silence/rhythm performed, vocal control, childhood rhythms, combining rhythm and pitch, percussion instruments accompanying songs and chants, moving to rhythms (teacher guide — evidence) | Book 9, printed pp. 20, 31 |
 | Papua New Guinea — Unit 3 Music, Topic Music Performance (Lessons 34–48) — singing repertoire and familiar songs with increasing vocal control, songs and games, folk tunes from other countries, action songs and hymns, singing rounds or canons, call-and-response songs, singing in parts, simple hymns and carols, melodic patterns, and playing percussion and melodic instruments in different ways (teacher guide — evidence) | Book 10, printed pp. 20–21, 39–40 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Fiji, Jordan).** Fiji's Year 1-2 teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Fiji, Jordan).** Fiji's Year 1-2 teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 1 placement asks for a GIF of the full clapping step pattern with children; full-body step choreography drawn frame by frame did not read truly, so the filed GIF carries the clap itself — the beat moment of the song — and the step pattern is taught in words and in the hands-on work. No motion that failed its frame check was filed.
 
@@ -53,3 +53,17 @@ Searchable tags: movement songs, clapping, walking, riding, እናጨበጭባ�
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — "I Have Five Fingers" and "This Child" — the five-fingers song counts and names the fingers (little finger, ring, middle, index, thumb) and tells how thumb and index together help hold pens (printed p. 1); the call-and-response song of Hassan and his sister Hanan playing on the seesaw, its lines marked to be sung twice, teaching singing in turns (printed p. 11) (student book; original target `music/finger-songs-and-action-rhymes`) | Book 11, printed pp. 1, 11 |
+
+**Book 12:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الأول بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 40 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Musical games — three circle games played to sung musical phrases: Getting Acquainted (numbered pupils move inside the circle to clapping and greet their matching number), The Prize (a wrapped prize is passed hand to hand around the circle while the phrase plays; when the music stops, the holder unwraps one layer before the music restarts — feeling the musical phrase), and The Musical Stick (pupils pass small sticks to a neighbour while all sing, with singing solfege) (teacher guide — evidence; original target `music/movement-songs`) | Book 12, printed pp. 14–16 |
+
+**Book 13:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الثالث بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 3 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 49 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Free games — the free-games set: the Musical Stick, Know the Singer, the Traffic Signal and Getting Acquainted, replayed as free games with improvised musical accompaniment (teacher guide — evidence; original target `music/movement-songs`) | Book 13, printed pp. 18–20 |

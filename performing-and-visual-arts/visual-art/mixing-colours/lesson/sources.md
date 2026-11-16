@@ -1,7 +1,7 @@
 # Sources — Mixing Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Papua New Guinea, Brazil
+countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Libya
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -60,8 +60,22 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique,
 
 | Brazil — Folha 7 — tones: what adding white or black does to a pure colour (student book; original target `visual-art/mixing-colours`) | Book 15, printed p. 118 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Brazil). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Brazil). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 2 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook. The Grade 3 Chapter 2 closing exercise carries the trap item "red mixed equally with yellow creates green" (false — it creates orange, per §2.3); the lesson teaches the corrected mixing and uses the trap as a question, exactly as the book's exercise frames it.
 
 Searchable tags: mixing colours, secondary colours, green orange purple ወይንጠጅ, primary colours mixing equal measure, neutral colours, Ethiopia Grade 3 colours, Nicaragua, Bhutan, Colombia, Papua New Guinea, Brazil
+
+**Book 16:** *دليل المعلم لمادة التربية الفنية — للصف الأول من مرحلة التعليم الأساسي (Teacher's Guide for Art Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Lesson 4 colour workshop: mixing colours — the primary colours (blue, red, yellow), the secondary colours (orange, violet, green), the neutrals (black, white), warm colours (red, orange, yellow) and cool colours (green, blue, white); mixing is demonstrated live, adding white gives light tints and adding black gives dark shades, in watercolour, oil and oil-wax colours (teacher guide — evidence; original target `visual-art/mixing-colours`) | Book 16, printed p. 50 |
+
+**Book 17:** *كتاب المعلم لمادة التربية الفنية — للصف الثاني من مرحلة التعليم الأساسي (Teacher's Book for Art Education — Grade Two of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 2 (student/teacher: TEACHER — see mismatch note). PDF pages: 119 (cover/title page checked by eye and by the text layer). Verdict: COMPLETE with a record mismatch — the assignment record names this file the Grade 2 art STUDENT book, but the secured file is the Grade 2 TEACHER's book of the same ministry series (its title page, its "To the teacher" opening and its "How to use the teacher's book" chapter all say so). The book was read in full and is filed as what it is; the placements below carry the teacher book's name. Library debt: the Grade 2 pupil book itself is not in hand — the record points at the teacher book instead. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. RECORD MISMATCH carried exactly as filed: the assignment record names this file the Grade 2 art STUDENT book, but the secured file is the Grade 2 TEACHER's book of the same ministry series (its title page, 'To the teacher' opening and 'How to use the teacher's book' chapter all say so); it is carried here as the teacher book it is. Library debt: the Grade 2 pupil book itself is not in hand. **Teacher book — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Colouring in one colour family — the flower coloured within a single colour's degrees (a red and another red differing in degree), and the sunflower coloured in the warm family running yellow to orange to red — harmony without contrast (teacher guide — evidence; original target `visual-art/mixing-colours`) | Book 17, printed pp. 28–31 |

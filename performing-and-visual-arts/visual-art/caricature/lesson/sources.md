@@ -1,6 +1,6 @@
 # Sources — Caricature
 
-countries: Bhutan, Colombia, Sudan, Bulgaria
+countries: Bhutan, Colombia, Sudan, Bulgaria, Libya
 
 **Book 1:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
@@ -16,7 +16,7 @@ countries: Bhutan, Colombia, Sudan, Bulgaria
 | Colombia — Módulo 1, Guía 4 "La figura humana en caricatura" — caricature and the comic from their beginnings as reflections of legends, through the press and advertising posters, to their fullest twentieth-century expression and the Japanese manga with its short lines, oversized head and small mouth; famous caricatures of all times (student book; original target `visual-art/caricature-drawing-with-exaggeration`) | Book 2, printed pp. 28–35 |
 | Sudan — Design & Ornament Topic "Designing Awareness Posters and Caricature Drawings", part 3: caricature — drawing in an unfamiliar way, distorted and exaggerated in character, bringing a personality's real-life role close to the viewer so an idea lands easily, simply and freely; the pupil draws a caricature from imagination telling a real life situation (student book; original target `visual-art/caricature-drawing`) | Book 3, printed p. 17 |
 
-**Acceptance count: taught in 4 countries (Bhutan, Colombia, Sudan, Bulgaria).**
+**Acceptance count: taught in 4 countries (Bhutan, Colombia, Sudan, Bulgaria).** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/caricature`); the Bhutan placements were filed as NEW LESSON NEEDED under the original string `visual-art/drawing-cartoon-faces`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Bhutan's own way, carried in the placements: a one-lesson-one-page workbook that builds the hand first — lines, curves, tone, mixing — then spends half its pages making things, with Bhutanese life (tshechu, losar) and Bhutan's own traditional forms as content.
 
@@ -27,3 +27,10 @@ Searchable tags: caricature, cartoon faces, comic drawing, Bhutan, Colombia
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Създаване на карикатури и комикси (Creating Caricatures and Comics) — the road to a caricature begins with the шарж (charge): a lightly caricatured image with exaggerated emphasis on the specific features of the face, figure, pose and character; first sketch the composition in pencil, then shape the charge, a… (student book; original target `visual-art/making-caricatures-and-comics`) | Book 4, printed pp. 22–23 |
+
+**Book 5:** *كتاب المعلم لمادة التربية الفنية — للصف الثالث من مرحلة التعليم الأساسي (Teacher's Book for Art Education — Grade Three of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 112 (cover/title page verified against the record title). Verdict: COMPLETE — the front matter (definition of art education, the curriculum and plan, aims for the cycle and the grade) is the series' shared teacher apparatus, named here; the fourteen lessons are placed below. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: the front matter (definition of art education, curriculum and plan, aims) is the series' shared teacher apparatus, named in the placements. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Cartoon drawings — drawing cartoon characters with stress on line, colour and movement; knowing the famous characters and inventing new ones born of the pupils' own history, civilisation and culture; drawing scenes from cartoon episodes and satirical drawings of the pupil's own invention (teacher guide — evidence; original target `visual-art/characters-and-caricature`) | Book 5, printed pp. 91–96 |

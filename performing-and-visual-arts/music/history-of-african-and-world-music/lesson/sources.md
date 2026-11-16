@@ -1,6 +1,6 @@
 # Sources — History of African and World Music
 
-countries: Ethiopia, Honduras, Albania, Samoa, Iceland, Malta, Belarus, Papua New Guinea
+countries: Ethiopia, Honduras, Albania, Samoa, Iceland, Malta, Belarus, Papua New Guinea, Libya
 
 **Book 1:** *Performing and Visual Arts Teacher Guide Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (first published 2022, GEQIP-E). Grade 10 has no student book; this guide is evidence only. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
@@ -48,8 +48,16 @@ countries: Ethiopia, Honduras, Albania, Samoa, Iceland, Malta, Belarus, Papua Ne
 
 | Papua New Guinea — Unit 11.4 World Music Styles — classical music and its composers (mid-1700s to early 1800s); jazz, developed by African-Americans in the late 1800s — swinging rhythm, improvisation, syncopation; blues, its history, purpose and style, composing a 6- or 12-bar blues piece; country music; popular music and its bands and artists; indigenous music of other cultures (Aboriginal, Pacific and African); and folk music — each style studied, described and performed (teacher guide — evidence) | Book 10, printed pp. 42–45 |
 
-**Acceptance count: taught in 2 countries (Honduras, Belarus).** Ethiopia is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Honduras, Belarus).** Ethiopia is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only: Grade 10 has no student book. The two history lessons are carried at the scope the guide's unit table names (Lessons 22–23, printed pp. 35–38) and no historical detail beyond that scope and this course's earlier pupil-taught origins content is claimed.
 
 Searchable tags: history of African music, history of world music, Grade 10 teacher guide evidence, Lessons 22-23, Iceland, Dægurspor, Malta, Music Shines, Papua New Guinea
+
+**Book 11:** *دليل المعلم لمادة التربية الموسيقية — للسنة الأولى بمرحلة التعليم الثانوي (Teacher's Guide for Music Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 65 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Arab music before Islam — the history opened: singing and instruments in pre-Islamic Arabia — the singing-girls (qaynat) and the poets' songs, the early drums and lutes, and how Arab music travelled to Iraq, Persia and Byzantium and grew there (teacher guide — evidence; original target `music/history-of-african-and-world-music`) | Book 11, printed p. 57 |
+| Libya — The Gothic era — European music 1160–1400: the troubadours and the Minnesinger, church song growing into many-voiced polyphony, and the era's marks on the music that followed (teacher guide — evidence; original target `music/history-of-african-and-world-music`) | Book 11, printed p. 58 |

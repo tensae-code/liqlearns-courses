@@ -1,6 +1,6 @@
 # Sources — School Songs
 
-countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finland, Turkmenistan, Fiji, Bulgaria, Jordan, Sri Lanka
+countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finland, Turkmenistan, Fiji, Bulgaria, Jordan, Sri Lanka, Libya
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -55,7 +55,7 @@ countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finl
 | Turkmenistan — "Наша школа" (Our School; words G. Bäşiýew, music N. Muhadow, Russian text Yu. Kushak) — the school song, in the main text and the notation appendix (summary only) (student book; original target `music/school-songs`) | Book 13, printed pp. 10, 56 |
 | Fiji — Unit 3 Books — songs celebrating books and reading (Books I Love in English and iTaukei, the Library Song with its animal visitors), sung with meaning, expression and group movement (teacher guide — evidence; original target `music/songs-about-books-and-reading`) | Book 14, printed pp. 14–16 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Finland, Turkmenistan, Bulgaria, Jordan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Finland, Turkmenistan, Bulgaria, Jordan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Fidel song and the ABC song are charts sung, not lyrics: the letters in order are their content, and only the letter orders the placements themselves quote are printed in this lesson. The Grade 3 book prints the Twinkle song in English as its one full English text; this lesson names it and places it, and does not re-transcribe it.
 
@@ -111,3 +111,27 @@ Searchable tags: school songs, ABC song, Twinkle Twinkle, fidel song, let's go t
 |---|---|
 
 | Sri Lanka — Activity 8.1.3 "Singing popular songs" — popular songs sung as class repertoire — performance with vocal technique (teacher guide — evidence; original target `music/school-songs`) | Book 21, printed p. 78 |
+
+**Book 22:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الأول بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 40 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The Letters Song (نشيد الحروف) — a fill-in-the-blank alphabet song: the child completes each line with the letter being sung, learning the letters by singing them (melody by one of the guide's authors) (teacher guide — evidence; original target `music/school-songs`) | Book 22, printed p. 31 |
+| Libya — The Morning Song (نشيد الصباح) — a morning song: how beautiful the morning is, the farmer going out to sow the fields, rising with resolve and work, and hope in the heart (teacher guide — evidence; original target `music/school-songs`) | Book 22, printed p. 37 |
+
+**Book 23:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الثاني بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 2 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 2 (student/teacher: TEACHER). PDF pages: 44 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Organising Time (نشيد ترتيب الوقت) — a daily-routine song to the clock's tick-tack: rise early and leave sleep, write and memorise your lesson, wash and worship, exercise so the body stays active (teacher guide — evidence; original target `music/school-songs`) | Book 23, printed p. 34 |
+| Libya — I Am in My School (نشيد أنا في مدرستي) — a school song: I am successful in my school from the first day of the year; I read and write and strive, and I have arranged my life in order (teacher guide — evidence; original target `music/school-songs`) | Book 23, printed p. 41 |
+
+**Book 24:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الثالث بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 3 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 49 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The Teacher (نشيد المعلم) — the song that praises the teacher: a greeting of reverence to the maker of generations, who guided the pupils with his knowledge and counsel, explains the lessons and mends the soul (teacher guide — evidence; original target `music/school-songs`) | Book 24, printed pp. 41–42 |
+| Libya — The Bell Rang (نشيد دق الجرس) — a school song: the bell rang in my school and we walked in order to our class; in my school I spend my loveliest time — lesson, sport and singing — and we cooperate after the lesson (teacher guide — evidence; original target `music/school-songs`) | Book 24, printed pp. 47–48 |

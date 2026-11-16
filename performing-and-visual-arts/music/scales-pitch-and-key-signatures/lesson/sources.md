@@ -1,6 +1,6 @@
 # Sources — Scales, Pitch and Key Signatures
 
-countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New Guinea, Bulgaria, Jordan, Sri Lanka
+countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New Guinea, Bulgaria, Jordan, Sri Lanka, Libya
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -62,7 +62,7 @@ countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New G
 
 | Papua New Guinea — Units 11.1 and 12.1, Melody Studies — tones and semitones (a tone = two semitones) on the keyboard; accidentals — sharp raises, flat lowers, natural restores; the major scale's tone/semitone pattern in C major, then the G, D and F major scales, each sung in solfa, numbers and letter names; and tonic triads — a chord of root, third and fifth built on the keynote (teacher guide — evidence) | Book 12, printed pp. 31–32, 51–52 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Belarus, Bulgaria, Jordan). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Belarus, Bulgaria, Jordan). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 6 book's key-signature exercise prints "E♭" in Amharic beside "(E Major scale)" in English — a printing tangle the placements record; the lesson teaches the D, E, A-flat exercise set as the placements resolve it and does not present the tangled line as a fact. The Grade 6 teacher-guide parts are evidence and are labelled so; the pupil-taught scale work stands on the Grade 6 student book.
 
@@ -91,3 +91,21 @@ Searchable tags: scale, major scale, minor scale, natural minor, harmonic minor,
 |---|---|
 
 | Sri Lanka — Activity 6.4.1: the minor scale — the minor scale defined and described — its pattern built and heard against the major (teacher guide — evidence; original target `music/scales-and-modes`) | Book 15, printed p. 53 |
+
+**Book 16:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الثالث بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 3 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 49 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Game 1: Telling the rising phrase from the falling phrase — two groups mime climbing a staircase and going down one while the teacher improvises simple phrases that rise and fall in pitch (teacher guide — evidence; original target `music/scales-pitch-and-key-signatures`) | Book 16, printed p. 13 |
+| Libya — Game 2: Telling low sounds from high sounds — four big circles are drawn on the ground; pupils run to a fast rhythm flapping their arms like flying birds, settle in the nearest circle when the rhythm stops, and imitate birdsong for the high sound (and a heavy tread for the low) (teacher guide — evidence; original target `music/scales-pitch-and-key-signatures`) | Book 16, printed p. 14 |
+
+**Book 17:** *دليل المعلم لمادة التربية الموسيقية — للسنة الأولى بمرحلة التعليم الثانوي (Teacher's Guide for Music Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 65 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The natural scale and its intervals — the C major scale built degree by degree (1 to 8, the eighth repeating the first), sung ascending and descending; its intervals: whole steps everywhere except the half steps between degrees 3–4 and 7–8 (teacher guide — evidence; original target `music/scales-pitch-and-key-signatures`) | Book 17, printed pp. 26–27 |
+| Libya — The accidental signs — the full table of conversion signs: the sharp raising a half step, the double sharp, the natural that cancels, the flat lowering a half step — and the Arab quarter-tone signs, the half-sharp and half-flat, with the note that some of these signs are used only in Arabic music; each sign then worked through examples (teacher guide — evidence; original target `music/scales-pitch-and-key-signatures`) | Book 17, printed pp. 28–32 |
+| Libya — The ascending circle of fifths — deriving every sharp key signature by fifths from C, with the table of the major scales and the sharps each carries, up to F♯ major (teacher guide — evidence; original target `music/scales-pitch-and-key-signatures`) | Book 17, printed pp. 36–38 |
+| Libya — The descending circle of fifths — deriving the flat key signatures by descending fifths, with the table of flat major scales (teacher guide — evidence; original target `music/scales-pitch-and-key-signatures`) | Book 17, printed pp. 50, 52 |

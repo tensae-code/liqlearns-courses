@@ -1,6 +1,6 @@
 # Sources — History of Art
 
-countries: Andorra, Sudan, Brazil, Bulgaria
+countries: Andorra, Sudan, Brazil, Bulgaria, Libya
 
 **Book 1:** *Programa de l'assignatura d'història de les arts del batxillerat general de l'Escola Andorrana — Decret del 9-12-2020 (BOPA núm. 149, 16-12-2020), republishing the full programme as amended (Decret del 20-3-2019 as modified by Decret del 9-12-2020)* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2020 (programme first published 2019), no ISBN printed in the fetched text, Batxillerat general (ages 16–18), 28 PDF pp. TEACHER — programme document. Verdict: COMPLETE as a programme document — read in full via the source_url text; assessment criteria (CA1 pertinence, CA2 precision, CA3 critical sense), end-of-cycle expectations and the synthesis table are apparatus, named here and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
@@ -19,7 +19,7 @@ countries: Andorra, Sudan, Brazil, Bulgaria
 
 | Brazil — Folha 1 — the style words hidden in the song "Bienal" (Barroco, Rococó, Art Nouveau, neo-expressionismo, natureza-morta) as a first map of art terms (student book; original target `visual-art/art-movement-names-and-styles`) | Book 3, printed p. 11 |
 
-**Acceptance count: taught in 3 countries (Sudan, Brazil, Bulgaria). Before Sudan, this lesson stood on Andorra curriculum programme document evidence only, named here, counted nowhere.**
+**Acceptance count: taught in 3 countries (Sudan, Brazil, Bulgaria). Before Sudan, this lesson stood on Andorra curriculum programme document evidence only, named here, counted nowhere.** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/history-of-art`); the Andorra placements were filed under the original strings `visual-art/art-of-the-world` (twice) and `visual-art/art-history-timeline`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Andorra's own Romanesque, placed inside this lesson's art-and-power block by the programme, is stocked in full in Art of Our Country. The book is a curriculum programme document, so every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
@@ -30,3 +30,11 @@ Searchable tags: history of art, art and power, Baroque, Romanesque, Gothic, Ren
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Изкуство и време, §§2–5 — the art of Mesopotamia (the Ishtar Gate of Babylon, the Assyrian lion-hunt relief) and Ancient Egypt (the pyramids and Great Sphinx of Giza, Tutankhamun's gold funerary mask, the Ebers Papyrus); Ancient Greece in its archaic, classical and… (student book; original target `visual-art/art-of-the-ancient-and-medieval-worlds`) | Book 4, printed pp. 7–10 |
+
+**Book 5:** *دليل المعلم لمادة التربية الفنية — للسنة الأولى من التعليم الثانوي (Teacher's Guide for Art Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 97 (cover/title page verified against the record title). Verdict: COMPLETE — note: although titled the Year 1 guide, the volume carries the whole secondary course: syllabus maps for Years 1–3 (printed pp. 6–8), then each year's full sections and art plates, closing with teacher apparatus (the art plan, the art room, assessment elements — assessment named here, not placed, per the brief — and recommendations to the teacher). Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: although titled the Year 1 guide, the volume carries the whole secondary course (syllabus maps and sections for Years 1–3); its closing assessment apparatus is named in the placements, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The Renaissance (Year 2) — a simplified history of Renaissance art: Florence and the birth of the independent panel painting; Leonardo da Vinci, genius of art, science and invention, and his Mona Lisa with the mysterious smile; Michelangelo, sculptor, painter, architect and poet, and the Sistine ceiling; Raphael and his School of Athens (teacher guide — evidence; original target `visual-art/history-of-world-art`) | Book 5, printed p. 49 |
+| Libya — Modern and contemporary art schools (Year 3) — a simplified history of the modern schools, each with its mark and its masters: Neoclassicism, Romanticism, Realism, Impressionism, Pointillism, Fauvism, Cubism, Futurism, the Abstract school, Dada, and Surrealism — with contemporary Arab artists named among the Surrealists (teacher guide — evidence; original target `visual-art/history-of-world-art`) | Book 5, printed pp. 70–72 |

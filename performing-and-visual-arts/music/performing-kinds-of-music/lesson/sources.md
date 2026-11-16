@@ -1,6 +1,6 @@
 # Sources — Performing Kinds of Music
 
-countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia
+countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya
 
 **Book 1:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., body/syllabus to printed p. 80. Printed page = PDF page − 6 in the body. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
 
@@ -32,8 +32,15 @@ countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia
 
 | Colombia — Módulo 4, Guía 20 "Reconocimiento de los ensambles" — recognising and classifying every ensemble met: matching instruments to ensembles and ensembles to their origin, function and rhythm (student book; original target `music/performing-kinds-of-music`) | Book 8, printed pp. 145–155 |
 
-**Acceptance count: taught in 2 countries (Uganda, Colombia).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Uganda, Colombia).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only and is labelled so in its plan, text and sources. The Grade 2 teacher guide is a scan with no text layer; its parts are cited at section level only and no wording is quoted from it.
 
 Searchable tags: performing kinds of music, call and answer, two groups singing, teacher guide evidence, Iceland, Dægurspor, Colombia
+
+**Book 9:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الأول بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 40 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — How a song is taught — the guide's method: introduce the song's topic with a short story or discussion, read its words in clear rhythmic units, explain the words, the teacher plays and sings it well several times as the model to copy, then teaches it part by part and splits the class into groups to sing it (teacher guide — evidence; original target `music/performing-kinds-of-music`) | Book 9, printed p. 8 |

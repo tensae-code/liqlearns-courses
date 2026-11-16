@@ -1,6 +1,6 @@
 # Sources — Shapes, Forms and Patterns in Colour
 
-countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan
+countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -59,7 +59,7 @@ countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fij
 | Papua New Guinea — Content Background: Exploring Patterns — patterns driven by repetition, by numbers and by symmetry, patterns judged by the artist's eye, and random patterns made by a coin-toss printing game (teacher guide — evidence) | Book 12, printed pp. 27–28 |
 | Papua New Guinea — Content Background: Exploring Patterns — patterns driven by repetition, by numbers and by symmetry, patterns judged by the artist's eye, and random patterns made by a coin-toss printing game (teacher guide — evidence (PARTIAL — the guide itself is unfinished)) | Book 13, printed pp. 21–22 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 teacher-guide part is cited at section level only (§§1.4–1.5, printed pp. 12–22) because that guide is a scan with no text layer and two of its contents entries are partly degraded in the scan — the placements say so, and the lesson claims no body wording from it. The fraction work is taught as the Grade 4 book's own question — into how many parts is the circle divided, and what fraction is the blue part — without importing a fraction curriculum from outside the placements.
 
@@ -71,3 +71,33 @@ Searchable tags: Maldives, Exploring Creative Arts 4, shapes in colour, ዝር�
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 1 Lesson 7 "Similarity and Difference" — things are alike when they share size, colour or shape and different when they do not; spotting the one different picture in groups of hens, fish, zebras and dolphins, and matching matching tableware (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 14, printed p. 24 |
+
+**Book 15:** *دليل المعلم لمادة التربية الفنية — للصف الأول من مرحلة التعليم الأساسي (Teacher's Guide for Art Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Workshop 2: Lines, shapes and composing elements — drawing and colouring squares, triangles, rectangles and circles of different sizes, linking them to nature, and assembling them into an art panel or mural for the classroom or school entrance (teacher guide — evidence; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 15, printed p. 41 |
+| Libya — Lesson 11: Beautiful balloons — drawing groups of balloons of different shapes, sizes, colours and textures (and learning what rubber they are made from), then gathering the class's balloons into a balloons mural (teacher guide — evidence; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 15, printed p. 79 |
+
+**Book 16:** *دليل المعلم لمادة التربية الفنية — للسنة الأولى من التعليم الثانوي (Teacher's Guide for Art Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 97 (cover/title page verified against the record title). Verdict: COMPLETE — note: although titled the Year 1 guide, the volume carries the whole secondary course: syllabus maps for Years 1–3 (printed pp. 6–8), then each year's full sections and art plates, closing with teacher apparatus (the art plan, the art room, assessment elements — assessment named here, not placed, per the brief — and recommendations to the teacher). Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: although titled the Year 1 guide, the volume carries the whole secondary course (syllabus maps and sections for Years 1–3); its closing assessment apparatus is named in the placements, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Repetition and symmetry (Year 3) — the kinds of decorative repetition — regular, opposite, and alternating — and its positions (falling, ascending, horizontal, vertical, circular); decorative compositions and symmetry in three degrees: full symmetry, half symmetry, and total symmetry (teacher guide — evidence; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 16, printed p. 66 |
+
+**Book 17:** *كتاب المعلم لمادة التربية الفنية — للصف الثالث من مرحلة التعليم الأساسي (Teacher's Book for Art Education — Grade Three of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 112 (cover/title page verified against the record title). Verdict: COMPLETE — the front matter (definition of art education, the curriculum and plan, aims for the cycle and the grade) is the series' shared teacher apparatus, named here; the fourteen lessons are placed below. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: the front matter (definition of art education, curriculum and plan, aims) is the series' shared teacher apparatus, named in the placements. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Coloured Squares, stage one — building a decorative design by measure: a 16×16 cm square ruled into sixteen 4 cm squares with horizontal and vertical lines, then the squares coloured in harmonious, balanced colours — a simple decorative unit, ordered, repeated and not overlapping (teacher guide — evidence; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 17, printed pp. 27–32 |
+| Libya — Coloured Squares, stage two — the design deepened: a 12×12 cm square divided into nine 4 cm squares, then a diagonal run from the top-right corner of each square to its bottom-left and back again, and the resulting shapes coloured with finer harmony (teacher guide — evidence; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 17, printed pp. 42–45 |
+
+**Book 18:** *كتاب المعلم لمادة التربية الفنية — للصف الثاني من مرحلة التعليم الأساسي (Teacher's Book for Art Education — Grade Two of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 2 (student/teacher: TEACHER — see mismatch note). PDF pages: 119 (cover/title page checked by eye and by the text layer). Verdict: COMPLETE with a record mismatch — the assignment record names this file the Grade 2 art STUDENT book, but the secured file is the Grade 2 TEACHER's book of the same ministry series (its title page, its "To the teacher" opening and its "How to use the teacher's book" chapter all say so). The book was read in full and is filed as what it is; the placements below carry the teacher book's name. Library debt: the Grade 2 pupil book itself is not in hand — the record points at the teacher book instead. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. RECORD MISMATCH carried exactly as filed: the assignment record names this file the Grade 2 art STUDENT book, but the secured file is the Grade 2 TEACHER's book of the same ministry series (its title page, 'To the teacher' opening and 'How to use the teacher's book' chapter all say so); it is carried here as the teacher book it is. Library debt: the Grade 2 pupil book itself is not in hand. **Teacher book — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Sweets as repeated units — a panel of coloured units of different sizes representing pieces of sweets, organised by repetition and distributed in a harmonious, beautiful arrangement (teacher guide — evidence; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 18, printed pp. 94–96 |

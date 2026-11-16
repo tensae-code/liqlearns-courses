@@ -1,6 +1,6 @@
 # Sources — Songs of Our Country
 
-countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria, Jordan
+countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria, Jordan, Libya
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -50,7 +50,7 @@ countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria, Jo
 | Morocco — "My Homeland! O Land of Peace!" (وطني! يا أرض السلام!) — a patriotic anthem (words and music Aghlalo Abdelali, sung by Oumaima Ben Zouine) — the homeland as mother and father, land of ancestors and grandchildren, of the two Atlases, mountains and snows, deserts and seas, olives and generosity (summary only) (teacher guide — evidence; original target `music/moroccos-homeland-songs`) | Book 12, printed p. 68 |
 | Morocco — "Live, My Country!" (يا بلادي عيشي) — a patriotic zajal (words Ali El Haddani, music Mohamed Ben Abdessalam, sung by Mahmoud El Idrissi) — "live, live, my country, live": Morocco the generous mother overflowing with goodness, her scent musk and perfume in the air, her people praying for their beloved King (summary only) (teacher guide — evidence; original target `music/moroccos-homeland-songs`) | Book 12, printed p. 118 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 teacher guide is a scan with no text layer, read visually at section level; its part here is cited at section level only and labelled evidence, exactly as its placements file states. Work songs are named by their work and purpose only — their lyrics are not transcribed, as the placements direct.
 
@@ -77,3 +77,17 @@ Searchable tags: songs of our country, Ethiopia, flag, tizta, love of country, o
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — "O My Country" — my country is the most beautiful of countries to me — in it majestic trees, fragrant flowers and delicious fruits (summary only) (student book; original target `music/songs-about-my-country`) | Book 17, printed p. 6 |
+
+**Book 18:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الثاني بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 2 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 2 (student/teacher: TEACHER). PDF pages: 44 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — I Love Her, My Country (نشيد أحبها بلادي) — a homeland song: I love my country, I was born and lived in her, her love runs in my veins, O homeland of my grandfathers (teacher guide — evidence; original target `music/songs-of-our-country`) | Book 18, printed p. 40 |
+
+**Book 19:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الثالث بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 3 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 49 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — Libyans (نشيد ليبيين) — a patriotic song sung in Libyan dialect, praising the Libyans' pride and generosity; the book itself glosses the dialect words for the class (هلبا "a lot", مش شوية "not a little", and others) (teacher guide — evidence; original target `music/songs-of-our-country`) | Book 19, printed pp. 39–40 |

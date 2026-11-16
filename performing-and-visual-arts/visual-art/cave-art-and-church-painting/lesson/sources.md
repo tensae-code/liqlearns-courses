@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -50,7 +50,7 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, S
 
 | Brazil — Folha 3 "Você suporta Arte?" — cave painting: detailed Paleolithic animals against simplified Neolithic figures, Lascaux's Black Bull, natural pigments; drawing in both styles using only natural materials (student book; original target `visual-art/cave-art-and-church-painting`) | Book 11, printed p. 43 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 
@@ -64,3 +64,10 @@ Searchable tags: cave art, Lascaux, Altamira, Porc-Epic, Lega Oda, Dire Dawa, Bo
 |---|---|
 | Bulgaria — Изкуство и време (Art and Time), §1 Prehistoric Art — art appears almost together with speech; Palaeolithic art (40,000–10,000 BCE): the cave drawings of Chauvet (France, 30,000 BCE) and Altamira (Spain, 18,000 BCE) and the Venus of Willendorf (25,000 BCE); Neolithic art (8000–2000 BCE): Stone… (student book) | Book 12, printed pp. 6–8 |
 | Bulgaria — Изкуство и религия, practical task — paint a copy of an icon, following the sequence of its making: choose a suitable icon and photocopy it; lay transparent paper over the reproduction, fix it with clips and copy the contours and the most important details (face and facial fea… (student book) | Book 13, printed p. 6 |
+
+**Book 14:** *دليل المعلم لمادة التربية الفنية — للسنة الأولى من التعليم الثانوي (Teacher's Guide for Art Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 97 (cover/title page verified against the record title). Verdict: COMPLETE — note: although titled the Year 1 guide, the volume carries the whole secondary course: syllabus maps for Years 1–3 (printed pp. 6–8), then each year's full sections and art plates, closing with teacher apparatus (the art plan, the art room, assessment elements — assessment named here, not placed, per the brief — and recommendations to the teacher). Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: although titled the Year 1 guide, the volume carries the whole secondary course (syllabus maps and sections for Years 1–3); its closing assessment apparatus is named in the placements, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The dawn of ancient art — a simplified history: the Old Stone Age (fire discovered, tools of stone, bone and horn), the Middle Stone Age, and the New Stone Age (farming begins, pottery and weaving are made, and wall drawing in the caves continues to the age's end) (teacher guide — evidence; original target `visual-art/cave-art-and-church-painting`) | Book 14, printed pp. 20–21 |

@@ -1,6 +1,6 @@
 # Sources — Counting Songs
 
-countries: Ethiopia, Turkmenistan
+countries: Ethiopia, Turkmenistan, Libya
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -14,8 +14,15 @@ countries: Ethiopia, Turkmenistan
 | Sub lesson 2 — "አምስት አረንጓዴ ጠርሙሶች" (Five Green Bottles), the counting-back song | Grade 2 student textbook, printed p. 91 |
 | Turkmenistan — "Aýdymly sanawaçlar" (Musical counting rhymes; words from folk art) — four counting-out rhymes set to music (Ak teňňe; Ädem-bädem; Apak-mapak; Towşanjyklar), and "Sanawaç" (Counting Rhyme; music Weli Ahmedow) (student book; original target `music/counting-songs`) | Book 3, printed pp. 42, 44 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan).**
+**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan).** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Only the counting structure of each song is taught — the placements themselves state that the verses are not transcribed, and this lesson follows them. The bottles GIF shows one fall and the count dropping 5 to 4, the first verse's motion; it does not claim the song's later verses.
 
 Searchable tags: counting songs, counting back, five little ducks, five green bottles, አምስት ዳክየዎች, አምስት አረንጓዴ ጠርሙሶች, 5 4 3 2 1 0
+
+**Book 4:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الأول بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 40 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya — The Numbers Song (نشيد جمع الأعداد) — counting by song: one hand has five fingers, and when the other hand is added they make ten for certain (teacher guide — evidence; original target `music/counting-songs`) | Book 4, printed p. 33 |
