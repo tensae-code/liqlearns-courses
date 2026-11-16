@@ -1,6 +1,6 @@
 # Sources — Patterns and Texture
 
-countries: Mongolia
+countries: Mongolia, Rwanda
 
 **Book 1:** *ДҮРСЛЭХ УРЛАГ, ТЕХНОЛОГИ I — Ерөнхий боловсролын сургуулийн 1 дүгээр ангийн сурах бичиг (Visual Art & Technology 1, textbook for grade 1 of the general education school)* (student book, Mongolian) — Mongolia, Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам (Ministry of Education, Culture, Science and Sports), Ulaanbaatar; cover edition 2020 (bibliographic record: UB 2014, 76 pages); authors' team led by Д.Цэдэн-Иш (D. Tseden-Ish), editor С.Нямсүрэн; ISBN 978-99973-69-53-6. Grade 1 (student book: STUDENT). Read as the ministry flipbook's 78 page images = cover + printed pp. 1–76 + back cover; every printed page read. Verdict: COMPLETE. Combined Visual Art & Technology volume: Part II (printed pp. 44–74) is the design-and-making strand — paper, leaf and clay construction, including simple models — placed as art-making; no electronics, machines or other non-art technology content exists in the volume. Exclusions named, not placed: Foreword (printed p. 5); the two poems and the song are placed by name and theme only — no verse text transcribed; Bibliography (printed p. 75 — inventory only). No PDF exists in the repo for this book — the library record is a PHANTOM PUSH (the repo holds no copy, in the tree or in any release); the book was read from the record's own recorded source, the Ministry's econtent.edu.mn flipbook edition, page-image by page-image — the same ministry book, verified by cover, imprint and ISBN against the record. The phantom-push debt stands for the library. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
 
@@ -14,8 +14,23 @@ countries: Mongolia
 |---|---|
 | Mongolia — Part I: Зураасаар хээ зохиох (Composing a khee pattern with lines) — deciding from examples which line arrangements make a pattern: straight, zigzag, arc and curved line patterns (and which crossings fail); wave and zigzag bands drawn across a 5×10 cm strip and the spaces between coloured differently (student book; original target `visual-art/patterns-and-repeating-shapes`) | Book 2, printed pp. 21–22 |
 
-**Acceptance count: taught in 1 country (Mongolia).**
+**Book 3:** *Fine Art and Crafts — Primary Six Student's Book* (student book, English; Kigali, January 2019) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 6 (student/teacher: STUDENT), 72 PDF pp. Verdict: COMPLETE. Tally: 21 placements — 13 to existing lessons, 8 NEW LESSON NEEDED. Rwanda's own way: the fine-art ladder tops out at P6 with the full design system — elements and principles of drawing, tertiary colours, one-point perspective, motif layouts (full drop, half drop, border), serif/sans-serif lettering, pinch-built and glazed clay, six kinds of collage, and embroidery finished with carbon-paper pattern transfer and appliqué/monogram vocabulary. Excluded (standing): each unit's End Unit Assessment and Glossary — named here, not placed (glossary terms such as slip, ceramics, appliqué and monogram are used inside the lesson descriptions where the unit teaches them). Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 §1.4: Textural pattern — making texture and shade with patterns of marks — hatching (closely spaced parallel lines), cross-hatching (hatching extended in crossing lines for shade or texture) and dotting (small circular spots) — found on rocks, fur, feathers, fruits, leaves and stems (student book; original target `visual-art/hatching-and-texture-patterns`) | Book 3, printed p. 13 |
+| Rwanda — Unit 2 §2.1: Making different motif patterns and designs — the motif as the basic unit of a design, its types (geometric motifs — weave designs, boxes, diagonal stripes, dots; realistic/natural motifs — animals, skins, fruits, vegetables, leaves, flowers), repetition making patterns (on tiles, floors, wallpapers, carpets, clothes, blankets), and the three layouts — full drop, half-drop and border (student book; original target `visual-art/motif-layouts-for-pattern-design`) | Book 3, printed p. 20 |
+
+**Book 4:** *Fine Art and Crafts — Primary Six Teacher's Guide* (teacher guide, English; Kigali, January 2019) — Rwanda, Rwanda Education Board (REB), © 2018 REB (printed January 2019), no ISBN printed, Grade Primary 6 (student/teacher: TEACHER), 76 PDF pp. Verdict: COMPLETE. Tally: 14 placements — 8 to existing lessons, 6 NEW LESSON NEEDED (all teacher-guide evidence; the guide develops the same 14 lessons as the P6 Student's Book, Book 14, adding the computer-based font study, slip-and-score coil joining, and appliqué/patchwork named inside embroidery). Rwanda's own way: the guide closes the primary fine-art ladder with the teacher demonstrating each technique first — and with learners examining real fonts on a computer, Rwanda's "design technology" made practical. Excluded (standing): Part I general introduction, Part II sample lesson plan, assessments and answer keys — named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1, Lesson 4: Textural pattern in drawing and painting (teacher-guide evidence) — demonstration and exhibition of hatching, cross-hatching and dotting as textural patterns, with suggested answers for the learner's-book texture activity (teacher guide — evidence; original target `visual-art/hatching-and-texture-patterns`) | Book 4, printed p. 30 |
+| Rwanda — Unit 2, Lesson 1: Making different motif patterns and designs (teacher-guide evidence) — teaching geometric and natural motifs, repeat patterns and the full-drop, half-drop and border layouts from the learner's book (teacher guide — evidence; original target `visual-art/motif-layouts-for-pattern-design`) | Book 4, printed p. 35 |
+
+
+**Acceptance count: taught in 2 countries (Mongolia, Rwanda).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/patterns-and-texture`); the Mongolia placements were filed as NEW LESSON NEEDED under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs are placed by name and theme only, never transcribed.
 
-Searchable tags: Patterns and Texture, Mongolia
+Searchable tags: Patterns and Texture, Mongolia, Rwanda

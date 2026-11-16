@@ -1,6 +1,6 @@
 # Sources — Songs of Nature
 
-countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongolia
+countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongolia, Rwanda
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -63,11 +63,31 @@ countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongol
 |---|---|
 | Mongolia — the nature songs inside the year: Ногоон дэлхийгээ аваря (save the green earth), Шувуухай (little bird), Хаврын шувуу ирлээ (the spring bird has come), Цэцэгс (flowers) — named only (student book; original target `music/songs-of-nature`) | Book 16, printed pp. 8, 15, 42, 62 |
 
-**Acceptance count: taught in 5 countries(Ethiopia, Turkmenistan, Belarus, Jordan, Mongolia).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 17:** *Creative Arts - Music Teachers' Guide, Primary 1* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 1 (student/teacher: TEACHER), 66 PDF pp. Verdict: COMPLETE. Tally: 16 placements — 15 to existing lessons, 1 NEW LESSON NEEDED. Rwanda's own way: music is taught entirely through Kinyarwanda songs sung in public — teacher sings slowly line by line, learners imitate, then sing alone, in pairs and in groups, explaining each song's words; Unit 2 adds clapping and movement kept strictly to the rhythm. All songs are placed by theme and purpose only, never by lyrics. Excluded (standing): the three units' General Assessment sections — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 Lesson 3 (second part): Songs of the surroundings — songs celebrating birds singing at morning, streams in the forest, the trees and school garden near home (teacher guide — evidence) | Book 17, printed p. 30 |
+| Rwanda — Unit 2 Lesson 1: Songs related to the environment (respecting the rhythm) — environment songs — a butterfly song and a praise song for Rwanda's mountains, volcanoes, gorillas and rivers, with a promise to protect them — sung in rhythm (teacher guide — evidence) | Book 17, printed p. 40 |
+
+**Book 18:** *Music Teachers' Guide, Primary 3* (teacher guide, English; footer: Creative Arts-Fine Arts and Music, Teachers' Guide Primary 3; record title: Creative Arts — Music Teacher's Guide, Primary 3, © 2020 REB) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 3 (student/teacher: TEACHER), 71 PDF pp. Verdict: COMPLETE. Tally: 15 placements — 5 to existing lessons, 10 NEW LESSON NEEDED. Rwanda's own way: songs from different Rwandan cultures carry social teaching (against drug abuse, vagrancy and child abuse); Unit 2 accompanies them with Rwanda's own drums and calabash sockets; the guide names the regional traditional dances — ikinimba, umushayayo, igishakamba, ikinyemera — and teaches dancing in the Ikinyemera style, hands extended up like the long horns of the Inyambo parade cows. Songs placed by theme and purpose only, never by lyrics. Excluded (standing): each unit's End of Unit Assessment — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 3 Lesson 4: Songs by other artists — an artist's environment song (Bidufitiye akamaro — nature is of use to us) teaching protection of rivers, lakes, forests, wetlands and soil, performed verse-and-refrain, imitating the artist's voice (teacher guide — evidence) | Book 18, printed p. 56 |
+
+**Book 19:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book 4* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: TEACHER), 136 PDF pp. Verdict: COMPLETE. Tally: 35 placements — 23 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: the guide teaches the Work Book 4 course lesson by lesson (6 periods per music unit) and adds what the pupil's book only names: a church-songs lesson, children's-rights and environmental-protection songs with the umuduri, an inclusive-education icyivugo, and a staged concert performance closing every music unit. All placements are teacher-guide evidence; songs and poems placed by theme and purpose only. Excluded (standing): end-of-unit assessments and the guides' answer keys — assessment/apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 2 Lesson 5: Singing songs about Environmental protection with music instrument — environmental-protection songs in tune and traditional rhythm with accompaniment (teacher guide evidence; not in the pupil's book) (teacher guide — evidence) | Book 19, printed p. 35 |
+
+
+**Acceptance count: taught in 5 countries(Ethiopia, Turkmenistan, Belarus, Jordan, Mongolia).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 book prints the star song in Amharic and the Grade 3 book prints the same song in English; both placements are stocked — the Amharic here, the English in School Songs — exactly as the books place them. No song lyrics are transcribed; songs are named and their pictures summarised.
 
-Searchable tags: nature songs, surroundings, birds, star, planting, green land, አካባቢያችን, ወፎች ዘመሩ, አዕዋፍ, ኮከብ, እፅዋት እተክላለሁ, የመልከዓ ምድር ልምላሜ
+Searchable tags: nature songs, surroundings, birds, star, planting, green land, አካባቢያችን, ወፎች ዘመሩ, አዕዋፍ, ኮከብ, እፅዋት እተክላለሁ, የመልከዓ ምድር ልምላሜ, Rwanda
 
 
 **Book 11:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

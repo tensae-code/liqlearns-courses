@@ -1,7 +1,7 @@
 # Sources — Colours Around Us
 
 
-countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saudi Arabia, Angola, Afghanistan
+countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saudi Arabia, Angola, Afghanistan, Rwanda
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -52,11 +52,18 @@ countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saud
 | Angola — Tema 2.1 Desenho com as cores: drawing with coloured lines — colour pencil, wax crayon and felt pen each give the line their colour; draw objects in their true colours (student book; original target `visual-art/colours-around-us`) | Book 13, printed pp. 24–25 |
 | Angola — Tema 2.2.4 A cor e as suas manifestações: a landscape's colours change with the hour and the season — intense on a sunny day, muted on a grey day; Luanda at night; colour is a quality of form together with structure, texture and configuration (student book; original target `visual-art/colours-around-us`) | Book 14, printed pp. 44–46 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil, Saudi Arabia, Angola, Afghanistan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 17:** *Creative Arts - Fine Art Teachers' Guide, Primary 1* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 1 (student/teacher: TEACHER), 51 PDF pp. Verdict: COMPLETE. Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED. Rwanda's own way: every material comes from the surroundings — clay/red soil (inombe), natural fibres, leaves and found objects for printing — and each lesson ends with learners exhibiting work, choosing the best, and cleaning and storing materials. Excluded (standing): each unit's End of Unit Assessment lesson (Units 1-6) — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 Lesson 4: Drawing using colours or paints — choosing colours or water paints that fit the object drawn (sunflower, banana, avocado pictures) and painting with them (teacher guide — evidence) | Book 17, printed p. 18 |
+
+
+**Acceptance count: taught in 8 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil, Saudi Arabia, Angola, Afghanistan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 6 rests on teacher-guide evidence only for its own content; it is labelled as evidence in the part name, in the lesson text and in this table. The Grade 2 teacher guide is a scan with no usable text layer, read visually; its citation here is at section level only, as its placements require. The lesson as a whole stands on the Grade 1 and Grade 3 student textbooks, so the acceptance count counts pupil-taught content. The Grade 1 Chapter 3 summary's line — colours distinguish our clothes and beautify the surroundings (plants green, flowers red and yellow) — is carried in Colours on Clothes and in the question stock of this lesson, under the folding rules.
 
-Searchable tags: colours around us, yellow adey bananas, red roses sunrise sacrifice berbere, yellow turmeric እርድ hope happiness, blue ሰማያዊ sky water calm, Ethiopian flag colours, Ethiopia Grade 1 Grade 3 colours, Colombia, Brazil
+Searchable tags: colours around us, yellow adey bananas, red roses sunrise sacrifice berbere, yellow turmeric እርድ hope happiness, blue ሰማያዊ sky water calm, Ethiopian flag colours, Ethiopia Grade 1 Grade 3 colours, Colombia, Brazil, Rwanda
 
 **Book 10:** *دليل المعلم لمادة التربية الفنية — للصف الأول من مرحلة التعليم الأساسي (Teacher's Guide for Art Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 

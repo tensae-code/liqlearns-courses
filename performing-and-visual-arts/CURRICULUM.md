@@ -2337,7 +2337,41 @@ Afghanistan's thirteen student books (Grades 1–9: Art of Drawing
   model; and the country's own art history, from the Nawur
   plain stone tools and Mundigak to the National Museum.
 
-**The whole course stands at 654 lessons, 8,125 questions and
+Rwanda's twelve placement-bearing books (Creative Arts Fine
+  Art and Music teacher guides P1–P3; Work Book 4 and its
+  Teacher's Guide; Learner's Book Five and its Teacher's
+  Guide; Fine Art and Crafts Primary Six student's book and
+  teacher's guide — the Kinyarwanda parallel editions of the
+  P2 and P3 fine-art guides and the P2 music guide are named
+  in their English books' entries and placed once) stocked
+  263 placements: 163 into existing lessons, 55 into
+  already-built canonical lessons (Puppet Theatre ×4; Making
+  and Composing Music ×9; Sacred and Religious Songs ×9;
+  Embroidery ×21; Illustration and Book Design; Patterns and
+  Texture ×4; Weaving ×7), and 45 into 10 NEW lessons (Drama
+  and Dance: Icyivugo: Rwandan Self-Praise Poetry ×10;
+  Intore Dance ×5; Rwandan Traditional Dances ×2; Umudiho
+  and Umushayayo Dances ×5. Music: Rwandan Culture Songs;
+  Rwandan Drums and Song Accompaniment ×9; Rwandan
+  Patriotic and Unity Songs ×7; The Umuduri Musical Bow;
+  Work and Play Songs of Rwanda. Visual Art: Typography
+  ×4), 80 questions added, media as described slots only.
+  Honesty carried exactly as filed: nine of the twelve
+  books are teacher guides — EVIDENCE only, kept outside
+  the acceptance counts (four of the new lessons stand at
+  acceptance count 0 on guide evidence alone); the three
+  student books carry the counted stock. Songs and poems
+  are placed by theme and purpose only, never transcribed;
+  unit glossaries are inventory-only, named in the book
+  entries, not placed; end-of-unit assessments and answer
+  keys are named, not placed. Rwanda's own way is kept as
+  named parts throughout: inombe clay and red soil, the
+  weaving fibres named in Kinyarwanda, embroidery stitch by
+  stitch to the button and buttonhole, icyivugo, Intore
+  and umurishyo w'ingoma, the umuduri, umudiho and
+  umushayayo, and the Ubumwe and Twamagane Jenoside songs.
+
+**The whole course stands at 664 lessons, 8,205 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

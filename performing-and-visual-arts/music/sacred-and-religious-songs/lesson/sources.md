@@ -1,6 +1,6 @@
 # Sources — Sacred and Religious Songs
 
-countries: Jordan, Libya
+countries: Jordan, Libya, Rwanda
 
 **Book 1:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
 
@@ -15,11 +15,51 @@ countries: Jordan, Libya
 |---|---|
 | Jordan — Unit 2 Lesson 2 "The Religious Chant (Al-Nashid Al-Dini)" — religious chanting is an art that treats religious subjects; Islamic religious chanting began in the time of the Prophet Muhammad and includes remembrance of God, tahlil, tasbih and praise of the Prophet; reading and listening to the chant "Tala' al-Badru Alayna" (The Full Moon Has Risen over Us) and explaining its meanings, and the occasion it suits (summary only — no words transcribed) (student book; original target `music/religious-songs`) | Book 2, printed p. 36 |
 
-**Acceptance count: taught in 1 country (Jordan).** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 6:** *Creative Arts - Music Teachers' Guide, Primary 1* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 1 (student/teacher: TEACHER), 66 PDF pp. Verdict: COMPLETE. Tally: 16 placements — 15 to existing lessons, 1 NEW LESSON NEEDED. Rwanda's own way: music is taught entirely through Kinyarwanda songs sung in public — teacher sings slowly line by line, learners imitate, then sing alone, in pairs and in groups, explaining each song's words; Unit 2 adds clapping and movement kept strictly to the rhythm. All songs are placed by theme and purpose only, never by lyrics. Excluded (standing): the three units' General Assessment sections — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 3 Lesson 1: Religious songs — songs of faith praising God as creator who loves and protects the child, imitated and performed confidently in public (teacher guide — evidence; original target `music/religious-songs`) | Book 6, printed p. 52 |
+
+**Book 7:** *Creative Arts - Music Teachers' Guide, Primary 2* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 2 (student/teacher: TEACHER), 90 PDF pp. Verdict: COMPLETE. Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: P2 music is built on Rwandan songs only, in three accompaniment steps — Unit 1 with claps, Unit 2 with sounding instruments (drum, can, jerry can), Unit 3 with Rwanda's own rapid dances, umudiho and umushayayo, allying melody, steps and arms. Songs placed by theme and purpose only, never by lyrics. Parallel edition: *Ubugeni n'Ubuhanzi/Muzika P2 TG* (teacher guide, Kinyarwanda; REB, 2019, 99 PDF pp) — COMPLETE as a parallel language edition, content the same as this book; placed once under this book, with that edition named here. Excluded (standing): each unit's Assessment lesson — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 Lesson 5: Singing gospel songs accompanied by claps — gospel songs performed with claps, imitating the melody and singing in public (slug first proposed at Book 2, Unit 3 Lesson 1) (teacher guide — evidence; original target `music/religious-songs`) | Book 7, printed p. 32 |
+| Rwanda — Unit 2 Lesson 5: Religious songs, with sounding instruments — religious songs accompanied by sounding instruments respecting the rhythm (teacher guide — evidence; original target `music/religious-songs`) | Book 7, printed p. 56 |
+
+**Book 8:** *Music Teachers' Guide, Primary 3* (teacher guide, English; footer: Creative Arts-Fine Arts and Music, Teachers' Guide Primary 3; record title: Creative Arts — Music Teacher's Guide, Primary 3, © 2020 REB) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 3 (student/teacher: TEACHER), 71 PDF pp. Verdict: COMPLETE. Tally: 15 placements — 5 to existing lessons, 10 NEW LESSON NEEDED. Rwanda's own way: songs from different Rwandan cultures carry social teaching (against drug abuse, vagrancy and child abuse); Unit 2 accompanies them with Rwanda's own drums and calabash sockets; the guide names the regional traditional dances — ikinimba, umushayayo, igishakamba, ikinyemera — and teaches dancing in the Ikinyemera style, hands extended up like the long horns of the Inyambo parade cows. Songs placed by theme and purpose only, never by lyrics. Excluded (standing): each unit's End of Unit Assessment — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 3 Lesson 1: Gospel songs (verses and refrain) — performing gospel songs alternating verses and refrain, imitating the melody and singing in chorus (teacher guide — evidence; original target `music/religious-songs`) | Book 8, printed p. 46 |
+| Rwanda — Unit 3 Lesson 2: Gospel songs (verses and refrain, continued) — more gospel songs performed with alternating verses and refrain, accompanied by drums or another sounding instrument (teacher guide — evidence; original target `music/religious-songs`) | Book 8, printed p. 50 |
+| Rwanda — Unit 3 Lesson 3: Gospel songs (verses and refrain, continued) — further gospel songs sung verse-and-refrain in public, respecting rhythm (teacher guide — evidence; original target `music/religious-songs`) | Book 8, printed p. 53 |
+
+**Book 9:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book 4* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: TEACHER), 136 PDF pp. Verdict: COMPLETE. Tally: 35 placements — 23 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: the guide teaches the Work Book 4 course lesson by lesson (6 periods per music unit) and adds what the pupil's book only names: a church-songs lesson, children's-rights and environmental-protection songs with the umuduri, an inclusive-education icyivugo, and a staged concert performance closing every music unit. All placements are teacher-guide evidence; songs and poems placed by theme and purpose only. Excluded (standing): end-of-unit assessments and the guides' answer keys — assessment/apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 1 Lesson 5: Singing songs about Church — church songs sung in tune and matched to traditional rhythms (teacher guide evidence; not in the pupil's book contents) (teacher guide — evidence; original target `music/religious-songs`) | Book 9, printed p. 17 |
+
+**Book 10:** *Creative Arts for Rwanda Primary Schools — Learner's Book Five* (student book, English; title as printed: Creative Arts Book Five, Pupil's Book) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: STUDENT), 120 PDF pp. Verdict: COMPLETE. Tally: 30 placements — 19 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: P5 brings Rwanda's Intore war dance in full (the Chosen Ones, ingoma drum rhythms, ibyivugo woven into the performance) and teaches learners to compose their own short songs in Kinyarwanda. Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): each unit's Glossary — inventory-only, named here, not placed; each unit's Assessment — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 1 Lesson 1: Church music — church music as worship in which many participate; singing a church song from memory with clapping, actions and gestures that bring out its message, suggesting instruments to accompany it, and performing expressively (student book; original target `music/religious-songs`) | Book 10, printed p. 6 |
+
+**Book 11:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book Five* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: TEACHER), 128 PDF pp. Verdict: COMPLETE. Tally: 32 placements — 21 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: the guide adds the performance frame around Book Five's content — every music unit closes with a staged concert, Unit 3 composes a second patriotism song, and the Intore unit is taught as introduction, accompaniment, performance to umurishyo w'ingoma, then concert. All placements are teacher-guide evidence; songs placed by theme and purpose only. Excluded (standing): sample assessment sheets, grading guidance and answer keys — apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 1 Lesson 1: Singing in tune songs on the theme of church music with expressions — church songs sung in tune with expressions that carry the message (teacher guide evidence) (teacher guide — evidence; original target `music/religious-songs`) | Book 11, printed p. 2 |
+
+
+**Acceptance count: taught in 2 countries (Jordan, Rwanda).** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/sacred-and-religious-songs`); the Jordan placements were filed under the original string(s) `music/religious-songs` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
-Searchable tags: sacred and religious songs, Jordan
+Searchable tags: sacred and religious songs, Jordan, Rwanda
 
 **Book 3:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الأول بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 40 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 

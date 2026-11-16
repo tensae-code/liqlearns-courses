@@ -1,6 +1,6 @@
 # Sources — Shapes, Forms and Patterns in Colour
 
-countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia, Afghanistan
+countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia, Afghanistan, Rwanda
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -71,11 +71,36 @@ countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fij
 |---|---|
 | Mongolia — Part I: Эвэр угалзыг харьцуулах (comparing the horn pattern) and Хамар угалзтай танилцах (getting to know the nose pattern) — Mongolia's own угалз ornament (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 20, printed pp. 30, 31 |
 
-**Acceptance count: taught in 12 countries(Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan, Mongolia, Afghanistan).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 22:** *Creative Arts for Rwanda Primary Schools — Work Book 4* (student book, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: STUDENT), 112 PDF pp. Verdict: COMPLETE. Tally: 34 placements — 22 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: a pupil's workbook in two parts — Music, Dance and Drama (singing in traditional rhythms; the umuduri musical bow; icyivugo self-praise poetry) and Fine Arts and Crafts (drawing, motifs and stencil design, calligraphy and posters, clay, waste-material collage, embroidery). Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): glossaries at the ends of Fine Arts Units 2 and 4 — inventory-only, named here, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 2: Patterns in the surroundings; motifs — patterns made by repeating geometric or natural shapes, seen on shirts, dresses, mattress covers, bedsheets, curtains, table cloths, carpets and wall decorations; a repeated pattern set is a motif (student book) | Book 22, printed p. 67 |
+
+**Book 23:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book 4* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: TEACHER), 136 PDF pp. Verdict: COMPLETE. Tally: 35 placements — 23 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: the guide teaches the Work Book 4 course lesson by lesson (6 periods per music unit) and adds what the pupil's book only names: a church-songs lesson, children's-rights and environmental-protection songs with the umuduri, an inclusive-education icyivugo, and a staged concert performance closing every music unit. All placements are teacher-guide evidence; songs and poems placed by theme and purpose only. Excluded (standing): end-of-unit assessments and the guides' answer keys — assessment/apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 2 Lesson 1: Making patterns from our surroundings — making patterns and motifs from shapes found in the surroundings (teacher guide evidence) (teacher guide — evidence) | Book 23, printed p. 96 |
+
+**Book 24:** *Creative Arts for Rwanda Primary Schools — Learner's Book Five* (student book, English; title as printed: Creative Arts Book Five, Pupil's Book) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: STUDENT), 120 PDF pp. Verdict: COMPLETE. Tally: 30 placements — 19 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: P5 brings Rwanda's Intore war dance in full (the Chosen Ones, ingoma drum rhythms, ibyivugo woven into the performance) and teaches learners to compose their own short songs in Kinyarwanda. Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): each unit's Glossary — inventory-only, named here, not placed; each unit's Assessment — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 2: Motif patterns from the surroundings — making motifs in various ways from shapes in the surroundings and explaining how patterns and colour are applied on surfaces (student book) | Book 24, printed p. 62 |
+
+**Book 25:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book Five* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: TEACHER), 128 PDF pp. Verdict: COMPLETE. Tally: 32 placements — 21 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: the guide adds the performance frame around Book Five's content — every music unit closes with a staged concert, Unit 3 composes a second patriotism song, and the Intore unit is taught as introduction, accompaniment, performance to umurishyo w'ingoma, then concert. All placements are teacher-guide evidence; songs placed by theme and purpose only. Excluded (standing): sample assessment sheets, grading guidance and answer keys — apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 2 Lesson 1: Making motifs and patterns from the surroundings — making motifs and patterns from surrounding shapes (teacher guide evidence) (teacher guide — evidence) | Book 25, printed p. 74 |
+
+
+**Acceptance count: taught in 13 countries(Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan, Mongolia, Afghanistan, Rwanda).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 2 teacher-guide part is cited at section level only (§§1.4–1.5, printed pp. 12–22) because that guide is a scan with no text layer and two of its contents entries are partly degraded in the scan — the placements say so, and the lesson claims no body wording from it. The fraction work is taught as the Grade 4 book's own question — into how many parts is the circle divided, and what fraction is the blue part — without importing a fraction curriculum from outside the placements.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, shapes in colour, ዝርግ ቅርፅ, forms, patterns, fractions through drawing, pictorial composition, stories through pictures, locality practice, Bhutan, Papua New Guinea
+Searchable tags: Maldives, Exploring Creative Arts 4, shapes in colour, ዝርግ ቅርፅ, forms, patterns, fractions through drawing, pictorial composition, stories through pictures, locality practice, Bhutan, Papua New Guinea, Rwanda
 
 
 **Book 14:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

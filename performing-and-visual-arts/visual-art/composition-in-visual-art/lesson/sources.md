@@ -1,6 +1,6 @@
 # Sources — Composition in Visual Art
 
-countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colombia, Sudan, Belarus, Iran, Sri Lanka, Libya, Cuba, Saudi Arabia, Venezuela, Angola, Mongolia
+countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colombia, Sudan, Belarus, Iran, Sri Lanka, Libya, Cuba, Saudi Arabia, Venezuela, Angola, Mongolia, Rwanda
 
 **Book 1:** *Performing and Visual Arts Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (first published 2022, GEQIP-E). Writers: Jinenus Wako (M.A), Tujuba Beyene (M.A). 90 PDF pages; printed pp. i–vi + 1–78. Printed page ≈ PDF page − 11 in the body. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
@@ -114,11 +114,24 @@ countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colo
 |---|---|
 | Mongolia — Part I: Задгай зохиомжийн аргаар зурах (drawing by the open-composition method), Давтаж үүсгэн зурж дүрслэх (drawing by repetition) and Өнцөглөсөн зохиомжийн аргаар зурах (the angular-composition method) (student book; original target `visual-art/composition-in-visual-art`) | Book 31, printed pp. 15, 17, 19 |
 
-**Acceptance count: taught in 11 countries(Serbia, Mozambique, Colombia, Sudan, Belarus, Iran, Cuba, Saudi Arabia, Venezuela, Angola, Mongolia). Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 32:** *Creative Arts for Rwanda Primary Schools — Work Book 4* (student book, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: STUDENT), 112 PDF pp. Verdict: COMPLETE. Tally: 34 placements — 22 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: a pupil's workbook in two parts — Music, Dance and Drama (singing in traditional rhythms; the umuduri musical bow; icyivugo self-praise poetry) and Fine Arts and Crafts (drawing, motifs and stencil design, calligraphy and posters, clay, waste-material collage, embroidery). Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): glossaries at the ends of Fine Arts Units 2 and 4 — inventory-only, named here, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 1: Compositions from our surroundings; landscape — composing a picture by selecting a few objects from the surroundings and leaving out the rest, and drawing three objects together as a landscape (student book) | Book 32, printed p. 61 |
+
+**Book 33:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book 4* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: TEACHER), 136 PDF pp. Verdict: COMPLETE. Tally: 35 placements — 23 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: the guide teaches the Work Book 4 course lesson by lesson (6 periods per music unit) and adds what the pupil's book only names: a church-songs lesson, children's-rights and environmental-protection songs with the umuduri, an inclusive-education icyivugo, and a staged concert performance closing every music unit. All placements are teacher-guide evidence; songs and poems placed by theme and purpose only. Excluded (standing): end-of-unit assessments and the guides' answer keys — assessment/apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 1 Lesson 4: Drawing and painting from a landscape — drawing and painting a landscape composition from the surroundings (teacher guide evidence) (teacher guide — evidence) | Book 33, printed p. 92 |
+
+
+**Acceptance count: taught in 12 countries(Serbia, Mozambique, Colombia, Sudan, Belarus, Iran, Cuba, Saudi Arabia, Venezuela, Angola, Mongolia, Rwanda). Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 10 teacher's guide (federal Ministry of Education, 2022, GEQIP-E). Grade 10 has no student book in hand. The placements file summarises Lessons 7–9 by their three topics — the concept of composition, its importance/purposes, and composition-and-design in 2D and 3D; the lesson teaches at exactly that level and invents no composition rules, named principles or examples the placement does not give.
 
-Searchable tags: composition, composition in 2D and 3D, design, arranging, teacher guide evidence, Haiti, Colombia
+Searchable tags: composition, composition in 2D and 3D, design, arranging, teacher guide evidence, Haiti, Colombia, Rwanda
 
 **Book 19:** *Grade 9 Art Teacher Guide — චිත්‍ර කලාව (Sinhala medium) / சித்திரக் கலை (Tamil medium parallel edition)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first printing 2017, for the 2018 syllabus; no ISBN printed on the pages read. Grade: 9 (student/teacher: TEACHER). PDF pages: Sinhala 108 (front matter i–xxii + printed pp. 1–86); Tamil 128. Verdict: COMPLETE (both editions; the Tamil edition was spot-checked and carries the same competencies, activities and annexes — placements filed once for both editions). Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 

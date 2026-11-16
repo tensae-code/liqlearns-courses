@@ -1,6 +1,6 @@
 # Sources — Theatre on a Stage
 
-countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka, Venezuela
+countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka, Venezuela, Rwanda
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -33,11 +33,28 @@ countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka, Vene
 | Brazil — Folha 18 — theatre spaces through history: Greek hillside theatres, Rome's first curtains, medieval simultaneous staging on market squares, the Elizabethan round house, the Italian stage (student book; original target `drama-and-dance/theatre-on-a-stage`) | Book 10, printed p. 294 |
 | Venezuela — Público: the audience — the spectators who attend to recreate, reflect and appreciate, participating indirectly (approval or dislike) or directly (entering the action) (student book; original target `drama-and-dance/the-theatre-audience`) | Book 13, printed p. 49 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Honduras, Brazil, Jordan, Venezuela). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 14:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book 4* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: TEACHER), 136 PDF pp. Verdict: COMPLETE. Tally: 35 placements — 23 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: the guide teaches the Work Book 4 course lesson by lesson (6 periods per music unit) and adds what the pupil's book only names: a church-songs lesson, children's-rights and environmental-protection songs with the umuduri, an inclusive-education icyivugo, and a staged concert performance closing every music unit. All placements are teacher-guide evidence; songs and poems placed by theme and purpose only. Excluded (standing): end-of-unit assessments and the guides' answer keys — assessment/apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 1 Lesson 6: Staging a concert performance — staging a concert performance of the researched songs on the unit's themes before an audience, consolidating singing skills (teacher guide evidence) (teacher guide — evidence) | Book 14, printed p. 19 |
+| Rwanda — Part 1 Unit 2 Lesson 6: Staging a concert performance — a staged concert of the unit's researched songs with instrument accompaniment (teacher guide evidence) (teacher guide — evidence) | Book 14, printed p. 37 |
+| Rwanda — Part 1 Unit 3 Lesson 6: Staging a concert performance of ibyivugo — staging a concert performance of the class's own composed ibyivugo before an audience (teacher guide evidence) (teacher guide — evidence) | Book 14, printed p. 55 |
+
+**Book 15:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book Five* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: TEACHER), 128 PDF pp. Verdict: COMPLETE. Tally: 32 placements — 21 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: the guide adds the performance frame around Book Five's content — every music unit closes with a staged concert, Unit 3 composes a second patriotism song, and the Intore unit is taught as introduction, accompaniment, performance to umurishyo w'ingoma, then concert. All placements are teacher-guide evidence; songs placed by theme and purpose only. Excluded (standing): sample assessment sheets, grading guidance and answer keys — apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 1 Lesson 6: Staging a concert performance — staging a concert of the researched songs (general health, peace education, values and tolerance) sung in tune with emotional expressions (teacher guide evidence) (teacher guide — evidence) | Book 15, printed p. 16 |
+| Rwanda — Part 1 Unit 2 Lesson 4: Staging a concert performance of Intore — staging a concert performance of Intore according to umurishyo w'ingoma before an audience (teacher guide evidence) (teacher guide — evidence) | Book 15, printed p. 27 |
+| Rwanda — Part 1 Unit 3 Lesson 6: Staging a concert using the learners' own composed songs — staging a concert of the class's own compositions (patriotism, unity and reconciliation, hard work and success, religion) (teacher guide evidence) (teacher guide — evidence) | Book 15, printed p. 44 |
+
+
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Honduras, Brazil, Jordan, Venezuela). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 row is the series' own deepening of the same stage idea (its elements list — setting, character, plot, script, theme — is named in the provenance row only; the lesson's teaching stays at the Grade 2 stage picture and the menibanib, exactly as STRUCTURE.md groups them).
 
-Searchable tags: theatre on a stage, stage, audience, curtains, መነባንብ, menibanib, recitation, Abbay, Blue Nile, Grade 2, Grade 5, Egypt, stage areas, خشبة المسرح, Brazil
+Searchable tags: theatre on a stage, stage, audience, curtains, መነባንብ, menibanib, recitation, Abbay, Blue Nile, Grade 2, Grade 5, Egypt, stage areas, خشبة المسرح, Brazil, Rwanda
 
 
 **Book 11:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

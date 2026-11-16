@@ -1,6 +1,6 @@
 # Sources — Observing Our Surroundings
 
-countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola
+countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -42,11 +42,30 @@ countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Bel
 | Belarus — Part 1: The beauty of the surrounding environment — the colours of the native land in a picture gallery of the home countryside through the seasons, learning to notice the state of nature (student book; original target `first-steps/observing-our-surroundings`) | Book 10, printed pp. 6–7 |
 | Angola — Tema 1: visual perception — looking (olhar) versus knowing how to look (saber olhar); form is a thing's outer aspect; real forms have three dimensions, but drawn on paper, board, cement or sand they become two-dimensional because the surface has only length and width (student book; original target `first-steps/observing-our-surroundings`) | Book 13, printed pp. 6–9 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 14:** *Creative Arts - Fine Art Teachers' Guide, Primary 1* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 1 (student/teacher: TEACHER), 51 PDF pp. Verdict: COMPLETE. Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED. Rwanda's own way: every material comes from the surroundings — clay/red soil (inombe), natural fibres, leaves and found objects for printing — and each lesson ends with learners exhibiting work, choosing the best, and cleaning and storing materials. Excluded (standing): each unit's End of Unit Assessment lesson (Units 1-6) — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 Lesson 3: Drawing and painting from memory pictures of objects from the surroundings — observing plants, animals and humans around the school and drawing and painting them from memory (teacher guide — evidence) | Book 14, printed p. 17 |
+
+**Book 15:** *Creative Arts for Rwanda Primary Schools — Work Book 4* (student book, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: STUDENT), 112 PDF pp. Verdict: COMPLETE. Tally: 34 placements — 22 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: a pupil's workbook in two parts — Music, Dance and Drama (singing in traditional rhythms; the umuduri musical bow; icyivugo self-praise poetry) and Fine Arts and Crafts (drawing, motifs and stencil design, calligraphy and posters, clay, waste-material collage, embroidery). Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): glossaries at the ends of Fine Arts Units 2 and 4 — inventory-only, named here, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 1: Drawing and painting natural objects — visiting the environment, picking a natural object (plant, flower, leaf, insect, fruit) with its natural shape, and drawing and painting it big in attractive colours (student book) | Book 15, printed p. 60 |
+
+**Book 16:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book 4* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: TEACHER), 136 PDF pp. Verdict: COMPLETE. Tally: 35 placements — 23 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: the guide teaches the Work Book 4 course lesson by lesson (6 periods per music unit) and adds what the pupil's book only names: a church-songs lesson, children's-rights and environmental-protection songs with the umuduri, an inclusive-education icyivugo, and a staged concert performance closing every music unit. All placements are teacher-guide evidence; songs and poems placed by theme and purpose only. Excluded (standing): end-of-unit assessments and the guides' answer keys — assessment/apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 1 Lesson 3: Drawing and painting natural objects — drawing and painting natural objects from the surroundings (teacher guide evidence) (teacher guide — evidence) | Book 16, printed p. 91 |
+
+
+**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The definition of surroundings and the sound/movement distinction are the Grade 1 book's own Chapter 1 summary words (printed pp. 14–15), taught as the book states them. The teacher-guide row is evidence for the same watching skill and is labelled as such; the lesson's pupil-taught content rests on the student book.
 
-Searchable tags: observing our surroundings, surroundings, watching and telling, አካባቢን ማስተዋል, አካባቢ, Finland
+Searchable tags: observing our surroundings, surroundings, watching and telling, አካባቢን ማስተዋል, አካባቢ, Finland, Rwanda
 
 
 **Book 11:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Movement Songs
 
-countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan, Libya, Angola
+countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan, Libya, Angola, Rwanda
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -44,11 +44,18 @@ countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan, Libya, Angola
 | Papua New Guinea — Unit 3 Music, Topic Music Performance (Lessons 34–48) — singing repertoire and familiar songs with increasing vocal control, songs and games, folk tunes from other countries, action songs and hymns, singing rounds or canons, call-and-response songs, singing in parts, simple hymns and carols, melodic patterns, and playing percussion and melodic instruments in different ways (teacher guide — evidence) | Book 10, printed pp. 20–21, 39–40 |
 | Angola — G1 Tema 1.1: first small songs sung with stories — "As rodinhas" (little circles that become the letter a), the popular circle song "Girar é tão bom", and "O Pastorzinho", a shepherd song that sings dó-ré-mi-fá (student book; original target `music/movement-songs`) | Book 14, printed pp. 7–9 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Fiji, Jordan, Angola).** Fiji's Year 1-2 teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 15:** *Creative Arts - Music Teachers' Guide, Primary 1* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 1 (student/teacher: TEACHER), 66 PDF pp. Verdict: COMPLETE. Tally: 16 placements — 15 to existing lessons, 1 NEW LESSON NEEDED. Rwanda's own way: music is taught entirely through Kinyarwanda songs sung in public — teacher sings slowly line by line, learners imitate, then sing alone, in pairs and in groups, explaining each song's words; Unit 2 adds clapping and movement kept strictly to the rhythm. All songs are placed by theme and purpose only, never by lyrics. Excluded (standing): the three units' General Assessment sections — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 2 Lesson 2: Songs related to the environment, accompanied — accompanying a song with claps and movement that respect the rhythm, group by group, with the teacher correcting claps and movement against the song (teacher guide — evidence) | Book 15, printed p. 41 |
+
+
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Fiji, Jordan, Angola).** Fiji's Year 1-2 teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 1 placement asks for a GIF of the full clapping step pattern with children; full-body step choreography drawn frame by frame did not read truly, so the filed GIF carries the clap itself — the beat moment of the song — and the step pattern is taught in words and in the hands-on work. No motion that failed its frame check was filed.
 
-Searchable tags: movement songs, clapping, walking, riding, እናጨበጭባለን, ሽርሽር እንሂድ, ቼ ቼ ፈረሴ, beat, che che, Papua New Guinea
+Searchable tags: movement songs, clapping, walking, riding, እናጨበጭባለን, ሽርሽር እንሂድ, ቼ ቼ ፈረሴ, beat, che che, Papua New Guinea, Rwanda
 
 
 **Book 11:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

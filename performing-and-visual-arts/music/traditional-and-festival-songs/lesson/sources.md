@@ -1,6 +1,6 @@
 # Sources — Traditional and Festival Songs
 
-countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Sri Lanka, Angola
+countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Sri Lanka, Angola, Rwanda
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -68,11 +68,21 @@ countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia
 | Belarus — Part 3, "Returning home": calling the spring — the folk song "Zhavoronochki, pryliatsitse" (Larks, fly to us) and "My idziom hukats viasnu" (We are going to call the spring, words Tsitavets, music Siarykh) (student book; original target `music/traditional-and-festival-songs`) | Book 16, printed pp. 100–105 |
 | Angola — G1 Tema 1.3: local popular songs belong in class — each child asks a family member to teach a popular song of their own land and sings it to classmates (student book; original target `music/traditional-and-festival-songs`) | Book 23, printed p. 15 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Angola). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 24:** *Creative Arts - Music Teachers' Guide, Primary 1* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 1 (student/teacher: TEACHER), 66 PDF pp. Verdict: COMPLETE. Tally: 16 placements — 15 to existing lessons, 1 NEW LESSON NEEDED. Rwanda's own way: music is taught entirely through Kinyarwanda songs sung in public — teacher sings slowly line by line, learners imitate, then sing alone, in pairs and in groups, explaining each song's words; Unit 2 adds clapping and movement kept strictly to the rhythm. All songs are placed by theme and purpose only, never by lyrics. Excluded (standing): the three units' General Assessment sections — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 3 Lesson 2: Songs related to ceremonies — a New Year celebration song and a child-naming ceremony song in which the baby is given names by the gathered children (teacher guide — evidence) | Book 24, printed p. 54 |
+| Rwanda — Unit 3 Lesson 3: Songs related to ceremonies (celebration song) — a celebration song for naming a child, a baptism and the start of a new year, with singing and dancing (akadiho) (teacher guide — evidence) | Book 24, printed p. 56 |
+| Rwanda — Unit 3 Lesson 4: Songs related to wedding — wedding songs — marriage joining families, parents and friends who sing and dance for joy, and praise of the well-raised bride; the guide names the wedding stages (introduction, dowry-giving, civil and religious marriage) (teacher guide — evidence) | Book 24, printed p. 58 |
+| Rwanda — Unit 3 Lesson 5: Songs related to birthdays — birthday songs wishing a good birthday, thanking God for baptism and remembering the date, and what is done for a person on their birthday (dancing, gifts) (teacher guide — evidence) | Book 24, printed p. 60 |
+
+
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Angola). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Traditional songs are placed by name, season and purpose only; their lyrics are never transcribed in this lesson — the books themselves print several of them as repertoire, and the lesson follows the placements in naming and summarising rather than copying. The Genna game song "አሲና በል" (Asina Bel, Grade 3 student textbook, printed p. 54) is named in the placements as its own target and belongs with the Genna game in the Culture and Values festival lesson, not here; it is not stocked in this lesson.
 
-Searchable tags: traditional songs, festival songs, Abebayehush, Adey, Hoya Hoye, Buhe, wedding songs, አበባየሁሽ, አደይ, ሆያ ሆዬ, ቡሄ በሉ, ሙሽራየ, Meskel, Enqutatash, Debre Tabor, Nicaragua, Malta, Music Shines, Colombia
+Searchable tags: traditional songs, festival songs, Abebayehush, Adey, Hoya Hoye, Buhe, wedding songs, አበባየሁሽ, አደይ, ሆያ ሆዬ, ቡሄ በሉ, ሙሽራየ, Meskel, Enqutatash, Debre Tabor, Nicaragua, Malta, Music Shines, Colombia, Rwanda
 
 **Book 17:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

@@ -1,6 +1,6 @@
 # Sources — Anthems and Songs That Teach
 
-countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji, Belarus, Brazil, Morocco, Jordan, Libya, Cuba, Venezuela, Angola, Mongolia
+countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji, Belarus, Brazil, Morocco, Jordan, Libya, Cuba, Venezuela, Angola, Mongolia, Rwanda
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -90,11 +90,43 @@ countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji
 |---|---|
 | Mongolia — Монгол Улсын төрийн дуулал: the National Anthem of Mongolia, the book's opening item (student book; original target `music/anthems-and-songs-that-teach`) | Book 29, printed p. 5 |
 
-**Acceptance count: taught in 9 countries(Ethiopia, Honduras, Belarus, Brazil, Jordan, Cuba, Venezuela, Angola, Mongolia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher module plan — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 30:** *Creative Arts - Music Teachers' Guide, Primary 1* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 1 (student/teacher: TEACHER), 66 PDF pp. Verdict: COMPLETE. Tally: 16 placements — 15 to existing lessons, 1 NEW LESSON NEEDED. Rwanda's own way: music is taught entirely through Kinyarwanda songs sung in public — teacher sings slowly line by line, learners imitate, then sing alone, in pairs and in groups, explaining each song's words; Unit 2 adds clapping and movement kept strictly to the rhythm. All songs are placed by theme and purpose only, never by lyrics. Excluded (standing): the three units' General Assessment sections — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 Lesson 4: Songs related to politeness — a song teaching good manners and values — greeting, respect for elders, giving up a seat, working together and avoiding drugs — counted through the numbers one to ten (teacher guide — evidence) | Book 30, printed p. 32 |
+| Rwanda — Unit 2 Lesson 3: Songs related to politeness — the respect song (Kubaha) — mutual respect making the singers an example that brings peace wherever they go (teacher guide — evidence) | Book 30, printed p. 43 |
+
+**Book 31:** *Creative Arts for Rwanda Primary Schools — Work Book 4* (student book, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: STUDENT), 112 PDF pp. Verdict: COMPLETE. Tally: 34 placements — 22 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: a pupil's workbook in two parts — Music, Dance and Drama (singing in traditional rhythms; the umuduri musical bow; icyivugo self-praise poetry) and Fine Arts and Crafts (drawing, motifs and stencil design, calligraphy and posters, clay, waste-material collage, embroidery). Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): glossaries at the ends of Fine Arts Units 2 and 4 — inventory-only, named here, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 1: Gender equality — the song Uburinganire (Gender Equality) — testing statements about men and women, learning that learnable work is for both, and performing the song with clapping and dancing (student book) | Book 31, printed p. 9 |
+
+**Book 32:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book 4* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: TEACHER), 136 PDF pp. Verdict: COMPLETE. Tally: 35 placements — 23 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: the guide teaches the Work Book 4 course lesson by lesson (6 periods per music unit) and adds what the pupil's book only names: a church-songs lesson, children's-rights and environmental-protection songs with the umuduri, an inclusive-education icyivugo, and a staged concert performance closing every music unit. All placements are teacher-guide evidence; songs and poems placed by theme and purpose only. Excluded (standing): end-of-unit assessments and the guides' answer keys — assessment/apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 1 Lesson 3: Singing songs about Gender equality — gender-equality songs in tune and traditional rhythm (teacher guide evidence) (teacher guide — evidence) | Book 32, printed p. 10 |
+
+**Book 33:** *Creative Arts for Rwanda Primary Schools — Learner's Book Five* (student book, English; title as printed: Creative Arts Book Five, Pupil's Book) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: STUDENT), 120 PDF pp. Verdict: COMPLETE. Tally: 30 placements — 19 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: P5 brings Rwanda's Intore war dance in full (the Chosen Ones, ingoma drum rhythms, ibyivugo woven into the performance) and teaches learners to compose their own short songs in Kinyarwanda. Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): each unit's Glossary — inventory-only, named here, not placed; each unit's Assessment — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 1 Lesson 4: Values and Tolerance — songs on values and tolerance, sung in tune with expressions (unit theme) (student book) | Book 33, printed p. 16 |
+
+**Book 34:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book Five* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: TEACHER), 128 PDF pp. Verdict: COMPLETE. Tally: 32 placements — 21 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: the guide adds the performance frame around Book Five's content — every music unit closes with a staged concert, Unit 3 composes a second patriotism song, and the Intore unit is taught as introduction, accompaniment, performance to umurishyo w'ingoma, then concert. All placements are teacher-guide evidence; songs placed by theme and purpose only. Excluded (standing): sample assessment sheets, grading guidance and answer keys — apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 1 Lesson 4: Singing songs about Values and Tolerance with emotional expression — values-and-tolerance songs sung in tune with emotional expression (teacher guide evidence) (teacher guide — evidence) | Book 34, printed p. 11 |
+
+
+**Acceptance count: taught in 10 countries(Ethiopia, Honduras, Belarus, Brazil, Jordan, Cuba, Venezuela, Angola, Mongolia, Rwanda).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher module plan — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Both anthems are printed in full in the Grade 4 book; following the placements, they are placed here by name, role and teaching point only — no anthem or song text is transcribed anywhere in this lesson. The professionals song's credits are the book's own printed credits (melody Alemayehu W/Yohannes, poem Asefa Bekele). The Grade 6 appearance of the professionals song is the same song met again at the next level, as its placement extends it — it is one song, counted once.
 
-Searchable tags: anthem, regional anthem, national anthem, የታታሪ ህዝቦች, school song, ትምህርት ቤታችን, heritage song, elders' counsel, የአረጋውያን መዝሙር, professionals, forests, festival songs, Enqutatash, ethics song, Nicaragua, Iceland, Dægurspor, Finland, Brazil
+Searchable tags: anthem, regional anthem, national anthem, የታታሪ ህዝቦች, school song, ትምህርት ቤታችን, heritage song, elders' counsel, የአረጋውያን መዝሙር, professionals, forests, festival songs, Enqutatash, ethics song, Nicaragua, Iceland, Dægurspor, Finland, Brazil, Rwanda
 
 
 **Book 17:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

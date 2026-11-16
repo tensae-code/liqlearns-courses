@@ -1,6 +1,6 @@
 # Sources — Illustration and Book Design
 
-countries: Belarus, Bulgaria, Sri Lanka, Afghanistan
+countries: Belarus, Bulgaria, Sri Lanka, Afghanistan, Rwanda
 
 **Book 1:** *Выяўленчае мастацтва. 5 клас (Fine Arts, Grade 5)* (student book, Belarusian) — Belarus, Нацыянальны інстытут адукацыі (National Institute of Education), Minsk; year 2009; ISBN 978-985-465-593-2; authors М. І. Касабуцкі (M. I. Kasabutski), В. М. Касабуцкі (V. M. Kasabutski); approved by the Ministry of Education of the Republic of Belarus. Title as printed: ВЫЯЎЛЕНЧАЕ МАСТАЦТВА — Вучэбны дапаможнік для 5 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання. Для работы ў класе (Fine Arts — textbook for Grade 5, for work in class). Grade 5 (student book: STUDENT). PDF pages: 96 (imprint title verified against the record; byte size 7,948,218). Verdict: COMPLETE — read in full from the downloaded file's text layer, page by page through all 28 numbered sections (contents verified at printed p. 94); the "Пытанні і творчыя заданні" (questions and creative tasks) pages are named here as apparatus and not placed separately. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
@@ -8,11 +8,18 @@ countries: Belarus, Bulgaria, Sri Lanka, Afghanistan
 |---|---|
 | Belarus — Section 25, "Stylisation": simplifying an image down to geometric forms (a tree, an architectural shape), and stylised flower images in colour and in black-and-white variants (student book; original target `visual-art/stylising-shapes`) | Book 1, printed pp. 84–86 |
 
-**Acceptance count: taught in 3 countries (Belarus, Bulgaria, Afghanistan).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 5:** *Fine Art and Crafts — Primary Six Student's Book* (student book, English; Kigali, January 2019) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 6 (student/teacher: STUDENT), 72 PDF pp. Verdict: COMPLETE. Tally: 21 placements — 13 to existing lessons, 8 NEW LESSON NEEDED. Rwanda's own way: the fine-art ladder tops out at P6 with the full design system — elements and principles of drawing, tertiary colours, one-point perspective, motif layouts (full drop, half drop, border), serif/sans-serif lettering, pinch-built and glazed clay, six kinds of collage, and embroidery finished with carbon-paper pattern transfer and appliqué/monogram vocabulary. Excluded (standing): each unit's End Unit Assessment and Glossary — named here, not placed (glossary terms such as slip, ceramics, appliqué and monogram are used inside the lesson descriptions where the unit teaches them). Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 3 §3.2.3: Illustrations or images — using images together with letters to create more meaning in a design (sign posts, cards, books), making designs attractive and creative (student book; original target `visual-art/illustration-in-graphic-design`) | Book 5, printed p. 34 |
+
+
+**Acceptance count: taught in 4 countries (Belarus, Bulgaria, Afghanistan, Rwanda).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/illustration-and-book-design`). The Belarus placement(s) were filed under the original string(s) `visual-art/stylising-shapes`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
-Searchable tags: illustration, book design, stylisation, geometric forms, Belarus
+Searchable tags: illustration, book design, stylisation, geometric forms, Belarus, Rwanda
 
 **Book 2:** *Изобразително изкуство за 8. клас (Fine Arts for Grade 8)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-388/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-332-7. Authors: Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, Благомир Кирилов Папазов, Анна Илчева Цоловска. Grade: 8 (student/teacher: STUDENT). PDF pages: 50 (cover/title page verified against the record title; 57,104,388 bytes and 50 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

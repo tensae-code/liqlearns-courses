@@ -1,6 +1,6 @@
 # Sources — Looking at Pictures
 
-countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia
+countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwanda
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -46,11 +46,18 @@ countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia
 |---|---|
 | Mongolia — Part I: Хүүхдийн бүтээлийг унших (reading children's artworks) and Бодит болон хийсвэр зургийг харьцуулан унших (comparing and reading realistic and abstract pictures) (student book; original target `first-steps/looking-at-pictures`) | Book 12, printed pp. 18, 23 |
 
-**Acceptance count: taught in 4 countries(Ethiopia, Honduras, Finland, Mongolia). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 13:** *Creative Arts - Fine Arts Teachers' Guide, Primary 2* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 2 (student/teacher: TEACHER), 67 PDF pp. Verdict: COMPLETE. Tally: 20 placements — 12 to existing lessons, 8 NEW LESSON NEEDED. Rwanda's own way: the P1 six-unit ladder (drawing/painting, print-making, clay, weaving, puppetry/collage, embroidery) is climbed one step deeper — colour mixing is new, weaving materials are named in Kinyarwanda fibre by fibre, and embroidery grows from two stitches to six. Parallel edition: *Ubugeni n'Ubukorikori P2 TG* (teacher guide, Kinyarwanda; REB, 2019, 68 PDF pp) — COMPLETE as a parallel language edition, content the same as this book; placed once under this book, with that edition named here. Excluded (standing): each unit's End of Unit Assessment — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 2 Lesson 4: Study and use of pictures related to the environment — studying printed pictures of the environment, judging the beauty of the objects and caring for the materials and tools (teacher guide — evidence) | Book 13, printed p. 32 |
+
+
+**Acceptance count: taught in 4 countries(Ethiopia, Honduras, Finland, Mongolia). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 1 rests on the Grade 1 teacher guide's named visual-perception skill and is labelled teacher-guide evidence in the table; the lesson as a whole also rests on the student book's §1.5, so the acceptance count below counts the student book. The four family scenes are the student book's own §1.5 picture pages, described — not reproduced.
 
-Searchable tags: looking at pictures, reading a picture, picture message, identifying pictures, Finland
+Searchable tags: looking at pictures, reading a picture, picture message, identifying pictures, Finland, Rwanda
 
 **Book 9:** *دليل المعلم لمادة التربية الفنية — للسنة الأولى من التعليم الثانوي (Teacher's Guide for Art Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 97 (cover/title page verified against the record title). Verdict: COMPLETE — note: although titled the Year 1 guide, the volume carries the whole secondary course: syllabus maps for Years 1–3 (printed pp. 6–8), then each year's full sections and art plates, closing with teacher apparatus (the art plan, the art room, assessment elements — assessment named here, not placed, per the brief — and recommendations to the teacher). Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: although titled the Year 1 guide, the volume carries the whole secondary course (syllabus maps and sections for Years 1–3); its closing assessment apparatus is named in the placements, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 

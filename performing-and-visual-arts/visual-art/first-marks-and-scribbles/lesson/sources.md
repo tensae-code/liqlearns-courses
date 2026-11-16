@@ -1,6 +1,6 @@
 # Sources — First Marks and Scribbles
 
-countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan, Mongolia, Afghanistan
+countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan, Mongolia, Afghanistan, Rwanda
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -27,11 +27,18 @@ countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan, Mongolia, Afghanist
 |---|---|
 | Mongolia — Part I: Санаамсаргүйгээр толболон зурах (drawing with spots/blots spontaneously — free mark-making) (student book; original target `visual-art/first-marks-and-scribbles`) | Book 7, printed p. 10 |
 
-**Acceptance count: taught in 5 countries(Ethiopia, Maldives, Jordan, Mongolia, Afghanistan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 9:** *Creative Arts - Fine Art Teachers' Guide, Primary 1* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 1 (student/teacher: TEACHER), 51 PDF pp. Verdict: COMPLETE. Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED. Rwanda's own way: every material comes from the surroundings — clay/red soil (inombe), natural fibres, leaves and found objects for printing — and each lesson ends with learners exhibiting work, choosing the best, and cleaning and storing materials. Excluded (standing): each unit's End of Unit Assessment lesson (Units 1-6) — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 Lesson 1: How to use basic tools and materials; scribbles and simple shapes — identifying pencils, coloured pencils, pens, rubber, sharpener and paper, and drawing curved and zigzag scribbles (teacher guide — evidence) | Book 9, printed p. 14 |
+
+
+**Acceptance count: taught in 5 countries(Ethiopia, Maldives, Jordan, Mongolia, Afghanistan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Review placements fold into this lesson under the course folding rules: the Grade 1 Chapter 2 summary + review (printed pp. 34–35) and the Grade 2 Chapter 2 summary + closing exercise (printed pp. 45–46) are stocked as Sub lesson 3 and as question stock; no standalone Review lesson is built. The Grade 1 scribble page is picture-led (a full page of red scribble with no text layer beyond the running head); the placement is followed exactly as read.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, scribbling, ሞነጫጨር, first marks, free drawing, loosening the hand, first-level drawing method, Ethiopia Grade 1 Grade 2 drawing, Nicaragua
+Searchable tags: Maldives, Exploring Creative Arts 4, scribbling, ሞነጫጨር, first marks, free drawing, loosening the hand, first-level drawing method, Ethiopia Grade 1 Grade 2 drawing, Nicaragua, Rwanda
 
 
 **Book 6:** *رَسْمَةُ جود (Jude's Drawing) — Developmental Kindergarten Curriculum, Letters Stories Series (منهاج رياض الأطفال التطوري — سلسلة قصص الحروف); author Huda Al-Sha'er; illustrations Jihad Gharaybeh and Sireen Gharaybeh* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Amman; year 2022 imprint (first experimental edition 2020–2021); ISBN 978-9923-41-096-7. Grade: KG (student/teacher: STUDENT). PDF pages: 8 (cover/title page verified against the record title; byte size 6,290,452 matches record exactly; the story itself runs on printed pp. 3–8). Verdict: COMPLETE. Story placed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

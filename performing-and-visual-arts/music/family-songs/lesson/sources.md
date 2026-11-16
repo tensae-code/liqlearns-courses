@@ -1,6 +1,6 @@
 # Sources — Family Songs
 
-countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola
+countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola, Rwanda
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -40,11 +40,18 @@ countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, An
 | Belarus — Part 3, "The miracle of the lullaby": lullabies of different peoples side by side — a Belarusian folk lullaby, Gershwin's lullaby from the opera "Porgy and Bess", and Pauls's song of the boy and the cricket (student book; original target `music/family-songs`) | Book 9, printed pp. 95–99 |
 | Angola — G2 Tema 1.3 Canções lúdicas, jogos e brincadeiras: play songs and games, closing with "Saudades da minha mãe", a song of missing one's mother and greeting her with a hug, a kiss and a flower (student book; original target `music/family-songs`) | Book 13, printed pp. 32–33 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 14:** *Creative Arts - Music Teachers' Guide, Primary 1* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 1 (student/teacher: TEACHER), 66 PDF pp. Verdict: COMPLETE. Tally: 16 placements — 15 to existing lessons, 1 NEW LESSON NEEDED. Rwanda's own way: music is taught entirely through Kinyarwanda songs sung in public — teacher sings slowly line by line, learners imitate, then sing alone, in pairs and in groups, explaining each song's words; Unit 2 adds clapping and movement kept strictly to the rhythm. All songs are placed by theme and purpose only, never by lyrics. Excluded (standing): the three units' General Assessment sections — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 Lesson 2: Songs related to the family — songs honouring the family — parents who raise and care for the child, brothers and sisters — sung in groups with hand-clapping (teacher guide — evidence) | Book 14, printed p. 26 |
+
+
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No lyrics of any family song are transcribed; the songs are named and their messages summarised, as the placements give them. The same holds for Sub lesson 4's "ልጅነቴ" (My Childhood), added by Group G: named, sourced (ህይወት ማሞ, traditional melody) and summarised — never transcribed. The written-notes step is named and explained in words only — this lesson does not teach reading the notes themselves; that belongs to the notation lessons of Group E.
 
-Searchable tags: family songs, mother, father, sister, brother, እናቴ, አባቴ, እህቴ, ወንድሜ, ቤተሰብ, ቤተሰቦቻችን, singing from notes, ልጅነቴ, my childhood, ህይወት ማሞ
+Searchable tags: family songs, mother, father, sister, brother, እናቴ, አባቴ, እህቴ, ወንድሜ, ቤተሰብ, ቤተሰቦቻችን, singing from notes, ልጅነቴ, my childhood, ህይወት ማሞ, Rwanda
 
 **Book 10:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

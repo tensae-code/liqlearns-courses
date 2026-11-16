@@ -1,7 +1,7 @@
 # Sources — Appreciating Drawing
 
 
-countries: Ethiopia, Pakistan, Saudi Arabia, Angola
+countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -60,8 +60,21 @@ countries: Ethiopia, Pakistan, Saudi Arabia, Angola
 | Saudi Arabia — Still-life painters, world and Saudi — many artists in different eras became famous for drawing still nature in varied styles — Paul Cézanne, Pablo Picasso and William Perry — and locally the Saudi artists Abdul Halim Radwi, Mohammed Al-Salim and Abdul Jabbar Al-Yahya and others stood out; the paintings are examined (shading with degrees of pencil by… (student book; original target `visual-art/appreciating-drawing`) | Book 9, printed pp. 106–107 |
 | Angola — Tema 1 Aprende a desenhar: what drawing is — representing forms on a surface with strokes, lines, points or shadows — and the tools (charcoal/wax pencil, chalk, charcoal, brush, pen, finger) and surfaces (paper, card, wood, sand, clay) (student book; original target `visual-art/appreciating-drawing`) | Book 10, printed p. 5 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Pakistan, Saudi Arabia, Angola).**
+**Book 11:** *Creative Arts for Rwanda Primary Schools — Work Book 4* (student book, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: STUDENT), 112 PDF pp. Verdict: COMPLETE. Tally: 34 placements — 22 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: a pupil's workbook in two parts — Music, Dance and Drama (singing in traditional rhythms; the umuduri musical bow; icyivugo self-praise poetry) and Fine Arts and Crafts (drawing, motifs and stencil design, calligraphy and posters, clay, waste-material collage, embroidery). Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): glossaries at the ends of Fine Arts Units 2 and 4 — inventory-only, named here, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 1: How to display your works — displaying drawings on walls or soft boards pinned in straight vertical lines with equal spaces between works, then discussing one's own and friends' styles (student book) | Book 11, printed p. 62 |
+
+**Book 12:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book 4* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: TEACHER), 136 PDF pp. Verdict: COMPLETE. Tally: 35 placements — 23 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: the guide teaches the Work Book 4 course lesson by lesson (6 periods per music unit) and adds what the pupil's book only names: a church-songs lesson, children's-rights and environmental-protection songs with the umuduri, an inclusive-education icyivugo, and a staged concert performance closing every music unit. All placements are teacher-guide evidence; songs and poems placed by theme and purpose only. Excluded (standing): end-of-unit assessments and the guides' answer keys — assessment/apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 1 Lesson 5: Display and discussion of pupils' drawings and paintings — displaying the class's drawings and discussing them together (teacher guide evidence) (teacher guide — evidence) | Book 12, printed p. 94 |
+
+
+**Acceptance count: taught in 5 countries (Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda).**
 
 No honesty flags attach to this placement; it is followed exactly as read.
 
-Searchable tags: appreciating drawing, what is drawing, drawing materials charcoal, classroom exhibition showing work, Ethiopia Grade 2 drawing appreciation
+Searchable tags: appreciating drawing, what is drawing, drawing materials charcoal, classroom exhibition showing work, Ethiopia Grade 2 drawing appreciation, Rwanda

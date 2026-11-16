@@ -1,6 +1,6 @@
 # Sources — Making and Composing Music
 
-countries: Barbados, Suriname, Cuba, Venezuela, Mongolia
+countries: Barbados, Suriname, Cuba, Venezuela, Mongolia, Rwanda
 
 **Book 1:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
 
@@ -46,11 +46,31 @@ countries: Barbados, Suriname, Cuba, Venezuela, Mongolia
 |---|---|
 | Mongolia — Зохицуулагч (the arranger/composer) and Би хөгжмийн зохиолч (I am a composer) — first composing (student book; original target `music/composing-first-pieces`) | Book 9, printed pp. 16, 18 (same NEW lesson proposed from the Grade 5 book) |
 
-**Acceptance count: taught in 2 countries(Venezuela, Mongolia) — this lesson stands on Barbados curriculum syllabus evidence only, named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 10:** *Creative Arts for Rwanda Primary Schools — Learner's Book Five* (student book, English; title as printed: Creative Arts Book Five, Pupil's Book) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: STUDENT), 120 PDF pp. Verdict: COMPLETE. Tally: 30 placements — 19 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: P5 brings Rwanda's Intore war dance in full (the Chosen Ones, ingoma drum rhythms, ibyivugo woven into the performance) and teaches learners to compose their own short songs in Kinyarwanda. Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): each unit's Glossary — inventory-only, named here, not placed; each unit's Assessment — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 3 Lesson 1: Hard work and success; what encourages composers — what inspires a composer (life experiences — success from hard work, sadness from war or loss, weddings, campaigns, sports, worship), the structure of a song, and composing in Kinyarwanda: arrange words on the theme with flowing rhythm and rhyme, create a melody, match melody to lyrics, rehearse and perform for comments; named Rwandan artists (Kitoko Shanel, Riderman, Tom Close, King James, Mani Martin) (student book; original target `music/composing-songs-in-kinyarwanda`) | Book 10, printed p. 30 |
+| Rwanda — Part 1 Unit 3 Lesson 2: Unity and Reconciliation (composing) — songs are created from poems called lyrics; working from a Kinyarwanda unity poem (Rwanda Rwatubyaye (student book; original target `music/composing-songs-in-kinyarwanda`) | Book 10, printed p. 33 |
+| Rwanda — Part 1 Unit 3 Lesson 3: Patriotism (composing) — composing a short song on patriotism by the same process — lyrics with rhyme and rhythm, a created melody matched to them, rehearsal and performance (student book; original target `music/composing-songs-in-kinyarwanda`) | Book 10, printed p. 35 |
+| Rwanda — Part 1 Unit 3 Lesson 4: Religion (composing) — composing a short song on a religious theme by the same lyrics-melody process (student book; original target `music/composing-songs-in-kinyarwanda`) | Book 10, printed p. 37 |
+
+**Book 11:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book Five* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: TEACHER), 128 PDF pp. Verdict: COMPLETE. Tally: 32 placements — 21 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: the guide adds the performance frame around Book Five's content — every music unit closes with a staged concert, Unit 3 composes a second patriotism song, and the Intore unit is taught as introduction, accompaniment, performance to umurishyo w'ingoma, then concert. All placements are teacher-guide evidence; songs placed by theme and purpose only. Excluded (standing): sample assessment sheets, grading guidance and answer keys — apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 3 Lesson 1: Composing and performing a song about Hard work and Success in Kinyarwanda — composing lyrics with rhyme and rhythm on hard work and success, creating and matching a melody, and performing (teacher guide evidence) (teacher guide — evidence; original target `music/composing-songs-in-kinyarwanda`) | Book 11, printed p. 32 |
+| Rwanda — Part 1 Unit 3 Lesson 2: Composing and performing a song about Unity and Reconciliation in Kinyarwanda — composing and performing a unity-and-reconciliation song (teacher guide evidence) (teacher guide — evidence; original target `music/composing-songs-in-kinyarwanda`) | Book 11, printed p. 35 |
+| Rwanda — Part 1 Unit 3 Lesson 3: Composing and performing a song about Patriotism in Kinyarwanda — composing and performing a patriotism song (teacher guide evidence) (teacher guide — evidence; original target `music/composing-songs-in-kinyarwanda`) | Book 11, printed p. 37 |
+| Rwanda — Part 1 Unit 3 Lesson 4: Composing and performing a song about Religion in Kinyarwanda — composing and performing a religious song (teacher guide evidence) (teacher guide — evidence; original target `music/composing-songs-in-kinyarwanda`) | Book 11, printed p. 40 |
+| Rwanda — Part 1 Unit 3 Lesson 5: Composing and performing a second song about Patriotism in Kinyarwanda — a further patriotism composition, deepening the lyrics-melody matching process (teacher guide evidence) (teacher guide — evidence; original target `music/composing-songs-in-kinyarwanda`) | Book 11, printed p. 42 |
+
+
+**Acceptance count: taught in 3 countries(Venezuela, Mongolia, Rwanda) — this lesson stands on Barbados curriculum syllabus evidence only, named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/making-and-composing-music`); the Barbados placements were filed under the original string `music/composing-simple-tunes-and-lyrics`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: composing starts in Class 1, from the same three recorder notes the children are learning to read — B, A and G — fitted to given rhythm patterns, with lyrics of their own.
 
-Searchable tags: composing, B A G, rhythm patterns, lyrics, Barbados, making music
+Searchable tags: composing, B A G, rhythm patterns, lyrics, Barbados, making music, Rwanda
 
 **Book 4:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. "Exigencias para la evaluación" (printed p. 72) and teacher bibliography (pp. 74–76) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
 

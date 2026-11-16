@@ -1,7 +1,7 @@
 # Sources — The Primary Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan
+countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -37,11 +37,18 @@ countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan
 | Iran — Painting L2, Primary colours: رنگهای اصلی: the pure primary colours, known by name and seen at work in Persian miniature painting (student book) | Book 8, printed p. 24 |
 | Angola — Tema 2.2: the primary colours named as magenta-red, cyan-blue and yellow (student book; original target `visual-art/the-primary-colours`) | Book 11, printed p. 27 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Book 13:** *Creative Arts for Rwanda Primary Schools — Learner's Book Five* (student book, English; title as printed: Creative Arts Book Five, Pupil's Book) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: STUDENT), 120 PDF pp. Verdict: COMPLETE. Tally: 30 placements — 19 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: P5 brings Rwanda's Intore war dance in full (the Chosen Ones, ingoma drum rhythms, ibyivugo woven into the performance) and teaches learners to compose their own short songs in Kinyarwanda. Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): each unit's Glossary — inventory-only, named here, not placed; each unit's Assessment — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 1: Colour and its behaviour (primary colours) — the three primary colours red, yellow and blue, which appear naturally and cannot be made by mixing any other colours (student book) | Book 13, printed p. 51 |
+
+
+**Acceptance count: taught in 9 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Sub lesson 5 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's basic-colours lesson and colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook, so the acceptance count counts pupil-taught content. The song "መስራች ቀለማት" is named and its teaching summarised only — its words are not transcribed; the song is sung in the Music unit's Primary Colours Song lesson. The Grade 3 chapter summary's closing exercise carries the check item "green is a primary colour — false", which the question stock uses.
 
-Searchable tags: primary colours መስራች, red yellow blue, basic colours, mother and father of colours, sorting colours, Ethiopia Grade 3 colours, Nicaragua, Colombia
+Searchable tags: primary colours መስራች, red yellow blue, basic colours, mother and father of colours, sorting colours, Ethiopia Grade 3 colours, Nicaragua, Colombia, Rwanda
 
 
 **Book 9:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

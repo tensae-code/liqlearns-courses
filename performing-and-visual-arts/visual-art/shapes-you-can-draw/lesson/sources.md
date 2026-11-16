@@ -1,7 +1,7 @@
 # Sources — Shapes You Can Draw
 
 
-countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka, Libya, Angola, Mongolia, Afghanistan
+countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka, Libya, Angola, Mongolia, Afghanistan, Rwanda
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -99,11 +99,42 @@ countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Bel
 |---|---|
 | Mongolia — Part II: Тэгш өнцөгт биетийн дэлгээс байгуулах (building the net/development of a rectangular solid) and Тэгш өнцөгт биет бүтээх, загварчлах (making and modelling a rectangular solid) (student book; original target `visual-art/shapes-you-can-draw`) | Book 27, printed pp. 40, 42 |
 
-**Acceptance count: taught in 12 countries(Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus, Jordan, Sri Lanka, Angola, Mongolia, Afghanistan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 32:** *Creative Arts - Fine Art Teachers' Guide, Primary 1* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 1 (student/teacher: TEACHER), 51 PDF pp. Verdict: COMPLETE. Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED. Rwanda's own way: every material comes from the surroundings — clay/red soil (inombe), natural fibres, leaves and found objects for printing — and each lesson ends with learners exhibiting work, choosing the best, and cleaning and storing materials. Excluded (standing): each unit's End of Unit Assessment lesson (Units 1-6) — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 Lesson 2: Drawing and painting simple objects with different shapes — drawing and painting circle, triangle, quadrangle and rectangle shapes, and objects of those shapes such as stone and brick (teacher guide — evidence) | Book 32, printed p. 16 |
+
+**Book 33:** *Creative Arts - Fine Arts Teachers' Guide, Primary 2* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 2 (student/teacher: TEACHER), 67 PDF pp. Verdict: COMPLETE. Tally: 20 placements — 12 to existing lessons, 8 NEW LESSON NEEDED. Rwanda's own way: the P1 six-unit ladder (drawing/painting, print-making, clay, weaving, puppetry/collage, embroidery) is climbed one step deeper — colour mixing is new, weaving materials are named in Kinyarwanda fibre by fibre, and embroidery grows from two stitches to six. Parallel edition: *Ubugeni n'Ubukorikori P2 TG* (teacher guide, Kinyarwanda; REB, 2019, 68 PDF pp) — COMPLETE as a parallel language edition, content the same as this book; placed once under this book, with that edition named here. Excluded (standing): each unit's End of Unit Assessment — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 Lesson 1: Drawing and painting different materials with basic shapes — drawing objects with quadrangle, triangle and circle shapes (cup, brick, stone) and painting them with water colours, colour pencils, crayons, pastel or gouache (teacher guide — evidence) | Book 33, printed p. 19 |
+
+**Book 34:** *Creative Arts-Fine Teachers' Guide, Primary 3* (teacher guide, English; footer: Creative Arts-Fine Arts and Music, Teachers' Guide Primary 3; record title: Creative Arts — Fine Arts and Music Teacher's Guide, Primary 3, © 2020 REB) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 3 (student/teacher: TEACHER), 60 PDF pp. Verdict: COMPLETE. Tally: 16 placements — 10 to existing lessons, 6 NEW LESSON NEEDED. Rwanda's own way: the same six-unit ladder at P3 depth — clay gains named techniques (coiling, slab, incision, impression), weaving is taught explicitly as Rwandan culture (basket, van and mat with the traditional iron needle), and embroidery ends in sewing a button and its buttonhole. Parallel edition: *Ubugeni n'Ubukorikori P3 TG* (teacher guide, Kinyarwanda; REB, 2019, 70 PDF pp) — COMPLETE as a parallel language edition, content the same as this book; placed once under this book, with that edition named here. Excluded (standing): each unit's End of Unit Assessment — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 Lesson 1: Drawing and painting objects of different shapes inspired from the surrounding — drawing and painting still-life and nature objects by the geometric shapes and polygons in them (teacher guide — evidence) | Book 34, printed p. 17 |
+
+**Book 35:** *Creative Arts for Rwanda Primary Schools — Work Book 4* (student book, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: STUDENT), 112 PDF pp. Verdict: COMPLETE. Tally: 34 placements — 22 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: a pupil's workbook in two parts — Music, Dance and Drama (singing in traditional rhythms; the umuduri musical bow; icyivugo self-praise poetry) and Fine Arts and Crafts (drawing, motifs and stencil design, calligraphy and posters, clay, waste-material collage, embroidery). Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): glossaries at the ends of Fine Arts Units 2 and 4 — inventory-only, named here, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 1: Drawing artificial objects (still life) — geometric shapes (rectangle, square, triangle, circle) in man-made classroom objects, in sizes from very small to very big, and drawing and painting two such objects big and clear (student book) | Book 35, printed p. 58 |
+
+**Book 36:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book 4* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: TEACHER), 136 PDF pp. Verdict: COMPLETE. Tally: 35 placements — 23 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: the guide teaches the Work Book 4 course lesson by lesson (6 periods per music unit) and adds what the pupil's book only names: a church-songs lesson, children's-rights and environmental-protection songs with the umuduri, an inclusive-education icyivugo, and a staged concert performance closing every music unit. All placements are teacher-guide evidence; songs and poems placed by theme and purpose only. Excluded (standing): end-of-unit assessments and the guides' answer keys — assessment/apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 1 Lesson 2: Drawing and painting basic objects — drawing and painting basic (geometric-shaped) objects (teacher guide evidence) (teacher guide — evidence) | Book 36, printed p. 89 |
+
+
+**Acceptance count: taught in 13 countries(Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus, Jordan, Sri Lanka, Angola, Mongolia, Afghanistan, Rwanda).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 3 forms placement (printed pp. 30–31) also carries a paper-collage picture (Drawing 17, flowers made by cutting and pasting papers); collage-making belongs to the Making cluster of this course, so only the forms content of those pages is stocked here and the collage is not taught in this lesson. Grade 2's house placement spans printed pp. 36–38 and the car placement is on printed p. 38, exactly as placed.
 
-Searchable tags: shapes, oval ዝርግ ቅርፅ open shape, regular shapes, geometric shapes pyramid circle square rectangle, forms ፎርም cylinder cube cone, house from shapes, car from shapes, Ethiopia drawing, Romania, Haiti
+Searchable tags: shapes, oval ዝርግ ቅርፅ open shape, regular shapes, geometric shapes pyramid circle square rectangle, forms ፎርም cylinder cube cone, house from shapes, car from shapes, Ethiopia drawing, Romania, Haiti, Rwanda
 
 
 **Book 14:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Beautiful Writing
 
-countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Libya, Cuba, Mongolia
+countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Libya, Cuba, Mongolia, Rwanda
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -119,7 +119,32 @@ countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus,
 |---|---|
 | Mongolia — Lesson 10: Антикva үсгийн уран бичлэгийн онцлог (the features of Antiqua lettering as calligraphy) (student book; original target `visual-art/beautiful-writing`) | Book 33, printed p. 40 |
 
-**Acceptance count: taught in 13 countries(Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria, Libya, Cuba, Mongolia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added on its Grades 3–9 student calligraphy workbooks — counted in the acceptance count; the Libya Grade 1 teacher guide part is evidence only, kept outside it. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 34:** *Creative Arts for Rwanda Primary Schools — Work Book 4* (student book, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: STUDENT), 112 PDF pp. Verdict: COMPLETE. Tally: 34 placements — 22 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: a pupil's workbook in two parts — Music, Dance and Drama (singing in traditional rhythms; the umuduri musical bow; icyivugo self-praise poetry) and Fine Arts and Crafts (drawing, motifs and stencil design, calligraphy and posters, clay, waste-material collage, embroidery). Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): glossaries at the ends of Fine Arts Units 2 and 4 — inventory-only, named here, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 3: Calligraphy — designing one's two names in chosen letter types, uniform in height along straight lines, coloured — artistic lettering (calligraphy) judged by neatness, clarity and attractive colour (student book) | Book 34, printed p. 78 |
+
+**Book 35:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book 4* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: TEACHER), 136 PDF pp. Verdict: COMPLETE. Tally: 35 placements — 23 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: the guide teaches the Work Book 4 course lesson by lesson (6 periods per music unit) and adds what the pupil's book only names: a church-songs lesson, children's-rights and environmental-protection songs with the umuduri, an inclusive-education icyivugo, and a staged concert performance closing every music unit. All placements are teacher-guide evidence; songs and poems placed by theme and purpose only. Excluded (standing): end-of-unit assessments and the guides' answer keys — assessment/apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 3 Lesson 2: Calligraphic designs — calligraphic designs — artistic lettering of names and texts (teacher guide evidence) (teacher guide — evidence) | Book 35, printed p. 101 |
+
+**Book 36:** *Creative Arts for Rwanda Primary Schools — Learner's Book Five* (student book, English; title as printed: Creative Arts Book Five, Pupil's Book) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: STUDENT), 120 PDF pp. Verdict: COMPLETE. Tally: 30 placements — 19 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: P5 brings Rwanda's Intore war dance in full (the Chosen Ones, ingoma drum rhythms, ibyivugo woven into the performance) and teaches learners to compose their own short songs in Kinyarwanda. Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): each unit's Glossary — inventory-only, named here, not placed; each unit's Assessment — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 3: Writing in calligraphy — writing in calligraphy — artistic lettering as a design element (student book) | Book 36, printed p. 83 |
+
+**Book 37:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book Five* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: TEACHER), 128 PDF pp. Verdict: COMPLETE. Tally: 32 placements — 21 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: the guide adds the performance frame around Book Five's content — every music unit closes with a staged concert, Unit 3 composes a second patriotism song, and the Intore unit is taught as introduction, accompaniment, performance to umurishyo w'ingoma, then concert. All placements are teacher-guide evidence; songs placed by theme and purpose only. Excluded (standing): sample assessment sheets, grading guidance and answer keys — apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 2 Unit 3 Lesson 3: Writing in calligraphic hand — writing in a calligraphic hand (teacher guide evidence) (teacher guide — evidence) | Book 37, printed p. 84 |
+
+
+**Acceptance count: taught in 14 countries(Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria, Libya, Cuba, Mongolia, Rwanda). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added on its Grades 3–9 student calligraphy workbooks — counted in the acceptance count; the Libya Grade 1 teacher guide part is evidence only, kept outside it. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: the Grade 5 calligraphy plates placement (single/double/shaded examples in Amharic and English, with a two-tied-pencils GIF need) is stocked inside Sub lesson 5's practice set, where the Grade 6 book turns the same two-tools method into practice; no separate plate part is claimed. Line-kind Amharic names and spellings (ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, ነጠላ, ድርብ) are copied exactly from the Grade 3 placements.
 
@@ -127,7 +152,7 @@ Kuwait honesty notes, carried exactly as filed: Kuwait's own way — beautiful w
 
 Egypt honesty notes, carried exactly as filed: Egypt's own way — beautiful writing is practised as pure copying: the whole workbook is page after page of one model sentence written in Ruqʿah script (خط الرقعة) at the head of the page and printed again mid-page, with ruled lines between and below for the pupil to copy it over and over, each page closed by date and grade lines for the teacher. Exclusions: none named for this workbook — it carries no separate assessment or glossary sections; its back cover carries five value statements in print (not pupil teaching items).
 
-Searchable tags: calligraphy, ኪነ-ፅህፈት, beautiful writing, letter forms, single writing, ነጠላ, double writing, ድርብ, line types, ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, fidel, English letters, Yigezu Bisrat, ሰላም, Kuwait, Arabic calligraphy, الخط العربي, Naskh, خط النسخ, Ruqʿah, خط الرقعة, Noura Khaled Al-Owaiban Al-Enezi, Egypt, Egypt Grade 9 calligraphy, Nicaragua, Brazil
+Searchable tags: calligraphy, ኪነ-ፅህፈት, beautiful writing, letter forms, single writing, ነጠላ, double writing, ድርብ, line types, ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, fidel, English letters, Yigezu Bisrat, ሰላም, Kuwait, Arabic calligraphy, الخط العربي, Naskh, خط النسخ, Ruqʿah, خط الرقعة, Noura Khaled Al-Owaiban Al-Enezi, Egypt, Egypt Grade 9 calligraphy, Nicaragua, Brazil, Rwanda
 
 **Book 23:** *Изобразително изкуство за 8. клас (Fine Arts for Grade 8)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-388/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-332-7. Authors: Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, Благомир Кирилов Папазов, Анна Илчева Цоловска. Grade: 8 (student/teacher: STUDENT). PDF pages: 50 (cover/title page verified against the record title; 57,104,388 bytes and 50 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

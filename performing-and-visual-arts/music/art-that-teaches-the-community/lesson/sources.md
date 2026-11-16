@@ -1,6 +1,6 @@
 # Sources — Art That Teaches the Community
 
-countries: Ethiopia, Egypt, Fiji, Papua New Guinea, Morocco, Libya
+countries: Ethiopia, Egypt, Fiji, Papua New Guinea, Morocco, Libya, Rwanda
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -37,11 +37,54 @@ countries: Ethiopia, Egypt, Fiji, Papua New Guinea, Morocco, Libya
 |---|---|
 | Morocco — "A Friend Told Me" (قال لي صديق) — a road-safety song — a friend asks how you walk in the street; the singer walks on the far right, keeps order, uses the pedestrian crossing, watches at all times and follows the traffic guide (summary only) (teacher guide — evidence; original target `music/art-that-teaches-the-community`) | Book 6, printed p. 96 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Egypt).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 8:** *Creative Arts - Music Teachers' Guide, Primary 2* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 2 (student/teacher: TEACHER), 90 PDF pp. Verdict: COMPLETE. Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: P2 music is built on Rwandan songs only, in three accompaniment steps — Unit 1 with claps, Unit 2 with sounding instruments (drum, can, jerry can), Unit 3 with Rwanda's own rapid dances, umudiho and umushayayo, allying melody, steps and arms. Songs placed by theme and purpose only, never by lyrics. Parallel edition: *Ubugeni n'Ubuhanzi/Muzika P2 TG* (teacher guide, Kinyarwanda; REB, 2019, 99 PDF pp) — COMPLETE as a parallel language edition, content the same as this book; placed once under this book, with that edition named here. Excluded (standing): each unit's Assessment lesson — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 Lesson 2: Singing songs accompanied by claps about security — safety songs for home, street and school, performed with claps respecting the rhythm (teacher guide — evidence) | Book 8, printed p. 20 |
+| Rwanda — Unit 1 Lesson 3: Singing songs accompanied by claps about health and child's rights — songs teaching health and the rights of the child, performed with claps in public (teacher guide — evidence) | Book 8, printed p. 24 |
+
+**Book 9:** *Music Teachers' Guide, Primary 3* (teacher guide, English; footer: Creative Arts-Fine Arts and Music, Teachers' Guide Primary 3; record title: Creative Arts — Music Teacher's Guide, Primary 3, © 2020 REB) — Rwanda, Rwanda Education Board (REB), 2020, no ISBN printed, Grade Primary 3 (student/teacher: TEACHER), 71 PDF pp. Verdict: COMPLETE. Tally: 15 placements — 5 to existing lessons, 10 NEW LESSON NEEDED. Rwanda's own way: songs from different Rwandan cultures carry social teaching (against drug abuse, vagrancy and child abuse); Unit 2 accompanies them with Rwanda's own drums and calabash sockets; the guide names the regional traditional dances — ikinimba, umushayayo, igishakamba, ikinyemera — and teaches dancing in the Ikinyemera style, hands extended up like the long horns of the Inyambo parade cows. Songs placed by theme and purpose only, never by lyrics. Excluded (standing): each unit's End of Unit Assessment — assessment only, named here, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Unit 1 Lesson 1: Songs about drug abuse — songs from Rwandan cultures fighting drug abuse, sung respecting their rhythms (teacher guide — evidence) | Book 9, printed p. 19 |
+| Rwanda — Unit 1 Lesson 2: Songs about fighting against vagrancy — songs urging good behaviour and against vagrancy (wandering idleness), with movements respecting the rhythm (teacher guide — evidence) | Book 9, printed p. 21 |
+| Rwanda — Unit 1 Lesson 3: Songs that emphasize social welfare and good human relationship — the song Tugire ingeso nziza (Let us have good habits) — behaving properly in society, coming home promptly after school — sung and danced in public (teacher guide — evidence) | Book 9, printed p. 22 |
+
+**Book 10:** *Creative Arts for Rwanda Primary Schools — Work Book 4* (student book, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: STUDENT), 112 PDF pp. Verdict: COMPLETE. Tally: 34 placements — 22 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: a pupil's workbook in two parts — Music, Dance and Drama (singing in traditional rhythms; the umuduri musical bow; icyivugo self-praise poetry) and Fine Arts and Crafts (drawing, motifs and stencil design, calligraphy and posters, clay, waste-material collage, embroidery). Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): glossaries at the ends of Fine Arts Units 2 and 4 — inventory-only, named here, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 2: Drug abuse song with umuduri — the song Say No to Drug Abuse — its advice to young people — sung from memory, clapped and danced, then performed with umuduri accompaniment (student book) | Book 10, printed p. 21 |
+| Rwanda — Part 1 Unit 2: HIV/AIDS song with umuduri — a song about HIV/AIDS (what it is, how it is avoided, caring for patients), matched to rhythm and accompanied on the umuduri with practised fingering (student book) | Book 10, printed p. 24 |
+
+**Book 11:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book 4* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: TEACHER), 136 PDF pp. Verdict: COMPLETE. Tally: 35 placements — 23 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: the guide teaches the Work Book 4 course lesson by lesson (6 periods per music unit) and adds what the pupil's book only names: a church-songs lesson, children's-rights and environmental-protection songs with the umuduri, an inclusive-education icyivugo, and a staged concert performance closing every music unit. All placements are teacher-guide evidence; songs and poems placed by theme and purpose only. Excluded (standing): end-of-unit assessments and the guides' answer keys — assessment/apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 2 Lesson 1: Singing songs about Drug abuse with music instrument (umuduri) — anti-drug songs in tune and traditional rhythm accompanied on the umuduri (teacher guide evidence) (teacher guide — evidence) | Book 11, printed p. 22 |
+| Rwanda — Part 1 Unit 2 Lesson 2: Singing songs about HIV/AIDS with umuduri — HIV/AIDS songs accompanied by the umuduri, matching traditional rhythms (teacher guide evidence) (teacher guide — evidence) | Book 11, printed p. 26 |
+| Rwanda — Part 1 Unit 2 Lesson 4: Singing songs about Children rights with music instrument — children's-rights songs sung and accompanied, respecting life and rights (teacher guide evidence; not in the pupil's book) (teacher guide — evidence) | Book 11, printed p. 32 |
+
+**Book 12:** *Creative Arts for Rwanda Primary Schools — Learner's Book Five* (student book, English; title as printed: Creative Arts Book Five, Pupil's Book) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: STUDENT), 120 PDF pp. Verdict: COMPLETE. Tally: 30 placements — 19 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: P5 brings Rwanda's Intore war dance in full (the Chosen Ones, ingoma drum rhythms, ibyivugo woven into the performance) and teaches learners to compose their own short songs in Kinyarwanda. Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): each unit's Glossary — inventory-only, named here, not placed; each unit's Assessment — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 1 Lesson 3: Peace Education — a peace song — the characteristics of peace, what encourages peace at home, school and village, and what happens without it — performed with actions and emotional expressions (student book) | Book 12, printed p. 13 |
+
+**Book 13:** *Creative Arts for Rwanda Primary Schools — Teacher's Guide Book Five* (teacher guide, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 5 (student/teacher: TEACHER), 128 PDF pp. Verdict: COMPLETE. Tally: 32 placements — 21 to existing lessons, 11 NEW LESSON NEEDED. Rwanda's own way: the guide adds the performance frame around Book Five's content — every music unit closes with a staged concert, Unit 3 composes a second patriotism song, and the Intore unit is taught as introduction, accompaniment, performance to umurishyo w'ingoma, then concert. All placements are teacher-guide evidence; songs placed by theme and purpose only. Excluded (standing): sample assessment sheets, grading guidance and answer keys — apparatus only, not placed. **Teacher guide — EVIDENCE only, kept outside the acceptance count.** Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Part 1 Unit 1 Lesson 3: Singing songs about Peace Education with emotional expressions — peace-education songs performed expressively (teacher guide evidence) (teacher guide — evidence) | Book 13, printed p. 8 |
+
+
+**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Rwanda).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 HIV/AIDS and doping are taught exactly in the pupil book's own framing and wording, as a warning teaching. Both songs are placed by name, teaching/purpose and (for the Grade 6 reprint) printed credit line only; no lyrics are transcribed.
 
-Searchable tags: art that teaches the community, traffic safety, The Careful Student, ጠንቃቃ ተማሪ, Solomon Gela, Ezra Abate, HIV AIDS prevention, So AIDS Does Not Catch Us, doping stimulant drugs, Egypt, saving water, theatre sketch, Papua New Guinea
+Searchable tags: art that teaches the community, traffic safety, The Careful Student, ጠንቃቃ ተማሪ, Solomon Gela, Ezra Abate, HIV AIDS prevention, So AIDS Does Not Catch Us, doping stimulant drugs, Egypt, saving water, theatre sketch, Papua New Guinea, Rwanda
 
 **Book 7:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الثاني بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 2 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 2 (student/teacher: TEACHER). PDF pages: 44 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
