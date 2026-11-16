@@ -12784,3 +12784,105 @@ Grade 4, anchored in the Kingdom's own production —
 dates, milk and oil — and ending with a buy-Saudi-made
 activity at the supermarket. Economics lessons:
 390 → 394.
+
+## Economics expansion — Haiti — built 2026-11-15
+
+Haiti — 11 placements stocked from 4 teacher guides
+(Projet Nectar / MENFP teaching sequences, French;
+no year printed; no ISBN printed) — every placement
+cited as teacher-guide evidence only, OUTSIDE the
+acceptance counts. The set's curriculum programmes
+(Books 1, 15, 24, 28, 30, 31, 33, 35 of the filing)
+are record-only with 0 placements, as filed. 7 stocked
+into standing lessons — **People and Resources**:
+Absolute and relative poverty (Séance 1, Pauvreté et
+richesse dans le monde, des critères à différentes
+échelles, printed p. 11 — what makes a country,
+community or person poor or rich, whether a universal
+poverty threshold exists, and how the answer changes
+with scale; acceptance unchanged — taught in 2
+countries, Ethiopia and Nicaragua); The
+Multidimensional Poverty Index (Séance 1 presentation
+/ prerequisites, printed p. 3 — the indicators used to
+compare countries: GDP, HDI, life expectancy, calories
+per day, multidimensional poverty index, and an
+indicator as a constructed, debatable measure;
+acceptance unchanged — taught in 1 country, Ethiopia)
+— **Global Issues**: Inequality in the world economy
+(Séance 2, Les inégalités géographiques, des causes
+multiples, printed p. 16 — colonisation and
+decolonisation, exploitation of resources by local
+elites and international firms, embargoes and customs
+policies, financialisation, illicit financial flows,
+natural conditions and infrastructure; acceptance
+unchanged — taught in 1 country, Iran); Health
+inequality — access to care and vaccines worldwide
+(Séance 4, L'inégalité sanitaire dans le monde,
+printed p. 22 — pharmaceutical production and the
+medicine trade, pandemics, trust in medicine, read
+from indicators, reports and maps; the same Séance 4
+of the same book placed in the Geography wave that
+built this lesson; acceptance unchanged — taught in
+0 countries, teacher-sequence evidence only) —
+**Resources and Conflict**: Global food supply
+(Séance 3, L'insécurité alimentaire dans le monde,
+printed p. 18 — food insecurity, hunger, malnutrition
+and overconsumption as a dimension of world inequality,
+with FAO indicators and case studies; acceptance
+unchanged — taught in 1 country, United Kingdom) —
+**Macroeconomics**: The current account (Séance 4,
+Les Haïtiens de l'extérieur, Temps 3, printed p. 17 —
+diaspora money transfers studied from statistics,
+region by region, and the weight of the foreign
+currency from transfers in the country's accounts;
+acceptance unchanged — taught in 1 country, Ethiopia);
+Mercantilism — the gold view of trade (Séance 1, De
+la conquête et de la colonisation européennes à
+l'économie de plantation, printed p. 12 — the
+plantation economy as a mercantilist system, colonies
+run for the exclusive benefit of the metropole under
+the exclusif, built on the transatlantic slave trade
+and enslaved labour in Saint-Domingue; acceptance
+unchanged — taught in 1 country, Ethiopia) — the 5
+placements from *L'inégale répartition des richesses
+et la solidarité mondiale* (Grade 8, 26 PDF pp.,
+COMPLETE), 1 from *Population urbaine et population
+rurale en Haïti* (Grade 8, 24 PDF pp., PARTIAL) and 1
+from *L'esclavage et l'économie de plantation* (Grade
+8, 42 PDF pp., PARTIAL) — and 4 new lessons built
+(12 questions each, all standing on teacher-guide
+evidence only — acceptance 0 countries, Haiti named,
+counted nowhere): **Macroeconomics**: Haiti's diaspora
+remittances and the national economy (Séance 4, Temps
+3-4, printed p. 17 — pupils map where Haitians abroad
+live, work from statistics on their money transfers,
+weigh the foreign currency in the country's accounts,
+and graph the diaspora's contribution to the national
+economy, reading press analysis calling the diaspora
+the economy's lifeline); Haiti's independence debt and
+the double debt (Séances 2-4, printed pp. 9-16 — the
+1825 ordinance imposing an indemnity in exchange for
+recognition, the 1838 treaties, and borrowing from
+French banks to pay the indemnity: debt plus loans);
+Public debt and development — Haiti's case (Séance 1,
+La dette et le développement d'Haïti, un débat
+contemporain ?, printed p. 7 — analysing the effects
+of a country's debt and successive loans on its
+development, the neocolonialism-by-debt argument, and
+the restitution/reparations debate) — the debt lessons
+from *La dette de l'indépendance ou le néocolonialisme
+par la dette* (Grade 9, 42 PDF pp., PARTIAL) —
+**Microeconomics**: The plantation economy of colonial
+Saint-Domingue (Séance 1, Temps 2, Traces de l'économie
+de plantation, printed p. 14 — the habitation as a
+production unit: sugar, coffee and indigo estates
+inventoried from vestiges, maps and plans near the
+school, each recorded by its planter, size and
+enslaved workforce). Haiti's own way: poverty and
+wealth built from pupils' own representations and
+Haitian data, the national economy taught through the
+diaspora, the plantation economy reconstructed from
+vestiges on Haiti's own ground, and public debt taught
+entirely through Haiti's own case as a year-long
+enquiry ending in the restitution debate. Economics
+lessons: 394 → 398.
