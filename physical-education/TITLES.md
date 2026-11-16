@@ -57,3 +57,10 @@ Games of Mozambique**
 and **Teaching and Organising PE**
 (`sport-and-its-story/teaching-and-organising-pe`)
 — 3 new lessons, bringing this course to 70 lessons.
+
+The PE expansion then added: **Physical Literacy and
+Lifelong Activity**
+(`sport-and-its-story/physical-literacy-and-lifelong-activity`)
+and **Running Sports Organisations**
+(`sport-and-its-story/running-sports-organisations`)
+— 2 new lessons, bringing this course to 72 lessons.

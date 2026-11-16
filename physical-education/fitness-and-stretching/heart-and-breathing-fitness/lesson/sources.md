@@ -1,6 +1,6 @@
 # Sources — Heart and Breathing Fitness
 
-countries: Ethiopia
+countries: Ethiopia, Namibia
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -25,6 +25,8 @@ countries: Ethiopia
 
 **Book — Grade 1 teacher (teacher guide — evidence):** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
+**Book — Namibia Grades 10–11 PE4Life teacher guide (teacher guide — evidence):** *Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11* (teacher guide, English) — Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11 — Grade: Grades 10–11 (student/teacher: TEACHER) — Publisher: Ministry of Education, Arts & Culture, Namibia (with the University of Namibia, UNAM); year: no year printed (the Grade 10–11 PE syllabus it serves was completed February 2018); ISBN: no ISBN printed — PDF pages: 142 (cover verified against the record title). Other content named, not placed: the Healthy Lifestyle sessions' financial-literacy topic (Session 9) is a life-skill topic outside PE/Health scope — named here only. Verdict: COMPLETE. The ministry server (moe.gov.na) returned an empty reply on both http and https; the file was recovered from the Wayback Machine's 2019-07-12 capture of the recorded URL (142 pages, 5,619,247 bytes), cover rendered and verified, full text read page by page. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/namibia-pe-placements.md. Namibia's own way: PE is delivered as "PE4Life" — quality PE sessions fused with Sport for Development: every practical session pairs a PE topic with a personal-development or healthy-lifestyle theme, opens and closes in a team circle, and treats the educator as a role model who connects with learners; sport is used openly as a tool against Namibia's lifestyle diseases and HIV.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What heart and breathing fitness is | Ethiopia, Grade 1 student §4.1 Heart and breathing-system strength, printed pp. 41–45 |
@@ -46,7 +48,8 @@ countries: Ethiopia
 | Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence) | Ethiopia, Grade 1 teacher, rope-jumping for fitness (teacher guide — evidence), printed pp. 39–40 |
 | Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 8 (teacher guide — evidence) | Ethiopia, Grade 7 teacher Chapter 3 summary + review answers (teacher guide — evidence), printed pp. 44–45 |
 | Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 5 (teacher guide — evidence) | Ethiopia, Grade 5 teacher Chapter 3 summary + assessment answers — the circuit-training answer (teacher guide — evidence), printed pp. 33–34 |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
+| Namibia — Chapter 6, Sample Session 7 — practical session: cardiorespiratory endurance (teacher guide — evidence) (original target `fitness-and-stretching/heart-and-breathing-fitness`) | Namibia, *Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (PE4Life Guide)*, Chapter 6, Sample Session 7, printed p. 94 |
+**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
