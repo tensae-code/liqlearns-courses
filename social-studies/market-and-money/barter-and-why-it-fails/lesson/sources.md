@@ -1,6 +1,6 @@
 # Sources — Barter — and why it fails
 
-countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan
+countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Zimbabwe
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -68,7 +68,24 @@ Eritrea's own way (Eritrea Grade 5 Social Studies 5 (Tigrinya)): trade is taught
 
 South Sudan's own way (South Sudan Primary 6): trade is taught as a tree — internal trade splits into wholesale and retail, external into import and export, with South Sudan's own lists (imports raw sugar, medicine, cereal flour, cars; exports coffee and oil) — and every sector study (tourism, fishing) is carried through benefits, problems and solutions for the country's economy.
 
-**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan).**
+**Book 10:** *PlusOne Social Science ECD A Teacher's Guide* (teacher guide, English) — Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-134-3. Title as printed: PlusOne Social Science ECD A Teacher's Guide (author Chenai D. Masama). Grade: ECD A / KG1 (student/teacher: TEACHER). PDF pages: 79 (cover verified against the record title). Verdict: COMPLETE. Contents map: Identity/family pp. 1–6; Civics (my country, anthem, flag) pp. 7–9; Heritage pp. 10–13; Economics parts pp. 17–19 (work produces goods and services) and pp. 60–63 (careers; financial literacy); Transport and communication pp. 24–29; Shelter pp. 30–34; Global issues/safety pp. 35–40; Managing change pp. 41–44; Social etiquette p. 45; Rights and responsibilities pp. 47–53; Health pp. 55–59; Religion pp. 64–68; Social services and volunteerism pp. 69–72 (the two later lessons also titled "Work produces goods and services", printed pp. 19–20, are heritage lessons on artefacts and musical instruments, not Economics). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe part — Financial literacy: in a shop we use money to buy things and money is easier; barter is swapping things when you have no money ("I give you my banana, you give me your orange"), practised in a shop-corner role play with play money (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science ECD A Teacher's Guide*, Financial literacy — printed pp. 62–63 |
+
+**Book 11:** *PlusOne Social Science ECD B Teacher's Guide* (teacher guide, English) — Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-134-3 as printed on the imprint page (the imprint page repeats the ECD A title and ISBN — a publisher's error; the cover is ECD B). Title as printed: PlusOne Social Science ECD B Teacher's Guide (author Chenai D. Masama). Grade: ECD B / KG2 (student/teacher: TEACHER). PDF pages: 92 (cover verified against the record title). Verdict: COMPLETE. Contents map: Identity/family pp. 1–8; Civics (anthem, flag, national colours) pp. 9–12; Heritage pp. 13–16; Economics parts pp. 20–22 (work produces goods and services) and pp. 75–79 (careers; financial literacy); Transport and communication pp. 28–37; Shelter pp. 38–44; Global issues/safety pp. 45–51; Managing change pp. 52–56; Social etiquette p. 57; Rights and responsibilities pp. 60–65; Health pp. 67–73; Religion pp. 80–82; Social services and volunteerism pp. 83–86 (the two later lessons also titled "Work produces goods and services", printed pp. 23–24, are heritage lessons on artefacts and musical instruments, not Economics). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe part — Financial literacy: money trade (the vendor gives goods, the customer gives money) versus barter trade (trading goods without money, e.g. maize for beans), with vendor/customer/money vocabulary read from a market scene and a market-corner role play using play money (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science ECD B Teacher's Guide*, Financial literacy — printed pp. 78–79 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Zimbabwe's own way (PlusOne Social Science ECD A Teacher's Guide) (teacher guide — evidence): the Heritage-Based Curriculum infant syllabus carries a named "Career guidance and financial literacy" topic from age 4 — Economics begins as goods vs services told through the cook and the baker, a bread production chain (farmer → miller → baker), and a play shop corner where children practise buying with play money and swapping by barter.
+
+Zimbabwe's own way (PlusOne Social Science ECD B Teacher's Guide) (teacher guide — evidence): ECD B repeats the infant Economics ladder one year up with local goods — maize, clay pots (pfuko), baskets (tswanda) — and a market scene that names vendor (seller), customer (buyer) and money before the money-versus-barter role play.
+
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
@@ -76,4 +93,4 @@ Uganda's own way: barter is taught as the economic organisation of pre-colonial 
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox, mongolia, barter, livestock goods-money, paper money 1236, south sudan
+Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox, mongolia, barter, livestock goods-money, paper money 1236, south sudan, zimbabwe, teacher guide evidence

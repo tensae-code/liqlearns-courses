@@ -1,6 +1,6 @@
 # Sources — Cost curves and profit
 
-countries: Ethiopia, Belarus, Malaysia
+countries: Ethiopia, Belarus, Malaysia, Zimbabwe
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -21,8 +21,17 @@ countries: Ethiopia, Belarus, Malaysia
 
 Belarus's own way: economics arrives inside a philosophy-and-civics course as the ethics of work — profit defined on one diagram, then wages, the subsistence minimum and the consumer basket as measures of a decent life. This placement keeps that way: profit is met at work, inside the Theme VII work chapters, before the person is met as a consumer.
 
-**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Malaysia).**
+**Book 4:** *PlusOne Social Science Grade 7 Teacher's Guide* (teacher guide, English) — Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-139-8. Title as printed: PlusOne Social Science Grade 7 Teacher's Guide (author Moreblessing Masuka). Grade: 7 (student/teacher: TEACHER). PDF pages: 150 (cover verified against the record title). Verdict: COMPLETE. Contents map: Identity/family Units 1–3, printed pp. 1–8; History/Civics (independence, regional and international organisations) Units 4 and 6, pp. 9–10 and 13–14 (Unit 6 names SADC/COMESA trade benefits among wider membership benefits — Civics, named not placed); Economics parts: Unit 5 (land reform programme) pp. 11–12, Units 11–13 (human capital; self-reliance and employment creation; tourism in SADC) pp. 24–31, Unit 26 (ownership of property) pp. 64–66 and Unit 35 (financial literacy) pp. 90–91; Heritage Units 7–10, pp. 15–23; Transport and communication Units 14–18, pp. 32–45; Shelter Units 19–21, pp. 46–51 (Unit 21, ways of acquiring accommodation — buying with title deeds or a mortgage, building, inheriting — is property law/Civics, named not placed); Global issues Unit 22, pp. 52–55; Managing change Unit 23, pp. 56–59; Social etiquette Units 24–25, pp. 60–63; Rights Units 27–28, pp. 67–71 (inheritance and gender equity law); Health Units 29–33, pp. 72–87; Career guidance Units 34 and 36, pp. 88–89 and 92–96 (study skills and choosing a career — named, not placed); Religion Units 37–44, pp. 97–119; Social services Units 45–46, pp. 120–124. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe part — Unit 35: Financial literacy: gross profit as the income left after subtracting the cost of goods sold, net profit as what remains after all expenses are deducted, and profit-and-loss accounts among the financial statements that show a business's financial health (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 7 Teacher's Guide*, Unit 35: Financial literacy — printed pp. 90–91 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Malaysia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Zimbabwe's own way (PlusOne Social Science Grade 7 Teacher's Guide) (teacher guide — evidence): Grade 7 teaches the country's own economic story outright — land reform as redistribution for economic empowerment, human capital built through VTCs and colleges, self-reliance through cooperatives and vending, and tourism counted in foreign currency and jobs — and its financial-literacy unit reaches gross and net profit and the profit-and-loss account.
+
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: cost curves, U-shaped ATC, marginal cost, three marginal-average rules, profit TR minus TC, price minus AC times quantity, ethiopia, belarus, profit, net profit, social studies, microeconomics, malaysia
+Searchable tags: cost curves, U-shaped ATC, marginal cost, three marginal-average rules, profit TR minus TC, price minus AC times quantity, ethiopia, belarus, profit, net profit, social studies, microeconomics, malaysia, zimbabwe, teacher guide evidence

@@ -14272,3 +14272,135 @@ national budget (Belanjawan), and Malaysia's
 own trade composition and direction as the
 data pupils analyse. Economics lessons:
 458 → 461.
+
+## Economics expansion — Zimbabwe — built 2026-11-16
+
+Zimbabwe — 40 placements stocked from 9
+books (9 records / 9 distinct books filed;
+all PlusOne Social Science teacher's guides,
+ECD A, ECD B and Grades 1–7, English,
+Secondary Book Press Private Limited,
+Harare, first published 2025). The placement
+lines actually written are 29 to existing
+lessons + 11 NEW LESSON NEEDED, matching
+the wave close's 40; the 11 NEW lines form
+7 distinct new topics, because
+microeconomics/goods-and-services is placed
+4 times (ECD A, ECD B, Grades 1 and 2) and
+macroeconomics/why-tourism-matters-to-an-economy
+is placed twice (Grades 6 and 7). All 9
+books are teacher guides, so every Zimbabwe
+placement is cited as teacher-guide evidence
+only, OUTSIDE the acceptance counts, in
+every row: no existing lesson's acceptance
+count rises, and every new lesson stands on
+teacher-guide evidence only with acceptance
+0 — Zimbabwe named there, counted nowhere.
+The one exception in form only: Trade —
+supply, demand and consumer rights already
+carried Zimbabwe (Grade 6) as teacher-guide
+evidence from the Geography wave, so the
+Economics filing of the same Unit 33 is
+stocked as a distinct evidence row against
+the book entry already cited there, not as
+a second book. Stocked into standing
+lessons — Microeconomics: Production —
+turning inputs into outputs (ECD A p. 18;
+ECD B p. 22; acceptance unchanged at 4) and
+Cost curves and profit (Grade 7 Unit 35,
+pp. 90–91 — gross and net profit and the
+profit-and-loss account; unchanged at 3) —
+Culture and Work: Sources of income (11
+placements: ECD A pp. 60–61; ECD B
+pp. 75–77; Grade 1 Unit 35, pp. 71–72;
+Grade 2 Unit 32, pp. 58–59; Grade 3 Unit 13,
+pp. 43–44; Grade 4 Unit 15, pp. 52–53 and
+Unit 39, pp. 123–125; Grade 5 Unit 14,
+p. 42 and Unit 40, pp. 110–112; Grade 6
+Unit 15, pp. 33–34; Grade 7 Unit 12,
+pp. 26–27; unchanged at 4); Personal budget
+and saving (6 placements: Grade 1 Unit 35,
+pp. 71–73; Grade 2 Unit 32, pp. 58–59;
+Grade 3, pp. 129–131 — the worked $10
+budget; Grade 4 Unit 39, pp. 123–125;
+Grade 5 Unit 40, pp. 110–113; Grade 7
+Unit 35, pp. 90–91; unchanged at 3); What
+money is and what it does (Grade 3,
+p. 129; unchanged at 1); Starting a small
+business project (Grade 5 Unit 14, p. 42;
+unchanged at 1); Trade — supply, demand
+and consumer rights (Grade 6 Unit 33,
+pp. 75–76; unchanged at 6, Zimbabwe already
+named there) — Market and Money: Barter
+and why it fails (ECD A pp. 62–63; ECD B
+pp. 78–79; unchanged at 7); Financial
+intermediaries — savers to borrowers
+(Grade 6 Unit 41, pp. 92–94 — CBZ, Stanbic,
+FBC, NBS, Zimnat, Nicoz Diamond; unchanged
+at 2); Microfinance and group lending
+(Grade 6 Unit 41, pp. 92–94; unchanged
+at 1) — People and Resources: Sectors of
+the economy (Grade 7 Unit 11, pp. 24–25;
+unchanged at 6); Cottage industries and
+cooperatives against poverty (Grade 7
+Unit 12, pp. 26–27; unchanged at 1). And
+the NEW topic stocked into the standing
+lesson built for Syria in this expansion:
+Why tourism matters to an economy (Grade 6
+Unit 16, pp. 35–36 — Victoria Falls,
+Hwange, Great Zimbabwe, foreign currency;
+Grade 7 Unit 13, pp. 28–31 — tourism in
+SADC; acceptance unchanged at 1, Syria).
+And 6 new lessons built (12 questions
+each) — in Microeconomics: Goods and
+services (ECD A p. 17; ECD B pp. 20–21;
+Grade 1 Unit 14, pp. 27–29; Grade 2
+Unit 12, pp. 22–23) and Property ownership
+and patent rights (Grade 7 Unit 26,
+pp. 64–66) — in Macroeconomics: National
+strategic reserves (Grade 5 Unit 13,
+pp. 38–41 — Grain Marketing Board, NOCZIM,
+ZINWA, ZETDC, Reserve Bank of Zimbabwe);
+Poverty in the community — causes, effects
+and ways out (Grade 5 Unit 26, pp. 73–74);
+Zimbabwe's land reform programme (Grade 7
+Unit 5, pp. 11–12); Human capital
+development (Grade 7 Unit 11, pp. 24–25 —
+VTCs, universities, nursing and teacher
+colleges, ZIMDEF). Checked first:
+production-of-goods-and-services covers
+material vs immaterial production and
+goods-necessary-and-unnecessary covers
+necessary vs luxury goods, not the basic
+goods-vs-services split; the poverty
+lessons cover lines and measurement, not
+the community causes-effects-ways-out
+lesson; investing-in-human-capital (France)
+and human-capital-formation (Bahamas) cover
+studies-as-investment and the maximised
+stock, not development through Zimbabwe's
+named training institutions;
+caring-for-family-property covers care, not
+property kinds, ownership types and patent
+rights; no existing lesson covers strategic
+reserves or Zimbabwe's land reform; and
+why-tourism-matters-to-an-economy already
+existed, so it was stocked, not rebuilt.
+Zimbabwe's own way: the Heritage-Based
+Curriculum carries a named "Career guidance
+and financial literacy" topic from age 4 —
+goods vs services through the cook and the
+baker, a bread production chain, and a play
+shop corner with play money and barter;
+financial literacy climbs a ladder from the
+piggy bank and formal/informal work to the
+worked $10 budget, bills, Zimbabwe's own
+reserve institutions and named banks and
+insurers, gross and net profit — and
+Grades 5–7 teach the country's own economic
+story outright: strategic reserves, poverty
+and its ways out, land reform, human
+capital, self-reliance through cooperatives
+and vending, and tourism counted in foreign
+currency and jobs. Economics lessons:
+461 → 467.

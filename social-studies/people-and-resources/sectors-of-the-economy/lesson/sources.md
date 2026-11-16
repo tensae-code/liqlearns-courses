@@ -1,6 +1,6 @@
 # Sources — Sectors Of The Economy
 
-countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait
+countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Zimbabwe
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -56,7 +56,16 @@ countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait
 | Kuwait part — Economic sectors: industry, trade and services — the three sectors, with trade defined as exchanging goods and split into its types, taught as a family dialogue about choosing trade work | Kuwait, *Kuwait Grade 7 Social Studies G7 T2*, Economic sectors: industry, trade and services — printed p. 39 |
 
 
-**Acceptance count: taught in 6 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait).**
+**Book 10:** *PlusOne Social Science Grade 7 Teacher's Guide* (teacher guide, English) — Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-139-8. Title as printed: PlusOne Social Science Grade 7 Teacher's Guide (author Moreblessing Masuka). Grade: 7 (student/teacher: TEACHER). PDF pages: 150 (cover verified against the record title). Verdict: COMPLETE. Contents map: Identity/family Units 1–3, printed pp. 1–8; History/Civics (independence, regional and international organisations) Units 4 and 6, pp. 9–10 and 13–14 (Unit 6 names SADC/COMESA trade benefits among wider membership benefits — Civics, named not placed); Economics parts: Unit 5 (land reform programme) pp. 11–12, Units 11–13 (human capital; self-reliance and employment creation; tourism in SADC) pp. 24–31, Unit 26 (ownership of property) pp. 64–66 and Unit 35 (financial literacy) pp. 90–91; Heritage Units 7–10, pp. 15–23; Transport and communication Units 14–18, pp. 32–45; Shelter Units 19–21, pp. 46–51 (Unit 21, ways of acquiring accommodation — buying with title deeds or a mortgage, building, inheriting — is property law/Civics, named not placed); Global issues Unit 22, pp. 52–55; Managing change Unit 23, pp. 56–59; Social etiquette Units 24–25, pp. 60–63; Rights Units 27–28, pp. 67–71 (inheritance and gender equity law); Health Units 29–33, pp. 72–87; Career guidance Units 34 and 36, pp. 88–89 and 92–96 (study skills and choosing a career — named, not placed); Religion Units 37–44, pp. 97–119; Social services Units 45–46, pp. 120–124. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe part — Unit 11: Human capital development in Zimbabwe: careers sorted by industry sector — primary industry (farming, fishing, mining), secondary industry (manufacturing: boiler makers, fitters and turners, tailors, technicians), tertiary industry (teaching, nursing, banking, insurance) — plus enterprise, sport and arts careers (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 7 Teacher's Guide*, Unit 11: Human capital development in Zimbabwe — printed pp. 24–25 |
+
+**Acceptance count: taught in 6 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Zimbabwe's own way (PlusOne Social Science Grade 7 Teacher's Guide) (teacher guide — evidence): Grade 7 teaches the country's own economic story outright — land reform as redistribution for economic empowerment, human capital built through VTCs and colleges, self-reliance through cooperatives and vending, and tourism counted in foreign currency and jobs — and its financial-literacy unit reaches gross and net profit and the profit-and-loss account.
+
 
 Kuwait's own way (Kuwait Grade 7 Term 2): Grade 7 widens from the Gulf to the whole Arab homeland — resources and sectors first, then the Arab world's economic problems (above all economic dependency), then the future: diversification, the New Kuwait vision and Arab integration.
 
@@ -74,4 +83,4 @@ Syria's own way (Syria Grade 6 Social Studies): Economics appears inside a civic
 
 Laos' own way (Laos Grade 10 Business student): Economics is taught as the theory inside a "become a businessperson" course, drawn from village life — weaving, market stalls and repair shops sorted into producing, trading and services; the circular flow is drawn between households and the village business, and "produce for whom?" is answered with a Rolls-Royce.
 
-Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Syria, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources, laos, three kinds of business, producing trading services, weaving, repair shops
+Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Syria, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources, laos, three kinds of business, producing trading services, weaving, repair shops, zimbabwe, teacher guide evidence

@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **461**
+Economics lessons across the Economics titles: **467**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4340,3 +4340,10 @@ return; Macroeconomics: Government revenue
 and the national budget and Globalisation,
 multinationals and foreign direct
 investment).
++6 for Zimbabwe,
+2026-11-16 — Microeconomics: Goods and
+services and Property ownership and patent
+rights; Macroeconomics: National strategic
+reserves, Poverty in the community — causes,
+effects and ways out, Zimbabwe's land reform
+programme and Human capital development).
