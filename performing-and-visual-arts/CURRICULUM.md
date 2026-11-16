@@ -1610,7 +1610,45 @@ lessons are the books'.
   fire, Nubian and Christian-era art, the Khartoum
   School, and Hussein Jumaan Omar.
 
-**The whole course stands at 422 lessons, 5,589 questions and
+**Art expansion — Belarus (2026-11-16):** 105 placements
+  stocked from 4 distinct student books: Fine Arts
+  Grades 1 and 5 and Music Grades 2 and 4
+  («Адукацыя і выхаванне» and the National Institute of
+  Education, Minsk, Belarusian). 90 placements into 53
+  existing lessons and 15 into 13 NEW lessons (Visual
+  Art: Clay Toys of Belarus; Vytsinanka: Belarusian
+  Paper Cutting; Decorative-Applied Art of Belarus;
+  Grisaille: Painting in One Colour; Animals in Art;
+  The Human Figure in Art; Illustration and Book
+  Design. Music: Singing Voices: Soprano to Bass;
+  Tsymbaly of Belarus; The Concerto; Folk Instruments
+  of Belarus; How a Composer Works; Composers of
+  Belarus), 156 questions added, media as described
+  slots only. Registry resolutions carried: painting-
+  landscapes → Landscape Painting; drawing-a-portrait
+  and portrait-and-self-portrait → Portrait Drawing
+  and Painting; opera → music/opera; ballet →
+  drama-and-dance/ballet; masks-and-puppets → Puppet
+  Theatre; stylising-shapes → Illustration and Book
+  Design (its Belarus stock is the stylisation section,
+  as filed in its sources). Honesty carried exactly as
+  filed: all four books are STUDENT books, so Belarus
+  enters every stocked lesson's acceptance count (the
+  13 new lessons stand at acceptance count 1, Belarus);
+  songs are placed by title, composer and teaching
+  purpose only, never transcribed; the Music books'
+  revision pages and the Grade 5 questions-and-tasks
+  pages are apparatus, named in their book entries, not
+  placed. Belarus's own way is kept as named parts: the
+  Grade 1 journey through six lands taught by numbered
+  picture sequences, vytsinanka and the clay toys of
+  Nemanitsa, Zembin and Logoisk, the Lirnik journey
+  through the means of expression to Opera, Ballet,
+  Symphony and Concert, the tsymbaly at the front of
+  the Zhinovich orchestra, and Belarusian composers
+  and folk instruments first in the Grade 4 year.
+
+**The whole course stands at 435 lessons, 5,745 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

@@ -1,6 +1,6 @@
 # Sources — Kinds of Traditional Music
 
-countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan, Colombia
+countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan, Colombia, Belarus
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan, Colombia
 
 **Book 7:** *Secundaria Activa — Educación Artística - Música (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-495-6, ISBN serie Secundaria Activa 978-958-691-485-7; author Paola Lorena Coral Pérez (update and qualification by Aguirre Asesores S.A.S.). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 211 (title page verified against the record; byte size 17,973,089). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 14 Momentos. Self-assessment rubrics are assessment apparatus, named here and not placed. READ ROUTE: as with Book 3, the ministry host drops direct connections and the June 2023 Wayback capture is truncated (~584 KB); this copy is the Wayback Machine's 27 Jul 2021 capture of the same ministry file (canonical digest), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
 
+**Book 8:** *Музыка. 4 клас (Music, Grade 4)* (student book, Belarusian) — Belarus, «Адукацыя і выхаванне» (Adukacyja i Vykhavanne), Minsk; year 2008; ISBN 978-985-471-263-5; authors А. Р. Гуляева (A. R. Huliaeva), С. А. Прастакова (S. A. Prastakova), С. М. Кабачэўская (S. M. Kabacheuskaya); approved by the Ministry of Education of the Republic of Belarus. Title as printed: МУЗЫКА — Вучэбны дапаможнік для 4 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання (Music — textbook for Grade 4). Grade 4 (student book: STUDENT). PDF pages: 144 (title page verified against the record; byte size 5,719,871). Verdict: COMPLETE — read in full from the downloaded file's text layer, contents pages included; the half-year and quarter "generalisation" pages are revision apparatus, named here and not placed. Songs are placed by title, composer and teaching purpose only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Kinds of traditional music: joyful expressions showing the community's activities — New Year, work, wedding and worship songs; traditional dance as movement with traditional music | Grade 2 Student Textbook, §3.1.2, printed p. 50 |
@@ -29,7 +31,9 @@ countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan, Colombia
 
 | Colombia — Project 2, Subproject 2, Momento 2 "La música que hacemos": what a musical genre is — works grouped by shared rhythm, instrumentation, harmonic structures, context and epoch — and how genre differs from style (student book; original target `music/kinds-of-traditional-music`) | Book 7, printed pp. 159–171 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Colombia).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
+| Belarus — Part 3, "Musical journeys" I — visiting the neighbours and Europe: Ukraine's "Shchedryk" in Leontovych's arrangement, the Russian song "Down the Mother Volga", "Moya Rossiya"; Poland's mazurka, the traditional dance, and Sakalouski's Mazurka; a Lithuanian folk song; France's "Sur le pont d'Avignon" and the donkey song (student book; original target `music/kinds-of-traditional-music`) | Book 8, printed pp. 66–81 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Colombia, Belarus).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
 
 The book prints one short shilela (qererito) example and one fukera example as repertoire; following the placements, they are placed by kind and purpose only — no chant verses are transcribed in this lesson. The Grade 2 chapter review's wording on this topic is folded into this lesson's questions, as review stock, per the course folding rules; it is not a separate lesson.
 

@@ -1,6 +1,6 @@
 # Sources — Songs of Nature
 
-countries: Ethiopia, Turkmenistan, Fiji
+countries: Ethiopia, Turkmenistan, Fiji, Belarus
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Turkmenistan, Fiji
 **Book 6:** *Performing Arts — Music Is Fun, Teachers Guide Year 1* (teacher guide, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 1, 28 PDF pp. TEACHER — teacher guide. The record says student book; the cover proves TEACHER GUIDE — carried exactly as filed. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: music-first performing arts organised by themes (family, birthday, Fiji Day, weather, environment, flowers); Fiji's own instruments (lali slit drum, derua bamboo stamping tube) taught inside the world percussion family, and the national anthem taught in English, iTaukei and Fiji Hindi. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 7:** *Performing Arts — Music Is Fun, Teachers Guide Year 2* (teacher guide, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 2, 34 PDF pp. TEACHER — teacher guide. The record says student book; the cover proves TEACHER GUIDE — carried exactly as filed. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: every theme is sung in up to three languages (English, iTaukei, Fiji Hindi); Fiji's own songs (Isa Noqu Vanua Ko Viti, Viti, Choo-choo, Basi Levu, Lori Levu, O Bawa) sit beside imported songs, and safety teaching (earthquake, flood, cyclone, tsunami, fire) is carried by song. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 8:** *Музыка. 4 клас (Music, Grade 4)* (student book, Belarusian) — Belarus, «Адукацыя і выхаванне» (Adukacyja i Vykhavanne), Minsk; year 2008; ISBN 978-985-471-263-5; authors А. Р. Гуляева (A. R. Huliaeva), С. А. Прастакова (S. A. Prastakova), С. М. Кабачэўская (S. M. Kabacheuskaya); approved by the Ministry of Education of the Republic of Belarus. Title as printed: МУЗЫКА — Вучэбны дапаможнік для 4 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання (Music — textbook for Grade 4). Grade 4 (student book: STUDENT). PDF pages: 144 (title page verified against the record; byte size 5,719,871). Verdict: COMPLETE — read in full from the downloaded file's text layer, contents pages included; the half-year and quarter "generalisation" pages are revision apparatus, named here and not placed. Songs are placed by title, composer and teaching purpose only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -31,7 +33,9 @@ countries: Ethiopia, Turkmenistan, Fiji
 | Fiji — Unit 6 Flowers — singing flower songs, known and improvised, to familiar tunes (teacher guide — evidence) | Book 6, printed pp. 22–23 |
 | Fiji — Unit 8 Sea — sea songs sung with action: A Sailor Went to Sea, the community-over-the-ocean song, Fishers of Men, Fiji's own O Bawa fishing song, and My Bonnie (placed by name and purpose only) (teacher guide — evidence) | Book 7, printed pp. 26–28 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+| Belarus — Part 1, "Musical colours of autumn": autumn folk songs ("Yarnaya", "Dubrovushka dy zialionaya") and Karetnikau's "The Birds Fly Away" from the suite "The Seasons" (student book; original target `music/songs-of-nature`) | Book 8, printed pp. 21–25 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Belarus).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 book prints the star song in Amharic and the Grade 3 book prints the same song in English; both placements are stocked — the Amharic here, the English in School Songs — exactly as the books place them. No song lyrics are transcribed; songs are named and their pictures summarised.
 

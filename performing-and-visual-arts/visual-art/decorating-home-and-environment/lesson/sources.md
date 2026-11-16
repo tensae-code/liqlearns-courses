@@ -1,6 +1,6 @@
 # Sources — Decorating Home and Environment
 
-countries: Ethiopia, Haiti, Finland, Turkmenistan
+countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors ማስተዋል ጌታ ማስረሻ (Mastewal Geta Masresha) and ዮሐንስ ታደሰ በትሬ (Yohannes Tadesse Betre). Printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Haiti, Finland, Turkmenistan
 **Book 3:** *AJATUSVIIVOJA — Päivän biisi (Song of the Day)* (student workshop material, Finnish) — Finland, University of Jyväskylä / JYUniorit, AJATUSVIIVOJA project, Mether-Borgström Foundation, 2022, no ISBN printed, Preschool / Eskarit, 7 PDF pp. STUDENT — workshop pack. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md.
 
 **Book 4:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. Title page verified against the record title; the repo tree path is a PHANTOM PUSH — grab.py tree returned HTTP 404 — so the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link; 79,070,978 bytes and 80 pages, both matching the record exactly. Downloaded copy staged under the push-don't-delete rule at the phase3-staging record path. Excluded per the placements: the four "Umumylaşdyryjy/Jemleýji sapak" (generalising/final review lessons, printed pp. 23, 40, 60, 76) — the book's own review lessons, named here; their questions are not placed, though their standing exhibition task is placed once as sharing practice. The short verses printed inside lessons (by Atamyrat Atabaýew, Berdi Kerbabaýew, Tagan Söhbedow, Ýagmyr Pirgulyýew) belong to the language course and are not placed here. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
+
+**Book 5:** *Выяўленчае мастацтва. 1 клас (Fine Arts, Grade 1)* (student book, Belarusian) — Belarus, «Адукацыя і выхаванне» (Adukacyja i Vykhavanne), Minsk; year 2011; ISBN 978-985-471-426-4; authors М. А. Шкуратава (M. A. Shkuratava), Ю. А. Новікава (Yu. A. Novikava); approved by the Ministry of Education of the Republic of Belarus. Title as printed: Выяўленчае мастацтва — Вучэбны дапаможнік для 1 класа ўстаноў агульнай сярэдняй адукацыі з беларускай і рускай мовамі навучання — Для работы ў класе (Fine Arts — textbook for Grade 1, for work in class). Grade 1 (student book: STUDENT). PDF pages: 96 (cover verified: printed title, authors, publisher and year match the record; byte size 8,399,826). Verdict: COMPLETE — read in full: whole text layer plus rendered spot-checks of the picture sequences (drawing a horse from ovals, printed p. 22; modelling animals from a clay log, printed p. 54; paper-strip curling and gluing, printed p. 72; vytsinanka cut borders, printed p. 87). Read from the records' archive.org source_urls (the GitHub tree route failed — see the placements group log). Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,7 +21,9 @@ countries: Ethiopia, Haiti, Finland, Turkmenistan
 | Finland — Lesson 2: The pot chain display — piercing the decorated pots, threading them on string into chains against coloured card backings to create moods, and hanging the chains in a place the children choose (student workshop material) | Book 3, printed p. 6 |
 | Turkmenistan — 2.8 "Täze ýyl arçasy" (The New Year tree) — gluing (ýelimlemek): make the New Year tree's shape from coloured paper — with 3.3 "Meniň oýnawaçlarym" (My toys), decorative work on one's own toys (student book; original target `visual-art/making-decorations`) | Book 4, printed pp. 38–39, 45–47 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Finland, Turkmenistan).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
+| Belarus — Part 3, Secrets of mastery: Decorating household objects — choosing the size of the decor and composing decoration on real things: a silver-and-enamel sugar bowl, a painted Belarusian chest, Zhostovo-style painted trays (student book; original target `visual-art/decorating-home-and-environment`) | Book 5, printed pp. 48–49 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Finland, Turkmenistan, Belarus).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
 
 Honesty notes: The book's two Chapter 5 figures (paths and garden places; the ceramic interior) are described in words only, never copied. The festival-and-rains beautifying, and the soils/cattle-products/ash "paint", are taught exactly as the placement records them.
 

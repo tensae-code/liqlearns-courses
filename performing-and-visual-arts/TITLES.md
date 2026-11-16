@@ -244,6 +244,22 @@ The titles, in ladder order:
    Expressionism; Dada; Surrealism; and design thinking
    and design technology — the designer in the age of
    globalisation (Sudan student books).
+ The Art expansion added:
+   clay toys of Belarus — the modelled tsatski of
+   Nemanitsa, Zembin and Logoisk and their masters;
+   vytsinanka — Belarusian paper cutting, folded and cut
+   into lace-like borders of trees, arches and leaves;
+   decorative-applied art of Belarus — the koushyk ladle,
+   Haradnaya and Pruzhany pottery, Ivenets ceramics;
+   grisaille — painting in the tones of a single colour;
+   animals in art — the animalistic genre from
+   Mesopotamia's bull and lion to Vatagin, and an animal's
+   proportions and movement; the human figure in art —
+   body proportions part by part and modelling on an
+   armature; and illustration and book design — stocked
+   from Belarus's stylisation teaching, simplifying an
+   image to geometric forms in colour and black-and-white
+   (Belarus student books).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -449,6 +465,20 @@ The titles, in ladder order:
    Caribbean emigrants' congas and marimbas, what music is
    for the indigenous peoples, and the Yuruparí origin
    story in summary only (Colombia student books).
+ The Art expansion added:
+   singing voices — soprano to bass, met one by one:
+   Mother Goat's soprano, Figaro's baritone, Schubert's
+   tenor Trout and Beethoven's bass Marmot; tsymbaly of
+   Belarus — the hammered dulcimer at the front of the
+   Zhinovich folk orchestra, and padgaloski second
+   voices; the concerto — soloist and orchestra in
+   contest, Vivaldi's Spring, Padkavyrau and Kabalevsky;
+   folk instruments of Belarus — dudka, tsymbaly,
+   harmonik, buben and skrypka in ensembles of three or
+   more; how a composer works — inspiration, quotation,
+   variation and changing the musical colours; and
+   composers of Belarus — Churkin, Hlebov and Luchanka
+   (Belarus student books).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and

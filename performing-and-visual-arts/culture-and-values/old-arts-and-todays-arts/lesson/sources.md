@@ -1,6 +1,6 @@
 # Sources — Old Arts and Today's Arts
 
-countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia
+countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia
 
 **Book 8:** *Secundaria Activa — Educación Artística - Artes Visuales (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-497-0, ISBN serie Secundaria Activa 978-958-691-485-7; authors Paola Lorena Coral Pérez and Marcela Tristancho (update and qualification by Aguirre Asesores S.A.S., contract 428 of 2010). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 168 (title page verified against the record; byte size 9,617,292). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 12 Momentos. The book's self-assessment rubrics (autoevaluación) are assessment apparatus, named here and not placed. READ ROUTE: the ministry host (redes.colombiaaprende.edu.co) drops direct connections after the TLS handshake, and its June 2023 Wayback capture is a truncated ~538 KB file; this copy is the Wayback Machine's 10 Dec 2022 capture of the same ministry file (canonical digest), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
 
+**Book 9:** *Музыка. 4 клас (Music, Grade 4)* (student book, Belarusian) — Belarus, «Адукацыя і выхаванне» (Adukacyja i Vykhavanne), Minsk; year 2008; ISBN 978-985-471-263-5; authors А. Р. Гуляева (A. R. Huliaeva), С. А. Прастакова (S. A. Prastakova), С. М. Кабачэўская (S. M. Kabacheuskaya); approved by the Ministry of Education of the Republic of Belarus. Title as printed: МУЗЫКА — Вучэбны дапаможнік для 4 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання (Music — textbook for Grade 4). Grade 4 (student book: STUDENT). PDF pages: 144 (title page verified against the record; byte size 5,719,871). Verdict: COMPLETE — read in full from the downloaded file's text layer, contents pages included; the half-year and quarter "generalisation" pages are revision apparatus, named here and not placed. Songs are placed by title, composer and teaching purpose only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Expressing culture in the arts (Sub lesson 1) | Grade 3 Student Textbook, Ch.3 chapter aims + introduction, printed p. 45 |
@@ -33,7 +35,9 @@ countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia
 | Colombia — Módulo 2, Guía 5 "Acerca de la zona Andina" — the Andean zone: which peoples build interculturality there, why the region is culturally rich, its musical rhythms and the festivals tied to them (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 7, printed pp. 40–44 |
 | Colombia — Project 1, Subproject 2, Momento 3 "Romper las reglas": representation systems change as knowledge and technology change, sometimes by strong ruptures — read first in the Maya mural of Bonampak (Mexico), its colours, profiles, skins and headdresses (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 8, printed pp. 78–87 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Pakistan, Colombia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+| Belarus — Part 1, "Music of palaces and estates": Lybin's "Ceremonial exit through the side gate" from the cycle "Music for the town of Nesvizh", and the song "Mir Castle" (words Tsitavets, music Kistsen) — the music of Belarus's own castles (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 9, printed pp. 49–51 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Pakistan, Colombia, Belarus). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 The definition of ancient arts, the oral-to-recorded contrast and the protection ruling are Grade 3's own words (printed pp. 45 and 58), taught as printed. The closing exercise's keyed-false item (wedding poems and melodies are the same in all areas — false) is taught as the book keys it.
 
