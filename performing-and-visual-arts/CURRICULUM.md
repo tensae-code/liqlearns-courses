@@ -608,7 +608,78 @@ lessons are the books'.
   lali, siapo and tattoo design, and the pese Sāmoa
   crowned by its fa'asala.
 
-**The whole course stands at 251 lessons, 3,746 questions and
+- **Art expansion — Nicaragua — BUILT 2026-11-16:** 50 placements
+  stocked from 4 books (all Ministerio de Educación
+  (MINED), Nicaragua, Spanish, teacher guides, COMPLETE,
+  fetched from the recorded MINED source URLs after the
+  GitHub grab route disconnected: *Expresión Cultural y
+  Artística — Texto para el Docente — 1er Grado*, Managua,
+  2014 (Primera Edición, Septiembre 2014), no ISBN printed,
+  160 PDF pp, TEACHER, Grade 1 byte size matches the
+  record exactly (5,555,205); *Expresión Cultural y
+  Artística — Manual Metodológico para la y el maestro —
+  Segundo grado*, no year or ISBN printed, 150 PDF pp,
+  TEACHER; *Manual Metodológico para la y el maestro —
+  Expresión Cultural y Artística — Tercer grado*, no year
+  or ISBN printed, 78 PDF pp, TEACHER, low-resolution
+  "baja" edition; *Manual Metodológico Expresión Cultural
+  y Artística — 4° Grado*, no year or ISBN printed, 148
+  PDF pp, TEACHER, low-resolution "BAJA" edition). All
+  four are EVIDENCE only, kept outside the acceptance
+  counts (the two new lessons stand at acceptance count
+  0). 48 into existing lessons (Beautiful Writing; First
+  Marks and Scribbles; The Primary Colours; Making with
+  Paper and Pieces; Crafts Around Us ×2; How Animals and
+  People Move ×2; Moving to Music; What Theatre Is; The
+  Elements of Theatre ×2; Sounds Around Us ×3; The
+  Elements of Music; Making Traditional Instruments ×3 —
+  one from the original string
+  making-simple-instruments-from-local-materials; School
+  Songs ×2; Mixing Colours; Painting Still Life ×2;
+  Making with Clay and Paper ×3; Circle Dances and
+  Traditional Steps; Playing a Person; Acting Together;
+  Traditional and Festival Songs ×2; Our Community's
+  Values; Telling History with Illustration; Dance
+  Composition and Modern Dance; Folk Dance Styles and
+  Eskesta; Costume and Make-Up for Theatre; Mime, Fables
+  and First Plays; From Script to Stage ×2; Anthems and
+  Songs That Teach; Lines in Every Direction; The Colour
+  Wheel; Artists of Central America — from the original
+  string artists-of-my-community; Puppet Theatre — from
+  the original string making-puppets-and-a-puppet-theatre;
+  Reading Music on the Staff; Reading the Beat; Faster
+  Notes, Dynamics and Tempo), 2 NEW lessons (Music:
+  Singing Technique and Voice Care — from the original
+  string breathing-for-singing; Drama and Dance:
+  Nicaraguan Regional Folk Dances), 24 questions added,
+  media as described slots only. DIFFERENCE FROM THE
+  FILE'S OWN TALLY, EXPLAINED: the placements file
+  tallied 45 to existing lessons and 5 NEW LESSON NEEDED
+  placement lines. The slug registry resolves
+  making-simple-instruments-from-local-materials to the
+  EXISTING Making Traditional Instruments,
+  artists-of-my-community to the already-built NEW
+  Artists of Central America, and
+  making-puppets-and-a-puppet-theatre to the
+  already-built NEW Puppet Theatre — so 48 (not 45)
+  placements went to existing lessons, 2 (not 5) to new
+  lessons, and 2 new lessons were built; the total of 50
+  reconciles exactly. Exclusions named: Grade 1 Glossary
+  (printed p. 146) and Grade 2 Glossary (printed p. 135)
+  — inventory-only, named in the book entries, not
+  stocked; Grade 1 Bibliography and Grade 2 Webgrafía,
+  not placed. Songs are placed by name, kind and summary
+  only, never transcribed; Nicaragua's own way is kept
+  as named parts — one integrated arts book in four
+  components (Artes Plásticas, Danza, Teatro, Música)
+  starting from the child's own surroundings and local
+  materials, home-made instruments (sonajas, maracas,
+  chischiles, tambourines, pitos), breathing with
+  chimbombas, and the three regional folk dances —
+  El Güegüense (Pacific), La Polka (North-Central) and
+  Palo de Mayo (Atlantic).
+
+**The whole course stands at 253 lessons, 3,770 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

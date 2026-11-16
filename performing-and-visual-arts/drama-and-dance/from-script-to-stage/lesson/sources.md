@@ -1,6 +1,6 @@
 # Sources — From Script to Stage
 
-countries: Ethiopia, Egypt, Guatemala, Samoa
+countries: Ethiopia, Egypt, Guatemala, Samoa, Nicaragua
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Egypt, Guatemala, Samoa
 
 **Book 5:** *Performing Arts — Teacher Guide, Years 11 and 12* (teacher guide, English) — Samoa, Ministry of Education, Sports and Culture, Samoa, 2004, ISBN 982-517-077-8, Years 11–12, 109 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. The file was obtained from the recorded MESC source_url (22,048,886 bytes — the record gives no size) after the Music guide's repo tree path proved a phantom push; the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Glossary (printed pp. 105–108) — inventory-only, named here, not stocked; the Assessment section and Student Feedback Sheet (printed pp. 93–95) are apparatus, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 6:** *Manual Metodológico para la y el maestro — Expresión Cultural y Artística — Tercer grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "baja" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 7:** *Manual Metodológico Expresión Cultural y Artística — 4° Grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 4, 148 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "BAJA" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Book | Printed pages |
 |---|---|---|
 | Sub lesson 1 — Choosing and preparing (teacher guide — evidence) (teacher guide — evidence) | Grade 7 Teacher Guide, printed pp. 57–59 |
@@ -20,9 +24,11 @@ countries: Ethiopia, Egypt, Guatemala, Samoa
 | Egypt — Lesson 6, My Theatre Performance: how do I act what I wrote? — the full preparation before a performance (physical, vocal and mental warm-up), an acted reading of one's own text with its emotions adjusted, a solo monodrama performance using stage space, varied rhythm, voice and body expression, and self-evaluation that accepts feedback | Book 3, printed p. 43 |
 | Guatemala — Staging the class's own play: choose a director and the crews (actors, set, costume, make-up, audiovisuals), rehearse voice, gesture and emphasis, build set and costume, make the poster and programme, and open with the three calls — first, second, third call, we begin; forum theatre is named as a variant for social problems — Experiencia 3 (Grade 6), activity "Del papel al escenario" (teacher guide — evidence; original target `drama-and-dance/from-script-to-stage`) | Book 4, printed pp. 80–81 |
 | Samoa — Year 12 Dance and Drama — Dancing in a Production and the School Play: the two full production units that close the senior programme, alongside the Year 12 Solo dance unit (teacher-guide evidence) | Book 5 | printed pp. 65, 75, 88 |
+| Nicaragua — The theatrical speech and stage representations — the importance of the parlamento (spoken text), the play's script (guión), characterisation, stage movement and mastery, and presenting a children's play (teacher guide — evidence) | Book 6, printed p. 45 |
+| Nicaragua — Preparing a theatre work — choosing the work, writing the theatrical script, characterising the characters, and the utilería (props) (teacher guide — evidence) | Book 7, printed p. 91 |
 
-**Acceptance count: taught in 1 country (Egypt).** Ethiopia teacher-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Samoa is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Egypt).** Ethiopia teacher-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The journey is the guide's own (printed pp. 57–59), including its Ethiopian-values script test and its 'nitty gritty' outline phrase, kept as the guide words it.
 
-Searchable tags: production, script to stage, casting, blocking, dress rehearsal, budget, Grade 7 teacher guide, evidence, Egypt, theatre team, monodrama performance
+Searchable tags: production, script to stage, casting, blocking, dress rehearsal, budget, Grade 7 teacher guide, evidence, Egypt, theatre team, monodrama performance, Nicaragua

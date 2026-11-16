@@ -205,7 +205,11 @@ The titles, in ladder order:
    fa'asala — song composition whose melody is determined
    by its text, crowned by a fa'asala descant (Samoa
    curriculum statement, programme evidence; Samoa
-   teacher guide, evidence).
+   teacher guide, evidence). The Art
+   expansion added: singing technique and voice care —
+   breathing for singing practised with chimbombas
+   (balloons): inhaling, holding the air and exhaling
+   (Nicaragua teacher guide, evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -261,6 +265,12 @@ The titles, in ladder order:
    and Samoan theatre — koneseti and faleaitu, Samoa's
    own awareness-raising theatre forms (Samoa curriculum
    statement, programme evidence; Samoa teacher guide,
+   evidence). The Art expansion added:
+   Nicaraguan regional folk dances — El Güegüense of
+   the Pacific, La Polka of the North-Central region
+   and Palo de Mayo of the Atlantic, each with its
+   history, basic steps, costumes and props, for
+   school presentations (Nicaragua teacher guide,
    evidence).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the

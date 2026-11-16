@@ -1,6 +1,6 @@
 # Sources — Beautiful Writing
 
-countries: Ethiopia, Kuwait, Egypt
+countries: Ethiopia, Kuwait, Egypt, Nicaragua
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, Kuwait, Egypt
 **Record only — Grade 2 Term 1 (no placements):** *Arabic Calligraphy for Grade 1 — First Workbook (الخط العربي للصف الأول — الكراسة الأولى)* — the file served for the Grade 2 record is NOT a Grade 2 book: record says Grade 2, the file is Grade 1 (student workbook, Arabic) — Kuwait, وزارة التربية، دولة الكويت (Ministry of Education, State of Kuwait), first edition 1447 AH / 2025–2026, no ISBN printed, 74 PDF pp, byte size 52,416,130 matching the record exactly — and matching the Grade 1 record's size exactly because it is the same file (SHA-1 31cca3d9a7a06f61d1e19426844eae5aecab64b0 for both downloads, covers identical). Verdict as filed: COMPLETE as a record — placed once under Book 6 above, which names this record; no separate Grade 2 content exists behind this record, and no placements are invented for it. Library debt: the Grade 2 record's stored/served file duplicates the Grade 1 workbook; the real Grade 2 workbook (الكراسة الثانية) is not what this record holds.
 
 **Book 9:** *Arabic Calligraphy Workbook for the Third Preparatory Grade (كراسة الخط العربي للصف الثالث الإعدادي)* (student workbook, Arabic) — Egypt, جمهورية مصر العربية — وزارة التربية والتعليم والتعليم الفني (Ministry of Education and Technical Education, Egypt), طبعة 2025–2026, no ISBN printed, Grade 9, Arabic, 66 PDF pp (the book's own technical-specifications page confirms 64 printed pages plus covers; cover verified against the record title). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/egypt-placements.md.
+
+**Book 10:** *Expresión Cultural y Artística — Texto para el Docente — 1er Grado, Educación Primaria* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), Managua, 2014 (Primera Edición, Septiembre 2014), no ISBN printed, Grade 1, 160 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title page verified against the record title; Grade 1 byte size matches the record exactly (5,555,205). Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 146) is a word list — inventory-only, named here, not stocked; Bibliography not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -57,8 +59,9 @@ countries: Ethiopia, Kuwait, Egypt
 | Kuwait — One model sentence per letter — a full Naskh sentence for every letter, printed, traced, then copied: wisdom and manners, honouring one's mother (in a verse of Maʿruf al-Rusafi), trust and honesty, and love of Kuwait (a verse of Walid al-Qallaf, and a line praising Kuwait's people as envoys of love and goodness) | Book 8 (Kuwait Grade 4 Arabic Calligraphy workbook), printed pp. 17–71 (odd pages) |
 | Egypt — Copying model sentences in Ruqʿah script — every page gives one sentence modelled in Ruqʿah handwriting (خط الرقعة), printed twice, and the pupil copies it on the ruled lines until the letter forms, joins and proportions of the model are matched | Book 9 (Egypt Grade 9 Arabic Calligraphy workbook), printed pp. 3–64 |
 | Egypt — The sentences chosen as writing models — the models are Qur'an verses, prophetic sayings, Arab proverbs and wisdom sayings, and patriotic lines (love of homeland, mastery of work), so the hand learns beautiful writing on texts the community values | Book 9 (Egypt Grade 9 Arabic Calligraphy workbook), printed pp. 3–64 |
+| Nicaragua — Good posture for writing — practising the correct sitting and hand postures for writing and drawing, and learning the names of the fingers of the hand (teacher guide — evidence) | Book 10, printed p. 2 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Kuwait, Egypt).**
+**Acceptance count: taught in 3 countries (Ethiopia, Kuwait, Egypt). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Honesty notes: the Grade 5 calligraphy plates placement (single/double/shaded examples in Amharic and English, with a two-tied-pencils GIF need) is stocked inside Sub lesson 5's practice set, where the Grade 6 book turns the same two-tools method into practice; no separate plate part is claimed. Line-kind Amharic names and spellings (ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, ነጠላ, ድርብ) are copied exactly from the Grade 3 placements.
 
@@ -66,4 +69,4 @@ Kuwait honesty notes, carried exactly as filed: Kuwait's own way — beautiful w
 
 Egypt honesty notes, carried exactly as filed: Egypt's own way — beautiful writing is practised as pure copying: the whole workbook is page after page of one model sentence written in Ruqʿah script (خط الرقعة) at the head of the page and printed again mid-page, with ruled lines between and below for the pupil to copy it over and over, each page closed by date and grade lines for the teacher. Exclusions: none named for this workbook — it carries no separate assessment or glossary sections; its back cover carries five value statements in print (not pupil teaching items).
 
-Searchable tags: calligraphy, ኪነ-ፅህፈት, beautiful writing, letter forms, single writing, ነጠላ, double writing, ድርብ, line types, ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, fidel, English letters, Yigezu Bisrat, ሰላም, Kuwait, Arabic calligraphy, الخط العربي, Naskh, خط النسخ, Ruqʿah, خط الرقعة, Noura Khaled Al-Owaiban Al-Enezi, Egypt, Egypt Grade 9 calligraphy
+Searchable tags: calligraphy, ኪነ-ፅህፈት, beautiful writing, letter forms, single writing, ነጠላ, double writing, ድርብ, line types, ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, fidel, English letters, Yigezu Bisrat, ሰላም, Kuwait, Arabic calligraphy, الخط العربي, Naskh, خط النسخ, Ruqʿah, خط الرقعة, Noura Khaled Al-Owaiban Al-Enezi, Egypt, Egypt Grade 9 calligraphy, Nicaragua

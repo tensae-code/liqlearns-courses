@@ -1,11 +1,15 @@
 # Sources — How Animals and People Move
 
-countries: Ethiopia, Samoa
+countries: Ethiopia, Samoa, Nicaragua
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 **Book 2:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
 **Book 3:** *Expressive Arts — Years 1–8, Primary School Curriculum* (curriculum statement / programme document, English) — Samoa, Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture (MESC), Samoa, 2013 (January 2013), ISBN 978-982-517-087-7, Years 1–8, 96 PDF pp. TEACHER — curriculum statement for teachers; programme document. Verdict: COMPLETE (as a programme document; it specifies teaching content by year and strand rather than pupil lessons). Title page verified against the record title; fetched from the recorded MESC source_url (1,069,629 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Assessment section and outcome-indicator tables (printed pp. 27–38) — assessment apparatus, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Programme document — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 4:** *Expresión Cultural y Artística — Texto para el Docente — 1er Grado, Educación Primaria* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), Managua, 2014 (Primera Edición, Septiembre 2014), no ISBN printed, Grade 1, 160 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title page verified against the record title; Grade 1 byte size matches the record exactly (5,555,205). Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 146) is a word list — inventory-only, named here, not stocked; Bibliography not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 5:** *Manual Metodológico Expresión Cultural y Artística — 4° Grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 4, 148 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "BAJA" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -14,9 +18,11 @@ countries: Ethiopia, Samoa
 | Sub lesson 3 — Show how each one moves (practice: the six-picture grid, Exercise 2) | Grade 1 Student Textbook, Exercise 2, printed pp. 9–10 |
 | Sub lesson 4 — Dances copied from plants and animals (teacher guide — evidence) | Grade 4 Teacher Guide, Chapter 5 §5.3 (syllabus — whole-book placement, no single page) |
 | Samoa — Dance, Year Three — locomotor and non-locomotor movements of the creatures of the world: galloping, hopping, crawling, running, wriggling, and how a horse moves compared with a cat, in rhythm and body movement (programme evidence) | Book 3, printed p. 61 |
+| Nicaragua — Body-expression techniques and imitating animals — moving the different parts of the body expressively, and imitating the animals of the surroundings (air, water, land) (teacher guide — evidence) | Book 4, printed p. 30 |
+| Nicaragua — Body-movement techniques — body exercises: head and arms, back and stretching, legs and feet (teacher guide — evidence) | Book 5, printed p. 43 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 1 teacher guide's opening movement-to-music placement (printed p. 8, §1.2 of g01-teacher-placements.md) belongs to the Moving to Music lesson's family, not this one, and is stocked there. The family-walking GIF (9752) is cited in this lesson's plan add-on list; its marker sits in Sub lesson 1 of lesson.md, where the family walk is taught.
 
-Searchable tags: how animals move, how people move, gait, gallop, prowl, hen, horse, cat, donkey, bird take-off, Grade 1
+Searchable tags: how animals move, how people move, gait, gallop, prowl, hen, horse, cat, donkey, bird take-off, Grade 1, Nicaragua

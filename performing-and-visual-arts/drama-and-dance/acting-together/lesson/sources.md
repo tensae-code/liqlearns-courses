@@ -1,6 +1,6 @@
 # Sources — Acting Together
 
-countries: Ethiopia, Egypt, Uganda
+countries: Ethiopia, Egypt, Uganda, Nicaragua
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Egypt, Uganda
 
 **Book 7:** *Performing Arts Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 48 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists Chapters 1, 2, 3, 5, 6, 7, 8 — there is no Chapter 4 in the textbook (the Teacher's Guide's Chapter 4, "Performing Arts Making Using African Styles", appears in the textbook only as Chapter 7, "Performing Arts in African Styles"). The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
+**Book 8:** *Expresión Cultural y Artística — Manual Metodológico para la y el maestro — Segundo grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 2, 150 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Title/grade verified in the book's presentation: a support document for Grade 2 primary teachers. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 135) is a word list — inventory-only, named here, not stocked; Webgrafía not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Acting together in a group | Grade 1 Student Textbook, §5.2, printed p. 71 |
@@ -23,11 +25,12 @@ countries: Ethiopia, Egypt, Uganda
 | Egypt — Lesson 10, Our Theatre Project: a complete class theatre project — joining acting with planning and organisation, co-writing a scene, monodrama or dramatic treatment of a situation, performing before classmates on time and in coordination, and evaluating one's own and others' performances | Book 5, printed p. 69 |
 | Uganda — Chapter 1: Performing African traditional drama — retell the story in the folk song, identify its characters and dramatize it, then brainstorm the basic African characteristics of drama (teacher guide — evidence) | Book 6, printed p. 5 |
 | Uganda — Chapter 1 — retell the story in the folk song, identify the characters in it and dramatise it; a class play should have some folk songs, mimicry and simple dances | Book 7, printed pp. 3–5 |
+| Nicaragua — Initiation in theatre works — first children's theatre works, and theatre works built on children's songs (teacher guide — evidence) | Book 8, printed p. 33 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Uganda).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Uganda).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Nothing flagged. The Grade 3 methods passage is stocked in its book's own order; the four methods are the placement's four, word for word in substance.
 
 Egypt Grade 8 exclusions, carried exactly as filed: نماذج اختبارات (test models, printed p. 74) are assessment — named, not placed; قاموس المصطلحات (glossary of terms, printed p. 81) is a word list — inventory-only, named, not stocked. Egypt's own way in the Grade 8 book: the actor's craft taught step by step — expression, stance, character-building and monodrama first as solo skills, then theatre used for peace-making and for history, ending with the stage's nine areas and a full class theatre project.
 
-Searchable tags: acting together, group drama, simple drama methods, passing a message by drama, cause and effect, self-confidence, Grade 1, Grade 3, Egypt, curriculum play, مسرحية منهجية, theatre project
+Searchable tags: acting together, group drama, simple drama methods, passing a message by drama, cause and effect, self-confidence, Grade 1, Grade 3, Egypt, curriculum play, مسرحية منهجية, theatre project, Nicaragua

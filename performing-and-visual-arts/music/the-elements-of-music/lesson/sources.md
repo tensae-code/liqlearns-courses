@@ -1,6 +1,6 @@
 # Sources — The Elements of Music
 
-countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albania, Samoa
+countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albania, Samoa, Nicaragua
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albani
 
 **Book 12:** *Expressive Arts — Years 1–8, Primary School Curriculum* (curriculum statement / programme document, English) — Samoa, Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture (MESC), Samoa, 2013 (January 2013), ISBN 978-982-517-087-7, Years 1–8, 96 PDF pp. TEACHER — curriculum statement for teachers; programme document. Verdict: COMPLETE (as a programme document; it specifies teaching content by year and strand rather than pupil lessons). Title page verified against the record title; fetched from the recorded MESC source_url (1,069,629 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Assessment section and outcome-indicator tables (printed pp. 27–38) — assessment apparatus, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Programme document — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 13:** *Expresión Cultural y Artística — Texto para el Docente — 1er Grado, Educación Primaria* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), Managua, 2014 (Primera Edición, Septiembre 2014), no ISBN printed, Grade 1, 160 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title page verified against the record title; Grade 1 byte size matches the record exactly (5,555,205). Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 146) is a word list — inventory-only, named here, not stocked; Bibliography not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the six elements of music; Grade 5's scope | Grade 5 Student Textbook, printed p. 16 (§1.2) |
@@ -44,9 +46,10 @@ countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albani
 | Albania — Motif, phrase, sentence and period — music's building blocks from the smallest motif up to the full musical period (teacher guide — evidence) | Book 10, printed p. 21 |
 | Albania — Harmony, chord and arpeggio — what harmony means, and building, hearing and playing chords and arpeggios (teacher guide — evidence) | Book 11, printed p. 22 |
 | Samoa — Music, Years Two–Eight — the concepts of music built year by year: pitch, rhythm, harmony and form, growing to semitones and accidentals, calculating durations, rhythm dictation and reading and playing traditional notation (programme evidence) | Book 12, printed pp. 44–56 |
+| Nicaragua — Qualities of sound — height/pitch, intensity, tone, timbre and duration as the qualities every sound has, and reproducing sounds with pause and silence (teacher guide — evidence) | Book 13, printed p. 119 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, United Kingdom, Uganda, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, United Kingdom, Uganda, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The pupil book's list is pupil teaching; the guide's eight-element list is carried as labelled teacher-guide evidence, exactly as the placements label it. No element is added to either list.
 
-Searchable tags: elements of music, beat melody harmony structure dynamics tone colour, rhythm tempo pitch timbre duration, ስልተ-ምት, ኃይለ ድምፅ, ዜማ
+Searchable tags: elements of music, beat melody harmony structure dynamics tone colour, rhythm tempo pitch timbre duration, ስልተ-ምት, ኃይለ ድምፅ, ዜማ, Nicaragua

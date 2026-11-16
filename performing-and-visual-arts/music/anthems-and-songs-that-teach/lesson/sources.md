@@ -1,6 +1,6 @@
 # Sources — Anthems and Songs That Teach
 
-countries: Ethiopia, Honduras, Albania, Samoa
+countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Honduras, Albania, Samoa
 **Book 6:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 7:** *Music — Teacher Guide, Years 11 and 12* (teacher guide, English) — Samoa, Ministry of Education, Sports and Culture, Samoa, 2004, ISBN 982-517-075-1, Years 11–12, 90 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover verified against the record title; the repo tree path is a PHANTOM PUSH (HTTP 404), so the book was fetched from the recorded MESC source_url (14,769,796 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Glossary (printed p. 88) — inventory-only, named here, not stocked; assessment guidance in the introduction is apparatus, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 8:** *Manual Metodológico para la y el maestro — Expresión Cultural y Artística — Tercer grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "baja" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -35,9 +37,10 @@ countries: Ethiopia, Honduras, Albania, Samoa
 | Albania — The Flag Anthem, the national anthem and the Hymn of Europe — singing and discussing Albania's anthems and the European hymn as symbols (songs placed by name and purpose only, never transcribed) (teacher guide — evidence) | Book 5, printed p. 21 |
 | Albania — Albanian art and patriotic songs — songs by Feim Ibrahimi and Nikolla Zoraqi ("Globi rrotullohet"), "Vlora-Vlora", the Mine Peza song sung by Vaçe Zela, and "Kur bien fyelli, çiftelia" naming Albania's own instruments in song (songs placed by name only, never transcribed) (teacher guide — evidence) | Book 6, printed p. 3 |
 | Samoa — History and Research, Year 11, Unit 1: Musika Sāmoa — Church Music — explore hymns, anthems and salamo of named composers: how church music served daily and family devotions, how to perform it as the composers intended, and the influence of traditional Sāmoan beliefs, values and customs on the songs' lyrics and presentation (songs placed by name and kind only, never transcribed) (teacher-guide evidence) | Book 7, printed p. 58 |
+| Nicaragua — Popular children's songs of the community and the National Anthem — breathing technique and interpretation of community children's songs, and the National Anthem: biography of its words' author Salomón Ibarra Mayorga and choral practice (teacher guide — evidence) | Book 8, printed p. 59 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Honduras).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Honduras).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Both anthems are printed in full in the Grade 4 book; following the placements, they are placed here by name, role and teaching point only — no anthem or song text is transcribed anywhere in this lesson. The professionals song's credits are the book's own printed credits (melody Alemayehu W/Yohannes, poem Asefa Bekele). The Grade 6 appearance of the professionals song is the same song met again at the next level, as its placement extends it — it is one song, counted once.
 
-Searchable tags: anthem, regional anthem, national anthem, የታታሪ ህዝቦች, school song, ትምህርት ቤታችን, heritage song, elders' counsel, የአረጋውያን መዝሙር, professionals, forests, festival songs, Enqutatash, ethics song
+Searchable tags: anthem, regional anthem, national anthem, የታታሪ ህዝቦች, school song, ትምህርት ቤታችን, heritage song, elders' counsel, የአረጋውያን መዝሙር, professionals, forests, festival songs, Enqutatash, ethics song, Nicaragua

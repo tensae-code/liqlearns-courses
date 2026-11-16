@@ -1,6 +1,6 @@
 # Sources — Mime, Fables and First Plays
 
-countries: Ethiopia, Jamaica, Egypt, Guatemala
+countries: Ethiopia, Jamaica, Egypt, Guatemala, Nicaragua
 
 **Book 1:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Jamaica, Egypt, Guatemala
 
 **Book 7:** *Guía de orientaciones metodológicas para docentes de Segundo ciclo de primaria — Expresión artística: Expresemos y construyamos paz* (teacher guide, Spanish) — Guatemala, Ministerio de Educación de Guatemala (MINEDUC), with OEI Guatemala, 2017, no ISBN printed, Grades 4–6 (segundo ciclo de primaria), 51 PDF pp. TEACHER — teacher guide. Verdict: PARTIAL — this PDF is an excerpt: it holds the front matter and introduction (printed pp. 1–15), the opening page of every learning experience (printed pp. 23, 33, 41, 51, 61), and Grade 6 in full (printed pp. 62–91, incl. teacher orientations and bibliography). The Grade 4 and Grade 5 activity pages (printed pp. 16–22, 24–32, 34–40, 42–50, 52–60) are NOT in the file; Grade 4–5 placements below are made from each experience's opening page (competence, learning themes, methods) and its named activities in the contents, and are marked title/theme-level where that is all the evidence there is. Excluded per the placements: "Revisión de lo aprendido" (printed p. 75, revision), all autoevaluación/coevaluación checklists and teacher rubrics, and the bibliography (printed pp. 85–91 teacher orientations are method guidance, not pupil teaching content). The same PDF serves the grade-04, grade-05 and grade-06 records; it was read from the recorded archive.org source after the repo tree path returned 404 twice — byte size and pages match the record exactly, so the book is read, but the pushed copy is a PHANTOM PUSH (library debt). Placements at liqlearns-courses-work/expansion-art-2026-11-16/guatemala-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 8:** *Manual Metodológico para la y el maestro — Expresión Cultural y Artística — Tercer grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "baja" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What is drama? A first play (teacher guide — evidence) | Book 1, §1.2 (§1.2.2, p. 9), printed pp. 8–14 |
@@ -26,11 +28,12 @@ countries: Ethiopia, Jamaica, Egypt, Guatemala
 | Egypt — Lesson 1, The Art of Theatre Expression: verbal and non-verbal expression in theatre — telling apart the use of the voice and the use of the body in acting, applying the non-verbal elements in a simple scene, and training the body in stillness and focus as an expression tool | Book 6, printed p. 11 |
 | Egypt — Lesson 4, Monodrama… Me Alone: what monodrama is and how it differs from group performance — writing a short monodrama scene with an inner monologue that shows change and conflict, and performing it alone with voice and body held in focus to keep the audience | Book 6, printed p. 30 |
 | Guatemala — Improvisation: everyone improvises, creating performance on the spot — Experiencia 3 "Mi cuerpo habla" (Grade 4), activity "Todos a improvisar" (title/theme level; activity pages not in this PDF) (teacher guide — evidence; original target `drama-and-dance/mime-fables-and-first-plays`) | Book 7, printed p. 34 |
+| Nicaragua — Body-expression and gestural-language techniques — body expression through traditional games and rounds, and gestural language of face and hands as communication (teacher guide — evidence) | Book 8, printed p. 40 |
 
-**Acceptance count: taught in 1 country (Egypt).** Ethiopia teacher-guide evidence, Jamaica teacher curriculum-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere.
+**Acceptance count: taught in 1 country (Egypt).** Ethiopia teacher-guide evidence, Jamaica teacher curriculum-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only — the Grade 3, 4 and 6 Addis Ababa teacher guides — and its acceptance line says so: the pupil-taught drama it supports lives in the built Drama and Dance lessons, and no part here is counted as pupil-taught. The fable plays and the named plays ("ቤት የለሽ ጨዋታ" and "ግመል") are placed by title and subject only, never transcribed, exactly as their placements require.
 
 | Jamaica — Language Arts: use drama modes (dramatic monologue, Speak Easy) to share your feelings about an aspect of colonisation in Jamaica, using language appropriate to the situation (teacher curriculum guide — evidence; original target `drama-and-dance/mime-fables-and-first-plays`) | Book 4, PDF p. 96 |
 
-Searchable tags: mime, ማይም, silent movement, ድምፅ አልባ እንቅስቃሴ, fable plays, monkey's judgement, monologue, መነባነብ, silent drama, improvisation, ድንገቴ ፈጠራ, wordless performance, ንግግር አልባ ትወናዎች, first play, ቤት የለሽ ጨዋታ, Egypt, monodrama, improvisation, theatre expression
+Searchable tags: mime, ማይም, silent movement, ድምፅ አልባ እንቅስቃሴ, fable plays, monkey's judgement, monologue, መነባነብ, silent drama, improvisation, ድንገቴ ፈጠራ, wordless performance, ንግግር አልባ ትወናዎች, first play, ቤት የለሽ ጨዋታ, Egypt, monodrama, improvisation, theatre expression, Nicaragua

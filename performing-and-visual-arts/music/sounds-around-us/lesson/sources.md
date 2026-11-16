@@ -1,6 +1,6 @@
 # Sources — Sounds Around Us
 
-countries: Ethiopia, Andorra, Samoa
+countries: Ethiopia, Andorra, Samoa, Nicaragua
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -14,6 +14,12 @@ countries: Ethiopia, Andorra, Samoa
 
 **Book 6:** *Expressive Arts — Years 1–8, Primary School Curriculum* (curriculum statement / programme document, English) — Samoa, Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture (MESC), Samoa, 2013 (January 2013), ISBN 978-982-517-087-7, Years 1–8, 96 PDF pp. TEACHER — curriculum statement for teachers; programme document. Verdict: COMPLETE (as a programme document; it specifies teaching content by year and strand rather than pupil lessons). Title page verified against the record title; fetched from the recorded MESC source_url (1,069,629 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Assessment section and outcome-indicator tables (printed pp. 27–38) — assessment apparatus, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Programme document — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 7:** *Expresión Cultural y Artística — Texto para el Docente — 1er Grado, Educación Primaria* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), Managua, 2014 (Primera Edición, Septiembre 2014), no ISBN printed, Grade 1, 160 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title page verified against the record title; Grade 1 byte size matches the record exactly (5,555,205). Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 146) is a word list — inventory-only, named here, not stocked; Bibliography not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 8:** *Expresión Cultural y Artística — Manual Metodológico para la y el maestro — Segundo grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 2, 150 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Title/grade verified in the book's presentation: a support document for Grade 2 primary teachers. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 135) is a word list — inventory-only, named here, not stocked; Webgrafía not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 9:** *Manual Metodológico para la y el maestro — Expresión Cultural y Artística — Tercer grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "baja" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Sounds around us | Grade 1 student textbook, §1.2, printed p. 2 (sounds on the way to school; sounds inside the home) |
@@ -25,9 +31,12 @@ countries: Ethiopia, Andorra, Samoa
 | Evidence part — the Grade 2 guide's Chapter 1 introduction and kinds of music/sound (teacher guide — evidence) | Grade 2 Teacher Guide, printed pp. 1–6 (Ch. 1, §1.1; section level — scan with no text layer) |
 | Andorra — Bloc 2: Experimentation, improvisation and creation (batxillerat) — the sound universe as the source for experimentation; improvisation through disinhibition, harvesting ideas and rhythmic, melodic, harmonic and formal patterns; composing works for one or more voices with acoustic, electric or synthesised instruments using notation software, composition assistants, editors, sequencers and instant music-making programs (programme document — evidence; original target `music/sounds-around-us`) | Book 5, printed pp. 13–14 |
 | Samoa — Music, Year One — identifying sounds: where beat is present in daily life and in music, how sounds differ in duration and pitch, dynamics in the environment, sound sources natural, industrial, electronic and homemade, tempi, and describing sound qualities (rumbling, choppy, whirring, droning) (programme evidence) | Book 6, printed p. 41 |
+| Nicaragua — The sounds of the environment — noise against sound in the immediate surroundings, and classifying natural and artificial sounds (teacher guide — evidence) | Book 7, printed p. 115 |
+| Nicaragua — Sounds produced with the hands — making and telling apart the sounds the hands can produce (teacher guide — evidence) | Book 8, printed p. 49 |
+| Nicaragua — Natural and artificial sound — sounds made by people, animals and nature against machine-made artificial sounds (teacher guide — evidence) | Book 9, printed p. 52 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Ethiopia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No staff notation is claimed for Grade 1: the Grade 1 book teaches music by ear, and this lesson follows it. The teacher-guide part is evidence for the listening-first way of working; the pupil-taught parts stand on the two student textbooks.
 
-Searchable tags: sounds around us, listening, sound, imitating sounds, ear, birds, animals, instruments, አካባቢያችን
+Searchable tags: sounds around us, listening, sound, imitating sounds, ear, birds, animals, instruments, አካባቢያችን, Nicaragua

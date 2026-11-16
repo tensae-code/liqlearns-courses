@@ -1,6 +1,6 @@
 # Sources — Reading the Beat
 
-countries: Ethiopia, Uganda, Albania, Samoa
+countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Uganda, Albania, Samoa
 **Book 4:** *Libër mësuesi Muzikë 6 (Libër mësuesi Muzika 6)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2015, reprint 2019, ISBN 978-9928-08-202-2, Grade 6, 85 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs after the GitHub grab route disconnected twice (RemoteDisconnected); byte size matches the record exactly. Covers/title pages verified against the record title (p. 1 is the publisher's web page, title/imprint on printed pp. 3–4). Exclusions named in the placements: portfolio/assessment-level sections (printed pp. 79–85) are assessment apparatus with no new teaching content — not placed; the Revision/Questionnaire lessons in the annual plan are revision — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 5:** *Expressive Arts — Years 1–8, Primary School Curriculum* (curriculum statement / programme document, English) — Samoa, Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture (MESC), Samoa, 2013 (January 2013), ISBN 978-982-517-087-7, Years 1–8, 96 PDF pp. TEACHER — curriculum statement for teachers; programme document. Verdict: COMPLETE (as a programme document; it specifies teaching content by year and strand rather than pupil lessons). Title page verified against the record title; fetched from the recorded MESC source_url (1,069,629 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Assessment section and outcome-indicator tables (printed pp. 27–38) — assessment apparatus, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Programme document — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 6:** *Manual Metodológico Expresión Cultural y Artística — 4° Grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 4, 148 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "BAJA" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -28,9 +30,10 @@ countries: Ethiopia, Uganda, Albania, Samoa
 | Uganda — Chapter 2 — rhythm by French rhythm names: sing the song to French rhythm names, copy the French rhythms in your notebook and match them with the song, and read your own compositions by French rhythm names and clapping | Book 3, printed pp. 6–11 |
 | Albania — Reading and singing exercises in the metres learned — sight-reading and singing practice that keeps the count in 2/4, 3/4 and 4/4 (teacher guide — evidence) | Book 4, printed p. 21 |
 | Samoa — Music, Year One — reproducing sounds: tap, clap and play the metric beat, copy-sing pitch, record rhythm and sounds in non-traditional notation, make rhythm patterns from the sounding syllables of names and words, and read pitch with do-re-mi; notation grows across the years from stick and graphic notation to traditional notation (programme evidence) | Book 5, printed pp. 41–42 |
+| Nicaragua — Pulse, accent and measure — the musical pulse and accent, the compás, and the difference between measures of 2, 3 and 4 beats (teacher guide — evidence) | Book 6, printed p. 115 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Uganda).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The off-staff melody is named by its opening letters exactly as the placement quotes them; no melody is transcribed beyond that placement-quoted fragment, and no song is transcribed.
 
-Searchable tags: reading the beat, sight-reading rhythm, beat movement-act with time, Exercise 2.1, letters under notes, off-staff melody, sol-fa rows, atamo tsenatsil
+Searchable tags: reading the beat, sight-reading rhythm, beat movement-act with time, Exercise 2.1, letters under notes, off-staff melody, sol-fa rows, atamo tsenatsil, Nicaragua

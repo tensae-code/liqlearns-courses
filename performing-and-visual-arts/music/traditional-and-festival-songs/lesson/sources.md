@@ -1,6 +1,6 @@
 # Sources — Traditional and Festival Songs
 
-countries: Ethiopia, Barbados, Albania
+countries: Ethiopia, Barbados, Albania, Nicaragua
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Barbados, Albania
 
 **Book 8:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 9:** *Expresión Cultural y Artística — Manual Metodológico para la y el maestro — Segundo grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 2, 150 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Title/grade verified in the book's presentation: a support document for Grade 2 primary teachers. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 135) is a word list — inventory-only, named here, not stocked; Webgrafía not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 10:** *Manual Metodológico Expresión Cultural y Artística — 4° Grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 4, 148 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "BAJA" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — "አበባየሁሽ" (Abebayehush), the girls' Meskel-season call-and-response song/game | Grade 1 student textbook, printed pp. 39–40 |
@@ -33,9 +37,11 @@ countries: Ethiopia, Barbados, Albania
 | Barbados — Singing (Class 2) — singing more varied songs and rounds: Caribbean, African and Latin American folk songs, calypsos, modern songs and hymns (curriculum syllabus — evidence) | Book 6, printed p. 12 |
 | Albania — Folk songs one-voiced and many-voiced, and the song-game — single-voice and multi-voice folk singing from the folk heritage, and the play-song sung with movement and dance (teacher guide — evidence) | Book 7, printed p. 21 |
 | Albania — Iso-polyphonic song — the three-voice iso-polyphonic song "Poshtë nga çairetë" heard as Albania's own many-voiced tradition (song placed by name only, never transcribed) (teacher guide — evidence) | Book 8, printed p. 3 |
+| Nicaragua — Children's rounds and songs of my community — performing the rounds and children's songs of the child's own community, writing short songs using the made instruments, and taking part in the school's and community's cultural activities (teacher guide — evidence) | Book 9, printed p. 115 |
+| Nicaragua — Traditional and popular songs of the community; the National Anthem in choral practice — singing the community's traditional and popular songs and the National Anthem as choral practice (teacher guide — evidence) | Book 10, printed p. 125 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Traditional songs are placed by name, season and purpose only; their lyrics are never transcribed in this lesson — the books themselves print several of them as repertoire, and the lesson follows the placements in naming and summarising rather than copying. The Genna game song "አሲና በል" (Asina Bel, Grade 3 student textbook, printed p. 54) is named in the placements as its own target and belongs with the Genna game in the Culture and Values festival lesson, not here; it is not stocked in this lesson.
 
-Searchable tags: traditional songs, festival songs, Abebayehush, Adey, Hoya Hoye, Buhe, wedding songs, አበባየሁሽ, አደይ, ሆያ ሆዬ, ቡሄ በሉ, ሙሽራየ, Meskel, Enqutatash, Debre Tabor
+Searchable tags: traditional songs, festival songs, Abebayehush, Adey, Hoya Hoye, Buhe, wedding songs, አበባየሁሽ, አደይ, ሆያ ሆዬ, ቡሄ በሉ, ሙሽራየ, Meskel, Enqutatash, Debre Tabor, Nicaragua

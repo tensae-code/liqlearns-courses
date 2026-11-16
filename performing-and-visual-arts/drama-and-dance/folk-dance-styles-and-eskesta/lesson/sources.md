@@ -1,6 +1,6 @@
 # Sources — Folk Dance Styles and Eskesta
 
-countries: Ethiopia
+countries: Ethiopia, Nicaragua
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia
 **Book 6:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 **Book 7:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 **Book 8:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
+
+**Book 9:** *Manual Metodológico para la y el maestro — Expresión Cultural y Artística — Tercer grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "baja" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -35,9 +37,10 @@ countries: Ethiopia
 | Sub lesson 4 — Wolayta and Gambella techniques — the South's eskista (Grade 6 account) | Grade 6 Student Textbook, §3.2.2, printed pp. 73–74 |
 | Sub lesson 2 — Tigray dance and Amhara eskesta — the Grade 6 Tigray/Oromia account and the Grade 8 guide's folk-dance account | Grade 6 Student Textbook, §3.2.2, printed p. 74; Grade 8 Teacher Guide, printed pp. 19–21 (teacher guide — evidence) |
 | Sub lesson 3 — Somali, Oromo and Gurage techniques — the Grade 6 Oromia account | Grade 6 Student Textbook, §3.2.2, printed p. 74 |
+| Nicaragua — Folk dances of my locality — the basic folk-dance steps sencillo, avanzado, zapateado and cruzado, choreographic practice to marimba sones, and presenting dances in school activities (teacher guide — evidence) | Book 9, printed p. 27 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 The Grade 2 teacher-guide part (Slow Movements) is cited at section level only (§1.2, printed pp. 7–8) because that guide is a scan with no text layer — no body wording is claimed from it beyond its placement's own summary. Dance steps are taught as the guides' numbered technique steps give them; the Wag Himra songs are named by their refrain words only, as their placement allows, and no song text is transcribed.
 
-Searchable tags: folk dance, eskesta, እስከስታ, Tigray dance, Somali dance, Oromo dance, Gurage dance, Wolayta dance, Gambella dance, Gojjam, እንቅጥቅጥ, inqitiqit, timtim, disqina, መንጥቅ, wancha liqileqa, slow movements, ዝግ እንቅስቃሴዎች
+Searchable tags: folk dance, eskesta, እስከስታ, Tigray dance, Somali dance, Oromo dance, Gurage dance, Wolayta dance, Gambella dance, Gojjam, እንቅጥቅጥ, inqitiqit, timtim, disqina, መንጥቅ, wancha liqileqa, slow movements, ዝግ እንቅስቃሴዎች, Nicaragua
