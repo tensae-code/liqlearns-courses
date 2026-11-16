@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Ottomans
 
-countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova, Armenia, Italy, Greece
+countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova, Armenia, Italy, Greece, Kazakhstan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -712,3 +712,52 @@ Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (stude
 | Greece part — The decline of the Ottoman Empire — story beats: defeats, capitulations and reform attempts mark the empire's long 18th century (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 184 |
 
 Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 19 — 216/189/1346 Kokebaeva World History (Middle Ages) G6 RU+KZ+UZ (student book, Russian + Kazakh + Uzbek parallel editions)**
+- Title as printed: Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2018; ISBN 978-601-07-0955-3 (Russian ed.)
+- PDF pages: 137 + 145 + 161 (Russian edition read in full; Kazakh and Uzbek editions verified as parallels — covers and chapter plan matched)
+- Verdict: COMPLETE
+- Tally: 31 placements — 17 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the Mektep medieval course is the analytical twin of Aitbay's narrative one — same arc, but every block ends in comparison (absolutism West vs East, Renaissance West vs East), training pupils to set Europe and Asia side by side.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §21 Features of monarchy in the Ottoman Empire — story beats: the sultan's court, janissaries and timar system run an empire (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Kazakhstan, *Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)*, printed p. 81 |
+
+Kazakhstan's own way (Book 19 — 216/189/1346 Kokebaeva World History (Middle Ages) G6 RU+KZ+UZ (student book, Russian + Kazakh + Uzbek parallel editions)): the Mektep medieval course is the analytical twin of Aitbay's narrative one — same arc, but every block ends in comparison (absolutism West vs East, Renaissance West vs East), training pupils to set Europe and Asia side by side. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 22 — 251/1451 Kokebaeva World History (Middle Ages) G7 KZ+UZ (student book, Kazakh + Uzbek parallel editions)**
+- Title as printed: Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2017; ISBN 978-601-07-0871-6 (Kazakh ed.)
+- PDF pages: 177 + 185 (Kazakh edition's contents read in full; Uzbek edition parallels it)
+- Verdict: COMPLETE
+- Tally: 35 placements — 19 to existing lessons, 16 NEW LESSON NEEDED
+- Kazakhstan's own way: the Grade 7 Kokebaeva is the fullest Mektep medieval telling — Chinggis Khan, the Mongol Empire's structure and its military art get three separate sections, and the East's centralised systems are compared with Europe's absolutism.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §23 The Ottoman Empire's centralised rule system — story beats: sultan, divan and timars run the empire from Constantinople (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Kazakhstan, *Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)*, printed p. 115 |
+
+Kazakhstan's own way (Book 22 — 251/1451 Kokebaeva World History (Middle Ages) G7 KZ+UZ (student book, Kazakh + Uzbek parallel editions)): the Grade 7 Kokebaeva is the fullest Mektep medieval telling — Chinggis Khan, the Mongol Empire's structure and its military art get three separate sections, and the East's centralised systems are compared with Europe's absolutism. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 27 — 1071 Pittonova–Ivashev World History G8 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History), Grade 8 (Nazarbayev Intellectual Schools)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Nur-Sultan; year 2019; ISBN 978-601-328-350-0
+- PDF pages: 152 (cover + full contents read at printed pp. 3–4)
+- Verdict: COMPLETE
+- Tally: 28 placements — 13 to existing lessons, 15 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS Grade 8 course teaches the 18th–19th centuries entirely as source disputes — paintings of Marat, Lin Zexu's letter, rival accounts of 1857 — so pupils learn modern history by cross-examining its witnesses.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — 5.2 Did the Tanzimat policy strengthen the Ottoman Empire? — story beats: reform edicts modernise the empire yet cannot save its power (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Kazakhstan, *Всемирная история (World History), Grade 8 (Nazarbayev Intellectual Schools)*, printed p. 58 |
+
+Kazakhstan's own way (Book 27 — 1071 Pittonova–Ivashev World History G8 RU (student book, Russian)): the NIS Grade 8 course teaches the 18th–19th centuries entirely as source disputes — paintings of Marat, Lin Zexu's letter, rival accounts of 1857 — so pupils learn modern history by cross-examining its witnesses. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova, Armenia, Italy, Greece, Kazakhstan).**

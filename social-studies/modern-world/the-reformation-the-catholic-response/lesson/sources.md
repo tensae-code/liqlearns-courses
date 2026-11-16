@@ -1,6 +1,6 @@
 # Sources — The Reformation — the Catholic Counter-Reformation
 
-countries: Ethiopia, Poland, Mozambique, North Macedonia, Venezuela, Moldova, Armenia, Nicaragua, Italy, Greece
+countries: Ethiopia, Poland, Mozambique, North Macedonia, Venezuela, Moldova, Armenia, Nicaragua, Italy, Greece, Kazakhstan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 129).
 
@@ -243,3 +243,37 @@ Greece's own way (Book 2 — G9 Ecclesiastical History Topics (student book, Gre
 | Greece part — The Catholic response (within the Reformation chapter) — story beats: Trent reforms and reaffirms; new orders carry Catholicism to the new worlds (History expansion, 2026-11-15; original placement slug: modern-world/the-reformation-the-catholic-response) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 127 |
 
 Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 21 — 279/252 Aitbay World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN not captured from scan
+- PDF pages: 144 + 144 (Russian edition's contents read in full at printed pp. 141–143; Kazakh edition parallels it)
+- Verdict: COMPLETE
+- Tally: 30 placements — 16 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: Aitbay's expanded telling adds the Mongols' military art and the ethnopolitical remaking of Eurasia as full sections — the medieval world seen from the steppe that conquered half of it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §31 The Reformation spreads through Europe's countries — story beats: Calvin's Geneva, Henry's England and the Catholic answer divide the continent (History expansion, 2026-11-15; original placement slug: modern-world/the-reformation-the-catholic-response) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)*, printed p. 125 |
+
+Kazakhstan's own way (Book 21 — 279/252 Aitbay World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)): Aitbay's expanded telling adds the Mongols' military art and the ethnopolitical remaking of Eurasia as full sections — the medieval world seen from the steppe that conquered half of it. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 22 — 251/1451 Kokebaeva World History (Middle Ages) G7 KZ+UZ (student book, Kazakh + Uzbek parallel editions)**
+- Title as printed: Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2017; ISBN 978-601-07-0871-6 (Kazakh ed.)
+- PDF pages: 177 + 185 (Kazakh edition's contents read in full; Uzbek edition parallels it)
+- Verdict: COMPLETE
+- Tally: 35 placements — 19 to existing lessons, 16 NEW LESSON NEEDED
+- Kazakhstan's own way: the Grade 7 Kokebaeva is the fullest Mektep medieval telling — Chinggis Khan, the Mongol Empire's structure and its military art get three separate sections, and the East's centralised systems are compared with Europe's absolutism.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §32 Europe's struggle with the Reformation and its results — story beats: Trent, wars of religion and toleration edicts close the schism's century (History expansion, 2026-11-15; original placement slug: modern-world/the-reformation-the-catholic-response) | Kazakhstan, *Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)*, printed p. 156 |
+
+Kazakhstan's own way (Book 22 — 251/1451 Kokebaeva World History (Middle Ages) G7 KZ+UZ (student book, Kazakh + Uzbek parallel editions)): the Grade 7 Kokebaeva is the fullest Mektep medieval telling — Chinggis Khan, the Mongol Empire's structure and its military art get three separate sections, and the East's centralised systems are compared with Europe's absolutism. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Poland, Mozambique, North Macedonia, Venezuela, Moldova, Armenia, Nicaragua, Italy, Greece, Kazakhstan).**

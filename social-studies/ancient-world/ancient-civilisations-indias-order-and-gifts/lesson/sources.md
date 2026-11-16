@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — India's order and gifts
 
-countries: Ethiopia, Australia, Eritrea, India, Pakistan, Sri Lanka, Uzbekistan, Vietnam, Greece
+countries: Ethiopia, Australia, Eritrea, India, Pakistan, Sri Lanka, Uzbekistan, Vietnam, Greece, Kazakhstan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -166,3 +166,58 @@ Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese
 | Greece part — India's history and civilisation (second part) — story beats: Mauryan and Gupta rulers unite the land while Buddhism and Hindu learning spread along the trade roads (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-indias-order-and-gifts) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 275 |
 
 Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-17-6
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 27 to existing lessons, 9 NEW LESSON NEEDED
+- Kazakhstan's own way: NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §15 Why Hinduism prevailed over Buddhism in ancient India — story beats: the Buddha's teaching spreads abroad while at home Hindu practice absorbs and outlasts it (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-indias-order-and-gifts) | Kazakhstan, *Всемирная история (World History)*, printed p. 52 |
+| Kazakhstan part — §16 India's role as an ancient trade centre — story beats: Indian ports and passes link East and West and grow rich on the exchange (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-indias-order-and-gifts) | Kazakhstan, *Всемирная история (World History)*, printed p. 54 |
+| Kazakhstan part — §17 How developed was ancient India's science — story beats: Indian scholars give the world zero, decimals and advances in medicine and astronomy (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-indias-order-and-gifts) | Kazakhstan, *Всемирная история (World History)*, printed p. 56 |
+
+Kazakhstan's own way (Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)): NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-727-8 (Russian ed.)
+- PDF pages: 176 + 176 (covers verified; contents of both editions read and matched — one placement set, Russian-edition pages cited)
+- Verdict: COMPLETE
+- Tally: 34 placements — 26 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §15 Hinduism and Buddhism in ancient India — story beats: the Buddha walks away from a palace and his teaching challenges the caste order (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-indias-order-and-gifts) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 81 |
+| Kazakhstan part — §16 Social order and economy of ancient India — story beats: varna fixes everyone's place while villages and guilds feed the kingdom (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-indias-order-and-gifts) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 85 |
+| Kazakhstan part — §17 Culture and science in ancient India — story beats: epics, zero and Ayurveda travel from India into the world's inheritance (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-indias-order-and-gifts) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 89 |
+
+Kazakhstan's own way (Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)): the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — 725 Bukaeva World History G5 teacher guide RU (teacher guide, Russian)**
+- Title as printed: Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-18-3
+- PDF pages: 112 (title page + contents verified; guide carries a staged lesson for each of Book 1's 33 sections plus chapter didactic materials)
+- Verdict: COMPLETE
+- Tally: 33 placements — 25 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the guide names the NIS method outright — historical concepts (change, cause, evidence, significance, interpretation) drive every lesson, and all topics are posed as problem questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §15 Why Hinduism prevailed though Ashoka accepted Buddhism (lesson plan) — story beats: Ashoka's conversion and Hinduism's survival anchor the religion lessons (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-indias-order-and-gifts) | Kazakhstan, *Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide*, printed p. 50 |
+| Kazakhstan part — §16 India's role as a trade centre (lesson plan) — story beats: trade routes make India the ancient world's crossroads in class mapping (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-indias-order-and-gifts) | Kazakhstan, *Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide*, printed p. 52 |
+| Kazakhstan part — §17 India's scientific knowledge (lesson plan) — story beats: zero and medicine headline the science lesson (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-indias-order-and-gifts) | Kazakhstan, *Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide*, printed p. 54 |
+
+Kazakhstan's own way (Book 11 — 725 Bukaeva World History G5 teacher guide RU (teacher guide, Russian)): the guide names the NIS method outright — historical concepts (change, cause, evidence, significance, interpretation) drive every lesson, and all topics are posed as problem questions. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Australia, Eritrea, India, Pakistan, Sri Lanka, Uzbekistan, Vietnam, Greece, Kazakhstan).**

@@ -1,6 +1,6 @@
 # Sources — Decolonisation — North Africa
 
-countries: Ethiopia, Libya, Iraq, Sudan, Jordan, North Macedonia, Italy
+countries: Ethiopia, Libya, Iraq, Sudan, Jordan, North Macedonia, Italy, Kazakhstan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -207,3 +207,22 @@ Italy's own way (Book 5 — La storia. Progettare il futuro, Vol. 3 (student boo
 Italy's own way (Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)): Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Libya, Iraq, Sudan, Jordan, North Macedonia, Italy).**
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 20 — 458 Aldabek World History (1945–present) Part 2 G9 RU (student book, Russian)**
+- Title as printed: Всемирная история 8–9, Часть 2 [World History, grades 8–9, Part 2]
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2019 (authors N. A. Aldabek, K. N. Makasheva, K. I. Baizakova); ISBN not printed on the pages read
+- PDF pages: 217 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 31 placements — 2 to existing lessons, 29 NEW LESSON NEEDED
+- Kazakhstan's own way: Part 2 of the Aldabek contemporary course — the world from 1945 to the present in 30 §s: decolonisation, the Cold War, the UN and European integration, the welfare state and its critics, the Arab world, Asian development paths, globalisation, and science/culture to the information age; chronological index (p. 204) and glossary (p. 208) close it. Contents read in full (pp. 213–214).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §3 The Year of Africa; the sharpening of the colonial problem in France — story beats: 1960 frees seventeen African states at once while France fights to hold Algeria (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-north-africa) | Kazakhstan, *Всемирная история 8–9, Часть 2 [World History, grades 8–9, Part 2]*, printed p. 16 |
+
+Kazakhstan's own way (Book 20 — 458 Aldabek World History (1945–present) Part 2 G9 RU (student book, Russian)): Part 2 of the Aldabek contemporary course — the world from 1945 to the present in 30 §s: decolonisation, the Cold War, the UN and European integration, the welfare state and its critics, the Arab world, Asian development paths, globalisation, and science/culture to the information age; chronological index (p. 204) and glossary (p. 208) close it. Contents read in full (pp. 213–214). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Libya, Iraq, Sudan, Jordan, North Macedonia, Italy, Kazakhstan).**

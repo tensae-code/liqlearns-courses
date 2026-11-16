@@ -1,6 +1,6 @@
 # Sources — Exploration — Portugal and the sea routes to India
 
-countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba, China, Armenia, Italy, Greece
+countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba, China, Armenia, Italy, Greece, Kazakhstan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -546,3 +546,37 @@ Greece's own way (Book 14 — G8 Medieval & Modern History student book (student
 | Greece part — The Discoveries — story beats: Portuguese caravels round Africa; Columbus stumbles on America; the oceans become highways (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 120 |
 
 Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 17 — 215 Aitbay World History G6 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2018; ISBN not captured from scan
+- PDF pages: 128 (title page verified; full text read — contents at printed pp. 126–127)
+- Verdict: COMPLETE
+- Tally: 28 placements — 14 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §23 Chinese and European sea voyages — story beats: Zheng He's treasure fleets and Portuguese caravels open the oceans (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Kazakhstan, *Всемирная история (World History)*, printed p. 92 |
+
+Kazakhstan's own way (Book 17 — 215 Aitbay World History G6 RU (student book, Russian)): the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 20 — 1042/1043 Pittonova–Bukaeva World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History), Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2018; ISBN 978-601-328-220-6 (Russian ed.)
+- PDF pages: 136 + 136 (covers verified; contents of the Russian edition read in full — the NIS programme teaches the medieval course in Grade 7; the Kazakh edition parallels it unit-for-unit)
+- Verdict: COMPLETE
+- Tally: 23 placements — 12 to existing lessons, 11 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS Grade 7 book re-teaches the medieval world as 20 open investigations — every unit is a contested question ("Whose power was more absolute?") with a staged research path, the deepest version of the question-driven method in this group.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — 8.2 How did Chinese and European rulers treat sea voyages? — story beats: Ming emperors ban the fleets Portugal's kings sponsor — two sea policies collide (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), Grade 7*, printed p. 104 |
+
+Kazakhstan's own way (Book 20 — 1042/1043 Pittonova–Bukaeva World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)): the NIS Grade 7 book re-teaches the medieval world as 20 open investigations — every unit is a contested question ("Whose power was more absolute?") with a staged research path, the deepest version of the question-driven method in this group. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 22 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba, China, Armenia, Italy, Greece, Kazakhstan).**

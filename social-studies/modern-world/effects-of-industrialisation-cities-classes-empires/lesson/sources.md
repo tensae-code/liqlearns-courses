@@ -1,6 +1,6 @@
 # Sources — Effects of industrialisation — cities, classes, empires
 
-countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam, Greece
+countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam, Greece, Kazakhstan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -526,3 +526,37 @@ Greece's own way (Book 16 — G9 Modern & Contemporary History student book (stu
 | Greece part — Social and political dimensions of the industrial revolution — story beats: factory cities swell, a working class organises, and unions and socialist parties force politics to change (History expansion, 2026-11-15; original placement slug: modern-world/effects-of-industrialisation-cities-classes-empires) | Greece, *Νεότερη και Σύγχρονη Ιστορία (Modern and Contemporary History), Γ' Γυμνασίου, by Evangelia Louvi & Dimitrios Chr. Xifaras*, printed p. 44 |
 
 Greece's own way (Book 1 — G9 Modern & Contemporary History (student book, Greek)): world history and Greek national history alternate chapter by chapter, so learners always see Greece inside Europe's story; every chapter ends with sources and questions. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 1 — 1358 Aldabek World History (1900–1945) G8 RU (student book, Russian)**
+- Title as printed: Всемирная история (1900–1945) [World History (1900–1945)]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2024 (2nd edition, revised and expanded); ISBN 978-601-07-1700-8
+- PDF pages: 225 (cover/title page verified against the record title; 224 printed pages)
+- Verdict: COMPLETE
+- Tally: 39 placements — 24 to existing lessons, 15 NEW LESSON NEEDED
+- Kazakhstan's own way: a narrative survey of the first half of the 20th century in 30 numbered paragraphs (§) grouped in 7 units, each § opening with a "In this lesson" box and key-words box, each unit closing with a conclusion; a chronological index and a long terminology glossary close the book. Parallel edition: 1402 (Kazakh, same Mektep edition — see Book 2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §3 From industrial to information society: scientific-technical progress — story beats: new machines, energy and communications remake work and daily life as industrial society turns toward an information age (History expansion, 2026-11-15; original placement slug: modern-world/effects-of-industrialisation-cities-classes-empires) | Kazakhstan, *Всемирная история (1900–1945) [World History (1900–1945)]*, printed p. 15 |
+
+Kazakhstan's own way (Book 1 — 1358 Aldabek World History (1900–1945) G8 RU (student book, Russian)): a narrative survey of the first half of the 20th century in 30 numbered paragraphs (§) grouped in 7 units, each § opening with a "In this lesson" box and key-words box, each unit closing with a conclusion; a chronological index and a long terminology glossary close the book. Parallel edition: 1402 (Kazakh, same Mektep edition — see Book 2). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 19 — 457 Aldabek World History (1900–1945) Part 1 G9 RU (student book, Russian)**
+- Title as printed: Всемирная история (1900–1945), Часть 1 [World History (1900–1945), Part 1] — textbook for grades 8–9
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2019 (signed to print 27.05.2019; authors N. A. Aldabek, K. N. Makasheva, K. I. Baizakova); ISBN not printed on the pages read
+- PDF pages: 217 (title/imprint pages verified against the record title)
+- Verdict: COMPLETE
+- Tally: 31 placements — 16 to existing lessons, 15 NEW LESSON NEEDED
+- Kazakhstan's own way: the earlier two-part edition of the Aldabek contemporary-history course (Part 2, 458, continues from 1945): the same 30-§ survey as the 2024 one-volume Grade 8 book (Book 1, 1358) — preface, seven content units and closing culture/science unit, chronological index (p. 206) and terminology glossary (p. 209) — so its topics are placed onto the same lessons as Book 1; the contents were read in full (pp. 214–215) and the preface and opening § verified in the text.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §3 From industrial to information society: scientific-technical progress — story beats: new energy, machines and communications turn industrial society toward an information age (History expansion, 2026-11-15; original placement slug: modern-world/effects-of-industrialisation-cities-classes-empires) | Kazakhstan, *Всемирная история (1900–1945), Часть 1 [World History (1900–1945), Part 1] — textbook for grades 8–9*, printed p. 15 |
+
+Kazakhstan's own way (Book 19 — 457 Aldabek World History (1900–1945) Part 1 G9 RU (student book, Russian)): the earlier two-part edition of the Aldabek contemporary-history course (Part 2, 458, continues from 1945): the same 30-§ survey as the 2024 one-volume Grade 8 book (Book 1, 1358) — preface, seven content units and closing culture/science unit, chronological index (p. 206) and terminology glossary (p. 209) — so its topics are placed onto the same lessons as Book 1; the contents were read in full (pp. 214–215) and the preface and opening § verified in the text. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam, Greece, Kazakhstan).**

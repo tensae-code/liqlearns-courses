@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia's gifts
 
-countries: Ethiopia, Egypt, Pakistan, Syria, Colombia, Libya, Sri Lanka, Iraq, Afghanistan, Armenia, Vietnam, Greece
+countries: Ethiopia, Egypt, Pakistan, Syria, Colombia, Libya, Sri Lanka, Iraq, Afghanistan, Armenia, Vietnam, Greece, Kazakhstan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -329,3 +329,22 @@ Greece's own way (Book 10 — G11 EPAL History of the Graphic Arts (student book
 | Greece part — Chapter 2 (first part): The art of Mesopotamia — story beats: ziggurats, palace reliefs and glazed bricks glorify gods and kings between the rivers (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamias-gifts) | Greece, *Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou*, printed p. 25 |
 
 Greece's own way (Book 9 — G11/G12 EPAL History of Art (student book, Greek)): a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-727-8 (Russian ed.)
+- PDF pages: 176 + 176 (covers verified; contents of both editions read and matched — one placement set, Russian-edition pages cited)
+- Verdict: COMPLETE
+- Tally: 34 placements — 26 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §6 Economy and art of the ancient civilisations — story beats: irrigation accounts, cuneiform and ziggurats — Mesopotamia counts, writes and builds (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamias-gifts) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 34 |
+
+Kazakhstan's own way (Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)): the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Egypt, Pakistan, Syria, Colombia, Libya, Sri Lanka, Iraq, Afghanistan, Armenia, Vietnam, Greece, Kazakhstan).**

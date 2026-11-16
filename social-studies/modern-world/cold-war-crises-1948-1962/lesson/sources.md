@@ -1,6 +1,6 @@
 # Sources — Cold War Crises 1948 1962
 
-countries: North Macedonia, Vietnam
+countries: North Macedonia, Vietnam, Kazakhstan
 
 **Book 3 — Istorija I (History I), Grade 10 (student book, Macedonian)**
 - Title as printed: ИСТОРИЈА I за прва година гимназиско образование — учебник (History I for the first year of gymnasium education — textbook)
@@ -42,3 +42,23 @@ Searchable tags: North Macedonia, Cold War Crises 1948 1962, modern-world, Histo
 Vietnam's own way (Book 10 — G11 study topics (student book, Vietnamese)): the Grade 11 elective goes deep on three things — traditional art read dynasty by dynasty as national evidence, the twentieth century taught as one long argument between war and peace (with Vietnam's own wars counted inside the world's), and history carried by named people: kings, generals, poets, a physician and an encyclopaedist. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (North Macedonia, Vietnam).**
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 20 — 458 Aldabek World History (1945–present) Part 2 G9 RU (student book, Russian)**
+- Title as printed: Всемирная история 8–9, Часть 2 [World History, grades 8–9, Part 2]
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2019 (authors N. A. Aldabek, K. N. Makasheva, K. I. Baizakova); ISBN not printed on the pages read
+- PDF pages: 217 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 31 placements — 2 to existing lessons, 29 NEW LESSON NEEDED
+- Kazakhstan's own way: Part 2 of the Aldabek contemporary course — the world from 1945 to the present in 30 §s: decolonisation, the Cold War, the UN and European integration, the welfare state and its critics, the Arab world, Asian development paths, globalisation, and science/culture to the information age; chronological index (p. 204) and glossary (p. 208) close it. Contents read in full (pp. 213–214).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §6 The formation of the world socialist camp; key Cold War events of 1948–1962 — story beats: Berlin blockade, Korea, Cuba — the superpowers repeatedly step to the brink (History expansion, 2026-11-15; original placement slug: modern-world/cold-war-crises-1948-1962) | Kazakhstan, *Всемирная история 8–9, Часть 2 [World History, grades 8–9, Part 2]*, printed p. 37 |
+| Kazakhstan part — §13 Key Cold War events of 1979–1985 and its completion — story beats: Afghanistan restarts the confrontation; then Gorbachev and Reagan wind it down (History expansion, 2026-11-15; original placement slug: modern-world/cold-war-crises-1948-1962) | Kazakhstan, *Всемирная история 8–9, Часть 2 [World History, grades 8–9, Part 2]*, printed p. 84 |
+
+Kazakhstan's own way (Book 20 — 458 Aldabek World History (1945–present) Part 2 G9 RU (student book, Russian)): Part 2 of the Aldabek contemporary course — the world from 1945 to the present in 30 §s: decolonisation, the Cold War, the UN and European integration, the welfare state and its critics, the Arab world, Asian development paths, globalisation, and science/culture to the information age; chronological index (p. 204) and glossary (p. 208) close it. Contents read in full (pp. 213–214). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (North Macedonia, Vietnam, Kazakhstan).**

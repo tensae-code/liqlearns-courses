@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Athens and democracy
 
-countries: Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro, Dominican Republic, Pakistan, Colombia, Sri Lanka, Mozambique, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Vietnam, Greece
+countries: Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro, Dominican Republic, Pakistan, Colombia, Sri Lanka, Mozambique, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Vietnam, Greece, Kazakhstan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -553,3 +553,52 @@ Greece's own way (Book 12 — G11/G12 EPAL Protection of Cultural Heritage (stud
 | Greece part — Chapter 4: Ancient Greece, historical times — Geometric, Archaic, Classical and Hellenistic dress, fabrics and accessories — story beats: one rectangle of cloth — chiton, peplos, himation — is draped a hundred ways as the city changes from archaic stiffness to classical ease (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-athens-and-democracy) | Greece, *Ιστορία ενδυμασίας Ι (History of Clothing I), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelia N. Georgitsoyanni*, printed p. 77 |
 
 Greece's own way (Book 7 — G11 EPAL History of Clothing I (student book, Greek)): clothing history is taught civilisation by civilisation — each chapter first gives the period's history in brief, then reads its society through women's and men's dress, fabrics and accessories, with primary sources and images. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-17-6
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 27 to existing lessons, 9 NEW LESSON NEEDED
+- Kazakhstan's own way: NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §22 Why Greece is called democracy's birthplace — story beats: Athenian citizens gather, speak and vote, inventing rule by the people (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-athens-and-democracy) | Kazakhstan, *Всемирная история (World History)*, printed p. 72 |
+
+Kazakhstan's own way (Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)): NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-727-8 (Russian ed.)
+- PDF pages: 176 + 176 (covers verified; contents of both editions read and matched — one placement set, Russian-edition pages cited)
+- Verdict: COMPLETE
+- Tally: 34 placements — 26 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §22 Ancient Greek city-states — story beats: the polis is born — small citizen states that govern themselves (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-athens-and-democracy) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 110 |
+
+Kazakhstan's own way (Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)): the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — 725 Bukaeva World History G5 teacher guide RU (teacher guide, Russian)**
+- Title as printed: Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-18-3
+- PDF pages: 112 (title page + contents verified; guide carries a staged lesson for each of Book 1's 33 sections plus chapter didactic materials)
+- Verdict: COMPLETE
+- Tally: 33 placements — 25 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the guide names the NIS method outright — historical concepts (change, cause, evidence, significance, interpretation) drive every lesson, and all topics are posed as problem questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §22 Why Greece is democracy's birthplace (lesson plan) — story beats: a mock assembly teaches Athenian voting from inside (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-athens-and-democracy) | Kazakhstan, *Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide*, printed p. 72 |
+
+Kazakhstan's own way (Book 11 — 725 Bukaeva World History G5 teacher guide RU (teacher guide, Russian)): the guide names the NIS method outright — historical concepts (change, cause, evidence, significance, interpretation) drive every lesson, and all topics are posed as problem questions. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 23 countries (Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro, Dominican Republic, Pakistan, Colombia, Sri Lanka, Mozambique, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Vietnam, Greece, Kazakhstan).**

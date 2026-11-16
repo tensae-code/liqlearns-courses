@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy, Vietnam, Greece
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy, Vietnam, Greece, Kazakhstan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -697,3 +697,22 @@ Vietnam's own way (Book 10 — G11 study topics (student book, Vietnamese)): the
 | Greece part — Book IV, Unit 9a Herodotus as geographer (summary) — story beats: the Scythian logos maps rivers, peoples and the shape of the earth as the inquirer knew it (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Greece, *Αρχαία Ελληνικά Κείμενα — Ηροδότου Ιστορίες, Α΄ Γυμνασίου, Βιβλίο Μαθητή (Ancient Greek Texts: Herodotus's Histories, Grade 7 Gymnasium)*, printed p. 52 |
 
 Greece's own way (Book 12 — G7 Herodotus, Histories in translation (student book, Greek)): a whole schoolbook of one author — Herodotus in translation, unit by unit, so pupils learn the Persian Wars from the man who invented the inquiry that tells them; every unit is plot summary and source-reading, never transcription here. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 2 — 131/155 Kumekov History of Kazakhstan G5 KZ+RU (student book, Kazakh + Russian parallel editions)**
+- Title as printed: Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-753-7 (Kazakh ed.)
+- PDF pages: 144 + 144 (covers/title pages verified; contents of both editions read and matched section-for-section — one placement set for both)
+- Verdict: COMPLETE
+- Tally: 34 placements — 11 to existing lessons, 23 NEW LESSON NEEDED
+- Kazakhstan's own way: the national story starts at the Stone Age on Kazakhstan's own soil and runs tribe by tribe (Sakas, Usuns, Kangly, Sarmatians, Huns) — ancient Kazakhstan taught as a continuous steppe civilisation, every section closing with source work and an essay task.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §2 Kazakhstan's own researchers of its history — story beats: Kazakhstani archaeologists and historians dig and write the country's past back into existence (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Kazakhstan, *Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)*, printed p. 8 |
+
+Kazakhstan's own way (Book 2 — 131/155 Kumekov History of Kazakhstan G5 KZ+RU (student book, Kazakh + Russian parallel editions)): the national story starts at the Stone Age on Kazakhstan's own soil and runs tribe by tribe (Sakas, Usuns, Kangly, Sarmatians, Huns) — ancient Kazakhstan taught as a continuous steppe civilisation, every section closing with source work and an essay task. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 22 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy, Vietnam, Greece, Kazakhstan).**

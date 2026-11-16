@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — the Nile Kingdom
 
-countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras, Vietnam, Greece
+countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras, Vietnam, Greece, Kazakhstan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1125,3 +1125,58 @@ Greece's own way (Book 12 — G7 Herodotus, Histories in translation (student bo
 | Greece part — Egypt: the land and its order — story beats: the Nile floods on time, the pharaoh organises the farming, and a kingdom holds together for three thousand years (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 20 |
 
 Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-17-6
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 27 to existing lessons, 9 NEW LESSON NEEDED
+- Kazakhstan's own way: NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §6 Why Egypt was called the Black Land — story beats: the Nile's black silt feeds a kingdom that calls its own soil Black Land and the desert Red Land (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Kazakhstan, *Всемирная история (World History)*, printed p. 26 |
+| Kazakhstan part — §7 How Egypt's pyramids were built — story beats: thousands haul and stack stone so a pharaoh's tomb rises to outlast him (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Kazakhstan, *Всемирная история (World History)*, printed p. 28 |
+| Kazakhstan part — §8 Why Hatshepsut sent ships to Punt — story beats: the woman pharaoh Hatshepsut sends an expedition to far Punt and brings back incense trees and wonders (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Kazakhstan, *Всемирная история (World History)*, printed p. 30 |
+
+Kazakhstan's own way (Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)): NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-727-8 (Russian ed.)
+- PDF pages: 176 + 176 (covers verified; contents of both editions read and matched — one placement set, Russian-edition pages cited)
+- Verdict: COMPLETE
+- Tally: 34 placements — 26 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §7 The rise of the state in Egypt — story beats: two kingdoms unite under one pharaoh on the Nile (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 40 |
+| Kazakhstan part — §8 The pyramid-building era — story beats: Djoser, Sneferu and Khufu raise ever greater pyramids as the state flexes its power (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 44 |
+| Kazakhstan part — §9 Egypt's economy and social order — story beats: pharaoh, officials, peasants and slaves hold their fixed places in the Nile state (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 48 |
+
+Kazakhstan's own way (Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)): the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — 725 Bukaeva World History G5 teacher guide RU (teacher guide, Russian)**
+- Title as printed: Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-18-3
+- PDF pages: 112 (title page + contents verified; guide carries a staged lesson for each of Book 1's 33 sections plus chapter didactic materials)
+- Verdict: COMPLETE
+- Tally: 33 placements — 25 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the guide names the NIS method outright — historical concepts (change, cause, evidence, significance, interpretation) drive every lesson, and all topics are posed as problem questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §6 Why Egypt was called the Black Land (lesson plan) — story beats: the Nile's silt becomes the hero of the opening Egypt lesson (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Kazakhstan, *Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide*, printed p. 24 |
+| Kazakhstan part — §7 How the pyramids were built (lesson plan) — story beats: pupils test building theories against the evidence (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Kazakhstan, *Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide*, printed p. 26 |
+| Kazakhstan part — §8 Why Hatshepsut sent ships to Punt (lesson plan) — story beats: the Punt expedition is reconstructed from temple reliefs (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Kazakhstan, *Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide*, printed p. 28 |
+
+Kazakhstan's own way (Book 11 — 725 Bukaeva World History G5 teacher guide RU (teacher guide, Russian)): the guide names the NIS method outright — historical concepts (change, cause, evidence, significance, interpretation) drive every lesson, and all topics are posed as problem questions. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 40 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras, Vietnam, Greece, Kazakhstan).**

@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Dark Age and feudalism
 
-countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece
+countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece, Kazakhstan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -899,3 +899,96 @@ Greece's own way (Book 7 — G11 EPAL History of Clothing I (student book, Greek
 | Greece part — Chapter 2.2: The Western Middle Ages — story beats: castle and monastery furniture is heavy, rare and made to travel with a lord's household (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Greece, *Ιστορία Διακοσμητικών Τεχνών (History of Decorative Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Evangelos Georgousopoulos, Eleftherios Dafnos & Ilias Konstantopoulos*, printed p. 69 |
 
 Greece's own way (Book 6 — G11 EPAL History of Decorative Arts (student book, Greek)): the decorative arts are followed civilisation by civilisation through houses, furniture, ceramics, metalwork, textiles and jewellery — and Greek folk tradition (mainland and Aegean architecture, the traditional house and its crafts) gets two full chapters of its own. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 17 — 215 Aitbay World History G6 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2018; ISBN not captured from scan
+- PDF pages: 128 (title page verified; full text read — contents at printed pp. 126–127)
+- Verdict: COMPLETE
+- Tally: 28 placements — 14 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 The concept 'Middle Ages'; fall of the Western Roman Empire — story beats: Rome falls to the barbarians and Europe fragments into kingdoms (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история (World History)*, printed p. 5 |
+| Kazakhstan part — §5 Main features of feudal society — story beats: land-for-service binds lord and vassal into the feudal pyramid (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история (World History)*, printed p. 19 |
+| Kazakhstan part — §6 Social order of feudal society — story beats: those who pray, fight and work — three estates freeze everyone's place (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история (World History)*, printed p. 24 |
+
+Kazakhstan's own way (Book 17 — 215 Aitbay World History G6 RU (student book, Russian)): the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 19 — 216/189/1346 Kokebaeva World History (Middle Ages) G6 RU+KZ+UZ (student book, Russian + Kazakh + Uzbek parallel editions)**
+- Title as printed: Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2018; ISBN 978-601-07-0955-3 (Russian ed.)
+- PDF pages: 137 + 145 + 161 (Russian edition read in full; Kazakh and Uzbek editions verified as parallels — covers and chapter plan matched)
+- Verdict: COMPLETE
+- Tally: 31 placements — 17 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the Mektep medieval course is the analytical twin of Aitbay's narrative one — same arc, but every block ends in comparison (absolutism West vs East, Renaissance West vs East), training pupils to set Europe and Asia side by side.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 The concept of the Middle Ages in history — story beats: a thousand years between Rome's fall and the modern age get their name and borders (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)*, printed p. 8 |
+| Kazakhstan part — §2 The fall of the Western Roman Empire — story beats: barbarian kingdoms carve up the West while the East survives (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)*, printed p. 12 |
+| Kazakhstan part — §5 The feudal economy — story beats: land, peasants and dues form feudalism's economic base (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)*, printed p. 24 |
+| Kazakhstan part — §6 Feudal society — story beats: lords, clergy and peasants lock into the three-estate order (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)*, printed p. 26 |
+| Kazakhstan part — §18 Periods of the feudal states' development — story beats: early, high and late feudalism are summed as one arc (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)*, printed p. 68 |
+
+Kazakhstan's own way (Book 19 — 216/189/1346 Kokebaeva World History (Middle Ages) G6 RU+KZ+UZ (student book, Russian + Kazakh + Uzbek parallel editions)): the Mektep medieval course is the analytical twin of Aitbay's narrative one — same arc, but every block ends in comparison (absolutism West vs East, Renaissance West vs East), training pupils to set Europe and Asia side by side. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 20 — 1042/1043 Pittonova–Bukaeva World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History), Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2018; ISBN 978-601-328-220-6 (Russian ed.)
+- PDF pages: 136 + 136 (covers verified; contents of the Russian edition read in full — the NIS programme teaches the medieval course in Grade 7; the Kazakh edition parallels it unit-for-unit)
+- Verdict: COMPLETE
+- Tally: 23 placements — 12 to existing lessons, 11 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS Grade 7 book re-teaches the medieval world as 20 open investigations — every unit is a contested question ("Whose power was more absolute?") with a staged research path, the deepest version of the question-driven method in this group.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — 1.1 Why did the Roman Empire fall in the West? — story beats: historians' rival versions of 476 are weighed — no single cause carries the fall (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), Grade 7*, printed p. 6 |
+| Kazakhstan part — 2.1 What were feudal society and economy? — story beats: land-for-service and the manor are modelled as a working system (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), Grade 7*, printed p. 16 |
+
+Kazakhstan's own way (Book 20 — 1042/1043 Pittonova–Bukaeva World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)): the NIS Grade 7 book re-teaches the medieval world as 20 open investigations — every unit is a contested question ("Whose power was more absolute?") with a staged research path, the deepest version of the question-driven method in this group. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 21 — 279/252 Aitbay World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN not captured from scan
+- PDF pages: 144 + 144 (Russian edition's contents read in full at printed pp. 141–143; Kazakh edition parallels it)
+- Verdict: COMPLETE
+- Tally: 30 placements — 16 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: Aitbay's expanded telling adds the Mongols' military art and the ethnopolitical remaking of Eurasia as full sections — the medieval world seen from the steppe that conquered half of it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 The concept of the Middle Ages; periodisation of medieval history — story beats: early, high and late Middle Ages are bounded and named (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)*, printed p. 5 |
+| Kazakhstan part — §2 The Great Migration of Peoples; fall of the Western Roman Empire — story beats: tribes on the move push Rome over in 476 (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)*, printed p. 8 |
+| Kazakhstan part — §5 The concept of feudalism; features of the feudal economy — story beats: fief, vassal and manor define the feudal order's working parts (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)*, printed p. 21 |
+| Kazakhstan part — §6 Social structure of feudal society — story beats: three estates assign every person a prayed, fought or worked place (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)*, printed p. 25 |
+
+Kazakhstan's own way (Book 21 — 279/252 Aitbay World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)): Aitbay's expanded telling adds the Mongols' military art and the ethnopolitical remaking of Eurasia as full sections — the medieval world seen from the steppe that conquered half of it. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 22 — 251/1451 Kokebaeva World History (Middle Ages) G7 KZ+UZ (student book, Kazakh + Uzbek parallel editions)**
+- Title as printed: Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2017; ISBN 978-601-07-0871-6 (Kazakh ed.)
+- PDF pages: 177 + 185 (Kazakh edition's contents read in full; Uzbek edition parallels it)
+- Verdict: COMPLETE
+- Tally: 35 placements — 19 to existing lessons, 16 NEW LESSON NEEDED
+- Kazakhstan's own way: the Grade 7 Kokebaeva is the fullest Mektep medieval telling — Chinggis Khan, the Mongol Empire's structure and its military art get three separate sections, and the East's centralised systems are compared with Europe's absolutism.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 The concept of the Middle Ages in history — story beats: the medieval thousand years are named, bounded and divided into three ages (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)*, printed p. 8 |
+| Kazakhstan part — §2 The Great Migration of Peoples and the fall of the Western Roman Empire — story beats: migrating tribes overwhelm the West's frontiers and Rome falls (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)*, printed p. 13 |
+| Kazakhstan part — §5 Features of the feudal economy's forms — story beats: natural economy and feudal rent define how the manor worked (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)*, printed p. 32 |
+| Kazakhstan part — §6 Feudal society's social structure — story beats: the three estates and the vassal ladder order medieval life (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)*, printed p. 35 |
+| Kazakhstan part — §20 Stages of the feudal state's development — story beats: estate monarchy succeeds feudal fragmentation as the state matures (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Kazakhstan, *Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)*, printed p. 98 |
+
+Kazakhstan's own way (Book 22 — 251/1451 Kokebaeva World History (Middle Ages) G7 KZ+UZ (student book, Kazakh + Uzbek parallel editions)): the Grade 7 Kokebaeva is the fullest Mektep medieval telling — Chinggis Khan, the Mongol Empire's structure and its military art get three separate sections, and the East's centralised systems are compared with Europe's absolutism. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 30 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece, Kazakhstan).**

@@ -1,6 +1,6 @@
 # Sources — Africa, cradle of humankind — Chad, Afar and Lucy
 
-countries: Ethiopia, Angola, Costa Rica, Australia, Ecuador, Bolivia, Colombia, Mozambique, Cuba, Venezuela, Moldova, Vietnam
+countries: Ethiopia, Angola, Costa Rica, Australia, Ecuador, Bolivia, Colombia, Mozambique, Cuba, Venezuela, Moldova, Vietnam, Kazakhstan
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -266,3 +266,52 @@ Searchable tags: Moldova, History expansion 2026-11-15, africa-to-1500/africa-cr
 Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese)): the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 12 countries (Ethiopia, Angola, Costa Rica, Australia, Ecuador, Bolivia, Colombia, Mozambique, Cuba, Venezuela, Moldova, Vietnam).**
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-17-6
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 27 to existing lessons, 9 NEW LESSON NEEDED
+- Kazakhstan's own way: NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 How the first human appeared — story beats: in East Africa ~2.5 million years ago the first human-like beings learn tools and fire (History expansion, 2026-11-15; original placement slug: africa-to-1500/africa-cradle-of-humankind) | Kazakhstan, *Всемирная история (World History)*, printed p. 10 |
+
+Kazakhstan's own way (Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)): NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-727-8 (Russian ed.)
+- PDF pages: 176 + 176 (covers verified; contents of both editions read and matched — one placement set, Russian-edition pages cited)
+- Verdict: COMPLETE
+- Tally: 34 placements — 26 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 First forms of human association — story beats: Darwin's evolution against creation stories; herds grow into clans and tribes to survive (History expansion, 2026-11-15; original placement slug: africa-to-1500/africa-cradle-of-humankind) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 4 |
+
+Kazakhstan's own way (Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)): the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — 725 Bukaeva World History G5 teacher guide RU (teacher guide, Russian)**
+- Title as printed: Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-18-3
+- PDF pages: 112 (title page + contents verified; guide carries a staged lesson for each of Book 1's 33 sections plus chapter didactic materials)
+- Verdict: COMPLETE
+- Tally: 33 placements — 25 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the guide names the NIS method outright — historical concepts (change, cause, evidence, significance, interpretation) drive every lesson, and all topics are posed as problem questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 How the first human appeared (lesson plan) — story beats: the teacher stages the first-human inquiry with source cards and a timeline (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/africa-cradle-of-humankind) | Kazakhstan, *Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide*, printed p. 10 |
+
+Kazakhstan's own way (Book 11 — 725 Bukaeva World History G5 teacher guide RU (teacher guide, Russian)): the guide names the NIS method outright — historical concepts (change, cause, evidence, significance, interpretation) drive every lesson, and all topics are posed as problem questions. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Angola, Costa Rica, Australia, Ecuador, Bolivia, Colombia, Mozambique, Cuba, Venezuela, Moldova, Vietnam, Kazakhstan).**

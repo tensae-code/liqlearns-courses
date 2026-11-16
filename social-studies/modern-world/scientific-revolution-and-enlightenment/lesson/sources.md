@@ -1,6 +1,6 @@
 # Sources — Scientific Revolution and Enlightenment
 
-countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece
+countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece, Kazakhstan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -764,3 +764,131 @@ Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (stude
 | Greece part — Intellectual life in the 17th and 18th centuries — story beats: the scientific revolution matures into academies, encyclopaedias and salons (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 189 |
 
 Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 17 — 215 Aitbay World History G6 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2018; ISBN not captured from scan
+- PDF pages: 128 (title page verified; full text read — contents at printed pp. 126–127)
+- Verdict: COMPLETE
+- Tally: 28 placements — 14 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §29 Scientific knowledge develops; Copernicus's theory — story beats: Copernicus moves the Earth and science begins its revolution (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Kazakhstan, *Всемирная история (World History)*, printed p. 113 |
+
+Kazakhstan's own way (Book 17 — 215 Aitbay World History G6 RU (student book, Russian)): the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 19 — 216/189/1346 Kokebaeva World History (Middle Ages) G6 RU+KZ+UZ (student book, Russian + Kazakh + Uzbek parallel editions)**
+- Title as printed: Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2018; ISBN 978-601-07-0955-3 (Russian ed.)
+- PDF pages: 137 + 145 + 161 (Russian edition read in full; Kazakh and Uzbek editions verified as parallels — covers and chapter plan matched)
+- Verdict: COMPLETE
+- Tally: 31 placements — 17 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the Mektep medieval course is the analytical twin of Aitbay's narrative one — same arc, but every block ends in comparison (absolutism West vs East, Renaissance West vs East), training pupils to set Europe and Asia side by side.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §30 Founders of the modern scientific worldview and their followers — story beats: Copernicus, Galileo and Newton rebuild the universe (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Kazakhstan, *Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)*, printed p. 115 |
+
+Kazakhstan's own way (Book 19 — 216/189/1346 Kokebaeva World History (Middle Ages) G6 RU+KZ+UZ (student book, Russian + Kazakh + Uzbek parallel editions)): the Mektep medieval course is the analytical twin of Aitbay's narrative one — same arc, but every block ends in comparison (absolutism West vs East, Renaissance West vs East), training pupils to set Europe and Asia side by side. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 20 — 1042/1043 Pittonova–Bukaeva World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History), Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2018; ISBN 978-601-328-220-6 (Russian ed.)
+- PDF pages: 136 + 136 (covers verified; contents of the Russian edition read in full — the NIS programme teaches the medieval course in Grade 7; the Kazakh edition parallels it unit-for-unit)
+- Verdict: COMPLETE
+- Tally: 23 placements — 12 to existing lessons, 11 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS Grade 7 book re-teaches the medieval world as 20 open investigations — every unit is a contested question ("Whose power was more absolute?") with a staged research path, the deepest version of the question-driven method in this group.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — 11.1 How original was Copernicus's theory that the Earth circles the Sun? — story beats: Copernicus revives an ancient idea with new mathematics — originality is judged (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), Grade 7*, printed p. 122 |
+
+Kazakhstan's own way (Book 20 — 1042/1043 Pittonova–Bukaeva World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)): the NIS Grade 7 book re-teaches the medieval world as 20 open investigations — every unit is a contested question ("Whose power was more absolute?") with a staged research path, the deepest version of the question-driven method in this group. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 21 — 279/252 Aitbay World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN not captured from scan
+- PDF pages: 144 + 144 (Russian edition's contents read in full at printed pp. 141–143; Kazakh edition parallels it)
+- Verdict: COMPLETE
+- Tally: 30 placements — 16 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: Aitbay's expanded telling adds the Mongols' military art and the ethnopolitical remaking of Eurasia as full sections — the medieval world seen from the steppe that conquered half of it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §32–33 Founders of the modern scientific picture of the world and their followers — story beats: Copernicus to Newton: the universe is rebuilt by observation (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)*, printed p. 127 |
+
+Kazakhstan's own way (Book 21 — 279/252 Aitbay World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)): Aitbay's expanded telling adds the Mongols' military art and the ethnopolitical remaking of Eurasia as full sections — the medieval world seen from the steppe that conquered half of it. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 22 — 251/1451 Kokebaeva World History (Middle Ages) G7 KZ+UZ (student book, Kazakh + Uzbek parallel editions)**
+- Title as printed: Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2017; ISBN 978-601-07-0871-6 (Kazakh ed.)
+- PDF pages: 177 + 185 (Kazakh edition's contents read in full; Uzbek edition parallels it)
+- Verdict: COMPLETE
+- Tally: 35 placements — 19 to existing lessons, 16 NEW LESSON NEEDED
+- Kazakhstan's own way: the Grade 7 Kokebaeva is the fullest Mektep medieval telling — Chinggis Khan, the Mongol Empire's structure and its military art get three separate sections, and the East's centralised systems are compared with Europe's absolutism.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §33 Founders of the modern scientific worldview and their followers — story beats: Copernicus, Kepler, Galileo and Newton rebuild cosmology (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Kazakhstan, *Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)*, printed p. 160 |
+| Kazakhstan part — §34 Scientific knowledge develops — story beats: academies, instruments and print spread the new science (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Kazakhstan, *Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)*, printed p. 163 |
+
+Kazakhstan's own way (Book 22 — 251/1451 Kokebaeva World History (Middle Ages) G7 KZ+UZ (student book, Kazakh + Uzbek parallel editions)): the Grade 7 Kokebaeva is the fullest Mektep medieval telling — Chinggis Khan, the Mongol Empire's structure and its military art get three separate sections, and the East's centralised systems are compared with Europe's absolutism. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 27 — 1071 Pittonova–Ivashev World History G8 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History), Grade 8 (Nazarbayev Intellectual Schools)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Nur-Sultan; year 2019; ISBN 978-601-328-350-0
+- PDF pages: 152 (cover + full contents read at printed pp. 3–4)
+- Verdict: COMPLETE
+- Tally: 28 placements — 13 to existing lessons, 15 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS Grade 8 course teaches the 18th–19th centuries entirely as source disputes — paintings of Marat, Lin Zexu's letter, rival accounts of 1857 — so pupils learn modern history by cross-examining its witnesses.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — 3.1 Which of Europe's rulers was the most enlightened? — story beats: Frederick, Catherine and Joseph compete for the enlightened-despot title (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Kazakhstan, *Всемирная история (World History), Grade 8 (Nazarbayev Intellectual Schools)*, printed p. 28 |
+| Kazakhstan part — 3.2 How much did Enlightenment ideas influence the Americans? — story beats: Locke's ideas cross the Atlantic into a declaration of independence (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Kazakhstan, *Всемирная история (World History), Grade 8 (Nazarbayev Intellectual Schools)*, printed p. 34 |
+| Kazakhstan part — 12.1 Which 19th-century scientific discovery most influenced people's lives? — story beats: Darwin, Pasteur and electricity compete for the century's greatest impact (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Kazakhstan, *Всемирная история (World History), Grade 8 (Nazarbayev Intellectual Schools)*, printed p. 136 |
+
+Kazakhstan's own way (Book 27 — 1071 Pittonova–Ivashev World History G8 RU (student book, Russian)): the NIS Grade 8 course teaches the 18th–19th centuries entirely as source disputes — paintings of Marat, Lin Zexu's letter, rival accounts of 1857 — so pupils learn modern history by cross-examining its witnesses. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — 353 Aldabek World History (1640–1900) G8 RU (student book, Russian)**
+- Title as printed: Всемирная история (1640–1900) [World History (1640–1900)]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2018; ISBN 978-601-07-0953-9
+- PDF pages: 201 (cover/title page verified against the record title; 200 printed pages)
+- Verdict: COMPLETE
+- Tally: 36 placements — 17 to existing lessons, 19 NEW LESSON NEEDED
+- Kazakhstan's own way: the pre-2019-curriculum companion to Book 1 — the same author team's survey of the New Time (1640–1900) in 30 §s, with "Through the eyes of artists and writers" and "Development of scientific thought" culture units, revision-question blocks after units, a chronological index and glossary. Parallel edition: 319 (Kazakh — see Book 4).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §6 Figures of the Enlightenment; the role of the Enlightenment in spreading revolutionary ideas in Europe and North America — story beats: Voltaire, Rousseau and their peers arm colonists and revolutionaries with ideas about rights and reason (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Kazakhstan, *Всемирная история (1640–1900) [World History (1640–1900)]*, printed p. 30 |
+
+Kazakhstan's own way (Book 3 — 353 Aldabek World History (1640–1900) G8 RU (student book, Russian)): the pre-2019-curriculum companion to Book 1 — the same author team's survey of the New Time (1640–1900) in 30 §s, with "Through the eyes of artists and writers" and "Development of scientific thought" culture units, revision-question blocks after units, a chronological index and glossary. Parallel edition: 319 (Kazakh — see Book 4). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — 1071 Ivashev/Pityukova World History G8 RU NIS (student book, Russian)**
+- Title as printed: Всемирная история. 8 класс [World History, Grade 8]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools (NIS), Nur-Sultan; year 2019; ISBN 978-601-328-350-0 (authors O. M. Pityukova, B. K. Kalieva, S. V. Ivashev)
+- PDF pages: 130 (cover/title page verified against the record title; printed book has 152 pages)
+- Verdict: PARTIAL — the scan ends at printed p. 141 and skips pages earlier (PDF p. 130 = printed p. 141); the closing parts (conclusion to sections 10–12, printed p. 142; general characterisation of the New Time, p. 144; glossary, p. 147) are absent from the file. All lessons through §12.1 are present and placed.
+- Tally: 27 placements — 13 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS inquiry textbook for the same 1640–1900 span as Book 3 — every lesson is a research question ("How…? Why…? To what extent…?") worked through in steps with sources, paintings and historians' quotations, ending in a argued conclusion; sections close with joint conclusions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §3.1 Which of Europe's rulers was the most enlightened? — story beats: Frederick, Catherine and Joseph are measured against the philosophes' yardstick of enlightened rule (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Kazakhstan, *Всемирная история. 8 класс [World History, Grade 8]*, printed p. 28 |
+| Kazakhstan part — §3.2 How strongly did Enlightenment ideas influence the Americans? — story beats: Locke's and Montesquieu's ideas cross the Atlantic and surface in America's founding documents (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Kazakhstan, *Всемирная история. 8 класс [World History, Grade 8]*, printed p. 34 |
+
+Kazakhstan's own way (Book 5 — 1071 Ivashev/Pityukova World History G8 RU NIS (student book, Russian)): the NIS inquiry textbook for the same 1640–1900 span as Book 3 — every lesson is a research question ("How…? Why…? To what extent…?") worked through in steps with sources, paintings and historians' quotations, ending in a argued conclusion; sections close with joint conclusions. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 27 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece, Kazakhstan).**

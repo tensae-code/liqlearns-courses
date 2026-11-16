@@ -1,6 +1,6 @@
 # Sources — The Renaissance — its great figures
 
-countries: Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan, North Macedonia, China, Moldova, Armenia, Nicaragua, Italy, Vietnam, Greece
+countries: Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan, North Macedonia, China, Moldova, Armenia, Nicaragua, Italy, Vietnam, Greece, Kazakhstan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 127).
 
@@ -404,3 +404,37 @@ Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (st
 | Greece part — Chapter 10: Art in the age of the Renaissance — story beats: perspective, anatomy and the artist as genius — Brunelleschi to Michelangelo rebuild the visible world (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-its-great-figures) | Greece, *Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou*, printed p. 133 |
 
 Greece's own way (Book 9 — G11/G12 EPAL History of Art (student book, Greek)): a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 17 — 215 Aitbay World History G6 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2018; ISBN not captured from scan
+- PDF pages: 128 (title page verified; full text read — contents at printed pp. 126–127)
+- Verdict: COMPLETE
+- Tally: 28 placements — 14 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §25 Art develops in the Renaissance — story beats: Leonardo, Michelangelo and Raphael remake art around the human figure (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-its-great-figures) | Kazakhstan, *Всемирная история (World History)*, printed p. 101 |
+
+Kazakhstan's own way (Book 17 — 215 Aitbay World History G6 RU (student book, Russian)): the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 20 — 1042/1043 Pittonova–Bukaeva World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History), Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2018; ISBN 978-601-328-220-6 (Russian ed.)
+- PDF pages: 136 + 136 (covers verified; contents of the Russian edition read in full — the NIS programme teaches the medieval course in Grade 7; the Kazakh edition parallels it unit-for-unit)
+- Verdict: COMPLETE
+- Tally: 23 placements — 12 to existing lessons, 11 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS Grade 7 book re-teaches the medieval world as 20 open investigations — every unit is a contested question ("Whose power was more absolute?") with a staged research path, the deepest version of the question-driven method in this group.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — 9.1 How and why did European art change, 1300–1500? — story beats: perspective and the human body remake painting and sculpture (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-its-great-figures) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), Grade 7*, printed p. 110 |
+
+Kazakhstan's own way (Book 20 — 1042/1043 Pittonova–Bukaeva World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)): the NIS Grade 7 book re-teaches the medieval world as 20 open investigations — every unit is a contested question ("Whose power was more absolute?") with a staged research path, the deepest version of the question-driven method in this group. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan, North Macedonia, China, Moldova, Armenia, Nicaragua, Italy, Vietnam, Greece, Kazakhstan).**

@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece, Kazakhstan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -874,3 +874,37 @@ Vietnam's own way (Book 4 — G7 History and Geography (student book, Vietnamese
 | Greece part — The geographical discoveries and their consequences — story beats: sailors round Africa and cross the Atlantic; silver, slaves and new foods remake three continents (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Greece, *Ιστορία του Νεότερου και Σύγχρονου Κόσμου από το 1453 μ.Χ. έως σήμερα (History of the Modern and Contemporary World from 1453 to today), Α' ΕΠΑ.Λ. (vocational lyceum), General Education*, printed p. 3 |
 
 Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (student book, Greek)): the vocational track gets the same national story compressed into one fast survey from 1453 to today, with wars taught through forces, tactics and diplomacy diagrams, and a closing chapter on today's world problems. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 17 — 215 Aitbay World History G6 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2018; ISBN not captured from scan
+- PDF pages: 128 (title page verified; full text read — contents at printed pp. 126–127)
+- Verdict: COMPLETE
+- Tally: 28 placements — 14 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §24 The Great Geographical Discoveries — story beats: Columbus, Vespucci and Magellan redraw the world map in one generation (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Kazakhstan, *Всемирная история (World History)*, printed p. 97 |
+
+Kazakhstan's own way (Book 17 — 215 Aitbay World History G6 RU (student book, Russian)): the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 19 — 216/189/1346 Kokebaeva World History (Middle Ages) G6 RU+KZ+UZ (student book, Russian + Kazakh + Uzbek parallel editions)**
+- Title as printed: Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2018; ISBN 978-601-07-0955-3 (Russian ed.)
+- PDF pages: 137 + 145 + 161 (Russian edition read in full; Kazakh and Uzbek editions verified as parallels — covers and chapter plan matched)
+- Verdict: COMPLETE
+- Tally: 31 placements — 17 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the Mektep medieval course is the analytical twin of Aitbay's narrative one — same arc, but every block ends in comparison (absolutism West vs East, Renaissance West vs East), training pupils to set Europe and Asia side by side.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §23 The Great Geographical Discoveries — story beats: ocean voyages join the continents into one world (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Kazakhstan, *Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)*, printed p. 90 |
+
+Kazakhstan's own way (Book 19 — 216/189/1346 Kokebaeva World History (Middle Ages) G6 RU+KZ+UZ (student book, Russian + Kazakh + Uzbek parallel editions)): the Mektep medieval course is the analytical twin of Aitbay's narrative one — same arc, but every block ends in comparison (absolutism West vs East, Renaissance West vs East), training pupils to set Europe and Asia side by side. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 31 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece, Kazakhstan).**

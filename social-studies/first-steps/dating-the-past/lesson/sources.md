@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Vietnam, Greece
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Vietnam, Greece, Kazakhstan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -2120,3 +2120,205 @@ Greece's own way (Book 13 — G12 Modern & Contemporary World History 1815–tod
 | Greece part — Chronological table (appendix) — story beats: the closing table pins every style and garment to its dates, a timeline of five centuries of dress (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Greece, *Ιστορία ενδυμασίας ΙΙ (History of Clothing II), Β' ΕΠΑ.Λ., Applied Arts sector, by Eleni Varopoulou & Damianos Zografos Zarifis*, printed p. 267 |
 
 Greece's own way (Book 8 — G11 EPAL History of Clothing II (student book, Greek)): the second volume follows dress style by style — Renaissance, Baroque, Rococo, Neoclassicism, Romanticism — always tying the silhouette to the age's politics and art, and gives Greek 19th-century dress (urban and rural) its own full section. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-17-6
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 27 to existing lessons, 9 NEW LESSON NEEDED
+- Kazakhstan's own way: NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introduction: chronology, timeline, BC/AD — story beats: events are lined up oldest to newest on a timeline ribbon so dates stop being a jumble (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *Всемирная история (World History)*, printed p. 6 |
+
+Kazakhstan's own way (Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)): NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — 132 Akhmetova History of Kazakhstan G5 KZ (student book, Kazakh)**
+- Title as printed: Қазақстан тарихы (History of Kazakhstan)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-13-8
+- PDF pages: 173 (cover/title page verified against the record title)
+- Verdict: COMPLETE (Ch.4–7 contents page partially legible in the scan; sub-section titles confirmed from the contents leaf and chapter openers sampled at printed pp. 108, 128, 148)
+- Tally: 33 placements — 4 to existing lessons, 29 NEW LESSON NEEDED
+- Kazakhstan's own way: NIS lesson-by-lesson inquiry version of the same ancient-Kazakhstan arc as Book 2, but organised around named finds and heroes — Botai, the Golden Man, Tomiris, Shirak — so the national story is carried by its famous stories. NOTE on record 156: the file held under the Russian-edition record 156 is a duplicate scan of THIS Kazakh edition (same ISBN, same Kazakh contents, 172 pp.) — filed record-only under Book 3; no separate Russian-edition placements. The real Russian edition of Akhmetova G5 was not in the file received.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introductory lesson: the periods of ancient Kazakhstan's history — story beats: stone, bronze and iron ages are laid on one timeline from 2.6 million years ago to the 6th century (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *Қазақстан тарихы (History of Kazakhstan)*, printed p. 7 |
+
+Kazakhstan's own way (Book 3 — 132 Akhmetova History of Kazakhstan G5 KZ (student book, Kazakh)): NIS lesson-by-lesson inquiry version of the same ancient-Kazakhstan arc as Book 2, but organised around named finds and heroes — Botai, the Golden Man, Tomiris, Shirak — so the national story is carried by its famous stories. NOTE on record 156: the file held under the Russian-edition record 156 is a duplicate scan of THIS Kazakh edition (same ISBN, same Kazakh contents, 172 pp.) — filed record-only under Book 3; no separate Russian-edition placements. The real Russian edition of Akhmetova G5 was not in the file received. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — 1037/1038 Akhmetova History of Kazakhstan G5 teacher guides RU+KZ (teacher guide, Russian + Kazakh parallel editions)**
+- Title as printed: История Казахстана. Руководство для учителя / Қазақстан тарихы. Мұғалімге арналған нұсқаулық (History of Kazakhstan: Teacher's Guide)
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-12-1 (Russian ed.)
+- PDF pages: 176 + 176 (title pages verified; full text read — the guides carry complete lesson plans, learning objectives and assessment tasks for every section of the Book 3 student book)
+- Verdict: COMPLETE
+- Tally: 33 placements — 4 to existing lessons, 29 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS teacher guides script the inquiry method itself — each topic is split into 2–3 staged lessons with research tasks, source cards and reflection, the pedagogy that the student book only implies.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introductory lesson plan: periods of ancient Kazakhstan — story beats: the teacher stages the timeline game that sorts stone, bronze and iron ages (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *История Казахстана. Руководство для учителя / Қазақстан тарихы. Мұғалімге арналған нұсқаулық (History of Kazakhstan: Teacher's Guide)*, printed p. 7 |
+
+Kazakhstan's own way (Book 10 — 1037/1038 Akhmetova History of Kazakhstan G5 teacher guides RU+KZ (teacher guide, Russian + Kazakh parallel editions)): the NIS teacher guides script the inquiry method itself — each topic is split into 2–3 staged lessons with research tasks, source cards and reflection, the pedagogy that the student book only implies. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 1 — 1358 Aldabek World History (1900–1945) G8 RU (student book, Russian)**
+- Title as printed: Всемирная история (1900–1945) [World History (1900–1945)]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2024 (2nd edition, revised and expanded); ISBN 978-601-07-1700-8
+- PDF pages: 225 (cover/title page verified against the record title; 224 printed pages)
+- Verdict: COMPLETE
+- Tally: 39 placements — 24 to existing lessons, 15 NEW LESSON NEEDED
+- Kazakhstan's own way: a narrative survey of the first half of the 20th century in 30 numbered paragraphs (§) grouped in 7 units, each § opening with a "In this lesson" box and key-words box, each unit closing with a conclusion; a chronological index and a long terminology glossary close the book. Parallel edition: 1402 (Kazakh, same Mektep edition — see Book 2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 The concept of the contemporary era and its features — story beats: history is cut into periods and the newest era (1900–today, split at 1945, with the 1918–1939 "Interbellum" between the wars) is named and framed (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *Всемирная история (1900–1945) [World History (1900–1945)]*, printed p. 4 |
+| Kazakhstan part — Chronological index (appendix) — story beats: every key date of 1900–1945 is lined up in one table so pupils can place events in order (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *Всемирная история (1900–1945) [World History (1900–1945)]*, printed p. 216 |
+
+Kazakhstan's own way (Book 1 — 1358 Aldabek World History (1900–1945) G8 RU (student book, Russian)): a narrative survey of the first half of the 20th century in 30 numbered paragraphs (§) grouped in 7 units, each § opening with a "In this lesson" box and key-words box, each unit closing with a conclusion; a chronological index and a long terminology glossary close the book. Parallel edition: 1402 (Kazakh, same Mektep edition — see Book 2). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — 353 Aldabek World History (1640–1900) G8 RU (student book, Russian)**
+- Title as printed: Всемирная история (1640–1900) [World History (1640–1900)]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2018; ISBN 978-601-07-0953-9
+- PDF pages: 201 (cover/title page verified against the record title; 200 printed pages)
+- Verdict: COMPLETE
+- Tally: 36 placements — 17 to existing lessons, 19 NEW LESSON NEEDED
+- Kazakhstan's own way: the pre-2019-curriculum companion to Book 1 — the same author team's survey of the New Time (1640–1900) in 30 §s, with "Through the eyes of artists and writers" and "Development of scientific thought" culture units, revision-question blocks after units, a chronological index and glossary. Parallel edition: 319 (Kazakh — see Book 4).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 The concept of the New Time and its features — story beats: a new period of history is bounded and named, from the English Revolution to the turn of the 20th century (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *Всемирная история (1640–1900) [World History (1640–1900)]*, printed p. 4 |
+| Kazakhstan part — Chronological index (appendix) — story beats: the dates of 1640–1900 are set in one ordered table for revision (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *Всемирная история (1640–1900) [World History (1640–1900)]*, printed p. 183 |
+
+Kazakhstan's own way (Book 3 — 353 Aldabek World History (1640–1900) G8 RU (student book, Russian)): the pre-2019-curriculum companion to Book 1 — the same author team's survey of the New Time (1640–1900) in 30 §s, with "Through the eyes of artists and writers" and "Development of scientific thought" culture units, revision-question blocks after units, a chronological index and glossary. Parallel edition: 319 (Kazakh — see Book 4). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — 1071 Ivashev/Pityukova World History G8 RU NIS (student book, Russian)**
+- Title as printed: Всемирная история. 8 класс [World History, Grade 8]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools (NIS), Nur-Sultan; year 2019; ISBN 978-601-328-350-0 (authors O. M. Pityukova, B. K. Kalieva, S. V. Ivashev)
+- PDF pages: 130 (cover/title page verified against the record title; printed book has 152 pages)
+- Verdict: PARTIAL — the scan ends at printed p. 141 and skips pages earlier (PDF p. 130 = printed p. 141); the closing parts (conclusion to sections 10–12, printed p. 142; general characterisation of the New Time, p. 144; glossary, p. 147) are absent from the file. All lessons through §12.1 are present and placed.
+- Tally: 27 placements — 13 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS inquiry textbook for the same 1640–1900 span as Book 3 — every lesson is a research question ("How…? Why…? To what extent…?") worked through in steps with sources, paintings and historians' quotations, ending in a argued conclusion; sections close with joint conclusions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introduction: the New Time as a period (periodisation table of world history) — story beats: the whole of history is laid out in one table and the New Time (1640–1914) is cut out as this year's territory (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *Всемирная история. 8 класс [World History, Grade 8]*, printed p. 5 |
+
+Kazakhstan's own way (Book 5 — 1071 Ivashev/Pityukova World History G8 RU NIS (student book, Russian)): the NIS inquiry textbook for the same 1640–1900 span as Book 3 — every lesson is a research question ("How…? Why…? To what extent…?") worked through in steps with sources, paintings and historians' quotations, ending in a argued conclusion; sections close with joint conclusions. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — 351 Kabuldinov History of Kazakhstan (XVIII–XIX cc.) G8 RU (student book, Russian)**
+- Title as printed: История Казахстана (XVIII–XIX вв.) [History of Kazakhstan (18th–19th centuries)]
+- Grade: 8 (7) (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2018; ISBN 978-601-331-164-7 (authors Z. E. Kabuldinov, Zh. N. Kaliev, A. T. Beisembaeva)
+- PDF pages: 208 (cover/title page verified against the record title; text layer present, read in full)
+- Verdict: COMPLETE
+- Tally: 35 placements — 7 to existing lessons, 28 NEW LESSON NEEDED
+- Kazakhstan's own way: the national story told as paired paragraphs (§§) in six sections — Dzhungar wars, the 18th-century khanate, 18th-century culture, colonisation and liberation struggle, Kazakhstan inside the Russian Empire, 19th-century culture — with documents, personalities and terms glossed at the end of every topic and revision tasks after each section. Parallel/same-book records: 1533 (see Book 7), 317 and 1488 (Kazakh editions).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Chronological index of the most important events (appendix) — story beats: two centuries of Kazakh history are lined up date by date (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *История Казахстана (XVIII–XIX вв.) [History of Kazakhstan (18th–19th centuries)]*, printed p. 200 |
+
+Kazakhstan's own way (Book 6 — 351 Kabuldinov History of Kazakhstan (XVIII–XIX cc.) G8 RU (student book, Russian)): the national story told as paired paragraphs (§§) in six sections — Dzhungar wars, the 18th-century khanate, 18th-century culture, colonisation and liberation struggle, Kazakhstan inside the Russian Empire, 19th-century culture — with documents, personalities and terms glossed at the end of every topic and revision tasks after each section. Parallel/same-book records: 1533 (see Book 7), 317 and 1488 (Kazakh editions). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — 352 Omarbekov History of Kazakhstan (XVIII–XIX cc.) G8 RU (student book, Russian)**
+- Title as printed: История Казахстана (XVIII–XIX вв.) [History of Kazakhstan (18th–19th centuries)]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2018; ISBN 978-601-07-0968-3 (authors T. Omarbekov, G. Khabizhanova, T. Kartaeva, M. Nogaibaeva)
+- PDF pages: 185 (cover/title page verified against the record title; 184 printed pages)
+- Verdict: COMPLETE
+- Tally: 48 placements — 1 to existing lessons, 47 NEW LESSON NEEDED
+- Kazakhstan's own way: the Mektep telling of the same two centuries as Book 6, but in 60 short §s with much more culture — national dress, games, musical instruments and song get their own §s, and the book ends with the historian-poets Shakarim, Mashkhur Zhusip Kopeev and Kurbangali Khalidi. Most topics land on the Kazakhstan lessons first marked NEW for Book 6. Teacher guide for this book: 1554 (see Book 10). Kazakh editions: 318 and 1552; the related Berdigalieva Kazakh book is 1076.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — "Main events" chronological table (appendix) — story beats: the two centuries are lined up as one dated spine (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *История Казахстана (XVIII–XIX вв.) [History of Kazakhstan (18th–19th centuries)]*, printed p. 173 |
+
+Kazakhstan's own way (Book 8 — 352 Omarbekov History of Kazakhstan (XVIII–XIX cc.) G8 RU (student book, Russian)): the Mektep telling of the same two centuries as Book 6, but in 60 short §s with much more culture — national dress, games, musical instruments and song get their own §s, and the book ends with the historian-poets Shakarim, Mashkhur Zhusip Kopeev and Kurbangali Khalidi. Most topics land on the Kazakhstan lessons first marked NEW for Book 6. Teacher guide for this book: 1554 (see Book 10). Kazakh editions: 318 and 1552; the related Berdigalieva Kazakh book is 1076. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — 1534 Uskembayev History of Kazakhstan (1900–1945) G8 RU (student book, Russian)**
+- Title as printed: История Казахстана (1900–1945 гг.) [History of Kazakhstan (1900–1945)]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2025 (2nd edition, revised and expanded); ISBN 978-601-07-1777-0 (authors K. S. Uskembayev, Z. G. Saktaganova, L. I. Zueva)
+- PDF pages: 244 (cover/title page verified against the record title; printed book has 248 pages)
+- Verdict: PARTIAL (minor) — the scan runs ~4 pages short of the printed pagination (PDF p. 100 = printed p. 103; PDF p. 244 = printed p. 248); every § in the contents is present in the file as sampled, but a few pages were skipped in scanning
+- Tally: 43 placements — 2 to existing lessons, 41 NEW LESSON NEEDED
+- Kazakhstan's own way: the Mektep telling of the same 1900–1945 span as Book 7, in 60 single §s with finer cuts — the national press ("Qazaq", "Aiqap"), the Ush Zhuz party, Goloshchekin's "Little October", the 1921 famine and the Gulag camps each get their own §. Most topics land on the Kazakhstan lessons first marked NEW for Book 7. Kazakh edition: 1489; Uzbek edition in two parts: 1415 + 1340 (see Books 13–14).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Chronological index (appendix) — story beats: 1900–1945 in Kazakhstan is set out date by date, from the 1916 revolt to the 1931–33 famine and the Panfilov feat (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *История Казахстана (1900–1945 гг.) [History of Kazakhstan (1900–1945)]*, printed p. 244 |
+
+Kazakhstan's own way (Book 9 — 1534 Uskembayev History of Kazakhstan (1900–1945) G8 RU (student book, Russian)): the Mektep telling of the same 1900–1945 span as Book 7, in 60 single §s with finer cuts — the national press ("Qazaq", "Aiqap"), the Ush Zhuz party, Goloshchekin's "Little October", the 1921 famine and the Gulag camps each get their own §. Most topics land on the Kazakhstan lessons first marked NEW for Book 7. Kazakh edition: 1489; Uzbek edition in two parts: 1415 + 1340 (see Books 13–14). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 18 — 1340 Uskembayev History of Kazakhstan (1945–2019) Part 2 G8-9 UZ (student book, Uzbek)**
+- Title as printed: Қозоғистон тарихи (1945–2019 йй.), 2-қисм [History of Kazakhstan (1945–2019), Part 2] — for grades 8–9
+- Grade: 8 (filed in the Grade 8 records; the book itself serves grades 8–9) (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2019; ISBN not checked on the imprint page (authors K. Uskembayev, Z. Saktaganova, F. Mukhtaruly)
+- PDF pages: 248 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 47 placements — 1 to existing lessons, 46 NEW LESSON NEEDED
+- Kazakhstan's own way: NOT a parallel of Book 9 — the targets record pairs it with the 1900–1945 Uzbek Part 1 (1415), but this Part 2 is the team's separate post-war volume: Kazakhstan from 1945 to 2019 — virgin lands, Baikonur, the December 1986 events, independence, the Nazarbayev era, "Kazakhstan-2030/2050" and "Mangilik El" — told in Uzbek for Kazakhstan's Uzbek-language schools, with a closing chronology (p. 238). Its contents were read in full from the printed contents (pp. 245–247).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Chronological index of the main events — story beats: the book closes with the dates of the post-war era (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *Қозоғистон тарихи (1945–2019 йй.), 2-қисм [History of Kazakhstan (1945–2019), Part 2] — for grades 8–9*, printed p. 238 |
+
+Kazakhstan's own way (Book 18 — 1340 Uskembayev History of Kazakhstan (1945–2019) Part 2 G8-9 UZ (student book, Uzbek)): NOT a parallel of Book 9 — the targets record pairs it with the 1900–1945 Uzbek Part 1 (1415), but this Part 2 is the team's separate post-war volume: Kazakhstan from 1945 to 2019 — virgin lands, Baikonur, the December 1986 events, independence, the Nazarbayev era, "Kazakhstan-2030/2050" and "Mangilik El" — told in Uzbek for Kazakhstan's Uzbek-language schools, with a closing chronology (p. 238). Its contents were read in full from the printed contents (pp. 245–247). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 19 — 457 Aldabek World History (1900–1945) Part 1 G9 RU (student book, Russian)**
+- Title as printed: Всемирная история (1900–1945), Часть 1 [World History (1900–1945), Part 1] — textbook for grades 8–9
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2019 (signed to print 27.05.2019; authors N. A. Aldabek, K. N. Makasheva, K. I. Baizakova); ISBN not printed on the pages read
+- PDF pages: 217 (title/imprint pages verified against the record title)
+- Verdict: COMPLETE
+- Tally: 31 placements — 16 to existing lessons, 15 NEW LESSON NEEDED
+- Kazakhstan's own way: the earlier two-part edition of the Aldabek contemporary-history course (Part 2, 458, continues from 1945): the same 30-§ survey as the 2024 one-volume Grade 8 book (Book 1, 1358) — preface, seven content units and closing culture/science unit, chronological index (p. 206) and terminology glossary (p. 209) — so its topics are placed onto the same lessons as Book 1; the contents were read in full (pp. 214–215) and the preface and opening § verified in the text.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 The concept of the contemporary era and its features — story beats: the newest era is framed — 1900 to today, split at 1945, with the "Interbellum" between the wars (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *Всемирная история (1900–1945), Часть 1 [World History (1900–1945), Part 1] — textbook for grades 8–9*, printed p. 4 |
+| Kazakhstan part — Chronological index — story beats: the dates of 1900–1945 in one table (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *Всемирная история (1900–1945), Часть 1 [World History (1900–1945), Part 1] — textbook for grades 8–9*, printed p. 206 |
+
+Kazakhstan's own way (Book 19 — 457 Aldabek World History (1900–1945) Part 1 G9 RU (student book, Russian)): the earlier two-part edition of the Aldabek contemporary-history course (Part 2, 458, continues from 1945): the same 30-§ survey as the 2024 one-volume Grade 8 book (Book 1, 1358) — preface, seven content units and closing culture/science unit, chronological index (p. 206) and terminology glossary (p. 209) — so its topics are placed onto the same lessons as Book 1; the contents were read in full (pp. 214–215) and the preface and opening § verified in the text. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 20 — 458 Aldabek World History (1945–present) Part 2 G9 RU (student book, Russian)**
+- Title as printed: Всемирная история 8–9, Часть 2 [World History, grades 8–9, Part 2]
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2019 (authors N. A. Aldabek, K. N. Makasheva, K. I. Baizakova); ISBN not printed on the pages read
+- PDF pages: 217 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 31 placements — 2 to existing lessons, 29 NEW LESSON NEEDED
+- Kazakhstan's own way: Part 2 of the Aldabek contemporary course — the world from 1945 to the present in 30 §s: decolonisation, the Cold War, the UN and European integration, the welfare state and its critics, the Arab world, Asian development paths, globalisation, and science/culture to the information age; chronological index (p. 204) and glossary (p. 208) close it. Contents read in full (pp. 213–214).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Chronological index — story beats: the dates of 1945 to the present in one table (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *Всемирная история 8–9, Часть 2 [World History, grades 8–9, Part 2]*, printed p. 204 |
+
+Kazakhstan's own way (Book 20 — 458 Aldabek World History (1945–present) Part 2 G9 RU (student book, Russian)): Part 2 of the Aldabek contemporary course — the world from 1945 to the present in 30 §s: decolonisation, the Cold War, the UN and European integration, the welfare state and its critics, the Arab world, Asian development paths, globalisation, and science/culture to the information age; chronological index (p. 204) and glossary (p. 208) close it. Contents read in full (pp. 213–214). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 27 — 1087 Kaliev World History G9 RU NIS (student book, Russian)**
+- Title as printed: Всемирная история 9 [World History 9]
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools (NIS), Nur-Sultan; year 2019 (project/draft version — "Проектная версия"); ISBN 978-601-328-605-1 (authors G. A. Alibaeva, S. Z. Kaliev, M. V. Rakhimbaeva, B. S. Mukushev)
+- PDF pages: 176 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 40 placements — 25 to existing lessons, 15 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS inquiry version of the 1900–1945 world course — nine sections, every lesson a question ("Why could the League of Nations not preserve the peace?", "Engineers of human souls — how did art serve power?"), with section conclusions, a closing conclusion, key dates (p. 171) and glossary (p. 173). Contents read in full (pp. 3–4).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Key dates (appendix) — story beats: the era's turning dates in one list (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Kazakhstan, *Всемирная история 9 [World History 9]*, printed p. 171 |
+
+Kazakhstan's own way (Book 27 — 1087 Kaliev World History G9 RU NIS (student book, Russian)): the NIS inquiry version of the 1900–1945 world course — nine sections, every lesson a question ("Why could the League of Nations not preserve the peace?", "Engineers of human souls — how did art serve power?"), with section conclusions, a closing conclusion, key dates (p. 171) and glossary (p. 173). Contents read in full (pp. 3–4). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 48 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Vietnam, Greece, Kazakhstan).**

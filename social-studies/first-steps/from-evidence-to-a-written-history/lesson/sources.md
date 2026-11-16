@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece, Kazakhstan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -2322,3 +2322,68 @@ Greece's own way (Book 3 — G9 History Thematic Folder: Heraklion (teacher/clas
 | Greece part — Appendix: Parathemata (source extracts) — story beats: the book closes with numbered documents for each theme, so learners test the narratives against the evidence themselves (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Greece, *Θέματα Νεοελληνικής Ιστορίας (Themes of Modern Greek History), Γ' Γενικού Λυκείου, Humanities orientation group; one author per theme: Georgios Margaritis (economy), Agathoklis Azelis (political parties), Nikolaos Andriotis (the refugee question), Theocharis Detorakis (the Cretan question), Konstantinos Fotiadis (Black Sea Hellenism)*, printed p. 261 |
 
 Greece's own way (Book 14 — G12 Themes of Modern Greek History (student book, Greek)): instead of another chronological survey, the final-year humanities book takes five deep themes — economy, parties, refugees, Crete, Pontus — and follows each across a century or more, closing with a source appendix (Parathemata) for document work. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-17-6
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 27 to existing lessons, 9 NEW LESSON NEEDED
+- Kazakhstan's own way: NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introduction: historical sources — story beats: written, material and oral traces are sorted so the past can be rebuilt from evidence (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Kazakhstan, *Всемирная история (World History)*, printed p. 7 |
+| Kazakhstan part — §5 How we can learn about river-valley civilisations — story beats: archaeologists read ruins, tablets and tools to recover worlds that left no living witnesses (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Kazakhstan, *Всемирная история (World History)*, printed p. 22 |
+
+Kazakhstan's own way (Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)): NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — 130/1332/1406 Omarbekov History of Kazakhstan (Ancient Times) G5 KZ+UY+UZ (student book, Kazakh + Uyghur + Uzbek parallel editions)**
+- Title as printed: Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2017; ISBN 978-601-07-0866-2 (Kazakh ed.)
+- PDF pages: 193 + 193 + 201 (covers verified; contents of all three editions read and matched section-for-section — one placement set, Kazakh-edition pages cited). Retrieved from the record's own source (books.okulyk.kz) after both GitHub routes failed: the release asset is absent and the tree path returns 404 — the book is NOT in the GitHub library (see Staged note in the group log)
+- Verdict: COMPLETE
+- Tally: 64 placements — 10 to existing lessons, 54 NEW LESSON NEEDED
+- Kazakhstan's own way: the Mektep telling of the ancient arc is the most granular of the three G5 versions — 64 short sections, each find and hero given its own section (Botai's horse question, Margulan's discoveries, the moustached kurgans), in Kazakh, Uyghur and Uzbek editions for the country's language streams.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §15 Archaeological discoveries of Alkey Margulan — story beats: Margulan's expeditions uncover central Kazakhstan's bronze-age world for science (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Kazakhstan, *Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)*, printed p. 47 |
+
+Kazakhstan's own way (Book 7 — 130/1332/1406 Omarbekov History of Kazakhstan (Ancient Times) G5 KZ+UY+UZ (student book, Kazakh + Uyghur + Uzbek parallel editions)): the Mektep telling of the ancient arc is the most granular of the three G5 versions — 64 short sections, each find and hero given its own section (Botai's horse question, Margulan's discoveries, the moustached kurgans), in Kazakh, Uyghur and Uzbek editions for the country's language streams. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — 725 Bukaeva World History G5 teacher guide RU (teacher guide, Russian)**
+- Title as printed: Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-18-3
+- PDF pages: 112 (title page + contents verified; guide carries a staged lesson for each of Book 1's 33 sections plus chapter didactic materials)
+- Verdict: COMPLETE
+- Tally: 33 placements — 25 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the guide names the NIS method outright — historical concepts (change, cause, evidence, significance, interpretation) drive every lesson, and all topics are posed as problem questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §5 How we learn about river-valley civilisations (lesson plan) — story beats: archaeology's toolkit is demonstrated on real finds (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Kazakhstan, *Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide*, printed p. 20 |
+
+Kazakhstan's own way (Book 11 — 725 Bukaeva World History G5 teacher guide RU (teacher guide, Russian)): the guide names the NIS method outright — historical concepts (change, cause, evidence, significance, interpretation) drive every lesson, and all topics are posed as problem questions. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 15 — 1552 Omarbekov History of Kazakhstan G8 KZ TEACHER GUIDE (teacher guide, Kazakh)**
+- Title as printed: Қазақстан тарихы (XVIII–XIX ғғ.): Әдістемелік нұсқау [History of Kazakhstan (18th–19th cc.): Methodical Guide for teachers of grades 8/7]
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Mektep, Almaty; year 2018; ISBN not printed on the pages read (authors T. Omarbekov, G. Khabizhanova, T. Kartaeva, M. Nogaibaeva — the Book 8 team)
+- PDF pages: 126 (imprint page verified; the targets record mislabels this book as a student book — it is the teacher's methodical guide for Book 8; text layer present, read in full)
+- Verdict: COMPLETE
+- Tally: 13 placements — 1 to existing lessons, 12 NEW LESSON NEEDED
+- Kazakhstan's own way: a lesson-by-lesson teaching script for Book 8 — every plan states the curriculum learning objectives (coded, e.g. 7.3.1.2), a research question borrowed from the NIS inquiry style ("Why did 'Elim-ai' become a song of the whole people?"), a lesson flow, source work with the companion Reader (Хрестоматия), and assessment ideas. The plans cover all of Book 8's §s; the placements below file the guide's method and the plan clusters verified in its text and its own contents (guide pp. 124–125). Russian twin: 1554 (see Book 16).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — The guide's method: research questions and source work in every lesson plan — story beats: each of Book 8's topics is taught by posing a research question and working documents from the Reader before the textbook narrative (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Kazakhstan, *Қазақстан тарихы (XVIII–XIX ғғ.): Әдістемелік нұсқау [History of Kazakhstan (18th–19th cc.): Methodical Guide for teachers of grades 8/7]*, printed p. 3 |
+
+Kazakhstan's own way (Book 15 — 1552 Omarbekov History of Kazakhstan G8 KZ TEACHER GUIDE (teacher guide, Kazakh)): a lesson-by-lesson teaching script for Book 8 — every plan states the curriculum learning objectives (coded, e.g. 7.3.1.2), a research question borrowed from the NIS inquiry style ("Why did 'Elim-ai' become a song of the whole people?"), a lesson flow, source work with the companion Reader (Хрестоматия), and assessment ideas. The plans cover all of Book 8's §s; the placements below file the guide's method and the plan clusters verified in its text and its own contents (guide pp. 124–125). Russian twin: 1554 (see Book 16). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 46 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece, Kazakhstan).**

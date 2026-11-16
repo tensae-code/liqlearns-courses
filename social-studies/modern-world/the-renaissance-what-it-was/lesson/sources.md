@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece
+countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece, Kazakhstan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -994,3 +994,55 @@ Greece's own way (Book 6 — G11 EPAL History of Decorative Arts (student book, 
 | Greece part — Unit 10: The founding of the first printing houses in Europe's cities in the Renaissance — story beats: within a generation presses open from Venice to Paris and the printed book remakes learning (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Greece, *Ιστορία των Γραφικών Τεχνών (History of the Graphic Arts), Β' ΕΠΑ.Λ., Applied Arts sector, by Manolis Vithynos*, printed p. 109 |
 
 Greece's own way (Book 10 — G11 EPAL History of the Graphic Arts (student book, Greek)): written communication is the thread — from cave signs and Linear B through Gutenberg to the computer — and Greek material (the Phaistos disc, the alphabet, Byzantine mosaics) sits at the centre of the world story. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 19 — 216/189/1346 Kokebaeva World History (Middle Ages) G6 RU+KZ+UZ (student book, Russian + Kazakh + Uzbek parallel editions)**
+- Title as printed: Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2018; ISBN 978-601-07-0955-3 (Russian ed.)
+- PDF pages: 137 + 145 + 161 (Russian edition read in full; Kazakh and Uzbek editions verified as parallels — covers and chapter plan matched)
+- Verdict: COMPLETE
+- Tally: 31 placements — 17 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the Mektep medieval course is the analytical twin of Aitbay's narrative one — same arc, but every block ends in comparison (absolutism West vs East, Renaissance West vs East), training pupils to set Europe and Asia side by side.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §25 Culture of the Renaissance epoch — story beats: Italian cities revive antiquity and invent a new art and learning (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Kazakhstan, *Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)*, printed p. 99 |
+| Kazakhstan part — §26 Humanist ideas' influence on medieval culture — story beats: humanists put man at the centre and criticise the old order (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Kazakhstan, *Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)*, printed p. 103 |
+
+Kazakhstan's own way (Book 19 — 216/189/1346 Kokebaeva World History (Middle Ages) G6 RU+KZ+UZ (student book, Russian + Kazakh + Uzbek parallel editions)): the Mektep medieval course is the analytical twin of Aitbay's narrative one — same arc, but every block ends in comparison (absolutism West vs East, Renaissance West vs East), training pupils to set Europe and Asia side by side. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 21 — 279/252 Aitbay World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN not captured from scan
+- PDF pages: 144 + 144 (Russian edition's contents read in full at printed pp. 141–143; Kazakh edition parallels it)
+- Verdict: COMPLETE
+- Tally: 30 placements — 16 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: Aitbay's expanded telling adds the Mongols' military art and the ethnopolitical remaking of Eurasia as full sections — the medieval world seen from the steppe that conquered half of it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §27 Renaissance culture in Western Europe — story beats: reborn antiquity remakes art, learning and the image of man (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)*, printed p. 110 |
+| Kazakhstan part — §28 The humanists' ideas — story beats: Erasmus and More put human dignity against medieval dogma (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)*, printed p. 116 |
+
+Kazakhstan's own way (Book 21 — 279/252 Aitbay World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)): Aitbay's expanded telling adds the Mongols' military art and the ethnopolitical remaking of Eurasia as full sections — the medieval world seen from the steppe that conquered half of it. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 22 — 251/1451 Kokebaeva World History (Middle Ages) G7 KZ+UZ (student book, Kazakh + Uzbek parallel editions)**
+- Title as printed: Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2017; ISBN 978-601-07-0871-6 (Kazakh ed.)
+- PDF pages: 177 + 185 (Kazakh edition's contents read in full; Uzbek edition parallels it)
+- Verdict: COMPLETE
+- Tally: 35 placements — 19 to existing lessons, 16 NEW LESSON NEEDED
+- Kazakhstan's own way: the Grade 7 Kokebaeva is the fullest Mektep medieval telling — Chinggis Khan, the Mongol Empire's structure and its military art get three separate sections, and the East's centralised systems are compared with Europe's absolutism.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §27 Western Europe's Renaissance culture — story beats: artists and architects revive antiquity with new eyes (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Kazakhstan, *Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)*, printed p. 138 |
+| Kazakhstan part — §28 The humanists' ideas — story beats: humanism puts human reason and dignity at the centre (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Kazakhstan, *Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)*, printed p. 143 |
+
+Kazakhstan's own way (Book 22 — 251/1451 Kokebaeva World History (Middle Ages) G7 KZ+UZ (student book, Kazakh + Uzbek parallel editions)): the Grade 7 Kokebaeva is the fullest Mektep medieval telling — Chinggis Khan, the Mongol Empire's structure and its military art get three separate sections, and the East's centralised systems are compared with Europe's absolutism. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 32 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece, Kazakhstan).**

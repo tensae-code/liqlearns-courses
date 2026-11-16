@@ -1,6 +1,6 @@
 # Sources — 1789 — the French Revolution breaks out
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece
+countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece, Kazakhstan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1081,3 +1081,22 @@ Greece's own way (Book 5 — G10 EPAL Modern & Contemporary World History (stude
 | Greece part — The French Revolution (1789–1815, first part) — story beats: the Estates-General becomes a National Assembly and a revolution remakes France (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Greece, *Ιστορία του Μεσαιωνικού και του Νεότερου Κόσμου 565–1815 (History of the Medieval and Modern World), Β' Γενικού Λυκείου, by Ioannis Dimitroukas, Thoukydidis P. Ioannou & Kostas Baroutas*, printed p. 174 |
 
 Greece's own way (Book 11 — G11 Medieval & Modern World History 565–1815 (student book, Greek)): Byzantium is the spine — five of seven chapters follow the empire from Justinian's heirs to 1453, each unit built as narrative plus written sources, maps and discussion topics; the West, Islam and the Slavs enter as Byzantium's neighbours and rivals. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 3 — 353 Aldabek World History (1640–1900) G8 RU (student book, Russian)**
+- Title as printed: Всемирная история (1640–1900) [World History (1640–1900)]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2018; ISBN 978-601-07-0953-9
+- PDF pages: 201 (cover/title page verified against the record title; 200 printed pages)
+- Verdict: COMPLETE
+- Tally: 36 placements — 17 to existing lessons, 19 NEW LESSON NEEDED
+- Kazakhstan's own way: the pre-2019-curriculum companion to Book 1 — the same author team's survey of the New Time (1640–1900) in 30 §s, with "Through the eyes of artists and writers" and "Development of scientific thought" culture units, revision-question blocks after units, a chronological index and glossary. Parallel edition: 319 (Kazakh — see Book 4).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §8 The crisis of absolutism and the beginning of the French Revolution — story beats: a bankrupt monarchy summons the Estates-General and the Third Estate turns a tax crisis into revolution (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Kazakhstan, *Всемирная история (1640–1900) [World History (1640–1900)]*, printed p. 45 |
+
+Kazakhstan's own way (Book 3 — 353 Aldabek World History (1640–1900) G8 RU (student book, Russian)): the pre-2019-curriculum companion to Book 1 — the same author team's survey of the New Time (1640–1900) in 30 §s, with "Through the eyes of artists and writers" and "Development of scientific thought" culture units, revision-question blocks after units, a chronological index and glossary. Parallel edition: 319 (Kazakh — see Book 4). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 35 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Greece, Kazakhstan).**

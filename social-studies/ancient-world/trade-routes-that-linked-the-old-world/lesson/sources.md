@@ -1,6 +1,6 @@
 # Sources — Trade routes that linked the old world
 
-countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, China, Venezuela, Greece
+countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, China, Venezuela, Greece, Kazakhstan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -578,3 +578,142 @@ Greece's own way (Book 14 — G8 Medieval & Modern History student book (student
 | Greece part — The Eastern peoples and the Greeks — story beats: the Eastern peoples meet the Greeks through trade, colonies and war, and each side changes the other (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Greece, *Ιστορία του Αρχαίου Κόσμου — Από τους προϊστορικούς πολιτισμούς της Ανατολής έως την εποχή του Ιουστινιανού (History of the Ancient World, A' General Lyceum)*, printed p. 53 |
 
 Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near-Eastern people gets the same four-part frame (the land, its economic/social/political order, its history, its civilisation), with ancient-source excerpts in the margins and exercises after every chapter; Greek history is taught inside the wider Mediterranean world, not alone. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 2 — 131/155 Kumekov History of Kazakhstan G5 KZ+RU (student book, Kazakh + Russian parallel editions)**
+- Title as printed: Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-753-7 (Kazakh ed.)
+- PDF pages: 144 + 144 (covers/title pages verified; contents of both editions read and matched section-for-section — one placement set for both)
+- Verdict: COMPLETE
+- Tally: 34 placements — 11 to existing lessons, 23 NEW LESSON NEEDED
+- Kazakhstan's own way: the national story starts at the Stone Age on Kazakhstan's own soil and runs tribe by tribe (Sakas, Usuns, Kangly, Sarmatians, Huns) — ancient Kazakhstan taught as a continuous steppe civilisation, every section closing with source work and an essay task.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §52 The ancient Silk Road route — story beats: caravans cross Kazakhstan linking China to the West with silk, gold and ideas (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Kazakhstan, *Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)*, printed p. 131 |
+
+Kazakhstan's own way (Book 2 — 131/155 Kumekov History of Kazakhstan G5 KZ+RU (student book, Kazakh + Russian parallel editions)): the national story starts at the Stone Age on Kazakhstan's own soil and runs tribe by tribe (Sakas, Usuns, Kangly, Sarmatians, Huns) — ancient Kazakhstan taught as a continuous steppe civilisation, every section closing with source work and an essay task. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — 900 Omarbekov History of Kazakhstan (Middle Ages) G6 RU (student book, Russian)**
+- Title as printed: История Казахстана (Средние века) (History of Kazakhstan: The Middle Ages)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2018; ISBN not captured from scan (colophon licence page read; no ISBN printed there)
+- PDF pages: 184 (title page verified; full text read — contents at printed pp. 182–183)
+- Verdict: COMPLETE
+- Tally: 56 placements — 2 to existing lessons, 54 NEW LESSON NEEDED
+- Kazakhstan's own way: Grade 6 takes the national story from the Turkic khaganates to Tauke Khan in one unbroken statehood line — khaganate, Horde, ethnogenesis, khanate — with the Silk Road cities and al-Farabi as its cultural crest. Parallel editions: 187 (Kazakh), 1420/1423 (Uzbek), 1553 (Russian, shorter edition) — see Books 13–15; teacher guide 1551 — see Book 16.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §22 The Great Silk Road's role in international relations, economy and culture — story beats: caravan cities grow rich and diplomacy follows the silk caravans (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Kazakhstan, *История Казахстана (Средние века) (History of Kazakhstan: The Middle Ages)*, printed p. 55 |
+
+Kazakhstan's own way (Book 12 — 900 Omarbekov History of Kazakhstan (Middle Ages) G6 RU (student book, Russian)): Grade 6 takes the national story from the Turkic khaganates to Tauke Khan in one unbroken statehood line — khaganate, Horde, ethnogenesis, khanate — with the Silk Road cities and al-Farabi as its cultural crest. Parallel editions: 187 (Kazakh), 1420/1423 (Uzbek), 1553 (Russian, shorter edition) — see Books 13–15; teacher guide 1551 — see Book 16. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — 1553/1551 Omarbekov History of Medieval Kazakhstan G6 teacher guides RU+KZ (teacher guide, Russian + Kazakh parallel editions)**
+- Title as printed: История Средневекового Казахстана: Методическое руководство (History of Medieval Kazakhstan: Methodological Guide) — record 1553 lists this file as a student book; the file is the teacher guide
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: Mektep, Almaty; year 2018; no ISBN printed
+- PDF pages: 158 + 144 (title pages verified; full text read — hour-by-hour lesson plans for every section of Book 12, with source extracts; the Kazakh guide 1551 parallels the Russian 1553, whose pages are cited)
+- Verdict: COMPLETE
+- Tally: 60 placements — 2 to existing lessons, 58 NEW LESSON NEEDED
+- Kazakhstan's own way: the guides add what the student book cannot — full source dossiers per lesson (e.g. an ethnographer's museum account of eagle-hunting for the economy lessons) and timed two-hour stagings of each khan's story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §22 The Great Silk Road's role (lesson plan) — story beats: caravan economics and diplomacy are simulated in class (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Kazakhstan, *История Средневекового Казахстана: Методическое руководство (History of Medieval Kazakhstan: Methodological Guide) — record 1553 lists this file as a student book; the file is the teacher guide*, printed p. 51 |
+
+Kazakhstan's own way (Book 13 — 1553/1551 Omarbekov History of Medieval Kazakhstan G6 teacher guides RU+KZ (teacher guide, Russian + Kazakh parallel editions)): the guides add what the student book cannot — full source dossiers per lesson (e.g. an ethnographer's museum account of eagle-hunting for the economy lessons) and timed two-hour stagings of each khan's story. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 16 — 186/213 Bakina History of Kazakhstan G6 KZ+RU (student book, Kazakh + Russian parallel editions)**
+- Title as printed: Қазақстан тарихы / История Казахстана (History of Kazakhstan)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2018; ISBN not captured from scan
+- PDF pages: 240 + 240 (Kazakh edition read in full text; Russian edition verified as its parallel — same pagination and chapter plan)
+- Verdict: COMPLETE
+- Tally: 49 placements — 2 to existing lessons, 47 NEW LESSON NEEDED
+- Kazakhstan's own way: Bakina's telling separates culture into its own chapters inside every period (economy, cities, writing, faith), so the medieval millennium reads as civilisation-building, not only khans and wars.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §15 The Great Silk Road forms — story beats: caravan routes stitch China to Europe across Kazakhstan (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Kazakhstan, *Қазақстан тарихы / История Казахстана (History of Kazakhstan)*, printed p. 73 |
+
+Kazakhstan's own way (Book 16 — 186/213 Bakina History of Kazakhstan G6 KZ+RU (student book, Kazakh + Russian parallel editions)): Bakina's telling separates culture into its own chapters inside every period (economy, cities, writing, faith), so the medieval millennium reads as civilisation-building, not only khans and wars. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 17 — 215 Aitbay World History G6 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2018; ISBN not captured from scan
+- PDF pages: 128 (title page verified; full text read — contents at printed pp. 126–127)
+- Verdict: COMPLETE
+- Tally: 28 placements — 14 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §22 The Great Silk Road — story beats: the road that tied China to Europe is retraced through Kazakhstan (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Kazakhstan, *Всемирная история (World History)*, printed p. 90 |
+
+Kazakhstan's own way (Book 17 — 215 Aitbay World History G6 RU (student book, Russian)): the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 19 — 216/189/1346 Kokebaeva World History (Middle Ages) G6 RU+KZ+UZ (student book, Russian + Kazakh + Uzbek parallel editions)**
+- Title as printed: Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2018; ISBN 978-601-07-0955-3 (Russian ed.)
+- PDF pages: 137 + 145 + 161 (Russian edition read in full; Kazakh and Uzbek editions verified as parallels — covers and chapter plan matched)
+- Verdict: COMPLETE
+- Tally: 31 placements — 17 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the Mektep medieval course is the analytical twin of Aitbay's narrative one — same arc, but every block ends in comparison (absolutism West vs East, Renaissance West vs East), training pupils to set Europe and Asia side by side.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §22 The Great Silk Road — story beats: silk caravans link Chang'an to Constantinople through the steppe (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Kazakhstan, *Всемирная история (Средние века) / Дүниежүзі тарихы (World History: The Middle Ages)*, printed p. 86 |
+
+Kazakhstan's own way (Book 19 — 216/189/1346 Kokebaeva World History (Middle Ages) G6 RU+KZ+UZ (student book, Russian + Kazakh + Uzbek parallel editions)): the Mektep medieval course is the analytical twin of Aitbay's narrative one — same arc, but every block ends in comparison (absolutism West vs East, Renaissance West vs East), training pupils to set Europe and Asia side by side. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 20 — 1042/1043 Pittonova–Bukaeva World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History), Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2018; ISBN 978-601-328-220-6 (Russian ed.)
+- PDF pages: 136 + 136 (covers verified; contents of the Russian edition read in full — the NIS programme teaches the medieval course in Grade 7; the Kazakh edition parallels it unit-for-unit)
+- Verdict: COMPLETE
+- Tally: 23 placements — 12 to existing lessons, 11 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS Grade 7 book re-teaches the medieval world as 20 open investigations — every unit is a contested question ("Whose power was more absolute?") with a staged research path, the deepest version of the question-driven method in this group.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — 8.1 How did the Silk Road join East and West? — story beats: goods, faiths and technologies travel the road in both directions (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), Grade 7*, printed p. 100 |
+
+Kazakhstan's own way (Book 20 — 1042/1043 Pittonova–Bukaeva World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)): the NIS Grade 7 book re-teaches the medieval world as 20 open investigations — every unit is a contested question ("Whose power was more absolute?") with a staged research path, the deepest version of the question-driven method in this group. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 21 — 279/252 Aitbay World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN not captured from scan
+- PDF pages: 144 + 144 (Russian edition's contents read in full at printed pp. 141–143; Kazakh edition parallels it)
+- Verdict: COMPLETE
+- Tally: 30 placements — 16 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: Aitbay's expanded telling adds the Mongols' military art and the ethnopolitical remaking of Eurasia as full sections — the medieval world seen from the steppe that conquered half of it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §24 The Great Silk Road; international trade and travel; Ming China's sea voyages under Zheng He — story beats: silk roads by land and treasure fleets by sea link one Eurasian world (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)*, printed p. 96 |
+
+Kazakhstan's own way (Book 21 — 279/252 Aitbay World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)): Aitbay's expanded telling adds the Mongols' military art and the ethnopolitical remaking of Eurasia as full sections — the medieval world seen from the steppe that conquered half of it. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 22 — 251/1451 Kokebaeva World History (Middle Ages) G7 KZ+UZ (student book, Kazakh + Uzbek parallel editions)**
+- Title as printed: Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2017; ISBN 978-601-07-0871-6 (Kazakh ed.)
+- PDF pages: 177 + 185 (Kazakh edition's contents read in full; Uzbek edition parallels it)
+- Verdict: COMPLETE
+- Tally: 35 placements — 19 to existing lessons, 16 NEW LESSON NEEDED
+- Kazakhstan's own way: the Grade 7 Kokebaeva is the fullest Mektep medieval telling — Chinggis Khan, the Mongol Empire's structure and its military art get three separate sections, and the East's centralised systems are compared with Europe's absolutism.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §24 The Great Silk Road; international trade and travel — story beats: caravans and pilgrims keep Eurasia one connected world (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Kazakhstan, *Дүниежүзі тарихы (Орта ғасырлар) / Дуния тарихи (World History: The Middle Ages)*, printed p. 120 |
+
+Kazakhstan's own way (Book 22 — 251/1451 Kokebaeva World History (Middle Ages) G7 KZ+UZ (student book, Kazakh + Uzbek parallel editions)): the Grade 7 Kokebaeva is the fullest Mektep medieval telling — Chinggis Khan, the Mongol Empire's structure and its military art get three separate sections, and the East's centralised systems are compared with Europe's absolutism. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, China, Venezuela, Greece, Kazakhstan).**

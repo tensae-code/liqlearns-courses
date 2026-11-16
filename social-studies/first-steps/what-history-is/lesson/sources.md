@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Kazakhstan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1962,3 +1962,187 @@ Vietnam's own way (Book 7 — G10 History Study Topics (student book, Vietnamese
 Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 52 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-17-6
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 27 to existing lessons, 9 NEW LESSON NEEDED
+- Kazakhstan's own way: NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introduction: what history is — story beats: Cicero calls history life's teacher; pupils meet historical personalities who changed their country and the world (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Kazakhstan, *Всемирная история (World History)*, printed p. 5 |
+
+Kazakhstan's own way (Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)): NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — 131/155 Kumekov History of Kazakhstan G5 KZ+RU (student book, Kazakh + Russian parallel editions)**
+- Title as printed: Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-753-7 (Kazakh ed.)
+- PDF pages: 144 + 144 (covers/title pages verified; contents of both editions read and matched section-for-section — one placement set for both)
+- Verdict: COMPLETE
+- Tally: 34 placements — 11 to existing lessons, 23 NEW LESSON NEEDED
+- Kazakhstan's own way: the national story starts at the Stone Age on Kazakhstan's own soil and runs tribe by tribe (Sakas, Usuns, Kangly, Sarmatians, Huns) — ancient Kazakhstan taught as a continuous steppe civilisation, every section closing with source work and an essay task.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 What the subject "History" studies — story beats: Herodotus, the first historian, opens the question of where we come from and who we are (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Kazakhstan, *Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)*, printed p. 6 |
+
+Kazakhstan's own way (Book 2 — 131/155 Kumekov History of Kazakhstan G5 KZ+RU (student book, Kazakh + Russian parallel editions)): the national story starts at the Stone Age on Kazakhstan's own soil and runs tribe by tribe (Sakas, Usuns, Kangly, Sarmatians, Huns) — ancient Kazakhstan taught as a continuous steppe civilisation, every section closing with source work and an essay task. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-727-8 (Russian ed.)
+- PDF pages: 176 + 176 (covers verified; contents of both editions read and matched — one placement set, Russian-edition pages cited)
+- Verdict: COMPLETE
+- Tally: 34 placements — 26 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introduction — story beats: pupils are told why the primitive commune and the first civilisations still shape their own lives (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 3 |
+
+Kazakhstan's own way (Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)): the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — 130/1332/1406 Omarbekov History of Kazakhstan (Ancient Times) G5 KZ+UY+UZ (student book, Kazakh + Uyghur + Uzbek parallel editions)**
+- Title as printed: Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2017; ISBN 978-601-07-0866-2 (Kazakh ed.)
+- PDF pages: 193 + 193 + 201 (covers verified; contents of all three editions read and matched section-for-section — one placement set, Kazakh-edition pages cited). Retrieved from the record's own source (books.okulyk.kz) after both GitHub routes failed: the release asset is absent and the tree path returns 404 — the book is NOT in the GitHub library (see Staged note in the group log)
+- Verdict: COMPLETE
+- Tally: 64 placements — 10 to existing lessons, 54 NEW LESSON NEEDED
+- Kazakhstan's own way: the Mektep telling of the ancient arc is the most granular of the three G5 versions — 64 short sections, each find and hero given its own section (Botai's horse question, Margulan's discoveries, the moustached kurgans), in Kazakh, Uyghur and Uzbek editions for the country's language streams.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 Overview of Kazakhstan's ancient history — story beats: pupils survey the whole ancient road from first tools to tribal states before walking it (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Kazakhstan, *Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)*, printed p. 8 |
+
+Kazakhstan's own way (Book 7 — 130/1332/1406 Omarbekov History of Kazakhstan (Ancient Times) G5 KZ+UY+UZ (student book, Kazakh + Uyghur + Uzbek parallel editions)): the Mektep telling of the ancient arc is the most granular of the three G5 versions — 64 short sections, each find and hero given its own section (Botai's horse question, Margulan's discoveries, the moustached kurgans), in Kazakh, Uyghur and Uzbek editions for the country's language streams. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — 900 Omarbekov History of Kazakhstan (Middle Ages) G6 RU (student book, Russian)**
+- Title as printed: История Казахстана (Средние века) (History of Kazakhstan: The Middle Ages)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2018; ISBN not captured from scan (colophon licence page read; no ISBN printed there)
+- PDF pages: 184 (title page verified; full text read — contents at printed pp. 182–183)
+- Verdict: COMPLETE
+- Tally: 56 placements — 2 to existing lessons, 54 NEW LESSON NEEDED
+- Kazakhstan's own way: Grade 6 takes the national story from the Turkic khaganates to Tauke Khan in one unbroken statehood line — khaganate, Horde, ethnogenesis, khanate — with the Silk Road cities and al-Farabi as its cultural crest. Parallel editions: 187 (Kazakh), 1420/1423 (Uzbek), 1553 (Russian, shorter edition) — see Books 13–15; teacher guide 1551 — see Book 16.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 What the medieval history of Kazakhstan studies — story beats: pupils enter a thousand-year steppe story and learn its periods and sources (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Kazakhstan, *История Казахстана (Средние века) (History of Kazakhstan: The Middle Ages)*, printed p. 4 |
+
+Kazakhstan's own way (Book 12 — 900 Omarbekov History of Kazakhstan (Middle Ages) G6 RU (student book, Russian)): Grade 6 takes the national story from the Turkic khaganates to Tauke Khan in one unbroken statehood line — khaganate, Horde, ethnogenesis, khanate — with the Silk Road cities and al-Farabi as its cultural crest. Parallel editions: 187 (Kazakh), 1420/1423 (Uzbek), 1553 (Russian, shorter edition) — see Books 13–15; teacher guide 1551 — see Book 16. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — 1553/1551 Omarbekov History of Medieval Kazakhstan G6 teacher guides RU+KZ (teacher guide, Russian + Kazakh parallel editions)**
+- Title as printed: История Средневекового Казахстана: Методическое руководство (History of Medieval Kazakhstan: Methodological Guide) — record 1553 lists this file as a student book; the file is the teacher guide
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: Mektep, Almaty; year 2018; no ISBN printed
+- PDF pages: 158 + 144 (title pages verified; full text read — hour-by-hour lesson plans for every section of Book 12, with source extracts; the Kazakh guide 1551 parallels the Russian 1553, whose pages are cited)
+- Verdict: COMPLETE
+- Tally: 60 placements — 2 to existing lessons, 58 NEW LESSON NEEDED
+- Kazakhstan's own way: the guides add what the student book cannot — full source dossiers per lesson (e.g. an ethnographer's museum account of eagle-hunting for the economy lessons) and timed two-hour stagings of each khan's story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §1 General overview of medieval Kazakhstan's history (lesson plan) — story beats: the teacher opens the medieval course by mapping a thousand years of steppe states (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Kazakhstan, *История Средневекового Казахстана: Методическое руководство (History of Medieval Kazakhstan: Methodological Guide) — record 1553 lists this file as a student book; the file is the teacher guide*, printed p. 5 |
+
+Kazakhstan's own way (Book 13 — 1553/1551 Omarbekov History of Medieval Kazakhstan G6 teacher guides RU+KZ (teacher guide, Russian + Kazakh parallel editions)): the guides add what the student book cannot — full source dossiers per lesson (e.g. an ethnographer's museum account of eagle-hunting for the economy lessons) and timed two-hour stagings of each khan's story. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 16 — 186/213 Bakina History of Kazakhstan G6 KZ+RU (student book, Kazakh + Russian parallel editions)**
+- Title as printed: Қазақстан тарихы / История Казахстана (History of Kazakhstan)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2018; ISBN not captured from scan
+- PDF pages: 240 + 240 (Kazakh edition read in full text; Russian edition verified as its parallel — same pagination and chapter plan)
+- Verdict: COMPLETE
+- Tally: 49 placements — 2 to existing lessons, 47 NEW LESSON NEEDED
+- Kazakhstan's own way: Bakina's telling separates culture into its own chapters inside every period (economy, cities, writing, faith), so the medieval millennium reads as civilisation-building, not only khans and wars.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introduction — story beats: the course opens the medieval millennium from khaganates to khanate as one story (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Kazakhstan, *Қазақстан тарихы / История Казахстана (History of Kazakhstan)*, printed p. 4 |
+
+Kazakhstan's own way (Book 16 — 186/213 Bakina History of Kazakhstan G6 KZ+RU (student book, Kazakh + Russian parallel editions)): Bakina's telling separates culture into its own chapters inside every period (economy, cities, writing, faith), so the medieval millennium reads as civilisation-building, not only khans and wars. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 17 — 215 Aitbay World History G6 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2018; ISBN not captured from scan
+- PDF pages: 128 (title page verified; full text read — contents at printed pp. 126–127)
+- Verdict: COMPLETE
+- Tally: 28 placements — 14 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introduction — story beats: pupils cross from the ancient world into a thousand years called the Middle Ages (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Kazakhstan, *Всемирная история (World History)*, printed p. 3 |
+
+Kazakhstan's own way (Book 17 — 215 Aitbay World History G6 RU (student book, Russian)): the medieval world is taught with the steppe inside it — Byzantium's embassy to Khagan Istemi, the Mongol empire and the Eastern (Timurid) Renaissance stand beside feudalism and the Crusades. Second edition in this group: 941 — see Book 18. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 20 — 1042/1043 Pittonova–Bukaeva World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History), Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2018; ISBN 978-601-328-220-6 (Russian ed.)
+- PDF pages: 136 + 136 (covers verified; contents of the Russian edition read in full — the NIS programme teaches the medieval course in Grade 7; the Kazakh edition parallels it unit-for-unit)
+- Verdict: COMPLETE
+- Tally: 23 placements — 12 to existing lessons, 11 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS Grade 7 book re-teaches the medieval world as 20 open investigations — every unit is a contested question ("Whose power was more absolute?") with a staged research path, the deepest version of the question-driven method in this group.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introduction: the medieval course and its periodisation — story beats: pupils place the Middle Ages on the world timeline from Rome's fall to the 17th century (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), Grade 7*, printed p. 5 |
+
+Kazakhstan's own way (Book 20 — 1042/1043 Pittonova–Bukaeva World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)): the NIS Grade 7 book re-teaches the medieval world as 20 open investigations — every unit is a contested question ("Whose power was more absolute?") with a staged research path, the deepest version of the question-driven method in this group. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 21 — 279/252 Aitbay World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN not captured from scan
+- PDF pages: 144 + 144 (Russian edition's contents read in full at printed pp. 141–143; Kazakh edition parallels it)
+- Verdict: COMPLETE
+- Tally: 30 placements — 16 to existing lessons, 14 NEW LESSON NEEDED
+- Kazakhstan's own way: Aitbay's expanded telling adds the Mongols' military art and the ethnopolitical remaking of Eurasia as full sections — the medieval world seen from the steppe that conquered half of it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introduction — story beats: the medieval millennium is introduced as world history's middle act (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History), for Grade 7(6)*, printed p. 3 |
+
+Kazakhstan's own way (Book 21 — 279/252 Aitbay World History G7 RU+KZ (student book, Russian + Kazakh parallel editions)): Aitbay's expanded telling adds the Mongols' military art and the ethnopolitical remaking of Eurasia as full sections — the medieval world seen from the steppe that conquered half of it. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 24 — 1051/1052 Yusupova–Berdigaliyeva History of Kazakhstan G7 KZ+EN (student book, Kazakh + English parallel editions)**
+- Title as printed: Қазақстан тарихы / History of Kazakhstan, Grade 7 (Nazarbayev Intellectual Schools)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Nur-Sultan/Astana; years 2019 (KZ) / 2018 (EN); ISBN 978-601-328-707-2 (KZ), 978-601-328-215-2 (EN)
+- PDF pages: 180 + 176 (both editions' covers and full contents verified; the English edition regroups the same enquiries — its Unit 3 runs to 3.17, folding the Kazakh edition's chapters 4–6 into it)
+- Verdict: COMPLETE
+- Tally: 37 placements — 2 to existing lessons, 35 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS Grade 7 book turns the whole medieval course into contested judgements — 'Who changed Central Asia more, Kipchaks or Mongols?', 'Should Tauke be remembered as the Lycurgus of the steppe?' — national history taught as verdicts pupils must defend from sources.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introductory lesson: what do we learn from medieval history? — story beats: the medieval course opens by asking what the middle centuries explain about today's Kazakhstan (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Kazakhstan, *Қазақстан тарихы / History of Kazakhstan, Grade 7 (Nazarbayev Intellectual Schools)*, printed p. 10 |
+
+Kazakhstan's own way (Book 24 — 1051/1052 Yusupova–Berdigaliyeva History of Kazakhstan G7 KZ+EN (student book, Kazakh + English parallel editions)): the NIS Grade 7 book turns the whole medieval course into contested judgements — 'Who changed Central Asia more, Kipchaks or Mongols?', 'Should Tauke be remembered as the Lycurgus of the steppe?' — national history taught as verdicts pupils must defend from sources. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 27 — 1071 Pittonova–Ivashev World History G8 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History), Grade 8 (Nazarbayev Intellectual Schools)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Nur-Sultan; year 2019; ISBN 978-601-328-350-0
+- PDF pages: 152 (cover + full contents read at printed pp. 3–4)
+- Verdict: COMPLETE
+- Tally: 28 placements — 13 to existing lessons, 15 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS Grade 8 course teaches the 18th–19th centuries entirely as source disputes — paintings of Marat, Lin Zexu's letter, rival accounts of 1857 — so pupils learn modern history by cross-examining its witnesses.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — Introduction — story beats: the new-time course opens by framing the 18th–19th centuries as one age of revolutions (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Kazakhstan, *Всемирная история (World History), Grade 8 (Nazarbayev Intellectual Schools)*, printed p. 5 |
+
+Kazakhstan's own way (Book 27 — 1071 Pittonova–Ivashev World History G8 RU (student book, Russian)): the NIS Grade 8 course teaches the 18th–19th centuries entirely as source disputes — paintings of Marat, Lin Zexu's letter, rival accounts of 1857 — so pupils learn modern history by cross-examining its witnesses. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 53 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam, Kazakhstan).**

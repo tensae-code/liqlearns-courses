@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece, Kazakhstan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1307,3 +1307,134 @@ Greece's own way (Book 11 — G7 Ancient History student book (student book, Gre
 | Greece part — Chapter 1: Palaeolithic and Neolithic art — story beats: cave painters and the first farmers' figurines and settlements — art begins with survival and ritual (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Greece, *Ιστορία της Τέχνης (History of Art), Β' & Γ' ΕΠΑ.Λ., Applied Arts sector, by Olga Ziro, Eleni Mertzani & Vasiliki Petridou*, printed p. 13 |
 
 Greece's own way (Book 9 — G11/G12 EPAL History of Art (student book, Greek)): a full art history from the caves to video art, with every work set in its historical frame; the Aegean and Greek chapters come early and in depth, as the starting point of European art. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)**
+- Title as printed: Всемирная история (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-17-6
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 27 to existing lessons, 9 NEW LESSON NEEDED
+- Kazakhstan's own way: NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §2 Why Lascaux cave walls were painted — story beats: hunter bands paint bulls and hunts deep in the Lascaux cave, leaving the first art as a record of their life (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Всемирная история (World History)*, printed p. 12 |
+| Kazakhstan part — §3 Why people began farming and herding — story beats: gathering fails to feed growing bands, so people plant grain and tame animals and settle down (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Всемирная история (World History)*, printed p. 16 |
+
+Kazakhstan's own way (Book 1 — 157 Bukaeva World History G5 RU (student book, Russian)): NIS inquiry textbook — every section is framed as a question ("Why…? How…?") with source work, "Historical personality" boxes and reflection tasks; the ancient world is taught through problems, not narrative chapters. Parallel edition: 133 (Kazakh, see Book 5). That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — 131/155 Kumekov History of Kazakhstan G5 KZ+RU (student book, Kazakh + Russian parallel editions)**
+- Title as printed: Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-753-7 (Kazakh ed.)
+- PDF pages: 144 + 144 (covers/title pages verified; contents of both editions read and matched section-for-section — one placement set for both)
+- Verdict: COMPLETE
+- Tally: 34 placements — 11 to existing lessons, 23 NEW LESSON NEEDED
+- Kazakhstan's own way: the national story starts at the Stone Age on Kazakhstan's own soil and runs tribe by tribe (Sakas, Usuns, Kangly, Sarmatians, Huns) — ancient Kazakhstan taught as a continuous steppe civilisation, every section closing with source work and an essay task.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §3–4 The emergence of humankind — story beats: the first people appear and spread, reaching the lands that become Kazakhstan (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)*, printed p. 12 |
+| Kazakhstan part — §5–6 Palaeolithic, the Old Stone Age — story beats: stone-tool hunters survive the ice-age steppe in bands (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)*, printed p. 16 |
+| Kazakhstan part — §7 The formation of human society — story beats: bands become clans and tribes as people organise to survive together (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)*, printed p. 22 |
+| Kazakhstan part — §8 Occupations of Palaeolithic people — story beats: hunting, gathering and fire-tending fill the first working day on the steppe (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)*, printed p. 26 |
+| Kazakhstan part — §9 Mesolithic, the Middle Stone Age (12th–5th millennia BC) — story beats: the ice retreats, bows and microliths arrive, and life speeds up (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)*, printed p. 30 |
+| Kazakhstan part — §10 Neolithic, the New Stone Age (5th–3rd millennia BC) — story beats: polished stone, pottery and the first farming and herding transform the steppe (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)*, printed p. 34 |
+| Kazakhstan part — §11 Changes in Neolithic people's lives — story beats: settled villages and stored food remake family and work (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)*, printed p. 38 |
+| Kazakhstan part — §12–13 The Eneolithic in Kazakhstan — story beats: copper appears beside stone and horse-herding Botai settlements rise (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы / История древнего Казахстана (History of Kazakhstan / History of Ancient Kazakhstan)*, printed p. 41 |
+
+Kazakhstan's own way (Book 2 — 131/155 Kumekov History of Kazakhstan G5 KZ+RU (student book, Kazakh + Russian parallel editions)): the national story starts at the Stone Age on Kazakhstan's own soil and runs tribe by tribe (Sakas, Usuns, Kangly, Sarmatians, Huns) — ancient Kazakhstan taught as a continuous steppe civilisation, every section closing with source work and an essay task. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — 132 Akhmetova History of Kazakhstan G5 KZ (student book, Kazakh)**
+- Title as printed: Қазақстан тарихы (History of Kazakhstan)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-13-8
+- PDF pages: 173 (cover/title page verified against the record title)
+- Verdict: COMPLETE (Ch.4–7 contents page partially legible in the scan; sub-section titles confirmed from the contents leaf and chapter openers sampled at printed pp. 108, 128, 148)
+- Tally: 33 placements — 4 to existing lessons, 29 NEW LESSON NEEDED
+- Kazakhstan's own way: NIS lesson-by-lesson inquiry version of the same ancient-Kazakhstan arc as Book 2, but organised around named finds and heroes — Botai, the Golden Man, Tomiris, Shirak — so the national story is carried by its famous stories. NOTE on record 156: the file held under the Russian-edition record 156 is a duplicate scan of THIS Kazakh edition (same ISBN, same Kazakh contents, 172 pp.) — filed record-only under Book 3; no separate Russian-edition placements. The real Russian edition of Akhmetova G5 was not in the file received.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — 1.1 Life of the first people — story beats: the first inhabitants wrest a living from a harsh steppe with stone tools (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы (History of Kazakhstan)*, printed p. 10 |
+| Kazakhstan part — 1.2 Stone Age sites in Kazakhstan — story beats: named camps and caves across Kazakhstan prove people lived here from the deepest past (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы (History of Kazakhstan)*, printed p. 16 |
+| Kazakhstan part — 1.3 Changes in economy and life; tools improve — story beats: better tools change what people eat, wear and build, step by step (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы (History of Kazakhstan)*, printed p. 20 |
+
+Kazakhstan's own way (Book 3 — 132 Akhmetova History of Kazakhstan G5 KZ (student book, Kazakh)): NIS lesson-by-lesson inquiry version of the same ancient-Kazakhstan arc as Book 2, but organised around named finds and heroes — Botai, the Golden Man, Tomiris, Shirak — so the national story is carried by its famous stories. NOTE on record 156: the file held under the Russian-edition record 156 is a duplicate scan of THIS Kazakh edition (same ISBN, same Kazakh contents, 172 pp.) — filed record-only under Book 3; no separate Russian-edition placements. The real Russian edition of Akhmetova G5 was not in the file received. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-727-8 (Russian ed.)
+- PDF pages: 176 + 176 (covers verified; contents of both editions read and matched — one placement set, Russian-edition pages cited)
+- Verdict: COMPLETE
+- Tally: 34 placements — 26 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §2 Life of primitive people — story beats: the first chopper tool, the spear and fire remake the daily life of the earliest bands (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 10 |
+| Kazakhstan part — §3 Types of productive economy — story beats: gathering gives way to farming and herding — an economy that produces instead of only taking (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 15 |
+| Kazakhstan part — §4 Culture of primitive society — story beats: cave art, totems and the first beliefs show minds at work before writing (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 19 |
+
+Kazakhstan's own way (Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)): the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — 130/1332/1406 Omarbekov History of Kazakhstan (Ancient Times) G5 KZ+UY+UZ (student book, Kazakh + Uyghur + Uzbek parallel editions)**
+- Title as printed: Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Mektep, Almaty; year 2017; ISBN 978-601-07-0866-2 (Kazakh ed.)
+- PDF pages: 193 + 193 + 201 (covers verified; contents of all three editions read and matched section-for-section — one placement set, Kazakh-edition pages cited). Retrieved from the record's own source (books.okulyk.kz) after both GitHub routes failed: the release asset is absent and the tree path returns 404 — the book is NOT in the GitHub library (see Staged note in the group log)
+- Verdict: COMPLETE
+- Tally: 64 placements — 10 to existing lessons, 54 NEW LESSON NEEDED
+- Kazakhstan's own way: the Mektep telling of the ancient arc is the most granular of the three G5 versions — 64 short sections, each find and hero given its own section (Botai's horse question, Margulan's discoveries, the moustached kurgans), in Kazakh, Uyghur and Uzbek editions for the country's language streams.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §2 The Stone Age — story beats: the longest age of all: stone tools carry humanity through hundreds of thousands of years (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)*, printed p. 11 |
+| Kazakhstan part — §3 Development and appearance of ancient people — story beats: ape-like ancestors become tool-making humans and spread over the steppe (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)*, printed p. 13 |
+| Kazakhstan part — §4 Life of the first people — story beats: first families hunt, gather and shelter together against a hard climate (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)*, printed p. 16 |
+| Kazakhstan part — §5 Stone Age archaeological finds in Kazakhstan — story beats: named sites from Karatau to the Irtysh prove the first settlement of the country (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)*, printed p. 20 |
+| Kazakhstan part — §6 Tools and weapons of Stone Age inhabitants — story beats: choppers, scrapers and spears are read as evidence of growing skill (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)*, printed p. 23 |
+| Kazakhstan part — §7 Economic development at the end of the Stone Age — story beats: herding and farming appear and the gathering economy begins to end (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)*, printed p. 26 |
+| Kazakhstan part — §8 Mesolithic and Neolithic tools and weapons — story beats: bows, microliths and polished axes speed up hunting and work (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)*, printed p. 29 |
+| Kazakhstan part — §9 Why it is called the Copper Age — story beats: copper joins stone and the metal ages quietly begin (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Қазақстан тарихы (Ежелгі заман) / History of Kazakhstan (Ancient Times)*, printed p. 31 |
+
+Kazakhstan's own way (Book 7 — 130/1332/1406 Omarbekov History of Kazakhstan (Ancient Times) G5 KZ+UY+UZ (student book, Kazakh + Uyghur + Uzbek parallel editions)): the Mektep telling of the ancient arc is the most granular of the three G5 versions — 64 short sections, each find and hero given its own section (Botai's horse question, Margulan's discoveries, the moustached kurgans), in Kazakh, Uyghur and Uzbek editions for the country's language streams. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — 1037/1038 Akhmetova History of Kazakhstan G5 teacher guides RU+KZ (teacher guide, Russian + Kazakh parallel editions)**
+- Title as printed: История Казахстана. Руководство для учителя / Қазақстан тарихы. Мұғалімге арналған нұсқаулық (History of Kazakhstan: Teacher's Guide)
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-12-1 (Russian ed.)
+- PDF pages: 176 + 176 (title pages verified; full text read — the guides carry complete lesson plans, learning objectives and assessment tasks for every section of the Book 3 student book)
+- Verdict: COMPLETE
+- Tally: 33 placements — 4 to existing lessons, 29 NEW LESSON NEEDED
+- Kazakhstan's own way: the NIS teacher guides script the inquiry method itself — each topic is split into 2–3 staged lessons with research tasks, source cards and reflection, the pedagogy that the student book only implies.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — 1.1 Life of the earliest people (lesson plans) — story beats: pupils demonstrate the first people's life and anthropological features in class tasks (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *История Казахстана. Руководство для учителя / Қазақстан тарихы. Мұғалімге арналған нұсқаулық (History of Kazakhstan: Teacher's Guide)*, printed p. 10 |
+| Kazakhstan part — 1.2 Stone Age sites in Kazakhstan (lesson plans) — story beats: map and artefact cards turn named sites into evidence pupils handle (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *История Казахстана. Руководство для учителя / Қазақстан тарихы. Мұғалімге арналған нұсқаулық (History of Kazakhstan: Teacher's Guide)*, printed p. 16 |
+| Kazakhstan part — 1.3 Changes in economy and improving tools (lesson plans) — story beats: lessons trace how better tools changed ancient work step by step (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *История Казахстана. Руководство для учителя / Қазақстан тарихы. Мұғалімге арналған нұсқаулық (History of Kazakhstan: Teacher's Guide)*, printed p. 20 |
+
+Kazakhstan's own way (Book 10 — 1037/1038 Akhmetova History of Kazakhstan G5 teacher guides RU+KZ (teacher guide, Russian + Kazakh parallel editions)): the NIS teacher guides script the inquiry method itself — each topic is split into 2–3 staged lessons with research tasks, source cards and reflection, the pedagogy that the student book only implies. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — 725 Bukaeva World History G5 teacher guide RU (teacher guide, Russian)**
+- Title as printed: Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Nazarbayev Intellectual Schools, Astana; year 2017; ISBN 978-601-7916-18-3
+- PDF pages: 112 (title page + contents verified; guide carries a staged lesson for each of Book 1's 33 sections plus chapter didactic materials)
+- Verdict: COMPLETE
+- Tally: 33 placements — 25 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the guide names the NIS method outright — historical concepts (change, cause, evidence, significance, interpretation) drive every lesson, and all topics are posed as problem questions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §2 Why Lascaux's walls were painted (lesson plan) — story beats: pupils read cave paintings as the first historical sources (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide*, printed p. 12 |
+| Kazakhstan part — §3 Why people began farming and herding (lesson plan) — story beats: the Neolithic turn is built as a problem lesson on hunger and settlement (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Kazakhstan, *Всемирная история. Руководство для учителя (World History: Teacher's Guide) — the record lists it as a student book; the file is the teacher guide*, printed p. 14 |
+
+Kazakhstan's own way (Book 11 — 725 Bukaeva World History G5 teacher guide RU (teacher guide, Russian)): the guide names the NIS method outright — historical concepts (change, cause, evidence, significance, interpretation) drive every lesson, and all topics are posed as problem questions. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 44 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam, Greece, Kazakhstan).**

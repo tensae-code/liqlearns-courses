@@ -1,6 +1,6 @@
 # Sources — Christianity — from persecuted sect to state religion
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China, Venezuela, Moldova, Armenia, Vietnam, Greece
+countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China, Venezuela, Moldova, Armenia, Vietnam, Greece, Kazakhstan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -454,3 +454,23 @@ Greece's own way (Book 4 — G10 Ancient World (student book, Greek)): each Near
 | Greece part — Persecutions, recognition and acceptance of Christianity — story beats: emperors persecute the Church in waves; Constantine legalises it, and within a century it is the empire's own religion (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Greece, *Θέματα Εκκλησιαστικής Ιστορίας — Εκκλησιαστική Ιστορία και Πατέρες και Θεολόγοι της Εκκλησίας, Τεύχος Α' (Topics of Ecclesiastical History, G' Ecclesiastical Gymnasium), by Dimitrios N. Moschos & Evangelia Voulgaraki*, printed p. 18 |
 
 Greece's own way (Book 2 — G9 Ecclesiastical History Topics (student book, Greek)): church history is taught as the story of a travelling community — the preface pictures the Church as a ship the learners themselves crew — and every chapter is framed as a question the community had to answer, not a list of dates. That way is stocked here as the way Greece teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+## History expansion (2026-11-15) — Kazakhstan stocked
+
+**Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)**
+- Title as printed: Всемирная история / Дүниежүзі тарихы (World History)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Atamura, Almaty; year 2017; ISBN 978-601-306-727-8 (Russian ed.)
+- PDF pages: 176 + 176 (covers verified; contents of both editions read and matched — one placement set, Russian-edition pages cited)
+- Verdict: COMPLETE
+- Tally: 34 placements — 26 to existing lessons, 8 NEW LESSON NEEDED
+- Kazakhstan's own way: the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — §31 The rise of Christianity — story beats: a preacher in Judea and his followers begin a faith that will remake the empire (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 156 |
+| Kazakhstan part — §32 The first Christians and the Roman Empire — story beats: persecuted communities survive the arena and win the empire from below (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Kazakhstan, *Всемирная история / Дүниежүзі тарихы (World History)*, printed p. 159 |
+
+Kazakhstan's own way (Book 6 — 158/134 Tulebaev World History G5 RU+KZ (student book, Russian + Kazakh parallel editions)): the traditional-textbook counterpart to the NIS inquiry book (Book 1) — same ancient-world arc told as continuous narrative with long source extracts (Morgan, Dubois) and a dated chronology table at the back. That way is stocked here as the way Kazakhstan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China, Venezuela, Moldova, Armenia, Vietnam, Greece, Kazakhstan).**
