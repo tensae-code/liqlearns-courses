@@ -1,6 +1,6 @@
 # Sources — Games for Communication and Cooperation
 
-countries: Ethiopia, Samoa, Timor-Leste
+countries: Ethiopia, Samoa, Timor-Leste, Nicaragua
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -40,7 +40,7 @@ countries: Ethiopia, Samoa, Timor-Leste
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Samoa — Socialisation through physical activities, Years 1–4 — life skills in movement lessons: cooperation and sharing, following instructions and rules, trusting others (curriculum statement — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 26 |
 | Timor-Leste — Period 1: Getting to know each other and creating essential agreements — the class agrees how it will work, play and treat each other (original target `games-to-play/games-for-communication-and-cooperation`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 4 |
-**Acceptance count: taught in 2 countries (Ethiopia, Timor-Leste).** Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Timor-Leste).** Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -55,5 +55,25 @@ The Grade 6 student textbook is complete (see the book line above); nothing in t
 The Grade 7 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
 The Grade 7 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–45 — Chapters 1–3 complete — and ends at the end of Chapter 3. Chapters beyond Chapter 3 (by the series pattern: athletics, gymnastics, ball games and traditional games) are missing from the file. Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
+
+## Nicaragua — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe-placements.md. The Nicaragua books stocked in this lesson are Book 3. Every Nicaragua book stocked in this lesson is a teacher guide, so Nicaragua is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count.
+
+**Book — Nicaragua Grade 4 (teacher guide):**
+## Book 3 — Manual para Docentes de Educación Física, Cuarto Grado (teacher guide, Spanish)
+- Title as printed: Manual para Docentes — Educación Física 4
+- Grade: Grade 4 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year not stated on cover pages read; ISBN no ISBN printed
+- PDF pages: 154 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 10 to existing lessons, 1 NEW LESSON NEEDED
+- Nicaragua's own way: Athletics is taught through start-coordination drills (sprint, heel-to-glute, skipping, short fast scissors, running backwards, breathing exercises); chess is a full unit ending in a class tournament; the games unit mixes named chase/tag games with pre-sport games including Cachiball.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad 5, Dibujemos una estrella de cinco puntas — cooperative drawing game in the pre-sport set (original target `games-to-play/games-for-communication-and-cooperation`) | Nicaragua Grade 4 Manual para Docentes, printed p. 116 |
+
+Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: games for communication and cooperation, Fishing game አሳ ማጥመድ, signals ማስጠን, Gebeta ገበጣ, four-beat clapping, Ethiopia HPE, jumping relay, hand tug በእጅ መጓተት, baton relay የዘንግ ቅብብል, overhead relay የኳስ መቀባበል, bottle target game, fair play five principles, compassion, Turn Back, Ethiopia HPE Grades 5–7

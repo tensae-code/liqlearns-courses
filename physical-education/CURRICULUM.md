@@ -316,6 +316,39 @@ Kunday-Kunday and Tumbang Preso; and Grade 2 PE in the mother
 tongue inside the single MAPEH book, returning to tikas
 (posture) every quarter.
 
+**PE expansion — Nicaragua — BUILT 2026-11-16:** 74 placements
+from Nicaragua's MINED manuals and books stocked — 66 into
+existing lessons and 8 as 2 new lessons (Chess; Traditional
+Games of Nicaragua) — bringing this course to **131 lessons**.
+Books 1, 2, 3 and 5 are teacher guides (Grades 2, 3, 4 and 6
+Manuals Metodológicos / Manuales para Docentes, all COMPLETE),
+filed as teacher-guide evidence only, outside the acceptance
+counts; Book 5's record lists it as a student book but its
+cover says Manual para Docentes — filed as TEACHER on the
+cover's evidence, as filed. Book 4 (Grade 5, *Educación Física
+y Práctica Deportiva*, COMPLETE) is filed as STUDENT per its
+cover/record — its text is a methodological manual in content,
+as filed — so Nicaragua is student-book stock, inside the
+acceptance count, in every lesson Book 4 touches, and both new
+lessons stand at acceptance count 1. Book 1 was read in full
+from a local browser-download copy identical in name/title to
+the secured record (GitHub grab route failed), cover verified,
+as filed. The chess placements were filed under the original
+string `games-to-play/learning-chess`, resolved through the
+registry to the canonical `games-to-play/chess`. No Nicaragua
+placement resolves to a Health-course lesson, so none was
+excluded as Health-bound; the personal-hygiene check named in
+Book 1 (printed p. 10) is a Health-side practice in a PE-only
+record, noted in the placements file and not placed in PE, and
+the books' evaluation sections, annexes and glossaries are
+named and not placed, as filed. Nicaragua's own way is
+content: PE in 45-minute periods twice weekly, every exercise
+and game introduced by its practical use in daily life, the
+one-minute "fisminuto" movement break, chess as a taught PE
+unit with a cut-out board and pieces the class makes itself,
+and traditional and pre-sport games with improvised local
+materials (rag-ball baseball, street football).
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -406,6 +439,7 @@ tongue inside the single MAPEH book, returning to tikas
 7. **Games for Self-Leadership and Positive Thinking** (`games-to-play/games-for-self-leadership-and-positive-thinking`) — Grade 4's renamed first games family — leading yourself, thinking positively, keeping your word, working patiently, resting, and respecting every p…
 8. **Games for Thinking Carefully** (`games-to-play/games-for-thinking-carefully`) — games that make you think carefully before you move — listen for the true command, aim through a narrow goal, group by the number called, and chang…
 9. **Fair Play and Playing by the Rules** (`games-to-play/fair-play-and-playing-by-the-rules`) — fair play and playing by the rules: making, accepting and practising a game's rules, and behaving well in play — taught in El Salvador's Grades 1–3 guide as ¡A jugar legal! (Grade 1: creating, accepting and practising the rules), Juguemos limpio (Grade 2: the rules' regulating role, playing clean) and Practiquemos las reglas del juego (Grade 3: practising rules, norms and instructions) (El Salvador's teacher guide, evidence only).
+10. **Chess** (`games-to-play/chess`) — Chess: the board and pieces, how each piece moves, check and checkmate, and playing a game — taught in Nicaragua's manuals as a PE unit from Grade 3: a cut-out board and pieces the class makes itself, piece values, check and checkmate, mate-in-one exercises, living chess and a class tournament (Nicaragua's Grade 5 student book; its Grades 3, 4 and 6 teacher guides, evidence only).
 
 ## Unit 7 — Traditional Games and Dances
 
@@ -445,6 +479,7 @@ tongue inside the single MAPEH book, returning to tikas
 34. **Traditional Dances of the Philippines** (`traditional-games-and-dances/traditional-dances-of-the-philippines`) — Philippine folk dances — Kunday-Kunday, Alitaptap and the folk dance steps — taught in the Philippines' Grade 3 book as Kunday-Kunday, from its kumintang-like hand movement to the full partner dance, and in its Grade 2 book as the folk dance steps and the Alitaptap dance (Philippines' student books).
 35. **Traditional Games of the Philippines** (`traditional-games-and-dances/traditional-games-of-the-philippines`) — Filipino games such as Tumbang Preso and the Kadang-kadang stilt race — taught in the Philippines' Grade 3 book as Tumbang Preso, knocking down the can and racing for your slipper, and in its Grade 2 Waray book as the Kadang-kadang coconut-shell stilt relay (Philippines' student books).
 
+36. **Traditional Games of Nicaragua** (`traditional-games-and-dances/traditional-games-of-nicaragua`) — Nicaragua's traditional games and rounds (rondas), with their rules: El Pañuelo/la pañoleta, Macho parado, Bola peleada, Salto la cuerda, Encostalados (sack race) and Quita y ponga (Grade 2), the rondas (Grade 3), classified strength and throwing games with stilt races and the ribbon race (Grade 5), and El Bolero, the wooden cup-and-ball toy (Grade 6) (Nicaragua's Grade 5 student book; its Grades 2, 3 and 6 teacher guides, evidence only).
 ## Unit 8 — Sport and Its Story
 
 1. **Athletes Beyond Sport — What Champions Give Back** (`sport-and-its-story/athletes-beyond-sport`) — what famous athletes do beyond racing: the jobs, businesses, hospitals, training centres and public work the books record for Abebe Bikila, Tirunes…

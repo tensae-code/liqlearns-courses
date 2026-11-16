@@ -1,6 +1,6 @@
 # Sources — Agility — Rising, Running and Quick Changes
 
-countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Afghanistan, China, El Salvador, Philippines
+countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Afghanistan, China, El Salvador, Philippines, Nicaragua
 
 **Book — Grade 1 teacher (teacher guide — evidence):** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
@@ -48,7 +48,7 @@ countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Afghanistan, China, El S
 | Namibia — Chapter 6, Sample Session 6 — practical session: skill-related fitness and well-being (agility, balance, coordination) (teacher guide — evidence) (original target `fitness-and-stretching/agility`) | Namibia, *Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (PE4Life Guide)*, Chapter 6, Sample Session 6, printed p. 88 |
 | Turkmenistan — Part III §3.4, Methods for Developing Speed/Agility (Çalasynlygy ösdürmegiň usullary) — how quickness and agility are trained (original target `fitness-and-stretching/agility`) | Turkmenistan, *Bedenterbiýe (Physical Education)*, Part III §3.4, printed pp. 66–69 |
 | Tajikistan — Part 2, Strong, Brave and Agile — games and exercises that build strength, courage and agility, including tug-of-war and one-leg games (original target `fitness-and-stretching/agility`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~113–125 |
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Tajikistan, China, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Tajikistan, China, Philippines, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -148,5 +148,39 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 | Philippines — Module 1, Session 7: Agility Test — the four-direction (north-east-south-west) run-and-touch agility test, timed (original target `fitness-and-stretching/agility`) | Philippines Grade 7 PE LM Units 1–2, flipbook Module 1 Session 7 |
 
 Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
+
+## Nicaragua — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe-placements.md. The Nicaragua books stocked in this lesson are Book 1, Book 4. Book 1 was read in full from a local browser-download copy identical in name/title to the secured record (GitHub grab route failed — see the placements file's reading log note), cover verified, as filed. Book 4, *Educación Física y Práctica Deportiva, Quinto Grado*, is filed as STUDENT per its cover/record — its presentation addresses teachers and calls the document the Manual Metodológico de Educación Física de Quinto Grado, and its text is a methodological manual in content, as filed — so Nicaragua is student-book stock, inside the acceptance count, in this lesson; the teacher guides stocked here are filed as teacher-guide evidence only, named in the countries line and provenance rows but outside the acceptance count.
+
+**Book — Nicaragua Grade 2 (teacher guide):**
+## Book 1 — Manual Metodológico de Educación Física, 2° Grado (teacher guide, Spanish)
+- Title as printed: Manual Metodológico de Educación Física 2° Grado — Para Docentes de Educación Primaria
+- Grade: Grade 2 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Primera Edición 2016; ISBN no ISBN printed
+- PDF pages: 150 (cover/title page verified against the record title — cover reads "MANUAL METODOLÓGICO DE EDUCACIÓN FÍSICA 2° Grado", MINED)
+- Verdict: COMPLETE
+- Tally: 18 placements — 16 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: PE is taught in 45-minute periods, never in blocks, twice weekly; every exercise/game is introduced by its practical use in daily life, which the children themselves are led to infer; values, hygiene checks and a one-minute "fisminuto" movement break between other lessons are built into the method; local traditional and sensory games are a named unit, and pre-sport games use improvised local materials (rag ball baseball, street football).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad II, Contenido 8 Agilidad — agility through sudden changes of activity and direction and the game "Quite y ponga" (original target `fitness-and-stretching/agility`) | Nicaragua Grade 2 Manual Metodológico, printed p. 57 |
+
+**Book — Nicaragua Grade 5 (student book):**
+## Book 4 — Educación Física y Práctica Deportiva, Quinto Grado (student book, Spanish)
+- Title as printed: Educación Física y Práctica Deportiva — 5to, Primaria Regular (cover: "Este Libro de Texto es propiedad del Ministerio de Educación (MINED)"; the presentation addresses teachers and calls the document the Manual Metodológico de Educación Física de Quinto Grado)
+- Grade: Grade 5 primary (student/teacher: STUDENT per cover/record; text is a methodological manual in content)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Primera Edición 2018; ISBN no ISBN printed
+- PDF pages: 244 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 14 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: The fullest statement of the MINED method: an introductory unit teaches the history and concept of PE, warm-up and recovery/relaxation as named knowledge, then fitness tests, then one technique chapter per physical capacity (order, balance, flexibility, agility, strength, speed, resistance, jumps, throws), then chess, then traditional games — including stilt races and ribbon races the children build themselves.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Segunda Unidad, Ejercicios para el desarrollo de la Agilidad y su técnica (original target `fitness-and-stretching/agility`) | Nicaragua Grade 5, printed p. 123 |
+
+Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: agility — rising, running and quick changes, what physical fitness is (teacher guide — evidence), rising and running, line drills, physical education, Ethiopia

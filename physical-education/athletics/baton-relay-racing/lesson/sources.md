@@ -1,6 +1,6 @@
 # Sources — Baton Relay Racing
 
-countries: Ethiopia, Pakistan, Afghanistan, Philippines
+countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua
 
 **Book — Grade 7 student:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md. COMPLETE.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Pakistan, Afghanistan, Philippines
 | Relay exchanges in motion — Grade 9 | Ethiopia, Grade 9 student §3.2.2 Relay technique, printed pp. 51–55 |
 | Relay exchanges in motion — Grade 9 | Ethiopia, Grade 9 teacher Unit 3 sprint relay (teacher guide — evidence), printed pp. 37–38 |
 | The first relay — out, back, hand over; copy the broom game — Grade 3 (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.3 Tasks 1–2 (teacher guide — evidence), printed pp. 12–14 |
-**Acceptance count: taught in 3 countries (Ethiopia, Pakistan, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Pakistan, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -87,5 +87,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 | Philippines — Aralin 2.4.2: Makisali sa mga Larong Relay at Races — joining relays and races well: the slide-and-gallop relay, and the values of relay play (cooperation, following the rules, care for yourself and other players, fair play self-check) (original target `athletics/baton-relay-racing`) | Philippines Grade 2 PE LM (Tagalog), printed p. 342 |
 
 Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
+
+## Nicaragua — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe-placements.md. The Nicaragua books stocked in this lesson are Book 3. Every Nicaragua book stocked in this lesson is a teacher guide, so Nicaragua is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count.
+
+**Book — Nicaragua Grade 4 (teacher guide):**
+## Book 3 — Manual para Docentes de Educación Física, Cuarto Grado (teacher guide, Spanish)
+- Title as printed: Manual para Docentes — Educación Física 4
+- Grade: Grade 4 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year not stated on cover pages read; ISBN no ISBN printed
+- PDF pages: 154 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 10 to existing lessons, 1 NEW LESSON NEEDED
+- Nicaragua's own way: Athletics is taught through start-coordination drills (sprint, heel-to-glute, skipping, short fast scissors, running backwards, breathing exercises); chess is a full unit ending in a class tournament; the games unit mixes named chase/tag games with pre-sport games including Cachiball.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad 5, Carrera de relevos — relay race as a pre-sport game (original target `athletics/baton-relay-racing`) | Nicaragua Grade 4 Manual para Docentes, printed p. 116 |
+
+Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: baton relay racing, the baton relay, the upsweep changeover, the downsweep changeover, first relay የደርስ መልስ ሩጫ, broom game መሣረቢን ያየችሁ ጨዋታ, object skills, physical education, Ethiopia

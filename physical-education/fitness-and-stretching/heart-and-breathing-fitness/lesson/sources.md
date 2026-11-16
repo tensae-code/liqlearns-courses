@@ -1,6 +1,6 @@
 # Sources — Heart and Breathing Fitness
 
-countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Samoa, Timor-Leste, United Kingdom, Thailand, Afghanistan, China, El Salvador, Philippines
+countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Samoa, Timor-Leste, United Kingdom, Thailand, Afghanistan, China, El Salvador, Philippines, Nicaragua
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -74,7 +74,7 @@ countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Samoa, Timor-Leste, Unit
 | United Kingdom — Component 1 Topic 1.3: Anaerobic and aerobic exercise — how the body makes energy with and without oxygen, and recovery (original target `fitness-and-stretching/heart-and-breathing-fitness`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 1.3, printed p. 35 |
 | Thailand — Unit 3, Ch. 4 Exercise to build fitness — choosing exercise, folk play and games that suit your own strengths and limits, and building physical fitness as advised (student book — SSR flipbook sample, PARTIAL) (original target `fitness-and-stretching/heart-and-breathing-fitness`) | Thailand, *Health & PE, Grade 3* (Thailand Grade 3 SSR Health & PE), Unit 3, Ch. 4, printed pp. 72–86 |
 | Thailand — Unit 3, Ch. 1 Exercise — combined movement patterns and controlling yourself while using movement skills (student book — SSR flipbook sample, PARTIAL) (original target `fitness-and-stretching/heart-and-breathing-fitness`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 3, Ch. 1, printed pp. 53–66 |
-**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, China, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as curriculum-statement and teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, China, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as curriculum-statement and teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -186,5 +186,39 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 | Philippines — Module 1, Session 2: Exercise Intensity — computing your own moderate (40–55%) and vigorous (50–85%) target heart-rate zones from the 208 − 0.7 × age formula and classifying tasks by the heart rate they produce (original target `fitness-and-stretching/heart-and-breathing-fitness`) | Philippines Grade 7 PE LM Units 1–2, flipbook Module 1 Session 2 |
 
 Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
+
+## Nicaragua — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe-placements.md. The Nicaragua books stocked in this lesson are Book 2, Book 3. Every Nicaragua book stocked in this lesson is a teacher guide, so Nicaragua is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count.
+
+**Book — Nicaragua Grade 3 (teacher guide):**
+## Book 2 — Manual Metodológico de Educación Física, 3er Grado (teacher guide, Spanish)
+- Title as printed: Manual Metodológico de Educación Física 3 — Para Docentes de Educación Primaria
+- Grade: Grade 3 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year not stated on cover pages read (Continuidad Educativa edition); ISBN no ISBN printed
+- PDF pages: 150 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 12 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: Same manual family as Grade 2, stepped up: biological foundations and basic motor skills are taught explicitly, warm-up and relaxation close every class, and chess enters PE as a taught unit with a cut-out board and pieces the class makes itself.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Fundamentos biológicos de la Educación Física + Capacidades o Cualidades Físicas fundamentales — biological bases and the basic physical capacities (heart, lungs, muscles) developed in PE (original target `fitness-and-stretching/heart-and-breathing-fitness`) | Nicaragua Grade 3 Manual Metodológico, printed p. 10 |
+
+**Book — Nicaragua Grade 4 (teacher guide):**
+## Book 3 — Manual para Docentes de Educación Física, Cuarto Grado (teacher guide, Spanish)
+- Title as printed: Manual para Docentes — Educación Física 4
+- Grade: Grade 4 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year not stated on cover pages read; ISBN no ISBN printed
+- PDF pages: 154 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 10 to existing lessons, 1 NEW LESSON NEEDED
+- Nicaragua's own way: Athletics is taught through start-coordination drills (sprint, heel-to-glute, skipping, short fast scissors, running backwards, breathing exercises); chess is a full unit ending in a class tournament; the games unit mixes named chase/tag games with pre-sport games including Cachiball.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad 3, Ejercicios y actividades de respiración — breathing exercises and activities within athletics training (original target `fitness-and-stretching/heart-and-breathing-fitness`) | Nicaragua Grade 4 Manual para Docentes, printed p. 84 |
+
+Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: heart and breathing fitness, what heart and breathing fitness is, heart and breathing fitness grows, fitness that protects the heart and breathing, the six-minute run and steady stepping, physical education, Ethiopia, Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence)

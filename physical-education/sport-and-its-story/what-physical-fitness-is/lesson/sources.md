@@ -1,6 +1,6 @@
 # Sources — What Physical Fitness Is
 
-countries: Ethiopia, Cyprus, Zambia, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, Pakistan, Afghanistan, China, Philippines
+countries: Ethiopia, Cyprus, Zambia, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, Pakistan, Afghanistan, China, Philippines, Nicaragua
 
 **Book 1:** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (51 PDF pages). Printed page = PDF page − 8. TRUNCATED — the file holds printed pp. 1–43 of 85+. Read in full, page by page, from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md.
 
@@ -42,7 +42,7 @@ countries: Ethiopia, Cyprus, Zambia, Turkmenistan, Tajikistan, Timor-Leste, Unit
 | United Kingdom — Component 1 Topic 3.1: The relationship between health and fitness — how health and fitness relate and the role of fitness in physical activity (original target `sport-and-its-story/what-physical-fitness-is`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 3.1, printed p. 62 |
 | United Kingdom — Component 1 Topic 3.2: The components of fitness — the components of fitness and why each matters for sport (original target `sport-and-its-story/what-physical-fitness-is`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 3.2, printed p. 65 |
 | Thailand — Unit 5 Exercise — why exercise matters, the benefits of exercise, and how to exercise safely (the rules to follow when exercising) (student book — MAC sample, PARTIAL) (original target `sport-and-its-story/what-physical-fitness-is`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 5, printed pp. 96–102 |
-**Acceptance count: taught in 10 countries (Ethiopia, Cyprus, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, Pakistan, China, Philippines).** Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Sub lessons 1–2 rest on teacher-guide evidence only, as their rows say; Sub lessons 3–4 are pupil-taught from the Grade 5 and Grade 6 student textbooks (Wave 2 Band B extension, 2026-11-12), so the lesson as a whole counts as pupil-taught. Cyprus is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, Cyprus, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, Pakistan, China, Philippines, Nicaragua).** Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Sub lessons 1–2 rest on teacher-guide evidence only, as their rows say; Sub lessons 3–4 are pupil-taught from the Grade 5 and Grade 6 student textbooks (Wave 2 Band B extension, 2026-11-12), so the lesson as a whole counts as pupil-taught. Cyprus is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 1 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–43 of 85+. Missing from the file: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 Addis Ababa traditional games (pp. 79–85+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
@@ -173,5 +173,81 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 | Philippines — Module 1, Session 1: Defining Physical Fitness — fitness as a set of abilities; the three components (health-related, skill-related, physiological) and their parameters (cardiorespiratory endurance, muscle strength/endurance, flexibility, body composition; agility, balance, coordination, power, reaction time, speed; metabolic/morphological fitness, bone integrity) (original target `sport-and-its-story/what-physical-fitness-is`) | Philippines Grade 7 PE LM Units 1–2, flipbook Module 1 Session 1 |
 
 Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
+
+## Nicaragua — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe-placements.md. The Nicaragua books stocked in this lesson are Book 1, Book 2, Book 3, Book 4, Book 5. Book 1 was read in full from a local browser-download copy identical in name/title to the secured record (GitHub grab route failed — see the placements file's reading log note), cover verified, as filed. Book 5's record lists it as a student book, but its cover itself says Manual para Docentes — filed as TEACHER on the cover's evidence, as filed. Book 4, *Educación Física y Práctica Deportiva, Quinto Grado*, is filed as STUDENT per its cover/record — its presentation addresses teachers and calls the document the Manual Metodológico de Educación Física de Quinto Grado, and its text is a methodological manual in content, as filed — so Nicaragua is student-book stock, inside the acceptance count, in this lesson; the teacher guides stocked here are filed as teacher-guide evidence only, named in the countries line and provenance rows but outside the acceptance count.
+
+**Book — Nicaragua Grade 2 (teacher guide):**
+## Book 1 — Manual Metodológico de Educación Física, 2° Grado (teacher guide, Spanish)
+- Title as printed: Manual Metodológico de Educación Física 2° Grado — Para Docentes de Educación Primaria
+- Grade: Grade 2 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Primera Edición 2016; ISBN no ISBN printed
+- PDF pages: 150 (cover/title page verified against the record title — cover reads "MANUAL METODOLÓGICO DE EDUCACIÓN FÍSICA 2° Grado", MINED)
+- Verdict: COMPLETE
+- Tally: 18 placements — 16 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: PE is taught in 45-minute periods, never in blocks, twice weekly; every exercise/game is introduced by its practical use in daily life, which the children themselves are led to infer; values, hygiene checks and a one-minute "fisminuto" movement break between other lessons are built into the method; local traditional and sensory games are a named unit, and pre-sport games use improvised local materials (rag ball baseball, street football).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Sección VII, Pruebas de Eficiencia Física (PEF) — fitness tests at start and end of year (standing long jump, speed run and others) with national tables by age/sex (original target `sport-and-its-story/what-physical-fitness-is`) | Nicaragua Grade 2 Manual Metodológico, printed p. 35 |
+
+**Book — Nicaragua Grade 3 (teacher guide):**
+## Book 2 — Manual Metodológico de Educación Física, 3er Grado (teacher guide, Spanish)
+- Title as printed: Manual Metodológico de Educación Física 3 — Para Docentes de Educación Primaria
+- Grade: Grade 3 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year not stated on cover pages read (Continuidad Educativa edition); ISBN no ISBN printed
+- PDF pages: 150 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 12 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: Same manual family as Grade 2, stepped up: biological foundations and basic motor skills are taught explicitly, warm-up and relaxation close every class, and chess enters PE as a taught unit with a cut-out board and pieces the class makes itself.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad 1, Pruebas de eficiencia física — fitness tests and the national application table (original target `sport-and-its-story/what-physical-fitness-is`) | Nicaragua Grade 3 Manual Metodológico, printed p. 53 |
+
+**Book — Nicaragua Grade 4 (teacher guide):**
+## Book 3 — Manual para Docentes de Educación Física, Cuarto Grado (teacher guide, Spanish)
+- Title as printed: Manual para Docentes — Educación Física 4
+- Grade: Grade 4 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year not stated on cover pages read; ISBN no ISBN printed
+- PDF pages: 154 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 10 to existing lessons, 1 NEW LESSON NEEDED
+- Nicaragua's own way: Athletics is taught through start-coordination drills (sprint, heel-to-glute, skipping, short fast scissors, running backwards, breathing exercises); chess is a full unit ending in a class tournament; the games unit mixes named chase/tag games with pre-sport games including Cachiball.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad 1, Pruebas de eficiencia física — fitness tests and application table (original target `sport-and-its-story/what-physical-fitness-is`) | Nicaragua Grade 4 Manual para Docentes, printed p. 42 |
+
+**Book — Nicaragua Grade 5 (student book):**
+## Book 4 — Educación Física y Práctica Deportiva, Quinto Grado (student book, Spanish)
+- Title as printed: Educación Física y Práctica Deportiva — 5to, Primaria Regular (cover: "Este Libro de Texto es propiedad del Ministerio de Educación (MINED)"; the presentation addresses teachers and calls the document the Manual Metodológico de Educación Física de Quinto Grado)
+- Grade: Grade 5 primary (student/teacher: STUDENT per cover/record; text is a methodological manual in content)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Primera Edición 2018; ISBN no ISBN printed
+- PDF pages: 244 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 14 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: The fullest statement of the MINED method: an introductory unit teaches the history and concept of PE, warm-up and recovery/relaxation as named knowledge, then fitness tests, then one technique chapter per physical capacity (order, balance, flexibility, agility, strength, speed, resistance, jumps, throws), then chess, then traditional games — including stilt races and ribbon races the children build themselves.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Primera Unidad, Pruebas de eficiencia física — fitness tests, their methodology and the application table (original target `sport-and-its-story/what-physical-fitness-is`) | Nicaragua Grade 5, printed p. 89 |
+
+**Book — Nicaragua Grade 6 (teacher guide):**
+## Book 5 — Educación Física y Práctica Deportiva, Sexto Grado (teacher guide, Spanish)
+- Title as printed: Manual para Docentes, Primaria Regular, 6to Grado — Educación Física y Práctica Deportiva (record lists this file as a student book; the cover itself says Manual para Docentes — filed as TEACHER on the cover's evidence)
+- Grade: Grade 6 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year not stated on cover pages read; ISBN no ISBN printed
+- PDF pages: 128 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: The Grade 6 manual opens with a full history of PE from prehistory through Greece, Rome, pre-Columbian ball games and modern gymnastics, ties daily-life utility to balanced diet and against sedentary life, bookends the year with initial and final fitness tests, and closes with recreational children's games including the wooden bolero cup-and-ball toy and handball/volleyball pre-sport games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad I/II, Utilidad en la vida diaria + Pruebas de Eficiencia Física iniciales — what physical efficiency/fitness is (heart, lungs, muscles; daily tasks with energy in reserve) and the initial test battery (weight, height, 50 m speed, push-ups, abdominals, standing long jump, resistance run) (original target `sport-and-its-story/what-physical-fitness-is`) | Nicaragua Grade 6, printed p. 18 |
+
+Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: what physical fitness is, የልብና የደም ስር አሰራር, የጡንቻ ብርታት, መዘርጋትና መተጣጠፍ, ቅልጥፍና, fitness components, health benefits, Ethiopia HPE, fitness definition, health-related fitness, skill-related fitness, Ethiopia HPE Grades 5–6

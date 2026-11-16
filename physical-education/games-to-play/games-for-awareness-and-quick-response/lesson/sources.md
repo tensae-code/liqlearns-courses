@@ -1,6 +1,6 @@
 # Sources — Games for Awareness and Quick Response
 
-countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines
+countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -44,7 +44,7 @@ countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines
 
 | Kazakhstan — Quarter 3 — games and relays that develop speed and strength qualities (игры на развитие быстроты, силы), and relay games with balls (teacher guide — evidence) (original target `games-to-play/games-for-awareness-and-quick-response`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 6 (PDF p. 6) |
 | Thailand — Unit 9 (part 3) Travelling chase games — the Witch Hunts the Children (เกมแม่มดตามหาเด็ก), the Cat Pounces on the Bird (เกมแมวตะครุบนก), Step-Close Find a Partner (เกมก้าวชิดก้าวหาคู่) and the Horse into the Stable (เกมม้าเข้าคอก) (student book — MAC sample, PARTIAL) (original target `games-to-play/games-for-awareness-and-quick-response`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 3), printed pp. 156–160 |
-**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -99,5 +99,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 | Philippines — Aralin 4.4.2: Relay at Races gamit ang Tagging at Dodging — circle relays where each group's leader is the tagger ("taya") for the next group, tagging players inside their circle until all are seated (original target `games-to-play/games-for-awareness-and-quick-response`) | Philippines Grade 2 PE LM (Tagalog), printed p. 377 |
 
 Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
+
+## Nicaragua — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe-placements.md. The Nicaragua books stocked in this lesson are Book 1. Book 1 was read in full from a local browser-download copy identical in name/title to the secured record (GitHub grab route failed — see the placements file's reading log note), cover verified, as filed. Every Nicaragua book stocked in this lesson is a teacher guide, so Nicaragua is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count.
+
+**Book — Nicaragua Grade 2 (teacher guide):**
+## Book 1 — Manual Metodológico de Educación Física, 2° Grado (teacher guide, Spanish)
+- Title as printed: Manual Metodológico de Educación Física 2° Grado — Para Docentes de Educación Primaria
+- Grade: Grade 2 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Primera Edición 2016; ISBN no ISBN printed
+- PDF pages: 150 (cover/title page verified against the record title — cover reads "MANUAL METODOLÓGICO DE EDUCACIÓN FÍSICA 2° Grado", MINED)
+- Verdict: COMPLETE
+- Tally: 18 placements — 16 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: PE is taught in 45-minute periods, never in blocks, twice weekly; every exercise/game is introduced by its practical use in daily life, which the children themselves are led to infer; values, hygiene checks and a one-minute "fisminuto" movement break between other lessons are built into the method; local traditional and sensory games are a named unit, and pre-sport games use improvised local materials (rag ball baseball, street football).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad IV, Juegos Sensoriales — sensory games played blindfolded/by sound and touch: El indio quieto, Gallinita ciega, ¿Quién soy?, El tilín, ¿Qué toco?, El zorro y la gallina (original target `games-to-play/games-for-awareness-and-quick-response`) | Nicaragua Grade 2 Manual Metodológico, printed p. 70 |
+
+Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: games for awareness, ንቃተ ህሊና, Thief and Police ሌባና ፖሊስ, blindfold ball finding, attention games ትኩረት, number game, Ethiopia HPE, Ball in the Air ኳስ በአየር, Five Rounds አምስት ዙር, number command የቁጥር ትዕዛዝ, traffic-light game, called stations, mindfulness, attention control, Ethiopia HPE Grades 5–7

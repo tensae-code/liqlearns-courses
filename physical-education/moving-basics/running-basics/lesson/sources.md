@@ -1,6 +1,6 @@
 # Sources — Running Basics
 
-countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines
+countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines
 | Speed runs and ladder feet — Grade 8 | Ethiopia, Grade 8 student §3.5 Speed, printed pp. 33–35 |
 | Samoa — Fundamental movement, Year 1 — basic locomotive skills in space, in motion and for stability, and the different body parts and how they move (curriculum statement — evidence) (original target `moving-basics/running-basics`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 26 |
 | Thailand — Unit 7 (part 1) Travelling movement — what travelling movement means, and running in a set direction with correct running posture (student book — MAC sample, PARTIAL) (original target `moving-basics/running-basics`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 7 (part 1), printed pp. 117–121 |
-**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -76,5 +76,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 | Philippines — Aralin 2.4.1: Magsanay Tayo sa Pagtakbo — correct running form: eyes toward the direction of travel, weight carried over both legs, elbows bent, arms and legs in opposition, and not landing on the heels (original target `moving-basics/running-basics`) | Philippines Grade 2 PE LM (Tagalog), printed p. 339 |
 
 Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
+
+## Nicaragua — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe-placements.md. The Nicaragua books stocked in this lesson are Book 2. Every Nicaragua book stocked in this lesson is a teacher guide, so Nicaragua is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count.
+
+**Book — Nicaragua Grade 3 (teacher guide):**
+## Book 2 — Manual Metodológico de Educación Física, 3er Grado (teacher guide, Spanish)
+- Title as printed: Manual Metodológico de Educación Física 3 — Para Docentes de Educación Primaria
+- Grade: Grade 3 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year not stated on cover pages read (Continuidad Educativa edition); ISBN no ISBN printed
+- PDF pages: 150 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 12 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: Same manual family as Grade 2, stepped up: biological foundations and basic motor skills are taught explicitly, warm-up and relaxation close every class, and chess enters PE as a taught unit with a cut-out board and pieces the class makes itself.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Habilidades Motrices Básicas — basic motor skills: walking, running, jumping, throwing as the foundation movements (original target `moving-basics/running-basics`) | Nicaragua Grade 3 Manual Metodológico, printed p. 16 |
+
+Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: running basics, running on the spot, running like an eagle, somsoma shuttle running, running in place for your heart (teacher guide — evidence), physical education, Ethiopia

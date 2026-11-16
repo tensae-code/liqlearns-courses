@@ -1,6 +1,6 @@
 # Sources — Games for Quick Decisions
 
-countries: Ethiopia, Thailand, Philippines
+countries: Ethiopia, Thailand, Philippines, Nicaragua
 
 **Book 1:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
@@ -53,7 +53,7 @@ countries: Ethiopia, Thailand, Philippines
 | Sub lesson 11 — Squat and stand; the Green-Yellow-Red game (teacher guide — evidence) | Ethiopia, *Grade 1 Teacher Guide*, squat/stand sequence and the Green-Yellow-Red game (teacher guide — evidence), printed pp. 14–15 |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 9 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Thailand — Unit 3, Ch. 2 Game activities — games that use thinking and decision skills, lead-up games towards a chosen sport, and turn-and-change movement activities (student book — SSR flipbook sample, PARTIAL) (original target `games-to-play/games-for-quick-decisions`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 3, Ch. 2, printed pp. 67–77 |
-**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -103,5 +103,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 | Philippines — Aralin 4.2.1 (game): Tamaan ng Bola — the circle target game: the outside team passes (overhand, then underhand) and throws to hit the players dodging inside the circle; hit players leave the middle, teams swap every three minutes (original target `games-to-play/games-for-quick-decisions`) | Philippines Grade 2 PE LM (Tagalog), printed p. 372 |
 
 Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
+
+## Nicaragua — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe-placements.md. The Nicaragua books stocked in this lesson are Book 3. Every Nicaragua book stocked in this lesson is a teacher guide, so Nicaragua is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count.
+
+**Book — Nicaragua Grade 4 (teacher guide):**
+## Book 3 — Manual para Docentes de Educación Física, Cuarto Grado (teacher guide, Spanish)
+- Title as printed: Manual para Docentes — Educación Física 4
+- Grade: Grade 4 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year not stated on cover pages read; ISBN no ISBN printed
+- PDF pages: 154 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 10 to existing lessons, 1 NEW LESSON NEEDED
+- Nicaragua's own way: Athletics is taught through start-coordination drills (sprint, heel-to-glute, skipping, short fast scissors, running backwards, breathing exercises); chess is a full unit ending in a class tournament; the games unit mixes named chase/tag games with pre-sport games including Cachiball.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad 5, Juegos — chase and reaction games: Salta y corre, Serpiente pollos y zorros, Moros cristianos y la palmada, Setas y duendes, Tierra y mar, De colores (original target `games-to-play/games-for-quick-decisions`) | Nicaragua Grade 4 Manual para Docentes, printed p. 116 |
+
+Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: games for quick decisions, Cat and Mouse አይጥና ድመት, Nekahuny ነካሁኝ, Homeless ቤት የለሽ, Who Do You Want ማንን ትፈልጋላችሁ, Ethiopia HPE, responsible decisions, ball-to-goal game, solving problems in competition, below-the-knee dodgeball, waist chain ከወገብ መያያዝ, Ilama ኢላማ, What a decision, Ethiopia HPE Grades 5–7, Squat and stand; the Green-Yellow-Red game (teacher guide — evidence)

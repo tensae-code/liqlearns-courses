@@ -1,6 +1,6 @@
 # Sources — Jumping and Hopping
 
-countries: Ethiopia, Thailand, Philippines
+countries: Ethiopia, Thailand, Philippines, Nicaragua
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -19,7 +19,7 @@ countries: Ethiopia, Thailand, Philippines
 
 | Jumping the long rope together (teacher guide — evidence) | Ethiopia, Grade 1 teacher, rope jumping in sequence (teacher guide — evidence), printed p. 12 |
 | Thailand — Unit 7 (part 2) Jumping and hopping — jumping (การกระโดด), hopping/skipping along (การกระโดดเขย่ง) and jumping on the spot, each with its correct posture (student book — MAC sample, PARTIAL) (original target `moving-basics/jumping-and-hopping`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 7 (part 2), printed pp. 122–127 |
-**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
 
 The Grade 2 teacher guide scan is TRUNCATED: it holds printed pp. 1–41 of 85. Missing: all of Chapter 4 (pp. 42–60), Chapter 5 Gymnastics (pp. 61–72), Chapter 6 (pp. 73–83), the glossary and the references. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -59,5 +59,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 | Philippines — Aralin 1.2.2 (second part): Pag-Hop at Pag-Jump, Pag-Skip at Pag-Slide — telling hopping from jumping and skipping from sliding/galloping, and showing the difference (original target `moving-basics/jumping-and-hopping`) | Philippines Grade 2 PE LM (Tagalog), printed pp. 306–308 |
 
 Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
+
+## Nicaragua — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe-placements.md. The Nicaragua books stocked in this lesson are Book 2. Every Nicaragua book stocked in this lesson is a teacher guide, so Nicaragua is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count.
+
+**Book — Nicaragua Grade 3 (teacher guide):**
+## Book 2 — Manual Metodológico de Educación Física, 3er Grado (teacher guide, Spanish)
+- Title as printed: Manual Metodológico de Educación Física 3 — Para Docentes de Educación Primaria
+- Grade: Grade 3 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year not stated on cover pages read (Continuidad Educativa edition); ISBN no ISBN printed
+- PDF pages: 150 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 12 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: Same manual family as Grade 2, stepped up: biological foundations and basic motor skills are taught explicitly, warm-up and relaxation close every class, and chess enters PE as a taught unit with a cut-out board and pieces the class makes itself.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad 3, Salto de rana, elevación de rodillas, golpeo de talón atrás — frog jumps, knee lifts and heel flicks for agility in running (original target `moving-basics/jumping-and-hopping`) | Nicaragua Grade 3 Manual Metodológico, printed p. 88 |
+
+Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: jumping and hopping, jumping on two feet, the one-two jump pattern and the rings, hopping on one foot, jumping jacks and line jumps (teacher guide — evidence), physical education, Ethiopia, Jumping the long rope together (teacher guide — evidence)

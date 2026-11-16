@@ -188,3 +188,9 @@ Dances of the Philippines**
 and **Traditional Games of the Philippines**
 (`traditional-games-and-dances/traditional-games-of-the-philippines`)
 — 4 new lessons, bringing this course to 129 lessons.
+
+The PE expansion then added: **Chess**
+(`games-to-play/chess`) and **Traditional Games of
+Nicaragua**
+(`traditional-games-and-dances/traditional-games-of-nicaragua`)
+— 2 new lessons, bringing this course to 131 lessons.

@@ -1,6 +1,6 @@
 # Sources — Volleyball Passing and Setting
 
-countries: Ethiopia, Afghanistan, China
+countries: Ethiopia, Afghanistan, China, Nicaragua
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -27,7 +27,7 @@ countries: Ethiopia, Afghanistan, China
 | The spike — Grade 9 | Ethiopia, Grade 9 teacher Unit 5 spike (teacher guide — evidence), printed pp. 65–72 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 student §5.2 Blocking skills + §5.1 rules, printed pp. 86–98 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 teacher Unit 5 blocking and rules (teacher guide — evidence), printed pp. 60–69 |
-**Acceptance count: taught in 2 countries (Ethiopia, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -78,5 +78,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-pla
 | China — volleyball techniques: passing and setting (original target `ball-games/volleyball-passing-and-setting`) | China, *China Senior High PEP PE & Health*, 第八章 第三节 排球, printed p. 138 |
 
 China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Nicaragua — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe-placements.md. The Nicaragua books stocked in this lesson are Book 5. Book 5's record lists it as a student book, but its cover itself says Manual para Docentes — filed as TEACHER on the cover's evidence, as filed. Every Nicaragua book stocked in this lesson is a teacher guide, so Nicaragua is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count.
+
+**Book — Nicaragua Grade 6 (teacher guide):**
+## Book 5 — Educación Física y Práctica Deportiva, Sexto Grado (teacher guide, Spanish)
+- Title as printed: Manual para Docentes, Primaria Regular, 6to Grado — Educación Física y Práctica Deportiva (record lists this file as a student book; the cover itself says Manual para Docentes — filed as TEACHER on the cover's evidence)
+- Grade: Grade 6 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year not stated on cover pages read; ISBN no ISBN printed
+- PDF pages: 128 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: The Grade 6 manual opens with a full history of PE from prehistory through Greece, Rome, pre-Columbian ball games and modern gymnastics, ties daily-life utility to balanced diet and against sedentary life, bookends the year with initial and final fitness tests, and closes with recreational children's games including the wooden bolero cup-and-ball toy and handball/volleyball pre-sport games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad V, Relevo de voleadas — volley relay as a volleyball lead-up game (original target `ball-games/volleyball-passing-and-setting`) | Nicaragua Grade 6, printed p. 94 |
+
+Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: volleyball passing and setting, the forearm pass, the finger pass, setting the ball for a team-mate, underarm serve and forearm receive, side underarm serve and receiving stance, physical education, Ethiopia

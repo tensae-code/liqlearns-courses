@@ -1,6 +1,6 @@
 # Sources — Throwing for Distance
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salvador
+countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salvador, Nicaragua
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -29,7 +29,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salva
 | Kazakhstan — Quarter 1 — the thrower's special exercises and throwing a small ball for distance and at a target (teacher guide — evidence) (original target `athletics/throwing-for-distance`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 5 |
 | Tajikistan — Part 2, Throwing the Ball (Метание мяча) — throwing the small ball at horizontal and vertical targets from 3–4 m and throwing for distance (original target `athletics/throwing-for-distance`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~106–112 |
 | Thailand — Unit 8 (part 2) Throwing — movement with equipment: throwing (การขว้าง) (student book — MAC sample, PARTIAL) (original target `athletics/throwing-for-distance`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 8 (part 2), printed pp. 141–146 |
-**Acceptance count: taught in 5 countries (Ethiopia, Tajikistan, Thailand, Pakistan, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Tajikistan, Thailand, Pakistan, China, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 Student books Grades 5–7 are complete. No page is claimed that the placements do not give.
 
@@ -93,5 +93,39 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/el-salvador-
 | El Salvador — Grade 3 Unit 2 Lesson 5 La fuerza al lanzar, empujar y golpear objetos — using force to throw, push and hit objects, and ways of catching (teacher guide — evidence) (original target `athletics/throwing-for-distance`) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide), printed p. 157 |
 
 El Salvador's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. El Salvador's own way is content, as the book lines above record it: PE is organised in the same three units for every grade of the cycle — body awareness and orientation, then physical-motor and sporting skills, then body communication and protecting the organism — taught through named play sessions, with didactic resources made from recycled materials, and a bank of Salvadoran school games (juegos lúdicos) per grade in the annexes. The guide is a teacher guide, filed as evidence only, outside the acceptance count. Game rules are taught only as the placements summarise them; no rules have been invented.
+
+## Nicaragua — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe-placements.md. The Nicaragua books stocked in this lesson are Book 4, Book 5. Book 5's record lists it as a student book, but its cover itself says Manual para Docentes — filed as TEACHER on the cover's evidence, as filed. Book 4, *Educación Física y Práctica Deportiva, Quinto Grado*, is filed as STUDENT per its cover/record — its presentation addresses teachers and calls the document the Manual Metodológico de Educación Física de Quinto Grado, and its text is a methodological manual in content, as filed — so Nicaragua is student-book stock, inside the acceptance count, in this lesson; the teacher guides stocked here are filed as teacher-guide evidence only, named in the countries line and provenance rows but outside the acceptance count.
+
+**Book — Nicaragua Grade 5 (student book):**
+## Book 4 — Educación Física y Práctica Deportiva, Quinto Grado (student book, Spanish)
+- Title as printed: Educación Física y Práctica Deportiva — 5to, Primaria Regular (cover: "Este Libro de Texto es propiedad del Ministerio de Educación (MINED)"; the presentation addresses teachers and calls the document the Manual Metodológico de Educación Física de Quinto Grado)
+- Grade: Grade 5 primary (student/teacher: STUDENT per cover/record; text is a methodological manual in content)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Primera Edición 2018; ISBN no ISBN printed
+- PDF pages: 244 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 14 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: The fullest statement of the MINED method: an introductory unit teaches the history and concept of PE, warm-up and recovery/relaxation as named knowledge, then fitness tests, then one technique chapter per physical capacity (order, balance, flexibility, agility, strength, speed, resistance, jumps, throws), then chess, then traditional games — including stilt races and ribbon races the children build themselves.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Segunda Unidad, Ejercicios para el desarrollo de los Lanzamientos y su técnica — throws development and technique (original target `athletics/throwing-for-distance`) | Nicaragua Grade 5, printed p. 163 |
+
+**Book — Nicaragua Grade 6 (teacher guide):**
+## Book 5 — Educación Física y Práctica Deportiva, Sexto Grado (teacher guide, Spanish)
+- Title as printed: Manual para Docentes, Primaria Regular, 6to Grado — Educación Física y Práctica Deportiva (record lists this file as a student book; the cover itself says Manual para Docentes — filed as TEACHER on the cover's evidence)
+- Grade: Grade 6 primary (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year not stated on cover pages read; ISBN no ISBN printed
+- PDF pages: 128 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: The Grade 6 manual opens with a full history of PE from prehistory through Greece, Rome, pre-Columbian ball games and modern gymnastics, ties daily-life utility to balanced diet and against sedentary life, bookends the year with initial and final fitness tests, and closes with recreational children's games including the wooden bolero cup-and-ball toy and handball/volleyball pre-sport games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad III, Ejercicios de lanzamientos y su técnica (original target `athletics/throwing-for-distance`) | Nicaragua Grade 6, Unidad III (unit begins printed p. 30) |
+
+Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: throwing for distance, throwing a small ball and a stick, ring and javelin-style throwing, shot put, javelin, discus, physical education, Ethiopia

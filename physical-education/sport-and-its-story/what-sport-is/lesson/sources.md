@@ -1,6 +1,6 @@
 # Sources — What Sport Is — and How It Differs from PE
 
-countries: Ethiopia, Afghanistan
+countries: Ethiopia, Afghanistan, Nicaragua
 
 **Book 1:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Afghanistan
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 2 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 3 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, §1.6 and Chapter 1 summary + review answers, printed pp. 12–13 (teacher guide — evidence) |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Nicaragua).** Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 6 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -48,5 +48,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-
 | Afghanistan — What sport is: the literal and technical definitions of sport as competitive activity bound by rules, and how it differs from PE (teacher guide — evidence) (original target `sport-and-its-story/what-sport-is`) | Afghanistan, *Afghanistan G10 PE TG Pashto*, printed p. 34 |
 
 Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Nicaragua — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe-placements.md. The Nicaragua books stocked in this lesson are Book 4. Book 4, *Educación Física y Práctica Deportiva, Quinto Grado*, is filed as STUDENT per its cover/record — its presentation addresses teachers and calls the document the Manual Metodológico de Educación Física de Quinto Grado, and its text is a methodological manual in content, as filed — so Nicaragua is student-book stock, inside the acceptance count, in this lesson; the teacher guides stocked here are filed as teacher-guide evidence only, named in the countries line and provenance rows but outside the acceptance count.
+
+**Book — Nicaragua Grade 5 (student book):**
+## Book 4 — Educación Física y Práctica Deportiva, Quinto Grado (student book, Spanish)
+- Title as printed: Educación Física y Práctica Deportiva — 5to, Primaria Regular (cover: "Este Libro de Texto es propiedad del Ministerio de Educación (MINED)"; the presentation addresses teachers and calls the document the Manual Metodológico de Educación Física de Quinto Grado)
+- Grade: Grade 5 primary (student/teacher: STUDENT per cover/record; text is a methodological manual in content)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Primera Edición 2018; ISBN no ISBN printed
+- PDF pages: 244 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 14 to existing lessons, 2 NEW LESSON NEEDED
+- Nicaragua's own way: The fullest statement of the MINED method: an introductory unit teaches the history and concept of PE, warm-up and recovery/relaxation as named knowledge, then fitness tests, then one technique chapter per physical capacity (order, balance, flexibility, agility, strength, speed, resistance, jumps, throws), then chess, then traditional games — including stilt races and ribbon races the children build themselves.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua — Unidad Introductoria, Propósitos de la Educación Física, Recreación y Deporte — purposes of PE, recreation and sport distinguished (original target `sport-and-its-story/what-sport-is`) | Nicaragua Grade 5, printed p. 18 |
+
+Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: what sport is, sport definition, PE and sport difference, Charles A. Butcher 1964, sport kinds የአገር ኳስ የመረብ ኳስ የእጅ ኳስ የቅርጫት ኳስ, Ethiopia HPE Grades 6–7
