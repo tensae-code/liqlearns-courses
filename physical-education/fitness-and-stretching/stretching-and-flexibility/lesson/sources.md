@@ -1,6 +1,6 @@
 # Sources — Stretching and Flexibility
 
-countries: Ethiopia
+countries: Ethiopia, Turkmenistan
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -25,6 +25,8 @@ countries: Ethiopia
 **Book — Grade 10 student:** *Health and Physical Education Student's Textbook Grade 10* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, 148 printed pp. No ISBN was found in the book's text layer. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g10-student-placements.md. COMPLETE.
 **Book — Grade 10 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 10* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2022, printed pp. I–IX + 1–93. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g10-teacher-placements.md. Substantively complete — see honesty paragraph.
 
+**Book — Turkmenistan Bedenterbiýe (student book):** *Bedenterbiýe (Physical Education)* (student book — study guide for higher schools, Turkmen) — Title as printed: Bedenterbiýe — Ýokary okuw mekdepleri üçin okuw gollanmasy (Physical Education — a study guide for higher schools) — Grade: Higher education (university) students and PE teachers; the abstract also names school PE teachers, coaches and athletes as users (student/teacher: STUDENT — university textbook) — Publisher: Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2020; author S. Altyýew (Sapardurdy Altyýew); recommended by the Ministry of Education of Turkmenistan; no ISBN printed (UDK 378.796) — PDF pages: 192 (cover/title page verified against the record title; downloaded 12,849,582 B). Verdict: COMPLETE — with two parts named but not placed: Part IX (the PE teacher's and coach's professional pedagogy, pp. 120–131) is written for teachers about their own profession, and Part XIV (promoting mass PE and sport through TV/radio, print and visual agitation, pp. 171–177) is organiser-facing promotion method; the closing Tests (pp. 178–184) are the book's own assessment and the glossary of main concepts (pp. 185–188) is inventory-only, both excluded per the brief. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkmenistan-pe-placements.md. Turkmenistan's own way: PE theory is taught as one systematic university course that runs from the origin of physical culture through the physical qualities, training loads and recovery to healthy lifestyle, nutrition and medical control — the same theory spine Turkmen school PE teachers are trained on.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Stretching and bending on the spot | Ethiopia, Grade 1 student §1.2.1 Stretching and bending on the spot, printed pp. 13–15 |
@@ -45,7 +47,8 @@ countries: Ethiopia
 | Flexibility — Grade 10: warm first, never force | Ethiopia, Grade 10 teacher Unit 2 flexibility (teacher guide — evidence), printed pp. 21–25 |
 | Sub lesson 11 — Flexibility — the Grade 5 guide: range of motion and the seated toe-touch (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §3.3, printed pp. 29–30 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, Grade 7 teacher Chapter 3 summary + review answers (teacher guide — evidence), printed pp. 44–45 |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
+| Turkmenistan — Part III §3.3, Flexibility (Çeýelik) — what flexibility is and how it is developed (original target `fitness-and-stretching/stretching-and-flexibility`) | Turkmenistan, *Bedenterbiýe (Physical Education)*, Part III §3.3, printed pp. 65–66 |
+**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 

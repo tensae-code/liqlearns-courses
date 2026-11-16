@@ -64,3 +64,7 @@ Lifelong Activity**
 and **Running Sports Organisations**
 (`sport-and-its-story/running-sports-organisations`)
 — 2 new lessons, bringing this course to 72 lessons.
+
+The PE expansion then added: **Swimming Basics**
+(`moving-basics/swimming-basics`)
+— 1 new lesson, bringing this course to 73 lessons.

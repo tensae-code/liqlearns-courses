@@ -90,6 +90,18 @@ catalogue records (NIED Senior Primary Textbook
 Catalogue, Grades 4–7, and NIED Textbook Catalogue,
 Grades 8–12) are record-only with 0 placements.
 
+**PE expansion — Turkmenistan — BUILT 2026-11-16:** 13 placements
+from Turkmenistan's Bedenterbiýe (Physical Education),
+a study guide for higher schools (student book) stocked —
+12 into existing lessons and 1 as a new lesson (Swimming
+Basics) — bringing this course to **73
+lessons**. The Turkmenistan book is a student book, filed
+as student-book stock, inside the acceptance counts; its
+Part IX (the PE teacher's and coach's professional
+pedagogy) and Part XIV (promoting mass PE and sport) are
+named but not placed, and its closing Tests and glossary
+are excluded as assessment and inventory matter.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -99,6 +111,7 @@ Grades 8–12) are record-only with 0 placements.
 5. **Walking in Patterns** (`moving-basics/walking-in-patterns`) — walking in patterns — in pairs and groups, and along lines and shapes on the ground — without breaking the hand-hold.
 6. **Water Safety and Rescue** (`moving-basics/water-safety-and-rescue`) — staying safe in pools, lakes and rivers, rescue steps, resuscitation and pool hygiene — preventing drowning, lifeguard rescue with a float aid without entering the water, Reach–Throw–Don't Go, CPR, rip currents, and the pool rules: shower before entering, walking not running, depth awareness, not swimming when sick (Zambia's Form 1 teacher module, evidence only).
 7. **Body and Space Awareness** (`moving-basics/body-and-space-awareness`) — where I am in space — left and right, directions, personal space and shared space — taught in Mozambique's Grade 1 manual as Orientação, spatial orientation exercises done to command voices, inside the organisation and control exercises (Mozambique's Grade 1 teacher manual, evidence only).
+8. **Swimming Basics** (`moving-basics/swimming-basics`) — swimming basics: first steps in the water — getting in, floating, moving through water and playing in it, and why everyone should learn to swim — taught in Turkmenistan's Bedenterbiýe as swimming in the water (Suwda ýüzmek) and the importance of swimming (Suwda ýüzmegiň ähmiýeti), part of all-round physical development (Turkmenistan's student book).
 
 ## Unit 2 — Fitness and Stretching
 
