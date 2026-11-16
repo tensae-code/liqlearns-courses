@@ -1,6 +1,6 @@
 # Sources — Measuring economic growth
 
-countries: Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Vietnam, Armenia, Indonesia, Nicaragua
+countries: Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Vietnam, Armenia, Indonesia, Nicaragua, Iran
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -107,7 +107,13 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nicaragua part — Proceso productivo y crecimiento económico / Relación del proceso productivo y desarrollo económico — teaches: how the productive process drives economic growth, and growth related to economic development as the book's closing frame for what a country produces | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Proceso productivo y crecimiento económico / Relación del proceso productivo y desarrollo económico — printed pp. 195–198 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Vietnam, Armenia, Indonesia, Nicaragua). Honduras's Grade 7 and Grade 8 teacher guides are cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for those guides.**
+**Book 18:** *اقتصاد (Eqtesad / Economics) — پایهٔ دهم رشتهٔ ادبیات و علوم انسانی / پایهٔ یازدهم رشتهٔ علوم و معارف اسلامی (Grade 10 Humanities branch; also Grade 11 Islamic Sciences branch)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); year 1405-1406 school edition (record); book code 110221; no ISBN printed (Iranian textbook code used instead). Title as printed: اقتصاد (Eqtesad / Economics) — پایهٔ دهم رشتهٔ ادبیات و علوم انسانی / پایهٔ یازدهم رشتهٔ علوم و معارف اسلامی (Grade 10 Humanities branch; also Grade 11 Islamic Sciences branch). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title; byte size 3,824,270 and page count match the books.json record exactly; TSV + books.json records are the same book, counted once). Verdict: COMPLETE. Contents map: Economics parts pp. 2–160 (all four chapters); glossary (واژهنامه) printed pp. 161–165 inventory-only, named not placed; references printed p. 165ff. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 11 "Economic growth and progress": growth as rising production capacity and income, measured across the country's firms | Iran, *Iran Grade 10 Economics*, Lesson 11 "Economic growth and progress" — Iran Grade 10 Economics, printed p. 116 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Vietnam, Armenia, Indonesia, Nicaragua, Iran). Honduras's Grade 7 and Grade 8 teacher guides are cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for those guides.**
 
 Nicaragua's own way (Nicaragua Grade 4 Estudios Sociales 4): a single long lesson defines economic activity and its three phases, then reads Nicaragua's own economy through Central Bank figures — growth, free-zone firms, small firms' 41.6% of value added, and a 2015 indicators table (GDP growth, per-capita GDP, inflation, remittances, external debt).
 
@@ -139,4 +145,6 @@ Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from fa
 
 Honduras's own way (Honduras Grade 8 G8 Teacher CCSS) (teacher guide — evidence): the guide mirrors the student book with answer keys; the one guide-only data exercise placed here has pupils analyse a table of Latin American economic-growth projections 2016–2019 by country (CEPAL-style data). That book is a teacher guide, cited as evidence only; Honduras is counted in this lesson for its student book(s) named here, not for this guide.
 
-Searchable tags: growth rate formula, per-capita real GDP, structural change, growth versus development, World Bank income bands 2008, least developed countries 2010, ethiopia, france, ses, trente glorieuses, malthusian trap, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, vietnam, armenia, indonesia, nicaragua
+Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
+
+Searchable tags: growth rate formula, per-capita real GDP, structural change, growth versus development, World Bank income bands 2008, least developed countries 2010, ethiopia, france, ses, trente glorieuses, malthusian trap, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, vietnam, armenia, indonesia, nicaragua, iran

@@ -1,6 +1,6 @@
 # Sources — The Human Development Index
 
-countries: Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua
+countries: Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua, Iran
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -67,7 +67,13 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nicaragua part — Desarrollo sostenible, perdurable o sustentable — teaches: sustainable development reconciling economy, society and environment, and the UNDP's human development concept — a long healthy life, knowledge and a decent standard of living — against measuring progress by GDP per capita alone | Nicaragua, *Nicaragua Grade 8 Estudios Sociales 8*, Desarrollo sostenible, perdurable o sustentable — printed pp. 104–105 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua).**
+**Book 11:** *مطالعات اجتماعی ـ پایهٔ نهم دورهٔ اول متوسطه (Social Studies, Grade 9, first secondary)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 907; no ISBN printed. Title as printed: مطالعات اجتماعی ـ پایهٔ نهم دورهٔ اول متوسطه (Social Studies, Grade 9, first secondary). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 200 (cover verified against the record title; byte size 15,729,422 and page count match the books.json record exactly; TSV release + books.json records are the same book, counted once). Verdict: PARTIAL — Chapter 12 (productivity) is the Economics core, with further Economics teaching in Lesson 8 (world inequality) and the economy sections of Lesson 10 (Safavid Iran); the rest is Geography / History / Civics content, named in the Contents map and not placed (mixed-ss contents-first rule). Contents map: Economics parts printed pp. 47–52 (Lesson 8), 60–63 (economy sections of Lesson 10), 158–176 (Chapter 12 "Productivity"); Geography pp. 1–46 (the earth, its spheres, biomes, world population); History pp. 53–116 (Safavid unity, Nader Shah to Naser al-Din Shah, Constitutional era, Pahlavi era, the Islamic Revolution); culture/family/Civics pp. 117–156 (culture and identity, the family, government and citizenship) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 8, HDI sections: the Human Development Index compared across countries (Iran and its neighbours, 2023) and Iran's own HDI rise over twenty years charted from low through medium to high human development | Iran, *Iran Grade 9 Social Studies*, Lesson 8, HDI sections — Iran Grade 9 Social Studies, printed p. 48 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua, Iran).**
 
 Nicaragua's own way (Nicaragua Grade 8 Estudios Sociales 8): the same "Space and Economy" unit as the distance-education module, but fuller — after the sectors and the continent's three regional economies, Nicaragua's own economy is toured sector by sector (agroindustry, commerce, fishing, tourism, telecoms, mining, energy, free zones, organic production, forestry, and the MIPYMEs that are over 90% of its firms), and human development is set against GDP per capita.
 
@@ -87,4 +93,6 @@ Venezuela's own way (Venezuela Grade 11 Venezuela G11 Geografía de Venezuela SB
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: the human development index, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, dominica, csec principles of business, caribbean, uzbekistan, vietnam, armenia, nepal, nicaragua
+Iran's own way (Iran Grade 9 Social Studies): productivity is framed with Qur'anic and religious warrants (no extravagance, moderation, consultation) and capped by the resistance-economy doctrine; world inequality is read off Iran's own rising Human Development Index chart.
+
+Searchable tags: the human development index, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, dominica, csec principles of business, caribbean, uzbekistan, vietnam, armenia, nepal, nicaragua, iran

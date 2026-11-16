@@ -1,6 +1,6 @@
 # Sources — Green economy and green growth
 
-countries: Ethiopia, Jamaica, Bangladesh
+countries: Ethiopia, Jamaica, Bangladesh, Iran
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -21,10 +21,18 @@ countries: Ethiopia, Jamaica, Bangladesh
 
 Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 builds a full little production economics course inside "About Wealth" (সম্পদের কথা) — starting from a torn school uniform, it follows yarn to cloth to clothes to teach final, intermediate and primary goods, the four means of production, and what each supplier is paid, ending with a sharecropper and a factory owner side by side to show why incomes differ, and a woman construction worker paid less than the prescribed wage.
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bangladesh). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Book 4:** *مطالعات اجتماعی ـ پایهٔ نهم دورهٔ اول متوسطه (Social Studies, Grade 9, first secondary)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 907; no ISBN printed. Title as printed: مطالعات اجتماعی ـ پایهٔ نهم دورهٔ اول متوسطه (Social Studies, Grade 9, first secondary). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 200 (cover verified against the record title; byte size 15,729,422 and page count match the books.json record exactly; TSV release + books.json records are the same book, counted once). Verdict: PARTIAL — Chapter 12 (productivity) is the Economics core, with further Economics teaching in Lesson 8 (world inequality) and the economy sections of Lesson 10 (Safavid Iran); the rest is Geography / History / Civics content, named in the Contents map and not placed (mixed-ss contents-first rule). Contents map: Economics parts printed pp. 47–52 (Lesson 8), 60–63 (economy sections of Lesson 10), 158–176 (Chapter 12 "Productivity"); Geography pp. 1–46 (the earth, its spheres, biomes, world population); History pp. 53–116 (Safavid unity, Nader Shah to Naser al-Din Shah, Constitutional era, Pahlavi era, the Islamic Revolution); culture/family/Civics pp. 117–156 (culture and identity, the family, government and citizenship) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 24, green-productivity sections: green productivity (بهره‌وری سبز) — using tools, methods and technologies at every stage of production, distribution and consumption so that activities' harmful effects on the environment fall to the least possible; pesticide overuse that poisons water, soil and people as the counter-case, with farmer education and supervision as the ministry's duty; standards applied to inputs, processes and outputs as a road to productivity | Iran, *Iran Grade 9 Social Studies*, Lesson 24, green-productivity sections — Iran Grade 9 Social Studies, printed p. 167 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, Iran). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: green economy and green growth, grade 12 economics, ethiopia, social studies, global issues, Jamaica, curriculum guide evidence, bangladesh
+Iran's own way (Iran Grade 9 Social Studies): productivity is framed with Qur'anic and religious warrants (no extravagance, moderation, consultation) and capped by the resistance-economy doctrine; world inequality is read off Iran's own rising Human Development Index chart.
+
+Searchable tags: green economy and green growth, grade 12 economics, ethiopia, social studies, global issues, Jamaica, curriculum guide evidence, bangladesh, iran

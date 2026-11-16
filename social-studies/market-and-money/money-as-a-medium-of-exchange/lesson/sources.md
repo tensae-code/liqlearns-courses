@@ -1,6 +1,6 @@
 # Sources — Money as a medium of exchange
 
-countries: Ethiopia, Dominica, Jordan, Yemen, Nicaragua
+countries: Ethiopia, Dominica, Jordan, Yemen, Nicaragua, Iran
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -35,7 +35,13 @@ countries: Ethiopia, Dominica, Jordan, Yemen, Nicaragua
 |---|---|
 | Nicaragua part — Funciones del dinero — teaches: money's functions worked through — measure of value and price standard, medium of circulation in the M-D-M (commodity-money-commodity) circuit, means of payment, hoarding/accumulation, and world money (the dollar and euro) in exports and imports | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Funciones del dinero — printed pp. 230–232 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Dominica, Jordan, Yemen, Nicaragua).**
+**Book 6:** *مطالعات اجتماعی ـ اول متوسطه (Social Studies, first year of secondary)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 707; no ISBN printed. Title as printed: مطالعات اجتماعی ـ اول متوسطه (Social Studies, first year of secondary). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 184 (cover verified against the record title; byte size 17,567,146 and page count match the books.json record exactly; TSV release + books.json records are the same book, counted once). Verdict: PARTIAL — Chapter 4 is the Economics core, with further Economics teaching in Lesson 6 (insurance), Lesson 15 (tourism) and Lesson 22 (ancient Iran's economy); the rest is Civics / Geography / History content, named in the Contents map and not placed (mixed-ss contents-first rule). Contents map: Economics parts printed pp. 26–30 (insurance), 31–42 (production, distribution, consumption), 90–93 (tourism's economic role), 137–142 (economic conditions in ancient Iran); Civics pp. 1–25 (our rights and responsibilities; law); Geography pp. 43–89 and 94–102 (where I live, Iran's habitats and climate, population and water/soil resources, tourist attractions); History pp. 103–136 and 143–183 (cultural heritage, oldest settlements, ancient empires and their administration, social conditions, beliefs and knowledge in ancient Iran). Lesson-end word boxes (واژه‌ها) are inventory-only, named not placed Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 8 "Consumption": a consumer (defined) buys goods and services to meet needs and wants, and pays with money; the seller takes that money and buys other goods in turn — money carries the value of what was sold | Iran, *Iran Grade 7 Social Studies*, Lesson 8 "Consumption" — Iran Grade 7 Social Studies, printed p. 37 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Dominica, Jordan, Yemen, Nicaragua, Iran).**
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
@@ -47,4 +53,6 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Jordan's own way (Jordan Grade 2 Term 2): A whole early-years Economics unit built on a family shopping trip — a real receipt in Jordanian dinars, Jordanian coins and banknotes to order by value, the wheat-to-bread chain for producer and consumer, a child's own money box for saving, and a closing lesson that tours Jordan's own industries.
 
-Searchable tags: medium of exchange, transaction cost, specialisation division of labour, lubricant, ethiopia, social studies, market and money, dominica, csec principles of business, caribbean, jordan, yemen, nicaragua
+Iran's own way (Iran Grade 7 Social Studies): production and consumption are taught with Iranian anchors throughout — the historic bazaar as market and social centre, compulsory third-party car insurance, and the Silk Road crossing Iran as a bridge between East and West.
+
+Searchable tags: medium of exchange, transaction cost, specialisation division of labour, lubricant, ethiopia, social studies, market and money, dominica, csec principles of business, caribbean, jordan, yemen, nicaragua, iran

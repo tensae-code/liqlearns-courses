@@ -1,0 +1,7 @@
+# Video script — Insurance — a contract against risk
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Iran's Grade 7 Social Studies book, in Lesson 6 "Insurance and coping with accidents", defines **insurance (بیمه)**: a **contract** in which the **insurer**, in return for a **premium (حق بیمه, defined in the book)**, **undertakes to compensate specified losses**. Three parts make the thing: the contract that binds, the premium that is paid in, and the compensation promised if the named loss happens. The book gives the reason before the machinery. **Illness, disability, unemployment, retirement, accidents and fire** can each bring a **loss too big for one person to cover**. Insurance exists because those losses fall on one household at a time, but their cost can be spread across everyone who pays the premium — the many carry what would crush the one. The book names the forms a pupil meets in Iran: **student insurance**, **workers' accident insurance**, and the **compulsory annual third-party vehicle insurance** — every vehicle must carry it, every year, so that the harm a driver does to others is covered whether or not the driver could pay. Compulsion here is part of the protection: the victim's compensation does not wait on the driver's purse.

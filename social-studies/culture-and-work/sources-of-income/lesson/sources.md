@@ -1,6 +1,6 @@
 # Sources — Sources Of Income
 
-countries: Bhutan, Laos, Rwanda, South Sudan, Zimbabwe, Venezuela, Jordan, Fiji, Nepal
+countries: Bhutan, Laos, Rwanda, South Sudan, Zimbabwe, Venezuela, Jordan, Fiji, Nepal, Iran
 
 **Book 1:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
@@ -144,7 +144,13 @@ South Sudan's own way (South Sudan Primary 2): work is introduced through the vi
 |---|---|
 | Nepal part — Unit 6 Lesson 3 "Hamra Aya Arjanka Karyaharu (Our Income-Earning Works)" — teaches: people's needs are many, work is how they are met and income is earned after work; the community's income-earning activities span farming and cash crops, livestock, beekeeping and poultry, trade and shops, mills and transport, and services, and income-earning is then defined and its importance stated (skills grow, employment is created, living standards rise), with a newspaper case of Simle village's orange income | Nepal, *Nepal Grade 4 Social Studies & Human Value Education G4 trial*, Unit 6 Lesson 3 "Hamra Aya Arjanka Karyaharu (Our Income-Earning Works)" — printed p. 104 |
 
-**Acceptance count: taught in 8 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela, Jordan, Fiji, Nepal). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 23:** *مطالعات اجتماعی ـ سوم دبستان (Social Studies, third year of primary)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 307; no ISBN printed. Title as printed: مطالعات اجتماعی ـ سوم دبستان (Social Studies, third year of primary). Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; 9,380,673 bytes; first grab attempt failed with a dropped connection, second attempt succeeded). Verdict: PARTIAL — only Chapter 4 is Economics teaching; the rest is personal/family/civics/geography content, named in the Contents map and not placed (mixed-ss contents-first rule). Contents map: Economics parts printed pp. 38–50 (Chapter 4 "The family's needs", Lessons 10–13, plus its worksheets printed pp. 51–54); personal development/family/cooperation and house rules (Civics-side) printed pp. 2–37; home printed pp. 56–71; school printed pp. 72–81; directions, post and road safety (Geography-side) printed pp. 82–103 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 10 "How are the family's needs met?": families need food, clothing and housing; most goods are bought in shops, some are made at home; everyone must work to meet needs, and the money earned from work is called income (درآمد, defined) | Iran, *Iran Grade 3 Social Studies*, Lesson 10 "How are the family's needs met?" — Iran Grade 3 Social Studies, printed p. 38 |
+
+**Acceptance count: taught in 9 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela, Jordan, Fiji, Nepal, Iran). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
 
 Nepal's own way (Nepal Grade 4 Social Studies & Creative Arts G4): the family budget is taught by contrasting two households' real monthly income-and-expenditure tables (Rs. 10,000 against Rs. 15,000), and a family's income is drawn as a pie chart of its sources — milk, chickens, vegetables.
 
@@ -181,4 +187,6 @@ Laos' own way (Laos Grade 10 Business Combined student): the Combined book is th
 
 Jordan's own way (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family story that starts at the hundred-year-old Hejaz railway, runs from barter and camel peddlers to e-commerce, and lands on the child's own choices — what a family can and cannot do without, where income comes from, and what 2, 3, 5 or 12 dinars in hand can buy.
 
-Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan, zimbabwe, teacher guide evidence, venezuela, jordan, Fiji, nepal
+Iran's own way (Iran Grade 3 Social Studies): Economics enters at Grade 3 through the family — needs, income, natural resources and careful consumption, with wastefulness (اسراف) framed as a religious as well as practical fault.
+
+Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan, zimbabwe, teacher guide evidence, venezuela, jordan, Fiji, nepal, iran

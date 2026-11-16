@@ -1,6 +1,6 @@
 # Sources — The balance of trade
 
-countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua
+countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -67,7 +67,13 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nicaragua part — Importaciones y exportaciones — teaches: Nicaragua's exports and imports with Central Bank 2012 figures — export destinations ranked (the ALBA countries, Canada at US$235.1 million and 11.3%) and import origins mostly in the Americas | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Importaciones y exportaciones — printed pp. 219–223 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua). Honduras's Grade 5 teacher guide is cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for that guide.**
+**Book 12:** *اقتصاد (Eqtesad / Economics) — پایهٔ دهم رشتهٔ ادبیات و علوم انسانی / پایهٔ یازدهم رشتهٔ علوم و معارف اسلامی (Grade 10 Humanities branch; also Grade 11 Islamic Sciences branch)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); year 1405-1406 school edition (record); book code 110221; no ISBN printed (Iranian textbook code used instead). Title as printed: اقتصاد (Eqtesad / Economics) — پایهٔ دهم رشتهٔ ادبیات و علوم انسانی / پایهٔ یازدهم رشتهٔ علوم و معارف اسلامی (Grade 10 Humanities branch; also Grade 11 Islamic Sciences branch). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title; byte size 3,824,270 and page count match the books.json record exactly; TSV + books.json records are the same book, counted once). Verdict: COMPLETE. Contents map: Economics parts pp. 2–160 (all four chapters); glossary (واژهنامه) printed pp. 161–165 inventory-only, named not placed; references printed p. 165ff. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 7, exports/imports sections: the workshop's export orders from Oman and Iraq, imported raw materials, and how banking sanctions stop export money being collected and multiply import costs | Iran, *Iran Grade 10 Economics*, Lesson 7, exports/imports sections — Iran Grade 10 Economics, printed p. 69 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran). Honduras's Grade 5 teacher guide is cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for that guide.**
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
@@ -91,4 +97,6 @@ Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from fa
 
 Honduras's own way (Honduras Grade 5 G5 Teacher CCSS) (teacher guide — evidence): the guide mirrors the student book; the one additional-theory fact placed here is Honduras's trade history — free-trade treaties and economic expansion, with a mostly trade-deficit record since 2010. That book is a teacher guide, cited as evidence only; Honduras is counted in this lesson for its student book(s) named here, not for this guide.
 
-Searchable tags: the balance of trade, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, dominican republic, jordan, uzbekistan, honduras, nepal, nicaragua
+Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
+
+Searchable tags: the balance of trade, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, dominican republic, jordan, uzbekistan, honduras, nepal, nicaragua, iran

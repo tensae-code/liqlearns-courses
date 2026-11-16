@@ -1,6 +1,6 @@
 # Sources — Resources That Develop An Economy
 
-countries: Vietnam, Bahamas, Kuwait, Rwanda, South Sudan, Nepal
+countries: Vietnam, Bahamas, Kuwait, Rwanda, South Sudan, Nepal, Iran
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -45,7 +45,13 @@ South Sudan's own way (South Sudan Primary 3): economic activity is defined by p
 |---|---|
 | Nepal part — Unit 6 Lesson 5 "Hamra Arthik Srot Sadhan: Bhumi ra Jalsrot (Our Economic Resources: Land and Water Resources)" — teaches: natural resources defined as what is found freely in nature; Nepal's main economic resources are land, water, forest and minerals; land (18% of the country cultivable, soils matched to crops by region) and water (6,000+ rivers for irrigation, hydropower and rafting tourism) as the backbone of economic development | Nepal, *Nepal Grade 6 Social Studies & Human Value Education G6*, Unit 6 Lesson 5 "Hamra Arthik Srot Sadhan: Bhumi ra Jalsrot (Our Economic Resources: Land and Water Resources)" — printed p. 124 |
 
-**Acceptance count: taught in 6 countries (Vietnam, Bahamas, Kuwait, Rwanda, South Sudan, Nepal).**
+**Book 7:** *مطالعات اجتماعی ـ سوم دبستان (Social Studies, third year of primary)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 307; no ISBN printed. Title as printed: مطالعات اجتماعی ـ سوم دبستان (Social Studies, third year of primary). Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; 9,380,673 bytes; first grab attempt failed with a dropped connection, second attempt succeeded). Verdict: PARTIAL — only Chapter 4 is Economics teaching; the rest is personal/family/civics/geography content, named in the Contents map and not placed (mixed-ss contents-first rule). Contents map: Economics parts printed pp. 38–50 (Chapter 4 "The family's needs", Lessons 10–13, plus its worksheets printed pp. 51–54); personal development/family/cooperation and house rules (Civics-side) printed pp. 2–37; home printed pp. 56–71; school printed pp. 72–81; directions, post and road safety (Geography-side) printed pp. 82–103 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 11 "Resources": soil, water, plants, animals, oil and metals are natural resources (منابع طبیعی, defined); picture chains trace goods back to resources — cotton/wool to clothes, farm needing water, soil, air and sun, forest to sawmill to furniture factories, iron ore to smelter to metal goods, oil well to petrochemical plant to petrol | Iran, *Iran Grade 3 Social Studies*, Lesson 11 "Resources" — Iran Grade 3 Social Studies, printed p. 40 |
+
+**Acceptance count: taught in 7 countries (Vietnam, Bahamas, Kuwait, Rwanda, South Sudan, Nepal, Iran).**
 
 Nepal's own way (Nepal Grade 6 Social Studies & Human Value Education G6): the unit opens with two entrepreneur stories — a Chepang beekeeper of Makwanpur who began with Rs. 1,000 in 2064 BS and now sells 15–20 tons of honey a year, and Magar homestays whose community fund keeps 10% of income — then defines the concept from them: economic activities are the means and sources of income.
 
@@ -55,4 +61,6 @@ Bahamas' own way: Grade 5 teaches the service economy directly — the surroundi
 
 Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
 
-Searchable tags: resources that develop an economy, Vietnam, social studies, people-and-resources, bahamas, rwanda, south sudan, nepal
+Iran's own way (Iran Grade 3 Social Studies): Economics enters at Grade 3 through the family — needs, income, natural resources and careful consumption, with wastefulness (اسراف) framed as a religious as well as practical fault.
+
+Searchable tags: resources that develop an economy, Vietnam, social studies, people-and-resources, bahamas, rwanda, south sudan, nepal, iran

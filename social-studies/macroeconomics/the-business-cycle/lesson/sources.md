@@ -1,6 +1,6 @@
 # Sources — The business cycle
 
-countries: Ethiopia, Cambodia, Uzbekistan
+countries: Ethiopia, Cambodia, Uzbekistan, Iran
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -28,10 +28,18 @@ countries: Ethiopia, Cambodia, Uzbekistan
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 3 countries (Ethiopia, Cambodia, Uzbekistan).**
+**Book 5:** *اقتصاد (Eqtesad / Economics) — پایهٔ دهم رشتهٔ ادبیات و علوم انسانی / پایهٔ یازدهم رشتهٔ علوم و معارف اسلامی (Grade 10 Humanities branch; also Grade 11 Islamic Sciences branch)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); year 1405-1406 school edition (record); book code 110221; no ISBN printed (Iranian textbook code used instead). Title as printed: اقتصاد (Eqtesad / Economics) — پایهٔ دهم رشتهٔ ادبیات و علوم انسانی / پایهٔ یازدهم رشتهٔ علوم و معارف اسلامی (Grade 10 Humanities branch; also Grade 11 Islamic Sciences branch). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title; byte size 3,824,270 and page count match the books.json record exactly; TSV + books.json records are the same book, counted once). Verdict: COMPLETE. Contents map: Economics parts pp. 2–160 (all four chapters); glossary (واژهنامه) printed pp. 161–165 inventory-only, named not placed; references printed p. 165ff. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 8, recession sections: recession as the downswing opposite of growth, idle resources inside the production frontier, and what a stagnating economy does to producers | Iran, *Iran Grade 10 Economics*, Lesson 8, recession sections — Iran Grade 10 Economics, printed p. 82 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Uzbekistan, Iran).**
 
 Grade 12 extension added 2026-11-12 (Ethiopia Wave 4, Band E): sub lesson 4 and its questions rest on the Grade 12 student book named above. The Grade 12 book names the four phases expansion, peak, contraction (recession) and trough; the earlier sub lessons use the Grade 10 book's boom/recession/depression/recovery wording for the same wave.
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: business cycle, boom prosperity, recession, depression trough, recovery expansion, multiplier, trend, ethiopia, social studies, macroeconomics, cambodia, uzbekistan
+Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
+
+Searchable tags: business cycle, boom prosperity, recession, depression trough, recovery expansion, multiplier, trend, ethiopia, social studies, macroeconomics, cambodia, uzbekistan, iran

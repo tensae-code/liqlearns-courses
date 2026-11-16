@@ -1,6 +1,6 @@
 # Sources — The production possibilities frontier
 
-countries: Ethiopia, Malaysia, Albania, Cambodia, Bangladesh, Armenia
+countries: Ethiopia, Malaysia, Albania, Cambodia, Bangladesh, Armenia, Iran
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -39,7 +39,13 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Armenia part — Economics expansion — 3.1 Economic resources and factors of production: the production-possibilities curve built from a table of duduks versus shvis, points inside the curve (resources unused) and outside it (unattainable), and opportunity cost read off the curve | Armenia, *Armenia Grade 10 Social Science student*, 3.1 Economic resources and factors of production — printed p. 62 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Cambodia, Bangladesh, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *اقتصاد (Eqtesad / Economics) — پایهٔ دهم رشتهٔ ادبیات و علوم انسانی / پایهٔ یازدهم رشتهٔ علوم و معارف اسلامی (Grade 10 Humanities branch; also Grade 11 Islamic Sciences branch)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); year 1405-1406 school edition (record); book code 110221; no ISBN printed (Iranian textbook code used instead). Title as printed: اقتصاد (Eqtesad / Economics) — پایهٔ دهم رشتهٔ ادبیات و علوم انسانی / پایهٔ یازدهم رشتهٔ علوم و معارف اسلامی (Grade 10 Humanities branch; also Grade 11 Islamic Sciences branch). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title; byte size 3,824,270 and page count match the books.json record exactly; TSV + books.json records are the same book, counted once). Verdict: COMPLETE. Contents map: Economics parts pp. 2–160 (all four chapters); glossary (واژهنامه) printed pp. 161–165 inventory-only, named not placed; references printed p. 165ff. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 4 "The production possibilities frontier": models in economics and the PPF model as the way to see trade-offs in using scarce resources, worked on a firm's choice of how much of each product to make | Iran, *Iran Grade 10 Economics*, Lesson 4 "The production possibilities frontier" — Iran Grade 10 Economics, printed p. 34 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Cambodia, Bangladesh, Armenia, Iran). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
@@ -51,4 +57,6 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: PPF PPC, production possibilities, efficient inefficient unattainable, assumptions, ethiopia, social studies, microeconomics, malaysia, albania, cambodia, bangladesh, armenia
+Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
+
+Searchable tags: PPF PPC, production possibilities, efficient inefficient unattainable, assumptions, ethiopia, social studies, microeconomics, malaysia, albania, cambodia, bangladesh, armenia, iran

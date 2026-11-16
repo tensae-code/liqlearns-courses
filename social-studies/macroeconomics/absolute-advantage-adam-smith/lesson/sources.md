@@ -1,6 +1,6 @@
 # Sources — Absolute advantage — Adam Smith
 
-countries: Ethiopia, Albania, Uzbekistan, Indonesia
+countries: Ethiopia, Albania, Uzbekistan, Indonesia, Iran
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -30,7 +30,13 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Indonesia part — Bab 2 C. Teori Perdagangan Internasional — teaches: trade theories including absolute advantage | Indonesia, *Indonesia Grade 12 Ekonomi*, Bab 2 C. Teori Perdagangan Internasional — printed p. 52 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Uzbekistan, Indonesia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 5:** *اقتصاد (Eqtesad / Economics) — پایهٔ دهم رشتهٔ ادبیات و علوم انسانی / پایهٔ یازدهم رشتهٔ علوم و معارف اسلامی (Grade 10 Humanities branch; also Grade 11 Islamic Sciences branch)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); year 1405-1406 school edition (record); book code 110221; no ISBN printed (Iranian textbook code used instead). Title as printed: اقتصاد (Eqtesad / Economics) — پایهٔ دهم رشتهٔ ادبیات و علوم انسانی / پایهٔ یازدهم رشتهٔ علوم و معارف اسلامی (Grade 10 Humanities branch; also Grade 11 Islamic Sciences branch). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title; byte size 3,824,270 and page count match the books.json record exactly; TSV + books.json records are the same book, counted once). Verdict: COMPLETE. Contents map: Economics parts pp. 2–160 (all four chapters); glossary (واژهنامه) printed pp. 161–165 inventory-only, named not placed; references printed p. 165ff. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 7, advantage sections: absolute advantage as a reason countries specialise and trade | Iran, *Iran Grade 10 Economics*, Lesson 7, advantage sections — Iran Grade 10 Economics, printed p. 69 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Uzbekistan, Indonesia, Iran). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Indonesia's own way (Indonesia Grade 12 Ekonomi): growth measured on Indonesia's own PDB series; trade taught through Indonesia's nickel-export case; budgets are Indonesia's real APBN/APBD with village funds (Dana Desa) as the regional-budget story.
 
@@ -38,4 +44,6 @@ Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 
 
 The placement reports the example's gains as '2 kg of coffee and 4 yards of cloth' at the assumed 4-for-4 exchange rate, with the lion's share going to China. The joint-output rise itself is 3 kg of coffee (5 to 8) and 3 yards of cloth (7 to 10); this lesson teaches the before/after totals and the 4-for-4 exchange exactly as the book works them, and does not restate a per-country gain split beyond the placement's own wording, which is recorded here.
 
-Searchable tags: absolute advantage, adam smith, ethiopia, social studies, macroeconomics, albania, uzbekistan, indonesia
+Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
+
+Searchable tags: absolute advantage, adam smith, ethiopia, social studies, macroeconomics, albania, uzbekistan, indonesia, iran

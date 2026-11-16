@@ -1,6 +1,6 @@
 # Sources — Division of labour — at home and at work
 
-countries: Mongolia, Yemen, Bulgaria
+countries: Mongolia, Yemen, Bulgaria, Iran
 
 **Book 1:** *НИЙГЭМ СУДЛАЛ VII (Social Studies VII)* (student book, Mongolian) — Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-03-0. Title as printed: НИЙГЭМ СУДЛАЛ VII (Social Studies VII). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/mongolia-placements.md. Contents map: Economics parts printed pp. 39–54 (Chapter III, The Individual and the Economy); Society/sociology pp. 7–20; Culture pp. 23–35; Civics/Law (human rights) pp. 59–75; Civics (collective governance) pp. 80–93; glossary p. 94 (inventory-only — named in this book entry, not stocked).
 
@@ -30,7 +30,13 @@ countries: Mongolia, Yemen, Bulgaria
 |---|---|
 | Bulgaria part — Economics expansion — "People's labour" (Трудът на хората): the aim of every enterprise — farm, factory, hotel or shop — is to raise the efficiency of production, to produce more and better goods and services with fewer resources, so work is divided by kind and by quantity among more people and machines: in division by quantity each worker performs all the activities of the whole production process — his work is varied, but quantity and quality are not very good, because a person cannot be equally prepared for everything; in division by kind each worker is specialised to perform only a definite part of the work — his labour is monotonous, but the results are much better, because special knowledge and skills are acquired and applied more easily and quickly (filed as NEW LESSON NEEDED — microeconomics/division-of-labour-and-the-production-line; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 6 Technology and Entrepreneurship*, "People's labour" (Трудът на хората) — printed p. 50 |
 
-**Acceptance count: taught in 3 countries (Mongolia, Yemen, Bulgaria).**
+**Book 5:** *مطالعات اجتماعی ـ ششم دبستان (Social Studies, sixth year of primary)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 607; no ISBN printed. Title as printed: مطالعات اجتماعی ـ ششم دبستان (Social Studies, sixth year of primary). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 152 (cover verified against the record title; 15,753,303 bytes). Verdict: PARTIAL — Chapters 4 and 8 carry the Economics teaching; the rest is social/life-skills, Geography, History and Civics content, named in the Contents map and not placed (mixed-ss contents-first rule). Contents map: Economics parts printed pp. 45–58 (Chapter 4 "Iran and energy resources") and pp. 95–106 (Chapter 8 "Our clothing", Lesson 16); social/life-skills pp. 11–30 (friends; decision-making — general life decisions, consultation and peer pressure, no economic concept taught, not placed); Geography pp. 31–44 (agriculture in Iran — factors, crops, production-to-consumption worksheets at activity level, no new concept beyond earlier grades, not placed) and pp. 107–130 (Iran's seas; Iran and its neighbours); History pp. 59–82 (science in the Islamic era; journey to Isfahan / Safavid era) and pp. 131–151 (standing against foreigners; freedom); free time pp. 83–94 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 16 "Clothing, from production to consumption": the production line (خطّ تولید, defined in the chapter's matching exercise) — in a clothing workshop everyone cooperates, each person does one part of the production work (cutting, sewing, ironing the seams), each skilled in one part, until the good is finished (filed as NEW LESSON NEEDED — microeconomics/division-of-labour-and-the-production-line; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Iran, *Iran Grade 6 Social Studies*, Lesson 16 "Clothing, from production to consumption" — Iran Grade 6 Social Studies, printed p. 100 |
+
+**Acceptance count: taught in 4 countries (Mongolia, Yemen, Bulgaria, Iran).**
 
 Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
@@ -41,4 +47,6 @@ Bulgaria's own way (Bulgaria Grade 4 Technology and Entrepreneurship): Grade 4 i
 
 Bulgaria's own way (Bulgaria Grade 6 Technology and Entrepreneurship): Grade 6 prices a product the Bulgarian way — cost price (себестойност) built from direct and indirect costs, a calculation (калкулация) that adds the planned profit, and an "alternative price" for the road not taken.
 
-Searchable tags: division of labour, household tasks, specialisation, profession and skill, income, mongolian actor, mongolia, social studies, microeconomics, yemen, bulgaria
+Iran's own way (Iran Grade 6 Social Studies): the energy chapter turns Iran's oil story into a class debate — oil is a finite natural heritage, foreign companies took the profit for a century, and the country must learn to export other goods instead of depending on oil.
+
+Searchable tags: division of labour, household tasks, specialisation, profession and skill, income, mongolian actor, mongolia, social studies, microeconomics, yemen, bulgaria, iran

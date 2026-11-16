@@ -1,6 +1,6 @@
 # Sources — Making a Family Budget
 
-countries: Rwanda, Zambia, Ecuador, Dominican Republic, Dominica, Fiji, Nepal, Bulgaria
+countries: Rwanda, Zambia, Ecuador, Dominican Republic, Dominica, Fiji, Nepal, Bulgaria, Iran
 
 **Book 1:** *Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: TEACHER). PDF pages: 106 (cover verified against the record title — read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected; this book appears only as a books.json record, with no size/pages in the record to check against). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society (Civics), TG content map printed p. xvi; Unit 3 Hygiene and sanitation, incl. HIV/AIDS, STIs and TB (Health), p. xviii; Unit 4 Civics and governance — peer pressure, national symbols, leadership and good governance (Civics), p. xviii; Unit 10 Colonial Rwanda (History), p. xxvi. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -99,7 +99,19 @@ Rwanda's own way (Rwanda Grade 2): Economics enters at P2 through the household 
 |---|---|
 | Bulgaria part — Economics expansion — Exercises to "Home economics": compose, alone or with the other family members, a monthly family budget, filling the workbook tables — the first for daily expenses, the second for the monthly fixed and variable expenses, the third for the summary account | Bulgaria, *Bulgaria Grade 6 Technology and Entrepreneurship*, Exercises to "Home economics" — printed pp. 56–57 |
 
-**Acceptance count: taught in 7 countries (Rwanda, Ecuador, Dominican Republic, Dominica, Fiji, Nepal, Bulgaria). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 17:** *اقتصاد (Eqtesad / Economics) — پایهٔ دهم رشتهٔ ادبیات و علوم انسانی / پایهٔ یازدهم رشتهٔ علوم و معارف اسلامی (Grade 10 Humanities branch; also Grade 11 Islamic Sciences branch)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); year 1405-1406 school edition (record); book code 110221; no ISBN printed (Iranian textbook code used instead). Title as printed: اقتصاد (Eqtesad / Economics) — پایهٔ دهم رشتهٔ ادبیات و علوم انسانی / پایهٔ یازدهم رشتهٔ علوم و معارف اسلامی (Grade 10 Humanities branch; also Grade 11 Islamic Sciences branch). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title; byte size 3,824,270 and page count match the books.json record exactly; TSV + books.json records are the same book, counted once). Verdict: COMPLETE. Contents map: Economics parts pp. 2–160 (all four chapters); glossary (واژهنامه) printed pp. 161–165 inventory-only, named not placed; references printed p. 165ff. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 12 "Budgeting" (بودجه‌بندی): the family budget — listing all income and spending flows, recording them in a weekly table by type (food, clothing, leisure, other), predictable vs accidental, fixed vs variable | Iran, *Iran Grade 10 Economics*, Lesson 12 "Budgeting" (بودجه‌بندی) — Iran Grade 10 Economics, printed p. 130 |
+
+**Book 18:** *مطالعات اجتماعی ـ چهارم دبستان (Social Studies, fourth year of primary)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 407; no ISBN printed. Title as printed: مطالعات اجتماعی ـ چهارم دبستان (Social Studies, fourth year of primary). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 120 (cover verified against the record title; 17,058,924 bytes). Verdict: PARTIAL — only Lesson 3 is Economics teaching; the rest is Geography / History / Civics content, named in the Contents map and not placed (mixed-ss contents-first rule). Contents map: Economics parts printed pp. 10–14 (Lesson 3 "Buying and selling in the neighbourhood"); Geography pp. 15–37 and 74–99 (neighbourhood map, directions, how geographers work, Iran's mountains, climate, vegetation); History pp. 38–73 (first villages and cities, how historians work, journeys to ancient Hamadan, Persepolis and Kermanshah); Civics pp. 2–9 and 100–119 (neighbours, national symbols, calendar, important days). Lesson 5 "Life in city and village" (printed p. 24) describes village farming and city jobs at picture level only — no new concept taught, not placed Placements at liqlearns-courses-work/expansion-economics-2026-11-15/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Economics expansion — Lesson 3, section "Wise buying" (خرید عاقلانه): a three-column family table of income (درآمد), expenses (هزینه — food, rent, water, electricity and phone bills) and saving (پس‌انداز); what matters is not how much money is earned but saving part of it and not spending it all; a wanted football must wait and be planned for | Iran, *Iran Grade 4 Social Studies*, Lesson 3, section "Wise buying" (خرید عاقلانه) — Iran Grade 4 Social Studies, printed p. 10 |
+
+**Acceptance count: taught in 8 countries (Rwanda, Ecuador, Dominican Republic, Dominica, Fiji, Nepal, Bulgaria, Iran). Zambia is teacher-module evidence only — named here, counted nowhere.**
 
 Nepal's own way (Nepal Grade 4 Social Studies & Creative Arts G4): the family budget is taught by contrasting two households' real monthly income-and-expenditure tables (Rs. 10,000 against Rs. 15,000), and a family's income is drawn as a pie chart of its sources — milk, chickens, vegetables.
 
@@ -132,4 +144,8 @@ Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grad
 
 Bulgaria's own way (Bulgaria Grade 6 Technology and Entrepreneurship): Grade 6 prices a product the Bulgarian way — cost price (себестойност) built from direct and indirect costs, a calculation (калкулация) that adds the planned profit, and an "alternative price" for the road not taken.
 
-Searchable tags: making a family budget, Rwanda, Zambia, Ecuador, kwacha, shopping list, needs before wants, family budget, surplus, deficit, teacher module evidence, social studies, culture-and-work, Dominican Republic, Fiji, nepal, bulgaria
+Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
+
+Iran's own way (Iran Grade 4 Social Studies): the family-budget table (income / expense / saving) is introduced at Grade 4 through a boy saving for a football, with his 50,000-toman apple-picking wage as the income example.
+
+Searchable tags: making a family budget, Rwanda, Zambia, Ecuador, kwacha, shopping list, needs before wants, family budget, surplus, deficit, teacher module evidence, social studies, culture-and-work, Dominican Republic, Fiji, nepal, bulgaria, iran
