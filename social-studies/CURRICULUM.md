@@ -12722,3 +12722,65 @@ costed month by month in dollars, and every unit closes
 with a financial-education section that takes the same
 tools home to the family budget and the family's debts.
 Economics lessons: 389 → 390.
+
+## Economics expansion — Saudi Arabia — built 2026-11-15
+
+Saudi Arabia — 8 placements stocked from 1 student book:
+*Social Studies, Grade 4 Primary* (student book, Arabic;
+Ministry of Education, Kingdom of Saudi Arabia, 1448H /
+2026 CE; no ISBN printed; 228 PDF pp.). 4 stocked into
+standing lessons — **Microeconomics**: Land, labour,
+capital, entrepreneurship (Lesson 15 Resources and
+consumption, printed p. 95 — resources as the things
+production depends on, in three kinds: human resources —
+builders, doctors, teachers; natural resources — oil,
+minerals, water, trees, soil; and capital — factories,
+equipment, money; acceptance 1 → 2 countries, Ethiopia
+and Saudi Arabia) — **Market and Money**: Barter — and
+why it fails (Lesson 16 Trade exchange, printed p. 99 —
+buying and selling before coins by barter, dried yoghurt
+for dates and ghee for wheat, and today's exchange with
+money in shops, markets and online; acceptance 1 → 2
+countries, Ethiopia and Saudi Arabia); The National
+Bank and commercial banks (Lessons 15–16, printed
+p. 100 — commercial banks helping people buy, sell and
+save through current and savings accounts, and the
+central bank as the issuer of paper and metal currency
+that organises the commercial banks' work; currency as
+the medium of exchange, Saudi Arabia's being the riyal;
+acceptance 1 → 2 countries, Ethiopia and Saudi Arabia)
+— **Macroeconomics**: Why countries trade (Lesson 16
+Trade exchange, printed p. 101 — to obtain products hard
+to find at home, to use other countries' industries,
+electronics and cars, and to sell national production
+such as oil, its derivatives and dates; acceptance 1 → 2
+countries, Ethiopia and Saudi Arabia) — and 4 new
+lessons built (12 questions each, acceptance 1 country,
+Saudi Arabia): **Microeconomics**: What economics asks —
+what, how and for whom to produce (Lesson 14 The concept
+of economics, printed p. 92 — economic activity as
+producing, distributing, exchanging and consuming goods
+and services, and the economist's three questions,
+through date and milk production); Goods — necessary
+and unnecessary (Lesson 14, printed p. 93 — goods as
+everything made that people need and consume, divided
+into necessary goods, basic foods and clothing, and
+unnecessary goods, luxury cars and jewellery); Production
+of goods and services (Lesson 14, printed p. 94 —
+production as turning raw materials into products and
+services people need: material production, cars, phones
+and clothing, against immaterial production, services —
+school education, hospital treatment, tourism) —
+**Market and Money**: Saving and rationalising
+consumption (Lesson 15 Resources and consumption,
+printed p. 97 — producer and consumer defined; saving
+as setting aside part of one's money for future needs;
+rationalising consumption — using resources and money
+moderately: switching off unused devices, using water
+as needed, choosing moderately priced goods, a laptop
+at 1,500 riyals now versus 1,100 on sale next month).
+Saudi Arabia's own way: a whole Economics unit in
+Grade 4, anchored in the Kingdom's own production —
+dates, milk and oil — and ending with a buy-Saudi-made
+activity at the supermarket. Economics lessons:
+390 → 394.
