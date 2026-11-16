@@ -9,6 +9,12 @@ countries: Nepal
 | Sub lesson 1 — Unit 8 Lesson 5: Trade diversification and marketing in Nepal | Nepal, *Nepal Grade 9 np-g9*, Unit 8 Lesson 5: Trade diversification and marketing in Nepal — printed p. 211 |
 | Sub lesson 2 — Nepal's way — the book's own teaching way | Nepal — the book's own way of teaching (see below) |
 
+**Economics expansion — Nepal (against Book 1 above, already cited in this file from the earlier waves; the Economics placement is stocked as a distinct evidence row, not as a second book):**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Economics expansion — Unit 8 Lesson 5 "Nepalma Byapar Bibidhikaran ra Bajarikaran (Trade Diversification and Marketing in Nepal)" — teaches: trade diversification defined two ways — sending goods to local, national and international markets rather than one place or country, and exporting varied goods rather than a few — with Nepal's own export and import lists, the trade deficit where imports exceed exports, and marketing: the process by which produced goods reach the market and are bought and sold, helped by quality packaging and branding | Nepal, *Nepal Grade 9 Social Studies*, Unit 8 Lesson 5 "Nepalma Byapar Bibidhikaran ra Bajarikaran (Trade Diversification and Marketing in Nepal)" — printed p. 211 |
+
 **Acceptance count: taught in 1 country (Nepal).**
 
 Nepal's own way (Nepal Grade 9 np-g9): Grade 9 "Hamro Prithvi" widens from Nepal (latitude/longitude, surface form, climate, vegetation, minerals and water resources, map work) to whole continents — Asia, Europe and Australia, each in two lessons (geographical/natural environment, then economic activities and social life); the preface notes this is a model textbook tested in schools under the 2076 secondary curriculum.

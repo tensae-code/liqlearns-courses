@@ -1,6 +1,6 @@
 # Sources — Personal Budget And Saving
 
-countries: Armenia, Guatemala, Syria, Rwanda, Zimbabwe, Albania, Venezuela, Jordan, Fiji, Vietnam
+countries: Armenia, Guatemala, Syria, Rwanda, Zimbabwe, Albania, Venezuela, Jordan, Fiji, Vietnam, Nepal
 
 **Book 1:** *Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school)* (student book, Armenian) — «Մասնակցային դպրոց» ԿՀ (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1725-6. Authors: H. Bayadyan, D. Stepanyan, V. Soghomonyan. Title as printed: Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school). Grade: 7 (student/teacher: STUDENT). PDF pages: 146 (printed 144; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography parts placed below: Ch. 1 "Man and nature" (printed pp. 12-27) and the economy parts of Ch. 7 "Man and economy" (pp. 102-127). NOT placed (named for later waves): Ch. 2 "Man and society" (pp. 28-41, incl. history of printing), Ch. 3 "Man, cognition and behaviour" (pp. 42-55), Ch. 4 "Man and morality" (pp. 56-71), Ch. 5 "Man and beauty" (pp. 72-89), Ch. 6 "Law in our life" (pp. 90-101), Ch. 7 §§7.3 personal finance in part, Ch. 8 "Man and politics" (pp. 128-139). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -119,7 +119,15 @@ Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics u
 |---|---|
 | Armenia part — Economics expansion — 7.3 Personal budget, income distribution: income versus spending, balancing a personal/family/organisation/state budget and allowing for unplanned spending | Armenia, *Armenia Grade 7 Social Science student*, 7.3 Personal budget, income distribution — printed p. 125 |
 
-**Acceptance count: taught in 7 countries (Armenia, Syria, Rwanda, Venezuela, Jordan, Fiji, Vietnam). Guatemala is teacher-guide evidence only — named here, counted nowhere. Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 21:** *Samajik Adhyayan tatha Manav Mulya Shiksha, Kaksha 4 [Parikshan] (Social Studies and Human Value Education, Grade 4, trial edition)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; trial edition (Parikshan Sanskaran) 2079 BS; no ISBN printed. Title as printed: Samajik Adhyayan tatha Manav Mulya Shiksha, Kaksha 4 [Parikshan] (Social Studies and Human Value Education, Grade 4, trial edition). Grade: 4 (student/teacher: STUDENT). PDF pages: 141 (cover verified against the record title; 2,817,079 bytes, grab.py size/SHA verified). Read from page renders: the text layer is in a legacy Nepali font encoding, so Unit 6 was read page-by-page from 100-DPI renders. Verdict: COMPLETE. Contents map: Economics parts printed pp. 92–116 (Unit 6 "Hamra Arthik Kriyakalap"; lessons 2–5 placed below; lesson 1 "Kamko Samman Garau / Let's Respect Work" pp. 93–97 is a work-values lesson with income questions in its exercises, named here, not placed); community pp. 1–20; values pp. 21–40; Civics (Nagarik Chetana) pp. 41–65; social problems and solutions pp. 66–80; History (Hamro Vigat) pp. 81–91; Geography (Hamro Prithvi) pp. 117–134. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 6 Lesson 4 "Mitabyayi Banau (Let's Be Frugal)" — teaches: frugality as a money habit — return the change from shopping to your parents, save spare money in a khutruke (piggy bank) for future use, and use paper, food, soap, toothpaste and water without waste; exercises ask pupils to define mitabyayita (frugality) and state the benefits of using things frugally | Nepal, *Nepal Grade 4 Social Studies & Human Value Education G4 trial*, Unit 6 Lesson 4 "Mitabyayi Banau (Let's Be Frugal)" — printed p. 107 |
+
+**Acceptance count: taught in 8 countries (Armenia, Syria, Rwanda, Venezuela, Jordan, Fiji, Vietnam, Nepal). Guatemala is teacher-guide evidence only — named here, counted nowhere. Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nepal's own way (Nepal Grade 4 Social Studies & Human Value Education G4 trial): the new trial curriculum teaches the village economy as one circle — make it locally (bamboo craft, sugarcane gud, Dhaka cloth), sell it at the weekly haat bazaar, earn income from the work, and keep what is left in the child's khutruke (piggy bank) for future use.
 
 Vietnam's own way (Vietnam Grade 10 Economic & Legal Education): a full school Economics course built on Vietnamese cases and current law — the Si Ma Cai periodic market for exchange, pork-price swings for market functions, the 2025 State Budget Law's own revenue/expenditure tables, corporate income-tax tiers and the progressive personal income-tax schedule, and a student's 80/13/7 spending rule for personal finance.
 
@@ -158,4 +166,4 @@ Syria's own way (Syria Grade 2 Social Studies): the saved money is spent by need
 
 Jordan's own way (Jordan Grade 2 Term 2): A whole early-years Economics unit built on a family shopping trip — a real receipt in Jordanian dinars, Jordanian coins and banknotes to order by value, the wheat-to-bread chain for producer and consumer, a child's own money box for saving, and a closing lesson that tours Jordan's own industries.
 
-Searchable tags: personal budget and saving, Armenia, Guatemala, Syria, syrian pounds, money box, حصّالتي, presupuesto personal, quetzales, teacher guide evidence, social studies, culture-and-work, rwanda, zimbabwe, teacher guide evidence, albania, venezuela, jordan, Fiji, vietnam
+Searchable tags: personal budget and saving, Armenia, Guatemala, Syria, syrian pounds, money box, حصّالتي, presupuesto personal, quetzales, teacher guide evidence, social studies, culture-and-work, rwanda, zimbabwe, teacher guide evidence, albania, venezuela, jordan, Fiji, vietnam, nepal

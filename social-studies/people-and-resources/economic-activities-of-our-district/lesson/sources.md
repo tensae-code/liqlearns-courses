@@ -55,6 +55,12 @@ South Sudan's own way (South Sudan Primary 4): the economy is taught sector by s
 |---|---|
 | Honduras part — Lesson 15 "Actividades económicas de mi departamento" — teaches: an economic activity is working to produce a good or a service; each Honduran department's activities (mining, construction, transport, commerce, farming, fishing, industry), rural vs urban | Honduras, *Honduras Grade 2 G2 Student CCSS*, Lesson 15 "Actividades económicas de mi departamento" — printed p. 70 |
 
+**Economics expansion — Nepal (against Book 1 above, already cited in this file from the earlier waves; the Economics placement is stocked as a distinct evidence row, not as a second book):**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Economics expansion — Unit 7 Lesson 1 "Occupation of the People of Dolma's District" — teaches: a district's economic activities are surveyed place by place (herb collecting and carpet weaving in the high villages, farming and doko-weaving mid-district, business, labour and tourism in the towns) and drawn as a symbol map; what occupation people pick depends on the climate of the place | Nepal, *Nepal Grade 5 Social Studies & Creative Arts G5*, Unit 7 Lesson 1 "Occupation of the People of Dolma's District" — printed p. 80 |
+
 **Acceptance count: taught in 5 countries (Nepal, Uganda, Rwanda, South Sudan, Honduras).**
 
 Nepal's own way (Nepal Grade 5 np-g5): Grade 5 "Our Earth" is a first full geography of Nepal — physical features, climate and lifestyle, natural vegetation, soils, map-drawing with symbols, globe and maps, and the wider South Asian neighbours; economic geography is district-based (Sankhuwasabha's occupations mapped place by place, from yak and sheep rearing and herb collecting in the high Himalaya to paddy in the low valleys).

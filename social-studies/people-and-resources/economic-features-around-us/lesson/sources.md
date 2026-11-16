@@ -1,6 +1,6 @@
 # Sources — Economic Features Around Us
 
-countries: South Sudan
+countries: South Sudan, Nepal
 
 **Book 1:** *Primary Social Studies 1 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 1 Teacher's Guide. Grade: Primary 1 / Grade 1 (student/teacher: TEACHER). PDF pages: 53 (cover/title page verified against the record title). Verdict: COMPLETE (combined Social Studies guide — Geography parts placed; Units 1, 4 and 5 are History/family, Civics/work and Civics/life skills, named in Book 9's header, not placed). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -18,8 +18,16 @@ countries: South Sudan
 
 South Sudan's own way (South Sudan Primary 2): work is introduced through the village — jobs are named from pictures of the child's own locality, then products: a product is "anything that can be taken to a market that is needed by people", and a song teaches that South Sudan's agricultural products earn the country income.
 
-**Acceptance count: taught in 1 country (South Sudan).** The Primary 1 teacher-guide rows above remain teacher-guide evidence for the same country, stocked alongside the Primary 2 pupil's book.
+**Book 3:** *Shikshak Nirdeshika, Aadharbhut Taha Kaksha 5, Samajik Adhyayan tatha Manav Mulya Shiksha (Teacher's Guide, Basic Level Grade 5, Social Studies and Human Value Education) — draft copy (Masyauda Prati)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2081 BS; no ISBN printed. Title as printed: Shikshak Nirdeshika, Aadharbhut Taha Kaksha 5, Samajik Adhyayan tatha Manav Mulya Shiksha (Teacher's Guide, Basic Level Grade 5, Social Studies and Human Value Education) — draft copy (Masyauda Prati). Grade: 5 (student/teacher: TEACHER). PDF pages: 156 (cover verified against the record title; 2,339,249 bytes, grab.py size/SHA verified). Text layer is in a legacy Nepali font encoding; Unit 6 was read from the extracted lesson plans (unit introduction, lesson tables and lesson-by-lesson teaching content). Verdict: COMPLETE. Contents map: Economics parts Unit 6 "Hamra Arthik Kriyakalap (Our Economic Activities)", guide printed pp. 117–136 (lessons 2–5 placed below; lesson 1 "Shramko Samman ra Sahayog / Respect for Labour and Cooperation" is a work-values lesson, named here, not placed); Unit 1 We and Our Community; Unit 2 Our Human Values and Beliefs; Unit 3 Civics (Nagarik Chetana); Unit 4 Social Problems and Solutions; Unit 5 History (Hamro Vigat); Unit 7 Geography (Hamro Prithvi). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 6 Lesson 2 "Hamra Sthaniya Arthik Kriyakalap (Our Local Economic Activities)" — teaches: identify the economic activities of your own locality and state their importance — the guide's lesson plan states that economic activities are the work people do from which income can be earned, which is why people take up income-earning occupations, and has pupils chart the local activities and their importance (teacher guide — evidence) | Nepal, *Nepal Grade 5 Teacher's Guide G5 (2081)* (teacher guide), Unit 6 Lesson 2 "Hamra Sthaniya Arthik Kriyakalap (Our Local Economic Activities)" — guide printed p. 122 |
+
+**Acceptance count: taught in 1 country (South Sudan). Nepal is teacher-guide evidence only — named here, counted nowhere.** The Primary 1 teacher-guide rows above remain teacher-guide evidence for the same country, stocked alongside the Primary 2 pupil's book.
+
+Nepal's own way (Nepal Grade 5 Teacher's Guide G5 (2081)): the guide frames the whole unit around the child's own community first — respect the labour around you, name the economic activities of your own locality, list your local goods and the market that sells them — and only then the nation's main activities and the case for using domestic goods. That book is a teacher guide, cited as evidence only, counted nowhere.
 
 South Sudan's own way (South Sudan Grade 1 P1 Social Studies TG) (teacher guide — evidence): The guide teaches features by walking — a class walk around the school to name natural features — and adds "economic features": features people use to earn money, such as fishing in a lake. That evidence is stocked here as the way South Sudan teaches this thing; it does not change the acceptance count above.
 
-Searchable tags: economic features around us, South Sudan, social studies, people-and-resources
+Searchable tags: economic features around us, South Sudan, social studies, people-and-resources, nepal

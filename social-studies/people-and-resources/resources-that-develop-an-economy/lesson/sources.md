@@ -1,6 +1,6 @@
 # Sources — Resources That Develop An Economy
 
-countries: Vietnam, Bahamas, Kuwait, Rwanda, South Sudan
+countries: Vietnam, Bahamas, Kuwait, Rwanda, South Sudan, Nepal
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -39,7 +39,15 @@ Rwanda's own way (Rwanda Grade 6): P6 scales the P5 family budget up to the stat
 
 South Sudan's own way (South Sudan Primary 3): economic activity is defined by place — what people do on their land to get money — and a locality's products and jobs are taught as following from the animals and plants that live there.
 
-**Acceptance count: taught in 5 countries (Vietnam, Bahamas, Kuwait, Rwanda, South Sudan).**
+**Book 6:** *Samajik Adhyayan tatha Manav Mulya Shiksha, Kaksha 6 (Social Studies and Human Value Education, Grade 6)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; 2078 BS; ISBN 978-9937-601-56-6. Title as printed: Samajik Adhyayan tatha Manav Mulya Shiksha, Kaksha 6 (Social Studies and Human Value Education, Grade 6). Grade: 6 (student/teacher: STUDENT). PDF pages: 214 (cover verified against the record title; 4,585,420 bytes, grab.py size/SHA verified). Unit 6 read page-by-page from 100-DPI renders (legacy-font text layer). Verdict: COMPLETE. Contents map: Economics parts printed pp. 112–128 (Unit 6 "Nepalka Arthik Kriyakalapharu / Nepal's Economic Activities", all six lessons placed below); society and community pp. 1–19; human values pp. 20–49; Civics pp. 50–72; social problems and solutions pp. 73–87; History pp. 88–111 (including the Rana-era economic condition, p. 99, and post-2007 BS social and economic achievements, p. 105 — History parts, named not placed); Geography (Our Earth) pp. 129–173; population pp. 174–190; international relations, current events and ICT pp. 191–206. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 6 Lesson 5 "Hamra Arthik Srot Sadhan: Bhumi ra Jalsrot (Our Economic Resources: Land and Water Resources)" — teaches: natural resources defined as what is found freely in nature; Nepal's main economic resources are land, water, forest and minerals; land (18% of the country cultivable, soils matched to crops by region) and water (6,000+ rivers for irrigation, hydropower and rafting tourism) as the backbone of economic development | Nepal, *Nepal Grade 6 Social Studies & Human Value Education G6*, Unit 6 Lesson 5 "Hamra Arthik Srot Sadhan: Bhumi ra Jalsrot (Our Economic Resources: Land and Water Resources)" — printed p. 124 |
+
+**Acceptance count: taught in 6 countries (Vietnam, Bahamas, Kuwait, Rwanda, South Sudan, Nepal).**
+
+Nepal's own way (Nepal Grade 6 Social Studies & Human Value Education G6): the unit opens with two entrepreneur stories — a Chepang beekeeper of Makwanpur who began with Rs. 1,000 in 2064 BS and now sells 15–20 tons of honey a year, and Magar homestays whose community fund keeps 10% of income — then defines the concept from them: economic activities are the means and sources of income.
 
 Kuwait's own way (Kuwait Grade 7 Term 2): Grade 7 widens from the Gulf to the whole Arab homeland — resources and sectors first, then the Arab world's economic problems (above all economic dependency), then the future: diversification, the New Kuwait vision and Arab integration.
 
@@ -47,4 +55,4 @@ Bahamas' own way: Grade 5 teaches the service economy directly — the surroundi
 
 Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
 
-Searchable tags: resources that develop an economy, Vietnam, social studies, people-and-resources, bahamas, rwanda, south sudan
+Searchable tags: resources that develop an economy, Vietnam, social studies, people-and-resources, bahamas, rwanda, south sudan, nepal

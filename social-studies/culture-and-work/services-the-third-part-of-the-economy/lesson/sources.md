@@ -1,6 +1,6 @@
 # Sources — Services The Third Part Of The Economy
 
-countries: Vietnam, Ecuador, Eritrea, Jordan
+countries: Vietnam, Ecuador, Eritrea, Jordan, Nepal
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -30,7 +30,15 @@ Eritrea's own way (Eritrea Grade 6 Social Studies 6): Economics enters as one un
 |---|---|
 | Jordan part — Economics expansion — Unit 6 Lesson 3: The Services Sector: the services sector is a major sector of the state's economy that produces an intangible benefit for people and society, provided by the public or the private sector — education services (Jordan's JoLearn platform), health services, transport and communications, tourism, and financial and banking services | Jordan, *Social Studies, Grade 5, Term 2*, Unit 6 Lesson 3: The Services Sector — printed p. 38 |
 
-**Acceptance count: taught in 4 countries (Vietnam, Ecuador, Eritrea, Jordan).**
+**Book 5:** *Samajik Adhyayan tatha Manav Mulya Shiksha, Kaksha 6 (Social Studies and Human Value Education, Grade 6)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; 2078 BS; ISBN 978-9937-601-56-6. Title as printed: Samajik Adhyayan tatha Manav Mulya Shiksha, Kaksha 6 (Social Studies and Human Value Education, Grade 6). Grade: 6 (student/teacher: STUDENT). PDF pages: 214 (cover verified against the record title; 4,585,420 bytes, grab.py size/SHA verified). Unit 6 read page-by-page from 100-DPI renders (legacy-font text layer). Verdict: COMPLETE. Contents map: Economics parts printed pp. 112–128 (Unit 6 "Nepalka Arthik Kriyakalapharu / Nepal's Economic Activities", all six lessons placed below); society and community pp. 1–19; human values pp. 20–49; Civics pp. 50–72; social problems and solutions pp. 73–87; History pp. 88–111 (including the Rana-era economic condition, p. 99, and post-2007 BS social and economic achievements, p. 105 — History parts, named not placed); Geography (Our Earth) pp. 129–173; population pp. 174–190; international relations, current events and ICT pp. 191–206. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 6 Lesson 3, services half "Hamra Arthik Kriyakalap: Sewa ra Byapar (Service and Trade)" — teaches: service-oriented economic activities (tour guiding, information technology, hotel and café work, legal advice) need skill, capacity and entrepreneurship, and the number of people engaged in them in Nepal is growing | Nepal, *Nepal Grade 6 Social Studies & Human Value Education G6*, Unit 6 Lesson 3, services half "Hamra Arthik Kriyakalap: Sewa ra Byapar (Service and Trade)" — printed p. 119 |
+
+**Acceptance count: taught in 5 countries (Vietnam, Ecuador, Eritrea, Jordan, Nepal).**
+
+Nepal's own way (Nepal Grade 6 Social Studies & Human Value Education G6): the unit opens with two entrepreneur stories — a Chepang beekeeper of Makwanpur who began with Rs. 1,000 in 2064 BS and now sells 15–20 tons of honey a year, and Magar homestays whose community fund keeps 10% of income — then defines the concept from them: economic activities are the means and sources of income.
 
 Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
 
@@ -38,4 +46,4 @@ Ecuador's own way (Ecuador Grade 3 Estudios Sociales 3ro EGB): economic activiti
 
 Jordan's own way (Jordan Grade 5 Term 2): Grade 5 gets the first formal market lesson in the whole set — supply and demand open with frost-damaged vegetables and Ramadan meat prices, trade is read off Aqaba port and Jordan's real export/import lists, and services are toured through Jordan's own schools platform, hospitals and tourist sites.
 
-Searchable tags: services the third part of the economy, Vietnam, Ecuador, Eritrea, public services, private services, tertiary activities, traders, transport, hotels, banks, social studies, culture-and-work, jordan
+Searchable tags: services the third part of the economy, Vietnam, Ecuador, Eritrea, public services, private services, tertiary activities, traders, transport, hotels, banks, social studies, culture-and-work, jordan, nepal

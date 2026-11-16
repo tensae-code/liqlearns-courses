@@ -1,6 +1,6 @@
 # Sources — Stages of economic integration
 
-countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia
+countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia, Nepal
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -61,7 +61,15 @@ South Sudan's own way (South Sudan Primary 7): the country's economy is told thr
 |---|---|
 | Indonesia part — Bab 2 F. Kerja Sama Ekonomi Internasional — teaches: forms of international economic cooperation — bilateral, regional, multilateral | Indonesia, *Indonesia Grade 12 Ekonomi*, Bab 2 F. Kerja Sama Ekonomi Internasional — printed p. 70 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 10:** *Samajik Adhyayan tatha Jibanupyogi Shiksha, Kaksha 12 (Social Studies and Life Skills Education, Grade 12)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; printed by Janak Shiksha Samagri Kendra Ltd.; first edition 2078 BS; no ISBN printed on the pages extracted. Title as printed: Samajik Adhyayan tatha Jibanupyogi Shiksha, Kaksha 12 (Social Studies and Life Skills Education, Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 365 (cover rendered and read; contents and the Economics unit read from page renders; 2,891,995 bytes, byte size matches the repo file exactly). Verdict: COMPLETE. Contents map: Economics parts Unit 10 "Arthatantra ra Bikash (Economy and Development)", printed pp. 298–335 (six of its seven lessons placed below; Lesson 2, Nepal's foreign policy and its relations with India and China, is a foreign-policy lesson whose trade-and-aid section is named here and not placed — the unit's own foreign trade lesson is Lesson 4); Unit 1 The Concept of Social and Life Skills Education; Unit 2 Digital and General Research Skills; Unit 4 Development of Society and Philosophy of Life; Unit 5 Geography and Social Life (its Lesson 4, the provinces' economic state and features, named here as a Geography part, not placed); Unit 7 Social Identity and Diversity; Unit 8 Constitution and Civic Consciousness; Unit 9 (migration); Unit 11 Education and Social Development. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 10 Lesson 3 "Nepalko Antarrashtriya Sambandha (Nepal's International Relations)", SAARC and SAFTA — teaches: regional economic integration as Nepal lives it — SAARC, its concept, objectives, principles and fourteen areas of cooperation (agriculture, energy, investment promotion, poverty alleviation, tourism, economic, trade and finance among them), and SAFTA, the South Asian Free Trade Area: its concept and objectives, its principles (obstacles to the movement of goods removed, fair competition in the free trade area), its benefits (production raised through wider regional trade, customs and non-tariff barriers reduced, comparative advantage gained) and its challenges for small states | Nepal, *Nepal Grade 12 Social Studies & Life Skills*, Unit 10 Lesson 3 "Nepalko Antarrashtriya Sambandha (Nepal's International Relations)", SAARC and SAFTA — printed p. 308 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia, Nepal). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+
+Nepal's own way (Nepal Grade 12 Social Studies & Life Skills): Grade 12 economics is the development unit with real tables — sector shares of GDP, the trade growth and direction tables, Nepal's growth rates through the COVID year, the HDI bands, and Nurkse's vicious circle drawn as two loops, supply side and demand side.
 
 Indonesia's own way (Indonesia Grade 12 Ekonomi): growth measured on Indonesia's own PDB series; trade taught through Indonesia's nickel-export case; budgets are Indonesia's real APBN/APBD with village funds (Dana Desa) as the regional-budget story.
 
@@ -73,4 +81,4 @@ Honduras's own way (Honduras Grade 6 G6 Student CCSS): Grade 6 goes global — w
 
 Honduras's own way (Honduras Grade 8 G8 Student CCSS): Grade 8 teaches Latin America's development problem head-on — development vs underdevelopment, the integration ladder, and the debt lesson built around Honduras's own fiscal-deficit chart and the structural-adjustment era.
 
-Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia, dominican republic, DR-CAFTA, honduras, indonesia
+Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia, dominican republic, DR-CAFTA, honduras, indonesia, nepal

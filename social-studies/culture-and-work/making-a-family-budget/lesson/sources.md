@@ -1,6 +1,6 @@
 # Sources — Making a Family Budget
 
-countries: Rwanda, Zambia, Ecuador, Dominican Republic, Dominica, Fiji
+countries: Rwanda, Zambia, Ecuador, Dominican Republic, Dominica, Fiji, Nepal
 
 **Book 1:** *Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: TEACHER). PDF pages: 106 (cover verified against the record title — read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected; this book appears only as a books.json record, with no size/pages in the record to check against). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society (Civics), TG content map printed p. xvi; Unit 3 Hygiene and sanitation, incl. HIV/AIDS, STIs and TB (Health), p. xviii; Unit 4 Civics and governance — peer pressure, national symbols, leadership and good governance (Civics), p. xviii; Unit 10 Colonial Rwanda (History), p. xxvi. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -72,7 +72,15 @@ Rwanda's own way (Rwanda Grade 2): Economics enters at P2 through the household 
 |---|---|
 | Fiji part — Income, Expenses and Savings — teaches: income, expenses, budget and savings defined, Rura's family fortnightly income and expenditure worked at $700, and options for depositing savings | Fiji, *Fiji Grade 6 Year 6 Social Science*, Income, Expenses and Savings — teaches: income, expenses, budget and savings defined, Rura's family fortnightly income and expenditure worked at $700, and options for depositing savings — printed p. 74 |
 
-**Acceptance count: taught in 5 countries (Rwanda, Ecuador, Dominican Republic, Dominica, Fiji). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 13:** *My Social Studies and Creative Arts, Grade 4* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition (Nepali) 2062 BS, revised edition (Nepali) 2065 BS, English Edition 2066 BS; no ISBN printed. Title as printed: My Social Studies and Creative Arts, Grade 4. Grade: 4 (student/teacher: STUDENT). PDF pages: 136 (cover/title page verified against the record title; 1,216,106 bytes, grab.py size/SHA verified). Verdict: COMPLETE. Contents map: Economics parts printed pp. 76–85 (Unit 7; lessons 3–5 placed below; lesson 1 "Working Habit" and lesson 2 "Respect of Work" are work-values/occupation stories, named here, not placed); family and neighbourhood pp. 2–9; traditions and values pp. 10–21; social problems pp. 22–35; Civics (Civic Awareness) pp. 36–53; Geography (Our Earth) pp. 54–65; History (Our History) pp. 66–75; Creative Arts pp. 86–end. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 7 Lesson 3 "Habit of Being Economical" — teaches: spend according to your income — the lesson contrasts two girls' habits and sets an exercise comparing two families' one-month income and expenditure tables (cloth, food, education, fares) to judge which household lives within its income | Nepal, *Nepal Grade 4 Social Studies & Creative Arts G4*, Unit 7 Lesson 3 "Habit of Being Economical" — printed p. 80 |
+
+**Acceptance count: taught in 6 countries (Rwanda, Ecuador, Dominican Republic, Dominica, Fiji, Nepal). Zambia is teacher-module evidence only — named here, counted nowhere.**
+
+Nepal's own way (Nepal Grade 4 Social Studies & Creative Arts G4): the family budget is taught by contrasting two households' real monthly income-and-expenditure tables (Rs. 10,000 against Rs. 15,000), and a family's income is drawn as a pie chart of its sources — milk, chickens, vegetables.
 
 Fiji's own way (Fiji Grade 3 Social Studies Year 3): Economics enters at Year 3 through the child's own pocket money and two working families' budgets in Fiji dollars — a fisherman paid monthly and a carpenter paid weekly.
 
@@ -96,4 +104,4 @@ Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the 
 
 Ecuador's own way (Ecuador Grade 13 Emprendimiento y Gestión): Economics enters the entrepreneurship course through the family and the small venture — costs are worked through a school-desk factory costed month by month in dollars, and every unit closes with a financial-education section that takes the same tools home to the family budget and the family's debts. The family budget itself is drawn up monthly, income (salaries, overtime, microenterprise income) against spending sorted as essential, of medium importance, or eventual/emergency, closing with the month's surplus or deficit.
 
-Searchable tags: making a family budget, Rwanda, Zambia, Ecuador, kwacha, shopping list, needs before wants, family budget, surplus, deficit, teacher module evidence, social studies, culture-and-work, Dominican Republic, Fiji
+Searchable tags: making a family budget, Rwanda, Zambia, Ecuador, kwacha, shopping list, needs before wants, family budget, surplus, deficit, teacher module evidence, social studies, culture-and-work, Dominican Republic, Fiji, nepal

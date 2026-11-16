@@ -9,7 +9,15 @@ countries: Nepal
 | Sub lesson 1 — Unit 5 Lesson 4: Economic state and features of Nepal's provinces | Nepal, *Nepal Grade 12 np-g12*, Unit 5 Lesson 4: Economic state and features of Nepal's provinces — printed p. 118 |
 | Sub lesson 2 — Nepal's way — the book's own teaching way | Nepal — the book's own way of teaching (see below) |
 
+**Book 2:** *My Social Studies and Creative Arts, Grade 4* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition (Nepali) 2062 BS, revised edition (Nepali) 2065 BS, English Edition 2066 BS; no ISBN printed. Title as printed: My Social Studies and Creative Arts, Grade 4. Grade: 4 (student/teacher: STUDENT). PDF pages: 136 (cover/title page verified against the record title; 1,216,106 bytes, grab.py size/SHA verified). Verdict: COMPLETE. Contents map: Economics parts printed pp. 76–85 (Unit 7; lessons 3–5 placed below; lesson 1 "Working Habit" and lesson 2 "Respect of Work" are work-values/occupation stories, named here, not placed); family and neighbourhood pp. 2–9; traditions and values pp. 10–21; social problems pp. 22–35; Civics (Civic Awareness) pp. 36–53; Geography (Our Earth) pp. 54–65; History (Our History) pp. 66–75; Creative Arts pp. 86–end. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 7 Lesson 4 "Products of our Development Region" — teaches: each of Nepal's five development regions is known by what it produces (east: tea, Dhaka cloth, chhurpi; centre: carpet, sugar, cement, pashmina; west, mid-west and far-west likewise), and families mostly use local products | Nepal, *Nepal Grade 4 Social Studies & Creative Arts G4*, Unit 7 Lesson 4 "Products of our Development Region" — printed p. 82 |
+
 **Acceptance count: taught in 1 country (Nepal).**
+
+Nepal's own way (Nepal Grade 4 Social Studies & Creative Arts G4): the family budget is taught by contrasting two households' real monthly income-and-expenditure tables (Rs. 10,000 against Rs. 15,000), and a family's income is drawn as a pie chart of its sources — milk, chickens, vegetables.
 
 Nepal's own way (Nepal Grade 12 np-g12): Grade 12 geography is federal and applied — each of Nepal's provinces studied four ways (administration, population, social-cultural life, economy) plus inter-provincial relations; disasters in Nepal with the national disaster-management system and plan-making; GIS/geo-information in social mapping; and a full urbanisation-and-migration unit (village–city relations, safe and dignified migration, migration effects).
 

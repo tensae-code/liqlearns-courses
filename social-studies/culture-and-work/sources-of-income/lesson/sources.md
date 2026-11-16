@@ -1,6 +1,6 @@
 # Sources — Sources Of Income
 
-countries: Bhutan, Laos, Rwanda, South Sudan, Zimbabwe, Venezuela, Jordan, Fiji
+countries: Bhutan, Laos, Rwanda, South Sudan, Zimbabwe, Venezuela, Jordan, Fiji, Nepal
 
 **Book 1:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
@@ -132,7 +132,23 @@ South Sudan's own way (South Sudan Primary 2): work is introduced through the vi
 |---|---|
 | Fiji part — Lesson 2.1 Consumer and Consumption — Personal Finance: Income — teaches: earned income (wages, salaries, profits, commission) and unearned income (welfare, interest, dividends, rent), plus alternative income from land rent, royalties, quarries and lending | Fiji, *Fiji Grade 11 Economics Year 11 Part 1*, Lesson 2.1 Consumer and Consumption — Personal Finance: Income — teaches: earned income (wages, salaries, profits, commission) and unearned income (welfare, interest, dividends, rent), plus alternative income from land rent, royalties, quarries and lending — printed p. 26 |
 
-**Acceptance count: taught in 7 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela, Jordan, Fiji). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 21:** *My Social Studies and Creative Arts, Grade 4* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition (Nepali) 2062 BS, revised edition (Nepali) 2065 BS, English Edition 2066 BS; no ISBN printed. Title as printed: My Social Studies and Creative Arts, Grade 4. Grade: 4 (student/teacher: STUDENT). PDF pages: 136 (cover/title page verified against the record title; 1,216,106 bytes, grab.py size/SHA verified). Verdict: COMPLETE. Contents map: Economics parts printed pp. 76–85 (Unit 7; lessons 3–5 placed below; lesson 1 "Working Habit" and lesson 2 "Respect of Work" are work-values/occupation stories, named here, not placed); family and neighbourhood pp. 2–9; traditions and values pp. 10–21; social problems pp. 22–35; Civics (Civic Awareness) pp. 36–53; Geography (Our Earth) pp. 54–65; History (Our History) pp. 66–75; Creative Arts pp. 86–end. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 7 Lesson 5 "Our Economic Activities" — teaches: a family earns from several sources at once — the worked example draws one family's income as a pie chart (selling milk Rs. 5,000, selling vegetables Rs. 3,000, selling chickens Rs. 1,000) and pupils chart a neighbour family's income sources the same way | Nepal, *Nepal Grade 4 Social Studies & Creative Arts G4*, Unit 7 Lesson 5 "Our Economic Activities" — printed p. 84 |
+
+**Book 22:** *Samajik Adhyayan tatha Manav Mulya Shiksha, Kaksha 4 [Parikshan] (Social Studies and Human Value Education, Grade 4, trial edition)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; trial edition (Parikshan Sanskaran) 2079 BS; no ISBN printed. Title as printed: Samajik Adhyayan tatha Manav Mulya Shiksha, Kaksha 4 [Parikshan] (Social Studies and Human Value Education, Grade 4, trial edition). Grade: 4 (student/teacher: STUDENT). PDF pages: 141 (cover verified against the record title; 2,817,079 bytes, grab.py size/SHA verified). Read from page renders: the text layer is in a legacy Nepali font encoding, so Unit 6 was read page-by-page from 100-DPI renders. Verdict: COMPLETE. Contents map: Economics parts printed pp. 92–116 (Unit 6 "Hamra Arthik Kriyakalap"; lessons 2–5 placed below; lesson 1 "Kamko Samman Garau / Let's Respect Work" pp. 93–97 is a work-values lesson with income questions in its exercises, named here, not placed); community pp. 1–20; values pp. 21–40; Civics (Nagarik Chetana) pp. 41–65; social problems and solutions pp. 66–80; History (Hamro Vigat) pp. 81–91; Geography (Hamro Prithvi) pp. 117–134. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 6 Lesson 3 "Hamra Aya Arjanka Karyaharu (Our Income-Earning Works)" — teaches: people's needs are many, work is how they are met and income is earned after work; the community's income-earning activities span farming and cash crops, livestock, beekeeping and poultry, trade and shops, mills and transport, and services, and income-earning is then defined and its importance stated (skills grow, employment is created, living standards rise), with a newspaper case of Simle village's orange income | Nepal, *Nepal Grade 4 Social Studies & Human Value Education G4 trial*, Unit 6 Lesson 3 "Hamra Aya Arjanka Karyaharu (Our Income-Earning Works)" — printed p. 104 |
+
+**Acceptance count: taught in 8 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela, Jordan, Fiji, Nepal). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Nepal's own way (Nepal Grade 4 Social Studies & Creative Arts G4): the family budget is taught by contrasting two households' real monthly income-and-expenditure tables (Rs. 10,000 against Rs. 15,000), and a family's income is drawn as a pie chart of its sources — milk, chickens, vegetables.
+
+Nepal's own way (Nepal Grade 4 Social Studies & Human Value Education G4 trial): the new trial curriculum teaches the village economy as one circle — make it locally (bamboo craft, sugarcane gud, Dhaka cloth), sell it at the weekly haat bazaar, earn income from the work, and keep what is left in the child's khutruke (piggy bank) for future use.
 
 Fiji's own way (Fiji Grade 3 Social Studies Year 3): Economics enters at Year 3 through the child's own pocket money and two working families' budgets in Fiji dollars — a fisherman paid monthly and a carpenter paid weekly.
 
@@ -165,4 +181,4 @@ Laos' own way (Laos Grade 10 Business Combined student): the Combined book is th
 
 Jordan's own way (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family story that starts at the hundred-year-old Hejaz railway, runs from barter and camel peddlers to e-commerce, and lands on the child's own choices — what a family can and cannot do without, where income comes from, and what 2, 3, 5 or 12 dinars in hand can buy.
 
-Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan, zimbabwe, teacher guide evidence, venezuela, jordan, Fiji
+Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan, zimbabwe, teacher guide evidence, venezuela, jordan, Fiji, nepal

@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **601**
+Economics lessons across the Economics titles: **618**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4506,5 +4506,21 @@ poverty line, The digital economy, Regional budgets
 — APBD, Theories of economic growth, Economic
 development and its indicators, Factors that drive
 development and What drives and blocks
-international trade).
+international trade); +17 for Nepal,
+2026-11-16 — Microeconomics: Traditional and
+modern agriculture in Nepal and Form, place,
+time and ownership utility; Market and Money:
+Bank accounts and payment cards, Remittance
+services and their costs, Cooperative savings
+and loans and Insurance — life and non-life;
+Macroeconomics: Economic activities — meaning
+and importance, Tourism in Nepal's economy,
+Agriculture, industry and trade — how they hold
+each other up, Nepal's foreign trade, Foreign
+employment from Nepal, Labour, employment and
+entrepreneurship, Tax revenue and non-tax
+revenue, Periodic plans and development targets,
+Three economic systems — capitalist, socialist,
+mixed, The vicious circle of poverty — Nurkse
+and Business tax and PAN in Nepal).
 

@@ -169,13 +169,27 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India,
 | Cuba part — Capítulo 3.2 Sector industrial (con la minería del níquel del noreste) y sector turístico [placement slug: culture-and-work/secondary-activities] | Cuba, *Cuba Grade 9 Geografía de Cuba G9 (2012)*, Capítulo 3.2 Sector industrial (con la minería del níquel del noreste) y sector turístico — printed p. 68 |
 | Cuba part — Capítulo 4.4 Sector secundario [placement slug: culture-and-work/secondary-activities] | Cuba, *Cuba Grade 9 Geografía de Cuba G9 (2025)*, Capítulo 4.4 Sector secundario — printed p. 189 |
 
+**Book 54:** *My Social Studies and Creative Arts, Grade 3* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2051 BS, English Version 2066 BS, Updated English Version 2067 BS; no ISBN printed. Title as printed: My Social Studies and Creative Arts, Grade 3. Grade: 3 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title; 4,294,863 bytes, grab.py size/SHA verified). Verdict: COMPLETE. Contents map: Economics parts printed pp. 52–59 (Unit 7, lessons 2–4 placed below; lesson 1 "Importance of Work" is a work-values story, named here, not placed); family/neighbourhood pp. 2–9; traditions and values pp. 10–17; social problems pp. 18–25; Civics (Civic Awareness) pp. 26–35; Geography (Our Earth) pp. 36–43; History (Our Past) pp. 44–51; Creative Arts pp. 61–93. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 7 Lesson 4 "Things Made in Our City" — teaches: city factories and industries (Birgunj sugar, textiles, soap; Butwal cloth, biscuits, shoes) produce for local use and export, while food comes in from surrounding farmland | Nepal, *Nepal Grade 3 Social Studies & Creative Arts G3*, Unit 7 Lesson 4 "Things Made in Our City" — printed p. 58 |
+
+**Economics expansion — Nepal (against Book 37 above, already cited in this file from the earlier waves; the Economics placement is stocked as a distinct evidence row, not as a second book):**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Economics expansion — Unit 8 Lesson 3 "Udyog (Industry)", classification and medium/large sections — teaches: industry defined (goods and services produced using labour, capital, skill and technology), Nepal's industrial history in brief, industry's importance, and the state's own classification by fixed capital under the Industrial Enterprises Act — micro, cottage, small (to Rs. 15 crore), medium (Rs. 15–50 crore) and large (over Rs. 50 crore) — with what medium and large industry (sugar, cement, jute, cloth, rice, iron) does for employment, poverty reduction and self-reliance | Nepal, *Nepal Grade 9 Social Studies*, Unit 8 Lesson 3 "Udyog (Industry)", classification and medium/large sections — printed p. 202 |
+
 **Acceptance count: taught in 28 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+Nepal's own way (Nepal Grade 3 Social Studies & Creative Arts G3): economics enters through the child's own shopping and village — a Bhailo gift of Rs. 100 spent from a written needs list with a priced bill and change kept, and village industries (Dhaka cloth, tea) taught through the chain: use local products, more people get employment, income rises, the village becomes rich.
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
-Searchable tags: secondary activities: modern light and heavy industry, culture and work, social studies, ethiopia
+Searchable tags: secondary activities: modern light and heavy industry, culture and work, social studies, ethiopia, nepal
 
 Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course built around a class teacher character and group investigations; Geography is taught through the landform of Bengal itself — rivers, silt and hills explaining settlement, ancient states, ports and even the 1971 war — plus hands-on map-making (home-to-school route maps, a world-tour board game) and a pupil-run nature conservation club.
 

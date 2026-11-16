@@ -1,0 +1,15 @@
+# Sources — Three economic systems — capitalist, socialist, mixed
+
+countries: Nepal
+
+**Book 1:** *Samajik Adhyayan tatha Jibanupyogi Shiksha, Kaksha 12 (Social Studies and Life Skills Education, Grade 12)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; printed by Janak Shiksha Samagri Kendra Ltd.; first edition 2078 BS; no ISBN printed on the pages extracted. Title as printed: Samajik Adhyayan tatha Jibanupyogi Shiksha, Kaksha 12 (Social Studies and Life Skills Education, Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 365 (cover rendered and read; contents and the Economics unit read from page renders; 2,891,995 bytes, byte size matches the repo file exactly). Verdict: COMPLETE. Contents map: Economics parts Unit 10 "Arthatantra ra Bikash (Economy and Development)", printed pp. 298–335 (six of its seven lessons placed below; Lesson 2, Nepal's foreign policy and its relations with India and China, is a foreign-policy lesson whose trade-and-aid section is named here and not placed — the unit's own foreign trade lesson is Lesson 4); Unit 1 The Concept of Social and Life Skills Education; Unit 2 Digital and General Research Skills; Unit 4 Development of Society and Philosophy of Life; Unit 5 Geography and Social Life (its Lesson 4, the provinces' economic state and features, named here as a Geography part, not placed); Unit 7 Social Identity and Diversity; Unit 8 Constitution and Civic Consciousness; Unit 9 (migration); Unit 11 Education and Social Development. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 10 Lesson 1 "Nepalko Arthatantra ra Bikash (Nepal's Economy and Development)", economic systems — teaches: the economy defined as the integrated structure of the interrelated activities of production, consumption, exchange, distribution and revenue, and the world's three economic systems distinguished — the capitalist (a free system where price is fixed by the interplay of demand and supply and the private sector leads), the socialist (wholly state-controlled and directed, a centrally planned economy) and the mixed (the good sides of both combined, the system Nepal and India follow) | Nepal, *Nepal Grade 12 Social Studies & Life Skills*, Unit 10 Lesson 1 "Nepalko Arthatantra ra Bikash (Nepal's Economy and Development)", economic systems — printed p. 299 |
+
+**Acceptance count: taught in 1 country (Nepal).**
+
+Nepal's own way (Nepal Grade 12 Social Studies & Life Skills): Grade 12 economics is the development unit with real tables — sector shares of GDP, the trade growth and direction tables, Nepal's growth rates through the COVID year, the HDI bands, and Nurkse's vicious circle drawn as two loops, supply side and demand side.
+
+Searchable tags: three economic systems — capitalist, socialist, mixed, nepal, social studies, macroeconomics

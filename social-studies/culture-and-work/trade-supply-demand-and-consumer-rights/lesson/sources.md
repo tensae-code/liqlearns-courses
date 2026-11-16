@@ -55,6 +55,18 @@ countries: Ethiopia, Mongolia, Jamaica, Zimbabwe, Nepal, Jordan, Armenia, Guatem
 |---|---|
 | South Sudan part — Unit 3, Activity 2: Problems facing crop farming, teacher's notes — when there is large production of crops, farmers are forced to sell at a cheaper price and cannot get back all the money they used in farming; other problems are climate change, pests and diseases, lack of money for fertiliser and seed, poor roads and untrained workers (teacher guide — evidence) | South Sudan, *South Sudan Primary 4 P4 Social Studies TG* (teacher guide), Unit 3, Activity 2: Problems facing crop farming, teacher's notes — printed p. 43 |
 
+**Economics expansion — Nepal (against Book 6 above, already cited in this file from the earlier waves; the Economics placement is stocked as a distinct evidence row, not as a second book):**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Economics expansion — Unit 6 Lesson 4 "Hami Upabhokta: Hamro Adhikar (We Consumers: Our Rights)" — teaches: consumer, consumable goods and consumer rights defined; a quality good defined by its label (raw materials, storage, dates, use and effects); the legal frame — the Consumer Protection Act 2075 and consumer rights as a fundamental right in Article 44 of the Constitution, with compensation for harm; the aware consumer checks the MRP, label, weight and dates and takes a PAN/VAT bill | Nepal, *Nepal Grade 7 Social Studies & Human Value Education G7*, Unit 6 Lesson 4 "Hami Upabhokta: Hamro Adhikar (We Consumers: Our Rights)" — printed p. 115 |
+
+**Economics expansion — Nepal (against Book 7 above, already cited in this file from the earlier waves; the Economics placement is stocked as a distinct evidence row, not as a second book):**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Economics expansion — Unit 6 Lesson 4 "Hami Upabhokta: Hamro Adhikar (We Consumers: Our Rights)" — teaches: the guide's plan for the consumer-rights lesson — what a consumer is, what consumer rights cover, and how an aware consumer protects them (teacher guide — evidence) | Nepal, *Nepal Grade 7 Teacher's Guide G7 (2079)* (teacher guide), Unit 6 Lesson 4 "Hami Upabhokta: Hamro Adhikar (We Consumers: Our Rights)" — guide PDF p. 128 |
+
 **Acceptance count: taught in 6 countries (Ethiopia, Mongolia, Nepal, Jordan, Armenia, Syria). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere. South Sudan is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
@@ -65,7 +77,7 @@ Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Boo
 
 Proclamation No. 813/2006 is carried exactly as printed in the student placement.
 
-Searchable tags: trade: supply demand and consumer rights, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, Jamaica, curriculum guide evidence, Syria, Made in Syria, supply and demand, orange juice, water bill, south sudan, zimbabwe, teacher guide evidence
+Searchable tags: trade: supply demand and consumer rights, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, Jamaica, curriculum guide evidence, Syria, Made in Syria, supply and demand, orange juice, water bill, south sudan, zimbabwe, teacher guide evidence, nepal
 
 Zimbabwe's own way (Grade 6) (teacher guide — evidence): Grade 6 shelter becomes settlement geography — development of settlements in Zimbabwe, siting of shelter in rural and urban areas, and disaster and risk management; transport adds road signs/signals/markings and Zimbabwe's transport and communication links with other countries, plus ICT development. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
 

@@ -1,6 +1,6 @@
 # Sources — Markets — and the market for goods and services
 
-countries: Ethiopia, Guatemala, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia
+countries: Ethiopia, Guatemala, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia, Nepal
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -89,7 +89,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Armenia part — Economics expansion — 4.2 Market economy: a market as where buyers and sellers meet to buy and sell goods and services, physical (a food market) or virtual (an online shop) | Armenia, *Armenia Grade 9 Social Science student*, 4.2 Market economy — printed p. 93 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+**Book 14:** *Samajik Adhyayan tatha Manav Mulya Shiksha, Kaksha 4 [Parikshan] (Social Studies and Human Value Education, Grade 4, trial edition)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; trial edition (Parikshan Sanskaran) 2079 BS; no ISBN printed. Title as printed: Samajik Adhyayan tatha Manav Mulya Shiksha, Kaksha 4 [Parikshan] (Social Studies and Human Value Education, Grade 4, trial edition). Grade: 4 (student/teacher: STUDENT). PDF pages: 141 (cover verified against the record title; 2,817,079 bytes, grab.py size/SHA verified). Read from page renders: the text layer is in a legacy Nepali font encoding, so Unit 6 was read page-by-page from 100-DPI renders. Verdict: COMPLETE. Contents map: Economics parts printed pp. 92–116 (Unit 6 "Hamra Arthik Kriyakalap"; lessons 2–5 placed below; lesson 1 "Kamko Samman Garau / Let's Respect Work" pp. 93–97 is a work-values lesson with income questions in its exercises, named here, not placed); community pp. 1–20; values pp. 21–40; Civics (Nagarik Chetana) pp. 41–65; social problems and solutions pp. 66–80; History (Hamro Vigat) pp. 81–91; Geography (Hamro Prithvi) pp. 117–134. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 6 Lesson 5 "Hamro Hatbazaar (Our Haat Bazaar)" — teaches: the weekly haat bazaar as a market — held on a fixed day (here every Monday) so village products can be bought and sold in one place; sellers call out their goods, buyers get what they need, the haat creates income opportunities and develops local skill and art, and it is distinguished from the festival mela | Nepal, *Nepal Grade 4 Social Studies & Human Value Education G4 trial*, Unit 6 Lesson 5 "Hamro Hatbazaar (Our Haat Bazaar)" — printed p. 110 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia, Nepal). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+
+Nepal's own way (Nepal Grade 4 Social Studies & Human Value Education G4 trial): the new trial curriculum teaches the village economy as one circle — make it locally (bamboo craft, sugarcane gud, Dhaka cloth), sell it at the weekly haat bazaar, earn income from the work, and keep what is left in the child's khutruke (piggy bank) for future use.
 
 Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
@@ -111,4 +119,4 @@ Mongolia's own way (Mongolia Grade 8 Social Studies 8): the economy is taught fr
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit, rwanda, palestine, cambodia, bangladesh, yemen, vietnam, armenia
+Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit, rwanda, palestine, cambodia, bangladesh, yemen, vietnam, armenia, nepal

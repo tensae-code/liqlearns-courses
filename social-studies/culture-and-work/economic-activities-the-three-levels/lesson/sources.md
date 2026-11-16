@@ -326,7 +326,21 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Yemen part — Unit 1 L4 My city §economic activity — teaches: village work (farming, herding, fishing) contrasted with city work (trade, industry and services) as the activities people live by | Yemen, *Yemen Grade 4 Al-Tarbiya al-Ijtima'iya*, Unit 1 L4 My city §economic activity — printed p. 20 |
 
+**Economics expansion — Nepal (against Book 46 above, already cited in this file from the earlier waves; the Economics placement is stocked as a distinct evidence row, not as a second book):**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Economics expansion — Unit 7 Lesson 3 "National Production" — teaches: the country's goods are sorted by their source of production — agriculture, cottage industries and large-scale industries — with a product/source/place table, and the surplus rule: what is not consumed at home is sold out, "this is what we call export; it earns us foreign currency", with imports identified by contrast in the exercises | Nepal, *Nepal Grade 5 Social Studies & Creative Arts G5*, Unit 7 Lesson 3 "National Production" — printed p. 84 |
+
+**Book 89:** *Samajik Adhyayan tatha Jibanupyogi Shiksha, Kaksha 12 (Social Studies and Life Skills Education, Grade 12)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; printed by Janak Shiksha Samagri Kendra Ltd.; first edition 2078 BS; no ISBN printed on the pages extracted. Title as printed: Samajik Adhyayan tatha Jibanupyogi Shiksha, Kaksha 12 (Social Studies and Life Skills Education, Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 365 (cover rendered and read; contents and the Economics unit read from page renders; 2,891,995 bytes, byte size matches the repo file exactly). Verdict: COMPLETE. Contents map: Economics parts Unit 10 "Arthatantra ra Bikash (Economy and Development)", printed pp. 298–335 (six of its seven lessons placed below; Lesson 2, Nepal's foreign policy and its relations with India and China, is a foreign-policy lesson whose trade-and-aid section is named here and not placed — the unit's own foreign trade lesson is Lesson 4); Unit 1 The Concept of Social and Life Skills Education; Unit 2 Digital and General Research Skills; Unit 4 Development of Society and Philosophy of Life; Unit 5 Geography and Social Life (its Lesson 4, the provinces' economic state and features, named here as a Geography part, not placed); Unit 7 Social Identity and Diversity; Unit 8 Constitution and Civic Consciousness; Unit 9 (migration); Unit 11 Education and Social Development. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part — Unit 10 Lesson 1 "Nepalko Arthatantra ra Bikash (Nepal's Economy and Development)", sector table — teaches: Nepal's economy analysed in its three sectors — primary (agriculture, forestry and fishing, mines and quarrying), secondary (manufacturing industry, construction, electricity, gas and water) and tertiary (trade, transport, finance, insurance, services) — with each sector's share of GDP and its growth rate tabled for fiscal year 2076/77 as printed (primary 27.51 percent of GDP, secondary 12.54, tertiary 61.05) | Nepal, *Nepal Grade 12 Social Studies & Life Skills*, Unit 10 Lesson 1 "Nepalko Arthatantra ra Bikash (Nepal's Economy and Development)", sector table — printed p. 299 |
+
 **Acceptance count: taught in 32 countries (Ethiopia, Guatemala, Ukraine, Ecuador, Bolivia, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Samoa, Colombia, Malaysia, Eritrea, Rwanda, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Moldova, Honduras, Nepal, Nicaragua, Bhutan, Armenia, Cuba, Greece, Kazakhstan, Kuwait, Jordan, Yemen). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+
+Nepal's own way (Nepal Grade 12 Social Studies & Life Skills): Grade 12 economics is the development unit with real tables — sector shares of GDP, the trade growth and direction tables, Nepal's growth rates through the COVID year, the HDI bands, and Nurkse's vicious circle drawn as two loops, supply side and demand side.
 
 Yemen's own way (Grade 4 Al-Tarbiya al-Ijtima'iya): the economy is taught as the homeland's wealth — crops, herds, fish, workshops and ports — with the state, the agricultural associations and the export harbour all named as actors a nine-year-old can point to.
 
@@ -356,7 +370,7 @@ Bolivia's own way (Grade 10, Secundaria 4): Secundaria 4 is the nineteenth-centu
 
 Jordan's own way (Jordan Grade 6 Term 2): Economics arrives as one late unit built entirely on Jordanian ground — Jordan's solar and wind projects, water scarcity and water harvesting, and a closing project on Jordan's water problem; production is taught through a biscuit's journey from wheat field to home.
 
-Searchable tags: economic activities: the three levels, culture and work, social studies, ethiopia, Guatemala, Ukraine, Geografiya Gilberg, Ecuador, Bolivia, Ciencias Sociales Bolivia, eritrea economics expansion, primary secondary tertiary activities, palestine, venezuela, jordan, yemen
+Searchable tags: economic activities: the three levels, culture and work, social studies, ethiopia, Guatemala, Ukraine, Geografiya Gilberg, Ecuador, Bolivia, Ciencias Sociales Bolivia, eritrea economics expansion, primary secondary tertiary activities, palestine, venezuela, jordan, yemen, nepal
 
 Palestine's own way (Grade 7, PS G7P1): the world is taught continent by continent through one fixed lens — astronomical location (latitude and longitude) and geographical location first, then surface features and general characteristics — with the spread of the Islamic state across each continent as the historical thread.
 
