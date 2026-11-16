@@ -1,6 +1,6 @@
 # Sources — Hearing Each Instrument
 
-countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singapore, Trinidad and Tobago, Iceland, Malta
+countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singapore, Trinidad and Tobago, Iceland, Malta, Fiji
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singa
 
 **Book 11:** *Music Shines I — Unit 8 Instruments of the Orchestra (Chapter 7)* (teacher guide pages + pupil activities, English) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 1 per record; the PDF carries the Year 1, Year 2 and Year 3 levels (printed pp. 116–122), 7 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 8. Cover/title page verified against the record title — first page is the Unit 8 divider, printed p. 116. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 12:** *Performing Arts — Music Is Fun, Teachers Guide Year 1* (teacher guide, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 1, 28 PDF pp. TEACHER — teacher guide. The record says student book; the cover proves TEACHER GUIDE — carried exactly as filed. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: music-first performing arts organised by themes (family, birthday, Fiji Day, weather, environment, flowers); Fiji's own instruments (lali slit drum, derua bamboo stamping tube) taught inside the world percussion family, and the national anthem taught in English, iTaukei and Fiji Hindi. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | The song “እኛም አለን ሙዚቃ” (We Too Have Music) — verses imitating each instrument's sound in turn (masenqo, krar, kebero, washint) | Grade 1 Student Textbook, printed p. 68 |
@@ -45,8 +47,9 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singa
 | Iceland — The first drum kits: when the drum kit appeared its bass drums were marching-band huge (measure them in inches against pizzas); Gene Krupa and the drum battle (teacher guide — evidence) | Book 10, printed p. 43 |
 
 | Malta — Year 3 Activity 2 "Fill in the blanks": knowing each instrument by its sound alone — eight heard sounds identified and named from piano, flute, violin, drum, trumpet, clarinet, trombone and triangle (teacher guide — evidence; original target `music/hearing-each-instrument`) | Book 11, printed p. 122 |
+| Fiji — Unit 1 Families of Musical Instruments, Activity 1 — matching each instrument's sound (CD tracks) to its picture and name across percussion, string, woodwind and brass families (teacher guide — evidence) | Book 12, printed p. 2 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, United Kingdom, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, United Kingdom, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The song is placed by name, purpose and teaching content only — its words are never transcribed; only the sound-words are the teaching content, as the placements state. A coffee-ceremony painting printed with the Grade 1 chapter's singing work belongs to the course's appreciation material and is not stocked as a part of this lesson.
 

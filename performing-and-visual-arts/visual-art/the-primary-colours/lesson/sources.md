@@ -1,7 +1,7 @@
 # Sources — The Primary Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Pakistan
+countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia, Barbados, Nicaragua, Pakistan
 
 **Book 5:** *آرٹ اینڈ ڈرائنگ 7 (Art and Drawing 7)* (student book, Urdu with English lesson titles) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; year 2018 (first edition, February 2018 printing shown on contents page); no ISBN printed, Class 7, 84 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; 8,109,694 bytes, matches the record exactly). Read from the recorded source_url (Google Drive via freebooks.pk) after grab.py tree returned HTTP 404 — byte size matches the record exactly, so the book is read, but the pushed copy is a PHANTOM PUSH (library debt). The book is a scan with no usable text layer; it was read visually, page by page, from 100-DPI contact sheets. Downloaded copy staged under the push-don't-delete rule at the phase3-staging grade-07 record path (books.json record already exists there). Excluded per standing rules: the Glossary (فرہنگ, printed pp. 80–83) — inventory-only, named here, not stocked. Pakistan's own way: a drawing-first book — every lesson is a pictured construction: set the centre line and eye level, build the object from ellipses and boxes in numbered steps, then finish in colour; its own traditions close the book: Islamic calligraphy written freehand inside geometric frames, a mosque built up step by step and modelled in wheat straw, and abri — marbled paper made with oil colour on water. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/pakistan-placements.md.
 
+**Book 6:** *Art is Fun 2 — Lines and Colour Classification* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 2, 69 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: a single-element workbook — line first, then colour classification — built from low-cost local materials (punched paper dots, potato prints, cardboard-strip weaving, folded dyeing). Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What primary colours are | Ethiopia, *Grade 3 Performing and Visual Arts Student Textbook*, §1.2, printed p. 6 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Barbados, Nicaragua, Pakistan
 | Barbados — Picture Composition (Class 1) — identifying the primary and secondary colours (curriculum guide — evidence) | Book 3, printed p. 4 |
 | Nicaragua — Primary and secondary colours — naming and using the primary colours and the secondaries they make (teacher guide — evidence) | Book 4, printed p. 15 |
 | Pakistan — Chapter 5: Design — the three primary colours named and shown as colour circles: red, blue and yellow (student book; original target `visual-art/the-primary-colours`) | Book 5, printed p. 42 |
+| Fiji — Colour Classification: Primary Colours — red, yellow and blue cannot be mixed from other colours; colouring characters and drawings in the three primaries (student book) | Book 6, printed pp. 40–49 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Pakistan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 3 countries (Ethiopia, Pakistan, Fiji). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Sub lesson 5 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's basic-colours lesson and colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook, so the acceptance count counts pupil-taught content. The song "መስራች ቀለማት" is named and its teaching summarised only — its words are not transcribed; the song is sung in the Music unit's Primary Colours Song lesson. The Grade 3 chapter summary's closing exercise carries the check item "green is a primary colour — false", which the question stock uses.
 

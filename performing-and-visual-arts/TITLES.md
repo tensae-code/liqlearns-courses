@@ -190,6 +190,14 @@ The titles, in ladder order:
  The Art expansion added: Turkmen nagysh ornament — national patterns, each with its own name, recalling flowers and plants, studied on real dress and used to decorate a dress model and New Year tree toys; patchwork and appliqué — a flowering tree branch made from coloured paper pieces; drawing from imagination — a free theme chosen from your own daily life; and landscape painting — autumn's leaf carpet with near trees bigger and far trees smaller, leafless trees and winter in gouache, and spring's rainbow (Turkmenistan student book).
  The Art expansion added: Makonde and Psikhelekedana sculpture of Mozambique — the Makonde carving of Cabo Delgado in pau-preto and pau-rosa, its Shetani, Ujamaa and Figurative styles and the Mapiko mask, and Psikhelekedana, the south's mafurreira-wood carving of rural scenes, cities and history, with Dino Jethá; medieval art — Romanesque horizontal temples and Gothic towers reaching toward heaven; Renaissance art — da Vinci, Michelangelo, Rafael and Donatello; pointillism — colour and tone from the fusion of dots; mixed techniques — drawing, collage, cutting, printing and stamping combined, strengthened with natural and recycled materials; visual communication — the image as a code, with sender, receiver, message and channel; embroidery — cross stitch, vagonite and Russian stitch; technical drawing — standardised geometric drawing, the four arches, orthogonal projections in two and three views, axonometry isometric, dimetric and cavaleira, and dimensioning in millimetres; and geometric and technical drawing — spirals, the óvulo and the oval, and the conic curves, ellipse, parabola and hyperbola (Mozambique student books).
  The Art expansion added: Arabic and Islamic calligraphy — writing freehand inside a geometric frame and colouring it, the name Allah in a rectangle, Muhammad in a semicircle, and the four caliphs composed together in a semicircle, traced in dotted outline first, then inked and coloured; abri marbled paper — oil colours thinned with oil, floated as drops on water in a wide tray, the paper laid on the surface and lifted off with a swirling many-coloured marble; architecture of Pakistan — the Great Bath at Mohenjo-daro, the Julian Monastery, Lahore Fort, the Badshahi Mosque (1673–74), the Mausoleum of Muhammad Ali Jinnah and Minar-e-Pakistan; master painters of Pakistan — Haji Muhammad Sharif, Abdul Rahman Chughtai, Allah Baksh, Shakir Ali, Sadequain, Zahoor-Ul-Akhlaq and Anna Molka Ahmad, honoured by name; calligraphers of Pakistan — Sadequain, Shakir Ali, Khurshid Alam Gohar Qalam and Gulgee; and Pakistani textiles — carpet, ajrak, embroidery and ralli work, the country's own cloth arts (Pakistan student books).
+ The Art expansion added:
+   Fiji masi: tapa cloth — masi from the paper mulberry,
+   beaten with the ike mallet, its design dialects place by
+   place (Vatulele big and bold, Southern Lau detailed,
+   Taveuni in basic shapes), and stencil printing on masi,
+   borders first and centre last; and airbrushing — spraying
+   pigment with air, inky paint, masked sharp edges and
+   fixative (Fiji student books).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -368,6 +376,16 @@ The titles, in ladder order:
    music — Peter and the Wolf; and Charles Camilleri and
    the Malta Suite (Malta teacher guides, evidence).
  The Art expansion added: bagshy and sazanda — Turkmen music's people by role, the kompozitor, şahyr, bagshy, sazanda, ýerine ýetiriji and diňleýji; Turkmen national instruments — dutar, gyjak, gargy tüýdük, dilli tüýdük and gopuz, pictured before any world instrument; and Tchaikovsky for children — the Children's Album pieces and the Waltz of the Snowflakes from The Nutcracker (Turkmenistan student books, Turkmen and Russian tracks).
+ The Art expansion added:
+   Fiji's lali and derua — the slit drum and bamboo stamping
+   tubes (teacher guide, evidence); singing in rounds: canon
+   — London's Burning and Lodoni Sa Kama (teacher guide,
+   evidence); sargam: Hindi solfa — sa re ga ma beside tonic
+   solfa; playing school instruments — recorder fingerings
+   and ukulele, guitar and keyboard chords; and playing in
+   an ensemble — melody, harmony and accompaniment balanced
+   into one performance (Fiji student books, with the Year 1
+   teacher guide as evidence where named).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -470,6 +488,14 @@ The titles, in ladder order:
    Tchaikovsky's Nutcracker: Clara, the Mouse King battle
    and the Land of Sweets (Malta teacher guide, evidence).
  The Art expansion added: Kushtdepdi — the Turkmen folk dance, taught by listening to its music, saying how it sounds, and performing its movements, with its music printed in the book's appendix in Durdy Nuryýew's arrangement (Turkmenistan student book, Russian track).
+ The Art expansion added:
+   Fiji traditional songs and dances — the songs of Fiji's
+   peoples for Fiji Day, and the dances and songs of Fiji's
+   other cultures, Seasea, Meke iWau and Meke Wesi among
+   them; and Fiji meke dance — the community's own dance
+   researched and performed in traditional attire (Fiji
+   student books, with the Year 1 teacher guide as evidence
+   where named).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
@@ -543,3 +569,10 @@ The titles, in ladder order:
    pyramidal four-water roof, rectangular with one or two
    waters — built from local materials, against the city's
    architecture and José Forjaz (Mozambique student book).
+
+ The Art expansion added:
+   Fiji traditional ceremonial arts and attire — the masi
+   costume of weddings and meke, made by mother, aunty or
+   grandmother and described in Show and Tell, and Fiji's
+   ceremonial and religious items, sevusevu and Diwali as
+   the worked examples (Fiji student books).

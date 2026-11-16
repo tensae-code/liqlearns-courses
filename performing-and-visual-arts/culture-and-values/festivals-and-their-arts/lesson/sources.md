@@ -1,6 +1,6 @@
 # Sources — Festivals and Their Arts
 
-countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan
+countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan, Fiji
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenist
 
 **Book 8:** *Aýdym-saz — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Music and Singing, textbook for Grade 1 of general secondary schools), Üçünji neşir (3rd edition)* (student book, Turkmen) — Turkmenistan, by R. Amangeldiýew, K. Garowow; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2019, no ISBN printed (UOK/KBK codes only), Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE (title page verified against the record title; fetched with grab.py tree, 4,729,163 bytes and 80 pages, both matching the record). Excluded per the placements: the end-of-section "Soraglar" question sets and "Gönükme" exercises are the book's own apparatus, named here, not placed; the State Anthem is printed in the front matter and is placed once as a song of the country, by title only. All songs are placed by title, subject and composer/poet only — never lyrics. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
+**Book 9:** *Performing Arts — Music Is Fun, Teachers Guide Year 1* (teacher guide, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 1, 28 PDF pp. TEACHER — teacher guide. The record says student book; the cover proves TEACHER GUIDE — carried exactly as filed. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: music-first performing arts organised by themes (family, birthday, Fiji Day, weather, environment, flowers); Fiji's own instruments (lali slit drum, derua bamboo stamping tube) taught inside the world percussion family, and the national anthem taught in English, iTaukei and Fiji Hindi. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | The festivals of the year (Sub lesson 1) | Grade 3 Student Textbook, §(ረ) — religious festivals, the set, printed p. 51 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenist
 
 | Trinidad and Tobago — Integrated Arts themes (Form 2) — festivals named as ready-made integrated themes: Christmas, Republic Day, Emancipation, Divali, Phagwa, Eid ul Fitr, Hosay, Ramleela and Carnival, each already joining visual art, drama, music and dance (curriculum guide — evidence) | Book 7, printed p. 35 |
 | Turkmenistan — "Nowruz" (music Aşyr Abdyllaýew, words Araznury Ataýew) — the Nowruz festival song: Nowruz is the beginning of the new and the end of the old, the source of hopes, and its good customs pass to the generations (summary only) (student book; original target `culture-and-values/festivals-and-their-arts`) | Book 8, printed p. 69 |
+| Fiji — Unit 3 Fiji Day — Fiji Day (independence, 10 Oct 1970) and its arts: the marching band leading the town march, and celebrating through song and dance (teacher guide — evidence) | Book 9, printed p. 13 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Turkmenistan).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Turkmenistan).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Citation fix (PVA coverage audit §4, G3S-64): the Genna game song 'አሲና በል' (Asina Bel) stands on printed p. 54 in the Grade 3 book; this lesson previously folded it under the Arafa-and-Genna citation at printed p. 53. The row above now cites its own page, printed p. 54. The song is placed by name and purpose only — a call-and-response game song of the Genna game — and is never transcribed.
 

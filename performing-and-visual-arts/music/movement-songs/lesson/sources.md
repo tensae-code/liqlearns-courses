@@ -1,6 +1,6 @@
 # Sources — Movement Songs
 
-countries: Ethiopia, Turkmenistan
+countries: Ethiopia, Turkmenistan, Fiji
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -10,6 +10,12 @@ countries: Ethiopia, Turkmenistan
 
 **Book 4:** *Aýdym-saz — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Music and Singing, textbook for Grade 1 of general secondary schools), Üçünji neşir (3rd edition)* (student book, Turkmen) — Turkmenistan, by R. Amangeldiýew, K. Garowow; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2019, no ISBN printed (UOK/KBK codes only), Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE (title page verified against the record title; fetched with grab.py tree, 4,729,163 bytes and 80 pages, both matching the record). Excluded per the placements: the end-of-section "Soraglar" question sets and "Gönükme" exercises are the book's own apparatus, named here, not placed; the State Anthem is printed in the front matter and is placed once as a song of the country, by title only. All songs are placed by title, subject and composer/poet only — never lyrics. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
+**Book 5:** *Performing Arts — Music Is Fun, Teachers Guide Year 1* (teacher guide, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 1, 28 PDF pp. TEACHER — teacher guide. The record says student book; the cover proves TEACHER GUIDE — carried exactly as filed. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: music-first performing arts organised by themes (family, birthday, Fiji Day, weather, environment, flowers); Fiji's own instruments (lali slit drum, derua bamboo stamping tube) taught inside the world percussion family, and the national anthem taught in English, iTaukei and Fiji Hindi. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 6:** *Performing Arts — Music Is Fun, Teachers Guide Year 2* (teacher guide, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 2, 34 PDF pp. TEACHER — teacher guide. The record says student book; the cover proves TEACHER GUIDE — carried exactly as filed. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: every theme is sung in up to three languages (English, iTaukei, Fiji Hindi); Fiji's own songs (Isa Noqu Vanua Ko Viti, Viti, Choo-choo, Basi Levu, Lori Levu, O Bawa) sit beside imported songs, and safety teaching (earthquake, flood, cyclone, tsunami, fire) is carried by song. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 7:** *Performing Arts — Music Is Fun, Year 3* (student workbook, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016, no ISBN printed, Grade 3, 19 PDF pp. STUDENT — copyright page names it a Students Workbook. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: a pupil workbook in four sub-strands (Arts Ideas, Arts Skills and Processes, Arts Appreciation, Arts in Society and Culture); two solfa systems taught side by side — Western tonic solfa and Hindi sargam — and the culture strand ends in performing your own people's dance (meke for iTaukei) in your own traditional attire (masi). Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — "እናጨበጭባለን" (We Clap), the clapping movement song | Grade 1 student textbook, printed p. 32 |
@@ -18,8 +24,13 @@ countries: Ethiopia, Turkmenistan
 | Sub lesson 1 (teacher guide — evidence): swaying and moving to simple beats, keeping simple rhythms with the body | Grade 1 teacher guide, Ch. 2 §2.2, printed p. 21 |
 | Turkmenistan — "Ýöräliň" (Let's Walk; music Weli Ahmedow, words Kaýum Taňrygulyýew) — a song in march form: sing it walking on the spot, stepping to it, and sing its melody on the syllable "lýa" (student book; original target `music/movement-songs`) | Book 4, printed p. 25 |
 | Turkmenistan — "Çapak-çapak" (Clap-clap; music Maýa Pürliýewa, words Esenguly Amanow) — a clapping song about children's hands that will grow up to build houses and grow flowers (summary only) (student book; original target `music/movement-songs`) | Book 4, printed p. 27 |
+| Fiji — Unit 2 Birthday — singing the birthday song, creating free movements to it, adding percussion accompaniment and performing song-and-dance for friends (teacher guide — evidence) | Book 5, printed p. 12 |
+| Fiji — Unit 4 Hunting — the hunting song in English and iTaukei, with group-created actions/dance and improvised shakers (seeds or rice in a bottle or container) (teacher guide — evidence) | Book 6, printed pp. 17–18 |
+| Fiji — Unit 5 Transport — transport songs sung with self-made actions: train and bus songs plus Fiji's own Choo-choo (Ba to Nadroga), Basi Levu and Lori Levu, the Basi Levu lyric naming the lali drum (songs placed by name and purpose only) (teacher guide — evidence) | Book 6, printed pp. 19–21 |
+| Fiji — Unit 6 Sports — sports nursery rhymes recited with group actions using sports skills (skipping, running, jumping) (teacher guide — evidence) | Book 6, printed p. 22 |
+| Fiji — Sub-Strand 2 Singing and Dancing — singing confidently to an audience and creating coordinated movements/dances for chosen songs, including the Hindi song Raju Bhaiya and the iTaukei song Kana Mada (placed by name and purpose only) (student book) | Book 7, printed pp. 7–10 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan).**
+**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Fiji).** Fiji's Year 1-2 teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above.
 
 The Grade 1 placement asks for a GIF of the full clapping step pattern with children; full-body step choreography drawn frame by frame did not read truly, so the filed GIF carries the clap itself — the beat moment of the song — and the step pattern is taught in words and in the hands-on work. No motion that failed its frame check was filed.
 

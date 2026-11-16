@@ -1423,7 +1423,46 @@ lessons are the books'.
   Minar-e-Pakistan, its master painters and calligraphers by
   name, and its own textiles, ajrak and ralli.
 
-**The whole course stands at 372 lessons, 5,060 questions and
+- **Art expansion — Fiji — BUILT 2026-11-16:** 85 placements
+  stocked, reconciled against the placements file's own
+  tallies (11 books with placements: Years 1–10 Performing
+  Arts and Art is Fun 2 and 8 and the Grade 9 Printmaking
+  Textbook; the file's tallies sum to exactly 85 lines
+  present): 68 into existing lessons, 17 into 10 NEW lessons
+  (Music: Fiji's Lali and Derua — teacher-guide evidence;
+  Singing in Rounds: Canon — teacher-guide evidence;
+  Sargam: Hindi Solfa; Playing School Instruments; Playing
+  in an Ensemble; Drama and Dance: Fiji Traditional Songs
+  and Dances; Fiji Meke Dance; Culture and Values: Fiji
+  Traditional Ceremonial Arts and Attire; Visual Art: Fiji
+  Masi: Tapa Cloth; Airbrushing), 120 questions added, media
+  as described slots only. Honesty carried exactly as
+  filed: Fiji's Primary Art Year 1 and Year 2 records say
+  "student book" but the files are actually TEACHER GUIDES
+  (Performing Arts Years 1 and 2) — cited as evidence in
+  every stocked lesson, in countries: lines and OUTSIDE
+  acceptance counts; lessons stocked only from those guides
+  stand at acceptance count 0 for Fiji. 8 Fiji records were
+  phantom pushes, never read — Art is Fun 1, 3, 4, 5, 6,
+  Performing Arts Year 6 and Year 9, and Taab-e-Daari Year
+  13 Urdu Drama — they have no placements and none were
+  invented. Named, not placed, as filed: Art is Fun 8's
+  closing Activity section and Glossary (inventory-only),
+  Performing Arts Year 7's Answers to Activities key, the
+  Printmaking Textbook's puzzle activities and empty
+  Bibliography, and Performing Arts Year 10's List of Songs
+  (placed once by name and purpose only). Songs and stories
+  are placed by name, purpose and summary only, never
+  transcribed. Fiji's own way is kept as named parts: the
+  lali and derua inside the percussion family, tonic solfa
+  and Hindi sargam taught side by side, the anthem in
+  English, iTaukei and Fiji Hindi, meke performed in masi
+  attire, sevusevu and Diwali, and a whole printmaking book
+  built on masi — Vatulele big and bold, Southern Lau
+  detailed, Taveuni in basic shapes, borders first and
+  centre last.
+
+**The whole course stands at 382 lessons, 5,180 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

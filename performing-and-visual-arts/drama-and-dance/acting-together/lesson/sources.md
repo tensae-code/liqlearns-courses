@@ -1,6 +1,6 @@
 # Sources — Acting Together
 
-countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland
+countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland
 
 **Book 11:** *Yhdessä enemmän — Vapaaehtoistoiminnan kerhomateriaali yläkouluille (More Together — Volunteering Club Material for Lower Secondary Schools), by Laura Hirvenlahti* (club material, Finnish) — Finland, Kerhokeskus (Club Centre), 2011, ISBN 978-952-5853-20-9 (pdf), Grades 7–9 club use, 24 PDF pp. STUDENT — club leader's material. Verdict: PARTIAL (arts parts only) — a volunteering-education club book, not an arts book; the non-art parts (what volunteering is, influencing your local environment, decision-making, visiting volunteering projects, feedback and opinion writing, printed pp. 10–20) and the youth project reports inside it are named in the placements, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md.
 
+**Book 11:** *Performing Arts — Music Is Fun, Year 4* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 4, 19 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: the four sub-strands deepen — music elements (duration, tempo, dynamics) first, then building a full drama from a story, judging performance quality, and investigating your own community's ceremonial and religious items (sevusevu, Diwali) and performing one. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md.
+
+**Book 12:** *Performing Arts — Music Is Fun, Year 8* (student workbook, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 8, 18 PDF pp. STUDENT — copyright page names it a Student Workbook. Verdict: COMPLETE (image-heavy book read visually, page by page). Fiji's own way: the elements of music become tools of expression and judgement, and the year ends by turning Fiji's inherited stories — myths, legends, folklore — into drama with song, dance and instruments woven in. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Acting together in a group | Grade 1 Student Textbook, §5.2, printed p. 71 |
@@ -35,8 +39,10 @@ countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland
 | Finland — Lesson 3: The picture's story — building a story, poem, dialogue or short play in a small group from the words and feelings the group's abstract painting raises (student workshop material) | Book 9, printed p. 7 |
 | Finland — Session 5: Play sequel — continuing another group's comic story as a short play (3–5 minutes) — every member with a role and lines, performed to the class (teacher module plan — evidence) | Book 10, printed p. 12 |
 | Finland — Session 1: Role play — role play (roolileikki) as a group exercise for building group spirit and interaction in the club's first session (student club material, PARTIAL — arts parts only) | Book 11, printed p. 7 |
+| Fiji — Sub-Strand 2 Drama Performance — what drama is (theatre, radio, TV) and its parts (heading, characters, plot, setting, solution): ordering the Jack and the Beanstalk story, casting, building props and stage settings, adding costumes, music and dance, rehearsing and performing; then dramatising a story of your own choice (story placed by summary only) (student book) | Book 11, printed pp. 7–9 |
+| Fiji — Sub-Strand 4 Building a Drama from an Inherited Story — constructing the drama plot in a table of characters, lines/actions and the performing-arts skills woven in (singing, movements, dance, playing instruments), rehearsing and performing it; two plot methods taught with the worked example "Mango Boy" (plot summary only, as filed in the placements) (student book) | Book 12, printed pp. 7–10 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Uganda, Finland).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 10) is evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Uganda, Finland, Fiji).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 10) is evidence only, kept outside the acceptance count.
 
 Nothing flagged. The Grade 3 methods passage is stocked in its book's own order; the four methods are the placement's four, word for word in substance.
 

@@ -1,6 +1,6 @@
 # Sources — Songs of Our Country
 
-countries: Ethiopia, Albania, Turkmenistan
+countries: Ethiopia, Albania, Turkmenistan, Fiji
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Albania, Turkmenistan
 
 **Book 7:** *Музыка и пение — Учебник для 1 класса с русским языком обучения общеобразовательных средних школ (Music and Singing, textbook for Grade 1 with Russian language of instruction), Издание четвёртое (4th edition)* (student book, Russian) — Turkmenistan, by L. Afonova, E. Volkova; Туркменская государственная издательская служба (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed (UDK/BBK codes only), Grade 1, 104 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. A parallel-track book, not a translation of Book 1 of this country's set: different authors and mostly different songs, though two songs (Aglama, gurjak; Aýterek-günterek) appear in both, in the notation appendix here. The repo tree path is a PHANTOM PUSH — grab.py tree returned HTTP 404 — so the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link; 27,218,175 bytes and 104 pages, both matching the record exactly. Downloaded copy staged under the push-don't-delete rule at the phase3-staging record path. Excluded per the placements: the closing "Повторение" (Revision, printed p. 52) — the book's own revision lesson, named here, not placed; all songs placed by title/subject/composer only, never lyrics. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
+**Book 8:** *Performing Arts — Music Is Fun, Teachers Guide Year 2* (teacher guide, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 2, 34 PDF pp. TEACHER — teacher guide. The record says student book; the cover proves TEACHER GUIDE — carried exactly as filed. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: every theme is sung in up to three languages (English, iTaukei, Fiji Hindi); Fiji's own songs (Isa Noqu Vanua Ko Viti, Viti, Choo-choo, Basi Levu, Lori Levu, O Bawa) sit beside imported songs, and safety teaching (earthquake, flood, cyclone, tsunami, fire) is carried by song. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — "ሀገራችን" (Our Country), with the book's flag drawing | Grade 3 student textbook, printed p. 13 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Albania, Turkmenistan
 | Albania — Patriotic and partisan songs — the patriotic song "Për mëmëdhenë" and the partisan song "Malet me blerim mbuluar" sung for Independence and Liberation (songs placed by name and purpose only, never transcribed) (teacher guide — evidence) | Book 5, printed p. 21 |
 | Turkmenistan — "Türkmenistan Diýarym" (Turkmenistan, My Country; music Aşyr Abdyllaýew, words Tirkeş Sadykow) — a song of the independent, neutral homeland, its cotton, horses and carpets (summary only); the State Anthem of Turkmenistan is printed at the front of the book (student book; original target `music/songs-of-our-country`) | Book 6, printed pp. 9, 49 |
 | Turkmenistan — the homeland songs of the appendix: "Родной напев" (Native Tune; music Suhan Tuýliýew), "Родной край" (Native Land; words Kaýum Taňrygulyýew, music Weli Ahmedow) and "Виноград" (Grapes), with the State Anthem of Turkmenistan opening the notation appendix (summaries only) (student book; original target `music/songs-of-our-country`) | Book 7, printed pp. 54, 66, 93, 96 |
+| Fiji — Unit 1 My Country, Songs 2–3 — Fiji's own patriotic songs Isa Noqu Vanua Ko Viti (my beloved land Fiji) and Viti (naming Ratu Cakobau and Fiji's islands), sung with improvised-instrument accompaniment (placed by name and purpose only) (teacher guide — evidence; original target `music/fiji-patriotic-songs`) | Book 8, printed pp. 5–6 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 teacher guide is a scan with no text layer, read visually at section level; its part here is cited at section level only and labelled evidence, exactly as its placements file states. Work songs are named by their work and purpose only — their lyrics are not transcribed, as the placements direct.
 
