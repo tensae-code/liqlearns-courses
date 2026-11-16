@@ -1,6 +1,6 @@
 # Sources — Barter — and why it fails
 
-countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Zimbabwe, Palestine
+countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Zimbabwe, Palestine, Venezuela
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -88,7 +88,15 @@ South Sudan's own way (South Sudan Primary 6): trade is taught as a tree — int
 
 Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
 
-**Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Palestine). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 13:** *¡Viva Venezuela! Ciencias Sociales, 2do grado (Colección Bicentenario)* (student book, Spanish) — Venezuela, Colección Bicentenario; year not printed on cover; ISBN no ISBN printed. Title as printed: ¡Viva Venezuela! Ciencias Sociales, 2do grado (Colección Bicentenario). Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; 9,093,413 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 42–43 (El trabajo de nuestra gente) and p. 45 (Comercio de alimentos, inside the maize/yuca chapter); History pp. 83–132, Geography pp. 58–81, family/school/community topics pp. 8–56 and environment pp. 134–138 named only, not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/venezuela-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — Comercio de alimentos: today food is bought and sold in supermarkets, small shops, fruit shops, fish shops and butchers, and the seller obtains a profit from the trade, but many people have no money to buy and go hungry; indigenous peoples had a very different trade, barter (trueque) — exchanging an abundant maize harvest for squash, beans or fish, and exchanging crafts — alongside communal cultivation where what is grown is for everyone | Venezuela, *Venezuela Grade 2 Venezuela G2 Social Sciences SB Spanish*, Comercio de alimentos — printed p. 45 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Palestine, Venezuela). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Venezuela's own way (Venezuela Grade 2 Venezuela G2 Social Sciences SB Spanish): Economics enters through stories and readings — the value of work, town-and-country interdependence, and indigenous barter set against money commerce. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
 Zimbabwe's own way (PlusOne Social Science ECD A Teacher's Guide) (teacher guide — evidence): the Heritage-Based Curriculum infant syllabus carries a named "Career guidance and financial literacy" topic from age 4 — Economics begins as goods vs services told through the cook and the baker, a bread production chain (farmer → miller → baker), and a play shop corner where children practise buying with play money and swapping by barter.
 
@@ -101,4 +109,4 @@ Uganda's own way: barter is taught as the economic organisation of pre-colonial 
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox, mongolia, barter, livestock goods-money, paper money 1236, south sudan, zimbabwe, teacher guide evidence, palestine
+Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox, mongolia, barter, livestock goods-money, paper money 1236, south sudan, zimbabwe, teacher guide evidence, palestine, venezuela

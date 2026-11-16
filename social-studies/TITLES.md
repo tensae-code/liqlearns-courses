@@ -4371,3 +4371,30 @@ planning; Macroeconomics: Budget deficit
 and public debt; Microeconomics: Business
 ethics and social responsibility and
 Becoming an entrepreneur).
++23 for Venezuela,
+2026-11-16 — Macroeconomics: Latifundio and
+Venezuela's two farm systems, Rural exodus to
+the oilfields, Venezuela's monoexport economy —
+cacao, coffee, oil, Venezuela — economy and
+society after 1830, Dependent capitalism —
+Venezuela and Latin America, The informal
+economy — street vendors and home work, Latin
+America and globalisation, The food basket as
+a cost-of-living measure, Imperialism and
+monopoly capitalism, Venezuela 1830 — a
+dependent monoexport economy and its debt,
+Foreign railway capital and the guaranteed
+seven percent, Land concentration and agrarian
+reform in Venezuela and PDVSA — Venezuela as
+a world oil power; Market and Money: Social
+production enterprises versus capitalist firms,
+Exports and imports move through ports, Social
+economy — cooperatives and state food
+distribution, Forms of enterprise ownership in
+Venezuela and The money and commercial economy;
+Microeconomics: Responsible consumers and
+consumer rights, Feudalism — land, serfdom and
+the self-sufficient manor, Sharecropping and
+token wages on the latifundio, Fair prices,
+costs and the basic basket and Simón Rodríguez
+— trades, work and social economy).

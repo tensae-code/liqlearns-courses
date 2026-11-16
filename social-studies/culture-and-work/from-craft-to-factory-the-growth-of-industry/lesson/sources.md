@@ -1,6 +1,6 @@
 # Sources — From Craft To Factory The Growth Of Industry
 
-countries: Iceland, Mozambique, Dominican Republic, Palestine
+countries: Iceland, Mozambique, Dominican Republic, Palestine, Venezuela
 
 **Book 1:** *Módulo 7 de Geografia — Indústria e Comércio* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 7 de Geografia — Indústria e Comércio. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 80 (title page verified against the record title; byte size 3,077,013 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (contents page skips the Lição 3 number; the lesson is present in the body at printed p. 19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
@@ -35,7 +35,15 @@ countries: Iceland, Mozambique, Dominican Republic, Palestine
 
 Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
 
-**Acceptance count: taught in 3 countries (Mozambique, Dominican Republic, Palestine). Iceland is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *Historia de la Humanidad — Ciencias Sociales, 2do año (Colección Bicentenario)* (student book, Spanish) — Venezuela, Colección Bicentenario; year not printed on the pages read; ISBN no ISBN printed on the pages read. Title as printed: Historia de la Humanidad — Ciencias Sociales, 2do año (Colección Bicentenario). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 148 (two printed pages per PDF page; cover verified against the record title; 9,606,843 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 122–130 (work, combat and prayer in feudalism; changes in feudal society), pp. 180–195 (the Industrial Revolution drove capitalism; industrial capitalism arises; scientific socialism's view), pp. 196–210 (evolution of capitalism in the 19th–20th centuries: imperialism and monopoly capitalism), p. 240 (first systemic crisis of capitalism); all other chapters are History, named only, not placed — the History wave owns them. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/venezuela-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — La Revolución Industrial empezó en Inglaterra: replacing human and animal muscle power with steam caused economic, technical, social and environmental changes in three phases (steam in textile making; steam in land and water transport; the dynamo and electricity, then diesel and the explosion engine); one worker with a steam loom did the work of 100, and machines forced greater exploitation of iron and coal mines and steel industries, while railways linked industrial centres with consumers and export ports | Venezuela, *Venezuela Grade 8 Venezuela G8 Historia de la Humanidad SB Spanish*, La Revolución Industrial empezó en Inglaterra — printed p. 180 |
+
+**Acceptance count: taught in 4 countries (Mozambique, Dominican Republic, Palestine, Venezuela). Iceland is teacher-guide evidence only — named here, counted nowhere.**
+
+Venezuela's own way (Venezuela Grade 8 Venezuela G8 Historia de la Humanidad SB Spanish): economic systems are taught as history's engine — modes of production (feudal, capitalist, socialist) are defined and compared, and the 1929 crisis is taught with its mechanism: overproduction meeting wages that did not rise. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
 Dominican Republic's own way (Dominican Republic Grade 6 Ciencias Sociales 6° Primaria): economic systems arrive inside world history — capitalism is introduced through the Scientific and Industrial Revolutions and Adam Smith, then set against socialism and Marx in a compare-the-systems table the pupils build themselves, opening with the question of whether their own country is capitalist or socialist.
 
@@ -45,4 +53,4 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a l
 
 Iceland's own way: economics arrives inside 19th-century history — pupils role-play a factory meeting where wages must fall, and rank strike-decision cards, before they ever meet a textbook definition. This Iceland material stands on the teacher guide as evidence only.
 
-Searchable tags: from craft to factory the growth of industry, Mozambique, Iceland, late industrial revolution, fisheries, joint-stock company, teacher guide evidence, social studies, culture-and-work, Dominican Republic, palestine
+Searchable tags: from craft to factory the growth of industry, Mozambique, Iceland, late industrial revolution, fisheries, joint-stock company, teacher guide evidence, social studies, culture-and-work, Dominican Republic, palestine, venezuela

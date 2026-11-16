@@ -1,6 +1,6 @@
 # Sources — The Family Budget — Planning Household Money
 
-countries: Mongolia, Rwanda
+countries: Mongolia, Rwanda, Venezuela
 
 **Book 1:** *Нийгэм судлал VII (Social Studies VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VII (Social Studies VII). Grade: Grade 7 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 48,845,405 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full; the book follows the same five-chapter spiral as Grade 9). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -26,8 +26,16 @@ Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics u
 Rwanda's own way (Rwanda Grade 6): P6 scales the P5 family budget up to the state — national revenue collected by the Rwanda Revenue Authority, a finance minister presenting the budget to parliament, and development read through Rwandan trade, agriculture and tourism.
 
 
-**Acceptance count: taught in 2 countries (Mongolia, Rwanda).**
+**Book 4:** *Patria y Ciudadanía — Ciencias Sociales, 1er año (Colección Bicentenario)* (student book, Spanish) — Venezuela, Colección Bicentenario; year not printed on the pages read; ISBN no ISBN printed on the pages read. Title as printed: Patria y Ciudadanía — Ciencias Sociales, 1er año (Colección Bicentenario). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 93 (two printed pages per PDF page; cover verified against the record title; 12,874,912 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 53–57 (family income, family budget, food basket and saving, inside the family chapter) and pp. 69–71 (responsible consumers, consumer rights and the Sundde; communal budget control; social economy, cooperatives, Mercal and Pdval, inside the community chapter); other chapters named only, not placed; the book's glossary (Bolívar fuerte entry) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/venezuela-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — El ingreso familiar y el presupuesto (family chapter): family income is the total money from the honest work of each working-age member, who contribute part of their wages and salaries to family expenses (housing, services, clothing, medicines, recreation, taxes and above all food); family income has a limit — "cover yourself only as far as the blanket reaches" — and every family must make its budget, drawing on the Banco Central de Venezuela's National Survey of Family Budgets | Venezuela, *Venezuela Grade 7 Venezuela G7 Social Sciences SB Spanish*, El ingreso familiar y el presupuesto (family chapter) — printed p. 53 |
+
+**Acceptance count: taught in 3 countries (Mongolia, Rwanda, Venezuela).**
+
+Venezuela's own way (Venezuela Grade 7 Venezuela G7 Social Sciences SB Spanish): at secondary level the household budget is taught with the central bank's own family-budget survey and the national food-basket indicator, and consumption is taught as a legal right policed against speculation and hoarding. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
 Mongolia's own way: the Grade 7 year works at the scale of the child's own life — my groups, my culture, my family's economy and budget, our school — before the local-area year in Grade 8. That way is stocked here as the way Mongolia teaches this thing. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
 
-Searchable tags: family budget, household economy, income and spending, Mongolia, Нийгэм судлал VII, social studies, culture and work, rwanda
+Searchable tags: family budget, household economy, income and spending, Mongolia, Нийгэм судлал VII, social studies, culture and work, rwanda, venezuela

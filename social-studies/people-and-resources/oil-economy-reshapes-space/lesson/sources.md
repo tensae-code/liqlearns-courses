@@ -9,10 +9,19 @@ countries: Venezuela
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Cuando la economía petrolera cambió costumbres y hasta la estructura espacial | Venezuela, *Venezuela Grade 5 G5 CS Venezuela y Su Gente*, Cuando la economía petrolera cambió costumbres y hasta la estructura espacial — printed p. 28 |
+| Venezuela part — Cuando la economía petrolera cambió costumbres y hasta la estructura espacial: the oil economy changed customs and even the spatial structure of the country, replacing the fragmented agricultural-era space with a centralised spatial structure — stocked here for its Economics teaching; the same part was placed by the Geography wave above | Venezuela, *Venezuela Grade 5 Venezuela G5 Social Sciences SB Spanish*, Cuando la economía petrolera cambió costumbres y hasta la estructura espacial — printed p. 28 |
 | Sub lesson 1 — Petróleos de Venezuela S.A.: una industria comprometida con el pueblo | Venezuela, *Venezuela Grade 11 G11 CS Geografía de Venezuela*, Petróleos de Venezuela S.A.: una industria comprometida con el pueblo — printed p. 152 |
 | Sub lesson 2 — Venezuela's way — the book's own teaching way | Venezuela — the book's own way of teaching (see below) |
 
+**Book 3:** *Venezuela y su gente — Ciencias Sociales, 6to grado (Colección Bicentenario)* (student book, Spanish) — Venezuela, Fundación Editorial El perro y la rana / Editorial Escuela; year 2011 (Depósito Legal If51620113722473); ISBN no ISBN printed on the pages read. Title as printed: Venezuela y su gente — Ciencias Sociales, 6to grado (Colección Bicentenario). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 91 (two printed pages per PDF page; cover verified against the record title; 15,643,362 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 12–25 (oil activity beginnings; impact of the oil economy on population), pp. 38–51 (urban-industrial landscapes in a dependent-economy country; industry types and needs; dependent capitalism; informal economy and internal migration), pp. 52–55 (tourism, the industry without chimneys), pp. 56–64 (oil industry from 1950; Latin America and globalisation); History and Civics parts named only, not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/venezuela-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — Impacto de la economía petrolera en la población: how the oil economy moved and grew Venezuela's population, with state-by-state population tables across the oil decades and areas where the agricultural economy reactivated | Venezuela, *Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish*, Impacto de la economía petrolera en la población — printed p. 18 |
+
 **Acceptance count: taught in 1 country (Venezuela).**
+
+Venezuela's own way (Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish): G6 names the system outright — capitalism, dependent capitalism and the informal economy are defined in the pupil's own book, and development is redefined as gains in people's standard of living with the least environmental damage. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
 Venezuela's own way (Venezuela Grade 5 G5 CS Venezuela y Su Gente): the Geography block is a journey ("Viajemos por Venezuela") through work and wealth — farmland and its natural supports, climate, biodiversity, relief, oil basins and minerals — always tied to how the oil economy rearranged the country's population and space.
 

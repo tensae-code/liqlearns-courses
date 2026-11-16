@@ -1,0 +1,12 @@
+# Rural exodus to the oilfields — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its sub lessons. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Rural and urban — who lives where and does what
+Sub lesson 1 questions from the type files (4 items). Pass mark: answer its questions from lesson.md alone, without the lesson open.
+
+## Sub lesson 2 — From about 90% rural to about 90% urban
+Sub lesson 2 questions from the type files (4 items). Pass mark: answer its questions from lesson.md alone, without the lesson open.
+
+## Sub lesson 3 — 1914 — oil pulls the countryside to Zulia
+Sub lesson 3 questions from the type files (4 items). Pass mark: answer its questions from lesson.md alone, without the lesson open.

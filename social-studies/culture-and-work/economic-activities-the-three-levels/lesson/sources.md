@@ -297,7 +297,23 @@ Palestine's own way: Economics enters through the land itself — natural resour
 
 Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
 
+**Book 85:** *¡Viva Venezuela! Ciencias Sociales, 1er grado (Colección Bicentenario)* (student book, Spanish) — Venezuela, Colección Bicentenario; year not printed on cover; ISBN no ISBN printed. Title as printed: ¡Viva Venezuela! Ciencias Sociales, 1er grado (Colección Bicentenario). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 67 (two printed pages per PDF page; cover verified against the record title; 13,287,695 bytes via tree grab, size- and SHA-verified by grab.py — note: the first tree attempts were truncated by the proxy at 9,221,317 and 7,948,518 bytes and a Blob-API attempt was cut mid-stream; a later tree grab landed complete, so the book was read in full). Verdict: COMPLETE. Contents map: Economics parts printed pp. 50–53 (Las manos trabajan — the work of people's hands, and family income); all other parts are school, family, community, stories and environment topics for Grade 1 (named only, not placed); a story at printed pp. 122–123 contrasts a factory owner's profits and environmental damage with sharing and care — a story, not a teaching part, named here only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/venezuela-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — Las manos trabajan: in every community there are workers the community needs — they make the food we eat, manufacture the clothes we use, drive the bus, make the shoes, cut the meat in the butcher's, make bread in the bakery, and prepare and sell vegetables and fruit; the hands of these people do work the whole community needs to feed, dress and transport itself | Venezuela, *Venezuela Grade 1 Venezuela G1 Social Sciences SB Spanish*, Las manos trabajan — printed p. 50 |
+
+**Book 86:** *¡Viva Venezuela! Ciencias Sociales, 2do grado (Colección Bicentenario)* (student book, Spanish) — Venezuela, Colección Bicentenario; year not printed on cover; ISBN no ISBN printed. Title as printed: ¡Viva Venezuela! Ciencias Sociales, 2do grado (Colección Bicentenario). Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; 9,093,413 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 42–43 (El trabajo de nuestra gente) and p. 45 (Comercio de alimentos, inside the maize/yuca chapter); History pp. 83–132, Geography pp. 58–81, family/school/community topics pp. 8–56 and environment pp. 134–138 named only, not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/venezuela-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — El trabajo de nuestra gente: the value of work for society; city people work in industries, large and small commercial firms and services (education, health, water, electricity, telephones, waste), while countryside people work mainly in agriculture, animal raising, fishing and timber, plus crafts and services; the countryside supplies cities with fresh food and raw materials for factories, and town and country complement each other | Venezuela, *Venezuela Grade 2 Venezuela G2 Social Sciences SB Spanish*, El trabajo de nuestra gente — printed p. 42 |
+
 **Acceptance count: taught in 30 countries (Ethiopia, Guatemala, Ukraine, Ecuador, Bolivia, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Samoa, Colombia, Malaysia, Eritrea, Rwanda, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Moldova, Honduras, Nepal, Nicaragua, Bhutan, Armenia, Cuba, Greece, Kazakhstan, Kuwait). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+
+Venezuela's own way (Venezuela Grade 1 Venezuela G1 Social Sciences SB Spanish): even at Grade 1, work is taught as what a community needs to eat, dress and move, and family income is defined as the pay received for that work. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
+
+Venezuela's own way (Venezuela Grade 2 Venezuela G2 Social Sciences SB Spanish): Economics enters through stories and readings — the value of work, town-and-country interdependence, and indigenous barter set against money commerce. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
 Kuwait's own way (Kuwait Grade 6 Term 1): Economics enters in Grade 6 as the Gulf's old livelihoods — work shaped by a harsh desert/coastal environment, taught through named local crafts, ships and the pearl-diving season.
 
@@ -319,7 +335,7 @@ Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse on
 
 Bolivia's own way (Grade 10, Secundaria 4): Secundaria 4 is the nineteenth-century history year, and its geography is the geography of what Bolivia lost and what it lives from: the Atacama Litoral and the sea it no longer has, Potosí's silver and the tin north, the Amazon rubber boom, and a closing resources unit that runs from natural-resource classification to Vivir Bien and sustainable development.
 
-Searchable tags: economic activities: the three levels, culture and work, social studies, ethiopia, Guatemala, Ukraine, Geografiya Gilberg, Ecuador, Bolivia, Ciencias Sociales Bolivia, eritrea economics expansion, primary secondary tertiary activities, palestine
+Searchable tags: economic activities: the three levels, culture and work, social studies, ethiopia, Guatemala, Ukraine, Geografiya Gilberg, Ecuador, Bolivia, Ciencias Sociales Bolivia, eritrea economics expansion, primary secondary tertiary activities, palestine, venezuela
 
 Palestine's own way (Grade 7, PS G7P1): the world is taught continent by continent through one fixed lens — astronomical location (latitude and longitude) and geographical location first, then surface features and general characteristics — with the spread of the Islamic state across each continent as the historical thread.
 

@@ -1,6 +1,6 @@
 # Sources — Sources Of Income
 
-countries: Bhutan, Laos, Rwanda, South Sudan, Zimbabwe
+countries: Bhutan, Laos, Rwanda, South Sudan, Zimbabwe, Venezuela
 
 **Book 1:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
@@ -108,7 +108,15 @@ South Sudan's own way (South Sudan Primary 2): work is introduced through the vi
 |---|---|
 | Zimbabwe part — Unit 12: Enterprise skills/self-reliance and employment creation: self-reliance as surviving by one's own efforts and employment creation as earning a living without formal employment — vending, farming, fishing, welding, carpentry, upholstery and small-scale mining (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 7 Teacher's Guide*, Unit 12: Enterprise skills/self-reliance and employment creation — printed pp. 26–27 |
 
-**Acceptance count: taught in 4 countries (Bhutan, Laos, Rwanda, South Sudan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 17:** *¡Viva Venezuela! Ciencias Sociales, 1er grado (Colección Bicentenario)* (student book, Spanish) — Venezuela, Colección Bicentenario; year not printed on cover; ISBN no ISBN printed. Title as printed: ¡Viva Venezuela! Ciencias Sociales, 1er grado (Colección Bicentenario). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 67 (two printed pages per PDF page; cover verified against the record title; 13,287,695 bytes via tree grab, size- and SHA-verified by grab.py — note: the first tree attempts were truncated by the proxy at 9,221,317 and 7,948,518 bytes and a Blob-API attempt was cut mid-stream; a later tree grab landed complete, so the book was read in full). Verdict: COMPLETE. Contents map: Economics parts printed pp. 50–53 (Las manos trabajan — the work of people's hands, and family income); all other parts are school, family, community, stories and environment topics for Grade 1 (named only, not placed); a story at printed pp. 122–123 contrasts a factory owner's profits and environmental damage with sharing and care — a story, not a teaching part, named here only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/venezuela-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — El ingreso familiar: family income originates in the pay that the members of the family community receive for their work, and pupils are asked what their relatives work at and why some people in a community do not work | Venezuela, *Venezuela Grade 1 Venezuela G1 Social Sciences SB Spanish*, El ingreso familiar — printed p. 52 |
+
+**Acceptance count: taught in 5 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Venezuela's own way (Venezuela Grade 1 Venezuela G1 Social Sciences SB Spanish): even at Grade 1, work is taught as what a community needs to eat, dress and move, and family income is defined as the pay received for that work. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
 Zimbabwe's own way (PlusOne Social Science ECD A Teacher's Guide) (teacher guide — evidence): the Heritage-Based Curriculum infant syllabus carries a named "Career guidance and financial literacy" topic from age 4 — Economics begins as goods vs services told through the cook and the baker, a bread production chain (farmer → miller → baker), and a play shop corner where children practise buying with play money and swapping by barter.
 
@@ -133,4 +141,4 @@ Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own 
 
 Laos' own way (Laos Grade 10 Business Combined student): the Combined book is the combined-class version of the Business course; its one Economics chapter teaches work choices through kip amounts — what changes between earning 10,000 kip a year and 100,000 kip a year.
 
-Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan, zimbabwe, teacher guide evidence
+Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan, zimbabwe, teacher guide evidence, venezuela

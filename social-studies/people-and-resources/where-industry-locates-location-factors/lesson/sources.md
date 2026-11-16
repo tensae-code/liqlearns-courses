@@ -1,6 +1,6 @@
 # Sources — Where Industry Locates Location Factors
 
-countries: Kazakhstan, South Sudan, Palestine
+countries: Kazakhstan, South Sudan, Palestine, Venezuela
 
 **Book 1:** *География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова)* (student book, Russian) — Алматы «Мектеп»; year 2025; ISBN 978-601-07-1773-2. Title as printed: География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова). Grade: 8 (student/teacher: STUDENT). PDF pages: 273 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1531.pdf, 51,336,177 bytes from the recorded okulyk.kz source, page count matches the record; printed book 272 pp). Verdict: COMPLETE. Parallel editions named, not double-counted: record 309.pdf — the 2018 first edition in Kazakh, ISBN 978-601-07-0964-5, 256 printed pp, identical §§1–54 structure verified from its contents; record 344.pdf — the 2018 first edition in Russian, ISBN 978-601-07-0969-0, 264 printed pp, cover/verso verified; reissue records 1432.pdf and 1486.pdf belong to the same editions. The book is placed once here, under this 2025 edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -41,7 +41,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 
 Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
 
-**Acceptance count: taught in 2 countries (Kazakhstan, Palestine). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+**Book 8:** *Venezuela y su gente — Ciencias Sociales, 6to grado (Colección Bicentenario)* (student book, Spanish) — Venezuela, Fundación Editorial El perro y la rana / Editorial Escuela; year 2011 (Depósito Legal If51620113722473); ISBN no ISBN printed on the pages read. Title as printed: Venezuela y su gente — Ciencias Sociales, 6to grado (Colección Bicentenario). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 91 (two printed pages per PDF page; cover verified against the record title; 15,643,362 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 12–25 (oil activity beginnings; impact of the oil economy on population), pp. 38–51 (urban-industrial landscapes in a dependent-economy country; industry types and needs; dependent capitalism; informal economy and internal migration), pp. 52–55 (tourism, the industry without chimneys), pp. 56–64 (oil industry from 1950; Latin America and globalisation); History and Civics parts named only, not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/venezuela-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — Paisajes urbano-industriales: what an industry needs: an industry needs high capital investment, specialised labour (workers, technicians, employees), an appropriate place near energy sources, raw materials and markets, and easy access to ports, airports, roads and storage; industry types are consumer/light, intermediate and basic (oil, hydroelectric, petrochemical, steel, aluminium) | Venezuela, *Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish*, Paisajes urbano-industriales: what an industry needs — printed p. 39 |
+
+**Acceptance count: taught in 3 countries (Kazakhstan, Palestine, Venezuela). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+
+Venezuela's own way (Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish): G6 names the system outright — capitalism, dependent capitalism and the informal economy are defined in the pupil's own book, and development is redefined as gains in people's standard of living with the least environmental damage. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
 Kazakhstan's own way (Kazakhstan Grade 8 Abilmazhinova): the Grade 8 Mektep course deepens every Grade 7 line — relief classification and rock ages, global circulation and the climatic belts, natural zones of both hemispheres, demographic calculation and policy design (Practical №7 has pupils propose their own demographic-policy model), resource assessment, industry location factors, and the political map — closing with Kazakhstan's own place in political-integration processes (§54).
 
@@ -51,4 +59,4 @@ Kazakhstan's own way (Kazakhstan Grade 9 Sakhova NIS): the NIS trial Grade 9 cou
 
 Kazakhstan's own way (Kazakhstan Grade 8 Sakhova NIS): the NIS Grade 8 course phrases its lessons as questions and tasks — «Әр жерде неліктен уақыт әркелкі?» (Why is time different in different places?, 2.2), «Тау жыныстары қалай пайда болады?» (How do rocks form?, 3.1.5), «Өзеннің суы қалай өзгереді?» (How does a river's water change?, 3.3.4) — and adds a lesson on the culture of showing geographic names on the map (2.3).
 
-Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan, palestine
+Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan, palestine, venezuela

@@ -1,6 +1,6 @@
 # Sources — Models of Tourism Development
 
-countries: Greece, Bahamas
+countries: Greece, Bahamas, Venezuela
 
 **Book 1:** *Τουριστική Γεωγραφία (Tourism Geography), Γ΄ ΕΠΑΛ — Τομέας Διοίκησης και Οικονομίας (Grade 12 vocational lyceum, Administration & Economics sector), revised edition (Αναθεωρημένη Έκδοση)* (student book, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-5121-8 (book code 0-24-0632). Title as printed: Τουριστική Γεωγραφία (Tourism Geography), Γ΄ ΕΠΑΛ — Τομέας Διοίκησης και Οικονομίας (Grade 12 vocational lyceum, Administration & Economics sector), revised edition (Αναθεωρημένη Έκδοση). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 306 (cover verified against the record title; byte size 45,985,578 exact match to the books.json record — fetched from the mid-size-books-7 release asset with a resumable downloader). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
 
@@ -21,10 +21,18 @@ countries: Greece, Bahamas
 |---|---|
 | Bahamas — Tourism: the stages of Bahamian tourism — early visitors, the Colonial Development era, the 1950s Development Board advertising campaign, and tourism becoming the main industry | Bahamas, *Bahamas Primary Social Studies, Digital Textbook, Grade 5 (First Edition 2023)*, Tourism — PDF p. 12 (printed page number not legible in this font-broken file) |
 
-**Acceptance count: taught in 2 countries (Greece, Bahamas).**
+**Book 4:** *Venezuela y su gente — Ciencias Sociales, 6to grado (Colección Bicentenario)* (student book, Spanish) — Venezuela, Fundación Editorial El perro y la rana / Editorial Escuela; year 2011 (Depósito Legal If51620113722473); ISBN no ISBN printed on the pages read. Title as printed: Venezuela y su gente — Ciencias Sociales, 6to grado (Colección Bicentenario). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 91 (two printed pages per PDF page; cover verified against the record title; 15,643,362 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 12–25 (oil activity beginnings; impact of the oil economy on population), pp. 38–51 (urban-industrial landscapes in a dependent-economy country; industry types and needs; dependent capitalism; informal economy and internal migration), pp. 52–55 (tourism, the industry without chimneys), pp. 56–64 (oil industry from 1950; Latin America and globalisation); History and Civics parts named only, not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/venezuela-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — Una industria sin chimeneas: tourism is called the industry without chimneys because it has no smoke-belching factories; its raw material is nature and culture, it produces recreation and wellbeing, brings employment, foreign currency (divisas) and tax revenue, and the Constitution treats it as an economic activity of national interest for diversifying the economy — but unorganised tourism damages the environment, so sites have a carrying capacity (capacidad de carga) that planning must respect | Venezuela, *Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish*, Una industria sin chimeneas — printed p. 52 |
+
+**Acceptance count: taught in 3 countries (Greece, Bahamas, Venezuela).**
+
+Venezuela's own way (Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish): G6 names the system outright — capitalism, dependent capitalism and the informal economy are defined in the pupil's own book, and development is redefined as gains in people's standard of living with the least environmental damage. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
 Bahamas' own way: Grade 5 is a national-history year; the one Economics thread is the tourism timeline, which follows the industry from health travel to the Development Board era — and Grade 4 tells the same growth as an industry story: 1950s business, Development Board advertising, hotels built for visitors.
 
 Greece's own way (Greece Grade 12 EPAL Tourism Geography): a vocational tourism-geography course — one conceptual chapter (what tourism geography studies, the history of world tourism, supply and demand, tourism resources, development models including sustainable and alternative tourism), then the world read as destinations: Greece first and region by region (a full chapter, with each region's tourism resources), then Europe country by country, then the Americas, Asia, Africa and Oceania — closing with per-chapter questions and activities (including building real tour itineraries) and appendix data tables and excursion programmes.
 
-Searchable tags: models of tourism development, Greece, social studies, people-and-resources, bahamas
+Searchable tags: models of tourism development, Greece, social studies, people-and-resources, bahamas, venezuela
