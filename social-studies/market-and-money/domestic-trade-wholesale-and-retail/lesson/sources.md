@@ -1,6 +1,6 @@
 # Sources — Domestic trade — wholesale and retail
 
-countries: Ethiopia, Kenya
+countries: Ethiopia, Kenya, Eritrea
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -19,6 +19,22 @@ countries: Ethiopia, Kenya
 
 Kenya's own way: Business Studies is Kenya's carrier for Economics at Form 1: trade and payment are taught through Kenyan specimens — a Kenya Commercial Bank cheque, a Kenya inland money order and postal order, and shilling-priced worked examples from a Nairobi publisher (Ubora Publishers, P.O. Box 52013, Nairobi). This placement keeps that way: the trade split is met on the book's own chapter diagram, and the retail forms are the pictured Kenyan forms — hawkers, kiosks and open-air market stalls alongside shops.
 
-**Acceptance count: taught in 2 countries (Ethiopia, Kenya).**
+**Book 3:** *Social Studies for Grade 8 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea (Curriculum Planning and Development Division); year 2011 (© 2011, reprinted 2011); ISBN 99948-1-592-X. Title as printed: Social Studies for Grade 8 — Textbook. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 157 (cover/title page verified against the record title; byte size 4,716,045 and page count 157 match the record exactly; the printed book ends at p. 150 and the last PDF pages repeat the trade section — a scan artifact). Verdict: COMPLETE. Contents map: Economics parts printed pp. 116–150 (Unit 9 §8.2 development programmes; Unit 10 Economic Activities in Eritrea); Geography pp. 1–63 (Units 1–4); History pp. 64–115 (Units 5–7 and the referendum/war narrative of Unit 9). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/eritrea-placements.md.
 
-Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, home trade, foreign trade, retail trade types, hawkers, kiosks, social studies, market and money
+| Lesson part | Where it comes from |
+|---|---|
+| Eritrea part — Unit 10 §9.3b–c Retail and wholesale trade: retail as the shopkeeper's small-scale selling to individual customers and wholesale as factories and importers selling in large amounts down the chain to shopkeepers | Eritrea, *Eritrea Grade 8 Social Studies 8*, Unit 10 §9.3b–c — printed p. 143 |
+
+Eritrea's own way (Eritrea Grade 8 Social Studies 8): the Economics is Eritrea itself — its own post-independence development story (National Charter principles, 1995 land reform, self-reliance, the Warsai-Yikaalo campaign) followed by a full survey of its farming, fishing, trade and industries with national statistics.
+
+**Book 4:** *ማሕበራዊ ትምህርቲ — ን5ይ ክፍሊ መጽሓፍ ተማሃሮ (Social Studies, Grade 5 Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea (Curriculum Planning and Development Division); year 2010 (© 2010, printed 2010 by Sabur Printing Services, Asmara); ISBN 99948-1-305-6. Title as printed: ማሕበራዊ ትምህርቲ — ን5ይ ክፍሊ መጽሓፍ ተማሃሮ (Social Studies, Grade 5 Student's Book). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 190 (title page verified against the record title; byte size 35,645,487 and page count 190 match the record exactly; TSV + books.json records are the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 79–84 (Chapter 7 §§7.1–7.3); Geography pp. 11–32, 42–60, 84–123 (Chapters 2, 3, 5; §§7.4–7.5 Transport; Chapters 8, 9); Civics pp. 1–10, 33–41 (Chapters 1, 4 — regional administration; social services and infrastructure); History pp. 61–78, 124–end (Chapters 6, 10). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Eritrea part — Chapter 7 §7.2ለ–ሐ Retail and wholesale trade: retail as the shopkeeper selling small amounts to consumers, wholesale as factories and importers selling in bulk to warehouse wholesalers who supply the shops | Eritrea, *Eritrea Grade 5 Social Studies 5 (Tigrinya)*, Chapter 7 §7.2ለ–ሐ — printed p. 81 |
+
+Eritrea's own way (Eritrea Grade 5 Social Studies 5 (Tigrinya)): trade is taught in the mother tongue a full three years before the English-medium Grade 8 book repeats it — the same Eritrean examples (the farmer at market, sesame and fish exports) carried from Tigrinya into English.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Kenya, Eritrea).**
+
+Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money

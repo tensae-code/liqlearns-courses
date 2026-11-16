@@ -1,6 +1,6 @@
 # Sources — Barter — and why it fails
 
-countries: Ethiopia, Saudi Arabia, Syria, Uganda
+countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -38,10 +38,26 @@ Syria's own way: barter is met in old Damascus, inside the Grade 4 Pillars of th
 |---|---|
 | Uganda part — Economic Organisation of the People of Pre-Colonial East Africa: Barter Trade: trade defined; barter as exchange of goods for goods and services, its advantages, and its failures — double coincidence of wants, no store of wealth, no standard measure of value, bulky goods, time wasted searching | Uganda, *Uganda Primary 6 Excel Standard Social Studies*, Economic Organisation of the People of Pre-Colonial East Africa: Barter Trade — printed p. 52 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Syria, Uganda).**
+**Book 6:** *Social Studies for Grade 8 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea (Curriculum Planning and Development Division); year 2011 (© 2011, reprinted 2011); ISBN 99948-1-592-X. Title as printed: Social Studies for Grade 8 — Textbook. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 157 (cover/title page verified against the record title; byte size 4,716,045 and page count 157 match the record exactly; the printed book ends at p. 150 and the last PDF pages repeat the trade section — a scan artifact). Verdict: COMPLETE. Contents map: Economics parts printed pp. 116–150 (Unit 9 §8.2 development programmes; Unit 10 Economic Activities in Eritrea); Geography pp. 1–63 (Units 1–4); History pp. 64–115 (Units 5–7 and the referendum/war narrative of Unit 9). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Eritrea part — Unit 10 §9.3a Barter: barter as the earliest form of trade, goods exchanged for goods of equal value (a cow for ten sheep), still practised in remote rural Eritrea | Eritrea, *Eritrea Grade 8 Social Studies 8*, Unit 10 §9.3a Barter — printed p. 143 |
+
+Eritrea's own way (Eritrea Grade 8 Social Studies 8): the Economics is Eritrea itself — its own post-independence development story (National Charter principles, 1995 land reform, self-reliance, the Warsai-Yikaalo campaign) followed by a full survey of its farming, fishing, trade and industries with national statistics.
+
+**Book 7:** *ማሕበራዊ ትምህርቲ — ን5ይ ክፍሊ መጽሓፍ ተማሃሮ (Social Studies, Grade 5 Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea (Curriculum Planning and Development Division); year 2010 (© 2010, printed 2010 by Sabur Printing Services, Asmara); ISBN 99948-1-305-6. Title as printed: ማሕበራዊ ትምህርቲ — ን5ይ ክፍሊ መጽሓፍ ተማሃሮ (Social Studies, Grade 5 Student's Book). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 190 (title page verified against the record title; byte size 35,645,487 and page count 190 match the record exactly; TSV + books.json records are the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 79–84 (Chapter 7 §§7.1–7.3); Geography pp. 11–32, 42–60, 84–123 (Chapters 2, 3, 5; §§7.4–7.5 Transport; Chapters 8, 9); Civics pp. 1–10, 33–41 (Chapters 1, 4 — regional administration; social services and infrastructure); History pp. 61–78, 124–end (Chapters 6, 10). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Eritrea part — Chapter 7 §7.2ሀ በደላ (Barter): barter as the earliest form of trade, one good exchanged directly for another (grain for salt, a sheep for an ox), now nearly vanished because money has become the main instrument of trade | Eritrea, *Eritrea Grade 5 Social Studies 5 (Tigrinya)*, Chapter 7 §7.2ሀ — printed p. 80 |
+
+Eritrea's own way (Eritrea Grade 5 Social Studies 5 (Tigrinya)): trade is taught in the mother tongue a full three years before the English-medium Grade 8 book repeats it — the same Eritrean examples (the farmer at market, sesame and fish exports) carried from Tigrinya into English.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea).**
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
 Uganda's own way: barter is taught as the economic organisation of pre-colonial Uganda at Primary Five, then of pre-colonial East Africa at Primary Six — the same failures listed both times, with time wasted searching added at Primary Six.
 
-Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade
+Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox

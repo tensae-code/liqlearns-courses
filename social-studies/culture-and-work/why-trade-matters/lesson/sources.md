@@ -7,10 +7,13 @@ countries: Eritrea
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Chapter 7: 7.3 The importance of trade | Eritrea, *ER G5 Social Studies*, Chapter 7: 7.3 The importance of trade — printed p. 84 |
+| Eritrea part — Economics expansion — Chapter 7 §7.3 ኣገዳስነት ንግዲ (The importance of trade): trade lets people live a fuller life, spreads ideas and inventions between peoples, builds economic and cultural ties, and grows great cities where trade routes cross (the same Chapter 7 part placed by the Geography wave above; stocked here for its Economics teaching) | Eritrea, *Eritrea Grade 5 Social Studies 5 (Tigrinya)*, Chapter 7 §7.3 — printed p. 84 |
 | Sub lesson 2 — Eritrea's way — the book's own teaching way | Eritrea — the books' own way of teaching (see below) |
 
 **Acceptance count: taught in 1 country (Eritrea).**
 
 Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.
 
-Searchable tags: why trade matters, Eritrea, social studies, culture-and-work
+Eritrea's own way — Economics expansion (Eritrea Grade 5 Social Studies 5 (Tigrinya)): trade is taught in the mother tongue a full three years before the English-medium Grade 8 book repeats it — the same Eritrean examples (the farmer at market, sesame and fish exports) carried from Tigrinya into English.
+
+Searchable tags: why trade matters, Eritrea, social studies, culture-and-work, economics expansion, importance of trade, ideas and inventions, trade routes, cities

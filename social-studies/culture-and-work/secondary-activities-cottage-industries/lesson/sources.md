@@ -1,6 +1,6 @@
 # Sources — Secondary activities — cottage industries
 
-countries: Ethiopia, Zimbabwe, Syria, Sri Lanka, Mauritania, Kuwait, Nepal
+countries: Ethiopia, Zimbabwe, Syria, Sri Lanka, Mauritania, Kuwait, Nepal, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -32,6 +32,10 @@ countries: Ethiopia, Zimbabwe, Syria, Sri Lanka, Mauritania, Kuwait, Nepal
 
 **Book 15:** *My Social Studies and Creative Arts Grade 3 (English version)* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; year First edition 2051 BS, English version 2066 BS, updated 2067 BS; ISBN no ISBN printed. Title as printed: My Social Studies and Creative Arts Grade 3 (English version). Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Me, My Family and Neighbourhood (printed pp. 2–9); Unit 2 Lessons 1, 3–4 Respect for guests, festivals, a good person (pp. 10, 14–17); Unit 3 Social Problems and Solutions (pp. 18–25); Unit 4 Civic Awareness incl. My Ward (pp. 26–35, civics); Unit 6 Our Past (pp. 44–51, History); Unit 7 Lessons 1–2 Importance of work, Less money more work (pp. 52–55); Creative Arts (pp. 61–97). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 16:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea (Curriculum Planning and Development Division); year 2015 (© 2015, reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. Title as printed: Social Studies for Grade 6 — Pupils' Book ("Social Studies 6 Textbook"). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title; byte size 2,730,732 and page count 127 match the record exactly). Verdict: COMPLETE. Contents map: Economics parts printed pp. 93–99 (Unit 11); History pp. 1–7, 60–77 (Units 1, 8, 9); Geography pp. 8–59, 78–92 (Units 2–7, 10); Civics/Health/Social pp. 43–59, 100–126 (Units 7, 12, 13). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/eritrea-placements.md.
+
+**Book 17:** *Social Studies for Grade 8 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea (Curriculum Planning and Development Division); year 2011 (© 2011, reprinted 2011); ISBN 99948-1-592-X. Title as printed: Social Studies for Grade 8 — Textbook. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 157 (cover/title page verified against the record title; byte size 4,716,045 and page count 157 match the record exactly; the printed book ends at p. 150 and the last PDF pages repeat the trade section — a scan artifact). Verdict: COMPLETE. Contents map: Economics parts printed pp. 116–150 (Unit 9 §8.2 development programmes; Unit 10 Economic Activities in Eritrea); Geography pp. 1–63 (Units 1–4); History pp. 64–115 (Units 5–7 and the referendum/war narrative of Unit 9). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Craft production in the home | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 60–61 |
@@ -50,12 +54,14 @@ countries: Ethiopia, Zimbabwe, Syria, Sri Lanka, Mauritania, Kuwait, Nepal
 | Nepal part — Unit 7 Lesson 4: Homemade things | Nepal, *Nepal Grade 1 np-g1*, Unit 7 Lesson 4: Homemade things — printed p. 60 |
 | Nepal part — Unit 7 Lesson 3: Things made in village | Nepal, *Nepal Grade 2 np-g2*, Unit 7 Lesson 3: Things made in village — printed p. 46 |
 | Nepal part — Unit 7 Lesson 3: Things made in our village | Nepal, *Nepal Grade 3 np-g3*, Unit 7 Lesson 3: Things made in our village — printed p. 56 |
+| Eritrea part — Unit 11.2B Secondary activities: handicrafts: Eritrea's handicraft industries (pottery, weaving, metalwork, basketry) as the country's main industry before modern industry, with a local raw-materials-to-market research project | Eritrea, *Eritrea Grade 6 Social Studies 6*, Unit 11.2B Secondary activities: handicrafts — printed p. 97 |
+| Eritrea part — Unit 10 §9.4 Cottage Industries: Eritrea's home-based cottage industries (weaving, pottery, basketry, metalwork, jewellery) using local raw materials, selling for money and paying tax to local government | Eritrea, *Eritrea Grade 8 Social Studies 8*, Unit 10 §9.4 Cottage Industries — printed p. 146 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Syria, Sri Lanka, Mauritania, Kuwait, Nepal). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Syria, Sri Lanka, Mauritania, Kuwait, Nepal, Eritrea). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
-Searchable tags: secondary activities: cottage industries, culture and work, social studies, ethiopia
+Searchable tags: secondary activities: cottage industries, culture and work, social studies, ethiopia, eritrea, handicrafts, pottery, weaving, metalwork, basketry, jewellery
 
 Zimbabwe's own way (Grade 5) (teacher guide — evidence): Grade 5 transport is taught as a landlocked country's system — goods by rail/road/air/sea, animal transport (riding, leading, herding), and the roadports, seaports and airports Zimbabwe depends on; shelter links heritage sites (Matobo Hills) and map-drawing of Zimbabwe to building safely in disaster-prone areas. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
 
@@ -84,3 +90,7 @@ Nepal's own way (Nepal Grade 1 np-g1): Geography begins as "Our Earth" at home s
 Nepal's own way (Nepal Grade 2 np-g2): "Our Earth" grows from living place to village/town and the village in the map; economic geography is comparative — things made in the village vs things made in the city.
 
 Nepal's own way (Nepal Grade 3 np-g3): Grade 3 introduces Nepal's three ecological regions — Himalayan (cold, Gaurishankar), Hilly (Kathmandu valley) and Terai (flat, hot, Dhangadhi) — through three children's home places, with rivers (Tamakoshi, Narayani), landforms and climate tied to each child's village/town.
+
+Eritrea's own way (Eritrea Grade 6 Social Studies 6): Economics enters as one unit inside integrated Social Studies — the three activity levels are taught entirely through Eritrean examples (highland wheat and barley vs lowland sorghum and sesame, Red Sea fishing, handicrafts before Italian-era modern industry), with a local research project on the pupil's own area.
+
+Eritrea's own way (Eritrea Grade 8 Social Studies 8): the Economics is Eritrea itself — its own post-independence development story (National Charter principles, 1995 land reform, self-reliance, the Warsai-Yikaalo campaign) followed by a full survey of its farming, fishing, trade and industries with national statistics.

@@ -93,6 +93,7 @@ countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, No
 | Colombia part (CS_Grado05_02) — Unidad 7 Guía 14 El dinero y el intercambio económico | Colombia, *Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva*, Unidad 7 Guía 14 El dinero y el intercambio económico — printed pp. 80–89 |
 | Eritrea part (ER G8 Social Studies) — Unit 9: 9.3 Trade | Eritrea, *ER G8 Social Studies*, Unit 9: 9.3 Trade — printed p. 142 |
 | Eritrea part (ER G5 Social Studies) — Chapter 7 ንግድን መጓዓዝያን Trade and Transport: 7.1 Trade | Eritrea, *ER G5 Social Studies*, Chapter 7 ንግድን መጓዓዝያን Trade and Transport: 7.1 Trade — printed p. 79 |
+| Eritrea part — Economics expansion — Chapter 7 §7.1 ንግዲ (Trade): trade as the buying, selling and exchanging of products, goods and services between people, arising because no one can produce everything they need — farmer, bus owner selling a service, and wage worker as the three examples (the same Chapter 7 part placed by the Geography wave above; stocked here for its Economics teaching) | Eritrea, *Eritrea Grade 5 Social Studies 5 (Tigrinya)*, Chapter 7 §7.1 — printed p. 79 |
 | India part (Grade 7 Our Environment) — Ch.1: needs, surplus and the barter system — how trade began | India, *India Grade 7 Our Environment*, Ch.1: needs, surplus and the barter system — how trade began — printed p. 5 |
 | North Macedonia part (Grade 10 mk-g10) — 36. Економијата и слободната размена во светот | North Macedonia, *North Macedonia Grade 10 mk-g10*, 36. Економијата и слободната размена во светот — printed p. 108 |
 | Cambodia part — Ch.5 L2 ភ្លើងទំនើញ (flows of goods) | Cambodia, *Cambodia Grade 11 Geography*, Ch.5 L2 ភ្លើងទំនើញ (flows of goods) — printed p. 130 |
@@ -132,7 +133,7 @@ Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapt
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
-Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал
+Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, eritrea economics expansion, buying selling exchanging, farmer bus owner wage worker
 
 Palestine's own way (Grade 5, PS G5P2): the settlement story is told as a ladder — farming, animal domestication, the agricultural village, the Palestinian village of today, then the city located on the map — and the year closes with the road itself: what a road is, its parts, and how to cross it safely.
 
@@ -143,6 +144,8 @@ Colombia's own way (CS_Grado05_02): Grade 5's second cartilla turns from history
 Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.
 
 Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.
+
+Eritrea's own way — Economics expansion (Eritrea Grade 5 Social Studies 5 (Tigrinya)): trade is taught in the mother tongue a full three years before the English-medium Grade 8 book repeats it — the same Eritrean examples (the farmer at market, sesame and fish exports) carried from Tigrinya into English.
 
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
 

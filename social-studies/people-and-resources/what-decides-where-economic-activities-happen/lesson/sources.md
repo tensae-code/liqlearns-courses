@@ -7,10 +7,13 @@ countries: Eritrea
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Unit 11 Economic Activities: factors for the location of economic activities | Eritrea, *ER G6 Social Studies*, Unit 11 Economic Activities: factors for the location of economic activities — printed p. 93 |
+| Eritrea part — Economics expansion — Unit 11.1 Factors for the location of economic activities: where activities sit is decided by the physical environment (climate, soil, water, resources) and by cultural food preference, worked through Eritrean crops and zones (the same Unit 11 part placed by the Geography wave above; stocked here for its Economics teaching) | Eritrea, *Eritrea Grade 6 Social Studies 6*, Unit 11.1 Factors for the location of economic activities — printed p. 93 |
 | Sub lesson 2 — Eritrea's way — the book's own teaching way | Eritrea — the books' own way of teaching (see below) |
 
 **Acceptance count: taught in 1 country (Eritrea).**
 
 Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.
 
-Searchable tags: what decides where economic activities happen, Eritrea, social studies, people-and-resources
+Eritrea's own way — Economics expansion (Eritrea Grade 6 Social Studies 6): Economics enters as one unit inside integrated Social Studies — the three activity levels are taught entirely through Eritrean examples (highland wheat and barley vs lowland sorghum and sesame, Red Sea fishing, handicrafts before Italian-era modern industry), with a local research project on the pupil's own area.
+
+Searchable tags: what decides where economic activities happen, Eritrea, social studies, people-and-resources, economics expansion, unit 11.1, climate soil water resources, cultural food preference

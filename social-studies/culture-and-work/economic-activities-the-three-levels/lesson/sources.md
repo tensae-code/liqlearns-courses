@@ -179,6 +179,7 @@ countries: Ethiopia, Guatemala, Ukraine, Ecuador, Bolivia, Palestine, Bangladesh
 | Malaysia part (MY T3 Geografi Tingkatan 3) — Bab 7 Kegiatan Ekonomi di Malaysia: types of economic activity in Malaysia | Malaysia, *MY T3 Geografi*, Bab 7 Kegiatan Ekonomi di Malaysia: types of economic activity in Malaysia — printed pp. 114-119 |
 | Malaysia part (MY T5 Geografi Tingkatan 5) — Bab 9 Kegiatan Ekonomi Utama: types of main economic activity and the factors that influence them | Malaysia, *MY T5 Geografi*, Bab 9 Kegiatan Ekonomi Utama: types of main economic activity and the factors that influence them — printed pp. 148-160 |
 | Eritrea part (ER G6 Social Studies) — Unit 11: the categories of economic activities | Eritrea, *ER G6 Social Studies*, Unit 11: the categories of economic activities — printed p. 95 |
+| Eritrea part — Economics expansion — Unit 11.2 The categories of economic activities: economic activities divide into primary (taking resources directly), secondary (processing them) and tertiary (services and trade), each defined with Eritrean examples (the same Unit 11 part placed by the Geography wave above; stocked here for its Economics teaching) | Eritrea, *Eritrea Grade 6 Social Studies 6*, Unit 11.2 The categories of economic activities — printed p. 95 |
 | Rwanda part — Economic activities in Rwanda and East Africa, read from an economic map of East Africa (Unit 7, Economic activities, Lesson 1) (teacher guide — evidence) | Rwanda, *Rwanda Grade 6 Social Studies TG*, Economic activities in Rwanda and East Africa, read from an economic map of East Africa (Unit 7, Economic activities, Lesson 1) — printed p. 136 |
 | Rwanda part — Economic activities in Africa (Unit 7, Lesson 2) (teacher guide — evidence) | Rwanda, *Rwanda Grade 6 Social Studies TG*, Economic activities in Africa (Unit 7, Lesson 2) — printed p. 136 |
 | Rwanda part — 7.1 Economic activities in Rwanda and East Africa (Unit 7, Economic activities) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 7.1 Economic activities in Rwanda and East Africa (Unit 7, Economic activities) — printed pp. 181–183 |
@@ -267,7 +268,7 @@ Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse on
 
 Bolivia's own way (Grade 10, Secundaria 4): Secundaria 4 is the nineteenth-century history year, and its geography is the geography of what Bolivia lost and what it lives from: the Atacama Litoral and the sea it no longer has, Potosí's silver and the tin north, the Amazon rubber boom, and a closing resources unit that runs from natural-resource classification to Vivir Bien and sustainable development.
 
-Searchable tags: economic activities: the three levels, culture and work, social studies, ethiopia, Guatemala, Ukraine, Geografiya Gilberg, Ecuador, Bolivia, Ciencias Sociales Bolivia
+Searchable tags: economic activities: the three levels, culture and work, social studies, ethiopia, Guatemala, Ukraine, Geografiya Gilberg, Ecuador, Bolivia, Ciencias Sociales Bolivia, eritrea economics expansion, primary secondary tertiary activities
 
 Palestine's own way (Grade 7, PS G7P1): the world is taught continent by continent through one fixed lens — astronomical location (latitude and longitude) and geographical location first, then surface features and general characteristics — with the spread of the Islamic state across each continent as the historical thread.
 
@@ -294,6 +295,8 @@ Malaysia's own way (MY T3 Geografi Tingkatan 3): Form 3 turns from skills (table
 Malaysia's own way (MY T5 Geografi Tingkatan 5): the final form is the world's systems book — advanced graphs and photo interpretation, then weather and climate at world scale, vegetation and wildlife by climate zone, energy, and the environmental bill for economic activity.
 
 Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.
+
+Eritrea's own way — Economics expansion (Eritrea Grade 6 Social Studies 6): Economics enters as one unit inside integrated Social Studies — the three activity levels are taught entirely through Eritrean examples (highland wheat and barley vs lowland sorghum and sesame, Red Sea fishing, handicrafts before Italian-era modern industry), with a local research project on the pupil's own area.
 
 Rwanda's own way (Rwanda Grade 6 Social Studies TG) (teacher guide — evidence): P6 widens the frame from the province to the country, then to East Africa and Africa — Rwanda is located by latitude and longitude (1°S–3°S, 28°E–31°E), its landlocked position is taught as the reason for regional co-operation, and every unit is built around a problem statement with the pupil's book activities answered in the guide. That book is a teacher guide, cited as evidence only; Rwanda is counted in this lesson for its student book(s) named here, not for this guide.
 

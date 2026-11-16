@@ -1,6 +1,6 @@
 # Sources — Services The Third Part Of The Economy
 
-countries: Vietnam, Ecuador
+countries: Vietnam, Ecuador, Eritrea
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -16,10 +16,18 @@ countries: Vietnam, Ecuador
 | Ecuador — Servicios públicos y privados (Unidad 6): services satisfy people's needs for wellbeing and health; public services include electricity, sewerage, drinking water, telephone, rubbish collection, firefighters and the 911, while health, education and transport exist as both public and private services | Ecuador, *Ecuador Grade 3 Estudios Sociales 3ro EGB*, Servicios públicos y privados (Unidad 6) — printed p. 126 |
 | Ecuador's way — the book's own teaching way | Ecuador — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 2 countries (Vietnam, Ecuador).**
+**Book 3:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea (Curriculum Planning and Development Division); year 2015 (© 2015, reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. Title as printed: Social Studies for Grade 6 — Pupils' Book ("Social Studies 6 Textbook"). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title; byte size 2,730,732 and page count 127 match the record exactly). Verdict: COMPLETE. Contents map: Economics parts printed pp. 93–99 (Unit 11); History pp. 1–7, 60–77 (Units 1, 8, 9); Geography pp. 8–59, 78–92 (Units 2–7, 10); Civics/Health/Social pp. 43–59, 100–126 (Units 7, 12, 13). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Eritrea part — Unit 11.2C Tertiary activities: tertiary activity as selling services — traders moving primary and factory goods to buyers, paid transport, hotels and restaurants, banks named in the summary | Eritrea, *Eritrea Grade 6 Social Studies 6*, Unit 11.2C Tertiary activities — printed p. 97 |
+
+Eritrea's own way (Eritrea Grade 6 Social Studies 6): Economics enters as one unit inside integrated Social Studies — the three activity levels are taught entirely through Eritrean examples (highland wheat and barley vs lowland sorghum and sesame, Red Sea fishing, handicrafts before Italian-era modern industry), with a local research project on the pupil's own area.
+
+**Acceptance count: taught in 3 countries (Vietnam, Ecuador, Eritrea).**
 
 Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
 
 Ecuador's own way (Ecuador Grade 3 Estudios Sociales 3ro EGB): economic activities are taught by sector and region of the child's own parish and canton — rural agriculture, livestock, fishing and crafts (including paja toquilla) against town occupations, with tourism named as a growth activity for a biodiverse country. Services are sorted by who provides them — public services the child uses every day (electricity, sewerage, drinking water, telephone, rubbish collection, firefighters, the 911) against health, education and transport, which exist as both public and private services.
 
-Searchable tags: services the third part of the economy, Vietnam, Ecuador, public services, private services, social studies, culture-and-work
+Searchable tags: services the third part of the economy, Vietnam, Ecuador, Eritrea, public services, private services, tertiary activities, traders, transport, hotels, banks, social studies, culture-and-work

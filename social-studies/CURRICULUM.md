@@ -13277,3 +13277,104 @@ working market at Primary Six; and an
 Entrepreneurship textbook ends by teaching
 government revenue and toll roads at Senior One.
 Economics lessons: 406 → 407.
+
+## Economics expansion — Eritrea — built 2026-11-16
+
+Eritrea — 22 placements stocked from 5 student books
+(all mixed Social Studies; Ministry of Education, The
+State of Eritrea, Curriculum Planning and Development
+Division): *Social Studies Grade 6* (English, 2015,
+ISBN 99948-1-453-2), *Social Studies Grade 7* (English,
+2011, ISBN 99948-1-584-9), *Social Studies Grade 8*
+(English, 2011, ISBN 99948-1-592-X), *Social Studies
+Grade 5* (Tigrinya, 2010, ISBN 99948-1-305-6) and
+*Social Studies Grade 4* (Tigrinya, 2009, ISBN
+99948-1-231-9), all COMPLETE. All 5 books are student
+books, so every placement counts in acceptance.
+Reconciliation: the filing's 22 placement lines are
+17 named to existing lessons + 5 NEW LESSON NEEDED
+lines naming 5 distinct new slugs; one of them,
+microeconomics/basic-needs-and-other-needs, already
+stands (built for the United Arab Emirates), so it is
+stocked there, not built twice — 18 placements land
+in existing lessons and 4 in the new lessons below.
+Four placements (Grade 6 Unit 11.1 p. 93, Unit 11.2
+p. 95; Grade 5 §7.1 p. 79, §7.3 p. 84) name parts the
+Geography wave had already placed from the same books;
+each is stocked as a distinct Economics row against
+the book entry already cited, acceptance unchanged.
+18 stocked into standing lessons — **People and
+Resources**: What decides where economic activities
+happen (Grade 6, Unit 11.1, printed p. 93; acceptance
+unchanged, 1 country, Eritrea); Importance of farming
+to the economy (Grade 8, Unit 10 §9.1, printed p. 129;
+acceptance 2 → 3 countries); Our production and
+income-generating work (Grade 4 (Tigrinya), Unit 7
+§7.4, printed p. 96; acceptance 2 → 3) — **Culture
+and Work**: Economic activities — the three levels
+(Grade 6, Unit 11.2, printed p. 95; acceptance
+unchanged, 29 countries, Eritrea already counted);
+Secondary activities — cottage industries (Grade 6,
+Unit 11.2B, printed p. 97, and Grade 8, Unit 10 §9.4,
+printed p. 146; acceptance 6 → 7); Services — the
+third part of the economy (Grade 6, Unit 11.2C,
+printed p. 97; acceptance 2 → 3); Trade — internal
+and external, and its uses (Grade 8, Unit 10
+§9.3d–e, printed p. 143, and Grade 5 (Tigrinya),
+Chapter 7 §7.2, printed p. 82; acceptance unchanged,
+28 countries, Eritrea already counted); Industry —
+what it is (Grade 8, Unit 10 §9.4, printed p. 145;
+acceptance 1 → 2); Trade — what trade is (Grade 5
+(Tigrinya), Chapter 7 §7.1, printed p. 79; acceptance
+unchanged, 22 countries, Eritrea already counted);
+Why trade matters (Grade 5 (Tigrinya), Chapter 7
+§7.3, printed p. 84; acceptance unchanged, 1 country,
+Eritrea) — **Microeconomics**: The traditional
+economy (Grade 7, Unit 5.1 Primitive Communal Society,
+printed p. 64; acceptance 4 → 5); Basic needs and
+other needs (Grade 4 (Tigrinya), Unit 7 §7.4 opening
+part, printed p. 93 — filed NEW, already standing,
+see above; acceptance 1 → 2) — **Market and Money**:
+Barter — and why it fails (Grade 8, Unit 10 §9.3a,
+printed p. 143, and Grade 5 (Tigrinya), Chapter 7
+§7.2, printed p. 80; acceptance 4 → 5); Domestic
+trade — wholesale and retail (Grade 8, Unit 10
+§9.3b–c, printed p. 143, and Grade 5 (Tigrinya),
+Chapter 7 §7.2, printed p. 81; acceptance 2 → 3)
+— and 4 new lessons built (12 questions each) — in
+**Microeconomics**: The slave economy (1 placement,
+Grade 7, Unit 5.2 Slave Society, printed p. 71 — the
+first class society as an economic system:
+slave-owners and slaves, slaves made by debt and war
+captivity, free farmers and craftsmen alongside, and
+the caste form) and The feudal economy (1 placement,
+Grade 7, Unit 5.3 Feudal Society, printed p. 74 —
+landlords, serfs and tenants working the lord's land
+and paying taxes/rent in labour in exchange for land
+use and protection, land-based in Europe and
+cattle-based in parts of Africa); in
+**Macroeconomics**: Eritrea's post-independence
+development programmes (1 placement, Grade 8, Unit 9
+§8.2, printed p. 117 — National Charter goals of
+self-reliance, fair distribution of wealth and
+people's participation; the 1995 land reform, all
+land state property with equal use rights for men and
+women and investment permitted; infrastructure and
+food-self-sufficiency drives; and the 2002
+Warsai-Yikaalo recovery campaign financed from
+internal resources and loans) and Fishing and salt in
+Eritrea's economy (1 placement, Grade 8, Unit 10
+§9.2, printed p. 140 — Red Sea fish as food,
+industrial inputs and an export bringing foreign
+exchange from Europe, the Middle East and the Far
+East; sea and rock salt mining). Eritrea's own way:
+at Grades 4–5 Economics arrives in Tigrinya inside
+the community and trade chapters — needs first, then
+work as making goods and giving services, then trade
+from barter to world trade with Eritrea's own
+exports; at Grade 6 the three activity levels are
+taught entirely through Eritrean examples; at Grade 7
+Economics is a ladder of systems — communal, slave,
+feudal — and at Grade 8 it becomes Eritrea itself,
+its development programme and its farming, fishing,
+trade and industries. Economics lessons: 407 → 411.

@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **407**
+Economics lessons across the Economics titles: **411**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4272,4 +4272,8 @@ Macroeconomics: Why tourism matters to an economy); +2 for France,
 2026-11-16 — Microeconomics: Who produces — firms,
 administrations and the social economy;
 Macroeconomics: Investing in human capital); +1 for Uganda,
-2026-11-16 — Macroeconomics: Sources of government revenue).
+2026-11-16 — Macroeconomics: Sources of government revenue).; +4 for Eritrea,
+2026-11-16 — Microeconomics: The slave economy and
+The feudal economy; Macroeconomics: Eritrea's
+post-independence development programmes and Fishing
+and salt in Eritrea's economy).
