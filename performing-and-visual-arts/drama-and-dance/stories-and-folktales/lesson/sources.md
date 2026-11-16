@@ -1,6 +1,6 @@
 # Sources — Stories and Folktales
 
-countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil
+countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil, Morocco
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -39,7 +39,14 @@ countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Surin
 
 | Brazil — Folha 9 — Sophocles' Antigone (plot summary) discussed, then pupils dramatise disobedience stories from their own lives (student book; original target `drama-and-dance/stories-and-folktales`) | Book 9, printed p. 147 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Finland, Fiji, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 10:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذ(ة) (Al-Moufid in Art Education — Teacher's Guide), Grade 3 of primary education* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music, Hafid El Abaya for visual arts); written for the Ministry's January 2021 art-education curriculum (school year 2021–2022); no ISBN printed, Grade 3 primary, 152 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 152 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–39) and the diagnostic-assessment card (printed pp. 41–42). Standing exclusion: each unit's week-5 assessment-and-support card (تقويم ودعم الوحدة). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco — "Juha and the Cooking Pot" (جحا والطنجرة) — the classic Juha tale acted as a two-person comic dialogue — Juha borrows his neighbour's pot, returns it with a small pot ("your pot gave birth"), borrows it again and tearfully announces the pot has died (plot only) (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 10, printed p. 98 |
+| Morocco — "Once Upon a Time" (كان يا ما كان) — a sung story-play in call-and-response — a Singer tells how he answered a man's insult with an insult "like fire", and the Chorus corrects him: answering insult with insult is wrong; performed the following week in groups with singing, dance and rhythm, the audience keeping time (plot only) (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 10, printed p. 137 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Finland, Fiji, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 All three stories are taught as PLOT SUMMARY ONLY, exactly as the placements give them — no sentence of the books' text is reproduced. The Grade 1 and Grade 2 teacher guides' tales-and-riddles placements (g01-teacher p. 47 §3.3; g02-teacher pp. 46–48 §3.3) name tales and riddles as theatre's roots; that framing is carried in this lesson's plan level line and in the Riddles lesson, labelled there as teacher-guide evidence, and does not change this lesson's pupil-book count.
 

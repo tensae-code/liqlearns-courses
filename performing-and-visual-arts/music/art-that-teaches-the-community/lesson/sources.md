@@ -1,6 +1,6 @@
 # Sources — Art That Teaches the Community
 
-countries: Ethiopia, Egypt, Fiji, Papua New Guinea
+countries: Ethiopia, Egypt, Fiji, Papua New Guinea, Morocco
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -31,7 +31,13 @@ countries: Ethiopia, Egypt, Fiji, Papua New Guinea
 
 | Papua New Guinea — Unit 12.3 Awareness Theatre — researching awareness theatre groups in Papua New Guinea (drawing on the National AIDS Council, the Department of Health, government departments, theatre groups and NGOs) and what awareness theatre is for; researching, analysing and demonstrating awareness theatre on real issues — environmental (water and air pollution, rising sea levels), land disputes, health (HIV and AIDS, maternal health, family planning), social (alcohol abuse, illegal drugs), illegal squatters, political (corruption, the limited preferential voting system) and economic issues — and developing the research findings into a scripted awareness play for the community (teacher guide — evidence; original target `drama-and-dance/awareness-theatre`) | Book 5, printed pp. 38–39 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Egypt).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 6:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذ(ة) (Al-Moufid in Art Education — Teacher's Guide), Grade 3 of primary education* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music, Hafid El Abaya for visual arts); written for the Ministry's January 2021 art-education curriculum (school year 2021–2022); no ISBN printed, Grade 3 primary, 152 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 152 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–39) and the diagnostic-assessment card (printed pp. 41–42). Standing exclusion: each unit's week-5 assessment-and-support card (تقويم ودعم الوحدة). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco — "A Friend Told Me" (قال لي صديق) — a road-safety song — a friend asks how you walk in the street; the singer walks on the far right, keeps order, uses the pedestrian crossing, watches at all times and follows the traffic guide (summary only) (teacher guide — evidence; original target `music/art-that-teaches-the-community`) | Book 6, printed p. 96 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Egypt).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 HIV/AIDS and doping are taught exactly in the pupil book's own framing and wording, as a warning teaching. Both songs are placed by name, teaching/purpose and (for the Grade 6 reprint) printed credit line only; no lyrics are transcribed.
 

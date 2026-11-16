@@ -1,7 +1,7 @@
 # Sources — Shapes You Can Draw
 
 
-countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus
+countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -55,7 +55,14 @@ countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Bel
 | Belarus — Part 4, the Art Workshop: Depicting animals and fish — more step sequences building animals and a fish from shapes (student book; original target `visual-art/shapes-you-can-draw`) | Book 12, printed pp. 65–66 |
 | Belarus — Part 6: Geometric solids — the solid forms and how they underlie drawn objects (student book; original target `visual-art/shapes-you-can-draw`) | Book 12, printed p. 91 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 13:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذ(ة) (Al-Moufid in Art Education — Teacher's Guide), Grade 3 of primary education* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music, Hafid El Abaya for visual arts); written for the Ministry's January 2021 art-education curriculum (school year 2021–2022); no ISBN printed, Grade 3 primary, 152 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 152 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–39) and the diagnostic-assessment card (printed pp. 41–42). Standing exclusion: each unit's week-5 assessment-and-support card (تقويم ودعم الوحدة). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco — "The Girl Friends" (الصديقات) — observing a painting, counting its faces and shapes, then creating an artwork built from geometric shapes with overlapping and contrast (teacher guide — evidence; original target `visual-art/shapes-you-can-draw`) | Book 13, printed p. 44 |
+| Morocco — "Faces" (وجوه) — shaping with geometric shapes and sizes — regularity and irregularity, juxtaposition and contrast — colouring faces built from circles, half-circles and rectangles, then drawing a face from a model's stages or from imagination (teacher guide — evidence; original target `visual-art/shapes-you-can-draw`) | Book 13, printed p. 103 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 3 forms placement (printed pp. 30–31) also carries a paper-collage picture (Drawing 17, flowers made by cutting and pasting papers); collage-making belongs to the Making cluster of this course, so only the forms content of those pages is stocked here and the collage is not taught in this lesson. Grade 2's house placement spans printed pp. 36–38 and the car placement is on printed p. 38, exactly as placed.
 

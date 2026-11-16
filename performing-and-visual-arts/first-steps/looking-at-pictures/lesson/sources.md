@@ -1,6 +1,6 @@
 # Sources — Looking at Pictures
 
-countries: Ethiopia, Honduras, Singapore, Finland
+countries: Ethiopia, Honduras, Singapore, Finland, Morocco
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -28,7 +28,13 @@ countries: Ethiopia, Honduras, Singapore, Finland
 | Finland — Lesson 1: Describe and draw — in pairs, one pupil describes a hidden picture of a Mether-Borgström work while the partner draws from the description alone, then roles swap and drawings are compared with the originals (student workshop material) | Book 7, printed p. 5 |
 | Finland — Lesson 1: Analysing a work — examining one chosen artwork closely — its name and technique, its colours, whether it is 2- or 3-dimensional, and its shapes (student workshop material) | Book 7, printed p. 5 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Finland). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Book 8:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذة — السنة الرابعة من التعليم الابتدائي (Al-Moufid in Art Education — Teacher's Guide, Grade 4 of primary education), new edition September 2022 (طبعة جديدة شتنبر 2022)* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music education, Hafid El Abaya, Khaled Rezqi and Jihane El Kadiri for visual arts); built on the Ministry's January 2021 art-education curriculum (cahier des charges, school year 2022–2023); no ISBN printed, Grade 4 primary, 141 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 141 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–44) and the diagnostic-assessment card (printed p. 46); appendices named, not placed: the printed song texts (printed pp. 124–126) and play texts (printed pp. 127–130) — inventory only; the Arabic–French art glossary (معجم فني, printed p. 141) — a word list, inventory-only. Standing exclusion: each unit's week-5 assessment-and-support card (printed pp. 58, 72, 84, 96, 110, 122). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco — "Green Morocco" (المغرب الأخضر), the kinds of image — the four kinds of image — the artistic image (addresses feelings, draws us to beauty), the communicative image (informs and raises awareness), the documentary image (dates and witnesses an important event, like the 1956 photo of Mohammed V launching collective ploughing) and the advertising image (promotes a product to sell it, like argan oil) — and reading an image's dimensions and meaningful zones (teacher guide — evidence; original target `first-steps/looking-at-pictures`) | Book 8, printed p. 86 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Finland). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 1 rests on the Grade 1 teacher guide's named visual-perception skill and is labelled teacher-guide evidence in the table; the lesson as a whole also rests on the student book's §1.5, so the acceptance count below counts the student book. The four family scenes are the student book's own §1.5 picture pages, described — not reproduced.
 

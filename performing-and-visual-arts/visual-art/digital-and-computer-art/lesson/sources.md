@@ -1,6 +1,6 @@
 # Sources — Digital and Computer Art
 
-countries: Maldives, Turkmenistan, Sudan, Brazil
+countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -20,7 +20,14 @@ countries: Maldives, Turkmenistan, Sudan, Brazil
 
 | Brazil — Folha 3 — art on digital supports: infoarte, arte digital, arte na web, infogravura (digital-matrix printmaking), wap arte, web arte (student book; original target `visual-art/digital-and-web-art`) | Book 4, printed p. 61 |
 
-**Acceptance count: taught in 4 countries (Maldives, Turkmenistan, Sudan, Brazil).**
+**Book 5:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذة — السنة الرابعة من التعليم الابتدائي (Al-Moufid in Art Education — Teacher's Guide, Grade 4 of primary education), new edition September 2022 (طبعة جديدة شتنبر 2022)* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music education, Hafid El Abaya, Khaled Rezqi and Jihane El Kadiri for visual arts); built on the Ministry's January 2021 art-education curriculum (cahier des charges, school year 2022–2023); no ISBN printed, Grade 4 primary, 141 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 141 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–44) and the diagnostic-assessment card (printed p. 46); appendices named, not placed: the printed song texts (printed pp. 124–126) and play texts (printed pp. 127–130) — inventory only; the Arabic–French art glossary (معجم فني, printed p. 141) — a word list, inventory-only. Standing exclusion: each unit's week-5 assessment-and-support card (printed pp. 58, 72, 84, 96, 110, 122). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco — "Strange Animals" (حيوانات غريبة), changing an image — working on an image by deletion (الحذف — removing an element), addition (الإضافة — adding a new element) and exaggeration (المبالغة — enlarging an element), first seen in a digitally altered animal picture: what is strange in the giraffe, the elephant and the crow (teacher guide — evidence; original target `visual-art/the-digital-image`) | Book 5, printed p. 100 |
+| Morocco — "The Digital Image" (الصورة الرقمية) — what a digital image is and the tools that capture it (the mobile phone first, then the digital camera, tablet and computer); digital image processing (Traitement d'image numérique) — loading an image into processing software and using its icons to change colour, size, shape and position, cut, glue, add writing and add new elements; the guide's first step into digital work comes earlier, in Unit 4's introduction to digitising (Numériser) and processing images and texts (printed p. 88) (teacher guide — evidence; original target `visual-art/the-digital-image`) | Book 5, printed p. 102 |
+
+**Acceptance count: taught in 4 countries (Maldives, Turkmenistan, Sudan, Brazil).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/digital-and-computer-art`); the two Maldives placements were filed under the original strings `visual-art/posterisation` and `visual-art/the-digital-image`, recorded in the provenance rows above.
 

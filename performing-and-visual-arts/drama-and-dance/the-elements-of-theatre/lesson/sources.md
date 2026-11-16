@@ -1,6 +1,6 @@
 # Sources — The Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil
+countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -62,7 +62,13 @@ countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papu
 
 | Brazil — Folha 18 "Afastem as carteiras, o teatro chegou!" — three spaces of theatre: scenic, dramatic (imagined) and scenographic; the game "Onde", showing a place by gesture alone (student book; original target `drama-and-dance/the-elements-of-theatre`) | Book 16, printed p. 290 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Honduras, Iran, Brazil). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 17:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذة — السنة الرابعة من التعليم الابتدائي (Al-Moufid in Art Education — Teacher's Guide, Grade 4 of primary education), new edition September 2022 (طبعة جديدة شتنبر 2022)* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music education, Hafid El Abaya, Khaled Rezqi and Jihane El Kadiri for visual arts); built on the Ministry's January 2021 art-education curriculum (cahier des charges, school year 2022–2023); no ISBN printed, Grade 4 primary, 141 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 141 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–44) and the diagnostic-assessment card (printed p. 46); appendices named, not placed: the printed song texts (printed pp. 124–126) and play texts (printed pp. 127–130) — inventory only; the Arabic–French art glossary (معجم فني, printed p. 141) — a word list, inventory-only. Standing exclusion: each unit's week-5 assessment-and-support card (printed pp. 58, 72, 84, 96, 110, 122). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco — Appendix: "The Stage" (خشبة المسرح) — the kinds of stage — the open stage (nothing separates actors from audience), the flexible stage (places of performance and audience can change), the circular stage (audience on all four sides, a low stage, actors entering through the audience) and the frontal stage (the commonest — audience in front, the play seen from the front only); and the division of the stage into named zones — nine zones the most used (some divide it into 16 or 32), with the nine-zone plan (teacher guide — evidence; original target `drama-and-dance/kinds-of-stage`) | Book 17, printed p. 137 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Honduras, Iran, Brazil). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book's plot example is taught as the book gives it — a soldier wounded by enemy fire, his wife dying of grief, the story told by flashback — summarised, never reprinted. The teacher-guide parts (shot sizes move to the Video lesson; the Grade 6 guide's theatre-elements and genres part) are evidence and are labelled so.
 

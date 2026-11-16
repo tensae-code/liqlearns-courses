@@ -1794,7 +1794,57 @@ lessons are the books'.
   1922, Paraná regional art, samba, frevo, fandango,
   capoeira and Boal's Theatre of the Oppressed.
 
-**The whole course stands at 482 lessons, 6,193 questions and
+**Art expansion — Morocco (2026-11-16):** 118 placements
+  stocked from 2 teacher guides: *Al-Moufid in Art
+  Education — Teacher's Guide, Grade 3* (Dar Attakafa,
+  Casablanca, 2021–2022 curriculum, Arabic, 152 pp.)
+  and *Al-Moufid in Art Education — Teacher's Guide,
+  Grade 4*, new edition September 2022 (141 pp.). Both
+  are TEACHER guides, so Morocco enters every stocked
+  lesson's `countries:` line as EVIDENCE only, kept
+  outside the acceptance count. 107 placements into
+  existing and already-built canonical lessons
+  (Mime, Fables and First Plays ×7; Making with Paper
+  and Pieces ×6; Acting Together ×5; Songs of Our
+  Country ×5 — including the Green March song and the
+  homeland songs; Stage Movement and Blocking ×5;
+  and the rest), and 11 into 7 NEW lessons (Visual
+  Art: Zellige Mosaic Art ×2; Moroccan Calligraphy
+  and Tifinagh Script; Moroccan Artists and Their
+  Works. Music: Friendship Songs. Drama and Dance:
+  Voice Projection, Diction and Delivery ×4;
+  Moroccan Heritage Dances. Culture and Values:
+  Moroccos Cities Present Themselves), 77 questions
+  added, media as described slots only. Registry
+  resolutions carried: the reader strings are
+  resolved in slug-registry Part 2 throughout — among
+  them breathing-and-voice-warm-ups-for-singing →
+  Singing Technique and Voice Care; kasbahs-and-
+  moroccan-doors → Architecture; the-choir-and-its-
+  conductor → Choral Singing; moroccan-script-and-
+  tifinagh → Moroccan Calligraphy and Tifinagh
+  Script; moroccan-heritage-dances (filed under
+  Culture and Values) → Moroccan Heritage Dances;
+  moroccan-artists-and-their-works (filed under
+  Culture and Values) → Moroccan Artists and Their
+  Works. Honesty carried exactly as filed: both
+  guides are COMPLETE and read in full; songs and
+  play scripts are summarised only, never
+  transcribed; the Grade 4 Arabic–French art glossary
+  is inventory-only, named in the book entries, not
+  stocked; each unit's week-5 assessment-and-support
+  card is excluded as filed. Morocco's own way is
+  kept as named parts: one integrated art-education
+  course in three strands (visual arts, music and
+  songs, theatre) through six thematic units, the
+  Green March song, kasbahs and decorated doors, the
+  zellige-mosaic public fountain, Chefchaouen the
+  Blue City, Moroccan script and Tifinagh, the
+  heritage dances Ahidus, Ahwash, Guedra, Gnawa and
+  Reggada, and children personifying Moroccan cities
+  in regional dress.
+
+**The whole course stands at 489 lessons, 6,270 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

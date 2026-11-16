@@ -1,6 +1,6 @@
 # Sources — Songs of Nature
 
-countries: Ethiopia, Turkmenistan, Fiji, Belarus
+countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -35,7 +35,16 @@ countries: Ethiopia, Turkmenistan, Fiji, Belarus
 
 | Belarus — Part 1, "Musical colours of autumn": autumn folk songs ("Yarnaya", "Dubrovushka dy zialionaya") and Karetnikau's "The Birds Fly Away" from the suite "The Seasons" (student book; original target `music/songs-of-nature`) | Book 8, printed pp. 21–25 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Belarus).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 9:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذ(ة) (Al-Moufid in Art Education — Teacher's Guide), Grade 3 of primary education* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music, Hafid El Abaya for visual arts); written for the Ministry's January 2021 art-education curriculum (school year 2021–2022); no ISBN printed, Grade 3 primary, 152 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 152 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–39) and the diagnostic-assessment card (printed pp. 41–42). Standing exclusion: each unit's week-5 assessment-and-support card (تقويم ودعم الوحدة). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 10:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذة — السنة الرابعة من التعليم الابتدائي (Al-Moufid in Art Education — Teacher's Guide, Grade 4 of primary education), new edition September 2022 (طبعة جديدة شتنبر 2022)* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music education, Hafid El Abaya, Khaled Rezqi and Jihane El Kadiri for visual arts); built on the Ministry's January 2021 art-education curriculum (cahier des charges, school year 2022–2023); no ISBN printed, Grade 4 primary, 141 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 141 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–44) and the diagnostic-assessment card (printed p. 46); appendices named, not placed: the printed song texts (printed pp. 124–126) and play texts (printed pp. 127–130) — inventory only; the Arabic–French art glossary (معجم فني, printed p. 141) — a word list, inventory-only. Standing exclusion: each unit's week-5 assessment-and-support card (printed pp. 58, 72, 84, 96, 110, 122). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco — "Nature Is God's Wonderful Blessing" (الطبيعة نعمة الله البديعة) — a nature song (words and music Deeb Abu Shala) — nature's seas, rivers, mountains, trees, birds and stars obey their Creator; we eat from its crops, drink from its springs, are gladdened by the nightingale's voice, and must guard the trust (summary only) (teacher guide — evidence; original target `music/songs-of-nature`) | Book 9, printed p. 127 |
+| Morocco — "Long Live the Tree" (تحيا الشجرة) — a tree song (words Bayan al-Samadi, "Color Dréamine") — the tree as mother of fruit and sweet home of the bird, dreaming of shade and light, thanking the rain, her green leaves the colour of hope, defying wind and cold; the children promise to plant and water her (summary only) (teacher guide — evidence; original target `music/songs-of-nature`) | Book 10, printed p. 106 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Belarus).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 book prints the star song in Amharic and the Grade 3 book prints the same song in English; both placements are stocked — the Amharic here, the English in School Songs — exactly as the books place them. No song lyrics are transcribed; songs are named and their pictures summarised.
 

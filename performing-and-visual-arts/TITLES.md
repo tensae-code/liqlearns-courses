@@ -297,6 +297,22 @@ The titles, in ladder order:
    Hamilton, Warhol and Oldenburg's giant soft
    hamburger; and realism in painting — Courbet's
    unadorned workers (Brazil student book).
+ The Art expansion added:
+   zellige mosaic art — Morocco's cut-tile mosaic on
+   the public fountain and in the Moroccan house,
+   organised by repetition, alternation and
+   opposition, with mirror symmetry; Moroccan
+   calligraphy and Tifinagh script — the Moroccan
+   script and the Amazigh Tifinagh, shown in panels
+   by named calligraphers, the pupil's own name as
+   the first panel; and Moroccan artists and their
+   works — the workbook's art-culture identity cards:
+   calligraphers Qarmad, El Kharbouchi and El
+   Fallous, the painter Meriem Amziane, the singer
+   Samira Ben Said, theatre pioneers Amina Rachid,
+   Laalej and Louzir, musicians Choraybi, Raihani
+   and Rizq Allah, and the creators of "Live, My
+   Country!" (Morocco teacher guides, evidence).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -549,6 +565,12 @@ The titles, in ladder order:
    modes of the world — pentatonic scales, India's
    ragas and the tempered chromatic scale (Brazil
    student book).
+ The Art expansion added:
+   friendship songs — "Be My Friend", a lonely child
+   made happy by a friend, learned section by
+   section and performed solo, in pairs, in groups
+   and as a whole class (Morocco teacher guide,
+   evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -703,6 +725,15 @@ The titles, in ladder order:
    and theatre of the oppressed — Augusto Boal's
    spect-actors, with Pina Bausch's dance-theatre of
    social problems (Brazil student book).
+ The Art expansion added:
+   voice projection, diction and delivery — delivery
+   as an old art shared with oratory, in its three
+   kinds (oratorical, poetic, acting), expressing by
+   voice alone, and expressive delivery from shout
+   to whisper; and Moroccan heritage dances —
+   Ahidus, Ahwash, Guedra, Gnawa and Reggada, named
+   as living heritage and performed by a project
+   group (Morocco teacher guides, evidence).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
@@ -826,3 +857,11 @@ The titles, in ladder order:
    indianism, and Paraná regional art: Alfredo
    Andersen, Paranismo and Poty Lazzarotto's Curitiba
    murals (Brazil student book).
+ The Art expansion added:
+   Moroccos cities present themselves — Morocco's
+   cities speaking through children in each city's
+   regional dress: Oujda, Tangier, Fez, Marrakech,
+   Agadir and the Souss, and the Sahara cities
+   Laayoune and Dakhla, closing by dancing and
+   singing the homeland song (Morocco teacher guide,
+   evidence).

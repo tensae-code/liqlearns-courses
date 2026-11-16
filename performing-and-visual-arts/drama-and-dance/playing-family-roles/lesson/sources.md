@@ -1,6 +1,6 @@
 # Sources — Playing Family Roles
 
-countries: Ethiopia
+countries: Ethiopia, Morocco
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -20,7 +20,13 @@ countries: Ethiopia
 | Sub lesson 3 — Acting the family (Exercise 4) | Grade 1 Student Textbook, §2.1 with Exercise 4, printed p. 19 |
 | Sub lesson 1 — Bringing out what is inside you (teacher guide — evidence; citation corrected to the guide's chapter introduction) | Grade 2 Teacher Guide, chapter introduction, printed p. 24 (section level — scan, no text layer) |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book 8:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذ(ة) (Al-Moufid in Art Education — Teacher's Guide), Grade 3 of primary education* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music, Hafid El Abaya for visual arts); written for the Ministry's January 2021 art-education curriculum (school year 2021–2022); no ISBN printed, Grade 3 primary, 152 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 152 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–39) and the diagnostic-assessment card (printed pp. 41–42). Standing exclusion: each unit's week-5 assessment-and-support card (تقويم ودعم الوحدة). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco — "I Imitate and I Act" (أقلد وأمثل), week 1 — imitating parents — an Eid-morning dialogue (greetings, off to the Eid prayer, then visiting loved ones) acted in pairs with roles swapped, then pupils imitating their own parents in situations they propose (plots only) (teacher guide — evidence; original target `drama-and-dance/playing-family-roles`) | Book 8, printed p. 114 |
+
+**Acceptance count: taught in 1 country (Ethiopia).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Per STRUCTURE.md, the Developing Creativity (Grade 1) and Expressing Creativity (Grade 2) chapter openers and their Review folds stock into this lesson as its opening part; the reviews' non-drama items (scribbling, palm printing, note names) belong to their own lessons and are not stocked here. The father-and-mother costume detail (gabi wrap, hat, stick, coat) is stocked in full in the Playing a Person lesson, where the Grade 2 book places the role-play sequence; it is named here only as the roles' own things. The teacher-guide row is evidence for the same pupil-taught content, not a separate count.
 

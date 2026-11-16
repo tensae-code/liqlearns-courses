@@ -1,6 +1,6 @@
 # Sources — Beautiful Writing
 
-countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil
+countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -107,7 +107,13 @@ countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus,
 
 | Brazil — Folha 3 — parchment and the Iluminura: the great decorated first letter of medieval manuscripts (student book; original target `visual-art/beautiful-writing`) | Book 21, printed p. 50 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Book 22:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذة — السنة الرابعة من التعليم الابتدائي (Al-Moufid in Art Education — Teacher's Guide, Grade 4 of primary education), new edition September 2022 (طبعة جديدة شتنبر 2022)* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music education, Hafid El Abaya, Khaled Rezqi and Jihane El Kadiri for visual arts); built on the Ministry's January 2021 art-education curriculum (cahier des charges, school year 2022–2023); no ISBN printed, Grade 4 primary, 141 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 141 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–44) and the diagnostic-assessment card (printed p. 46); appendices named, not placed: the printed song texts (printed pp. 124–126) and play texts (printed pp. 127–130) — inventory only; the Arabic–French art glossary (معجم فني, printed p. 141) — a word list, inventory-only. Standing exclusion: each unit's week-5 assessment-and-support card (printed pp. 58, 72, 84, 96, 110, 122). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco — "The Art of Calligraphy" (فن الخط) — calligraphy defined as the art of beautiful writing in the world's languages; Arabic writing is joined and takes geometric shapes, which gives it its special beauty; pupils write the motto "God, Homeland, King" and colour the Basmala (teacher guide — evidence; original target `visual-art/beautiful-writing`) | Book 22, printed p. 48 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: the Grade 5 calligraphy plates placement (single/double/shaded examples in Amharic and English, with a two-tied-pencils GIF need) is stocked inside Sub lesson 5's practice set, where the Grade 6 book turns the same two-tools method into practice; no separate plate part is claimed. Line-kind Amharic names and spellings (ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, ነጠላ, ድርብ) are copied exactly from the Grade 3 placements.
 

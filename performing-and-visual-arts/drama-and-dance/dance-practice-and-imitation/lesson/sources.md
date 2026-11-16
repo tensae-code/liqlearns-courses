@@ -1,6 +1,6 @@
 # Sources — Dance Practice and Imitation
 
-countries: Ethiopia, Canada, Trinidad and Tobago
+countries: Ethiopia, Canada, Trinidad and Tobago, Morocco
 
 **Book 1:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
 
@@ -24,7 +24,13 @@ countries: Ethiopia, Canada, Trinidad and Tobago
 | Trinidad and Tobago — Lesson Plan 1: Body Awareness (Form 1) — natural body actions (yawning, sneezing, hiccupping) explored, abstracted onto other body parts and composed into group sequences of eight movements (teacher guide — evidence) | Book 4, printed p. 16 |
 | Trinidad and Tobago — Dance Curriculum Content (Form 1) — the body's basics as numbered outcomes: what dance is, warm-up and spine stretching, locomotor vs axial movement, symmetry/asymmetry, joint range of motion (rotation, flexion, extension), personal vs general space, directions, dimensional scale and floor pathways (curriculum guide — evidence) | Book 5, printed pp. 55–58 |
 
-**Acceptance count: taught in 1 country (Canada).** Ethiopia is teacher-guide evidence only, named here, counted nowhere. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count.
+**Book 6:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذ(ة) (Al-Moufid in Art Education — Teacher's Guide), Grade 3 of primary education* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music, Hafid El Abaya for visual arts); written for the Ministry's January 2021 art-education curriculum (school year 2021–2022); no ISBN printed, Grade 3 primary, 152 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 152 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–39) and the diagnostic-assessment card (printed pp. 41–42). Standing exclusion: each unit's week-5 assessment-and-support card (تقويم ودعم الوحدة). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco — "I Imitate and I Act" (أقلد وأمثل), week 2 — imitation as a drama skill beyond the family — imitating the teacher and friends in a classroom dialogue about who broke the glass (plot only) (teacher guide — evidence; original target `drama-and-dance/dance-practice-and-imitation`) | Book 6, printed p. 114 |
+
+**Acceptance count: taught in 1 country (Canada).** Ethiopia is teacher-guide evidence only, named here, counted nowhere. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson's original stock stands on the Grade 3 teacher guide (printed pp. 34–40, §§2.2–2.3.1) as labelled evidence. Canada's nursery student books now teach the same cluster directly: practising for weeks for a talent show, learning a move by watching and copying it, and practising a routine until both bodies move as one. The Canada stories are placed by summary only, never transcribed.
 
