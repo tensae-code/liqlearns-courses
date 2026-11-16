@@ -1,11 +1,13 @@
 # Sources — Appreciating the Arts
 
-countries: Ethiopia
+countries: Ethiopia, Cyprus
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
 **Book 3:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
+
+**Book 4:** *The Magic Box — Year 6, Project Unit 2 "Favourite Music", Part 1 (English Primary Schools, Cyprus, schools.ac.cy)* (teacher unit material) — Cyprus, Cyprus Ministry of Education English Primary Schools materials (schools.ac.cy); no year or ISBN printed, Year 6, English, 9 PDF pp. TEACHER — a teacher's unit plan for one 40-minute lesson plus projects. Read in full as text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cyprus-placements.md. **Teacher unit material — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -14,7 +16,8 @@ countries: Ethiopia
 | Saying which we love — and why (Sub lesson 3) | Grade 3 Student Textbook, the photographic art + Ch.4 summary + closing exercise (Review — Appreciating the Arts, Grade 3), printed p. 68 — including the Sof Omar / Tis Abay photograph activity, stocked here as appreciation content |
 
 | Sub lesson 4 — The Grade 1 chapter closes — what we appreciated (closing fold) | Grade 1 Student Textbook, Ch. 4 summary + review (closing fold), printed p. 66 |
-**Acceptance count: taught in 1 country (Ethiopia).**
+| Cyprus — Projects A and B and the song portfolio — across the year the class learns the unit's songs and keeps them in a portfolio, and each pupil presents a favourite song to the class with a presentation or a gapped-words handout: appreciation shown by doing (teacher unit material — evidence; original target `first-steps/appreciating-the-arts`) | Book 4, PDF pp. 5–6 |
+**Acceptance count: taught in 1 country (Ethiopia).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count.
 
 The Sof Omar and Tis Abay Falls photographs are also the stock of the Photographs lesson in the Visual Art title; per the course structure map, their Grade 3 review placement is stocked here as appreciation content — the activity the book itself sets ('say which of the photographs pleased you'). The two definitions of appreciation (Grade 3's visiting-and-looking, Grade 2's expressing-by-doing) are both taught, as the books state them; they complete each other and neither is silently preferred.
 

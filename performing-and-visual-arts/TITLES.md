@@ -66,7 +66,13 @@ The titles, in ladder order:
    music; song: knowledge blossoms; and the evidence lessons —
    performing kinds of music, the value of practising music,
    history of indigenous music, indigenous music and culture,
-   and the history of African and world music.
+   and the history of African and world music. The Art expansion
+   added: kinds of music around the world — reggae, jazz and
+   gospel told by where each comes from and who made it famous
+   (Cyprus teacher unit material, evidence); and work songs and
+   sea shanties — "Day-O", the Jamaican banana-boat song of the
+   night-shift banana loaders (Cyprus teacher unit material,
+   evidence, summary only).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and

@@ -193,7 +193,18 @@ lessons are the books'.
   the placement-coverage audit is fully closed: **318 of
   318 placements stocked, 115 of 115 citations fixed.**
 
-**The whole course stands at 169 lessons, 2,762 questions and
+- **Art expansion — Cyprus — BUILT 2026-11-16:** 7 placements
+  stocked from 1 book (*The Magic Box*, Year 6 "Favourite Music" —
+  teacher unit material, evidence only, kept outside the
+  acceptance counts): 5 into existing lessons (Appreciating and
+  Valuing the Arts; Appreciating the Arts; Performing Kinds of
+  Music; Kinds of Traditional Music ×2), 2 NEW lessons (Music:
+  Kinds of Music Around the World; Work Songs and Sea
+  Shanties), 24 questions added, media as described slots only.
+  The photocopiable song sheets are filed by summary only — no
+  lyrics transcribed.
+
+**The whole course stands at 171 lessons, 2,786 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
