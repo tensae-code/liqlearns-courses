@@ -1,6 +1,6 @@
 # Sources — Elasticity of supply
 
-countries: Ethiopia, Kazakhstan, Malaysia, Albania, Yemen, Iraq, United States, Pakistan, Nigeria, Greece, Papua New Guinea, Bhutan
+countries: Ethiopia, Kazakhstan, Malaysia, Albania, Yemen, Iraq, United States, Pakistan, Nigeria, Greece, Papua New Guinea, Bhutan, Sri Lanka
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -85,7 +85,7 @@ countries: Ethiopia, Kazakhstan, Malaysia, Albania, Yemen, Iraq, United States, 
 |---|---|
 | Bhutan part — Chapter 5 — teaches: degrees of elasticity of supply, percentage method, factors and importance | Bhutan, *Bhutan Class XI Economics XI*, Chapter 5 — printed p. 63 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Kazakhstan, Malaysia, Yemen, Iraq, United States, Pakistan, Nigeria, Greece, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Kazakhstan, Malaysia, Yemen, Iraq, United States, Pakistan, Nigeria, Greece, Bhutan, Sri Lanka). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
 
 Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
@@ -114,5 +114,13 @@ Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same nationa
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+**Book 15:** *Economics, First Part, for the National Certificate of Higher Education examination; authors Dr S. M. Gunasekara (Chapters 1 and 3) and Dr W. M. Lakshman (Chapter 2), University of Sri Lanka* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1976, second edition 1977; ISBN no ISBN printed Title as printed: பொருளியல் முதற் பகுதி — Economics, First Part, for the National Certificate of Higher Education examination; authors Dr S. M. Gunasekara (Chapters 1 and 3) and Dr W. M. Lakshman (Chapter 2), University of Sri Lanka. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 108 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 1 the basic economic problems of a society printed pp. 1–21; Ch. 2 economic organisation, change and types pp. 22–54; Ch. 3 demand and supply pp. 55–96; chapter glossaries (inventory only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 3 supply elasticity — teaches: the same measure on the supply side — percentage change in quantity supplied over percentage change in price, point and average formulas | Sri Lanka, *Grade 12 Economics Part I 1977*, Ch. 3 supply elasticity — printed pp. 94–95 |
+
+Sri Lanka's own way (Grade 12 Economics Part I 1977): the same two university economists who wrote Part II build the whole of microeconomics on one litre of milk — its demand schedule, supply schedule, equilibrium at Rs 3.00 and an elasticity of exactly 5 carry the pupil from scarcity to the last formula.
 
 Searchable tags: elasticity of supply, always positive, point arc, coffee stock, production period, factor substitution, number of sellers, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, yemen, iraq, united states, pakistan, nigeria, greece, papua new guinea, teacher guide evidence, bhutan

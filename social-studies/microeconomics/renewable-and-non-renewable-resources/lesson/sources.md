@@ -1,6 +1,6 @@
 # Sources — Renewable and non-renewable resources
 
-countries: Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India, Colombia, Samoa, Bhutan
+countries: Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India, Colombia, Samoa, Bhutan, Sri Lanka
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -213,7 +213,7 @@ Bangladesh's own way (Bangladesh Grade 6 History and Social Science): in the new
 |---|---|
 | Bhutan part — Chapter 3 Economic Resources and Production, §3.1 — teaches: natural vs human-made resources, renewable (sun, water, forest) vs non-renewable (coal, petroleum) | Bhutan, *Bhutan Class IX Economics IX*, Chapter 3 Economic Resources and Production, §3.1 — printed p. 13 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India, Colombia, Samoa, Bhutan).**
+**Acceptance count: taught in 21 countries (Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India, Colombia, Samoa, Bhutan, Sri Lanka).**
 
 Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
@@ -263,5 +263,21 @@ Bulgaria's own way (Bulgaria Grade 3 Technology and Entrepreneurship): Grade 3 t
 Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grade 5 the subject becomes a real textbook and Economics gets its own section — scarcity is named as the science's central problem, and price is taught through two market diagrams: big demand lifts prices, big supply pushes them down until some firms go bankrupt.
 
 Iran's own way (Iran Grade 6 Social Studies): the energy chapter turns Iran's oil story into a class debate — oil is a finite natural heritage, foreign companies took the profit for a century, and the country must learn to export other goods instead of depending on oil.
+
+**Book 34:** *Social Education, Year 10, written according to the new syllabus* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1986, twelfth edition 1998; ISBN no ISBN printed Title as printed: சமூகக் கல்வி 10 ஆம் ஆண்டு (புதிய பாடத்திட்டத்தின்படி எழுதப்பட்டது) — Social Education, Year 10, written according to the new syllabus. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 4 mineral wealth printed pp. 39–47; Ch. 5 technology and agriculture pp. 48–53; Ch. 6 technology and industry pp. 54–65; Ch. 8 international trade pp. 74–83; Ch. 9 interdependence of world countries pp. 84–92; Ch. 11 the world food problem pp. 100–110; Ch. 12 the world population problem pp. 111–127; Ch. 13 the world energy crisis pp. 128–131; Geography pp. 1–38 (physical environment, climate, vegetation), pp. 66–73 (world regions); Civics pp. 93–99 (systems of government), pp. 143–152 (human rights); Environment pp. 132–142 (pollution — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 4 mineral wealth — teaches: minerals sorted into fuel, metallic and non-metallic kinds, and every mineral stock is finite — once used, it does not come back [filed as: people-and-resources/finite-and-renewable-resources] | Sri Lanka, *Grade 10 Social Education 1998*, Ch. 4 mineral wealth — printed pp. 39–47 |
+
+**Book 35:** *Social Education, Year 11, written according to the new syllabus* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1987, tenth edition 1996; ISBN no ISBN printed Title as printed: சமூகக் கல்வி 11 ஆம் ஆண்டு (புதிய பாடத்திட்டத்துக்கமைய எழுதப்பட்டது) — Social Education, Year 11, written according to the new syllabus. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 154 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 1 resources printed pp. 1–9; Ch. 2 economic systems pp. 10–15; Ch. 3 development pp. 16–31; Ch. 4 the background of developed and developing countries pp. 32–36; Ch. 5 problems of development pp. 37–44; Ch. 6 ways to development pp. 45–52; Ch. 7 international institutions pp. 53–70; Ch. 8 Sri Lanka developing pp. 71–85; Ch. 9 new trends in Sri Lanka's development pp. 86–139; Civics pp. 140–152 (Ch. 10 protecting human rights — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 1 resources — teaches: resources divided into natural (land with its minerals, plants and animals; water; air and sunlight) and human resources, and why they fall short as population grows [filed as: people-and-resources/finite-and-renewable-resources] | Sri Lanka, *Grade 11 Social Education 1996*, Ch. 1 resources — printed pp. 1–5 |
+
+Sri Lanka's own way (Grade 10 Social Education 1998): world problems taught from Sri Lanka's seat — the trade chapter runs on the Central Bank's own exchange rates and Sri Lanka's 1984–90 trade deficits, and the food chapter's model answer is Sri Lanka's own Mahaweli development scheme.
+
+Sri Lanka's own way (Grade 11 Social Education 1996): a whole Social Education year given to one subject — development — and Sri Lanka is the case study throughout: its own PQLI of 82 against a GNP of only $540, its plantation past, its dependency ratio worked out from the 1981 census, and its post-1977 turn told sector by sector.
 
 Searchable tags: renewable non-renewable resources, fixed stock, recycling, solar soil coal oil, ethiopia, nauru, niue, tuvalu, syria, oil, gas, phosphates, natural resources, social studies, microeconomics, uganda, natural resources of uganda, east africa resources, land water minerals, resource conservation, misuse of resources, mongolia, exhaustible non-exhaustible, gold, dominican republic, palestine, jordan, bangladesh, egypt, Fiji, bulgaria, iran, india, colombia, samoa, bhutan

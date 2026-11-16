@@ -1,6 +1,6 @@
 # Sources — The circular flow of income
 
-countries: Ethiopia, Uzbekistan, Iraq, Papua New Guinea, Bhutan
+countries: Ethiopia, Uzbekistan, Iraq, Papua New Guinea, Bhutan, Sri Lanka
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -43,7 +43,7 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Bhutan part — Chapter 11 — teaches: circular flow in the four-sector model | Bhutan, *Bhutan Class XII Economics XII*, Chapter 11 — printed p. 140 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uzbekistan, Iraq, Bhutan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Uzbekistan, Iraq, Bhutan, Sri Lanka). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
 
 Bhutan's own way (Bhutan Class X Economics X): Class X turns from concepts to Bhutan itself — the Bhutanese economy's features, public finance, GNH as the official development measure alongside GDP, Bhutan's balance of payments and rupee-crisis case material.
 
@@ -53,5 +53,21 @@ Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): seconda
 
 
 Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
+
+**Book 7:** *Economics, Second Part, for the GCE (Advanced Level) examination; authors Dr W. M. Lakshman, Dr S. M. Gunasekara and J. W. Pannathu (names as printed)* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1979; ISBN no ISBN printed Title as printed: பொருளியல் இரண்டாம் பகுதி — Economics, Second Part, for the GCE (Advanced Level) examination; authors Dr W. M. Lakshman, Dr S. M. Gunasekara and J. W. Pannathu (names as printed). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified — the printed cover says "Second Part"; the record names a full-year book). Verdict: PARTIAL — the file is Part II only (Chapters 4–6) of the A/L Economics book, not the full year; Part I is held as a separate record (see Book 11). The scan's teaching text runs to printed p. 102, followed by blank endpapers. Contents map: Economics parts: Ch. 4 national income printed pp. 1–38; Ch. 5 money and banking pp. 39–75; Ch. 6 price level and index numbers, inflation and deflation pp. 76–102 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 4 the two sectors — teaches: an economy modelled as a production sector and a household sector, with goods flowing one way and money the other (Fig. 4.1) | Sri Lanka, *Grade 12 Economics Part II 1979*, Ch. 4 the two sectors — printed pp. 1–6 |
+
+**Book 8:** *Economics, First Part, for the National Certificate of Higher Education examination; authors Dr S. M. Gunasekara (Chapters 1 and 3) and Dr W. M. Lakshman (Chapter 2), University of Sri Lanka* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1976, second edition 1977; ISBN no ISBN printed Title as printed: பொருளியல் முதற் பகுதி — Economics, First Part, for the National Certificate of Higher Education examination; authors Dr S. M. Gunasekara (Chapters 1 and 3) and Dr W. M. Lakshman (Chapter 2), University of Sri Lanka. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 108 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 1 the basic economic problems of a society printed pp. 1–21; Ch. 2 economic organisation, change and types pp. 22–54; Ch. 3 demand and supply pp. 55–96; chapter glossaries (inventory only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 3 the simple model — teaches: a two-sector capitalist economy — households owning the factors, firms producing — drawn as a circular flow (Fig. 3.1), with prices doing the deciding | Sri Lanka, *Grade 12 Economics Part I 1977*, Ch. 3 the simple model — printed pp. 55–59 |
+
+Sri Lanka's own way (Grade 12 Economics Part II 1979): university-level national accounting taught entirely on Central Bank of Ceylon tables — Sri Lanka's 1974 national product by sector, its December 1974 money supply counted rupee by rupee, and its 1972–74 imported inflation priced in rice, flour and sugar per ton.
+
+Sri Lanka's own way (Grade 12 Economics Part I 1977): the same two university economists who wrote Part II build the whole of microeconomics on one litre of milk — its demand schedule, supply schedule, equilibrium at Rs 3.00 and an elasticity of exactly 5 carry the pupil from scarcity to the last formula.
 
 Searchable tags: circular flow of income, expenditure is income, households firms, phone example profit wages, approaches agree, ethiopia, social studies, macroeconomics, uzbekistan, iraq, papua new guinea, teacher guide evidence, bhutan

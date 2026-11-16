@@ -1,6 +1,6 @@
 # Sources — The mixed economy
 
-countries: Ethiopia, Dominica, Bangladesh, Nigeria, Samoa, Bhutan
+countries: Ethiopia, Dominica, Bangladesh, Nigeria, Samoa, Bhutan, Sri Lanka
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -52,7 +52,7 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Bhutan part — Chapter 8 — teaches: mixed economic system with examples | Bhutan, *Bhutan Class XI Economics XI*, Chapter 8 — printed p. 95 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Dominica, Bangladesh, Nigeria, Samoa, Bhutan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Dominica, Bangladesh, Nigeria, Samoa, Bhutan, Sri Lanka).**
 
 Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
@@ -65,5 +65,21 @@ Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole sub
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
+
+**Book 9:** *Social Education, Year 11, written according to the new syllabus* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1987, tenth edition 1996; ISBN no ISBN printed Title as printed: சமூகக் கல்வி 11 ஆம் ஆண்டு (புதிய பாடத்திட்டத்துக்கமைய எழுதப்பட்டது) — Social Education, Year 11, written according to the new syllabus. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 154 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 1 resources printed pp. 1–9; Ch. 2 economic systems pp. 10–15; Ch. 3 development pp. 16–31; Ch. 4 the background of developed and developing countries pp. 32–36; Ch. 5 problems of development pp. 37–44; Ch. 6 ways to development pp. 45–52; Ch. 7 international institutions pp. 53–70; Ch. 8 Sri Lanka developing pp. 71–85; Ch. 9 new trends in Sri Lanka's development pp. 86–139; Civics pp. 140–152 (Ch. 10 protecting human rights — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 2 the mixed economy — teaches: an economy mixing both systems — state and private sectors side by side — with Sri Lanka, India and Indonesia as the examples [filed as: macroeconomics/the-mixed-economy] | Sri Lanka, *Grade 11 Social Education 1996*, Ch. 2 the mixed economy — printed pp. 14–15 |
+
+**Book 10:** *Economics, First Part, for the National Certificate of Higher Education examination; authors Dr S. M. Gunasekara (Chapters 1 and 3) and Dr W. M. Lakshman (Chapter 2), University of Sri Lanka* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1976, second edition 1977; ISBN no ISBN printed Title as printed: பொருளியல் முதற் பகுதி — Economics, First Part, for the National Certificate of Higher Education examination; authors Dr S. M. Gunasekara (Chapters 1 and 3) and Dr W. M. Lakshman (Chapter 2), University of Sri Lanka. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 108 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 1 the basic economic problems of a society printed pp. 1–21; Ch. 2 economic organisation, change and types pp. 22–54; Ch. 3 demand and supply pp. 55–96; chapter glossaries (inventory only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 2 mixed systems — teaches: no real economy is pure; countries grouped as First, Second and Third World, and most developing countries running mixed systems with plans [filed as: macroeconomics/the-mixed-economy] | Sri Lanka, *Grade 12 Economics Part I 1977*, Ch. 2 mixed systems — printed pp. 31–34 and 53–54 |
+
+Sri Lanka's own way (Grade 11 Social Education 1996): a whole Social Education year given to one subject — development — and Sri Lanka is the case study throughout: its own PQLI of 82 against a GNP of only $540, its plantation past, its dependency ratio worked out from the 1981 census, and its post-1977 turn told sector by sector.
+
+Sri Lanka's own way (Grade 12 Economics Part I 1977): the same two university economists who wrote Part II build the whole of microeconomics on one litre of milk — its demand schedule, supply schedule, equilibrium at Rs 3.00 and an elasticity of exactly 5 carry the pupil from scarcity to the last formula.
 
 Searchable tags: mixed economy, public private coexistence, strategic industries, ethiopia today, social studies, microeconomics, dominica, csec principles of business, caribbean, bangladesh, nigeria, samoa, bhutan

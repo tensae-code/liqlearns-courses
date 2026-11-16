@@ -1,6 +1,6 @@
 # Sources — Balance-of-Payments Deficit — Causes, Effects and Correction
 
-countries: Bhutan
+countries: Bhutan, Sri Lanka
 
 **Book 1:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
 
@@ -10,8 +10,16 @@ countries: Bhutan
 | Sub lesson 2 — Causes and effects of a BoP deficit | Bhutan, *Bhutan Class XI Economics XI*, Chapter 12 — printed p. 143 |
 | Sub lesson 3 — Correcting the deficit — the Bhutan case | Bhutan, *Bhutan Class XI Economics XI*, Chapter 12 — printed p. 143 |
 
-**Acceptance count: taught in 1 country (Bhutan).**
+**Acceptance count: taught in 1 country (Bhutan). Sri Lanka is teacher-guide evidence only — named here, counted nowhere.**
 
 Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
+
+**Book 2:** *பொருளியல் - தரம் 13, ஆசிரியர் வழிகாட்டி (Economics – Grade 13, Teacher Guide)* (teacher guide, Tamil) — Sri Lanka, National Institute of Education (NIE), Maharagama (Commerce Department); year 2018 (first edition; guide for the syllabus implemented from 2017); ISBN no ISBN printed Title as printed: பொருளியல் - தரம் 13, ஆசிரியர் வழிகாட்டி (Economics – Grade 13, Teacher Guide). Grade: Grade 13 (student/teacher: TEACHER). PDF pages: 224 (cover and imprint verified against the record title; 42,613,741 bytes; fetched by grab.py from the GitHub release asset named in the record — the record path is not in the git tree — read in full, then the grabbed copy deleted). Verdict: COMPLETE — read page by page from 4-up contact sheets; the scan's text layer carries only the Noolaham watermark, so all structure was read visually. The guide presents learning outcomes and model activities for the Grade 13 part of the syllabus only — competencies 7.0 to 12.0 (42 competency levels in the full two-year syllabus); each level carries its competency statement, allocated periods, learning outcomes, lesson-planning guidance, suggested learning activities and full content notes. All placements below are TEACHER evidence from the guide's own content notes. Note: the last level's heading is printed "தேர்ச்சி மட்டம் 13.3" under competency 12.0 — an apparent printing quirk in the guide; it is cited here as level 12.3 (printed 13.3). Contents map: Competency 7.0 Money and price levels — levels 7.1-7.7, printed pp. 1-44; Competency 8.0 Government intervention for macro objectives — levels 8.1-8.8, pp. 45-85; Competency 9.0 Government intervention in international trade — levels 9.1-9.5, pp. 86-120; Competency 10.0 Sri Lanka's balance of payments — levels 10.1-10.8, pp. 121-157; Competency 11.0 Development — levels 11.1-11.9, pp. 158-194; Competency 12.0 Sri Lanka's structural policies — levels 12.1-12.3, pp. 195-214 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md. Cited as teacher-guide evidence only, OUTSIDE the acceptance count, in every row below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Level 10.2 BoP Disequilibrium — teaches: Sri Lanka's disequilibrium in the CBSL tables 2012-2016 (goods and services balance −8,155 to −5,211 US$M; the trade balance persistently negative, services in surplus; the current account in deficit since 1977), short-run financing (reserves, IMF borrowing) against long-run remedies (export diversification, FDI, import substitution, export promotion zones, depreciation, controlling domestic inflation) [filed as: macroeconomics/balance-of-payments-disequilibrium-and-remedies] (TEACHER — teacher-guide evidence only) | Sri Lanka, *Grade 13 Economics Teacher Guide 2018*, Level 10.2 BoP Disequilibrium — printed p. 127 (TEACHER) |
+
+Sri Lanka's own way (Grade 13 Economics Teacher Guide 2018): the NIE teacher guide teaches the A/L macro course through Sri Lanka's own institutions and data throughout — CBSL's money-supply definitions (M1, M2, M2b, M4), the Colombo and National CPIs, the CBSL's own debt and balance-of-payments tables, Sri Lanka's trade structure 1977-2016, its policy eras 1948-2015, and its current economy (foreign employment and remittances, tourism, the knowledge economy) — the guide's worked examples are Sri Lanka's numbers, not imported ones.
 
 Searchable tags: balance-of-payments deficit — causes, effects and correction, bhutan, social studies, macroeconomics

@@ -1,6 +1,6 @@
 # Sources — Goods and services
 
-countries: Zimbabwe, Jordan, Bulgaria, Iran, Samoa, Bhutan
+countries: Zimbabwe, Jordan, Bulgaria, Iran, Samoa, Bhutan, Sri Lanka
 
 **Book 1:** *PlusOne Social Science ECD A Teacher's Guide* (teacher guide, English) — Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-134-3. Title as printed: PlusOne Social Science ECD A Teacher's Guide (author Chenai D. Masama). Grade: ECD A / KG1 (student/teacher: TEACHER). PDF pages: 79 (cover verified against the record title). Verdict: COMPLETE. Contents map: Identity/family pp. 1–6; Civics (my country, anthem, flag) pp. 7–9; Heritage pp. 10–13; Economics parts pp. 17–19 (work produces goods and services) and pp. 60–63 (careers; financial literacy); Transport and communication pp. 24–29; Shelter pp. 30–34; Global issues/safety pp. 35–40; Managing change pp. 41–44; Social etiquette p. 45; Rights and responsibilities pp. 47–53; Health pp. 55–59; Religion pp. 64–68; Social services and volunteerism pp. 69–72 (the two later lessons also titled "Work produces goods and services", printed pp. 19–20, are heritage lessons on artefacts and musical instruments, not Economics). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/zimbabwe-placements.md.
 
@@ -79,7 +79,7 @@ countries: Zimbabwe, Jordan, Bulgaria, Iran, Samoa, Bhutan
 |---|---|
 | Bhutan part — Chapter 12 Money and Banks, §12.1 — teaches: goods vs services with Bhutanese examples, and why producing our own goods and services matters | Bhutan, *Bhutan Class V Social Studies V*, Chapter 12 Money and Banks, §12.1 — printed p. 66 |
 
-**Acceptance count: taught in 5 countries (Jordan, Bulgaria, Iran, Samoa, Bhutan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Acceptance count: taught in 6 countries (Jordan, Bulgaria, Iran, Samoa, Bhutan, Sri Lanka). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
 
 Bhutan's own way (Bhutan Class V Social Studies V): Money is taught through the ngultrum and Bhutan's own named banks (Bank of Bhutan, BNBL, BDBL, Druk PNB, Tashi Bank), with deposit/loan arithmetic in ngultrum.
 
@@ -109,5 +109,13 @@ Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grad
 Iran's own way (Iran Grade 3 Social Studies): Economics enters at Grade 3 through the family — needs, income, natural resources and careful consumption, with wastefulness (اسراف) framed as a religious as well as practical fault.
 
 Iran's own way (Iran Grade 4 Social Studies): the family-budget table (income / expense / saving) is introduced at Grade 4 through a boy saving for a football, with his 50,000-toman apple-picking wage as the income example.
+
+**Book 14:** *வர்த்தகமும் கணக்கியலும் (Business and Accounting), 9 ஆம் ஆண்டு (Year 9)* (student book, Tamil) — Sri Lanka, Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); year first edition 1986, ninth edition 1996; ISBN no ISBN printed Title as printed: வர்த்தகமும் கணக்கியலும் (Business and Accounting), 9 ஆம் ஆண்டு (Year 9). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; 43,680,584 bytes via grab.py, release asset size matched by grabber). Verdict: COMPLETE Contents map: Commerce part (Economics-bearing) printed pp. 1–107; Business practice parts: Ch. 7 business organisation pp. 74–75, Ch. 8 documents used in trade (enquiry, quotation, order, invoice, receipt specimens) pp. 83–96; Accounting pp. 108–162 (Ch. 10 need to record transactions p. 108, Ch. 11 dual nature of transactions p. 122, Ch. 12 recording in the ledger p. 135) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 1 goods and services — teaches: goods vs services sorted from the pupil's daily food, clothing and school needs [filed as: microeconomics/goods-and-services-meeting-needs] | Sri Lanka, *Grade 9 G9 Business and Accounting Studies 1996*, Ch. 1 goods and services — printed p. 2 |
+
+Sri Lanka's own way (Grade 9 G9 Business and Accounting Studies 1996): Economics is introduced inside a Commerce book that starts from the pupil's own meals, clothes and schoolbooks, then reads Sri Lanka's whole economy off Central Bank 1990 tables (sector shares, import/export composition) before teaching trade channels, with People's Bank cheque and bill-of-exchange specimens as the money teaching.
 
 Searchable tags: goods and services, goods, services, cook, baker, maize, clay pots, pfuko, baskets, tswanda, potter, weaver, welder, tailor, zimbabwe, teacher guide evidence, social studies, microeconomics, jordan, bulgaria, iran, samoa, bhutan

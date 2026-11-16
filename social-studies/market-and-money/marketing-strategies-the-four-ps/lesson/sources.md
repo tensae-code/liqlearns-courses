@@ -1,6 +1,6 @@
 # Sources — Marketing strategies — the four Ps
 
-countries: Guatemala, Bulgaria
+countries: Guatemala, Bulgaria, Sri Lanka
 
 **Book 1:** *Guía de orientaciones metodológicas para docentes de segundo básico — Emprendimiento para la Productividad II — "Producción y costos del proyecto"* (teacher guide, Spanish) — Ministerio de Educación de Guatemala (MINEDUC), primera edición, Guatemala 2017 (same guide series imprint); no ISBN printed. Title as printed: Guía de orientaciones metodológicas para docentes de segundo básico — Emprendimiento para la Productividad II — "Producción y costos del proyecto". Grade: 8 (student/teacher: TEACHER). PDF pages: 88 (cover rendered and read; contents worked through and the two Economics experiences read in full; 11,920,344 bytes, matching the secured file). Verdict: PARTIAL — the Economics parts (Experiences 3 and 4) read in full and placed below; the rest is entrepreneurship-education material, named in the Contents map and not placed. Contents map: Economics parts Experience 3 "Estudio de factibilidad de mercado en la generación de nuestro proyecto empresarial", printed pp. 47–64, and Experience 4 "Producción y costos del proyecto", printed pp. 65–80; Experience 1 "Cultura empresarial" (pp. 15–32) and Experience 2 "Ubicando el rumbo en la generación de nuestro proyecto empresarial" (pp. 33–46) — named, not placed. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/guatemala-placements.md.
 
@@ -17,11 +17,19 @@ countries: Guatemala, Bulgaria
 |---|---|
 | Bulgaria part — Economics expansion — "Produce only what you can sell" (Произвеждай само това, което можеш да продадеш): the measure of success for every business is the market realisation of the produced goods and services — if a product is sought and bought, it brings profit and its production is justified; analysing, evaluating and improving the chances of business ideas is done through marketing, which includes all the producer's actions concerning the product, the price, the distribution and the advertising (the lesson's marketing-mix diagram sets product, price, distribution and advertising around marketing) (filed as NEW LESSON NEEDED — microeconomics/marketing-and-the-marketing-mix; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 7 Technology and Entrepreneurship*, "Produce only what you can sell" (Произвеждай само това, което можеш да продадеш) — printed p. 67 |
 
-**Acceptance count: taught in 1 country (Bulgaria). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+**Acceptance count: taught in 2 countries (Bulgaria, Sri Lanka). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
 
 Guatemala's own way: marketing is met inside the market-feasibility experience of a pupil-run project — the "Mercadeo" reading gives the four Ps through what the client is really buying: phone companies sell closeness and safety, and appliance shops sell small instalments, not the stove. The lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
 
 Bulgaria's own way (Bulgaria Grade 7 Technology and Entrepreneurship): Grade 7 registers a firm — the class founds a student company, chooses between sole trader, partnership and limited company by who answers with their own property, writes its founding budget, and scores its market chance before it sells anything.
+
+**Book 3:** *Business and Accounting Studies, Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 2015; ISBN no ISBN printed Title as printed: வணிகமும் கணக்கீட்டுக் கல்வியும் தரம் 11 — Business and Accounting Studies, Grade 11. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 156 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics/Business parts: Ch. 1 trade and auxiliary services printed pp. 1–39; Ch. 3 marketing pp. 46–52; Ch. 8 investment pp. 135–141; Business (named, not placed): Ch. 2 management pp. 40–45; Accounting (named, not placed): Ch. 4 financial statements pp. 53–77, Ch. 5 statements with adjustments pp. 78–107, Ch. 6 non-profit organisations pp. 108–120, Ch. 7 manufacturing accounts pp. 121–134; trilingual glossary pp. 142–146 (inventory only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 3 marketing — teaches: marketing as meeting consumers' needs at a fair price; choosing a target market; and the marketing mix of Product, Price, Place and Promotion [filed as: microeconomics/marketing-and-the-four-ps] | Sri Lanka, *Grade 11 Business and Accounting Studies 2015*, Ch. 3 marketing — printed pp. 46–52 |
+
+Sri Lanka's own way (Grade 11 Business and Accounting Studies 2015): the newest book in the set teaches the same aids to trade as the 1974 book but in 2015 dress — cheques are read off a Bank of Ceylon specimen, e-money arrives as People's Bank PET and Sampath SET ATM cards, and investment ends at the Colombo Stock Exchange and Central Bank Treasury bills.
 
 Searchable tags: marketing, mercadeo, four Ps, 4P, product, price, place, promotion, publicidad, guatemala, emprendimiento, teacher guide evidence, social studies, market-and-money, bulgaria

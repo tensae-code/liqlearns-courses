@@ -1,6 +1,6 @@
 # Sources — Money markets and capital markets
 
-countries: Ethiopia, Nigeria, Samoa
+countries: Ethiopia, Nigeria, Samoa, Sri Lanka
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -27,12 +27,20 @@ Grade 10 teacher-guide note (placement 15): the Ethiopian T-bill maturities come
 |---|---|
 | Samoa part — Unit 10, The Money Market — teaches: the money market, interest as the price of borrowed money, and how banks profit from the spread | Samoa, *Year 12 Economics*, Unit 10, The Money Market — printed p. 92 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Nigeria, Samoa).**
+**Acceptance count: taught in 3 countries (Ethiopia, Nigeria, Samoa). Sri Lanka is teacher-guide evidence only — named here, counted nowhere.**
 
 Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
 Completeness note carried from the placements: §5.2 lists five money-market instruments but details only three — repos and bankers' acceptances are named, not explained. They are named here exactly as the book names them, and the sources record that the book does not detail them; nothing is invented for them.
+
+**Book 5:** *பொருளியல் - தரம் 13, ஆசிரியர் வழிகாட்டி (Economics – Grade 13, Teacher Guide)* (teacher guide, Tamil) — Sri Lanka, National Institute of Education (NIE), Maharagama (Commerce Department); year 2018 (first edition; guide for the syllabus implemented from 2017); ISBN no ISBN printed Title as printed: பொருளியல் - தரம் 13, ஆசிரியர் வழிகாட்டி (Economics – Grade 13, Teacher Guide). Grade: Grade 13 (student/teacher: TEACHER). PDF pages: 224 (cover and imprint verified against the record title; 42,613,741 bytes; fetched by grab.py from the GitHub release asset named in the record — the record path is not in the git tree — read in full, then the grabbed copy deleted). Verdict: COMPLETE — read page by page from 4-up contact sheets; the scan's text layer carries only the Noolaham watermark, so all structure was read visually. The guide presents learning outcomes and model activities for the Grade 13 part of the syllabus only — competencies 7.0 to 12.0 (42 competency levels in the full two-year syllabus); each level carries its competency statement, allocated periods, learning outcomes, lesson-planning guidance, suggested learning activities and full content notes. All placements below are TEACHER evidence from the guide's own content notes. Note: the last level's heading is printed "தேர்ச்சி மட்டம் 13.3" under competency 12.0 — an apparent printing quirk in the guide; it is cited here as level 12.3 (printed 13.3). Contents map: Competency 7.0 Money and price levels — levels 7.1-7.7, printed pp. 1-44; Competency 8.0 Government intervention for macro objectives — levels 8.1-8.8, pp. 45-85; Competency 9.0 Government intervention in international trade — levels 9.1-9.5, pp. 86-120; Competency 10.0 Sri Lanka's balance of payments — levels 10.1-10.8, pp. 121-157; Competency 11.0 Development — levels 11.1-11.9, pp. 158-194; Competency 12.0 Sri Lanka's structural policies — levels 12.1-12.3, pp. 195-214 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md. Cited as teacher-guide evidence only, OUTSIDE the acceptance count, in every row below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Level 7.5 The Financial System (markets) — teaches: the financial market split — money market (interbank call money, treasury bills, commercial paper, forex) against capital market — and the instruments (treasury bills to 364 days, bonds and debentures, certificates of deposit, leases, shares) (TEACHER — teacher-guide evidence only) | Sri Lanka, *Grade 13 Economics Teacher Guide 2018*, Level 7.5 The Financial System (markets) — printed p. 26 (TEACHER) |
+
+Sri Lanka's own way (Grade 13 Economics Teacher Guide 2018): the NIE teacher guide teaches the A/L macro course through Sri Lanka's own institutions and data throughout — CBSL's money-supply definitions (M1, M2, M2b, M4), the Colombo and National CPIs, the CBSL's own debt and balance-of-payments tables, Sri Lanka's trade structure 1977-2016, its policy eras 1948-2015, and its current economy (foreign employment and remittances, tourism, the knowledge economy) — the guide's worked examples are Sri Lanka's numbers, not imported ones.
 
 Searchable tags: financial markets, money market, capital market, treasury bills, commercial paper, certificates of deposit, equity, bonds notes, ethiopia, social studies, market and money, nigeria, samoa

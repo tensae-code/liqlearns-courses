@@ -1,6 +1,6 @@
 # Sources — National income accounting — measuring a whole economy
 
-countries: Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan, Nigeria, Bhutan
+countries: Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan, Nigeria, Bhutan, Sri Lanka
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -64,7 +64,7 @@ countries: Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan, Nigeria, 
 |---|---|
 | Bhutan part — Chapter 11 — teaches: national income aggregates and their interrelationship, as compiled by Bhutan's National Statistics Bureau under the SNA | Bhutan, *Bhutan Class XII Economics XII*, Chapter 11 — printed p. 143 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan, Nigeria, Bhutan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan, Nigeria, Bhutan, Sri Lanka).**
 
 Bhutan's own way (Bhutan Class XII Economics XII): Class XII is the analytical capstone — utility/indifference analysis, production, cost and revenue, distribution theory, statistics and index numbers, then Bhutan-flavoured public finance (deficit financing's effects on the Bhutanese economy, Bhutan budgetary procedure) and national income as compiled by Bhutan's National Statistics Bureau.
 
@@ -84,5 +84,29 @@ Fiji's own way (Fiji Grade 11 Economics Year 11 Part 1): A full direct-approach 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
+
+**Book 11:** *Social Education and History, Grade 10* (student book, Tamil) — Sri Lanka, Educational Publications Department with the National Institute of Education; year first edition 1999; ISBN no ISBN printed Title as printed: சமூகக் கல்வியும் வரலாறும் தரம் 10 — Social Education and History, Grade 10. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 5 Development printed pp. 112–147; History pp. 1–111 (Ch. 1 Lanka's ancient technology, Ch. 2 Lanka's ancient foreign connections, Ch. 3 the Kandyan Kingdom, Ch. 4 British rule in Lanka); Geography/Map skills pp. 148–165 (Ch. 6 maps — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 5 measuring development — teaches: per-capita national product — the money value of a year's goods and services divided by the mid-year population [filed as: macroeconomics/national-income-and-gnp] | Sri Lanka, *Grade 10 Social Education and History 1999*, Ch. 5 measuring development — printed p. 114 |
+
+**Book 12:** *Social Education, Year 11, written according to the new syllabus* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1987, tenth edition 1996; ISBN no ISBN printed Title as printed: சமூகக் கல்வி 11 ஆம் ஆண்டு (புதிய பாடத்திட்டத்துக்கமைய எழுதப்பட்டது) — Social Education, Year 11, written according to the new syllabus. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 154 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 1 resources printed pp. 1–9; Ch. 2 economic systems pp. 10–15; Ch. 3 development pp. 16–31; Ch. 4 the background of developed and developing countries pp. 32–36; Ch. 5 problems of development pp. 37–44; Ch. 6 ways to development pp. 45–52; Ch. 7 international institutions pp. 53–70; Ch. 8 Sri Lanka developing pp. 71–85; Ch. 9 new trends in Sri Lanka's development pp. 86–139; Civics pp. 140–152 (Ch. 10 protecting human rights — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 3 measuring development — teaches: per-capita national product as the common measure, and its weakness — two countries at the same figure (Sri Lanka and another at $420 in 1986) can live very differently [filed as: macroeconomics/national-income-and-gnp] | Sri Lanka, *Grade 11 Social Education 1996*, Ch. 3 measuring development — printed pp. 17–19 |
+
+**Book 13:** *Economics, Second Part, for the GCE (Advanced Level) examination; authors Dr W. M. Lakshman, Dr S. M. Gunasekara and J. W. Pannathu (names as printed)* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1979; ISBN no ISBN printed Title as printed: பொருளியல் இரண்டாம் பகுதி — Economics, Second Part, for the GCE (Advanced Level) examination; authors Dr W. M. Lakshman, Dr S. M. Gunasekara and J. W. Pannathu (names as printed). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified — the printed cover says "Second Part"; the record names a full-year book). Verdict: PARTIAL — the file is Part II only (Chapters 4–6) of the A/L Economics book, not the full year; Part I is held as a separate record (see Book 11). The scan's teaching text runs to printed p. 102, followed by blank endpapers. Contents map: Economics parts: Ch. 4 national income printed pp. 1–38; Ch. 5 money and banking pp. 39–75; Ch. 6 price level and index numbers, inflation and deflation pp. 76–102 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 4 the measures — teaches: output, income and expenditure approaches; the eight national-product concepts and how they connect (Fig. 4.2); Sri Lanka's 1974 national product by sector and its gross national expenditure, from Central Bank tables [filed as: macroeconomics/national-income-and-gnp] | Sri Lanka, *Grade 12 Economics Part II 1979*, Ch. 4 the measures — printed pp. 15–34 |
+
+Sri Lanka's own way (Grade 10 Social Education and History 1999): development is not an imported definition — after the UN, UNESCO and Seers definitions and the HDI, the chapter spends its second half inside Sri Lanka: settlement schemes, Gal Oya, Mahaweli, export zones and the 200-garment-factories programme, all measured with Central Bank figures.
+
+Sri Lanka's own way (Grade 11 Social Education 1996): a whole Social Education year given to one subject — development — and Sri Lanka is the case study throughout: its own PQLI of 82 against a GNP of only $540, its plantation past, its dependency ratio worked out from the 1981 census, and its post-1977 turn told sector by sector.
+
+Sri Lanka's own way (Grade 12 Economics Part II 1979): university-level national accounting taught entirely on Central Bank of Ceylon tables — Sri Lanka's 1974 national product by sector, its December 1974 money supply counted rupee by rupee, and its 1972–74 imported inflation priced in rice, flour and sugar per ton.
 
 Searchable tags: national income accounting, measuring aggregate activity, GDP GNP summary, output trend policy comparison, ethiopia, social studies, macroeconomics, cambodia, egypt, Fiji, indonesia, iraq, pakistan, nigeria, bhutan

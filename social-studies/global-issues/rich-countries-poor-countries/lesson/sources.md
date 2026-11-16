@@ -1,6 +1,6 @@
 # Sources — Rich Countries Poor Countries
 
-countries: Vietnam, Pakistan
+countries: Vietnam, Pakistan, Sri Lanka
 
 **Book 1:** *Địa lí 11* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2023 (3rd reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-35052-7. Title as printed: ĐỊA LÍ 11 — Kết nối tri thức với cuộc sống (Tái bản lần thứ ba). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 171 per the record (read as the publisher's 170 page images, printed pp. 2–167 plus covers — one page fewer than the record, apparently a blank or cover leaf the online reader does not serve; every printed content page was read and the contents page accounts for all of them). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -12,9 +12,25 @@ countries: Vietnam, Pakistan
 | Sub lesson 2 — Vietnam's way — the book's own teaching way | Vietnam — the book's own way of teaching (see below) |
 | Pakistan part — Developed and underdeveloped countries: what makes a country developed (industry, high income, modern farming — Japan, America, Germany, France, Britain) or underdeveloped (Afghanistan and others), and the comparison between them [placement slug: global-issues/rich-world-poor-world] | Pakistan, *Pakistan Grade 8 Geography 8*, Developed and underdeveloped countries: what makes a country developed (industry, high income, modern farming — Japan, America, Germany, France, Britain) or underdeveloped (Afghanistan and others), and the comparison between them — printed pp. 72–73 |
 
-**Acceptance count: taught in 2 countries (Vietnam, Pakistan).**
+**Acceptance count: taught in 3 countries (Vietnam, Pakistan, Sri Lanka).**
 
 Vietnam's own way (Vietnam Grade 11 Địa lí 11): after Grade 10's world systems, Grade 11 walks the world region by region — Latin America, the EU, Southeast Asia and ASEAN, Southwest Asia, the USA, Russia, Japan, China, Australia and South Africa — always with the same lens (position, nature, people, economy) and always measuring Vietnam's own place among them (its HDI row in the opening table, EU–Vietnam trade, Vietnam inside ASEAN, Japan's FDI into Vietnam).
+
+**Book 3:** *Social Education and History, Grade 10* (student book, Tamil) — Sri Lanka, Educational Publications Department with the National Institute of Education; year first edition 1999; ISBN no ISBN printed Title as printed: சமூகக் கல்வியும் வரலாறும் தரம் 10 — Social Education and History, Grade 10. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 5 Development printed pp. 112–147; History pp. 1–111 (Ch. 1 Lanka's ancient technology, Ch. 2 Lanka's ancient foreign connections, Ch. 3 the Kandyan Kingdom, Ch. 4 British rule in Lanka); Geography/Map skills pp. 148–165 (Ch. 6 maps — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 5 developed and developing countries — teaches: countries sorted by income (low under $580, middle $580–5,999 with Sri Lanka among them, high $6,000 and over) and the two kinds compared point by point — Japan's HDI 0.938 against Bangladesh's 0.356 [filed as: macroeconomics/rich-and-poor-countries-compared] | Sri Lanka, *Grade 10 Social Education and History 1999*, Ch. 5 developed and developing countries — printed pp. 115–120 |
+
+**Book 4:** *Social Education, Year 11, written according to the new syllabus* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1987, tenth edition 1996; ISBN no ISBN printed Title as printed: சமூகக் கல்வி 11 ஆம் ஆண்டு (புதிய பாடத்திட்டத்துக்கமைய எழுதப்பட்டது) — Social Education, Year 11, written according to the new syllabus. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 154 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 1 resources printed pp. 1–9; Ch. 2 economic systems pp. 10–15; Ch. 3 development pp. 16–31; Ch. 4 the background of developed and developing countries pp. 32–36; Ch. 5 problems of development pp. 37–44; Ch. 6 ways to development pp. 45–52; Ch. 7 international institutions pp. 53–70; Ch. 8 Sri Lanka developing pp. 71–85; Ch. 9 new trends in Sri Lanka's development pp. 86–139; Civics pp. 140–152 (Ch. 10 protecting human rights — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 3 two kinds of country — teaches: developed and developing countries compared in tables (per-capita GNP 1981: $8,855 vs $772; PQLI 94 vs 59) and in their basic features [filed as: macroeconomics/rich-and-poor-countries-compared] | Sri Lanka, *Grade 11 Social Education 1996*, Ch. 3 two kinds of country — printed pp. 20–29 |
+
+Sri Lanka's own way (Grade 10 Social Education and History 1999): development is not an imported definition — after the UN, UNESCO and Seers definitions and the HDI, the chapter spends its second half inside Sri Lanka: settlement schemes, Gal Oya, Mahaweli, export zones and the 200-garment-factories programme, all measured with Central Bank figures.
+
+Sri Lanka's own way (Grade 11 Social Education 1996): a whole Social Education year given to one subject — development — and Sri Lanka is the case study throughout: its own PQLI of 82 against a GNP of only $540, its plantation past, its dependency ratio worked out from the 1981 census, and its post-1977 turn told sector by sector.
 
 Searchable tags: rich countries poor countries, Vietnam, social studies, global-issues
 

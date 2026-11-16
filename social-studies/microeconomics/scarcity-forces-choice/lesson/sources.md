@@ -1,6 +1,6 @@
 # Sources — Scarcity forces choice
 
-countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece, Papua New Guinea, Samoa, Bhutan
+countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece, Papua New Guinea, Samoa, Bhutan, Sri Lanka
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -166,7 +166,7 @@ countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulg
 |---|---|
 | Bhutan part — Chapter 2 Basic Problems of an Economy — teaches: the basic problems of an economy arising from scarcity | Bhutan, *Bhutan Class XI Economics XI*, Chapter 2 Basic Problems of an Economy — printed p. 11 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Syria, Mongolia, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece, Samoa, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Syria, Mongolia, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece, Samoa, Bhutan, Sri Lanka). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
 
 Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
@@ -223,5 +223,13 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
+
+**Book 28:** *Economics, First Part, for the National Certificate of Higher Education examination; authors Dr S. M. Gunasekara (Chapters 1 and 3) and Dr W. M. Lakshman (Chapter 2), University of Sri Lanka* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1976, second edition 1977; ISBN no ISBN printed Title as printed: பொருளியல் முதற் பகுதி — Economics, First Part, for the National Certificate of Higher Education examination; authors Dr S. M. Gunasekara (Chapters 1 and 3) and Dr W. M. Lakshman (Chapter 2), University of Sri Lanka. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 108 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 1 the basic economic problems of a society printed pp. 1–21; Ch. 2 economic organisation, change and types pp. 22–54; Ch. 3 demand and supply pp. 55–96; chapter glossaries (inventory only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 1 scarcity — teaches: human wants (bodily and social) without limit against limited resources; free goods against economic goods, which alone carry a price [filed as: microeconomics/scarcity-and-choice] | Sri Lanka, *Grade 12 Economics Part I 1977*, Ch. 1 scarcity — printed pp. 1–6 |
+
+Sri Lanka's own way (Grade 12 Economics Part I 1977): the same two university economists who wrote Part II build the whole of microeconomics on one litre of milk — its demand schedule, supply schedule, equilibrium at Rs 3.00 and an elasticity of exactly 5 carry the pupil from scarcity to the last formula.
 
 Searchable tags: scarcity choice chain, limited output, households firms governments choose, ethiopia, syria, syrian pounds, necessary purchases, postponable purchases, social studies, microeconomics, mongolia, opportunity cost, family examples, albania, egypt, yemen, Fiji, armenia, bulgaria, iran, iraq, pakistan, greece, papua new guinea, teacher guide evidence, samoa, bhutan

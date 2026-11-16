@@ -1,6 +1,6 @@
 # Sources — How money evolved — commodity, paper, cheques, electronic
 
-countries: Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Samoa, Bhutan
+countries: Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Samoa, Bhutan, Sri Lanka
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -137,7 +137,7 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Bhutan part — Chapter 8, §8.2 — teaches: evolution of money in seven stages — commodity, metallic, coins, paper, currency notes, plastic, digital | Bhutan, *Bhutan Class IX Economics IX*, Chapter 8, §8.2 — printed p. 62 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Samoa, Bhutan).**
+**Acceptance count: taught in 16 countries (Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Samoa, Bhutan, Sri Lanka).**
 
 Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
@@ -170,5 +170,13 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 Bulgaria's own way (Bulgaria Grade 4 Technology and Entrepreneurship): Grade 4 is where money itself becomes the topic — its history from barter to banknotes, the bank as the go-between of people with surplus money and people who need it, and taxes explained as the price of needs no one can meet alone.
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
+
+**Book 22:** *வர்த்தகமும் கணக்கியலும் (Business and Accounting), 9 ஆம் ஆண்டு (Year 9)* (student book, Tamil) — Sri Lanka, Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); year first edition 1986, ninth edition 1996; ISBN no ISBN printed Title as printed: வர்த்தகமும் கணக்கியலும் (Business and Accounting), 9 ஆம் ஆண்டு (Year 9). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; 43,680,584 bytes via grab.py, release asset size matched by grabber). Verdict: COMPLETE Contents map: Commerce part (Economics-bearing) printed pp. 1–107; Business practice parts: Ch. 7 business organisation pp. 74–75, Ch. 8 documents used in trade (enquiry, quotation, order, invoice, receipt specimens) pp. 83–96; Accounting pp. 108–162 (Ch. 10 need to record transactions p. 108, Ch. 11 dual nature of transactions p. 122, Ch. 12 recording in the ledger p. 135) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 2 money circulation — teaches: how a common medium of exchange (money) arose out of barter as production and trade grew | Sri Lanka, *Grade 9 G9 Business and Accounting Studies 1996*, Ch. 2 money circulation — printed p. 21 |
+
+Sri Lanka's own way (Grade 9 G9 Business and Accounting Studies 1996): Economics is introduced inside a Commerce book that starts from the pupil's own meals, clothes and schoolbooks, then reads Sri Lanka's whole economy off Central Bank 1990 tables (sector shares, import/export composition) before teaching trade channels, with People's Bank cheque and bill-of-exchange specimens as the money teaching.
 
 Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade, palestine, dominica, csec principles of business, caribbean, bangladesh, egypt, yemen, bulgaria, iran, pakistan, bolivia, nigeria, samoa, bhutan

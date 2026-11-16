@@ -1,6 +1,6 @@
 # Sources — The vicious circle of poverty — Nurkse
 
-countries: Nepal, Iraq
+countries: Nepal, Iraq, Sri Lanka
 
 **Book 1:** *Samajik Adhyayan tatha Jibanupyogi Shiksha, Kaksha 12 (Social Studies and Life Skills Education, Grade 12)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; printed by Janak Shiksha Samagri Kendra Ltd.; first edition 2078 BS; no ISBN printed on the pages extracted. Title as printed: Samajik Adhyayan tatha Jibanupyogi Shiksha, Kaksha 12 (Social Studies and Life Skills Education, Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 365 (cover rendered and read; contents and the Economics unit read from page renders; 2,891,995 bytes, byte size matches the repo file exactly). Verdict: COMPLETE. Contents map: Economics parts Unit 10 "Arthatantra ra Bikash (Economy and Development)", printed pp. 298–335 (six of its seven lessons placed below; Lesson 2, Nepal's foreign policy and its relations with India and China, is a foreign-policy lesson whose trade-and-aid section is named here and not placed — the unit's own foreign trade lesson is Lesson 4); Unit 1 The Concept of Social and Life Skills Education; Unit 2 Digital and General Research Skills; Unit 4 Development of Society and Philosophy of Life; Unit 5 Geography and Social Life (its Lesson 4, the provinces' economic state and features, named here as a Geography part, not placed); Unit 7 Social Identity and Diversity; Unit 8 Constitution and Civic Consciousness; Unit 9 (migration); Unit 11 Education and Social Development. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nepal-placements.md.
 
@@ -14,10 +14,26 @@ countries: Nepal, Iraq
 |---|---|
 | Iraq part — Underdevelopment: concept and indicators — teaches: underdevelopment as the mixture of economic, political, social and cultural features that block a society's development — unexploited resources, weak individual productivity, low real per-capita income and disguised unemployment, working in a vicious circle (low saving → weak capital formation → …) — and the insistence it is not a permanent or inevitable state (Economics expansion, 2026-11-16; original placement slug: macroeconomics/economic-underdevelopment — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 12 Economics*, Underdevelopment: concept and indicators — printed p. 80 |
 
-**Acceptance count: taught in 2 countries (Nepal, Iraq).**
+**Acceptance count: taught in 3 countries (Nepal, Iraq, Sri Lanka).**
 
 Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
 
 Nepal's own way (Nepal Grade 12 Social Studies & Life Skills): Grade 12 economics is the development unit with real tables — sector shares of GDP, the trade growth and direction tables, Nepal's growth rates through the COVID year, the HDI bands, and Nurkse's vicious circle drawn as two loops, supply side and demand side.
+
+**Book 3:** *Social Education and History, Grade 10* (student book, Tamil) — Sri Lanka, Educational Publications Department with the National Institute of Education; year first edition 1999; ISBN no ISBN printed Title as printed: சமூகக் கல்வியும் வரலாறும் தரம் 10 — Social Education and History, Grade 10. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 5 Development printed pp. 112–147; History pp. 1–111 (Ch. 1 Lanka's ancient technology, Ch. 2 Lanka's ancient foreign connections, Ch. 3 the Kandyan Kingdom, Ch. 4 British rule in Lanka); Geography/Map skills pp. 148–165 (Ch. 6 maps — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 5 problems of development — teaches: capital shortage and the vicious circle drawn as a diagram: low income → little saving → little capital → low production → low income [filed as: macroeconomics/the-vicious-circle-of-poverty] | Sri Lanka, *Grade 10 Social Education and History 1999*, Ch. 5 problems of development — printed pp. 122–123 |
+
+**Book 4:** *Social Education, Year 11, written according to the new syllabus* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1987, tenth edition 1996; ISBN no ISBN printed Title as printed: சமூகக் கல்வி 11 ஆம் ஆண்டு (புதிய பாடத்திட்டத்துக்கமைய எழுதப்பட்டது) — Social Education, Year 11, written according to the new syllabus. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 154 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 1 resources printed pp. 1–9; Ch. 2 economic systems pp. 10–15; Ch. 3 development pp. 16–31; Ch. 4 the background of developed and developing countries pp. 32–36; Ch. 5 problems of development pp. 37–44; Ch. 6 ways to development pp. 45–52; Ch. 7 international institutions pp. 53–70; Ch. 8 Sri Lanka developing pp. 71–85; Ch. 9 new trends in Sri Lanka's development pp. 86–139; Civics pp. 140–152 (Ch. 10 protecting human rights — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 5–6 capital shortage — teaches: little capital because incomes are low and saving is small, drawn as a circle diagram: low income → low saving → low investment → low production → low income [filed as: macroeconomics/the-vicious-circle-of-poverty] | Sri Lanka, *Grade 11 Social Education 1996*, Ch. 5–6 capital shortage — printed pp. 40–41 and p. 46 |
+
+Sri Lanka's own way (Grade 10 Social Education and History 1999): development is not an imported definition — after the UN, UNESCO and Seers definitions and the HDI, the chapter spends its second half inside Sri Lanka: settlement schemes, Gal Oya, Mahaweli, export zones and the 200-garment-factories programme, all measured with Central Bank figures.
+
+Sri Lanka's own way (Grade 11 Social Education 1996): a whole Social Education year given to one subject — development — and Sri Lanka is the case study throughout: its own PQLI of 82 against a GNP of only $540, its plantation past, its dependency ratio worked out from the 1981 census, and its post-1977 turn told sector by sector.
 
 Searchable tags: the vicious circle of poverty — nurkse, nepal, social studies, macroeconomics, iraq

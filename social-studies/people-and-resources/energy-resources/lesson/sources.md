@@ -1,6 +1,6 @@
 # Sources — Energy Resources
 
-countries: Nauru, Tuvalu, Bolivia, Angola, Malaysia, Cambodia, Slovenia
+countries: Nauru, Tuvalu, Bolivia, Angola, Malaysia, Cambodia, Slovenia, Sri Lanka
 
 **Book 1:** *People and the Natural Environment in the Pacific* (student book, English) — Nauru, Institute of Education, University of the South Pacific (Tonga Campus), with UNESCO and Japanese Funds-in-Trust; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (record title says Social Science, Years 5-6; the book's own inner title page says "A Social Studies related reader for Years 7-8" — a record/printing mismatch, noted as a library debt). Grade 5 per record (inner title page: Years 7–8) (student). 24 PDF pp. (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nauru-placements.md.
 
@@ -30,13 +30,21 @@ countries: Nauru, Tuvalu, Bolivia, Angola, Malaysia, Cambodia, Slovenia
 | Slovenia part — Energetika (energy) inside Rudarstvo, energetika in industrija [placement flagged NEW LESSON NEEDED; this lesson already exists and covers the thing, so it is stocked here and no duplicate is built] | Slovenia, *Slovenia Grade 9 Geografija 9*, Energetika (energy) inside Rudarstvo, energetika in industrija — printed p. 79 |
 | Slovenia part — Energetski viri in varčevanje z energijo (energy sources, the "new" sources — sun, wind, tides, geothermal — and saving energy) [placement flagged NEW LESSON NEEDED; this lesson already exists and covers the thing, so it is stocked here and no duplicate is built] | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Energetski viri in varčevanje z energijo (energy sources, the "new" sources — sun, wind, tides, geothermal — and saving energy) — printed p. 262 |
 
-**Acceptance count: taught in 7 countries (Nauru, Tuvalu, Bolivia, Angola, Malaysia, Cambodia, Slovenia).**
+**Acceptance count: taught in 8 countries (Nauru, Tuvalu, Bolivia, Angola, Malaysia, Cambodia, Slovenia, Sri Lanka).**
 
 Nauru's own way: the land-side companion to the sea reader — the natural environment, ecosystems and resources are taught through two Pacific case-study plants (taro/pulaka and the coconut, the "tree of life") across Tonga, Niue and Tuvalu, then traditional farming is set against modern farming's damage. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
 
 Tuvalu's own way: the land-side companion to the sea reader — and Tuvalu's own pulaka pits and coconut toddy/biofuel are two of its case studies, including pulaka's vulnerability to drought, heavy rain and salt water as the climate changes. That way is stocked here as the way Tuvalu teaches this thing.
 
 Bolivia's own way (Grade 12, Sexto Año): The final year opens with the census itself — the censista's work as civic-geographic practice — and later teaches geopolitics critically: Haushofer and geopolitical thought, geographic scales, and natural resources as a product of human knowledge (Sunkel), alongside Bolivia's own resource politics: the Gas War, hydrocarbon nationalisation and the urea plant that industrialises gas.
+
+**Book 9:** *Social Education, Year 10, written according to the new syllabus* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1986, twelfth edition 1998; ISBN no ISBN printed Title as printed: சமூகக் கல்வி 10 ஆம் ஆண்டு (புதிய பாடத்திட்டத்தின்படி எழுதப்பட்டது) — Social Education, Year 10, written according to the new syllabus. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 4 mineral wealth printed pp. 39–47; Ch. 5 technology and agriculture pp. 48–53; Ch. 6 technology and industry pp. 54–65; Ch. 8 international trade pp. 74–83; Ch. 9 interdependence of world countries pp. 84–92; Ch. 11 the world food problem pp. 100–110; Ch. 12 the world population problem pp. 111–127; Ch. 13 the world energy crisis pp. 128–131; Geography pp. 1–38 (physical environment, climate, vegetation), pp. 66–73 (world regions); Civics pp. 93–99 (systems of government), pp. 143–152 (human rights); Environment pp. 132–142 (pollution — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 13 the world energy crisis — teaches: in 1985 about 90% of the world's commercial energy came from coal, oil and gas; hydro power, nuclear and solar energy as the ways out [filed as: people-and-resources/energy-resources-and-the-future] | Sri Lanka, *Grade 10 Social Education 1998*, Ch. 13 the world energy crisis — printed pp. 128–131 |
+
+Sri Lanka's own way (Grade 10 Social Education 1998): world problems taught from Sri Lanka's seat — the trade chapter runs on the Central Bank's own exchange rates and Sri Lanka's 1984–90 trade deficits, and the food chapter's model answer is Sri Lanka's own Mahaweli development scheme.
 
 Searchable tags: energy resources, coconut bioethanol, toddy, biofuel, Tuvalu, Nauru, People and the Natural Environment in the Pacific, Nauru Grade 5, social studies, people and resources, Bolivia, Ciencias Sociales Bolivia
 

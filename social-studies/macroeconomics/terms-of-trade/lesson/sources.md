@@ -1,6 +1,6 @@
 # Sources — Terms of trade
 
-countries: Nigeria
+countries: Nigeria, Sri Lanka
 
 **Book 1:** *New Economics for Senior Secondary Schools 3* (student book, English) — Learn Africa Plc; year 2014 (New Edition; first published 1992); ISBN 978 978 925 150 6. Title as printed: New Economics for Senior Secondary Schools 3. Grade: Grade 12 / SS3 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; byte size 4,823,928 matches the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–140 (all 13 chapters in 8 themes); Index pp. 141–152 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nigeria-placements.md.
 
@@ -10,8 +10,24 @@ countries: Nigeria
 | Sub lesson 2 — Favourable terms of trade | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 8 — Terms of trade, printed p. 82 |
 | Sub lesson 3 — Unfavourable terms of trade | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 8 — Terms of trade, printed p. 82 |
 
-**Acceptance count: taught in 1 country (Nigeria).**
+**Acceptance count: taught in 2 countries (Nigeria, Sri Lanka).**
 
 Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
+
+**Book 2:** *Social Education, Year 10, written according to the new syllabus* (student book, Tamil) — Sri Lanka, Educational Publications Department; year first edition 1986, twelfth edition 1998; ISBN no ISBN printed Title as printed: சமூகக் கல்வி 10 ஆம் ஆண்டு (புதிய பாடத்திட்டத்தின்படி எழுதப்பட்டது) — Social Education, Year 10, written according to the new syllabus. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title). Verdict: COMPLETE Contents map: Economics parts: Ch. 4 mineral wealth printed pp. 39–47; Ch. 5 technology and agriculture pp. 48–53; Ch. 6 technology and industry pp. 54–65; Ch. 8 international trade pp. 74–83; Ch. 9 interdependence of world countries pp. 84–92; Ch. 11 the world food problem pp. 100–110; Ch. 12 the world population problem pp. 111–127; Ch. 13 the world energy crisis pp. 128–131; Geography pp. 1–38 (physical environment, climate, vegetation), pp. 66–73 (world regions); Civics pp. 93–99 (systems of government), pp. 143–152 (human rights); Environment pp. 132–142 (pollution — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 8 terms of trade — teaches: the exchange ratio between what a country sells and what it buys, and how a worsening ratio cuts what export earnings can purchase [filed as: macroeconomics/terms-of-trade-what-your-exports-buy] | Sri Lanka, *Grade 10 Social Education 1998*, Ch. 8 terms of trade — printed p. 79 |
+
+**Book 3:** *பொருளியல் - தரம் 13, ஆசிரியர் வழிகாட்டி (Economics – Grade 13, Teacher Guide)* (teacher guide, Tamil) — Sri Lanka, National Institute of Education (NIE), Maharagama (Commerce Department); year 2018 (first edition; guide for the syllabus implemented from 2017); ISBN no ISBN printed Title as printed: பொருளியல் - தரம் 13, ஆசிரியர் வழிகாட்டி (Economics – Grade 13, Teacher Guide). Grade: Grade 13 (student/teacher: TEACHER). PDF pages: 224 (cover and imprint verified against the record title; 42,613,741 bytes; fetched by grab.py from the GitHub release asset named in the record — the record path is not in the git tree — read in full, then the grabbed copy deleted). Verdict: COMPLETE — read page by page from 4-up contact sheets; the scan's text layer carries only the Noolaham watermark, so all structure was read visually. The guide presents learning outcomes and model activities for the Grade 13 part of the syllabus only — competencies 7.0 to 12.0 (42 competency levels in the full two-year syllabus); each level carries its competency statement, allocated periods, learning outcomes, lesson-planning guidance, suggested learning activities and full content notes. All placements below are TEACHER evidence from the guide's own content notes. Note: the last level's heading is printed "தேர்ச்சி மட்டம் 13.3" under competency 12.0 — an apparent printing quirk in the guide; it is cited here as level 12.3 (printed 13.3). Contents map: Competency 7.0 Money and price levels — levels 7.1-7.7, printed pp. 1-44; Competency 8.0 Government intervention for macro objectives — levels 8.1-8.8, pp. 45-85; Competency 9.0 Government intervention in international trade — levels 9.1-9.5, pp. 86-120; Competency 10.0 Sri Lanka's balance of payments — levels 10.1-10.8, pp. 121-157; Competency 11.0 Development — levels 11.1-11.9, pp. 158-194; Competency 12.0 Sri Lanka's structural policies — levels 12.1-12.3, pp. 195-214 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/sri-lanka-placements.md. Cited as teacher-guide evidence only, OUTSIDE the acceptance count, in every row below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Level 9.3 Terms of Trade — teaches: the commodity terms of trade (export price index over import price index times 100, worked 2013: 95.47%), the factors that move them, Sri Lanka's terms of trade 2010-2017 (2010: 100; 2016: 104; 2017: 102.0), the effects of improving and deteriorating terms, and the income terms of trade worked (TEACHER — teacher-guide evidence only) | Sri Lanka, *Grade 13 Economics Teacher Guide 2018*, Level 9.3 Terms of Trade — printed p. 107 (TEACHER) |
+
+Sri Lanka's own way (Grade 10 Social Education 1998): world problems taught from Sri Lanka's seat — the trade chapter runs on the Central Bank's own exchange rates and Sri Lanka's 1984–90 trade deficits, and the food chapter's model answer is Sri Lanka's own Mahaweli development scheme.
+
+Sri Lanka's own way (Grade 13 Economics Teacher Guide 2018): the NIE teacher guide teaches the A/L macro course through Sri Lanka's own institutions and data throughout — CBSL's money-supply definitions (M1, M2, M2b, M4), the Colombo and National CPIs, the CBSL's own debt and balance-of-payments tables, Sri Lanka's trade structure 1977-2016, its policy eras 1948-2015, and its current economy (foreign employment and remittances, tourism, the knowledge economy) — the guide's worked examples are Sri Lanka's numbers, not imported ones.
 
 Searchable tags: terms of trade, nigeria, social studies, macroeconomics
