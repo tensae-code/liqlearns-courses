@@ -148,6 +148,14 @@ countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, No
 
 South Sudan's own way (South Sudan Primary 5): farming is taught as the country's economic backbone — 90% of the land suitable for farming — with its benefits listed as food, employment, income and raw materials for industries, and its challenges named frankly, including poor rural roads blocking access to markets and relief-food dependence ("relief syndrome") discouraging people from farming for themselves.
 
+**Book 44:** *Social Studies G6 Part 2* (student book, Arabic) — Palestine, Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 6, Part 2. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 17–23 (the "Economic life" lesson of Unit 4, plus the unit project); History pp. 2–84 (Arab life before Islam; the rise of the Islamic state); Civics pp. 85–97 (the safe society: traffic safety, the active citizen). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Economic life: the concept of trade and its types — trade is exchanging goods and services by buying and selling to meet people's needs and make a profit; internal trade happens inside one country, external trade crosses borders — selling goods abroad is exporting, buying from abroad is importing, applied to Palestine's own exports and imports | Palestine, *Social Studies G6 Part 2*, printed p. 19 |
+
+Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
+
 **Acceptance count: taught in 22 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, South Sudan).** South Sudan was already counted in this lesson from the earlier waves; the Economics-expansion Primary 4 teacher-guide and Primary 5 pupil's-book rows are stocked as depth for the same country, so the count does not rise.
 
 Kuwait's own way (Kuwait Grade 6 Term 1): Economics enters in Grade 6 as the Gulf's old livelihoods — work shaped by a harsh desert/coastal environment, taught through named local crafts, ships and the pearl-diving season.
@@ -156,7 +164,7 @@ Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapt
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
-Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, eritrea economics expansion, buying selling exchanging, farmer bus owner wage worker, south sudan
+Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, eritrea economics expansion, buying selling exchanging, farmer bus owner wage worker, south sudan, palestine
 
 Palestine's own way (Grade 5, PS G5P2): the settlement story is told as a ladder — farming, animal domestication, the agricultural village, the Palestinian village of today, then the city located on the map — and the year closes with the road itself: what a road is, its parts, and how to cross it safely.
 

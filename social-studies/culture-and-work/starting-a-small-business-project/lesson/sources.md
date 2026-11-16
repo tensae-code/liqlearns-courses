@@ -1,6 +1,6 @@
 # Sources — Starting a Small Business Project
 
-countries: Mongolia, Zimbabwe
+countries: Mongolia, Zimbabwe, Palestine
 
 **Book 1:** *Нийгэм судлал VIII (Social Studies VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VIII (Social Studies VIII). Grade: Grade 8 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 32,655,646 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -15,11 +15,19 @@ countries: Mongolia, Zimbabwe
 |---|---|
 | Zimbabwe part — Unit 14: Enterprise activities: how to start an enterprise — identify a need or business idea by observing community needs and studying what is in demand, make a plan, find resources (money, tools and labour), start the business, then advertise and sell products or services (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 5 Teacher's Guide*, Unit 14: Enterprise activities — printed p. 42 |
 
-**Acceptance count: taught in 1 country (Mongolia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 3:** *Social Studies G6 Part 2* (student book, Arabic) — Palestine, Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 6, Part 2. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 17–23 (the "Economic life" lesson of Unit 4, plus the unit project); History pp. 2–84 (Arab life before Islam; the rise of the Islamic state); Civics pp. 85–97 (the safe society: traffic safety, the active citizen). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 4 project — pupils devise an economic project of their own, name its type, estimate its material cost, and predict whether it will succeed or fail | Palestine, *Social Studies G6 Part 2*, printed p. 23 |
+
+Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
+
+**Acceptance count: taught in 2 countries (Mongolia, Palestine). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
 
 Zimbabwe's own way (PlusOne Social Science Grade 5 Teacher's Guide) (teacher guide — evidence): Grade 5 names the state's own economic machinery — the Grain Marketing Board, NOCZIM, ZINWA, ZETDC and the Reserve Bank of Zimbabwe as keepers of national strategic reserves — and its financial-literacy unit already lists investing (property, stocks, breeding cattle) among a child's ways of earning money.
 
 
 Mongolia's own way: the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. That way is stocked here as the way Mongolia teaches this thing. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
 
-Searchable tags: small business, project, local market, Mongolia, Нийгэм судлал VIII, social studies, culture and work, zimbabwe, teacher guide evidence
+Searchable tags: small business, project, local market, Mongolia, Нийгэм судлал VIII, social studies, culture and work, zimbabwe, teacher guide evidence, palestine

@@ -1,6 +1,6 @@
 # Sources — How money evolved — commodity, paper, cheques, electronic
 
-countries: Ethiopia, Uganda
+countries: Ethiopia, Uganda, Palestine
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -22,10 +22,18 @@ countries: Ethiopia, Uganda
 |---|---|
 | Uganda part — Economic Organisation: Monetary Trade: money as a medium of exchange replacing barter; cowrie shells introduced by Arab traders as the first currency, Indian rupees as the second | Uganda, *Uganda Primary 6 Excel Standard Social Studies*, Economic Organisation: Monetary Trade — printed p. 52 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda).**
+**Book 4:** *Social Studies G7 Part 1* (student book, Arabic) — Palestine, Ministry of Education, State of Palestine; year not printed on the pages checked; no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 7, Part 1. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; year not printed on the pages checked; no ISBN printed. PDF pages: 100 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 69–73 (the "Economic achievements of the Islamic state" lesson); Geography/History pp. 4–68 (the Islamic state across the continents; its administrative, architectural and scientific achievements); Civics pp. 76–92 (civil society institutions and values). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Economic achievements of the Islamic state: development of the monetary system — Arabs first used the Byzantine dinar and Persian dirham until the Umayyad caliph Abd al-Malik struck an Arabised Islamic coinage, freeing the economy from dependence and adulterated coin; under Harun al-Rashid a mint supervisor oversaw the mints, and coins were struck in Palestine bearing the names of Iliya (Jerusalem) and Ramla | Palestine, *Social Studies G7 Part 1*, printed p. 71 |
+
+Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
+
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Palestine).**
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
 Uganda's own way: Uganda's money story is told in three steps — cowrie shells brought by Arab traders first, Indian rupees second, then Uganda's own shilling, its coins and notes listed by denomination at Primary Five.
 
-Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade
+Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade, palestine

@@ -1,6 +1,6 @@
 # Sources — Global poverty and SDG 1
 
-countries: Ethiopia, Yemen
+countries: Ethiopia, Yemen, Palestine
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -13,10 +13,18 @@ countries: Ethiopia, Yemen
 | Sub lesson 3 — The institutional answers | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 6 — Poverty and Inequality, printed pp. 134–135 |
 | Yemen part — Unit 6 Lesson 3 The Poverty Problem in the Arab Homeland | Yemen, *Yemen Grade 11 G11 Geography of Yemen and the Arab World*, Unit 6 Lesson 3 The Poverty Problem in the Arab Homeland — printed p. 175 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Yemen).**
+**Book 3:** *Social Studies G9 Part 2* (student book, Arabic) — Palestine, Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 9, Part 2. Grade: Grade 9 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. PDF pages: 104 (cover/title page verified against the record title; fetched by Range-chunk download after the earlier IncompleteRead failure — 32,556,700 bytes, git blob SHA verified). Verdict: COMPLETE. Contents map: Economics parts printed pp. 35–43 (Unit 4 Lesson 4, "Economic diversity") and pp. 85–89 (Unit 6 Lesson 1, "Poverty"); Geography pp. 4–34 (Unit 4 Lessons 1–3: diversity of the natural environment — including its closing segment on economic activities as a reflection of the environment, printed pp. 14–16, geography framing, named not placed — population characteristics, cultural diversity); Civics/Global issues pp. 47–84 (Unit 5: wars, the population explosion, famines, protecting human cultural heritage) and pp. 90–102 (Unit 6 Lesson 2: racial discrimination). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Poverty: ways of fighting poverty — the Sustainable Development Goals commit the world to ending poverty in all its forms by 2030; fighting it takes human-resource development (health, education, empowering women and youth), economic growth, jobs and higher incomes; in Palestine the fighters are the Ministry of Social Affairs caring for needy families, zakat committees and charities, and international bodies such as UNRWA and the UNDP | Palestine, *Social Studies G9 Part 2*, printed p. 89 |
+
+Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
+
+**Acceptance count: taught in 3 countries (Ethiopia, Yemen, Palestine).**
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: global poverty and sdg 1, grade 12 economics, ethiopia, social studies, people and resources
+Searchable tags: global poverty and sdg 1, grade 12 economics, ethiopia, social studies, people and resources, palestine
 
 Yemen's own way (Yemen Grade 11 G11 Geography of Yemen and the Arab World): Grade 11 does Yemen in depth first (physical base, population and social development, economic resources), then the Arab world's physical geography, its people and resources, and finally its contemporary problems — water, food, poverty, illiteracy, integration.

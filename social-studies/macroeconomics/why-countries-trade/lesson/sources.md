@@ -1,6 +1,6 @@
 # Sources — Why countries trade
 
-countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia
+countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -29,8 +29,16 @@ Saudi Arabia's own way: a whole Economics unit in Grade 4, anchored in the Kingd
 
 South Sudan's own way (South Sudan Primary 6): trade is taught as a tree — internal trade splits into wholesale and retail, external into import and export, with South Sudan's own lists (imports raw sugar, medicine, cereal flour, cars; exports coffee and oil) — and every sector study (tourism, fishing) is carried through benefits, problems and solutions for the country's economy.
 
-**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia).**
+**Book 5:** *Social Studies G5 Part 2* (student book, Arabic) — Palestine, Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part 2. Grade: Grade 5 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. PDF pages: 96 (cover/title page verified against the record title; grabbed on the final retry after two earlier failures — RemoteDisconnected, then IncompleteRead on the blob route). Verdict: COMPLETE. Contents map: Economics parts printed pp. 55–62 (Unit 5 Lesson 2, "Economic relations"); History pp. 2–45 (Unit 4, human settlement: the move to farming, animal domestication, agricultural villages, the Palestinian village, the city, the emergence of states); Civics/Social pp. 46–54 and 64–76 (Unit 5's other relations — social, cultural, political) and pp. 77–91 (Unit 6, the safe society: crossing the road safely, children's rights). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Economic relations: the importance of economic relations between states — states have traded since the winter and summer journeys, the spice trade and the silk trade between Arabs and China; modern trade moves oil, wood, foodstuffs and minerals by ship, truck, rail and plane, and economic relations matter because they move goods and services, exchange technology and expertise, aid poor countries hit by natural disasters and set up free-trade zones — Palestine exports building stone, olive oil, soap and farm crops, and imports electrical machinery, cars, clothing and electronic devices | Palestine, *Social Studies G5 Part 2*, printed p. 62 |
+
+Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
+
+**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine).**
 
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
-Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia
+Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine

@@ -1,6 +1,6 @@
 # Sources — Regional integration — gains and costs
 
-countries: Argentina, Ethiopia, Uganda, Kuwait, Rwanda, South Sudan
+countries: Argentina, Ethiopia, Uganda, Kuwait, Rwanda, South Sudan, Palestine
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -48,10 +48,18 @@ Rwanda's own way (Rwanda Grade 6): P6 scales the P5 family budget up to the stat
 
 South Sudan's own way (South Sudan Primary 7): the country's economy is told through oil and minerals — mining is debated in class as "the backbone to the economy of South Sudan", with over-reliance on it (and world price swings) named as a danger in the same unit — and regional integration is taught through the blocs South Sudan actually belongs to (EAC, IGAD) alongside ECOWAS, SADC and the AU.
 
-**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Kuwait, Rwanda, South Sudan). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *Social Studies G9 Part 2* (student book, Arabic) — Palestine, Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 9, Part 2. Grade: Grade 9 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. PDF pages: 104 (cover/title page verified against the record title; fetched by Range-chunk download after the earlier IncompleteRead failure — 32,556,700 bytes, git blob SHA verified). Verdict: COMPLETE. Contents map: Economics parts printed pp. 35–43 (Unit 4 Lesson 4, "Economic diversity") and pp. 85–89 (Unit 6 Lesson 1, "Poverty"); Geography pp. 4–34 (Unit 4 Lessons 1–3: diversity of the natural environment — including its closing segment on economic activities as a reflection of the environment, printed pp. 14–16, geography framing, named not placed — population characteristics, cultural diversity); Civics/Global issues pp. 47–84 (Unit 5: wars, the population explosion, famines, protecting human cultural heritage) and pp. 90–102 (Unit 6 Lesson 2: racial discrimination). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Economic diversity: fields of economic cooperation in the world — after the Second World War states cooperated for economic integration, higher production and shared use of resources — GATT (1948) to cut trade and customs restrictions and encourage free trade, and the European Union as a single market activating trade exchange; Palestine signed its own economic agreements (the Euro-Mediterranean partnership, and agreements with Egypt and Jordan) | Palestine, *Social Studies G9 Part 2*, printed p. 40 |
+
+Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
+
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Kuwait, Rwanda, South Sudan, Palestine). Argentina is teacher-guide evidence only — named here, counted nowhere.**
 
 Kuwait's own way (Kuwait Grade 6 Term 2): the modern economy is taught as resources-and-development of the Gulf states — oil and gas first, with the danger of depending on oil named from the start, then farming, livestock/fisheries, industry and trade, ending in GCC economic integration.
 
 Uganda's own way: the Excel ladder widens from Uganda to the region — Primary Six teaches the East African Community as a working market: common currency aim, fewer trade barriers, free movement, wider markets, and the landlocked country's trade costs, Uganda being landlocked itself.
 
-Searchable tags: regional integration, gains and costs, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics, uganda, east african community, EAC, landlocked, free movement, common currency, rwanda, south sudan
+Searchable tags: regional integration, gains and costs, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics, uganda, east african community, EAC, landlocked, free movement, common currency, rwanda, south sudan, palestine

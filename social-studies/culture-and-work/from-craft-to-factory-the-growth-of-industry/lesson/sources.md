@@ -1,6 +1,6 @@
 # Sources — From Craft To Factory The Growth Of Industry
 
-countries: Iceland, Mozambique, Dominican Republic
+countries: Iceland, Mozambique, Dominican Republic, Palestine
 
 **Book 1:** *Módulo 7 de Geografia — Indústria e Comércio* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 7 de Geografia — Indústria e Comércio. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 80 (title page verified against the record title; byte size 3,077,013 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (contents page skips the Lição 3 number; the lesson is present in the body at printed p. 19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
@@ -27,7 +27,15 @@ countries: Iceland, Mozambique, Dominican Republic
 |---|---|
 | Dominican Republic part — La Revolución Industrial (Unidad 7, Revoluciones burguesas): the Industrial Revolution is the change from an agrarian, artisan economy to one dominated by industry and mechanical manufacturing, beginning in 18th-century Britain; its technological changes (iron and steel, steam, new machines such as the spinning machine and power loom, greater division of labour and specialisation, transport and communication revolutions, science applied to industry) made mass production of manufactured goods possible, while working life brought factory discipline, child labour and overcrowded polluted cities; a second industrial revolution of new materials, energy and the automatic factory follows | Dominican Republic, *Ciencias Sociales 1° Secundaria*, La Revolución Industrial (Unidad 7, Revoluciones burguesas) — printed p. 110 |
 
-**Acceptance count: taught in 2 countries (Mozambique, Dominican Republic). Iceland is teacher-guide evidence only — named here, counted nowhere.**
+**Book 5:** *Social Studies G8 Part 2* (student book, Arabic) — Palestine, Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 8, Part 2. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. PDF pages: 96 (cover/title page verified against the record title; the grab.py blob route failed three times in total across both readers — IncompleteRead at ~38.5 MB of the 43.8 MB base64 response each time — and the Contents raw route also truncated at 26.5 MB; the file was completed by resuming with HTTP Range requests on raw.githubusercontent.com and verified byte-exact: 31,768,663 bytes, git blob SHA matched). Verdict: COMPLETE. Contents map: Economics parts printed pp. 21–31 (Unit 4 Lesson 3, the Industrial Revolution — its concept and factors, and its economic effects), pp. 49–53 (Unit 5 Lesson 1, European colonialism in the Arab homeland — the economic motive, and economic control as a form of colonialism), p. 59 (Unit 5 Lesson 2, colonial rivalry — the economic effects: dependence); History pp. 4–20 (the European Renaissance; the geographic discoveries), pp. 32–48 (the American colonies' revolution; the French Revolution), pp. 55–58 and 61–74 (the colonial rivalry narrative; the French campaign on Egypt and the Levant; the end of Ottoman rule); Civics pp. 75–91 (Unit 6, social diversity: social diversity, violence). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — The Industrial Revolution: the concept — the Industrial Revolution is the development in the means of production from the second half of the 18th century in Britain — machines powered by water and steam replaced simple hand work (mechanisation), beginning in textile factories, with railways linking factories to markets across the world | Palestine, *Social Studies G8 Part 2*, printed p. 22 |
+
+Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
+
+**Acceptance count: taught in 3 countries (Mozambique, Dominican Republic, Palestine). Iceland is teacher-guide evidence only — named here, counted nowhere.**
 
 Dominican Republic's own way (Dominican Republic Grade 6 Ciencias Sociales 6° Primaria): economic systems arrive inside world history — capitalism is introduced through the Scientific and Industrial Revolutions and Adam Smith, then set against socialism and Marx in a compare-the-systems table the pupils build themselves, opening with the question of whether their own country is capitalist or socialist.
 
@@ -37,4 +45,4 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a l
 
 Iceland's own way: economics arrives inside 19th-century history — pupils role-play a factory meeting where wages must fall, and rank strike-decision cards, before they ever meet a textbook definition. This Iceland material stands on the teacher guide as evidence only.
 
-Searchable tags: from craft to factory the growth of industry, Mozambique, Iceland, late industrial revolution, fisheries, joint-stock company, teacher guide evidence, social studies, culture-and-work, Dominican Republic
+Searchable tags: from craft to factory the growth of industry, Mozambique, Iceland, late industrial revolution, fisheries, joint-stock company, teacher guide evidence, social studies, culture-and-work, Dominican Republic, palestine

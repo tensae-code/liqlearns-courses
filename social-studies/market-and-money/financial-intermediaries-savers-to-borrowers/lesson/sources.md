@@ -1,6 +1,6 @@
 # Sources — Financial intermediaries — savers to borrowers
 
-countries: Ethiopia, Mongolia, Zimbabwe
+countries: Ethiopia, Mongolia, Zimbabwe, Palestine
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -22,11 +22,19 @@ countries: Ethiopia, Mongolia, Zimbabwe
 |---|---|
 | Zimbabwe part — Unit 41: Financial literacy: Zimbabwe's financial institutions and their roles — commercial banks accept deposits and give loans (CBZ, Stanbic, FBC), building societies help people buy or build homes (NBS), insurance companies offer protection against risks, investment firms help grow wealth; together they mobilise savings (savings provide the funds that can be loaned out), provide credit, manage risks and facilitate payments (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 6 Teacher's Guide*, Unit 41: Financial literacy — printed pp. 92–94 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mongolia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 4:** *Small Projects G11* (student book, Arabic) — Palestine, Ministry of Education, State of Palestine; year 2019 (first edition); no ISBN printed. Title as printed: المشاريع الصغيرة (Small Projects), First Secondary, Entrepreneurship and Business stream. Grade: Grade 11 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; year 2019 (first edition); no ISBN printed. PDF pages: 140 (cover/title page verified against the record title; the PDF text layer is garbled font encoding, so the book was read from page images, contents-first). Verdict: COMPLETE. Contents map: Economics parts printed pp. 5–6 (why small projects matter to the national economy, inside the opening lesson), pp. 62–65 (the market study: estimating total market demand and market share), pp. 105–116 (sources of financing; types of bank financing); Business parts pp. 3–52 (what small projects are, types of projects, legal forms, registration; the whole Entrepreneurship unit — essence, goals, decision-making, incubators), pp. 53–93 (feasibility studies: concept, technical/legal/environmental/management studies, financial feasibility with payback, NPV and profitability index, plus the applied project workbook), pp. 94–104 and 117–125 (financing concept and amount/uses; determinants of choosing a financing source). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Financing small projects: sources of financing — a project can be financed from the owner's own funds (equity), family and friends, grants (donated capital), or debt through specialised small-business lending institutions and commercial and Islamic banks, which channel funds to borrowers through set application steps | Palestine, *Small Projects G11*, printed p. 105 |
+
+Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
+
+**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Palestine). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
 
 Zimbabwe's own way (PlusOne Social Science Grade 6 Teacher's Guide) (teacher guide — evidence): Grade 6's financial literacy is a tour of Zimbabwe's own financial institutions by name — CBZ, Stanbic and FBC banks, NBS building society, Zimnat and Nicoz Diamond insurers — with microfinance explained through market stalls and sewing projects that big banks will not lend to.
 
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: financial intermediation, surplus deficit units, Commercial Bank of Ethiopia, safety interest, finance blood of the economy, ethiopia, social studies, market and money, mongolia, saving, six steps, demand term deposits, zimbabwe, teacher guide evidence
+Searchable tags: financial intermediation, surplus deficit units, Commercial Bank of Ethiopia, safety interest, finance blood of the economy, ethiopia, social studies, market and money, mongolia, saving, six steps, demand term deposits, zimbabwe, teacher guide evidence, palestine

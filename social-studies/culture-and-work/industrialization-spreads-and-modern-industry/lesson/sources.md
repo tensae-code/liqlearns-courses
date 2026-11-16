@@ -1,6 +1,6 @@
 # Sources — Industrialization Spreads and Modern Industry
 
-countries: South Sudan, Dominican Republic
+countries: South Sudan, Dominican Republic, Palestine
 
 **Book 1:** *Secondary Geography 2 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Student's Book. Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT). PDF pages: 217 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–208) was read and every unit spot-checked on the sheets, cross-checked against the teacher's guide text.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -15,10 +15,18 @@ countries: South Sudan, Dominican Republic
 |---|---|
 | Dominican Republic part — Desarrollo industrial de América del Norte (Unidad 4): North America's industrial development in the 19th and 20th centuries built factories, created inventions such as the light bulb and the telephone, and connected cities by rail, bringing factory growth, jobs and urbanisation; in the United States case, abundant natural resources (coal, iron ore) fed factories and mass production, immigrants supplied labour seeking work opportunities, and expanding railways moved merchandise | Dominican Republic, *Ciencias Sociales 3° Secundaria*, Desarrollo industrial de América del Norte (Unidad 4) — printed p. 60 |
 
-**Acceptance count: taught in 2 countries (South Sudan, Dominican Republic).**
+**Book 3:** *Social Studies G8 Part 2* (student book, Arabic) — Palestine, Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 8, Part 2. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. PDF pages: 96 (cover/title page verified against the record title; the grab.py blob route failed three times in total across both readers — IncompleteRead at ~38.5 MB of the 43.8 MB base64 response each time — and the Contents raw route also truncated at 26.5 MB; the file was completed by resuming with HTTP Range requests on raw.githubusercontent.com and verified byte-exact: 31,768,663 bytes, git blob SHA matched). Verdict: COMPLETE. Contents map: Economics parts printed pp. 21–31 (Unit 4 Lesson 3, the Industrial Revolution — its concept and factors, and its economic effects), pp. 49–53 (Unit 5 Lesson 1, European colonialism in the Arab homeland — the economic motive, and economic control as a form of colonialism), p. 59 (Unit 5 Lesson 2, colonial rivalry — the economic effects: dependence); History pp. 4–20 (the European Renaissance; the geographic discoveries), pp. 32–48 (the American colonies' revolution; the French Revolution), pp. 55–58 and 61–74 (the colonial rivalry narrative; the French campaign on Egypt and the Levant; the end of Ottoman rule); Civics pp. 75–91 (Unit 6, social diversity: social diversity, violence). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — The Industrial Revolution: its effects — economically it created industrial cities, raised production, expanded trade and developed transport; socially it produced a capitalist class owning the means of production and a working class on long hours and low wages (with child and women labour), whose struggle produced trade unions defending wages, conditions and social security | Palestine, *Social Studies G8 Part 2*, printed p. 30 |
+
+Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
+
+**Acceptance count: taught in 3 countries (South Sudan, Dominican Republic, Palestine).**
 
 Dominican Republic's own way (Dominican Republic Grade 9 Ciencias Sociales 3° Secundaria): economic geography is taught continent-first and then brought home — North America's industrial rise, Latin America's import-substitution strategy, and finally the Dominican Republic's own industrialisation, told through Trujillo's monopoly factories and the wartime switch from rice importer to rice exporter.
 
 South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.
 
-Searchable tags: industrialization spreads and modern industry, South Sudan, social studies, culture-and-work, Dominican Republic
+Searchable tags: industrialization spreads and modern industry, South Sudan, social studies, culture-and-work, Dominican Republic, palestine

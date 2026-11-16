@@ -1,6 +1,6 @@
 # Sources — Managing Credit And Loans
 
-countries: Armenia, Ecuador, Laos
+countries: Armenia, Ecuador, Laos, Palestine
 
 **Book 1:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (title page 2024); ISBN 978-9939-99-040-8. Authors: K. Harutyunyan, H. Barseghyan, N. Galstyan, A. Manucharyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography-scope parts placed below: Theme 3 "Market economy" (printed pp. 54-87) and Theme 4 "Personal finance management" (pp. 88-127). NOT placed (named for later waves): Theme 1 "Problems of modern man and society" (pp. 4-18), Theme 2 "Political ideologies" (pp. 19-53). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -40,7 +40,15 @@ countries: Armenia, Ecuador, Laos
 |---|---|
 | Teacher guide — evidence for the Laos part above: the guide mirrors the pupil book (lesson plans for the same chapters); no separate placement was filed from it, to avoid double-counting (teacher guide — evidence) | Laos, *Laos Grade 11 Business Teacher Guide*, lesson plans mirroring the pupil book's Ch. 1 §§1, 4-5 and Ch. 2 §6 |
 
-**Acceptance count: taught in 3 countries (Armenia, Ecuador, Laos).**
+**Book 7:** *Small Projects G11* (student book, Arabic) — Palestine, Ministry of Education, State of Palestine; year 2019 (first edition); no ISBN printed. Title as printed: المشاريع الصغيرة (Small Projects), First Secondary, Entrepreneurship and Business stream. Grade: Grade 11 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; year 2019 (first edition); no ISBN printed. PDF pages: 140 (cover/title page verified against the record title; the PDF text layer is garbled font encoding, so the book was read from page images, contents-first). Verdict: COMPLETE. Contents map: Economics parts printed pp. 5–6 (why small projects matter to the national economy, inside the opening lesson), pp. 62–65 (the market study: estimating total market demand and market share), pp. 105–116 (sources of financing; types of bank financing); Business parts pp. 3–52 (what small projects are, types of projects, legal forms, registration; the whole Entrepreneurship unit — essence, goals, decision-making, incubators), pp. 53–93 (feasibility studies: concept, technical/legal/environmental/management studies, financial feasibility with payback, NPV and profitability index, plus the applied project workbook), pp. 94–104 and 117–125 (financing concept and amount/uses; determinants of choosing a financing source). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Financing small projects: types of bank financing — bank finance comes in forms a borrower must tell apart — short-term bank loans, a line of credit, discounting promissory notes, leasing finance and instalment purchasing, alongside promissory notes and deferred cheques | Palestine, *Small Projects G11*, printed p. 113 |
+
+Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
+
+**Acceptance count: taught in 4 countries (Armenia, Ecuador, Laos, Palestine).**
 
 Armenia's own way (Armenia Grade 10 Social Science student): the senior Social Science course turns practical — after ideologies it teaches the market economy and then personal finance (choosing financial services, savings, credit, consumer rights, fraud) as life skills.
 
@@ -50,4 +58,4 @@ Laos' own way (Laos Grade 11 Business Combined student): costs and capital are t
 
 Laos' own way (Laos Grade 11 Business student): the market is defined three ways at once — everyday (a place to buy and sell), economic (the group of buyers and sellers who exchange), and marketing (people with a need and the money to pay) — and costs are drilled with the SMOC sorting exercise (Salary, Material, Other, Capital).
 
-Searchable tags: managing credit and loans, Armenia, Ecuador, good debts, bad debts, family debts, social studies, culture-and-work, laos, start-up money, collateral, 5 Cs of credit
+Searchable tags: managing credit and loans, Armenia, Ecuador, good debts, bad debts, family debts, social studies, culture-and-work, laos, start-up money, collateral, 5 Cs of credit, palestine

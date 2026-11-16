@@ -1,6 +1,6 @@
 # Sources — Measuring GDP — value added at every stage
 
-countries: Ethiopia, France, Dominican Republic
+countries: Ethiopia, France, Dominican Republic, Palestine
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -22,10 +22,18 @@ countries: Ethiopia, France, Dominican Republic
 |---|---|
 | Dominican Republic part — El Producto Interno Bruto (Unidad 9): GDP is the monetary value of all final goods and services produced in a period, computed as the sum of the value added in all final goods and services produced in a year; it is the tool for characterising an economy's evolution and comparing it with others, and the country's sectoral structure of GDP at current prices in 2010 and 2020 barely changed, apart from the growing weight of construction | Dominican Republic, *Ciencias Sociales 6° Secundaria*, El Producto Interno Bruto (Unidad 9) — printed p. 156 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, France, Dominican Republic).**
+**Book 4:** *Social Studies G9 Part 2* (student book, Arabic) — Palestine, Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 9, Part 2. Grade: Grade 9 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. PDF pages: 104 (cover/title page verified against the record title; fetched by Range-chunk download after the earlier IncompleteRead failure — 32,556,700 bytes, git blob SHA verified). Verdict: COMPLETE. Contents map: Economics parts printed pp. 35–43 (Unit 4 Lesson 4, "Economic diversity") and pp. 85–89 (Unit 6 Lesson 1, "Poverty"); Geography pp. 4–34 (Unit 4 Lessons 1–3: diversity of the natural environment — including its closing segment on economic activities as a reflection of the environment, printed pp. 14–16, geography framing, named not placed — population characteristics, cultural diversity); Civics/Global issues pp. 47–84 (Unit 5: wars, the population explosion, famines, protecting human cultural heritage) and pp. 90–102 (Unit 6 Lesson 2: racial discrimination). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Economic diversity: manufacturing industry — industry in its wide sense changes the form of raw materials to make them more suited to human needs; extractive industry takes metal ores and energy sources from the ground, while manufacturing industry transforms raw materials to increase their value (food industries, furniture, cars, electrical and electronic devices) | Palestine, *Social Studies G9 Part 2*, printed p. 38 |
+
+Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
+
+**Acceptance count: taught in 4 countries (Ethiopia, France, Dominican Republic, Palestine).**
 
 Dominican Republic's own way (Dominican Republic Grade 12 Ciencias Sociales 6° Secundaria): the school-leaving book ends with the national economy measured — GDP, openness, the balance of payments and per-capita income are all taught on Central Bank tables for 2010–2022, and the unit's own conclusion is critical: GDP per capita doubled while the average worker's income stagnated, so other sectors appropriated the increase.
 
 France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
-Searchable tags: value added approach, bread chain wheat flour bread, selling price minus inputs, no double counting, three approaches agree, ethiopia, france, ses, bicycle firm, nike, social studies, macroeconomics, dominican republic
+Searchable tags: value added approach, bread chain wheat flour bread, selling price minus inputs, no double counting, three approaches agree, ethiopia, france, ses, bicycle firm, nike, social studies, macroeconomics, dominican republic, palestine

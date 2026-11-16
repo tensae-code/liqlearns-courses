@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **470**
+Economics lessons across the Economics titles: **477**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4353,3 +4353,14 @@ Industrialisation in the Dominican Republic,
 The Dominican economy after
 independence and The transition to
 capitalism in the Dominican Republic).
++7 for Palestine,
+2026-11-16 — Microeconomics: Economic
+resources — turning nature into goods
+and services; Macroeconomics: Public
+revenue and spending in the early
+Islamic state, Colonial economic policy
+and dependence, Palestine's economy
+under occupation, Small projects in
+the national economy and Causes of
+poverty; Market and Money: Palestine's
+trade links — ports and crossings).

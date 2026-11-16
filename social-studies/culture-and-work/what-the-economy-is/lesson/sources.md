@@ -1,6 +1,6 @@
 # Sources — What the Economy Is
 
-countries: Rwanda
+countries: Rwanda, Palestine
 
 **Book 1:** *Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: STUDENT). PDF pages: 75 (condensed-layout copy; printed pagination runs to p. 129 — cover verified against the record title; byte size 28,584,194 matches the edufeeds source's Content-Length exactly; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society, incl. human rights, conflict management, peace, harmony and disharmony (Civics), printed pp. 13–24; Unit 3 Hygiene and sanitation, incl. diseases (Health), pp. 25–40; Unit 4 Civics and governance, incl. Rwanda as an independent nation and leadership in our province (Civics), pp. 41–52; Unit 10 Colonial Rwanda (History), pp. 112–129. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -18,8 +18,16 @@ countries: Rwanda
 Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics unit — a worked family budget in francs with surplus, deficit and balanced outcomes, named Rwandan banks and SACCOs (Umwalimu, Umurenge, Zigama CSS), and markets as a source of government revenue.
 
 
-**Acceptance count: taught in 1 country (Rwanda).**
+**Book 3:** *Social Studies G5 Part 2* (student book, Arabic) — Palestine, Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part 2. Grade: Grade 5 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. PDF pages: 96 (cover/title page verified against the record title; grabbed on the final retry after two earlier failures — RemoteDisconnected, then IncompleteRead on the blob route). Verdict: COMPLETE. Contents map: Economics parts printed pp. 55–62 (Unit 5 Lesson 2, "Economic relations"); History pp. 2–45 (Unit 4, human settlement: the move to farming, animal domestication, agricultural villages, the Palestinian village, the city, the emergence of states); Civics/Social pp. 46–54 and 64–76 (Unit 5's other relations — social, cultural, political) and pp. 77–91 (Unit 6, the safe society: crossing the road safely, children's rights). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Economic relations: the concept — economic relations are the human activity of producing goods and services, exchanging them and consuming them, arising between people to meet their farming and industry needs through buying and selling between producer and consumer — individuals, companies or states | Palestine, *Social Studies G5 Part 2*, printed p. 56 |
+
+Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
+
+**Acceptance count: taught in 2 countries (Rwanda, Palestine).**
 
 Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.
 
-Searchable tags: what the economy is, Rwanda, social studies, culture-and-work
+Searchable tags: what the economy is, Rwanda, social studies, culture-and-work, palestine
