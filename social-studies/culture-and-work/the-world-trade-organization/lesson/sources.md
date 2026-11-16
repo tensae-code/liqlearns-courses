@@ -1,6 +1,6 @@
 # Sources — The World Trade Organization
 
-countries: South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq
+countries: South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India
 
 **Book 1:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -44,7 +44,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Iraq part — The World Trade Organization — teaches: the WTO arising from GATT (1947) on 1 January 1995 after the Uruguay Round, covering goods, services and intellectual property — except oil — aiming to keep world markets open, with the book noting many developing-country economists see liberalisation serving the advanced economies and their multinationals first (Economics expansion, 2026-11-16; original placement slug: market-and-money/the-world-trade-organization — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 12 Economics*, The World Trade Organization — printed p. 103 |
 
-**Acceptance count: taught in 6 countries (South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq).**
+**Book 8:** *Understanding Economic Development — Social Science Textbook for Class X* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-655-1. Title as printed: Understanding Economic Development — Social Science Textbook for Class X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE — pure Economics book read fully page-by-page to the last teaching page. Contents map: Economics parts pp. 2–89 (Ch 1 Development; Ch 2 Sectors of the Indian Economy; Ch 3 Money and Credit; Ch 4 Globalisation and the Indian Economy; Ch 5 Consumer Rights) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 4: the WTO's aim of liberalised trade and its rules, set against practice — developed countries kept barriers and pay their farmers vast subsidies that let them dump cheap farm produce, while developing countries were made to open up — teaches: the fair-trade debate | India, *India Grade 10 Understanding Economic Development*, Ch 4 — printed p. 65 |
+
+**Acceptance count: taught in 7 countries (South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India).**
+
+India's own way (India Grade 10 Understanding Economic Development): Development economics taught entirely on Indian data and institutions — per-capita and HDI comparisons with Sri Lanka and Kerala against Haryana, MGNREGA, Sonpur village credit, SEZs, and COPRA consumer courts.
 
 Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
 
@@ -58,4 +66,4 @@ South Sudan's own way (South Sudan Grade 12 S4 Geography TG) (teacher guide — 
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: the world trade organization, South Sudan, social studies, culture-and-work, cambodia, uzbekistan, vietnam, nepal, iraq
+Searchable tags: the world trade organization, South Sudan, social studies, culture-and-work, cambodia, uzbekistan, vietnam, nepal, iraq, india

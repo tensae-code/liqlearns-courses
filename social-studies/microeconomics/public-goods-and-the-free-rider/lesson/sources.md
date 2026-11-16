@@ -1,6 +1,6 @@
 # Sources — Public goods and the free rider
 
-countries: Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt
+countries: Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -59,7 +59,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Egypt part — قصور السوق عن توفير الخدمات العامة والاجتماعية (The market's failure to provide public and social services) — teaches: why the market fails to provide public and social needs — no one can be excluded, the service costs the provider without a payer, and everyone can benefit free once it exists (the exclusion principle and its failure) | Egypt, *Egypt Secondary 12 Statistics and Economics*, printed p. 149 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt).**
+**Book 9:** *Social and Political Life – III — Textbook for Class VIII* (student book, English) — NCERT; year 2019 (2020-21 reprint); ISBN 978-81-7450-825-6. Title as printed: Social and Political Life – III — Textbook for Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Unit Five: Economic Presence of the Government) read fully page-by-page; Civics units named in the Contents map only. Contents map: Economics parts pp. 106–end (Unit Five: Ch 9 Public Facilities, Ch 10 Law and Social Justice); Civics pp. 4–103 (Unit One The Indian Constitution and Secularism, Unit Two Parliament and the Making of Laws, Unit Three The Judiciary, Unit Four Social Justice and the Marginalised) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 9 Public Facilities: a public facility's benefits can be shared by many once provided; private companies work for profit and find none in drains or anti-malaria work, so government must provide facilities for all at affordable prices — teaches: why government, not the market, must supply public facilities | India, *India Grade 8 Social and Political Life-III*, Ch 9 Public Facilities — printed p. 110 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India).**
+
+India's own way (India Grade 8 Social and Political Life-III): The government's economic role is taught through Chennai's water — who gets how much, who pays, and what happens when a basic need is left to profit — and through Bhopal, where cheap labour and weak safety enforcement are priced in workers' lives.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -69,4 +77,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia, dominica, csec principles of business, caribbean, uzbekistan, egypt
+Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia, dominica, csec principles of business, caribbean, uzbekistan, egypt, india

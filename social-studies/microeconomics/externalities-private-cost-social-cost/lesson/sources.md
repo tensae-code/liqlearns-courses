@@ -1,6 +1,6 @@
 # Sources — Externalities — private cost, social cost
 
-countries: Ethiopia, Malaysia, Fiji
+countries: Ethiopia, Malaysia, Fiji, India
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -22,7 +22,23 @@ countries: Ethiopia, Malaysia, Fiji
 |---|---|
 | Fiji part — Threats to healthy oceans and reefs — teaches: over-fishing driven by wanting to sell fish for money, fish caught faster than they can replenish, and by-catch and ghost nets harming turtles, dolphins and other sea life | Fiji, *Fiji Grade 5 ESD Reader 1 People and the Sea in the Pacific*, Threats to healthy oceans and reefs — teaches: over-fishing driven by wanting to sell fish for money, fish caught faster than they can replenish, and by-catch and ghost nets harming turtles, dolphins and other sea life — printed p. 17 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Fiji).**
+**Book 5:** *Social and Political Life – III — Textbook for Class VIII* (student book, English) — NCERT; year 2019 (2020-21 reprint); ISBN 978-81-7450-825-6. Title as printed: Social and Political Life – III — Textbook for Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Unit Five: Economic Presence of the Government) read fully page-by-page; Civics units named in the Contents map only. Contents map: Economics parts pp. 106–end (Unit Five: Ch 9 Public Facilities, Ch 10 Law and Social Justice); Civics pp. 4–103 (Unit One The Indian Constitution and Secularism, Unit Two Parliament and the Making of Laws, Unit Three The Judiciary, Unit Four Social Justice and the Marginalised) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 10: Bhopal and the new environment laws — industry treated the environment as free and paid nothing to clean up, while thousands who never worked at the plant bore the cost; new laws make the polluter accountable — teaches: pollution as a cost dumped on others | India, *India Grade 8 Social and Political Life-III*, Ch 10 — printed p. 128 |
+
+**Book 6:** *Contemporary India – II — Textbook in Geography for Class X (Social Science)* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-644-6. Title as printed: Contemporary India – II — Textbook in Geography for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Ch 1 in part, Ch 4, Ch 5 in part, Ch 6, Ch 7 trade parts) read fully page-by-page; physical-geography parts named in the Contents map only. Contents map: Economics parts pp. 1–13 (in part), 34–47, 48–62 (in part), 63–78, 88–90; Geography pp. 14–33 (forest and wildlife resources; water resources) and pp. 79–87 (transport and communication networks) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 6 closing: industrial pollution and environmental degradation — air, water, land and noise pollution imposed on others, and measures industries can take to cut them — teaches: industry's costs that fall on society | India, *India Grade 10 Contemporary India-II*, Ch 6 closing — printed p. 76 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Fiji, India).**
+
+India's own way (India Grade 8 Social and Political Life-III): The government's economic role is taught through Chennai's water — who gets how much, who pays, and what happens when a basic need is left to profit — and through Bhopal, where cheap labour and weak safety enforcement are priced in workers' lives.
+
+India's own way (India Grade 10 Contemporary India-II): The Class X geography book doubles as economic geography of India — land reform and Bhoodan, manufacturing's stuck 17% GDP share, and trade read as the country's "economic barometer".
 
 Fiji's own way (Fiji Grade 5 ESD Reader 1 People and the Sea in the Pacific): A regional Pacific reader used in Fiji — the sea is taught as a shared resource that traditional harvesting rules protected, and that selling fish for money now puts under pressure.
 
@@ -31,4 +47,4 @@ No matching teacher guide exists in this band: the book recorded as this text's 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
-Searchable tags: externalities — private cost, social cost, grade 12 economics, ethiopia, social studies, microeconomics, malaysia, Fiji
+Searchable tags: externalities — private cost, social cost, grade 12 economics, ethiopia, social studies, microeconomics, malaysia, Fiji, india

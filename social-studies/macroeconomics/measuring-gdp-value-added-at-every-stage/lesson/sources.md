@@ -1,6 +1,6 @@
 # Sources — Measuring GDP — value added at every stage
 
-countries: Ethiopia, France, Dominican Republic, Palestine, Egypt
+countries: Ethiopia, France, Dominican Republic, Palestine, Egypt, India
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -36,7 +36,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Egypt part — طرق قياس الدخل القومي (Ways of measuring national income) — teaches: the three measurement methods — the product (value-added) method, the distributed-shares (income) method, and the expenditure method | Egypt, *Egypt Secondary 12 Statistics and Economics*, printed p. 143 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, France, Dominican Republic, Palestine, Egypt).**
+**Book 6:** *Understanding Economic Development — Social Science Textbook for Class X* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-655-1. Title as printed: Understanding Economic Development — Social Science Textbook for Class X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE — pure Economics book read fully page-by-page to the last teaching page. Contents map: Economics parts pp. 2–89 (Ch 1 Development; Ch 2 Sectors of the Indian Economy; Ch 3 Money and Credit; Ch 4 Globalisation and the Indian Economy; Ch 5 Consumer Rights) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 2: counting production by value, not quantity — only final goods and services count, because the biscuit's Rs 60 already carries the flour's Rs 10; the sum across sectors is GDP — teaches: final goods, intermediate goods and GDP | India, *India Grade 10 Understanding Economic Development*, Ch 2 — printed p. 22 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, France, Dominican Republic, Palestine, Egypt, India).**
+
+India's own way (India Grade 10 Understanding Economic Development): Development economics taught entirely on Indian data and institutions — per-capita and HDI comparisons with Sri Lanka and Kerala against Haryana, MGNREGA, Sonpur village credit, SEZs, and COPRA consumer courts.
 
 Dominican Republic's own way (Dominican Republic Grade 12 Ciencias Sociales 6° Secundaria): the school-leaving book ends with the national economy measured — GDP, openness, the balance of payments and per-capita income are all taught on Central Bank tables for 2010–2022, and the unit's own conclusion is critical: GDP per capita doubled while the average worker's income stagnated, so other sectors appropriated the increase.
 
@@ -44,4 +52,4 @@ France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: value added approach, bread chain wheat flour bread, selling price minus inputs, no double counting, three approaches agree, ethiopia, france, ses, bicycle firm, nike, social studies, macroeconomics, dominican republic, palestine, egypt
+Searchable tags: value added approach, bread chain wheat flour bread, selling price minus inputs, no double counting, three approaches agree, ethiopia, france, ses, bicycle firm, nike, social studies, macroeconomics, dominican republic, palestine, egypt, india

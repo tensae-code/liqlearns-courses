@@ -1,6 +1,6 @@
 # Sources — Kinds of unemployment
 
-countries: Ethiopia, Mongolia, Samoa, Armenia, Vietnam
+countries: Ethiopia, Mongolia, Samoa, Armenia, Vietnam, India
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -28,7 +28,16 @@ countries: Ethiopia, Mongolia, Samoa, Armenia, Vietnam
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 4: unemployment and its types — teaches: unemployment is the state of workers who want a job but have not found one; by origin it divides into natural unemployment (the normal rate an economy must bear — temporary/frictional unemployment from workers' constant movement between regions, jobs and life stages, and structural unemployment, tied to changes in economic structure and technology that demand higher-qualified labour and eliminate workers who cannot meet the requirement), cyclical unemployment (high in recession, low when the economy expands), and by nature into voluntary unemployment (not wanting to work because conditions or wages do not suit) and involuntary unemployment (wanting to work but unable to find a job) (Economics expansion, 2026-11-16; original placement slug: people-and-resources/unemployment-what-it-is-and-its-types — stocked here as the closest existing lesson covering this thing) | Vietnam, *Vietnam Grade 11 Economic & Legal Education*, Lesson 4: unemployment and its types — printed p. 23 |
-**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Samoa, Armenia, Vietnam).**
+**Book 7:** *Social and Political Life – I — Textbook for Class VI* (student book, English) — NCERT; year 2006 (2020-21 reprint); ISBN 81-7450-511-3. Title as printed: Social and Political Life – I — Textbook for Class VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title; first grab attempts failed with a dropped connection, third attempt landed, tree route 404 — release route used). Verdict: COMPLETE — Economics parts (Unit IV Livelihoods) read fully page-by-page; Civics units named in the Contents map only. Contents map: Economics parts pp. 67–85 (Unit IV Livelihoods: Ch 8 Rural Livelihoods, Ch 9 Urban Livelihoods); Civics pp. 3–65 (Unit I Diversity, Unit II Government, Unit III Local Government and Administration) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 8: Thulasi the landless agricultural labourer finds work only at transplanting, weeding and harvesting for a low daily wage — teaches: seasonal work and why labourers accept low wages | India, *India Grade 6 Social and Political Life-I*, Ch 8 — printed p. 69 |
+| India part — Ch 9: at the labour chowk, daily-wage casual workers wait each morning to be hired for building and loading work — teaches: casual daily-wage work | India, *India Grade 6 Social and Political Life-I*, Ch 9 — printed p. 81 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Mongolia, Samoa, Armenia, Vietnam, India).**
+
+India's own way (India Grade 6 Social and Political Life-I): Economics enters through lived livelihood stories — named workers (a landless labourer, a small farmer in debt to a trader, a rickshaw puller, a casual garment worker, a salaried manager) whose earnings, loans and job security are compared in tables.
 
 Vietnam's own way (Vietnam Grade 11 Economic & Legal Education): the macro topics are taught from Vietnam's own statistics and history — the CPI chart 2016–2021, the 775% inflation of 1986, COVID-era unemployment of 3.2%, the Q3 2022 labour-market bulletin — and the State's controlling role is quoted from the Law on the State Bank and the Labour Code.
 
@@ -36,7 +45,7 @@ Mongolia's own way (Grade 10): the senior cycle drops the “Individual and…�
 
 Carried from the placements' pairing verdict: the teacher guide's unemployment answer key argues that Africa's unemployment rate "would get large number" as an inference exercise rather than from data; the placements flag it as weak evidence, not fact, and this lesson teaches no rate figure from it. The Grade 11 book's fuller labour treatment — employment, unemployment, underemployment and Ethiopia's worked dependency sum — stands in the lesson "Work and want of work — unemployment and dependency".
 
-Searchable tags: unemployment kinds, voluntary involuntary, employability, prevailing wage, ethiopia, social studies, people and resources, Mongolia, Нийгэм судлал, vietnam
+Searchable tags: unemployment kinds, voluntary involuntary, employability, prevailing wage, ethiopia, social studies, people and resources, Mongolia, Нийгэм судлал, vietnam, india
 
 Samoa's own way (Year 10, Book 3): Access to resources is split into economic and social factors with Pacific examples, and development is taught as change that can bring conflict in places — ending in consensus-building and appropriate technology for small island states.
 

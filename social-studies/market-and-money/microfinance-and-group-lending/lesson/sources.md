@@ -1,6 +1,6 @@
 # Sources — Microfinance and group lending
 
-countries: Ethiopia, Zimbabwe, Dominica
+countries: Ethiopia, Zimbabwe, Dominica, India
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -23,7 +23,15 @@ countries: Ethiopia, Zimbabwe, Dominica
 |---|---|
 | Dominica part — Unit 8.1: micro-lending agencies — teaches: micro-credit for people with low or no regular income, peer-to-peer lending and FinTech, with the Microfin Group lending across Caribbean countries to borrowers banks would turn away | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 8.1: micro-lending agencies — printed p. 281 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Dominica). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 4:** *Understanding Economic Development — Social Science Textbook for Class X* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-655-1. Title as printed: Understanding Economic Development — Social Science Textbook for Class X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE — pure Economics book read fully page-by-page to the last teaching page. Contents map: Economics parts pp. 2–89 (Ch 1 Development; Ch 2 Sectors of the Indian Economy; Ch 3 Money and Credit; Ch 4 Globalisation and the Indian Economy; Ch 5 Consumer Rights) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 3: self-help groups for the poor — members save together, lend to each other, and graduate to bank loans without collateral, solving the poor borrower's biggest barrier — teaches: group lending as the poor's bank | India, *India Grade 10 Understanding Economic Development*, Ch 3 — printed p. 50 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Dominica, India). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+India's own way (India Grade 10 Understanding Economic Development): Development economics taught entirely on Indian data and institutions — per-capita and HDI comparisons with Sri Lanka and Kerala against Haryana, MGNREGA, Sonpur village credit, SEZs, and COPRA consumer courts.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -32,4 +40,4 @@ Zimbabwe's own way (PlusOne Social Science Grade 6 Teacher's Guide) (teacher gui
 
 Dated figures labelled as the placements direct: the Ethiopian microfinance totals are presented as the book's NBE 2020/21 snapshot — 41 MFIs, about Birr 47 billion in deposits and about Birr 64.6 billion in loans — not as current fact.
 
-Searchable tags: microfinance, Yunus Grameen Bank, group lending, collateral substitute, economically active poor, moneylenders, MFIs Ethiopia 41 birr 47 billion, ethiopia, social studies, market and money, zimbabwe, teacher guide evidence, dominica, csec principles of business, caribbean
+Searchable tags: microfinance, Yunus Grameen Bank, group lending, collateral substitute, economically active poor, moneylenders, MFIs Ethiopia 41 birr 47 billion, ethiopia, social studies, market and money, zimbabwe, teacher guide evidence, dominica, csec principles of business, caribbean, india

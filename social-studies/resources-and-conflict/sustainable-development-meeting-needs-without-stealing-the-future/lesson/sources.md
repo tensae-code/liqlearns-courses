@@ -1,6 +1,6 @@
 # Sources — Sustainable development — meeting needs without stealing the future
 
-countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Guatemala, Kuwait, Jordan, Nepal, Iraq
+countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Guatemala, Kuwait, Jordan, Nepal, Iraq, India
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -70,7 +70,15 @@ countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, So
 |---|---|
 | Iraq part — Sustainable development: concept and dimensions — teaches: optimal use of natural resources without depleting them or adding pollution, securing future generations' share — in five dimensions: economic (e.g. reducing the Iraqi economy's dependence on oil), human (slowing population growth's pressure on resources), social, technological (cleaner, more efficient technology) and environmental | Iraq, *Iraq Grade 12 Economics*, Sustainable development: concept and dimensions — printed p. 89 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Kuwait, Jordan, Nepal, Iraq). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere.**
+**Book 17:** *Understanding Economic Development — Social Science Textbook for Class X* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-655-1. Title as printed: Understanding Economic Development — Social Science Textbook for Class X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE — pure Economics book read fully page-by-page to the last teaching page. Contents map: Economics parts pp. 2–89 (Ch 1 Development; Ch 2 Sectors of the Indian Economy; Ch 3 Money and Credit; Ch 4 Globalisation and the Indian Economy; Ch 5 Consumer Rights) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 1: sustainability of development — groundwater overuse in a third of the country and a crude-oil reserves table showing how many years the stock will last — teaches: development that does not eat the future | India, *India Grade 10 Understanding Economic Development*, Ch 1 — printed p. 14 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Kuwait, Jordan, Nepal, Iraq, India). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere.**
+
+India's own way (India Grade 10 Understanding Economic Development): Development economics taught entirely on Indian data and institutions — per-capita and HDI comparisons with Sri Lanka and Kerala against Haryana, MGNREGA, Sonpur village credit, SEZs, and COPRA consumer courts.
 
 Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
 
@@ -94,7 +102,7 @@ Jordan's own way (Jordan Grade 6 Term 2): Economics arrives as one late unit bui
 
 Jordan's own way (Jordan Grade 8 Term 1): Development is taught head-on — growth against development, Malthus against the food supply, and the labour force counted the Jordanian way (everyone aged 15–65 able to work), before the sustainable-development goals close the unit.
 
-Searchable tags: sustainable development, Brundtland, Our Common Future, Agenda 21, three dimensions, social studies, Haiti, Haïti verte, teacher sequence evidence, Niue, ESD Teacher Guide, teacher guide evidence, China, PEP, People's Education Press, jordan, vietnam, nepal, iraq
+Searchable tags: sustainable development, Brundtland, Our Common Future, Agenda 21, three dimensions, social studies, Haiti, Haïti verte, teacher sequence evidence, Niue, ESD Teacher Guide, teacher guide evidence, China, PEP, People's Education Press, jordan, vietnam, nepal, iraq, india
 
 Bangladesh's own way (Grade 8): the year's Geography is one long chapter, "Protect the Bond between Nature and People": pupils model the world's biomes, compare world forest cover in 2000 and 2020, map Bangladesh's own forests and disaster-prone areas, and read a long inquiry-reader on biomes, sea resources and the Sundarbans mangrove.
 

@@ -1,6 +1,6 @@
 # Sources — Where Industry Locates Location Factors
 
-countries: Kazakhstan, South Sudan, Palestine, Venezuela, Egypt, Yemen, Iraq
+countries: Kazakhstan, South Sudan, Palestine, Venezuela, Egypt, Yemen, Iraq, India
 
 **Book 1:** *География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова)* (student book, Russian) — Алматы «Мектеп»; year 2025; ISBN 978-601-07-1773-2. Title as printed: География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова). Grade: 8 (student/teacher: STUDENT). PDF pages: 273 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1531.pdf, 51,336,177 bytes from the recorded okulyk.kz source, page count matches the record; printed book 272 pp). Verdict: COMPLETE. Parallel editions named, not double-counted: record 309.pdf — the 2018 first edition in Kazakh, ISBN 978-601-07-0964-5, 256 printed pp, identical §§1–54 structure verified from its contents; record 344.pdf — the 2018 first edition in Russian, ISBN 978-601-07-0969-0, 264 printed pp, cover/verso verified; reissue records 1432.pdf and 1486.pdf belong to the same editions. The book is placed once here, under this 2025 edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -65,7 +65,23 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Iraq part — Factors for the rise of industry — teaches: the conditions a place must have for industry to succeed, labour among them — the Arab world has plentiful young labour, whose needs differ by industry | Iraq, *Iraq Grade 8 Social Studies*, Factors for the rise of industry — printed p. 55 |
 
-**Acceptance count: taught in 6 countries (Kazakhstan, Palestine, Venezuela, Egypt, Yemen, Iraq). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+**Book 12:** *Resources and Development — Textbook in Geography for Class VIII* (student book, English) — NCERT; year 2019 (2020-21 reprint); ISBN 978-81-7450-816-4. Title as printed: Resources and Development — Textbook in Geography for Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Ch 1 Resources, Ch 3 in part, Ch 4 Agriculture, Ch 5 Industries, Ch 6 opening) read fully page-by-page; physical-geography parts named in the Contents map only. Contents map: Economics parts pp. 1–6, 22–37 (minerals/power in part), 38–61, 62; Geography pp. 7–21 (land, soil, water, vegetation and wildlife resources) and pp. 63–71 (population distribution, density, change and composition) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 5: location factors (raw material, land, water, labour, power, capital, transport, market, government incentives), the industrial system of inputs/processes/outputs, and industrial regions including India's clusters — teaches: why industries sit where they sit | India, *India Grade 8 Resources and Development*, Ch 5 — printed p. 50 |
+
+**Book 13:** *Contemporary India – II — Textbook in Geography for Class X (Social Science)* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-644-6. Title as printed: Contemporary India – II — Textbook in Geography for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Ch 1 in part, Ch 4, Ch 5 in part, Ch 6, Ch 7 trade parts) read fully page-by-page; physical-geography parts named in the Contents map only. Contents map: Economics parts pp. 1–13 (in part), 34–47, 48–62 (in part), 63–78, 88–90; Geography pp. 14–33 (forest and wildlife resources; water resources) and pp. 79–87 (transport and communication networks) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 6: industries locate where raw material, labour, capital, power and market combine at least cost; cities add agglomeration economies and services, linking industry and urbanisation — teaches: location decisions and agglomeration | India, *India Grade 10 Contemporary India-II*, Ch 6 — printed p. 64 |
+
+**Acceptance count: taught in 7 countries (Kazakhstan, Palestine, Venezuela, Egypt, Yemen, Iraq, India). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+
+India's own way (India Grade 8 Resources and Development): Economic geography is taught through Indian anchors — a 1.5-hectare Uttar Pradesh farm set against a 250-hectare Iowa farm, Jamshedpur steel, Ahmedabad as the "Manchester of India", and cooperative dairies (Amul/AMUL pattern, Sudha) as an ownership form.
+
+India's own way (India Grade 10 Contemporary India-II): The Class X geography book doubles as economic geography of India — land reform and Bhoodan, manufacturing's stuck 17% GDP share, and trade read as the country's "economic barometer".
 
 Iraq's own way (Iraq Grade 8 Social Studies): Grade 8 teaches the Arab world as one economic space — its crops, animals, oil and minerals, the conditions that make industry succeed, and its trade, foreign and domestic — after a first term spent on the same resources governorate by governorate at home.
 
@@ -83,4 +99,4 @@ Kazakhstan's own way (Kazakhstan Grade 8 Sakhova NIS): the NIS Grade 8 course ph
 
 Egypt's own way (Grade 9 combined edition, egypt-placements.md): Economics is taught as world economic geography — each activity (farming, grazing, mining, industry) is mapped worldwide with production bar charts, and every foreign country model ends with a section on that country's economic relations with Egypt.
 
-Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan, palestine, venezuela, egypt, yemen, iraq
+Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan, palestine, venezuela, egypt, yemen, iraq, india

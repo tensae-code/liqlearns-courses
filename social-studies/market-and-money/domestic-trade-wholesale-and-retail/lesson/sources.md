@@ -1,6 +1,6 @@
 # Sources — Domestic trade — wholesale and retail
 
-countries: Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria, Iran
+countries: Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria, Iran, India
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -74,7 +74,23 @@ South Sudan's own way (South Sudan Primary 6): trade is taught as a tree — int
 |---|---|
 | Iran part — Economics expansion — Section 21 "Business model part 3: determining the distribution channel": communication, distribution and sales channels are the interface between a company and its customers and its touchpoints with them; channels are direct or indirect in contact, and own or partner in ownership, each with its functions | Iran, *Iran Grade 10 Entrepreneurship Workshop*, Section 21 "Business model part 3: determining the distribution channel" — Iran Grade 10 Entrepreneurship Workshop, printed p. 89 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria, Iran).**
+**Book 11:** *Social and Political Life – I — Textbook for Class VI* (student book, English) — NCERT; year 2006 (2020-21 reprint); ISBN 81-7450-511-3. Title as printed: Social and Political Life – I — Textbook for Class VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title; first grab attempts failed with a dropped connection, third attempt landed, tree route 404 — release route used). Verdict: COMPLETE — Economics parts (Unit IV Livelihoods) read fully page-by-page; Civics units named in the Contents map only. Contents map: Economics parts pp. 67–85 (Unit IV Livelihoods: Ch 8 Rural Livelihoods, Ch 9 Urban Livelihoods); Civics pp. 3–65 (Unit I Diversity, Unit II Government, Unit III Local Government and Administration) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 9: Harpreet and Vandana's garment showroom buys stock from many Indian cities and abroad, advertises, and trades under a municipal licence — teaches: how a retail business sources and sells | India, *India Grade 6 Social and Political Life-I*, Ch 9 — printed p. 80 |
+
+**Book 12:** *Social and Political Life – II — Textbook for Class VII* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-672-1. Title as printed: Social and Political Life – II — Textbook for Class VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Unit Five: Markets) read fully page-by-page; Civics units named in the Contents map only. Contents map: Economics parts pp. 82–101 (Unit Five Markets: Ch 7 Markets Around Us, Ch 8 A Shirt in the Market); Civics pp. 4–79 and 102–109 (Unit One Equality in Indian Democracy, Unit Two State Government, Unit Three Gender, Unit Four Media, Ch 9 Struggles for Equality) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 7: the chain of markets — a wholesale trader buys in bulk lots, traders sell to traders, and the retailer finally sells to the consumer; Aftab the wholesaler buys at the early-morning mandi auction — teaches: wholesale and retail links that move goods to faraway places | India, *India Grade 7 Social and Political Life-II*, Ch 7 — printed p. 87 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria, Iran, India).**
+
+India's own way (India Grade 6 Social and Political Life-I): Economics enters through lived livelihood stories — named workers (a landless labourer, a small farmer in debt to a trader, a rickshaw puller, a casual garment worker, a salaried manager) whose earnings, loans and job security are compared in tables.
+
+India's own way (India Grade 7 Social and Political Life-II): Markets are taught as a chain you can walk — from a cotton farmer tied to a trader's loan, through ginning, spinning, putting-out weavers and an export factory, to a $26 shirt in a US store, with the money split counted at every step.
 
 Venezuela's own way (Venezuela Grade 11 Venezuela G11 Geografía de Venezuela SB Spanish): the senior geography book is an economic survey of the whole country — land, oil, industry by ownership form, commerce under a fair-prices law, and integration as the Bolivarian alternative to free trade. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
@@ -87,4 +103,4 @@ Iran's own way (Iran Grade 6 Social Studies): the energy chapter turns Iran's oi
 
 Iran's own way (Iran Grade 10 Entrepreneurship Workshop): entrepreneurship is a hands-on workshop for every branch, built around the business-model canvas (بوم مدل کسب و کار) that each student team must complete section by section.
 
-Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money, south sudan, venezuela, jordan, bulgaria, iran
+Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money, south sudan, venezuela, jordan, bulgaria, iran, india

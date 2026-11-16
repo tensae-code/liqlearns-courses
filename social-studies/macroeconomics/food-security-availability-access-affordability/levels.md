@@ -1,0 +1,12 @@
+# Food security — availability, access, affordability — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its sub lessons. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Availability, accessibility, affordability
+Sub lesson 1 questions from the type files (4 items). Pass mark: answer its questions from lesson.md alone, without the lesson open.
+
+## Sub lesson 2 — Sen's entitlements and the Bengal famine of 1943
+Sub lesson 2 questions from the type files (4 items). Pass mark: answer its questions from lesson.md alone, without the lesson open.
+
+## Sub lesson 3 — Who is food-insecure; seasonal and chronic hunger
+Sub lesson 3 questions from the type files (4 items). Pass mark: answer its questions from lesson.md alone, without the lesson open.

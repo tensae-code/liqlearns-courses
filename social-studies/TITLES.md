@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **649**
+Economics lessons across the Economics titles: **696**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4558,4 +4558,44 @@ and Saving and investment — where to put
 savings). +3 for Iraq,
 2026-11-16 — Macroeconomics: Iraq's oil and
 mineral wealth and Economic organisation in
-ancient Mesopotamia; Market and Money: BRICS).
+ancient Mesopotamia; Market and Money: BRICS);
++47 for India, 2026-11-16 — Microeconomics:
+Fishing family shares and seasonal borrowing,
+Self-employment on the street, Casual work — no
+job security, Permanent jobs — pay and benefits,
+Weekly markets — low costs and competition,
+Markets and equality, The putting-out system,
+Where the price of a shirt goes, The farm as a
+system, Subsistence and commercial farming, How
+industries are classified, Laws that protect
+workers, consumers and producers, Multiple
+cropping — growing more from fixed land, Surplus
+becomes capital, Non-farm activities in the
+village, Organised and unorganised sectors,
+Small producers — compete or perish and
+Consumer rights and COPRA; Market and Money:
+Call centres — new city jobs, Buying without a
+marketplace, Export garment chain and foreign
+buyers, Terms of credit — collateral and
+interest, Tourism as a trade and When water is
+sold for profit; Macroeconomics: Small and
+large farmers of India, The Green Revolution
+and its costs, Unequal land distribution, Health
+and the quality of population, Social exclusion
+and vulnerability, Causes of poverty in India,
+India's anti-poverty strategy, Food security —
+availability, access, affordability, Buffer
+stock and the Public Distribution System, The
+costs of the food security system, Agricultural
+development and food security, Land reforms and
+agricultural reforms, Globalisation and Indian
+agriculture, Why manufacturing is the backbone
+of development, Development means different
+things to different people, When production and
+employment move apart, Formal and informal
+credit — who gets what, Multinationals and
+production across countries, What enabled
+globalisation, Globalisation in India — winners
+and losers, The struggle for fair globalisation,
+Cheap labour and cost-cutting bring foreign
+companies and Who gains from the market).

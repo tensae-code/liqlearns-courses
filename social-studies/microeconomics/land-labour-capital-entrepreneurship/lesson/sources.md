@@ -1,6 +1,6 @@
 # Sources — Land, labour, capital, entrepreneurship — and what each is paid
 
-countries: Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Albania, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq
+countries: Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Albania, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -132,7 +132,13 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Iraq part — Production and its factors — teaches: production as creating or increasing utility; the production process joins four factors — land (its return: rent), labour (wages), capital (interest) and organisation (profit) (Economics expansion, 2026-11-16; original placement slug: microeconomics/factors-of-production — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 11 Economics*, Production and its factors — printed p. 43 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq). Albania is teacher-guide evidence only — named here, counted nowhere.**
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 1 Palampur: production organised by combining land, labour, physical capital (fixed capital: tools, machines, buildings; working capital: raw materials and money in hand) and human capital — teaches: the four factors of production (Economics expansion, 2026-11-16; stocked as a row against the book already cited in this lesson from the Geography wave) | India, *India Grade 9 Economics*, Ch 1 Palampur — printed p. 2 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+India's own way (India Grade 9 Economics): The whole first Economics course is built on Indian cases — a fictional UP village for production, two boys (Sakal who studies, Vilas who cannot) for human capital, Tendulkar poverty-line numbers, and the FCI/PDS machinery for food security.
 
 Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
 
@@ -170,4 +176,4 @@ Iran's own way (Iran Grade 9 Social Studies): productivity is framed with Qur'an
 
 Iran's own way (Iran Grade 10 Entrepreneurship Workshop): entrepreneurship is a hands-on workshop for every branch, built around the business-model canvas (بوم مدل کسب و کار) that each student team must complete section by section.
 
-Searchable tags: factors of production, land labour capital entrepreneurship, rent wages interest profit, ethiopia, saudi arabia, resources human natural capital, oil minerals water, france, ses, productive combination, social studies, microeconomics, laos, resources of doing business, economic resources, human resources, time, kazakhstan, tenge, entrepreneurship and business basics, albania, dominica, csec principles of business, caribbean, jordan, bangladesh, egypt, yemen, armenia, nicaragua, iran, iraq
+Searchable tags: factors of production, land labour capital entrepreneurship, rent wages interest profit, ethiopia, saudi arabia, resources human natural capital, oil minerals water, france, ses, productive combination, social studies, microeconomics, laos, resources of doing business, economic resources, human resources, time, kazakhstan, tenge, entrepreneurship and business basics, albania, dominica, csec principles of business, caribbean, jordan, bangladesh, egypt, yemen, armenia, nicaragua, iran, iraq, india

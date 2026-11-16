@@ -9,7 +9,13 @@ countries: India
 | Sub lesson 1 — Ch.6: India's mineral-based industries — iron and steel, aluminium smelting, chemicals, fertilisers, automobiles, and information technology and electronics | India, *India Grade 10 Contemporary India-II*, Ch.6: India's mineral-based industries — iron and steel, aluminium smelting, chemicals, fertilisers, automobiles, and information technology and electronics — printed p. 71 |
 | Sub lesson 2 — India's way — the book's own teaching way | India — the books' own way of teaching (see below) |
 
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 6: iron and steel as the basic industry all others depend on; steel production and consumption as an index of development, with India's per-capita steel use far below the world average — teaches: a mineral-based key industry (Economics expansion, 2026-11-16; stocked as a row against the book already cited in this lesson from the Geography wave) | India, *India Grade 10 Contemporary India-II*, Ch 6 — printed p. 69 |
+
 **Acceptance count: taught in 1 country (India).**
+
+India's own way (India Grade 10 Contemporary India-II): The Class X geography book doubles as economic geography of India — land reform and Bhoodan, manufacturing's stuck 17% GDP share, and trade read as the country's "economic barometer".
 
 India's own way (Grade 10 Contemporary India-II): Contemporary India-II is the human/economic book, matching Part I's physical book: India's resources, forests, water, agriculture, minerals and energy, manufacturing and the "lifelines" (transport, communication, trade) — taught throughout as development-versus-environment argument, with movements and case studies (Chipko, Narmada Bachao, rooftop rainwater harvesting in the Thar) carrying the criticism.
 

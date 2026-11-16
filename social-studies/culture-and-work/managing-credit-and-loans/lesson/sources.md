@@ -1,6 +1,6 @@
 # Sources — Managing Credit And Loans
 
-countries: Armenia, Ecuador, Laos, Palestine, Albania, Fiji, Vietnam, Bulgaria
+countries: Armenia, Ecuador, Laos, Palestine, Albania, Fiji, Vietnam, Bulgaria, India
 
 **Book 1:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (title page 2024); ISBN 978-9939-99-040-8. Authors: K. Harutyunyan, H. Barseghyan, N. Galstyan, A. Manucharyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography-scope parts placed below: Theme 3 "Market economy" (printed pp. 54-87) and Theme 4 "Personal finance management" (pp. 88-127). NOT placed (named for later waves): Theme 1 "Problems of modern man and society" (pp. 4-18), Theme 2 "Political ideologies" (pp. 19-53). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -80,7 +80,37 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Bulgaria part — Economics expansion — "Budget of the enterprise" (Бюджет на предприятието), "Capital and sources of financing": creating and running an enterprise needs investments — money put into the business for materials, instruments, machines, buildings, energy, salaries and more — and obtaining money capital for investments is called financing; by their sources of financing, funds are internal (own capital: the owners' personal funds and share contributions, the reinvested profit, revenues from selling or renting property) or external, attracted capital (bank credits, bond loans); when own capital is lacking, money is taken on loan from the bank — a bank credit is the money loan the creditor (the bank) grants the borrower (the enterprise) for a definite purpose and under definite conditions — interest (лихва) and term — recorded in a credit contract; for a successful business the expected profit must be bigger than the interest on the credit — that is the price the enterprise pays for using other people's money (filed as market-and-money/borrowing-and-loans; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 7 Technology and Entrepreneurship*, "Budget of the enterprise" (Бюджет на предприятието), "Capital and sources of financing" — printed p. 72 |
 
-**Acceptance count: taught in 7 countries (Armenia, Ecuador, Laos, Palestine, Fiji, Vietnam, Bulgaria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 12:** *Social and Political Life – I — Textbook for Class VI* (student book, English) — NCERT; year 2006 (2020-21 reprint); ISBN 81-7450-511-3. Title as printed: Social and Political Life – I — Textbook for Class VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title; first grab attempts failed with a dropped connection, third attempt landed, tree route 404 — release route used). Verdict: COMPLETE — Economics parts (Unit IV Livelihoods) read fully page-by-page; Civics units named in the Contents map only. Contents map: Economics parts pp. 67–85 (Unit IV Livelihoods: Ch 8 Rural Livelihoods, Ch 9 Urban Livelihoods); Civics pp. 3–65 (Unit I Diversity, Unit II Government, Unit III Local Government and Administration) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 8: Sekar's seed-and-fertiliser loan from a trader ties him to sell his paddy cheap; the "On being in Debt" box traces crop failure into a debt trap — teaches: borrowing, tied selling and how farm debt grows | India, *India Grade 6 Social and Political Life-I*, Ch 8 — printed p. 70 |
+
+**Book 13:** *Social and Political Life – II — Textbook for Class VII* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-672-1. Title as printed: Social and Political Life – II — Textbook for Class VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Unit Five: Markets) read fully page-by-page; Civics units named in the Contents map only. Contents map: Economics parts pp. 82–101 (Unit Five Markets: Ch 7 Markets Around Us, Ch 8 A Shirt in the Market); Civics pp. 4–79 and 102–109 (Unit One Equality in Indian Democracy, Unit Two State Government, Unit Three Gender, Unit Four Media, Ch 9 Struggles for Equality) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 8 A Shirt in the Market: Swapna borrows from the local trader at high interest for seed and fertiliser and must sell him all her cotton; he deducts the loan and interest from her harvest money — teaches: tied credit forcing a low-price sale | India, *India Grade 7 Social and Political Life-II*, Ch 8 A Shirt in the Market — printed p. 93 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 1: small farmers like Savita must borrow working capital at very high interest from large farmers, moneylenders and traders, and are put to great distress repaying — teaches: scarce capital and costly rural credit (Economics expansion, 2026-11-16; stocked as a row against the book already cited in this lesson from the Geography wave) | India, *India Grade 9 Economics*, Ch 1 — printed p. 8 |
+
+**Book 14:** *Understanding Economic Development — Social Science Textbook for Class X* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-655-1. Title as printed: Understanding Economic Development — Social Science Textbook for Class X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE — pure Economics book read fully page-by-page to the last teaching page. Contents map: Economics parts pp. 2–89 (Ch 1 Development; Ch 2 Sectors of the Indian Economy; Ch 3 Money and Credit; Ch 4 Globalisation and the Indian Economy; Ch 5 Consumer Rights) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 3: two credit situations — Salim's loans let him complete a shoe order and profit, while Swapna's moneylender loan, hit by crop failure, grows into a debt trap that costs her part of her land — teaches: when credit helps and when it traps | India, *India Grade 10 Understanding Economic Development*, Ch 3 — printed p. 43 |
+
+**Acceptance count: taught in 8 countries (Armenia, Ecuador, Laos, Palestine, Fiji, Vietnam, Bulgaria, India). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+India's own way (India Grade 6 Social and Political Life-I): Economics enters through lived livelihood stories — named workers (a landless labourer, a small farmer in debt to a trader, a rickshaw puller, a casual garment worker, a salaried manager) whose earnings, loans and job security are compared in tables.
+
+India's own way (India Grade 7 Social and Political Life-II): Markets are taught as a chain you can walk — from a cotton farmer tied to a trader's loan, through ginning, spinning, putting-out weavers and an export factory, to a $26 shirt in a US store, with the money split counted at every step.
+
+India's own way (India Grade 9 Economics): The whole first Economics course is built on Indian cases — a fictional UP village for production, two boys (Sakal who studies, Vilas who cannot) for human capital, Tendulkar poverty-line numbers, and the FCI/PDS machinery for food security.
+
+India's own way (India Grade 10 Understanding Economic Development): Development economics taught entirely on Indian data and institutions — per-capita and HDI comparisons with Sri Lanka and Kerala against Haryana, MGNREGA, Sonpur village credit, SEZs, and COPRA consumer courts.
 
 Vietnam's own way (Vietnam Grade 10 Economic & Legal Education): a full school Economics course built on Vietnamese cases and current law — the Si Ma Cai periodic market for exchange, pork-price swings for market functions, the 2025 State Budget Law's own revenue/expenditure tables, corporate income-tax tiers and the progressive personal income-tax schedule, and a student's 80/13/7 spending rule for personal finance.
 
@@ -99,4 +129,4 @@ Laos' own way (Laos Grade 11 Business student): the market is defined three ways
 
 Bulgaria's own way (Bulgaria Grade 7 Technology and Entrepreneurship): Grade 7 registers a firm — the class founds a student company, chooses between sole trader, partnership and limited company by who answers with their own property, writes its founding budget, and scores its market chance before it sells anything.
 
-Searchable tags: managing credit and loans, Armenia, Ecuador, good debts, bad debts, family debts, social studies, culture-and-work, laos, start-up money, collateral, 5 Cs of credit, palestine, albania, Fiji, vietnam, bulgaria
+Searchable tags: managing credit and loans, Armenia, Ecuador, good debts, bad debts, family debts, social studies, culture-and-work, laos, start-up money, collateral, 5 Cs of credit, palestine, albania, Fiji, vietnam, bulgaria, india

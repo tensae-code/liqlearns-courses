@@ -1,6 +1,6 @@
 # Sources — The minimum wage
 
-countries: Ethiopia, Armenia
+countries: Ethiopia, Armenia, India
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -15,10 +15,18 @@ countries: Ethiopia, Armenia
 |---|---|
 | Armenia part — Economics expansion — 4.4 State economic and social policies: the minimum wage as the lowest pay fixed by the government, inside social policy alongside equal income distribution and workers' rights | Armenia, *Armenia Grade 9 Social Science student*, 4.4 State economic and social policies — printed p. 114 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Armenia).**
+**Book 3:** *Social and Political Life – III — Textbook for Class VIII* (student book, English) — NCERT; year 2019 (2020-21 reprint); ISBN 978-81-7450-825-6. Title as printed: Social and Political Life – III — Textbook for Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Unit Five: Economic Presence of the Government) read fully page-by-page; Civics units named in the Contents map only. Contents map: Economics parts pp. 106–end (Unit Five: Ch 9 Public Facilities, Ch 10 Law and Social Justice); Civics pp. 4–103 (Unit One The Indian Constitution and Secularism, Unit Two Parliament and the Making of Laws, Unit Three The Judiciary, Unit Four Social Justice and the Marginalised) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 10 Law and Social Justice: employers chasing profit may underpay workers who have no bargaining power, so a minimum-wage law sets a floor, revised every few years, and must be enforced by inspection — teaches: the minimum wage and why it needs enforcement | India, *India Grade 8 Social and Political Life-III*, Ch 10 Law and Social Justice — printed p. 121 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Armenia, India).**
+
+India's own way (India Grade 8 Social and Political Life-III): The government's economic role is taught through Chennai's water — who gets how much, who pays, and what happens when a basic need is left to profit — and through Bhopal, where cheap labour and weak safety enforcement are priced in workers' lives.
 
 Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: the minimum wage, grade 12 economics, ethiopia, social studies, macroeconomics, armenia
+Searchable tags: the minimum wage, grade 12 economics, ethiopia, social studies, macroeconomics, armenia, india

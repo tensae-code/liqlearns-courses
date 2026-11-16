@@ -1,6 +1,6 @@
 # Sources — The labour market
 
-countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam
+countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -75,7 +75,13 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 5: labour and the labour market — teaches: labour is people's purposeful, conscious activity creating products for social life's needs, and in production it is an input factor that affects costs like the use of other factors; the labour market is where the social relations between the sellers of labour power (hired workers) and its buyers (employers) are carried out, through agreement on price (wages, salaries) and other working conditions, by written or oral labour contract — it is composed of three elements: supply, demand and the price of labour power (Economics expansion, 2026-11-16; original placement slug: people-and-resources/the-labour-market-buying-and-selling-labour — stocked here as the closest existing lesson covering this thing) | Vietnam, *Vietnam Grade 11 Economic & Legal Education*, Lesson 5: labour and the labour market — printed p. 31 |
-**Acceptance count: taught in 8 countries (Ethiopia, Bahamas, Mongolia, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam). Albania is teacher-guide evidence only — named here, counted nowhere. Honduras's Grade 1 teacher guide is cited as evidence only — Honduras is counted for its Grade 9 student book named here, not for that guide.**
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 1: labour is the most abundant factor — many landless and small-farm workers compete for limited farm work and are paid low wages — teaches: abundant labour and low farm wages (Economics expansion, 2026-11-16; stocked as a row against the book already cited in this lesson from the Geography wave) | India, *India Grade 9 Economics*, Ch 1 — printed p. 7 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Bahamas, Mongolia, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India). Albania is teacher-guide evidence only — named here, counted nowhere. Honduras's Grade 1 teacher guide is cited as evidence only — Honduras is counted for its Grade 9 student book named here, not for that guide.**
+
+India's own way (India Grade 9 Economics): The whole first Economics course is built on Indian cases — a fictional UP village for production, two boys (Sakal who studies, Vilas who cannot) for human capital, Tendulkar poverty-line numbers, and the FCI/PDS machinery for food security.
 
 Vietnam's own way (Vietnam Grade 11 Economic & Legal Education): the macro topics are taught from Vietnam's own statistics and history — the CPI chart 2016–2021, the 775% inflation of 1986, COVID-era unemployment of 3.2%, the Q3 2022 labour-market bulletin — and the State's controlling role is quoted from the Law on the State Bank and the Labour Code.
 
@@ -97,4 +103,4 @@ Honduras's own way (Honduras Grade 1 G1 Teacher CCSS) (teacher guide — evidenc
 
 Honduras's own way (Honduras Grade 9 G9 Student CCSS): Grade 9 closes the cycle with the world economy and Honduras inside it — work formal and informal, the lempira's devaluation named the country's biggest problem, and remittances weighed honestly: a strong boost to the economy that also demotivates production and drains the labour force.
 
-Searchable tags: labour market, employees supply labour, employers supply jobs, ethiopia, social studies, market and money, bahamas, mongolia, labour market, training job matching information, albania, cambodia, uzbekistan, honduras, Fiji, vietnam
+Searchable tags: labour market, employees supply labour, employers supply jobs, ethiopia, social studies, market and money, bahamas, mongolia, labour market, training job matching information, albania, cambodia, uzbekistan, honduras, Fiji, vietnam, india

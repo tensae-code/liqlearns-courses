@@ -1,6 +1,6 @@
 # Sources — GDP — what a country produces inside its borders
 
-countries: Ethiopia, France, Malaysia, Dominica, Cambodia, Uzbekistan, Bulgaria, Iran
+countries: Ethiopia, France, Malaysia, Dominica, Cambodia, Uzbekistan, Bulgaria, Iran, India
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -61,7 +61,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Iran part — Economics expansion — Lesson 8, data sections: countries ranked by gross domestic product (World Bank 2021 table, with a foreign-debt table beside it), and development compared through life expectancy and mean years of schooling | Iran, *Iran Grade 9 Social Studies*, Lesson 8, data sections — Iran Grade 9 Social Studies, printed p. 50 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, France, Malaysia, Dominica, Cambodia, Uzbekistan, Bulgaria, Iran).**
+**Book 11:** *Contemporary India – II — Textbook in Geography for Class X (Social Science)* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-644-6. Title as printed: Contemporary India – II — Textbook in Geography for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Ch 1 in part, Ch 4, Ch 5 in part, Ch 6, Ch 7 trade parts) read fully page-by-page; physical-geography parts named in the Contents map only. Contents map: Economics parts pp. 1–13 (in part), 34–47, 48–62 (in part), 63–78, 88–90; Geography pp. 14–33 (forest and wildlife resources; water resources) and pp. 79–87 (transport and communication networks) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 4: agriculture's contribution — its GDP share has declined since 1951 while about 52% of the workforce (2010-11) still depends on it, a dependence that makes farm stagnation a whole-economy concern — teaches: reading a sector's GDP share against its employment share | India, *India Grade 10 Contemporary India-II*, Ch 4 — printed p. 43 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, France, Malaysia, Dominica, Cambodia, Uzbekistan, Bulgaria, Iran, India).**
+
+India's own way (India Grade 10 Contemporary India-II): The Class X geography book doubles as economic geography of India — land reform and Bhoodan, manufacturing's stuck 17% GDP share, and trade read as the country's "economic barometer".
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -82,4 +90,4 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Iran's own way (Iran Grade 9 Social Studies): productivity is framed with Qur'anic and religious warrants (no extravagance, moderation, consultation) and capped by the resistance-economy doctrine; world inequality is read off Iran's own rising Human Development Index chart.
 
-Searchable tags: GDP gross domestic product, final goods, double counting, market prices, ethiopia, france, ses, insee, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, cambodia, uzbekistan, bulgaria, iran
+Searchable tags: GDP gross domestic product, final goods, double counting, market prices, ethiopia, france, ses, insee, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, cambodia, uzbekistan, bulgaria, iran, india

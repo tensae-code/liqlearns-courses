@@ -1,6 +1,6 @@
 # Sources — What a tax is
 
-countries: Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Albania, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria, Iran
+countries: Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Albania, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria, Iran, India
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -162,7 +162,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Iran part — Economics expansion — Lesson 4 "The duties of government", section "The government's revenues and spending": tax (مالیات, defined) is money that individuals and institutions pay to the government according to law, to be used in running the country; other smaller revenues come from electricity, water, gas and telephone services, fees for licences, deeds and passports, and returns on investment in big industries | Iran, *Iran Grade 8 Social Studies*, Lesson 4 "The duties of government", section "The government's revenues and spending" — Iran Grade 8 Social Studies, printed p. 22 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria, Iran). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 27:** *Social and Political Life – III — Textbook for Class VIII* (student book, English) — NCERT; year 2019 (2020-21 reprint); ISBN 978-81-7450-825-6. Title as printed: Social and Political Life – III — Textbook for Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Unit Five: Economic Presence of the Government) read fully page-by-page; Civics units named in the Contents map only. Contents map: Economics parts pp. 106–end (Unit Five: Ch 9 Public Facilities, Ch 10 Law and Social Justice); Civics pp. 4–103 (Unit One The Indian Constitution and Secularism, Unit Two Parliament and the Making of Laws, Unit Three The Judiciary, Unit Four Social Justice and the Marginalised) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 9: where the money comes from — the Union Budget accounts for spending, taxes are the government's main revenue, and facility costs are met partly from taxes and partly from a price set so most people can afford a minimum — teaches: taxation funding public spending, with the 2018-19 rupee-in/rupee-out charts | India, *India Grade 8 Social and Political Life-III*, Ch 9 — printed p. 111 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria, Iran, India). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+India's own way (India Grade 8 Social and Political Life-III): The government's economic role is taught through Chennai's water — who gets how much, who pays, and what happens when a basic need is left to profit — and through Bhopal, where cheap labour and weak safety enforcement are priced in workers' lives.
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
@@ -213,4 +221,4 @@ Iran's own way (Iran Grade 7 Social Studies): production and consumption are tau
 
 Iran's own way (Iran Grade 8 Social Studies): cooperation is taught as an economic form, not only a virtue — the cooperative company with one member one vote, and the centuries-old waqf endowment whose farm and workshop income is directed to the needy.
 
-Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas, laos, income and taxes, wages salary profit, dominican republic, ITBIS, ISR, albania, uzbekistan, egypt, Fiji, vietnam, armenia, indonesia, nepal, nicaragua, bulgaria, iran
+Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas, laos, income and taxes, wages salary profit, dominican republic, ITBIS, ISR, albania, uzbekistan, egypt, Fiji, vietnam, armenia, indonesia, nepal, nicaragua, bulgaria, iran, india

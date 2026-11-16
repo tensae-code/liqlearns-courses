@@ -1,6 +1,6 @@
 # Sources — Renewable and non-renewable resources
 
-countries: Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran
+countries: Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -169,7 +169,23 @@ Bangladesh's own way (Bangladesh Grade 6 History and Social Science): in the new
 |---|---|
 | Iran part — Economics expansion — Lessons 7–8 "Black gold" / "Let us use energy better": fossil fuels are called non-renewable (غیرقابل تجدید, defined) because extraction finishes them and they take millions of years to form; new energies (sun, wind, nuclear noted separately) never run out, and all countries now try to replace fossil fuels with them; careful use of fuel and electricity (peak hours 7–11 pm) | Iran, *Iran Grade 6 Social Studies*, Lessons 7–8 "Black gold" / "Let us use energy better" — Iran Grade 6 Social Studies, printed p. 51 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran).**
+**Book 27:** *Resources and Development — Textbook in Geography for Class VIII* (student book, English) — NCERT; year 2019 (2020-21 reprint); ISBN 978-81-7450-816-4. Title as printed: Resources and Development — Textbook in Geography for Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Ch 1 Resources, Ch 3 in part, Ch 4 Agriculture, Ch 5 Industries, Ch 6 opening) read fully page-by-page; physical-geography parts named in the Contents map only. Contents map: Economics parts pp. 1–6, 22–37 (minerals/power in part), 38–61, 62; Geography pp. 7–21 (land, soil, water, vegetation and wildlife resources) and pp. 63–71 (population distribution, density, change and composition) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 1 Resources: a thing becomes a resource through utility and value; natural resources split into renewable and non-renewable with limited stock — teaches: what makes a resource and the two great resource kinds | India, *India Grade 8 Resources and Development*, Ch 1 Resources — printed p. 1 |
+
+**Book 28:** *Contemporary India – II — Textbook in Geography for Class X (Social Science)* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-644-6. Title as printed: Contemporary India – II — Textbook in Geography for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Ch 1 in part, Ch 4, Ch 5 in part, Ch 6, Ch 7 trade parts) read fully page-by-page; physical-geography parts named in the Contents map only. Contents map: Economics parts pp. 1–13 (in part), 34–47, 48–62 (in part), 63–78, 88–90; Geography pp. 14–33 (forest and wildlife resources; water resources) and pp. 79–87 (transport and communication networks) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 1 Resources and Development: resources classified by origin (biotic/abiotic), exhaustibility (renewable/non-renewable), ownership (individual/community/national/international) and development status (potential, developed, stock, reserves) — teaches: the full resource classification | India, *India Grade 10 Contemporary India-II*, Ch 1 Resources and Development — printed p. 2 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India).**
+
+India's own way (India Grade 8 Resources and Development): Economic geography is taught through Indian anchors — a 1.5-hectare Uttar Pradesh farm set against a 250-hectare Iowa farm, Jamshedpur steel, Ahmedabad as the "Manchester of India", and cooperative dairies (Amul/AMUL pattern, Sudha) as an ownership form.
+
+India's own way (India Grade 10 Contemporary India-II): The Class X geography book doubles as economic geography of India — land reform and Bhoodan, manufacturing's stuck 17% GDP share, and trade read as the country's "economic barometer".
 
 Fiji's own way (Fiji Grade 7 Year 7 Social Science Pupil's Book): Economics widens from Fiji to the Pacific — resources are owned by tribes and clans as well as individuals, Fiji's story is told through sugar, tourism, fish, gold and bottled water exports, and work is taught through migration and remittances.
 
@@ -206,4 +222,4 @@ Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grad
 
 Iran's own way (Iran Grade 6 Social Studies): the energy chapter turns Iran's oil story into a class debate — oil is a finite natural heritage, foreign companies took the profit for a century, and the country must learn to export other goods instead of depending on oil.
 
-Searchable tags: renewable non-renewable resources, fixed stock, recycling, solar soil coal oil, ethiopia, nauru, niue, tuvalu, syria, oil, gas, phosphates, natural resources, social studies, microeconomics, uganda, natural resources of uganda, east africa resources, land water minerals, resource conservation, misuse of resources, mongolia, exhaustible non-exhaustible, gold, dominican republic, palestine, jordan, bangladesh, egypt, Fiji, bulgaria, iran
+Searchable tags: renewable non-renewable resources, fixed stock, recycling, solar soil coal oil, ethiopia, nauru, niue, tuvalu, syria, oil, gas, phosphates, natural resources, social studies, microeconomics, uganda, natural resources of uganda, east africa resources, land water minerals, resource conservation, misuse of resources, mongolia, exhaustible non-exhaustible, gold, dominican republic, palestine, jordan, bangladesh, egypt, Fiji, bulgaria, iran, india

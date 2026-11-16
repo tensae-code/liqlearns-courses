@@ -1,6 +1,6 @@
 # Sources — What GDP misses
 
-countries: Ethiopia, France, Dominica
+countries: Ethiopia, France, Dominica, India
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -33,7 +33,13 @@ Grade 11 note (placement 40): the problems-and-fixes material in the added sub l
 |---|---|
 | Dominica part — Unit 10.2: limitations of GDP per capita — teaches: GDP per head ignores the distribution of income, prices and availability of goods, rises with inflation without anyone being better off, and excludes foreign aid receipts | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 10.2: limitations of GDP per capita — printed p. 367 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, France, Dominica).**
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 2: women's household work is not paid and is not recognised in the National Income, and women's market earnings are set by education and skill — teaches: unpaid work invisible in national income (Economics expansion, 2026-11-16; stocked as a row against the book already cited in this lesson from the Geography wave) | India, *India Grade 9 Economics*, Ch 2 — printed p. 20 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, France, Dominica, India).**
+
+India's own way (India Grade 9 Economics): The whole first Economics course is built on Indian cases — a fictional UP village for production, two boys (Sakal who studies, Vilas who cannot) for human capital, Tendulkar poverty-line numbers, and the FCI/PDS machinery for food security.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -41,4 +47,4 @@ France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and
 
 Grade 12 extension added 2026-11-12 (Ethiopia Wave 4, Band E): sub lesson 6 and its questions rest on the Grade 12 student book named above.
 
-Searchable tags: GDP weaknesses, leisure, non-market production, volunteer work, environmental quality, income distribution, black market, ethiopia, france, ses, angola oil, social studies, macroeconomics, dominica, csec principles of business, caribbean
+Searchable tags: GDP weaknesses, leisure, non-market production, volunteer work, environmental quality, income distribution, black market, ethiopia, france, ses, angola oil, social studies, macroeconomics, dominica, csec principles of business, caribbean, india

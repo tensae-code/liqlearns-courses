@@ -15,7 +15,13 @@ countries: India, Sri Lanka
 | Sri Lanka part — Chapter 7: the iron and steel industry (Britain and Japan) (placement slug: culture-and-work/iron-and-steel-industry — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil SB*, Chapter 7: the iron and steel industry (Britain and Japan) — printed p. 55 |
 | Sri Lanka part — Unit 10.7: iron and steel, with world distribution maps (teacher guide — evidence) (placement slug: culture-and-work/iron-and-steel-industry — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil TG* (teacher guide), Unit 10.7: iron and steel, with world distribution maps — printed p. 208 |
 
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 5: iron and steel as the backbone feeder industry; Jamshedpur (TISCO, 1907) chosen for ore, coal, water, rail and the Kolkata market, with Pittsburgh as the US comparison — teaches: a steel city's location advantages (Economics expansion, 2026-11-16; stocked as a row against the book already cited in this lesson from the Geography wave) | India, *India Grade 8 Resources and Development*, Ch 5 — printed p. 54 |
+
 **Acceptance count: taught in 2 countries (India, Sri Lanka).**
+
+India's own way (India Grade 8 Resources and Development): Economic geography is taught through Indian anchors — a 1.5-hectare Uttar Pradesh farm set against a 250-hectare Iowa farm, Jamshedpur steel, Ahmedabad as the "Manchester of India", and cooperative dairies (Amul/AMUL pattern, Sudha) as an ownership form.
 
 India's own way (Grade 8 Resources and Development): Grade 8 is a resources year, world-first but India-anchored throughout: resources and their conservation, then land/soil/water/vegetation, minerals and power, agriculture, industries and human resources — every world pattern is paired with its Indian distribution map and an Indian case study (Jamshedpur steel, Ahmedabad textiles, Bangalore IT, a farm in India set against a farm in the USA).
 

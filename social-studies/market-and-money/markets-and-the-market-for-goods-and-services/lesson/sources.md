@@ -1,6 +1,6 @@
 # Sources — Markets — and the market for goods and services
 
-countries: Ethiopia, Guatemala, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia, Nepal, Bulgaria, Iran, Iraq
+countries: Ethiopia, Guatemala, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia, Nepal, Bulgaria, Iran, Iraq, India
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -120,7 +120,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Iraq part — The market: concept, pillars and kinds — teaches: the market's modern meaning — the mechanism joining sellers and buyers directly or indirectly (a phone order, internet buying with electronic payment) — its pillars (sellers, buyers, means of contact), its jobs (supplying goods, setting values by supply and demand, organising distribution), and its geographic kinds: local (Baghdad's small souks), national (Jamila and Shorja), regional (Dubai's gem market) and international (world oil and metals markets) (Economics expansion, 2026-11-16; original placement slug: microeconomics/what-is-a-market — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 11 Economics*, The market: concept, pillars and kinds — printed p. 62 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia, Nepal, Bulgaria, Iran, Iraq). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+**Book 19:** *Social and Political Life – II — Textbook for Class VII* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-672-1. Title as printed: Social and Political Life – II — Textbook for Class VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Unit Five: Markets) read fully page-by-page; Civics units named in the Contents map only. Contents map: Economics parts pp. 82–101 (Unit Five Markets: Ch 7 Markets Around Us, Ch 8 A Shirt in the Market); Civics pp. 4–79 and 102–109 (Unit One Equality in Indian Democracy, Unit Two State Government, Unit Three Gender, Unit Four Media, Ch 9 Struggles for Equality) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 7 Markets Around Us: weekly markets, neighbourhood shops, shopping complexes and malls as the places buying and selling happen — teaches: the kinds of markets in everyday life | India, *India Grade 7 Social and Political Life-II*, Ch 7 Markets Around Us — printed p. 82 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia, Nepal, Bulgaria, Iran, Iraq, India). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+
+India's own way (India Grade 7 Social and Political Life-II): Markets are taught as a chain you can walk — from a cotton farmer tied to a trader's loan, through ginning, spinning, putting-out weavers and an export factory, to a $26 shirt in a US store, with the money split counted at every step.
 
 Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
 
@@ -153,4 +161,4 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Iran's own way (Iran Grade 7 Social Studies): production and consumption are taught with Iranian anchors throughout — the historic bazaar as market and social centre, compulsory third-party car insurance, and the Silk Road crossing Iran as a bridge between East and West.
 
-Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit, rwanda, palestine, cambodia, bangladesh, yemen, vietnam, armenia, nepal, bulgaria, iran, iraq
+Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit, rwanda, palestine, cambodia, bangladesh, yemen, vietnam, armenia, nepal, bulgaria, iran, iraq, india

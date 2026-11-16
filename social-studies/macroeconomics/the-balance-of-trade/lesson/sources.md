@@ -1,6 +1,6 @@
 # Sources — The balance of trade
 
-countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran, Iraq
+countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran, Iraq, India
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -79,7 +79,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Iraq part — Trade and the Arab world's foreign trade — teaches: the Arabs' historical land and sea trade skill, then foreign trade defined as exchanging goods and services between states, set against local/domestic trade | Iraq, *Iraq Grade 8 Social Studies*, Trade and the Arab world's foreign trade — printed p. 61 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran, Iraq). Honduras's Grade 5 teacher guide is cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for that guide.**
+**Book 14:** *Contemporary India – II — Textbook in Geography for Class X (Social Science)* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-644-6. Title as printed: Contemporary India – II — Textbook in Geography for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Ch 1 in part, Ch 4, Ch 5 in part, Ch 6, Ch 7 trade parts) read fully page-by-page; physical-geography parts named in the Contents map only. Contents map: Economics parts pp. 1–13 (in part), 34–47, 48–62 (in part), 63–78, 88–90; Geography pp. 14–33 (forest and wildlife resources; water resources) and pp. 79–87 (transport and communication networks) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 7 Lifelines of National Economy: trade and international trade; the balance of trade as exports minus imports, favourable and unfavourable; trade as a country's economic barometer; India's main exports and imports and large foreign-exchange earnings from IT exports — teaches: the balance of trade | India, *India Grade 10 Contemporary India-II*, Ch 7 Lifelines of National Economy — printed p. 88 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran, Iraq, India). Honduras's Grade 5 teacher guide is cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for that guide.**
+
+India's own way (India Grade 10 Contemporary India-II): The Class X geography book doubles as economic geography of India — land reform and Bhoodan, manufacturing's stuck 17% GDP share, and trade read as the country's "economic barometer".
 
 Iraq's own way (Iraq Grade 8 Social Studies): Grade 8 teaches the Arab world as one economic space — its crops, animals, oil and minerals, the conditions that make industry succeed, and its trade, foreign and domestic — after a first term spent on the same resources governorate by governorate at home.
 
@@ -107,4 +115,4 @@ Honduras's own way (Honduras Grade 5 G5 Teacher CCSS) (teacher guide — evidenc
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: the balance of trade, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, dominican republic, jordan, uzbekistan, honduras, nepal, nicaragua, iran, iraq
+Searchable tags: the balance of trade, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, dominican republic, jordan, uzbekistan, honduras, nepal, nicaragua, iran, iraq, india

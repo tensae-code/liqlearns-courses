@@ -148,7 +148,15 @@ Rwanda's own way (Rwanda Grade 6): P6 scales the P5 family budget up to the stat
 |---|---|
 | Iraq part — Sustainable development (in the values unit) — teaches: Iraq holds many natural resources and economic riches that are a rightful share to be preserved — the sustainable-development idea inside the national-values unit | Iraq, *Iraq Grade 9 Social Studies*, Sustainable development (in the values unit) — printed p. 152 |
 
+**Book 41:** *Contemporary India – II — Textbook in Geography for Class X (Social Science)* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-644-6. Title as printed: Contemporary India – II — Textbook in Geography for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Ch 1 in part, Ch 4, Ch 5 in part, Ch 6, Ch 7 trade parts) read fully page-by-page; physical-geography parts named in the Contents map only. Contents map: Economics parts pp. 1–13 (in part), 34–47, 48–62 (in part), 63–78, 88–90; Geography pp. 14–33 (forest and wildlife resources; water resources) and pp. 79–87 (transport and communication networks) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 1: indiscriminate exploitation caused depletion and ecological crisis, so resource planning at every level and sustainable development (Rio Earth Summit 1992, Agenda 21) are essential — teaches: planning resources for sustainable existence | India, *India Grade 10 Contemporary India-II*, Ch 1 — printed p. 4 |
+
 **Acceptance count: taught in 21 countries (Ethiopia, Niue, Costa Rica, Bolivia, Bangladesh, India, Rwanda, Slovenia, Uganda, Sudan, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan, Armenia, South Sudan, Kuwait). Guatemala is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Sri Lanka is named here as teacher-guide evidence only, counted nowhere. Cuba is named here as teacher-guide evidence only, counted nowhere.** Jordan was already counted in this lesson from the earlier waves; the Economics-expansion rows are stocked as depth for the same country, so the count does not rise.
+
+India's own way (India Grade 10 Contemporary India-II): The Class X geography book doubles as economic geography of India — land reform and Bhoodan, manufacturing's stuck 17% GDP share, and trade read as the country's "economic barometer".
 
 Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 turns the governorate survey into one national economy — farming, animals, oil and minerals, factories, transport, trade and tourism of Iraq as a single system, with livestock and oil both named as sources of the national income.
 
@@ -174,7 +182,7 @@ Jordan's own way — Economics expansion (Jordan Grade 7 Term 1): Trade is taugh
 
 Jordan's own way — Economics expansion (Jordan Grade 8 Term 1): Development is taught head-on — growth against development, Malthus against the food supply, and the labour force counted the Jordanian way (everyone aged 15–65 able to work), before the sustainable-development goals close the unit.
 
-Searchable tags: sustainable development, life-support processes, genetic diversity, ethiopia, social studies, resources and conflict, Niue, People and the Natural Environment in the Pacific, Guatemala, Costa Rica, CONED Antología, Estudios Sociales, Jamaica, curriculum guide evidence, Bolivia, Ciencias Sociales Bolivia, rwanda, jordan, armenia, iraq
+Searchable tags: sustainable development, life-support processes, genetic diversity, ethiopia, social studies, resources and conflict, Niue, People and the Natural Environment in the Pacific, Guatemala, Costa Rica, CONED Antología, Estudios Sociales, Jamaica, curriculum guide evidence, Bolivia, Ciencias Sociales Bolivia, rwanda, jordan, armenia, iraq, india
 
 Bangladesh's own way (Grade 7): Geography thins into economic history and a long Sustainable Development inquiry: pupils build a delta in a sand tray, trace the rivers that enter Bangladesh from other countries, map the country's new maritime boundary and its minerals, and audit groundwater and fossil fuels — the delta and the sea are the classroom.
 

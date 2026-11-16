@@ -1,6 +1,6 @@
 # Sources — Caring for resources — reduce, reuse, recycle
 
-countries: Ethiopia, Zambia, Bahamas, Jordan, Fiji, Bulgaria, Iran
+countries: Ethiopia, Zambia, Bahamas, Jordan, Fiji, Bulgaria, Iran, India
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -73,7 +73,15 @@ countries: Ethiopia, Zambia, Bahamas, Jordan, Fiji, Bulgaria, Iran
 |---|---|
 | Iran part — Economics expansion — Lessons 12–13 "Consume correctly" / "Recycling": thrift and reuse (a pencil case from a tin, a notebook from old exercise-book pages, re-wearing last year's uniform), and recycling defined — making new things from used materials (glass/plastic/metal melted down, waste paper pulped into paper), sorting waste at home and school so resources are preserved | Iran, *Iran Grade 3 Social Studies*, Lessons 12–13 "Consume correctly" / "Recycling" — Iran Grade 3 Social Studies, printed p. 44 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bahamas, Jordan, Fiji, Bulgaria, Iran). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 12:** *Resources and Development — Textbook in Geography for Class VIII* (student book, English) — NCERT; year 2019 (2020-21 reprint); ISBN 978-81-7450-816-4. Title as printed: Resources and Development — Textbook in Geography for Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title). Verdict: COMPLETE — Economics parts (Ch 1 Resources, Ch 3 in part, Ch 4 Agriculture, Ch 5 Industries, Ch 6 opening) read fully page-by-page; physical-geography parts named in the Contents map only. Contents map: Economics parts pp. 1–6, 22–37 (minerals/power in part), 38–61, 62; Geography pp. 7–21 (land, soil, water, vegetation and wildlife resources) and pp. 63–71 (population distribution, density, change and composition) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 1: resource conservation and sustainable development — using resources carefully, reducing consumption, recycling and reusing, with principles of sustainable development — teaches: conserving resources for future generations | India, *India Grade 8 Resources and Development*, Ch 1 — printed p. 4 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Bahamas, Jordan, Fiji, Bulgaria, Iran, India). Zambia is teacher-module evidence only — named here, counted nowhere.**
+
+India's own way (India Grade 8 Resources and Development): Economic geography is taught through Indian anchors — a 1.5-hectare Uttar Pradesh farm set against a 250-hectare Iowa farm, Jamshedpur steel, Ahmedabad as the "Manchester of India", and cooperative dairies (Amul/AMUL pattern, Sudha) as an ownership form.
 
 Fiji's own way (Fiji Grade 4 Social Studies Year 4): The strand named Resources and Economic Activities is taught as caring for village resources — water, forest and energy — rather than as markets or money; the People Who Help Us section (p. 60) is picture activity only and is not placed.
 
@@ -98,4 +106,4 @@ Bulgaria's own way (Bulgaria Grade 10 Geography and Economics): at Grade 10 the 
 
 Iran's own way (Iran Grade 3 Social Studies): Economics enters at Grade 3 through the family — needs, income, natural resources and careful consumption, with wastefulness (اسراف) framed as a religious as well as practical fault.
 
-Searchable tags: conservation pollution, reduce reuse recycle, waste, ethiopia, zambia, natural resource management, tree planting, teacher module evidence, social studies, microeconomics, bahamas, jordan, Fiji, bulgaria, iran
+Searchable tags: conservation pollution, reduce reuse recycle, waste, ethiopia, zambia, natural resource management, tree planting, teacher module evidence, social studies, microeconomics, bahamas, jordan, Fiji, bulgaria, iran, india

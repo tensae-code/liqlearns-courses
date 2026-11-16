@@ -1,6 +1,6 @@
 # Sources — Types of unemployment
 
-countries: Ethiopia, Mongolia, Albania, Uzbekistan, Fiji, Armenia, Indonesia, Iran
+countries: Ethiopia, Mongolia, Albania, Uzbekistan, Fiji, Armenia, Indonesia, Iran, India
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -60,7 +60,13 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Iran part — Economics expansion — Lesson 8 "Recession, unemployment and poverty", section "The rise and fall of jobs": technology destroys some jobs (the travelling quilt-maker) and creates others (bedding factories), so job loss is a repeating pattern in an economy | Iran, *Iran Grade 10 Economics*, Lesson 8 "Recession, unemployment and poverty", section "The rise and fall of jobs" — Iran Grade 10 Economics, printed p. 82 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Mongolia, Uzbekistan, Fiji, Armenia, Indonesia, Iran). Albania is teacher-guide evidence only — named here, counted nowhere.**
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 2: unemployment defined (willing to work at going wages, no job; workforce aged 15–59), then India's kinds — seasonal and disguised unemployment in villages, educated unemployment in towns — teaches: kinds of unemployment (Economics expansion, 2026-11-16; stocked as a row against the book already cited in this lesson from the Geography wave) | India, *India Grade 9 Economics*, Ch 2 — printed p. 24 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Mongolia, Uzbekistan, Fiji, Armenia, Indonesia, Iran, India). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+India's own way (India Grade 9 Economics): The whole first Economics course is built on Indian cases — a fictional UP village for production, two boys (Sakal who studies, Vilas who cannot) for human capital, Tendulkar poverty-line numbers, and the FCI/PDS machinery for food security.
 
 Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupiah with Indonesian provincial data; cooperatives taught as the “soko guru” (main pillar) of the Indonesian economy with SHU surplus-sharing calculations; the state/regional/private ownership ladder (BUMN–BUMD–BUMS) as the map of who owns the economy.
 
@@ -78,4 +84,4 @@ Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is tau
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: types of unemployment, grade 12 economics, ethiopia, social studies, macroeconomics, mongolia, reducing unemployment, forms of employment, choosing a profession, albania, uzbekistan, Fiji, armenia, indonesia, iran
+Searchable tags: types of unemployment, grade 12 economics, ethiopia, social studies, macroeconomics, mongolia, reducing unemployment, forms of employment, choosing a profession, albania, uzbekistan, Fiji, armenia, indonesia, iran, india

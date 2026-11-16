@@ -1,6 +1,6 @@
 # Sources — The Human Development Index
 
-countries: Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua, Iran, Iraq
+countries: Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua, Iran, Iraq, India
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -79,7 +79,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Iraq part — Human development: criteria and values — teaches: the 1990s concept under the slogan "development: expanding people's choices", measured by three criteria — per-capita income, life expectancy at birth and educational level — building human capital through education, training and health, with core values: the ability to live, self-esteem, freedom of choice and sustainability (Economics expansion, 2026-11-16; original placement slug: macroeconomics/human-development — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 12 Economics*, Human development: criteria and values — printed p. 88 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua, Iran, Iraq).**
+**Book 13:** *Understanding Economic Development — Social Science Textbook for Class X* (student book, English) — NCERT; year 2007 (2020-21 reprint); ISBN 81-7450-655-1. Title as printed: Understanding Economic Development — Social Science Textbook for Class X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE — pure Economics book read fully page-by-page to the last teaching page. Contents map: Economics parts pp. 2–89 (Ch 1 Development; Ch 2 Sectors of the Indian Economy; Ch 3 Money and Credit; Ch 4 Globalisation and the Indian Economy; Ch 5 Consumer Rights) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — Ch 1: beyond income — comparing states and neighbours on infant mortality, literacy and life expectancy (Kerala ahead of Haryana, Sri Lanka ahead of India), and the UNDP Human Development Index — teaches: measuring development by people's health and education | India, *India Grade 10 Understanding Economic Development*, Ch 1 — printed p. 13 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua, Iran, Iraq, India).**
+
+India's own way (India Grade 10 Understanding Economic Development): Development economics taught entirely on Indian data and institutions — per-capita and HDI comparisons with Sri Lanka and Kerala against Haryana, MGNREGA, Sonpur village credit, SEZs, and COPRA consumer courts.
 
 Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
 
@@ -103,4 +111,4 @@ No matching teacher guide exists in this band: the book recorded as this text's 
 
 Iran's own way (Iran Grade 9 Social Studies): productivity is framed with Qur'anic and religious warrants (no extravagance, moderation, consultation) and capped by the resistance-economy doctrine; world inequality is read off Iran's own rising Human Development Index chart.
 
-Searchable tags: the human development index, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, dominica, csec principles of business, caribbean, uzbekistan, vietnam, armenia, nepal, nicaragua, iran, iraq
+Searchable tags: the human development index, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, dominica, csec principles of business, caribbean, uzbekistan, vietnam, armenia, nepal, nicaragua, iran, iraq, india
