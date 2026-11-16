@@ -1,6 +1,6 @@
 # Sources — Production — turning inputs into outputs
 
-countries: Ethiopia, Syria, France, Bahamas, Zimbabwe, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia
+countries: Ethiopia, Syria, France, Bahamas, Zimbabwe, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -101,7 +101,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Armenia part — Economics expansion — 7.1 Production, distribution, exchange and consumption: the economy as four linked processes, production using natural resources, labour, tools and premises | Armenia, *Armenia Grade 7 Social Science student*, 7.1 Production, distribution, exchange and consumption — printed p. 108 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Syria, France, Bahamas, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 17:** *Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (title page verified against the record title; 106,780,055 bytes via release asset, matching the books.json record size exactly). Verdict: COMPLETE. Contents map: Geography Units I–VI printed pp. 2–155 (Nicaragua in the world, relief, climate and resources, population and culture, economic sectors in Unit V printed pp. 110–135, vulnerability Unit VI); Economics Units VII–XII printed pp. 156–291 (the book's second half is a full basic-Economics course on Nicaragua); glossary at the end (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — El proceso productivo / Producción, intercambio, distribución y consumo — teaches: the productive process and its phases — production (coordinated work transforming inputs with instruments), then exchange, distribution and finally consumption, followed with a cheese-making example | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, El proceso productivo / Producción, intercambio, distribución y consumo — printed pp. 176–179 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Syria, France, Bahamas, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia, Nicaragua). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
 Armenia's own way (Armenia Grade 7 Social Science student): Economics enters in Grade 7 as one chapter of Social Science, built around the learner's own future profession, household money in dram, and a worked personal budget from Abovyan; scarcity is also presented critically, as partly created by market arrangements.
 
@@ -130,4 +138,4 @@ Jordan's own way (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family 
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: production inputs outputs, tangible intangible, wheat example, ethiopia, syria, made in syria, bread, raw materials, france, ses, market non-market production, social studies, microeconomics, bahamas, zimbabwe, teacher guide evidence, jordan, cambodia, bangladesh, Fiji, vietnam, armenia
+Searchable tags: production inputs outputs, tangible intangible, wheat example, ethiopia, syria, made in syria, bread, raw materials, france, ses, market non-market production, social studies, microeconomics, bahamas, zimbabwe, teacher guide evidence, jordan, cambodia, bangladesh, Fiji, vietnam, armenia, nicaragua

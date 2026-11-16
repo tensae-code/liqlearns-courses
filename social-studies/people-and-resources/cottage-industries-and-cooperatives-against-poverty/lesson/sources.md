@@ -1,6 +1,6 @@
 # Sources — Cottage industries and cooperatives against poverty
 
-countries: Ethiopia, Zimbabwe
+countries: Ethiopia, Zimbabwe, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -15,11 +15,19 @@ countries: Ethiopia, Zimbabwe
 |---|---|
 | Zimbabwe part — Unit 12: Enterprise skills/self-reliance and employment creation: cooperatives and income-generating projects help reduce poverty and create sustainable livelihoods, with worked examples (a clothing-production cooperative, market gardening, bakery, poultry) (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 7 Teacher's Guide*, Unit 12: Enterprise skills/self-reliance and employment creation — printed pp. 26–27 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 3:** *Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (title page verified against the record title; 106,780,055 bytes via release asset, matching the books.json record size exactly). Verdict: COMPLETE. Contents map: Geography Units I–VI printed pp. 2–155 (Nicaragua in the world, relief, climate and resources, population and culture, economic sectors in Unit V printed pp. 110–135, vulnerability Unit VI); Economics Units VII–XII printed pp. 156–291 (the book's second half is a full basic-Economics course on Nicaragua); glossary at the end (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Las cooperativas: importancia, beneficios, ventajas y desventajas — teaches: cooperatives from Sandino's 1932 Río Coco project through the 1971 General Cooperatives Law to today — 3,314 cooperatives, 71% agricultural, the most in Central America, overseen with the MEFCCA family, community, cooperative and associative economy ministry | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Las cooperativas: importancia, beneficios, ventajas y desventajas — printed pp. 184–193 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Nicaragua). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
 Zimbabwe's own way (PlusOne Social Science Grade 7 Teacher's Guide) (teacher guide — evidence): Grade 7 teaches the country's own economic story outright — land reform as redistribution for economic empowerment, human capital built through VTCs and colleges, self-reliance through cooperatives and vending, and tourism counted in foreign currency and jobs — and its financial-literacy unit reaches gross and net profit and the profit-and-loss account.
 
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: cottage industries and cooperatives against poverty, grade 12 economics, ethiopia, social studies, people and resources, zimbabwe, teacher guide evidence
+Searchable tags: cottage industries and cooperatives against poverty, grade 12 economics, ethiopia, social studies, people and resources, zimbabwe, teacher guide evidence, nicaragua

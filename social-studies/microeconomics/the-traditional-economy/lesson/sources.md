@@ -1,6 +1,6 @@
 # Sources — The traditional economy
 
-countries: Ethiopia, Nauru, Niue, Tuvalu, Eritrea, Venezuela, Dominica
+countries: Ethiopia, Nauru, Niue, Tuvalu, Eritrea, Venezuela, Dominica, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -64,7 +64,15 @@ Eritrea's own way (Eritrea Grade 7 Social Studies 7): Economics is taught as the
 |---|---|
 | Dominica part — Unit 1.2 Types of Business Organisations and Economic Systems: types of economic system — teaches: the traditional economic system of subsistence production, where families or communities produce what they need with the tools and resources at hand | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 1.2 Types of Business Organisations and Economic Systems: types of economic system — printed p. 31 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Nauru, Niue, Tuvalu, Eritrea, Venezuela, Dominica).**
+**Book 11:** *Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (title page verified against the record title; 106,780,055 bytes via release asset, matching the books.json record size exactly). Verdict: COMPLETE. Contents map: Geography Units I–VI printed pp. 2–155 (Nicaragua in the world, relief, climate and resources, population and culture, economic sectors in Unit V printed pp. 110–135, vulnerability Unit VI); Economics Units VII–XII printed pp. 156–291 (the book's second half is a full basic-Economics course on Nicaragua); glossary at the end (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Formaciones socioeconómicas: la comunidad primitiva, el esclavismo y el feudalismo — teaches: the first socioeconomic formations in sequence — primitive community, slavery and feudalism — as the historical forms of organising production before capitalism | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Formaciones socioeconómicas: la comunidad primitiva, el esclavismo y el feudalismo — printed pp. 163–169 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Nauru, Niue, Tuvalu, Eritrea, Venezuela, Dominica, Nicaragua).**
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -72,4 +80,4 @@ Venezuela's own way (Venezuela Grade 4 Venezuela G4 Social Sciences SB Spanish):
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: traditional economy, custom elders, family tribe, barter surplus, ethiopia, nauru, niue, tuvalu, eritrea, primitive communal society, surplus, private property, first classes, pacific exchange community, subsistence, shifting cultivation, social studies, microeconomics, venezuela, dominica, csec principles of business, caribbean
+Searchable tags: traditional economy, custom elders, family tribe, barter surplus, ethiopia, nauru, niue, tuvalu, eritrea, primitive communal society, surplus, private property, first classes, pacific exchange community, subsistence, shifting cultivation, social studies, microeconomics, venezuela, dominica, csec principles of business, caribbean, nicaragua

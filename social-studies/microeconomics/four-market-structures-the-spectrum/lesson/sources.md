@@ -1,6 +1,6 @@
 # Sources — Four market structures — the spectrum
 
-countries: Ethiopia, Kazakhstan, Cambodia, Yemen
+countries: Ethiopia, Kazakhstan, Cambodia, Yemen, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -36,7 +36,15 @@ countries: Ethiopia, Kazakhstan, Cambodia, Yemen
 |---|---|
 | Yemen part — Unit 4 L1 The market §types of market — teaches: markets grouped by the power of sellers and buyers: full competition versus monopoly forms | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 4 L1 The market §types of market — printed p. 38 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Kazakhstan, Cambodia, Yemen).**
+**Book 6:** *Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (title page verified against the record title; 106,780,055 bytes via release asset, matching the books.json record size exactly). Verdict: COMPLETE. Contents map: Geography Units I–VI printed pp. 2–155 (Nicaragua in the world, relief, climate and resources, population and culture, economic sectors in Unit V printed pp. 110–135, vulnerability Unit VI); Economics Units VII–XII printed pp. 156–291 (the book's second half is a full basic-Economics course on Nicaragua); glossary at the end (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Tipos de mercados — teaches: markets classified (goods, services, real, financial — including the parallel or black market) and then by competition: perfect competition with its equilibrium price and full mobility, against imperfect competition | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Tipos de mercados — printed pp. 206–208 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Kazakhstan, Cambodia, Yemen, Nicaragua).**
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
 Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
@@ -46,4 +54,4 @@ Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same nationa
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: market structures spectrum, perfect competition, monopolistic competition, oligopoly, pure monopoly, number of firms product type information, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, cambodia, yemen
+Searchable tags: market structures spectrum, perfect competition, monopolistic competition, oligopoly, pure monopoly, number of firms product type information, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, cambodia, yemen, nicaragua

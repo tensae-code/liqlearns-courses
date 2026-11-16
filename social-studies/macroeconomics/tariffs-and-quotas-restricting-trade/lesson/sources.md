@@ -1,6 +1,6 @@
 # Sources — Tariffs and quotas — restricting trade
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras, Fiji, Indonesia
+countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -52,7 +52,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Indonesia part — Bab 2 D. Kebijakan Perdagangan Internasional — teaches: protection policy — tariffs, quotas, export bans and subsidies — with a pro/contra debate on protection | Indonesia, *Indonesia Grade 12 Ekonomi*, Bab 2 D. Kebijakan Perdagangan Internasional — printed p. 54 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Indonesia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 9:** *Módulo Autoformativo de Ciencias Sociales — Geografía, 9o Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — MINED, República de Nicaragua (PROSEN, EU-supported); Primera Edición 2017; no ISBN printed. Title as printed: Módulo Autoformativo de Ciencias Sociales — Geografía, 9o Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 300 (title/credits pages verified against the record title; 124,224,476 bytes via release asset). Verdict: COMPLETE. Contents map: Geography Unit 1 printed pp. 2–46 (continents, cartography, political organisation); Geography Unit 2 printed pp. 47–125 (continental landscapes, climate, hydrography); population Unit 3 printed pp. 126–205; Economics Unit 4 "¿Cuánto producimos y cuánto consumimos?" printed pp. 206–247; Environment/risk Unit 5 printed pp. 248–end. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Globalización e Integración Económica — teaches: protectionist measures surviving inside globalisation — tariffs, taxes and fees raising the price of foreign products, so a single world market is still far away; with the Uruguay Round replacing the GATT by the WTO in 1995 | Nicaragua, *Nicaragua Grade 9 Geografía 9° Grado*, Globalización e Integración Económica — printed p. 229 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nicaragua's own way (Nicaragua Grade 9 Geografía 9° Grado): the distance-education twin of the Grade 9 world-economy unit, organised around technology as the difference between continents — US centre-pivot irrigation against Latin America's rain-fed traditional farming — and closing with the integration stages ladder and the international bodies (down to FAO's Nicaragua country programme) that soften globalisation's impact.
 
 Indonesia's own way (Indonesia Grade 12 Ekonomi): growth measured on Indonesia's own PDB series; trade taught through Indonesia's nickel-export case; budgets are Indonesia's real APBN/APBD with village funds (Dana Desa) as the regional-budget story.
 
@@ -66,4 +74,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from family to country — occupations and production for the whole nation, social classes by income, the production-distribution-exchange-consumption chain, and exports/imports through customs with the arancel explained.
 
-Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, indonesia
+Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, indonesia, nicaragua

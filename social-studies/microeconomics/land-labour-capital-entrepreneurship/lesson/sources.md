@@ -1,6 +1,6 @@
 # Sources — Land, labour, capital, entrepreneurship — and what each is paid
 
-countries: Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Albania, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia
+countries: Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Albania, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -96,7 +96,15 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Armenia part — Economics expansion — 3.1 Economic resources and factors of production: factors of production and goods defined; land, capital and entrepreneurship as factors, entrepreneurship as organising production and taking risks | Armenia, *Armenia Grade 10 Social Science student*, 3.1 Economic resources and factors of production — printed p. 54 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 16:** *Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (title page verified against the record title; 106,780,055 bytes via release asset, matching the books.json record size exactly). Verdict: COMPLETE. Contents map: Geography Units I–VI printed pp. 2–155 (Nicaragua in the world, relief, climate and resources, population and culture, economic sectors in Unit V printed pp. 110–135, vulnerability Unit VI); Economics Units VII–XII printed pp. 156–291 (the book's second half is a full basic-Economics course on Nicaragua); glossary at the end (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Factores del proceso productivo — teaches: the factors of production — natural inputs (land, water, minerals), the labour force (its characteristics and what its yield depends on) and capital goods (machinery, instruments, installations, equipment) | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Factores del proceso productivo — printed pp. 180–182 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
 Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
@@ -122,4 +130,4 @@ Jordan's own way (Jordan Grade 7 Term 1): Trade is taught from Aqaba port and th
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: factors of production, land labour capital entrepreneurship, rent wages interest profit, ethiopia, saudi arabia, resources human natural capital, oil minerals water, france, ses, productive combination, social studies, microeconomics, laos, resources of doing business, economic resources, human resources, time, kazakhstan, tenge, entrepreneurship and business basics, albania, dominica, csec principles of business, caribbean, jordan, bangladesh, egypt, yemen, armenia
+Searchable tags: factors of production, land labour capital entrepreneurship, rent wages interest profit, ethiopia, saudi arabia, resources human natural capital, oil minerals water, france, ses, productive combination, social studies, microeconomics, laos, resources of doing business, economic resources, human resources, time, kazakhstan, tenge, entrepreneurship and business basics, albania, dominica, csec principles of business, caribbean, jordan, bangladesh, egypt, yemen, armenia, nicaragua

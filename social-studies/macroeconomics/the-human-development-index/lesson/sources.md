@@ -1,6 +1,6 @@
 # Sources — The Human Development Index
 
-countries: Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal
+countries: Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -61,7 +61,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nepal part — Unit 10 Lesson 6 "Arthik Briddhi, Manav Bikash tatha Digo Bikash Awadharana (Concepts of Economic Growth, Human Development and Sustainable Development)", growth and human development — teaches: economic growth defined as increase in size or quantity, measured by real national income at constant prices over the long term, and named only a part of development; Nepal's growth rates tabled for four recent years, turning negative in the COVID year; then human development in the UNDP's sense — the expansion of people's choices — with the Human Development Index built from income for a decent living, education and life expectancy, its four bands, and Nepal's place in them (0.602, medium human development, as printed) | Nepal, *Nepal Grade 12 Social Studies & Life Skills*, Unit 10 Lesson 6 "Arthik Briddhi, Manav Bikash tatha Digo Bikash Awadharana (Concepts of Economic Growth, Human Development and Sustainable Development)", growth and human development — printed p. 325 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal).**
+**Book 10:** *Ciencias Sociales, Educación Secundaria, 8 Grado (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 8 Grado (Serie Educativa, MINED). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 240 (title page verified against the record title; 130,029,408 bytes via release asset). Verdict: COMPLETE. Contents map: Geography Units I–II printed pp. 1–56; population/culture Unit III printed pp. 57–78; Economics Unit IV "Espacio y Economía" printed pp. 79–106; Environment Unit V printed pp. 107–124; History Units VI–X printed pp. 125–end (origins, European arrival, emancipation, 19th-century changes, 20th century — named here, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Desarrollo sostenible, perdurable o sustentable — teaches: sustainable development reconciling economy, society and environment, and the UNDP's human development concept — a long healthy life, knowledge and a decent standard of living — against measuring progress by GDP per capita alone | Nicaragua, *Nicaragua Grade 8 Estudios Sociales 8*, Desarrollo sostenible, perdurable o sustentable — printed pp. 104–105 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua).**
+
+Nicaragua's own way (Nicaragua Grade 8 Estudios Sociales 8): the same "Space and Economy" unit as the distance-education module, but fuller — after the sectors and the continent's three regional economies, Nicaragua's own economy is toured sector by sector (agroindustry, commerce, fishing, tourism, telecoms, mining, energy, free zones, organic production, forestry, and the MIPYMEs that are over 90% of its firms), and human development is set against GDP per capita.
 
 Nepal's own way (Nepal Grade 12 Social Studies & Life Skills): Grade 12 economics is the development unit with real tables — sector shares of GDP, the trade growth and direction tables, Nepal's growth rates through the COVID year, the HDI bands, and Nurkse's vicious circle drawn as two loops, supply side and demand side.
 
@@ -79,4 +87,4 @@ Venezuela's own way (Venezuela Grade 11 Venezuela G11 Geografía de Venezuela SB
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: the human development index, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, dominica, csec principles of business, caribbean, uzbekistan, vietnam, armenia, nepal
+Searchable tags: the human development index, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, dominica, csec principles of business, caribbean, uzbekistan, vietnam, armenia, nepal, nicaragua

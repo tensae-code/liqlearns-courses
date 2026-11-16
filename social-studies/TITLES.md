@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **618**
+Economics lessons across the Economics titles: **628**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4522,5 +4522,15 @@ entrepreneurship, Tax revenue and non-tax
 revenue, Periodic plans and development targets,
 Three economic systems — capitalist, socialist,
 mixed, The vicious circle of poverty — Nurkse
-and Business tax and PAN in Nepal).
+and Business tax and PAN in Nepal;
++10 for Nicaragua, 2026-11-16 — Macroeconomics:
+Credit and investment policy, Free-trade treaties
+in the Americas, The informal economy and types
+of employment, Nicaragua's trade agreements,
+Nicaragua's economy — sectors and trade,
+Nicaragua's industry and tourism and The IMF, the
+World Bank and the regional development banks;
+Microeconomics: Efficacy and efficiency in
+production, Setting the price of a product and
+The price as regulator of the economy).
 

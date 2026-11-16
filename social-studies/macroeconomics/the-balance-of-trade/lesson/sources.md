@@ -1,6 +1,6 @@
 # Sources — The balance of trade
 
-countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal
+countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -61,7 +61,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nepal part — Unit 10 Lesson 4 "Nepalko Baideshik Byapar (Nepal's Foreign Trade)" — teaches: the balance of trade worked out formally — exports equal to imports is a balanced trade balance, exports greater a favourable one, exports less an unfavourable one — and the balance of payments distinguished from it as the balance of visible and invisible goods and services together; exports entered as credit and imports as debit, imports valued CIF and exports FOB; with comparative advantage shown in Nepal's own case (agricultural goods out to the Gulf, oil in, each side producing where its cost advantage lies) | Nepal, *Nepal Grade 12 Social Studies & Life Skills*, Unit 10 Lesson 4 "Nepalko Baideshik Byapar (Nepal's Foreign Trade)" — printed p. 317 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal). Honduras's Grade 5 teacher guide is cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for that guide.**
+**Book 11:** *Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (title page verified against the record title; 106,780,055 bytes via release asset, matching the books.json record size exactly). Verdict: COMPLETE. Contents map: Geography Units I–VI printed pp. 2–155 (Nicaragua in the world, relief, climate and resources, population and culture, economic sectors in Unit V printed pp. 110–135, vulnerability Unit VI); Economics Units VII–XII printed pp. 156–291 (the book's second half is a full basic-Economics course on Nicaragua); glossary at the end (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Importaciones y exportaciones — teaches: Nicaragua's exports and imports with Central Bank 2012 figures — export destinations ranked (the ALBA countries, Canada at US$235.1 million and 11.3%) and import origins mostly in the Americas | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Importaciones y exportaciones — printed pp. 219–223 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua). Honduras's Grade 5 teacher guide is cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for that guide.**
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
 Nepal's own way (Nepal Grade 12 Social Studies & Life Skills): Grade 12 economics is the development unit with real tables — sector shares of GDP, the trade growth and direction tables, Nepal's growth rates through the COVID year, the HDI bands, and Nurkse's vicious circle drawn as two loops, supply side and demand side.
 
@@ -83,4 +91,4 @@ Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from fa
 
 Honduras's own way (Honduras Grade 5 G5 Teacher CCSS) (teacher guide — evidence): the guide mirrors the student book; the one additional-theory fact placed here is Honduras's trade history — free-trade treaties and economic expansion, with a mostly trade-deficit record since 2010. That book is a teacher guide, cited as evidence only; Honduras is counted in this lesson for its student book(s) named here, not for this guide.
 
-Searchable tags: the balance of trade, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, dominican republic, jordan, uzbekistan, honduras, nepal
+Searchable tags: the balance of trade, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, dominican republic, jordan, uzbekistan, honduras, nepal, nicaragua

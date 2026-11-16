@@ -1,6 +1,6 @@
 # Sources — Industry What It Is
 
-countries: Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen, Fiji
+countries: Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen, Fiji, Nicaragua
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -61,7 +61,15 @@ South Sudan's own way (South Sudan Primary 4): the economy is taught sector by s
 |---|---|
 | Fiji part — Industries — teaches: industry as all economic activity in primary, secondary and tertiary forms, and the factors affecting manufacturing location: raw materials, power, transport, markets, labour, capital, government policies, land and environment | Fiji, *Fiji Grade 10 Year 10 Social Science*, Industries — teaches: industry as all economic activity in primary, secondary and tertiary forms, and the factors affecting manufacturing location: raw materials, power, transport, markets, labour, capital, government policies, land and environment — printed p. 74 |
 
-**Acceptance count: taught in 8 countries (Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen, Fiji).**
+**Book 10:** *Geografía de Nicaragua / Geografía Dinámica — Módulo Autoformativo, Décimo grado, Educación Secundaria a Distancia en el Campo* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua — PROSEN; year: not printed in the file; ISBN: no ISBN printed. Title as printed: Geografía de Nicaragua / Geografía Dinámica — Módulo Autoformativo, Décimo grado, Educación Secundaria a Distancia en el Campo. Grade: 10 (student/teacher: STUDENT). PDF pages: 188 (cover verified against the record title; contents read in full, Economics unit read page by page). Verdict: COMPLETE. Contents map: Economics parts — Unit V: Sector primario (agricultura, ganadería, pesca y silvicultura) printed p. 124, Sector secundario: tipos de industria printed p. 140; Geography (Units I–III: territory and political division, relief, climate, hydrography, flora and fauna, environment) printed pp. 4–92; Population/civics (Unit IV: ethnic and cultural diversity, population requirements) printed pp. 94–123; Geography (Unit VI: territorial and social vulnerability, disaster risk) printed pp. 158–176; glossary p. 289 (inventory only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Sector secundario: tipos de industria (Unit V) — teaches: what industry is and its types — artisanal versus industrial, and micro, small, medium and large industries — through Nicaragua's own industrial structure, agroindustry and value chains that reduce raw-material exports | Nicaragua, *Nicaragua Grade 10 Geografía 10° Grado*, Sector secundario: tipos de industria (Unit V) — printed p. 140 |
+
+**Acceptance count: taught in 9 countries (Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen, Fiji, Nicaragua).**
+
+Nicaragua's own way (Nicaragua Grade 10 Geografía 10° Grado): economic geography is taught sector by sector through Nicaragua's own production — the primary sector as the raw-material base of the country, and industry policy (agroindustry, value chains, MIPYMEs) quoted from the national development plan.
 
 Fiji's own way (Fiji Grade 10 Year 10 Social Science): Year 10 economics is economic geography of Fiji itself — village, semi-subsistence and commercial farming, the sugar industry's markets and problems, then industry as primary, secondary and tertiary activity with location factors and trade.
 
@@ -77,4 +85,4 @@ Jordan's own way (Jordan Grade 4 Term 1): The economy is met as the country's wo
 
 Egypt's own way (Grade 9 combined edition, egypt-placements-b.md): the world economy is taught as resources and activities continent by continent, then as country models — India, Brazil and Nigeria against Germany and the USA — before the book returns to Egypt's own modern history.
 
-Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan, venezuela, jordan, egypt, yemen, Fiji
+Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan, venezuela, jordan, egypt, yemen, Fiji, nicaragua

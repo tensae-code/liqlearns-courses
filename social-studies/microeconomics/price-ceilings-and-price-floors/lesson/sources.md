@@ -1,6 +1,6 @@
 # Sources — Price ceilings and price floors
 
-countries: Ethiopia, Albania, Bangladesh, Vietnam, Armenia
+countries: Ethiopia, Albania, Bangladesh, Vietnam, Armenia, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -36,7 +36,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Armenia part — Economics expansion — 4.2 Market economy: state price regulation as setting upper or lower limits on the prices of goods and services | Armenia, *Armenia Grade 9 Social Science student*, 4.2 Market economy — printed p. 93 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Vietnam, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (title page verified against the record title; 106,780,055 bytes via release asset, matching the books.json record size exactly). Verdict: COMPLETE. Contents map: Geography Units I–VI printed pp. 2–155 (Nicaragua in the world, relief, climate and resources, population and culture, economic sectors in Unit V printed pp. 110–135, vulnerability Unit VI); Economics Units VII–XII printed pp. 156–291 (the book's second half is a full basic-Economics course on Nicaragua); glossary at the end (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — El Papel de la Empresa Nicaragüense de Alimentos Básicos (ENABAS) — teaches: price regulation in practice — ENABAS, the state basic-foods enterprise with over a million quintals of silo capacity, selling basic products at fair prices through its shops as an instrument of economic policy inside a free market | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, El Papel de la Empresa Nicaragüense de Alimentos Básicos (ENABAS) — printed pp. 204–205 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Vietnam, Armenia, Nicaragua). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
 Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
@@ -46,4 +54,4 @@ Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: price ceilings and price floors, grade 12 economics, ethiopia, social studies, microeconomics, albania, bangladesh, vietnam, armenia
+Searchable tags: price ceilings and price floors, grade 12 economics, ethiopia, social studies, microeconomics, albania, bangladesh, vietnam, armenia, nicaragua

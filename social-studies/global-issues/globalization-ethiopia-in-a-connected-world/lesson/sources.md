@@ -1,6 +1,6 @@
 # Sources — Globalization — Ethiopia in a connected world
 
-countries: Ethiopia, South Sudan
+countries: Ethiopia, South Sudan, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -16,9 +16,33 @@ countries: Ethiopia, South Sudan
 | South Sudan part — Impacts of globalization | South Sudan, *South Sudan Grade 12 S4 Geography SB*, Impacts of globalization — printed p. 9 |
 | South Sudan part — Guide: positive/negative effects of globalization; high-income domination of world trade (teacher guide — evidence) | South Sudan, *South Sudan Grade 12 S4 Geography TG* (teacher guide), Guide: positive/negative effects of globalization; high-income domination of world trade — printed p. 25 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, South Sudan).**
+**Book 4:** *Módulo Autoformativo de Ciencias Sociales, 8° Grado — "Orgullo de mi País" (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), República de Nicaragua, PROSEN (EU-supported); 2016; no ISBN printed. Title as printed: Módulo Autoformativo de Ciencias Sociales, 8° Grado — "Orgullo de mi País" (Educación Secundaria a Distancia en el Campo). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 164 (cover verified against the record title; 54,667,907 bytes via release asset; image-only PDF, read via 100-DPI contact sheets). Verdict: PARTIAL — this Primera Parte file ends at printed p. 156, mid Unit V; the module's own index runs to printed p. 292 (Units VI–X, History), which are not in this file. The Economics unit (Unit IV) is complete in this file. Contents map: Geography Units I–II printed pp. 10–101; population/culture Unit III printed pp. 112–125; Economics Unit IV "Espacio y Economía" printed pp. 122–140 in the pages' own numbering (the index lists it at pp. 130–149); Geography/environment Unit V printed pp. 141–156 (ends mid-unit); Units VI–X (History, printed pp. 166–292 in the index) absent from this file; glossary in the index only (inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
 
-Searchable tags: globalization, ethiopia in a connected world, ethiopia, social studies, global issues
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Impacto del proceso de Globalización en América — teaches: globalisation defined as markets and firms crossing borders into one world market, with its advantages (lower costs and prices, maquila jobs, better technology) and disadvantages (inequality, unemployment, small firms facing multinationals) weighed for América | Nicaragua, *Nicaragua Grade 8 Ciencias Sociales 8° Grado (Módulo Autoformativo, Primera Parte)*, Impacto del proceso de Globalización en América — printed pp. 124–126 |
+
+**Book 5:** *Ciencias Sociales, Educación Secundaria, 9 Grado (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 9 Grado (Serie Educativa, MINED). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 280 (title page verified against the record title; 170,810,241 bytes via release asset). Verdict: COMPLETE. Contents map: Geography Units I–III printed pp. 1–86 (world, planet dynamics, diversity of life); Economics Unit IV "Cuánto producimos y cuánto consumimos" printed pp. 87–118; Environment Unit V printed pp. 119–136; History Units VI–XI printed pp. 137–end (human evolution, first civilisations, classical and medieval worlds, great changes, contemporary society — Unit XI's 1929 crisis, globalisation-impact, EU and ALBA lessons sit inside that History unit and are named here, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Globalización e integración — teaches: globalisation debated in three positions (equal opportunity, no advantageous insertion for the weak, and a synthesis), driven by consumer culture and expanding trade, with its neoliberal form charged with widening inequality, expanding poverty, privatising public enterprises to multinationals and devastating ecology | Nicaragua, *Nicaragua Grade 9 Estudios Sociales 9*, Globalización e integración — printed pp. 109–116 |
+
+**Book 6:** *Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (title page verified against the record title; 106,780,055 bytes via release asset, matching the books.json record size exactly). Verdict: COMPLETE. Contents map: Geography Units I–VI printed pp. 2–155 (Nicaragua in the world, relief, climate and resources, population and culture, economic sectors in Unit V printed pp. 110–135, vulnerability Unit VI); Economics Units VII–XII printed pp. 156–291 (the book's second half is a full basic-Economics course on Nicaragua); glossary at the end (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — La globalización una aldea global — teaches: globalisation as a global village — its characteristics, its advantages and disadvantages weighed, and Nicaragua's own position inside it | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, La globalización una aldea global — printed pp. 270–274 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, South Sudan, Nicaragua).**
+
+Nicaragua's own way (Nicaragua Grade 8 Ciencias Sociales 8° Grado (Módulo Autoformativo, Primera Parte)): Economics arrives as "Space and Economy" for the whole continent — technology, globalisation, integration and free-trade treaties read critically from Central America's position, with the maquila and CAFTA debated from Nicaraguan experience, closing on sustainable development and quality of life.
+
+Nicaragua's own way (Nicaragua Grade 9 Estudios Sociales 9): "How much we produce and how much we consume" — the world economy continent by continent, framed from the start by dependence: advanced technology and cheap raw materials bought from dependent countries, an often unjust trade, before globalisation is debated in three positions.
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
+
+Searchable tags: globalization, ethiopia in a connected world, ethiopia, social studies, global issues, nicaragua
 
 South Sudan's own way (South Sudan Grade 12 S4 Geography SB): A global book (globalization, oceans, world energy, the development gap) that keeps returning to South Sudan — ARCISS signing photo in Juba for political globalization, South Sudan classroom progress-check scenarios, and a closing exercise asking learners, as citizens of South Sudan, how their nation can grow economically.
 

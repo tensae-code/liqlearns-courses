@@ -1,6 +1,6 @@
 # Sources — The National Bank and commercial banks
 
-countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Albania, Dominica, Uzbekistan, Egypt, Yemen, Armenia
+countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Albania, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -81,7 +81,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Armenia part — Economics expansion — 4.3 Armenia's financial system: a bank, the central bank as the state body that issues money and oversees the financial system, and commercial banking | Armenia, *Armenia Grade 9 Social Science student*, 4.3 Armenia's financial system — printed p. 106 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, Yemen, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 14:** *Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (title page verified against the record title; 106,780,055 bytes via release asset, matching the books.json record size exactly). Verdict: COMPLETE. Contents map: Geography Units I–VI printed pp. 2–155 (Nicaragua in the world, relief, climate and resources, population and culture, economic sectors in Unit V printed pp. 110–135, vulnerability Unit VI); Economics Units VII–XII printed pp. 156–291 (the book's second half is a full basic-Economics course on Nicaragua); glossary at the end (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Sistema bancario. Función de los bancos — teaches: the banking system — what banks do, their classification, the state banks (Banco Produzcamos for production, the Central Bank of Nicaragua) and their regulation under Nicaragua's banking law | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Sistema bancario. Función de los bancos — printed pp. 237–240 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
 Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
@@ -99,7 +107,7 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, egypt, yemen, armenia
+Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, egypt, yemen, armenia, nicaragua
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

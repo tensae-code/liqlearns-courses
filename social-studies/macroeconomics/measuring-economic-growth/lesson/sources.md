@@ -1,6 +1,6 @@
 # Sources — Measuring economic growth
 
-countries: Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Vietnam, Armenia, Indonesia
+countries: Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Vietnam, Armenia, Indonesia, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -95,7 +95,23 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Indonesia part — Bab 1 Panduan Pembelajaran — teaches: teaching growth measurement on Indonesia's PDB data (TEACHER) | Indonesia, *Indonesia Grade 12 Panduan Guru Ekonomi*, Bab 1 Panduan Pembelajaran — guide p. 32 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Vietnam, Armenia, Indonesia). Honduras's Grade 7 and Grade 8 teacher guides are cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for those guides.**
+**Book 16:** *Libro de Texto Estudios Sociales 4* (student book, Spanish) — MINED, Dirección General de Educación Primaria; year not printed in front matter (content references 2015–2017 data); no ISBN printed. Title as printed: Libro de Texto Estudios Sociales 4. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; 6,687,168 bytes via release asset). Verdict: COMPLETE. Contents map: Geography units I–III, V printed pp. 1–52, 58–119; History units VI–X printed pp. 120–end; Economics part Unit IV printed pp. 53–57. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Importancia de las Actividades Económicas y Agrícolas — teaches: Nicaragua's sustained growth above 4.5%, its drivers (commerce, construction, agriculture), free-zone exports and jobs, and a 2015 indicators table with real GDP growth, per-capita GDP and inflation | Nicaragua, *Nicaragua Grade 4 Estudios Sociales 4*, Importancia de las Actividades Económicas y Agrícolas — printed pp. 55–57 |
+
+**Book 17:** *Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (title page verified against the record title; 106,780,055 bytes via release asset, matching the books.json record size exactly). Verdict: COMPLETE. Contents map: Geography Units I–VI printed pp. 2–155 (Nicaragua in the world, relief, climate and resources, population and culture, economic sectors in Unit V printed pp. 110–135, vulnerability Unit VI); Economics Units VII–XII printed pp. 156–291 (the book's second half is a full basic-Economics course on Nicaragua); glossary at the end (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Proceso productivo y crecimiento económico / Relación del proceso productivo y desarrollo económico — teaches: how the productive process drives economic growth, and growth related to economic development as the book's closing frame for what a country produces | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Proceso productivo y crecimiento económico / Relación del proceso productivo y desarrollo económico — printed pp. 195–198 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Vietnam, Armenia, Indonesia, Nicaragua). Honduras's Grade 7 and Grade 8 teacher guides are cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for those guides.**
+
+Nicaragua's own way (Nicaragua Grade 4 Estudios Sociales 4): a single long lesson defines economic activity and its three phases, then reads Nicaragua's own economy through Central Bank figures — growth, free-zone firms, small firms' 41.6% of value added, and a 2015 indicators table (GDP growth, per-capita GDP, inflation, remittances, external debt).
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
 Indonesia's own way (Indonesia Grade 11 Panduan Guru Ekonomi Edisi Revisi) (teacher guide — evidence): the guide works with real Indonesian data — provincial per-capita PDRB tables, BPS poverty lines, the open unemployment rate (TPT), provincial minimum wages (UMP) — and adds online-loan (pinjol) financial-literacy teaching. That book is a teacher guide, cited as evidence only; Indonesia is counted in this lesson for its student book(s) named here, not for this guide.
 
@@ -123,4 +139,4 @@ Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from fa
 
 Honduras's own way (Honduras Grade 8 G8 Teacher CCSS) (teacher guide — evidence): the guide mirrors the student book with answer keys; the one guide-only data exercise placed here has pupils analyse a table of Latin American economic-growth projections 2016–2019 by country (CEPAL-style data). That book is a teacher guide, cited as evidence only; Honduras is counted in this lesson for its student book(s) named here, not for this guide.
 
-Searchable tags: growth rate formula, per-capita real GDP, structural change, growth versus development, World Bank income bands 2008, least developed countries 2010, ethiopia, france, ses, trente glorieuses, malthusian trap, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, vietnam, armenia, indonesia
+Searchable tags: growth rate formula, per-capita real GDP, structural change, growth versus development, World Bank income bands 2008, least developed countries 2010, ethiopia, france, ses, trente glorieuses, malthusian trap, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, vietnam, armenia, indonesia, nicaragua

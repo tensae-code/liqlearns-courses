@@ -1,6 +1,6 @@
 # Sources — Fixed exchange rates
 
-countries: Ethiopia
+countries: Ethiopia, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -10,6 +10,14 @@ countries: Ethiopia
 | Sub lesson 2 — The system's benefits | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 5 — Trade and Finance, printed pp. 137–138 |
 | Sub lesson 3 — Devaluation and revaluation | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 5 — Trade and Finance, printed pp. 137–138 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book 2:** *Libro de Texto Estudios Sociales 4* (student book, Spanish) — MINED, Dirección General de Educación Primaria; year not printed in front matter (content references 2015–2017 data); no ISBN printed. Title as printed: Libro de Texto Estudios Sociales 4. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; 6,687,168 bytes via release asset). Verdict: COMPLETE. Contents map: Geography units I–III, V printed pp. 1–52, 58–119; History units VI–X printed pp. 120–end; Economics part Unit IV printed pp. 53–57. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
 
-Searchable tags: fixed exchange rates, ethiopia, social studies, macroeconomics
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Importancia de las Actividades Económicas y Agrícolas — teaches: Nicaragua's exchange regime — free convertibility of the córdoba, an official rate against the US dollar set in advance (a crawling peg), and dollars circulating freely alongside córdobas | Nicaragua, *Nicaragua Grade 4 Estudios Sociales 4*, Importancia de las Actividades Económicas y Agrícolas — printed p. 57 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Nicaragua).**
+
+Nicaragua's own way (Nicaragua Grade 4 Estudios Sociales 4): a single long lesson defines economic activity and its three phases, then reads Nicaragua's own economy through Central Bank figures — growth, free-zone firms, small firms' 41.6% of value added, and a 2015 indicators table (GDP growth, per-capita GDP, inflation, remittances, external debt).
+
+Searchable tags: fixed exchange rates, ethiopia, social studies, macroeconomics, nicaragua

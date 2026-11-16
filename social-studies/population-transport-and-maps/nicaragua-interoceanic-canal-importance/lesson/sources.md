@@ -12,6 +12,10 @@ countries: Nicaragua
 | Sub lesson 1 — Importancia de la construcción del Canal Interoceánico para la población y la economía | Nicaragua, *Nicaragua Grade 4 Estudios Sociales G4*, Importancia de la construcción del Canal Interoceánico para la población y la economía — printed p. 67 |
 | Sub lesson 2 — Nicaragua's way — the book's own teaching way | Nicaragua — the book's own way of teaching (see below) |
 
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Importancia del Canal Interoceánico en Nicaragua — teaches: how an interoceanic canal through Lake Cocibolca would link the Atlantic and Pacific, ease world trade and bring foreign currency to be reinvested against poverty | Nicaragua, *Nicaragua Grade 3 Estudios Sociales 3*, Importancia del Canal Interoceánico en Nicaragua — printed p. 48 |
+
 **Acceptance count: taught in 1 country (Nicaragua).**
 
 Nicaragua's own way (Nicaragua Grade 3 Estudios Sociales G3): The first formal Geography course in the set: Units I–II teach what Geography is, map types, scale, orientation and the Earth, then every later unit works at three nested scales — comunidad, municipio, departamento — ending with Nicaragua's three regions, its volcanic chain and a Köppen climate map of the country. Non-Geography parts named, not placed: Unit VI municipality origins, customs and citizen participation (printed pp. 72–80, History/Civics, except the geography-influence topic placed below); Unit VII first settlers' history and culture (printed pp. 82–93, History); Unit VIII historical celebrations and heroes (printed pp. 94–109, History).

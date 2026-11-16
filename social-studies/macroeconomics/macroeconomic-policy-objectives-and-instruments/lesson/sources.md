@@ -1,6 +1,6 @@
 # Sources — Macroeconomic policy — objectives and instruments
 
-countries: Ethiopia, Malaysia, Cambodia, Indonesia
+countries: Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -32,7 +32,15 @@ countries: Ethiopia, Malaysia, Cambodia, Indonesia
 |---|---|
 | Indonesia part — Bab 5 opening — teaches: the goals of economic policy — controlled inflation, high employment, balanced exports, a stable exchange rate | Indonesia, *Indonesia Grade 11 Ekonomi*, Bab 5 opening — printed p. 157 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Cambodia, Indonesia).**
+**Book 6:** *Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED)* (student book, Spanish) — MINED, República de Nicaragua; year not printed in front matter; no ISBN printed. Title as printed: Ciencias Sociales, Educación Secundaria, 10 Grado — Geografía y Economía (Serie Educativa, MINED). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (title page verified against the record title; 106,780,055 bytes via release asset, matching the books.json record size exactly). Verdict: COMPLETE. Contents map: Geography Units I–VI printed pp. 2–155 (Nicaragua in the world, relief, climate and resources, population and culture, economic sectors in Unit V printed pp. 110–135, vulnerability Unit VI); Economics Units VII–XII printed pp. 156–291 (the book's second half is a full basic-Economics course on Nicaragua); glossary at the end (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Política económica y la intervención del Estado — teaches: economic policy defined as state intervention in the economy, its objectives (monetary and price stability, investment, production and productivity within a stable macroeconomic framework), and how a policy is formulated in four steps | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Política económica y la intervención del Estado — printed pp. 244–250 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua).**
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
 Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupiah with Indonesian provincial data; cooperatives taught as the “soko guru” (main pillar) of the Indonesian economy with SHU surplus-sharing calculations; the state/regional/private ownership ladder (BUMN–BUMD–BUMS) as the map of who owns the economy.
 
@@ -44,4 +52,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: macroeconomic policy — objectives and instruments, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, cambodia, indonesia
+Searchable tags: macroeconomic policy — objectives and instruments, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, cambodia, indonesia, nicaragua
