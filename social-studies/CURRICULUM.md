@@ -12560,3 +12560,47 @@ course as the ethics of work — profit defined on one
 diagram, then wages, the subsistence minimum and the
 consumer basket as measures of a decent life. Economics
 lessons: 380 → 383.
+
+## Economics expansion — Kenya — built 2026-11-15
+
+Kenya — 5 placements stocked from *Inventor Secondary Business
+Studies Form 1* (student book, English, PARTIAL — the copy in
+hand is a degraded Studocu reconstruction: roughly every second
+PDF page is a Studocu watermark interstitial, and many body
+pages survive only as picture plates; placements are made only
+from legible teaching plates, diagrams and specimen documents,
+and are cited by PDF page because printed page numbers do not
+survive legibly; Kenya Literature Bureau (KLB), approved by
+the Ministry of Education; ISBN 9789966448002; year not printed
+on the surviving pages). Forms 2, 3 and 4 are record-only —
+UNREAD as filed (Form 2's record names no file; Forms 3 and 4
+are phantom pushes, absent from GitHub — library debts) — and
+nothing is stocked from them. 2 stocked into a standing lesson
+— **Market and Money**: Domestic trade — wholesale and retail
+(Trade chapter diagram, PDF p. 103 — trade split into home
+trade and foreign trade, home trade split into wholesale and
+retail, import and export under foreign trade; and Retail
+trade types plate, PDF p. 104 — itinerant traders (hawkers,
+peddlers), roadside traders, kiosks, open-air market traders,
+market stalls, single shops, tied shops, mobile shops,
+canteens, mail-order stores and automatic vending machines,
+with and without shops; now taught in 2 countries, Ethiopia
+and Kenya) — and 3 new lessons built (12 questions each) — in
+**Market and Money**: Payment instruments — cheques and orders
+(1 placement, Means of payment specimen documents, PDF p. 142
+— a Kenya Commercial Bank cheque for KSh 50,000, a Kenya
+inland money order (Garissa, Shs 800), a Kenya postal order
+(ten shillings) and a bill of exchange drawn on Sukuma Bank
+Ltd), Hire purchase — buying on instalments (1 placement,
+Hire purchase worked plate, PDF p. 156 — Akiba Hire-Purchase
+Shop colour TV, price Shs 19,000, deposit Shs 3,000, then
+instalments of Shs 1,166.90 × 12) and Trade discount and cash
+discount (1 placement, worked calculations, PDF p. 158 — on
+the same Shs 10,000 price, a 10% trade discount brings the
+payable price to Shs 9,000, then a cash discount (10% in one
+worked line, 5% in the other) reduces what is actually paid
+for prompt cash payment). Kenya's own way: Business Studies
+is Kenya's carrier for Economics at Form 1 — trade and payment
+are taught through Kenyan specimens, a Kenya Commercial Bank
+cheque, a Kenya inland money order and postal order, and
+shilling-priced worked examples. Economics lessons: 383 → 386.
