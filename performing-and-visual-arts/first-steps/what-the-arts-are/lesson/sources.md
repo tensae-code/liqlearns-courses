@@ -1,6 +1,6 @@
 # Sources — What the Arts Are
 
-countries: Ethiopia
+countries: Ethiopia, Guatemala
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
@@ -8,6 +8,8 @@ countries: Ethiopia
 **Book 3:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
 **Book 4:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
+
+**Book 5:** *Guía de orientaciones metodológicas para docentes de Segundo ciclo de primaria — Expresión artística: Expresemos y construyamos paz* (teacher guide, Spanish) — Guatemala, Ministerio de Educación de Guatemala (MINEDUC), with OEI Guatemala, 2017, no ISBN printed, Grades 4–6 (segundo ciclo de primaria), 51 PDF pp. TEACHER — teacher guide. Verdict: PARTIAL — this PDF is an excerpt: it holds the front matter and introduction (printed pp. 1–15), the opening page of every learning experience (printed pp. 23, 33, 41, 51, 61), and Grade 6 in full (printed pp. 62–91, incl. teacher orientations and bibliography). The Grade 4 and Grade 5 activity pages (printed pp. 16–22, 24–32, 34–40, 42–50, 52–60) are NOT in the file; Grade 4–5 placements below are made from each experience's opening page (competence, learning themes, methods) and its named activities in the contents, and are marked title/theme-level where that is all the evidence there is. Excluded per the placements: "Revisión de lo aprendido" (printed p. 75, revision), all autoevaluación/coevaluación checklists and teacher rubrics, and the bibliography (printed pp. 85–91 teacher orientations are method guidance, not pupil teaching content). The same PDF serves the grade-04, grade-05 and grade-06 records; it was read from the recorded archive.org source after the repo tree path returned 404 twice — byte size and pages match the record exactly, so the book is read, but the pushed copy is a PHANTOM PUSH (library debt). Placements at liqlearns-courses-work/expansion-art-2026-11-16/guatemala-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -18,8 +20,9 @@ countries: Ethiopia
 | Sub lesson 4 — The two families restated — the Grade 6 opening | Grade 6 Student Textbook, Introduction — the two families restated, printed pp. 1–2 |
 | Sub lesson 5 — Comparing the two families — the Grade 8 matching | Grade 8 Student Textbook, §4.2 Comparing visual and performing art, printed p. 108 |
 | Sub lesson 6 — The Grade 6 chapter opens (chapter opening — Grade 6) — G6S-02 | Grade 6 Student Textbook, Ch. 1 chapter opener and aims (opening fold), printed p. 1 |
+| Guatemala — What artistic expression is: a people's way of communicating and promoting its culture, built on perception, creation and appreciation across music, plastic arts, theatre, dance, Guatemalan cultures and audiovisual arts — Introducción / Área curricular: Expresión Artística (teacher guide — evidence; original target `first-steps/what-the-arts-are`) | Book 5, printed p. 13 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 The two families are stated in the books' own summaries: Grade 2 (printed p. 21) names visual arts as drawing and photograph and performing arts as music, dance, theatre and drama; Grade 3 (printed p. 17) adds film and video to the visual branch. The lesson teaches both statements, in that order, and does not add any art neither book names.
 

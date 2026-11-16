@@ -57,7 +57,14 @@ The titles, in ladder order:
    women in art history — women as model, patron and artist;
    and famous artists and masterpieces — the latest trends,
    from op and kinetic art to conceptual art and land art
-   (Andorra programme documents, evidence).
+   (Andorra programme documents, evidence). The Art expansion
+   added: Maya art and techniques — the Maya people's own
+   artistic techniques, handled instrumentally and
+   procedurally; nature in art — recreating the relationship
+   between the human being and nature through artworks; and
+   graphic design — Publicarte, a designed magazine of the
+   community's culture (Guatemala teacher guide, evidence,
+   PARTIAL file).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -108,7 +115,12 @@ The titles, in ladder order:
    patterns and ostinatos, and the three acts of experimenting,
    improvising and composing; and conducting — pulse, metre,
    tempo, cues, rehearsals and one unified musical idea
-   (Andorra programme documents, evidence).
+   (Andorra programme documents, evidence). The Art expansion
+   added: Maya instruments and musical events — organising
+   musical events especially with the instruments of Maya art;
+   and the message in songs — listening first without the
+   words, then with them, and saying what a song means
+   (Guatemala teacher guide, evidence, PARTIAL file).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -139,7 +151,11 @@ The titles, in ladder order:
    books). The Art expansion also added: boduberu — the
    Maldives' traditional big-drum dance, met through Zaeky
    Zameel's ink drawing of it (Maldives student book, artwork
-   study).
+   study). The Art expansion added: dances of Guatemala's
+   peoples — the meanings of dances, and a first initiation
+   into the choreographies and techniques of the dances of
+   Guatemala's other peoples and of Mesoamerica (Guatemala
+   teacher guide, evidence, PARTIAL file).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
@@ -154,4 +170,8 @@ The titles, in ladder order:
    realism, revolutionary sculpture and Brasília's protesting
    architecture; and art of our country — the Romanesque of
    Andorra read as art and as religious power (Andorra
-   programme documents, evidence).
+   programme documents, evidence). The Art expansion added:
+   symbols of Guatemala's peoples — the guide's own
+   iconography read as cultural art: the snail, the sun as
+   nawal Ajpú, and the heart-planet with nawal Noj, wisdom
+   (Guatemala teacher guide, evidence, PARTIAL file).

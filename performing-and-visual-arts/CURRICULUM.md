@@ -306,7 +306,45 @@ lessons are the books'.
   assessment criteria and synthesis/expectation tables are
   apparatus, named in the book entries and not placed.
 
-**The whole course stands at 199 lessons, 3,122 questions and
+- **Art expansion — Guatemala — BUILT 2026-11-16:** 31 placements
+  stocked from 1 book (*Guía de orientaciones metodológicas
+  para docentes de Segundo ciclo de primaria — Expresión
+  artística: Expresemos y construyamos paz*, Ministerio de
+  Educación de Guatemala (MINEDUC) with OEI Guatemala, 2017,
+  no ISBN printed, Grades 4–6, Spanish, 51 PDF pp — TEACHER
+  guide, evidence only, kept outside the acceptance counts;
+  Verdict: PARTIAL — the source PDF is itself an excerpt,
+  holding the front matter and introduction, the opening page
+  of every learning experience, and Grade 6 in full; the
+  Grade 4 and Grade 5 activity pages are NOT in the file, and
+  Grade 4–5 placements are title/theme-level where that is
+  all the evidence there is; the pushed copy is a PHANTOM
+  PUSH, library debt, carried as filed): 24 into existing
+  lessons (What the Arts Are; Our Community's Values ×3 — the
+  third from the original string hands-of-peace; Drawing: The
+  Foundation Skill; Moving to Music; Stories and Folktales
+  ×3; Appreciating the Arts; Drawing What Our Culture Does;
+  Appreciating and Valuing the Arts ×2; Mime, Fables and First
+  Plays; Video: Moving Pictures ×3; Old Arts and Today's Arts;
+  Writing and Putting On a Play; Photographs; From Script to
+  Stage; Kinds of Traditional Music; Colours Around Us — from
+  the original string colours-from-our-own-culture; Value of
+  Dance Works — from the original string
+  a-magazine-about-dance), 7 NEW lessons (Culture and Values:
+  Symbols of Guatemalas Peoples; Visual Art: Maya Art and
+  Techniques — from maya-artistic-techniques; Nature in Art —
+  from humans-and-nature-in-art; Graphic Design — from
+  a-community-arts-magazine; Drama and Dance: Dances of
+  Guatemala's Peoples; Music: Maya Instruments and Musical
+  Events; The Message in Songs — from
+  listening-to-a-song-and-saying-what-it-means), 84 questions
+  added, media as described slots only. "Revisión de lo
+  aprendido", all autoevaluación/coevaluación checklists and
+  teacher rubrics, and the bibliography are apparatus, named
+  in the book entries and not placed; songs and fables are
+  placed by summary only, never transcribed.
+
+**The whole course stands at 206 lessons, 3,206 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

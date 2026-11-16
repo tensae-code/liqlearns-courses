@@ -1,9 +1,11 @@
 # Sources — Our Community's Values
 
-countries: Ethiopia
+countries: Ethiopia, Guatemala
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
+
+**Book 3:** *Guía de orientaciones metodológicas para docentes de Segundo ciclo de primaria — Expresión artística: Expresemos y construyamos paz* (teacher guide, Spanish) — Guatemala, Ministerio de Educación de Guatemala (MINEDUC), with OEI Guatemala, 2017, no ISBN printed, Grades 4–6 (segundo ciclo de primaria), 51 PDF pp. TEACHER — teacher guide. Verdict: PARTIAL — this PDF is an excerpt: it holds the front matter and introduction (printed pp. 1–15), the opening page of every learning experience (printed pp. 23, 33, 41, 51, 61), and Grade 6 in full (printed pp. 62–91, incl. teacher orientations and bibliography). The Grade 4 and Grade 5 activity pages (printed pp. 16–22, 24–32, 34–40, 42–50, 52–60) are NOT in the file; Grade 4–5 placements below are made from each experience's opening page (competence, learning themes, methods) and its named activities in the contents, and are marked title/theme-level where that is all the evidence there is. Excluded per the placements: "Revisión de lo aprendido" (printed p. 75, revision), all autoevaluación/coevaluación checklists and teacher rubrics, and the bibliography (printed pp. 85–91 teacher orientations are method guidance, not pupil teaching content). The same PDF serves the grade-04, grade-05 and grade-06 records; it was read from the recorded archive.org source after the repo tree path returned 404 twice — byte size and pages match the record exactly, so the book is read, but the pushed copy is a PHANTOM PUSH (library debt). Placements at liqlearns-courses-work/expansion-art-2026-11-16/guatemala-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,8 +13,11 @@ countries: Ethiopia
 | What our community values (Sub lesson 2) | Grade 2 Student Textbook, Ch.3 chapter aims + prior-knowledge questions, printed p. 47 |
 | What our community values — review fold (Sub lesson 2) | Grade 2 Student Textbook, Review — Cultural Values (Ch.3 summary + closing exercise), printed pp. 61–62 |
 | Values in art — being an example at home (Sub lesson 3) | Grade 3 Student Textbook, §2.1.4 — exemplary family actions, printed p. 25 |
+| Guatemala — The values each of Guatemala's peoples teaches by: Maya gratitude and protecting all life, Garífuna love of family, respect for elders, listening and keeping one's word, Xinka community formation, Ladino family and celebration — Elementos de aprendizaje de las diversas culturas (teacher guide — evidence; original target `culture-and-values/our-communitys-values`) | Book 3, printed pp. 10–13 |
+| Guatemala — A closing circle where each learner offers a paper heart to a classmate, practising empathy, free expression of feelings and teamwork — Experiencia 1 (Grade 6), activity "Te ofrezco mi corazón" (teacher guide — evidence; original target `culture-and-values/our-communitys-values`) | Book 3, printed p. 67 |
+| Guatemala — Making with the hands for peace: a hand-made artwork carrying the culture of peace — Experiencia 2 (Grade 4), activity "Manos de la paz" (title/theme level; activity pages not in this PDF) (teacher guide — evidence; original target `culture-and-values/hands-of-peace`) | Book 3, printed p. 24 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 The values list is Grade 2's own (§3.1–3.1.1, printed p. 48), including shimglina glossed as the book's placements gloss it (elder mediation/reconciliation). The Adwa story stands inside Grade 2's values chapter (its introduction, printed p. 47); the full Adwa telling belongs to the drama-and-dance lessons and is not duplicated here beyond that chapter fact. Exemplarity is Grade 3's own definition (§2.1.4, printed p. 25).
 

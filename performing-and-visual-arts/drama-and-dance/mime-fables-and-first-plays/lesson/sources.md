@@ -1,6 +1,6 @@
 # Sources — Mime, Fables and First Plays
 
-countries: Ethiopia, Jamaica, Egypt
+countries: Ethiopia, Jamaica, Egypt, Guatemala
 
 **Book 1:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Jamaica, Egypt
 
 **Book 6:** *Theatre Education — Second Preparatory, Grade 8, First Term (التربية المسرحية — الصف الثاني الإعدادي — الفصل الدراسي الأول)* (student book, Arabic) — Egypt, وزارة التربية والتعليم (Ministry of Education and Technical Education, Egypt), 2025, no ISBN printed, Grade 8, Arabic, 81 PDF pp. Verdict: COMPLETE (cover/title page verified against the record title). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/egypt-placements.md.
 
+**Book 7:** *Guía de orientaciones metodológicas para docentes de Segundo ciclo de primaria — Expresión artística: Expresemos y construyamos paz* (teacher guide, Spanish) — Guatemala, Ministerio de Educación de Guatemala (MINEDUC), with OEI Guatemala, 2017, no ISBN printed, Grades 4–6 (segundo ciclo de primaria), 51 PDF pp. TEACHER — teacher guide. Verdict: PARTIAL — this PDF is an excerpt: it holds the front matter and introduction (printed pp. 1–15), the opening page of every learning experience (printed pp. 23, 33, 41, 51, 61), and Grade 6 in full (printed pp. 62–91, incl. teacher orientations and bibliography). The Grade 4 and Grade 5 activity pages (printed pp. 16–22, 24–32, 34–40, 42–50, 52–60) are NOT in the file; Grade 4–5 placements below are made from each experience's opening page (competence, learning themes, methods) and its named activities in the contents, and are marked title/theme-level where that is all the evidence there is. Excluded per the placements: "Revisión de lo aprendido" (printed p. 75, revision), all autoevaluación/coevaluación checklists and teacher rubrics, and the bibliography (printed pp. 85–91 teacher orientations are method guidance, not pupil teaching content). The same PDF serves the grade-04, grade-05 and grade-06 records; it was read from the recorded archive.org source after the repo tree path returned 404 twice — byte size and pages match the record exactly, so the book is read, but the pushed copy is a PHANTOM PUSH (library debt). Placements at liqlearns-courses-work/expansion-art-2026-11-16/guatemala-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What is drama? A first play (teacher guide — evidence) | Book 1, §1.2 (§1.2.2, p. 9), printed pp. 8–14 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Jamaica, Egypt
 | Egypt — The ball story game: improvisation — passing a ball while continuing a classmate's story, improvising its details without losing concentration | Book 5, printed p. 9 |
 | Egypt — Lesson 1, The Art of Theatre Expression: verbal and non-verbal expression in theatre — telling apart the use of the voice and the use of the body in acting, applying the non-verbal elements in a simple scene, and training the body in stillness and focus as an expression tool | Book 6, printed p. 11 |
 | Egypt — Lesson 4, Monodrama… Me Alone: what monodrama is and how it differs from group performance — writing a short monodrama scene with an inner monologue that shows change and conflict, and performing it alone with voice and body held in focus to keep the audience | Book 6, printed p. 30 |
+| Guatemala — Improvisation: everyone improvises, creating performance on the spot — Experiencia 3 "Mi cuerpo habla" (Grade 4), activity "Todos a improvisar" (title/theme level; activity pages not in this PDF) (teacher guide — evidence; original target `drama-and-dance/mime-fables-and-first-plays`) | Book 7, printed p. 34 |
 
-**Acceptance count: taught in 1 country (Egypt).** Ethiopia teacher-guide evidence and Jamaica teacher curriculum-guide evidence are named here, counted nowhere.
+**Acceptance count: taught in 1 country (Egypt).** Ethiopia teacher-guide evidence, Jamaica teacher curriculum-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere.
 
 This lesson stands on teacher-guide evidence only — the Grade 3, 4 and 6 Addis Ababa teacher guides — and its acceptance line says so: the pupil-taught drama it supports lives in the built Drama and Dance lessons, and no part here is counted as pupil-taught. The fable plays and the named plays ("ቤት የለሽ ጨዋታ" and "ግመል") are placed by title and subject only, never transcribed, exactly as their placements require.
 

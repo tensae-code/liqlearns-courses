@@ -1,7 +1,7 @@
 # Sources — Colours Around Us
 
 
-countries: Ethiopia
+countries: Ethiopia, Guatemala
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia
 
 **Book 4:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–ii + body/syllabus to printed p. 80. Printed page = PDF page − 6 in the body. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
 
+**Book 5:** *Guía de orientaciones metodológicas para docentes de Segundo ciclo de primaria — Expresión artística: Expresemos y construyamos paz* (teacher guide, Spanish) — Guatemala, Ministerio de Educación de Guatemala (MINEDUC), with OEI Guatemala, 2017, no ISBN printed, Grades 4–6 (segundo ciclo de primaria), 51 PDF pp. TEACHER — teacher guide. Verdict: PARTIAL — this PDF is an excerpt: it holds the front matter and introduction (printed pp. 1–15), the opening page of every learning experience (printed pp. 23, 33, 41, 51, 61), and Grade 6 in full (printed pp. 62–91, incl. teacher orientations and bibliography). The Grade 4 and Grade 5 activity pages (printed pp. 16–22, 24–32, 34–40, 42–50, 52–60) are NOT in the file; Grade 4–5 placements below are made from each experience's opening page (competence, learning themes, methods) and its named activities in the contents, and are marked title/theme-level where that is all the evidence there is. Excluded per the placements: "Revisión de lo aprendido" (printed p. 75, revision), all autoevaluación/coevaluación checklists and teacher rubrics, and the bibliography (printed pp. 85–91 teacher orientations are method guidance, not pupil teaching content). The same PDF serves the grade-04, grade-05 and grade-06 records; it was read from the recorded archive.org source after the repo tree path returned 404 twice — byte size and pages match the record exactly, so the book is read, but the pushed copy is a PHANTOM PUSH (library debt). Placements at liqlearns-courses-work/expansion-art-2026-11-16/guatemala-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Yellow and red around us | Ethiopia, *Grade 1 Performing and Visual Arts Student Textbook*, printed p. 54 |
@@ -19,8 +21,9 @@ countries: Ethiopia
 | Sub lesson 4 — Blue: sky, water, calm | Ethiopia, *Grade 3 Performing and Visual Arts Student Textbook*, §1.2.3, Drawings 8–9 and Activities 12–13, printed pp. 10–11 |
 | Sub lesson 5 — Blue in Grade 1, and naming colours in pictures | Ethiopia, *Grade 1 Performing and Visual Arts Student Textbook*, printed p. 55 (Exercise 10, printed pp. 56–58) |
 | Sub lesson 6 — Colours around us in the teacher guides (teacher guide — evidence) | Ethiopia, *Grade 1 Performing and Visual Arts Teacher Guide*, §3.4, printed p. 51; Ethiopia, *Grade 2 Performing and Visual Arts Teacher Guide*, §3.4, printed pp. 49–52 (section-level citation — scan with no text layer) |
+| Guatemala — Telling colour tones apart and researching the culture's own techniques for obtaining colours — Experiencia 2 "Las manos creadoras" (Grade 4) (theme level; activity pages not in this PDF) (teacher guide — evidence; original target `visual-art/colours-from-our-own-culture`) | Book 5, printed p. 23 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 Sub lesson 6 rests on teacher-guide evidence only for its own content; it is labelled as evidence in the part name, in the lesson text and in this table. The Grade 2 teacher guide is a scan with no usable text layer, read visually; its citation here is at section level only, as its placements require. The lesson as a whole stands on the Grade 1 and Grade 3 student textbooks, so the acceptance count counts pupil-taught content. The Grade 1 Chapter 3 summary's line — colours distinguish our clothes and beautify the surroundings (plants green, flowers red and yellow) — is carried in Colours on Clothes and in the question stock of this lesson, under the folding rules.
 
