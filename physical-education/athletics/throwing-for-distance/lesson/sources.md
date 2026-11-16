@@ -1,6 +1,6 @@
 # Sources — Throwing for Distance
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China
+countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salvador
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -29,7 +29,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China
 | Kazakhstan — Quarter 1 — the thrower's special exercises and throwing a small ball for distance and at a target (teacher guide — evidence) (original target `athletics/throwing-for-distance`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 5 |
 | Tajikistan — Part 2, Throwing the Ball (Метание мяча) — throwing the small ball at horizontal and vertical targets from 3–4 m and throwing for distance (original target `athletics/throwing-for-distance`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~106–112 |
 | Thailand — Unit 8 (part 2) Throwing — movement with equipment: throwing (การขว้าง) (student book — MAC sample, PARTIAL) (original target `athletics/throwing-for-distance`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 8 (part 2), printed pp. 141–146 |
-**Acceptance count: taught in 5 countries (Ethiopia, Tajikistan, Thailand, Pakistan, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Tajikistan, Thailand, Pakistan, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count.
 
 Student books Grades 5–7 are complete. No page is claimed that the placements do not give.
 
@@ -73,5 +73,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-pla
 | China — throwing events technique improvement and application (original target `athletics/throwing-for-distance`) | China, *China Senior High PEP PE & Health*, 第九章 第三节 投掷, printed p. 170 |
 
 China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## El Salvador — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/el-salvador-pe-placements.md. El Salvador's book read for this expansion is the *Guía Metodológica de Educación Física, Primer Ciclo* (Grades 1–3) — a TEACHER guide, COMPLETE, read in full via its SlideShare scan (239 pages as scanned; no direct-download route exists for this record, as filed). El Salvador is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The other El Salvador records are record-only, as filed in the placements file: two MINED web index pages (ministry index pages, not books — no placements) and two study programmes (Bachillerato and III Ciclo), both UNREAD with 0 placements — study programmes are filed record-only and never placed — nothing is stocked from any of them. The guide's 4 Health-side placements are filed in el-salvador-health-placements.md and placed in the Health course, not in PE.
+
+**Book — El Salvador Grades 1–3 PE Guide (teacher guide — evidence):**
+## Book 1 — Guía Metodológica de Educación Física, Primer Ciclo (teacher guide, Spanish)
+- Title as printed: Guía Metodológica de Educación Física — 1er Ciclo, Educación Básica
+- Grade: Grades 1–3 (Primer Ciclo) (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación, El Salvador, with Plan International; year no year printed on cover (Sánchez Cerén presidency credits, 2014–2019); ISBN no ISBN printed
+- PDF pages: 239 pages as scanned on SlideShare (cover verified against the record title — cover reads "GUÍA METODOLÓGICA DE EDUCACIÓN FÍSICA / 1er CICLO"); read via the SlideShare page images and the full text transcript the SlideShare page serves — no direct-download route exists for this record
+- Verdict: COMPLETE
+- Tally: 51 placements — 26 to existing lessons, 25 NEW LESSON NEEDED (Health-side placements from this same guide are filed in el-salvador-health-placements.md: 4 placements)
+- El Salvador's own way: PE is organised in the same three units for every grade of the cycle — body awareness and orientation, then physical-motor and sporting skills, then body communication and protecting the organism — taught through named play sessions, with didactic resources made from recycled materials, and a bank of Salvadoran school games (juegos lúdicos) per grade in the annexes.
+
+| Lesson part | Where it comes from |
+|---|---|
+| El Salvador — Grade 3 Unit 2 Lesson 5 La fuerza al lanzar, empujar y golpear objetos — using force to throw, push and hit objects, and ways of catching (teacher guide — evidence) (original target `athletics/throwing-for-distance`) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide), printed p. 157 |
+
+El Salvador's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. El Salvador's own way is content, as the book lines above record it: PE is organised in the same three units for every grade of the cycle — body awareness and orientation, then physical-motor and sporting skills, then body communication and protecting the organism — taught through named play sessions, with didactic resources made from recycled materials, and a bank of Salvadoran school games (juegos lúdicos) per grade in the annexes. The guide is a teacher guide, filed as evidence only, outside the acceptance count. Game rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: throwing for distance, throwing a small ball and a stick, ring and javelin-style throwing, shot put, javelin, discus, physical education, Ethiopia

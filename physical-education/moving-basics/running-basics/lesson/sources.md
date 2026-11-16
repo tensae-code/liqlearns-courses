@@ -1,6 +1,6 @@
 # Sources — Running Basics
 
-countries: Ethiopia, Samoa, Thailand
+countries: Ethiopia, Samoa, Thailand, El Salvador
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Samoa, Thailand
 | Speed runs and ladder feet — Grade 8 | Ethiopia, Grade 8 student §3.5 Speed, printed pp. 33–35 |
 | Samoa — Fundamental movement, Year 1 — basic locomotive skills in space, in motion and for stability, and the different body parts and how they move (curriculum statement — evidence) (original target `moving-basics/running-basics`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 26 |
 | Thailand — Unit 7 (part 1) Travelling movement — what travelling movement means, and running in a set direction with correct running posture (student book — MAC sample, PARTIAL) (original target `moving-basics/running-basics`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 7 (part 1), printed pp. 117–121 |
-**Acceptance count: taught in 2 countries (Ethiopia, Thailand).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Thailand).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -33,5 +33,26 @@ Student books Grades 1–4 are complete. No page is claimed that the placements 
 The Grade 8 teacher guide scan is the worst-truncated of the series: it holds printed pp. 3–50 of 104+ (Chapters 1–3 complete); Chapters 4–7 entire (Athletics, Gymnastics, Ball skills, Cultural games, printed pp. 51–104+) are missing from the file. Where a Grade 8 part of this lesson rests on the complete Grade 8 student book, it says so in the table and no guide content is cited for it; teacher-guide rows are evidence only and never count as pupil-taught.
 
 Thailand's rows in this lesson rest on publisher sample editions (PARTIAL, as filed — see the book lines above): each sample carries its book's complete printed contents, and the placements are taken from those contents; the sample label is carried exactly as filed and is never upgraded to a complete read. Thailand enters this lesson as student-book stock, inside the acceptance count. Game and movement rules are taught only as the placements summarise them; no rules have been invented.
+
+## El Salvador — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/el-salvador-pe-placements.md. El Salvador's book read for this expansion is the *Guía Metodológica de Educación Física, Primer Ciclo* (Grades 1–3) — a TEACHER guide, COMPLETE, read in full via its SlideShare scan (239 pages as scanned; no direct-download route exists for this record, as filed). El Salvador is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The other El Salvador records are record-only, as filed in the placements file: two MINED web index pages (ministry index pages, not books — no placements) and two study programmes (Bachillerato and III Ciclo), both UNREAD with 0 placements — study programmes are filed record-only and never placed — nothing is stocked from any of them. The guide's 4 Health-side placements are filed in el-salvador-health-placements.md and placed in the Health course, not in PE.
+
+**Book — El Salvador Grades 1–3 PE Guide (teacher guide — evidence):**
+## Book 1 — Guía Metodológica de Educación Física, Primer Ciclo (teacher guide, Spanish)
+- Title as printed: Guía Metodológica de Educación Física — 1er Ciclo, Educación Básica
+- Grade: Grades 1–3 (Primer Ciclo) (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación, El Salvador, with Plan International; year no year printed on cover (Sánchez Cerén presidency credits, 2014–2019); ISBN no ISBN printed
+- PDF pages: 239 pages as scanned on SlideShare (cover verified against the record title — cover reads "GUÍA METODOLÓGICA DE EDUCACIÓN FÍSICA / 1er CICLO"); read via the SlideShare page images and the full text transcript the SlideShare page serves — no direct-download route exists for this record
+- Verdict: COMPLETE
+- Tally: 51 placements — 26 to existing lessons, 25 NEW LESSON NEEDED (Health-side placements from this same guide are filed in el-salvador-health-placements.md: 4 placements)
+- El Salvador's own way: PE is organised in the same three units for every grade of the cycle — body awareness and orientation, then physical-motor and sporting skills, then body communication and protecting the organism — taught through named play sessions, with didactic resources made from recycled materials, and a bank of Salvadoran school games (juegos lúdicos) per grade in the annexes.
+
+| Lesson part | Where it comes from |
+|---|---|
+| El Salvador — Grade 1 Unit 2 Lesson 5 Ubico correcto mi cuerpo al caminar y correr — posture and movement of head, trunk, arms and legs when walking and running (teacher guide — evidence) (original target `moving-basics/running-basics`) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide), printed p. 20 |
+| El Salvador — Grade 2 Unit 2 Lesson 3 Con mis pies bien puestos, camino y corro — posture and movement for walking and running well (teacher guide — evidence) (original target `moving-basics/running-basics`) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide), printed p. 94 |
+
+El Salvador's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. El Salvador's own way is content, as the book lines above record it: PE is organised in the same three units for every grade of the cycle — body awareness and orientation, then physical-motor and sporting skills, then body communication and protecting the organism — taught through named play sessions, with didactic resources made from recycled materials, and a bank of Salvadoran school games (juegos lúdicos) per grade in the annexes. The guide is a teacher guide, filed as evidence only, outside the acceptance count. Game rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: running basics, running on the spot, running like an eagle, somsoma shuttle running, running in place for your heart (teacher guide — evidence), physical education, Ethiopia

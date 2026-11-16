@@ -258,6 +258,35 @@ behaviour, sporting character), with traditional Chinese
 content (wushu, Taijiquan, folk sports, health-keeping
 qigong sets) beside Olympic and world sport.
 
+**PE expansion — El Salvador — BUILT 2026-11-16:** 51 placements
+from El Salvador's Guía Metodológica de Educación Física,
+Primer Ciclo (Grades 1–3, teacher guide, Spanish, COMPLETE,
+read in full via its SlideShare scan) stocked — 36 into
+existing lessons (including Body and Space Awareness,
+Correct Posture and The Body in Exercise, built earlier in
+this expansion) and 15 as 6 new lessons (Knowing My Body
+and How It Moves; Controlling My Body; Drill, Marching and
+Formations; Expressing with the Body; Fair Play and Playing
+by the Rules; Traditional Games of El Salvador) — bringing
+this course to **125 lessons**. The El Salvador guide is a
+teacher guide, filed as evidence only, outside the
+acceptance counts; the new lessons stand at acceptance
+count 0, founded on teacher-guide evidence only, no
+pupil's book in hand. No El Salvador placement resolves to
+a Health-course lesson, so none was excluded as
+Health-bound; the guide's 4 Health-side placements are
+filed in el-salvador-health-placements.md and placed in the
+Health course. The four record-only records (two MINED web
+index pages, not books; the Bachillerato and III Ciclo
+study programmes, both UNREAD) carry 0 placements.
+El Salvador's own way is content: PE organised in the same
+three units for every grade of the cycle — body awareness
+and orientation, then physical-motor and sporting skills,
+then body communication and protecting the organism —
+taught through named play sessions, with didactic resources
+made from recycled materials, and a bank of Salvadoran
+school games (juegos lúdicos) per grade in the annexes.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -272,6 +301,9 @@ qigong sets) beside Olympic and world sport.
 10. **Correct Posture** (`moving-basics/correct-posture`) — correct posture: holding the body well standing, sitting, walking, lifting and in sport — and recognising and correcting posture faults — taught in Pakistan's Grade 6 book as Posture, correct and faulty posture, inside the skeletal system and muscles chapter (Pakistan's student book).
 11. **Ice Skating** (`moving-basics/ice-skating`) — ice skating: the sport and its technique — taught in China's Senior High book as ice skating (滑冰) (China's student book).
 12. **Roller Skating** (`moving-basics/roller-skating`) — roller skating: choosing skates and protective gear, safe falling, standing up and basic technique — taught in China's Senior High book as roller skating (轮滑): safe falling and standing up, and basic technique (China's student book).
+13. **Knowing My Body and How It Moves** (`moving-basics/knowing-my-body-and-how-it-moves`) — knowing my body and how it moves: body parts, bones and joints, and the movements the body can make — taught in El Salvador's Grades 1–3 guide as Conociendo mi cuerpo (Grade 1: body schema and body image, the senses guiding movement), Conociendo y moviendo mi cuerpo (Grade 2: body structure and joint movement) and Muevo mi cuerpo globalmente y por partes (Grade 3: moving whole and by segments, the reflex-arc response) (El Salvador's teacher guide, evidence only).
+14. **Controlling My Body** (`moving-basics/controlling-my-body`) — controlling my body: moving body parts independently, controlling and stopping movements, and turning and spinning — taught in El Salvador's Grades 1–3 guide as holding one body segment still while others move (Grade 1), moving left and right sides differently at the same time (Grade 2), and bilateral efficiency with implements and independence of lower limbs from upper limbs (Grade 3) (El Salvador's teacher guide, evidence only).
+15. **Drill, Marching and Formations** (`moving-basics/drill-marching-and-formations`) — drill, marching and formations: falling in, attention and at-ease, turns, marching, and standing in rows, lines and circles — taught in El Salvador's Grades 1–3 guide as ¡Qué fácil organizarnos en grupo! (Grade 1): organising into pairs, trios, rows, columns and circles (El Salvador's teacher guide, evidence only).
 
 ## Unit 2 — Fitness and Stretching
 
@@ -298,6 +330,7 @@ qigong sets) beside Olympic and world sport.
 4. **Gymnastics with Apparatus** (`gymnastics/gymnastics-with-apparatus`) — gymnastics on apparatus — the box and the bars — always with a helper, always landing in control.
 5. **Moving to a Beat — Rhythmic Movement** (`gymnastics/moving-to-a-beat`) — moving in sequence to a beat — simple sequences first, then continuous, progressive, with equipment, and finally creating your own.
 6. **Gymnastics — Rules and Competition Types** (`gymnastics/gymnastics-rules-and-competition-types`) — the basic laws of gymnastics and its competition families — artistic, rhythmic and aerobics — as the Grade 8 book teaches them.
+7. **Expressing with the Body** (`gymnastics/expressing-with-the-body`) — expressing with the body: communicating feelings and ideas through body, face and mime, and dramatising situations — taught in El Salvador's Grades 1–3 guide as Me comunico con mi cuerpo (Grade 1: gestures and movement representing animals, natural things and feelings), Mi cuerpo se comunica (Grade 2: body language in everyday communication) and Comunicación con todo mi cuerpo (Grade 3: gesture and movement with verbal expression) (El Salvador's teacher guide, evidence only).
 
 ## Unit 4 — Athletics
 
@@ -342,6 +375,7 @@ qigong sets) beside Olympic and world sport.
 6. **Games for Self-Leadership** (`games-to-play/games-for-self-leadership`) — games that train leading yourself — holding your place, copying exactly, managing your feelings, keeping rules unwatched, and beating the clock fai…
 7. **Games for Self-Leadership and Positive Thinking** (`games-to-play/games-for-self-leadership-and-positive-thinking`) — Grade 4's renamed first games family — leading yourself, thinking positively, keeping your word, working patiently, resting, and respecting every p…
 8. **Games for Thinking Carefully** (`games-to-play/games-for-thinking-carefully`) — games that make you think carefully before you move — listen for the true command, aim through a narrow goal, group by the number called, and chang…
+9. **Fair Play and Playing by the Rules** (`games-to-play/fair-play-and-playing-by-the-rules`) — fair play and playing by the rules: making, accepting and practising a game's rules, and behaving well in play — taught in El Salvador's Grades 1–3 guide as ¡A jugar legal! (Grade 1: creating, accepting and practising the rules), Juguemos limpio (Grade 2: the rules' regulating role, playing clean) and Practiquemos las reglas del juego (Grade 3: practising rules, norms and instructions) (El Salvador's teacher guide, evidence only).
 
 ## Unit 7 — Traditional Games and Dances
 
@@ -376,6 +410,7 @@ qigong sets) beside Olympic and world sport.
 29. **Traditional Sports of China** (`traditional-games-and-dances/traditional-sports-of-china`) — China's traditional sports culture — its deep cultural meaning and body-and-mind harmony — and its ethnic folk sports: board-shoe racing, stilt racing, flower-cannon scramble, pearl ball, shuttlecock kicking, diabolo and dragon-boat racing (China's student book).
 30. **Wushu and Taijiquan** (`traditional-games-and-dances/wushu-and-taijiquan`) — Chinese martial arts — what wushu is, the Xingshen Quan form in the Changquan style with its hand forms and stances, and Taijiquan's Eight Methods and Five Steps beginner form (China's student book).
 31. **Chinese Health-Keeping Exercises** (`traditional-games-and-dances/chinese-health-keeping-exercises`) — the health-keeping exercise sets: Yijinjing, Wuqinxi (Five Animal Frolics) and Baduanjin (China's student book).
+32. **Traditional Games of El Salvador** (`traditional-games-and-dances/traditional-games-of-el-salvador`) — El Salvador's own school games, banked per grade in the guide's annexes (Anexos 3–5, Juegos lúdicos): Pañuelo de colores, Te toco… te sigo, Ladrón librado en parejas, Pelota por el túnel, Relevos locos, Pelota al espacio and the per-grade game banks (El Salvador's teacher guide, evidence only).
 
 ## Unit 8 — Sport and Its Story
 

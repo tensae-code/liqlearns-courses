@@ -1,8 +1,8 @@
 # Sources — The Body in Exercise
 
-countries: United Kingdom
+countries: United Kingdom, El Salvador
 
-**Acceptance count: taught in 1 country (United Kingdom).** United Kingdom is student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 1 country (United Kingdom).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count.
 
 **Book — United Kingdom GCSE Edexcel PE student book (student book):** *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (student book, English) — Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition") — Grade: GCSE, Years 10–11 (student/teacher: STUDENT) — Publisher: Pearson Education; year first published 2016 (2nd edition; imprint number line 19 18 17 16); ISBN 978 1 29212 988 4 — PDF pages: 228 (cover verified against the record title; file size 20,156,655 B and MD5 match the archive.org item metadata exactly). Verdict: COMPLETE — read in full via the extracted text layer. The book's own "Preparing for your exam" sections (printed pp. 118, 176) are assessment preparation — named here, excluded from placements per the standing exclusions; the glossary (p. 205) and index (p. 210) are inventory-only, named, not placed. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-kingdom-pe-placements.md. United Kingdom's own way: PE at GCSE is an examined academic subject — anatomy, physiology, movement analysis and training theory, plus health, psychology and the sociology of sport, with practical performance in three chosen activities and a written Personal Exercise Programme. The second United Kingdom record, *Edexcel GCSE Physical Education Student Book* (2009 edition, Pearson (Edexcel), archive.org item `edexcelgcsephysi0000scot`), is UNREAD — lending-restricted on archive.org, direct GET returned 401/403, no login routes permitted — with 0 placements; nothing is stocked from it.
 
@@ -13,5 +13,25 @@ countries: United Kingdom
 | Sub lesson 3 — Muscles and how they produce movement — the muscles and how bones, joints and muscles together produce movement (original target `fitness-and-stretching/the-musculo-skeletal-system`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 1.1, printed p. 1 |
 
 This is a canonical NEW lesson (slug-registry Part 1: `fitness-and-stretching/the-body-in-exercise` — The body in exercise: bones, joints, muscles and the body systems that produce movement); the United Kingdom placement was filed under the original string `fitness-and-stretching/the-musculo-skeletal-system`, resolved to this canonical slug by registry Part 2 and recorded in the provenance rows above. United Kingdom enters this lesson as student-book stock, inside the acceptance count. The single placement was split by its three named parts — bones, joints, and muscles and how they produce movement — all on the same source and page as filed.
+
+## El Salvador — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/el-salvador-pe-placements.md. El Salvador's book read for this expansion is the *Guía Metodológica de Educación Física, Primer Ciclo* (Grades 1–3) — a TEACHER guide, COMPLETE, read in full via its SlideShare scan (239 pages as scanned; no direct-download route exists for this record, as filed). El Salvador is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The other El Salvador records are record-only, as filed in the placements file: two MINED web index pages (ministry index pages, not books — no placements) and two study programmes (Bachillerato and III Ciclo), both UNREAD with 0 placements — study programmes are filed record-only and never placed — nothing is stocked from any of them. The guide's 4 Health-side placements are filed in el-salvador-health-placements.md and placed in the Health course, not in PE.
+
+**Book — El Salvador Grades 1–3 PE Guide (teacher guide — evidence):**
+## Book 1 — Guía Metodológica de Educación Física, Primer Ciclo (teacher guide, Spanish)
+- Title as printed: Guía Metodológica de Educación Física — 1er Ciclo, Educación Básica
+- Grade: Grades 1–3 (Primer Ciclo) (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación, El Salvador, with Plan International; year no year printed on cover (Sánchez Cerén presidency credits, 2014–2019); ISBN no ISBN printed
+- PDF pages: 239 pages as scanned on SlideShare (cover verified against the record title — cover reads "GUÍA METODOLÓGICA DE EDUCACIÓN FÍSICA / 1er CICLO"); read via the SlideShare page images and the full text transcript the SlideShare page serves — no direct-download route exists for this record
+- Verdict: COMPLETE
+- Tally: 51 placements — 26 to existing lessons, 25 NEW LESSON NEEDED (Health-side placements from this same guide are filed in el-salvador-health-placements.md: 4 placements)
+- El Salvador's own way: PE is organised in the same three units for every grade of the cycle — body awareness and orientation, then physical-motor and sporting skills, then body communication and protecting the organism — taught through named play sessions, with didactic resources made from recycled materials, and a bank of Salvadoran school games (juegos lúdicos) per grade in the annexes.
+
+| Lesson part | Where it comes from |
+|---|---|
+| El Salvador — Grade 3 Unit 2 Lesson 1 Las articulaciones en mi cuerpo — joint lubrication and how the neck, shoulder, arm, trunk, leg and foot joints move (teacher guide — evidence) (original target `fitness-and-stretching/how-our-joints-move`) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide), printed p. 157 |
+
+El Salvador's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. El Salvador's own way is content, as the book lines above record it: PE is organised in the same three units for every grade of the cycle — body awareness and orientation, then physical-motor and sporting skills, then body communication and protecting the organism — taught through named play sessions, with didactic resources made from recycled materials, and a bank of Salvadoran school games (juegos lúdicos) per grade in the annexes. The guide is a teacher guide, filed as evidence only, outside the acceptance count. Game rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: the body in exercise, musculo-skeletal system, bones, joints, muscles, movement, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book

@@ -1,8 +1,8 @@
 # Sources — Correct Posture
 
-countries: Pakistan, China
+countries: Pakistan, China, El Salvador
 
-**Acceptance count: taught in 2 countries (Pakistan, China).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Pakistan, China).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -44,5 +44,28 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-pla
 | China — body-shaping exercise: posture combination practice and fitness through form (original target `fitness-and-stretching/body-shaping-and-posture-practice`) | China, *China Senior High PEP PE & Health*, 第二章 第六节 形体练习与健身, printed p. 34 |
 
 China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## El Salvador — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/el-salvador-pe-placements.md. El Salvador's book read for this expansion is the *Guía Metodológica de Educación Física, Primer Ciclo* (Grades 1–3) — a TEACHER guide, COMPLETE, read in full via its SlideShare scan (239 pages as scanned; no direct-download route exists for this record, as filed). El Salvador is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The other El Salvador records are record-only, as filed in the placements file: two MINED web index pages (ministry index pages, not books — no placements) and two study programmes (Bachillerato and III Ciclo), both UNREAD with 0 placements — study programmes are filed record-only and never placed — nothing is stocked from any of them. The guide's 4 Health-side placements are filed in el-salvador-health-placements.md and placed in the Health course, not in PE.
+
+**Book — El Salvador Grades 1–3 PE Guide (teacher guide — evidence):**
+## Book 1 — Guía Metodológica de Educación Física, Primer Ciclo (teacher guide, Spanish)
+- Title as printed: Guía Metodológica de Educación Física — 1er Ciclo, Educación Básica
+- Grade: Grades 1–3 (Primer Ciclo) (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación, El Salvador, with Plan International; year no year printed on cover (Sánchez Cerén presidency credits, 2014–2019); ISBN no ISBN printed
+- PDF pages: 239 pages as scanned on SlideShare (cover verified against the record title — cover reads "GUÍA METODOLÓGICA DE EDUCACIÓN FÍSICA / 1er CICLO"); read via the SlideShare page images and the full text transcript the SlideShare page serves — no direct-download route exists for this record
+- Verdict: COMPLETE
+- Tally: 51 placements — 26 to existing lessons, 25 NEW LESSON NEEDED (Health-side placements from this same guide are filed in el-salvador-health-placements.md: 4 placements)
+- El Salvador's own way: PE is organised in the same three units for every grade of the cycle — body awareness and orientation, then physical-motor and sporting skills, then body communication and protecting the organism — taught through named play sessions, with didactic resources made from recycled materials, and a bank of Salvadoran school games (juegos lúdicos) per grade in the annexes.
+
+| Lesson part | Where it comes from |
+|---|---|
+| El Salvador — Grade 1 Unit 3 Lesson 3 Con buena postura soy sano — healthy posture standing and sitting, and the right posture for lifting or pushing objects from the floor (teacher guide — evidence) (original target `fitness-and-stretching/healthy-posture`) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide), printed pp. 21–22 |
+| El Salvador — Grade 2 Unit 1 Lesson 5 La mejor postura en mis actividades físicas — correct postures for jumping, running, throwing, pushing, turning and forward rolls (teacher guide — evidence) (original target `fitness-and-stretching/healthy-posture`) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide), printed p. 93 |
+| El Salvador — Grade 2 Unit 3 Lesson 3 Saludablemente de pie y sentado — telling unhealthy from healthy postures standing and sitting (teacher guide — evidence) (original target `fitness-and-stretching/healthy-posture`) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide), printed p. 95 |
+| El Salvador — Grade 3 Unit 3 Lesson 3 Mis actividades físicas con postura correcta — correct body posture in physical activities, including posture in running (teacher guide — evidence) (original target `fitness-and-stretching/healthy-posture`) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide), printed p. 159 |
+
+El Salvador's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. El Salvador's own way is content, as the book lines above record it: PE is organised in the same three units for every grade of the cycle — body awareness and orientation, then physical-motor and sporting skills, then body communication and protecting the organism — taught through named play sessions, with didactic resources made from recycled materials, and a bank of Salvadoran school games (juegos lúdicos) per grade in the annexes. The guide is a teacher guide, filed as evidence only, outside the acceptance count. Game rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: correct posture, posture, faulty posture, درست قامت, Pakistan Grade 6 Sehat-o-Jismani Taleem

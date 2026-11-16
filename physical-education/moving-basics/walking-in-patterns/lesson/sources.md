@@ -1,6 +1,6 @@
 # Sources — Walking in Patterns
 
-countries: Ethiopia, Mozambique, Kazakhstan
+countries: Ethiopia, Mozambique, Kazakhstan, El Salvador
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -28,7 +28,7 @@ countries: Ethiopia, Mozambique, Kazakhstan
 | Mozambique — 2.ª Parte, Exercícios de organização e controlo: Formaturas — organisation and control exercises: the basic formations, done to command voices (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Exercícios de organização e controlo: Formaturas, printed p. 200 |
 | Mozambique — 2.ª Parte, Marchas — marching: files and columns all moving in the same direction (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Marchas, printed p. 204 |
 | Kazakhstan — All quarters — drill/formation exercises (строевые упражнения): turns, counting off, reforming ranks, and marching on the count (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 20, 48 |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1.
+**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count.
 
 The Grade 4 teacher guide scan is TRUNCATED: it holds printed pp. 1–39 of 72+. Missing: all of Chapter 4 (pp. 40–54), Chapter 5 Gymnastics (pp. 55–65) and Chapter 6 (pp. 66–72+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -39,5 +39,25 @@ The Grade 8 teacher guide scan is the worst-truncated of the series: it holds pr
 The Grade 9 books are the English federal 2023 GEQIP-E series (the Grades 1–8 books are Amharic-medium); Grade 9–10 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 
 The Grade 2 teacher guide scan is TRUNCATED: it holds printed pp. 1–41 of 85. Missing: all of Chapter 4 (pp. 42–60), Chapter 5 Gymnastics (pp. 61–72), Chapter 6 (pp. 73–83), the glossary (p. 84) and the references (p. 85). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
+
+## El Salvador — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/el-salvador-pe-placements.md. El Salvador's book read for this expansion is the *Guía Metodológica de Educación Física, Primer Ciclo* (Grades 1–3) — a TEACHER guide, COMPLETE, read in full via its SlideShare scan (239 pages as scanned; no direct-download route exists for this record, as filed). El Salvador is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The other El Salvador records are record-only, as filed in the placements file: two MINED web index pages (ministry index pages, not books — no placements) and two study programmes (Bachillerato and III Ciclo), both UNREAD with 0 placements — study programmes are filed record-only and never placed — nothing is stocked from any of them. The guide's 4 Health-side placements are filed in el-salvador-health-placements.md and placed in the Health course, not in PE.
+
+**Book — El Salvador Grades 1–3 PE Guide (teacher guide — evidence):**
+## Book 1 — Guía Metodológica de Educación Física, Primer Ciclo (teacher guide, Spanish)
+- Title as printed: Guía Metodológica de Educación Física — 1er Ciclo, Educación Básica
+- Grade: Grades 1–3 (Primer Ciclo) (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación, El Salvador, with Plan International; year no year printed on cover (Sánchez Cerén presidency credits, 2014–2019); ISBN no ISBN printed
+- PDF pages: 239 pages as scanned on SlideShare (cover verified against the record title — cover reads "GUÍA METODOLÓGICA DE EDUCACIÓN FÍSICA / 1er CICLO"); read via the SlideShare page images and the full text transcript the SlideShare page serves — no direct-download route exists for this record
+- Verdict: COMPLETE
+- Tally: 51 placements — 26 to existing lessons, 25 NEW LESSON NEEDED (Health-side placements from this same guide are filed in el-salvador-health-placements.md: 4 placements)
+- El Salvador's own way: PE is organised in the same three units for every grade of the cycle — body awareness and orientation, then physical-motor and sporting skills, then body communication and protecting the organism — taught through named play sessions, with didactic resources made from recycled materials, and a bank of Salvadoran school games (juegos lúdicos) per grade in the annexes.
+
+| Lesson part | Where it comes from |
+|---|---|
+| El Salvador — Grade 1 Unit 1 Lesson 6 Nos orientamos al movernos — travelling in straight lines, curves and zigzags, near and far (teacher guide — evidence) (original target `moving-basics/travelling-in-straight-curved-and-zigzag-paths`) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide), printed p. 18 |
+
+El Salvador's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. El Salvador's own way is content, as the book lines above record it: PE is organised in the same three units for every grade of the cycle — body awareness and orientation, then physical-motor and sporting skills, then body communication and protecting the organism — taught through named play sessions, with didactic resources made from recycled materials, and a bank of Salvadoran school games (juegos lúdicos) per grade in the annexes. The guide is a teacher guide, filed as evidence only, outside the acceptance count. Game rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: walking in patterns, walking hand in hand, walking the lines and shapes, walking while rolling a ball, walking the line in balance (teacher guide — evidence), physical education, Ethiopia, Selame Selame — greet, pass the cloth, change places (teacher guide — evidence)

@@ -165,3 +165,17 @@ Skating** (`moving-basics/ice-skating`), **Roller Skating**
 Hiking** (`athletics/orienteering-and-hiking`) and **Rope
 Skipping** (`fitness-and-stretching/rope-skipping`)
 — 11 new lessons, bringing this course to 119 lessons.
+
+The PE expansion then added: **Knowing My Body and
+How It Moves**
+(`moving-basics/knowing-my-body-and-how-it-moves`),
+**Controlling My Body** (`moving-basics/controlling-my-body`),
+**Drill, Marching and Formations**
+(`moving-basics/drill-marching-and-formations`),
+**Expressing with the Body**
+(`gymnastics/expressing-with-the-body`), **Fair Play and
+Playing by the Rules**
+(`games-to-play/fair-play-and-playing-by-the-rules`) and
+**Traditional Games of El Salvador**
+(`traditional-games-and-dances/traditional-games-of-el-salvador`)
+— 6 new lessons, bringing this course to 125 lessons.
