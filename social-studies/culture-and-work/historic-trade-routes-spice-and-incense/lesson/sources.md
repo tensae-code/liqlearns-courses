@@ -1,6 +1,6 @@
 # Sources — Historic Trade Routes Spice and Incense
 
-countries: South Sudan, Palestine, Iraq
+countries: South Sudan, Palestine, Iraq, Costa Rica
 
 **Book 1:** *Secondary Geography 3 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 3 Student's Book. Grade: Secondary 3 / Grade 11 (student/teacher: STUDENT). PDF pages: 137 (cover/title page verified against the record title). Verdict: COMPLETE — read from the publisher source file (cgatechnologies.org.uk, the record's own source_url) because the repo route 404s: this book is NOT in GitHub (books.json in_pushed: false). Downloaded file is 22,614,974 bytes, exactly the recorded size_bytes. Staged under the 2026-11-13 rule at phase3-staging/grade-11/gov/south-sudan/geography/student/full-year.pdf (books.json record already present there). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -27,7 +27,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Iraq part — Economic organisations in pre-Islamic Arabia — teaches: herding, farming and trade as the peninsula's economic life before Islam — Mecca's winter and summer caravans, the goods traded (silk from China among them) and the seasonal markets such as Dhu al-Majaz; Mecca's own economic conditions follow from its water scarcity and trade position | Iraq, *Iraq Grade 8 Social Studies*, Economic organisations in pre-Islamic Arabia — printed p. 76 |
 
-**Acceptance count: taught in 3 countries (South Sudan, Palestine, Iraq).**
+**Book 5:** *Antología CONED — Materia: Estudios Sociales, Código: 80017 (as printed), Nivel: Noveno año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2018 (© 2018, CONED; 2018 file); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80017 (as printed), Nivel: Noveno año. Grade: 9 (student/teacher: STUDENT). PDF pages: 183 (cover/title page verified against the record title; byte size 7,447,365 and page count match the books.json record exactly; the TSV record is the same book). Verdict: COMPLETE. Contents map: Economics parts pp. 14–15 (feudal economy), 40–41 and 54–56 (Crusades and the late-medieval revival of trade and money), 68 and 74–75 (mercantile competition and the spice routes), 102–109 (colonial extraction, mining tax, cacao money, tobacco monopoly, triangular trade, forced labour), 116 (mercantilism), 136–138 (trade monopoly as a cause of independence), 145–150 (Industrial Revolution, laissez-faire, proletariat, migration), 169–179 (Costa Rica's agro-export model: coffee and the banana enclave); History pp. 5–101, 110–135, 152–168 (fall of Rome, Church and Islam, Renaissance/Reformation, conquest, absolutism, Enlightenment, French Revolution, independence, formation of the Costa Rican state — named, not placed); Civics pp. 122–130 (French Revolution and the Declaration of the Rights of Man, named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Las rutas de la seda y de las especias — teaches: Asian spices, silks and gems reached Europe by sea and by the Silk Road until the Turks held the routes, forcing the search for new sea routes | Costa Rica, *Estudios Sociales CONED 9*, Grade 9 — printed pp. 74–75 |
+
+**Acceptance count: taught in 4 countries (South Sudan, Palestine, Iraq, Costa Rica).**
+
+Costa Rica's own way (Estudios Sociales CONED 9): world economic history is the road into Costa Rica's own story — the book ends with the 19th-century agro-export model: coffee making a wage-labour economy and a coffee oligarchy, then the UFCO banana enclave on the Caribbean.
 
 Iraq's own way (Iraq Grade 8 Social Studies): Grade 8 teaches the Arab world as one economic space — its crops, animals, oil and minerals, the conditions that make industry succeed, and its trade, foreign and domestic — after a first term spent on the same resources governorate by governorate at home.
 

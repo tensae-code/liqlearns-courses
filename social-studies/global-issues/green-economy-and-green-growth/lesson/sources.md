@@ -1,6 +1,6 @@
 # Sources — Green economy and green growth
 
-countries: Ethiopia, Jamaica, Bangladesh, Iran
+countries: Ethiopia, Jamaica, Bangladesh, Iran, Costa Rica
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -27,7 +27,23 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Iran part — Economics expansion — Lesson 24, green-productivity sections: green productivity (بهره‌وری سبز) — using tools, methods and technologies at every stage of production, distribution and consumption so that activities' harmful effects on the environment fall to the least possible; pesticide overuse that poisons water, soil and people as the counter-case, with farmer education and supervision as the ministry's duty; standards applied to inputs, processes and outputs as a road to productivity | Iran, *Iran Grade 9 Social Studies*, Lesson 24, green-productivity sections — Iran Grade 9 Social Studies, printed p. 167 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, Iran). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Book 5:** *Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año. Grade: 7 (student/teacher: STUDENT). PDF pages: 166 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 19–29 (Neolithic surplus/barter/division of labour), 66–80 (economic organisation of Maya, Aztec and Inca), 94–105 (ecological footprint), 130–136 (forest conservation incentives / payment for environmental services), 137–165 (world food production, poverty and food access, food security); History pp. 6–93 (hominisation, ancient Mesopotamia/Egypt, Greece/Rome, indigenous peoples of Costa Rica — their short descriptive "economic activities" paragraphs are History content, named here, not placed); Geography pp. 106–129 (terrestrial ecosystems and tropical forests) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Estrategias de conservación boscosa: pago por servicios ambientales — teaches: Costa Rica pays landowners who let land regenerate or keep forest, plus tax exemptions, under the 1996 Forestry Law PSA scheme run with Fonafifo — case study Costa Rica and Guatemala | Costa Rica, *Estudios Sociales CONED 7*, Grade 7 — printed pp. 135–136 |
+
+**Book 6:** *Antología CONED — Materia: Estudios Sociales, Código: 80017, Nivel: Octavo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80017, Nivel: Octavo año. Grade: 8 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; byte size 3,313,970 and page count match the record exactly). Verdict: COMPLETE. Contents map: Economics parts printed pp. 32–44 (water as a scarce resource and its economic effects), 49–53 (emissions, growth and the developed/developing gap), 68–82 (climate vulnerability and adaptation in key economic sectors), 86–94 (renewable energy, carbon compensation and PSA); Geography pp. 6–31 (plate tectonics, seismic/volcanic risk and landscapes) and 45–64 (climate change science and effects); Civics/global governance pp. 83–85 (Paris Agreement, named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Sistema de pagos por servicios ambientales (PSA) — teaches: while Latin America cleared forest for commercial agriculture (70% of 2000–2010 deforestation, FAO), Costa Rica reversed the trend with state incentives and its PSA programme and grew its forest cover | Costa Rica, *Estudios Sociales CONED 8*, Grade 8 — printed p. 92 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Iran, Costa Rica). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+
+Costa Rica's own way (Estudios Sociales CONED 7): Economics is taught inside history and geography — the Neolithic surplus as the first economy, pre-Columbian markets and tribute, then Costa Rica's own ecological footprint/ecological debt (Estado de la Nación 2016 data) and its world-famous payment-for-environmental-services (PSA/Fonafifo) forest scheme as the national case studies.
+
+Costa Rica's own way (Estudios Sociales CONED 8): a climate-and-water book — Economics enters as resource scarcity: water rationing stopping factories and housing in Costa Rica, the country's 98% renewable electricity mix, and carbon compensation flowing from developed to developing countries.
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 

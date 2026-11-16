@@ -1,0 +1,24 @@
+# Sources — External and internal public debt in Costa Rica
+
+countries: Costa Rica
+
+**Book 1:** *Antología CONED — Materia: Estudios Sociales, Código: 80029, Nivel: Undécimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED; the record's file is the 2018 file); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80029, Nivel: Undécimo año. Grade: 11 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 3,190,948 and page count match the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 8–20 (globalisation waves, scale economies, international division of labour, transnational corporations in Costa Rica), 25–28 (technology and new forms of work), 32–35 (world inequality, poverty, external debt and dependency), 41–54 (Costa Rica's agro-export dependence, González Flores's tax and banking reforms, Tinoco's monetary policies, the 1929 crisis at home), 64–68 (women entering paid work, named), 77–85 (import-substitution model, balance-of-payments deficit, the entrepreneur/welfare state and its exhaustion), 99–110 (the 1980s crisis, public debt, structural adjustment PAEs, non-traditional exports and free zones); History/Civics pp. 21–24, 36–40, 55–98, 111–122 (culture, democracy building, 1948 civil war and social reform, party politics, social movements and the CAFTA protests — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Deuda externa y deuda interna | Costa Rica, *Estudios Sociales CONED 11*, Deuda externa y deuda interna — printed p. 102 |
+| Sub lesson 2 — Deuda externa y deuda interna — more | Costa Rica, *Estudios Sociales CONED 11*, Deuda externa y deuda interna — printed p. 102 |
+
+**Book 2:** *Estudios Sociales 11 (Publicaciones Porras; "Nuevos Programas de Estudio")* (student book, Spanish) — Publicaciones Porras y Gamboa, 1ª ed., San José, C.R. (Editorial Compas ERV); year 2018; ISBN 978-9930-9622-3-7 (as printed on the colophon; the record title transcribes it as 978-9990-96223-7 — the printed book wins). Title as printed: Estudios Sociales 11 (Publicaciones Porras; "Nuevos Programas de Estudio"). Grade: 11 (student/teacher: STUDENT). PDF pages: 200 (cover and colophon verified visually against the record; byte size 56,329,080 and page count match the record exactly; the TSV record is the same book). Image-only scan — read via page renders/contact sheets, Economics parts read in full.. Verdict: COMPLETE. Contents map: Economics parts pp. 12–21 (basic concepts, globalisation, world trade, transnationals), 30–35 (call centres, GDP structure, Costa Rica's services economy), 44–47 (GDP, world inequality and poverty), 60–73 (agro-export model, its 1914 and 1929 crises, González Flores's reforms, banana enclave, cooperatives), 80–81 (coffee labour, women's work), 88–94 (Second World War shock, CCSS social security, labour code and social guarantees), 105–113 (import substitution, Central American Common Market, state banking, CODESA entrepreneur state, exhaustion of the welfare state), 117–121 (income distribution, middle class, ITCO land reform), 136–148 (1980s crisis, public debt, PAEs I–III, non-traditional exports, free-trade agreements, costs of adjustment); History/Civics pp. 22–43, 48–59, 74–87, 95–104, 114–135, 149–163 (culture, electoral reform, 1948 civil war, Constitution, party system, social movements and strikes — named, not placed); Assessment pp. 168–199 (Unit 4, Bachillerato practice exams — excluded as assessment, named here); Bibliography p. 200 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 3 — Conceptos básicos: deuda interna y deuda externa | Costa Rica, *Estudios Sociales 11, Porras y Gamboa*, Conceptos básicos: deuda interna y deuda externa — printed p. 137 |
+
+**Acceptance count: taught in 1 country (Costa Rica).**
+
+Costa Rica's own way (Estudios Sociales CONED 11): the full national economic story in one book — agro-export dependence, the first state-intervention reforms of 1914, import substitution under the welfare state, then the 1980s crisis and the PAE adjustment that opened the economy and courted Intel and the free zones.
+
+Costa Rica's own way (Estudios Sociales 11, Porras y Gamboa): a commercial textbook built on the same national programme as the CONED anthology but with far more economic detail — full PAE I/II/III measure lists, the CAT export-certificate fraud, state banking's six effects, and Costa Rica's services/call-centre economy measured against the region.
+
+Searchable tags: external and internal public debt in costa rica, costa rica, social studies, macroeconomics

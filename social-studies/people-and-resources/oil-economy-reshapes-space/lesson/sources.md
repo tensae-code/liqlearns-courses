@@ -1,6 +1,6 @@
 # Sources — Oil Economy Reshapes Space
 
-countries: Venezuela
+countries: Venezuela, Costa Rica
 
 **Book 1:** *Venezuela y su gente — Ciencias Sociales 5to Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-303-6. Title as printed: Venezuela y su gente — Ciencias Sociales 5to Grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 83 (printed pages run to 160; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: the 19th-century republican block (printed pp. 59–124): Cuando la historia anduvo a caballo sembrando repúblicas (p. 59); Las cosas cambian… y los pueblos cambian su historia; separation from Gran Colombia; the Federal War and the constitutions of the century.; Civics parts named, not placed: Somos parte de la ciudadanía (p. 125); En primer lugar nuestra escuela (p. 126); Satisfacer necesidades básicas es un derecho humano (p. 128); Los derechos humanos y nuestra constitución (p. 132); La ley fundamental es la constitución (p. 136); Por qué y para qué un poder municipal y uno estadal (p. 144); Nuestra cultura nos identifica como pueblo (p. 148); La bandera nacional tiene una historia (p. 156).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
@@ -19,7 +19,15 @@ countries: Venezuela
 |---|---|
 | Venezuela part — Impacto de la economía petrolera en la población: how the oil economy moved and grew Venezuela's population, with state-by-state population tables across the oil decades and areas where the agricultural economy reactivated | Venezuela, *Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish*, Impacto de la economía petrolera en la población — printed p. 18 |
 
-**Acceptance count: taught in 1 country (Venezuela).**
+**Book 4:** *Antología CONED — Materia: Estudios Sociales, Código: 80023, Nivel: Décimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED; 2017 file); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80023, Nivel: Décimo año. Grade: 10 (student/teacher: STUDENT). PDF pages: 255 (cover/title page verified against the record title; byte size 11,879,619 and page count match the books.json record exactly; the TSV record is the same book). Verdict: COMPLETE. Contents map: Economics parts pp. 6 (economic roots of imperialism), 42–46 (the 1920s, Taylorism, the 1929 crisis, the Depression and the New Deal), 63–65 (Bretton Woods), 107–108 (Venezuela's oil economy), 123–134 (Cold War economic models, the oil crisis, the 1980s debt crisis and adjustment, perestroika), 143–149 (China's trade with Africa and Latin America; Costa Rica–China trade and the 2011 FTA), 184–190 (the neoliberal model in Latin America), 238–241 (economic migration); History pp. 5–62 and 66–183 (both World Wars, Russian Revolution, fascism, Cold War conflicts, decolonisation, contemporary geopolitics — named, not placed); Geography pp. 195–237 (population dynamics and Costa Rican population change, named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Venezuela y el petróleo — teaches: oil made Venezuela one of the countries least hit by the early-20th-century crisis and later gave an oil bonanza — but by 1983 imports and external debt were very high, fuelling social struggles | Costa Rica, *Estudios Sociales CONED 10*, Grade 10 — printed pp. 107–108 |
+
+**Acceptance count: taught in 2 countries (Venezuela, Costa Rica).**
+
+Costa Rica's own way (Estudios Sociales CONED 10): a world-history book whose economics spine runs crisis to crisis — 1929, Bretton Woods, oil shocks, the Latin American debt crisis and neoliberal adjustment — ending at home with Costa Rica's trade opening to China and its shallower, state-keeping reform path.
 
 Venezuela's own way (Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish): G6 names the system outright — capitalism, dependent capitalism and the informal economy are defined in the pupil's own book, and development is redefined as gains in people's standard of living with the least environmental damage. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 

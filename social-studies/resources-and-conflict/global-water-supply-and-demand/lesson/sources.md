@@ -1,6 +1,6 @@
 # Sources — Global Water Supply and Demand
 
-countries: United Kingdom, Bolivia
+countries: United Kingdom, Bolivia, Costa Rica
 
 **Book 1:** *GCSE Geography AQA (Student Book)* (student book, English) — United Kingdom, Oxford University Press; year 2016; ISBN 978-0-19-836661-4; authors Nicholas Rowles, David Holmes, Bob Digby; series editor Simon Ross. Title as printed: GCSE Geography AQA (Student Book). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 356 (record figure; printed book pagination used in the rows below). Verdict: COMPLETE. Records note: 2 records / 1 distinct book (TSV release record + books.json record for the same book) / read via the book's archive.org source (archive.org item gcse-aqa-geography-student-book: EPUB + full OCR text of the same 355.2 MiB PDF whose byte size matches the books.json record's 372,407,314 bytes; title page and ISBN page verified from that OCR text) — the 372 MB GitHub release copy itself was not re-downloaded; the identical archive.org scan was read instead (all 24 chapters, contents pp. 4-5, glossary p. 346, index p. 350) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/united-kingdom-placements.md.
 
@@ -15,7 +15,15 @@ countries: United Kingdom, Bolivia
 |---|---|
 | Bolivia part — El agua: ¿mercancía, derecho humano o fuerza de vida? (Year 4) — teaches: three visions of water — the neoliberal (a means to generate economic resources, privatisable and marketable, "blue gold", traded on the stock exchange since December 2020), the humanist (a basic human right, recognised by the UN in 2010; 884 million people without safe drinking water) and the indigenous peoples' (water as a living being, the blood of the earth) (teacher guide — evidence) | Bolivia, *Bolivia Compendio Ciencias Sociales*, El agua: ¿mercancía, derecho humano o fuerza de vida? (Year 4) — PDF p. 160 |
 
-**Acceptance count: taught in 1 country (United Kingdom). Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+**Book 3:** *Antología CONED — Materia: Estudios Sociales, Código: 80017, Nivel: Octavo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80017, Nivel: Octavo año. Grade: 8 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; byte size 3,313,970 and page count match the record exactly). Verdict: COMPLETE. Contents map: Economics parts printed pp. 32–44 (water as a scarce resource and its economic effects), 49–53 (emissions, growth and the developed/developing gap), 68–82 (climate vulnerability and adaptation in key economic sectors), 86–94 (renewable energy, carbon compensation and PSA); Geography pp. 6–31 (plate tectonics, seismic/volcanic risk and landscapes) and 45–64 (climate change science and effects); Civics/global governance pp. 83–85 (Paris Agreement, named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — El recurso hídrico: escasez y reparto — teaches: facing water scarcity means sharing water equitably between irrigation, industry and domestic use, with about 50 litres per person per day as the basic-needs benchmark, while rivers dry and aquifers are exhausted by over-consumption | Costa Rica, *Estudios Sociales CONED 8*, Grade 8 — printed p. 35 |
+
+**Acceptance count: taught in 2 countries (United Kingdom, Costa Rica). Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+
+Costa Rica's own way (Estudios Sociales CONED 8): a climate-and-water book — Economics enters as resource scarcity: water rationing stopping factories and housing in Costa Rica, the country's 98% renewable electricity mix, and carbon compensation flowing from developed to developing countries.
 
 Bolivia's own way (Bolivia Compendio Ciencias Sociales): economics is taught almost entirely through Bolivia's own history — the colonial extraction institutions (encomienda, mita, tribute), the silver-to-tin mining cycles and the barons who captured them, and the recurring national answers: nationalisation (1937, 1952, 2006), agrarian reform, stabilisation plans and the plurinational rejection of water privatisation.
 

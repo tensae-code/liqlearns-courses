@@ -1,6 +1,6 @@
 # Sources — Expansionary fiscal policy
 
-countries: Ethiopia, France, Indonesia, Bolivia
+countries: Ethiopia, France, Indonesia, Bolivia, Costa Rica
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -28,7 +28,15 @@ countries: Ethiopia, France, Indonesia, Bolivia
 |---|---|
 | Bolivia part — La recuperación de la crisis: el "New Deal" y las políticas keynesianas (Year 5) — teaches: the state invested in labour-intensive branches (construction and infrastructure) and expanded public services (education and health) to create jobs, giving workers and the middle class purchasing power whose demand reactivated industry (teacher guide — evidence) | Bolivia, *Bolivia Compendio Ciencias Sociales*, La recuperación de la crisis: el "New Deal" y las políticas keynesianas (Year 5) — PDF p. 217 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, France, Indonesia). Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+**Book 5:** *Antología CONED — Materia: Estudios Sociales, Código: 80023, Nivel: Décimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED; 2017 file); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80023, Nivel: Décimo año. Grade: 10 (student/teacher: STUDENT). PDF pages: 255 (cover/title page verified against the record title; byte size 11,879,619 and page count match the books.json record exactly; the TSV record is the same book). Verdict: COMPLETE. Contents map: Economics parts pp. 6 (economic roots of imperialism), 42–46 (the 1920s, Taylorism, the 1929 crisis, the Depression and the New Deal), 63–65 (Bretton Woods), 107–108 (Venezuela's oil economy), 123–134 (Cold War economic models, the oil crisis, the 1980s debt crisis and adjustment, perestroika), 143–149 (China's trade with Africa and Latin America; Costa Rica–China trade and the 2011 FTA), 184–190 (the neoliberal model in Latin America), 238–241 (economic migration); History pp. 5–62 and 66–183 (both World Wars, Russian Revolution, fascism, Cold War conflicts, decolonisation, contemporary geopolitics — named, not placed); Geography pp. 195–237 (population dynamics and Costa Rican population change, named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Respuesta del Estado a la crisis: el New Deal — teaches: liberal countries abandoned the idea that natural laws would cure the crisis; Roosevelt's 1933 New Deal put the state into the economy — job creation, minimum wages, social security, farm and industry subsidies and the Emergency Banking Act to reorganise insolvent banks | Costa Rica, *Estudios Sociales CONED 10*, Grade 10 — printed pp. 45–46 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, France, Indonesia, Costa Rica). Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+
+Costa Rica's own way (Estudios Sociales CONED 10): a world-history book whose economics spine runs crisis to crisis — 1929, Bretton Woods, oil shocks, the Latin American debt crisis and neoliberal adjustment — ending at home with Costa Rica's trade opening to China and its shallower, state-keeping reform path.
 
 Bolivia's own way (Bolivia Compendio Ciencias Sociales): economics is taught almost entirely through Bolivia's own history — the colonial extraction institutions (encomienda, mita, tribute), the silver-to-tin mining cycles and the barons who captured them, and the recurring national answers: nationalisation (1937, 1952, 2006), agrarian reform, stabilisation plans and the plurinational rejection of water privatisation.
 

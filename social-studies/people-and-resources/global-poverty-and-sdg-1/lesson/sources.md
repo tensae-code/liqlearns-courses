@@ -1,6 +1,6 @@
 # Sources — Global poverty and SDG 1
 
-countries: Ethiopia, Yemen, Palestine
+countries: Ethiopia, Yemen, Palestine, Costa Rica
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -21,7 +21,15 @@ countries: Ethiopia, Yemen, Palestine
 
 Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
 
-**Acceptance count: taught in 3 countries (Ethiopia, Yemen, Palestine).**
+**Book 4:** *Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año. Grade: 7 (student/teacher: STUDENT). PDF pages: 166 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 19–29 (Neolithic surplus/barter/division of labour), 66–80 (economic organisation of Maya, Aztec and Inca), 94–105 (ecological footprint), 130–136 (forest conservation incentives / payment for environmental services), 137–165 (world food production, poverty and food access, food security); History pp. 6–93 (hominisation, ancient Mesopotamia/Egypt, Greece/Rome, indigenous peoples of Costa Rica — their short descriptive "economic activities" paragraphs are History content, named here, not placed); Geography pp. 106–129 (terrestrial ecosystems and tropical forests) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Pobreza y el acceso a los alimentos — teaches: producing enough food worldwide does not end hunger; poverty and lack of opportunity block access to food even when supply is sufficient | Costa Rica, *Estudios Sociales CONED 7*, Grade 7 — printed p. 153 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Yemen, Palestine, Costa Rica).**
+
+Costa Rica's own way (Estudios Sociales CONED 7): Economics is taught inside history and geography — the Neolithic surplus as the first economy, pre-Columbian markets and tribute, then Costa Rica's own ecological footprint/ecological debt (Estado de la Nación 2016 data) and its world-famous payment-for-environmental-services (PSA/Fonafifo) forest scheme as the national case studies.
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 

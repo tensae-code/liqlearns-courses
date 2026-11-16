@@ -1,6 +1,6 @@
 # Sources — Global Food Supply
 
-countries: United Kingdom, Haiti, Kuwait
+countries: United Kingdom, Haiti, Kuwait, Costa Rica
 
 **Book 1:** *GCSE Geography AQA (Student Book)* (student book, English) — United Kingdom, Oxford University Press; year 2016; ISBN 978-0-19-836661-4; authors Nicholas Rowles, David Holmes, Bob Digby; series editor Simon Ross. Title as printed: GCSE Geography AQA (Student Book). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 356 (record figure; printed book pagination used in the rows below). Verdict: COMPLETE. Records note: 2 records / 1 distinct book (TSV release record + books.json record for the same book) / read via the book's archive.org source (archive.org item gcse-aqa-geography-student-book: EPUB + full OCR text of the same 355.2 MiB PDF whose byte size matches the books.json record's 372,407,314 bytes; title page and ISBN page verified from that OCR text) — the 372 MB GitHub release copy itself was not re-downloaded; the identical archive.org scan was read instead (all 24 chapters, contents pp. 4-5, glossary p. 346, index p. 350) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/united-kingdom-placements.md.
 
@@ -23,8 +23,15 @@ Haiti's own way: poverty and wealth are built from pupils' own representations a
 |---|---|
 | Kuwait part — The global food-crisis challenge between production and consumption — the concepts of food crisis and food security, and the factors behind the world food crisis — climate change cutting production, and rapid population growth pushing food demand beyond production capacity | Kuwait, *Kuwait Grade 9 Social Studies G9 T2*, The global food-crisis challenge between production and consumption — printed p. 80 |
 
+**Book 4:** *Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año. Grade: 7 (student/teacher: STUDENT). PDF pages: 166 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 19–29 (Neolithic surplus/barter/division of labour), 66–80 (economic organisation of Maya, Aztec and Inca), 94–105 (ecological footprint), 130–136 (forest conservation incentives / payment for environmental services), 137–165 (world food production, poverty and food access, food security); History pp. 6–93 (hominisation, ancient Mesopotamia/Egypt, Greece/Rome, indigenous peoples of Costa Rica — their short descriptive "economic activities" paragraphs are History content, named here, not placed); Geography pp. 106–129 (terrestrial ecosystems and tropical forests) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
 
-**Acceptance count: taught in 2 countries (United Kingdom, Kuwait). Haiti is teacher-guide evidence only — named here, counted nowhere.**
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — La geografía de la producción alimentaria — teaches: how world food production is distributed, who produces it, and the challenges — hunger concentrated in rural areas, land grabbing, transnational control of food production, climate change | Costa Rica, *Estudios Sociales CONED 7*, Grade 7 — printed pp. 137–144 |
+
+**Acceptance count: taught in 3 countries (United Kingdom, Kuwait, Costa Rica). Haiti is teacher-guide evidence only — named here, counted nowhere.**
+
+Costa Rica's own way (Estudios Sociales CONED 7): Economics is taught inside history and geography — the Neolithic surplus as the first economy, pre-Columbian markets and tribute, then Costa Rica's own ecological footprint/ecological debt (Estado de la Nación 2016 data) and its world-famous payment-for-environmental-services (PSA/Fonafifo) forest scheme as the national case studies.
 
 Kuwait's own way (Kuwait Grade 9 Term 2): the middle-stage course closes by going global — economic relations between states, OPEC as the oil-producers' organisation Kuwait belongs to, and world challenges (poverty, the food crisis) framed as production-versus-consumption problems.
 

@@ -1,6 +1,6 @@
 # Sources — Global Trade Exchange And Its Trends
 
-countries: Yemen, Honduras, Colombia
+countries: Yemen, Honduras, Colombia, Costa Rica
 
 **Book 1:** *جغرافية العالم المعاصر للصف الثالث الثانوي (Geography of the Contemporary World for the Third Secondary Grade = Grade 12)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية العالم المعاصر للصف الثالث الثانوي (Geography of the Contemporary World for the Third Secondary Grade = Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 147 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
@@ -34,7 +34,15 @@ countries: Yemen, Honduras, Colombia
 |---|---|
 | Colombia part — Unidad 2, Tema 14: otras economías — teaches: Asian oil exporters (Saudi Arabia, UAE, Iran, Iraq, Kuwait, Indonesia) export oil through modern ports to Western Europe, the US and Japan, and import electronics, cars and machinery; China exports tea, rice, silk and cotton cloth, minerals and textiles, and imports fertilisers and industrial machinery | Colombia, *Colombia Grade 6 Secundaria Activa G6*, Unidad 2, Tema 14: otras economías — printed p. 119 |
 
-**Acceptance count: taught in 3 countries (Yemen, Honduras, Colombia).**
+**Book 6:** *Antología CONED — Materia: Estudios Sociales, Código: 80023, Nivel: Décimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED; 2017 file); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80023, Nivel: Décimo año. Grade: 10 (student/teacher: STUDENT). PDF pages: 255 (cover/title page verified against the record title; byte size 11,879,619 and page count match the books.json record exactly; the TSV record is the same book). Verdict: COMPLETE. Contents map: Economics parts pp. 6 (economic roots of imperialism), 42–46 (the 1920s, Taylorism, the 1929 crisis, the Depression and the New Deal), 63–65 (Bretton Woods), 107–108 (Venezuela's oil economy), 123–134 (Cold War economic models, the oil crisis, the 1980s debt crisis and adjustment, perestroika), 143–149 (China's trade with Africa and Latin America; Costa Rica–China trade and the 2011 FTA), 184–190 (the neoliberal model in Latin America), 238–241 (economic migration); History pp. 5–62 and 66–183 (both World Wars, Russian Revolution, fascism, Cold War conflicts, decolonisation, contemporary geopolitics — named, not placed); Geography pp. 195–237 (population dynamics and Costa Rican population change, named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Caso de África: China busca materias primas — teaches: in 2004 Africa's exports to China were 62% oil, 17% minerals, 7% farm goods, while China's exports to Africa were textiles, machinery and manufactures — raw materials one way, manufactures the other — plus preferential credits and debt forgiveness | Costa Rica, *Estudios Sociales CONED 10*, Grade 10 — printed pp. 143–144 |
+
+**Acceptance count: taught in 4 countries (Yemen, Honduras, Colombia, Costa Rica).**
+
+Costa Rica's own way (Estudios Sociales CONED 10): a world-history book whose economics spine runs crisis to crisis — 1929, Bretton Woods, oil shocks, the Latin American debt crisis and neoliberal adjustment — ending at home with Costa Rica's trade opening to China and its shallower, state-keeping reform path.
 
 Colombia's own way (Colombia Grade 6 Secundaria Activa G6): Secundaria Activa teaches the world economy comparatively — Asia's three agricultures, Japan's people, oil exporters — and names Colombia's own apertura económica debate.
 

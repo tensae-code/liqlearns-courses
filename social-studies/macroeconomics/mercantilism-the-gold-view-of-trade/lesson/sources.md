@@ -1,6 +1,6 @@
 # Sources — Mercantilism — the gold view of trade
 
-countries: Ethiopia, Haiti, Colombia
+countries: Ethiopia, Haiti, Colombia, Costa Rica
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -39,7 +39,15 @@ Haiti's own way: the plantation economy is reconstructed from Haiti's own ground
 |---|---|
 | Colombia part — Unidad 2, Tema 9: la explotación minera y la tierra — teaches: mining was favoured by mercantilist theories holding that a country's wealth rests on the precious metals it accumulates, so the state must regulate the economy directly — Spain sought American gold and silver to swell its coffers; crown lands were tierras realengas, the rest became private territorial property | Colombia, *Colombia Grade 8 Secundaria Activa G8*, Unidad 2, Tema 9: la explotación minera y la tierra — printed p. 103 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Colombia). Haiti is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *Antología CONED — Materia: Estudios Sociales, Código: 80017 (as printed), Nivel: Noveno año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2018 (© 2018, CONED; 2018 file); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80017 (as printed), Nivel: Noveno año. Grade: 9 (student/teacher: STUDENT). PDF pages: 183 (cover/title page verified against the record title; byte size 7,447,365 and page count match the books.json record exactly; the TSV record is the same book). Verdict: COMPLETE. Contents map: Economics parts pp. 14–15 (feudal economy), 40–41 and 54–56 (Crusades and the late-medieval revival of trade and money), 68 and 74–75 (mercantile competition and the spice routes), 102–109 (colonial extraction, mining tax, cacao money, tobacco monopoly, triangular trade, forced labour), 116 (mercantilism), 136–138 (trade monopoly as a cause of independence), 145–150 (Industrial Revolution, laissez-faire, proletariat, migration), 169–179 (Costa Rica's agro-export model: coffee and the banana enclave); History pp. 5–101, 110–135, 152–168 (fall of Rome, Church and Islam, Renaissance/Reformation, conquest, absolutism, Enlightenment, French Revolution, independence, formation of the Costa Rican state — named, not placed); Civics pp. 122–130 (French Revolution and the Declaration of the Rights of Man, named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — El mercantilismo — teaches: mercantilism needed state intervention to secure a favourable trade balance — produce more, import less, export more — and colonies bound by monopoly to buy from the metropolis, so nations accumulated gold and silver | Costa Rica, *Estudios Sociales CONED 9*, Grade 9 — printed p. 116 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Colombia, Costa Rica). Haiti is teacher-guide evidence only — named here, counted nowhere.**
+
+Costa Rica's own way (Estudios Sociales CONED 9): world economic history is the road into Costa Rica's own story — the book ends with the 19th-century agro-export model: coffee making a wage-labour economy and a coffee oligarchy, then the UFCO banana enclave on the Caribbean.
 
 Colombia's own way (Colombia Grade 7 Postprimaria G7): production systems are compared across history — feudal, colonial-mercantilist, and today's rural Colombian system with its poverty and displacement.
 

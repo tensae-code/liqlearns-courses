@@ -1,6 +1,6 @@
 # Sources — The neoliberal model in Latin America
 
-countries: Bolivia
+countries: Bolivia, Costa Rica
 
 **Book 1:** *Texto de Aprendizaje — Área: Ciencias Sociales, Sexto año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Ministerio de Educación, Estado Plurinacional de Bolivia; gestión 2023–2024; no ISBN printed. Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Sexto año de Educación Secundaria Comunitaria Productiva (credits page: "texto de aprendizaje del 6TO AÑO DE ESCOLARIDAD"). Grade: 12 (Secundaria 6) (student/teacher: STUDENT). PDF pages: 126 (byte size 14,185,463 and page count verified against the record; placements cite PDF pages, as in the other student books). Verdict: COMPLETE. Contents map: Economics parts p. 21 (the 1973 oil crisis), pp. 46–49 (mine nationalisation, worker control, the agrarian reform), pp. 56–58 (inflation and the public sector, the Eder Plan, the Davenport Code), pp. 74–78 (neoliberalism's characteristics, the UDP package, hyperinflation, dedollarisation, Decree 21060, capitalisation), p. 85 (the 2006 hydrocarbons nationalisation), pp. 92–97 (integration stages, ALALC to ALADI, the CAN, ALBA, MERCOSUR), pp. 118–123 (money, bolivianización, inflation and its measurement, the Central Bank and monetary policy); History/Civics parts (named, not placed) fill the rest; Bibliography p. 124, credits p. 125. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bolivia-placements.md
 
@@ -8,7 +8,15 @@ countries: Bolivia
 |---|---|
 | Bolivia part — El Neoliberalismo — teaches: neoliberalism's characteristics set out one by one — the free, unregulated market as the most efficient allocator of resources; minimising state intervention (privatisation, deregulation, financial liberalisation); fiscal austerity; free trade and foreign direct investment; private property and individualism; tax reductions, especially for firms and high incomes; and labour deregulation (flexible contracts, reduced workers' rights) | Bolivia, *Bolivia Grade 12 Texto de Aprendizaje Ciencias Sociales Secundaria 6*, El Neoliberalismo — PDF pp. 74–75 |
 
-**Acceptance count: taught in 1 country (Bolivia).**
+**Book 2:** *Antología CONED — Materia: Estudios Sociales, Código: 80023, Nivel: Décimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED; 2017 file); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80023, Nivel: Décimo año. Grade: 10 (student/teacher: STUDENT). PDF pages: 255 (cover/title page verified against the record title; byte size 11,879,619 and page count match the books.json record exactly; the TSV record is the same book). Verdict: COMPLETE. Contents map: Economics parts pp. 6 (economic roots of imperialism), 42–46 (the 1920s, Taylorism, the 1929 crisis, the Depression and the New Deal), 63–65 (Bretton Woods), 107–108 (Venezuela's oil economy), 123–134 (Cold War economic models, the oil crisis, the 1980s debt crisis and adjustment, perestroika), 143–149 (China's trade with Africa and Latin America; Costa Rica–China trade and the 2011 FTA), 184–190 (the neoliberal model in Latin America), 238–241 (economic migration); History pp. 5–62 and 66–183 (both World Wars, Russian Revolution, fascism, Cold War conflicts, decolonisation, contemporary geopolitics — named, not placed); Geography pp. 195–237 (population dynamics and Costa Rican population change, named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Surgimiento del modelo neoliberal — teaches: after the 1980s crisis Latin American governments liberalised trade, cut spending and privatised public services; the neoliberal model defends the state staying out of the economy, full freedom of trade and free movement of capital to attract FDI — Chile and Argentina reformed first, Costa Rica kept a shallower version with state intervention in some activities | Costa Rica, *Estudios Sociales CONED 10*, Grade 10 — printed pp. 184–186 |
+
+**Acceptance count: taught in 2 countries (Bolivia, Costa Rica).**
+
+Costa Rica's own way (Estudios Sociales CONED 10): a world-history book whose economics spine runs crisis to crisis — 1929, Bretton Woods, oil shocks, the Latin American debt crisis and neoliberal adjustment — ending at home with Costa Rica's trade opening to China and its shallower, state-keeping reform path.
 
 Bolivia's own way (Bolivia Grade 12 Texto de Aprendizaje Ciencias Sociales Secundaria 6): the final year runs the whole arc in student form — 1952's nationalisations and reform, the inflation they fed, the stabilisation plans imposed from outside, hyperinflation, the neoliberal turn and its reversal in 2006 — and closes with a financial-education unit on money, the boliviano and the Central Bank.
 

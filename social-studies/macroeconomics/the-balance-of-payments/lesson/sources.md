@@ -1,6 +1,6 @@
 # Sources — The balance of payments — a country's account with the world
 
-countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indonesia, Pakistan
+countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indonesia, Pakistan, Costa Rica
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -61,7 +61,15 @@ countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indones
 |---|---|
 | Pakistan part — Ch. 5.3 Balance of Trade and Balance of Payments — teaches: the balance of trade against the full balance of payments, with the current account named in its parts | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 5.3 Balance of Trade and Balance of Payments — printed pp. 97-100 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Dominican Republic, Egypt, Fiji, Indonesia, Pakistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 12:** *Antología CONED — Materia: Estudios Sociales, Código: 80029, Nivel: Undécimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED; the record's file is the 2018 file); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80029, Nivel: Undécimo año. Grade: 11 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 3,190,948 and page count match the record exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 8–20 (globalisation waves, scale economies, international division of labour, transnational corporations in Costa Rica), 25–28 (technology and new forms of work), 32–35 (world inequality, poverty, external debt and dependency), 41–54 (Costa Rica's agro-export dependence, González Flores's tax and banking reforms, Tinoco's monetary policies, the 1929 crisis at home), 64–68 (women entering paid work, named), 77–85 (import-substitution model, balance-of-payments deficit, the entrepreneur/welfare state and its exhaustion), 99–110 (the 1980s crisis, public debt, structural adjustment PAEs, non-traditional exports and free zones); History/Civics pp. 21–24, 36–40, 55–98, 111–122 (culture, democracy building, 1948 civil war and social reform, party politics, social movements and the CAFTA protests — named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — La balanza de pagos en el periodo del MSI — teaches: the country still had to import basic foods (beans, maize) and industrial raw materials, machinery and technical equipment, so imports exceeded exports and the balance of payments ran a deficit | Costa Rica, *Estudios Sociales CONED 11*, Grade 11 — printed p. 84 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, Dominican Republic, Egypt, Fiji, Indonesia, Pakistan, Costa Rica). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Costa Rica's own way (Estudios Sociales CONED 11): the full national economic story in one book — agro-export dependence, the first state-intervention reforms of 1914, import substitution under the welfare state, then the 1980s crisis and the PAE adjustment that opened the economy and courted Intel and the free zones.
 
 Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
 

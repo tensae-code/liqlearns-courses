@@ -1,0 +1,24 @@
+# Sources — The banana enclave and the UFCO in Costa Rica
+
+countries: Costa Rica
+
+**Book 1:** *Antología CONED — Materia: Estudios Sociales, Código: 80017 (as printed), Nivel: Noveno año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2018 (© 2018, CONED; 2018 file); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80017 (as printed), Nivel: Noveno año. Grade: 9 (student/teacher: STUDENT). PDF pages: 183 (cover/title page verified against the record title; byte size 7,447,365 and page count match the books.json record exactly; the TSV record is the same book). Verdict: COMPLETE. Contents map: Economics parts pp. 14–15 (feudal economy), 40–41 and 54–56 (Crusades and the late-medieval revival of trade and money), 68 and 74–75 (mercantile competition and the spice routes), 102–109 (colonial extraction, mining tax, cacao money, tobacco monopoly, triangular trade, forced labour), 116 (mercantilism), 136–138 (trade monopoly as a cause of independence), 145–150 (Industrial Revolution, laissez-faire, proletariat, migration), 169–179 (Costa Rica's agro-export model: coffee and the banana enclave); History pp. 5–101, 110–135, 152–168 (fall of Rome, Church and Islam, Renaissance/Reformation, conquest, absolutism, Enlightenment, French Revolution, independence, formation of the Costa Rican state — named, not placed); Civics pp. 122–130 (French Revolution and the Declaration of the Rights of Man, named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — La producción bananera en el Caribe | Costa Rica, *Estudios Sociales CONED 9*, La producción bananera en el Caribe — printed pp. 177–179 |
+| Sub lesson 2 — La producción bananera en el Caribe — more | Costa Rica, *Estudios Sociales CONED 9*, La producción bananera en el Caribe — printed pp. 177–179 |
+
+**Book 2:** *Estudios Sociales 11 (Publicaciones Porras; "Nuevos Programas de Estudio")* (student book, Spanish) — Publicaciones Porras y Gamboa, 1ª ed., San José, C.R. (Editorial Compas ERV); year 2018; ISBN 978-9930-9622-3-7 (as printed on the colophon; the record title transcribes it as 978-9990-96223-7 — the printed book wins). Title as printed: Estudios Sociales 11 (Publicaciones Porras; "Nuevos Programas de Estudio"). Grade: 11 (student/teacher: STUDENT). PDF pages: 200 (cover and colophon verified visually against the record; byte size 56,329,080 and page count match the record exactly; the TSV record is the same book). Image-only scan — read via page renders/contact sheets, Economics parts read in full.. Verdict: COMPLETE. Contents map: Economics parts pp. 12–21 (basic concepts, globalisation, world trade, transnationals), 30–35 (call centres, GDP structure, Costa Rica's services economy), 44–47 (GDP, world inequality and poverty), 60–73 (agro-export model, its 1914 and 1929 crises, González Flores's reforms, banana enclave, cooperatives), 80–81 (coffee labour, women's work), 88–94 (Second World War shock, CCSS social security, labour code and social guarantees), 105–113 (import substitution, Central American Common Market, state banking, CODESA entrepreneur state, exhaustion of the welfare state), 117–121 (income distribution, middle class, ITCO land reform), 136–148 (1980s crisis, public debt, PAEs I–III, non-traditional exports, free-trade agreements, costs of adjustment); History/Civics pp. 22–43, 48–59, 74–87, 95–104, 114–135, 149–163 (culture, electoral reform, 1948 civil war, Constitution, party system, social movements and strikes — named, not placed); Assessment pp. 168–199 (Unit 4, Bachillerato practice exams — excluded as assessment, named here); Bibliography p. 200 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 3 — Los trabajadores de las zonas bananeras | Costa Rica, *Estudios Sociales 11, Porras y Gamboa*, Los trabajadores de las zonas bananeras — printed p. 68 |
+
+**Acceptance count: taught in 1 country (Costa Rica).**
+
+Costa Rica's own way (Estudios Sociales CONED 9): world economic history is the road into Costa Rica's own story — the book ends with the 19th-century agro-export model: coffee making a wage-labour economy and a coffee oligarchy, then the UFCO banana enclave on the Caribbean.
+
+Costa Rica's own way (Estudios Sociales 11, Porras y Gamboa): a commercial textbook built on the same national programme as the CONED anthology but with far more economic detail — full PAE I/II/III measure lists, the CAT export-certificate fraud, state banking's six effects, and Costa Rica's services/call-centre economy measured against the region.
+
+Searchable tags: the banana enclave and the ufco in costa rica, costa rica, social studies, macroeconomics

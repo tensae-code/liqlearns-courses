@@ -1,6 +1,6 @@
 # Sources — Economic liberalism — free trade and a minimal state
 
-countries: Bolivia
+countries: Bolivia, Costa Rica
 
 **Book 1:** *Texto de Aprendizaje — Área: Ciencias Sociales, Cuarto año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Ministerio de Educación, Estado Plurinacional de Bolivia; gestión 2023–2024; no ISBN printed. Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Cuarto año de Educación Secundaria Comunitaria Productiva. Grade: 10 (Secundaria 4) (student/teacher: STUDENT). PDF pages: 108 (byte size 16,369,358 and page count verified against the record; placements cite PDF pages, as in the Secundaria 1 and 2 books). Verdict: COMPLETE. Contents map: Economics parts pp. 17 (Sucre's direct contribution), 30–33 (librecambismo defined, Santa Cruz's protectionism, primitive accumulation through the hacienda), 51–55 (the silver-mining phases and the rescate monopoly), 54 (the pulperías), 67 (the rubber boom), 75–80 (natural resources, supply and demand, the economic process, the three sectors), 95 (sustainable development); History/Civics parts (named, not placed) fill the rest. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bolivia-placements.md
 
@@ -8,7 +8,15 @@ countries: Bolivia
 |---|---|
 | Bolivia part — Librecambismo y liberalismo — teaches: what Bolivian history called librecambismo was liberalism — the economic doctrine proposing the free market and private initiative as the best form of development | Bolivia, *Bolivia Grade 10 Texto de Aprendizaje Ciencias Sociales Secundaria 4*, Librecambismo y liberalismo — PDF p. 30 |
 
-**Acceptance count: taught in 1 country (Bolivia).**
+**Book 2:** *Estudios Sociales 11 (Publicaciones Porras; "Nuevos Programas de Estudio")* (student book, Spanish) — Publicaciones Porras y Gamboa, 1ª ed., San José, C.R. (Editorial Compas ERV); year 2018; ISBN 978-9930-9622-3-7 (as printed on the colophon; the record title transcribes it as 978-9990-96223-7 — the printed book wins). Title as printed: Estudios Sociales 11 (Publicaciones Porras; "Nuevos Programas de Estudio"). Grade: 11 (student/teacher: STUDENT). PDF pages: 200 (cover and colophon verified visually against the record; byte size 56,329,080 and page count match the record exactly; the TSV record is the same book). Image-only scan — read via page renders/contact sheets, Economics parts read in full.. Verdict: COMPLETE. Contents map: Economics parts pp. 12–21 (basic concepts, globalisation, world trade, transnationals), 30–35 (call centres, GDP structure, Costa Rica's services economy), 44–47 (GDP, world inequality and poverty), 60–73 (agro-export model, its 1914 and 1929 crises, González Flores's reforms, banana enclave, cooperatives), 80–81 (coffee labour, women's work), 88–94 (Second World War shock, CCSS social security, labour code and social guarantees), 105–113 (import substitution, Central American Common Market, state banking, CODESA entrepreneur state, exhaustion of the welfare state), 117–121 (income distribution, middle class, ITCO land reform), 136–148 (1980s crisis, public debt, PAEs I–III, non-traditional exports, free-trade agreements, costs of adjustment); History/Civics pp. 22–43, 48–59, 74–87, 95–104, 114–135, 149–163 (culture, electoral reform, 1948 civil war, Constitution, party system, social movements and strikes — named, not placed); Assessment pp. 168–199 (Unit 4, Bachillerato practice exams — excluded as assessment, named here); Bibliography p. 200 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Conceptos básicos — teaches: economic liberalism as the ideology defending freedom of commerce and limiting the state to keeping order and watching over education and health | Costa Rica, *Estudios Sociales 11, Porras y Gamboa*, Grade 11 — printed p. 12 |
+
+**Acceptance count: taught in 2 countries (Bolivia, Costa Rica).**
+
+Costa Rica's own way (Estudios Sociales 11, Porras y Gamboa): a commercial textbook built on the same national programme as the CONED anthology but with far more economic detail — full PAE I/II/III measure lists, the CAT export-certificate fraud, state banking's six effects, and Costa Rica's services/call-centre economy measured against the region.
 
 Bolivia's own way (Bolivia Grade 10 Texto de Aprendizaje Ciencias Sociales Secundaria 4): alongside the national story (Sucre's tax design, the silver cycle, the rubber boom), this year carries the wave's most textbook-like basic economics in the Bolivia set — supply and demand, the production–distribution–consumption cycle and the three sectors, all inside a unit on natural resources and Mother Earth.
 

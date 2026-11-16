@@ -1,6 +1,6 @@
 # Sources — From Craft To Factory The Growth Of Industry
 
-countries: Iceland, Mozambique, Dominican Republic, Palestine, Venezuela, Bolivia, Colombia
+countries: Iceland, Mozambique, Dominican Republic, Palestine, Venezuela, Bolivia, Colombia, Costa Rica
 
 **Book 1:** *Módulo 7 de Geografia — Indústria e Comércio* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 7 de Geografia — Indústria e Comércio. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 80 (title page verified against the record title; byte size 3,077,013 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (contents page skips the Lição 3 number; the lesson is present in the body at printed p. 19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
@@ -54,7 +54,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Colombia part — Unidad 2, Guía 4: el trabajo artesano / el trabajo obrero — teaches: artisans make goods by hand in workshops (cloth, hats, leather, furniture, tools); factory workers use production machines — the same shoe can be made artisanally, part by part by a shoemaker, or in a factory in large quantities | Colombia, *Colombia Grade 5 Escuela Nueva G5 Cartilla 1*, Unidad 2, Guía 4: el trabajo artesano / el trabajo obrero — printed p. 47 |
 
-**Acceptance count: taught in 5 countries (Mozambique, Dominican Republic, Palestine, Venezuela, Colombia). Iceland is teacher-guide evidence only — named here, counted nowhere. Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+**Book 9:** *Antología CONED — Materia: Estudios Sociales, Código: 80017 (as printed), Nivel: Noveno año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2018 (© 2018, CONED; 2018 file); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80017 (as printed), Nivel: Noveno año. Grade: 9 (student/teacher: STUDENT). PDF pages: 183 (cover/title page verified against the record title; byte size 7,447,365 and page count match the books.json record exactly; the TSV record is the same book). Verdict: COMPLETE. Contents map: Economics parts pp. 14–15 (feudal economy), 40–41 and 54–56 (Crusades and the late-medieval revival of trade and money), 68 and 74–75 (mercantile competition and the spice routes), 102–109 (colonial extraction, mining tax, cacao money, tobacco monopoly, triangular trade, forced labour), 116 (mercantilism), 136–138 (trade monopoly as a cause of independence), 145–150 (Industrial Revolution, laissez-faire, proletariat, migration), 169–179 (Costa Rica's agro-export model: coffee and the banana enclave); History pp. 5–101, 110–135, 152–168 (fall of Rome, Church and Islam, Renaissance/Reformation, conquest, absolutism, Enlightenment, French Revolution, independence, formation of the Costa Rican state — named, not placed); Civics pp. 122–130 (French Revolution and the Declaration of the Rights of Man, named, not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Etapas de la Revolución Industrial — teaches: the two industrial stages (1760–1870 and after) — agricultural revolution first, then Britain's textile industry powered by Watt's steam engine, tropical plantations supplying Europe's factories | Costa Rica, *Estudios Sociales CONED 9*, Grade 9 — printed p. 146 |
+
+**Acceptance count: taught in 6 countries (Mozambique, Dominican Republic, Palestine, Venezuela, Colombia, Costa Rica). Iceland is teacher-guide evidence only — named here, counted nowhere. Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+
+Costa Rica's own way (Estudios Sociales CONED 9): world economic history is the road into Costa Rica's own story — the book ends with the 19th-century agro-export model: coffee making a wage-labour economy and a coffee oligarchy, then the UFCO banana enclave on the Caribbean.
 
 Colombia's own way (Colombia Grade 5 Escuela Nueva G5 Cartilla 1): Economics arrives as the history of Colombian work itself — campesinos, coffee labourers, artisans threatened by free trade, and the first unions and strikes.
 

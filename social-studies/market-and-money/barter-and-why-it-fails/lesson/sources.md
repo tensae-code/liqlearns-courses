@@ -1,6 +1,6 @@
 # Sources — Barter — and why it fails
 
-countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Zimbabwe, Palestine, Venezuela, Dominica, Jordan, Egypt, Yemen, Armenia, Iran, Pakistan, Bolivia, Colombia
+countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Zimbabwe, Palestine, Venezuela, Dominica, Jordan, Egypt, Yemen, Armenia, Iran, Pakistan, Bolivia, Colombia, Costa Rica
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -168,7 +168,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Colombia part — Módulo 4, Guía 11: el trueque — teaches: in barter, value is not measured in money but in equivalences agreed between the parties (a sack of maize for two decorated blankets); barter survives among origin peoples and in rural areas, where agreements and traditions, not money, set the value of products | Colombia, *Colombia Grade 6 Postprimaria G6*, Módulo 4, Guía 11: el trueque — printed p. 136 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Palestine, Venezuela, Dominica, Jordan, Egypt, Yemen, Armenia, Iran, Pakistan, Bolivia, Colombia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 26:** *Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año. Grade: 7 (student/teacher: STUDENT). PDF pages: 166 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 19–29 (Neolithic surplus/barter/division of labour), 66–80 (economic organisation of Maya, Aztec and Inca), 94–105 (ecological footprint), 130–136 (forest conservation incentives / payment for environmental services), 137–165 (world food production, poverty and food access, food security); History pp. 6–93 (hominisation, ancient Mesopotamia/Egypt, Greece/Rome, indigenous peoples of Costa Rica — their short descriptive "economic activities" paragraphs are History content, named here, not placed); Geography pp. 106–129 (terrestrial ecosystems and tropical forests) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — La Revolución Neolítica / excedente productivo — teaches: once farming produced a surplus above own needs and reserves, villages could barter (trueque) the extra with other villages | Costa Rica, *Estudios Sociales CONED 7*, Grade 7 — printed p. 23 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Palestine, Venezuela, Dominica, Jordan, Egypt, Yemen, Armenia, Iran, Pakistan, Bolivia, Colombia, Costa Rica). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Costa Rica's own way (Estudios Sociales CONED 7): Economics is taught inside history and geography — the Neolithic surplus as the first economy, pre-Columbian markets and tribute, then Costa Rica's own ecological footprint/ecological debt (Estado de la Nación 2016 data) and its world-famous payment-for-environmental-services (PSA/Fonafifo) forest scheme as the national case studies.
 
 Colombia's own way (Colombia Grade 6 Postprimaria G6): Postprimaria teaches Economics through indigenous production systems — ancestral farming, crafts, barter and the fights over tagua and coltan.
 

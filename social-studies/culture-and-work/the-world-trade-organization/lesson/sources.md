@@ -1,6 +1,6 @@
 # Sources — The World Trade Organization
 
-countries: South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States
+countries: South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States, Costa Rica
 
 **Book 1:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -56,7 +56,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | United States part — 20.4 How Governments Enact Trade Policy: Globally, Regionally, and Nationally — teaches: the origin and role of the World Trade Organization and the GATT, regional trading agreements, national trade policy, and the long-term fall in trade barriers | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 20.4 How Governments Enact Trade Policy: Globally, Regionally, and Nationally — printed p. 477 |
 
-**Acceptance count: taught in 8 countries (South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States).**
+**Book 10:** *Estudios Sociales 11 (Publicaciones Porras; "Nuevos Programas de Estudio")* (student book, Spanish) — Publicaciones Porras y Gamboa, 1ª ed., San José, C.R. (Editorial Compas ERV); year 2018; ISBN 978-9930-9622-3-7 (as printed on the colophon; the record title transcribes it as 978-9990-96223-7 — the printed book wins). Title as printed: Estudios Sociales 11 (Publicaciones Porras; "Nuevos Programas de Estudio"). Grade: 11 (student/teacher: STUDENT). PDF pages: 200 (cover and colophon verified visually against the record; byte size 56,329,080 and page count match the record exactly; the TSV record is the same book). Image-only scan — read via page renders/contact sheets, Economics parts read in full.. Verdict: COMPLETE. Contents map: Economics parts pp. 12–21 (basic concepts, globalisation, world trade, transnationals), 30–35 (call centres, GDP structure, Costa Rica's services economy), 44–47 (GDP, world inequality and poverty), 60–73 (agro-export model, its 1914 and 1929 crises, González Flores's reforms, banana enclave, cooperatives), 80–81 (coffee labour, women's work), 88–94 (Second World War shock, CCSS social security, labour code and social guarantees), 105–113 (import substitution, Central American Common Market, state banking, CODESA entrepreneur state, exhaustion of the welfare state), 117–121 (income distribution, middle class, ITCO land reform), 136–148 (1980s crisis, public debt, PAEs I–III, non-traditional exports, free-trade agreements, costs of adjustment); History/Civics pp. 22–43, 48–59, 74–87, 95–104, 114–135, 149–163 (culture, electoral reform, 1948 civil war, Constitution, party system, social movements and strikes — named, not placed); Assessment pp. 168–199 (Unit 4, Bachillerato practice exams — excluded as assessment, named here); Bibliography p. 200 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Conceptos básicos — teaches: the WTO (OMC, 135 countries) sets, orders and regulates world trade; the IMF seeks international monetary cooperation, facilitates trade and lends to countries that need it; the World Bank, created in 1944, lends at low interest mainly to developing countries | Costa Rica, *Estudios Sociales 11, Porras y Gamboa*, Grade 11 — printed p. 12 |
+
+**Acceptance count: taught in 9 countries (South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States, Costa Rica).**
+
+Costa Rica's own way (Estudios Sociales 11, Porras y Gamboa): a commercial textbook built on the same national programme as the CONED anthology but with far more economic detail — full PAE I/II/III measure lists, the CAT export-certificate fraud, state banking's six effects, and Costa Rica's services/call-centre economy measured against the region.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 

@@ -1,6 +1,6 @@
 # Sources — The minimum wage
 
-countries: Ethiopia, Armenia, India, United States
+countries: Ethiopia, Armenia, India, United States, Costa Rica
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -27,7 +27,15 @@ countries: Ethiopia, Armenia, India, United States
 |---|---|
 | United States part — 4.1 Demand and Supply at Work in Labor Markets — teaches: the minimum wage and the living wage analysed as price floors in the labour market | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 4.1 Demand and Supply at Work in Labor Markets — printed p. 84 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Armenia, India, United States).**
+**Book 5:** *Estudios Sociales 11 (Publicaciones Porras; "Nuevos Programas de Estudio")* (student book, Spanish) — Publicaciones Porras y Gamboa, 1ª ed., San José, C.R. (Editorial Compas ERV); year 2018; ISBN 978-9930-9622-3-7 (as printed on the colophon; the record title transcribes it as 978-9990-96223-7 — the printed book wins). Title as printed: Estudios Sociales 11 (Publicaciones Porras; "Nuevos Programas de Estudio"). Grade: 11 (student/teacher: STUDENT). PDF pages: 200 (cover and colophon verified visually against the record; byte size 56,329,080 and page count match the record exactly; the TSV record is the same book). Image-only scan — read via page renders/contact sheets, Economics parts read in full.. Verdict: COMPLETE. Contents map: Economics parts pp. 12–21 (basic concepts, globalisation, world trade, transnationals), 30–35 (call centres, GDP structure, Costa Rica's services economy), 44–47 (GDP, world inequality and poverty), 60–73 (agro-export model, its 1914 and 1929 crises, González Flores's reforms, banana enclave, cooperatives), 80–81 (coffee labour, women's work), 88–94 (Second World War shock, CCSS social security, labour code and social guarantees), 105–113 (import substitution, Central American Common Market, state banking, CODESA entrepreneur state, exhaustion of the welfare state), 117–121 (income distribution, middle class, ITCO land reform), 136–148 (1980s crisis, public debt, PAEs I–III, non-traditional exports, free-trade agreements, costs of adjustment); History/Civics pp. 22–43, 48–59, 74–87, 95–104, 114–135, 149–163 (culture, electoral reform, 1948 civil war, Constitution, party system, social movements and strikes — named, not placed); Assessment pp. 168–199 (Unit 4, Bachillerato practice exams — excluded as assessment, named here); Bibliography p. 200 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Garantías Sociales y Código de Trabajo — teaches: the 1943 Social Guarantees written into the Constitution and the Labour Code — minimum wage, right to strike, right to work, annual vacations, union organisation, the 8-hour day (6 at night), severance (cesantía) and notice, cheap-housing programmes and the promotion of cooperatives | Costa Rica, *Estudios Sociales 11, Porras y Gamboa*, Grade 11 — printed p. 93 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Armenia, India, United States, Costa Rica).**
+
+Costa Rica's own way (Estudios Sociales 11, Porras y Gamboa): a commercial textbook built on the same national programme as the CONED anthology but with far more economic detail — full PAE I/II/III measure lists, the CAT export-certificate fraud, state banking's six effects, and Costa Rica's services/call-centre economy measured against the region.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
