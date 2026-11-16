@@ -1,6 +1,6 @@
 # Sources — Sectors Of The Economy
 
-countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Zimbabwe, Dominican Republic, Palestine, Dominica, Cambodia, Egypt
+countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Zimbabwe, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -130,7 +130,13 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Egypt part — Unit 3 Lesson 2 “Animal and fish wealth in our Arab homeland” — teaches: natural pastures (steppe and savanna), the leading livestock countries and animals, poultry, and fish wealth from natural fisheries and fish farms, with the problems of each and Arab development efforts | Egypt, *Egypt Grade 6 Social Prim6 T1*, Unit 3 Lesson 2 — printed p. 84 |
 
-**Acceptance count: taught in 11 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Dominican Republic, Palestine, Dominica, Cambodia, Egypt). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 21:** *Libro para Estudiantes, Ciencias Sociales 4, Cuarto grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 4, Cuarto grado. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title; byte size 60,591,710). Verdict: COMPLETE. Contents map: Economics parts printed pp. 98–107 (Lessons 18–19), pp. 186–190 (Lesson 34) and pp. 206–210 (Lesson 38); Civics/personal block (Lessons 1–9) printed pp. 10–54; Geography (Lessons 10–16) printed pp. 58–92 — Lesson 17 "El intercambio comercial en América Central" (printed p. 93) is transport-network geography and is named here, not placed; History (Lessons 20–29) printed pp. 112–161; Civics/society (Lessons 30–33, 35–37) printed pp. 166–185, 191–205 — Lesson 37 (printed p. 201) names rising poverty and inequality inside a social-problems lesson, named here not placed; glossary ("Nuevas palabras", incl. a definition of actividad económica) is inventory-only, named not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 34 "Las actividades de los centroamericanos" — teaches: Central Americans' occupations produce goods and services to satisfy basic needs, diversifying into transport, banking, commerce and maquila, inserting the region into the global economy | Honduras, *Honduras Grade 4 G4 Student CCSS*, Lesson 34 "Las actividades de los centroamericanos" — printed p. 186 |
+
+**Acceptance count: taught in 12 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -167,4 +173,6 @@ Egypt's own way (Grade 9 combined edition, egypt-placements.md): Economics is ta
 
 Egypt's own way (Grade 6 Term 1): the Arab world's economy is taught resource by resource — what the land needs, what each country leads in, what problems hold it back, and what Arab states (Egypt's Future of Egypt and Toshka projects among them) are doing about it.
 
-Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Syria, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources, laos, three kinds of business, producing trading services, weaving, repair shops, zimbabwe, teacher guide evidence, dominican republic, palestine, cambodia, egypt
+Honduras's own way (Honduras Grade 4 G4 Student CCSS): Grade 4 widens the lens to Central America — regional production and diversification, tourism as an earner, and a first named look at capitalism and globalisation.
+
+Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Syria, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources, laos, three kinds of business, producing trading services, weaving, repair shops, zimbabwe, teacher guide evidence, dominican republic, palestine, cambodia, egypt, honduras

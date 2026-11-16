@@ -1,6 +1,6 @@
 # Sources — Per capita income — the average share
 
-countries: Ethiopia, Dominica, Bangladesh, Egypt
+countries: Ethiopia, Dominica, Bangladesh, Egypt, Honduras
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -31,7 +31,13 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Egypt part — مفهوم متوسط الدخل (The average-income concept) — teaches: per-capita income as national income divided by population, and why a higher national income relative to population means a higher average | Egypt, *Egypt Secondary 12 Statistics and Economics*, printed p. 144 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Dominica, Bangladesh, Egypt).**
+**Book 5:** *Libro para Estudiantes, Ciencias Sociales 7, Séptimo grado* (student book, Spanish; read in place from phase3-staging) — Secretaría de Estado en el Despacho de Educación de Honduras, C.A.; year 2020 (Edición preliminar 2020); no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 7, Séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 254 (cover/title page verified against the record title; byte size 165,302,199). Verdict: COMPLETE. Contents map: Economics parts printed pp. 88–93 (Lesson 14) and pp. 206–242 (Lessons 33–38); Civics/personal block (Lessons 1–9) printed pp. 8–62; Geography (Lessons 10–13, 15–19) printed pp. 64–87, 94–124; History (Lessons 20–29) printed pp. 126–186; Civics/society (Lessons 30–32) printed pp. 188–204; glossary is inventory-only, named not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 33 "Rubros económicos de Honduras" — teaches: GDP as total national income and per-capita income, with Honduras ranked 18th in Latin America by GDP | Honduras, *Honduras Grade 7 G7 Student CCSS*, Lesson 33 "Rubros económicos de Honduras" — printed p. 207 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Dominica, Bangladesh, Egypt, Honduras).**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -39,4 +45,6 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: per capita income, GDP divided by population, standard of living average, ethiopia, social studies, macroeconomics, dominica, csec principles of business, caribbean, bangladesh, egypt
+Honduras's own way (Honduras Grade 7 G7 Student CCSS): Grade 7 carries the set's first real Economics block — it starts from the community economy and the Banco Central's own activity classification, then builds Honduras's national story: sectors, formal/informal work (70.8% informal per INE), indicators, poverty, globalisation and the foreign lenders behind structural adjustment.
+
+Searchable tags: per capita income, GDP divided by population, standard of living average, ethiopia, social studies, macroeconomics, dominica, csec principles of business, caribbean, bangladesh, egypt, honduras

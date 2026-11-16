@@ -1,6 +1,6 @@
 # Sources — The balance of trade
 
-countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan
+countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -43,7 +43,19 @@ countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 6 countries (Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan).**
+**Book 8:** *Libro para Estudiantes, Ciencias Sociales 3, Tercer grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 3, Tercer grado. Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 106,568,335). Verdict: COMPLETE. Contents map: Economics parts printed pp. 74–77 (Lesson 16) and pp. 154–169 (Lessons 34–37); Civics/personal block (Lessons 1–9) printed pp. 10–46 — Lesson 4 "Necesidades básicas" (printed p. 22) teaches children's basic needs as wellbeing, not an economic concept, named here not placed; Geography (Lessons 10–15, 17–19) printed pp. 50–73, 78–90; History (Lessons 20–29) printed pp. 94–134; Civics/society (Lessons 30–33, 38) printed pp. 138–153, 170–174. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 36 "Exportaciones e importaciones" — teaches: exports are goods made in Honduras and sold abroad through customs, a main source of national income; imports bring products the country does not produce | Honduras, *Honduras Grade 3 G3 Student CCSS*, Lesson 36 "Exportaciones e importaciones" — printed p. 162 |
+
+**Book 9:** *Ciencias Sociales 5, Quinto grado — Guía para Docentes* (teacher guide, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Ciencias Sociales 5, Quinto grado — Guía para Docentes. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 166 (cover/title page verified against the record title; byte size 24,323,817). Verdict: COMPLETE — guide mirrors the student book; one additional-theory fact is placed, marked TEACHER. Contents map: Economics parts printed pp. 75–82 (Lessons 18–19) and pp. 127–130 (Lesson 31); Civics/personal block (Lessons 1–9) printed pp. 7–42; Geography (Lessons 10–17) printed pp. 43–74; History (Lessons 20–29) printed pp. 83–122; Civics/society (Lessons 30, 32–38) printed pp. 123–126, 131–158. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 18 "Actividad económica de Honduras con América" (additional theory) — teaches: free-trade treaties and Honduras's economic expansion; since 2010 Honduras has mostly run a trade deficit (teacher guide — evidence) | Honduras, *Honduras Grade 5 G5 Teacher CCSS* (teacher guide), Lesson 18 "Actividad económica de Honduras con América" (additional theory) — printed p. 76 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras). Honduras's Grade 5 teacher guide is cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for that guide.**
 
 Dominican Republic's own way (Dominican Republic Grade 12 Ciencias Sociales 6° Secundaria): the school-leaving book ends with the national economy measured — GDP, openness, the balance of payments and per-capita income are all taught on Central Bank tables for 2010–2022, and the unit's own conclusion is critical: GDP per capita doubled while the average worker's income stagnated, so other sectors appropriated the increase.
 
@@ -59,4 +71,8 @@ Jordan's own way (Jordan Grade 5 Term 2): Grade 5 gets the first formal market l
 
 Jordan's own way (Jordan Grade 7 Term 1): Trade is taught from Aqaba port and the Silk Road into Jordan's real 2022 export/import charts, and the economy lesson ends in entrepreneurship — Jobs and Apple beside Jordanian start-up projects the class must hunt down itself.
 
-Searchable tags: the balance of trade, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, dominican republic, jordan, uzbekistan
+Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from family to country — occupations and production for the whole nation, social classes by income, the production-distribution-exchange-consumption chain, and exports/imports through customs with the arancel explained.
+
+Honduras's own way (Honduras Grade 5 G5 Teacher CCSS) (teacher guide — evidence): the guide mirrors the student book; the one additional-theory fact placed here is Honduras's trade history — free-trade treaties and economic expansion, with a mostly trade-deficit record since 2010. That book is a teacher guide, cited as evidence only; Honduras is counted in this lesson for its student book(s) named here, not for this guide.
+
+Searchable tags: the balance of trade, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, dominican republic, jordan, uzbekistan, honduras

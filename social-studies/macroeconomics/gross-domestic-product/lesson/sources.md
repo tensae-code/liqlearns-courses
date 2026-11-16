@@ -1,6 +1,6 @@
 # Sources — Gross domestic product
 
-countries: Ethiopia, Dominican Republic, Albania, Cambodia, Bangladesh
+countries: Ethiopia, Dominican Republic, Albania, Cambodia, Bangladesh, Honduras
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -36,7 +36,13 @@ countries: Ethiopia, Dominican Republic, Albania, Cambodia, Bangladesh
 
 Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 builds a full little production economics course inside "About Wealth" (সম্পদের কথা) — starting from a torn school uniform, it follows yarn to cloth to clothes to teach final, intermediate and primary goods, the four means of production, and what each supplier is paid, ending with a sharecropper and a factory owner side by side to show why incomes differ, and a woman construction worker paid less than the prescribed wage.
 
-**Acceptance count: taught in 4 countries (Ethiopia, Dominican Republic, Cambodia, Bangladesh). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *Libro para Estudiantes, Ciencias Sociales 7, Séptimo grado* (student book, Spanish; read in place from phase3-staging) — Secretaría de Estado en el Despacho de Educación de Honduras, C.A.; year 2020 (Edición preliminar 2020); no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 7, Séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 254 (cover/title page verified against the record title; byte size 165,302,199). Verdict: COMPLETE. Contents map: Economics parts printed pp. 88–93 (Lesson 14) and pp. 206–242 (Lessons 33–38); Civics/personal block (Lessons 1–9) printed pp. 8–62; Geography (Lessons 10–13, 15–19) printed pp. 64–87, 94–124; History (Lessons 20–29) printed pp. 126–186; Civics/society (Lessons 30–32) printed pp. 188–204; glossary is inventory-only, named not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 35 "Indicadores económicos en Honduras" — teaches: reading a GDP growth-rate chart (IMF data 2014–2018) alongside unemployment and the 2019 trade deficit as whole-economy indicators | Honduras, *Honduras Grade 7 G7 Student CCSS*, Lesson 35 "Indicadores económicos en Honduras" — printed p. 219 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Dominican Republic, Cambodia, Bangladesh, Honduras). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -44,4 +50,6 @@ Dominican Republic's own way (Dominican Republic Grade 5 Ciencias Sociales 5° P
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: GDP, gross domestic product, market value final goods services, within borders, one year, income expenditure equal, ethiopia, social studies, macroeconomics, dominican republic, albania, cambodia, bangladesh
+Honduras's own way (Honduras Grade 7 G7 Student CCSS): Grade 7 carries the set's first real Economics block — it starts from the community economy and the Banco Central's own activity classification, then builds Honduras's national story: sectors, formal/informal work (70.8% informal per INE), indicators, poverty, globalisation and the foreign lenders behind structural adjustment.
+
+Searchable tags: GDP, gross domestic product, market value final goods services, within borders, one year, income expenditure equal, ethiopia, social studies, macroeconomics, dominican republic, albania, cambodia, bangladesh, honduras

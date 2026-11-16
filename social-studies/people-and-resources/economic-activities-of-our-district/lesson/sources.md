@@ -1,6 +1,6 @@
 # Sources — Economic Activities Of Our District
 
-countries: Nepal, Uganda, Rwanda, South Sudan
+countries: Nepal, Uganda, Rwanda, South Sudan, Honduras
 
 **Book 1:** *My Social Studies and Creative Arts Grade 5 (English Version)* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre; year First edition 2068 BS, revised edition 2074 BS; ISBN 978-99933-717-8-6 as printed — the same ISBN printed in the Grade 2 book, a publisher copy error. Title as printed: My Social Studies and Creative Arts Grade 5 (English Version). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 156 (cover/title page verified against the record title). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Lessons 2–5 dealings with neighbours, community help, equal treatment (printed pp. 4–11); Unit 2 Lessons 1, 3–5 traditions, festivals, pride, good people (pp. 12–21); Unit 3 Social Problems and their Solutions (pp. 22–33); Unit 4 Civics Sense (pp. 34–47, civics); Unit 6 Our Past (pp. 66–79, History); Unit 7 Lessons 2 and 4 School property, Use of national products (pp. 82, 86); Creative Arts (pp. 91–155). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
@@ -43,7 +43,19 @@ South Sudan's own way (South Sudan Primary 3): economic activity is defined by p
 
 South Sudan's own way (South Sudan Primary 4): the economy is taught sector by sector through the child's own country — crop farming, forestry and White Nile fishing, each with its process, its problems (bad roads, pests, drought, floods, pollution) and what it gives the country — before "industry" is defined as turning raw materials into finished products, traditional industries first.
 
-**Acceptance count: taught in 4 countries (Nepal, Uganda, Rwanda, South Sudan).**
+**Book 7:** *Libro para Estudiantes, Ciencias Sociales 1, Primer grado* (student book, Spanish) — Secretaría de Educación de Honduras / Universidad Pedagógica Nacional Francisco Morazán (UPNFM); year 2020 (Edición Preliminar, abril 2020); no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 1, Primer grado. Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 66–69 (Lesson 14) and pp. 142–145 (Lesson 31); Geography/identity/time blocks (Lessons 1–29) printed pp. 10–133; Civics/family-organisation block (Lessons 30–38) printed pp. 138–178 — Lesson 32's equal-pay-for-equal-work page (printed p. 149) sits inside a rights/duties lesson and is named here, not placed; glossaries ("Nuevas palabras") are inventory-only, named not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 14 "Aquí vivimos y trabajamos" — teaches: what an occupation is; occupations differ between rural areas (farming, fishing, livestock, crafts) and towns because needs differ | Honduras, *Honduras Grade 1 G1 Student CCSS*, Lesson 14 "Aquí vivimos y trabajamos" — printed p. 66 |
+
+**Book 8:** *Libro para Estudiantes, Ciencias Sociales 2, Segundo grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 2, Segundo grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 84,745,386). Verdict: COMPLETE. Contents map: Economics part printed pp. 70–73 (Lesson 15); Civics/personal block (Lessons 1–9) printed pp. 10–46; Geography (Lessons 10–14, 16–19) printed pp. 50–69, 74–90; History (Lessons 20–29) printed pp. 94–134; Civics/municipality block (Lessons 30–38) printed pp. 138–174 — Lesson 35 "Desarrollo local" (printed p. 158) names poverty and unemployment as community problems inside a civics participation lesson and is named here, not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 15 "Actividades económicas de mi departamento" — teaches: an economic activity is working to produce a good or a service; each Honduran department's activities (mining, construction, transport, commerce, farming, fishing, industry), rural vs urban | Honduras, *Honduras Grade 2 G2 Student CCSS*, Lesson 15 "Actividades económicas de mi departamento" — printed p. 70 |
+
+**Acceptance count: taught in 5 countries (Nepal, Uganda, Rwanda, South Sudan, Honduras).**
 
 Nepal's own way (Nepal Grade 5 np-g5): Grade 5 "Our Earth" is a first full geography of Nepal — physical features, climate and lifestyle, natural vegetation, soils, map-drawing with symbols, globe and maps, and the wider South Asian neighbours; economic geography is district-based (Sankhuwasabha's occupations mapped place by place, from yak and sheep rearing and herb collecting in the high Himalaya to paddy in the low valleys).
 
@@ -51,4 +63,8 @@ Nepal's own way (Nepal Grade 5 TG np-g5tg) (teacher guide — evidence): Guide t
 
 Uganda's own way (Uganda Primary 4 Home-Study Social Studies): Economics enters through the district — the work people around the child do, how a child adds to family income, and the services the government brings to the district; this placement keeps that way: the district's own kinds of work, named one by one, and why people work.
 
-Searchable tags: economic activities of our district, Nepal, social studies, people-and-resources, uganda, district work, fishing farming weaving pottery brick laying mining teaching trading, rwanda, south sudan
+Honduras's own way (Honduras Grade 1 G1 Student CCSS): Economics enters in Grade 1 through family and community work — occupations tied to place and needs, and the family's productive vs reproductive work — long before any money or market content.
+
+Honduras's own way (Honduras Grade 2 G2 Student CCSS): Grade 2 defines economic activity through the child's own department — its mining, farming, commerce and services, split rural vs urban.
+
+Searchable tags: economic activities of our district, Nepal, social studies, people-and-resources, uganda, district work, fishing farming weaving pottery brick laying mining teaching trading, rwanda, south sudan, honduras

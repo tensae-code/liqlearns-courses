@@ -1,6 +1,6 @@
 # Sources — Exchange rates — the price of a currency
 
-countries: Ethiopia, Malaysia, Uzbekistan
+countries: Ethiopia, Malaysia, Uzbekistan, Honduras
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -21,8 +21,16 @@ countries: Ethiopia, Malaysia, Uzbekistan
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Uzbekistan).**
+**Book 4:** *Libro para Estudiantes, Ciencias Sociales 9, Noveno grado* (student book, Spanish) — Secretaría de Estado en el Despacho de Educación de Honduras, C.A.; year 2020 (Edición preliminar); no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 9, Noveno grado. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 254 (cover/title page verified against the record title; byte size 178,464,019). Verdict: COMPLETE. Contents map: Economics parts printed pp. 70–75 (Lesson 11), pp. 180–185 (Lesson 29), pp. 200–205 (Lesson 32) and pp. 218–235 (Lessons 35–37, incl. the remittances passage inside the migration lesson); Civics/personal block (Lessons 1–9) printed pp. 8–62; Geography (Lessons 10, 12–19) printed pp. 64–69, 76–124; History (Lessons 20–28) printed pp. 126–179; Civics/society (Lessons 30–31, 33–34, 38) printed pp. 188–199, 206–217, 236–242. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 36 "Situación económica de Honduras" — teaches: the devaluation of the lempira against the dollar is named the country's biggest economic problem, unbalancing the economy and driving it into debt | Honduras, *Honduras Grade 9 G9 Student CCSS*, Lesson 36 "Situación económica de Honduras" — printed p. 227 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Uzbekistan, Honduras).**
 
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
-Searchable tags: exchange rates, the price of a currency, ethiopia, social studies, macroeconomics, malaysia, uzbekistan
+Honduras's own way (Honduras Grade 9 G9 Student CCSS): Grade 9 closes the cycle with the world economy and Honduras inside it — work formal and informal, the lempira's devaluation named the country's biggest problem, and remittances weighed honestly: a strong boost to the economy that also demotivates production and drains the labour force.
+
+Searchable tags: exchange rates, the price of a currency, ethiopia, social studies, macroeconomics, malaysia, uzbekistan, honduras

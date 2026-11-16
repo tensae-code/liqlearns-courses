@@ -1,6 +1,6 @@
 # Sources — Functional and personal income distribution
 
-countries: Ethiopia, France, Bangladesh, Egypt
+countries: Ethiopia, France, Bangladesh, Egypt, Honduras
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -45,7 +45,13 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Egypt part — موارد الدخل القومي (The sources of national income) — teaches: the factor incomes that make up national income — rent for land, interest for capital, wages for labour, and profit as the reward for organising production | Egypt, *Egypt Secondary 12 Statistics and Economics*, printed p. 142 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, France, Bangladesh, Egypt).**
+**Book 7:** *Libro para Estudiantes, Ciencias Sociales 3, Tercer grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 3, Tercer grado. Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 106,568,335). Verdict: COMPLETE. Contents map: Economics parts printed pp. 74–77 (Lesson 16) and pp. 154–169 (Lessons 34–37); Civics/personal block (Lessons 1–9) printed pp. 10–46 — Lesson 4 "Necesidades básicas" (printed p. 22) teaches children's basic needs as wellbeing, not an economic concept, named here not placed; Geography (Lessons 10–15, 17–19) printed pp. 50–73, 78–90; History (Lessons 20–29) printed pp. 94–134; Civics/society (Lessons 30–33, 38) printed pp. 138–153, 170–174. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 34 "Clases sociales en Honduras y su desigualdad" — teaches: social classes differ by income level and consumption of goods and services, and by ownership of means of production (land, capital, equipment); the IDB's class definition | Honduras, *Honduras Grade 3 G3 Student CCSS*, Lesson 34 "Clases sociales en Honduras y su desigualdad" — printed p. 154 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, France, Bangladesh, Egypt, Honduras).**
 
 France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
@@ -53,4 +59,6 @@ No matching teacher guide exists in this band: the book recorded as this text's 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: functional and personal income distribution, grade 12 economics, ethiopia, france, ses, gender pay gap, efficiency wages, social studies, people and resources, bangladesh, egypt
+Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from family to country — occupations and production for the whole nation, social classes by income, the production-distribution-exchange-consumption chain, and exports/imports through customs with the arancel explained.
+
+Searchable tags: functional and personal income distribution, grade 12 economics, ethiopia, france, ses, gender pay gap, efficiency wages, social studies, people and resources, bangladesh, egypt, honduras

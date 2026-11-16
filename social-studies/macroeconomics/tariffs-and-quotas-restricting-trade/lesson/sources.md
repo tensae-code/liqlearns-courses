@@ -1,6 +1,6 @@
 # Sources — Tariffs and quotas — restricting trade
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan
+countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -34,7 +34,13 @@ countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Dominica, Uzbekistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *Libro para Estudiantes, Ciencias Sociales 3, Tercer grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 3, Tercer grado. Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 106,568,335). Verdict: COMPLETE. Contents map: Economics parts printed pp. 74–77 (Lesson 16) and pp. 154–169 (Lessons 34–37); Civics/personal block (Lessons 1–9) printed pp. 10–46 — Lesson 4 "Necesidades básicas" (printed p. 22) teaches children's basic needs as wellbeing, not an economic concept, named here not placed; Geography (Lessons 10–15, 17–19) printed pp. 50–73, 78–90; History (Lessons 20–29) printed pp. 94–134; Civics/society (Lessons 30–33, 38) printed pp. 138–153, 170–174. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 36 "Exportaciones e importaciones" — teaches: the arancel — a tax paid at customs to authorise goods entering or leaving — is a way the government collects money and trade generates jobs and income | Honduras, *Honduras Grade 3 G3 Student CCSS*, Lesson 36 "Exportaciones e importaciones" — printed p. 164 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -42,4 +48,6 @@ Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 
 
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
-Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan
+Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from family to country — occupations and production for the whole nation, social classes by income, the production-distribution-exchange-consumption chain, and exports/imports through customs with the arancel explained.
+
+Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras

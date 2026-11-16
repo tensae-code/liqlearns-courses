@@ -1,6 +1,6 @@
 # Sources — Fiscal policy — the government's budget as a lever
 
-countries: Ethiopia, Malaysia, Albania, Cambodia, Uzbekistan, Egypt
+countries: Ethiopia, Malaysia, Albania, Cambodia, Uzbekistan, Egypt, Honduras
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -39,7 +39,13 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Egypt part — الموازنة العامة (The general budget) — teaches: the general budget as the legal-accounting document of expected public spending and revenues, and its principles — annuality, unity, comprehensiveness, and the balance principle and how it developed in modern thought | Egypt, *Egypt Secondary 12 Statistics and Economics*, printed pp. 155–156 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Cambodia, Uzbekistan, Egypt). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *Libro para Estudiantes, Ciencias Sociales 8, Octavo grado* (student book, Spanish) — Secretaría de Estado en el Despacho de Educación de Honduras, C.A.; year 2020 (Edición preliminar); no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 8, Octavo grado. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 254 (cover/title page verified against the record title; byte size 143,830,752). Verdict: COMPLETE. Contents map: Economics parts printed pp. 212–230 (Lessons 35–37); Civics/personal block (Lessons 1–9) printed pp. 8–62; Geography (Lessons 10–19) printed pp. 64–124; History (Lessons 20–29) printed pp. 126–186; Civics/society (Lessons 30–34, 38) printed pp. 188–211, 230–236. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 36 "La Deuda en América Latina" — teaches: when government spending outruns income the deficit is financed by borrowing; the 1980s debt crisis brought structural-adjustment programmes (PAE) with monetary recipes such as devaluation | Honduras, *Honduras Grade 8 G8 Student CCSS*, Lesson 36 "La Deuda en América Latina" — printed p. 220 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Cambodia, Uzbekistan, Egypt, Honduras). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -51,4 +57,6 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: fiscal policy — the government's budget as a lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, cambodia, uzbekistan, egypt
+Honduras's own way (Honduras Grade 8 G8 Student CCSS): Grade 8 teaches Latin America's development problem head-on — development vs underdevelopment, the integration ladder, and the debt lesson built around Honduras's own fiscal-deficit chart and the structural-adjustment era.
+
+Searchable tags: fiscal policy — the government's budget as a lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, cambodia, uzbekistan, egypt, honduras

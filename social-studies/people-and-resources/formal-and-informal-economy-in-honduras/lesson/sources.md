@@ -11,11 +11,20 @@ countries: Honduras
 | Sub lesson 1 — Lección 34 (Bloque 4): Economía formal e informal en Honduras — formal and informal economy in Honduras | Honduras, *Honduras Grade 7 Student Book*, Lección 34 (Bloque 4): Economía formal e informal en Honduras — formal and informal economy in Honduras — printed p. 212 |
 | Sub lesson 1 — Lección 34 (Bloque 4): Economía formal e informal en Honduras — formal and informal economy in Honduras (teacher guide — evidence) | Honduras, *Honduras Grade 7 Teacher Guide* (teacher guide), Lección 34 (Bloque 4): Economía formal e informal en Honduras — formal and informal economy in Honduras — printed p. 139 |
 | Sub lesson 2 — Honduras's way — the book's own teaching way | Honduras — the book's own way of teaching (see below) |
+| Honduras part — Lesson 34 "Economía formal e informal en Honduras" — teaches: formal work is registered and taxed, informal work is hidden from national statistics; INE household-survey data put 70.8% of occupied Hondurans in informal work, with its causes and effects | Honduras, *Honduras Grade 7 G7 Student CCSS*, Lesson 34 "Economía formal e informal en Honduras" — printed p. 212 |
+
+**Book 3:** *Libro para Estudiantes, Ciencias Sociales 9, Noveno grado* (student book, Spanish) — Secretaría de Estado en el Despacho de Educación de Honduras, C.A.; year 2020 (Edición preliminar); no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 9, Noveno grado. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 254 (cover/title page verified against the record title; byte size 178,464,019). Verdict: COMPLETE. Contents map: Economics parts printed pp. 70–75 (Lesson 11), pp. 180–185 (Lesson 29), pp. 200–205 (Lesson 32) and pp. 218–235 (Lessons 35–37, incl. the remittances passage inside the migration lesson); Civics/personal block (Lessons 1–9) printed pp. 8–62; Geography (Lessons 10, 12–19) printed pp. 64–69, 76–124; History (Lessons 20–28) printed pp. 126–179; Civics/society (Lessons 30–31, 33–34, 38) printed pp. 188–199, 206–217, 236–242. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 32 "El trabajo y su relación con el mundo social" — teaches: work defined as activity to earn a sustenance; Honduras's formal and informal economy grew with the neoliberal policies of 1990 and after Hurricane Mitch (1998), with much child labour in exploitative conditions | Honduras, *Honduras Grade 9 G9 Student CCSS*, Lesson 32 "El trabajo y su relación con el mundo social" — printed p. 200 |
 
 **Acceptance count: taught in 1 country (Honduras).**
 
 Honduras's own way (Honduras Grade 7 Student Book): widening-circles design — Honduras in depth at secondary level — geographic science and location first, then the country's mountains, hydrography, national population and economic sectors. Every lesson runs the same 'Sembrar y cosechar' activity cycle.
 
 Honduras's own way (Honduras Grade 7 Teacher Guide) (teacher guide — evidence): widening-circles design — Honduras in depth at secondary level — geographic science and location first, then the country's mountains, hydrography, national population and economic sectors — the teacher guide mirrors the student book lesson-for-lesson (same 38 lessons and blocks) and adds didactics, theory summaries and answer keys; its geography lessons are placed here at the guide's own printed pages. Every lesson runs the same 'Sembrar y cosechar' activity cycle. That book is a teacher guide, cited as evidence only; Honduras is counted in this lesson for its student book(s) named here, not for this guide.
+
+Honduras's own way (Honduras Grade 9 G9 Student CCSS): Grade 9 closes the cycle with the world economy and Honduras inside it — work formal and informal, the lempira's devaluation named the country's biggest problem, and remittances weighed honestly: a strong boost to the economy that also demotivates production and drains the labour force.
 
 Searchable tags: formal and informal economy in honduras, Honduras, social studies, people-and-resources

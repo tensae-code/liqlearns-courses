@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **552**
+Economics lessons across the Economics titles: **556**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4451,3 +4451,9 @@ its structure and Global economic problems).
 +1 for Egypt,
 2026-11-16 — Macroeconomics: Globalisation —
 what it is and its challenges).
++4 for Honduras,
+2026-11-16 — Macroeconomics: Public debt and
+the debt-to-GDP ratio, International
+cooperation and development finance, Internal
+and external public debt and Remittances and
+the home economy).

@@ -1,6 +1,6 @@
 # Sources — Stages of economic integration
 
-countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic
+countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -43,10 +43,26 @@ South Sudan's own way (South Sudan Primary 7): the country's economy is told thr
 |---|---|
 | Dominican Republic part — Acuerdos internacionales (Unidad 4): in the commercial field, many treaties promote trade relations — some eliminate tariffs, reduce trade barriers or create free-trade zones — naming the United States–Mexico–Canada Agreement (2018), the Trans-Pacific Partnership (2016), Canada–EU and Japan–EU agreements, and the Dominican Republic's own membership of DR-CAFTA, signed in 2004 with the United States and Central America to promote regional trade; countries that break agreements can face economic blockades and trade and financial sanctions | Dominican Republic, *Ciencias Sociales 4° Secundaria*, Acuerdos internacionales (Unidad 4) — printed p. 68 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *Libro para Estudiantes, Ciencias Sociales 6, Sexto grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 6, Sexto grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title; byte size 98,427,961). Verdict: COMPLETE. Contents map: Economics parts printed pp. 98–102 (Lesson 18, Honduras trade content), pp. 103–107 (Lesson 19), pp. 152–156 (Lesson 28) and pp. 176–180 (Lesson 32); Civics/personal block (Lessons 1–9) printed pp. 10–54; Geography (Lessons 10–17) printed pp. 58–97 — Lesson 18's continent-by-continent economy survey and Lesson 17's closing departmental activities map are economic geography, named here not placed; History (Lessons 20–27, 29) printed pp. 112–151, 157–161; Civics/society (Lessons 30–31, 33–38) printed pp. 166–175, 181–210 — Lesson 38 "Principales problemas sociales en Honduras" (printed p. 206) is a social-problems lesson, named here not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 32 "Bloques de integración económica" — teaches: the common market — bigger markets through eliminating trade borders — raises world commercial competition and economic growth; Honduras's economic trend leans first to agricultural exports (coffee, banana, cacao) | Honduras, *Honduras Grade 6 G6 Student CCSS*, Lesson 32 "Bloques de integración económica" — printed p. 178 |
+
+**Book 8:** *Libro para Estudiantes, Ciencias Sociales 8, Octavo grado* (student book, Spanish) — Secretaría de Estado en el Despacho de Educación de Honduras, C.A.; year 2020 (Edición preliminar); no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 8, Octavo grado. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 254 (cover/title page verified against the record title; byte size 143,830,752). Verdict: COMPLETE. Contents map: Economics parts printed pp. 212–230 (Lessons 35–37); Civics/personal block (Lessons 1–9) printed pp. 8–62; Geography (Lessons 10–19) printed pp. 64–124; History (Lessons 20–29) printed pp. 126–186; Civics/society (Lessons 30–34, 38) printed pp. 188–211, 230–236. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 35 "Desarrollo económico de América Latina" — teaches: the integration ladder — preferential trade agreements, free-trade zones, customs unions, common markets, up to economic and monetary unions (MERCOSUR, ALCA named) | Honduras, *Honduras Grade 8 G8 Student CCSS*, Lesson 35 "Desarrollo económico de América Latina" — printed p. 214 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras). Argentina is teacher-guide evidence only — named here, counted nowhere.**
 
 Dominican Republic's own way (Dominican Republic Grade 10 Ciencias Sociales 4° Secundaria): at this level the analysis turns Marxian in vocabulary — capitalism is explained through the separation of the worker from the means of production and the owner's appropriation of surplus labour (plusvalía), and imperialism through cartels, monopoly centralisation and the export of capital.
 
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
-Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia, dominican republic, DR-CAFTA
+Honduras's own way (Honduras Grade 6 G6 Student CCSS): Grade 6 goes global — world tourism, the maldistribution of world wealth, and integration blocs with the common market explained, while Honduras's own trade (US as main market) anchors it home.
+
+Honduras's own way (Honduras Grade 8 G8 Student CCSS): Grade 8 teaches Latin America's development problem head-on — development vs underdevelopment, the integration ladder, and the debt lesson built around Honduras's own fiscal-deficit chart and the structural-adjustment era.
+
+Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia, dominican republic, DR-CAFTA, honduras

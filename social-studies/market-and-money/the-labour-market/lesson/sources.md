@@ -1,6 +1,6 @@
 # Sources — The labour market
 
-countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan
+countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan, Honduras
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -44,7 +44,19 @@ countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bahamas, Mongolia, Cambodia, Uzbekistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *Ciencias Sociales 1, Primer grado — Guía para Docentes* (teacher guide, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Ciencias Sociales 1, Primer grado — Guía para Docentes. Grade: Grade 1 (student/teacher: TEACHER). PDF pages: 166 (cover/title page verified against the record title; byte size 24,186,588). Verdict: COMPLETE — guide mirrors the student book lesson by lesson with teaching notes; its notes for Lessons 14 and 31 add pedagogy only, no new Economics concept. One guide-only statement is placed, marked TEACHER. Contents map: Economics parts printed pp. 59–62 (Lesson 14) and pp. 127–134 (Lessons 31–32); Civics/personal block (Lessons 1–9) printed pp. 7–42; Geography (Lessons 10–13, 15–19) printed pp. 43–58, 63–82; History (Lessons 20–29) printed pp. 83–122; Civics/family (Lessons 30, 33–38) printed pp. 123–126, 135–158. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 32 "Qué nos corresponde en la familia" (teacher note) — teaches: the basic principle of work stated for teachers — equal work, equal pay ("a trabajo igual, salario igual") (teacher guide — evidence) | Honduras, *Honduras Grade 1 G1 Teacher CCSS* (teacher guide), Lesson 32 "Qué nos corresponde en la familia" (teacher note) — printed p. 133 |
+
+**Book 8:** *Libro para Estudiantes, Ciencias Sociales 9, Noveno grado* (student book, Spanish) — Secretaría de Estado en el Despacho de Educación de Honduras, C.A.; year 2020 (Edición preliminar); no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 9, Noveno grado. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 254 (cover/title page verified against the record title; byte size 178,464,019). Verdict: COMPLETE. Contents map: Economics parts printed pp. 70–75 (Lesson 11), pp. 180–185 (Lesson 29), pp. 200–205 (Lesson 32) and pp. 218–235 (Lessons 35–37, incl. the remittances passage inside the migration lesson); Civics/personal block (Lessons 1–9) printed pp. 8–62; Geography (Lessons 10, 12–19) printed pp. 64–69, 76–124; History (Lessons 20–28) printed pp. 126–179; Civics/society (Lessons 30–31, 33–34, 38) printed pp. 188–199, 206–217, 236–242. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 32 "El trabajo y su relación con el mundo social" — teaches: tercerización — firms transferring processes to third parties — reshapes Honduras's labour situation; agriculture gives income to almost 40% of the population and about 50% of the country's foreign currency | Honduras, *Honduras Grade 9 G9 Student CCSS*, Lesson 32 "El trabajo y su relación con el mundo social" — printed p. 203 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Bahamas, Mongolia, Cambodia, Uzbekistan, Honduras). Albania is teacher-guide evidence only — named here, counted nowhere. Honduras's Grade 1 teacher guide is cited as evidence only — Honduras is counted for its Grade 9 student book named here, not for that guide.**
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -56,4 +68,8 @@ Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is tau
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: labour market, employees supply labour, employers supply jobs, ethiopia, social studies, market and money, bahamas, mongolia, labour market, training job matching information, albania, cambodia, uzbekistan
+Honduras's own way (Honduras Grade 1 G1 Teacher CCSS) (teacher guide — evidence): the guide mirrors the student book lesson by lesson with teaching notes; the one guide-only Economics statement placed here is the basic principle of work stated for teachers — equal work, equal pay. That book is a teacher guide, cited as evidence only; Honduras is counted in this lesson for its student book(s) named here, not for this guide.
+
+Honduras's own way (Honduras Grade 9 G9 Student CCSS): Grade 9 closes the cycle with the world economy and Honduras inside it — work formal and informal, the lempira's devaluation named the country's biggest problem, and remittances weighed honestly: a strong boost to the economy that also demotivates production and drains the labour force.
+
+Searchable tags: labour market, employees supply labour, employers supply jobs, ethiopia, social studies, market and money, bahamas, mongolia, labour market, training job matching information, albania, cambodia, uzbekistan, honduras

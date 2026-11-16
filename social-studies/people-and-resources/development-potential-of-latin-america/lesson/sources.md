@@ -11,6 +11,7 @@ countries: Honduras
 | Sub lesson 1 — Lección 37 (Bloque 4): Potencial para el desarrollo en América Latina — Latin America's development potential | Honduras, *Honduras Grade 8 Student Book*, Lección 37 (Bloque 4): Potencial para el desarrollo en América Latina — Latin America's development potential — printed p. 230 |
 | Sub lesson 1 — Lección 37 (Bloque 4): Potencial para el desarrollo en América Latina — Latin America's development potential (teacher guide — evidence) | Honduras, *Honduras Grade 8 Teacher Guide* (teacher guide), Lección 37 (Bloque 4): Potencial para el desarrollo en América Latina — Latin America's development potential — printed p. 151 |
 | Sub lesson 2 — Honduras's way — the book's own teaching way | Honduras — the book's own way of teaching (see below) |
+| Honduras part — Lesson 37 "Potencial para el desarrollo en América Latina" — teaches: the region's development potential — two-ocean location, oil deposits and renewable-energy conditions — while its economies still centre on raw materials and buy industrialised goods | Honduras, *Honduras Grade 8 G8 Student CCSS*, Lesson 37 "Potencial para el desarrollo en América Latina" — printed p. 224 |
 
 **Acceptance count: taught in 1 country (Honduras).**
 

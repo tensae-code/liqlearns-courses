@@ -1,6 +1,6 @@
 # Sources — Regional integration — gains and costs
 
-countries: Argentina, Ethiopia, Uganda, Kuwait, Rwanda, South Sudan, Palestine, Venezuela, Dominica
+countries: Argentina, Ethiopia, Uganda, Kuwait, Rwanda, South Sudan, Palestine, Venezuela, Dominica, Honduras
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -69,7 +69,25 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Dominica part — Unit 10.3 The Impact of Regional and Global Economic Institutions and Systems: CARICOM and the CSME — teaches: Caribbean integration from CARIFTA to CARICOM (1973) and the CARICOM Single Market and Economy — free movement of goods, services, capital and labour, right of establishment and a common external tariff — alongside NAFTA, the EU, ASEAN and Mercosur | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 10.3 The Impact of Regional and Global Economic Institutions and Systems: CARICOM and the CSME — printed p. 374 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Kuwait, Rwanda, South Sudan, Palestine, Venezuela, Dominica). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 10:** *Libro para Estudiantes, Ciencias Sociales 5, Quinto grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 5, Quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title; byte size 63,442,906). Verdict: COMPLETE. Contents map: Economics parts printed pp. 98–107 (Lessons 18–19) and pp. 171–175 (Lesson 31); Civics/personal block (Lessons 1–9) printed pp. 10–54; Geography (Lessons 10–17) printed pp. 58–97; History (Lessons 20–29) printed pp. 112–161; Civics/society (Lessons 30, 32–38) printed pp. 166–170, 176–210 — Lesson 38 "Problemas sociales de América" (printed p. 206) names poverty as a population problem without teaching an economic concept, named here not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 31 "Bloques de integración en América" — teaches: countries integrate into blocs (MCCA, CARICOM, the Andean Community, CELAC) to strengthen international trade and raise their citizens' wellbeing | Honduras, *Honduras Grade 5 G5 Student CCSS*, Lesson 31 "Bloques de integración en América" — printed p. 171 |
+
+**Book 11:** *Libro para Estudiantes, Ciencias Sociales 6, Sexto grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 6, Sexto grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title; byte size 98,427,961). Verdict: COMPLETE. Contents map: Economics parts printed pp. 98–102 (Lesson 18, Honduras trade content), pp. 103–107 (Lesson 19), pp. 152–156 (Lesson 28) and pp. 176–180 (Lesson 32); Civics/personal block (Lessons 1–9) printed pp. 10–54; Geography (Lessons 10–17) printed pp. 58–97 — Lesson 18's continent-by-continent economy survey and Lesson 17's closing departmental activities map are economic geography, named here not placed; History (Lessons 20–27, 29) printed pp. 112–151, 157–161; Civics/society (Lessons 30–31, 33–38) printed pp. 166–175, 181–210 — Lesson 38 "Principales problemas sociales en Honduras" (printed p. 206) is a social-problems lesson, named here not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 32 "Bloques de integración económica" — teaches: economic blocs (OPEC, Andean Community, free-trade treaties, MERCOSUR, CARICOM) exist to develop and strengthen trade between member countries | Honduras, *Honduras Grade 6 G6 Student CCSS*, Lesson 32 "Bloques de integración económica" — printed p. 176 |
+
+**Book 12:** *Libro para Estudiantes, Ciencias Sociales 8, Octavo grado* (student book, Spanish) — Secretaría de Estado en el Despacho de Educación de Honduras, C.A.; year 2020 (Edición preliminar); no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 8, Octavo grado. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 254 (cover/title page verified against the record title; byte size 143,830,752). Verdict: COMPLETE. Contents map: Economics parts printed pp. 212–230 (Lessons 35–37); Civics/personal block (Lessons 1–9) printed pp. 8–62; Geography (Lessons 10–19) printed pp. 64–124; History (Lessons 20–29) printed pp. 126–186; Civics/society (Lessons 30–34, 38) printed pp. 188–211, 230–236. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 35 "Desarrollo económico de América Latina" — teaches: economic integration as the progressive elimination of trade barriers so countries benefit mutually; a free-trade treaty (TLC) grants mutual tariff preferences and cuts non-tariff barriers | Honduras, *Honduras Grade 8 G8 Student CCSS*, Lesson 35 "Desarrollo económico de América Latina" — printed p. 216 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Kuwait, Rwanda, South Sudan, Palestine, Venezuela, Dominica, Honduras). Argentina is teacher-guide evidence only — named here, counted nowhere.**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -79,4 +97,10 @@ Kuwait's own way (Kuwait Grade 6 Term 2): the modern economy is taught as resour
 
 Uganda's own way: the Excel ladder widens from Uganda to the region — Primary Six teaches the East African Community as a working market: common currency aim, fewer trade barriers, free movement, wider markets, and the landlocked country's trade costs, Uganda being landlocked itself.
 
-Searchable tags: regional integration, gains and costs, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics, uganda, east african community, EAC, landlocked, free movement, common currency, rwanda, south sudan, palestine, venezuela, dominica, csec principles of business, caribbean
+Honduras's own way (Honduras Grade 5 G5 Student CCSS): Grade 5 turns outward to the Americas — Honduras's trade network and treaties, its free-trade zone at Choloma, tourism, and the integration blocs (MCCA, CARICOM, CELAC) as the road to development.
+
+Honduras's own way (Honduras Grade 6 G6 Student CCSS): Grade 6 goes global — world tourism, the maldistribution of world wealth, and integration blocs with the common market explained, while Honduras's own trade (US as main market) anchors it home.
+
+Honduras's own way (Honduras Grade 8 G8 Student CCSS): Grade 8 teaches Latin America's development problem head-on — development vs underdevelopment, the integration ladder, and the debt lesson built around Honduras's own fiscal-deficit chart and the structural-adjustment era.
+
+Searchable tags: regional integration, gains and costs, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics, uganda, east african community, EAC, landlocked, free movement, common currency, rwanda, south sudan, palestine, venezuela, dominica, csec principles of business, caribbean, honduras

@@ -1,6 +1,6 @@
 # Sources — Why countries trade
 
-countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan
+countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -50,7 +50,19 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Jordan part — Economics expansion — Unit 3 Lesson 4: International Trade: international trade is the exchange of goods, services, capital and labour between individuals, institutions and states across political borders, organised by differing customs laws, tax procedures and bilateral agreements; it is an old phenomenon, with the Silk Road from China to Europe as its historic example | Jordan, *Social Studies, Grade 7, Term 1*, Unit 3 Lesson 4: International Trade — printed p. 65 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan).**
+**Book 8:** *Libro para Estudiantes, Ciencias Sociales 4, Cuarto grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 4, Cuarto grado. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title; byte size 60,591,710). Verdict: COMPLETE. Contents map: Economics parts printed pp. 98–107 (Lessons 18–19), pp. 186–190 (Lesson 34) and pp. 206–210 (Lesson 38); Civics/personal block (Lessons 1–9) printed pp. 10–54; Geography (Lessons 10–16) printed pp. 58–92 — Lesson 17 "El intercambio comercial en América Central" (printed p. 93) is transport-network geography and is named here, not placed; History (Lessons 20–29) printed pp. 112–161; Civics/society (Lessons 30–33, 35–37) printed pp. 166–185, 191–205 — Lesson 37 (printed p. 201) names rising poverty and inequality inside a social-problems lesson, named here not placed; glossary ("Nuevas palabras", incl. a definition of actividad económica) is inventory-only, named not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 18 "Población y producción económica de América Central" — teaches: productive diversification means a country does not depend on one product to trade; sugar exports bring foreign currency into the regional economy and the maquila is fundamental in Honduras | Honduras, *Honduras Grade 4 G4 Student CCSS*, Lesson 18 "Población y producción económica de América Central" — printed p. 100 |
+
+**Book 9:** *Libro para Estudiantes, Ciencias Sociales 5, Quinto grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 5, Quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title; byte size 63,442,906). Verdict: COMPLETE. Contents map: Economics parts printed pp. 98–107 (Lessons 18–19) and pp. 171–175 (Lesson 31); Civics/personal block (Lessons 1–9) printed pp. 10–54; Geography (Lessons 10–17) printed pp. 58–97; History (Lessons 20–29) printed pp. 112–161; Civics/society (Lessons 30, 32–38) printed pp. 166–170, 176–210 — Lesson 38 "Problemas sociales de América" (printed p. 206) names poverty as a population problem without teaching an economic concept, named here not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 18 "Actividad económica de Honduras con América" — teaches: Honduras exports marine, mineral, agricultural, livestock and forestry products from the heart of America; a trade treaty is an agreement between countries, bilateral or multilateral (e.g. Honduras–Peru 2015) | Honduras, *Honduras Grade 5 G5 Student CCSS*, Lesson 18 "Actividad económica de Honduras con América" — printed p. 98 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras).**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -58,4 +70,8 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Jordan's own way (Jordan Grade 7 Term 1): Trade is taught from Aqaba port and the Silk Road into Jordan's real 2022 export/import charts, and the economy lesson ends in entrepreneurship — Jobs and Apple beside Jordanian start-up projects the class must hunt down itself.
 
-Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan
+Honduras's own way (Honduras Grade 4 G4 Student CCSS): Grade 4 widens the lens to Central America — regional production and diversification, tourism as an earner, and a first named look at capitalism and globalisation.
+
+Honduras's own way (Honduras Grade 5 G5 Student CCSS): Grade 5 turns outward to the Americas — Honduras's trade network and treaties, its free-trade zone at Choloma, tourism, and the integration blocs (MCCA, CARICOM, CELAC) as the road to development.
+
+Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras

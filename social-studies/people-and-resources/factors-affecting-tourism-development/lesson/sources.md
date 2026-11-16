@@ -1,6 +1,6 @@
 # Sources — Factors Affecting Tourism Development
 
-countries: Fiji, South Sudan, Egypt
+countries: Fiji, South Sudan, Egypt, Honduras
 
 **Book 1:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -29,7 +29,31 @@ South Sudan's own way (South Sudan Primary 6): trade is taught as a tree — int
 |---|---|
 | Egypt part — Unit 3 Lesson 4 “Tourism activity in our Arab homeland” — teaches: the natural and human ingredients that attract tourists, eight kinds of tourism (religious, cultural, medical, recreational, shopping, environmental, conference, sports), tourism's importance for national income and jobs, and Arab governments' development efforts including Egypt's Grand Egyptian Museum and New Alamein | Egypt, *Egypt Grade 6 Social Prim6 T1*, Unit 3 Lesson 4 — printed p. 100 |
 
-**Acceptance count: taught in 3 countries (Fiji, South Sudan, Egypt).**
+**Book 5:** *Libro para Estudiantes, Ciencias Sociales 4, Cuarto grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 4, Cuarto grado. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title; byte size 60,591,710). Verdict: COMPLETE. Contents map: Economics parts printed pp. 98–107 (Lessons 18–19), pp. 186–190 (Lesson 34) and pp. 206–210 (Lesson 38); Civics/personal block (Lessons 1–9) printed pp. 10–54; Geography (Lessons 10–16) printed pp. 58–92 — Lesson 17 "El intercambio comercial en América Central" (printed p. 93) is transport-network geography and is named here, not placed; History (Lessons 20–29) printed pp. 112–161; Civics/society (Lessons 30–33, 35–37) printed pp. 166–185, 191–205 — Lesson 37 (printed p. 201) names rising poverty and inequality inside a social-problems lesson, named here not placed; glossary ("Nuevas palabras", incl. a definition of actividad económica) is inventory-only, named not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 19 "El turismo en América Central" — teaches: tourism as an economic activity — Copán, Roatán cruises and the region's varied landscapes — and its social and economic impact | Honduras, *Honduras Grade 4 G4 Student CCSS*, Lesson 19 "El turismo en América Central" — printed p. 103 |
+
+**Book 6:** *Libro para Estudiantes, Ciencias Sociales 5, Quinto grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 5, Quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title; byte size 63,442,906). Verdict: COMPLETE. Contents map: Economics parts printed pp. 98–107 (Lessons 18–19) and pp. 171–175 (Lesson 31); Civics/personal block (Lessons 1–9) printed pp. 10–54; Geography (Lessons 10–17) printed pp. 58–97; History (Lessons 20–29) printed pp. 112–161; Civics/society (Lessons 30, 32–38) printed pp. 166–170, 176–210 — Lesson 38 "Problemas sociales de América" (printed p. 206) names poverty as a population problem without teaching an economic concept, named here not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 19 "Actividad turística de América" — teaches: tourism is one of the fastest-growing economic activities in Latin America and leaves large sums of money; its types (cultural, adventure, shopping, sun-and-beach) and Honduras's 91 protected areas | Honduras, *Honduras Grade 5 G5 Student CCSS*, Lesson 19 "Actividad turística de América" — printed p. 103 |
+
+**Book 7:** *Libro para Estudiantes, Ciencias Sociales 6, Sexto grado* (student book, Spanish) — Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 6, Sexto grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title; byte size 98,427,961). Verdict: COMPLETE. Contents map: Economics parts printed pp. 98–102 (Lesson 18, Honduras trade content), pp. 103–107 (Lesson 19), pp. 152–156 (Lesson 28) and pp. 176–180 (Lesson 32); Civics/personal block (Lessons 1–9) printed pp. 10–54; Geography (Lessons 10–17) printed pp. 58–97 — Lesson 18's continent-by-continent economy survey and Lesson 17's closing departmental activities map are economic geography, named here not placed; History (Lessons 20–27, 29) printed pp. 112–151, 157–161; Civics/society (Lessons 30–31, 33–38) printed pp. 166–175, 181–210 — Lesson 38 "Principales problemas sociales en Honduras" (printed p. 206) is a social-problems lesson, named here not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 19 "El turismo mundial" — teaches: tourism as a key point of world socioeconomic development; France the most visited country (83 million tourists a year); continents ranked by visitor appeal | Honduras, *Honduras Grade 6 G6 Student CCSS*, Lesson 19 "El turismo mundial" — printed p. 103 |
+
+**Book 8:** *Libro para Estudiantes, Ciencias Sociales 9, Noveno grado* (student book, Spanish) — Secretaría de Estado en el Despacho de Educación de Honduras, C.A.; year 2020 (Edición preliminar); no ISBN printed. Title as printed: Libro para Estudiantes, Ciencias Sociales 9, Noveno grado. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 254 (cover/title page verified against the record title; byte size 178,464,019). Verdict: COMPLETE. Contents map: Economics parts printed pp. 70–75 (Lesson 11), pp. 180–185 (Lesson 29), pp. 200–205 (Lesson 32) and pp. 218–235 (Lessons 35–37, incl. the remittances passage inside the migration lesson); Civics/personal block (Lessons 1–9) printed pp. 8–62; Geography (Lessons 10, 12–19) printed pp. 64–69, 76–124; History (Lessons 20–28) printed pp. 126–179; Civics/society (Lessons 30–31, 33–34, 38) printed pp. 188–199, 206–217, 236–242. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lesson 11 "Impulsando el desarrollo turístico" — teaches: tourism is a complex multisectoral economic activity generating direct and indirect benefits, jobs and state revenue; Honduras's tourism has grown exponentially (Instituto Hondureño de Turismo data), with Copán placing the country on the world tourism map | Honduras, *Honduras Grade 9 G9 Student CCSS*, Lesson 11 "Impulsando el desarrollo turístico" — printed p. 70 |
+
+**Acceptance count: taught in 4 countries (Fiji, South Sudan, Egypt, Honduras).**
 
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
 
@@ -37,4 +61,12 @@ Egypt's own way (Grade 7 Term 2, egypt-placements.md): Africa's economy is taugh
 
 Egypt's own way (Grade 6 Term 1): the Arab world's economy is taught resource by resource — what the land needs, what each country leads in, what problems hold it back, and what Arab states (Egypt's Future of Egypt and Toshka projects among them) are doing about it.
 
-Searchable tags: factors affecting tourism development, Fiji, social studies, people-and-resources, south sudan, egypt
+Honduras's own way (Honduras Grade 4 G4 Student CCSS): Grade 4 widens the lens to Central America — regional production and diversification, tourism as an earner, and a first named look at capitalism and globalisation.
+
+Honduras's own way (Honduras Grade 5 G5 Student CCSS): Grade 5 turns outward to the Americas — Honduras's trade network and treaties, its free-trade zone at Choloma, tourism, and the integration blocs (MCCA, CARICOM, CELAC) as the road to development.
+
+Honduras's own way (Honduras Grade 6 G6 Student CCSS): Grade 6 goes global — world tourism, the maldistribution of world wealth, and integration blocs with the common market explained, while Honduras's own trade (US as main market) anchors it home.
+
+Honduras's own way (Honduras Grade 9 G9 Student CCSS): Grade 9 closes the cycle with the world economy and Honduras inside it — work formal and informal, the lempira's devaluation named the country's biggest problem, and remittances weighed honestly: a strong boost to the economy that also demotivates production and drains the labour force.
+
+Searchable tags: factors affecting tourism development, Fiji, social studies, people-and-resources, south sudan, egypt, honduras
