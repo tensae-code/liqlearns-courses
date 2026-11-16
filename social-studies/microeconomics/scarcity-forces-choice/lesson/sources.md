@@ -1,6 +1,6 @@
 # Sources — Scarcity forces choice
 
-countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq
+countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -82,7 +82,32 @@ countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulg
 |---|---|
 | Iraq part — Choice, the second element — teaches: insufficient resources force individuals and society to rank needs and sacrifice some for others — in Iraq: electricity or optical internet for society, food or a concert for the family — with economic efficiency as meeting the most needs with the least resources (Economics expansion, 2026-11-16; original placement slug: microeconomics/scarcity-and-choice-why-economics-exists — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 12 Economics*, Choice, the second element — printed p. 11 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Syria, Mongolia, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 14:** *Social Studies Class 4 SNC* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (February 2022 printing, 851,708 copies); ISBN no ISBN printed. Title as printed: معاشرتی علوم (Social Studies), Class 4 — Single National Curriculum 2020, "One Nation, One Curriculum". Grade: Class 4 (student/teacher: STUDENT). PDF pages: 108 (cover verified against the record title; 11,470,265 bytes, matches the books.json record). Verdict: COMPLETE. Contents map: Citizenship printed pp. 1-14; Culture pp. 15-26; State and Government pp. 27-44; History pp. 45-60; Geography pp. 61-93; Economics pp. 94-104; Glossary p. 105 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Economic Choice — teaches: needs and resources are named and the learner must choose between wanted things (clothes, toys, a ball) because not everything can be had at once — choice forced by limited means | Pakistan, *Pakistan Grade 4 Social Studies Class 4 SNC*, Economic Choice — printed p. 95 |
+
+**Book 15:** *Social Studies Class 5 SNC* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم (Social Studies), Class 5 — Single National Curriculum 2020, "One Nation, One Curriculum". Grade: Class 5 (student/teacher: STUDENT). PDF pages: 114 (cover verified against the record title; 12,880,734 bytes, matches the books.json record). Verdict: COMPLETE. Contents map: Citizenship printed pp. 1-9; Culture pp. 10-24; State and Government pp. 25-32; History pp. 33-50; Geography pp. 51-85; Economics pp. 86-108; Glossary pp. 109-110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Scarcity — teaches: scarcity named as its own section — wants against a dry, cracked land picture — before the chapter moves to how a country responds | Pakistan, *Pakistan Grade 5 Social Studies Class 5 SNC*, Scarcity — printed p. 89 |
+
+**Book 16:** *Economics Class 11* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2016 (June 2016, first edition of this printing, 5,000 copies, Rs 127.00; publisher Al-Jubairi Corporation, Lahore; approval No.F1-8/2005-CE(Pb) dated 9 Aug 2005); authors Mahmood Ahmad Chaudhry and Ghulam Ismatullah Awan; ISBN no ISBN printed. Title as printed: معاشیات (Economics), Class 11, session 2016-17. Grade: Class 11 (student/teacher: STUDENT). PDF pages: 272 (cover verified against the record title; 23,223,649 bytes, matches the books.json record; read in place in staging). Verdict: COMPLETE — read page by page from 100-DPI renders; the scan's text layer carries only the "Freebooks.pk" watermark, so the book's own English parenthetical section headings were extracted by RapidOCR and every chapter was checked against the printed contents page (printed p. iv). Exclusions: the book's own objective-questions answers section (printed p. 255) is assessment apparatus, excluded and named here; the Glossary (فرہنگ, printed p. 262) is inventory-only, not placed; References p. 266 not placed. Contents map: Ch. 1 Nature and Scope of Economics printed pp. 1-28; Ch. 2 Consumer Behaviour Analysis pp. 29-50; Ch. 3 Basic Tools of Statistics and Maths in Economics pp. 51-71; Ch. 4 Demand pp. 72-100; Ch. 5 Supply pp. 101-120; Ch. 6 Market Equilibrium pp. 121-129; Ch. 7 Theory of Production pp. 130-154; Ch. 8 Scale of Production and Laws of Return pp. 155-178; Ch. 9 Costs of Production pp. 179-190; Ch. 10 Analysis of Revenue pp. 191-216; Ch. 11 Market pp. 217-225; Ch. 12 Distribution pp. 226-254. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Ch. 1.4 Scarcity — teaches: scarcity as the root economic problem — ends unlimited, means limited | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 1.4 Scarcity — printed p. 10 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Syria, Mongolia, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Pakistan's own way (Pakistan Grade 4 Social Studies Class 4 SNC): Economics enters at Class 4 as one named chapter of Social Studies, taught in Urdu with English concept labels, through Pakistani examples — the State Bank of Pakistan, a National Bank of Pakistan cheque, and Pakistan's own import/export goods.
+
+Pakistan's own way (Pakistan Grade 5 Social Studies Class 5 SNC): The Class 5 chapter deepens the Class 4 set with Pakistan's own institutions as the teaching examples — PIA, Pakistan Railways, Pakistan Television, Pakistan Post and WAPDA for public services, the State Bank of Pakistan (established 1948), and Dr Akhtar Hameed Khan's microfinance work for social entrepreneurship.
+
+Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium microeconomics course whose every Urdu section heading carries the English term in brackets, so the learner meets both languages' vocabulary at once; theory is built from schedules, tables and hand-drawn curves throughout, and distribution (rent, wages, interest, profit) closes the book as one factor-pricing chapter.
+
 
 Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
 
@@ -110,4 +135,4 @@ Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grad
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: scarcity choice chain, limited output, households firms governments choose, ethiopia, syria, syrian pounds, necessary purchases, postponable purchases, social studies, microeconomics, mongolia, opportunity cost, family examples, albania, egypt, yemen, Fiji, armenia, bulgaria, iran, iraq
+Searchable tags: scarcity choice chain, limited output, households firms governments choose, ethiopia, syria, syrian pounds, necessary purchases, postponable purchases, social studies, microeconomics, mongolia, opportunity cost, family examples, albania, egypt, yemen, Fiji, armenia, bulgaria, iran, iraq, pakistan

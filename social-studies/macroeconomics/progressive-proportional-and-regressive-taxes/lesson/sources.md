@@ -1,6 +1,6 @@
 # Sources — Progressive, proportional and regressive taxes
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Bangladesh, Uzbekistan, Egypt, United States
+countries: Ethiopia, Malaysia, Albania, Dominica, Bangladesh, Uzbekistan, Egypt, United States, Pakistan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -54,7 +54,16 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | United States part — 16.5 Budgeting and Tax Policy — teaches: US income taxes as progressive taxes, paid in exchange for government benefits | United States, *United States Grade 13 American Government 3e*, 16.5 Budgeting and Tax Policy — printed p. 567 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Dominica, Bangladesh, Uzbekistan, Egypt, United States). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 9:** *Economics Class 12* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2016 (June 2016, first edition of this printing, 10,000 copies, Rs 95.00; publisher Saif Book House, Lahore; approval No.F.1-9/2006-Eco-XII (Pb) dated 2 Dec 2006 — the 2006 syllabus book, not an SNC book); authors Dr Ghulam Mohyuddin and Mahmood Ahmad Chaudhry; ISBN no ISBN printed. Title as printed: معاشیات (Economics), Class 12, session 2016-17. Grade: Class 12 (student/teacher: STUDENT). PDF pages: 260 (cover verified against the record title; 26,120,184 bytes, matches the books.json record; read in place in staging). Verdict: COMPLETE — read page by page from 100-DPI renders and contact sheets; the scan's text layer carries only the "Freebooks.pk" watermark, so structure was taken from the book's own English parenthetical section headings, checked against the printed contents page. Exclusions: the book's own objective-questions answers section (printed p. 244) is assessment apparatus, excluded and named here; the Glossary (printed p. 251) is inventory-only, not placed; References p. 254 not placed. Contents map: Ch. 1 National Income printed pp. 1-19; Ch. 2 Money pp. 20-44; Ch. 3 Bank pp. 45-68; Ch. 4 Public Finance pp. 69-85; Ch. 5 International Trade pp. 86-105; Ch. 6 Introduction to Pakistan's Economy pp. 106-114; Ch. 7 Pakistan's National Income pp. 115-131; Ch. 8 Economic Development and Planning pp. 132-155; Ch. 9 Communication, Means of Transport and Human Resource Development pp. 156-174; Ch. 10 Pakistan's Banking System pp. 175-193; Ch. 11 Finances of Government of Pakistan pp. 194-206; Ch. 12 Pakistan's Foreign Trade pp. 207-223; Ch. 13 Islamic Economic System pp. 224-243. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Ch. 11.1 Kinds of Taxes in Pakistan — teaches: Pakistan's taxes sorted by shape — progressive tax, proportional tax, regressive tax — with value added tax named among them | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 11.1 Kinds of Taxes in Pakistan — printed pp. 194-195 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, Dominica, Bangladesh, Uzbekistan, Egypt, United States, Pakistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
+
 
 United States' own way (United States Grade 13 American Government 3e): economics appears inside civics as the machinery of public policy — goods classified by who can be excluded, and the federal budget as the arena where Keynesian ideas meet mandatory spending.
 
@@ -70,4 +79,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: progressive, proportional and regressive taxes, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, uzbekistan, egypt, united states
+Searchable tags: progressive, proportional and regressive taxes, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, uzbekistan, egypt, united states, pakistan

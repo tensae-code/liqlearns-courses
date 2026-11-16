@@ -1,6 +1,6 @@
 # Sources — The trade balance — exports minus imports
 
-countries: Ethiopia, Kuwait, Cambodia, Egypt, Vietnam
+countries: Ethiopia, Kuwait, Cambodia, Egypt, Vietnam, Pakistan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -41,7 +41,16 @@ countries: Ethiopia, Kuwait, Cambodia, Egypt, Vietnam
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 2: international trade as an external economic activity — teaches: international trade is the exchange of goods and services between countries through export and import; it stimulates consumption, expands production, transfers technology and investment between countries and is a condition for growth and economic development, and the growth of export turnover shows each country's integration results — Vietnam's goods exports reached 371.3 billion USD in 2022 (up 10.5% on the year) against imports of 358.9 billion (up 7.8%), the seventh consecutive year its trade balance was in surplus; alongside trade, foreign-exchange-earning services (tourism, transport, labour export — over 600,000 Vietnamese working abroad remit more than 3 billion USD a year) create revenue that improves the international balance of payments (Economics expansion, 2026-11-16; original placement slug: macroeconomics/exports-imports-and-the-trade-balance — stocked here as the closest existing lesson covering this thing) | Vietnam, *Vietnam Grade 12 Economic & Legal Education*, Lesson 2: international trade as an external economic activity — printed p. 23 |
-**Acceptance count: taught in 5 countries (Ethiopia, Kuwait, Cambodia, Egypt, Vietnam).**
+**Book 7:** *Social Studies Class 4 SNC* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (February 2022 printing, 851,708 copies); ISBN no ISBN printed. Title as printed: معاشرتی علوم (Social Studies), Class 4 — Single National Curriculum 2020, "One Nation, One Curriculum". Grade: Class 4 (student/teacher: STUDENT). PDF pages: 108 (cover verified against the record title; 11,470,265 bytes, matches the books.json record). Verdict: COMPLETE. Contents map: Citizenship printed pp. 1-14; Culture pp. 15-26; State and Government pp. 27-44; History pp. 45-60; Geography pp. 61-93; Economics pp. 94-104; Glossary p. 105 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Imports and Exports — teaches: imports pictured (machinery, petroleum, edible oil, tea) against exports pictured (bed linen, sports goods, rice, tissue paper) — Pakistan's own trade basket as the example | Pakistan, *Pakistan Grade 4 Social Studies Class 4 SNC*, Imports and Exports — printed p. 98 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Kuwait, Cambodia, Egypt, Vietnam, Pakistan).**
+
+Pakistan's own way (Pakistan Grade 4 Social Studies Class 4 SNC): Economics enters at Class 4 as one named chapter of Social Studies, taught in Urdu with English concept labels, through Pakistani examples — the State Bank of Pakistan, a National Bank of Pakistan cheque, and Pakistan's own import/export goods.
+
 
 Vietnam's own way (Vietnam Grade 12 Economic & Legal Education): the macro course is built on Vietnam's national accounts — the expenditure formula GDP = C + I + G + (X − M), GDP/GNI tables against China and Singapore, the 8.12% growth of 2022, sector-share charts 2018 vs 2022, and the 50/30/20-style family budget rule (50% essentials / 20% non-essentials / 30% saving, investment and reserve).
 
@@ -55,4 +64,4 @@ Egypt's own way (Grade 7 Term 2, egypt-placements-b.md): Africa's economies are 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: trade balance visible balance, surplus deficit, ethiopia trade deficit, exports imports goods, social studies, macroeconomics, cambodia, egypt, vietnam
+Searchable tags: trade balance visible balance, surplus deficit, ethiopia trade deficit, exports imports goods, social studies, macroeconomics, cambodia, egypt, vietnam, pakistan

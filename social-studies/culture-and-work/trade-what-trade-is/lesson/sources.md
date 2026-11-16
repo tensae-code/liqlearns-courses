@@ -1,6 +1,6 @@
 # Sources — Trade — what trade is
 
-countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, South Sudan
+countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, South Sudan, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -160,7 +160,16 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Jordan part — Economics expansion — Unit 4 Lesson 2: The Development of Trade in My Homeland: commerce/trade is the buying and selling operations that exchange goods and services between individuals, companies and states, and how it developed in Jordan — fixed small shops, then large markets, then modern commercial centres, then electronic commerce over the internet (the same part placed by the Geography wave above; stocked here as a distinct Economics-expansion row for its Economics teaching, against the book entry already cited there) | Jordan, *Jordan G3 SS T2*, Unit 4 Lesson 2: The Development of Trade in My Homeland — printed p. 18 |
 
-**Acceptance count: taught in 22 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, South Sudan).** South Sudan was already counted in this lesson from the earlier waves; the Economics-expansion Primary 4 teacher-guide and Primary 5 pupil's-book rows are stocked as depth for the same country, so the count does not rise. Jordan was already counted in this lesson from the earlier waves; the Economics-expansion rows are stocked as depth for the same country, so the count does not rise.
+**Book 45:** *Social Studies Class 4 SNC* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (February 2022 printing, 851,708 copies); ISBN no ISBN printed. Title as printed: معاشرتی علوم (Social Studies), Class 4 — Single National Curriculum 2020, "One Nation, One Curriculum". Grade: Class 4 (student/teacher: STUDENT). PDF pages: 108 (cover verified against the record title; 11,470,265 bytes, matches the books.json record). Verdict: COMPLETE. Contents map: Citizenship printed pp. 1-14; Culture pp. 15-26; State and Government pp. 27-44; History pp. 45-60; Geography pp. 61-93; Economics pp. 94-104; Glossary p. 105 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Trade — teaches: trade split into domestic trade and international trade in a flow diagram, with self-sufficiency named as the no-trade case | Pakistan, *Pakistan Grade 4 Social Studies Class 4 SNC*, Trade — printed p. 97 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, South Sudan, Pakistan).** South Sudan was already counted in this lesson from the earlier waves; the Economics-expansion Primary 4 teacher-guide and Primary 5 pupil's-book rows are stocked as depth for the same country, so the count does not rise. Jordan was already counted in this lesson from the earlier waves; the Economics-expansion rows are stocked as depth for the same country, so the count does not rise.
+
+Pakistan's own way (Pakistan Grade 4 Social Studies Class 4 SNC): Economics enters at Class 4 as one named chapter of Social Studies, taught in Urdu with English concept labels, through Pakistani examples — the State Bank of Pakistan, a National Bank of Pakistan cheque, and Pakistan's own import/export goods.
+
 
 Kuwait's own way (Kuwait Grade 6 Term 1): Economics enters in Grade 6 as the Gulf's old livelihoods — work shaped by a harsh desert/coastal environment, taught through named local crafts, ships and the pearl-diving season.
 
@@ -170,7 +179,7 @@ Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade
 
 Jordan's own way — Economics expansion (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family story that starts at the hundred-year-old Hejaz railway, runs from barter and camel peddlers to e-commerce, and lands on the child's own choices — what a family can and cannot do without, where income comes from, and what 2, 3, 5 or 12 dinars in hand can buy.
 
-Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, eritrea economics expansion, buying selling exchanging, farmer bus owner wage worker, south sudan, palestine, jordan
+Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, eritrea economics expansion, buying selling exchanging, farmer bus owner wage worker, south sudan, palestine, jordan, pakistan
 
 Palestine's own way (Grade 5, PS G5P2): the settlement story is told as a ladder — farming, animal domestication, the agricultural village, the Palestinian village of today, then the city located on the map — and the year closes with the road itself: what a road is, its parts, and how to cross it safely.
 

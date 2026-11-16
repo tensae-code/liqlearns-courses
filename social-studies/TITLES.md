@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **726**
+Economics lessons across the Economics titles: **764**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4629,4 +4629,31 @@ of immigration, Intra-industry trade and economies
 of scale, Trade, jobs, wages and working conditions,
 Arguments for restricting imports — infant industry,
 dumping and national interest and Tradeoffs of trade
-policy and disruptive market change).
+policy and disruptive market change); +38 for Pakistan,
+2026-11-16 — Microeconomics: Goods,
+services, producers and consumers, The entrepreneur and
+kinds of business, Entrepreneurship and its kinds, Social
+entrepreneurship, Kinds of goods, Functions, variables and
+graphs, Collecting, classifying and tabulating data,
+Internal and external economies, Small-scale and
+large-scale production, Total, average and marginal
+revenue, Rent and quasi-rent, Profit — theories and kinds;
+Market and Money: Liquidity preference and the rate of
+interest, Kinds of money — paper and credit money, The
+stock exchange and savings institutions, How banks create
+credit, Interest-free banking and profit–loss sharing,
+Pakistan's stock exchange, Pakistan's banking system,
+Islamic banking in Pakistan; Macroeconomics: Tax revenue
+in Pakistan, Absolute and comparative advantage,
+Globalisation and multinational corporations, The world
+trade organisation, Pakistan's economy — sectors,
+Education and health sectors of Pakistan, Pakistan's
+national income and per capita income, Economic
+development and underdevelopment, Factors of economic
+development, Economic planning in Pakistan, Transport,
+communication and human resource development in Pakistan,
+Federal and provincial revenue and expenditure in
+Pakistan, Zakat and Ushr, Pakistan's exports and imports,
+Pakistan's balance of payments and trade problems, WTO and
+Pakistan, The Islamic economic system; People and
+Resources: Malthusian theory of population).

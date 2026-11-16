@@ -1,6 +1,6 @@
 # Sources — Inflation — a general, lasting rise in prices
 
-countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran
+countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -70,7 +70,16 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Iran part — Economics expansion — Lesson 9: inflation as a general rise in prices that melts the value of money in a bank account like ice in summer sun, and what it does to a firm's input costs (500 to 700 million tomans for the same input) | Iran, *Iran Grade 10 Economics*, Lesson 9 — Iran Grade 10 Economics, printed p. 92 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Mongolia, Malaysia, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 12:** *Social Studies Class 4 SNC* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (February 2022 printing, 851,708 copies); ISBN no ISBN printed. Title as printed: معاشرتی علوم (Social Studies), Class 4 — Single National Curriculum 2020, "One Nation, One Curriculum". Grade: Class 4 (student/teacher: STUDENT). PDF pages: 108 (cover verified against the record title; 11,470,265 bytes, matches the books.json record). Verdict: COMPLETE. Contents map: Citizenship printed pp. 1-14; Culture pp. 15-26; State and Government pp. 27-44; History pp. 45-60; Geography pp. 61-93; Economics pp. 94-104; Glossary p. 105 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Inflation — teaches: inflation introduced through demand and supply and rising prices, with a companion box on deflation and purchasing power | Pakistan, *Pakistan Grade 4 Social Studies Class 4 SNC*, Inflation — printed p. 96 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Mongolia, Malaysia, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Pakistan's own way (Pakistan Grade 4 Social Studies Class 4 SNC): Economics enters at Class 4 as one named chapter of Social Studies, taught in Urdu with English concept labels, through Pakistani examples — the State Bank of Pakistan, a National Bank of Pakistan cheque, and Pakistan's own import/export goods.
+
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
@@ -92,4 +101,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: inflation definition, general price level, price index, deflation, causes of inflation, ethiopia, social studies, macroeconomics, mongolia, inflation, bread, purchasing power, tögrög, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, Fiji, vietnam, indonesia, nicaragua, iran
+Searchable tags: inflation definition, general price level, price index, deflation, causes of inflation, ethiopia, social studies, macroeconomics, mongolia, inflation, bread, purchasing power, tögrög, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, Fiji, vietnam, indonesia, nicaragua, iran, pakistan

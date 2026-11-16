@@ -1,6 +1,6 @@
 # Sources — Banks and What They Do for You
 
-countries: Mongolia, Bahamas, Rwanda, Fiji
+countries: Mongolia, Bahamas, Rwanda, Fiji, Pakistan
 
 **Book 1:** *Нийгэм судлал IX (Social Studies IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал IX (Social Studies IX). Grade: Grade 9 (student). 99 PDF pp. (cover verified against the record title; read IN PLACE in phase3-staging — note the on-disk file is 53,693,688 bytes while the books.json record says 5,507,721 bytes: a library debt, see group log). Verdict: COMPLETE (image-only scan; contents page and chapter openings read by render, printed pp. 4–5, 26, 44 sampled in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -30,7 +30,16 @@ Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics u
 |---|---|
 | Fiji part — Banks — teaches: banks keep money safe and provide deposits, withdrawals, loans, currency exchange and saving advice, with accounts and technology making banking easier | Fiji, *Fiji Grade 5 Year 5 Social Studies*, Banks — teaches: banks keep money safe and provide deposits, withdrawals, loans, currency exchange and saving advice, with accounts and technology making banking easier — printed p. 57 |
 
-**Acceptance count: taught in 4 countries (Mongolia, Bahamas, Rwanda, Fiji).**
+**Book 5:** *Social Studies Class 4 SNC* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (February 2022 printing, 851,708 copies); ISBN no ISBN printed. Title as printed: معاشرتی علوم (Social Studies), Class 4 — Single National Curriculum 2020, "One Nation, One Curriculum". Grade: Class 4 (student/teacher: STUDENT). PDF pages: 108 (cover verified against the record title; 11,470,265 bytes, matches the books.json record). Verdict: COMPLETE. Contents map: Citizenship printed pp. 1-14; Culture pp. 15-26; State and Government pp. 27-44; History pp. 45-60; Geography pp. 61-93; Economics pp. 94-104; Glossary p. 105 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Banks and their Services — teaches: what a bank does for its customers — account, cheque and ATM (Automated Teller Machine) — with the State Bank of Pakistan named in a know-more box | Pakistan, *Pakistan Grade 4 Social Studies Class 4 SNC*, Banks and their Services — printed p. 100 |
+
+**Acceptance count: taught in 5 countries (Mongolia, Bahamas, Rwanda, Fiji, Pakistan).**
+
+Pakistan's own way (Pakistan Grade 4 Social Studies Class 4 SNC): Economics enters at Class 4 as one named chapter of Social Studies, taught in Urdu with English concept labels, through Pakistani examples — the State Bank of Pakistan, a National Bank of Pakistan cheque, and Pakistan's own import/export goods.
+
 
 Fiji's own way (Fiji Grade 5 Year 5 Social Studies): A full primary money curriculum in one unit — work and wages first, then the Fiji dollar against other currencies, then a family budget, a personal saving plan and what banks do.
 
@@ -38,4 +47,4 @@ Bahamas' own way: banking is defined for the Grade 6 learner inside the Ministry
 
 Mongolia's own way: Social Studies is a five-chapter spiral (Individual & Society, Individual & Culture, Individual & Economy, Human Rights & Law, Public Administration) continued from Grade 8; there is no physical-geography chapter — Mongolia's geography is a separate subject (Газарзүй) — so this book's Geography-wave content is its culture and economics teaching, grounded in Mongolian surveys, wage tables and heritage inventories. That way is stocked here as the way Mongolia teaches this thing. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
 
-Searchable tags: banks, saving, borrowing, Mongolia, Нийгэм судлал IX, social studies, culture and work, bahamas, rwanda, Fiji
+Searchable tags: banks, saving, borrowing, Mongolia, Нийгэм судлал IX, social studies, culture and work, bahamas, rwanda, Fiji, pakistan

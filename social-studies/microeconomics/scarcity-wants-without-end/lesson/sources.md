@@ -1,6 +1,6 @@
 # Sources — Scarcity — wants without end, resources with limits
 
-countries: Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States
+countries: Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -63,7 +63,16 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | United States part — 1.1 What Is Economics, and Why Is It Important? — teaches: scarcity — wants exceeding the resources available — as the fact that forces choice on individuals, firms and societies | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 1.1 What Is Economics, and Why Is It Important? — printed p. 10 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States).**
+**Book 11:** *Economics Class 11* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2016 (June 2016, first edition of this printing, 5,000 copies, Rs 127.00; publisher Al-Jubairi Corporation, Lahore; approval No.F1-8/2005-CE(Pb) dated 9 Aug 2005); authors Mahmood Ahmad Chaudhry and Ghulam Ismatullah Awan; ISBN no ISBN printed. Title as printed: معاشیات (Economics), Class 11, session 2016-17. Grade: Class 11 (student/teacher: STUDENT). PDF pages: 272 (cover verified against the record title; 23,223,649 bytes, matches the books.json record; read in place in staging). Verdict: COMPLETE — read page by page from 100-DPI renders; the scan's text layer carries only the "Freebooks.pk" watermark, so the book's own English parenthetical section headings were extracted by RapidOCR and every chapter was checked against the printed contents page (printed p. iv). Exclusions: the book's own objective-questions answers section (printed p. 255) is assessment apparatus, excluded and named here; the Glossary (فرہنگ, printed p. 262) is inventory-only, not placed; References p. 266 not placed. Contents map: Ch. 1 Nature and Scope of Economics printed pp. 1-28; Ch. 2 Consumer Behaviour Analysis pp. 29-50; Ch. 3 Basic Tools of Statistics and Maths in Economics pp. 51-71; Ch. 4 Demand pp. 72-100; Ch. 5 Supply pp. 101-120; Ch. 6 Market Equilibrium pp. 121-129; Ch. 7 Theory of Production pp. 130-154; Ch. 8 Scale of Production and Laws of Return pp. 155-178; Ch. 9 Costs of Production pp. 179-190; Ch. 10 Analysis of Revenue pp. 191-216; Ch. 11 Market pp. 217-225; Ch. 12 Distribution pp. 226-254. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Ch. 1.1 Human Wants — teaches: economic vs non-economic wants and the characteristics of economic wants — unlimited, competing, recurring, satisfiable by alternate methods, complementary, habit-forming, shaped by fashion | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 1.1 Human Wants — printed pp. 1-4 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan).**
+
+Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium microeconomics course whose every Urdu section heading carries the English term in brackets, so the learner meets both languages' vocabulary at once; theory is built from schedules, tables and hand-drawn curves throughout, and distribution (rent, wages, interest, profit) closes the book as one factor-pricing chapter.
+
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -83,4 +92,4 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: scarcity shortage, unlimited wants finite resources, zero price test, ethiopia, social studies, microeconomics, mongolia, unlimited needs limited resources, tögrög, malaysia, bangladesh, egypt, yemen, Fiji, iraq, united states
+Searchable tags: scarcity shortage, unlimited wants finite resources, zero price test, ethiopia, social studies, microeconomics, mongolia, unlimited needs limited resources, tögrög, malaysia, bangladesh, egypt, yemen, Fiji, iraq, united states, pakistan

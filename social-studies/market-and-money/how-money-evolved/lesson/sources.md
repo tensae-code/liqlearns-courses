@@ -1,6 +1,6 @@
 # Sources — How money evolved — commodity, paper, cheques, electronic
 
-countries: Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran
+countries: Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -70,7 +70,24 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Iran part — Economics expansion — Lesson 9, money-history sections: metal coins (gold and silver) and their limits, merchants' receipts accepted on trust, and money lodged with trusted money-changers — the road to paper money | Iran, *Iran Grade 10 Economics*, Lesson 9, money-history sections — Iran Grade 10 Economics, printed p. 92 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran).**
+**Book 11:** *Social Studies Class 5 SNC* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم (Social Studies), Class 5 — Single National Curriculum 2020, "One Nation, One Curriculum". Grade: Class 5 (student/teacher: STUDENT). PDF pages: 114 (cover verified against the record title; 12,880,734 bytes, matches the books.json record). Verdict: COMPLETE. Contents map: Citizenship printed pp. 1-9; Culture pp. 10-24; State and Government pp. 25-32; History pp. 33-50; Geography pp. 51-85; Economics pp. 86-108; Glossary pp. 109-110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Evolution of Money — teaches: money's stages in order — barter, metallic coins (Lydia, about 600 BC), paper money, plastic money (credit and debit cards), plus a History of Money in the Subcontinent section | Pakistan, *Pakistan Grade 5 Social Studies Class 5 SNC*, Evolution of Money — printed p. 101 |
+
+**Book 12:** *Economics Class 12* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2016 (June 2016, first edition of this printing, 10,000 copies, Rs 95.00; publisher Saif Book House, Lahore; approval No.F.1-9/2006-Eco-XII (Pb) dated 2 Dec 2006 — the 2006 syllabus book, not an SNC book); authors Dr Ghulam Mohyuddin and Mahmood Ahmad Chaudhry; ISBN no ISBN printed. Title as printed: معاشیات (Economics), Class 12, session 2016-17. Grade: Class 12 (student/teacher: STUDENT). PDF pages: 260 (cover verified against the record title; 26,120,184 bytes, matches the books.json record; read in place in staging). Verdict: COMPLETE — read page by page from 100-DPI renders and contact sheets; the scan's text layer carries only the "Freebooks.pk" watermark, so structure was taken from the book's own English parenthetical section headings, checked against the printed contents page. Exclusions: the book's own objective-questions answers section (printed p. 244) is assessment apparatus, excluded and named here; the Glossary (printed p. 251) is inventory-only, not placed; References p. 254 not placed. Contents map: Ch. 1 National Income printed pp. 1-19; Ch. 2 Money pp. 20-44; Ch. 3 Bank pp. 45-68; Ch. 4 Public Finance pp. 69-85; Ch. 5 International Trade pp. 86-105; Ch. 6 Introduction to Pakistan's Economy pp. 106-114; Ch. 7 Pakistan's National Income pp. 115-131; Ch. 8 Economic Development and Planning pp. 132-155; Ch. 9 Communication, Means of Transport and Human Resource Development pp. 156-174; Ch. 10 Pakistan's Banking System pp. 175-193; Ch. 11 Finances of Government of Pakistan pp. 194-206; Ch. 12 Pakistan's Foreign Trade pp. 207-223; Ch. 13 Islamic Economic System pp. 224-243. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Ch. 2.2 Evolution of Money — teaches: money's evolution — commodity money, then metallic money | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 2.2 Evolution of Money — printed pp. 22-24 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan).**
+
+Pakistan's own way (Pakistan Grade 5 Social Studies Class 5 SNC): The Class 5 chapter deepens the Class 4 set with Pakistan's own institutions as the teaching examples — PIA, Pakistan Railways, Pakistan Television, Pakistan Post and WAPDA for public services, the State Bank of Pakistan (established 1948), and Dr Akhtar Hameed Khan's microfinance work for social entrepreneurship.
+
+Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
+
 
 Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
@@ -87,4 +104,4 @@ Bulgaria's own way (Bulgaria Grade 4 Technology and Entrepreneurship): Grade 4 i
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade, palestine, dominica, csec principles of business, caribbean, bangladesh, egypt, yemen, bulgaria, iran
+Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade, palestine, dominica, csec principles of business, caribbean, bangladesh, egypt, yemen, bulgaria, iran, pakistan

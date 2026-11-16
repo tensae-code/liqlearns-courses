@@ -1,6 +1,6 @@
 # Sources — Public goods and the free rider
 
-countries: Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States
+countries: Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -78,7 +78,16 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 | United States part — 16.2 Categorizing Public Policy — teaches: the economist's classification of goods — public (collective) goods, common goods, toll goods and private goods — and why unregulated common goods get depleted | United States, *United States Grade 13 American Government 3e*, 16.2 Categorizing Public Policy — printed p. 549 |
 | United States part — 16.3 Policy Arenas — teaches: the principles of free-market economics (supply and demand allocate private goods most efficiently) and its two problems — goods too large or essential for private provision, the Hoover Dam as case | United States, *United States Grade 13 American Government 3e*, 16.3 Policy Arenas — printed p. 555 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States).**
+**Book 12:** *Social Studies Class 5 SNC* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم (Social Studies), Class 5 — Single National Curriculum 2020, "One Nation, One Curriculum". Grade: Class 5 (student/teacher: STUDENT). PDF pages: 114 (cover verified against the record title; 12,880,734 bytes, matches the books.json record). Verdict: COMPLETE. Contents map: Citizenship printed pp. 1-9; Culture pp. 10-24; State and Government pp. 25-32; History pp. 33-50; Geography pp. 51-85; Economics pp. 86-108; Glossary pp. 109-110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Public Goods and Services; Private Goods and Services — teaches: public goods and services (school, hospital, Pakistan Railways, PIA, Pakistan Post, Water and Power Development Authority) set against private goods and services, with consumer and producer defined on the same spread | Pakistan, *Pakistan Grade 5 Social Studies Class 5 SNC*, Public Goods and Services; Private Goods and Services — printed p. 87 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan).**
+
+Pakistan's own way (Pakistan Grade 5 Social Studies Class 5 SNC): The Class 5 chapter deepens the Class 4 set with Pakistan's own institutions as the teaching examples — PIA, Pakistan Railways, Pakistan Television, Pakistan Post and WAPDA for public services, the State Bank of Pakistan (established 1948), and Dr Akhtar Hameed Khan's microfinance work for social entrepreneurship.
+
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -94,4 +103,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia, dominica, csec principles of business, caribbean, uzbekistan, egypt, india, united states
+Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia, dominica, csec principles of business, caribbean, uzbekistan, egypt, india, united states, pakistan

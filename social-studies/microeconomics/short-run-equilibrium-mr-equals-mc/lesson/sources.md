@@ -1,6 +1,6 @@
 # Sources — Short-run equilibrium — MR equals MC
 
-countries: Ethiopia, Iraq, United States
+countries: Ethiopia, Iraq, United States, Pakistan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -22,10 +22,19 @@ countries: Ethiopia, Iraq, United States
 |---|---|
 | United States part — 8.2 How Perfectly Competitive Firms Make Output Decisions — teaches: the competitive firm's one decision, quantity: profit compared by total revenue and total cost and read off the average cost curve | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 8.2 How Perfectly Competitive Firms Make Output Decisions — printed p. 197 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Iraq, United States).**
+**Book 4:** *Economics Class 11* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2016 (June 2016, first edition of this printing, 5,000 copies, Rs 127.00; publisher Al-Jubairi Corporation, Lahore; approval No.F1-8/2005-CE(Pb) dated 9 Aug 2005); authors Mahmood Ahmad Chaudhry and Ghulam Ismatullah Awan; ISBN no ISBN printed. Title as printed: معاشیات (Economics), Class 11, session 2016-17. Grade: Class 11 (student/teacher: STUDENT). PDF pages: 272 (cover verified against the record title; 23,223,649 bytes, matches the books.json record; read in place in staging). Verdict: COMPLETE — read page by page from 100-DPI renders; the scan's text layer carries only the "Freebooks.pk" watermark, so the book's own English parenthetical section headings were extracted by RapidOCR and every chapter was checked against the printed contents page (printed p. iv). Exclusions: the book's own objective-questions answers section (printed p. 255) is assessment apparatus, excluded and named here; the Glossary (فرہنگ, printed p. 262) is inventory-only, not placed; References p. 266 not placed. Contents map: Ch. 1 Nature and Scope of Economics printed pp. 1-28; Ch. 2 Consumer Behaviour Analysis pp. 29-50; Ch. 3 Basic Tools of Statistics and Maths in Economics pp. 51-71; Ch. 4 Demand pp. 72-100; Ch. 5 Supply pp. 101-120; Ch. 6 Market Equilibrium pp. 121-129; Ch. 7 Theory of Production pp. 130-154; Ch. 8 Scale of Production and Laws of Return pp. 155-178; Ch. 9 Costs of Production pp. 179-190; Ch. 10 Analysis of Revenue pp. 191-216; Ch. 11 Market pp. 217-225; Ch. 12 Distribution pp. 226-254. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Ch. 10 Equilibrium of the Firm — teaches: the firm in equilibrium three ways — with super-normal profit (price greater than average cost), with normal (no) profit, and facing loss — with entry and exit of firms | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 10 Equilibrium of the Firm — printed pp. 198-216 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Iraq, United States, Pakistan).**
+
+Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium microeconomics course whose every Urdu section heading carries the English term in brackets, so the learner meets both languages' vocabulary at once; theory is built from schedules, tables and hand-drawn curves throughout, and distribution (rent, wages, interest, profit) closes the book as one factor-pricing chapter.
+
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
 
-Searchable tags: marginal approach, MR equals MC, MC rising cuts from below, P equals MC, profit break-even loss, price 100 birr worked activity, ethiopia, social studies, microeconomics, iraq, united states
+Searchable tags: marginal approach, MR equals MC, MC rising cuts from below, P equals MC, profit break-even loss, price 100 birr worked activity, ethiopia, social studies, microeconomics, iraq, united states, pakistan

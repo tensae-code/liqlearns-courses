@@ -1,6 +1,6 @@
 # Sources — Gross domestic product
 
-countries: Ethiopia, Dominican Republic, Albania, Cambodia, Bangladesh, Honduras, Armenia, United States
+countries: Ethiopia, Dominican Republic, Albania, Cambodia, Bangladesh, Honduras, Armenia, United States, Pakistan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -55,7 +55,16 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | United States part — 1.4 How To Organize Economies: An Overview of Economic Systems — teaches: gross domestic product introduced as the measure of an economy's total production | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 1.4 How To Organize Economies: An Overview of Economic Systems — printed p. 18 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Dominican Republic, Cambodia, Bangladesh, Honduras, Armenia, United States). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 9:** *Social Studies Class 5 SNC* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم (Social Studies), Class 5 — Single National Curriculum 2020, "One Nation, One Curriculum". Grade: Class 5 (student/teacher: STUDENT). PDF pages: 114 (cover verified against the record title; 12,880,734 bytes, matches the books.json record). Verdict: COMPLETE. Contents map: Citizenship printed pp. 1-9; Culture pp. 10-24; State and Government pp. 25-32; History pp. 33-50; Geography pp. 51-85; Economics pp. 86-108; Glossary pp. 109-110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Gross Domestic Product (GDP) — teaches: GDP named and introduced inside the inflation lesson as the measure of what the country produces | Pakistan, *Pakistan Grade 5 Social Studies Class 5 SNC*, Gross Domestic Product (GDP) — printed p. 88 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Dominican Republic, Cambodia, Bangladesh, Honduras, Armenia, United States, Pakistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Pakistan's own way (Pakistan Grade 5 Social Studies Class 5 SNC): The Class 5 chapter deepens the Class 4 set with Pakistan's own institutions as the teaching examples — PIA, Pakistan Railways, Pakistan Television, Pakistan Post and WAPDA for public services, the State Bank of Pakistan (established 1948), and Dr Akhtar Hameed Khan's microfinance work for social entrepreneurship.
+
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -69,4 +78,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Honduras's own way (Honduras Grade 7 G7 Student CCSS): Grade 7 carries the set's first real Economics block — it starts from the community economy and the Banco Central's own activity classification, then builds Honduras's national story: sectors, formal/informal work (70.8% informal per INE), indicators, poverty, globalisation and the foreign lenders behind structural adjustment.
 
-Searchable tags: GDP, gross domestic product, market value final goods services, within borders, one year, income expenditure equal, ethiopia, social studies, macroeconomics, dominican republic, albania, cambodia, bangladesh, honduras, armenia, united states
+Searchable tags: GDP, gross domestic product, market value final goods services, within borders, one year, income expenditure equal, ethiopia, social studies, macroeconomics, dominican republic, albania, cambodia, bangladesh, honduras, armenia, united states, pakistan
