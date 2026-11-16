@@ -1,6 +1,6 @@
 # Sources — Old Arts and Today's Arts
 
-countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran
+countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Brazil
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -40,8 +40,13 @@ countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran
 | Belarus — Part 1, "Music of palaces and estates": Lybin's "Ceremonial exit through the side gate" from the cycle "Music for the town of Nesvizh", and the song "Mir Castle" (words Tsitavets, music Kistsen) — the music of Belarus's own castles (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 9, printed pp. 49–51 |
 | Iran — Module 4, Guarding the heritage: protecting tangible cultural heritage, recreating and keeping alive the intangible heritage, and the factors that damage cultural heritage (student book) | Book 10, printed pp. 135–140 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+
+**Book 11:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 3 — grafite vs pichação: wall painting with permission and intent is art, defacing is a crime (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 11, printed p. 54 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran, Brazil). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 The definition of ancient arts, the oral-to-recorded contrast and the protection ruling are Grade 3's own words (printed pp. 45 and 58), taught as printed. The closing exercise's keyed-false item (wedding poems and melodies are the same in all areas — false) is taught as the book keys it.
 
-Searchable tags: old arts and today's arts, expressing culture in the arts, ancient arts, culture protected, cassette and CD, debo, Colombia
+Searchable tags: old arts and today's arts, expressing culture in the arts, ancient arts, culture protected, cassette and CD, debo, Colombia, Brazil

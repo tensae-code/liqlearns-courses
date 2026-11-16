@@ -1,0 +1,23 @@
+# Pop Art
+
+## Do it first
+
+Look at the sub lesson list. Pick the part you already know something about, and say what you know. Then start at Sub lesson 1 — every part builds on the one before it.
+
+## Sub lesson 1 — Pop Art
+
+Pop Art: Hamilton's consumer-paradise collage, Warhol's Elvis and Marilyn as mass products (Folha 5, Brazil's *ARTE — Ensino Médio*, printed p. 86).
+
+## Sub lesson 2 — Oldenburg's giant soft hamburger and Warhol's product-box sculptures
+
+Oldenburg's giant soft hamburger and Warhol's product-box sculptures; building a pop sculpture from the class's empty packaging (Folha 5, Brazil's *ARTE — Ensino Médio*, printed p. 96).
+
+## Say it to your companion
+
+Tell your companion this lesson's one thing in your own words, naming each sub lesson as you go. Companion checks: did every part get named?
+
+## Do It Yourself
+
+1. Do each sub lesson's practice once more, on your own.
+2. Teach one part to someone else, the way this lesson taught it to you.
+3. Write one sentence: what is this lesson's one thing?

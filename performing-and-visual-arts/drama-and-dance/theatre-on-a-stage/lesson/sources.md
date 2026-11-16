@@ -1,6 +1,6 @@
 # Sources — Theatre on a Stage
 
-countries: Ethiopia, Egypt, Honduras, Singapore
+countries: Ethiopia, Egypt, Honduras, Singapore, Brazil
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -24,8 +24,13 @@ countries: Ethiopia, Egypt, Honduras, Singapore
 | Honduras — Block III S3, Drama: the theatre work — el drama and the obra teatral: building a play for the stage | Book 8, printed p. 187 |
 | Singapore — The Dramatic Play Centre turned into a stage, with costumes, instruments, seats for the audience, tickets and toy microphones — Ch.4 resources (teacher guide — evidence) | Book 9, printed p. 95 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Honduras). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
+
+**Book 10:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 18 — theatre spaces through history: Greek hillside theatres, Rome's first curtains, medieval simultaneous staging on market squares, the Elizabethan round house, the Italian stage (student book; original target `drama-and-dance/theatre-on-a-stage`) | Book 10, printed p. 294 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Honduras, Brazil). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 The Grade 5 row is the series' own deepening of the same stage idea (its elements list — setting, character, plot, script, theme — is named in the provenance row only; the lesson's teaching stays at the Grade 2 stage picture and the menibanib, exactly as STRUCTURE.md groups them).
 
-Searchable tags: theatre on a stage, stage, audience, curtains, መነባንብ, menibanib, recitation, Abbay, Blue Nile, Grade 2, Grade 5, Egypt, stage areas, خشبة المسرح
+Searchable tags: theatre on a stage, stage, audience, curtains, መነባንብ, menibanib, recitation, Abbay, Blue Nile, Grade 2, Grade 5, Egypt, stage areas, خشبة المسرح, Brazil

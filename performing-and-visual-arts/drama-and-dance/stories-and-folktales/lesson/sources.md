@@ -1,6 +1,6 @@
 # Sources — Stories and Folktales
 
-countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname
+countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -34,8 +34,13 @@ countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Surin
 | Fiji — Sub-Strand 4 Inherited Stories of Fiji — identifying the inherited stories of Fiji's communities — myths, legends, folklores and religious stories — and researching one in a group: its title, setting, characters and the outline of the story (student book) | Book 7, printed p. 7 |
 | Suriname — Cultural Heritage Les 3–4: presenting heritage as an oral art form — the findings of the culture experiment are performed in a chosen oral art form (orale kunstvorm) — a poem (which must rhyme, and is recited), a song (a text that can be sung on a melody), spoken word (spoken on rhythmic music), a telling (a story that must be gripping, told with passion) or stand-up comedy (which must be funny and well timed) — rehearsed in duos with feedback, practised at home, and performed in Les 4 for one to two minutes before an unknown audience, the heritage objects exhibited with museum-style cards naming maker, title, period and culture (teacher guide — evidence; original target `drama-and-dance/oral-art-forms`) | Book 8, printed pp. 149–153 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Finland, Fiji). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 9:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 9 — Sophocles' Antigone (plot summary) discussed, then pupils dramatise disobedience stories from their own lives (student book; original target `drama-and-dance/stories-and-folktales`) | Book 9, printed p. 147 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Finland, Fiji, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
 
 All three stories are taught as PLOT SUMMARY ONLY, exactly as the placements give them — no sentence of the books' text is reproduced. The Grade 1 and Grade 2 teacher guides' tales-and-riddles placements (g01-teacher p. 47 §3.3; g02-teacher pp. 46–48 §3.3) name tales and riddles as theatre's roots; that framing is carried in this lesson's plan level line and in the Riddles lesson, labelled there as teacher-guide evidence, and does not change this lesson's pupil-book count.
 
-Searchable tags: stories and folktales, telling stories aloud, የነሰላም ፎቶ, Selam's Photograph, ታዛዧ ዉሻ, The Obedient Dog, የተዋበ መንደር, The Beautiful Village, seedling planting, Grade 1, Finland
+Searchable tags: stories and folktales, telling stories aloud, የነሰላም ፎቶ, Selam's Photograph, ታዛዧ ዉሻ, The Obedient Dog, የተዋበ መንደር, The Beautiful Village, seedling planting, Grade 1, Finland, Brazil

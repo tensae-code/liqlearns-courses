@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -45,7 +45,12 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, S
 | Colombia — Módulo 5, Guía 21 "Origen del arte" (The origin of art) — primitive man stamping his hand on the cave wall and painting the hunt; religion as the strongest motivation believed to have given art its origin; settled man's architecture after it (student book; original target `visual-art/cave-art-and-church-painting`) | Book 9, printed pp. 160–167 |
 | Sudan — Book 1, Artistic Culture, "Art and Man": what art (fann) is — a symbolic language of expression — and how it began with man himself: flint tools, cave painting in France, Spain and Africa, dyes of iron ore, burnt wood and manganese laid on with feather brushes, and the first subjects — hunted animals, war and dancing figures, relief and round sculpture and Mother Goddess figures (student book) | Book 10, printed p. 2 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
+
+**Book 11:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 3 "Você suporta Arte?" — cave painting: detailed Paleolithic animals against simplified Neolithic figures, Lascaux's Black Bull, natural pigments; drawing in both styles using only natural materials (student book; original target `visual-art/cave-art-and-church-painting`) | Book 11, printed p. 43 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 

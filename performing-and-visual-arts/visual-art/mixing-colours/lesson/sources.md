@@ -1,7 +1,7 @@
 # Sources — Mixing Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Papua New Guinea
+countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Papua New Guinea, Brazil
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -55,8 +55,13 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique,
 
 | Papua New Guinea — Unit 1 Arts, Topic Painting (Lessons 7–10) — painting mediums (acrylic, water colour), primary colours RYB, secondary colours mixed from primaries, a colour wheel chart of primaries to secondaries, black and white and the grey tonal scale (teacher guide — evidence) | Book 14, printed pp. 19, 30 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 15:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 7 — tones: what adding white or black does to a pure colour (student book; original target `visual-art/mixing-colours`) | Book 15, printed p. 118 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Brazil). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 2 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook. The Grade 3 Chapter 2 closing exercise carries the trap item "red mixed equally with yellow creates green" (false — it creates orange, per §2.3); the lesson teaches the corrected mixing and uses the trap as a question, exactly as the book's exercise frames it.
 
-Searchable tags: mixing colours, secondary colours, green orange purple ወይንጠጅ, primary colours mixing equal measure, neutral colours, Ethiopia Grade 3 colours, Nicaragua, Bhutan, Colombia, Papua New Guinea
+Searchable tags: mixing colours, secondary colours, green orange purple ወይንጠጅ, primary colours mixing equal measure, neutral colours, Ethiopia Grade 3 colours, Nicaragua, Bhutan, Colombia, Papua New Guinea, Brazil

@@ -1,6 +1,6 @@
 # Sources — Paints and How They Work
 
-countries: Ethiopia, Maldives, Andorra, Bhutan, Serbia, Pakistan, Suriname, Colombia, Sudan, Belarus, Papua New Guinea
+countries: Ethiopia, Maldives, Andorra, Bhutan, Serbia, Pakistan, Suriname, Colombia, Sudan, Belarus, Papua New Guinea, Brazil
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -70,8 +70,13 @@ countries: Ethiopia, Maldives, Andorra, Bhutan, Serbia, Pakistan, Suriname, Colo
 | Papua New Guinea — Unit 1 Arts, Topic Painting (Lessons 17–22) — paint as pigment plus medium; the contemporary paints one by one — acrylic, water colour, gouache, tempera, oil paint, poster colour, aquacryl — and natural paints found in the local environment; how to paint with acrylic and water colour and with oil paint and poster colour; painting techniques and styles: realistic, abstract, impression, cubism; block painting; painting a subject of choice (teacher guide — evidence) | Book 16, printed pp. 14, 20–22, 53–54 |
 | Papua New Guinea — Content Background: Painting — paint as pigment plus medium; the painting mediums and equipment (pencil, charcoal, crayons, traditional dyes, acrylic, watercolour, gouache, tempera, oil paint, poster colour; canvas, brushes, palette, sponge, string, palette knives), natural paints from the local environment, and block painting with a graded tone scale (teacher guide — evidence) | Book 17, printed pp. 20–21 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Maldives, Bhutan, Serbia, Pakistan, Colombia, Sudan, Belarus). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 18:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 3 — supports change art: canvas and oil paint (Van Eyck), then paper; chiaroscuro and sfumato in Leonardo's self-portrait, and drawing your own self-portrait in pencil (student book; original target `visual-art/painting-supports-canvas-and-paper`) | Book 18, printed p. 50 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Maldives, Bhutan, Serbia, Pakistan, Colombia, Sudan, Belarus, Brazil). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 7 book counts eight paint kinds by treating oil, watercolour, acrylic, gouache, tempera, crayon, pastel and charcoal as its §2.1.2 series; the lesson follows that count and that order, as the placements give them. Grade 7's oil-paint thinners are named as the book names them (aqua rage, white gas, a little edible oil) — named as book content, not as a recommendation for children to handle solvents; the hands-on work uses water-based paint only.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, paints, oil paint, watercolour, acrylic, gouache, tempera, crayon, pastel, charcoal, palette, easel, thinner, Bhutan, Colombia, Papua New Guinea
+Searchable tags: Maldives, Exploring Creative Arts 4, paints, oil paint, watercolour, acrylic, gouache, tempera, crayon, pastel, charcoal, palette, easel, thinner, Bhutan, Colombia, Papua New Guinea, Brazil

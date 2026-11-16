@@ -1,6 +1,6 @@
 # Sources — The Elements of Visual Art
 
-countries: Ethiopia, Andorra, Uganda, Barbados, Albania, Samoa, Singapore, Bhutan, Trinidad and Tobago, Haiti, Serbia, Mozambique, Pakistan, Colombia, Sudan, Iran
+countries: Ethiopia, Andorra, Uganda, Barbados, Albania, Samoa, Singapore, Bhutan, Trinidad and Tobago, Haiti, Serbia, Mozambique, Pakistan, Colombia, Sudan, Iran, Brazil
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -135,8 +135,16 @@ countries: Ethiopia, Andorra, Uganda, Barbados, Albania, Samoa, Singapore, Bhuta
 | Iran — Drawing L4, Texture: بافت: the texture of surfaces — soft and rough, fine and coarse — and telling the material of a drawn thing by its texture (student book) | Book 28, printed p. 13 |
 | Iran — Painting L1, Dark and light colours: رنگهای تیره و روشن: making a colour's dark and light range by adding black and white, and the tint scales of Iran's heritage painting (student book; original target `visual-art/light-and-dark-colours`) | Book 28, printed p. 19 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Iran). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 29:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 2 — the expressive line: how line carries emotion, Van Gogh's short comma strokes against Munch's waves (student book; original target `visual-art/elements-of-visual-art`) | Book 29, printed p. 29 |
+| Brazil — Folha 2 — expressive colour: Van Gogh's blues and yellows as emotion, in Trigal com Corvos (student book; original target `visual-art/elements-of-visual-art`) | Book 29, printed p. 31 |
+| Brazil — Folha 2 — form: figurative form vs abstract form, and what abstract forms can still say (student book; original target `visual-art/elements-of-visual-art`) | Book 29, printed p. 33 |
+| Brazil — Folha 17 — the attributes of colour: luminosidade, saturação, contraste, tonalidade (student book; original target `visual-art/elements-of-visual-art`) | Book 29, printed p. 283 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Iran, Brazil). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book teaches Allegretto as "very fast", above Allegro "fast", in its tempo table; that table belongs to the music lesson and is not used here. The Grade 7 teacher-guide parts in this lesson sit inside the guide's surviving body pages (printed pp. 26–41) and are labelled teacher-guide evidence; the pupil-taught parts stand on the two student textbooks, so the acceptance count is 1 country.
 
-Searchable tags: elements of visual art, line, shape, form, space, texture, value, colour, design principles, positive space, negative space, Bhutan, Haiti, Colombia
+Searchable tags: elements of visual art, line, shape, form, space, texture, value, colour, design principles, positive space, negative space, Bhutan, Haiti, Colombia, Brazil

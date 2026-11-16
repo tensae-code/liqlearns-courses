@@ -1,6 +1,6 @@
 # Sources — The Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea
+countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -57,8 +57,13 @@ countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papu
 
 | Papua New Guinea — Unit 5 Drama, Topic Types of Stages and Stage Areas (Lessons 70–81) — the types of stages and their functions: proscenium (the picture-frame wall, raked stages, wings and fly loft), arena (theatre-in-the-round), thrust, and flexible stages; the stage areas named from the actor's point of view — downstage, upstage, stage right, stage left, centre stage and their refinements (teacher guide — evidence) | Book 15, printed pp. 17, 38–40, 63–64 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Honduras, Iran). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 16:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 18 "Afastem as carteiras, o teatro chegou!" — three spaces of theatre: scenic, dramatic (imagined) and scenographic; the game "Onde", showing a place by gesture alone (student book; original target `drama-and-dance/the-elements-of-theatre`) | Book 16, printed p. 290 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Honduras, Iran, Brazil). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book's plot example is taught as the book gives it — a soldier wounded by enemy fire, his wife dying of grief, the story told by flashback — summarised, never reprinted. The teacher-guide parts (shot sizes move to the Video lesson; the Grade 6 guide's theatre-elements and genres part) are evidence and are labelled so.
 
-Searchable tags: theatre elements, setting, መቼት, character, plot, ሴራ, theme, ጭብጥ, actors, audience, director, frontal stage, ፊት ለፊት መድረክ, arena stage, ክብ መድረክ, props, costume, Egypt, actor's four dimensions, Nicaragua, Papua New Guinea
+Searchable tags: theatre elements, setting, መቼት, character, plot, ሴራ, theme, ጭብጥ, actors, audience, director, frontal stage, ፊት ለፊት መድረክ, arena stage, ክብ መድረክ, props, costume, Egypt, actor's four dimensions, Nicaragua, Papua New Guinea, Brazil

@@ -1,6 +1,6 @@
 # Sources — Sounds Around Us
 
-countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, Fiji, Colombia, Papua New Guinea
+countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, Fiji, Colombia, Papua New Guinea, Brazil
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -75,8 +75,13 @@ countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, 
 | Papua New Guinea — Unit 3 Music, Topic Music Appreciation (Lessons 16–33) — sources of sounds, man-made and non-man-made; the sounds of the singing voice and the speaking voice; ways of making sounds, body percussion, sounds from manufactured items and from local things; describing music in styles and genres; how music affects mood and emotions; strong and weak beats; illustrating sounds through gestures (teacher guide — evidence) | Book 19, printed pp. 19–20, 37–38 |
 | Papua New Guinea — Unit 3 Music, Topic Rhythm and Singing (Lessons 33–35) — how sounds are produced: vibration, and the ways of producing sound (pluck, strike, rub, shake, scrape, blow, electronic), classifying instruments by the way their sound is produced; tone colour of voices and instruments — making environmental, bird and animal sounds, high and low sounds, happy and sad sounds with the voice (teacher guide — evidence) | Book 20, printed pp. 15, 28–29, 57 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Colombia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 21:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 10 "O som nosso de cada dia" — sound sources and vibration; the resonance box that amplifies sound in guitar, piano and wind instruments (student book; original target `music/sounds-around-us`) | Book 21, printed p. 158 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Colombia, Brazil). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No staff notation is claimed for Grade 1: the Grade 1 book teaches music by ear, and this lesson follows it. The teacher-guide part is evidence for the listening-first way of working; the pupil-taught parts stand on the two student textbooks.
 
-Searchable tags: sounds around us, listening, sound, imitating sounds, ear, birds, animals, instruments, አካባቢያችን, Nicaragua, Malta, Music Shines, Colombia, Papua New Guinea
+Searchable tags: sounds around us, listening, sound, imitating sounds, ear, birds, animals, instruments, አካባቢያችን, Nicaragua, Malta, Music Shines, Colombia, Papua New Guinea, Brazil

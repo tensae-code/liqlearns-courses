@@ -1,6 +1,6 @@
 # Sources — Playing a Person
 
-countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guinea
+countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -41,8 +41,13 @@ countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guine
 | Papua New Guinea — Unit 5 Drama, Topic Character Analysis (Lessons 79–84) — how to analyse a character: observing a person's main physical features and building a character analysis — of best friends compared, of a favourite teacher, of a good leader and of a bad leader (teacher guide — evidence) | Book 8, printed pp. 22, 34 |
 | Papua New Guinea — Unit 5 Drama, Topic Types of Stages and Stage Areas (Lessons 75, 82) — character analysis: describing a character's personality from what they say, feel and do; defining a character's role; the foil — a character who contrasts the main character (the guide's example: Mufasa and Scar); the steps of analysing a character in a play through a second character's words, attitudes and emotions (teacher guide — evidence) | Book 9, printed pp. 41–43 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Romania, Colombia).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 10:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 11 — building a character from a filled character sheet: gait, voice, family, desires and what blocks them (student book; original target `drama-and-dance/playing-a-person`) | Book 10, printed p. 176 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Romania, Colombia, Brazil).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Book error, taught corrected: the Grade 2 book mislabels the artist's activity as ተግባር 2.3.1 (a publisher numbering error, flagged in the placement); the lesson follows the roles' printed order (§§2.3–2.3.6), not the faulty activity number. The teacher's praise song ንኢር መምህሬ (Nur Mehire) shares §2.3.4 with the teacher role; the song itself is stocked in the Music lessons and is named here only, not taught as a song.
 
-Searchable tags: playing a person, theatre game, role play, father, mother, teacher, soldier, health worker, artist, seller and buyer, gabi, Grade 2, Egypt, theatre character, Nicaragua, Romania, Colombia, Papua New Guinea
+Searchable tags: playing a person, theatre game, role play, father, mother, teacher, soldier, health worker, artist, seller and buyer, gabi, Grade 2, Egypt, theatre character, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil

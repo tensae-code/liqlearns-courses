@@ -1,6 +1,6 @@
 # Sources — Technical and Performance Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran
+countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -44,8 +44,13 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Fin
 | Iran — Dramatic arts L3, Body and movement: the actor's body and movement as stage tools, using stage experience inside the scene (student book) | Book 11, printed p. 133 |
 | Iran — Dramatic arts L4, Feeling and imagination: احساس و تخیل: feeling and imagination as the actor's inner tools — talent and individual feeling are only one part of acting; the greater part is learned (student book) | Book 11, printed p. 135 |
 
-**Acceptance count: taught in 6 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 12:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 11 — the actor's instruments: gestural and facial expression and mime; vocal expression, diction and voice care; dramatic action and conflict; improvisation, with Boal's image games (Completando a imagem) (student book; original target `drama-and-dance/the-actors-body-voice-and-improvisation`) | Book 12, printed p. 178 |
+
+**Acceptance count: taught in 7 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 10–11) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 
-Searchable tags: technical elements, performance elements, scenery, props, projection, diction, Grade 8 teacher guide, evidence, Egypt, voice variety, breathing, preparing the actor, Romania, Finland, Colombia
+Searchable tags: technical elements, performance elements, scenery, props, projection, diction, Grade 8 teacher guide, evidence, Egypt, voice variety, breathing, preparing the actor, Romania, Finland, Colombia, Brazil

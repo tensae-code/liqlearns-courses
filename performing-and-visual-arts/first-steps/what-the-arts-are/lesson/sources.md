@@ -1,6 +1,6 @@
 # Sources — What the Arts Are
 
-countries: Ethiopia, Guatemala, Honduras, Samoa, Trinidad and Tobago, Serbia, Turkmenistan, Mozambique, Pakistan, Belarus, Iran, Papua New Guinea
+countries: Ethiopia, Guatemala, Honduras, Samoa, Trinidad and Tobago, Serbia, Turkmenistan, Mozambique, Pakistan, Belarus, Iran, Papua New Guinea, Brazil
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
@@ -69,8 +69,13 @@ countries: Ethiopia, Guatemala, Honduras, Samoa, Trinidad and Tobago, Serbia, Tu
 | Papua New Guinea — Content Background: What is Arts? — the class debate on what counts as art: forms (painting, statue vs sculpture, ceramics, printing, photography, collage), size, materials, combined and moving art, representational vs abstract art, art that illustrates words, functional art and crafts, commercial art, beauty and ugliness, found art, computer art — all art communicates (teacher guide — evidence) | Book 17, printed pp. 23–25 |
 | Papua New Guinea — Content Background: What is Arts? — the class debate on what counts as art: forms (painting, statue vs sculpture, ceramics, printing, photography, collage), size, materials and combined/moving art, representational vs abstract art, art that illustrates words, functional art and crafts, commercial art, beauty and ugliness, found art, computer art — all art communicates (teacher guide — evidence (PARTIAL — the guide itself is unfinished)) | Book 18, printed pp. 17–20 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Honduras, Serbia, Turkmenistan, Mozambique, Pakistan, Belarus, Iran).** Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 19:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 1 "Arte: Quem tem uma explicação?" — what art is and is not; asking "what is art?" in front of a work (student book; original target `first-steps/what-the-arts-are`) | Book 19, printed p. 11 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Honduras, Serbia, Turkmenistan, Mozambique, Pakistan, Belarus, Iran, Brazil).** Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The two families are stated in the books' own summaries: Grade 2 (printed p. 21) names visual arts as drawing and photograph and performing arts as music, dance, theatre and drama; Grade 3 (printed p. 17) adds film and video to the visual branch. The lesson teaches both statements, in that order, and does not add any art neither book names.
 
-Searchable tags: what the arts are, visual arts, performing arts, identifying the arts, expressing the arts, ሥነ-ጥበባት, Papua New Guinea
+Searchable tags: what the arts are, visual arts, performing arts, identifying the arts, expressing the arts, ሥነ-ጥበባት, Papua New Guinea, Brazil

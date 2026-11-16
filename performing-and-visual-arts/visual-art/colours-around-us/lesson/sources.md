@@ -1,7 +1,7 @@
 # Sources — Colours Around Us
 
 
-countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan
+countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -33,8 +33,13 @@ countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan
 | Colombia — Módulo 6, Guía 27 "Colores y significados" (Colours and meanings) — colours carry meanings (absolute green as the calmest colour that exists, in the table the guide quotes), meanings can shift, and the student plans a work by the meanings they intend their colours to carry, then checks whether the finished work kept them (student book; original target `visual-art/colours-around-us`) | Book 7, printed pp. 202–210 |
 | Sudan — Book 4, Colouring, "Colours" and "What Colours Are": colour as one of man's greatest means of happiness, comfort, sense and perception — colour named and praised in the Qur'an and the Bible, with white there a symbol of purity; the child drawn to bright, dazzling colours and growing from enjoying colour to mixing it and tasting its beauty; and how peoples differ in colour love — the eastern tribes to strong bright colours, the west to blue, violet and grey (student book; original target `visual-art/what-colours-are-and-what-they-do`) | Book 8, printed p. 67 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Mozambique, Colombia, Sudan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+
+**Book 9:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 7 — colours in rooms: dark tones weigh and shrink a space, light tones open it (student book; original target `visual-art/colours-around-us`) | Book 9, printed p. 120 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 Sub lesson 6 rests on teacher-guide evidence only for its own content; it is labelled as evidence in the part name, in the lesson text and in this table. The Grade 2 teacher guide is a scan with no usable text layer, read visually; its citation here is at section level only, as its placements require. The lesson as a whole stands on the Grade 1 and Grade 3 student textbooks, so the acceptance count counts pupil-taught content. The Grade 1 Chapter 3 summary's line — colours distinguish our clothes and beautify the surroundings (plants green, flowers red and yellow) — is carried in Colours on Clothes and in the question stock of this lesson, under the folding rules.
 
-Searchable tags: colours around us, yellow adey bananas, red roses sunrise sacrifice berbere, yellow turmeric እርድ hope happiness, blue ሰማያዊ sky water calm, Ethiopian flag colours, Ethiopia Grade 1 Grade 3 colours, Colombia
+Searchable tags: colours around us, yellow adey bananas, red roses sunrise sacrifice berbere, yellow turmeric እርድ hope happiness, blue ሰማያዊ sky water calm, Ethiopian flag colours, Ethiopia Grade 1 Grade 3 colours, Colombia, Brazil

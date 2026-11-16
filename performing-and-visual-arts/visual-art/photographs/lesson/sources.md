@@ -1,6 +1,6 @@
 # Sources — Photographs
 
-countries: Ethiopia, Guatemala, Albania, Iran
+countries: Ethiopia, Guatemala, Albania, Iran, Brazil
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -30,8 +30,13 @@ countries: Ethiopia, Guatemala, Albania, Iran
 | Albania — Photo-collage — building a new picture by cutting and joining photographs (teacher guide — evidence) | Book 5, printed p. 5 |
 | Iran — Photography L1, Composite photographs: عکس های ترکیبی: photographs combined from more than one image (student book) | Book 6, printed p. 57 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Iran). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 7:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 5 — a photography walk around the school: each pupil photographs one place or scene, captions it and exhibits it (student book; original target `visual-art/photographs`) | Book 7, printed p. 90 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Iran, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: every photograph in this lesson is described only as its placement describes it — the Sof Omar cave as a cave entrance in rock, the Tis Abay Falls as a wide waterfall, Bete Giyorgis as the rock-hewn church of St George at Lalibela, the Axum stele standing among ruins, Fasilides' castle at Gondar, Abebe Bikila running on a stadium track in a race, the walia standing on rocks against the sky, the Abbay Dam as a dam wall with water pouring through, and the market, harvest, landscape and aeroplane photographs as the Grade 2 figures name them. No photographic detail beyond the placements has been added. The Grade 3 page (Book 2, p. 68) also carries a chapter summary and closing exercise and a Review placement for Appreciating the Arts; only its two photographs and the "which pleased you" activity are stocked here, as the structure map directs — the review fold belongs to the First Steps appreciating lesson.
 
-Searchable tags: photographs, looking at photographs, Tis Abay, Blue Nile Falls, Abebe Bikila, Abbay Dam, walia ibex, market, harvest, landscape, መልክዓምድር, aeroplane, Bete Giyorgis, Axum, Fasilides, Sof Omar, appreciating photographs
+Searchable tags: photographs, looking at photographs, Tis Abay, Blue Nile Falls, Abebe Bikila, Abbay Dam, walia ibex, market, harvest, landscape, መልክዓምድር, aeroplane, Bete Giyorgis, Axum, Fasilides, Sof Omar, appreciating photographs, Brazil

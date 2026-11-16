@@ -1,6 +1,6 @@
 # Sources — Opera
 
-countries: Iceland, Malta, Belarus
+countries: Iceland, Malta, Belarus, Brazil
 
 **Book 1:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -19,8 +19,13 @@ countries: Iceland, Malta, Belarus
 
 | Belarus — Journey to the land Opera: opera is a musical performance where the characters do not speak but sing, with soloists, choir, vocal ensembles, orchestra and dancers; Krasev's final chorus from "Mukha-Tsakatukha"; Koval's "The Wolf and the Seven Little Goats" in fragments — each kid's character in its melody, the accent sign; the folk song "Sauka dy Gryshka" heard again inside Pukst's Belarusian opera "Marynka"; Glinka's March of Chernomor; Tchaikovsky's peasants' chorus from "Eugene Onegin" and the mixed choir (student book; original target `drama-and-dance/opera-a-story-sung-on-stage`) | Book 4, printed pp. 78–98 |
 
-**Acceptance count: taught in 1 country (Belarus).** Iceland teacher guide evidence is named here, counted nowhere. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 5:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 6 — opera: Monteverdi to Wagner's "complete work of art" joining music, dance, visual art and theatre; rock opera (Tommy, Hair, Jesus Christ Superstar) and staging a rock-opera scene (student book; original target `music/opera-and-the-total-work-of-art`) | Book 5, printed p. 103 |
+
+**Acceptance count: taught in 2 countries (Belarus, Brazil).** Iceland teacher guide evidence is named here, counted nowhere. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/opera`). The Iceland placements were filed as NEW LESSON NEEDED under the original string(s) `music/opera-and-the-total-work-of-art`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Iceland's own way, carried in the placements: a listening journey through the whole history of popular music — taught by listening, playing rhythm parts from notation, singing, and dancing, with Iceland's own musicians, revue songs, seamen's songs and dance bands woven through as national content. Songs are placed by their teaching topics only — no lyrics or notation are transcribed.
 
-Searchable tags: opera, operetta, Kálmán, Das Veilchen von Montmartre, Iceland, Dægurspor, Malta, Music Shines
+Searchable tags: opera, operetta, Kálmán, Das Veilchen von Montmartre, Iceland, Dægurspor, Malta, Music Shines, Brazil

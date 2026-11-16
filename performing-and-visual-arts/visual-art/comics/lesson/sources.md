@@ -1,6 +1,6 @@
 # Sources — Comics
 
-countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia
+countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Brazil
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -37,8 +37,13 @@ countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia
 
 | Colombia — Project 2, Subproject 2, Momento 3 "El tiempo y el espacio en las artes": the historieta (comic) — images and text together; its ancestors in rock painting, Trajan's column, medieval manuscripts (the Cantigas de Santa María, the Berry Book of Hours); the birth of the comic strip with "The Yellow Kid" (New York Journal, 16 Feb 1896) and speech balloons (student book; original target `visual-art/comics-and-sequential-art`) | Book 9, printed pp. 138–151 |
 
-**Acceptance count: taught in 6 countries (Maldives, Honduras, Serbia, Finland, Mozambique, Colombia).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 6) is evidence only, kept outside the acceptance count.
+
+**Book 10:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 5 — Lichtenstein and the language of comics: panels, speech balloons, onomatopoeia, flat colour with black outline; enlarging a comic panel 1:10 (student book; original target `visual-art/comics-as-art`) | Book 10, printed p. 91 |
+
+**Acceptance count: taught in 7 countries (Maldives, Honduras, Serbia, Finland, Mozambique, Colombia, Brazil).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 6) is evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/comics`); the Maldives placement was filed under the original string `visual-art/character-design`, recorded in the provenance rows above. The digital building of the same character is stocked in Digital and Computer Art, from the same unit's digital pages.
 
-Searchable tags: comics, character design, cartoon characters, Kyle and Lulu, Hussain Ihwan, Maldives, Exploring Creative Arts 4, Haiti, Finland, Colombia
+Searchable tags: comics, character design, cartoon characters, Kyle and Lulu, Hussain Ihwan, Maldives, Exploring Creative Arts 4, Haiti, Finland, Colombia, Brazil

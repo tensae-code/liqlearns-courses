@@ -1,6 +1,6 @@
 # Sources — Drawing the Human Figure
 
-countries: Colombia, Sudan
+countries: Colombia, Sudan, Brazil
 
 **Book 1:** *Educación Artística — Postprimaria Rural — Guías del estudiante, Grados 6 y 7 (Artistic Education, Rural Post-primary, student guides, Grades 6 and 7)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional (MEN), Bogotá; year 2010; ISBN libro 978-958-691-416-1; ISBN obra 978-958-691-411-6. Grades 6–7 (student book: STUDENT). PDF pages: 218 (title/imprint pages verified against the record; byte size 113,210,688). Verdict: COMPLETE — read in full from the downloaded file's text layer, all 6 modules and 27 guides Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md. Every guide ends in an "Evaluemos" self/peer/teacher assessment section — assessment apparatus, named here and not placed.
 
@@ -12,8 +12,13 @@ countries: Colombia, Sudan
 | Sub lesson 2 — Canons of beauty (original target `visual-art/human-proportions-and-canons-of-beauty`) | Book 1, printed pp. 11–12, 18–22 |
 | Sudan — Book 2, Drawing, "Expression in the Human Body": the body's unlimited power of expression — every creature expressing itself, man by senses and members: happiness, sadness, anger, contentment, acceptance and refusal spoken without words, in body language of signal, look and nervous movement, each moment of life tied to its kind of expression; the draughtsman scrutinising the person's expression in that moment, body systems (nervous, psychological, organic) acting on each other, until he seizes the personality's whole expression in one moment of its life — the Mona Lisa's mysterious smile as the standing example (student book; original target `visual-art/drawing-expression-body-language`) | Book 2, printed p. 53 |
 
-**Acceptance count: taught in 2 countries (Colombia, Sudan).**
+
+**Book 3:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 2 — the classical canon of eight heads and Leonardo's Vitruvian Man; measuring Botero against it, and drawing figures of two, four and twelve heads (student book; original target `visual-art/the-classical-canon-and-proportion`) | Book 3, printed p. 37 |
+
+**Acceptance count: taught in 3 countries (Colombia, Sudan, Brazil).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/drawing-the-human-figure`); the Colombia placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Colombia's own way: the rural guide opens the body module with Da Vinci, then puts the pencil in the pupil's hand at arm's length — proportion is learned on a classmate's real body, on a marked vertical.
 
-Searchable tags: human figure, proportion, Vitruvian, Da Vinci, head-units, canons of beauty, Colombia
+Searchable tags: human figure, proportion, Vitruvian, Da Vinci, head-units, canons of beauty, Colombia, Brazil

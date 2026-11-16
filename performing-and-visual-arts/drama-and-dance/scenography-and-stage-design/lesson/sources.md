@@ -1,6 +1,6 @@
 # Sources — Scenography and Stage Design
 
-countries: Serbia
+countries: Serbia, Brazil
 
 **Book 1:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -12,8 +12,13 @@ countries: Serbia
 | Serbia — "Special effects on stage, in films, in games...": the stage — today there are various ways to achieve special effects, used in theatre and in film; the stage is prepared with special care; with special lighting our experience of the performance changes, and painted backdrops can create the impression that the stage stretches into the distance; think how differently lit stages affect our experience, and what feeling a scene lit in cold (blue) light gives against one lit in warm (yellow) light (original target `drama-and-dance/stage-space-and-scenography`) | Book 2, printed p. 20 |
 | Serbia — "Special effects...", the stage-building exercise — split into groups of five pupils; each group shapes its own stage space; each pupil brings from home a part of the materials — foils, fabrics, mirrors, card, strips, self-adhesive paper in colour, LED strips, sticky tape in colour; choose a story and one scene from it, make the stage space for it, and at the end make an exhibition of all the works (original target `drama-and-dance/stage-space-and-scenography`) | Book 2, printed p. 21 |
 
-**Acceptance count: taught in 1 country (Serbia).**
+
+**Book 3:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 18 — scenography from Greece to Naturalism and its kinds (built, verbal, simultaneous, sound, realist sets); making a sound-scenery (paisagem sonora) of a forest with voices and bodies (student book; original target `drama-and-dance/scenography-and-set-design`) | Book 3, printed p. 291 |
+
+**Acceptance count: taught in 2 countries (Serbia, Brazil).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/scenography-and-stage-design`); the Serbia placements were filed under the original string(s) `drama-and-dance/stage-space-and-scenography`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: scenography is taught from the Greek open stage at Epidaurus, where nature completed the set, to the child's own group-built stage of foils, fabrics, mirrors and LED strips.
 
-Searchable tags: scenography, stage design, stage space, Epidaurus, stage lighting, backdrops, special effects, Serbia
+Searchable tags: scenography, stage design, stage space, Epidaurus, stage lighting, backdrops, special effects, Serbia, Brazil

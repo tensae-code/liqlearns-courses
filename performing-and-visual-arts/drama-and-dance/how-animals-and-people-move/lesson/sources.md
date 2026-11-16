@@ -1,6 +1,6 @@
 # Sources — How Animals and People Move
 
-countries: Ethiopia, Samoa, Nicaragua, Singapore, Papua New Guinea
+countries: Ethiopia, Samoa, Nicaragua, Singapore, Papua New Guinea, Brazil
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 **Book 2:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
@@ -33,8 +33,13 @@ countries: Ethiopia, Samoa, Nicaragua, Singapore, Papua New Guinea
 | Papua New Guinea — Unit 5 Drama, Topic Creating Drama (Lessons 73–78) — comedy skits with animal characters: imitating how animals move, sound and communicate; make-believe play; planning and practising a skit (teacher guide — evidence) | Book 7, printed pp. 23, 34, 47 |
 | Papua New Guinea — Unit 11.2 Creative Dance — warm-up and warm-down practice (stretches; the Tight Rope balance exercise; Hot Stones leaping and somersaulting) and the class dance activities: the Name Dance, spelling your name with your entire body; the Animal Dance, becoming an animal and exploring its relationships to the other animals in the group; and Moving to Music, exploring how different music affects the body, then making the movements larger or smaller, faster or slower with tempo change — movements organised into sequences and performed in groups, reflecting feelings, emotions, time, objects, animals and events (teacher guide — evidence) | Book 8, printed p. 34 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 9:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 13 — dances learned from animals: crane courtship dances and the Korean folk dance copying them, tai-chi and kung-fu animal movements, capoeira the dance-fight; making slow and fast animal movement sequences (student book; original target `drama-and-dance/dances-from-animal-movement`) | Book 9, printed p. 211 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 1 teacher guide's opening movement-to-music placement (printed p. 8, §1.2 of g01-teacher-placements.md) belongs to the Moving to Music lesson's family, not this one, and is stocked there. The family-walking GIF (9752) is cited in this lesson's plan add-on list; its marker sits in Sub lesson 1 of lesson.md, where the family walk is taught.
 
-Searchable tags: how animals move, how people move, gait, gallop, prowl, hen, horse, cat, donkey, bird take-off, Grade 1, Nicaragua, Papua New Guinea
+Searchable tags: how animals move, how people move, gait, gallop, prowl, hen, horse, cat, donkey, bird take-off, Grade 1, Nicaragua, Papua New Guinea, Brazil

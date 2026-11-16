@@ -1,6 +1,6 @@
 # Sources — Anthems and Songs That Teach
 
-countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji, Belarus
+countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji, Belarus, Brazil
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -60,8 +60,13 @@ countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji
 | Belarus — Opening land "The Land under White Wings": the State Anthem of the Republic of Belarus (words Klimkovich and Karyzna, music Sakalouski) — the country's main song, sung and listened to standing — with "Maya Belarus" and the song "Rodny busel" (The Native Stork, words Galinouskaya, music Galkina) (student book; original target `music/anthems-and-songs-that-teach`) | Book 13, printed pp. 4–5 |
 | Belarus — Part 1, "Belarus — my Homeland": the State Anthem of the Republic of Belarus; the homeland songs "Radzima, maya daragaya" (words Bachyla, music Alounikau) and "Nasha Radzima"; and the call sign of Belarusian Radio, a melody the whole country knows (student book; original target `music/anthems-and-songs-that-teach`) | Book 14, printed pp. 5–12 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Belarus).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher module plan — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 15:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 4 — Raul Seixas's "Maluco Beleza" read against the Surrealist Manifesto: the same protest against the pre-established, in song (student book; original target `music/anthems-and-songs-that-teach`) | Book 15, printed p. 69 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Honduras, Belarus, Brazil).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher module plan — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Both anthems are printed in full in the Grade 4 book; following the placements, they are placed here by name, role and teaching point only — no anthem or song text is transcribed anywhere in this lesson. The professionals song's credits are the book's own printed credits (melody Alemayehu W/Yohannes, poem Asefa Bekele). The Grade 6 appearance of the professionals song is the same song met again at the next level, as its placement extends it — it is one song, counted once.
 
-Searchable tags: anthem, regional anthem, national anthem, የታታሪ ህዝቦች, school song, ትምህርት ቤታችን, heritage song, elders' counsel, የአረጋውያን መዝሙር, professionals, forests, festival songs, Enqutatash, ethics song, Nicaragua, Iceland, Dægurspor, Finland
+Searchable tags: anthem, regional anthem, national anthem, የታታሪ ህዝቦች, school song, ትምህርት ቤታችን, heritage song, elders' counsel, የአረጋውያን መዝሙር, professionals, forests, festival songs, Enqutatash, ethics song, Nicaragua, Iceland, Dægurspor, Finland, Brazil

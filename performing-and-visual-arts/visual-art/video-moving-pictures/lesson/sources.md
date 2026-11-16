@@ -1,6 +1,6 @@
 # Sources — Video: Moving Pictures
 
-countries: Ethiopia, Guatemala, Finland
+countries: Ethiopia, Guatemala, Finland, Brazil
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -26,8 +26,14 @@ countries: Ethiopia, Guatemala, Finland
 | Guatemala — Creating and presenting audiovisual works, and the skills for handling recording and filming equipment (from the experience's themes and its teacher rubric) — Experiencia 2 (Grade 6) (teacher guide — evidence; original target `visual-art/video-moving-pictures`) | Book 5, printed pp. 69, 76 |
 | Finland — Session 7: TV advert — planning and filming a TV advert that presents volunteering, using a video camera (student club material, PARTIAL — arts parts only) | Book 6, printed p. 21 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Finland). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+
+**Book 7:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 6 — the videoclip: from Beatles and Dylan promo films to MTV (1981) (student book; original target `visual-art/video-moving-pictures`) | Book 7, printed p. 109 |
+| Brazil — Folha 8 "Arte: ilusão ou realidade?" — cinema, the Seventh Art: the Lumière brothers' first public show (1895) and the illusion that feels real; shooting a 5–10 minute class film with script, direction, sets and costume teams (student book; original target `visual-art/cinema-the-seventh-art`) | Book 7, printed p. 130 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Finland, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 The Grade 5 book's tempo table oddity (Allegretto above Allegro) belongs to the music lesson and is not used here. The Grade 8 teacher-guide parts are inside that guide's surviving body pages (printed pp. 4–6) and are labelled evidence. Creative photography's techniques are taught as the Grade 7 guide names them; 'painting onto a printed photo' and double exposure are described, not faked — the lesson's picture is a drawn teaching board, not a photograph claiming those effects.
 
-Searchable tags: video, moving pictures, shot sizes, close-up, medium view, long view, የቅርብ እይታ ቀረጻ, creative photography, bokeh, double exposure, motion blur, macro, film form, shot, scene, sequence, Finland
+Searchable tags: video, moving pictures, shot sizes, close-up, medium view, long view, የቅርብ እይታ ቀረጻ, creative photography, bokeh, double exposure, motion blur, macro, film form, shot, scene, sequence, Finland, Brazil

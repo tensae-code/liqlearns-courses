@@ -1,6 +1,6 @@
 # Sources — Making with Paper and Pieces
 
-countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, Singapore, Bhutan, Trinidad and Tobago, Serbia, Finland, Turkmenistan, Mozambique, Pakistan, Fiji, Sudan, Belarus, Iran, Papua New Guinea
+countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, Singapore, Bhutan, Trinidad and Tobago, Serbia, Finland, Turkmenistan, Mozambique, Pakistan, Fiji, Sudan, Belarus, Iran, Papua New Guinea, Brazil
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -151,8 +151,13 @@ countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, S
 
 | Papua New Guinea — Unit 1 Arts, Topic Painting (standard 8.1.2e) — tie-dye making and its processes, showcasing varieties of tie-dye from local and global communities (teacher guide — evidence (PARTIAL — the guide itself is unfinished); original target `visual-art/png-tie-dye`) | Book 32, printed p. 25 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Maldives, Uganda, Honduras, Romania, Bhutan, Serbia, Finland, Turkmenistan, Mozambique, Pakistan, Fiji, Sudan, Belarus, Iran).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Finland's teacher-guide and project-material parts (Books 21 and 22) are evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 33:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 5 — collage: materials glued on a flat surface, as the pop artists used it (Wesselmann); a collage of cut-out mouths (student book; original target `visual-art/making-with-paper-and-pieces`) | Book 33, printed p. 95 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Maldives, Uganda, Honduras, Romania, Bhutan, Serbia, Finland, Turkmenistan, Mozambique, Pakistan, Fiji, Sudan, Belarus, Iran, Brazil).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Finland's teacher-guide and project-material parts (Books 21 and 22) are evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 teacher-guide part (potato printing and paper mosaic) and the Grade 2 teacher-guide part (decorating and drawing) are teacher-guide evidence and are labelled so; the Grade 2 guide is a scan with no text layer, cited at section level only (§2.4, printed pp. 35–37), as its placements require. Tie-dye's boiling step is taught as the Grade 7 book gives it and is a grown-up's job in the hands-on work; the lesson says so.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, papier-mâché, collage, ኮላዥ, mosaic, paper mosaic, tie-dye, አስሮ ማቅለም, potato printing, ህትመት በድንች ማተም, decorating, texture, rough and smooth, Nicaragua, Romania, Bhutan, Finland, Papua New Guinea
+Searchable tags: Maldives, Exploring Creative Arts 4, papier-mâché, collage, ኮላዥ, mosaic, paper mosaic, tie-dye, አስሮ ማቅለም, potato printing, ህትመት በድንች ማተም, decorating, texture, rough and smooth, Nicaragua, Romania, Bhutan, Finland, Papua New Guinea, Brazil

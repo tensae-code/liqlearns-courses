@@ -283,6 +283,20 @@ The titles, in ladder order:
    painting — traditional painting set beside
    contemporary painting (Papua New Guinea teacher
    guides, evidence).
+ The Art expansion added:
+   baroque art — emotion over reason, diagonal
+   composition and light-dark contrast, with the
+   Brazilian Baroque in churches; body marks across
+   cultures — piercing and tattoo across 5,000 years;
+   Brazilian modernism and the Week of 1922 — Anita
+   Malfatti, the Pau-Brasil and Antropofágico
+   manifestos, Tarsila's Abaporu and Operários;
+   Brazilian prehistoric rock art — Serra da Capivara;
+   Brazilian social painting — Portinari's Os
+   Retirantes and Volpi's festival flags; pop art —
+   Hamilton, Warhol and Oldenburg's giant soft
+   hamburger; and realism in painting — Courbet's
+   unadorned workers (Brazil student book).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -520,6 +534,21 @@ The titles, in ladder order:
    recording studio; and commercial music and
    copyright (Papua New Guinea teacher guides,
    evidence).
+ The Art expansion added:
+   the roots of Brazilian popular music — Carlos
+   Gomes, Villa-Lobos, Chiquinha Gonzaga, Pixinguinha
+   and Cartola; chords and harmony — consonance and
+   dissonance in jazz and bossa nova; history of music
+   writing — neumes to the modern score; history of
+   Western concert music — from music's beginnings and
+   Gregorian chant through Bach, Mozart and Beethoven
+   to Villa-Lobos, Schoenberg, Cage and Stockhausen;
+   music therapy; noise music and soundscapes —
+   Schafer, Hermeto Pascoal, Tom Zé, Barbatuques and
+   Uakti; Pythagoras and the monochord; and scales and
+   modes of the world — pentatonic scales, India's
+   ragas and the tempered chromatic scale (Brazil
+   student book).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -663,6 +692,17 @@ The titles, in ladder order:
    and folk dances of the world — the Oriental/
    Eastern dances (Papua New Guinea teacher guides,
    evidence).
+ The Art expansion added:
+   Brazilian folk and popular dances — samba from the
+   umbigada, frevo, Fandango Paranaense, Indigenous
+   dances, the samba school parade and the dances of
+   the urban tribes; Brecht and epic theatre;
+   commedia dell'arte — improvised masked stock
+   characters; Grotowski and poor theatre; sound
+   design for stage and screen — radio sonoplastia;
+   and theatre of the oppressed — Augusto Boal's
+   spect-actors, with Pina Bausch's dance-theatre of
+   social problems (Brazil student book).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
@@ -777,3 +817,12 @@ The titles, in ladder order:
    Iranian Islamic culture and art — the marks (خصایص) of
    Iranian-Islamic culture and how Iran's own arts carry them
    (Iran student book).
+ The Art expansion added:
+   art magazines and criticism — O Joaquim (1946) and
+   the 1957 Salão Paranaense protest, with a class art
+   magazine; and Brazilian art and folk culture —
+   popular and folk culture, Mestre Vitalino and the
+   carrancas, the French Artistic Mission, Romantic
+   indianism, and Paraná regional art: Alfredo
+   Andersen, Paranismo and Poty Lazzarotto's Curitiba
+   murals (Brazil student book).

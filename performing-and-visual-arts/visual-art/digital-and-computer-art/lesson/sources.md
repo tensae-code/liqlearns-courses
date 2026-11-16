@@ -1,6 +1,6 @@
 # Sources — Digital and Computer Art
 
-countries: Maldives, Turkmenistan, Sudan
+countries: Maldives, Turkmenistan, Sudan, Brazil
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -15,8 +15,13 @@ countries: Maldives, Turkmenistan, Sudan
 | Turkmenistan — 3.7–8 "Kompýuterde surat çekmek" (Drawing on the computer) — open the PAINT program and learn its tools (pencil, brush, eraser, simple shapes), then draw flowers, trees and insects with them (student book; original target `visual-art/digital-and-computer-art`) | Book 2, printed pp. 54–57 |
 | Sudan — Book 4, Colouring, "Modern Technology and Colouring": colouring and the computer — the electronic leap making the computer part of modern man's life, its great powers for drawing and colour and its gift of the third dimension; Lillian Schwartz colouring faces by electronic copying, Barbara Nessim giving depiction depth; computer drawing passing from stills to animation, as Disney took cinema's discovery to the cartoon, sequence and timing giving the feeling of movement, with sound and music and no studios — and the designer's role continuing, for creativity still needs the artist, who must train on the new techniques to employ them (student book; original target `visual-art/colouring-with-the-computer`) | Book 3, printed p. 131 |
 
-**Acceptance count: taught in 3 countries (Maldives, Turkmenistan, Sudan).**
+
+**Book 4:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 3 — art on digital supports: infoarte, arte digital, arte na web, infogravura (digital-matrix printmaking), wap arte, web arte (student book; original target `visual-art/digital-and-web-art`) | Book 4, printed p. 61 |
+
+**Acceptance count: taught in 4 countries (Maldives, Turkmenistan, Sudan, Brazil).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/digital-and-computer-art`); the two Maldives placements were filed under the original strings `visual-art/posterisation` and `visual-art/the-digital-image`, recorded in the provenance rows above.
 
-Searchable tags: digital art, computer art, posterisation, character design, Maldives, Exploring Creative Arts 4
+Searchable tags: digital art, computer art, posterisation, character design, Maldives, Exploring Creative Arts 4, Brazil

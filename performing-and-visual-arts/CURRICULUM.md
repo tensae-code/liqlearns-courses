@@ -1744,7 +1744,57 @@ lessons are the books'.
   theatres (Orokolo Eharo, Sepik Tambaran,
   Trobriand Kesawaga, Malangan, Kerema Hevehe).
 
-**The whole course stands at 459 lessons, 5,963 questions and
+**Art expansion — Brazil (2026-11-16):** 117 placements
+  stocked from 1 student book: *ARTE — Ensino Médio,
+  2ª Edição (Livro Didático Público)* (Secretaria de
+  Estado da Educação do Paraná (SEED-PR), Curitiba,
+  2006 (2nd ed. 2007), Portuguese, Ensino Médio —
+  upper secondary, grades 10–12). It is a STUDENT
+  book, so Brazil enters every stocked lesson's
+  acceptance count. 76 placements into existing and
+  already-built canonical lessons (The Colour Wheel
+  ×4; The Elements of Visual Art ×4; Theatre and Film
+  Through History ×4; Dance Composition and Modern
+  Dance ×4 — including the elements-of-dance and
+  genres-of-dance strings; and the rest), and 41
+  into 23 NEW lessons (Visual Art: Baroque Art;
+  Body Marks Across Cultures; Brazilian Modernism
+  and the Week of 1922 ×2; Brazilian Prehistoric
+  Rock Art; Brazilian Social Painting; Pop Art ×2;
+  Realism in Painting. Music: The Roots of Brazilian
+  Popular Music; Chords and Harmony; History of
+  Music Writing; History of Western Concert Music
+  ×4; Music Therapy; Noise Music and Soundscapes;
+  Pythagoras and the Monochord; Scales and Modes of
+  the World ×3. Drama and Dance: Brazilian Folk and
+  Popular Dances ×7; Brecht and Epic Theatre;
+  Commedia dell'Arte; Grotowski and Poor Theatre;
+  Sound Design for Stage and Screen; Theatre of the
+  Oppressed ×2. Culture and Values: Art Magazines
+  and Criticism; Brazilian Art and Folk Culture ×5),
+  230 questions added, media as described slots only.
+  Registry resolutions carried: the reader strings
+  are resolved in slug-registry Part 2 throughout —
+  among them brazilian-art-identity, brazilian-folk-
+  art, parana-regional-art and popular-culture-and-
+  folk-culture → Brazilian Art and Folk Culture;
+  samba-origins, frevo, fandango-paranaense,
+  indigenous-dances-of-brazil, samba-school-parade,
+  dance-tribes-and-taste and brazilian-folk-dances →
+  Brazilian Folk and Popular Dances; body-art →
+  Performance Art and Body Art; cinema-the-seventh-
+  art → Video: Moving Pictures; opera-and-the-total-
+  work-of-art → Opera. Honesty carried exactly as
+  filed: the book is COMPLETE and a student book;
+  songs are placed by summary only, never
+  transcribed. Brazil's own way is kept as named
+  parts: the 20 thematic Folhas that refuse to
+  separate the arts, Brazilian folk art (Mestre
+  Vitalino, carrancas), modernism and the Week of
+  1922, Paraná regional art, samba, frevo, fandango,
+  capoeira and Boal's Theatre of the Oppressed.
+
+**The whole course stands at 482 lessons, 6,193 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

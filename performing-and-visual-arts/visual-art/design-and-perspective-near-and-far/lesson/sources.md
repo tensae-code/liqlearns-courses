@@ -1,6 +1,6 @@
 # Sources — Design and Perspective: Near and Far
 
-countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Papua New Guinea
+countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Papua New Guinea, Brazil
 
 **Book 1:** *Grade 6 Performing and Visual Arts Teacher Guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Writers: Tibebu Woldeyohannes, Yirga Qumelachew, Yohannes Sebsebie. 96 PDF pages; printed front matter I–VI + body and syllabus to printed p. 119. Read in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
@@ -74,8 +74,13 @@ countries: Ethiopia, Maldives, Barbados, Albania, Bhutan, Serbia, Mozambique, Pa
 | Papua New Guinea — Unit 1 Arts, Topic Drawing (Lessons 1–10) — linear drawing; one-point perspective step by step (a box, an open box, an alternative open box) using horizon line, receding/converging lines and proportion with distance; space in artwork — positive and negative space in 2D and 3D; portrait drawing using the egg-shape principle (cross axis, feature reference dots for eyes, nose, mouth, ears, hair) (teacher guide — evidence) | Book 17, printed pp. 14, 32 |
 | Papua New Guinea — Unit 1 Arts, Topic Drawing (Lessons 9–10) — one-point perspective: eye level, vanishing point and receding lines, and its uses as pictorial drawing for landscapes, geometrical subjects and solids such as cubes, finished with shading and rendering (teacher guide — evidence (PARTIAL — the guide itself is unfinished)) | Book 18, printed p. 23 |
 
-**Acceptance count: taught in 9 countries (Maldives, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 19:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 4 — perspective and symmetry compared across the Last Suppers of Leonardo, Dalí, Giotto and Rego Monteiro; making a symmetrical composition around a table (student book; original target `visual-art/design-and-perspective-near-and-far`) | Book 19, printed p. 72 |
+
+**Acceptance count: taught in 10 countries (Maldives, Bhutan, Serbia, Mozambique, Pakistan, Colombia, Sudan, Belarus, Iran, Brazil).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 6 teacher's guide (Addis Ababa City Administration Education Bureau, © 2014 E.C.). The placements file summarises the guide's §2.4 design section by its topic, its Amharic terms and its picture slot (a road narrowing to a vanishing point, nearer trees darker and larger); the lesson teaches at exactly that level and adds no perspective rules, constructions or terms the placement does not give.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, perspective, የርቀትና ቅርበት, ዕርዮተ አድማስ, near and far, vanishing point, design for painting and printing, teacher guide evidence, Bhutan, Colombia, Papua New Guinea
+Searchable tags: Maldives, Exploring Creative Arts 4, perspective, የርቀትና ቅርበት, ዕርዮተ አድማስ, near and far, vanishing point, design for painting and printing, teacher guide evidence, Bhutan, Colombia, Papua New Guinea, Brazil

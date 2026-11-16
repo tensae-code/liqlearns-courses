@@ -1,6 +1,6 @@
 # Sources — Beautiful Writing
 
-countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran
+countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -102,7 +102,12 @@ countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus,
 | Iran — Calligraphy L3, The Thuluth script: معرفی خط ثلث و مشق سطرنویسی: introducing the Thuluth script, with line-writing practice (student book) | Book 20, printed p. 65 |
 | Iran — Calligraphy L4, The Muhaqqaq script: معرفی خط محقق و مشق سطرنویسی نستعلیق: introducing the Muhaqqaq script, with Nastaliq line-writing practice (student book) | Book 20, printed p. 69 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+
+**Book 21:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 3 — parchment and the Iluminura: the great decorated first letter of medieval manuscripts (student book; original target `visual-art/beautiful-writing`) | Book 21, printed p. 50 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Honesty notes: the Grade 5 calligraphy plates placement (single/double/shaded examples in Amharic and English, with a two-tied-pencils GIF need) is stocked inside Sub lesson 5's practice set, where the Grade 6 book turns the same two-tools method into practice; no separate plate part is claimed. Line-kind Amharic names and spellings (ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, ነጠላ, ድርብ) are copied exactly from the Grade 3 placements.
 
@@ -110,4 +115,4 @@ Kuwait honesty notes, carried exactly as filed: Kuwait's own way — beautiful w
 
 Egypt honesty notes, carried exactly as filed: Egypt's own way — beautiful writing is practised as pure copying: the whole workbook is page after page of one model sentence written in Ruqʿah script (خط الرقعة) at the head of the page and printed again mid-page, with ruled lines between and below for the pupil to copy it over and over, each page closed by date and grade lines for the teacher. Exclusions: none named for this workbook — it carries no separate assessment or glossary sections; its back cover carries five value statements in print (not pupil teaching items).
 
-Searchable tags: calligraphy, ኪነ-ፅህፈት, beautiful writing, letter forms, single writing, ነጠላ, double writing, ድርብ, line types, ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, fidel, English letters, Yigezu Bisrat, ሰላም, Kuwait, Arabic calligraphy, الخط العربي, Naskh, خط النسخ, Ruqʿah, خط الرقعة, Noura Khaled Al-Owaiban Al-Enezi, Egypt, Egypt Grade 9 calligraphy, Nicaragua
+Searchable tags: calligraphy, ኪነ-ፅህፈት, beautiful writing, letter forms, single writing, ነጠላ, double writing, ድርብ, line types, ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, fidel, English letters, Yigezu Bisrat, ሰላም, Kuwait, Arabic calligraphy, الخط العربي, Naskh, خط النسخ, Ruqʿah, خط الرقعة, Noura Khaled Al-Owaiban Al-Enezi, Egypt, Egypt Grade 9 calligraphy, Nicaragua, Brazil

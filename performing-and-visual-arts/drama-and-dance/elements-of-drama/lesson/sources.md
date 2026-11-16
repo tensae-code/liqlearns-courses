@@ -1,6 +1,6 @@
 # Sources — Elements of Drama
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea
+countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -29,8 +29,13 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea
 | Papua New Guinea — Unit 5 Drama, Topics Types of Stages and Stage Areas (Content Background) — what drama is: a dramatic art of communication between actor and audience that can carry information and awareness (human rights, health) to a wide society; Aristotle's elements of drama — action/plot with its pattern (initial entanglement, rising action, climax, falling action, resolution), characters, language, and music in a play; the drama vocabulary: dialogue, character, audience, stagecraft, genre, convention, theme, actors, stage, script, playwright, improvise, costumes, props, backdrop, mime (teacher guide — evidence) | Book 5, printed pp. 35–38 |
 | Papua New Guinea — Unit 11.1 Creative Drama — the elements of drama: plot, character, setting, climax, diction and theme — and how a story's narration becomes action and dialogue in a play (teacher guide — evidence) | Book 6, printed p. 33 |
 
-**Acceptance count: taught in 1 country (Iran).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 7:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 11 — the monologue in three kinds: technical, lyrical, and of reflection/decision (student book; original target `drama-and-dance/elements-of-drama`) | Book 7, printed p. 175 |
+
+**Acceptance count: taught in 2 countries (Iran, Brazil).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The element list is the guide's own (printed pp. 54–56), given whole; nothing is added to it or taken from it.
 
-Searchable tags: elements of drama, character, tension, symbol, dramatic action, Grade 7 teacher guide, evidence, Papua New Guinea
+Searchable tags: elements of drama, character, tension, symbol, dramatic action, Grade 7 teacher guide, evidence, Papua New Guinea, Brazil

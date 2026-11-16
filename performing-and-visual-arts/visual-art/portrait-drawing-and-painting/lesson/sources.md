@@ -1,6 +1,6 @@
 # Sources — Portrait Drawing and Painting
 
-countries: Singapore, Serbia, Colombia, Sudan, Belarus
+countries: Singapore, Serbia, Colombia, Sudan, Belarus, Brazil
 
 **Book 1:** *Nurturing Early Learners — A Curriculum Framework for Preschool Education in Singapore: Educators' Guide for Aesthetics and Creative Expression* (teacher guide, English) — Singapore, Ministry of Education, Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten (children aged 4–6: Nursery 2, Kindergarten 1–2), 126 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree (byte size 4,232,854 matches the record), PDF deleted after filing. Chapter 4's classroom-environment organisation and Chapter 5's monitoring-and-assessment framework are teacher apparatus — their worked examples' teaching content IS placed; the Bibliography (printed pp. 122–125) is inventory-only, named here, never stocked. Songs are filed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/singapore-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -27,8 +27,13 @@ countries: Singapore, Serbia, Colombia, Sudan, Belarus
 | Belarus — Section 8, "The portrait genre": what a portrait is; portraits showing a person as a mythological, historical or literary character; idealised portraits of poets, philosophers and public figures; Levitsky and Bryullov; and the long history of portrait painting by Belarusian masters (student book; original target `visual-art/portrait-and-self-portrait`) | Book 6, printed pp. 32–36 |
 | Belarus — Section 14, "The interconnection of a person's inner world and outer appearance": the portrait as a meeting with the sitter's inner life — Perov's Dostoevsky shown as if in the moment of a heated conversation with an unseen partner, tied to his town (student book; original target `visual-art/portrait-and-self-portrait`) | Book 6, printed pp. 54–56 |
 
-**Acceptance count: taught in 4 countries (Serbia, Colombia, Sudan, Belarus). Singapore teacher-guide evidence is named here, counted nowhere.**
+
+**Book 7:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 8 — Arcimboldo's heads built from fruit, books and pots; building a figure from classified objects in groups (student book; original target `visual-art/arcimboldo-composite-heads`) | Book 7, printed p. 138 |
+
+**Acceptance count: taught in 5 countries (Serbia, Colombia, Sudan, Belarus, Brazil). Singapore teacher-guide evidence is named here, counted nowhere.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/portrait-drawing-and-painting`); the Singapore placements were filed under the original string `visual-art/self-portraits-and-the-artists-who-paint-them`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Singapore's own way, carried in the placements: one national early-years guide that treats art, music and movement as a single learning area, with Singapore's own heritage woven through as content. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
-Searchable tags: portrait, self-portrait, Georgette Chen, van Gogh, Kusama, clay portrait, Singapore, Colombia
+Searchable tags: portrait, self-portrait, Georgette Chen, van Gogh, Kusama, clay portrait, Singapore, Colombia, Brazil

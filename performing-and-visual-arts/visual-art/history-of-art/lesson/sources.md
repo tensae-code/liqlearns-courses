@@ -1,6 +1,6 @@
 # Sources — History of Art
 
-countries: Andorra, Sudan
+countries: Andorra, Sudan, Brazil
 
 **Book 1:** *Programa de l'assignatura d'història de les arts del batxillerat general de l'Escola Andorrana — Decret del 9-12-2020 (BOPA núm. 149, 16-12-2020), republishing the full programme as amended (Decret del 20-3-2019 as modified by Decret del 9-12-2020)* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2020 (programme first published 2019), no ISBN printed in the fetched text, Batxillerat general (ages 16–18), 28 PDF pp. TEACHER — programme document. Verdict: COMPLETE as a programme document — read in full via the source_url text; assessment criteria (CA1 pertinence, CA2 precision, CA3 critical sense), end-of-cycle expectations and the synthesis table are apparatus, named here and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
@@ -14,8 +14,13 @@ countries: Andorra, Sudan
 | Sudan — Book 1, Artistic Culture, "Art Schools": how the schools arose — academic art taught in institutions from the 17th century, the French Academy founded in 1648 ruling taste until the Revolution turned artists to the older civilisations, David at their head; Romanticism as the bridge to the modern, fed on medieval literature, Géricault on the Renaissance poets, Delacroix on Shakespeare, Byron and Dante, and the East's influence in the Maghreb; then Courbet and Millet leading Naturalism, and the schools branching from there (student book; original target `visual-art/art-schools-and-academies`) | Book 2, printed p. 8 |
 | Sudan — Book 3, Design, "Applied Arts through History": the applied arts across the civilisations — art beginning applied before it was tied to beauty's measures (the Stone Age necklace of predators' teeth dyed red), then Egypt's furniture, inlaid boxes, thrones on lion legs and Tutankhamun's gold; Sumerian and Akkadian copper and inlaid musical instruments; Greek pottery; Etruscan bronze; China and Japan's silk, porcelain and ritual bronzes; Byzantine reliquaries; Coptic ivory; Islamic leather and bookbinding from Andalusia to Mamluk Egypt and Fatimid rock crystal and tiraz textiles — and the long divorce of fine from applied art, healed only when the Bauhaus (1919–1933) rejoined design to industrial production (student book; original target `visual-art/applied-arts-through-history`) | Book 2, printed p. 71 |
 
-**Acceptance count: taught in 1 country (Sudan). Before Sudan, this lesson stood on Andorra curriculum programme document evidence only, named here, counted nowhere.**
+
+**Book 3:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 1 — the style words hidden in the song "Bienal" (Barroco, Rococó, Art Nouveau, neo-expressionismo, natureza-morta) as a first map of art terms (student book; original target `visual-art/art-movement-names-and-styles`) | Book 3, printed p. 11 |
+
+**Acceptance count: taught in 2 countries (Sudan, Brazil). Before Sudan, this lesson stood on Andorra curriculum programme document evidence only, named here, counted nowhere.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/history-of-art`); the Andorra placements were filed under the original strings `visual-art/art-of-the-world` (twice) and `visual-art/art-history-timeline`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Andorra's own Romanesque, placed inside this lesson's art-and-power block by the programme, is stocked in full in Art of Our Country. The book is a curriculum programme document, so every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
-Searchable tags: history of art, art and power, Baroque, Romanesque, Gothic, Renaissance, humanism, modernisme, Gaudí, Guernica, Goya, Picasso, Banksy, Andorra
+Searchable tags: history of art, art and power, Baroque, Romanesque, Gothic, Renaissance, humanism, modernisme, Gaudí, Guernica, Goya, Picasso, Banksy, Andorra, Brazil

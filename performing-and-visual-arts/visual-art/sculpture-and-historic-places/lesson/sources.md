@@ -1,6 +1,6 @@
 # Sources — Sculpture and Historic Places
 
-countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Pakistan, Colombia, Belarus
+countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -87,8 +87,13 @@ countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Paki
 | Belarus — Part 2: Sculpture — relief and sculpture in the round told apart through monuments and figures, including the Brest Fortress memorial composition (student book; original target `visual-art/sculpture-and-historic-places`) | Book 19, printed pp. 11–12 |
 | Belarus — Part 3, Secrets of a piece of clay: Modelling a relief — the step-by-step sequence for modelling a clay relief (student book; original target `visual-art/sculpture-and-historic-places`) | Book 19, printed p. 53 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Maldives, Romania, Serbia, Mozambique, Pakistan, Colombia, Belarus).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
+
+**Book 20:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 15 — Paraná's sculptors: João Turin's animalist works, Zaco Paraná's O Semeador, Erbo Stenzel's Praça 19 de Dezembro monuments (student book; original target `visual-art/sculpture-and-historic-places`) | Book 20, printed p. 240 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Maldives, Romania, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
 
 Honesty notes: Sub lessons 5 and 6 rest on teacher-guide evidence and are labelled so in the lesson text and in this table; the lesson as a whole rests on student books (Books 1–6), so the acceptance count stands at 1 country. Book 7 (the Grade 8 teacher guide) is a truncated copy — body printed pp. 1–56 plus syllabus tables — and both of its parts used here (pp. 33–39 and pp. 53–56) sit inside the surviving body. Books 8 and 9 are teacher guides for grades with no student books in this set; their parts are evidence only. The Grade 7 student book's carving deep-dive is stocked here only as the fourth technique named inside the four-techniques part, exactly as its placement frames it against the other three.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, sculpture, ኪነ ቅርፅ, in the round, ዙረያ ገባ, relief, ሪሊፍ, modelling, carving, assembling, ማያያዝና መገጣጠም, casting, ኪነ-ቅርፅን ማራባት, mould, ሞልድ, gypsum, ጀሶ, jute, ጆንያ, papier-mâché, monuments, artifacts, historic places, Romania, Haiti, Colombia
+Searchable tags: Maldives, Exploring Creative Arts 4, sculpture, ኪነ ቅርፅ, in the round, ዙረያ ገባ, relief, ሪሊፍ, modelling, carving, assembling, ማያያዝና መገጣጠም, casting, ኪነ-ቅርፅን ማራባት, mould, ሞልድ, gypsum, ጀሶ, jute, ጆንያ, papier-mâché, monuments, artifacts, historic places, Romania, Haiti, Colombia, Brazil

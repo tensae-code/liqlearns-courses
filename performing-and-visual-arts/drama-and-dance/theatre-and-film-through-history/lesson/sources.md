@@ -1,6 +1,6 @@
 # Sources — Theatre and Film Through History
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea
+countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -44,8 +44,16 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea
 | Papua New Guinea — Unit 12.2 Development of Theatre — Greek theatre, where written theatre began, its ritual nature and outdoor venues bearing close relationships with Papua New Guinean theatre; Shakespeare and the Renaissance revival of the classical playwrights; tragedy and comedy as the major genres — tragedy as pride before a fall, a flaw in the hero or heroine leading to disaster — studied through Hamlet, King Lear and Peter Kama Kerpi's "Voices from the Ridge" (plot as orientation, conflict and resolution; character studied through what a character says, does, and what others say about them); translating a Greek or Shakespearean plot into a Papua New Guinean contemporary situation, and writing a character study and dramatising its PNG equivalent (teacher guide — evidence) | Book 11, printed pp. 36–37 |
 | Papua New Guinea — Unit 12.2 Development of Theatre, World Theatre Research Project — researching a world theatre form and presenting it: Japanese Kabuki, Noh and Bunraku puppets, Balinese Ramayana dance theatre and shadow plays, Indonesian Ludruk theatre, Indian Kerala theatre and Indian dance, Aboriginal Australian dance, Bollywood and Hollywood, European classical ballet and opera, Punch and Judy puppets, the Muppets, radio drama and rap dance, beside Greek and Shakespearean tragedy and comedy (teacher guide — evidence; original target `drama-and-dance/world-theatre-forms`) | Book 11, printed p. 37 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 12:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 9 "Teatro para quê?" — theatre begins as ritual: a person pretending, an action, a space, a watcher; storytelling by candlelight with invented voices (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 12, printed p. 144 |
+| Brazil — Folha 9 — Greek theatre: Dionysus festivals, Thespis the first actor, tragedy and comedy, chorus and masks (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 12, printed p. 145 |
+| Brazil — Folha 9 — medieval religious theatre: Mistérios, Autos and Paixões move from inside the church to the square; Brazil's Holy Week Passion plays today (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 12, printed p. 148 |
+| Brazil — Folha 9 — Elizabethan theatre and Shakespeare, the dramatist whose plays still move audiences (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 12, printed p. 150 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Claims of firsts are taught as their sources give them: Fabula is 'probably the first original African play' and Hager Fikir the 'oldest indigenous theatre in Africa' — the guide's own wordings, kept with their caution. The Grade 10 guide records no separate 'Lesson 27' heading in its theatre sequence; the lesson follows its placements (Lesson 26 African theatre onward) and claims nothing about a Lesson 27.
 
-Searchable tags: theatre history, film history, theatron, Fabula, Tekle Hawariat, Hager Fikir Theatre, National Theatre, Seytan Bet, Haile Gerima, Ethiopian Film Corporation, film types, theatre types, Papua New Guinea
+Searchable tags: theatre history, film history, theatron, Fabula, Tekle Hawariat, Hager Fikir Theatre, National Theatre, Seytan Bet, Haile Gerima, Ethiopian Film Corporation, film types, theatre types, Papua New Guinea, Brazil

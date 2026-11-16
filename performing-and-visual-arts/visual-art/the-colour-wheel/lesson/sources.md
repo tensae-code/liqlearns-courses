@@ -1,6 +1,6 @@
 # Sources — The Colour Wheel
 
-countries: Ethiopia, Maldives, Barbados, Albania, Samoa, Nicaragua, Singapore, Mozambique, Sudan, Belarus, Iran, Papua New Guinea
+countries: Ethiopia, Maldives, Barbados, Albania, Samoa, Nicaragua, Singapore, Mozambique, Sudan, Belarus, Iran, Papua New Guinea, Brazil
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -63,8 +63,16 @@ countries: Ethiopia, Maldives, Barbados, Albania, Samoa, Nicaragua, Singapore, M
 | Papua New Guinea — Unit 1 Arts, Topic Painting (Lessons 10–11) — expanding the colour wheel chart, and the grade tone scale: gradual build-up of a tone with more blue with white (teacher guide — evidence) | Book 15, printed pp. 19, 36 |
 | Papua New Guinea — Unit 1 Arts, Topic Painting (Lessons 13–16) — creating a graded tone scale by mixing a primary colour with white, gradually increasing pigment (10%, 20%, 40%, 60%, 80%, 95%); creating hues by mixing a light colour with a dark colour; graded tone scales from secondary and tertiary colours with white, read against the colour wheel chart (teacher guide — evidence) | Book 16, printed pp. 14, 52–53 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Maldives, Mozambique, Sudan, Belarus, Iran). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+
+**Book 17:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
+
+| Brazil — Folha 7 "Cores, cores... e mais cores?" — cor-luz vs cor-pigmento; primary and secondary colours in both systems; white and black as neutrals (student book; original target `visual-art/the-colour-wheel`) | Book 17, printed p. 114 |
+| Brazil — Folha 7 — warm and cool colours: warm colours advance, cool recede; painting the same image once warm, once cold (student book; original target `visual-art/the-colour-wheel`) | Book 17, printed p. 119 |
+| Brazil — Folha 7 — complementary colours and the afterimage: stare at the Brazilian flag, then at white (student book; original target `visual-art/the-colour-wheel`) | Book 17, printed p. 120 |
+| Brazil — Folha 17 — additive mixing (lights sum to white) vs subtractive mixing (pigments absorb), and the complementary as the absorbed colour; painting a landscape copy in complementary colours (student book; original target `visual-art/the-colour-wheel`) | Book 17, printed p. 278 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Maldives, Mozambique, Sudan, Belarus, Iran, Brazil). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book's tertiary formula list names red + violet as magenta (ሀምራዊ); the lesson keeps the book's own formula list as printed. The Grade 7 teacher-guide colour part (printed pp. 36–41) sits inside that guide's surviving body pages and is labelled teacher-guide evidence in the table; it adds the wheel's history (Newton, 1666) and the tint/shade wording — the pupil-taught wheel itself stands on the Grade 5 student book.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, colour wheel, ቀለም, primary colours, secondary colours, tertiary colours, warm colours, cool colours, neutral colours, complementary colours, opposite colours, Nicaragua, Papua New Guinea
+Searchable tags: Maldives, Exploring Creative Arts 4, colour wheel, ቀለም, primary colours, secondary colours, tertiary colours, warm colours, cool colours, neutral colours, complementary colours, opposite colours, Nicaragua, Papua New Guinea, Brazil
