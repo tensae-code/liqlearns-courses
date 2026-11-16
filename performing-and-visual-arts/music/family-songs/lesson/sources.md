@@ -1,6 +1,6 @@
 # Sources — Family Songs
 
-countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola, Rwanda
+countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola, Rwanda, Malaysia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -47,7 +47,19 @@ countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, An
 | Rwanda — Unit 1 Lesson 2: Songs related to the family — songs honouring the family — parents who raise and care for the child, brothers and sisters — sung in groups with hand-clapping (teacher guide — evidence) | Book 14, printed p. 26 |
 
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 15:** *Pendidikan Kesenian Tahun 4 Sekolah Kebangsaan (Kurikulum Standard Sekolah Rendah, Semakan 2017)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019 (Cetakan Pertama 2019); ISBN 978-983-49-2474-8 (as printed on the copyright spread) Tahun 4 / Grade 4 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 57 scan spreads = 108 printed pages (cover/title page verified against the record title; the PDF's internal metadata title "Buku Teks Muzik Tahun 4" is a scanner artefact — the printed cover and contents are Pendidikan Kesenian) Verdict: COMPLETE. Exclusions named: Glosari Seni Visual (printed p. 104) and Glosari Seni Muzik (printed p. 106) — glossaries, inventory-only, not placed. The two term-end exhibition/performance projects (Projek Kesenian Penggal Satu, printed p. 4; Penggal Dua, printed p. 54) are placed below as appreciation/exhibition teaching, not as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 5 / Penggal Dua song "Ayahku Sayang" — a song honouring father, sung for the term project performance (student book; original target `music/family-songs`) | Book 15, printed p. 55 |
+
+**Book 16:** *Pendidikan Muzik Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-2448-92-1 Tingkatan 5 / Grade 11 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 75 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 138) — glossary, inventory-only; Penilaian pages are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 song "Lagu Ibu" — a song honouring mother, sung in ensemble (student book; original target `music/family-songs`) | Book 16, printed p. 7 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola, Malaysia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 No lyrics of any family song are transcribed; the songs are named and their messages summarised, as the placements give them. The same holds for Sub lesson 4's "ልጅነቴ" (My Childhood), added by Group G: named, sourced (ህይወት ማሞ, traditional melody) and summarised — never transcribed. The written-notes step is named and explained in words only — this lesson does not teach reading the notes themselves; that belongs to the notation lessons of Group E.
 

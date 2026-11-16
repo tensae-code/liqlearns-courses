@@ -1,6 +1,6 @@
 # Sources — Costume and Make-Up for Theatre
 
-countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Guinea, Venezuela
+countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Guinea, Venezuela, Malaysia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
@@ -36,7 +36,26 @@ countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Gui
 | Venezuela — Vestuario: costume — the clothing of the characters, answering to the epoch, the social condition and the style of the work (student book) | Book 9, printed p. 47 |
 | Venezuela — Maquillaje: stage make-up — pictorial elements applied to skin and hair to characterise a personage and correct the distortions of stage light (student book) | Book 9, printed p. 48 |
 
-**Acceptance count: taught in 4 countries (Romania, Bhutan, Serbia, Venezuela).** Ethiopia teacher-guide evidence is named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 10:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016 (Cetakan Pertama 2016); ISBN 978-983-49-1128-7 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 174) — glossary, inventory-only; Senarai Jawapan (Uji Minda) (printed p. 166) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 8 Busana — dance costume: choosing and wearing the costume (busana) proper to each Malay dance (student book; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 10, printed p. 101 |
+| Malaysia — Unit 9 Tatarias — stage make-up (tatarias) for dancers: materials and application for performance (student book; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 10, printed p. 113 |
+
+**Book 11:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN not legible on the cover barcode render (printed ISBN 978-983-49-… series; recorded as "no ISBN verified") Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 131 (cover verified against the record title; the text layer is rotated/garbled, so the book was read visually from rendered pages: front matter, learning standards and unit pages) Verdict: COMPLETE (structure and every unit's teaching read from the printed learning standards and unit pages). Exclusions named: the Latih Minda / Anjakan Minda question sets in each unit are assessment-only and not placed; no glossary is printed as a separate section. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 6 Kostum dan Tatarias — scenography: producing a scenography portfolio from a script, covering costume designed from the character and make-up (tatarias) basics (student book; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 11, printed p. x (standards 3.1) |
+
+**Book 12:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 2* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1661-9 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 194 (title/copyright pages verified against the record title; the PDF's first page is the Rukun Negara page, the printed title pages follow) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 180) — glossary, inventory-only; Senarai Jawapan (Uji Minda) (printed p. 174) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 6 Sinografi Tari — costume and make-up as part of dance scenography for the ethnic dances studied (student book; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 12, printed pp. 118–141 |
+
+**Acceptance count: taught in 5 countries (Romania, Bhutan, Serbia, Venezuela, Malaysia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on the Grade 5 teacher guide (printed pp. 48–61, §2.3) as labelled evidence — the guide's longest theatre section, on the practical craft of stage appearance.
 

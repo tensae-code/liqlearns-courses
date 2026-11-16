@@ -1,6 +1,6 @@
 # Sources — Intervals
 
-countries: Albania, Malta, Papua New Guinea, Jordan, Sri Lanka
+countries: Albania, Malta, Papua New Guinea, Jordan, Sri Lanka, Malaysia
 
 **Book 1:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -19,7 +19,19 @@ countries: Albania, Malta, Papua New Guinea, Jordan, Sri Lanka
 
 | Papua New Guinea — Units 11.1 and 12.1, Ear Training 1 and 2 — intervals from unison to the octave (2nd, 3rd, 4th, 5th, 6th, 7th, 8ve): defining, naming, singing, performing and transcribing intervals, and composing and arranging pieces using intervals, inside a two-year ear-training course of rhythm and melody studies (teacher guide — evidence; original target `music/intervals-and-ear-training`) | Book 3, printed pp. 26, 33 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Albania teacher-guide evidence only, named here, counted nowhere.** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 6:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN 978-983-46-1725-7 (from the cover barcode) Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 4–6 — intervals from the tonic (major 2nd, major 3rd, perfect 4th, perfect 5th) in C, G, D and F major, and building and playing tonic triads (student book; original target `music/intervals-and-tonic-triads`) | Book 6, printed pp. 58–62, 76–80, 92–96 |
+
+**Book 7:** *Seni Muzik 2 — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1659-6 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 3–4 — intervals (jeda) written and recognised in the scales studied (filed under the Book 4 lesson slug music/intervals-and-tonic-triads) (student book; original target `music/intervals-and-tonic-triads`) | Book 7, printed pp. 45, 52 |
+
+**Acceptance count: taught in 1 country (Malaysia). Earlier stock stands on Albania teacher-guide evidence only, named here, counted nowhere.** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/intervals`). Albania's own way: the Grade 7 Kodály-based course teaches intervals inside its scales-and-accidentals work — distances named by counting from the first sound, then built, sung and played, on voice, keyboard and fyell.
 

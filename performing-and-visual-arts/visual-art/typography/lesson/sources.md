@@ -1,6 +1,6 @@
 # Sources — Typography
 
-countries: Rwanda
+countries: Rwanda, Malaysia
 
 **Book 1:** *Creative Arts for Rwanda Primary Schools — Work Book 4* (student book, English) — Rwanda, Rwanda Education Board (REB), 2019, no ISBN printed, Grade Primary 4 (student/teacher: STUDENT), 112 PDF pp. Verdict: COMPLETE. Tally: 34 placements — 22 to existing lessons, 12 NEW LESSON NEEDED. Rwanda's own way: a pupil's workbook in two parts — Music, Dance and Drama (singing in traditional rhythms; the umuduri musical bow; icyivugo self-praise poetry) and Fine Arts and Crafts (drawing, motifs and stencil design, calligraphy and posters, clay, waste-material collage, embroidery). Songs and poems placed by theme and purpose only, never by lyrics or poem text. Excluded (standing): glossaries at the ends of Fine Arts Units 2 and 4 — inventory-only, named here, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/rwanda-placements.md.
 
@@ -27,7 +27,13 @@ countries: Rwanda
 | Rwanda — Unit 3, Lesson 2: The different letter styles and patterns (teacher-guide evidence) — serif letters (with small tails; upper-case O and lower-case c, e and o carry none) and sans-serif letters in italics and other fonts — including using a computer in pairs to examine serifs, sans serifs, italics and other fonts, the guide's design-technology step (teacher guide — evidence; original target `visual-art/letter-styles-in-design`) | Book 4, printed p. 47 |
 
 
-**Acceptance count: taught in 1 country (Rwanda).** Rwanda's teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above.
+**Book 5:** *Pendidikan Seni Visual Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018 (Cetakan Pertama 2018); ISBN 978-967-388-406-3 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 88 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 149) — glossary, inventory-only; Uji Minda and Latihan Sumatif in every topic are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 10 Seni Reka Grafik (Tipografi) — typography: definition, applications, kinds and classification of type, and expressive typography (student book; original target `visual-art/typography`) | Book 5, printed pp. 116–135 |
+
+**Acceptance count: taught in 2 country (Rwanda, Malaysia).** Rwanda's teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/typography`); the Rwanda placements were filed as NEW LESSON NEEDED under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2.
 

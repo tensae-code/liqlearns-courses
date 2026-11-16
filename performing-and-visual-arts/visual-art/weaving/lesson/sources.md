@@ -1,6 +1,6 @@
 # Sources — Weaving
 
-countries: Barbados, Trinidad and Tobago, Finland, Mozambique, Fiji, Sudan, Iran, Jordan, Sri Lanka, Saudi Arabia, Angola, Rwanda
+countries: Barbados, Trinidad and Tobago, Finland, Mozambique, Fiji, Sudan, Iran, Jordan, Sri Lanka, Saudi Arabia, Angola, Rwanda, Malaysia
 
 **Book 1:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -124,7 +124,19 @@ countries: Barbados, Trinidad and Tobago, Finland, Mozambique, Fiji, Sudan, Iran
 | Rwanda — Unit 4 Lesson 2: Weaving different artworks using various materials — weaving varied artworks from the full range of local materials and tools (teacher guide — evidence; original target `visual-art/weaving-with-local-fibres`) | Book 23, printed p. 40 |
 
 
-**Acceptance count: taught in 8 countries (Mozambique, Fiji, Sudan, Iran, Jordan, Sri Lanka, Saudi Arabia, Angola).** Barbados is named in this lesson on curriculum guide evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher-training report and teacher project material — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 24:** *Pendidikan Seni Visual Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018 (Cetakan Pertama 2018); ISBN 978-967-388-406-3 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 88 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 149) — glossary, inventory-only; Uji Minda and Latihan Sumatif in every topic are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 9 Seni Anyaman — anyaman, Malaysian weaving: plaiting palm, rattan and bamboo into patterned mats and baskets (student book; original target `visual-art/anyaman-weaving`) | Book 24, printed pp. 104–114 |
+
+**Book 25:** *Seni Visual Tingkatan 1 — Sekolah Seni Malaysia (SSeM)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN 978-983-49-1132-4 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 219 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 209) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 5 Kraf Tradisional: Anyaman — anyaman weaving applied as traditional craft, with creative expression in craft (filed under the Book 15 lesson slug visual-art/anyaman-weaving) (student book; original target `visual-art/anyaman-weaving`) | Book 25, printed pp. 187, 200 |
+
+**Acceptance count: taught in 9 countries (Mozambique, Fiji, Sudan, Iran, Jordan, Sri Lanka, Saudi Arabia, Angola, Malaysia).** Barbados is named in this lesson on curriculum guide evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher-training report and teacher project material — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/weaving`); the Barbados placements were filed under the original string `visual-art/weaving-baskets-and-textiles`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: weaving grows from the island's natural materials into complex, mixed-media work — objects made to be both decorative and useful. (In this lesson's sources, Book 1 is the Barbados Visual Arts Curriculum Guide.)
 

@@ -1,6 +1,6 @@
 # Sources — Careers and Business in the Arts
 
-countries: Haiti, Cuba, Bolivia
+countries: Haiti, Cuba, Bolivia, Malaysia
 
 **Book 1:** *EEA — Programme du 3e cycle (7e à 9e AF) — Éducation Esthétique et Artistique (EEA)* (teacher programme, French) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Direction Enseignement Fondamental (DEF), 2024 (« version définitive, 28 juillet 2024 » per the record; cover marked Tous Droits Réservés 2024–2025), no ISBN printed, Grades 7e à 9e AF combined, French, 63 PDF pp (3,278,166 bytes, matching the record's size_bytes). TEACHER — teacher programme. Verdict: COMPLETE — read in place in staging (cover verified against the record title — EEA programme cover, 3e cycle 7e à 9e AF). The common part for all subjects (PDF pp. 1–22) is out of scope and was not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
 
@@ -22,7 +22,25 @@ countries: Haiti, Cuba, Bolivia
 |---|---|
 | Bolivia — Where Bolivia trains its musicians today — the Conservatorio Plurinacional de Música (classical and modern branches), the Escuela Nacional de Música "Luis Felipe Arce" and the Escuela Nacional del Folclore "Mauro Núñez" in La Paz; the Instituto "Jaime Laredo" and the Academia "Man Césped" in Cochabamba; the Instituto de Formación Musical "María Luisa Luzio" in Oruro; the Escuela de Música "Edelmira Limpias Vda. de Lambert" in the Beni; and the Instituto de Educación Musical "Mario Estensoro" in Tarija (teacher compendium — evidence; original target `culture-and-values/careers-in-the-arts`) | Book 4, PDF p. 30 |
 
-**Acceptance count: taught in 2 countries (Cuba, Bolivia). Earlier evidence-only entries stay outside the acceptance count.** Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
+**Book 5:** *Seni Visual — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1665-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 184) — glossary, inventory-only; Jawapan (printed p. 182) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 3–4 Seni dalam Kehidupan — art in life: intellectual property (harta intelek) for craft works, communication and promotion, and business ethics (etika perniagaan, barakah) for the artist (student book; original target `culture-and-values/art-in-business-life`) | Book 5, printed pp. 149, 150, 174, 177 |
+
+**Book 6:** *Pendidikan Seni Visual Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018 (Cetakan Pertama 2018); ISBN 978-967-388-406-3 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 88 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 149) — glossary, inventory-only; Uji Minda and Latihan Sumatif in every topic are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Info Kerjaya strand in every topic — the career pages: the working lives each art discipline opens (designer, painter, sculptor, craft artist, photographer) (student book; original target `culture-and-values/art-careers-of-malaysia`) | Book 6, printed pp. 17, 28, 40, 51, 64, 76, 87, 102, 134, 147 |
+
+**Book 7:** *Seni Visual — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2089-0 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 196 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Jawapan (printed p. 182) — answer key, not placed; the Latihan sets are exercises, not placed; no separate glossary section is listed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 1–2 Asas Pengurusan Seni dan Asas Keusahawanan — the basics of art management and of entrepreneurship for the artist/designer (student book; original target `culture-and-values/art-management-and-entrepreneurship`) | Book 7, printed pp. 33, 102 |
+
+**Acceptance count: taught in 3 countries (Cuba, Bolivia, Malaysia). Earlier evidence-only entries stay outside the acceptance count.** Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `culture-and-values/careers-and-business-in-the-arts`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 

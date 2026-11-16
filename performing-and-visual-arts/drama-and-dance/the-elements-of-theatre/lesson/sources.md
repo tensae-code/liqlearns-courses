@@ -1,6 +1,6 @@
 # Sources — The Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Cuba, Venezuela
+countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Cuba, Venezuela, Malaysia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -76,7 +76,13 @@ countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papu
 | Morocco — Appendix: "The Stage" (خشبة المسرح) — the kinds of stage — the open stage (nothing separates actors from audience), the flexible stage (places of performance and audience can change), the circular stage (audience on all four sides, a low stage, actors entering through the audience) and the frontal stage (the commonest — audience in front, the play seen from the front only); and the division of the stage into named zones — nine zones the most used (some divide it into 16 or 32), with the nine-zone plan (teacher guide — evidence; original target `drama-and-dance/kinds-of-stage`) | Book 17, printed p. 137 |
 | Venezuela — Teatralidad: theatricality — what is specifically theatrical in a text and a performance, and the natural human capacity to dramatise everyday situations (student book) | Book 21, printed p. 40 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Honduras, Iran, Brazil, Jordan, Cuba, Venezuela). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 22:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN not legible on the cover barcode render (printed ISBN 978-983-49-… series; recorded as "no ISBN verified") Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 131 (cover verified against the record title; the text layer is rotated/garbled, so the book was read visually from rendered pages: front matter, learning standards and unit pages) Verdict: COMPLETE (structure and every unit's teaching read from the printed learning standards and unit pages). Exclusions named: the Latih Minda / Anjakan Minda question sets in each unit are assessment-only and not placed; no glossary is printed as a separate section. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 Asas Lakon — the elements of theatre inside acting: actor, space, message, script, audience and the combination of art forms (student book; original target `drama-and-dance/the-elements-of-theatre`) | Book 22, printed p. x (learning standards 1.1.1 iv) |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Egypt, Honduras, Iran, Brazil, Jordan, Cuba, Venezuela, Malaysia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 5 book's plot example is taught as the book gives it — a soldier wounded by enemy fire, his wife dying of grief, the story told by flashback — summarised, never reprinted. The teacher-guide parts (shot sizes move to the Video lesson; the Grade 6 guide's theatre-elements and genres part) are evidence and are labelled so.
 

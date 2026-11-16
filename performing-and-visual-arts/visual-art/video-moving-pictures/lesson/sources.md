@@ -1,6 +1,6 @@
 # Sources — Video: Moving Pictures
 
-countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba, Venezuela
+countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -37,7 +37,13 @@ countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba, Venezuela
 | Venezuela — El videoarte: video art — an alternative to television and cinema using their own recording means to different ends; video as an expressive resource, and the videoclip joining sound with moving image (student book) | Book 12, printed p. 108 |
 | Venezuela — Presencia de la fotografía y el video: photography and video in contemporary Venezuelan art — at once medium and art in the museum, and the record that preserves an artistic proposal after the event (student book) | Book 13, printed p. 229 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Finland, Brazil, Bulgaria, Cuba, Venezuela). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Book 14:** *Seni Visual — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1665-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 184) — glossary, inventory-only; Jawapan (printed p. 182) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 1 Fotografi Kreatif, Pengiklanan, Kewartawanan — creative photography, advertising photography and photojournalism as working kinds (student book; original target `visual-art/video-moving-pictures`) | Book 14, printed pp. 30–33 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 5 book's tempo table oddity (Allegretto above Allegro) belongs to the music lesson and is not used here. The Grade 8 teacher-guide parts are inside that guide's surviving body pages (printed pp. 4–6) and are labelled evidence. Creative photography's techniques are taught as the Grade 7 guide names them; 'painting onto a printed photo' and double exposure are described, not faked — the lesson's picture is a drawn teaching board, not a photograph claiming those effects.
 

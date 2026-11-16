@@ -1,6 +1,6 @@
 # Sources — Notes and Rests
 
-countries: Ethiopia, Barbados, Albania, Trinidad and Tobago, Haiti, Malta, Turkmenistan, Belarus, Papua New Guinea, Brazil, Morocco, Bulgaria, Libya, Cuba, Angola, Mongolia, Bolivia
+countries: Ethiopia, Barbados, Albania, Trinidad and Tobago, Haiti, Malta, Turkmenistan, Belarus, Papua New Guinea, Brazil, Morocco, Bulgaria, Libya, Cuba, Angola, Mongolia, Bolivia, Malaysia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -130,7 +130,49 @@ countries: Ethiopia, Barbados, Albania, Trinidad and Tobago, Haiti, Malta, Turkm
 |---|---|
 | Bolivia — The triplet — the tresillo: three eighths played in the time of one quarter — an irregular figure (with the quintuplet and sextuplet) that brings ternary rhythm into a simple metre, variety and emphasis, heard in hymns and marches, and able to carry a rest like any figure (student book) | Book 35, printed pp. 27–28 |
 
-**Acceptance count: taught in 9 countries(Ethiopia, Turkmenistan, Belarus, Brazil, Bulgaria, Cuba, Angola, Mongolia, Bolivia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 36:** *Pendidikan Kesenian Tahun 4 Sekolah Kebangsaan (Kurikulum Standard Sekolah Rendah, Semakan 2017)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019 (Cetakan Pertama 2019); ISBN 978-983-49-2474-8 (as printed on the copyright spread) Tahun 4 / Grade 4 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 57 scan spreads = 108 printed pages (cover/title page verified against the record title; the PDF's internal metadata title "Buku Teks Muzik Tahun 4" is a scanner artefact — the printed cover and contents are Pendidikan Kesenian) Verdict: COMPLETE. Exclusions named: Glosari Seni Visual (printed p. 104) and Glosari Seni Muzik (printed p. 106) — glossaries, inventory-only, not placed. The two term-end exhibition/performance projects (Projek Kesenian Penggal Satu, printed p. 4; Penggal Dua, printed p. 54) are placed below as appreciation/exhibition teaching, not as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 Not Berbunyi — note values quaver, crotchet, minim, semibreve for notes G, A, B and then C' and D', with the matching rests table (student book; original target `music/notes-and-rests`) | Book 36, printed pp. 10, 20 |
+
+**Book 37:** *Pendidikan Muzik Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016 (Cetakan Pertama 2016); ISBN 978-967-0520-70-4 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 123 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the end-of-unit Penilaian (assessment) pages are assessment-only and not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 1–6 Notasi Muzik — reading and writing semibreve, minim and crotchet notes and rests, in metres 2/4 and 4/4, clapped and written (student book; original target `music/notes-and-rests`) | Book 37, printed pp. 13, 21 |
+
+**Book 38:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN 978-983-46-1725-7 (from the cover barcode) Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 Teori Muzik — semibreve, minim, crotchet, quaver and semiquaver notes and rests in common metres, read and written on treble and bass staves to one ledger line (student book; original target `music/notes-and-rests`) | Book 38, printed pp. 8–12 |
+
+**Book 39:** *Pendidikan Muzik Tingkatan 2 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-0520-93-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 124 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: end-of-unit assessment pages are not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Membaca dan Menulis Notasi Muzik strand — conventional notation reading and writing, applied in singing, ensemble playing, creation and appreciation (student book; original target `music/notes-and-rests`) | Book 39, printed p. v (field description), units throughout |
+
+**Book 40:** *Seni Muzik 2 — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1659-6 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 1–2 — note values and ledger lines, bars and bar lines, musical symbols and terms read from the score (student book; original target `music/notes-and-rests`) | Book 40, printed pp. 4, 8, 27 |
+
+**Book 41:** *Pendidikan Muzik Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-2448-92-1 Tingkatan 5 / Grade 11 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 75 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 138) — glossary, inventory-only; Penilaian pages are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 3 — triplet quavers and triplet crotchets, common time and cut time, read and written (student book; original target `music/triplets-and-cut-time`) | Book 41, printed pp. 78, 82, 83 |
+
+**Book 42:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2086-9 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 173) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 1–3 Teori — ledger lines and note values, metre, bar and bar lines, chromatic signs, terminology and intervals (student book; original target `music/notes-and-rests`) | Book 42, printed pp. 4, 8, 24, 45, 56 |
+
+**Acceptance count: taught in 10 countries(Ethiopia, Turkmenistan, Belarus, Brazil, Bulgaria, Cuba, Angola, Mongolia, Bolivia, Malaysia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Notation diagrams in this lesson's pictures are drawn exactly as the placements describe the signs: whole note an open oval with no stem (4 beats), half note the open oval with a stem on its right side (2 beats), quarter note a filled head with stem (1 beat); whole rest a filled block hanging from a line (4 silent beats), half rest a filled block sitting on a line (2 silent beats), quarter rest its printed squiggle (1 silent beat). The Grade 3 book's whole-note diagram shows a dark oval head above its beat line while the Grade 2 book and the value tables teach the open oval; the lesson teaches the open oval, the form the definitions and the Grade 4 table agree on, and the Grade 3 wording is carried as the egg-shape and four-beat teaching. The Note-Values Song is placed by name and teaching content only; its words are not transcribed. No staff notation is taught in this lesson: the books' signs are learned as signs with values first, exactly as Grades 2–4 teach them.
 

@@ -1,6 +1,6 @@
 # Sources — Dance Practice and Imitation
 
-countries: Ethiopia, Canada, Trinidad and Tobago, Morocco, Jordan, Mongolia
+countries: Ethiopia, Canada, Trinidad and Tobago, Morocco, Jordan, Mongolia, Malaysia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
 
@@ -42,7 +42,13 @@ countries: Ethiopia, Canada, Trinidad and Tobago, Morocco, Jordan, Mongolia
 |---|---|
 | Mongolia — the dances: Бий биелгээ (biyelgee) p. 32, Нарны бүжиг (sun dance) p. 39, Вальс (waltz) p. 49 (student book; original target `drama-and-dance/dance-practice-and-imitation`) | Book 9, printed pp. 32, 39, 49 |
 
-**Acceptance count: taught in 3 countries(Canada, Jordan, Mongolia).** Ethiopia is teacher-guide evidence only, named here, counted nowhere. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 10:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016 (Cetakan Pertama 2016); ISBN 978-983-49-1128-7 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 174) — glossary, inventory-only; Senarai Jawapan (Uji Minda) (printed p. 166) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 6 Aplikasi Tari — applying dance: performing learned movement in full dance application (student book; original target `drama-and-dance/dance-practice-and-imitation`) | Book 10, printed p. 57 |
+
+**Acceptance count: taught in 4 countries(Canada, Jordan, Mongolia, Malaysia).** Ethiopia is teacher-guide evidence only, named here, counted nowhere. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson's original stock stands on the Grade 3 teacher guide (printed pp. 34–40, §§2.2–2.3.1) as labelled evidence. Canada's nursery student books now teach the same cluster directly: practising for weeks for a talent show, learning a move by watching and copying it, and practising a routine until both bodies move as one. The Canada stories are placed by summary only, never transcribed.
 

@@ -1,6 +1,6 @@
 # Sources — Jazz
 
-countries: Iceland, Cuba
+countries: Iceland, Cuba, Malaysia
 
 **Book 1:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -10,7 +10,13 @@ countries: Iceland, Cuba
 | Sub lesson 2 — Dixieland (teacher guide — evidence; original target `music/dixieland`) | Book 1, printed p. 35 |
 | Sub lesson 3 — Women in jazz (teacher guide — evidence; original target `music/women-in-jazz`) | Book 1, printed p. 36 |
 
-**Acceptance count: taught in 1 country (Cuba). Earlier evidence-only entries stay outside the acceptance count.**
+**Book 4:** *Pendidikan Muzik Tingkatan 2 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-0520-93-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 124 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: end-of-unit assessment pages are not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 2 Apresiasi: Muzik Jaz — jazz: its American history, its key elements, famous jazz figures, how jazz is performed (New Orleans and Chicago styles among them), and jazz in Malaysia from its pioneers to Datuk Sheila Majid, the country's jazz queen (student book; original target `music/jazz`) | Book 4, printed pp. 8–19 |
+
+**Acceptance count: taught in 2 country (Cuba, Malaysia). Earlier evidence-only entries stay outside the acceptance count.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/jazz`). The Iceland placements were filed as NEW LESSON NEEDED under the original string(s) `music/dixieland`, `music/the-birth-of-jazz-in-new-orleans`, `music/women-in-jazz`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Iceland's own way, carried in the placements: a listening journey through the whole history of popular music — taught by listening, playing rhythm parts from notation, singing, and dancing, with Iceland's own musicians, revue songs, seamen's songs and dance bands woven through as national content. Songs are placed by their teaching topics only — no lyrics or notation are transcribed.
 

@@ -1,6 +1,6 @@
 # Sources — Scales, Pitch and Key Signatures
 
-countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New Guinea, Bulgaria, Jordan, Sri Lanka, Libya, Cuba, Mongolia, Bolivia
+countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New Guinea, Bulgaria, Jordan, Sri Lanka, Libya, Cuba, Mongolia, Bolivia, Malaysia
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -94,7 +94,43 @@ countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New G
 | Bolivia — The double alterations — the alterations simple and double: the sharp raises a semitone, the double sharp two; the flat lowers a semitone, the double flat two; the natural cancels both; and the key signature's fixed orders — sharps: Fa, Do, Sol, Re, La, Mi, Si; flats: Si, Mi, La, Re, Do, Sol — written after the clef to show which notes are altered through the whole work (teacher compendium — evidence) | Book 25, PDF p. 80 |
 | Bolivia — Interval quality, and the triads of the scale — intervals by quality in five kinds: major and minor (formed on 2nds, 3rds, 6ths and 7ths), perfect or just (unison, 4ths, 5ths and 8ves), augmented and diminished; and a triad built on every degree of the diatonic scale, the triads taking their degree's name: tonic, supertonic, mediant, subdominant, dominant, submediant and leading note (sensible) (teacher compendium — evidence) | Book 25, PDF pp. 96–97 |
 
-**Acceptance count: taught in 8 countries(Ethiopia, Fiji, Belarus, Bulgaria, Jordan, Cuba, Mongolia, Bolivia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
+**Book 26:** *Pendidikan Muzik Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016 (Cetakan Pertama 2016); ISBN 978-967-0520-70-4 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 123 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the end-of-unit Penilaian (assessment) pages are assessment-only and not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 4–6 — writing scales on the staff: C major ascending/descending with semitone marks, and the A harmonic minor scale in correct note positions (student book; original target `music/scales-pitch-and-key-signatures`) | Book 26, printed pp. 72, 85, 103 |
+
+**Book 27:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN 978-983-46-1725-7 (from the cover barcode) Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 3–6 — tones and semitones, key signatures, technical names of scale degrees, and writing the C, G, D and F major scales in treble and bass clefs (student book; original target `music/scales-pitch-and-key-signatures`) | Book 27, printed pp. 37–46, 87–96 |
+
+**Book 28:** *Pendidikan Muzik Tingkatan 2 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-0520-93-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 124 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: end-of-unit assessment pages are not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 4 — relative major and minor: the A minor scale as relative of C major, sharing the same key signature (student book; original target `music/scales-pitch-and-key-signatures`) | Book 28, printed p. 66 |
+
+**Book 29:** *Seni Muzik 2 — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1659-6 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 2–5 — major scales, minor scales, melodic minor, technical names of degrees, and tonic triads in major and minor scales (student book; original target `music/scales-pitch-and-key-signatures`) | Book 29, printed pp. 24, 32, 41, 61, 67, 85 |
+
+**Book 30:** *Pendidikan Muzik Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-2212-04-1 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 71 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the Penilaian pages closing each unit are assessment, not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units Inspirasi/Idolaku — the F major scale, the D harmonic minor scale and the pentatonic scale, read, written and played (student book; original target `music/scales-pitch-and-key-signatures`) | Book 30, printed pp. 55, 72, 74 |
+
+**Book 31:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2086-9 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 173) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 2–5 — scales in depth: major scales, harmonic minor and melodic minor, and comparing harmonic against melodic minor (student book; original target `music/scales-pitch-and-key-signatures`) | Book 31, printed pp. 26, 35, 42, 88 |
+
+**Acceptance count: taught in 9 countries(Ethiopia, Fiji, Belarus, Bulgaria, Jordan, Cuba, Mongolia, Bolivia, Malaysia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 6 book's key-signature exercise prints "E♭" in Amharic beside "(E Major scale)" in English — a printing tangle the placements record; the lesson teaches the D, E, A-flat exercise set as the placements resolve it and does not present the tangled line as a fact. The Grade 6 teacher-guide parts are evidence and are labelled so; the pupil-taught scale work stands on the Grade 6 student book.
 

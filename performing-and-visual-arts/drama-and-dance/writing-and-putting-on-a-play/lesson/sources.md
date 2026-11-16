@@ -1,6 +1,6 @@
 # Sources — Writing and Putting On a Play
 
-countries: Ethiopia, Egypt, Guatemala, Trinidad and Tobago, Suriname, Iran, Papua New Guinea, Brazil, Morocco, Jordan
+countries: Ethiopia, Egypt, Guatemala, Trinidad and Tobago, Suriname, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Malaysia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -72,7 +72,25 @@ countries: Ethiopia, Egypt, Guatemala, Trinidad and Tobago, Suriname, Iran, Papu
 | Morocco — background note on stage directions (الإشارات الركحية) — stage directions as a play's parallel text — presenting the characters, fixing place and time, guiding the actors' movements, psychological states and tone of voice, and guiding the director through the description of the set (teacher guide — evidence; original target `drama-and-dance/writing-and-putting-on-a-play`) | Book 16, printed p. 98 |
 | Morocco — Appendix: "Stage Directions in the Theatrical Text" (الإشارات الركحية) — stage directions as a text running beside the dialogue, and their jobs — presenting the characters (Juha, the heritage character of wit and comedy), presenting the time and place, guiding the actors (movements on stage, states of mind and facial features, tone of voice) and guiding the director (describing the set) (teacher guide — evidence; original target `drama-and-dance/stage-directions`) | Book 17, printed p. 136 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Iran, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 19:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN not legible on the cover barcode render (printed ISBN 978-983-49-… series; recorded as "no ISBN verified") Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 131 (cover verified against the record title; the text layer is rotated/garbled, so the book was read visually from rendered pages: front matter, learning standards and unit pages) Verdict: COMPLETE (structure and every unit's teaching read from the printed learning standards and unit pages). Exclusions named: the Latih Minda / Anjakan Minda question sets in each unit are assessment-only and not placed; no glossary is printed as a separate section. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 5 Cerita Pendek — script writing: writing a short story for the stage with a story idea, story construction (beginning, middle, end) and writing technique — plot, narrative form and language style — combining action and dialogue with stage directions (student book; original target `drama-and-dance/writing-and-putting-on-a-play`) | Book 19, printed p. x (standards 2.1) |
+
+**Book 20:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 2* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1663-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 146 (title/copyright pages verified against the record title; the PDF's first page is the Rukun Negara page) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 130) — glossary, inventory-only; Uji Minda sets are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 2.1 Penghasilan Skrip — producing a one-scene stage play script: idea, storytelling and imitating dialogue, rewriting a heard story, and the script's written format (student book; original target `drama-and-dance/writing-and-putting-on-a-play`) | Book 20, printed pp. 68–78 |
+
+**Book 21:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2088-3 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 140 (title/copyright pages verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 133) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 2.1 Penghasilan Skrip — script production: producing the script, reworking a story (mengolah semula cerita), and the sebabak (scene) drama (student book; original target `drama-and-dance/writing-and-putting-on-a-play`) | Book 21, printed pp. 68–85 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Iran, Brazil, Malaysia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The model play 'ሰላም' (Peace) in the Grade 8 student book is placed by its role — the rehearsal ladder's worked example from a local history — and is not transcribed. Screenwriting's worked examples use the book's own Ethiopian character names (Biruk, Tewodros) as the placements give them. The Grade 10 guide's harmonising example (the 'Feliz Navidad' composition) belongs to the music strand and is not used here.
 

@@ -1,6 +1,6 @@
 # Sources — Illustration
 
-countries: Haiti, Iran, Mongolia
+countries: Haiti, Iran, Mongolia, Malaysia
 
 **Book 1:** *Arts Visuels — EEA (Éducation esthétique et artistique) Séquence 1 — « Le point et la ligne comme moyen d'expression artistique » (Géraldine Colin, Arts Plastiques, juillet 2021)* (teacher guide, French) — Haiti, Projet Nectar, MENFP, 2021, no ISBN printed, Grade 7e année AF, French, 21 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (first page verified against the record title — sequence title, discipline Arts Visuels, niveau 7e AF, durée 8 heures). Exclusions per the placements: Séance 8 (Évaluation finale) is an assessment séance — named, not placed; the verbalisation/lexique fiches are glossary-type apparatus — named, not stocked. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -29,7 +29,13 @@ countries: Haiti, Iran, Mongolia
 |---|---|
 | Mongolia — Part I: Уншсан зүйлийнхээ агуулгыг зургаар илэрхийлэх (Expressing what I read in a drawing) — two poems by J. Dashdondog turned into pictures: "Цэнхэр салхи" (The blue wind), drawn swirling in watercolour, and "Үхэр тэрэг" (The ox cart), drawn by seven-year-old J. Tsolmonbaatar; then my own reading drawn from my own thoughts (poems named only, no verse placed) (student book; original target `visual-art/drawing-a-poem-or-story`) | Book 5, printed pp. 29–30 |
 
-**Acceptance count: taught in 2 countries(Iran, Mongolia).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 6:** *Pendidikan Seni Visual Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Penerbit Bestari Sdn. Bhd.; year 2019; ISBN 978-983-092-445-8 Tingkatan 4 / Grade 10 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 228 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 216) — glossary, inventory-only; Latihan Formatif/Pengukuhan are exercises, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 8 Seni Reka Grafik (Ilustrasi) — illustration: definition, kinds of illustration, media and techniques, and generating pictured ideas (student book; original target `visual-art/illustration`) | Book 6, printed pp. 172–192 |
+
+**Acceptance count: taught in 3 countries(Iran, Mongolia, Malaysia).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/illustration`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 

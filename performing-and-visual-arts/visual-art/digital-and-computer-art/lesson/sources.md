@@ -1,6 +1,6 @@
 # Sources — Digital and Computer Art
 
-countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba, Venezuela, Afghanistan, Bolivia
+countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba, Venezuela, Afghanistan, Bolivia, Malaysia
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -74,7 +74,25 @@ countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba
 |---|---|
 | Bolivia — The architectural software family — the TIC for architectural design named as a set: AutoCAD, Autodesk Revit, 3DS Max, ArchiCAD and SketchUp — drawing, modelling, animation and rendering software in 2D and 3D for visualising designs (teacher compendium — evidence; original target `visual-art/digital-drawing`) | Book 17, PDF p. 113 |
 
-**Acceptance count: taught in 9 countries (Maldives, Turkmenistan, Sudan, Brazil, Bulgaria, Cuba, Venezuela, Afghanistan, Bolivia).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
+**Book 18:** *Seni Visual — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1665-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 184) — glossary, inventory-only; Jawapan (printed p. 182) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 1 Fotografi Digital — digital photography as creative expression (student book; original target `visual-art/digital-photography`) | Book 18, printed p. 35 |
+
+**Book 19:** *Pendidikan Seni Visual — Pendidikan Khas — Tingkatan 4 (Kurikulum Standard Sekolah Menengah Pendidikan Khas, KSSMPK)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019 (Cetakan Pertama 2019); ISBN 978-967-2212-54-6 Tingkatan 4 / Grade 10 (student/teacher: STUDENT) (student/teacher: STUDENT). Audience: this is the special-education (Pendidikan Khas) edition, written for Murid Berkeperluan Khas (learners with special needs); it is placed like any other book, with its project-based, media-experimentation approach noted. PDF pages: 75 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 136) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Modul 4 Unit 1 Lukisan Berbantu Komputer (Grafik) — computer-aided drawing (graphics) as visual communication (student book; original target `visual-art/computer-aided-drawing`) | Book 19, printed pp. 70–81 |
+
+**Book 20:** *Pendidikan Seni Visual Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Pustaka Sarjana Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-5332-41-8 Tingkatan 5 / Grade 11 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 228 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: no glossary section is listed in the contents; Latihan Formatif/Pengukuhan are exercises, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 8 Seni Foto — image manipulation (basic techniques and their variety) and the portfolio/e-portfolio: definitions and e-portfolio applications (student book; original target `visual-art/image-manipulation-and-e-portfolio`) | Book 20, printed pp. 194–215 |
+
+**Acceptance count: taught in 10 countries (Maldives, Turkmenistan, Sudan, Brazil, Bulgaria, Cuba, Venezuela, Afghanistan, Bolivia, Malaysia).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/digital-and-computer-art`); the two Maldives placements were filed under the original strings `visual-art/posterisation` and `visual-art/the-digital-image`, recorded in the provenance rows above.
 

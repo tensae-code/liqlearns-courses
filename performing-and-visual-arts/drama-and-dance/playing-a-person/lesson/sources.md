@@ -1,6 +1,6 @@
 # Sources — Playing a Person
 
-countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Venezuela
+countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Venezuela, Malaysia
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -59,7 +59,25 @@ countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guine
 | Venezuela — Personaje teatral: the theatrical character — born from the text, guided by the direction and developed by the actor's creativity, with physical, psychological and social characteristics (student book) | Book 15, printed p. 41 |
 | Venezuela — Actor y actriz: the actor and actress — the person who interprets the theatrical events on stage, and dramatised readings as the first way into a text (student book) | Book 15, printed p. 42 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Romania, Colombia, Brazil, Jordan, Venezuela).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 16:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN not legible on the cover barcode render (printed ISBN 978-983-49-… series; recorded as "no ISBN verified") Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 131 (cover verified against the record title; the text layer is rotated/garbled, so the book was read visually from rendered pages: front matter, learning standards and unit pages) Verdict: COMPLETE (structure and every unit's teaching read from the printed learning standards and unit pages). Exclusions named: the Latih Minda / Anjakan Minda question sets in each unit are assessment-only and not placed; no glossary is printed as a separate section. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 Asas Lakon — building a character from the basic acting skills: physical, vocal, mental and emotional work (student book; original target `drama-and-dance/playing-a-person`) | Book 16, printed pp. 1–16 (standards printed p. x) |
+
+**Book 17:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 2* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1663-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 146 (title/copyright pages verified against the record title; the PDF's first page is the Rukun Negara page) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 130) — glossary, inventory-only; Uji Minda sets are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1.1 Watak dan Perwatakan — character and characterisation: gathering character information and building the character (student book; original target `drama-and-dance/playing-a-person`) | Book 17, printed pp. 2–17 |
+
+**Book 18:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2088-3 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 140 (title/copyright pages verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 133) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1.3 Lakonan Watak — the character-acting process: the process of building a character step by step (student book; original target `drama-and-dance/playing-a-person`) | Book 18, printed pp. 30–43 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Romania, Colombia, Brazil, Jordan, Venezuela, Malaysia).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Book error, taught corrected: the Grade 2 book mislabels the artist's activity as ተግባር 2.3.1 (a publisher numbering error, flagged in the placement); the lesson follows the roles' printed order (§§2.3–2.3.6), not the faulty activity number. The teacher's praise song ንኢር መምህሬ (Nur Mehire) shares §2.3.4 with the teacher role; the song itself is stocked in the Music lessons and is named here only, not taught as a song.
 

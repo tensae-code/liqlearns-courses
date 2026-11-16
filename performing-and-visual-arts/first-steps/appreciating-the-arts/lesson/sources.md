@@ -1,6 +1,6 @@
 # Sources — Appreciating the Arts
 
-countries: Ethiopia, Cyprus, Jamaica, Andorra, Guatemala, Canada, Barbados, Singapore, Trinidad and Tobago, Serbia, Malta, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria, Jordan, Cuba, Mongolia, Bolivia
+countries: Ethiopia, Cyprus, Jamaica, Andorra, Guatemala, Canada, Barbados, Singapore, Trinidad and Tobago, Serbia, Malta, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria, Jordan, Cuba, Mongolia, Bolivia, Malaysia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -135,7 +135,49 @@ countries: Ethiopia, Cyprus, Jamaica, Andorra, Guatemala, Canada, Barbados, Sing
 |---|---|
 | Bolivia — The museums of Bolivia — what museums are for (preserving cultural and natural heritage, education, identity, tourism) and the country's own: the Casa de la Moneda in Potosí, among South America's best, with the colonial Potosí school's paintings; the Museo Nacional de Etnografía y Folklore (MUSEF) in La Paz, in a baroque-mestizo building, with the crafts of Bolivia's indigenous cultures; the Museo de Arte Contemporáneo Plaza; and the Museo de Arte Indígena ASUR in Sucre, with the Jalq'a and Tarabuco textiles shown in their whole process (student book; original target `visual-art/art-in-museums-and-galleries`) | Book 41, printed pp. 34–38 |
 
-**Acceptance count: taught in 16 countries(Ethiopia, Canada, Serbia, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria, Jordan, Cuba, Mongolia, Bolivia).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 16) is evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 42:** *Pendidikan Muzik Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016 (Cetakan Pertama 2016); ISBN 978-967-0520-70-4 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 123 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the end-of-unit Penilaian (assessment) pages are assessment-only and not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 1–6 Apresiasi Muzik strand — reviewing heard/watched Malaysian traditional music under five heads: genre, instruments, function, manner of performance and background (student book; original target `first-steps/appreciating-the-arts`) | Book 42, printed pp. 14, 30, 48, 66, 84, 102 |
+
+**Book 43:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN 978-983-46-1725-7 (from the cover barcode) Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 1–7 — the musician's ethics strand: a performer's conduct before, during and after a performance, and the values and discipline of the singer/musician (student book; original target `first-steps/appreciating-the-arts`) | Book 43, printed pp. 2, 56 |
+
+**Book 44:** *Pendidikan Muzik Tingkatan 2 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-0520-93-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 124 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: end-of-unit assessment pages are not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Apresiasi Muzik strand — active listening to music of many cultures and critical review of each genre heard or watched (student book; original target `first-steps/appreciating-the-arts`) | Book 44, printed p. v (field description), units throughout |
+
+**Book 45:** *Pendidikan Muzik Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-2212-04-1 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 71 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the Penilaian pages closing each unit are assessment, not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Apresiasi Muzik strand — analysing and appreciating the three ensembles studied (Chinese orchestra, big gong, Indian classical) (student book; original target `first-steps/appreciating-the-arts`) | Book 45, printed pp. 13, 52, 90 |
+
+**Book 46:** *Pendidikan Muzik Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-2212-51-5 Tingkatan 4 / Grade 10 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 79 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the Penilaian pages closing each unit are assessment, not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Apresiasi Muzik strand across units — appreciating the musics studied, from Pi Phat to kulintang, by genre, instruments, function and performance (student book; original target `first-steps/appreciating-the-arts`) | Book 46, printed pp. 56, 113 |
+
+**Book 47:** *Pendidikan Muzik Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-2448-92-1 Tingkatan 5 / Grade 11 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 75 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 138) — glossary, inventory-only; Penilaian pages are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 5 — critical appreciation: valuing, judging and reviewing music heard, across cultures (student book; original target `first-steps/appreciating-the-arts`) | Book 47, printed pp. 122–137 |
+
+**Book 48:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2086-9 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 173) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 5–6 — the singer's ethics and performance ethics strands (student book; original target `first-steps/appreciating-the-arts`) | Book 48, printed pp. 82, 105 |
+
+**Acceptance count: taught in 17 countries(Ethiopia, Canada, Serbia, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria, Jordan, Cuba, Mongolia, Bolivia, Malaysia).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 16) is evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Sof Omar and Tis Abay Falls photographs are also the stock of the Photographs lesson in the Visual Art title; per the course structure map, their Grade 3 review placement is stocked here as appreciation content — the activity the book itself sets ('say which of the photographs pleased you'). The two definitions of appreciation (Grade 3's visiting-and-looking, Grade 2's expressing-by-doing) are both taught, as the books state them; they complete each other and neither is silently preferred.
 

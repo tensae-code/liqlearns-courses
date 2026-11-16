@@ -1,6 +1,6 @@
 # Sources — Our Community's Values
 
-countries: Ethiopia, Guatemala, Nicaragua, Fiji, Libya
+countries: Ethiopia, Guatemala, Nicaragua, Fiji, Libya, Malaysia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
@@ -26,7 +26,25 @@ countries: Ethiopia, Guatemala, Nicaragua, Fiji, Libya
 | Fiji — Sub-Strand 4 A Performance of Moral Values — what a moral value is (principles for choosing right from wrong; friendship, loyalty, generosity, forgiveness, kindness, consideration, love, honesty build harmony in the community), and creating a group performance that expresses one chosen value — by arranging a song, choreographing a dance, or building a drama plot with musical components — planned on a performance-plan sheet and performed to others (student book) | Book 5, printed pp. 24–26 |
 | Fiji — Sub-Strand 4 Research and Perform for a Peaceful World — investigating performing-arts works whose theme is peace, in Fiji and around the world (named examples placed by title and purpose only, as filed), researching one, analysing how it communicates peace, sharing the findings, and choosing, practising and performing one work that promotes peaceful coexistence (student book) | Book 6, printed pp. 25–27 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Fiji). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 8:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN not legible on the cover barcode render (printed ISBN 978-983-49-… series; recorded as "no ISBN verified") Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 131 (cover verified against the record title; the text layer is rotated/garbled, so the book was read visually from rendered pages: front matter, learning standards and unit pages) Verdict: COMPLETE (structure and every unit's teaching read from the printed learning standards and unit pages). Exclusions named: the Latih Minda / Anjakan Minda question sets in each unit are assessment-only and not placed; no glossary is printed as a separate section. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 4 Etika dalam Lakonan — the actor's ethics: conduct before, during and after a performance, and practising noble values in theatre activity (student book; original target `culture-and-values/our-communitys-values`) | Book 8, printed p. x (standards 1.4) |
+
+**Book 9:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2088-3 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 140 (title/copyright pages verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 133) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1.5 Mengamalkan Disiplin dan Nilai Murni — practising discipline and noble values as an actor (student book; original target `culture-and-values/our-communitys-values`) | Book 9, printed p. 62 |
+
+**Book 10:** *Pendidikan Muzik Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-2212-51-5 Tingkatan 4 / Grade 10 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 79 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the Penilaian pages closing each unit are assessment, not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 6 Etika Persembahan dan Nilai Murni — performance ethics and noble values in singing performance (student book; original target `culture-and-values/our-communitys-values`) | Book 10, printed p. 104 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Fiji, Malaysia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The values list is Grade 2's own (§3.1–3.1.1, printed p. 48), including shimglina glossed as the book's placements gloss it (elder mediation/reconciliation). The Adwa story stands inside Grade 2's values chapter (its introduction, printed p. 47); the full Adwa telling belongs to the drama-and-dance lessons and is not duplicated here beyond that chapter fact. Exemplarity is Grade 3's own definition (§2.1.4, printed p. 25).
 

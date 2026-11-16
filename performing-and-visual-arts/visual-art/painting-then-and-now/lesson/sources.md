@@ -1,6 +1,6 @@
 # Sources — Painting Then and Now
 
-countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia
+countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia, Malaysia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -46,7 +46,25 @@ countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia
 |---|---|
 | Mongolia — the painting chapter: Б.Чогсом's "Хорго" analysed — warm light against cold shadow colours, deep space, the morning air — and a part of the painting copied by the pupil (student book; original target `visual-art/painting-then-and-now`; PARTIAL — grade part placed from the full chapter structure with section openings sampled, as filed) | Book 10, printed p. 25 |
 
-**Acceptance count: taught in 2 countries(Ethiopia, Mongolia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 11:** *Pendidikan Seni Visual Tingkatan 2 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Penerbit Bestari Sdn. Bhd.; year 2017; ISBN 978-983-092-442-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 148 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 136) — glossary, inventory-only; Latihan Formatif/Sumatif in every topic are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 3 Seni Catan — painting (catan): definition and the history and development of painting (student book; original target `visual-art/painting-then-and-now`) | Book 11, printed pp. 26–35 |
+
+**Book 12:** *Seni Visual — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1665-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 184) — glossary, inventory-only; Jawapan (printed p. 182) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 4 Seni Halus: Catan — painting as fine-art creative expression (student book; original target `visual-art/painting-then-and-now`) | Book 12, printed p. 167 |
+
+**Book 13:** *Seni Visual Tingkatan 1 — Sekolah Seni Malaysia (SSeM)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN 978-983-49-1132-4 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 219 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 209) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 4 Aplikasi/Ekspresi Catan — painting applied and creatively expressed (student book; original target `visual-art/painting-then-and-now`) | Book 13, printed pp. 133, 162 |
+
+**Acceptance count: taught in 3 countries(Ethiopia, Mongolia, Malaysia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: this lesson stocks only what the structure map assigns to it — the Grade 3 then-and-now comparison and the appreciating-paintings pages, with the Grade 3 teacher guide's valuing part as labelled evidence. Other painting placements in the series carry their own lesson targets in the placements files (the paint kinds, watercolour and oil, cave art, and the great painters) and are not stocked here; they are recorded as not-in-this-map in the build log. Afework Tekle is named in the lesson exactly as the Grade 3 book names him — the modern example — with no biography added beyond the placements.
 

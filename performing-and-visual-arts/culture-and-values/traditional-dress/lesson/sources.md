@@ -1,6 +1,6 @@
 # Sources — Traditional Dress
 
-countries: Ethiopia, Samoa, Venezuela
+countries: Ethiopia, Samoa, Venezuela, Malaysia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
@@ -17,7 +17,13 @@ countries: Ethiopia, Samoa, Venezuela
 | Samoa — Visual Arts, Year Four — ritual and ceremony in Samoan family, village and national life: the purpose and function of ceremonial apparel and body decoration, what they are made from and how they are valued, and planning designs for three-dimensional customary attire and adornments from found and natural materials (programme evidence) | Book 3, printed p. 91 |
 | Venezuela — Indumentaria indígena: indigenous dress and adornment with ritual meaning — showy necklaces, feather headdresses and crowns (hawk and macaw feathers for shamans), ornaments of pearls, gold, shells, bone and semiprecious stones, and today's bead necklaces (student book) | Book 4, printed p. 31 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Venezuela).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
+**Book 5:** *Pendidikan Seni Visual Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018 (Cetakan Pertama 2018); ISBN 978-967-388-406-3 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 88 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 149) — glossary, inventory-only; Uji Minda and Latihan Sumatif in every topic are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 1 Pakaian Tradisional dan Perhiasan Diri — traditional dress and personal adornment: kinds of traditional clothing and jewellery, adornment motifs, and the contribution of cultural figures (student book; original target `culture-and-values/traditional-dress`) | Book 5, printed pp. 2–18 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Venezuela, Malaysia).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The dress photographs are described from the placements, not reproduced. 'Tibeb' is used as the books and placements use it — the woven patterned border work of the white dress. The old-times materials (animal skin and hair, cotton) and the protection ruling are Grade 3's own words (printed p. 47).
 

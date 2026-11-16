@@ -1,6 +1,6 @@
 # Sources — Composing Music
 
-countries: Andorra, Singapore, Fiji, Suriname, Jordan, Cuba, Mongolia
+countries: Andorra, Singapore, Fiji, Suriname, Jordan, Cuba, Mongolia, Malaysia
 
 **Book 1:** *Programa d'educació musical de primera ensenyança de l'Escola Andorrana — Annex IV of Decret 376/2021, BOPA núm. 123, 24-11-2021* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2021, ISBN 978-99920-0-931-4, Primera ensenyança, cycles 1–3 (ages 6–12), 39 PDF pp (record; Annex IV runs at BOPA pp. 199–237 of the full 510-page BOPA issue). TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and end-of-cycle expectation tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
@@ -28,7 +28,25 @@ countries: Andorra, Singapore, Fiji, Suriname, Jordan, Cuba, Mongolia
 |---|---|
 | Mongolia — Зохион найруулъя, Exercise 3 — rhythm from Mongolia's own game bones: naming the shagai (sheep anklebones) by their four landing sides — морь (horse), тэмээ (camel), хонь (sheep), ямаа (goat) — clapping the names, tossing the bones and composing rhythms in ever-new sequences (student book; original target `music/composing-rhythms-with-shagai`) | Book 8, printed p. 35 |
 
-**Acceptance count: taught in 3 countries(Fiji, Jordan, Mongolia).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 9:** *Seni Muzik 2 — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1659-6 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 6 Penghasilan Karya Muzik — producing a complete music work of one's own, with a forum on music, culture and society (student book; original target `music/composing-a-music-work`) | Book 9, printed pp. 98, 106 |
+
+**Book 10:** *Pendidikan Muzik Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-2212-51-5 Tingkatan 4 / Grade 10 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 79 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the Penilaian pages closing each unit are assessment, not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 3–5 Penghasilan — developing ideas in composition: creating melodies, and varying a melody, from chord movement (pergerakan kord) (student book; original target `music/composing-from-chord-movement`) | Book 10, printed pp. 62, 78, 99 |
+
+**Book 11:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2086-9 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 173) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 6 Penghasilan Lagu Tema — composing a theme song, inside producing a complete music work (student book; original target `music/composing-a-theme-song`) | Book 11, printed pp. 106, 108 |
+
+**Acceptance count: taught in 4 countries(Fiji, Jordan, Mongolia, Malaysia).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/composing-music`); the Andorra placements were filed under the original strings `music/composing-from-cells-patterns-and-ostinatos` and `music/experimenting-improvising-composing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Andorra's own way, carried in the placements: primary music is built as a triangle — create, perform, analyse — and batxillerat music rests on creation and interpretation feeding each other. Both books are curriculum programme documents, so every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 

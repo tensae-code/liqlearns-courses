@@ -1,6 +1,6 @@
 # Sources — Appreciating and Valuing the Arts
 
-countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania, Romania, Singapore, Trinidad and Tobago, Haiti, Malta, Mozambique, Pakistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Morocco, Libya, Cuba, Venezuela, Angola
+countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania, Romania, Singapore, Trinidad and Tobago, Haiti, Malta, Mozambique, Pakistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Morocco, Libya, Cuba, Venezuela, Angola, Malaysia
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -147,7 +147,85 @@ countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania, Romania, Singa
 | Angola — Tema 2.2.4 Apreciação e crítica das obras pelos próprios alunos: explaining your finished basketry work to the class and hearing different points of view without feeling hurt — in the visual arts, appreciation respects each observer's interpretation; judge your own work first (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 42, printed pp. 81–82 |
 | Angola — Tema 3.2 Apreciação e crítica das obras pelos próprios alunos: the finished functional work is exhibited for evaluation — the author evaluates first, determining the object's characteristics, then classmates observe and give their opinions (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 42, printed p. 88 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Uganda, Romania, Mozambique, Pakistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Cuba, Venezuela, Angola).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 43:** *Pendidikan Kesenian Tahun 4 Sekolah Kebangsaan (Kurikulum Standard Sekolah Rendah, Semakan 2017)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019 (Cetakan Pertama 2019); ISBN 978-983-49-2474-8 (as printed on the copyright spread) Tahun 4 / Grade 4 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 57 scan spreads = 108 printed pages (cover/title page verified against the record title; the PDF's internal metadata title "Buku Teks Muzik Tahun 4" is a scanner artefact — the printed cover and contents are Pendidikan Kesenian) Verdict: COMPLETE. Exclusions named: Glosari Seni Visual (printed p. 104) and Glosari Seni Muzik (printed p. 106) — glossaries, inventory-only, not placed. The two term-end exhibition/performance projects (Projek Kesenian Penggal Satu, printed p. 4; Penggal Dua, printed p. 54) are placed below as appreciation/exhibition teaching, not as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Projek Kesenian Penggal Satu/Dua — planning, preparing and holding a class exhibition of the term's visual work with a musical performance, and appreciating each other's work (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 43, printed pp. 4, 54 |
+
+**Book 44:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016 (Cetakan Pertama 2016); ISBN 978-983-49-1128-7 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 174) — glossary, inventory-only; Senarai Jawapan (Uji Minda) (printed p. 166) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 12 Apresiasi Tari — dance appreciation: watching dance and judging its elements, meaning and value (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 44, printed p. 149 |
+
+**Book 45:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN not legible on the cover barcode render (printed ISBN 978-983-49-… series; recorded as "no ISBN verified") Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 131 (cover verified against the record title; the text layer is rotated/garbled, so the book was read visually from rendered pages: front matter, learning standards and unit pages) Verdict: COMPLETE (structure and every unit's teaching read from the printed learning standards and unit pages). Exclusions named: the Latih Minda / Anjakan Minda question sets in each unit are assessment-only and not placed; no glossary is printed as a separate section. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 7 Apresiasi Teater — reviewing a watched theatre performance: story line, character and characterisation, message and teaching (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 45, printed p. x (standards 4.1) |
+
+**Book 46:** *Pendidikan Seni Visual Tingkatan 2 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Penerbit Bestari Sdn. Bhd.; year 2017; ISBN 978-983-092-442-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 148 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 136) — glossary, inventory-only; Latihan Formatif/Sumatif in every topic are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tumpu Galeri strand in every topic — the gallery-focus pages: looking at and appreciating exhibited works in each discipline (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 46, printed pp. 10, 23, 33, 44, 59, 71, 82, 97, 112, 123, 133 |
+
+**Book 47:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 2* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1661-9 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 194 (title/copyright pages verified against the record title; the PDF's first page is the Rukun Negara page, the printed title pages follow) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 180) — glossary, inventory-only; Senarai Jawapan (Uji Minda) (printed p. 174) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 8 Apresiasi Tari — dance appreciation, second year (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 47, printed p. 156 |
+
+**Book 48:** *Seni Visual — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1665-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 184) — glossary, inventory-only; Jawapan (printed p. 182) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 1 Apresiasi Karya — appreciating photographic works (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 48, printed p. 41 |
+
+**Book 49:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 2* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1663-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 146 (title/copyright pages verified against the record title; the PDF's first page is the Rukun Negara page) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 130) — glossary, inventory-only; Uji Minda sets are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 4 Penghayatan Nilai Estetika dalam Seni Teater — appreciating the aesthetic values in theatre art (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 49, printed pp. 110–128 |
+
+**Book 50:** *Pendidikan Seni Visual — Pendidikan Khas — Tingkatan 4 (Kurikulum Standard Sekolah Menengah Pendidikan Khas, KSSMPK)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019 (Cetakan Pertama 2019); ISBN 978-967-2212-54-6 Tingkatan 4 / Grade 10 (student/teacher: STUDENT) (student/teacher: STUDENT). Audience: this is the special-education (Pendidikan Khas) edition, written for Murid Berkeperluan Khas (learners with special needs); it is placed like any other book, with its project-based, media-experimentation approach noted. PDF pages: 75 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 136) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Modul 7 Folio Seni Kreatif — the creative art folio: assembling and presenting a folio of visual communication work (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 50, printed pp. 130–135 |
+
+**Book 51:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2087-6 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 196 (title/copyright pages verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 188) — glossary, inventory-only; Jawapan Uji Minda (printed p. 184) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 8 Apresiasi Tari — dance appreciation, third year (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 51, printed p. 168 |
+
+**Book 52:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2088-3 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 140 (title/copyright pages verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 133) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 4 Apresiasi Teater — theatre appreciation through its two case studies, wayang kulit and realism (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 52, printed pp. 110–132 |
+
+**Book 53:** *Seni Visual — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2089-0 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 196 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Jawapan (printed p. 182) — answer key, not placed; the Latihan sets are exercises, not placed; no separate glossary section is listed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 1 Apresiasi Karya Seni Halus — appreciating fine-art works (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 53, printed p. 31 |
+
+**Book 54:** *Pendidikan Seni Visual Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Pustaka Sarjana Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-5332-41-8 Tingkatan 5 / Grade 11 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 228 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: no glossary section is listed in the contents; Latihan Formatif/Pengukuhan are exercises, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Galeri Kreatif / Refleksi Kendiri strand in every topic — the creative-gallery and self-reflection pages: exhibiting and judging one's own and others' works (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 54, printed pp. 21, 48, 76, 101, 131, 190 |
+
+**Book 55:** *Pendidikan Seni Visual Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Penerbit Bestari Sdn. Bhd.; year 2019; ISBN 978-983-092-445-8 Tingkatan 4 / Grade 10 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 228 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 216) — glossary, inventory-only; Latihan Formatif/Pengukuhan are exercises, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Galeri Minda strand in every topic — the mind-gallery pages: exhibiting and appreciating works in each discipline (student book; original target `first-steps/appreciating-and-valuing-the-arts`) | Book 55, printed pp. 19, 46, 72, 95, 114, 133, 165, 190, 212 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Uganda, Romania, Mozambique, Pakistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Cuba, Venezuela, Angola, Malaysia).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 7 and 8 teacher-guide parts are EVIDENCE-LIMITED in the strict sense: those guides' files are truncated, so Units 4–5 are placed from their contents pages and syllabus tables only, and every such part is labelled so in its provenance — no body wording is claimed from pages that were not read. The Grade 9–10 parts stand on teacher-guide evidence (those grades have no student books). The lesson's first part rests on the Grade 7 student book, so the lesson counts as taught in 1 country (Ethiopia); every other part is evidence, labelled part by part.
 

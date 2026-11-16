@@ -1,6 +1,6 @@
 # Sources — Music in Society
 
-countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia
+countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia, Malaysia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -26,7 +26,25 @@ countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia
 |---|---|
 | Mongolia — Chapter 1 opener: opera as the art where music, poetry, theatre, dance and visual art join — and its place in world culture (Covent Garden, Bolshoi, Sydney, La Scala, the Met and Mongolia's own State Academic Theatre of Opera and Ballet pictured) (student book; original target `culture-and-values/music-in-society`) | Book 7, printed p. 7 |
 
-**Acceptance count: taught in 2 countries(Cuba, Mongolia). Earlier evidence-only entries stay outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 8:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN 978-983-46-1725-7 (from the cover barcode) Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 5 — the function of music in life and valuing music; identifying Malay and Sarawak music by genre, background, instruments and manner of performance, with short reviews of audio and video (student book; original target `culture-and-values/music-in-society`) | Book 8, printed pp. 71–80 |
+
+**Book 9:** *Seni Muzik 2 — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1659-6 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 6 Forum "Muzik, Budaya dan Masyarakat" — a class forum on music, culture and society: what music does in Malaysian life (student book; original target `culture-and-values/music-in-society`) | Book 9, printed p. 106 |
+
+**Book 10:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2086-9 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 173) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 1–5 Budaya strand — culture and tradition as the course's frame: Malaysian traditional musics (caklempong, gamelan, sewang) and Karnatak studied as living cultures (student book; original target `culture-and-values/music-in-society`) | Book 10, printed pp. 1, 16, 52 |
+
+**Acceptance count: taught in 3 countries(Cuba, Mongolia, Malaysia). Earlier evidence-only entries stay outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson rests only on the Grade 4 teacher guide's society chapter (printed pp. 47–56), labelled teacher-guide evidence throughout. Songs are named and their functions taught; no lyrics are transcribed.
 

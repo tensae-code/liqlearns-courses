@@ -1,6 +1,6 @@
 # Sources — Playing in an Ensemble
 
-countries: Fiji, Suriname
+countries: Fiji, Suriname, Malaysia
 
 **Book 1:** *Performing Arts — Music Is Fun, Year 8* (student workbook, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 8, 18 PDF pp. STUDENT — copyright page names it a Student Workbook. Verdict: COMPLETE (image-heavy book read visually, page by page). Fiji's own way: the elements of music become tools of expression and judgement, and the year ends by turning Fiji's inherited stories — myths, legends, folklore — into drama with song, dance and instruments woven in. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md.
 
@@ -20,7 +20,25 @@ countries: Fiji, Suriname
 | Suriname — Music Les 4 "Samen musiceren" (Making Music Together) — the break and the cue — a break is a rest inside the singing (silence, a rhythmic pattern or a shouted word) that comes after an agreed number of bars on an agreed sign, the cue, as a conductor gives it; groups compose their own rhythmic pattern with a break and dynamics onto a children's song — the book names the Surinamese children's songs "Faya sitong" and "Kalebas" beside "Vader Jacob" (teacher guide — evidence; original target `music/breaks-and-cues-in-group-music`) | Book 3, printed pp. 38–40 |
 | Suriname — Music Les 4 "Samen musiceren" (Making Music Together) — the break and the cue worked with the self-made instruments — each of the four groups is given a different rhythmic pattern characteristic of one of Suriname's peoples and must arrange it with a break and percentage dynamics (slug first proposed in Book 1, leerjaar 7) (teacher guide — evidence; original target `music/breaks-and-cues-in-group-music`) | Book 4, printed pp. 40–42 |
 
-**Acceptance count: taught in 1 country (Fiji).** Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 5:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN 978-983-46-1725-7 (from the cover barcode) Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 4–7 — playing in a mini-orchestra from full scores (violin, guitar, bass guitar and piano parts): Haydn's Surprise Symphony and Aura Lee among the repertoire (student book; original target `music/mini-orchestra-ensemble`) | Book 5, printed pp. 63–70, 81–86, 97–104 |
+
+**Book 6:** *Seni Muzik 2 — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1659-6 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 5–6 Orkestra Mini — mini-orchestra performance and orchestral performance practice: Gunung Kinabalu and My Way as repertoire, score analysis and performance ethics (filed under the Book 4 lesson slug music/mini-orchestra-ensemble) (student book; original target `music/mini-orchestra-ensemble`) | Book 6, printed pp. 76, 82, 88, 99, 105 |
+
+**Book 7:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2086-9 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 173) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 4–6 Orkestra Mini — mini-orchestra repertoire Tari Tualang Tiga and Yue Liang Dai Biao Wo De Xin (filed under the Book 4 lesson slug) (student book; original target `music/mini-orchestra-ensemble`) | Book 7, printed pp. 66, 99 |
+
+**Acceptance count: taught in 2 country (Fiji, Malaysia).** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/playing-in-an-ensemble`); the Fiji placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by name, purpose and summary only — never transcribed.
 

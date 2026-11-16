@@ -1,6 +1,6 @@
 # Sources — Modern Instruments
 
-countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, Bolivia
+countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, Bolivia, Malaysia
 
 **Book 1:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 
@@ -46,7 +46,25 @@ countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, B
 |---|---|
 | Bolivia — The Military School of Music and the Chaco marches — the Escuela Militar de Música, created 20 May 1889 under President Aniceto Arce, drawing musicians from every regiment for technical and artistic training; and in the Chaco War, with nationalist spirit ablaze, its masterworks: Talacocha, Despedida de Tarija, Terremoto de Sipe Sipe, Pabellón Tricolor — the military band itself built of brass, edge, reed and percussion families (teacher compendium — evidence) | Book 11, PDF p. 29 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Angola, Bolivia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
+**Book 12:** *Pendidikan Muzik Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016 (Cetakan Pertama 2016); ISBN 978-967-0520-70-4 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 123 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the end-of-unit Penilaian (assessment) pages are assessment-only and not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 2 — caring for the guitar: polishing, cleaning strings, using a stand, and safe storage (student book; original target `music/modern-instruments`) | Book 12, printed p. 24 |
+
+**Book 13:** *Pendidikan Muzik Tingkatan 2 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-0520-93-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 124 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: end-of-unit assessment pages are not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Ensembel Alat Muzik strand — playing varied genres in instrumental ensemble, applying notation reading and writing while playing (student book; original target `music/modern-instruments`) | Book 13, printed p. v (field description), units throughout |
+
+**Book 14:** *Pendidikan Muzik Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-2448-92-1 Tingkatan 5 / Grade 11 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 75 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 138) — glossary, inventory-only; Penilaian pages are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 2 Ensembel Alat Muzik — seven graded instrumental-ensemble sets across genres, closing with ensemble guitar playing (student book; original target `music/modern-instruments`) | Book 14, printed pp. 40–73 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Angola, Bolivia, Malaysia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Modern instruments are treated at the level the Grade 8 placements carry them — the book treats traditional and modern families exhaustively; the sound-role pairings follow the book's family order. No brand names or models are introduced.
 

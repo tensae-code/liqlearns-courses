@@ -1,6 +1,6 @@
 # Sources — Decorating Home and Environment
 
-countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba, Bolivia
+countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba, Bolivia, Malaysia
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors ማስተዋል ጌታ ማስረሻ (Mastewal Geta Masresha) and ዮሐንስ ታደሰ በትሬ (Yohannes Tadesse Betre). Printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -32,7 +32,25 @@ countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba, Bolivia
 |---|---|
 | Bolivia — Esgrafiado on buildings — sgraffito in its original home: an ornamental architectural technique for decorating the plaster and rendering of walls, inside and outside buildings, worked in two superimposed layers or colours that are scratched to reveal the design (teacher compendium — evidence) | Book 8, PDF p. 23 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Finland, Turkmenistan, Belarus, Iran).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
+**Book 9:** *Pendidikan Seni Visual Tingkatan 2 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Penerbit Bestari Sdn. Bhd.; year 2017; ISBN 978-983-092-442-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 148 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 136) — glossary, inventory-only; Latihan Formatif/Sumatif in every topic are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 6 Reka Bentuk Hiasan Dalaman — interior decoration design: its history and principles (student book; original target `visual-art/decorating-home-and-environment`) | Book 9, printed pp. 62–73 |
+
+**Book 10:** *Pendidikan Seni Visual Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018 (Cetakan Pertama 2018); ISBN 978-967-388-406-3 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 88 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 149) — glossary, inventory-only; Uji Minda and Latihan Sumatif in every topic are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 6 Reka Bentuk Hiasan Dalaman — interior design: the designer's role and the principles and elements of interior design (student book; original target `visual-art/decorating-home-and-environment`) | Book 10, printed pp. 66–77 |
+
+**Book 11:** *Pendidikan Seni Visual Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Penerbit Bestari Sdn. Bhd.; year 2019; ISBN 978-983-092-445-8 Tingkatan 4 / Grade 10 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 228 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 216) — glossary, inventory-only; Latihan Formatif/Pengukuhan are exercises, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 6 Reka Bentuk Dalaman — interior design: the interior designer's prospects and direction (student book; original target `visual-art/decorating-home-and-environment`) | Book 11, printed pp. 120–134 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Finland, Turkmenistan, Belarus, Iran, Malaysia).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: The book's two Chapter 5 figures (paths and garden places; the ceramic interior) are described in words only, never copied. The festival-and-rains beautifying, and the soils/cattle-products/ash "paint", are taught exactly as the placement records them.
 

@@ -1,6 +1,6 @@
 # Sources — Emblems and Posters That Speak
 
-countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Papua New Guinea, Morocco, Jordan, Sri Lanka, Libya, Cuba, Venezuela, Rwanda, Bolivia
+countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Papua New Guinea, Morocco, Jordan, Sri Lanka, Libya, Cuba, Venezuela, Rwanda, Bolivia, Malaysia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -134,7 +134,37 @@ countries: Ethiopia, Barbados, Trinidad and Tobago, Haiti, Serbia, Turkmenistan,
 |---|---|
 | Bolivia — The six kinds of isotipo — the symbol-only marks classified: monograma (one or several initials, freely combined), anagrama (built from syllables to shorten the brand's name so it is easily remembered), sigla (initials kept separate, to be read letter by letter), inicial (the first initial alone), firma (the signature-structured mark) and pictograma (the icon) — with the corporate-identity process: audience, message, company type and values first (an ecology company: honesty, innovation, environmental conscience → forms of tree, leaves, world, hands) (teacher compendium — evidence) | Book 33, PDF pp. 65–66 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Venezuela, Rwanda, Bolivia). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
+**Book 34:** *Pendidikan Kesenian Tahun 4 Sekolah Kebangsaan (Kurikulum Standard Sekolah Rendah, Semakan 2017)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019 (Cetakan Pertama 2019); ISBN 978-983-49-2474-8 (as printed on the copyright spread) Tahun 4 / Grade 4 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 57 scan spreads = 108 printed pages (cover/title page verified against the record title; the PDF's internal metadata title "Buku Teks Muzik Tahun 4" is a scanner artefact — the printed cover and contents are Pendidikan Kesenian) Verdict: COMPLETE. Exclusions named: Glosari Seni Visual (printed p. 104) and Glosari Seni Muzik (printed p. 106) — glossaries, inventory-only, not placed. The two term-end exhibition/performance projects (Projek Kesenian Penggal Satu, printed p. 4; Penggal Dua, printed p. 54) are placed below as appreciation/exhibition teaching, not as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 6 Larian Riang Ria — poster design: poster types (information, campaign, advertisement), theme, layout, typography, montage and painting media, and making a fun-run poster step by step (student book; original target `visual-art/emblems-and-posters-that-speak`) | Book 34, printed pp. 56–59 |
+
+**Book 35:** *Pendidikan Seni Visual Tingkatan 2 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Penerbit Bestari Sdn. Bhd.; year 2017; ISBN 978-983-092-442-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 148 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 136) — glossary, inventory-only; Latihan Formatif/Sumatif in every topic are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 10 Seni Reka Grafik: Simbol dan Logo — graphic design: symbols and logos — definitions, kinds and characteristics (student book; original target `visual-art/emblems-and-posters-that-speak`) | Book 35, printed pp. 116–125 |
+
+**Book 36:** *Seni Visual — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1665-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 184) — glossary, inventory-only; Jawapan (printed p. 182) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 2 Reka Bentuk Grafik — graphic design: design that communicates and promotes (student book; original target `visual-art/emblems-and-posters-that-speak`) | Book 36, printed pp. 50, 96 |
+
+**Book 37:** *Seni Visual — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2089-0 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 196 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Jawapan (printed p. 182) — answer key, not placed; the Latihan sets are exercises, not placed; no separate glossary section is listed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 2 Projek 1: Risalah — designing a brochure (risalah) as graphic design (student book; original target `visual-art/emblems-and-posters-that-speak`) | Book 37, printed p. 38 |
+
+**Book 38:** *Seni Visual Tingkatan 1 — Sekolah Seni Malaysia (SSeM)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN 978-983-49-1132-4 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 219 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 209) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 3 Aplikasi/Ekspresi Reka Bentuk Grafik — graphic design applied and creatively expressed (student book; original target `visual-art/emblems-and-posters-that-speak`) | Book 38, printed pp. 94, 107 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Serbia, Turkmenistan, Mozambique, Pakistan, Sudan, Iran, Venezuela, Rwanda, Bolivia, Malaysia). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The famous emblems named (Coca-Cola, Nike, Apple, Pepsi, Walta Television) are named as the Grade 5 book names them, as examples of the three kinds — no mark is reproduced in the lesson's drawn picture, which is an invented teaching emblem, not a copy of any real one. The Grade 5 teacher-guide signs-and-posters part rests on that guide's closing syllabus tables and is labelled at that evidence level in the table.
 

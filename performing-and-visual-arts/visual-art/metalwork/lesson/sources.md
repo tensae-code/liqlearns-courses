@@ -1,6 +1,6 @@
 # Sources — Metalwork
 
-countries: Sri Lanka, Saudi Arabia
+countries: Sri Lanka, Saudi Arabia, Malaysia
 
 **Book 1:** *Grade 10 Art and Craft pupil textbook (மாணவர் பாட நூல்), Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 10 (student/teacher: STUDENT). PDF pages: 223 (printed pages run 1–223). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
 
@@ -19,7 +19,13 @@ countries: Sri Lanka, Saudi Arabia
 | Saudi Arabia — An art panel by pressing on copper — an artwork based on the tree-leaves idea is executed using copper foils, with white paper for the design, a pencil, carbon copy paper, a piece of copper (or aluminium foil) one millimetre thick, metal-cutting scissors, and a tool for outlining and pressing the copper, for which the pencil can substitute; the steps… (student book; original target `visual-art/pressing-on-copper`) | Book 2, printed pp. 129–132 |
 | Saudi Arabia — A decorative panel with glass colours on copper — Islamic arts abounded in techniques in their applied arts, among them using the colour materials special to enamel on separate metal surfaces or added within other materials such as wood, pottery and glass (a wooden pencil box whose surfaces were covered with copper pieces coloured with cold enamel colours); enamel is… (student book; original target `visual-art/cold-enamel-on-copper`) | Book 2, printed pp. 133–137 |
 
-**Acceptance count: taught in 2 countries (Sri Lanka, Saudi Arabia).**
+**Book 3:** *Seni Visual — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1665-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 184) — glossary, inventory-only; Jawapan (printed p. 182) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 3 Kraf Tradisional: Logam Halus — fine metalwork (logam halus): the Malay fine-metal craft and its new-dimension form (student book; original target `visual-art/malaysian-fine-metalwork`) | Book 3, printed pp. 116, 138 |
+
+**Acceptance count: taught in 3 countries (Sri Lanka, Saudi Arabia, Malaysia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/metalwork`); the Sri Lanka placements were filed under the original string(s) `visual-art/brasswork-and-metal-craft` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 

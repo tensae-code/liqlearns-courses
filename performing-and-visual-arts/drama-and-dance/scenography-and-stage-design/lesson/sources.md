@@ -1,6 +1,6 @@
 # Sources — Scenography and Stage Design
 
-countries: Serbia, Brazil, Bulgaria, Venezuela
+countries: Serbia, Brazil, Bulgaria, Venezuela, Malaysia
 
 **Book 1:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -21,7 +21,25 @@ countries: Serbia, Brazil, Bulgaria, Venezuela
 | Venezuela — Escenografía: scenography — the art of constituting the stage for a specific play, weighing visual, psychological, social and historical solutions and the text's own stage directions (slug first proposed by Serbia) (student book; original target `drama-and-dance/stage-space-and-scenography`) | Book 5, printed p. 44 |
 | Venezuela — Espacio escénico: the stage space — closed spaces (theatre halls) and open spaces (streets and plazas) as places of representation (slug first proposed by Serbia) (student book; original target `drama-and-dance/stage-space-and-scenography`) | Book 5, printed p. 48 |
 
-**Acceptance count: taught in 4 countries (Serbia, Brazil, Bulgaria, Venezuela).**
+**Book 6:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 2* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1661-9 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 194 (title/copyright pages verified against the record title; the PDF's first page is the Rukun Negara page, the printed title pages follow) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 180) — glossary, inventory-only; Senarai Jawapan (Uji Minda) (printed p. 174) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 6 Sinografi Tari — dance scenography: designing the visual stage world of a dance — set, lighting, costume and make-up for dance production (student book; original target `drama-and-dance/dance-scenography`) | Book 6, printed p. 118 |
+
+**Book 7:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 2* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1663-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 146 (title/copyright pages verified against the record title; the PDF's first page is the Rukun Negara page) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 130) — glossary, inventory-only; Uji Minda sets are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 3.1.2–3.1.3 — planning and drafting a set, and planning and drafting props, from a given stage-play script (student book; original target `drama-and-dance/designing-set-and-props-from-a-script`) | Book 7, printed pp. 97–105 |
+
+**Book 8:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2087-6 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 196 (title/copyright pages verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 188) — glossary, inventory-only; Jawapan Uji Minda (printed p. 184) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 6 Sinografi Tari — dance scenography, third year (filed under the Book 11 lesson slug) (student book; original target `drama-and-dance/dance-scenography`) | Book 8, printed p. 134 |
+
+**Acceptance count: taught in 5 countries (Serbia, Brazil, Bulgaria, Venezuela, Malaysia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/scenography-and-stage-design`); the Serbia placements were filed under the original string(s) `drama-and-dance/stage-space-and-scenography`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: scenography is taught from the Greek open stage at Epidaurus, where nature completed the set, to the child's own group-built stage of foils, fabrics, mirrors and LED strips.
 

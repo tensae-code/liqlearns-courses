@@ -1,6 +1,6 @@
 # Sources — Dance Composition and Modern Dance
 
-countries: Ethiopia, Andorra, Canada, Uganda, Samoa, Nicaragua, Trinidad and Tobago, Suriname, Papua New Guinea, Brazil, Cuba, Mongolia
+countries: Ethiopia, Andorra, Canada, Uganda, Samoa, Nicaragua, Trinidad and Tobago, Suriname, Papua New Guinea, Brazil, Cuba, Mongolia, Malaysia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
@@ -92,7 +92,27 @@ countries: Ethiopia, Andorra, Canada, Uganda, Samoa, Nicaragua, Trinidad and Tob
 |---|---|
 | Mongolia — Chapter 3 (Ballet): Бүжгэн жүжгийн үүсэл хөгжил (the origin and development of ballet), with Tchaikovsky's Nutcracker and Prokofiev's Romeo and Juliet — works named only (student book; original target `drama-and-dance/dance-composition-and-modern-dance`) | Book 23, printed pp. 36–39 |
 
-**Acceptance count: taught in 5 countries(Canada, Uganda, Brazil, Cuba, Mongolia).** This lesson's original stock stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 24:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016 (Cetakan Pertama 2016); ISBN 978-983-49-1128-7 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 174) — glossary, inventory-only; Senarai Jawapan (Uji Minda) (printed p. 166) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 2 Unsur Tari — the elements of dance named and explored as the building blocks of movement (student book; original target `drama-and-dance/dance-composition-and-modern-dance`) | Book 24, printed p. 13 |
+| Malaysia — Unit 11 Koreografi — choreography: the art of creating dance movement — theme, motif and structure of a created dance (student book; original target `drama-and-dance/dance-composition-and-modern-dance`) | Book 24, printed p. 135 |
+
+**Book 25:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 2* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1661-9 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 194 (title/copyright pages verified against the record title; the PDF's first page is the Rukun Negara page, the printed title pages follow) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 180) — glossary, inventory-only; Senarai Jawapan (Uji Minda) (printed p. 174) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 2 Gerak Tari — dance movement: the vocabulary of dance movement and its elements (student book; original target `drama-and-dance/dance-composition-and-modern-dance`) | Book 25, printed p. 24 |
+| Malaysia — Unit 7 Koreografi — choreography, second year: creating dances with floor patterns (pola lantai) for the proscenium stage (student book; original target `drama-and-dance/dance-composition-and-modern-dance`) | Book 25, printed p. 142 |
+
+**Book 26:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2087-6 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 196 (title/copyright pages verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 188) — glossary, inventory-only; Jawapan Uji Minda (printed p. 184) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 7 Koreografi — choreography, third year (student book; original target `drama-and-dance/dance-composition-and-modern-dance`) | Book 26, printed p. 152 |
+
+**Acceptance count: taught in 6 countries(Canada, Uganda, Brazil, Cuba, Mongolia, Malaysia).** This lesson's original stock stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on teacher-guide evidence only — the Grade 5, 6, 9 and 10 guides — and its acceptance line says so; the pupil-taught dances it builds on live in the built dance lessons of this course. Modern dance is taught at the level the Grade 10 guide's placements give (styles, techniques, and the traditional/modern difference); no named modern-dance school or choreographer beyond the placements is introduced.
 

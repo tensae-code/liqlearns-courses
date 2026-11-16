@@ -2387,7 +2387,40 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   entries, not placed; the Refuerzo review sections are named,
   not placed.
 
-**The whole course stands at 668 lessons, 8,253 questions and
+- **Art expansion — Malaysia (2026-11-16):** 333 placements stocked from
+  24 books (all student books, counted): 264 into existing and
+  already-built canonical lessons, and 69 into 47 NEW lessons
+  (Culture and Values: History of Malaysian Visual Art ×4; Royal
+  Regalia of Malaysia. Drama and Dance: Bangsawan; Bharatanatyam;
+  Dances of Sabah; Inang Dance; Indian Dance Heritage of Malaysia;
+  Joget; Makyung; Dances of Malaysia's Communities ×2; Melayu Asli
+  Dance; Rejang Beuh; Stage Lighting Design; Sumazau; Zapin. Music:
+  The Bamboo Orchestra; Baroque and Classical Music; The Big Gong
+  Ensemble; Composing and Producing Music with Computers ×2;
+  Dondang Sayang; Gamelan ×4; Ghazal of Johor ×2; Inang and Sumazau
+  Songs; Indian Classical Music and Karnatak ×2; Kompang; Malaysian
+  Gong Ensembles: Kulintangan and Caklempong ×5; Melody and Musical
+  Phrases ×3; The Pi Phat Ensemble; The Sape of Sarawak; Sewang of
+  the Orang Asli; The Sompoton; The Tagunggu Ensemble of Sabah; The
+  24 Seasons Drums; The Blues; The Chinese Orchestra ×2. Visual
+  Art: Ebru and Marbling: Painting on Water; History of
+  Printmaking; History of Sculpture; Landscape Design ×3; Malaysian
+  Architecture; Malaysian Photography Icons; Malaysian Ragam Hias
+  Ornament; Malaysian Watercolour Artists; Malaysian Painting
+  Movements and Painters ×3; Photography Techniques and Genres ×2;
+  Pua Weaving; Songket Weaving), 564 questions added, media as
+  described slots only. Honesty carried exactly as filed: all 24
+  books are COMPLETE student books; glossaries are inventory-only,
+  named in the book entries, not placed; assessment and answer-key
+  pages are named, not placed; songs are placed by title and theme
+  only, never transcribed. Malaysia's own way is kept as named
+  parts throughout: the Tagunggu, gamelan Melayu, caklempong,
+  kulintangan, kompang, dikir barat, ghazal, dondang sayang, sape,
+  sompoton and 24 Seasons Drums; zapin, Melayu asli, inang, joget,
+  Sumazau, Kolattam and Bharatanatyam; Bangsawan, Makyung and
+  wayang kulit; Malay wood carving, tekat, batik, songket and pua.
+
+**The whole course stands at 715 lessons, 8,817 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

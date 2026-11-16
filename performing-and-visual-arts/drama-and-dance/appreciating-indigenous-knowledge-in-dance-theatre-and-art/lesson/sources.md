@@ -1,6 +1,6 @@
 # Sources — Appreciating Indigenous Knowledge in Dance, Theatre and Art
 
-countries: Ethiopia
+countries: Ethiopia, Malaysia
 
 **Book 1:** *Grade 6 Performing and Visual Arts Teacher Guide (6ተኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መማሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter I–VI + body from printed p.1 + syllabus to printed p.119. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
@@ -9,7 +9,13 @@ countries: Ethiopia
 | Sub lesson 1 — In dance and in traditional theatre (teacher guide — evidence) (teacher guide — evidence) | Grade 6 Teacher Guide, §§4.2–4.3, printed pp. 89–92 |
 | Sub lesson 2 — In visual art (teacher guide — evidence) (teacher guide — evidence) | Grade 6 Teacher Guide, §4.4, printed pp. 93–98 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 2:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 2* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1663-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 146 (title/copyright pages verified against the record title; the PDF's first page is the Rukun Negara page) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 130) — glossary, inventory-only; Uji Minda sets are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 4.1.3 Perbezaan antara Teater Makyung dan Teater Realisme — comparing Makyung and realism theatre point by point (student book; original target `drama-and-dance/appreciating-indigenous-knowledge-in-dance-theatre-and-art`) | Book 2, printed pp. 126–127 |
+
+**Acceptance count: taught in 1 country (Malaysia). Earlier stock stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on the Grade 6 teacher guide (Ch. 4, §§4.2–4.4, printed pp. 89–98) as labelled evidence; the paper-mosaic and instrument/dance practices come from the guide's syllabus table for the same chapter, as the placement records.
 

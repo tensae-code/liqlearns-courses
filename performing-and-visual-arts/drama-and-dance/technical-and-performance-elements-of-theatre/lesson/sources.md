@@ -1,6 +1,6 @@
 # Sources — Technical and Performance Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil, Jordan, Sri Lanka, Venezuela
+countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil, Jordan, Sri Lanka, Venezuela, Malaysia
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -55,7 +55,19 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Fin
 | Venezuela — Musicalización y sonido: musicalisation and sound in the theatre — music and sound effects that set and complete the dramatic atmosphere of a scene (student book) | Book 18, printed p. 46 |
 | Venezuela — Iluminación: stage lighting — using light to create atmospheres, reckoning with season, hour, genre and whether the scene is interior or exterior (student book) | Book 18, printed p. 46 |
 
-**Acceptance count: taught in 9 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil, Jordan, Venezuela).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 19:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016 (Cetakan Pertama 2016); ISBN 978-983-49-1128-7 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 174) — glossary, inventory-only; Senarai Jawapan (Uji Minda) (printed p. 166) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 10 Prop — dance props: the hand props of Malay dance and their handling in performance (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 19, printed p. 129 |
+
+**Book 20:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 2* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1663-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 146 (title/copyright pages verified against the record title; the PDF's first page is the Rukun Negara page) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 130) — glossary, inventory-only; Uji Minda sets are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 3.1 Sinografi dalam Produksi — scenography: stage, set and props introduced (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 20, printed pp. 84–96 |
+
+**Acceptance count: taught in 10 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil, Jordan, Venezuela, Malaysia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 10–11) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 

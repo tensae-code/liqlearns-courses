@@ -1,6 +1,6 @@
 # Sources — Composition in Visual Art
 
-countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colombia, Sudan, Belarus, Iran, Sri Lanka, Libya, Cuba, Saudi Arabia, Venezuela, Angola, Mongolia, Rwanda, Bolivia
+countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colombia, Sudan, Belarus, Iran, Sri Lanka, Libya, Cuba, Saudi Arabia, Venezuela, Angola, Mongolia, Rwanda, Bolivia, Malaysia
 
 **Book 1:** *Performing and Visual Arts Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (first published 2022, GEQIP-E). Writers: Jinenus Wako (M.A), Tujuba Beyene (M.A). 90 PDF pages; printed pp. i–vi + 1–78. Printed page ≈ PDF page − 11 in the body. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
@@ -147,7 +147,19 @@ countries: Ethiopia, Andorra, Albania, Haiti, Serbia, Mozambique, Suriname, Colo
 |---|---|
 | Bolivia — Composing and framing the still life — composition as the intentional organising, distributing and ordering of the visual elements to attract the viewer; and the encuadre: decide the zone of interest — the focal point that must hold the attention — and the framing, vertical or horizontal, and its size (student book) | Book 36, printed pp. 25–26 |
 
-**Acceptance count: taught in 13 countries(Serbia, Mozambique, Colombia, Sudan, Belarus, Iran, Cuba, Saudi Arabia, Venezuela, Angola, Mongolia, Rwanda, Bolivia). Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 37:** *Pendidikan Seni Visual Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Penerbit Bestari Sdn. Bhd.; year 2016; ISBN 978-983-092-439-7 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 185) — glossary, inventory-only; the Latihan Formatif/Sumatif exercises in every topic are assessment, named in the contents but not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 15 Tajuk dan Mesej — title and message: what a work's title and message are, their purpose, and how they are formed and developed (student book; original target `visual-art/composition-in-visual-art`) | Book 37, printed pp. 154–162 |
+
+**Book 38:** *Pendidikan Seni Visual Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Pustaka Sarjana Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-5332-41-8 Tingkatan 5 / Grade 11 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 228 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: no glossary section is listed in the contents; Latihan Formatif/Pengukuhan are exercises, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 7 Elemen dan Prinsip Infografik — the elements and principles of design applied to information design (student book; original target `visual-art/composition-in-visual-art`) | Book 38, printed p. 173 |
+
+**Acceptance count: taught in 14 countries(Serbia, Mozambique, Colombia, Sudan, Belarus, Iran, Cuba, Saudi Arabia, Venezuela, Angola, Mongolia, Rwanda, Bolivia, Malaysia). Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 10 teacher's guide (federal Ministry of Education, 2022, GEQIP-E). Grade 10 has no student book in hand. The placements file summarises Lessons 7–9 by their three topics — the concept of composition, its importance/purposes, and composition-and-design in 2D and 3D; the lesson teaches at exactly that level and invents no composition rules, named principles or examples the placement does not give.
 

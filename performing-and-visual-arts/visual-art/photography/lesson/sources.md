@@ -1,6 +1,6 @@
 # Sources — Photography
 
-countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran, Venezuela
+countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran, Venezuela, Malaysia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -55,7 +55,25 @@ countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran, Venezuela
 | Venezuela — El daguerrotipo en Venezuela: photography's arrival — daguerreotypes on copper or silver plates; Basilio Constantin, Próspero Rey and Henrique Avril, the first documentalist, recording cities, traditions, trades, festivals and disasters (student book) | Book 12, printed p. 156 |
 | Venezuela — La fotografía como arte y medio de comunicación: photography consolidated as an artistic medium — Korda's Che Guevara portrait; and photography as the document of art itself, recording artists at work (Namuth's Pollock, Boulton's Reverón, Mili's Picasso) (student book) | Book 12, printed p. 225 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Honduras, Finland, Iran, Venezuela).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 13:** *Pendidikan Seni Visual Tingkatan 2 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Penerbit Bestari Sdn. Bhd.; year 2017; ISBN 978-983-092-442-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 148 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 136) — glossary, inventory-only; Latihan Formatif/Sumatif in every topic are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 11 Seni Foto — photography through the pinhole camera: the definition and function of the pinhole camera, the character of its images, and its history (student book; original target `visual-art/photography`) | Book 13, printed pp. 126–135 |
+
+**Book 14:** *Seni Visual — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1665-7 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 184) — glossary, inventory-only; Jawapan (printed p. 182) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Bab 1 Fotografi: Asas Fotografi — the basics of photography: how photographs are made and taken (student book; original target `visual-art/photography`) | Book 14, printed p. 4 |
+
+**Book 15:** *Pendidikan Seni Visual Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018 (Cetakan Pertama 2018); ISBN 978-967-388-406-3 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 88 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 149) — glossary, inventory-only; Uji Minda and Latihan Sumatif in every topic are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 11 Seni Foto — cameras and imaging devices: kinds, formats, and creative composition techniques in photography (student book; original target `visual-art/photography`) | Book 15, printed pp. 136–148 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Honduras, Finland, Iran, Venezuela, Malaysia).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: Book 2's photography part is a teacher-guide part, cited at the section level its placement gives (§1.4, printed pp. 18–22, inside a wider shapes/forms/colours section) and labelled evidence; the lesson's core rests on Book 1, a student book. The Grade 3 book's camera is a film camera — light through a lens, an image on film, printed on prepared papers — and the lesson keeps the book's own account; phone cameras are mentioned only in the Do It First looking activity, not as book content. No camera technique beyond the placements (no exposure settings, no lens types) has been added.
 

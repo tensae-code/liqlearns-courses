@@ -1,6 +1,6 @@
 # Sources — From Script to Stage
 
-countries: Ethiopia, Egypt, Guatemala, Samoa, Nicaragua, Trinidad and Tobago, Suriname, Colombia, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Venezuela
+countries: Ethiopia, Egypt, Guatemala, Samoa, Nicaragua, Trinidad and Tobago, Suriname, Colombia, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Venezuela, Malaysia
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -73,7 +73,25 @@ countries: Ethiopia, Egypt, Guatemala, Samoa, Nicaragua, Trinidad and Tobago, Su
 | Venezuela — Los ensayos: rehearsals and their three modalities — linked rehearsals (scenes joined with the director intervening), the run-through (the whole work without interruption) and dress/general rehearsals (full staging without an audience) (student book) | Book 18, printed p. 87 |
 | Venezuela — Configuración dramática y escénica: planning a production — the dramatic configuration (thinking through what will be done, for which audience) and the scenic configuration (imagining the future staging around the actor's body, voice and space and all the scenic media) (student book) | Book 18, printed pp. 88–89 |
 
-**Acceptance count: taught in 5 countries (Egypt, Colombia, Iran, Brazil, Venezuela).** Ethiopia teacher-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 19:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN not legible on the cover barcode render (printed ISBN 978-983-49-… series; recorded as "no ISBN verified") Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 131 (cover verified against the record title; the text layer is rotated/garbled, so the book was read visually from rendered pages: front matter, learning standards and unit pages) Verdict: COMPLETE (structure and every unit's teaching read from the printed learning standards and unit pages). Exclusions named: the Latih Minda / Anjakan Minda question sets in each unit are assessment-only and not placed; no glossary is printed as a separate section. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 3 Blocking — applying the principles of blocking in performance: space, floor layout/pattern and body placement (student book; original target `drama-and-dance/from-script-to-stage`) | Book 19, printed p. x (standards 1.3) |
+
+**Book 20:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 2* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1663-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 146 (title/copyright pages verified against the record title; the PDF's first page is the Rukun Negara page) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 130) — glossary, inventory-only; Uji Minda sets are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1.3 Blocking dalam Lakonan — blocking in depth: the actor and space, the actor and condition, the actor and position, the actor and level, and movement within blocking (student book; original target `drama-and-dance/from-script-to-stage`) | Book 20, printed pp. 38–62 |
+
+**Book 21:** *Seni Teater — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2088-3 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 140 (title/copyright pages verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 133) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1.4 Blocking dalam Lakonan — blocking: its purpose, dynamics within blocking, and blocking according to stage type (student book; original target `drama-and-dance/from-script-to-stage`) | Book 21, printed pp. 44–61 |
+
+**Acceptance count: taught in 6 countries (Egypt, Colombia, Iran, Brazil, Venezuela, Malaysia).** Ethiopia teacher-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The journey is the guide's own (printed pp. 57–59), including its Ethiopian-values script test and its 'nitty gritty' outline phrase, kept as the guide words it.
 

@@ -1,6 +1,6 @@
 # Sources — Elements of Design in 3D Arts
 
-countries: Ethiopia, Maldives, Mozambique, Libya, Venezuela, Angola, Bolivia
+countries: Ethiopia, Maldives, Mozambique, Libya, Venezuela, Angola, Bolivia, Malaysia
 
 **Book 1:** *Performing and Visual Arts, Teacher's Guide Book, Grade 8* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau (March 2022). Writers: Bareke Tadesse, Gizachew Tasew, Daniel Sisay, Ashenafi Nigussie. 68 PDF pages; printed page = PDF page − 8 in the body. The secured copy is TRUNCATED (body printed pp. 1–56 held, then syllabus only) — this lesson's part is Unit 1, inside the body held. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -41,7 +41,13 @@ countries: Ethiopia, Maldives, Mozambique, Libya, Venezuela, Angola, Bolivia
 |---|---|
 | Bolivia — The kinds of scale model — maquetismo's family: the architectural model; aeromodelismo (designing, building and flying scale aircraft); the military model (vehicles and dioramas of any epoch); the railway model (landscapes, stations and places of the railway); the naval model; the object model; and the systems model (a solar system, a digestive system, a rural irrigation system) (teacher compendium — evidence) | Book 10, PDF p. 112 |
 
-**Acceptance count: taught in 5 countries (Maldives, Mozambique, Venezuela, Angola, Bolivia).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
+**Book 11:** *Pendidikan Kesenian Tahun 4 Sekolah Kebangsaan (Kurikulum Standard Sekolah Rendah, Semakan 2017)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019 (Cetakan Pertama 2019); ISBN 978-983-49-2474-8 (as printed on the copyright spread) Tahun 4 / Grade 4 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 57 scan spreads = 108 printed pages (cover/title page verified against the record title; the PDF's internal metadata title "Buku Teks Muzik Tahun 4" is a scanner artefact — the printed cover and contents are Pendidikan Kesenian) Verdict: COMPLETE. Exclusions named: Glosari Seni Visual (printed p. 104) and Glosari Seni Muzik (printed p. 106) — glossaries, inventory-only, not placed. The two term-end exhibition/performance projects (Projek Kesenian Penggal Satu, printed p. 4; Penggal Dua, printed p. 54) are placed below as appreciation/exhibition teaching, not as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 9 Kota Ceria — the diorama: a 3D miniature scene; choosing theme and situation, building the background, modelling clay figures, origami and a model car, and arranging objects back-to-front (student book; original target `visual-art/elements-of-design-in-3d-arts`) | Book 11, printed pp. 84–89 |
+
+**Acceptance count: taught in 6 countries (Maldives, Mozambique, Venezuela, Angola, Bolivia, Malaysia).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 8 teacher's guide (Addis Ababa City Administration Education Bureau, March 2022). The secured copy of that guide is truncated — its body runs to printed p. 56 — but this lesson's part is Unit 1 (printed pp. 11–12), inside the body held, and is NOT evidence-limited in that sense; it is still teacher-guide evidence and labelled so. The placements file summarises the item by its topic list; the lesson teaches at exactly that level and invents no definitions beyond the placement's own words (line made of points, dynamic, expressing gesture/direction, activating surrounding space; shape as 2D enclosed area, geometric or organic).
 

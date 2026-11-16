@@ -1,6 +1,6 @@
 # Sources — Festivals and Their Arts
 
-countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan, Fiji, Bulgaria, Venezuela, Mongolia
+countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan, Fiji, Bulgaria, Venezuela, Mongolia, Malaysia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -49,7 +49,13 @@ countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenist
 |---|---|
 | Mongolia — Өргөөний баяр наадам (a Naadam festival celebration piece) (student book; original target `culture-and-values/festivals-and-their-arts`) | Book 16, printed p. 28 |
 
-**Acceptance count: taught in 6 countries(Ethiopia, Honduras, Turkmenistan, Bulgaria, Venezuela, Mongolia).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 17:** *Seni Tari — Sekolah Seni Malaysia, Tingkatan 2* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1661-9 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 194 (title/copyright pages verified against the record title; the PDF's first page is the Rukun Negara page, the printed title pages follow) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 180) — glossary, inventory-only; Senarai Jawapan (Uji Minda) (printed p. 174) — answer key, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 5 — the Tadau Kaamatan harvest festival as the living home of Sumazau: dance inside the festival's ritual and celebration (student book; original target `culture-and-values/festivals-and-their-arts`) | Book 17, printed pp. 78–84 |
+
+**Acceptance count: taught in 7 countries(Ethiopia, Honduras, Turkmenistan, Bulgaria, Venezuela, Mongolia, Malaysia).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Citation fix (PVA coverage audit §4, G3S-64): the Genna game song 'አሲና በል' (Asina Bel) stands on printed p. 54 in the Grade 3 book; this lesson previously folded it under the Arafa-and-Genna citation at printed p. 53. The row above now cites its own page, printed p. 54. The song is placed by name and purpose only — a call-and-response game song of the Genna game — and is never transcribed.
 

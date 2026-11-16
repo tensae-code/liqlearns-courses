@@ -1,6 +1,6 @@
 # Sources — Songs of Nature
 
-countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongolia, Rwanda
+countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongolia, Rwanda, Malaysia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -83,7 +83,14 @@ countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongol
 | Rwanda — Part 1 Unit 2 Lesson 5: Singing songs about Environmental protection with music instrument — environmental-protection songs in tune and traditional rhythm with accompaniment (teacher guide evidence; not in the pupil's book) (teacher guide — evidence) | Book 19, printed p. 35 |
 
 
-**Acceptance count: taught in 5 countries(Ethiopia, Turkmenistan, Belarus, Jordan, Mongolia).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 20:** *Pendidikan Kesenian Tahun 4 Sekolah Kebangsaan (Kurikulum Standard Sekolah Rendah, Semakan 2017)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019 (Cetakan Pertama 2019); ISBN 978-983-49-2474-8 (as printed on the copyright spread) Tahun 4 / Grade 4 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 57 scan spreads = 108 printed pages (cover/title page verified against the record title; the PDF's internal metadata title "Buku Teks Muzik Tahun 4" is a scanner artefact — the printed cover and contents are Pendidikan Kesenian) Verdict: COMPLETE. Exclusions named: Glosari Seni Visual (printed p. 104) and Glosari Seni Muzik (printed p. 106) — glossaries, inventory-only, not placed. The two term-end exhibition/performance projects (Projek Kesenian Penggal Satu, printed p. 4; Penggal Dua, printed p. 54) are placed below as appreciation/exhibition teaching, not as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 4 Bunga Gergasi — the song about the Rafflesia, the world's biggest flower, sung with legato and staccato technique, plus clapping and playing its rhythm patterns on percussion (student book; original target `music/songs-of-nature`) | Book 20, printed pp. 40–43 |
+| Malaysia — Unit 7 Tapak Sulaiman — a song about the starfish and the seashore, sung with body percussion in groups; plus the Susun Notasi game: composing a melody from note cards G A B C' and playing it on the recorder (student book; original target `music/songs-of-nature`) | Book 20, printed pp. 68–71 |
+
+**Acceptance count: taught in 6 countries(Ethiopia, Turkmenistan, Belarus, Jordan, Mongolia, Malaysia).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 2 book prints the star song in Amharic and the Grade 3 book prints the same song in English; both placements are stocked — the Amharic here, the English in School Songs — exactly as the books place them. No song lyrics are transcribed; songs are named and their pictures summarised.
 

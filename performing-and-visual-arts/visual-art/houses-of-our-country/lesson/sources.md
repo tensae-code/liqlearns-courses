@@ -1,6 +1,6 @@
 # Sources — Houses of Our Country
 
-countries: Ethiopia, Sudan, Belarus, Venezuela, Afghanistan
+countries: Ethiopia, Sudan, Belarus, Venezuela, Afghanistan, Malaysia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -23,7 +23,13 @@ countries: Ethiopia, Sudan, Belarus, Venezuela, Afghanistan
 | Belarus — Part 2: Architecture — the beauty of buildings of Belarus: the 13th-century Kamianets tower, the Ruzhany palace complex, the Grodno Jesuit church and the National Library of Belarus in Minsk (student book; original target `visual-art/houses-of-our-country`) | Book 3, printed pp. 13–14 |
 | Venezuela — Vivienda indígena: the indigenous dwellings of Venezuela, shaped to climate and family life — the paravientos (lean-to shelter), the Yanomami shabono (a ring of shelters around a sacred centre), the Yekuana and Piaroa churuatas (conical roofs: the sky's vault and the axis of the world), the Barí bohío, the stilt palafitos of the Añú and Warao, and the stone chozas of the Andes (student book) | Book 4, printed pp. 26–30 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Belarus, Venezuela, Afghanistan).**
+**Book 7:** *Pendidikan Seni Visual Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Pustaka Sarjana Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-5332-41-8 Tingkatan 5 / Grade 11 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 228 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: no glossary section is listed in the contents; Latihan Formatif/Pengukuhan are exercises, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Tajuk 1 Rumah Tradisional — appreciating Malaysia's traditional houses closely as artworks (student book; original target `visual-art/houses-of-our-country`) | Book 7, printed pp. 4–7 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Sudan, Belarus, Venezuela, Afghanistan, Malaysia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The book's house and building plates are photographs; the lesson describes them only as their captions and placements describe them — highland against lowland building, the named church and mosque buildings — and invents no architectural detail beyond the placements.
 

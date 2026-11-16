@@ -1,6 +1,6 @@
 # Sources — Making Music with Computers and Apps
 
-countries: United Kingdom, Haiti
+countries: United Kingdom, Haiti, Malaysia
 
 **Book 1:** *Edexcel GCSE (9–1) Anthology of Music* (student book, English), edited by Julia Winterson — United Kingdom, Pearson Education Ltd with Peters Edition Ltd and Faber Music Ltd, 2016 (first published 2016), ISBN 978-1-292-11838-3, Grade 10 (GCSE, Years 10–11), 97 PDF pp. Verdict: COMPLETE — all 97 pages read (score pages placed as study summaries only; no notation or song lyrics transcribed). Read from the scanned page images at the book's recorded source (Internet Archive item `edexcel-gcse-9-1-anthology-of-music`, 97 pages, matching the record) in the 2026-11-16 Art expansion read, because the recorded GitHub copy is a PHANTOM PUSH — marked pushed but absent from the tree and the releases, so it could not be fetched by the tree route (see the placements file). Placements at liqlearns-courses-work/expansion-art-2026-11-16/united-kingdom-placements.md. The book's Glossary of Key Words (printed pp. 90–93) is inventory only, named here and never stocked as parts.
 
@@ -19,7 +19,19 @@ countries: United Kingdom, Haiti
 | Haiti — Musique, Unité 4: La musique assistée par ordinateur (MAO) — computer music across the whole creation chain — score editing, sound-design, mixing, creating sounds and melodies by computer, producing rhythms and melodies (9e), and diffusing works, with Noteflight, Soundtrap and MuseScore named (teacher programme — evidence; original target `music/writing-music-with-software`) | Book 3, PDF pp. 53, 62 |
 | Haiti — Séances 1–7, Musique assistée par ordinateur — computer-assisted music (MAO) as the sequence's second practice strand, alongside the recorder in nearly every séance (teacher guide — evidence; original target `music/writing-music-with-software`) | Book 4, printed pp. 3–11 |
 
-**Acceptance count: taught in 1 country (United Kingdom).** Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count.
+**Book 5:** *Seni Muzik 2 — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1659-6 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 2–6 Muzik dan Komputer — studio skills: recognising DAW software, reproducing a score, cutting and joining audio data, choosing displays, fading in and out (resap jelma/resap lenyap), storing audio files, digital voice recording, multitrack recording and sound effects (student book; original target `music/recording-and-daw`) | Book 5, printed pp. 17, 35, 36, 43, 50, 54, 69, 70, 84, 97 |
+
+**Book 6:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2086-9 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 173) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 3–5 — DAW work filed with the Book 10 studio strand: processing files, folios and editing (filed under the Book 10 lesson slug music/recording-and-daw) (student book; original target `music/recording-and-daw`) | Book 6, printed pp. 54, 64, 90 |
+
+**Acceptance count: taught in 2 country (United Kingdom, Malaysia).** Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/making-music-with-computers-and-apps`); the United Kingdom placements were filed under the original string `music/copyright-and-music-publishing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. The scores in the Anthology are placed as study summaries only — no notation or song lyrics are transcribed in this lesson. The United Kingdom's own way, carried in the placements: music is learned by appraising eight fixed set works — following the printed score while listening, after short teaching notes on period context, structure and what to listen for.
 

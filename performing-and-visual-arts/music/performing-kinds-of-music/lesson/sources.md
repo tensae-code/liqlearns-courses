@@ -1,6 +1,6 @@
 # Sources — Performing Kinds of Music
 
-countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya, Cuba, Angola, Mongolia, Rwanda, Bolivia
+countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya, Cuba, Angola, Mongolia, Rwanda, Bolivia, Malaysia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., body/syllabus to printed p. 80. Printed page = PDF page − 6 in the body. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
 
@@ -71,7 +71,62 @@ countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya, C
 |---|---|
 | Bolivia — The folk orchestra — interpreting harmonic, melodic and rhythmic instruments together according to the context: every pupil brings an instrument from home, and the nomenclature is what lets all of them combine in the same key and keep the melody — no player leaving the tonality — with a notation application so every interpreter can follow the written music and their moment to enter (student book) | Book 19, printed pp. 39–40 |
 
-**Acceptance count: taught in 6 countries(Uganda, Colombia, Cuba, Angola, Mongolia, Bolivia).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 20:** *Pendidikan Kesenian Tahun 4 Sekolah Kebangsaan (Kurikulum Standard Sekolah Rendah, Semakan 2017)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019 (Cetakan Pertama 2019); ISBN 978-983-49-2474-8 (as printed on the copyright spread) Tahun 4 / Grade 4 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 57 scan spreads = 108 printed pages (cover/title page verified against the record title; the PDF's internal metadata title "Buku Teks Muzik Tahun 4" is a scanner artefact — the printed cover and contents are Pendidikan Kesenian) Verdict: COMPLETE. Exclusions named: Glosari Seni Visual (printed p. 104) and Glosari Seni Muzik (printed p. 106) — glossaries, inventory-only, not placed. The two term-end exhibition/performance projects (Projek Kesenian Penggal Satu, printed p. 4; Penggal Dua, printed p. 54) are placed below as appreciation/exhibition teaching, not as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 3 Beg Cantik Menawan — pitch exercises, singing the bag song, singing it as a round (lagu pusingan) in two groups, and playing its percussion patterns to tempo (student book; original target `music/performing-kinds-of-music`) | Book 20, printed pp. 28–33 |
+
+**Book 21:** *Pendidikan Muzik Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016 (Cetakan Pertama 2016); ISBN 978-967-0520-70-4 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 123 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the end-of-unit Penilaian (assessment) pages are assessment-only and not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 2 — singing technique: standing and sitting posture for singing, breathing, and warm-up exercises sung before the repertoire (student book; original target `music/performing-kinds-of-music`) | Book 21, printed pp. 22–23 |
+
+**Book 22:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 1* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2016; ISBN 978-983-46-1725-7 (from the cover barcode) Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 1–7 Ensembel Vokal — singing in two, then three voice parts with correct pitch and tempo, diction and breathing technique, and dynamics from piano/forte to crescendo/decrescendo (student book; original target `music/performing-kinds-of-music`) | Book 22, printed pp. 1, 19, 53, 71 |
+
+**Book 23:** *Pendidikan Muzik Tingkatan 2 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-0520-93-3 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 124 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: end-of-unit assessment pages are not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 — diction (sebutan) as the foundation of singing: clear pronunciation so listeners understand and feel the lyric; breathing exercises and voice warm-ups with ties and phrases (student book; original target `music/performing-kinds-of-music`) | Book 23, printed pp. 4–6 |
+
+**Book 24:** *Seni Muzik 2 — Sekolah Seni Malaysia, Tingkatan 2 (Kurikulum Standard Sekolah Menengah)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2017; ISBN 978-983-49-1659-6 Tingkatan 2 / Grade 8 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 166) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 1–6 Ensembel Vokal — part-singing in two and three voices with tone production, voice register, articulation, pitch and dynamics: Tanah Pusaka, Malaysia Tanah Airku, Embun Sok Sek, The Ash Grove and Puteri Santubong (student book; original target `music/performing-kinds-of-music`) | Book 24, printed pp. 2, 6, 14, 22, 40, 58, 65, 89, 94 |
+
+**Book 25:** *Pendidikan Muzik Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-2212-04-1 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 71 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the Penilaian pages closing each unit are assessment, not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit Inspirasi: Teknik Lontaran Suara — voice projection technique for singing, with the unit's inspirational song (student book; original target `music/performing-kinds-of-music`) | Book 25, printed pp. 44–46 |
+| Malaysia — Unit Idolaku: Penghasilan Ton dalam Nyanyian — tone production in singing, with the song "Idolaku" (student book; original target `music/performing-kinds-of-music`) | Book 25, printed pp. 64–66 |
+
+**Book 26:** *Pendidikan Muzik Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-2212-51-5 Tingkatan 4 / Grade 10 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 79 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the Penilaian pages closing each unit are assessment, not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 3–4 — singing with correct breathing technique and with correct articulation, in the songs "Satelit Inspirasi" and "Masa" (student book; original target `music/performing-kinds-of-music`) | Book 26, printed pp. 48–50, 68–70 |
+
+**Book 27:** *Pendidikan Muzik Tingkatan 5 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-2448-92-1 Tingkatan 5 / Grade 11 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 75 spreads (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 138) — glossary, inventory-only; Penilaian pages are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 Ensembel Nyanyian — seven graded ensemble-singing sets in three voice parts with pitch, dynamics, tempo and voice balance, including the songs "Ibu" and "Berpisah Sementara" (student book; original target `music/performing-kinds-of-music`) | Book 27, printed pp. 4–35 |
+
+**Book 28:** *Seni Muzik — Sekolah Seni Malaysia, Tingkatan 3* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019; ISBN 978-983-49-2086-9 Tingkatan 3 / Grade 9 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: Glosari (printed p. 173) — glossary, inventory-only; the Penilaian pages closing each unit are assessment, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Units 1–6 Ensembel Vokal — singing in three, then four voice parts with breathing, voice projection, articulation, pitch and dynamics: Kain Songket, Payung Mahkota, Selamat Pergi Pahlawanku and Kereta Lembu (student book; original target `music/performing-kinds-of-music`) | Book 28, printed pp. 2, 6, 12, 22, 44, 60, 82, 96 |
+
+**Acceptance count: taught in 7 countries(Uganda, Colombia, Cuba, Angola, Mongolia, Bolivia, Malaysia).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on teacher-guide evidence only and is labelled so in its plan, text and sources. The Grade 2 teacher guide is a scan with no text layer; its parts are cited at section level only and no wording is quoted from it.
 
