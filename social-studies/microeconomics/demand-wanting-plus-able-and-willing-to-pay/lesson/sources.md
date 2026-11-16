@@ -1,6 +1,6 @@
 # Sources — Demand — wanting, plus able and willing to pay
 
-countries: Ethiopia, Laos, Mongolia, Bangladesh, Yemen, Vietnam, Pakistan, Nigeria, Greece
+countries: Ethiopia, Laos, Mongolia, Bangladesh, Yemen, Vietnam, Pakistan, Nigeria, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -74,7 +74,23 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Greece part — 4.3.1 Demand — teaches: quantity demanded at each price and the demand curve | Greece, *Greece Grade 9 Oikonomika*, 4.3.1 Demand — printed p. 61 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Laos, Mongolia, Bangladesh, Yemen, Vietnam, Pakistan, Nigeria, Greece).**
+**Book 12:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 4, Demand — teaches: demand determined by the number of goods and services people consume or purchase, worked through village television sets, calculators and market pumpkins (Economics expansion, 2026-11-16; original placement slug: microeconomics/demand — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 9 Business Studies Book 1*, Unit 4, Demand — printed p. 52 |
+
+**Book 13:** *Business Studies — Year 11 Book One* (student book, English) — Samoa Department of Education; year 2003; ISBN 982-517-042-5. Title as printed: Business Studies — Year 11 Book One. Grade: Year 11 (student/teacher: STUDENT). PDF pages: 102 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 5–6, 45–88 (Introduction on economic choices; Unit 4 Supply of Goods and Services; Unit 5 Consumption of Goods and Services; Unit 6 Demand for Goods and Services; Unit 7 Rights and Obligations of Consumers and Producers); Business parts pp. 7–44 (Unit 1 Business Organisations in the Samoan Economy; Unit 2 Business Management; Unit 3 Business Operations in the Market Place) and p. 89 (Unit 8 Insurance); Key Vocabulary p. 98 (inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 6, Demand — teaches: consumer demand as quantity willing and able to buy at various prices — wanting a holiday without money is low demand; wanting a dress with money is high demand (Economics expansion, 2026-11-16; original placement slug: microeconomics/demand — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 11 Business Studies Book 1*, Unit 6, Demand — printed p. 66 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Laos, Mongolia, Bangladesh, Yemen, Vietnam, Pakistan, Nigeria, Greece, Samoa).**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
+
+Samoa's own way (Year 11 Business Studies Book 1): The market strand is taught with Samoan schedules — Ioane's barbershop supply curve, Kuki's juice, taro supply before White Sunday, Lesina's sticky-bun demand at the school canteen.
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
@@ -93,4 +109,4 @@ Mongolia's own way (Mongolia Grade 8 Social Studies 8): the economy is taught fr
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: demand effective desire, quantity demanded, ability willingness to pay, birr jeans heater, ethiopia, social studies, microeconomics, laos, marketing meaning of market, need and purchasing power, mongolia, demand, english book, tögrög, bangladesh, yemen, vietnam, pakistan, nigeria, greece
+Searchable tags: demand effective desire, quantity demanded, ability willingness to pay, birr jeans heater, ethiopia, social studies, microeconomics, laos, marketing meaning of market, need and purchasing power, mongolia, demand, english book, tögrög, bangladesh, yemen, vietnam, pakistan, nigeria, greece, samoa

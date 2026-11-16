@@ -1,6 +1,6 @@
 # Sources — Supply — what is actually brought to market
 
-countries: Ethiopia, Yemen, Vietnam, Pakistan, Nigeria, Greece
+countries: Ethiopia, Yemen, Vietnam, Pakistan, Nigeria, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -40,7 +40,15 @@ countries: Ethiopia, Yemen, Vietnam, Pakistan, Nigeria, Greece
 |---|---|
 | Greece part — 4.3.2 Supply — teaches: quantity supplied at each price and the supply curve | Greece, *Greece Grade 9 Oikonomika*, 4.3.2 Supply — printed p. 64 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Yemen, Vietnam, Pakistan, Nigeria, Greece).**
+**Book 7:** *Business Studies — Year 11 Book One* (student book, English) — Samoa Department of Education; year 2003; ISBN 982-517-042-5. Title as printed: Business Studies — Year 11 Book One. Grade: Year 11 (student/teacher: STUDENT). PDF pages: 102 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 5–6, 45–88 (Introduction on economic choices; Unit 4 Supply of Goods and Services; Unit 5 Consumption of Goods and Services; Unit 6 Demand for Goods and Services; Unit 7 Rights and Obligations of Consumers and Producers); Business parts pp. 7–44 (Unit 1 Business Organisations in the Samoan Economy; Unit 2 Business Management; Unit 3 Business Operations in the Market Place) and p. 89 (Unit 8 Insurance); Key Vocabulary p. 98 (inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 4, Supply — teaches: supply defined as the amount a producer is willing and able to produce at various prices, with price distinguished from cost (Economics expansion, 2026-11-16; original placement slug: microeconomics/supply — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 11 Business Studies Book 1*, Unit 4, Supply — printed p. 45 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Yemen, Vietnam, Pakistan, Nigeria, Greece, Samoa).**
+
+Samoa's own way (Year 11 Business Studies Book 1): The market strand is taught with Samoan schedules — Ioane's barbershop supply curve, Kuki's juice, taro supply before White Sunday, Lesina's sticky-bun demand at the school canteen.
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
@@ -55,4 +63,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: supply vs stock, cold storage, quantity supplied, ethiopia, social studies, microeconomics, yemen, vietnam, pakistan, nigeria, greece
+Searchable tags: supply vs stock, cold storage, quantity supplied, ethiopia, social studies, microeconomics, yemen, vietnam, pakistan, nigeria, greece, samoa

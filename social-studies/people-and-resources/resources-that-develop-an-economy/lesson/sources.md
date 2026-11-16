@@ -1,6 +1,6 @@
 # Sources — Resources That Develop An Economy
 
-countries: Vietnam, Bahamas, Kuwait, Rwanda, South Sudan, Nepal, Iran
+countries: Vietnam, Bahamas, Kuwait, Rwanda, South Sudan, Nepal, Iran, Samoa
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -51,7 +51,15 @@ South Sudan's own way (South Sudan Primary 3): economic activity is defined by p
 |---|---|
 | Iran part — Economics expansion — Lesson 11 "Resources": soil, water, plants, animals, oil and metals are natural resources (منابع طبیعی, defined); picture chains trace goods back to resources — cotton/wool to clothes, farm needing water, soil, air and sun, forest to sawmill to furniture factories, iron ore to smelter to metal goods, oil well to petrochemical plant to petrol | Iran, *Iran Grade 3 Social Studies*, Lesson 11 "Resources" — Iran Grade 3 Social Studies, printed p. 40 |
 
-**Acceptance count: taught in 7 countries (Vietnam, Bahamas, Kuwait, Rwanda, South Sudan, Nepal, Iran).**
+**Book 8:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Activity 1 Resources — teaches: comparing Samoa's and New Zealand's natural resources by map and table | Samoa, *Year 10 Business Studies Book 1*, Unit 1, Activity 1 Resources — printed p. 5 |
+
+**Acceptance count: taught in 8 countries (Vietnam, Bahamas, Kuwait, Rwanda, South Sudan, Nepal, Iran, Samoa).**
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
 
 Nepal's own way (Nepal Grade 6 Social Studies & Human Value Education G6): the unit opens with two entrepreneur stories — a Chepang beekeeper of Makwanpur who began with Rs. 1,000 in 2064 BS and now sells 15–20 tons of honey a year, and Magar homestays whose community fund keeps 10% of income — then defines the concept from them: economic activities are the means and sources of income.
 
@@ -63,4 +71,4 @@ Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course tha
 
 Iran's own way (Iran Grade 3 Social Studies): Economics enters at Grade 3 through the family — needs, income, natural resources and careful consumption, with wastefulness (اسراف) framed as a religious as well as practical fault.
 
-Searchable tags: resources that develop an economy, Vietnam, social studies, people-and-resources, bahamas, rwanda, south sudan, nepal, iran
+Searchable tags: resources that develop an economy, Vietnam, social studies, people-and-resources, bahamas, rwanda, south sudan, nepal, iran, samoa

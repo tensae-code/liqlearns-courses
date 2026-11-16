@@ -1,6 +1,6 @@
 # Sources — Free resources and scarce resources
 
-countries: Ethiopia, Mongolia, Egypt, Yemen, Fiji, Armenia, Greece
+countries: Ethiopia, Mongolia, Egypt, Yemen, Fiji, Armenia, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -54,7 +54,15 @@ countries: Ethiopia, Mongolia, Egypt, Yemen, Fiji, Armenia, Greece
 |---|---|
 | Greece part — 1.2.2 Goods — teaches: goods classified free/economic, material/intangible, consumer/producer | Greece, *Greece Grade 9 Oikonomika*, 1.2.2 Goods — printed p. 10 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Mongolia, Egypt, Yemen, Fiji, Armenia, Greece).**
+**Book 10:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Free Goods and Economic Goods — teaches: free goods (fresh air in Samoa) versus scarce economic goods with an opportunity cost | Samoa, *Year 12 Economics*, Unit 1, Free Goods and Economic Goods — printed p. 8 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Mongolia, Egypt, Yemen, Fiji, Armenia, Greece, Samoa).**
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
@@ -72,4 +80,4 @@ Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lyk
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: free resources economic resources, zero price test, price test, externality preview, ethiopia, social studies, microeconomics, mongolia, food non-food services, produced goods natural resources, egypt, yemen, Fiji, armenia, greece
+Searchable tags: free resources economic resources, zero price test, price test, externality preview, ethiopia, social studies, microeconomics, mongolia, food non-food services, produced goods natural resources, egypt, yemen, Fiji, armenia, greece, samoa

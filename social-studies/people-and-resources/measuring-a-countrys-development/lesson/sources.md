@@ -1,6 +1,6 @@
 # Sources — Measuring a Countrys Development
 
-countries: Kazakhstan, Dominican Republic
+countries: Kazakhstan, Dominican Republic, Samoa
 
 **Book 1:** *География Казахстана — Учебник для 9 классов общеобразовательных школ, Часть 1 / Часть 2 (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина, Е. А. Ахметов)* (student book, Russian) — Алматы «Мектеп»; year 2019; ISBN 978-601-07-1245-4 (Part 1), 978-601-07-1246-1 (Part 2). Title as printed: География Казахстана — Учебник для 9 классов общеобразовательных школ, Часть 1 / Часть 2 (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина, Е. А. Ахметов). Grade: 9 (student/teacher: STUDENT). PDF pages: 193 (Part 1) + 177 (Part 2) (covers/title pages verified against the record titles; record files grade-09/gov/kazakhstan/geografija/student/446.pdf, 19,038,736 bytes, and 447.pdf, 17,170,974 bytes, from the recorded okulyk.kz sources, page counts match the records; printed books 192 + 176 pp). Verdict: COMPLETE. Parallel editions named, not double-counted: the Kazakh parallel editions (records 396.pdf and 397.pdf in this record set), plus reissue records 1436.pdf/1448.pdf and 1388.pdf/1361.pdf, carry the same course; the book is placed once here, under this Russian edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -24,7 +24,15 @@ countries: Kazakhstan, Dominican Republic
 |---|---|
 | Dominican Republic part — Países desarrollados vs. países subdesarrollados (Unidad 10): in economics, development is the change from a traditional economy (families producing their own food, clothing and housing, dependence on agriculture and on raw materials exchanged for finished goods) to a technology-based one; a developed country has effective industrialisation and high income, with the characteristics high per-capita income, low poverty, high standard of living, low population growth, low unemployment and present infrastructure, while underdevelopment means low human development, limited access to basic services, high poverty and structural inequality, with inadequate technology and capital, dependence on international trade, rapid population growth, low literacy and unskilled labour | Dominican Republic, *Ciencias Sociales 2° Secundaria*, Países desarrollados vs. países subdesarrollados (Unidad 10) — printed p. 160 |
 
-**Acceptance count: taught in 2 countries (Kazakhstan, Dominican Republic).**
+**Book 6:** *Social Studies — Year 9 Book Three* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2002 (reprinted 2004); ISBN 982-517-029-8. Title as printed: Social Studies — Year 9 Book Three. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 74 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Culture parts pp. 5–39 (Unit 1 Cultural Treasures; Unit 2 Technology and Culture); Economics parts pp. 40–54 (Unit 3 Development); Geography/Culture parts pp. 55–74 (Unit 4 Development and Daily Life — India and Samoa compared through photographs and profiles). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3 Topic 2, What Is Development and Change? — teaches: countries classified developed/developing by social and economic indicators, in a Samoa–India–USA comparative table pupils interrogate | Samoa, *Year 9 Social Studies Book 3*, Unit 3 Topic 2, What Is Development and Change? — printed p. 47 |
+
+**Acceptance count: taught in 3 countries (Kazakhstan, Dominican Republic, Samoa).**
+
+Samoa's own way (Year 9 Social Studies Book 3): Development is taught by direct comparison — Samoa's own indicators (GNI per capita US$1430, life expectancy 69) are set beside India's and the USA's in one table pupils must graph and rank.
 
 Dominican Republic's own way (Dominican Republic Grade 8 Ciencias Sociales 2° Secundaria): development is taught as a world divided in two — the industrialised rich North against the previously colonised South — and Latin America's underdevelopment is explained from inside the South, with external debt, corruption, the technology gap and missing regional integration named as its marks.
 
@@ -36,4 +44,4 @@ Kazakhstan's own way (Kazakhstan Grade 9 Karatabanov): the one-volume Almatykita
 
 Kazakhstan's own way (Kazakhstan Grade 9 Sakhova NIS): the NIS trial Grade 9 course is organised by problems rather than by the standard sections — forecasting lithospheric cataclysms and safety measures (3.1.2–3.1.3), the causes of water scarcity (3.3.4), the noosphere and its development in Kazakhstan (3.4.1–3.4.2), and a research lesson on the very concept of sustainable development (5.1.4).
 
-Searchable tags: measuring a countrys development, Kazakhstan, social studies, people-and-resources, Dominican Republic
+Searchable tags: measuring a countrys development, Kazakhstan, social studies, people-and-resources, Dominican Republic, samoa

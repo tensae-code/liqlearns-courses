@@ -1,6 +1,6 @@
 # Sources — What shifts supply
 
-countries: Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Pakistan, Nigeria, Greece
+countries: Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Pakistan, Nigeria, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -87,7 +87,39 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Greece part — Ch.4 §5 Determinants of supply — teaches: input prices, technology and taxes as supply determinants | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.4 §5 Determinants of supply — printed p. 83 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Pakistan, Nigeria, Greece).**
+**Book 15:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 6, Factors that Affect Demand and Supply — teaches: supply changing with price and profit, and with seasons (extra Christmas flights to New Zealand and Australia) (Economics expansion, 2026-11-16; original placement slug: microeconomics/factors-that-shift-supply — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 9 Business Studies Book 1*, Unit 6, Factors that Affect Demand and Supply — printed p. 75 |
+
+**Book 16:** *Business Studies — Year 11 Book One* (student book, English) — Samoa Department of Education; year 2003; ISBN 982-517-042-5. Title as printed: Business Studies — Year 11 Book One. Grade: Year 11 (student/teacher: STUDENT). PDF pages: 102 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 5–6, 45–88 (Introduction on economic choices; Unit 4 Supply of Goods and Services; Unit 5 Consumption of Goods and Services; Unit 6 Demand for Goods and Services; Unit 7 Rights and Obligations of Consumers and Producers); Business parts pp. 7–44 (Unit 1 Business Organisations in the Samoan Economy; Unit 2 Business Management; Unit 3 Business Operations in the Market Place) and p. 89 (Unit 8 Insurance); Key Vocabulary p. 98 (inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 4, Determinants of Supply — teaches: supply shifting with ingredient and wage costs, better production methods, prices of similar drinks and government restrictions (Kuki's juice; taro supply before White Sunday) (Economics expansion, 2026-11-16; original placement slug: microeconomics/factors-that-shift-supply — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 11 Business Studies Book 1*, Unit 4, Determinants of Supply — printed p. 49 |
+
+**Book 17:** *Social Studies — Year 11 Book Two* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2003 (reprinted 2004 with minor amendments); ISBN 982-517-052-2. Title as printed: Social Studies — Year 11 Book Two. Grade: Year 11 (student/teacher: STUDENT). PDF pages: 118 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Culture parts pp. 5–44 (Unit 1 Fiji — Pacific Paradise?; Unit 2 Our Changing World); Economics parts pp. 45–78, 96–113 (Unit 3 Coconuts — The Pacific Trees of Life, with "Another Kind of Oil": OPEC; Unit 5 Planning for Development); Civics/Development parts pp. 79–95 (Unit 4 Inter-dependence and Co-operation — overseas volunteers and cooperation stories); Key Vocabulary p. 114 (inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3 Topic 2, More Important Economic Ideas — teaches: supply of a commodity depending on its price, costs of production, the state of technology and the prices of related products (Economics expansion, 2026-11-16; original placement slug: microeconomics/factors-that-shift-supply — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 11 Social Studies Book 2*, Unit 3 Topic 2, More Important Economic Ideas — printed p. 68 |
+
+**Book 18:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 5 Non-Price Factors Affecting Supply — teaches: supply shifts from costs of production, producer goals, technology, and environmental, legal, trade and political factors, with an Apia fresh-milk supply schedule | Samoa, *Year 12 Economics*, Unit 5 Non-Price Factors Affecting Supply — printed p. 34 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Pakistan, Nigeria, Greece, Samoa).**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
+
+Samoa's own way (Year 11 Business Studies Book 1): The market strand is taught with Samoan schedules — Ioane's barbershop supply curve, Kuki's juice, taro supply before White Sunday, Lesina's sticky-bun demand at the school canteen.
+
+Samoa's own way (Year 11 Social Studies Book 2): A whole super-unit runs on one crop — the coconut carries opportunity cost, commodity prices, export earnings, government support and even OPEC's cartel, because copra is where a Samoan family meets the world market.
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -114,4 +146,4 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: supply shifters, factor costs, technology, external shocks floods, taxes subsidies, transport, prices of other goods, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, bangladesh, yemen, armenia, iraq, united states, pakistan, nigeria, greece
+Searchable tags: supply shifters, factor costs, technology, external shocks floods, taxes subsidies, transport, prices of other goods, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, bangladesh, yemen, armenia, iraq, united states, pakistan, nigeria, greece, samoa

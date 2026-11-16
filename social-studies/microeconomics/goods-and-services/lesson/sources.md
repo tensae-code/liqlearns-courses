@@ -1,6 +1,6 @@
 # Sources — Goods and services
 
-countries: Zimbabwe, Jordan, Bulgaria, Iran
+countries: Zimbabwe, Jordan, Bulgaria, Iran, Samoa
 
 **Book 1:** *PlusOne Social Science ECD A Teacher's Guide* (teacher guide, English) — Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-134-3. Title as printed: PlusOne Social Science ECD A Teacher's Guide (author Chenai D. Masama). Grade: ECD A / KG1 (student/teacher: TEACHER). PDF pages: 79 (cover verified against the record title). Verdict: COMPLETE. Contents map: Identity/family pp. 1–6; Civics (my country, anthem, flag) pp. 7–9; Heritage pp. 10–13; Economics parts pp. 17–19 (work produces goods and services) and pp. 60–63 (careers; financial literacy); Transport and communication pp. 24–29; Shelter pp. 30–34; Global issues/safety pp. 35–40; Managing change pp. 41–44; Social etiquette p. 45; Rights and responsibilities pp. 47–53; Health pp. 55–59; Religion pp. 64–68; Social services and volunteerism pp. 69–72 (the two later lessons also titled "Work produces goods and services", printed pp. 19–20, are heritage lessons on artefacts and musical instruments, not Economics). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/zimbabwe-placements.md.
 
@@ -66,7 +66,16 @@ countries: Zimbabwe, Jordan, Bulgaria, Iran
 |---|---|
 | Iran part — Economics expansion — Lesson 3, section "The neighbourhood's needs": in every neighbourhood there are places that produce some goods or give some services whose purpose is meeting residents' needs (building on the Grade 3 goods/services jobs); public facilities in the neighbourhood belong to everyone (filed as NEW LESSON NEEDED — microeconomics/goods-and-services; the lesson already exists in the current tree, built earlier in this expansion, so this placement is stocked into it here) | Iran, *Iran Grade 4 Social Studies*, Lesson 3, section "The neighbourhood's needs" — Iran Grade 4 Social Studies, printed p. 10 |
 
-**Acceptance count: taught in 3 countries (Jordan, Bulgaria, Iran). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 12:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 2, Goods — teaches: goods classified as free goods or economic (scarce) goods, and economic goods split into consumer goods and capital goods | Samoa, *Year 9 Business Studies Book 1*, Unit 2, Goods — printed p. 19 |
+| Samoa part — Unit 2, Services — teaches: services as the help people give (bus driver, policeman, teacher), with free services and economic services distinguished (Economics expansion, 2026-11-16; original placement slug: microeconomics/services — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 9 Business Studies Book 1*, Unit 2, Services — printed p. 24 |
+
+**Acceptance count: taught in 4 countries (Jordan, Bulgaria, Iran, Samoa). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 
 Zimbabwe's own way (PlusOne Social Science ECD A Teacher's Guide) (teacher guide — evidence): the Heritage-Based Curriculum infant syllabus carries a named "Career guidance and financial literacy" topic from age 4 — Economics begins as goods vs services told through the cook and the baker, a bread production chain (farmer → miller → baker), and a play shop corner where children practise buying with play money and swapping by barter.
 
@@ -93,4 +102,4 @@ Iran's own way (Iran Grade 3 Social Studies): Economics enters at Grade 3 throug
 
 Iran's own way (Iran Grade 4 Social Studies): the family-budget table (income / expense / saving) is introduced at Grade 4 through a boy saving for a football, with his 50,000-toman apple-picking wage as the income example.
 
-Searchable tags: goods and services, goods, services, cook, baker, maize, clay pots, pfuko, baskets, tswanda, potter, weaver, welder, tailor, zimbabwe, teacher guide evidence, social studies, microeconomics, jordan, bulgaria, iran
+Searchable tags: goods and services, goods, services, cook, baker, maize, clay pots, pfuko, baskets, tswanda, potter, weaver, welder, tailor, zimbabwe, teacher guide evidence, social studies, microeconomics, jordan, bulgaria, iran, samoa

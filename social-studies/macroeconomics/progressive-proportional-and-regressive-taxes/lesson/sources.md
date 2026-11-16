@@ -1,6 +1,6 @@
 # Sources — Progressive, proportional and regressive taxes
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Bangladesh, Uzbekistan, Egypt, United States, Pakistan, Costa Rica
+countries: Ethiopia, Malaysia, Albania, Dominica, Bangladesh, Uzbekistan, Egypt, United States, Pakistan, Costa Rica, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -66,7 +66,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Costa Rica part — La reforma tributaria de González Flores — teaches: Costa Rica's first state-intervention package (1914) — spending control, banking reform and a tax reform so the burden no longer fell on the weakest while the dominant classes were practically exempt: "the rich must pay as rich and the poor as poor", backed by a property cadastre and coffee price-fixing | Costa Rica, *Estudios Sociales CONED 11*, Grade 11 — printed pp. 44–45 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Malaysia, Dominica, Bangladesh, Uzbekistan, Egypt, United States, Pakistan, Costa Rica). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *Social Studies — Year 10 Book Three* (student book, English) — Government of Samoa, Department of Education; year 2002; ISBN 982-517-030-1. Title as printed: Social Studies — Year 10 Book Three. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 5–37, 60 (Unit 1 Access to Resources, Goods and Services; Unit 3 Topic 1 development projects); History parts pp. 38–58 (Unit 2 People and Economic Participation — the Industrial Revolution in Britain); Geography parts pp. 59–99 (Unit 3 Topics 2–4 locating development, viewpoints, conflict and consensus; Unit 4 The Role of Technology). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1 Topic 1, Taxation (essay continued) — teaches: Samoa's progressive income tax (higher earners pay more), PAYE deduction, tax returns and refunds through Inland Revenue | Samoa, *Year 10 Social Studies Book 3*, Unit 1 Topic 1, Taxation (essay continued) — printed p. 20 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Dominica, Bangladesh, Uzbekistan, Egypt, United States, Pakistan, Costa Rica, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 10 Social Studies Book 3): Access is the organising idea — whether a Samoan can get goods depends on income type, tax, government policy, land tenure and social position, each taught with Samoan data (formal employment 2000, a pupil's tax essay, farming/fishing tax exemptions).
 
 Costa Rica's own way (Estudios Sociales CONED 11): the full national economic story in one book — agro-export dependence, the first state-intervention reforms of 1914, import substitution under the welfare state, then the 1980s crisis and the PAE adjustment that opened the economy and courted Intel and the free zones.
 
@@ -87,4 +95,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: progressive, proportional and regressive taxes, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, uzbekistan, egypt, united states, pakistan
+Searchable tags: progressive, proportional and regressive taxes, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, uzbekistan, egypt, united states, pakistan, samoa

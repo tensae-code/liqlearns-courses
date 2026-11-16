@@ -1,6 +1,6 @@
 # Sources — Monopolistic competition and product differentiation
 
-countries: Ethiopia, United States, Greece
+countries: Ethiopia, United States, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -22,10 +22,18 @@ countries: Ethiopia, United States, Greece
 |---|---|
 | Greece part — Ch.6 §12 Characteristics of monopolistic competition — teaches: many firms with differentiated products, real or imagined | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.6 §12 Characteristics of monopolistic competition — printed p. 127 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, United States, Greece).**
+**Book 4:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3, Product Differentiation and Variation — teaches: product differentiation (apparent differences) and product variation (real differences) as non-price competition | Samoa, *Year 12 Economics*, Unit 3, Product Differentiation and Variation — printed p. 22 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, United States, Greece, Samoa).**
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: monopolistic competition, product differentiation real spurious fancied, many firms, small monopoly power, collusion impossible, ethiopia, social studies, microeconomics, united states, greece
+Searchable tags: monopolistic competition, product differentiation real spurious fancied, many firms, small monopoly power, collusion impossible, ethiopia, social studies, microeconomics, united states, greece, samoa

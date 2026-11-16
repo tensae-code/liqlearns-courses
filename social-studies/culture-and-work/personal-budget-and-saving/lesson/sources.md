@@ -1,6 +1,6 @@
 # Sources — Personal Budget And Saving
 
-countries: Armenia, Guatemala, Syria, Rwanda, Zimbabwe, Albania, Venezuela, Jordan, Fiji, Vietnam, Nepal, Bulgaria, Iran, Colombia
+countries: Armenia, Guatemala, Syria, Rwanda, Zimbabwe, Albania, Venezuela, Jordan, Fiji, Vietnam, Nepal, Bulgaria, Iran, Colombia, Samoa
 
 **Book 1:** *Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school)* (student book, Armenian) — «Մասնակցային դպրոց» ԿՀ (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1725-6. Authors: H. Bayadyan, D. Stepanyan, V. Soghomonyan. Title as printed: Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school). Grade: 7 (student/teacher: STUDENT). PDF pages: 146 (printed 144; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography parts placed below: Ch. 1 "Man and nature" (printed pp. 12-27) and the economy parts of Ch. 7 "Man and economy" (pp. 102-127). NOT placed (named for later waves): Ch. 2 "Man and society" (pp. 28-41, incl. history of printing), Ch. 3 "Man, cognition and behaviour" (pp. 42-55), Ch. 4 "Man and morality" (pp. 56-71), Ch. 5 "Man and beauty" (pp. 72-89), Ch. 6 "Law in our life" (pp. 90-101), Ch. 7 §§7.3 personal finance in part, Ch. 8 "Man and politics" (pp. 128-139). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -158,7 +158,23 @@ Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics u
 |---|---|
 | Colombia part — Unidad 7, Guía 14: cómo se distribuye el dinero en casa / el ahorro — teaches: households track income (ingresos), expenses (gastos/egresos), investments and savings in a table; saving is the money set aside and kept after buying what the family needs | Colombia, *Colombia Grade 5 Escuela Nueva G5 Cartilla 2*, Unidad 7, Guía 14: cómo se distribuye el dinero en casa / el ahorro — printed p. 85 |
 
-**Acceptance count: taught in 11 countries (Armenia, Syria, Rwanda, Venezuela, Jordan, Fiji, Vietnam, Nepal, Bulgaria, Iran, Colombia). Guatemala is teacher-guide evidence only — named here, counted nowhere. Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 27:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 8 Buying Wisely — teaches: budgeting with fixed and variable expenses and saving as the part of income not spent | Samoa, *Year 10 Business Studies Book 1*, Unit 8 Buying Wisely — printed p. 69 |
+
+**Book 28:** *Business Studies — Year 10 Book Two* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2002 (reprinted 2004 with minor amendments); ISBN 982-517-023-9. Title as printed: Business Studies — Year 10 Book Two. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 78 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 5–39 (Unit 1 Managing Personal Finances; Unit 2 Spending Your Cash and Accounting for It); Accounting parts pp. 40–78 (Unit 3 Accounting for Business; Unit 4 Cash Transactions; Unit 5 Credit Transactions). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Usefulness of a Budget — teaches: savings as income left over after expenditure, surplus and deficit, and saving toward goals and unforeseen expenses in the Taito family budget (Economics expansion, 2026-11-16; original placement slug: market-and-money/saving — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 10 Business Studies Book 2*, Unit 1, Usefulness of a Budget — printed p. 11 |
+
+**Acceptance count: taught in 12 countries (Armenia, Syria, Rwanda, Venezuela, Jordan, Fiji, Vietnam, Nepal, Bulgaria, Iran, Colombia, Samoa). Guatemala is teacher-guide evidence only — named here, counted nowhere. Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
+
+Samoa's own way (Year 10 Business Studies Book 2): Personal finance is taught through one Letogo family — the Taitos — whose fortnightly budget mixes a teacher's salary, hotel wages with overtime, subsistence taro and fishing, church donations and SNPF deductions.
 
 Colombia's own way (Colombia Grade 5 Escuela Nueva G5 Cartilla 2): the fullest primary Economics unit in the set — work, goods, sectors, money, prices and the market are all taught from the child's own plaza de mercado, ending in a real market-day fieldwork and market survey.
 
@@ -210,4 +226,4 @@ Iran's own way (Iran Grade 3 Social Studies): Economics enters at Grade 3 throug
 
 Iran's own way (Iran Grade 6 Social Studies): the energy chapter turns Iran's oil story into a class debate — oil is a finite natural heritage, foreign companies took the profit for a century, and the country must learn to export other goods instead of depending on oil.
 
-Searchable tags: personal budget and saving, Armenia, Guatemala, Syria, syrian pounds, money box, حصّالتي, presupuesto personal, quetzales, teacher guide evidence, social studies, culture-and-work, rwanda, zimbabwe, teacher guide evidence, albania, venezuela, jordan, Fiji, vietnam, nepal, bulgaria, iran, colombia
+Searchable tags: personal budget and saving, Armenia, Guatemala, Syria, syrian pounds, money box, حصّالتي, presupuesto personal, quetzales, teacher guide evidence, social studies, culture-and-work, rwanda, zimbabwe, teacher guide evidence, albania, venezuela, jordan, Fiji, vietnam, nepal, bulgaria, iran, colombia, samoa

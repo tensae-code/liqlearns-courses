@@ -1,6 +1,6 @@
 # Sources — Macroeconomic policy — objectives and instruments
 
-countries: Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq, Papua New Guinea
+countries: Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq, Papua New Guinea, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -56,7 +56,15 @@ countries: Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq, Papua New G
 |---|---|
 | Papua New Guinea evidence — Unit 3, Topic 1: Monetary and fiscal policies: expansionary and contractionary monetary policy (BPNG's instruments: interest rates, liquid asset ratios, special deposits, moral suasion, open market operations, lending controls) and expansionary and contractionary fiscal policy, each traced through employment, interest rates, production and prices (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG*, Unit 3, Topic 1: Monetary and fiscal policies — printed p. 218 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 10:** *Student Learning Guide — Samoa Business Studies Curriculum, Economics Year 13* (student learning guide, English) — Mahobe Resources NZ Ltd for MESC Samoa, funded by NZAID; prepared by Lili Tuioti; year no year printed; ISBN no ISBN printed. Title as printed: Student Learning Guide — Samoa Business Studies Curriculum, Economics Year 13. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 27 (cover/title page verified against the record title). Verdict: PARTIAL — the guide's achievement-objective mapping tables to the New Zealand textbook (Achievement Economics Year 12, Anne Younger) are curriculum mapping, not teaching, and are not placed; the guide's own Samoa teaching notes (government role, market failure, Central Bank, Samoan market structures, government finance data, and the closing Economy of Samoa session) are placed below. Contents map: Economics teaching notes pp. 2–22 (Production: role of government, government issues, trade concepts, markets; Consumption: government income and spending; The Market: money supply, inflation, trade performance, exchange rates, developed/developing economies; The Economy of Samoa pp. 20–22). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Production 1, The Role of Government in the Economy — teaches: government functions and the stabilisation role (keeping employment high and inflation low, preventing boom/depression swings) | Samoa, *Year 13 Economics Guide*, Production 1, The Role of Government in the Economy — printed p. 2 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq, Samoa). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 13 Economics Guide): Year 13 economics is anchored on Samoa itself — the Central Bank of Samoa (not a generic central bank), one oil supplier as a Samoan monopoly, Samoan government revenue/expenditure tables, and a closing national-economy session built from the Central Bank Governor's 2002 address.
 
 Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): secondary Social Science carries a full Economics strand — PNG's own tax system (about 75% of the budget from tax, collected by the IRC), the Bank of Papua New Guinea's direct and indirect monetary instruments, a public-service wage bill of over K200 million a fortnight, the Hiri-Motu traditional trade, and development judged against PNG's Five National Goals and Directive Principles. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -77,4 +85,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: macroeconomic policy — objectives and instruments, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, cambodia, indonesia, nicaragua, iraq, papua new guinea, teacher guide evidence
+Searchable tags: macroeconomic policy — objectives and instruments, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, cambodia, indonesia, nicaragua, iraq, papua new guinea, teacher guide evidence, samoa

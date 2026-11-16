@@ -1,6 +1,6 @@
 # Sources — Financial intermediaries — savers to borrowers
 
-countries: Ethiopia, Mongolia, Zimbabwe, Palestine, Dominica, Cambodia, Yemen, Vietnam, Armenia, Nepal, Bulgaria, India, Pakistan
+countries: Ethiopia, Mongolia, Zimbabwe, Palestine, Dominica, Cambodia, Yemen, Vietnam, Armenia, Nepal, Bulgaria, India, Pakistan, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -86,7 +86,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Pakistan part — Ch. 3.3 Functions of Commercial Banks — teaches: what a commercial bank does — accepting deposits (demand, time and saving deposits, profit-and-loss-sharing deposits), advancing loans, discounting bills of exchange, convenient medium of exchange, opening loan accounts, transfer of money, overdraft, means of investment, safe custodianship of valuables | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 3.3 Functions of Commercial Banks — printed pp. 49-53 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Mongolia, Palestine, Dominica, Cambodia, Yemen, Vietnam, Armenia, Bulgaria, India, Pakistan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Nepal is teacher-guide evidence only — named here, counted nowhere.**
+**Book 14:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 9, The Financial Sector — teaches: banks as intermediaries channelling household savings to firms' investment | Samoa, *Year 12 Economics*, Unit 9, The Financial Sector — printed p. 84 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Mongolia, Palestine, Dominica, Cambodia, Yemen, Vietnam, Armenia, Bulgaria, India, Pakistan, Samoa). Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Nepal is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
 
@@ -113,4 +121,4 @@ Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns pr
 
 Bulgaria's own way (Bulgaria Grade 4 Technology and Entrepreneurship): Grade 4 is where money itself becomes the topic — its history from barter to banknotes, the bank as the go-between of people with surplus money and people who need it, and taxes explained as the price of needs no one can meet alone.
 
-Searchable tags: financial intermediation, surplus deficit units, Commercial Bank of Ethiopia, safety interest, finance blood of the economy, ethiopia, social studies, market and money, mongolia, saving, six steps, demand term deposits, zimbabwe, teacher guide evidence, palestine, dominica, csec principles of business, caribbean, cambodia, yemen, vietnam, armenia, nepal, bulgaria, india, pakistan
+Searchable tags: financial intermediation, surplus deficit units, Commercial Bank of Ethiopia, safety interest, finance blood of the economy, ethiopia, social studies, market and money, mongolia, saving, six steps, demand term deposits, zimbabwe, teacher guide evidence, palestine, dominica, csec principles of business, caribbean, cambodia, yemen, vietnam, armenia, nepal, bulgaria, india, pakistan, samoa

@@ -1,6 +1,6 @@
 # Sources — What economics is
 
-countries: Ethiopia, France, Dominican Republic, Albania, Jordan, Cambodia, Egypt, Yemen, Fiji, Armenia, Nicaragua, Iraq, United States, Pakistan, Bolivia, Nigeria, Greece
+countries: Ethiopia, France, Dominican Republic, Albania, Jordan, Cambodia, Egypt, Yemen, Fiji, Armenia, Nicaragua, Iraq, United States, Pakistan, Bolivia, Nigeria, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -127,7 +127,31 @@ countries: Ethiopia, France, Dominican Republic, Albania, Jordan, Cambodia, Egyp
 |---|---|
 | Greece part — 1.1 Economic activity — teaches: when an activity counts as economic: effort made to satisfy needs with scarce means | Greece, *Greece Grade 9 Oikonomika*, 1.1 Economic activity — printed p. 8 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, France, Dominican Republic, Jordan, Cambodia, Egypt, Yemen, Fiji, Armenia, Nicaragua, Iraq, United States, Pakistan, Bolivia, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 22:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Introduction, What is Economics? — teaches: economics as the study of how people manage limited resources to satisfy unlimited needs and wants, stated in English and Samoan | Samoa, *Year 9 Business Studies Book 1*, Introduction, What is Economics? — printed p. 5 |
+
+**Book 23:** *Business Studies — Year 9 Book Two* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2002 (reprinted 2004); ISBN 982-517-022-0. Title as printed: Business Studies — Year 9 Book Two. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 78 (cover/title page verified against the record title). Verdict: COMPLETE — for Economics scope; the book is an Accounting book with one small Economics part in Unit 1. Contents map: Economics parts pp. 9–10 (Unit 1, The Difference Between Accounting and Economics); Accounting parts pp. 5–75 (accounting in everyday life, the role and purpose of the accountant, the accounting equation, recording and processing cash transactions for a sole trader); Glossary p. 76 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, The Difference Between Accounting and Economics — teaches: economics as the study of how goods and services are produced, distributed and used | Samoa, *Year 9 Business Studies Book 2*, Unit 1, The Difference Between Accounting and Economics — printed p. 9 |
+
+**Book 24:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Introduction — teaches: economics as people and the choices they make in producing, exchanging and consuming | Samoa, *Year 10 Business Studies Book 1*, Introduction — printed p. 4 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, France, Dominican Republic, Jordan, Cambodia, Egypt, Yemen, Fiji, Armenia, Nicaragua, Iraq, United States, Pakistan, Bolivia, Nigeria, Greece, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
+
+Samoa's own way (Year 9 Business Studies Book 2): Economics is introduced only to mark it off from accounting — accounting information helps economic decision-making about the best use of resources.
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
@@ -170,4 +194,4 @@ Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lyk
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: economics definition, oikonomia, scarcity definition, wealth welfare scarcity, smith ricardo say walker mill, ethiopia, france, ses, questions economists ask, social studies, microeconomics, dominican republic, albania, jordan, cambodia, egypt, yemen, Fiji, armenia, nicaragua, iraq, united states, pakistan, bolivia, nigeria, greece
+Searchable tags: economics definition, oikonomia, scarcity definition, wealth welfare scarcity, smith ricardo say walker mill, ethiopia, france, ses, questions economists ask, social studies, microeconomics, dominican republic, albania, jordan, cambodia, egypt, yemen, Fiji, armenia, nicaragua, iraq, united states, pakistan, bolivia, nigeria, greece, samoa

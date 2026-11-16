@@ -1,6 +1,6 @@
 # Sources — The law of supply
 
-countries: Ethiopia, France, Kazakhstan, Albania, Jordan, Bangladesh, Yemen, Iran, Iraq, Nigeria, Greece
+countries: Ethiopia, France, Kazakhstan, Albania, Jordan, Bangladesh, Yemen, Iran, Iraq, Nigeria, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -78,7 +78,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Greece part — Ch.4 §2 The supply curve – law of supply — teaches: the direct price–quantity supplied relationship and its curve | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.4 §2 The supply curve – law of supply — printed p. 79 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, France, Kazakhstan, Jordan, Bangladesh, Yemen, Iran, Iraq, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 13:** *Business Studies — Year 11 Book One* (student book, English) — Samoa Department of Education; year 2003; ISBN 982-517-042-5. Title as printed: Business Studies — Year 11 Book One. Grade: Year 11 (student/teacher: STUDENT). PDF pages: 102 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 5–6, 45–88 (Introduction on economic choices; Unit 4 Supply of Goods and Services; Unit 5 Consumption of Goods and Services; Unit 6 Demand for Goods and Services; Unit 7 Rights and Obligations of Consumers and Producers); Business parts pp. 7–44 (Unit 1 Business Organisations in the Samoan Economy; Unit 2 Business Management; Unit 3 Business Operations in the Market Place) and p. 89 (Unit 8 Insurance); Key Vocabulary p. 98 (inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 4, The Law of Supply — teaches: the law of supply through Ioane's barbershop supply schedule and curve (haircuts rise from 60 to 150 a week as price rises from $5 to $8), ceteris paribus | Samoa, *Year 11 Business Studies Book 1*, Unit 4, The Law of Supply — printed p. 47 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, France, Kazakhstan, Jordan, Bangladesh, Yemen, Iran, Iraq, Nigeria, Greece, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 11 Business Studies Book 1): The market strand is taught with Samoan schedules — Ioane's barbershop supply curve, Kuki's juice, taro supply before White Sunday, Lesina's sticky-bun demand at the school canteen.
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
@@ -104,4 +112,4 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: law of supply, supply schedule curve, upward sloping, direct relationship, ethiopia, france, ses, quinoa cote d'or, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, jordan, bangladesh, yemen, iran, iraq, nigeria, greece
+Searchable tags: law of supply, supply schedule curve, upward sloping, direct relationship, ethiopia, france, ses, quinoa cote d'or, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, jordan, bangladesh, yemen, iran, iraq, nigeria, greece, samoa

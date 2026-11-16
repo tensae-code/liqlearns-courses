@@ -1,6 +1,6 @@
 # Sources — Wage determination in the labour market
 
-countries: Ethiopia, Iceland, France, Mongolia, Albania, Bangladesh, Uzbekistan, Yemen, Pakistan, Nigeria
+countries: Ethiopia, Iceland, France, Mongolia, Albania, Bangladesh, Uzbekistan, Yemen, Pakistan, Nigeria, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -68,7 +68,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nigeria part — Chapter 5 — Determination of wages — teaches: how wages are determined and why wages differ | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 5 — Determination of wages — printed p. 56 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, France, Mongolia, Bangladesh, Uzbekistan, Yemen, Pakistan, Nigeria). Iceland is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 5, Sources of Income — teaches: wages and salaries set by hours, demand and supply, and the worker's skills and knowledge | Samoa, *Year 10 Business Studies Book 1*, Unit 5, Sources of Income — printed p. 47 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, France, Mongolia, Bangladesh, Uzbekistan, Yemen, Pakistan, Nigeria, Samoa). Iceland is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -87,4 +95,4 @@ Iceland's own way: economics arrives inside 19th-century history — pupils role
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: wage determination in the labour market, grade 12 economics, ethiopia, iceland, wage bargaining, role-play, teacher guide evidence, france, ses, wage by diploma, social studies, market and money, mongolia, equilibrium wage, wage schedule, tögrög, albania, bangladesh, uzbekistan, yemen, pakistan, nigeria
+Searchable tags: wage determination in the labour market, grade 12 economics, ethiopia, iceland, wage bargaining, role-play, teacher guide evidence, france, ses, wage by diploma, social studies, market and money, mongolia, equilibrium wage, wage schedule, tögrög, albania, bangladesh, uzbekistan, yemen, pakistan, nigeria, samoa

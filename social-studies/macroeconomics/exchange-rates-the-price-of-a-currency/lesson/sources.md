@@ -1,6 +1,6 @@
 # Sources — Exchange rates — the price of a currency
 
-countries: Ethiopia, Malaysia, Uzbekistan, Honduras, Fiji, Greece
+countries: Ethiopia, Malaysia, Uzbekistan, Honduras, Fiji, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -39,7 +39,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Greece part — Ch.11 §4 Foreign exchange and exchange rates — teaches: currencies, exchange rates and how they are quoted | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.11 §4 Foreign exchange and exchange rates — printed p. 190 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Uzbekistan, Honduras, Fiji, Greece).**
+**Book 7:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 5 Consumers Earning Income, Activity 1 Exchange Rates — teaches: reading a buy/sell exchange-rate table and how rate changes affect consumers' spending power | Samoa, *Year 10 Business Studies Book 1*, Unit 5 Consumers Earning Income, Activity 1 Exchange Rates — printed p. 44 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Uzbekistan, Honduras, Fiji, Greece, Samoa).**
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
 
 Fiji's own way (Fiji Grade 5 Year 5 Social Studies): A full primary money curriculum in one unit — work and wages first, then the Fiji dollar against other currencies, then a family budget, a personal saving plan and what banks do.
 
@@ -49,4 +57,4 @@ Honduras's own way (Honduras Grade 9 G9 Student CCSS): Grade 9 closes the cycle 
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: exchange rates, the price of a currency, ethiopia, social studies, macroeconomics, malaysia, uzbekistan, honduras, Fiji, greece
+Searchable tags: exchange rates, the price of a currency, ethiopia, social studies, macroeconomics, malaysia, uzbekistan, honduras, Fiji, greece, samoa

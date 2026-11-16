@@ -1,6 +1,6 @@
 # Sources — Money as a store of value — and liquidity
 
-countries: Ethiopia, Yemen, Greece
+countries: Ethiopia, Yemen, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -24,7 +24,15 @@ countries: Ethiopia, Yemen, Greece
 |---|---|
 | Greece part — Ch.8 §2 Functions of money — teaches: store of value and liquidity functions of money | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.8 §2 Functions of money — printed p. 152 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Yemen, Greece).**
+**Book 5:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 7, Money Allows Us to Store Income — teaches: money storing income for the future because notes and coins do not perish like milk or fish, inside a bus driver's family budget ($105 a week) (Economics expansion, 2026-11-16; original placement slug: market-and-money/money-as-a-store-of-value — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 9 Business Studies Book 1*, Unit 7, Money Allows Us to Store Income — printed p. 81 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Yemen, Greece, Samoa).**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 
 Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
@@ -34,4 +42,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: store of value, liquidity, purchasing power weakness, classic definitions of money, ethiopia, social studies, market and money, yemen, greece
+Searchable tags: store of value, liquidity, purchasing power weakness, classic definitions of money, ethiopia, social studies, market and money, yemen, greece, samoa

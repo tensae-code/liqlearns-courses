@@ -1,6 +1,6 @@
 # Sources — Employment structure — reading an economy
 
-countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia, Cuba, Dominican Republic, Costa Rica, Greece
+countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia, Cuba, Dominican Republic, Costa Rica, Greece, Samoa
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -53,7 +53,15 @@ countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia
 |---|---|
 | Greece part — 2.3 Shift of the labour force — teaches: reading Greece's own labour-force table as workers move from the primary to the tertiary sector over time | Greece, *Greece Grade 9 Oikonomika*, 2.3 Shift of the labour force — printed p. 30 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia, Dominican Republic, Costa Rica, Greece). Cuba is named here as teacher-guide evidence only, counted nowhere.**
+**Book 13:** *Social Studies — Year 10 Book Three* (student book, English) — Government of Samoa, Department of Education; year 2002; ISBN 982-517-030-1. Title as printed: Social Studies — Year 10 Book Three. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 5–37, 60 (Unit 1 Access to Resources, Goods and Services; Unit 3 Topic 1 development projects); History parts pp. 38–58 (Unit 2 People and Economic Participation — the Industrial Revolution in Britain); Geography parts pp. 59–99 (Unit 3 Topics 2–4 locating development, viewpoints, conflict and consensus; Unit 4 The Role of Technology). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1 Topic 1, Employment — teaches: organising employment into types and reading Samoa's formal employment by type of job (2000) in pie graphs | Samoa, *Year 10 Social Studies Book 3*, Unit 1 Topic 1, Employment — printed p. 11 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia, Dominican Republic, Costa Rica, Greece, Samoa). Cuba is named here as teacher-guide evidence only, counted nowhere.**
+
+Samoa's own way (Year 10 Social Studies Book 3): Access is the organising idea — whether a Samoan can get goods depends on income type, tax, government policy, land tenure and social position, each taught with Samoan data (formal employment 2000, a pupil's tax essay, farming/fishing tax exemptions).
 
 Costa Rica's own way (Estudios Sociales 11, Porras y Gamboa): a commercial textbook built on the same national programme as the CONED anthology but with far more economic detail — full PAE I/II/III measure lists, the CAT export-certificate fraud, state banking's six effects, and Costa Rica's services/call-centre economy measured against the region.
 
@@ -65,7 +73,7 @@ No book error is flagged for this lesson's pages in the placements. The teacher 
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: employment structure, primary secondary tertiary quaternary, sectors, development signal, ethiopia, social studies, people and resources, Mongolia, Нийгэм судлал, Dominican Republic, greece
+Searchable tags: employment structure, primary secondary tertiary quaternary, sectors, development signal, ethiopia, social studies, people and resources, Mongolia, Нийгэм судлал, Dominican Republic, greece, samoa
 
 Cambodia's own way (Cambodia Grade 9 Social Studies): Grade 9 Geography turns homeward and outward — Cambodia's own minerals, natural tourist sites and economy first, then full country profiles of the wider Asian neighbours (China, India, Malaysia, Brunei, Timor-Leste).
 

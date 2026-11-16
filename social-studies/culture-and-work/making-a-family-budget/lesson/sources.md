@@ -1,6 +1,6 @@
 # Sources — Making a Family Budget
 
-countries: Rwanda, Zambia, Ecuador, Dominican Republic, Dominica, Fiji, Nepal, Bulgaria, Iran, Papua New Guinea
+countries: Rwanda, Zambia, Ecuador, Dominican Republic, Dominica, Fiji, Nepal, Bulgaria, Iran, Papua New Guinea, Samoa
 
 **Book 1:** *Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: TEACHER). PDF pages: 106 (cover verified against the record title — read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected; this book appears only as a books.json record, with no size/pages in the record to check against). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society (Civics), TG content map printed p. xvi; Unit 3 Hygiene and sanitation, incl. HIV/AIDS, STIs and TB (Health), p. xviii; Unit 4 Civics and governance — peer pressure, national symbols, leadership and good governance (Civics), p. xviii; Unit 10 Colonial Rwanda (History), p. xxvi. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -117,7 +117,15 @@ Rwanda's own way (Rwanda Grade 2): Economics enters at P2 through the household 
 |---|---|
 | Papua New Guinea evidence — Unit 9.2: maintaining budgets and accurate personal financial records — constructing a personal budget for a week and recording actual amounts and variations (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Business Studies TG*, Unit 9.2 — printed p. 37 |
 
-**Acceptance count: taught in 8 countries (Rwanda, Ecuador, Dominican Republic, Dominica, Fiji, Nepal, Bulgaria, Iran). Zambia is teacher-module evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 20:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 6, Budgeting / Talusa's Budget — teaches: building and analysing a Samoan family budget (food, fa'alavelave, church donations) with income = expenditure + savings | Samoa, *Year 10 Business Studies Book 1*, Unit 6, Budgeting / Talusa's Budget — printed p. 53 |
+
+**Acceptance count: taught in 9 countries (Rwanda, Ecuador, Dominican Republic, Dominica, Fiji, Nepal, Bulgaria, Iran, Samoa). Zambia is teacher-module evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
 
 Papua New Guinea's own way (Papua New Guinea Grade 9 Business Studies TG): the old OBE Business Studies course carries its Economics inside Unit 9.1 — production and trading of PNG-made goods, shell money and pigs as traditional exchange against modern money, and why domestic trade keeps money inside the country — plus a wise-consumer unit and a Taxation option taught with real IRC forms. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -157,4 +165,4 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Iran's own way (Iran Grade 4 Social Studies): the family-budget table (income / expense / saving) is introduced at Grade 4 through a boy saving for a football, with his 50,000-toman apple-picking wage as the income example.
 
-Searchable tags: making a family budget, Rwanda, Zambia, Ecuador, kwacha, shopping list, needs before wants, family budget, surplus, deficit, teacher module evidence, social studies, culture-and-work, Dominican Republic, Fiji, nepal, bulgaria, iran, papua new guinea, teacher guide evidence
+Searchable tags: making a family budget, Rwanda, Zambia, Ecuador, kwacha, shopping list, needs before wants, family budget, surplus, deficit, teacher module evidence, social studies, culture-and-work, Dominican Republic, Fiji, nepal, bulgaria, iran, papua new guinea, teacher guide evidence, samoa

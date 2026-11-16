@@ -1,6 +1,6 @@
 # Sources — What counts as the money supply
 
-countries: Ethiopia, Indonesia, Pakistan, Nigeria, Papua New Guinea
+countries: Ethiopia, Indonesia, Pakistan, Nigeria, Papua New Guinea, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -34,7 +34,15 @@ countries: Ethiopia, Indonesia, Pakistan, Nigeria, Papua New Guinea
 |---|---|
 | Papua New Guinea evidence — Unit 3, Topic 1: Regulating money supply in the economy: money and its classifications (narrow, quasi and broad money), what influences the money supply (balance of payments, the government budget, central-bank securities operations, commercial-bank lending), the PNG institutions that control it (BPNG, IRC, Finance and Treasury, IPA), and why it is controlled — too much money means excess demand and inflation (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 3, Topic 1: Regulating money supply in the economy — printed p. 192 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Pakistan, Nigeria). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *Student Learning Guide — Samoa Business Studies Curriculum, Economics Year 13* (student learning guide, English) — Mahobe Resources NZ Ltd for MESC Samoa, funded by NZAID; prepared by Lili Tuioti; year no year printed; ISBN no ISBN printed. Title as printed: Student Learning Guide — Samoa Business Studies Curriculum, Economics Year 13. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 27 (cover/title page verified against the record title). Verdict: PARTIAL — the guide's achievement-objective mapping tables to the New Zealand textbook (Achievement Economics Year 12, Anne Younger) are curriculum mapping, not teaching, and are not placed; the guide's own Samoa teaching notes (government role, market failure, Central Bank, Samoan market structures, government finance data, and the closing Economy of Samoa session) are placed below. Contents map: Economics teaching notes pp. 2–22 (Production: role of government, government issues, trade concepts, markets; Consumption: government income and spending; The Market: money supply, inflation, trade performance, exchange rates, developed/developing economies; The Economy of Samoa pp. 20–22). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — The Market 1, The Supply of Money and Its Components — teaches: functions and characteristics of money and the common measures/components of the money supply | Samoa, *Year 13 Economics Guide*, The Market 1, The Supply of Money and Its Components — printed p. 14 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Indonesia, Pakistan, Nigeria, Samoa). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 13 Economics Guide): Year 13 economics is anchored on Samoa itself — the Central Bank of Samoa (not a generic central bank), one oil supplier as a Samoan monopoly, Samoan government revenue/expenditure tables, and a closing national-economy session built from the Central Bank Governor's 2002 address.
 
 Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): secondary Social Science carries a full Economics strand — PNG's own tax system (about 75% of the budget from tax, collected by the IRC), the Bank of Papua New Guinea's direct and indirect monetary instruments, a public-service wage bill of over K200 million a fortnight, the Hiri-Motu traditional trade, and development judged against PNG's Five National Goals and Directive Principles. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -48,7 +56,7 @@ Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupi
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: money supply, currency with the public, national bank of ethiopia, deposit money, credit control, ethiopia, social studies, market and money, indonesia, pakistan, nigeria, papua new guinea, teacher guide evidence
+Searchable tags: money supply, currency with the public, national bank of ethiopia, deposit money, credit control, ethiopia, social studies, market and money, indonesia, pakistan, nigeria, papua new guinea, teacher guide evidence, samoa
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

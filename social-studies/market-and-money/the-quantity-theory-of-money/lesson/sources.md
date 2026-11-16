@@ -1,6 +1,6 @@
 # Sources — The quantity theory of money
 
-countries: Uzbekistan, Indonesia, Pakistan
+countries: Uzbekistan, Indonesia, Pakistan, Samoa
 
 **Book 1:** *Osnovy ekonomicheskikh znaniy (Fundamentals of Economic Knowledge), Grade 9* (student book, Russian) — Uzbekistan, State Scientific Publishing House "O'zbekiston milliy ensiklopediyasi", Tashkent; year 2006; ISBN 5-89890-127-2 (authors E. Sariqov, B. Haydarov; recommended by the Ministry of Public Education of the Republic of Uzbekistan; print run 26,025). Title as printed: «Основы экономических знаний» 9 (Fundamentals of Economic Knowledge, Grade 9); colophon gives the Uzbek original title "Iqtisodiy bilim asoslari — 9-sinf uchun darslik (rus tilida)", i.e. this file is the Russian-language edition of the ministry textbook named in the record ("Iqtisodiyot / Economics — Grade 9") — same book, grade and subject; language of this edition is Russian, not Uzbek. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 145 (printed book 144 pp. + back cover; cover and title page verified against the record — Grade 9 Economics; byte size 70,340,084, matching the rescue copy; scanned book with no text layer, read from rendered pages). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. I Entrepreneurship and Production, Topics 1–12, printed pp. 8–44; Ch. II State and Economy, Topics 13–18, pp. 50–70; Ch. III Economic Growth, Topics 19–21, pp. 76–87; Ch. IV Inflation and Unemployment, Topics 22–25, pp. 92–105; Ch. V World Economy, Topics 26–30, pp. 110–124. Excluded under the standing rules: the five chapter Revision/Assessment sections (pp. 45–49, 71–75, 88–91, 106–109, 125–128) and the answer key (pp. 138–139) are assessment apparatus, not placed; the Glossary of Economic Terms (pp. 129–137) is inventory-only, named not placed; the Appendices (pp. 140–144, Uzbekistan data tables and a circular-flow diagram) are placed once as a data exercise. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uzbekistan-placements.md
 
@@ -24,11 +24,19 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Pakistan part — Ch. 2.10 Quantity Theory of Money — teaches: the equation of exchange MV = PT worked numerically (money, velocity, price level, transactions), its assumptions and criticism, and the velocity of circulation of wealth and of goods and services (filed as NEW LESSON NEEDED under this same slug; the lesson already stood in the current tree, built by an earlier country in this chain, so the placement is stocked into it) | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 2.10 Quantity Theory of Money — printed pp. 40-44 |
 
-**Acceptance count: taught in 3 countries (Uzbekistan, Indonesia, Pakistan).**
+**Book 4:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 11 Inflation — teaches: Fisher's identity and the crude and sophisticated quantity theories linking money stock, velocity, prices and output, with velocity calculations (Economics expansion, 2026-11-16; filed as NEW LESSON NEEDED — macroeconomics/the-quantity-theory-of-money — stocked here because this standing lesson already covers this thing) | Samoa, *Year 12 Economics*, Unit 11 Inflation — printed p. 99 |
+
+**Acceptance count: taught in 4 countries (Uzbekistan, Indonesia, Pakistan, Samoa).**
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
 
 
 Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupiah with Indonesian provincial data; cooperatives taught as the “soko guru” (main pillar) of the Indonesian economy with SHU surplus-sharing calculations; the state/regional/private ownership ladder (BUMN–BUMD–BUMS) as the map of who owns the economy.
 
-Searchable tags: the quantity theory of money, uzbekistan, grade 9 economics, social studies, market and money, indonesia, pakistan
+Searchable tags: the quantity theory of money, uzbekistan, grade 9 economics, social studies, market and money, indonesia, pakistan, samoa

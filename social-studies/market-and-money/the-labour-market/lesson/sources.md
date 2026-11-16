@@ -1,6 +1,6 @@
 # Sources — The labour market
 
-countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India, United States, Bolivia, Costa Rica, Nigeria
+countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India, United States, Bolivia, Costa Rica, Nigeria, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -126,7 +126,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nigeria part — Chapter 5 — Labour market — teaches: features of the labour market, labour force, its efficiency and mobility, demand and supply of labour | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 5 — Labour market — printed p. 47 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Bahamas, Mongolia, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India, United States, Bolivia, Costa Rica, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere. Honduras's Grade 1 teacher guide is cited as evidence only — Honduras is counted for its Grade 9 student book named here, not for that guide.**
+**Book 19:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 10, The Market for Labour — teaches: the resource/labour market, wages as the price of labour, and derived demand from the demand for the final good | Samoa, *Year 12 Economics*, Unit 10, The Market for Labour — printed p. 92 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Bahamas, Mongolia, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India, United States, Bolivia, Costa Rica, Nigeria, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere. Honduras's Grade 1 teacher guide is cited as evidence only — Honduras is counted for its Grade 9 student book named here, not for that guide.**
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
@@ -162,4 +170,4 @@ Honduras's own way (Honduras Grade 1 G1 Teacher CCSS) (teacher guide — evidenc
 
 Honduras's own way (Honduras Grade 9 G9 Student CCSS): Grade 9 closes the cycle with the world economy and Honduras inside it — work formal and informal, the lempira's devaluation named the country's biggest problem, and remittances weighed honestly: a strong boost to the economy that also demotivates production and drains the labour force.
 
-Searchable tags: labour market, employees supply labour, employers supply jobs, ethiopia, social studies, market and money, bahamas, mongolia, labour market, training job matching information, albania, cambodia, uzbekistan, honduras, Fiji, vietnam, india, united states, bolivia, nigeria
+Searchable tags: labour market, employees supply labour, employers supply jobs, ethiopia, social studies, market and money, bahamas, mongolia, labour market, training job matching information, albania, cambodia, uzbekistan, honduras, Fiji, vietnam, india, united states, bolivia, nigeria, samoa

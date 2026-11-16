@@ -1,6 +1,6 @@
 # Sources — The financial market
 
-countries: Ethiopia, Iraq, United States, Nigeria
+countries: Ethiopia, Iraq, United States, Nigeria, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -29,7 +29,15 @@ countries: Ethiopia, Iraq, United States, Nigeria
 |---|---|
 | Nigeria part — Chapter 13 — Money and capital markets — teaches: the money and capital markets and the securities traded | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 13 — Money and capital markets — printed p. 177 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iraq, United States, Nigeria).**
+**Book 5:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 2, The Share Market — teaches: shares, dividends and the stock exchange as a market for part-ownership (rest of Unit 2 is Business, named in the Contents map) | Samoa, *Year 12 Economics*, Unit 2, The Share Market — printed p. 11 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Iraq, United States, Nigeria, Samoa).**
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -39,4 +47,4 @@ Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotami
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: financial market, securities bonds shares currencies, capital formation liquidity, ethiopia, social studies, market and money, iraq, united states, nigeria
+Searchable tags: financial market, securities bonds shares currencies, capital formation liquidity, ethiopia, social studies, market and money, iraq, united states, nigeria, samoa

@@ -1,6 +1,6 @@
 # Sources — Inflation — a general, lasting rise in prices
 
-countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Greece, Papua New Guinea
+countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Greece, Papua New Guinea, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -121,7 +121,23 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Papua New Guinea evidence — Unit 2, Topic 5: Inflation: what inflation is, its types, the policies used to control each type, calculating the rate of inflation, and stagflation, hyperinflation, gentle inflation and deflation (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Economics TG*, Unit 2, Topic 5: Inflation — printed p. 59 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Mongolia, Malaysia, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 20:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 7, Word Study — teaches: inflation defined as a sustained rise in the general price level which reduces the value of money (Economics expansion, 2026-11-16; original placement slug: macroeconomics/inflation — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 9 Business Studies Book 1*, Unit 7, Word Study — printed p. 85 |
+
+**Book 21:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 11 Inflation — teaches: inflation defined as a rise in the general level of prices | Samoa, *Year 12 Economics*, Unit 11 Inflation — printed p. 95 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Mongolia, Malaysia, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Greece, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Papua New Guinea's own way (Papua New Guinea Grade 11 Economics TG): the standalone Senior High Economics course re-runs the five-unit frame at full depth — human resources and human capital first, then price mechanism and inflation, economic ideologies (conservatism, liberalism, protectionism, free market), international trade, and a closing unit on the communist economy mirroring Grade 10's capitalism unit. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -159,4 +175,4 @@ Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lyk
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: inflation definition, general price level, price index, deflation, causes of inflation, ethiopia, social studies, macroeconomics, mongolia, inflation, bread, purchasing power, tögrög, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, Fiji, vietnam, indonesia, nicaragua, iran, pakistan, bolivia, nigeria, greece, papua new guinea, teacher guide evidence
+Searchable tags: inflation definition, general price level, price index, deflation, causes of inflation, ethiopia, social studies, macroeconomics, mongolia, inflation, bread, purchasing power, tögrög, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, Fiji, vietnam, indonesia, nicaragua, iran, pakistan, bolivia, nigeria, greece, papua new guinea, teacher guide evidence, samoa

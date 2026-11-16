@@ -1,6 +1,6 @@
 # Sources — Central Banks, Money and Credit Policy
 
-countries: Mongolia, Guatemala, Vietnam, Greece
+countries: Mongolia, Guatemala, Vietnam, Greece, Samoa
 
 **Book 1:** *Нийгэм судлал XI (Social Studies XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал XI (Social Studies XI). Grade: Grade 11 (student). ~196 PDF pp. (printed book to p. 191+) (cover verified against the record title via the ministry econtent flipbook — the same book as the secured GitHub release asset; note the release asset is 131,050,983 bytes under a doubled-prefix asset name while the books.json record says 86,546,502 bytes: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -27,7 +27,15 @@ countries: Mongolia, Guatemala, Vietnam, Greece
 |---|---|
 | Greece part — Ch.8 §6 The issuing bank — teaches: the bank of issue and its control of money and credit | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.8 §6 The issuing bank — printed p. 155 |
 
-**Acceptance count: taught in 4 countries (Mongolia, Guatemala, Vietnam, Greece).**
+**Book 5:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 6 Summary — teaches: the Central Bank as the bank for all other banks in Samoa, issuing currency and controlling exchange rates and interest rates (Economics expansion, 2026-11-16; original placement slug: market-and-money/the-central-bank — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 9 Business Studies Book 1*, Unit 6 Summary — printed p. 78 |
+
+**Acceptance count: taught in 5 countries (Mongolia, Guatemala, Vietnam, Greece, Samoa).**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 
 Vietnam's own way (Vietnam Grade 11 Economic & Legal Education): the macro topics are taught from Vietnam's own statistics and history — the CPI chart 2016–2021, the 775% inflation of 1986, COVID-era unemployment of 3.2%, the Q3 2022 labour-market bulletin — and the State's controlling role is quoted from the Law on the State Bank and the Labour Code.
 
@@ -37,4 +45,4 @@ Guatemala's own way (Guatemala Grade 4 Ciencias Sociales G4): the central bank i
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: monetary policy, credit policy, central bank, Mongolia, Guatemala, quetzal, Banco Central de Guatemala, 1924 monetary reform, Нийгэм судлал XI, social studies, culture and work, vietnam, greece
+Searchable tags: monetary policy, credit policy, central bank, Mongolia, Guatemala, quetzal, Banco Central de Guatemala, 1924 monetary reform, Нийгэм судлал XI, social studies, culture and work, vietnam, greece, samoa

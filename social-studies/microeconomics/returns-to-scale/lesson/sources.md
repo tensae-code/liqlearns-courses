@@ -1,6 +1,6 @@
 # Sources — Returns to scale
 
-countries: Ethiopia, United States, Pakistan
+countries: Ethiopia, United States, Pakistan, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -22,11 +22,19 @@ countries: Ethiopia, United States, Pakistan
 |---|---|
 | Pakistan part — Ch. 8 Laws of Returns — teaches: the laws of increasing returns and constant returns, their assumptions and where each applies | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 8 Laws of Returns — printed pp. 166-174 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, United States, Pakistan).**
+**Book 4:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 4, Economies and Diseconomies of Scale — teaches: economies and diseconomies of scale as operations grow and unit costs first fall then rise | Samoa, *Year 12 Economics*, Unit 4, Economies and Diseconomies of Scale — printed p. 30 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, United States, Pakistan, Samoa).**
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium microeconomics course whose every Urdu section heading carries the English term in brackets, so the learner meets both languages' vocabulary at once; theory is built from schedules, tables and hand-drawn curves throughout, and distribution (rent, wages, interest, profit) closes the book as one factor-pricing chapter.
 
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
-Searchable tags: returns to scale, increasing constant decreasing, factor m, technological change, capital-saving labour-saving neutral, ethiopia, social studies, microeconomics, united states, pakistan
+Searchable tags: returns to scale, increasing constant decreasing, factor m, technological change, capital-saving labour-saving neutral, ethiopia, social studies, microeconomics, united states, pakistan, samoa

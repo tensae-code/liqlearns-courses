@@ -1,6 +1,6 @@
 # Sources — Equilibrium price and quantity — where the curves cross
 
-countries: Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Albania, Bangladesh, Yemen, Fiji, Vietnam, Armenia, Nicaragua, Iran, Iraq, United States, Pakistan, Bolivia, Nigeria, Greece, Papua New Guinea
+countries: Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Albania, Bangladesh, Yemen, Fiji, Vietnam, Armenia, Nicaragua, Iran, Iraq, United States, Pakistan, Bolivia, Nigeria, Greece, Papua New Guinea, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -154,7 +154,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Papua New Guinea evidence — Strand 3 Unit 2, Benchmark 12.3.2.6: Influences of supply and demand on pricing: supply and demand defined, and the law of supply and demand — prices fall when supply exceeds demand and rise when demand exceeds supply, moving to a lower or higher equilibrium price and quantity (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Business Studies TG*, Strand 3 Unit 2, Benchmark 12.3.2.6: Influences of supply and demand on pricing — printed p. 184 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Bangladesh, Yemen, Fiji, Vietnam, Armenia, Nicaragua, Iran, Iraq, United States, Pakistan, Bolivia, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 26:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 7 Market Equilibrium — teaches: market equilibrium as the only stable price, with surplus above and shortage below | Samoa, *Year 12 Economics*, Unit 7 Market Equilibrium — printed p. 56 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Bangladesh, Yemen, Fiji, Vietnam, Armenia, Nicaragua, Iran, Iraq, United States, Pakistan, Bolivia, Nigeria, Greece, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Papua New Guinea's own way (Papua New Guinea Grade 12 Economics TG): Grade 12 Economics turns analytical — demand and supply with graphs, elasticity coefficients, the incidence of a sales tax drawn between producer and consumer, market structures illustrated with PNG firms, and a full unit on trade relations and foreign aid, the economy PNG actually lives in. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -206,4 +214,4 @@ Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lyk
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: equilibrium price quantity, curves intersection, market equilibrium, ethiopia, france, ses, lunch deal, french housing, social studies, microeconomics, mongolia, flour schedule, shortage surplus, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, bangladesh, yemen, Fiji, vietnam, armenia, nicaragua, iran, iraq, united states, pakistan, bolivia, nigeria, greece, papua new guinea, teacher guide evidence
+Searchable tags: equilibrium price quantity, curves intersection, market equilibrium, ethiopia, france, ses, lunch deal, french housing, social studies, microeconomics, mongolia, flour schedule, shortage surplus, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, bangladesh, yemen, Fiji, vietnam, armenia, nicaragua, iran, iraq, united states, pakistan, bolivia, nigeria, greece, papua new guinea, teacher guide evidence, samoa

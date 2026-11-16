@@ -1,6 +1,6 @@
 # Sources — Price ceilings and price floors
 
-countries: Ethiopia, Albania, Bangladesh, Vietnam, Armenia, Nicaragua, United States, Nigeria, Greece, Papua New Guinea
+countries: Ethiopia, Albania, Bangladesh, Vietnam, Armenia, Nicaragua, United States, Nigeria, Greece, Papua New Guinea, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -66,7 +66,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Papua New Guinea evidence — Unit 2, Topic 4: Government intervention — price control mechanism: price surveillance and the institution responsible for it, maximum prices (ceilings), price support (minimum prices/floors), their effects on consumption and production, and monetary and fiscal policy used to control prices (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Economics TG*, Unit 2, Topic 4: Government intervention — price control mechanism — printed p. 57 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bangladesh, Vietnam, Armenia, Nicaragua, United States, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 8 Government Intervention in the Market — teaches: price maximum (ceiling) and price minimum (floor), including a minimum wage in the labour market | Samoa, *Year 12 Economics*, Unit 8 Government Intervention in the Market — printed p. 66 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Bangladesh, Vietnam, Armenia, Nicaragua, United States, Nigeria, Greece, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Papua New Guinea's own way (Papua New Guinea Grade 11 Economics TG): the standalone Senior High Economics course re-runs the five-unit frame at full depth — human resources and human capital first, then price mechanism and inflation, economic ideologies (conservatism, liberalism, protectionism, free market), international trade, and a closing unit on the communist economy mirroring Grade 10's capitalism unit. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -87,4 +95,4 @@ No matching teacher guide exists in this band: the book recorded as this text's 
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: price ceilings and price floors, grade 12 economics, ethiopia, social studies, microeconomics, albania, bangladesh, vietnam, armenia, nicaragua, united states, nigeria, greece, papua new guinea, teacher guide evidence
+Searchable tags: price ceilings and price floors, grade 12 economics, ethiopia, social studies, microeconomics, albania, bangladesh, vietnam, armenia, nicaragua, united states, nigeria, greece, papua new guinea, teacher guide evidence, samoa

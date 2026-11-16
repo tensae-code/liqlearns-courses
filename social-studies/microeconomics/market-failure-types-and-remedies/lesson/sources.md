@@ -1,6 +1,6 @@
 # Sources — Market failure — types and remedies
 
-countries: Ethiopia, Uzbekistan, Egypt, Fiji, Vietnam, Armenia
+countries: Ethiopia, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -42,7 +42,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Armenia part — Economics expansion — 4.2 Market economy: market failure defined (the market cannot supply the right quantity at the right price) and subsidies as a state remedy | Armenia, *Armenia Grade 9 Social Science student*, 4.2 Market economy — printed p. 93 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Uzbekistan, Egypt, Fiji, Vietnam, Armenia).**
+**Book 7:** *Student Learning Guide — Samoa Business Studies Curriculum, Economics Year 13* (student learning guide, English) — Mahobe Resources NZ Ltd for MESC Samoa, funded by NZAID; prepared by Lili Tuioti; year no year printed; ISBN no ISBN printed. Title as printed: Student Learning Guide — Samoa Business Studies Curriculum, Economics Year 13. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 27 (cover/title page verified against the record title). Verdict: PARTIAL — the guide's achievement-objective mapping tables to the New Zealand textbook (Achievement Economics Year 12, Anne Younger) are curriculum mapping, not teaching, and are not placed; the guide's own Samoa teaching notes (government role, market failure, Central Bank, Samoan market structures, government finance data, and the closing Economy of Samoa session) are placed below. Contents map: Economics teaching notes pp. 2–22 (Production: role of government, government issues, trade concepts, markets; Consumption: government income and spending; The Market: money supply, inflation, trade performance, exchange rates, developed/developing economies; The Economy of Samoa pp. 20–22). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Production 1, Why Is the State Involved in the Economy? — teaches: government intervenes to address market failure (conservation for the future, public goods the private sector cannot profitably provide) | Samoa, *Year 13 Economics Guide*, Production 1, Why Is the State Involved in the Economy? — printed p. 5 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Samoa).**
+
+Samoa's own way (Year 13 Economics Guide): Year 13 economics is anchored on Samoa itself — the Central Bank of Samoa (not a generic central bank), one oil supplier as a Samoan monopoly, Samoan government revenue/expenditure tables, and a closing national-economy session built from the Central Bank Governor's 2002 address.
 
 Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
@@ -54,4 +62,4 @@ No matching teacher guide exists in this band: the book recorded as this text's 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: market failure — types and remedies, grade 12 economics, ethiopia, social studies, microeconomics, uzbekistan, egypt, Fiji, vietnam, armenia
+Searchable tags: market failure — types and remedies, grade 12 economics, ethiopia, social studies, microeconomics, uzbekistan, egypt, Fiji, vietnam, armenia, samoa

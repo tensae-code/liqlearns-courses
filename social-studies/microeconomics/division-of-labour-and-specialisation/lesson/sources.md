@@ -1,6 +1,6 @@
 # Sources — Division of labour and specialisation
 
-countries: Costa Rica, Nigeria, Greece, Papua New Guinea
+countries: Costa Rica, Nigeria, Greece, Papua New Guinea, Samoa
 
 **Book 1:** *Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año. Grade: 7 (student/teacher: STUDENT). PDF pages: 166 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 19–29 (Neolithic surplus/barter/division of labour), 66–80 (economic organisation of Maya, Aztec and Inca), 94–105 (ecological footprint), 130–136 (forest conservation incentives / payment for environmental services), 137–165 (world food production, poverty and food access, food security); History pp. 6–93 (hominisation, ancient Mesopotamia/Egypt, Greece/Rome, indigenous peoples of Costa Rica — their short descriptive "economic activities" paragraphs are History content, named here, not placed); Geography pp. 106–129 (terrestrial ecosystems and tropical forests) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
 
@@ -34,7 +34,23 @@ countries: Costa Rica, Nigeria, Greece, Papua New Guinea
 |---|---|
 | Papua New Guinea evidence — Unit 2, Topic 1: Specialisation in production: specialisation and its advantages and disadvantages, the relationship between specialisation and the cost of production, and specialisation's impact on production and consumption in trade (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Economics TG*, Unit 2, Topic 1: Specialisation in production — printed p. 55 |
 
-**Acceptance count: taught in 3 countries (Costa Rica, Nigeria, Greece). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 6, Specialisation — teaches: specialisation as becoming expert at one task (Sineva of Sapapalii weaves a fine mat in 2 days where others take a week), raising efficiency and quality (Economics expansion, 2026-11-16; filed as NEW LESSON NEEDED — microeconomics/specialisation-and-division-of-labour — stocked here because this standing lesson already covers this thing) | Samoa, *Year 9 Business Studies Book 1*, Unit 6, Specialisation — printed p. 71 |
+
+**Book 7:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 4 Productivity — teaches: specialisation and division of labour, their productivity gains and costs (boredom, lost craft skills, delays), and diminishing returns in a meat-pie table (Economics expansion, 2026-11-16; filed as NEW LESSON NEEDED — microeconomics/specialisation-and-division-of-labour — stocked here because this standing lesson already covers this thing) | Samoa, *Year 12 Economics*, Unit 4 Productivity — printed p. 29 |
+
+**Acceptance count: taught in 4 countries (Costa Rica, Nigeria, Greece, Samoa). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG): Grade 10 Economics is the labour and capitalism year — two full units on labour (unions, division of labour, labour law, labour costs), then the market system judged by its costs and benefits, trade through television and the internet, and a closing unit interrogating the capitalist ideology itself. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -47,4 +63,4 @@ Costa Rica's own way (Estudios Sociales CONED 7): Economics is taught inside his
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: division of labour and specialisation, costa rica, social studies, microeconomics, nigeria, greece, papua new guinea, teacher guide evidence
+Searchable tags: division of labour and specialisation, costa rica, social studies, microeconomics, nigeria, greece, papua new guinea, teacher guide evidence, samoa

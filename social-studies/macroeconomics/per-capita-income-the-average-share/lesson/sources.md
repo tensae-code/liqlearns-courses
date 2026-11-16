@@ -1,6 +1,6 @@
 # Sources — Per capita income — the average share
 
-countries: Ethiopia, Dominica, Bangladesh, Egypt, Honduras, Indonesia, India, Greece
+countries: Ethiopia, Dominica, Bangladesh, Egypt, Honduras, Indonesia, India, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -61,7 +61,15 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Greece part — 5.3 Per capita income — teaches: national income per head as an average share | Greece, *Greece Grade 9 Oikonomika*, 5.3 Per capita income — printed p. 78 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Dominica, Bangladesh, Egypt, Honduras, Indonesia, India, Greece).**
+**Book 10:** *Social Studies — Year 9 Book Three* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2002 (reprinted 2004); ISBN 982-517-029-8. Title as printed: Social Studies — Year 9 Book Three. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 74 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Culture parts pp. 5–39 (Unit 1 Cultural Treasures; Unit 2 Technology and Culture); Economics parts pp. 40–54 (Unit 3 Development); Geography/Culture parts pp. 55–74 (Unit 4 Development and Daily Life — India and Samoa compared through photographs and profiles). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3 Topic 2 — teaches: Gross National Income per capita defined (total income divided by population, in US dollars) and "per capita" explained | Samoa, *Year 9 Social Studies Book 3*, Unit 3 Topic 2 — printed p. 48 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Dominica, Bangladesh, Egypt, Honduras, Indonesia, India, Greece, Samoa).**
+
+Samoa's own way (Year 9 Social Studies Book 3): Development is taught by direct comparison — Samoa's own indicators (GNI per capita US$1430, life expectancy 69) are set beside India's and the USA's in one table pupils must graph and rank.
 
 India's own way (India Grade 10 Understanding Economic Development): Development economics taught entirely on Indian data and institutions — per-capita and HDI comparisons with Sri Lanka and Kerala against Haryana, MGNREGA, Sonpur village credit, SEZs, and COPRA consumer courts.
 
@@ -79,4 +87,4 @@ Honduras's own way (Honduras Grade 7 G7 Student CCSS): Grade 7 carries the set's
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: per capita income, GDP divided by population, standard of living average, ethiopia, social studies, macroeconomics, dominica, csec principles of business, caribbean, bangladesh, egypt, honduras, indonesia, india, greece
+Searchable tags: per capita income, GDP divided by population, standard of living average, ethiopia, social studies, macroeconomics, dominica, csec principles of business, caribbean, bangladesh, egypt, honduras, indonesia, india, greece, samoa

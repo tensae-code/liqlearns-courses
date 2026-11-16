@@ -1,6 +1,6 @@
 # Sources — The trade balance — exports minus imports
 
-countries: Ethiopia, Kuwait, Cambodia, Egypt, Vietnam, Pakistan
+countries: Ethiopia, Kuwait, Cambodia, Egypt, Vietnam, Pakistan, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -47,7 +47,15 @@ countries: Ethiopia, Kuwait, Cambodia, Egypt, Vietnam, Pakistan
 |---|---|
 | Pakistan part — Imports and Exports — teaches: imports pictured (machinery, petroleum, edible oil, tea) against exports pictured (bed linen, sports goods, rice, tissue paper) — Pakistan's own trade basket as the example | Pakistan, *Pakistan Grade 4 Social Studies Class 4 SNC*, Imports and Exports — printed p. 98 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Kuwait, Cambodia, Egypt, Vietnam, Pakistan).**
+**Book 8:** *Social Studies — Year 10 Book One* (student book, English) — Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 100 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Civics parts pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Economics parts pp. 68, 75 (two data exercises inside Unit 3 Skills in Social Studies); Skills parts pp. 59–100 (Unit 3 graph/map skills; Unit 4 Skills in Action — the national census). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3, Activity 3 Percentage Bar Graphs — teaches: reading Samoa's trade partners (1989) percentage bar graphs and distinguishing exports sold abroad from imports bought in | Samoa, *Year 10 Social Studies Book 1*, Unit 3, Activity 3 Percentage Bar Graphs — printed p. 68 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Kuwait, Cambodia, Egypt, Vietnam, Pakistan, Samoa).**
+
+Samoa's own way (Year 10 Social Studies Book 1): Economics appears inside skills work — pupils meet GDP and trade first as Samoan and Pacific data to graph, not as definitions to memorise.
 
 Pakistan's own way (Pakistan Grade 4 Social Studies Class 4 SNC): Economics enters at Class 4 as one named chapter of Social Studies, taught in Urdu with English concept labels, through Pakistani examples — the State Bank of Pakistan, a National Bank of Pakistan cheque, and Pakistan's own import/export goods.
 
@@ -64,4 +72,4 @@ Egypt's own way (Grade 7 Term 2, egypt-placements-b.md): Africa's economies are 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: trade balance visible balance, surplus deficit, ethiopia trade deficit, exports imports goods, social studies, macroeconomics, cambodia, egypt, vietnam, pakistan
+Searchable tags: trade balance visible balance, surplus deficit, ethiopia trade deficit, exports imports goods, social studies, macroeconomics, cambodia, egypt, vietnam, pakistan, samoa

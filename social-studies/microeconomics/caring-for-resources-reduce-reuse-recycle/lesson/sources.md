@@ -1,6 +1,6 @@
 # Sources — Caring for resources — reduce, reuse, recycle
 
-countries: Ethiopia, Zambia, Bahamas, Jordan, Fiji, Bulgaria, Iran, India, Colombia
+countries: Ethiopia, Zambia, Bahamas, Jordan, Fiji, Bulgaria, Iran, India, Colombia, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -86,7 +86,15 @@ countries: Ethiopia, Zambia, Bahamas, Jordan, Fiji, Bulgaria, Iran, India, Colom
 |---|---|
 | Colombia part — Unidad 3, Guía 6: los recursos naturales se pueden agotar — teaches: badly used resources run out (polluted rivers, felled forests, dynamite fishing); communities must use natural resources responsibly because people depend on them to survive | Colombia, *Colombia Grade 2 Escuela Nueva G2 Cartilla 1*, Unidad 3, Guía 6: los recursos naturales se pueden agotar — printed p. 108 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bahamas, Jordan, Fiji, Bulgaria, Iran, India, Colombia). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 14:** *Social Studies — Year 9 Book One* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted 2004); ISBN 982-517-008-5. Title as printed: Social Studies — Year 9 Book One. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 12, 27–33, 35–56 (Units 1–3 resource/economic-activity parts); Geography parts pp. 5–26 (environments, land, rainforest, water and marine resources topics inside Unit 1); Civics parts pp. 57–84 (Unit 4 Being Part of a Group — groups, village organisation, Tonga's political system). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3 Topic 3, Managing Resources — teaches: managing and conserving resources for the future, through Samoa's shrinking forest (37% of the original area remaining) and its competing users | Samoa, *Year 9 Social Studies Book 1*, Unit 3 Topic 3, Managing Resources — printed p. 49 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Bahamas, Jordan, Fiji, Bulgaria, Iran, India, Colombia, Samoa). Zambia is teacher-module evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 9 Social Studies Book 1): Economics begins as sharing — resources are limited and shared by allocation, distribution and management, and exchange is taught from Samoan ceremonial exchange (si'i) and Solomon Islands traditional money before the modern monetary system.
 
 Colombia's own way (Colombia Grade 2 Escuela Nueva G2 Cartilla 1): rural Escuela Nueva children learn the economy from their own vereda — farm, livestock and fishing work first, then how town and country exchange products.
 
@@ -115,4 +123,4 @@ Bulgaria's own way (Bulgaria Grade 10 Geography and Economics): at Grade 10 the 
 
 Iran's own way (Iran Grade 3 Social Studies): Economics enters at Grade 3 through the family — needs, income, natural resources and careful consumption, with wastefulness (اسراف) framed as a religious as well as practical fault.
 
-Searchable tags: conservation pollution, reduce reuse recycle, waste, ethiopia, zambia, natural resource management, tree planting, teacher module evidence, social studies, microeconomics, bahamas, jordan, Fiji, bulgaria, iran, india, colombia
+Searchable tags: conservation pollution, reduce reuse recycle, waste, ethiopia, zambia, natural resource management, tree planting, teacher module evidence, social studies, microeconomics, bahamas, jordan, Fiji, bulgaria, iran, india, colombia, samoa

@@ -1,6 +1,6 @@
 # Sources — Development — Meanings, Paradigms, Approaches and Indicators
 
-countries: Indonesia, Egypt, Jordan, Honduras
+countries: Indonesia, Egypt, Jordan, Honduras, Samoa
 
 **Book 1:** *Geografi untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Kemendikbudristek; year 2022 (Cetakan Pertama); ISBN 978-602-427-914-1 (jil. 2); author Budi Handoyo. Title as printed: Geografi untuk SMA/MA Kelas XII. Grade 12 / SMA/MA Kelas XII (student). 288 PDF pp. (cover verified: "GEOGRAFI — SMA/MA Kelas XII", Kemendikbudristek 2022; xii + 276 printed pages). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
 
@@ -25,7 +25,15 @@ countries: Indonesia, Egypt, Jordan, Honduras
 |---|---|
 | Honduras part — Lesson 35 "Desarrollo económico de América Latina" — teaches: development means access to health, education, employment and good infrastructure; underdevelopment is its absence — the first world manufactures while Latin America supplies raw materials | Honduras, *Honduras Grade 8 G8 Student CCSS*, Lesson 35 "Desarrollo económico de América Latina" — printed p. 212 |
 
-**Acceptance count: taught in 4 countries (Indonesia, Egypt, Jordan, Honduras).**
+**Book 5:** *Social Studies — Year 9 Book Three* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2002 (reprinted 2004); ISBN 982-517-029-8. Title as printed: Social Studies — Year 9 Book Three. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 74 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Culture parts pp. 5–39 (Unit 1 Cultural Treasures; Unit 2 Technology and Culture); Economics parts pp. 40–54 (Unit 3 Development); Geography/Culture parts pp. 55–74 (Unit 4 Development and Daily Life — India and Samoa compared through photographs and profiles). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3 Topic 2, What Is Development and Change? — teaches: development as people (government, special banks, NGOs) working to improve lives, with Tanzania's president's definition of equal rights and rising material welfare | Samoa, *Year 9 Social Studies Book 3*, Unit 3 Topic 2, What Is Development and Change? — printed p. 46 |
+
+**Acceptance count: taught in 5 countries (Indonesia, Egypt, Jordan, Honduras, Samoa).**
+
+Samoa's own way (Year 9 Social Studies Book 3): Development is taught by direct comparison — Samoa's own indicators (GNI per capita US$1430, life expectancy 69) are set beside India's and the USA's in one table pupils must graph and rank.
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience.
 
@@ -33,6 +41,6 @@ Jordan's own way (Jordan Grade 8 Term 1): Development is taught head-on — grow
 
 Honduras's own way (Honduras Grade 8 G8 Student CCSS): Grade 8 teaches Latin America's development problem head-on — development vs underdevelopment, the integration ladder, and the debt lesson built around Honduras's own fiscal-deficit chart and the structural-adjustment era.
 
-Searchable tags: development — meanings, paradigms, approaches and indicators, Indonesia, Geografi untuk SMA/MA Kelas XII, social studies, people and resources, jordan, honduras
+Searchable tags: development — meanings, paradigms, approaches and indicators, Indonesia, Geografi untuk SMA/MA Kelas XII, social studies, people and resources, jordan, honduras, samoa
 
 Egypt's own way (Grade 11): a whole secondary book on development geography alone, built as concept → resources → economy → people: the idea of development traced as it widened (economic, then human, then sustainable development, with its principles of comprehensiveness, integration and sustainability), resources always paired with how to manage them, and the human-development unit closing with full worked country models (Malaysia profiled in depth — position, poverty fall, education, health, electronics and car industries — and Brazil) before the future of development in the Arab homeland.

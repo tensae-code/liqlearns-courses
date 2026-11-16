@@ -1,6 +1,6 @@
 # Sources — Productivity — why some countries are rich
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Armenia, Nicaragua
+countries: Ethiopia, Malaysia, Albania, Dominica, Armenia, Nicaragua, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -62,7 +62,15 @@ countries: Ethiopia, Malaysia, Albania, Dominica, Armenia, Nicaragua
 |---|---|
 | Nicaragua part — Adelantos científicos y tecnológicos en Nicaragua — teaches: Nicaragua's own scientific and technological advances as the closing lesson — technology applied to the national economy | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Adelantos científicos y tecnológicos en Nicaragua — printed pp. 285–291 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Dominica, Armenia, Nicaragua). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 4 Productivity — teaches: productivity as output per unit of input, calculated for labour, capital and land, with a chocolate-factory case where output rises but productivity falls | Samoa, *Year 12 Economics*, Unit 4 Productivity — printed p. 27 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Dominica, Armenia, Nicaragua, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Nicaragua's own way (Nicaragua Grade 8 Ciencias Sociales 8° Grado (Módulo Autoformativo, Primera Parte)): Economics arrives as "Space and Economy" for the whole continent — technology, globalisation, integration and free-trade treaties read critically from Central America's position, with the maquila and CAFTA debated from Nicaraguan experience, closing on sustainable development and quality of life.
 
@@ -82,4 +90,4 @@ Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: productivity, living standards, four determinants, physical human capital, natural resources, technological knowledge, Kuznets five characteristics, GDP income expenditure identity, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, armenia, nicaragua
+Searchable tags: productivity, living standards, four determinants, physical human capital, natural resources, technological knowledge, Kuznets five characteristics, GDP income expenditure identity, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, armenia, nicaragua, samoa

@@ -1,6 +1,6 @@
 # Sources — Managing Credit And Loans
 
-countries: Armenia, Ecuador, Laos, Palestine, Albania, Fiji, Vietnam, Bulgaria, India
+countries: Armenia, Ecuador, Laos, Palestine, Albania, Fiji, Vietnam, Bulgaria, India, Samoa
 
 **Book 1:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (title page 2024); ISBN 978-9939-99-040-8. Authors: K. Harutyunyan, H. Barseghyan, N. Galstyan, A. Manucharyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography-scope parts placed below: Theme 3 "Market economy" (printed pp. 54-87) and Theme 4 "Personal finance management" (pp. 88-127). NOT placed (named for later waves): Theme 1 "Problems of modern man and society" (pp. 4-18), Theme 2 "Political ideologies" (pp. 19-53). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -102,7 +102,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | India part — Ch 3: two credit situations — Salim's loans let him complete a shoe order and profit, while Swapna's moneylender loan, hit by crop failure, grows into a debt trap that costs her part of her land — teaches: when credit helps and when it traps | India, *India Grade 10 Understanding Economic Development*, Ch 3 — printed p. 43 |
 
-**Acceptance count: taught in 8 countries (Armenia, Ecuador, Laos, Palestine, Fiji, Vietnam, Bulgaria, India). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 15:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 7, Where to Borrow From / Summary — teaches: sources of borrowing (banks, credit unions, finance companies, retailers, family) and credit types (personal loans, overdraft, mortgage, hire purchase, shop credit) with interest | Samoa, *Year 10 Business Studies Book 1*, Unit 7, Where to Borrow From / Summary — printed p. 63 |
+
+**Acceptance count: taught in 9 countries (Armenia, Ecuador, Laos, Palestine, Fiji, Vietnam, Bulgaria, India, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
 
 India's own way (India Grade 6 Social and Political Life-I): Economics enters through lived livelihood stories — named workers (a landless labourer, a small farmer in debt to a trader, a rickshaw puller, a casual garment worker, a salaried manager) whose earnings, loans and job security are compared in tables.
 
@@ -129,4 +137,4 @@ Laos' own way (Laos Grade 11 Business student): the market is defined three ways
 
 Bulgaria's own way (Bulgaria Grade 7 Technology and Entrepreneurship): Grade 7 registers a firm — the class founds a student company, chooses between sole trader, partnership and limited company by who answers with their own property, writes its founding budget, and scores its market chance before it sells anything.
 
-Searchable tags: managing credit and loans, Armenia, Ecuador, good debts, bad debts, family debts, social studies, culture-and-work, laos, start-up money, collateral, 5 Cs of credit, palestine, albania, Fiji, vietnam, bulgaria, india
+Searchable tags: managing credit and loans, Armenia, Ecuador, good debts, bad debts, family debts, social studies, culture-and-work, laos, start-up money, collateral, 5 Cs of credit, palestine, albania, Fiji, vietnam, bulgaria, india, samoa

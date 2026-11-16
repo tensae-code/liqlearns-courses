@@ -1,6 +1,6 @@
 # Sources — Where Industry Locates Location Factors
 
-countries: Kazakhstan, South Sudan, Palestine, Venezuela, Egypt, Yemen, Iraq, India, Nigeria
+countries: Kazakhstan, South Sudan, Palestine, Venezuela, Egypt, Yemen, Iraq, India, Nigeria, Samoa
 
 **Book 1:** *География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова)* (student book, Russian) — Алматы «Мектеп»; year 2025; ISBN 978-601-07-1773-2. Title as printed: География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова). Grade: 8 (student/teacher: STUDENT). PDF pages: 273 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1531.pdf, 51,336,177 bytes from the recorded okulyk.kz source, page count matches the record; printed book 272 pp). Verdict: COMPLETE. Parallel editions named, not double-counted: record 309.pdf — the 2018 first edition in Kazakh, ISBN 978-601-07-0964-5, 256 printed pp, identical §§1–54 structure verified from its contents; record 344.pdf — the 2018 first edition in Russian, ISBN 978-601-07-0969-0, 264 printed pp, cover/verso verified; reissue records 1432.pdf and 1486.pdf belong to the same editions. The book is placed once here, under this 2025 edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -83,7 +83,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Nigeria part — Chapter 9 — Location and localisation of industry — teaches: factors in the location and localisation of industry | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 9 — Location and localisation of industry — printed p. 111 |
 
-**Acceptance count: taught in 8 countries (Kazakhstan, Palestine, Venezuela, Egypt, Yemen, Iraq, India, Nigeria). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+**Book 15:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 4, Activity 1 Case Study — teaches: location decisions through Samuelu's Lefaga copra business and Ioane's Apia welding business (raw materials, labour, power, transport, market, banking) | Samoa, *Year 10 Business Studies Book 1*, Unit 4, Activity 1 Case Study — printed p. 35 |
+
+**Acceptance count: taught in 9 countries (Kazakhstan, Palestine, Venezuela, Egypt, Yemen, Iraq, India, Nigeria, Samoa). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -107,4 +115,4 @@ Kazakhstan's own way (Kazakhstan Grade 8 Sakhova NIS): the NIS Grade 8 course ph
 
 Egypt's own way (Grade 9 combined edition, egypt-placements.md): Economics is taught as world economic geography — each activity (farming, grazing, mining, industry) is mapped worldwide with production bar charts, and every foreign country model ends with a section on that country's economic relations with Egypt.
 
-Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan, palestine, venezuela, egypt, yemen, iraq, india, nigeria
+Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan, palestine, venezuela, egypt, yemen, iraq, india, nigeria, samoa

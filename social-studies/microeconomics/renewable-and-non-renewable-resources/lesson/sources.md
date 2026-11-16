@@ -1,6 +1,6 @@
 # Sources — Renewable and non-renewable resources
 
-countries: Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India, Colombia
+countries: Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India, Colombia, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -195,7 +195,23 @@ Bangladesh's own way (Bangladesh Grade 6 History and Social Science): in the new
 |---|---|
 | Colombia part — Unidad 2, Tema 10: la despensa natural del ser humano — teaches: natural resources are the elements of nature a population uses to satisfy its needs; by their formation time they classify as renewable or non-renewable, and destroying resources is attacking life itself | Colombia, *Colombia Grade 6 Secundaria Activa G6*, Unidad 2, Tema 10: la despensa natural del ser humano — printed p. 92 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India, Colombia).**
+**Book 31:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 2, Renewable and Non-Renewable Resources — teaches: renewable resources can be regrown or replaced (plants, fish, forests); non-renewable ones are gone forever once used (petrol, oil, minerals) | Samoa, *Year 9 Business Studies Book 1*, Unit 2, Renewable and Non-Renewable Resources — printed p. 30 |
+
+**Book 32:** *Social Studies — Year 9 Book One* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted 2004); ISBN 982-517-008-5. Title as printed: Social Studies — Year 9 Book One. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 12, 27–33, 35–56 (Units 1–3 resource/economic-activity parts); Geography parts pp. 5–26 (environments, land, rainforest, water and marine resources topics inside Unit 1); Civics parts pp. 57–84 (Unit 4 Being Part of a Group — groups, village organisation, Tonga's political system). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1 Topic 2, Our Resources — teaches: resources defined, and renewable, non-renewable, finite and man-made resources classified from the school environment | Samoa, *Year 9 Social Studies Book 1*, Unit 1 Topic 2, Our Resources — printed p. 12 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic, Palestine, Dominica, Jordan, Bangladesh, Egypt, Fiji, Bulgaria, Iran, India, Colombia, Samoa).**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
+
+Samoa's own way (Year 9 Social Studies Book 1): Economics begins as sharing — resources are limited and shared by allocation, distribution and management, and exchange is taught from Samoan ceremonial exchange (si'i) and Solomon Islands traditional money before the modern monetary system.
 
 Colombia's own way (Colombia Grade 6 Postprimaria G6): Postprimaria teaches Economics through indigenous production systems — ancestral farming, crafts, barter and the fights over tagua and coltan.
 
@@ -240,4 +256,4 @@ Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grad
 
 Iran's own way (Iran Grade 6 Social Studies): the energy chapter turns Iran's oil story into a class debate — oil is a finite natural heritage, foreign companies took the profit for a century, and the country must learn to export other goods instead of depending on oil.
 
-Searchable tags: renewable non-renewable resources, fixed stock, recycling, solar soil coal oil, ethiopia, nauru, niue, tuvalu, syria, oil, gas, phosphates, natural resources, social studies, microeconomics, uganda, natural resources of uganda, east africa resources, land water minerals, resource conservation, misuse of resources, mongolia, exhaustible non-exhaustible, gold, dominican republic, palestine, jordan, bangladesh, egypt, Fiji, bulgaria, iran, india, colombia
+Searchable tags: renewable non-renewable resources, fixed stock, recycling, solar soil coal oil, ethiopia, nauru, niue, tuvalu, syria, oil, gas, phosphates, natural resources, social studies, microeconomics, uganda, natural resources of uganda, east africa resources, land water minerals, resource conservation, misuse of resources, mongolia, exhaustible non-exhaustible, gold, dominican republic, palestine, jordan, bangladesh, egypt, Fiji, bulgaria, iran, india, colombia, samoa

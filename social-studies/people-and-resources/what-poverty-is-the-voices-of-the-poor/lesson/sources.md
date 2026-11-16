@@ -1,6 +1,6 @@
 # Sources — What poverty is — the voices of the poor
 
-countries: Ethiopia, Zimbabwe, Kuwait
+countries: Ethiopia, Zimbabwe, Kuwait, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -26,7 +26,15 @@ countries: Ethiopia, Zimbabwe, Kuwait
 | Kuwait part — Poverty and education: a global social and cultural challenge — the concept of poverty, treated together with education as a world challenge | Kuwait, *Kuwait Grade 9 Social Studies G9 T2*, Poverty and education: a global social and cultural challenge — printed p. 74 |
 
 
-**Acceptance count: taught in 2 countries (Ethiopia, Kuwait). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Book 5:** *Social Studies — Year 9 Book Three* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2002 (reprinted 2004); ISBN 982-517-029-8. Title as printed: Social Studies — Year 9 Book Three. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 74 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Culture parts pp. 5–39 (Unit 1 Cultural Treasures; Unit 2 Technology and Culture); Economics parts pp. 40–54 (Unit 3 Development); Geography/Culture parts pp. 55–74 (Unit 4 Development and Daily Life — India and Samoa compared through photographs and profiles). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3 Topic 1, Why Do We Have Development and Change? — teaches: poverty, inequality and wealth defined, with rich-world/poor-world facts (richest 10% use 60% of goods and services; 20% of the world in poverty) | Samoa, *Year 9 Social Studies Book 3*, Unit 3 Topic 1, Why Do We Have Development and Change? — printed p. 41 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Kuwait, Samoa). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+
+Samoa's own way (Year 9 Social Studies Book 3): Development is taught by direct comparison — Samoa's own indicators (GNI per capita US$1430, life expectancy 69) are set beside India's and the USA's in one table pupils must graph and rank.
 
 Kuwait's own way (Kuwait Grade 8 Term 2): economics appears inside the Islamic world's challenge list — population pressure, poverty and its causes — and inside its institutions, above all the Islamic Development Bank as the development-finance answer.
 
@@ -34,6 +42,6 @@ Kuwait's own way (Kuwait Grade 9 Term 2): the middle-stage course closes by goin
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: what poverty is — the voices of the poor, grade 12 economics, ethiopia, social studies, people and resources
+Searchable tags: what poverty is — the voices of the poor, grade 12 economics, ethiopia, social studies, people and resources, samoa
 
 Zimbabwe's own way (Grade 5) (teacher guide — evidence): Grade 5 transport is taught as a landlocked country's system — goods by rail/road/air/sea, animal transport (riding, leading, herding), and the roadports, seaports and airports Zimbabwe depends on; shelter links heritage sites (Matobo Hills) and map-drawing of Zimbabwe to building safely in disaster-prone areas. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.

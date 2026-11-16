@@ -1,6 +1,6 @@
 # Sources — Monetary policy — the central bank's lever
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Cambodia, Uzbekistan, Fiji, Armenia, Indonesia, Nicaragua, Pakistan
+countries: Ethiopia, Malaysia, Albania, Dominica, Cambodia, Uzbekistan, Fiji, Armenia, Indonesia, Nicaragua, Pakistan, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -70,7 +70,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Pakistan part — Ch. 3.5 Functions of Central Bank — teaches: the central bank's functions — issue of notes, lender of the last resort, clearing house of the banks, custodian of cash reserves, custodian of metallic reserves and foreign exchange, controller of the money market — and its credit-control methods, quantitative (bank rate, open market operations, change in reserve ratio) and qualitative (marginal requirements, consumer's credit control, moral persuasion, direct action) | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 3.5 Functions of Central Bank — printed pp. 57-64 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Dominica, Cambodia, Uzbekistan, Fiji, Armenia, Indonesia, Nicaragua, Pakistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 12:** *Student Learning Guide — Samoa Business Studies Curriculum, Economics Year 13* (student learning guide, English) — Mahobe Resources NZ Ltd for MESC Samoa, funded by NZAID; prepared by Lili Tuioti; year no year printed; ISBN no ISBN printed. Title as printed: Student Learning Guide — Samoa Business Studies Curriculum, Economics Year 13. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 27 (cover/title page verified against the record title). Verdict: PARTIAL — the guide's achievement-objective mapping tables to the New Zealand textbook (Achievement Economics Year 12, Anne Younger) are curriculum mapping, not teaching, and are not placed; the guide's own Samoa teaching notes (government role, market failure, Central Bank, Samoan market structures, government finance data, and the closing Economy of Samoa session) are placed below. Contents map: Economics teaching notes pp. 2–22 (Production: role of government, government issues, trade concepts, markets; Consumption: government income and spending; The Market: money supply, inflation, trade performance, exchange rates, developed/developing economies; The Economy of Samoa pp. 20–22). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Production 2, Monetary Policy — teaches: monetary policy controlling money and credit through the Central Bank of Samoa's control of commercial banks' lending | Samoa, *Year 13 Economics Guide*, Production 2, Monetary Policy — printed p. 6 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, Dominica, Cambodia, Uzbekistan, Fiji, Armenia, Indonesia, Nicaragua, Pakistan, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 13 Economics Guide): Year 13 economics is anchored on Samoa itself — the Central Bank of Samoa (not a generic central bank), one oil supplier as a Samoan monopoly, Samoan government revenue/expenditure tables, and a closing national-economy session built from the Central Bank Governor's 2002 address.
 
 Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
 
@@ -93,4 +101,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: monetary policy — the central bank's lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, cambodia, uzbekistan, Fiji, armenia, indonesia, nicaragua, pakistan
+Searchable tags: monetary policy — the central bank's lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, cambodia, uzbekistan, Fiji, armenia, indonesia, nicaragua, pakistan, samoa

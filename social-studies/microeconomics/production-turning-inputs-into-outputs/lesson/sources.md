@@ -1,6 +1,6 @@
 # Sources — Production — turning inputs into outputs
 
-countries: Ethiopia, Syria, France, Bahamas, Zimbabwe, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia, Nicaragua, Bulgaria, Iran, Colombia, Nigeria, Greece, Papua New Guinea
+countries: Ethiopia, Syria, France, Bahamas, Zimbabwe, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia, Nicaragua, Bulgaria, Iran, Colombia, Nigeria, Greece, Papua New Guinea, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -192,7 +192,31 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Papua New Guinea evidence — Unit 9.1: production and the distribution process from producer to consumer, researched through two PNG-made products described stage by stage with a flow chart (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grades 9–10 Business Studies TG*, Unit 9.1 — printed p. 27 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Syria, France, Bahamas, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia, Nicaragua, Bulgaria, Iran, Colombia, Nigeria, Greece). Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 31:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 2, Production — teaches: production as a process (taro palagi planted, packed, cooked into chips, sold) and defined as making and selling goods and services to satisfy needs and wants (Economics expansion, 2026-11-16; original placement slug: microeconomics/production — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 9 Business Studies Book 1*, Unit 2, Production — printed p. 27 |
+
+**Book 32:** *Social Studies — Year 9 Book One* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted 2004); ISBN 982-517-008-5. Title as printed: Social Studies — Year 9 Book One. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 12, 27–33, 35–56 (Units 1–3 resource/economic-activity parts); Geography parts pp. 5–26 (environments, land, rainforest, water and marine resources topics inside Unit 1); Civics parts pp. 57–84 (Unit 4 Being Part of a Group — groups, village organisation, Tonga's political system). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 2 Economic Activities, Goods and Services — teaches: production in two forms, goods (things you can touch, buy and exchange) and services (work done for others) | Samoa, *Year 9 Social Studies Book 1*, Unit 2 Economic Activities, Goods and Services — printed p. 29 |
+
+**Book 33:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3 Production of Goods and Services — teaches: production as making goods and providing services that satisfy needs and wants | Samoa, *Year 10 Business Studies Book 1*, Unit 3 Production of Goods and Services — printed p. 25 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Syria, France, Bahamas, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia, Nicaragua, Bulgaria, Iran, Colombia, Nigeria, Greece, Samoa). Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
+
+Samoa's own way (Year 9 Social Studies Book 1): Economics begins as sharing — resources are limited and shared by allocation, distribution and management, and exchange is taught from Samoan ceremonial exchange (si'i) and Solomon Islands traditional money before the modern monetary system.
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
 
 Papua New Guinea's own way (Papua New Guinea Grade 3 Social Science TG): Economics enters at Grade 3 as a "Trade" strand built from village life — needs and wants vary by place (a canoe is a need on the coast, not in the highlands), production is taught through making a food garden, and trade starts with traditional exchange and traditional money before modern money and EFTPOS. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -251,4 +275,4 @@ Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lyk
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: production inputs outputs, tangible intangible, wheat example, ethiopia, syria, made in syria, bread, raw materials, france, ses, market non-market production, social studies, microeconomics, bahamas, zimbabwe, teacher guide evidence, jordan, cambodia, bangladesh, Fiji, vietnam, armenia, nicaragua, bulgaria, iran, colombia, nigeria, greece, papua new guinea, teacher guide evidence
+Searchable tags: production inputs outputs, tangible intangible, wheat example, ethiopia, syria, made in syria, bread, raw materials, france, ses, market non-market production, social studies, microeconomics, bahamas, zimbabwe, teacher guide evidence, jordan, cambodia, bangladesh, Fiji, vietnam, armenia, nicaragua, bulgaria, iran, colombia, nigeria, greece, papua new guinea, teacher guide evidence, samoa

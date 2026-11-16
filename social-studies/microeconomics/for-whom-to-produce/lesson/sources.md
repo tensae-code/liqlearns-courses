@@ -1,6 +1,6 @@
 # Sources — For whom to produce?
 
-countries: Ethiopia, Laos, Bangladesh, Yemen, Armenia, Nicaragua, Greece
+countries: Ethiopia, Laos, Bangladesh, Yemen, Armenia, Nicaragua, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -54,7 +54,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Greece part — Ch.1 §2 The economy of Robinson Crusoe — teaches: the distribution question, which only appears once a second person joins production | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.1 §2 The economy of Robinson Crusoe — printed p. 10 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Laos, Bangladesh, Yemen, Armenia, Nicaragua, Greece).**
+**Book 9:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1 Economic Systems — teaches: the for-whom question, from custom and government command to those who can pay | Samoa, *Year 10 Business Studies Book 1*, Unit 1 Economic Systems — printed p. 7 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Laos, Bangladesh, Yemen, Armenia, Nicaragua, Greece, Samoa).**
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
@@ -68,4 +76,4 @@ Laos' own way (Laos Grade 10 Business student): Economics is taught as the theor
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: for whom to produce, distribution national product, necessities first, ethiopia, social studies, microeconomics, laos, produce for whom, rolls-royce, high-income buyers, bangladesh, yemen, armenia, nicaragua, greece
+Searchable tags: for whom to produce, distribution national product, necessities first, ethiopia, social studies, microeconomics, laos, produce for whom, rolls-royce, high-income buyers, bangladesh, yemen, armenia, nicaragua, greece, samoa

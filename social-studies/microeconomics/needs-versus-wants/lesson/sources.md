@@ -1,6 +1,6 @@
 # Sources — Needs versus wants
 
-countries: Rwanda, Jordan, Armenia, Bulgaria, Iraq
+countries: Rwanda, Jordan, Armenia, Bulgaria, Iraq, Samoa
 
 **Book 1:** *Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019)* (student book, English) — Rwanda, REB; year 2019; ISBN no ISBN printed. Title as printed: Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 113 (cover verified against the record title; 97,794,186 bytes via release grab, size-verified by grab.py; an earlier interrupted download was discarded as corrupt and re-grabbed). Verdict: COMPLETE. Contents map: Economics parts printed pp. 40–46 (Unit 4 Economy) and pp. 2–13 (Unit 1 Socio-economic activities in our district); other units: Human/children's rights pp. 16–28, Hygiene pp. 31–38, Civics and governance pp. 49–58, Geography units pp. 60–98, History (Traditional Rwanda) pp. 100–107, Religious Studies pp. 108–188 (named only, not placed); glossary p. 189 is inventory-only, not placed. Teacher evidence: the P4 teacher guide (New Primary Social and Religious Studies for Rwanda — P4 Teacher's Guide, 100 PDF pp.) mirrors this pupil book's Unit 4 Economy — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
 
@@ -52,7 +52,15 @@ countries: Rwanda, Jordan, Armenia, Bulgaria, Iraq
 |---|---|
 | Iraq part — Economic needs and wants — teaches: a want as a personal feeling that may rest on a passing whim or imitation, a need as any desire that finds an economic resource to satisfy it; needs arise from human nature (food, water, air, warmth) and from acquired factors, and advertising and technology keep creating new needs (Economics expansion, 2026-11-16; original placement slug: microeconomics/needs-vs-wants-what-you-must-have-vs-what-you-would-like — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 11 Economics*, Economic needs and wants — printed p. 12 |
 
-**Acceptance count: taught in 5 countries (Rwanda, Jordan, Armenia, Bulgaria, Iraq).**
+**Book 9:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 4, Prioritise Decisions — teaches: ranking choices in order of importance for a $20 tala birthday gift and for two free hours (Economics expansion, 2026-11-16; original placement slug: microeconomics/prioritising — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 9 Business Studies Book 1*, Unit 4, Prioritise Decisions — printed p. 50 |
+
+**Acceptance count: taught in 6 countries (Rwanda, Jordan, Armenia, Bulgaria, Iraq, Samoa).**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 
 Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
 
@@ -71,4 +79,4 @@ Bulgaria's own way (Bulgaria Grade 2 Technology and Entrepreneurship): the Grade
 
 Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grade 5 the subject becomes a real textbook and Economics gets its own section — scarcity is named as the science's central problem, and price is taught through two market diagrams: big demand lifts prices, big supply pushes them down until some firms go bankrupt.
 
-Searchable tags: needs versus wants, needs, wants, prioritise, rwanda, social studies, microeconomics, jordan, armenia, bulgaria, iraq
+Searchable tags: needs versus wants, needs, wants, prioritise, rwanda, social studies, microeconomics, jordan, armenia, bulgaria, iraq, samoa

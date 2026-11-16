@@ -1,6 +1,6 @@
 # Sources — Sources Of Income
 
-countries: Bhutan, Laos, Rwanda, South Sudan, Zimbabwe, Venezuela, Jordan, Fiji, Nepal, Iran
+countries: Bhutan, Laos, Rwanda, South Sudan, Zimbabwe, Venezuela, Jordan, Fiji, Nepal, Iran, Samoa
 
 **Book 1:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
@@ -150,7 +150,39 @@ South Sudan's own way (South Sudan Primary 2): work is introduced through the vi
 |---|---|
 | Iran part — Economics expansion — Lesson 10 "How are the family's needs met?": families need food, clothing and housing; most goods are bought in shops, some are made at home; everyone must work to meet needs, and the money earned from work is called income (درآمد, defined) | Iran, *Iran Grade 3 Social Studies*, Lesson 10 "How are the family's needs met?" — Iran Grade 3 Social Studies, printed p. 38 |
 
-**Acceptance count: taught in 9 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela, Jordan, Fiji, Nepal, Iran). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 24:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 5, Consumers and Producers are Interdependent — teaches: rent, wages, interest and profit as the incomes earned from the use of the factors of production | Samoa, *Year 9 Business Studies Book 1*, Unit 5, Consumers and Producers are Interdependent — printed p. 59 |
+
+**Book 25:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 5, Types and Sources of Income — teaches: income from work (wage, salary, fee, commission), from lending (rent, interest) and transferred income | Samoa, *Year 10 Business Studies Book 1*, Unit 5, Types and Sources of Income — printed p. 45 |
+
+**Book 26:** *Social Studies — Year 10 Book Three* (student book, English) — Government of Samoa, Department of Education; year 2002; ISBN 982-517-030-1. Title as printed: Social Studies — Year 10 Book Three. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 5–37, 60 (Unit 1 Access to Resources, Goods and Services; Unit 3 Topic 1 development projects); History parts pp. 38–58 (Unit 2 People and Economic Participation — the Industrial Revolution in Britain); Geography parts pp. 59–99 (Unit 3 Topics 2–4 locating development, viewpoints, conflict and consensus; Unit 4 The Role of Technology). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1 Topic 1, Income — teaches: earned income (wages, salary, fees, commission, profit) versus unearned income (rent, interest, inheritance, superannuation, overseas remittances) in one Samoan table | Samoa, *Year 10 Social Studies Book 3*, Unit 1 Topic 1, Income — printed p. 9 |
+
+**Book 27:** *Business Studies — Year 11 Book Two* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2003 (reprinted 2004 with minor amendments); ISBN 982-517-046-8. Title as printed: Business Studies — Year 11 Book Two. Grade: Year 11 (student/teacher: STUDENT). PDF pages: 102 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–17 (Unit 1 Economic Management); Business part p. 18 (Unit 2 Small Business Enterprises); Accounting parts pp. 29–98 (Unit 3 Financial Reporting for Sole Proprietor Businesses; Unit 4 Financial Reporting for Community Organisations; Unit 5 Journals; Unit 6 Double Entry Ledger Accounts; Unit 7 Financial Statements for Sole Proprietor Businesses); Key Vocabulary p. 99 (inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Income — teaches: earned income (wages, salaries, profit, commission, fees) versus unearned income (lotto winnings, interest, rent, dividends, inheritances, benefits and remittances from overseas) | Samoa, *Year 11 Business Studies Book 2*, Unit 1, Income — printed p. 8 |
+
+**Acceptance count: taught in 10 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela, Jordan, Fiji, Nepal, Iran, Samoa). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
+
+Samoa's own way (Year 10 Social Studies Book 3): Access is the organising idea — whether a Samoan can get goods depends on income type, tax, government policy, land tenure and social position, each taught with Samoan data (formal employment 2000, a pupil's tax essay, farming/fishing tax exemptions).
+
+Samoa's own way (Year 11 Business Studies Book 2): Economic management is tested against Samoan values — a wedding budget where six family branches each raise $800, church donations count as essential spending, and an emergency fund is kept for sua and tofa obligations.
 
 Nepal's own way (Nepal Grade 4 Social Studies & Creative Arts G4): the family budget is taught by contrasting two households' real monthly income-and-expenditure tables (Rs. 10,000 against Rs. 15,000), and a family's income is drawn as a pie chart of its sources — milk, chickens, vegetables.
 
@@ -189,4 +221,4 @@ Jordan's own way (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family 
 
 Iran's own way (Iran Grade 3 Social Studies): Economics enters at Grade 3 through the family — needs, income, natural resources and careful consumption, with wastefulness (اسراف) framed as a religious as well as practical fault.
 
-Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan, zimbabwe, teacher guide evidence, venezuela, jordan, Fiji, nepal, iran
+Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan, zimbabwe, teacher guide evidence, venezuela, jordan, Fiji, nepal, iran, samoa

@@ -1,6 +1,6 @@
 # Sources — Scarcity forces choice
 
-countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece, Papua New Guinea
+countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece, Papua New Guinea, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -118,7 +118,55 @@ countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulg
 |---|---|
 | Papua New Guinea evidence — Unit 4, Topic 1: Satisfying needs and wants through technology: the basic economic problem — unlimited needs and wants against limited resources — and the choices it forces on individuals, firms and governments, as the frame for why technology is used to satisfy needs and wants (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG*, Unit 4, Topic 1: Satisfying needs and wants through technology — printed p. 226 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Syria, Mongolia, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 20:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, The Economic Problem — teaches: there are never enough resources to meet unlimited needs and wants, so producers face the problem of how to obtain and use limited resources | Samoa, *Year 9 Business Studies Book 1*, Unit 1, The Economic Problem — printed p. 7 |
+
+**Book 21:** *Social Studies — Year 9 Book One* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted 2004); ISBN 982-517-008-5. Title as printed: Social Studies — Year 9 Book One. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 12, 27–33, 35–56 (Units 1–3 resource/economic-activity parts); Geography parts pp. 5–26 (environments, land, rainforest, water and marine resources topics inside Unit 1); Civics parts pp. 57–84 (Unit 4 Being Part of a Group — groups, village organisation, Tonga's political system). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3 Topic 1, Allocation of Resources — teaches: resources are limited and vary from island to island, so sharing needs planning and wise management for future generations | Samoa, *Year 9 Social Studies Book 1*, Unit 3 Topic 1, Allocation of Resources — printed p. 35 |
+
+**Book 22:** *Social Studies — Year 10 Book Three* (student book, English) — Government of Samoa, Department of Education; year 2002; ISBN 982-517-030-1. Title as printed: Social Studies — Year 10 Book Three. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 5–37, 60 (Unit 1 Access to Resources, Goods and Services; Unit 3 Topic 1 development projects); History parts pp. 38–58 (Unit 2 People and Economic Participation — the Industrial Revolution in Britain); Geography parts pp. 59–99 (Unit 3 Topics 2–4 locating development, viewpoints, conflict and consensus; Unit 4 The Role of Technology). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1 Introduction — teaches: resources are scarce and not infinite, so an economic system must choose what to produce and people must choose what to buy with their income | Samoa, *Year 10 Social Studies Book 3*, Unit 1 Introduction — printed p. 7 |
+
+**Book 23:** *Business Studies — Year 11 Book One* (student book, English) — Samoa Department of Education; year 2003; ISBN 982-517-042-5. Title as printed: Business Studies — Year 11 Book One. Grade: Year 11 (student/teacher: STUDENT). PDF pages: 102 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 5–6, 45–88 (Introduction on economic choices; Unit 4 Supply of Goods and Services; Unit 5 Consumption of Goods and Services; Unit 6 Demand for Goods and Services; Unit 7 Rights and Obligations of Consumers and Producers); Business parts pp. 7–44 (Unit 1 Business Organisations in the Samoan Economy; Unit 2 Business Management; Unit 3 Business Operations in the Market Place) and p. 89 (Unit 8 Insurance); Key Vocabulary p. 98 (inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Introduction, Economic Choices — teaches: most daily decisions are economic choices (the evening meal, a cousin's wedding gift, a VAGST rise to 12.5%) while some are non-economic, and businesses, community organisations and governments make economic decisions too (Economics expansion, 2026-11-16; original placement slug: microeconomics/making-economic-choices — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 11 Business Studies Book 1*, Introduction, Economic Choices — printed p. 6 |
+
+**Book 24:** *Business Studies — Year 11 Book Two* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2003 (reprinted 2004 with minor amendments); ISBN 982-517-046-8. Title as printed: Business Studies — Year 11 Book Two. Grade: Year 11 (student/teacher: STUDENT). PDF pages: 102 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–17 (Unit 1 Economic Management); Business part p. 18 (Unit 2 Small Business Enterprises); Accounting parts pp. 29–98 (Unit 3 Financial Reporting for Sole Proprietor Businesses; Unit 4 Financial Reporting for Community Organisations; Unit 5 Journals; Unit 6 Double Entry Ledger Accounts; Unit 7 Financial Statements for Sole Proprietor Businesses); Key Vocabulary p. 99 (inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Decision Making — teaches: decisions about financial resources weighed with non-financial benefits and costs and the decision-maker's values, not money alone (Economics expansion, 2026-11-16; original placement slug: microeconomics/making-economic-choices — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 11 Business Studies Book 2*, Unit 1, Decision Making — printed p. 16 |
+
+**Book 25:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1 Economics The Basics — teaches: unlimited wants, limited resources and scarcity forcing choice | Samoa, *Year 12 Economics*, Unit 1 Economics The Basics — printed p. 7 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Syria, Mongolia, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
+
+Samoa's own way (Year 9 Social Studies Book 1): Economics begins as sharing — resources are limited and shared by allocation, distribution and management, and exchange is taught from Samoan ceremonial exchange (si'i) and Solomon Islands traditional money before the modern monetary system.
+
+Samoa's own way (Year 10 Social Studies Book 3): Access is the organising idea — whether a Samoan can get goods depends on income type, tax, government policy, land tenure and social position, each taught with Samoan data (formal employment 2000, a pupil's tax essay, farming/fishing tax exemptions).
+
+Samoa's own way (Year 11 Business Studies Book 1): The market strand is taught with Samoan schedules — Ioane's barbershop supply curve, Kuki's juice, taro supply before White Sunday, Lesina's sticky-bun demand at the school canteen.
+
+Samoa's own way (Year 11 Business Studies Book 2): Economic management is tested against Samoan values — a wedding budget where six family branches each raise $800, church donations count as essential spending, and an emergency fund is kept for sua and tofa obligations.
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG): Grade 10 Economics is the labour and capitalism year — two full units on labour (unions, division of labour, labour law, labour costs), then the market system judged by its costs and benefits, trade through television and the internet, and a closing unit interrogating the capitalist ideology itself. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -160,4 +208,4 @@ Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lyk
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: scarcity choice chain, limited output, households firms governments choose, ethiopia, syria, syrian pounds, necessary purchases, postponable purchases, social studies, microeconomics, mongolia, opportunity cost, family examples, albania, egypt, yemen, Fiji, armenia, bulgaria, iran, iraq, pakistan, greece, papua new guinea, teacher guide evidence
+Searchable tags: scarcity choice chain, limited output, households firms governments choose, ethiopia, syria, syrian pounds, necessary purchases, postponable purchases, social studies, microeconomics, mongolia, opportunity cost, family examples, albania, egypt, yemen, Fiji, armenia, bulgaria, iran, iraq, pakistan, greece, papua new guinea, teacher guide evidence, samoa

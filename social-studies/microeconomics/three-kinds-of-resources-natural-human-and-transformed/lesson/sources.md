@@ -1,6 +1,6 @@
 # Sources — Three kinds of resources — natural, human and transformed
 
-countries: Bangladesh, Bulgaria
+countries: Bangladesh, Bulgaria, Samoa
 
 **Book 1:** *History and Social Science, Class Six* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board, Bangladesh; year 2022 (published December 2022, reprint 2023; pages carry Academic Year 2024); ISBN no ISBN printed. Title as printed: History and Social Science, Class Six (Experimental version, National Curriculum 2022). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 184 in each edition (covers verified in both editions: English cover "History and Social Science, Class Six", NCTB Bangladesh; Bangla cover the same title in Bangla script with identical cover art — both match the record titles; English read fully, Bangla spot-checked — cover, contents page and the Society and Resources spread at printed p. 155 are identical in structure and page spans, so the book is placed once with both editions named). Verdict: COMPLETE. Contents map: Economics parts printed pp. 155–165 (Society and Resources); History pp. 32–35, 50–113; Geography pp. 50–81 (landform and nature-conservation chapters shared with History); Civics pp. 26–31 (Active Citizens Club) and the social-structures material at pp. 117–133; Science pp. 36–49 and the environment material at pp. 134–154; Society/Identity pp. 1–25; Book Reading Programme pp. 114–116 is a pure activity programme (named, not placed); Appendix pp. 166–175. Records: 10 records / 4 distinct grade-level books, each in Bangla and English parallel editions (read English fully, spot-check Bangla cover + contents + spreads; placed once per book, both editions named). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bangladesh-placements.md
 
@@ -17,9 +17,17 @@ Bangladesh's own way (Bangladesh Grade 6 History and Social Science): in the new
 |---|---|
 | Bulgaria part — Economics expansion — "Needs and resources" (Потребности и ресурси): producing goods and services needs resources — natural, human and capital; natural resources are nature's wealth and phenomena arising without human intervention (sun, earth, water, trees); human resources are people with their capacity to work, education, professional qualification and motivation; capital resources are the material and immaterial means created by people and used to produce goods and services (power, water and sewerage networks, transport, communications, equipment and technologies, schools, hospitals) — and money turns into capital when it is used to produce goods and services (filed as microeconomics/needs-and-resources-for-production; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 5 Technology and Entrepreneurship*, "Needs and resources" (Потребности и ресурси) — printed p. 56 |
 
-**Acceptance count: taught in 2 countries (Bangladesh, Bulgaria).**
+**Book 3:** *Business Studies — Year 9 Book One (subtitle: Economics)* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted through Egan Reid Ltd, 2006); no ISBN printed. Title as printed: Business Studies — Year 9 Book One (subtitle: Economics). Grade: Year 9 (student/teacher: STUDENT). PDF pages: 97 (cover/title page verified against the record title; image-only scan, read from page renders). Verdict: COMPLETE. Contents map: Economics parts pp. 5–91 (Unit 1 Producer in the Economy; Unit 2 Goods and Services; Unit 3 Factors of Production; Unit 4 Consumers and Households; Unit 5 Consumer as Producer; Unit 6 Development of Money; Unit 7 Functions of Money in the Economy); Glossary pp. 92–96 (bilingual word list, inventory-only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 2, Resources — teaches: resources classified as natural (land, sea, forests), human (labour using knowledge and skills) and capital resources (Economics expansion, 2026-11-16; original placement slug: microeconomics/resources-natural-human-and-capital — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 9 Business Studies Book 1*, Unit 2, Resources — printed p. 28 |
+
+**Acceptance count: taught in 3 countries (Bangladesh, Bulgaria, Samoa).**
+
+Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 
 
 Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grade 5 the subject becomes a real textbook and Economics gets its own section — scarcity is named as the science's central problem, and price is taught through two market diagrams: big demand lifts prices, big supply pushes them down until some firms go bankrupt.
 
-Searchable tags: three kinds of resources, natural human transformed, man-made resources, water sunlight coal, farmer teacher nurse, hammer tractor bus, picture sorting, bangladesh, social studies, microeconomics, bulgaria
+Searchable tags: three kinds of resources, natural human transformed, man-made resources, water sunlight coal, farmer teacher nurse, hammer tractor bus, picture sorting, bangladesh, social studies, microeconomics, bulgaria, samoa

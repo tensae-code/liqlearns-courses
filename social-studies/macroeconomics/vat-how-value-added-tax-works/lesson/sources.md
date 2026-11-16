@@ -1,6 +1,6 @@
 # Sources — VAT — how value added tax works
 
-countries: Ethiopia, Dominican Republic, Vietnam
+countries: Ethiopia, Dominican Republic, Vietnam, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -22,7 +22,15 @@ countries: Ethiopia, Dominican Republic, Vietnam
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 6: value added tax — teaches: VAT is charged on the value added of goods and services arising through production, circulation and consumption; the enterprise declares and pays it, but the final bearer is the consumer because the tax is already counted in the selling price of the car (the lesson's worked case) (Economics expansion, 2026-11-16) | Vietnam, *Vietnam Grade 10 Economic & Legal Education*, Lesson 6: value added tax — printed p. 38 |
-**Acceptance count: taught in 3 countries (Ethiopia, Dominican Republic, Vietnam).**
+**Book 4:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 8, Taxes — teaches: direct versus indirect taxes, income and company tax effects on markets, and VAGST collected through prices | Samoa, *Year 12 Economics*, Unit 8, Taxes — printed p. 73 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Dominican Republic, Vietnam, Samoa).**
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Vietnam's own way (Vietnam Grade 10 Economic & Legal Education): a full school Economics course built on Vietnamese cases and current law — the Si Ma Cai periodic market for exchange, pork-price swings for market functions, the 2025 State Budget Law's own revenue/expenditure tables, corporate income-tax tiers and the progressive personal income-tax schedule, and a student's 80/13/7 spending rule for personal finance.
 
@@ -30,4 +38,4 @@ Dominican Republic's own way (Dominican Republic Grade 7 Ciencias Sociales 1° S
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: vat — how value added tax works, grade 12 economics, ethiopia, social studies, macroeconomics, dominican republic, ITBIS, vietnam
+Searchable tags: vat — how value added tax works, grade 12 economics, ethiopia, social studies, macroeconomics, dominican republic, ITBIS, vietnam, samoa

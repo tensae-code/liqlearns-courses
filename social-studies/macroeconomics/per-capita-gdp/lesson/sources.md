@@ -1,6 +1,6 @@
 # Sources — Per capita GDP
 
-countries: Ethiopia, France, Dominican Republic, Dominica, Bangladesh, Vietnam, Armenia, Greece
+countries: Ethiopia, France, Dominican Republic, Dominica, Bangladesh, Vietnam, Armenia, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -55,7 +55,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Greece part — Ch.7 §9 Real GDP per capita — teaches: real GDP divided by population as an average | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.7 §9 Real GDP per capita — printed p. 142 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, France, Dominican Republic, Dominica, Bangladesh, Vietnam, Armenia, Greece).**
+**Book 9:** *Social Studies — Year 10 Book One* (student book, English) — Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 100 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Civics parts pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Economics parts pp. 68, 75 (two data exercises inside Unit 3 Skills in Social Studies); Skills parts pp. 59–100 (Unit 3 graph/map skills; Unit 4 Skills in Action — the national census). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3, Activity 6 — teaches: GDP per capita as GDP divided by population ("per person"), comparing Cook Islands, Fiji, Tonga, Samoa and Nauru in a bar-graph exercise | Samoa, *Year 10 Social Studies Book 1*, Unit 3, Activity 6 — printed p. 75 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, France, Dominican Republic, Dominica, Bangladesh, Vietnam, Armenia, Greece, Samoa).**
+
+Samoa's own way (Year 10 Social Studies Book 1): Economics appears inside skills work — pupils meet GDP and trade first as Samoan and Pacific data to graph, not as definitions to memorise.
 
 Armenia's own way (Armenia Grade 11 Social Science student): Grade 11 macroeconomics is anchored in Armenian official statistics — learners compute with the Statistical Committee's data, meet the 425-item consumer basket Armenia uses for inflation, the Central Bank's 3% ±1 inflation target, and the Armenian-born Nobel laureate Daron Acemoglu's "Narrow Corridor" on institutions and prosperity.
 
@@ -69,4 +77,4 @@ France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: per capita GDP, GDP divided by population, average income per person, nominal real, market price factor cost, net indirect taxes, ethiopia, france, ses, gdp per inhabitant, social studies, macroeconomics, dominican republic, bangladesh, vietnam, armenia, greece
+Searchable tags: per capita GDP, GDP divided by population, average income per person, nominal real, market price factor cost, net indirect taxes, ethiopia, france, ses, gdp per inhabitant, social studies, macroeconomics, dominican republic, bangladesh, vietnam, armenia, greece, samoa

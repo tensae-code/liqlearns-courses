@@ -1,6 +1,6 @@
 # Sources — Measuring Development
 
-countries: United Kingdom, Rwanda
+countries: United Kingdom, Rwanda, Samoa
 
 **Book 1:** *GCSE Geography AQA (Student Book)* (student book, English) — United Kingdom, Oxford University Press; year 2016; ISBN 978-0-19-836661-4; authors Nicholas Rowles, David Holmes, Bob Digby; series editor Simon Ross. Title as printed: GCSE Geography AQA (Student Book). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 356 (record figure; printed book pagination used in the rows below). Verdict: COMPLETE. Records note: 2 records / 1 distinct book (TSV release record + books.json record for the same book) / read via the book's archive.org source (archive.org item gcse-aqa-geography-student-book: EPUB + full OCR text of the same 355.2 MiB PDF whose byte size matches the books.json record's 372,407,314 bytes; title page and ISBN page verified from that OCR text) — the 372 MB GitHub release copy itself was not re-downloaded; the identical archive.org scan was read instead (all 24 chapters, contents pp. 4-5, glossary p. 346, index p. 350) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/united-kingdom-placements.md.
 
@@ -18,8 +18,16 @@ countries: United Kingdom, Rwanda
 Rwanda's own way (Rwanda Grade 6): P6 scales the P5 family budget up to the state — national revenue collected by the Rwanda Revenue Authority, a finance minister presenting the budget to parliament, and development read through Rwandan trade, agriculture and tourism.
 
 
-**Acceptance count: taught in 2 countries (United Kingdom, Rwanda).**
+**Book 3:** *Social Studies — Year 9 Book Three* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2002 (reprinted 2004); ISBN 982-517-029-8. Title as printed: Social Studies — Year 9 Book Three. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 74 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Culture parts pp. 5–39 (Unit 1 Cultural Treasures; Unit 2 Technology and Culture); Economics parts pp. 40–54 (Unit 3 Development); Geography/Culture parts pp. 55–74 (Unit 4 Development and Daily Life — India and Samoa compared through photographs and profiles). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3 Topic 2 — teaches: the development indicators explained one by one (life expectancy, infant mortality, literacy, doctors per people, urban share) and graphed from the table | Samoa, *Year 9 Social Studies Book 3*, Unit 3 Topic 2 — printed p. 48 |
+
+**Acceptance count: taught in 3 countries (United Kingdom, Rwanda, Samoa).**
+
+Samoa's own way (Year 9 Social Studies Book 3): Development is taught by direct comparison — Samoa's own indicators (GNI per capita US$1430, life expectancy 69) are set beside India's and the USA's in one table pupils must graph and rank.
 
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
 
-Searchable tags: measuring development, United Kingdom, social studies, people-and-resources, rwanda
+Searchable tags: measuring development, United Kingdom, social studies, people-and-resources, rwanda, samoa

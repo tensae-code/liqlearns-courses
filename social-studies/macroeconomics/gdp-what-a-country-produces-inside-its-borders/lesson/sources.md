@@ -1,6 +1,6 @@
 # Sources — GDP — what a country produces inside its borders
 
-countries: Ethiopia, France, Malaysia, Dominica, Cambodia, Uzbekistan, Bulgaria, Iran, India, Costa Rica, Greece
+countries: Ethiopia, France, Malaysia, Dominica, Cambodia, Uzbekistan, Bulgaria, Iran, India, Costa Rica, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -79,7 +79,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Greece part — Ch.7 §2 Gross Domestic Product — teaches: GDP as the value of final production inside the country's borders | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.7 §2 Gross Domestic Product — printed p. 133 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, France, Malaysia, Dominica, Cambodia, Uzbekistan, Bulgaria, Iran, India, Costa Rica, Greece).**
+**Book 14:** *Social Studies — Year 10 Book One* (student book, English) — Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 100 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Civics parts pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Economics parts pp. 68, 75 (two data exercises inside Unit 3 Skills in Social Studies); Skills parts pp. 59–100 (Unit 3 graph/map skills; Unit 4 Skills in Action — the national census). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3, Activity 6 — teaches: GDP explained as the total money made in a country in a year, in a "Did you know?" box beside a Pacific GDP table | Samoa, *Year 10 Social Studies Book 1*, Unit 3, Activity 6 — printed p. 75 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, France, Malaysia, Dominica, Cambodia, Uzbekistan, Bulgaria, Iran, India, Costa Rica, Greece, Samoa).**
+
+Samoa's own way (Year 10 Social Studies Book 1): Economics appears inside skills work — pupils meet GDP and trade first as Samoan and Pacific data to graph, not as definitions to memorise.
 
 Costa Rica's own way (Estudios Sociales 11, Porras y Gamboa): a commercial textbook built on the same national programme as the CONED anthology but with far more economic detail — full PAE I/II/III measure lists, the CAT export-certificate fraud, state banking's six effects, and Costa Rica's services/call-centre economy measured against the region.
 
@@ -106,4 +114,4 @@ Iran's own way (Iran Grade 9 Social Studies): productivity is framed with Qur'an
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: GDP gross domestic product, final goods, double counting, market prices, ethiopia, france, ses, insee, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, cambodia, uzbekistan, bulgaria, iran, india, greece
+Searchable tags: GDP gross domestic product, final goods, double counting, market prices, ethiopia, france, ses, insee, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, cambodia, uzbekistan, bulgaria, iran, india, greece, samoa

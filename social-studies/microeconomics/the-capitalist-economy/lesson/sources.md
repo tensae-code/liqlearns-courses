@@ -1,6 +1,6 @@
 # Sources — The capitalist economy
 
-countries: Ethiopia, Laos, Dominican Republic, Venezuela, Dominica, Cambodia, Bangladesh, Honduras, Fiji, Nicaragua, Costa Rica, Papua New Guinea
+countries: Ethiopia, Laos, Dominican Republic, Venezuela, Dominica, Cambodia, Bangladesh, Honduras, Fiji, Nicaragua, Costa Rica, Papua New Guinea, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -105,7 +105,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Papua New Guinea evidence — Unit 5, Topic 1: Capitalist ideology: the principles of capitalism — private property, self-interest, profit motive, competition and little government interference — and production for exchange driven by the desire for personal accumulation (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG*, Unit 5, Topic 1: Capitalist ideology — printed p. 237 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Laos, Dominican Republic, Venezuela, Dominica, Cambodia, Bangladesh, Honduras, Fiji, Nicaragua, Costa Rica). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 18:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1 Economic Systems — teaches: market/free-enterprise system, consumer demand decides production, private ownership and profit motive | Samoa, *Year 10 Business Studies Book 1*, Unit 1 Economic Systems — printed p. 7 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Laos, Dominican Republic, Venezuela, Dominica, Cambodia, Bangladesh, Honduras, Fiji, Nicaragua, Costa Rica, Samoa). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
 
 Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG): Grade 10 Economics is the labour and capitalism year — two full units on labour (unions, division of labour, labour law, labour costs), then the market system judged by its costs and benefits, trade through television and the internet, and a closing unit interrogating the capitalist ideology itself. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -138,4 +146,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Honduras's own way (Honduras Grade 4 G4 Student CCSS): Grade 4 widens the lens to Central America — regional production and diversification, tourism as an earner, and a first named look at capitalism and globalisation.
 
-Searchable tags: capitalist economy, free market laissez-faire, private property, consumer sovereignty competition, loucks, ethiopia, social studies, microeconomics, laos, free-market economy, private business, adding value, dominican republic, venezuela, cambodia, bangladesh, honduras, Fiji, nicaragua, papua new guinea, teacher guide evidence
+Searchable tags: capitalist economy, free market laissez-faire, private property, consumer sovereignty competition, loucks, ethiopia, social studies, microeconomics, laos, free-market economy, private business, adding value, dominican republic, venezuela, cambodia, bangladesh, honduras, Fiji, nicaragua, papua new guinea, teacher guide evidence, samoa

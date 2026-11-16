@@ -1,6 +1,6 @@
 # Sources — Price and non-price competition
 
-countries: Kazakhstan, Bulgaria
+countries: Kazakhstan, Bulgaria, Samoa
 
 **Book 1:** *Кәсіпкерлік және бизнес негіздері / Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business)* (student book, Kazakh edition 603 + Russian edition 616 — parallel language editions of the same book, placed once with every edition named) — Kazakhstan, Арман-ПВ (Arman-PV), Nur-Sultan; year 2019; ISBN 978-601-318-234-6 (Kazakh edition 603), 978-601-318-249-0 (Russian edition 616). Title as printed: Кәсіпкерлік және бизнес негіздері / Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business). Authors: Aganina, Karaev, Sultanov, Karaev. Grade: 10 (student/teacher: STUDENT). PDF pages: 192 in both editions (covers verified: Kazakh cover 603 and Russian cover 616 carry the same title, authors Aganina, Karaev, Sultanov, Karaev, Grade 10; contents pages identical in structure — Russian edition read for the Economics parts, Kazakh edition spot-checked at cover, contents and section starts). Verdict: COMPLETE. Contents map: Economics parts printed pp. 5-46 (Section 1 Entrepreneurship as an Economic Phenomenon) and pp. 78-94 (2.5 Competition, 2.6 Pricing); Business pp. 47-77 (Section 2 remainder: starting a business, legal forms, start-up culture, innovation trends), pp. 95-148 (Section 3 Marketing in Action), pp. 149-185 (Section 4 Design Thinking); Glossary pp. 186-188 (inventory-only, not placed). Grab route note, carried as filed: grab.py release and tree routes both failed (release route RemoteDisconnected twice; tree route 404 for the 603 path), so each file was downloaded from the record's own recorded source_url and verified by exact page count against the record (603: 192, 616: 192) and by cover; the books.json tree paths recorded as pushed could not be confirmed in GitHub via the tree route (404 on 603) — a library debt, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/kazakhstan-placements.md.
 
@@ -25,7 +25,23 @@ countries: Kazakhstan, Bulgaria
 |---|---|
 | Bulgaria part — Economics expansion — "Basic economic activities" (Основни икономически дейности): competition (конкуренция) is the race between producers to produce better-quality products and to sell at lower prices (filed as microeconomics/competition-and-why-it-matters; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 5 Technology and Entrepreneurship*, "Basic economic activities" (Основни икономически дейности) — printed p. 58 |
 
-**Acceptance count: taught in 2 countries (Kazakhstan, Bulgaria).**
+**Book 4:** *Business Studies — Year 10 Book One — Economics* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2001 (reprinted Egan Reid Ltd, 2006); ISBN no ISBN printed. Title as printed: Business Studies — Year 10 Book One — Economics. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 4–84 (Units 1, 3–8 and Unit 2 introduction); Business parts pp. 10 (market research), 15–24 (clubs/societies features, structures, meeting roles and procedures); Glossary pp. 86–90 (inventory-only, not placed); Review sections excluded. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 4, Activity 3 interview — teaches: a successful Apia firm's marketing strategy, price competition versus non-price competition (free transport, installation, after-sales service, credit) | Samoa, *Year 10 Business Studies Book 1*, Unit 4, Activity 3 interview — printed p. 37 |
+
+**Book 5:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3 Service Industries — teaches: price competition versus non-price competition and their effects on consumers and producers | Samoa, *Year 12 Economics*, Unit 3 Service Industries — printed p. 23 |
+
+**Acceptance count: taught in 3 countries (Kazakhstan, Bulgaria, Samoa).**
+
+Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Kazakhstan's own way (Kazakhstan Grade 10 Aganina): Economics is taught inside an entrepreneurship course — market theory arrives as the theory an entrepreneur needs, with tenge-denominated supply examples (a potato supply curve at 50-70 tenge), world oil prices deciding whether an Almaty-region furniture workshop profits, and Kazakhstan's own post-Soviet transition as the opening history.
 
@@ -34,4 +50,4 @@ Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same nationa
 
 Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grade 5 the subject becomes a real textbook and Economics gets its own section — scarcity is named as the science's central problem, and price is taught through two market diagrams: big demand lifts prices, big supply pushes them down until some firms go bankrupt.
 
-Searchable tags: price competition, non-price competition, competitive strategies, flank attack, encirclement, blue ocean, types of competitors, kazakhstan, social studies, microeconomics, bulgaria
+Searchable tags: price competition, non-price competition, competitive strategies, flank attack, encirclement, blue ocean, types of competitors, kazakhstan, social studies, microeconomics, bulgaria, samoa

@@ -1,6 +1,6 @@
 # Sources — Public goods and the free rider
 
-countries: Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan, Papua New Guinea
+countries: Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan, Papua New Guinea, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -90,7 +90,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Papua New Guinea evidence — Unit 3, Topic 4: Regulation and allocation of goods and services: private goods versus public goods — excludability and rivalry explained — the types of goods and services that are regulated, and the methods by which people, individually or collectively through government, regulate and allocate them (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG*, Unit 3, Topic 4: Regulation and allocation of goods and services — printed p. 224 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 14:** *Economics — Year 12* (student book, English) — Government of Samoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-067-0. Title as printed: Economics — Year 12. Grade: Year 12 (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts pp. 7–100 (Units 1, 3–11); Business parts pp. 9–16 (Unit 2 business ownership, management structures and business finance — named, not placed, except the share market), 17–22 (Unit 3 transport, communications and marketing service industries — named, not placed); Glossary pp. 101–106 and Key Vocabulary pp. 107–110 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 9, The Government and the Economy — teaches: public goods and merit goods in Samoa (electric power, health, education) and why private firms will not provide them | Samoa, *Year 12 Economics*, Unit 9, The Government and the Economy — printed p. 85 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan, Samoa). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
 Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG): Grade 10 Economics is the labour and capitalism year — two full units on labour (unions, division of labour, labour law, labour costs), then the market system judged by its costs and benefits, trade through television and the internet, and a closing unit interrogating the capitalist ideology itself. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -112,4 +120,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia, dominica, csec principles of business, caribbean, uzbekistan, egypt, india, united states, pakistan, papua new guinea, teacher guide evidence
+Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia, dominica, csec principles of business, caribbean, uzbekistan, egypt, india, united states, pakistan, papua new guinea, teacher guide evidence, samoa

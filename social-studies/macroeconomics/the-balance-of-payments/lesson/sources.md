@@ -1,6 +1,6 @@
 # Sources — The balance of payments — a country's account with the world
 
-countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indonesia, Pakistan, Costa Rica, Nigeria, Greece
+countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indonesia, Pakistan, Costa Rica, Nigeria, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -79,7 +79,15 @@ countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indones
 |---|---|
 | Greece part — Ch.11 §5 The balance of payments — teaches: the record of a country's transactions with the rest of the world | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.11 §5 The balance of payments — printed p. 191 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Dominican Republic, Egypt, Fiji, Indonesia, Pakistan, Costa Rica, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 15:** *Student Learning Guide — Samoa Business Studies Curriculum, Economics Year 13* (student learning guide, English) — Mahobe Resources NZ Ltd for MESC Samoa, funded by NZAID; prepared by Lili Tuioti; year no year printed; ISBN no ISBN printed. Title as printed: Student Learning Guide — Samoa Business Studies Curriculum, Economics Year 13. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 27 (cover/title page verified against the record title). Verdict: PARTIAL — the guide's achievement-objective mapping tables to the New Zealand textbook (Achievement Economics Year 12, Anne Younger) are curriculum mapping, not teaching, and are not placed; the guide's own Samoa teaching notes (government role, market failure, Central Bank, Samoan market structures, government finance data, and the closing Economy of Samoa session) are placed below. Contents map: Economics teaching notes pp. 2–22 (Production: role of government, government issues, trade concepts, markets; Consumption: government income and spending; The Market: money supply, inflation, trade performance, exchange rates, developed/developing economies; The Economy of Samoa pp. 20–22). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — The Market 3, International Trade Performance — teaches: balance of payments components (visibles, invisibles, current and capital accounts) | Samoa, *Year 13 Economics Guide*, The Market 3, International Trade Performance — printed p. 18 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, Dominican Republic, Egypt, Fiji, Indonesia, Pakistan, Costa Rica, Nigeria, Greece, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Samoa's own way (Year 13 Economics Guide): Year 13 economics is anchored on Samoa itself — the Central Bank of Samoa (not a generic central bank), one oil supplier as a Samoan monopoly, Samoan government revenue/expenditure tables, and a closing national-economy session built from the Central Bank Governor's 2002 address.
 
 Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
@@ -106,7 +114,7 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: balance of payments, residents rest of world, disequilibrium deficit surplus, reserves, trade deficit link, ethiopia, social studies, macroeconomics, malaysia, dominican republic, albania, egypt, Fiji, indonesia, pakistan, nigeria, greece
+Searchable tags: balance of payments, residents rest of world, disequilibrium deficit surplus, reserves, trade deficit link, ethiopia, social studies, macroeconomics, malaysia, dominican republic, albania, egypt, Fiji, indonesia, pakistan, nigeria, greece, samoa
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

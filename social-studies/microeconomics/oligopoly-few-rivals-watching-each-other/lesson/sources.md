@@ -1,6 +1,6 @@
 # Sources — Oligopoly — few rivals watching each other
 
-countries: Ethiopia, Iraq, United States, Greece
+countries: Ethiopia, Iraq, United States, Greece, Samoa
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -28,7 +28,15 @@ countries: Ethiopia, Iraq, United States, Greece
 |---|---|
 | Greece part — Ch.6 §10 Characteristics of the oligopoly market — teaches: few interdependent firms, with Greek cement and mobile-telephony markets as examples | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.6 §10 Characteristics of the oligopoly market — printed p. 126 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iraq, United States, Greece).**
+**Book 5:** *Student Learning Guide — Samoa Business Studies Curriculum, Economics Year 13* (student learning guide, English) — Mahobe Resources NZ Ltd for MESC Samoa, funded by NZAID; prepared by Lili Tuioti; year no year printed; ISBN no ISBN printed. Title as printed: Student Learning Guide — Samoa Business Studies Curriculum, Economics Year 13. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 27 (cover/title page verified against the record title). Verdict: PARTIAL — the guide's achievement-objective mapping tables to the New Zealand textbook (Achievement Economics Year 12, Anne Younger) are curriculum mapping, not teaching, and are not placed; the guide's own Samoa teaching notes (government role, market failure, Central Bank, Samoan market structures, government finance data, and the closing Economy of Samoa session) are placed below. Contents map: Economics teaching notes pp. 2–22 (Production: role of government, government issues, trade concepts, markets; Consumption: government income and spending; The Market: money supply, inflation, trade performance, exchange rates, developed/developing economies; The Economy of Samoa pp. 20–22). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Production 4, The Importance of Markets — teaches: market structures in Samoa, banks as oligopoly and the single oil supplier as a monopoly, price makers avoiding price wars | Samoa, *Year 13 Economics Guide*, Production 4, The Importance of Markets — printed p. 8 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Iraq, United States, Greece, Samoa).**
+
+Samoa's own way (Year 13 Economics Guide): Year 13 economics is anchored on Samoa itself — the Central Bank of Samoa (not a generic central bank), one oil supplier as a Samoan monopoly, Samoan government revenue/expenditure tables, and a closing national-economy session built from the Central Bank Governor's 2002 address.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -36,4 +44,4 @@ Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics co
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: oligopoly, few dominant firms, strategic interdependence, pure differentiated oligopoly, duopoly Boeing Airbus, cement steel automobiles, ethiopia, social studies, microeconomics, iraq, united states, greece
+Searchable tags: oligopoly, few dominant firms, strategic interdependence, pure differentiated oligopoly, duopoly Boeing Airbus, cement steel automobiles, ethiopia, social studies, microeconomics, iraq, united states, greece, samoa
