@@ -1,12 +1,15 @@
 # Sources — Theatre on a Stage
 
-countries: Ethiopia, Egypt
+countries: Ethiopia, Egypt, Honduras
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
 **Book 5:** *Grade 5 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
 **Book 6:** *Theatre Education — Second Preparatory, Grade 8, First Term (التربية المسرحية — الصف الثاني الإعدادي — الفصل الدراسي الأول)* (student book, Arabic) — Egypt, وزارة التربية والتعليم (Ministry of Education and Technical Education, Egypt), 2025, no ISBN printed, Grade 8, Arabic, 81 PDF pp. Verdict: COMPLETE (cover/title page verified against the record title). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/egypt-placements.md.
+
+**Book 7:** *Libro del Estudiante — Educación Artística — 7mo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 7, 207 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 7mo Grado", honouring the Honduran singer-songwriter Guillermo Anderson, 1962–2016). Fetched from the recorded libroshonduras.com source URLs. Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences closing each block (printed pp. 63, 119, 145, 187) are named, not placed; the Senderos section (printed pp. 15–24) is book-orientation apparatus, named, not placed; the Glosario (printed p. 189) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 7 teacher guide, *Guía del Docente — Educación Artística — 7mo Grado (Telebásica)* (185 PDF pp, TEACHER), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, TV-programme guidance and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
+**Book 8:** *Libro del Estudiante — Educación Artística — 8vo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 8, 290 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 8vo Grado"). Fetched from the recorded libroshonduras.com source URLs. The Introduction repeats the Grade 7 book's art-definitions opening (placed there, not re-placed here). Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences (printed pp. 95, 167, 203, 267) are named, not placed; Senderos (printed p. 17) is book-orientation apparatus, named, not placed; the Glosario (printed p. 269) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 8 teacher guide, *Guía del Docente — Educación Artística — 8vo Grado (Telebásica)* (198 PDF pp, TEACHER; its first download was corrupt with a broken xref, was discarded and re-fetched), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, Telebásica TV-programme guidance, materials lists and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,7 +18,10 @@ countries: Ethiopia, Egypt
 | Sub lesson 2 — መነባንብ (menibanib) — recitation (appreciating theatre) | Grade 2 Student Textbook, §4.3 with Figure 4.3.1, printed pp. 67–68 |
 | Egypt — Lesson 9, The Stage… Where Do I Stand? — what the stage (خشبة المسرح) is and what it does in a performance, the stage's nine areas by name and by their effect on the audience, and moving consciously inside a scene using the right areas | Book 6, printed p. 62 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Egypt).**
+| Honduras — Block III S3, Stage and acting: the theatre work — the escenario and the obra teatral: putting a play together on its stage | Book 7, printed p. 137 |
+| Honduras — Block III S3, Drama: the theatre work — el drama and the obra teatral: building a play for the stage | Book 8, printed p. 187 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Honduras).**
 
 The Grade 5 row is the series' own deepening of the same stage idea (its elements list — setting, character, plot, script, theme — is named in the provenance row only; the lesson's teaching stays at the Grade 2 stage picture and the menibanib, exactly as STRUCTURE.md groups them).
 

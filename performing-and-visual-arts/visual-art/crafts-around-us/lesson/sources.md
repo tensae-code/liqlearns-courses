@@ -1,6 +1,6 @@
 # Sources — Crafts Around Us
 
-countries: Ethiopia
+countries: Ethiopia, Honduras
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -21,6 +21,9 @@ countries: Ethiopia
 **Book 9:** *Performing and Visual Arts Teacher Guide Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, printed pp. i–vi + 1–78. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
 **Book 10:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
+
+**Book 11:** *Libro del Estudiante — Educación Artística — 7mo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 7, 207 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 7mo Grado", honouring the Honduran singer-songwriter Guillermo Anderson, 1962–2016). Fetched from the recorded libroshonduras.com source URLs. Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences closing each block (printed pp. 63, 119, 145, 187) are named, not placed; the Senderos section (printed pp. 15–24) is book-orientation apparatus, named, not placed; the Glosario (printed p. 189) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 7 teacher guide, *Guía del Docente — Educación Artística — 7mo Grado (Telebásica)* (185 PDF pp, TEACHER), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, TV-programme guidance and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
+**Book 12:** *Libro del Estudiante — Educación Artística — 8vo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 8, 290 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 8vo Grado"). Fetched from the recorded libroshonduras.com source URLs. The Introduction repeats the Grade 7 book's art-definitions opening (placed there, not re-placed here). Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences (printed pp. 95, 167, 203, 267) are named, not placed; Senderos (printed p. 17) is book-orientation apparatus, named, not placed; the Glosario (printed p. 269) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 8 teacher guide, *Guía del Docente — Educación Artística — 8vo Grado (Telebásica)* (198 PDF pp, TEACHER; its first download was corrupt with a broken xref, was discarded and re-fetched), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, Telebásica TV-programme guidance, materials lists and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -46,7 +49,10 @@ countries: Ethiopia
 | Sub lesson 10 — Ancient stone tools (Grade 8): spear, knife, axe (መሮ), stone mill (የድንጋይ ወፍጮ) for hunting, house-making and utensils (Fig. 44) | Book 10, §3.2.2, printed pp. 94–95 |
 | Sub lesson 10 — Ancient jewellery (Grade 8): ጌጣጌጥ — folk jewellery from gold, bronze, silver, diamond, thread, precious stone, wood; worn on hand, ear, neck, hair, lip, nose; adorning people and domestic animals (Fig. 46) | Book 10, §3.2.2, printed pp. 96–97 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+| Honduras — Block IV S3, Knowing our crafts — artesanía hondureña: the crafts of Honduras | Book 11, printed p. 169 |
+| Honduras — Block IV S3, Art of Central America: Central American crafts — artesanía centroamericana: the crafts of the region | Book 12, printed p. 247 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Honduras).**
 
 Honesty notes: the Grade 7 student book prints its pottery firing temperatures as 600–1200 °F (earthenware), 1100–1200 °F (stoneware) and 2200–2600 °F (ceramic); the lesson teaches the families by their order of heat and their qualities, as the placements describe them, without resting any question on the printed figures. The Grade 7 teacher guide is a truncated scan (body printed pp. 1–109 only); the crafts part used here sits at printed pp. 108–109, inside the surviving body, and is labelled teacher-guide evidence. Books 8 and 9 are teacher guides for grades with no student books in this set, so their parts are evidence only and are labelled so; the lesson does not rest on them.
 

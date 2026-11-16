@@ -86,7 +86,11 @@ The titles, in ladder order:
    Historic and Marine museums, local artifacts collected
    and drawn, and Barbadian textile artists, sculptors,
    potters and basket weavers (Barbados curriculum
-   guide, evidence).
+   guide, evidence). The Art expansion
+   added: artists of Central America — Honduras's first
+   artists and its current artists, known and valued by
+   name, widening to the artists of all Central America,
+   known by their works (Honduras student books).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -166,7 +170,17 @@ The titles, in ladder order:
    calypsos for graduations, Crop Over and other social
    events; and the steel pan — playing simple tunes and
    taking part in a steel band group (Barbados curriculum
-   syllabus, evidence).
+   syllabus, evidence). The Art expansion added: Honduran music — Honduras's
+   own music through its makers and sounds, the genres
+   current in Honduras today, and its historical periods
+   from its beginnings to today; choral singing — voices
+   harmonised to sing the country's music together, and
+   choral direction (dirección coral); the human voice —
+   the phonation apparatus and the classification of
+   voices; and Latin American and Caribbean music — the
+   region's genres valued and appreciated, and its
+   instruments with how they are played (Honduras student
+   books).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -235,3 +249,7 @@ The titles, in ladder order:
    iconography read as cultural art: the snail, the sun as
    nawal Ajpú, and the heart-planet with nawal Noj, wisdom
    (Guatemala teacher guide, evidence, PARTIAL file).
+ The Art expansion added:
+   national symbols of Central America — the national
+   symbols of the Central American countries, and what
+   they stand for (Honduras student book).

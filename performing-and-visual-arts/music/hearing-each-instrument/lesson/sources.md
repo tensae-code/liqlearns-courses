@@ -1,6 +1,6 @@
 # Sources — Hearing Each Instrument
 
-countries: Ethiopia, United Kingdom, Andorra, Barbados
+countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados
 
 **Book 5:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 6:** *Libro del Estudiante — Educación Artística — 8vo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 8, 290 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 8vo Grado"). Fetched from the recorded libroshonduras.com source URLs. The Introduction repeats the Grade 7 book's art-definitions opening (placed there, not re-placed here). Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences (printed pp. 95, 167, 203, 267) are named, not placed; Senderos (printed p. 17) is book-orientation apparatus, named, not placed; the Glosario (printed p. 269) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 8 teacher guide, *Guía del Docente — Educación Artística — 8vo Grado (Telebásica)* (198 PDF pp, TEACHER; its first download was corrupt with a broken xref, was discarded and re-fetched), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, Telebásica TV-programme guidance, materials lists and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The song “እኛም አለን ሙዚቃ” (We Too Have Music) — verses imitating each instrument's sound in turn (masenqo, krar, kebero, washint) | Grade 1 Student Textbook, printed p. 68 |
@@ -21,7 +23,9 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados
 | United Kingdom — Hearing the fusion instruments (Release): learning each instrument by its sound alone through guided listening — telling the uilleann pipes, hurdy gurdy, talking drum, bodhrán and kora apart as each takes its solo over the loops | Book 3, printed pp. 74–75 |
 | Andorra — Bloc 3: analysing listened music (cycles 1–3) — the parameters of sound (intensity, duration, pitch, timbre) identified, analysed and classified; instrument families (string, wind, percussion); genres and styles (traditional, classical, jazz, modern, fusion); vocal and instrumental groupings; and music's places — in tales, advertising, cinema and the performing arts (programme document — evidence; original target `music/hearing-each-instrument`) | Book 4, printed pp. 30–31 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, United Kingdom). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.**
+| Honduras — Block II S2, Interpreting instrumental music — the classification of musical instruments, known by family and sound | Book 6, printed p. 111 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, United Kingdom, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.**
 
 The song is placed by name, purpose and teaching content only — its words are never transcribed; only the sound-words are the teaching content, as the placements state. A coffee-ceremony painting printed with the Grade 1 chapter's singing work belongs to the course's appreciation material and is not stocked as a part of this lesson.
 

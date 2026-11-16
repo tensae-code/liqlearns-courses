@@ -454,7 +454,45 @@ lessons are the books'.
   Book 1 total of 16 and the overall total of 37 reconcile
   exactly.
 
-**The whole course stands at 233 lessons, 3,530 questions and
+- **Art expansion — Honduras — BUILT 2026-11-16:** 39 placements
+  stocked from 2 student books (both Secretaría de Educación,
+  República de Honduras, Programa de Televisión Educativa
+  Hondureña — Telebásica; author Licda. Corina Milikza
+  Hernández Estrada; no year or ISBN printed; Spanish,
+  COMPLETE, fetched from the recorded libroshonduras.com
+  source URLs: *Libro del Estudiante — Educación Artística —
+  7mo Grado*, 207 PDF pp, STUDENT; *Libro del Estudiante —
+  Educación Artística — 8vo Grado*, 290 PDF pp, STUDENT).
+  The parallel Grade 7 (185 PDF pp) and Grade 8 (198 PDF pp)
+  teacher guides carry 0 placements — their content parallels
+  the student books sequence by sequence and is placed once,
+  from the student books; the Grade 8 guide's first download
+  was corrupt and was discarded and re-fetched. 29 into
+  existing lessons (What the Arts Are; Looking at Pictures
+  ×2; Drawing: The Foundation Skill ×2; Making with Paper
+  and Pieces; Making with Clay and Paper; Comics ×2 — from
+  comics-historieta; Graphic Design — from
+  signs-and-visual-communication; History of African and
+  World Music; The Elements of Music ×3; Making Traditional
+  Instruments; Hearing Each Instrument; Reading Music on
+  the Staff; Anthems and Songs That Teach;
+  Technical and Performance Elements of Theatre ×2; The
+  Elements of Theatre ×2; Theatre on a Stage ×2; Crafts
+  Around Us ×2; Festivals and Their Arts ×2; Photography),
+  6 NEW lessons (Music: Honduran Music; Choral Singing; The
+  Human Voice; Latin American and Caribbean Music — from
+  latin-american-music; Visual Art: Artists of Central
+  America — from artists-of-honduras and
+  artists-of-central-america; Culture and Values: National
+  Symbols of Central America), 72 questions added, media as
+  described slots only. The "Valorando lo que Aprendo"
+  self-assessment sequences, the Senderos orientation
+  sections, the Glosarios (inventory-only) and the
+  Anexo/Bibliografía of both books are named in the book
+  entries and not placed; songs are placed by name and kind
+  only, never transcribed.
+
+**The whole course stands at 239 lessons, 3,602 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

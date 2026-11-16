@@ -1,6 +1,6 @@
 # Sources — Photography
 
-countries: Ethiopia
+countries: Ethiopia, Honduras
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia
 **Book 3:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
 **Book 4:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
+
+**Book 5:** *Libro del Estudiante — Educación Artística — 8vo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 8, 290 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 8vo Grado"). Fetched from the recorded libroshonduras.com source URLs. The Introduction repeats the Grade 7 book's art-definitions opening (placed there, not re-placed here). Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences (printed pp. 95, 167, 203, 267) are named, not placed; Senderos (printed p. 17) is book-orientation apparatus, named, not placed; the Glosario (printed p. 269) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 8 teacher guide, *Guía del Docente — Educación Artística — 8vo Grado (Telebásica)* (198 PDF pp, TEACHER; its first download was corrupt with a broken xref, was discarded and re-fetched), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, Telebásica TV-programme guidance, materials lists and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -24,7 +26,9 @@ countries: Ethiopia
 | Sub lesson 6 — Photography practice (Grade 4): Activity 1.6 — draw and photograph local city houses' building and layout; make photo frames from paper and wood; present local work songs as drawings and poems | Book 3, printed p. 20 |
 | Sub lesson 7 — Frameless pictures and the cityscape (Grade 6): compositions in two frame shapes — horizontal = landscape; vertical = portrait and cityscape; frameless visual compositions common since the 20th century (Fig. 22) | Book 4, §2.2, printed p. 43 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+| Honduras — Block I S5, Knowing photography — fotografía: what photography is and its norms of composition | Book 5, printed p. 79 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Honduras).**
 
 Honesty notes: Book 2's photography part is a teacher-guide part, cited at the section level its placement gives (§1.4, printed pp. 18–22, inside a wider shapes/forms/colours section) and labelled evidence; the lesson's core rests on Book 1, a student book. The Grade 3 book's camera is a film camera — light through a lens, an image on film, printed on prepared papers — and the lesson keeps the book's own account; phone cameras are mentioned only in the Do It First looking activity, not as book content. No camera technique beyond the placements (no exposure settings, no lens types) has been added.
 

@@ -1,11 +1,14 @@
 # Sources — Looking at Pictures
 
-countries: Ethiopia
+countries: Ethiopia, Honduras
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 **Book 2:** *Grade 1 Performing and Visual Arts Teacher Guide (፩ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (Hamle 2014 E.C.), printed front matter i–ii + body/syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-teacher-placements.md.
 
 **Book 3:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
+
+**Book 4:** *Libro del Estudiante — Educación Artística — 7mo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 7, 207 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 7mo Grado", honouring the Honduran singer-songwriter Guillermo Anderson, 1962–2016). Fetched from the recorded libroshonduras.com source URLs. Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences closing each block (printed pp. 63, 119, 145, 187) are named, not placed; the Senderos section (printed pp. 15–24) is book-orientation apparatus, named, not placed; the Glosario (printed p. 189) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 7 teacher guide, *Guía del Docente — Educación Artística — 7mo Grado (Telebásica)* (185 PDF pp, TEACHER), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, TV-programme guidance and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
+**Book 5:** *Libro del Estudiante — Educación Artística — 8vo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 8, 290 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 8vo Grado"). Fetched from the recorded libroshonduras.com source URLs. The Introduction repeats the Grade 7 book's art-definitions opening (placed there, not re-placed here). Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences (printed pp. 95, 167, 203, 267) are named, not placed; Senderos (printed p. 17) is book-orientation apparatus, named, not placed; the Glosario (printed p. 269) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 8 teacher guide, *Guía del Docente — Educación Artística — 8vo Grado (Telebásica)* (198 PDF pp, TEACHER; its first download was corrupt with a broken xref, was discarded and re-fetched), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, Telebásica TV-programme guidance, materials lists and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,7 +16,10 @@ countries: Ethiopia
 | What a picture tells us (Sub lesson 2) | Grade 1 Student Textbook, §1.5 — reading a picture and its message, with Exercise 3, printed pp. 12–14 |
 
 | Sub lesson 3 — Reading a pictorial composition — the Grade 8 work | Grade 8 Student Textbook, §5.1.2 Visual art and language — pictorial compositions and Activity 5.7, printed pp. 131–132 |
-**Acceptance count: taught in 1 country (Ethiopia).**
+| Honduras — Block I S1, Interpreting the meaning of images — reading an image: what it shows and what it means | Book 4, printed p. 27 |
+| Honduras — Block I S1, Analysing and interpreting images — the levels of analysis of an image: reading a picture level by level | Book 5, printed p. 29 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Honduras).**
 
 Sub lesson 1 rests on the Grade 1 teacher guide's named visual-perception skill and is labelled teacher-guide evidence in the table; the lesson as a whole also rests on the student book's §1.5, so the acceptance count below counts the student book. The four family scenes are the student book's own §1.5 picture pages, described — not reproduced.
 
