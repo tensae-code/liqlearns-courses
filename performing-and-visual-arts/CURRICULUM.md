@@ -888,7 +888,75 @@ lessons are the books'.
   Suzuki and Gordon with the tenor pan beside the violin, and
   visual art as a visual language anchored by its own makers.
 
-**The whole course stands at 283 lessons, 4,130 questions and
+- **Art expansion — Iceland — BUILT 2026-11-16:** 61 placements
+  stocked from 1 record / 1 distinct book, TEACHER evidence
+  (*Dægurspor: Kennsluleiðbeiningar* — teacher's guide to the
+  Dægurspor set, Iceland, no publisher, year or ISBN printed,
+  Grade 5, Icelandic, 79 PDF pp, TEACHER, COMPLETE — read in
+  full as text, fetched with grab.py from the pushed tree, PDF
+  deleted after filing): 25 into existing lessons (The Elements
+  of Music ×3; Reading the Beat ×4; Hearing Each Instrument
+  ×4; Music in Society ×4; Anthems and Songs That Teach ×2;
+  History of African and World Music ×2; Circle Dances and
+  Traditional Steps ×2; and one each into How the Arts Belong
+  Together, Traditional Games, Faster Notes Dynamics and
+  Tempo, and Performing Kinds of Music), 4 into already-built
+  canonical lessons (Ballroom and Social Dances — from
+  the-sarabande, Händel's Sarabande; Film Music — from
+  film-scores-and-soundtracks, silent-film music sorted by
+  scene; Work Songs and Sea Shanties ×2 — from songs-of-the-sea,
+  the sjómannalög seamen's songs and the shore's changing
+  soundscape), 21 NEW lessons (Music: The History of Popular
+  Music; Romantic Music — from romantic-music-and-imagination,
+  Chopin's Nocturne; Impressionism in Music — from
+  musical-impressionism, Debussy; Opera — from
+  opera-and-the-total-work-of-art, the operetta part;
+  Broadside Ballads — göturvísur; Jazz ×3 — from
+  the-birth-of-jazz-in-new-orleans, dixieland and
+  women-in-jazz; African Drumming and Rhythms — from
+  african-drumming, Congo Square; Bands and Brass Bands ×2 —
+  from marches-and-brass-bands, Sousa and Iceland's first band;
+  Bugle Calls and Military Signals; Ragtime and Scott Joplin;
+  New Orleans Jazz Funerals — from
+  culture-and-values/new-orleans-jazz-funerals; The
+  Gramophone, Record and Radio Age ×2 — from
+  radio-records-and-popular-music; Big Bands and Swing ×3;
+  Schlager; Choir and Choral Singing ×2 — from
+  vocal-groups-and-close-harmony; Icelandic Songwriters ×3 —
+  from icelandic-popular-songwriters, Sigfús Halldórsson and
+  Ingibjörg Þorbergs; Cuban Percussion ×2; Drama and Dance:
+  The Waltz — from the-waltz; Musical Theatre ×2 — from
+  the-icelandic-revue and the-icelandic-musical, the Árnason
+  brothers; Tango — from the-argentine-tango; Dances of the
+  Jazz Age — from dances-of-the-jazz-age, charleston and
+  foxtrot), 252 questions added, media as described slots only.
+  DIFFERENCE FROM THE FILE'S OWN TALLY, EXPLAINED: the
+  placements file tallied 25 to existing lessons and 36 NEW
+  LESSON NEEDED lines. The slug registry resolves three of
+  those lines to canonical lessons already built (the-sarabande
+  to Ballroom and Social Dances, film-scores-and-soundtracks to
+  Film Music, songs-of-the-sea ×2 to Work Songs and Sea
+  Shanties) — stocked, not rebuilt — and the remaining 32 lines
+  to 21 canonical NEW lessons (jazz ×3 lines to one lesson,
+  bands-and-brass-bands, gramophone, big-bands, choir,
+  musical-theatre and cuban-percussion ×2–3 lines each to one
+  lesson), so 29 (not 25) placements went to lessons that
+  already existed, 32 to new lessons, and 21 new lessons were
+  built; the total of 61 reconciles exactly. No exclusions:
+  the book is COMPLETE and every placed line was stocked; the
+  closing Listi yfir hlustunarefni (printed pp. 73–79) is
+  inventory-only, named in the book entries, never stocked,
+  and songs are placed by their teaching topics, never
+  transcribed. As a teacher guide the book is EVIDENCE only,
+  kept outside every acceptance count (the 21 new lessons
+  stand at acceptance count 0). Iceland's own way is kept as
+  named parts — a listening journey through the whole history
+  of popular music (dægurtónlist), taught by listening, playing
+  rhythm parts from notation, singing and dancing, with
+  Iceland's own musicians, revue songs, seamen's songs and
+  dance bands woven through as national content.
+
+**The whole course stands at 304 lessons, 4,382 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

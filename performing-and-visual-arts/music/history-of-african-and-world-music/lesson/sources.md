@@ -1,6 +1,6 @@
 # Sources — History of African and World Music
 
-countries: Ethiopia, Honduras, Albania, Samoa
+countries: Ethiopia, Honduras, Albania, Samoa, Iceland
 
 **Book 1:** *Performing and Visual Arts Teacher Guide Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (first published 2022, GEQIP-E). Grade 10 has no student book; this guide is evidence only. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Honduras, Albania, Samoa
 
 **Book 5:** *Music — Teacher Guide, Years 11 and 12* (teacher guide, English) — Samoa, Ministry of Education, Sports and Culture, Samoa, 2004, ISBN 982-517-075-1, Years 11–12, 90 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover verified against the record title; the repo tree path is a PHANTOM PUSH (HTTP 404), so the book was fetched from the recorded MESC source_url (14,769,796 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Glossary (printed p. 88) — inventory-only, named here, not stocked; assessment guidance in the introduction is apparatus, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 6:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — history of African music (teacher guide — evidence) | Grade 10 Teacher Guide, printed pp. 35–38 (Unit 3, Lessons 22–23) |
@@ -22,8 +24,11 @@ countries: Ethiopia, Honduras, Albania, Samoa
 | Albania — Monody, polyphony, theme-and-variations and rondo — one-voiced against many-voiced building, and the variation and rondo forms heard and described (teacher guide — evidence) | Book 4, printed p. 29 |
 | Samoa — Section B, History and Research, Year 11 learning example — researching how music develops through cultural and environmental influences, and music's historical contribution and the significance of traditional and contemporary music (teacher-guide evidence) | Book 5, printed pp. 53–57 |
 
-**Acceptance count: taught in 1 country (Honduras).** Ethiopia is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count.
+| Iceland — Jazz in Chicago: forty New Orleans musicians in Chicago, Louis Armstrong's Hot Five and Hot Seven, and what a chorus is in jazz — one full round of the song's chord progression, the ground a solo is improvised over (teacher guide — evidence) | Book 6, printed p. 34 |
+| Iceland — Music in Cuba: where Havana's instruments came from — percussion from Africa, trumpet and guitar from Spain (whose own ancestors came with the Moors from Persia by way of the Arabs), the piano with the French fleeing Haiti; and the Buena Vista Social Club's old masters (teacher guide — evidence) | Book 6, printed p. 58 |
+
+**Acceptance count: taught in 1 country (Honduras).** Ethiopia is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only: Grade 10 has no student book. The two history lessons are carried at the scope the guide's unit table names (Lessons 22–23, printed pp. 35–38) and no historical detail beyond that scope and this course's earlier pupil-taught origins content is claimed.
 
-Searchable tags: history of African music, history of world music, Grade 10 teacher guide evidence, Lessons 22-23
+Searchable tags: history of African music, history of world music, Grade 10 teacher guide evidence, Lessons 22-23, Iceland, Dægurspor

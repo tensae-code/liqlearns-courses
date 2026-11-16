@@ -1,6 +1,6 @@
 # Sources — How the Arts Belong Together
 
-countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and Tobago
+countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and Tobago, Iceland
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and T
 
 **Book 12:** *Secondary School Curriculum — THE VISUAL AND PERFORMING ARTS (VAPA) Curriculum Guide* (curriculum guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 195 PDF pp. TEACHER — curriculum guide. Verdict: COMPLETE — Part 1 (national curriculum framework, policies) is general-education apparatus, named here and not placed; the per-subject curriculum content (Dance printed pp. 55–67, Drama pp. 76–101, Music pp. 109–132, Visual Arts pp. 140–184) is placed at framework level, the four Teacher's Guides carrying the same content in lesson form. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 13:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | The arts woven together (Sub lesson 1) | Grade 1 Student Textbook, Ch.5 chapter aims + §5.1, printed p. 67; Grade 2 Student Textbook, Ch.5 chapter aims, printed p. 71; Grade 3 Student Textbook, Ch.5 chapter aims + §5.1, printed p. 69 |
@@ -48,8 +50,10 @@ countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and T
 | Singapore — Drawing while listening: fast, upbeat passages of Schubert, Strauss and Grieg answered with dots and fast strokes, and colour chosen for the emotion the music carries — Ch.3 strategy, sensory experiences (teacher guide — evidence) | Book 11, printed p. 67 |
 | Trinidad and Tobago — The Integrated Arts Approach (Forms 1–3) — the arts combined on purpose: four integration models (Thematic, Project, Core and Integrated Core), an integrated process of making, exploring, performing/presenting, appraising/responding, evaluating and researching, ending in a major whole-school production (curriculum guide — evidence) | Book 12, printed pp. 34–42 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
+| Iceland — Multiculturalism demonstrated: a classroom experiment with glasses of coloured water — mix two colours and a colour appears that was in neither bottle — the visual proof of how mixing musical cultures creates music never heard before (teacher guide — evidence) | Book 13, printed p. 13 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The coin picture and the music example are Grade 2's own (§5.1, printed p. 71); the drama-into-drawing direction is Grade 3's own (§5.1, printed p. 69); the classroom doing-all-three scene and both review summaries are the books' own closing words, folded into the last sub lesson as the course structure map rules for review placements. No relationship claim is made that a book does not make.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, how the arts belong together, two sides of one coin, relationship of the arts, drama into drawing
+Searchable tags: Maldives, Exploring Creative Arts 4, how the arts belong together, two sides of one coin, relationship of the arts, drama into drawing, Iceland, Dægurspor

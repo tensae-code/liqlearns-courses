@@ -1,6 +1,6 @@
 # Sources — Performing Kinds of Music
 
-countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa
+countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland
 
 **Book 1:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., body/syllabus to printed p. 80. Printed page = PDF page − 6 in the body. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa
 
 **Book 6:** *Music — Teacher Guide, Years 11 and 12* (teacher guide, English) — Samoa, Ministry of Education, Sports and Culture, Samoa, 2004, ISBN 982-517-075-1, Years 11–12, 90 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover verified against the record title; the repo tree path is a PHANTOM PUSH (HTTP 404), so the book was fetched from the recorded MESC source_url (14,769,796 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Glossary (printed p. 88) — inventory-only, named here, not stocked; assessment guidance in the introduction is apparatus, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 7:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the kinds of music in expression (teacher guide — evidence) | Grade 2 Teacher Guide, printed pp. 25–29 (§2.1; section level — scan with no text layer) |
@@ -24,8 +26,10 @@ countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa
 | Uganda — Chapter 2 — singing and composing in sol-fa: sing the song "Butterfly tell me how you grow" to sol-fa, sing up and down the music ladder, compose five sol-fa passages of up to eight notes without leaps, and compose a melody to given words and rhythm in sol-fa, then sing it to sol-fa and to words (song placed by name and task only, never transcribed) | Book 5, printed pp. 6–11 |
 | Samoa — Section A, Performance, Year 11 learning example — in-depth study of an instrument of your choice: performance techniques, score reading, notation, metre and time signatures, scales and technical exercises, intervals, transcribing music, performance direction terms, and preparing and presenting an instrumental performance (teacher-guide evidence) | Book 6, printed p. 44 |
 
-**Acceptance count: taught in 1 country (Uganda).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count.
+| Iceland — The Revue: Kerlingarvísur — listen with attention to how Nína Sveinsdóttir performs the old woman's verses, then sing them yourselves, working on singing, pronunciation and interpretation (teacher guide — evidence) | Book 7, printed p. 21 |
+
+**Acceptance count: taught in 1 country (Uganda).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only and is labelled so in its plan, text and sources. The Grade 2 teacher guide is a scan with no text layer; its parts are cited at section level only and no wording is quoted from it.
 
-Searchable tags: performing kinds of music, call and answer, two groups singing, teacher guide evidence
+Searchable tags: performing kinds of music, call and answer, two groups singing, teacher guide evidence, Iceland, Dægurspor

@@ -1,12 +1,14 @@
 # Sources — Traditional Games
 
-countries: Ethiopia
+countries: Ethiopia, Iceland
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
 **Book 3:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
+
+**Book 4:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,8 +21,10 @@ countries: Ethiopia
 | Sub lesson 4 — Rope jumping, ገመድ ዝላይ (gemed zilay) | Grade 3 Student Textbook, printed p. 82 |
 | Sub lesson 5 — Playing with traditional things | Grade 1 Student Textbook, §4.2, printed pp. 61–62 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+| Iceland — Minstrel shows and the cakewalk: the cakewalk, the enslaved people's dance-game on the Southern plantations, played in class to lively ragtime in fancy dress, with a cake for a prize as in the old days (teacher guide — evidence) | Book 4, printed p. 18 |
+
+**Acceptance count: taught in 1 country (Ethiopia).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Per STRUCTURE.md, the Practical Exercises chapter opener stocks into this lesson as its opening part; the opener's other strands (notes on drums, colour mixing, calligraphy, leaf printing) belong to their own lessons and are not stocked here, and its Review fold is carried by those same lessons. The games' songs (the Dimbushe Gela song, the Qilmosh counting song beyond the one refrain line the placement itself quotes, and ገመድ ዝለሉ Gemed Zilelu) are placed by name and shape only; verses are not transcribed.
 
-Searchable tags: traditional games, ሰኞ ማክሰኞ, Senyo Maksenyo, ድብብቆሽ, hide-and-seek, ድምቡሸ ገላ, Dimbushe Gela, ቅልሞሽ, Qilmosh, ገመድ ዝላይ, rope jumping, ሳንካ, sanka, jebena, rekebot, Grade 1, Grade 2, Grade 3
+Searchable tags: traditional games, ሰኞ ማክሰኞ, Senyo Maksenyo, ድብብቆሽ, hide-and-seek, ድምቡሸ ገላ, Dimbushe Gela, ቅልሞሽ, Qilmosh, ገመድ ዝላይ, rope jumping, ሳንካ, sanka, jebena, rekebot, Grade 1, Grade 2, Grade 3, Iceland, Dægurspor

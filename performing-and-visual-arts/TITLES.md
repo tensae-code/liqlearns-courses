@@ -264,7 +264,29 @@ The titles, in ladder order:
    by their sound, piano, steel pan, recorder and voice set
    beside the instruments of the country's Indian musical
    heritage (Trinidad and Tobago teacher guide / curriculum
-   guide, evidence).
+   guide, evidence). The Art
+   expansion added: the history of popular music — what a
+   dægurlag is and the laws all music shares; romantic music —
+   Chopin's Nocturne as an escape into an imagined world;
+   impressionism in music — Debussy's touch as soft as Monet's
+   brushstrokes; opera — its operetta part, Kálmán's song
+   everyone knows; broadside ballads — göturvísur, the street
+   songs that were their age's social media; jazz — its New
+   Orleans birth, Dixieland and the women of jazz; African
+   drumming and rhythms — Congo Square at jazz's root; bands
+   and brass bands — Sousa's ostinato marches and Helgi
+   Helgason's first Icelandic brass band; bugle calls and
+   military signals; ragtime and Scott Joplin; New Orleans jazz
+   funerals — hymns out, ragtime back, the second line dancing;
+   the gramophone, record and radio age — McPartland learning
+   phrase by phrase; big bands and swing — Basie, Goodman, the
+   Savoy and Glenn Miller; Schlager — Weimar's uncommonly
+   well-played hits; choir and choral singing — the M.A.
+   Quartet, the Comedian Harmonists and the Andrews Sisters;
+   Icelandic songwriters — Sigfús Halldórsson, Ingibjörg
+   Þorbergs and the closing lives of the makers; and Cuban
+   percussion — conga strokes and patterns played in class
+   (Iceland teacher guide, evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -349,7 +371,14 @@ The titles, in ladder order:
    masks, ritual, Greek chorus work and a built half mask; and
    Kolattam — the Indian-heritage stick dance, performed for
    its locomotor and axial movements (Trinidad and Tobago
-   teacher guides / curriculum guide, evidence).
+   teacher guides / curriculum guide, evidence). The Art expansion added:
+   the waltz — born from the Ländler, counted in eight-bar
+   phrases; musical theatre — Iceland's revues and their comic
+   songs, and the Árnason brothers' Deleríum Búbónis (1954),
+   which begins Iceland's own söngleikur tradition; tango —
+   Buenos Aires' forged dance, from the poor quarters to
+   Paris; and dances of the jazz age — charleston and foxtrot
+   in the art deco age (Iceland teacher guide, evidence).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New

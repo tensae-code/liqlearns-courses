@@ -1,6 +1,6 @@
 # Sources — Hearing Each Instrument
 
-countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singapore, Trinidad and Tobago
+countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singapore, Trinidad and Tobago, Iceland
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singa
 
 **Book 9:** *Secondary School Teacher's Guide — Music* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Planning & Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 64 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, VAPA mark sheets, rubrics and assessment adaptations, and the Glossary of Key Terms in Music (printed pp. 49–57), are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 10:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | The song “እኛም አለን ሙዚቃ” (We Too Have Music) — verses imitating each instrument's sound in turn (masenqo, krar, kebero, washint) | Grade 1 Student Textbook, printed p. 68 |
@@ -35,8 +37,13 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singa
 
 | Trinidad and Tobago — Making Music Happen: compare and contrast (Forms 1–3) — listening by comparison: two recordings of one selection, two bands/orchestras/choruses on video, Explainer and Bunji Garlin singing the same song, two versions of the National Anthem, and how a violin is like and unlike a tenor pan (teacher guide — evidence) | Book 9, printed p. 14 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, United Kingdom, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+| Iceland — Some wind instruments: knowing the winds by ear — match tuba, clarinet, trumpet, trombone and cornet to the pieces played, then alto, tenor and baritone saxophones (and the soprano in House Rent Blues) (teacher guide — evidence) | Book 10, printed p. 16 |
+| Iceland — The bandoneón: the tango's legendary instrument of the immigrant quarters, heard in Malena; and the classic tango sextet (two bandoneóns, two violins, piano, flute — later double bass) in Piazzolla's Libertango, staccato against legato (teacher guide — evidence) | Book 10, printed p. 23 |
+| Iceland — The harmonica: single-row against double-row — the double row's 21 notes give twice as many tones, because each note changes pitch as the bellows are drawn out or pressed in (teacher guide — evidence) | Book 10, printed p. 38 |
+| Iceland — The first drum kits: when the drum kit appeared its bass drums were marching-band huge (measure them in inches against pizzas); Gene Krupa and the drum battle (teacher guide — evidence) | Book 10, printed p. 43 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, United Kingdom, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The song is placed by name, purpose and teaching content only — its words are never transcribed; only the sound-words are the teaching content, as the placements state. A coffee-ceremony painting printed with the Grade 1 chapter's singing work belongs to the course's appreciation material and is not stocked as a part of this lesson.
 
-Searchable tags: hearing instruments by sound, We Too Have Music, እኛም አለን ሙዚቃ, trumpet, ጥሩንባ, listening
+Searchable tags: hearing instruments by sound, We Too Have Music, እኛም አለን ሙዚቃ, trumpet, ጥሩንባ, listening, Iceland, Dægurspor
