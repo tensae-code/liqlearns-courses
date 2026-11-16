@@ -12467,3 +12467,50 @@ and experience). UAE's own way: economics begins in Grade 1
 inside the work lesson — needs sorted at the supermarket shelf,
 then the child's own dirham coins named by value. Economics
 lessons: 376 → 378.
+
+## Economics expansion — Iceland — built 2026-11-15
+
+Iceland — 4 placements stocked from *Lýðræði og tækni —
+Kennsluleiðbeiningar* (teacher guide, Icelandic, PARTIAL;
+Grade 8; Icelandic school edition of the Norwegian original
+© 2006 H. Aschehaug & Co (W. Nygaard), authors Synnøve Veinan
+Hellerud / Sigrid Moen; no ISBN printed). All 4 placements are
+teacher-guide evidence, cited as the evidence they are,
+outside acceptance counts. The two Iceland filings were read
+and merged as one country: iceland-placements.md (5 distinct
+books — 4 record-only, 1 with placements) and
+iceland-placements-b.md (the 2 Grade 1 Trúarbrögðin okkar
+teacher books, both record-only, 0 placements — the same two
+books as Books 2–3 of the first filing, not double-counted).
+2 stocked into standing lessons — **Culture and Work**: From
+craft to factory — the growth of industry (Síðbúin
+atvinnubylting á Íslandi — Iceland's late industrial
+revolution: fisheries, population growth and changing farming,
+with joint-stock company (hlutafélag) and economic class
+(efnahagsstétt) as key concepts, printed p. 22, student book
+pp. 54–63; the lesson stays taught in 1 country, Mozambique)
+and **Market and Money**: Wage determination in the labour
+market (Verkefnablað 12 role-play "Launin verða að lækka" —
+wages must fall: wage bargaining in a clothing factory, the
+owner demanding a 50-aurar daily cut, worker cards carrying
+real daily wages e.g. 1.50 kr/day, printed p. 27; the lesson
+stays taught in 1 country, Ethiopia) — and 2 new lessons built
+(12 questions each) — in **Market and Money**: Trade unions
+and the strike decision (1 placement, "Sameinuð stöndum við!"
++ Verkefnablað 15 "Viltu fara í verkfall?", printed pp. 22
+and 34, student book pp. 64–75 — the rise of the Icelandic
+labour movement with urbanisation; pupils rank strike cards
+weighing lost wages and rent, eviction from union and
+housing, against solidarity and a neighbouring factory's
+four-day strike that won higher pay; acceptance 0 countries —
+teacher-guide evidence only) and Child labour and workers'
+conditions in early industry (1 placement, "Sameinuð stöndum
+við!", printed p. 22, student book pp. 64–75 — employment,
+housing, child labour and workers' conditions at the end of
+the 19th century, including source work comparing how
+different workers were paid; acceptance 0 countries —
+teacher-guide evidence only). Iceland's own way: economics
+arrives inside 19th-century history — pupils role-play a
+factory meeting where wages must fall, and rank
+strike-decision cards, before they ever meet a textbook
+definition. Economics lessons: 378 → 380.
