@@ -1,6 +1,6 @@
 # Sources — Where Industry Locates Location Factors
 
-countries: Kazakhstan
+countries: Kazakhstan, South Sudan
 
 **Book 1:** *География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова)* (student book, Russian) — Алматы «Мектеп»; year 2025; ISBN 978-601-07-1773-2. Title as printed: География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова). Grade: 8 (student/teacher: STUDENT). PDF pages: 273 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1531.pdf, 51,336,177 bytes from the recorded okulyk.kz source, page count matches the record; printed book 272 pp). Verdict: COMPLETE. Parallel editions named, not double-counted: record 309.pdf — the 2018 first edition in Kazakh, ISBN 978-601-07-0964-5, 256 printed pp, identical §§1–54 structure verified from its contents; record 344.pdf — the 2018 first edition in Russian, ISBN 978-601-07-0969-0, 264 printed pp, cover/verso verified; reissue records 1432.pdf and 1486.pdf belong to the same editions. The book is placed once here, under this 2025 edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -19,7 +19,13 @@ countries: Kazakhstan
 | Sub lesson 1 — 5.3.3 Locating industrial production | Kazakhstan, *Kazakhstan Grade 8 Sakhova NIS*, 5.3.3 Locating industrial production — printed p. 135 |
 | Sub lesson 2 — Kazakhstan's way — the book's own teaching way | Kazakhstan — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Kazakhstan).**
+**Book 5:** *South Sudan Primary Social Studies 4, Teacher's Guide* (teacher guide, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 4, Teacher's Guide. Grade: Primary 4 (student/teacher: TEACHER). PDF pages: 88 (cover verified against the record title; 2,805,593 bytes, grab SHA/size verified). Verdict: COMPLETE (guide for the full pupil's book; only the guide's own added Economics teaching notes are placed, below). Contents map: History (Unit 1 Technology; Unit 4 Stories and symbols) guide pp. 1–13, 51–65; Geography/Science (Unit 2 Weather and climate; Unit 3 map reading) guide pp. 14–35, 48–50; Civics (Unit 5 Avoiding conflict) guide pp. 66–84; Economics part: Unit 3 Interesting industry, guide pp. 36–47. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md Cited as teacher-guide evidence only, outside acceptance counts.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 3, Activity 3: Industries, teacher's notes — before starting an industry consider the market for its goods, water, money to start, vehicles and roads to carry goods to market, and raw materials — raw material is a factor that influences the location of an industry; growth needs workers and power, and is reduced by competition, lack of money or raw materials, bad roads and untrained workers (teacher guide — evidence) | South Sudan, *South Sudan Primary 4 P4 Social Studies TG* (teacher guide), Unit 3, Activity 3: Industries, teacher's notes — printed p. 46 |
+
+**Acceptance count: taught in 1 country (Kazakhstan). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
 
 Kazakhstan's own way (Kazakhstan Grade 8 Abilmazhinova): the Grade 8 Mektep course deepens every Grade 7 line — relief classification and rock ages, global circulation and the climatic belts, natural zones of both hemispheres, demographic calculation and policy design (Practical №7 has pupils propose their own demographic-policy model), resource assessment, industry location factors, and the political map — closing with Kazakhstan's own place in political-integration processes (§54).
 
@@ -29,4 +35,4 @@ Kazakhstan's own way (Kazakhstan Grade 9 Sakhova NIS): the NIS trial Grade 9 cou
 
 Kazakhstan's own way (Kazakhstan Grade 8 Sakhova NIS): the NIS Grade 8 course phrases its lessons as questions and tasks — «Әр жерде неліктен уақыт әркелкі?» (Why is time different in different places?, 2.2), «Тау жыныстары қалай пайда болады?» (How do rocks form?, 3.1.5), «Өзеннің суы қалай өзгереді?» (How does a river's water change?, 3.3.4) — and adds a lesson on the culture of showing geographic names on the map (2.3).
 
-Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources
+Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan

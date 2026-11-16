@@ -1,6 +1,6 @@
 # Sources — Resources That Develop An Economy
 
-countries: Vietnam, Bahamas, Kuwait, Rwanda
+countries: Vietnam, Bahamas, Kuwait, Rwanda, South Sudan
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -31,7 +31,15 @@ countries: Vietnam, Bahamas, Kuwait, Rwanda
 Rwanda's own way (Rwanda Grade 6): P6 scales the P5 family budget up to the state — national revenue collected by the Rwanda Revenue Authority, a finance minister presenting the budget to parliament, and development read through Rwandan trade, agriculture and tourism.
 
 
-**Acceptance count: taught in 4 countries (Vietnam, Bahamas, Kuwait, Rwanda).**
+**Book 5:** *South Sudan Primary Social Studies 3, Pupil's Book* (student book, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 3, Pupil's Book. Grade: Primary 3 (student/teacher: STUDENT). PDF pages: 55 (cover/title page verified against the record title; 1,734,041 bytes, grab SHA/size verified). Verdict: COMPLETE. Contents map: History (Unit 1 The people of Africa — its Activity 6, printed p. 8, only names economic activities in pictures, definition carried in the word list only, so not placed) printed pp. 1–13; Geography (Unit 2 The land of Africa; Unit 4 settlements/migration) printed pp. 14–23, 33–36, 38; Science/environment (Unit 3 Environmental pollution) printed pp. 24–32; Civics (Unit 5 More problem solving — conflict and peace) printed pp. 43–49; Economics parts: Unit 4 Activities 4 and 6, printed pp. 37, 39–41. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 4, Activity 6: Products and jobs of a locality — every locality has different jobs and products depending on the resources available; the animals and plants present determine the products a locality has (products from cow, hen, goat, trees, camel) | South Sudan, *South Sudan Primary 3 P3 Social Studies SB*, Unit 4, Activity 6: Products and jobs of a locality — printed p. 39 |
+
+South Sudan's own way (South Sudan Primary 3): economic activity is defined by place — what people do on their land to get money — and a locality's products and jobs are taught as following from the animals and plants that live there.
+
+**Acceptance count: taught in 5 countries (Vietnam, Bahamas, Kuwait, Rwanda, South Sudan).**
 
 Kuwait's own way (Kuwait Grade 7 Term 2): Grade 7 widens from the Gulf to the whole Arab homeland — resources and sectors first, then the Arab world's economic problems (above all economic dependency), then the future: diversification, the New Kuwait vision and Arab integration.
 
@@ -39,4 +47,4 @@ Bahamas' own way: Grade 5 teaches the service economy directly — the surroundi
 
 Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
 
-Searchable tags: resources that develop an economy, Vietnam, social studies, people-and-resources, bahamas, rwanda
+Searchable tags: resources that develop an economy, Vietnam, social studies, people-and-resources, bahamas, rwanda, south sudan

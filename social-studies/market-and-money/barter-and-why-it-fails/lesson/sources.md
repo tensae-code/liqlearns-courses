@@ -1,6 +1,6 @@
 # Sources — Barter — and why it fails
 
-countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia
+countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -60,7 +60,15 @@ Eritrea's own way (Eritrea Grade 5 Social Studies 5 (Tigrinya)): trade is taught
 |---|---|
 | Mongolia — Chapter III source study — barter's difficulties and Mongolia's own money story, from livestock and goods-money to the paper money of 1236 | Mongolia, *Social Studies 9*, Chapter III source study — printed p. 59 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia).**
+**Book 9:** *South Sudan Primary Social Studies 6, Pupil's Book* (student book, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 6, Pupil's Book. Grade: Primary 6 (student/teacher: STUDENT). PDF pages: 90 (cover/title page verified against the record title; 8,857,483 bytes, grab SHA/size verified). Verdict: COMPLETE. Contents map: History/Civics (Unit 1 The challenge of change — its economy mention is one comparison line, not taught, so not placed; Unit 4 Valuing one another) printed pp. 1–16, 49–65; Geography (Unit 2 Changing states) printed pp. 17–31; Economics parts: Unit 3 Tourism in South Sudan, printed pp. 32–48; Unit 5 Fishing for industry and trade, printed pp. 66–81. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 5, Activity 1: How industries and trade operate — barter trade is the exchange of goods with goods; goods may also be exchanged for money, and services exchanged for other services, starting from the goods bought and sold in the pupils' own local market | South Sudan, *South Sudan Primary 6 P6 Social Studies SB*, Unit 5, Activity 1: How industries and trade operate — printed p. 68 |
+
+South Sudan's own way (South Sudan Primary 6): trade is taught as a tree — internal trade splits into wholesale and retail, external into import and export, with South Sudan's own lists (imports raw sugar, medicine, cereal flour, cars; exports coffee and oil) — and every sector study (tourism, fishing) is carried through benefits, problems and solutions for the country's economy.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan).**
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
@@ -68,4 +76,4 @@ Uganda's own way: barter is taught as the economic organisation of pre-colonial 
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox, mongolia, barter, livestock goods-money, paper money 1236
+Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox, mongolia, barter, livestock goods-money, paper money 1236, south sudan

@@ -134,7 +134,21 @@ countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, No
 | Kuwait part — Old economic activities 3: land and sea trade — old overland trade routes from the Gulf to Iraq, Egypt, the Levant and Yemen, and sea trade carrying goods to India, Yemen and East Africa | Kuwait, *Kuwait Grade 6 Social Studies G6 T1*, Old economic activities 3: land and sea trade — printed p. 88 |
 
 
-**Acceptance count: taught in 22 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, South Sudan).**
+**Book 42:** *South Sudan Primary Social Studies 4, Teacher's Guide* (teacher guide, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 4, Teacher's Guide. Grade: Primary 4 (student/teacher: TEACHER). PDF pages: 88 (cover verified against the record title; 2,805,593 bytes, grab SHA/size verified). Verdict: COMPLETE (guide for the full pupil's book; only the guide's own added Economics teaching notes are placed, below). Contents map: History (Unit 1 Technology; Unit 4 Stories and symbols) guide pp. 1–13, 51–65; Geography/Science (Unit 2 Weather and climate; Unit 3 map reading) guide pp. 14–35, 48–50; Civics (Unit 5 Avoiding conflict) guide pp. 66–84; Economics part: Unit 3 Interesting industry, guide pp. 36–47. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md Cited as teacher-guide evidence only, outside acceptance counts.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 3, Activity 1: Economic activities, teacher's notes — definitions of the economic activities, with trading defined as the exchange of goods and services for other goods or money, taught through the story of Aketch's family (father a fisherman, mother a farmer who sells her maize in the Payam, neighbour a dairy farmer) (teacher guide — evidence) | South Sudan, *South Sudan Primary 4 P4 Social Studies TG* (teacher guide), Unit 3, Activity 1: Economic activities, teacher's notes — printed p. 40 |
+
+**Book 43:** *South Sudan Primary Social Studies 5, Pupil's Book* (student book, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 5, Pupil's Book. Grade: Primary 5 (student/teacher: STUDENT). PDF pages: 79 (cover/title page verified against the record title; 10,908,871 bytes, grab SHA/size verified). Verdict: COMPLETE. Contents map: History (Unit 1 Past kingdoms) printed pp. 1–20; Geography (Unit 2 This is our land) printed pp. 21–42; Civics (Unit 3 Leaders and decision makers — paying taxes appears only as one line in a good-citizen list, not taught, so not placed) printed pp. 43–60; Economics parts: Unit 1 Economic organisation, printed p. 16; Unit 4 Farming, printed pp. 61–72. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 1: Economic organisation of the past kingdoms — the kingdoms were cultivators and animal keepers who exchanged farm produce for goods they did not have, such as textiles, alongside iron-smelting and bark-cloth industries | South Sudan, *South Sudan Primary 5 P5 Social Studies SB*, Unit 1: Economic organisation of the past kingdoms — printed p. 16 |
+
+South Sudan's own way (South Sudan Primary 5): farming is taught as the country's economic backbone — 90% of the land suitable for farming — with its benefits listed as food, employment, income and raw materials for industries, and its challenges named frankly, including poor rural roads blocking access to markets and relief-food dependence ("relief syndrome") discouraging people from farming for themselves.
+
+**Acceptance count: taught in 22 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, South Sudan).** South Sudan was already counted in this lesson from the earlier waves; the Economics-expansion Primary 4 teacher-guide and Primary 5 pupil's-book rows are stocked as depth for the same country, so the count does not rise.
 
 Kuwait's own way (Kuwait Grade 6 Term 1): Economics enters in Grade 6 as the Gulf's old livelihoods — work shaped by a harsh desert/coastal environment, taught through named local crafts, ships and the pearl-diving season.
 
@@ -142,7 +156,7 @@ Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapt
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
-Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, eritrea economics expansion, buying selling exchanging, farmer bus owner wage worker
+Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, eritrea economics expansion, buying selling exchanging, farmer bus owner wage worker, south sudan
 
 Palestine's own way (Grade 5, PS G5P2): the settlement story is told as a ladder — farming, animal domestication, the agricultural village, the Palestinian village of today, then the city located on the map — and the year closes with the road itself: what a road is, its parts, and how to cross it safely.
 

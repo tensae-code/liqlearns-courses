@@ -1,6 +1,6 @@
 # Sources — Industry What It Is
 
-countries: Vietnam, Eritrea
+countries: Vietnam, Eritrea, South Sudan
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -17,8 +17,16 @@ countries: Vietnam, Eritrea
 
 Eritrea's own way (Eritrea Grade 8 Social Studies 8): the Economics is Eritrea itself — its own post-independence development story (National Charter principles, 1995 land reform, self-reliance, the Warsai-Yikaalo campaign) followed by a full survey of its farming, fishing, trade and industries with national statistics.
 
-**Acceptance count: taught in 2 countries (Vietnam, Eritrea).**
+**Book 3:** *South Sudan Primary Social Studies 4, Pupil's Book* (student book, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 4, Pupil's Book. Grade: Primary 4 (student/teacher: STUDENT). PDF pages: 85 (cover/title page verified against the record title; 11,123,378 bytes, grab SHA/size verified; body image-only, Economics unit read from 100-DPI page renders). Verdict: COMPLETE. Contents map: History (Unit 1 Technology; Unit 4 Stories and symbols) printed pp. 1–17, 58–67; Geography/Science (Unit 2 Weather and climate; Unit 3 map reading) printed pp. 18–39, 55–57; Civics (Unit 5 Avoiding conflicts) printed pp. 68–79; Economics parts: Unit 3 Interesting industry, printed pp. 40–54. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 3: Industries — an industry is a place where raw materials like cotton are made into finished products like clothes; activities that add value to South Sudan (crops give food and money, the Nile and wildlife bring tourists); traditional industries make traditional goods using readily available things, modern industries make modern items using raw materials; class project to visit a local industry | South Sudan, *South Sudan Primary 4 P4 Social Studies SB*, Unit 3: Industries — printed p. 51 |
+
+South Sudan's own way (South Sudan Primary 4): the economy is taught sector by sector through the child's own country — crop farming, forestry and White Nile fishing, each with its process, its problems (bad roads, pests, drought, floods, pollution) and what it gives the country — before "industry" is defined as turning raw materials into finished products, traditional industries first.
+
+**Acceptance count: taught in 3 countries (Vietnam, Eritrea, South Sudan).**
 
 Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
 
-Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work
+Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan

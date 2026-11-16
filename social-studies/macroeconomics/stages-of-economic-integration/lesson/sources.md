@@ -1,6 +1,6 @@
 # Sources — Stages of economic integration
 
-countries: Argentina, Ethiopia, Guatemala
+countries: Argentina, Ethiopia, Guatemala, South Sudan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -26,6 +26,14 @@ Argentina's own way: Economics enters primary Social Studies through Mercosur �
 
 Guatemala's own way: integration is taught as Guatemala's own treaty story — the 1958 Mercomún first, then the free trade treaties (TLCs) Guatemala itself has signed.
 
-**Acceptance count: taught in 2 countries (Ethiopia, Guatemala). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 4:** *South Sudan Primary Social Studies 7, Pupil's Book* (student book, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 7, Pupil's Book. Grade: Primary 7 (student/teacher: STUDENT). PDF pages: 130 (cover/title page verified against the record title; 5,009,200 bytes, grab SHA/size verified). Verdict: COMPLETE. Contents map: History (Unit 1 The rise and fall of civilisation) printed pp. 1–21; Geography (Unit 2 Exploring physical features — protection of features, effects of industrialisation and of agriculture on the environment, biodiversity) printed pp. 22–48; Civics (Unit 4 Promotion of gender equality; Unit 5 Just and fair society) printed pp. 83–122; Economics parts: Unit 2 Activity 3 Impacts of physical features on human activities, printed pp. 27–30; Unit 3 Mining in South Sudan, printed pp. 49–66 (mining methods, printed pp. 57–62, and environmental impacts, printed pp. 63–65, are technique/environment, named here only); Unit 3 Activity 8 Regional bodies, printed pp. 67–81. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md
 
-Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 3, Activity 8: Regional bodies — the East African Community — the EAC's objectives run in stages — a free trade area with no tariffs among members, a common market with free movement of capital and labour, a monetary union with a common currency (the East Africa Shilling), and finally a political union, the East Africa Federation; ECOWAS likewise aims at an economic union and then a monetary union | South Sudan, *South Sudan Primary 7 P7 Social Studies SB*, Unit 3, Activity 8: Regional bodies — the East African Community — printed p. 73 |
+
+South Sudan's own way (South Sudan Primary 7): the country's economy is told through oil and minerals — mining is debated in class as "the backbone to the economy of South Sudan", with over-reliance on it (and world price swings) named as a danger in the same unit — and regional integration is taught through the blocs South Sudan actually belongs to (EAC, IGAD) alongside ECOWAS, SADC and the AU.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Guatemala, South Sudan). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+
+Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan

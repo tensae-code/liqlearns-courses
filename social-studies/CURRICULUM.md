@@ -14066,3 +14066,115 @@ revenue, a finance minister presenting the
 budget to parliament, and development read
 through trade, agriculture and tourism.
 Economics lessons: 441 → 451.
+
+## Economics expansion — South Sudan — built 2026-11-16
+
+South Sudan — 39 placements stocked from 15
+books with placements (28 records / 16 distinct
+books filed; Book 1, the P1 pupil's book, is
+record-only with 0 placements, and Book 12,
+the P6 teacher's guide, files 0 placements, as
+filed). The placement lines actually written
+are 32 to existing lessons + 7 NEW LESSON
+NEEDED, matching the wave close; two of the
+32 existing-flagged lines (P7 teacher guide,
+printed p. 51, and P8 pupil's book, printed
+p. 39) name lessons built new in this merge
+(Mining in South Sudan's economy; Agriculture —
+the backbone of a country's economy), so the
+39 rows land as 30 rows into 19 standing
+lessons and 9 rows into 7 new lessons. All
+placed books are Ministry of General Education
+and Instruction, Republic of South Sudan
+(developed with Longhorn and Mountain Top
+publishers, Kenya), 2018, no ISBN printed;
+the pupil's books count in acceptance and the
+teacher's guides are cited as teacher-guide
+evidence only, outside the acceptance counts,
+in every row. Where South Sudan was already
+counted in a lesson from the earlier waves
+(Economic features around us — where the P2
+pupil's book now gives the lesson its first
+student-book count, 0 → 1; Importance of
+farming to the economy; What forests do for
+the economy; Challenges of the fishing
+industry; Trade — what trade is; Factors that
+influence trade), the new rows are stocked as
+depth with the counts unchanged, as recorded
+in each lesson's sources. Stocked into
+standing lessons — People and Resources:
+Economic features around us (P1 TG p. 20,
+teacher-guide evidence; P2 SB p. 52;
+acceptance 0 → 1); Economic activities of our
+district (P3 SB p. 37; P4 SB p. 40; acceptance
+3 → 4); Resources that develop an economy
+(P3 SB p. 39; acceptance 4 → 5); What decides
+where economic activities happen (P3 TG p. 9;
+P5 TG p. 66; P7 SB p. 27; P8 TG p. 23;
+acceptance 1 → 2); Importance of farming to
+the economy (P4 SB p. 44; P4 TG p. 42; P5 SB
+p. 71; P8 SB p. 49; acceptance unchanged —
+South Sudan already counted); What forests do
+for the economy (P4 SB p. 46; acceptance
+unchanged — already counted); Challenges of
+the fishing industry (P4 SB p. 49; P6 SB
+p. 77; acceptance unchanged — already
+counted); Where industry locates — location
+factors (P4 TG p. 46; acceptance unchanged —
+teacher-guide evidence only); Factors
+affecting tourism development (P6 SB p. 45;
+acceptance 1 → 2) — Culture and Work: Sources
+of income (P2 SB p. 51; P2 TG p. 27;
+acceptance 3 → 4); Industry — what it is
+(P4 SB p. 51; acceptance 2 → 3); Trade — what
+trade is (P4 TG p. 40; P5 SB p. 16; acceptance
+unchanged — already counted); Trade — supply,
+demand and consumer rights (P4 TG p. 43;
+acceptance unchanged — teacher-guide evidence
+only); Factors that influence trade (P6 SB
+p. 71; acceptance unchanged — already counted)
+— Market and Money: Barter — and why it fails
+(P6 SB p. 68; acceptance 6 → 7); Domestic
+trade — wholesale and retail (P6 SB p. 68;
+acceptance 3 → 4) — Macroeconomics: Why
+countries trade (P6 SB p. 69; acceptance
+2 → 3); Stages of economic integration
+(P7 SB p. 73; acceptance 2 → 3); Regional
+integration — gains and costs (P7 SB p. 69;
+acceptance 4 → 5). And 7 new lessons built
+(12 questions each) — in Macroeconomics:
+Challenges facing farming (P5 SB p. 65);
+Agriculture — the backbone of a country's
+economy (P5 SB p. 71; P8 SB p. 39); Fishing
+industry — growth and jobs (P6 SB p. 74); How
+tourism earns a country money (P6 SB p. 42);
+Mining in South Sudan's economy (P7 SB p. 51;
+P7 TG p. 51, teacher-guide evidence);
+Challenges facing mining (P7 SB p. 54) — in
+Market and Money: Cash crop farming — growing
+for sale (P8 SB p. 45). Checked first: none of
+the 7 NEW slugs existed in the current tree
+and no existing lesson covers those things,
+so each was built once under its named slug.
+South Sudan's own way: Economics enters at
+Primary 1 only as "economic features" — places
+in the child's own surroundings where people
+work to make money; work is introduced through
+the village and its products; the economy is
+then taught sector by sector (crop farming,
+forestry, White Nile fishing, industry);
+farming is taught as the country's economic
+backbone — 90% of the land suitable — with
+relief syndrome named frankly among its
+challenges; trade is taught as a tree
+(internal wholesale/retail, external
+import/export, with South Sudan's own import
+and export lists); and the upper-primary
+economy is told through oil and minerals,
+with over-reliance on mining named as a danger
+in the same unit, closing with the regional
+blocs South Sudan actually belongs to (EAC,
+IGAD) and cash-crop farming following the
+money round the farm — bank loan, harvest
+sale at a supply-and-demand price, loan repaid.
+Economics lessons: 451 → 458.

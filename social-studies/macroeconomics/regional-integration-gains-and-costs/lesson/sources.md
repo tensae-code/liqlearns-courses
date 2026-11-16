@@ -1,6 +1,6 @@
 # Sources — Regional integration — gains and costs
 
-countries: Argentina, Ethiopia, Uganda, Kuwait, Rwanda
+countries: Argentina, Ethiopia, Uganda, Kuwait, Rwanda, South Sudan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -40,10 +40,18 @@ Argentina's own way: Economics enters primary Social Studies through Mercosur �
 Rwanda's own way (Rwanda Grade 6): P6 scales the P5 family budget up to the state — national revenue collected by the Rwanda Revenue Authority, a finance minister presenting the budget to parliament, and development read through Rwandan trade, agriculture and tourism.
 
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Kuwait, Rwanda). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *South Sudan Primary Social Studies 7, Pupil's Book* (student book, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 7, Pupil's Book. Grade: Primary 7 (student/teacher: STUDENT). PDF pages: 130 (cover/title page verified against the record title; 5,009,200 bytes, grab SHA/size verified). Verdict: COMPLETE. Contents map: History (Unit 1 The rise and fall of civilisation) printed pp. 1–21; Geography (Unit 2 Exploring physical features — protection of features, effects of industrialisation and of agriculture on the environment, biodiversity) printed pp. 22–48; Civics (Unit 4 Promotion of gender equality; Unit 5 Just and fair society) printed pp. 83–122; Economics parts: Unit 2 Activity 3 Impacts of physical features on human activities, printed pp. 27–30; Unit 3 Mining in South Sudan, printed pp. 49–66 (mining methods, printed pp. 57–62, and environmental impacts, printed pp. 63–65, are technique/environment, named here only); Unit 3 Activity 8 Regional bodies, printed pp. 67–81. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 3, Activity 8: Regional bodies — aims, achievements and challenges — ECOWAS aims to raise living standards and economic stability through integration (common market, common external tariff, common trade policy, free movement of goods and persons, a monetary institute), SADC aims at development, economic growth and poverty alleviation, IGAD at trade and investment among members; the costs are also taught — divided loyalties, competition from other blocs, different tariff regimes, and imbalanced benefits (Kenya's currency appreciating while partners' depreciated inside the EAC) | South Sudan, *South Sudan Primary 7 P7 Social Studies SB*, Unit 3, Activity 8: Regional bodies — aims, achievements and challenges — printed p. 69 |
+
+South Sudan's own way (South Sudan Primary 7): the country's economy is told through oil and minerals — mining is debated in class as "the backbone to the economy of South Sudan", with over-reliance on it (and world price swings) named as a danger in the same unit — and regional integration is taught through the blocs South Sudan actually belongs to (EAC, IGAD) alongside ECOWAS, SADC and the AU.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Kuwait, Rwanda, South Sudan). Argentina is teacher-guide evidence only — named here, counted nowhere.**
 
 Kuwait's own way (Kuwait Grade 6 Term 2): the modern economy is taught as resources-and-development of the Gulf states — oil and gas first, with the danger of depending on oil named from the start, then farming, livestock/fisheries, industry and trade, ending in GCC economic integration.
 
 Uganda's own way: the Excel ladder widens from Uganda to the region — Primary Six teaches the East African Community as a working market: common currency aim, fewer trade barriers, free movement, wider markets, and the landlocked country's trade costs, Uganda being landlocked itself.
 
-Searchable tags: regional integration, gains and costs, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics, uganda, east african community, EAC, landlocked, free movement, common currency, rwanda
+Searchable tags: regional integration, gains and costs, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics, uganda, east african community, EAC, landlocked, free movement, common currency, rwanda, south sudan

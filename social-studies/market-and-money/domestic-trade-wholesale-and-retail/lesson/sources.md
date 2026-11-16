@@ -1,6 +1,6 @@
 # Sources — Domestic trade — wholesale and retail
 
-countries: Ethiopia, Kenya, Eritrea
+countries: Ethiopia, Kenya, Eritrea, South Sudan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -35,6 +35,14 @@ Eritrea's own way (Eritrea Grade 8 Social Studies 8): the Economics is Eritrea i
 
 Eritrea's own way (Eritrea Grade 5 Social Studies 5 (Tigrinya)): trade is taught in the mother tongue a full three years before the English-medium Grade 8 book repeats it — the same Eritrean examples (the farmer at market, sesame and fish exports) carried from Tigrinya into English.
 
-**Acceptance count: taught in 3 countries (Ethiopia, Kenya, Eritrea).**
+**Book 5:** *South Sudan Primary Social Studies 6, Pupil's Book* (student book, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 6, Pupil's Book. Grade: Primary 6 (student/teacher: STUDENT). PDF pages: 90 (cover/title page verified against the record title; 8,857,483 bytes, grab SHA/size verified). Verdict: COMPLETE. Contents map: History/Civics (Unit 1 The challenge of change — its economy mention is one comparison line, not taught, so not placed; Unit 4 Valuing one another) printed pp. 1–16, 49–65; Geography (Unit 2 Changing states) printed pp. 17–31; Economics parts: Unit 3 Tourism in South Sudan, printed pp. 32–48; Unit 5 Fishing for industry and trade, printed pp. 66–81. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md
 
-Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 5, Activity 1: Internal (domestic) trade — wholesale trade is buying goods from manufacturers or producers in large quantities; retail trade is selling goods in small quantities to consumers; internal trade facilitates exchange within the country, improves living standards, enhances employment, grows industries by ensuring raw materials, and gets factors of production to the right place so the economy grows | South Sudan, *South Sudan Primary 6 P6 Social Studies SB*, Unit 5, Activity 1: Internal (domestic) trade — printed p. 68 |
+
+South Sudan's own way (South Sudan Primary 6): trade is taught as a tree — internal trade splits into wholesale and retail, external into import and export, with South Sudan's own lists (imports raw sugar, medicine, cereal flour, cars; exports coffee and oil) — and every sector study (tourism, fishing) is carried through benefits, problems and solutions for the country's economy.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Kenya, Eritrea, South Sudan).**
+
+Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money, south sudan

@@ -9,10 +9,11 @@ countries: South Sudan
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Factors influencing trade | South Sudan, *South Sudan Grade 6 P6 Social Studies SB*, Factors influencing trade — printed p. 72 |
+| South Sudan part — Economics expansion — Unit 5, Activity 2: Factors influencing trade — availability of resources (South Sudan's oil), good transport and communication, large population, government policies (including price controls on essential goods), foreign influence (trade with former colonial powers along established routes) and availability of market; and the importance of trade — exports earn foreign currency to pay for imports, trade creates jobs in transport and banking, and government earns revenue through taxes on trade | South Sudan, *South Sudan Primary 6 P6 Social Studies SB*, Unit 5, Activity 2: Factors influencing trade — printed p. 71 |
 | Sub lesson 1 — Guide: Unit 5 — factors that promote trade (teacher guide — evidence) | South Sudan, *South Sudan Grade 6 P6 Social Studies TG* (teacher guide), Guide: Unit 5 — factors that promote trade — printed p. 88 |
 | Sub lesson 2 — South Sudan's way — the book's own teaching way | South Sudan — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (South Sudan).**
+**Acceptance count: taught in 1 country (South Sudan).** South Sudan was already counted in this lesson (the pupil's-book row above); the Economics-expansion row is stocked as depth for the same country, so the count does not rise.
 
 South Sudan's own way (South Sudan Grade 6 P6 Social Studies SB): Tourism is taught as national homework — map the parks, weigh the landlocked disadvantage against South Africa, set up the anti-poaching unit — and the fishing unit ties grounds back to Unit 2's physical features and forward to roads that must be improved so fish can reach market.
 

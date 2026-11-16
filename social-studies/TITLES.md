@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **451**
+Economics lessons across the Economics titles: **458**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4325,3 +4325,11 @@ and Factors that promote and hinder
 development; Market and Money: Saving through
 savings groups and cooperatives and
 Cooperatives and SACCOs in Rwanda).
++7 for South Sudan,
+2026-11-16 — Macroeconomics: Challenges
+facing farming, Agriculture — the backbone
+of a country's economy, Fishing industry —
+growth and jobs, How tourism earns a country
+money, Mining in South Sudan's economy and
+Challenges facing mining; Market and Money:
+Cash crop farming — growing for sale).

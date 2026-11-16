@@ -43,9 +43,17 @@ countries: Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia, Cuba, South S
 | Cuba part — Capítulo 2 Recursos forestales | Cuba, *Cuba Grade 8 Geografía 2 G8*, Capítulo 2 Recursos forestales — printed p. 30 |
 | South Sudan part — Economic and social benefits of forests | South Sudan, *South Sudan Grade 11 S3 Geography SB*, Economic and social benefits of forests — printed p. 106 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia, Cuba, South Sudan).**
+**Book 13:** *South Sudan Primary Social Studies 4, Pupil's Book* (student book, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 4, Pupil's Book. Grade: Primary 4 (student/teacher: STUDENT). PDF pages: 85 (cover/title page verified against the record title; 11,123,378 bytes, grab SHA/size verified; body image-only, Economics unit read from 100-DPI page renders). Verdict: COMPLETE. Contents map: History (Unit 1 Technology; Unit 4 Stories and symbols) printed pp. 1–17, 58–67; Geography/Science (Unit 2 Weather and climate; Unit 3 map reading) printed pp. 18–39, 55–57; Civics (Unit 5 Avoiding conflicts) printed pp. 68–79; Economics parts: Unit 3 Interesting industry, printed pp. 40–54. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md
 
-Searchable tags: forestry, fuelwood, timber, watershed protection, forest economy, social studies
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Economics expansion — Unit 3: Forestry — forestry is cultivating and managing the forest; the tree-to-chair chain (lumberman cuts, sawmill saws, carpenter makes the chair) told as a song and story; problems facing forestry and planting more trees | South Sudan, *South Sudan Primary 4 P4 Social Studies SB*, Unit 3: Forestry — printed p. 46 |
+
+South Sudan's own way (South Sudan Primary 4): the economy is taught sector by sector through the child's own country — crop farming, forestry and White Nile fishing, each with its process, its problems (bad roads, pests, drought, floods, pollution) and what it gives the country — before "industry" is defined as turning raw materials into finished products, traditional industries first.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia, Cuba, South Sudan).** South Sudan was already counted in this lesson (Secondary Geography 3 above); the Economics-expansion Primary 4 row is stocked as depth for the same country, so the count does not rise.
+
+Searchable tags: forestry, fuelwood, timber, watershed protection, forest economy, social studies, south sudan
 
 Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
 

@@ -1,6 +1,6 @@
 # Sources — Economic Activities Of Our District
 
-countries: Nepal, Uganda, Rwanda
+countries: Nepal, Uganda, Rwanda, South Sudan
 
 **Book 1:** *My Social Studies and Creative Arts Grade 5 (English Version)* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre; year First edition 2068 BS, revised edition 2074 BS; ISBN 978-99933-717-8-6 as printed — the same ISBN printed in the Grade 2 book, a publisher copy error. Title as printed: My Social Studies and Creative Arts Grade 5 (English Version). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 156 (cover/title page verified against the record title). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Lessons 2–5 dealings with neighbours, community help, equal treatment (printed pp. 4–11); Unit 2 Lessons 1, 3–5 traditions, festivals, pride, good people (pp. 12–21); Unit 3 Social Problems and their Solutions (pp. 22–33); Unit 4 Civics Sense (pp. 34–47, civics); Unit 6 Our Past (pp. 66–79, History); Unit 7 Lessons 2 and 4 School property, Use of national products (pp. 82, 86); Creative Arts (pp. 91–155). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
@@ -27,7 +27,23 @@ countries: Nepal, Uganda, Rwanda
 Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first time and ties money to the district — Lake Kivu fishing, Kigali markets and tourist crafts — with saving taught as planning before spending and comparing what a bank pays.
 
 
-**Acceptance count: taught in 3 countries (Nepal, Uganda, Rwanda).**
+**Book 5:** *South Sudan Primary Social Studies 3, Pupil's Book* (student book, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 3, Pupil's Book. Grade: Primary 3 (student/teacher: STUDENT). PDF pages: 55 (cover/title page verified against the record title; 1,734,041 bytes, grab SHA/size verified). Verdict: COMPLETE. Contents map: History (Unit 1 The people of Africa — its Activity 6, printed p. 8, only names economic activities in pictures, definition carried in the word list only, so not placed) printed pp. 1–13; Geography (Unit 2 The land of Africa; Unit 4 settlements/migration) printed pp. 14–23, 33–36, 38; Science/environment (Unit 3 Environmental pollution) printed pp. 24–32; Civics (Unit 5 More problem solving — conflict and peace) printed pp. 43–49; Economics parts: Unit 4 Activities 4 and 6, printed pp. 37, 39–41. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 4, Activity 4: Land use and economic activities in African continent — land use is the way we use our land; economic activities are activities done at a place that help people get money, and different communities do different ones | South Sudan, *South Sudan Primary 3 P3 Social Studies SB*, Unit 4, Activity 4: Land use and economic activities in African continent — printed p. 37 |
+
+South Sudan's own way (South Sudan Primary 3): economic activity is defined by place — what people do on their land to get money — and a locality's products and jobs are taught as following from the animals and plants that live there.
+
+**Book 6:** *South Sudan Primary Social Studies 4, Pupil's Book* (student book, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 4, Pupil's Book. Grade: Primary 4 (student/teacher: STUDENT). PDF pages: 85 (cover/title page verified against the record title; 11,123,378 bytes, grab SHA/size verified; body image-only, Economics unit read from 100-DPI page renders). Verdict: COMPLETE. Contents map: History (Unit 1 Technology; Unit 4 Stories and symbols) printed pp. 1–17, 58–67; Geography/Science (Unit 2 Weather and climate; Unit 3 map reading) printed pp. 18–39, 55–57; Civics (Unit 5 Avoiding conflicts) printed pp. 68–79; Economics parts: Unit 3 Interesting industry, printed pp. 40–54. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 3: Economic activities / Economic activities in South Sudan — things we do to give us money are economic activities (farming, hunting, fishing, trading, herding, forestry, gathering, basketry, mining), and South Sudan has many economic activities depending on its climate and weather | South Sudan, *South Sudan Primary 4 P4 Social Studies SB*, Unit 3: Economic activities — printed p. 40 |
+
+South Sudan's own way (South Sudan Primary 4): the economy is taught sector by sector through the child's own country — crop farming, forestry and White Nile fishing, each with its process, its problems (bad roads, pests, drought, floods, pollution) and what it gives the country — before "industry" is defined as turning raw materials into finished products, traditional industries first.
+
+**Acceptance count: taught in 4 countries (Nepal, Uganda, Rwanda, South Sudan).**
 
 Nepal's own way (Nepal Grade 5 np-g5): Grade 5 "Our Earth" is a first full geography of Nepal — physical features, climate and lifestyle, natural vegetation, soils, map-drawing with symbols, globe and maps, and the wider South Asian neighbours; economic geography is district-based (Sankhuwasabha's occupations mapped place by place, from yak and sheep rearing and herb collecting in the high Himalaya to paddy in the low valleys).
 
@@ -35,4 +51,4 @@ Nepal's own way (Nepal Grade 5 TG np-g5tg) (teacher guide — evidence): Guide t
 
 Uganda's own way (Uganda Primary 4 Home-Study Social Studies): Economics enters through the district — the work people around the child do, how a child adds to family income, and the services the government brings to the district; this placement keeps that way: the district's own kinds of work, named one by one, and why people work.
 
-Searchable tags: economic activities of our district, Nepal, social studies, people-and-resources, uganda, district work, fishing farming weaving pottery brick laying mining teaching trading, rwanda
+Searchable tags: economic activities of our district, Nepal, social studies, people-and-resources, uganda, district work, fishing farming weaving pottery brick laying mining teaching trading, rwanda, south sudan

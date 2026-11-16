@@ -1,6 +1,6 @@
 # Sources — Sources Of Income
 
-countries: Bhutan, Laos, Rwanda
+countries: Bhutan, Laos, Rwanda, South Sudan
 
 **Book 1:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
@@ -38,10 +38,24 @@ Rwanda's own way (Rwanda Grade 3): P3 Economics is a saving curriculum — where
 Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first time and ties money to the district — Lake Kivu fishing, Kigali markets and tourist crafts — with saving taught as planning before spending and comparing what a bank pays.
 
 
-**Acceptance count: taught in 3 countries (Bhutan, Laos, Rwanda).**
+**Book 6:** *South Sudan Primary Social Studies 2, Pupil's Book* (student book, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 2, Pupil's Book. Grade: Primary 2 (student/teacher: STUDENT). PDF pages: 83 (cover/title page verified against the record title; 5,750,290 bytes via the mid-size-books release asset, size verified by grab.py; image-only book, read from 100-DPI page renders). Verdict: COMPLETE. Contents map: History (Unit 1 Making changes) printed pp. 1–20; Geography (Unit 2 The land of South Sudan; Unit 3's location/compass pages) printed pp. 21–39, 53; Civics (Unit 4 Our community; Unit 5 Time to decide — choices taught only as healthy/safe/social decisions, no economic content) printed pp. 55–77; Economics parts: Unit 3 Jobs here and there, printed pp. 40–52 (jobs naming/matching pp. 40–50 is picture work; the taught Economics content is pp. 51–52). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 3: Jobs and products in your locality — a product is anything taken to a market that people need; South Sudan's agricultural products earn the country income and production should be promoted (taught as a song, with Product/Income as key words) | South Sudan, *South Sudan Primary 2 P2 Social Studies SB*, Unit 3: Jobs and products in your locality — printed p. 51 |
+
+South Sudan's own way (South Sudan Primary 2): work is introduced through the village — jobs are named from pictures of the child's own locality, then products: a product is "anything that can be taken to a market that is needed by people", and a song teaches that South Sudan's agricultural products earn the country income.
+
+**Book 7:** *South Sudan Primary Social Studies 2, Teacher's Guide* (teacher guide, English) — Ministry of General Education and Instruction, Republic of South Sudan (developed with Longhorn and Mountain Top publishers, Kenya); year 2018; ISBN no ISBN printed. Title as printed: South Sudan Primary Social Studies 2, Teacher's Guide. Grade: Primary 2 (student/teacher: TEACHER). PDF pages: 59 (cover verified against the record title; 4,272,202 bytes, grab SHA/size verified). Verdict: COMPLETE (guide for the full pupil's book; only its own added Economics teaching content is placed, below). Contents map: History (Unit 1 Making changes) guide pp. 1–12; Geography (Unit 2 The land of South Sudan) guide pp. 13–22; Civics (Unit 4 Our community; Unit 5 Time to decide) guide pp. 32–56; Economics part: Unit 3 Jobs here and there, guide pp. 23–31. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/south-sudan-placements.md Cited as teacher-guide evidence only, outside acceptance counts.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Unit 3, Activity 2: Effects of jobs done by people to the community — each job gives the community something (farmers grow crops for food, police give security, teachers give knowledge, jobs bring development such as a community water tank), and people work for a salary — the guide's story of a hospital watchman who works hard "so that he gets an income" (teacher guide — evidence) | South Sudan, *South Sudan Primary 2 P2 Social Studies TG* (teacher guide), Unit 3, Activity 2: Effects of jobs done by people to the community — printed p. 27 |
+
+**Acceptance count: taught in 4 countries (Bhutan, Laos, Rwanda, South Sudan).**
 
 Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.
 
 Laos' own way (Laos Grade 10 Business Combined student): the Combined book is the combined-class version of the Business course; its one Economics chapter teaches work choices through kip amounts — what changes between earning 10,000 kip a year and 100,000 kip a year.
 
-Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda
+Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan
