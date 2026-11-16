@@ -1,6 +1,6 @@
 # Sources — Models of Tourism Development
 
-countries: Greece, Bahamas, Venezuela, Egypt
+countries: Greece, Bahamas, Venezuela, Egypt, Fiji
 
 **Book 1:** *Τουριστική Γεωγραφία (Tourism Geography), Γ΄ ΕΠΑΛ — Τομέας Διοίκησης και Οικονομίας (Grade 12 vocational lyceum, Administration & Economics sector), revised edition (Αναθεωρημένη Έκδοση)* (student book, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-5121-8 (book code 0-24-0632). Title as printed: Τουριστική Γεωγραφία (Tourism Geography), Γ΄ ΕΠΑΛ — Τομέας Διοίκησης και Οικονομίας (Grade 12 vocational lyceum, Administration & Economics sector), revised edition (Αναθεωρημένη Έκδοση). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 306 (cover verified against the record title; byte size 45,985,578 exact match to the books.json record — fetched from the mid-size-books-7 release asset with a resumable downloader). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
 
@@ -33,7 +33,15 @@ countries: Greece, Bahamas, Venezuela, Egypt
 |---|---|
 | Egypt part — السياحة ومواقع التراث العالمي في إفريقيا (Tourism and World Heritage sites in Africa) — teaches: Africa's tourism assets and tourism for sustainable development — jobs, poverty reduction and foreign currency | Egypt, *Egypt Preparatory 7 Social Studies T2*, printed p. 62 |
 
-**Acceptance count: taught in 4 countries (Greece, Bahamas, Venezuela, Egypt).**
+**Book 6:** *PEOPLE AND THE SEA IN THE PACIFIC — A Social Sciences related reader for Primary School, Book 1 (Years 5-6)* (student book, English) — UNESCO & Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific (Tonga Campus); year 2020; ISBN no ISBN printed. Title as printed: PEOPLE AND THE SEA IN THE PACIFIC — A Social Sciences related reader for Primary School, Book 1 (Years 5-6). Grade: Years 5-6 (recorded Grade 5) (student/teacher: STUDENT). PDF pages: 24 (cover verified against the record title; 13,055,321 bytes via release route — the release grab failed twice with RemoteDisconnected and the duplicate tree path returned 404, then the release grab succeeded on a later attempt; duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 10, 12, 17; Ocean ecology and Pacific culture parts pp. 1-19 (the rest of the reader); no History / Geography / Civics parts as separate sections. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Whales — teaches: after commercial whaling drove humpbacks toward extinction and protection let them recover, Tonga offers whale watching and swimming as ecotourism, balancing human needs and nature's needs | Fiji, *Fiji Grade 5 ESD Reader 1 People and the Sea in the Pacific*, Whales — teaches: after commercial whaling drove humpbacks toward extinction and protection let them recover, Tonga offers whale watching and swimming as ecotourism, balancing human needs and nature's needs — printed p. 10 |
+
+**Acceptance count: taught in 5 countries (Greece, Bahamas, Venezuela, Egypt, Fiji).**
+
+Fiji's own way (Fiji Grade 5 ESD Reader 1 People and the Sea in the Pacific): A regional Pacific reader used in Fiji — the sea is taught as a shared resource that traditional harvesting rules protected, and that selling fish for money now puts under pressure.
 
 Venezuela's own way (Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish): G6 names the system outright — capitalism, dependent capitalism and the informal economy are defined in the pupil's own book, and development is redefined as gains in people's standard of living with the least environmental damage. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
@@ -43,4 +51,4 @@ Greece's own way (Greece Grade 12 EPAL Tourism Geography): a vocational tourism-
 
 Egypt's own way (Grade 7 Term 2, egypt-placements-b.md): Africa's economies are taught sector by sector — farming, mining and energy, industry, tourism, transport and trade — each tied to sustainable development and to Egypt's place in Africa.
 
-Searchable tags: models of tourism development, Greece, social studies, people-and-resources, bahamas, venezuela, egypt
+Searchable tags: models of tourism development, Greece, social studies, people-and-resources, bahamas, venezuela, egypt, Fiji

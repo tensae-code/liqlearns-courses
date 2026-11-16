@@ -1,6 +1,6 @@
 # Sources — The consumer price index and inflation
 
-countries: Ethiopia, Malaysia, Dominica
+countries: Ethiopia, Malaysia, Dominica, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -25,7 +25,15 @@ countries: Ethiopia, Malaysia, Dominica
 |---|---|
 | Dominica part — Unit 9.2: taxes to control inflation — teaches: measuring the inflation rate with the consumer price index (CPI) — the average price change of a typical family's basket of goods and services monitored over time (Economics expansion, 2026-11-16; original placement slug: macroeconomics/measuring-inflation-with-a-price-index — stocked here as the closest existing lesson covering this thing) | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 9.2: taxes to control inflation — printed p. 326 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Dominica).**
+**Book 5:** *YEAR 11 ECONOMICS (running head; this part has no cover page — it opens at printed p. 85 with Lesson 3.3 and continues the Part 1 book, verified against the record title and the Part 1 Table of Contents)* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit), Suva; year First Produced January 2014 (same book as Part 1); ISBN no ISBN printed. Title as printed: YEAR 11 ECONOMICS (running head; this part has no cover page — it opens at printed p. 85 with Lesson 3.3 and continues the Part 1 book, verified against the record title and the Part 1 Table of Contents). Grade: Year 11 (student/teacher: STUDENT). PDF pages: 34 (3,509,695 bytes via tree route; printed pp. 85-118). Verdict: COMPLETE — as Part 2: Strand 3 Lesson 3.3, Strand 4 and Strand 5 to the References at printed p. 117. Contents map: Economics parts — the whole book is Economics: Macroeconomics (Inflation) pp. 85-94; International Economics pp. 95-110; Development Economics pp. 111-117. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 3.3, Consumer Price Index — teaches: the CPI as the change in cost of a fixed basket of goods, calculating the CPI and the rate of inflation, worked with a Fiji CPI table | Fiji, *Fiji Grade 11 Economics Year 11 Part 2*, Lesson 3.3, Consumer Price Index — teaches: the CPI as the change in cost of a fixed basket of goods, calculating the CPI and the rate of inflation, worked with a Fiji CPI table — printed p. 87 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Dominica, Fiji).**
+
+Fiji's own way (Fiji Grade 11 Economics Year 11 Part 2): International and development topics are worked with Fiji data — a Fiji CPI table to a 2008 base year, Fiji's January 2010 balance of payments, and Fiji unemployment with cane-cutting seasonal work and government job actions.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -33,4 +41,4 @@ Grade 12 extension added 2026-11-12 (Ethiopia Wave 4, Band E): sub lessons 4–5
 
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
-Searchable tags: consumer price index CPI, fixed basket 10 bananas 3 coffees, producer price index, deflator versus CPI three differences, inflation rate, ethiopia, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean
+Searchable tags: consumer price index CPI, fixed basket 10 bananas 3 coffees, producer price index, deflator versus CPI three differences, inflation rate, ethiopia, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, Fiji

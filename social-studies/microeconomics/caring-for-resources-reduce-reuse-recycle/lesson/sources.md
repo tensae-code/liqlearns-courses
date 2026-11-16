@@ -1,6 +1,6 @@
 # Sources — Caring for resources — reduce, reuse, recycle
 
-countries: Ethiopia, Zambia, Bahamas, Jordan
+countries: Ethiopia, Zambia, Bahamas, Jordan, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -28,7 +28,39 @@ countries: Ethiopia, Zambia, Bahamas, Jordan
 |---|---|
 | Jordan part — Economics expansion — Unit 5 Lesson 4: Reuse and Recycling: reuse means using materials again (clothes sent to the clothes bank, exchanged story books, food scraps as compost, tyres as garden seats) and protects the environment from pollution, while recycling sends used paper and plastic back to the factory to be made new | Jordan, *Social Studies, Grade 2, Term 2*, Unit 5 Lesson 4: Reuse and Recycling — printed p. 75 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bahamas, Jordan). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 5:** *SOCIAL STUDIES YEAR 4* (student book, English) — Ministry of Education, Fiji; year Re-edited Version 2017 (© 2016); ISBN no ISBN printed. Title as printed: SOCIAL STUDIES YEAR 4. Grade: Year 4 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; 3,759,198 bytes via tree route; first grab attempt failed with RemoteDisconnected, second succeeded). Verdict: COMPLETE. Contents map: Economics parts printed pp. 52-61 (Strand 4 Resources and Economic Activities); Social Organisation pp. 4-31; History (Time, Continuity and Change) pp. 32-40; Geography / Place and Environment pp. 41-51; Glossary p. 63 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Strand 4, Preserving our community/village resources — teaches: using water, forest and energy wisely, replanting trees, and saving energy to save money and preserve natural resources | Fiji, *Fiji Grade 4 Social Studies Year 4*, Strand 4, Preserving our community/village resources — teaches: using water, forest and energy wisely, replanting trees, and saving energy to save money and preserve natural resources — printed p. 52 |
+
+**Book 6:** *Y6 Social Science Resource Book (no separate cover page in the PDF; title verified on the copyright page, printed p. i, Revised Edition)* (student book, English) — Ministry of Education, Fiji; year 2015, Revised Edition; ISBN no ISBN printed. Title as printed: Y6 Social Science Resource Book (no separate cover page in the PDF; title verified on the copyright page, printed p. i, Revised Edition). Grade: Year 6 (student/teacher: STUDENT). PDF pages: 84 (cover/copyright page verified against the record title; 6,551,730 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 63-80 (Unit 4 Resources and Economic Activities); Social Organisation pp. 4-28; History (Time, Continuity and Change) pp. 29-42; Geography / Place and Environment pp. 43-62; Glossary p. 81 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Unit 4.1 Use and Management of Resources — teaches: sea and fresh water resources as food and income, overuse and pollution making them scarce, and conservation through taboos and harvesting seasons | Fiji, *Fiji Grade 6 Year 6 Social Science*, Unit 4.1 Use and Management of Resources — teaches: sea and fresh water resources as food and income, overuse and pollution making them scarce, and conservation through taboos and harvesting seasons — printed p. 63 |
+
+**Book 7:** *PEOPLE AND THE SEA IN THE PACIFIC — A Social Sciences related reader for Primary School, Book 1 (Years 5-6)* (student book, English) — UNESCO & Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific (Tonga Campus); year 2020; ISBN no ISBN printed. Title as printed: PEOPLE AND THE SEA IN THE PACIFIC — A Social Sciences related reader for Primary School, Book 1 (Years 5-6). Grade: Years 5-6 (recorded Grade 5) (student/teacher: STUDENT). PDF pages: 24 (cover verified against the record title; 13,055,321 bytes via release route — the release grab failed twice with RemoteDisconnected and the duplicate tree path returned 404, then the release grab succeeded on a later attempt; duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 10, 12, 17; Ocean ecology and Pacific culture parts pp. 1-19 (the rest of the reader); no History / Geography / Civics parts as separate sections. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Traditional uses of the reef and ocean by people in the Pacific Islands — teaches: traditional sustainable fishing set aside no-fishing places and controlled the number, size, age and season of harvest so species could breed and future supply was secured | Fiji, *Fiji Grade 5 ESD Reader 1 People and the Sea in the Pacific*, Traditional uses of the reef and ocean by people in the Pacific Islands — teaches: traditional sustainable fishing set aside no-fishing places and controlled the number, size, age and season of harvest so species could breed and future supply was secured — printed p. 12 |
+
+**Book 8:** *PEOPLE AND THE NATURAL ENVIRONMENT IN THE PACIFIC — A Social Sciences related reader for Primary School, Book 3 (Years 5-6)* (student book, English) — UNESCO & Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific; year 2020 (same series statement as Reader 1); ISBN no ISBN printed. Title as printed: PEOPLE AND THE NATURAL ENVIRONMENT IN THE PACIFIC — A Social Sciences related reader for Primary School, Book 3 (Years 5-6). Grade: Years 5-6 (recorded Grade 5) (student/teacher: STUDENT). PDF pages: 24 (cover verified against the record title; 22,427,974 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 3, 5, 7-12, 15-17; Land ecology and Pacific culture parts pp. 1-19 (the rest of the reader); no History / Geography / Civics parts as separate sections. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — People and the natural environment — teaches: Pacific people protected, preserved and renewed resources, and learned to share resources that were scarce, so enough remained for the next generations — sustainable living | Fiji, *Fiji Grade 5 ESD Reader 3 People and the Natural Environment in the Pacific*, People and the natural environment — teaches: Pacific people protected, preserved and renewed resources, and learned to share resources that were scarce, so enough remained for the next generations — sustainable living — printed p. 5 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Bahamas, Jordan, Fiji). Zambia is teacher-module evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 4 Social Studies Year 4): The strand named Resources and Economic Activities is taught as caring for village resources — water, forest and energy — rather than as markets or money; the People Who Help Us section (p. 60) is picture activity only and is not placed.
+
+Fiji's own way (Fiji Grade 6 Year 6 Social Science): The Year 5 money unit is deepened with employer-employee relations, a worked fortnightly family budget, and income tax and FNPF deductions explained through what the government pays for.
+
+Fiji's own way (Fiji Grade 5 ESD Reader 1 People and the Sea in the Pacific): A regional Pacific reader used in Fiji — the sea is taught as a shared resource that traditional harvesting rules protected, and that selling fish for money now puts under pressure.
+
+Fiji's own way (Fiji Grade 5 ESD Reader 3 People and the Natural Environment in the Pacific): A regional Pacific reader used in Fiji — farming is taught as a spectrum from subsistence through semi-subsistence to cash crops for export, set against the cost of chasing overseas demand.
 
 Bahamas' own way: resource care is taught island by island — Abaco farming, Andros crabs, Grand Bahama citrus and cement — before the Reduce/Reuse/Recycle rule.
 
@@ -38,4 +70,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Jordan's own way (Jordan Grade 2 Term 2): A whole early-years Economics unit built on a family shopping trip — a real receipt in Jordanian dinars, Jordanian coins and banknotes to order by value, the wheat-to-bread chain for producer and consumer, a child's own money box for saving, and a closing lesson that tours Jordan's own industries.
 
-Searchable tags: conservation pollution, reduce reuse recycle, waste, ethiopia, zambia, natural resource management, tree planting, teacher module evidence, social studies, microeconomics, bahamas, jordan
+Searchable tags: conservation pollution, reduce reuse recycle, waste, ethiopia, zambia, natural resource management, tree planting, teacher module evidence, social studies, microeconomics, bahamas, jordan, Fiji

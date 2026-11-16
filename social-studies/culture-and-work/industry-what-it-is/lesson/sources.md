@@ -1,6 +1,6 @@
 # Sources — Industry What It Is
 
-countries: Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen
+countries: Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen, Fiji
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -55,7 +55,15 @@ South Sudan's own way (South Sudan Primary 4): the economy is taught sector by s
 |---|---|
 | Yemen part — Unit 2 L4 Industrial and commercial resources in my homeland §industry and its types — teaches: industry defined as converting raw materials (plant, animal, mineral) into useful goods with traditional tools or modern machines; Yemen's traditional industries (silverwork, pottery, weaving) versus modern ones (cement, food industries) | Yemen, *Yemen Grade 4 Al-Tarbiya al-Ijtima'iya*, Unit 2 L4 Industrial and commercial resources in my homeland §industry and its types — printed p. 40 |
 
-**Acceptance count: taught in 7 countries (Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen).**
+**Book 9:** *SOCIAL SCIENCE YEAR 10 — GLOBAL PERSPECTIVES LOCAL INTERACTION* (student book, English) — Ministry of Education, Fiji (Curriculum Development Unit), Suva; year 2013 (recorded as PRE CDU 2015); ISBN no ISBN printed. Title as printed: SOCIAL SCIENCE YEAR 10 — GLOBAL PERSPECTIVES LOCAL INTERACTION. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 101 (cover verified against the record title; 7,406,229 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 8, 60-80 (Chapter 3 Industries in Fiji, plus the capitalist system definition in Chapter 1); Civics (Government, Parliament, United Nations) pp. 6-25; History (History of Fiji to independence, including the early sugar industry as history) pp. 26-53; Geography (Geography of Fiji, Population, Urbanisation) pp. 54-59, 81-101. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Industries — teaches: industry as all economic activity in primary, secondary and tertiary forms, and the factors affecting manufacturing location: raw materials, power, transport, markets, labour, capital, government policies, land and environment | Fiji, *Fiji Grade 10 Year 10 Social Science*, Industries — teaches: industry as all economic activity in primary, secondary and tertiary forms, and the factors affecting manufacturing location: raw materials, power, transport, markets, labour, capital, government policies, land and environment — printed p. 74 |
+
+**Acceptance count: taught in 8 countries (Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen, Fiji).**
+
+Fiji's own way (Fiji Grade 10 Year 10 Social Science): Year 10 economics is economic geography of Fiji itself — village, semi-subsistence and commercial farming, the sugar industry's markets and problems, then industry as primary, secondary and tertiary activity with location factors and trade.
 
 Yemen's own way (Grade 4 Al-Tarbiya al-Ijtima'iya): the economy is taught as the homeland's wealth — crops, herds, fish, workshops and ports — with the state, the agricultural associations and the export harbour all named as actors a nine-year-old can point to.
 
@@ -69,4 +77,4 @@ Jordan's own way (Jordan Grade 4 Term 1): The economy is met as the country's wo
 
 Egypt's own way (Grade 9 combined edition, egypt-placements-b.md): the world economy is taught as resources and activities continent by continent, then as country models — India, Brazil and Nigeria against Germany and the USA — before the book returns to Egypt's own modern history.
 
-Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan, venezuela, jordan, egypt, yemen
+Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan, venezuela, jordan, egypt, yemen, Fiji

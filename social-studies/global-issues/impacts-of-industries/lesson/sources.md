@@ -1,6 +1,6 @@
 # Sources — Impacts Of Industries
 
-countries: Bhutan, Dominican Republic
+countries: Bhutan, Dominican Republic, Fiji
 
 **Book 1:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
@@ -15,10 +15,18 @@ countries: Bhutan, Dominican Republic
 |---|---|
 | Dominican Republic part — Industrialización y contaminación en la naturaleza (Unidad 4): industrial pollution comes directly from industry; factories pollute the air (nitrogen oxides, volatile organic compounds, greenhouse gases, driving respiratory problems and global warming), the water (toxic chemicals and heavy metals harming aquatic ecosystems), the soil (chemicals filtering down, damaging crop fertility and food safety) and with noise (stress and sleep problems for neighbours) | Dominican Republic, *Ciencias Sociales 3° Secundaria*, Industrialización y contaminación en la naturaleza (Unidad 4) — printed p. 64 |
 
-**Acceptance count: taught in 2 countries (Bhutan, Dominican Republic).**
+**Book 3:** *SOCIAL SCIENCE YEAR 10 — GLOBAL PERSPECTIVES LOCAL INTERACTION* (student book, English) — Ministry of Education, Fiji (Curriculum Development Unit), Suva; year 2013 (recorded as PRE CDU 2015); ISBN no ISBN printed. Title as printed: SOCIAL SCIENCE YEAR 10 — GLOBAL PERSPECTIVES LOCAL INTERACTION. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 101 (cover verified against the record title; 7,406,229 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 8, 60-80 (Chapter 3 Industries in Fiji, plus the capitalist system definition in Chapter 1); Civics (Government, Parliament, United Nations) pp. 6-25; History (History of Fiji to independence, including the early sugar industry as history) pp. 26-53; Geography (Geography of Fiji, Population, Urbanisation) pp. 54-59, 81-101. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Industries and the Environment — teaches: industrial air, water, soil and noise pollution, global warming, and occupational health and safety hazards and injury reduction in Fiji workplaces | Fiji, *Fiji Grade 10 Year 10 Social Science*, Industries and the Environment — teaches: industrial air, water, soil and noise pollution, global warming, and occupational health and safety hazards and injury reduction in Fiji workplaces — printed p. 75 |
+
+**Acceptance count: taught in 3 countries (Bhutan, Dominican Republic, Fiji).**
+
+Fiji's own way (Fiji Grade 10 Year 10 Social Science): Year 10 economics is economic geography of Fiji itself — village, semi-subsistence and commercial farming, the sugar industry's markets and problems, then industry as primary, secondary and tertiary activity with location factors and trade.
 
 Dominican Republic's own way (Dominican Republic Grade 9 Ciencias Sociales 3° Secundaria): economic geography is taught continent-first and then brought home — North America's industrial rise, Latin America's import-substitution strategy, and finally the Dominican Republic's own industrialisation, told through Trujillo's monopoly factories and the wartime switch from rice importer to rice exporter.
 
 Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.
 
-Searchable tags: impacts of industries, Bhutan, social studies, global-issues, Dominican Republic
+Searchable tags: impacts of industries, Bhutan, social studies, global-issues, Dominican Republic, Fiji

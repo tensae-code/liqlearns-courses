@@ -1,6 +1,6 @@
 # Sources — The balance of payments — a country's account with the world
 
-countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt
+countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -37,7 +37,15 @@ countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt
 |---|---|
 | Egypt part — ميزان المدفوعات (The balance of payments) — teaches: the balance of payments as the organised record of a country's economic dealings with the outside world, in two accounts — the current account and the capital account | Egypt, *Egypt Secondary 12 Statistics and Economics*, printed pp. 174–175 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Dominican Republic, Egypt). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 8:** *YEAR 11 ECONOMICS (running head; this part has no cover page — it opens at printed p. 85 with Lesson 3.3 and continues the Part 1 book, verified against the record title and the Part 1 Table of Contents)* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit), Suva; year First Produced January 2014 (same book as Part 1); ISBN no ISBN printed. Title as printed: YEAR 11 ECONOMICS (running head; this part has no cover page — it opens at printed p. 85 with Lesson 3.3 and continues the Part 1 book, verified against the record title and the Part 1 Table of Contents). Grade: Year 11 (student/teacher: STUDENT). PDF pages: 34 (3,509,695 bytes via tree route; printed pp. 85-118). Verdict: COMPLETE — as Part 2: Strand 3 Lesson 3.3, Strand 4 and Strand 5 to the References at printed p. 117. Contents map: Economics parts — the whole book is Economics: Macroeconomics (Inflation) pp. 85-94; International Economics pp. 95-110; Development Economics pp. 111-117. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 4.1 Balance of Payment — teaches: the balance of payments as the record of transactions with the rest of the world, its current account and capital account components and balances, with Fiji's January 2010 balance of payments worked | Fiji, *Fiji Grade 11 Economics Year 11 Part 2*, Lesson 4.1 Balance of Payment — teaches: the balance of payments as the record of transactions with the rest of the world, its current account and capital account components and balances, with Fiji's January 2010 balance of payments worked — printed p. 95 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Dominican Republic, Egypt, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 11 Economics Year 11 Part 2): International and development topics are worked with Fiji data — a Fiji CPI table to a 2008 base year, Fiji's January 2010 balance of payments, and Fiji unemployment with cane-cutting seasonal work and government job actions.
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -49,7 +57,7 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: balance of payments, residents rest of world, disequilibrium deficit surplus, reserves, trade deficit link, ethiopia, social studies, macroeconomics, malaysia, dominican republic, albania, egypt
+Searchable tags: balance of payments, residents rest of world, disequilibrium deficit surplus, reserves, trade deficit link, ethiopia, social studies, macroeconomics, malaysia, dominican republic, albania, egypt, Fiji
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

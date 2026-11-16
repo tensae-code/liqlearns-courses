@@ -1,6 +1,6 @@
 # Sources — Tariffs and quotas — restricting trade
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras
+countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -40,7 +40,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Honduras part — Lesson 36 "Exportaciones e importaciones" — teaches: the arancel — a tax paid at customs to authorise goods entering or leaving — is a way the government collects money and trade generates jobs and income | Honduras, *Honduras Grade 3 G3 Student CCSS*, Lesson 36 "Exportaciones e importaciones" — printed p. 164 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *YEAR 11 ECONOMICS (running head; this part has no cover page — it opens at printed p. 85 with Lesson 3.3 and continues the Part 1 book, verified against the record title and the Part 1 Table of Contents)* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit), Suva; year First Produced January 2014 (same book as Part 1); ISBN no ISBN printed. Title as printed: YEAR 11 ECONOMICS (running head; this part has no cover page — it opens at printed p. 85 with Lesson 3.3 and continues the Part 1 book, verified against the record title and the Part 1 Table of Contents). Grade: Year 11 (student/teacher: STUDENT). PDF pages: 34 (3,509,695 bytes via tree route; printed pp. 85-118). Verdict: COMPLETE — as Part 2: Strand 3 Lesson 3.3, Strand 4 and Strand 5 to the References at printed p. 117. Contents map: Economics parts — the whole book is Economics: Macroeconomics (Inflation) pp. 85-94; International Economics pp. 95-110; Development Economics pp. 111-117. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 4.2 Free Trade vs Protectionism — teaches: free trade with no artificial barriers, specialisation by comparative advantage, efficiency, competition and living standards, against protectionism | Fiji, *Fiji Grade 11 Economics Year 11 Part 2*, Lesson 4.2 Free Trade vs Protectionism — teaches: free trade with no artificial barriers, specialisation by comparative advantage, efficiency, competition and living standards, against protectionism — printed p. 102 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 11 Economics Year 11 Part 2): International and development topics are worked with Fiji data — a Fiji CPI table to a 2008 base year, Fiji's January 2010 balance of payments, and Fiji unemployment with cane-cutting seasonal work and government job actions.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -50,4 +58,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from family to country — occupations and production for the whole nation, social classes by income, the production-distribution-exchange-consumption chain, and exports/imports through customs with the arancel explained.
 
-Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras
+Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji

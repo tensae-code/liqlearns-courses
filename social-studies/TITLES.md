@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **570**
+Economics lessons across the Economics titles: **574**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4472,4 +4472,10 @@ Agricultural associations — and what they do
 for farmers; Market and Money: Types of money,
 How banks began — goldsmiths to banknotes and
 Specialised and Islamic banks; Macroeconomics:
-Cash crops — exported for foreign currency).
+Cash crops — exported for foreign currency);
++4 for Fiji,
+2026-11-16 — Macroeconomics: Remittances and
+migration and Globalisation — trade and
+interdependence; Microeconomics: Reading and
+drawing economic graphs and Subsistence and
+cash-crop farming).

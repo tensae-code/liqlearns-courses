@@ -1,6 +1,6 @@
 # Sources — Free resources and scarce resources
 
-countries: Ethiopia, Mongolia, Egypt, Yemen
+countries: Ethiopia, Mongolia, Egypt, Yemen, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -30,7 +30,15 @@ countries: Ethiopia, Mongolia, Egypt, Yemen
 |---|---|
 | Yemen part — Unit 2 L3 Economic goods — teaches: a good is anything satisfying a need; economic goods are the scarce ones obtained with effort | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 2 L3 Economic goods — printed p. 23 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Egypt, Yemen).**
+**Book 6:** *Year 5 Social Studies Resource book (no separate cover page in the PDF; title verified on the acknowledgement page and Table of Contents, printed pp. 1-2)* (student book, English) — Ministry of Education, Fiji (Curriculum Advisory Service / Curriculum Development Unit); year revised textbook, no year printed in the PDF; ISBN no ISBN printed. Title as printed: Year 5 Social Studies Resource book (no separate cover page in the PDF; title verified on the acknowledgement page and Table of Contents, printed pp. 1-2). Grade: Year 5 (student/teacher: STUDENT). PDF pages: 62 (3,865,813 bytes via tree route). Verdict: COMPLETE. Contents map: Economics parts printed pp. 49-58 (Unit 4 Resources and Economic Activities); Social Organisation pp. 3-16; History (Time, Continuity and Change) pp. 17-26; Geography / Place and Environment pp. 27-48; Glossary pp. 59-61 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Unit 4.1 Uses and Management of Resources, Land Resources in Fiji — teaches: land resources satisfy basic needs, some are abundant and others limited in supply | Fiji, *Fiji Grade 5 Year 5 Social Studies*, Unit 4.1 Uses and Management of Resources, Land Resources in Fiji — teaches: land resources satisfy basic needs, some are abundant and others limited in supply — printed p. 49 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Egypt, Yemen, Fiji).**
+
+Fiji's own way (Fiji Grade 5 Year 5 Social Studies): A full primary money curriculum in one unit — work and wages first, then the Fiji dollar against other currencies, then a family budget, a personal saving plan and what banks do.
 
 Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
@@ -40,4 +48,4 @@ Mongolia's own way (Mongolia Grade 7 Social Studies 7): Economics enters through
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: free resources economic resources, zero price test, price test, externality preview, ethiopia, social studies, microeconomics, mongolia, food non-food services, produced goods natural resources, egypt, yemen
+Searchable tags: free resources economic resources, zero price test, price test, externality preview, ethiopia, social studies, microeconomics, mongolia, food non-food services, produced goods natural resources, egypt, yemen, Fiji

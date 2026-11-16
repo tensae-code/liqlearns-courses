@@ -1,6 +1,6 @@
 # Sources — Monetary policy — the central bank's lever
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Cambodia, Uzbekistan
+countries: Ethiopia, Malaysia, Albania, Dominica, Cambodia, Uzbekistan, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -40,7 +40,15 @@ countries: Ethiopia, Malaysia, Albania, Dominica, Cambodia, Uzbekistan
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Dominica, Cambodia, Uzbekistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *A DIRECT APPROACH — ECONOMICS YEAR 11 (TEXTBOOK)* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit), Suva; year First Produced January 2014; ISBN no ISBN printed. Title as printed: A DIRECT APPROACH — ECONOMICS YEAR 11 (TEXTBOOK). Grade: Year 11 (student/teacher: STUDENT). PDF pages: 84 (cover verified against the record title; 7,109,704 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE — as Part 1: it carries Strand 1, Strand 2 and Strand 3 Lessons 3.1-3.2 to printed p. 84; the rest of the Year 11 book is Part 2 (Book 10). Contents map: Economics parts — the whole book is Economics: Introduction pp. 7-25; Microeconomics pp. 26-69; Macroeconomics pp. 70-84. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 3.2, Stabilisation Role — teaches: fiscal policy (expansionary and contractionary) and Reserve Bank of Fiji monetary policy tools: open market operations, statutory reserve deposit, interest rate and moral suasion | Fiji, *Fiji Grade 11 Economics Year 11 Part 1*, Lesson 3.2, Stabilisation Role — teaches: fiscal policy (expansionary and contractionary) and Reserve Bank of Fiji monetary policy tools: open market operations, statutory reserve deposit, interest rate and moral suasion — printed p. 79 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Dominica, Cambodia, Uzbekistan, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 11 Economics Year 11 Part 1): A full direct-approach course built on the circular flow, with Fiji examples throughout — ginger supply curves, Fiji import tables, quarry and land-rent income, the Attu family budget, Fiji credit facilities, sugar-industry production stages and Reserve Bank of Fiji policy tools.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -52,4 +60,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: monetary policy — the central bank's lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, cambodia, uzbekistan
+Searchable tags: monetary policy — the central bank's lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, cambodia, uzbekistan, Fiji

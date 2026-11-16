@@ -1,6 +1,6 @@
 # Sources — Managing Credit And Loans
 
-countries: Armenia, Ecuador, Laos, Palestine, Albania
+countries: Armenia, Ecuador, Laos, Palestine, Albania, Fiji
 
 **Book 1:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (title page 2024); ISBN 978-9939-99-040-8. Authors: K. Harutyunyan, H. Barseghyan, N. Galstyan, A. Manucharyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography-scope parts placed below: Theme 3 "Market economy" (printed pp. 54-87) and Theme 4 "Personal finance management" (pp. 88-127). NOT placed (named for later waves): Theme 1 "Problems of modern man and society" (pp. 4-18), Theme 2 "Political ideologies" (pp. 19-53). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -54,7 +54,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Albania part — buying on credit: advantages and disadvantages of credit, including a mortgage video case (teacher guide — evidence) | Albania, *Libër mësuesi — Ekonomia 12 (Teacher Guide)*, Ch.3 — buying on credit, printed p. 58 |
 
-**Acceptance count: taught in 4 countries (Armenia, Ecuador, Laos, Palestine). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 9:** *A DIRECT APPROACH — ECONOMICS YEAR 11 (TEXTBOOK)* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit), Suva; year First Produced January 2014; ISBN no ISBN printed. Title as printed: A DIRECT APPROACH — ECONOMICS YEAR 11 (TEXTBOOK). Grade: Year 11 (student/teacher: STUDENT). PDF pages: 84 (cover verified against the record title; 7,109,704 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE — as Part 1: it carries Strand 1, Strand 2 and Strand 3 Lessons 3.1-3.2 to printed p. 84; the rest of the Year 11 book is Part 2 (Book 10). Contents map: Economics parts — the whole book is Economics: Introduction pp. 7-25; Microeconomics pp. 26-69; Macroeconomics pp. 70-84. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 2.1, Credit Facilities — teaches: credit facilities in Fiji (unsecured and secured bank loans, credit unions, hire purchase), the purpose of credit, and evaluation of credit history and creditworthiness | Fiji, *Fiji Grade 11 Economics Year 11 Part 1*, Lesson 2.1, Credit Facilities — teaches: credit facilities in Fiji (unsecured and secured bank loans, credit unions, hire purchase), the purpose of credit, and evaluation of credit history and creditworthiness — printed p. 26 |
+
+**Acceptance count: taught in 5 countries (Armenia, Ecuador, Laos, Palestine, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 11 Economics Year 11 Part 1): A full direct-approach course built on the circular flow, with Fiji examples throughout — ginger supply curves, Fiji import tables, quarry and land-rent income, the Attu family budget, Fiji credit facilities, sugar-industry production stages and Reserve Bank of Fiji policy tools.
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -66,4 +74,4 @@ Laos' own way (Laos Grade 11 Business Combined student): costs and capital are t
 
 Laos' own way (Laos Grade 11 Business student): the market is defined three ways at once — everyday (a place to buy and sell), economic (the group of buyers and sellers who exchange), and marketing (people with a need and the money to pay) — and costs are drilled with the SMOC sorting exercise (Salary, Material, Other, Capital).
 
-Searchable tags: managing credit and loans, Armenia, Ecuador, good debts, bad debts, family debts, social studies, culture-and-work, laos, start-up money, collateral, 5 Cs of credit, palestine, albania
+Searchable tags: managing credit and loans, Armenia, Ecuador, good debts, bad debts, family debts, social studies, culture-and-work, laos, start-up money, collateral, 5 Cs of credit, palestine, albania, Fiji

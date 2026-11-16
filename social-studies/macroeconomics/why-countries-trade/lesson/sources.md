@@ -1,6 +1,6 @@
 # Sources — Why countries trade
 
-countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras
+countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -62,7 +62,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Honduras part — Lesson 18 "Actividad económica de Honduras con América" — teaches: Honduras exports marine, mineral, agricultural, livestock and forestry products from the heart of America; a trade treaty is an agreement between countries, bilateral or multilateral (e.g. Honduras–Peru 2015) | Honduras, *Honduras Grade 5 G5 Student CCSS*, Lesson 18 "Actividad económica de Honduras con América" — printed p. 98 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras).**
+**Book 10:** *SOCIAL SCIENCE YEAR 10 — GLOBAL PERSPECTIVES LOCAL INTERACTION* (student book, English) — Ministry of Education, Fiji (Curriculum Development Unit), Suva; year 2013 (recorded as PRE CDU 2015); ISBN no ISBN printed. Title as printed: SOCIAL SCIENCE YEAR 10 — GLOBAL PERSPECTIVES LOCAL INTERACTION. Grade: Year 10 (student/teacher: STUDENT). PDF pages: 101 (cover verified against the record title; 7,406,229 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 8, 60-80 (Chapter 3 Industries in Fiji, plus the capitalist system definition in Chapter 1); Civics (Government, Parliament, United Nations) pp. 6-25; History (History of Fiji to independence, including the early sugar industry as history) pp. 26-53; Geography (Geography of Fiji, Population, Urbanisation) pp. 54-59, 81-101. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Exports and Imports / Importance of Industries — teaches: exports sell goods and services overseas and earn foreign reserves, Fiji's export and import lists and trading partners, domestic versus international trade, and industry creating employment, foreign exchange, GDP and a multiplier effect | Fiji, *Fiji Grade 10 Year 10 Social Science*, Exports and Imports / Importance of Industries — teaches: exports sell goods and services overseas and earn foreign reserves, Fiji's export and import lists and trading partners, domestic versus international trade, and industry creating employment, foreign exchange, GDP and a multiplier effect — printed p. 75 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji).**
+
+Fiji's own way (Fiji Grade 10 Year 10 Social Science): Year 10 economics is economic geography of Fiji itself — village, semi-subsistence and commercial farming, the sugar industry's markets and problems, then industry as primary, secondary and tertiary activity with location factors and trade.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -74,4 +82,4 @@ Honduras's own way (Honduras Grade 4 G4 Student CCSS): Grade 4 widens the lens t
 
 Honduras's own way (Honduras Grade 5 G5 Student CCSS): Grade 5 turns outward to the Americas — Honduras's trade network and treaties, its free-trade zone at Choloma, tourism, and the integration blocs (MCCA, CARICOM, CELAC) as the road to development.
 
-Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras
+Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras, Fiji

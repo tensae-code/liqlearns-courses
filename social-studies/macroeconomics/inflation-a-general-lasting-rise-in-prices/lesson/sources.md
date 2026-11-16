@@ -1,6 +1,6 @@
 # Sources — Inflation — a general, lasting rise in prices
 
-countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh
+countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -40,7 +40,15 @@ countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh
 
 Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 turns the central problem of the economy into fieldwork — pupils survey a real market for today's price and the price one year ago of the goods they ranked necessary, very necessary and less necessary, then work the same goods through production, distribution and storage, compare all four economic systems, and finish by testing Bangladesh's own system against the data (public investment 7.53 percent of GDP, private 24.52 percent, GDP per capita $2687 in FY 2021-22).
 
-**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Malaysia, Dominica, Bangladesh). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *YEAR 11 ECONOMICS (running head; this part has no cover page — it opens at printed p. 85 with Lesson 3.3 and continues the Part 1 book, verified against the record title and the Part 1 Table of Contents)* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit), Suva; year First Produced January 2014 (same book as Part 1); ISBN no ISBN printed. Title as printed: YEAR 11 ECONOMICS (running head; this part has no cover page — it opens at printed p. 85 with Lesson 3.3 and continues the Part 1 book, verified against the record title and the Part 1 Table of Contents). Grade: Year 11 (student/teacher: STUDENT). PDF pages: 34 (3,509,695 bytes via tree route; printed pp. 85-118). Verdict: COMPLETE — as Part 2: Strand 3 Lesson 3.3, Strand 4 and Strand 5 to the References at printed p. 117. Contents map: Economics parts — the whole book is Economics: Macroeconomics (Inflation) pp. 85-94; International Economics pp. 95-110; Development Economics pp. 111-117. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 3.3 Inflation in the Economy — teaches: inflation as a rise in average prices and a fall in purchasing power, suppressed, hyper, creeping and imported inflation, and deflation versus stagflation | Fiji, *Fiji Grade 11 Economics Year 11 Part 2*, Lesson 3.3 Inflation in the Economy — teaches: inflation as a rise in average prices and a fall in purchasing power, suppressed, hyper, creeping and imported inflation, and deflation versus stagflation — printed p. 85 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Mongolia, Malaysia, Dominica, Bangladesh, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 11 Economics Year 11 Part 2): International and development topics are worked with Fiji data — a Fiji CPI table to a 2008 base year, Fiji's January 2010 balance of payments, and Fiji unemployment with cane-cutting seasonal work and government job actions.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -52,4 +60,4 @@ Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is tau
 
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
-Searchable tags: inflation definition, general price level, price index, deflation, causes of inflation, ethiopia, social studies, macroeconomics, mongolia, inflation, bread, purchasing power, tögrög, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh
+Searchable tags: inflation definition, general price level, price index, deflation, causes of inflation, ethiopia, social studies, macroeconomics, mongolia, inflation, bread, purchasing power, tögrög, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, Fiji

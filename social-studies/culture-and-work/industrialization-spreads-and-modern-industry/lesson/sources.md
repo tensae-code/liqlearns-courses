@@ -1,6 +1,6 @@
 # Sources — Industrialization Spreads and Modern Industry
 
-countries: South Sudan, Dominican Republic, Palestine
+countries: South Sudan, Dominican Republic, Palestine, Fiji
 
 **Book 1:** *Secondary Geography 2 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Student's Book. Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT). PDF pages: 217 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–208) was read and every unit spot-checked on the sheets, cross-checked against the teacher's guide text.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -23,10 +23,18 @@ countries: South Sudan, Dominican Republic, Palestine
 
 Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
 
-**Acceptance count: taught in 3 countries (South Sudan, Dominican Republic, Palestine).**
+**Book 4:** *SOCIAL SCIENCE YEAR 9 — REDISCOVERING SOCIETY* (student book, English) — Ministry of Education, National Heritage, Culture & Arts, Fiji (Curriculum Development Unit), Suva; year 2013 (copyright 2011); ISBN no ISBN printed. Title as printed: SOCIAL SCIENCE YEAR 9 — REDISCOVERING SOCIETY. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 162 (cover verified against the record title; 9,276,692 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 11-12, 34-35, 54-55, 71 (scattered, no dedicated Resources and Economic Activities chapter); Social Organisation and Processes (Society and Culture, Community Living, NGOs and Regional Organisations) pp. 7-74; History (History of Fiji, Current Affairs) pp. 77-100; Geography (Maps, Mapping Skills, Environment and its Uses) pp. 103-154; Glossary (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Unit 1 Society and Culture, Types of Modern Societies: Industrial Societies — teaches: the Industrial Revolution raised production, trade and distribution, created industrial workers and city trade centres near raw materials, and shifted farming economies to cash, commerce and industry | Fiji, *Fiji Grade 9 Social Science Year 9*, Unit 1 Society and Culture, Types of Modern Societies: Industrial Societies — teaches: the Industrial Revolution raised production, trade and distribution, created industrial workers and city trade centres near raw materials, and shifted farming economies to cash, commerce and industry — printed p. 11 |
+
+**Acceptance count: taught in 4 countries (South Sudan, Dominican Republic, Palestine, Fiji).**
+
+Fiji's own way (Fiji Grade 9 Social Science Year 9): With no economics strand at Year 9, economics appears inside other topics — industrial society in a sociology survey, globalisation in universal culture, a bottled-water tax fight as a conflict case study, and SPARTECA in regional organisations.
 
 Dominican Republic's own way (Dominican Republic Grade 9 Ciencias Sociales 3° Secundaria): economic geography is taught continent-first and then brought home — North America's industrial rise, Latin America's import-substitution strategy, and finally the Dominican Republic's own industrialisation, told through Trujillo's monopoly factories and the wartime switch from rice importer to rice exporter.
 
 South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.
 
-Searchable tags: industrialization spreads and modern industry, South Sudan, social studies, culture-and-work, Dominican Republic, palestine
+Searchable tags: industrialization spreads and modern industry, South Sudan, social studies, culture-and-work, Dominican Republic, palestine, Fiji

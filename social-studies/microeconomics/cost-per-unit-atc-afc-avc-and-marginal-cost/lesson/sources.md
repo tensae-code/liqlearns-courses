@@ -1,6 +1,6 @@
 # Sources — Cost per unit — ATC, AFC, AVC and marginal cost
 
-countries: Ethiopia, Ecuador, Albania, Uzbekistan
+countries: Ethiopia, Ecuador, Albania, Uzbekistan, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -33,7 +33,15 @@ countries: Ethiopia, Ecuador, Albania, Uzbekistan
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Uzbekistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *A DIRECT APPROACH — ECONOMICS YEAR 11 (TEXTBOOK)* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit), Suva; year First Produced January 2014; ISBN no ISBN printed. Title as printed: A DIRECT APPROACH — ECONOMICS YEAR 11 (TEXTBOOK). Grade: Year 11 (student/teacher: STUDENT). PDF pages: 84 (cover verified against the record title; 7,109,704 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE — as Part 1: it carries Strand 1, Strand 2 and Strand 3 Lessons 3.1-3.2 to printed p. 84; the rest of the Year 11 book is Part 2 (Book 10). Contents map: Economics parts — the whole book is Economics: Introduction pp. 7-25; Microeconomics pp. 26-69; Macroeconomics pp. 70-84. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 2.3 Production Costs — teaches: fixed, variable and total cost, average total, variable and fixed cost, marginal cost, U-shaped curves and the long-run average cost curve, with cost-schedule calculations | Fiji, *Fiji Grade 11 Economics Year 11 Part 1*, Lesson 2.3 Production Costs — teaches: fixed, variable and total cost, average total, variable and fixed cost, marginal cost, U-shaped curves and the long-run average cost curve, with cost-schedule calculations — printed p. 41 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, Uzbekistan, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 11 Economics Year 11 Part 1): A full direct-approach course built on the circular flow, with Fiji examples throughout — ginger supply curves, Fiji import tables, quarry and land-rent income, the Attu family budget, Fiji credit facilities, sugar-industry production stages and Reserve Bank of Fiji policy tools.
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -43,4 +51,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Ecuador's own way (Ecuador Grade 13 Emprendimiento y Gestión): Economics enters the entrepreneurship course through the family and the small venture — costs are worked through a school-desk factory costed month by month in dollars, and every unit closes with a financial-education section that takes the same tools home to the family budget and the family's debts. The unit cost is built differently for each kind of firm — industrial, commercial, services and agricultural each count their own components.
 
-Searchable tags: ATC AFC AVC marginal cost, cost per unit formulas, MC minimum points, ethiopia, ecuador, unit cost, social studies, microeconomics, albania, uzbekistan
+Searchable tags: ATC AFC AVC marginal cost, cost per unit formulas, MC minimum points, ethiopia, ecuador, unit cost, social studies, microeconomics, albania, uzbekistan, Fiji

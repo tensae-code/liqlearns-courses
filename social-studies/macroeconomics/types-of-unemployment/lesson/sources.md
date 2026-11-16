@@ -1,6 +1,6 @@
 # Sources — Types of unemployment
 
-countries: Ethiopia, Mongolia, Albania, Uzbekistan
+countries: Ethiopia, Mongolia, Albania, Uzbekistan, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -30,7 +30,15 @@ countries: Ethiopia, Mongolia, Albania, Uzbekistan
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Uzbekistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 5:** *YEAR 11 ECONOMICS (running head; this part has no cover page — it opens at printed p. 85 with Lesson 3.3 and continues the Part 1 book, verified against the record title and the Part 1 Table of Contents)* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit), Suva; year First Produced January 2014 (same book as Part 1); ISBN no ISBN printed. Title as printed: YEAR 11 ECONOMICS (running head; this part has no cover page — it opens at printed p. 85 with Lesson 3.3 and continues the Part 1 book, verified against the record title and the Part 1 Table of Contents). Grade: Year 11 (student/teacher: STUDENT). PDF pages: 34 (3,509,695 bytes via tree route; printed pp. 85-118). Verdict: COMPLETE — as Part 2: Strand 3 Lesson 3.3, Strand 4 and Strand 5 to the References at printed p. 117. Contents map: Economics parts — the whole book is Economics: Macroeconomics (Inflation) pp. 85-94; International Economics pp. 95-110; Development Economics pp. 111-117. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 5.2 Other Development Issues: Unemployment — teaches: unemployment in Fiji, its causes and economic and social effects, involuntary, structural, frictional, seasonal (cane cutting) and cyclical types, and government actions to curb it | Fiji, *Fiji Grade 11 Economics Year 11 Part 2*, Lesson 5.2 Other Development Issues: Unemployment — teaches: unemployment in Fiji, its causes and economic and social effects, involuntary, structural, frictional, seasonal (cane cutting) and cyclical types, and government actions to curb it — printed p. 116 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Uzbekistan, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 11 Economics Year 11 Part 2): International and development topics are worked with Fiji data — a Fiji CPI table to a 2008 base year, Fiji's January 2010 balance of payments, and Fiji unemployment with cane-cutting seasonal work and government job actions.
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -38,4 +46,4 @@ No matching teacher guide exists in this band: the book recorded as this text's 
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: types of unemployment, grade 12 economics, ethiopia, social studies, macroeconomics, mongolia, reducing unemployment, forms of employment, choosing a profession, albania, uzbekistan
+Searchable tags: types of unemployment, grade 12 economics, ethiopia, social studies, macroeconomics, mongolia, reducing unemployment, forms of employment, choosing a profession, albania, uzbekistan, Fiji

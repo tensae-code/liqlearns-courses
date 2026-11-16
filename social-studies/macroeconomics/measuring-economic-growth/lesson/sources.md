@@ -1,6 +1,6 @@
 # Sources — Measuring economic growth
 
-countries: Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras
+countries: Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -59,7 +59,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Honduras part — Lesson 35 "Desarrollo económico de América" (guide data exercise) — teaches: analysing a table of Latin American economic-growth projections 2016–2019 by country (CEPAL-style data) (teacher guide — evidence) | Honduras, *Honduras Grade 8 G8 Teacher CCSS* (teacher guide), Lesson 35 "Desarrollo económico de América" (guide data exercise) — printed p. 144 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras). Honduras's Grade 7 and Grade 8 teacher guides are cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for those guides.**
+**Book 10:** *YEAR 11 ECONOMICS (running head; this part has no cover page — it opens at printed p. 85 with Lesson 3.3 and continues the Part 1 book, verified against the record title and the Part 1 Table of Contents)* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit), Suva; year First Produced January 2014 (same book as Part 1); ISBN no ISBN printed. Title as printed: YEAR 11 ECONOMICS (running head; this part has no cover page — it opens at printed p. 85 with Lesson 3.3 and continues the Part 1 book, verified against the record title and the Part 1 Table of Contents). Grade: Year 11 (student/teacher: STUDENT). PDF pages: 34 (3,509,695 bytes via tree route; printed pp. 85-118). Verdict: COMPLETE — as Part 2: Strand 3 Lesson 3.3, Strand 4 and Strand 5 to the References at printed p. 117. Contents map: Economics parts — the whole book is Economics: Macroeconomics (Inflation) pp. 85-94; International Economics pp. 95-110; Development Economics pp. 111-117. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 5.1 What is Economic Growth? — teaches: sources of growth in land, labour and capital, indicators including real GDP and real income per capita and productivity, and the benefits and costs of growth | Fiji, *Fiji Grade 11 Economics Year 11 Part 2*, Lesson 5.1 What is Economic Growth? — teaches: sources of growth in land, labour and capital, indicators including real GDP and real income per capita and productivity, and the benefits and costs of growth — printed p. 110 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji). Honduras's Grade 7 and Grade 8 teacher guides are cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for those guides.**
+
+Fiji's own way (Fiji Grade 11 Economics Year 11 Part 2): International and development topics are worked with Fiji data — a Fiji CPI table to a 2008 base year, Fiji's January 2010 balance of payments, and Fiji unemployment with cane-cutting seasonal work and government job actions.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -75,4 +83,4 @@ Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from fa
 
 Honduras's own way (Honduras Grade 8 G8 Teacher CCSS) (teacher guide — evidence): the guide mirrors the student book with answer keys; the one guide-only data exercise placed here has pupils analyse a table of Latin American economic-growth projections 2016–2019 by country (CEPAL-style data). That book is a teacher guide, cited as evidence only; Honduras is counted in this lesson for its student book(s) named here, not for this guide.
 
-Searchable tags: growth rate formula, per-capita real GDP, structural change, growth versus development, World Bank income bands 2008, least developed countries 2010, ethiopia, france, ses, trente glorieuses, malthusian trap, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, uzbekistan, honduras
+Searchable tags: growth rate formula, per-capita real GDP, structural change, growth versus development, World Bank income bands 2008, least developed countries 2010, ethiopia, france, ses, trente glorieuses, malthusian trap, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji

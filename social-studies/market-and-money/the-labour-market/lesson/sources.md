@@ -1,6 +1,6 @@
 # Sources — The labour market
 
-countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan, Honduras
+countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan, Honduras, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -56,7 +56,24 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Honduras part — Lesson 32 "El trabajo y su relación con el mundo social" — teaches: tercerización — firms transferring processes to third parties — reshapes Honduras's labour situation; agriculture gives income to almost 40% of the population and about 50% of the country's foreign currency | Honduras, *Honduras Grade 9 G9 Student CCSS*, Lesson 32 "El trabajo y su relación con el mundo social" — printed p. 203 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bahamas, Mongolia, Cambodia, Uzbekistan, Honduras). Albania is teacher-guide evidence only — named here, counted nowhere. Honduras's Grade 1 teacher guide is cited as evidence only — Honduras is counted for its Grade 9 student book named here, not for that guide.**
+**Book 9:** *Year 5 Social Studies Resource book (no separate cover page in the PDF; title verified on the acknowledgement page and Table of Contents, printed pp. 1-2)* (student book, English) — Ministry of Education, Fiji (Curriculum Advisory Service / Curriculum Development Unit); year revised textbook, no year printed in the PDF; ISBN no ISBN printed. Title as printed: Year 5 Social Studies Resource book (no separate cover page in the PDF; title verified on the acknowledgement page and Table of Contents, printed pp. 1-2). Grade: Year 5 (student/teacher: STUDENT). PDF pages: 62 (3,865,813 bytes via tree route). Verdict: COMPLETE. Contents map: Economics parts printed pp. 49-58 (Unit 4 Resources and Economic Activities); Social Organisation pp. 3-16; History (Time, Continuity and Change) pp. 17-26; Geography / Place and Environment pp. 27-48; Glossary pp. 59-61 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Sub Strand 5.4.2 People and Work — teaches: paid and unpaid work, casual, temporary, permanent and voluntary workers, salary and wages, employer and employee, and researching how income differs by job | Fiji, *Fiji Grade 5 Year 5 Social Studies*, Sub Strand 5.4.2 People and Work — teaches: paid and unpaid work, casual, temporary, permanent and voluntary workers, salary and wages, employer and employee, and researching how income differs by job — printed p. 53 |
+
+**Book 10:** *Y6 Social Science Resource Book (no separate cover page in the PDF; title verified on the copyright page, printed p. i, Revised Edition)* (student book, English) — Ministry of Education, Fiji; year 2015, Revised Edition; ISBN no ISBN printed. Title as printed: Y6 Social Science Resource Book (no separate cover page in the PDF; title verified on the copyright page, printed p. i, Revised Edition). Grade: Year 6 (student/teacher: STUDENT). PDF pages: 84 (cover/copyright page verified against the record title; 6,551,730 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 63-80 (Unit 4 Resources and Economic Activities); Social Organisation pp. 4-28; History (Time, Continuity and Change) pp. 29-42; Geography / Place and Environment pp. 43-62; Glossary p. 81 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — People and Work, Working for a Living / Paid and Unpaid Work — teaches: earning money to meet family needs and wants, paid work by occupation in permanent, temporary and casual forms, and unpaid work at home | Fiji, *Fiji Grade 6 Year 6 Social Science*, People and Work, Working for a Living / Paid and Unpaid Work — teaches: earning money to meet family needs and wants, paid work by occupation in permanent, temporary and casual forms, and unpaid work at home — printed p. 69 |
+| Fiji part — People and Work, The Employers and Employees / Work Place Relationship — teaches: employer provides employment, employee does the work, employment conditions and contracts, work ethics, workers' rights and labour laws, and profit leading to wage increases | Fiji, *Fiji Grade 6 Year 6 Social Science*, People and Work, The Employers and Employees / Work Place Relationship — teaches: employer provides employment, employee does the work, employment conditions and contracts, work ethics, workers' rights and labour laws, and profit leading to wage increases — printed p. 71 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Bahamas, Mongolia, Cambodia, Uzbekistan, Honduras, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere. Honduras's Grade 1 teacher guide is cited as evidence only — Honduras is counted for its Grade 9 student book named here, not for that guide.**
+
+Fiji's own way (Fiji Grade 5 Year 5 Social Studies): A full primary money curriculum in one unit — work and wages first, then the Fiji dollar against other currencies, then a family budget, a personal saving plan and what banks do.
+
+Fiji's own way (Fiji Grade 6 Year 6 Social Science): The Year 5 money unit is deepened with employer-employee relations, a worked fortnightly family budget, and income tax and FNPF deductions explained through what the government pays for.
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -72,4 +89,4 @@ Honduras's own way (Honduras Grade 1 G1 Teacher CCSS) (teacher guide — evidenc
 
 Honduras's own way (Honduras Grade 9 G9 Student CCSS): Grade 9 closes the cycle with the world economy and Honduras inside it — work formal and informal, the lempira's devaluation named the country's biggest problem, and remittances weighed honestly: a strong boost to the economy that also demotivates production and drains the labour force.
 
-Searchable tags: labour market, employees supply labour, employers supply jobs, ethiopia, social studies, market and money, bahamas, mongolia, labour market, training job matching information, albania, cambodia, uzbekistan, honduras
+Searchable tags: labour market, employees supply labour, employers supply jobs, ethiopia, social studies, market and money, bahamas, mongolia, labour market, training job matching information, albania, cambodia, uzbekistan, honduras, Fiji

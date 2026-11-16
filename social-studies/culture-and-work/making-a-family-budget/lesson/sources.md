@@ -1,6 +1,6 @@
 # Sources — Making a Family Budget
 
-countries: Rwanda, Zambia, Ecuador, Dominican Republic, Dominica
+countries: Rwanda, Zambia, Ecuador, Dominican Republic, Dominica, Fiji
 
 **Book 1:** *Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: TEACHER). PDF pages: 106 (cover verified against the record title — read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected; this book appears only as a books.json record, with no size/pages in the record to check against). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society (Civics), TG content map printed p. xvi; Unit 3 Hygiene and sanitation, incl. HIV/AIDS, STIs and TB (Health), p. xviii; Unit 4 Civics and governance — peer pressure, national symbols, leadership and good governance (Civics), p. xviii; Unit 10 Colonial Rwanda (History), p. xxvi. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -54,7 +54,31 @@ Rwanda's own way (Rwanda Grade 2): Economics enters at P2 through the household 
 |---|---|
 | Dominica part — Unit 8.2: budgeting and financial planning — teaches: preparing a personal/family budget so expenditure does not exceed income, and using it to find savings and pay off debts faster (Mr Micawber's recipe for happiness as the story) | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 8.2: budgeting and financial planning — printed p. 291 |
 
-**Acceptance count: taught in 4 countries (Rwanda, Ecuador, Dominican Republic, Dominica). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 10:** *SOCIAL STUDIES YEAR 3* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit); year Re-edited 2017; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES YEAR 3. Grade: Year 3 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title; 6,945,812 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 50-61; Social Organisation / family / culture / home / school parts pp. 5-49; Glossary p. 62 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — People and Work, Activity 2 Earning a Living — teaches: a family budget and yearly saving worked for Josese the fisherman ($300 a month) and Mosese the carpenter ($220 a week) | Fiji, *Fiji Grade 3 Social Studies Year 3*, People and Work, Activity 2 Earning a Living — teaches: a family budget and yearly saving worked for Josese the fisherman ($300 a month) and Mosese the carpenter ($220 a week) — printed p. 58 |
+
+**Book 11:** *Year 5 Social Studies Resource book (no separate cover page in the PDF; title verified on the acknowledgement page and Table of Contents, printed pp. 1-2)* (student book, English) — Ministry of Education, Fiji (Curriculum Advisory Service / Curriculum Development Unit); year revised textbook, no year printed in the PDF; ISBN no ISBN printed. Title as printed: Year 5 Social Studies Resource book (no separate cover page in the PDF; title verified on the acknowledgement page and Table of Contents, printed pp. 1-2). Grade: Year 5 (student/teacher: STUDENT). PDF pages: 62 (3,865,813 bytes via tree route). Verdict: COMPLETE. Contents map: Economics parts printed pp. 49-58 (Unit 4 Resources and Economic Activities); Social Organisation pp. 3-16; History (Time, Continuity and Change) pp. 17-26; Geography / Place and Environment pp. 27-48; Glossary pp. 59-61 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Families Financial Commitments — teaches: parents earn income for regular commitments, preparing a family budget (a $200 weekly budget task for a family of four) and a medium-term saving plan | Fiji, *Fiji Grade 5 Year 5 Social Studies*, Families Financial Commitments — teaches: parents earn income for regular commitments, preparing a family budget (a $200 weekly budget task for a family of four) and a medium-term saving plan — printed p. 56 |
+
+**Book 12:** *Y6 Social Science Resource Book (no separate cover page in the PDF; title verified on the copyright page, printed p. i, Revised Edition)* (student book, English) — Ministry of Education, Fiji; year 2015, Revised Edition; ISBN no ISBN printed. Title as printed: Y6 Social Science Resource Book (no separate cover page in the PDF; title verified on the copyright page, printed p. i, Revised Edition). Grade: Year 6 (student/teacher: STUDENT). PDF pages: 84 (cover/copyright page verified against the record title; 6,551,730 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 63-80 (Unit 4 Resources and Economic Activities); Social Organisation pp. 4-28; History (Time, Continuity and Change) pp. 29-42; Geography / Place and Environment pp. 43-62; Glossary p. 81 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Income, Expenses and Savings — teaches: income, expenses, budget and savings defined, Rura's family fortnightly income and expenditure worked at $700, and options for depositing savings | Fiji, *Fiji Grade 6 Year 6 Social Science*, Income, Expenses and Savings — teaches: income, expenses, budget and savings defined, Rura's family fortnightly income and expenditure worked at $700, and options for depositing savings — printed p. 74 |
+
+**Acceptance count: taught in 5 countries (Rwanda, Ecuador, Dominican Republic, Dominica, Fiji). Zambia is teacher-module evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 3 Social Studies Year 3): Economics enters at Year 3 through the child's own pocket money and two working families' budgets in Fiji dollars — a fisherman paid monthly and a carpenter paid weekly.
+
+Fiji's own way (Fiji Grade 5 Year 5 Social Studies): A full primary money curriculum in one unit — work and wages first, then the Fiji dollar against other currencies, then a family budget, a personal saving plan and what banks do.
+
+Fiji's own way (Fiji Grade 6 Year 6 Social Science): The Year 5 money unit is deepened with employer-employee relations, a worked fortnightly family budget, and income tax and FNPF deductions explained through what the government pays for.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -72,4 +96,4 @@ Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the 
 
 Ecuador's own way (Ecuador Grade 13 Emprendimiento y Gestión): Economics enters the entrepreneurship course through the family and the small venture — costs are worked through a school-desk factory costed month by month in dollars, and every unit closes with a financial-education section that takes the same tools home to the family budget and the family's debts. The family budget itself is drawn up monthly, income (salaries, overtime, microenterprise income) against spending sorted as essential, of medium importance, or eventual/emergency, closing with the month's surplus or deficit.
 
-Searchable tags: making a family budget, Rwanda, Zambia, Ecuador, kwacha, shopping list, needs before wants, family budget, surplus, deficit, teacher module evidence, social studies, culture-and-work, Dominican Republic
+Searchable tags: making a family budget, Rwanda, Zambia, Ecuador, kwacha, shopping list, needs before wants, family budget, surplus, deficit, teacher module evidence, social studies, culture-and-work, Dominican Republic, Fiji

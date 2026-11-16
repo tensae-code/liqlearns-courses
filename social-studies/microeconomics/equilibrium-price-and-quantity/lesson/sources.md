@@ -1,6 +1,6 @@
 # Sources — Equilibrium price and quantity — where the curves cross
 
-countries: Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Albania, Bangladesh, Yemen
+countries: Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Albania, Bangladesh, Yemen, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -57,7 +57,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Yemen part — Unit 4 L4 Market equilibrium — teaches: equilibrium where the orange demand and supply schedules meet: 8,000 kg at 250 rials | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 4 L4 Market equilibrium — printed p. 55 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Bangladesh, Yemen). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 10:** *A DIRECT APPROACH — ECONOMICS YEAR 11 (TEXTBOOK)* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit), Suva; year First Produced January 2014; ISBN no ISBN printed. Title as printed: A DIRECT APPROACH — ECONOMICS YEAR 11 (TEXTBOOK). Grade: Year 11 (student/teacher: STUDENT). PDF pages: 84 (cover verified against the record title; 7,109,704 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE — as Part 1: it carries Strand 1, Strand 2 and Strand 3 Lessons 3.1-3.2 to printed p. 84; the rest of the Year 11 book is Part 2 (Book 10). Contents map: Economics parts — the whole book is Economics: Introduction pp. 7-25; Microeconomics pp. 26-69; Macroeconomics pp. 70-84. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 2.6 Price Mechanism — teaches: price set by supply and demand, equilibrium where quantity demanded equals quantity supplied, shortage and surplus, with demand and supply schedule and curve exercises | Fiji, *Fiji Grade 11 Economics Year 11 Part 1*, Lesson 2.6 Price Mechanism — teaches: price set by supply and demand, equilibrium where quantity demanded equals quantity supplied, shortage and surplus, with demand and supply schedule and curve exercises — printed p. 62 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Bangladesh, Yemen, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 11 Economics Year 11 Part 1): A full direct-approach course built on the circular flow, with Fiji examples throughout — ginger supply curves, Fiji import tables, quarry and land-rent income, the Attu family budget, Fiji credit facilities, sugar-industry production stages and Reserve Bank of Fiji policy tools.
 
 Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
@@ -75,4 +83,4 @@ Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same nationa
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: equilibrium price quantity, curves intersection, market equilibrium, ethiopia, france, ses, lunch deal, french housing, social studies, microeconomics, mongolia, flour schedule, shortage surplus, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, bangladesh, yemen
+Searchable tags: equilibrium price quantity, curves intersection, market equilibrium, ethiopia, france, ses, lunch deal, french housing, social studies, microeconomics, mongolia, flour schedule, shortage surplus, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, bangladesh, yemen, Fiji

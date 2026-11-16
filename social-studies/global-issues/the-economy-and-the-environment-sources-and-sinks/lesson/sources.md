@@ -1,6 +1,6 @@
 # Sources — The economy and the environment — sources and sinks
 
-countries: Ethiopia, Mozambique, Nauru, Niue, Tuvalu, France, Rwanda, Dominica, Uzbekistan
+countries: Ethiopia, Mozambique, Nauru, Niue, Tuvalu, France, Rwanda, Dominica, Uzbekistan, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -76,7 +76,15 @@ Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first t
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 9 countries (Ethiopia, Mozambique, Nauru, Niue, Tuvalu, France, Rwanda, Dominica, Uzbekistan).**
+**Book 13:** *PEOPLE AND THE NATURAL ENVIRONMENT IN THE PACIFIC — A Social Sciences related reader for Primary School, Book 3 (Years 5-6)* (student book, English) — UNESCO & Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific; year 2020 (same series statement as Reader 1); ISBN no ISBN printed. Title as printed: PEOPLE AND THE NATURAL ENVIRONMENT IN THE PACIFIC — A Social Sciences related reader for Primary School, Book 3 (Years 5-6). Grade: Years 5-6 (recorded Grade 5) (student/teacher: STUDENT). PDF pages: 24 (cover verified against the record title; 22,427,974 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 3, 5, 7-12, 15-17; Land ecology and Pacific culture parts pp. 1-19 (the rest of the reader); no History / Geography / Civics parts as separate sections. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Unsustainable modern farming methods — teaches: overseas demand pushes farmers to grow more, faster, to make money, shortening fallow and driving chemical fertiliser and insecticide use, monocrops and forest clearing for crops sold nationally and internationally | Fiji, *Fiji Grade 5 ESD Reader 3 People and the Natural Environment in the Pacific*, Unsustainable modern farming methods — teaches: overseas demand pushes farmers to grow more, faster, to make money, shortening fallow and driving chemical fertiliser and insecticide use, monocrops and forest clearing for crops sold nationally and internationally — printed p. 17 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Mozambique, Nauru, Niue, Tuvalu, France, Rwanda, Dominica, Uzbekistan, Fiji).**
+
+Fiji's own way (Fiji Grade 5 ESD Reader 3 People and the Natural Environment in the Pacific): A regional Pacific reader used in Fiji — farming is taught as a spectrum from subsistence through semi-subsistence to cash crops for export, set against the cost of chasing overseas demand.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -84,6 +92,6 @@ France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: the economy and the environment — sources and sinks, grade 12 economics, ethiopia, mozambique, nauru, niue, tuvalu, over-fishing, pacific, france, ses, ecological footprint, social studies, global issues, rwanda, dominica, csec principles of business, caribbean, uzbekistan
+Searchable tags: the economy and the environment — sources and sinks, grade 12 economics, ethiopia, mozambique, nauru, niue, tuvalu, over-fishing, pacific, france, ses, ecological footprint, social studies, global issues, rwanda, dominica, csec principles of business, caribbean, uzbekistan, Fiji
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a long history — from Palaeolithic tool-making through manufacture and mercantilism to the Industrial Revolution and its consequences — before location, types and industrial landscapes; commerce likewise from barter and the invention of coin to trade blocs and unequal world flows.

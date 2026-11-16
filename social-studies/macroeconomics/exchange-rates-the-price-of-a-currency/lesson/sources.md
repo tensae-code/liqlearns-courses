@@ -1,6 +1,6 @@
 # Sources — Exchange rates — the price of a currency
 
-countries: Ethiopia, Malaysia, Uzbekistan, Honduras
+countries: Ethiopia, Malaysia, Uzbekistan, Honduras, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -27,10 +27,18 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Honduras part — Lesson 36 "Situación económica de Honduras" — teaches: the devaluation of the lempira against the dollar is named the country's biggest economic problem, unbalancing the economy and driving it into debt | Honduras, *Honduras Grade 9 G9 Student CCSS*, Lesson 36 "Situación económica de Honduras" — printed p. 227 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Uzbekistan, Honduras).**
+**Book 5:** *Year 5 Social Studies Resource book (no separate cover page in the PDF; title verified on the acknowledgement page and Table of Contents, printed pp. 1-2)* (student book, English) — Ministry of Education, Fiji (Curriculum Advisory Service / Curriculum Development Unit); year revised textbook, no year printed in the PDF; ISBN no ISBN printed. Title as printed: Year 5 Social Studies Resource book (no separate cover page in the PDF; title verified on the acknowledgement page and Table of Contents, printed pp. 1-2). Grade: Year 5 (student/teacher: STUDENT). PDF pages: 62 (3,865,813 bytes via tree route). Verdict: COMPLETE. Contents map: Economics parts printed pp. 49-58 (Unit 4 Resources and Economic Activities); Social Organisation pp. 3-16; History (Time, Continuity and Change) pp. 17-26; Geography / Place and Environment pp. 27-48; Glossary pp. 59-61 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — People and Work, The Value of Our Currency — teaches: the Fiji dollar is stronger or weaker against other currencies and is changed at foreign exchange outlets when travelling | Fiji, *Fiji Grade 5 Year 5 Social Studies*, People and Work, The Value of Our Currency — teaches: the Fiji dollar is stronger or weaker against other currencies and is changed at foreign exchange outlets when travelling — printed p. 55 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Uzbekistan, Honduras, Fiji).**
+
+Fiji's own way (Fiji Grade 5 Year 5 Social Studies): A full primary money curriculum in one unit — work and wages first, then the Fiji dollar against other currencies, then a family budget, a personal saving plan and what banks do.
 
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
 Honduras's own way (Honduras Grade 9 G9 Student CCSS): Grade 9 closes the cycle with the world economy and Honduras inside it — work formal and informal, the lempira's devaluation named the country's biggest problem, and remittances weighed honestly: a strong boost to the economy that also demotivates production and drains the labour force.
 
-Searchable tags: exchange rates, the price of a currency, ethiopia, social studies, macroeconomics, malaysia, uzbekistan, honduras
+Searchable tags: exchange rates, the price of a currency, ethiopia, social studies, macroeconomics, malaysia, uzbekistan, honduras, Fiji

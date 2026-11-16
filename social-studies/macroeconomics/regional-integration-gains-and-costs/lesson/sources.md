@@ -1,6 +1,6 @@
 # Sources — Regional integration — gains and costs
 
-countries: Argentina, Ethiopia, Uganda, Kuwait, Rwanda, South Sudan, Palestine, Venezuela, Dominica, Honduras
+countries: Argentina, Ethiopia, Uganda, Kuwait, Rwanda, South Sudan, Palestine, Venezuela, Dominica, Honduras, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -87,7 +87,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Honduras part — Lesson 35 "Desarrollo económico de América Latina" — teaches: economic integration as the progressive elimination of trade barriers so countries benefit mutually; a free-trade treaty (TLC) grants mutual tariff preferences and cuts non-tariff barriers | Honduras, *Honduras Grade 8 G8 Student CCSS*, Lesson 35 "Desarrollo económico de América Latina" — printed p. 216 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Kuwait, Rwanda, South Sudan, Palestine, Venezuela, Dominica, Honduras). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 13:** *SOCIAL SCIENCE YEAR 9 — REDISCOVERING SOCIETY* (student book, English) — Ministry of Education, National Heritage, Culture & Arts, Fiji (Curriculum Development Unit), Suva; year 2013 (copyright 2011); ISBN no ISBN printed. Title as printed: SOCIAL SCIENCE YEAR 9 — REDISCOVERING SOCIETY. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 162 (cover verified against the record title; 9,276,692 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 11-12, 34-35, 54-55, 71 (scattered, no dedicated Resources and Economic Activities chapter); Social Organisation and Processes (Society and Culture, Community Living, NGOs and Regional Organisations) pp. 7-74; History (History of Fiji, Current Affairs) pp. 77-100; Geography (Maps, Mapping Skills, Environment and its Uses) pp. 103-154; Glossary (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Unit 3 NGOs and Regional Organisation, South Pacific Forum / SPARTECA — teaches: the South Pacific Regional Trade and Economic Co-operation Agreement giving Forum Island Countries markets in Australia and New Zealand for garments, fruits and food crops, and promoting regional investment | Fiji, *Fiji Grade 9 Social Science Year 9*, Unit 3 NGOs and Regional Organisation, South Pacific Forum / SPARTECA — teaches: the South Pacific Regional Trade and Economic Co-operation Agreement giving Forum Island Countries markets in Australia and New Zealand for garments, fruits and food crops, and promoting regional investment — printed p. 71 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Uganda, Kuwait, Rwanda, South Sudan, Palestine, Venezuela, Dominica, Honduras, Fiji). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 9 Social Science Year 9): With no economics strand at Year 9, economics appears inside other topics — industrial society in a sociology survey, globalisation in universal culture, a bottled-water tax fight as a conflict case study, and SPARTECA in regional organisations.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -103,4 +111,4 @@ Honduras's own way (Honduras Grade 6 G6 Student CCSS): Grade 6 goes global — w
 
 Honduras's own way (Honduras Grade 8 G8 Student CCSS): Grade 8 teaches Latin America's development problem head-on — development vs underdevelopment, the integration ladder, and the debt lesson built around Honduras's own fiscal-deficit chart and the structural-adjustment era.
 
-Searchable tags: regional integration, gains and costs, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics, uganda, east african community, EAC, landlocked, free movement, common currency, rwanda, south sudan, palestine, venezuela, dominica, csec principles of business, caribbean, honduras
+Searchable tags: regional integration, gains and costs, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics, uganda, east african community, EAC, landlocked, free movement, common currency, rwanda, south sudan, palestine, venezuela, dominica, csec principles of business, caribbean, honduras, Fiji

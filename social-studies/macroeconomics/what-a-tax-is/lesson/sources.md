@@ -1,6 +1,6 @@
 # Sources — What a tax is
 
-countries: Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Albania, Uzbekistan, Egypt
+countries: Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Albania, Uzbekistan, Egypt, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -71,7 +71,23 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Egypt part — الضرائب (Taxes) — teaches: a tax as a compulsory money levy the state takes from people's incomes and wealth by sovereign authority, with no direct return to the payer, and the legal principles behind it (legality, equality before the tax) | Egypt, *Egypt Secondary 12 Statistics and Economics*, printed p. 153 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Uzbekistan, Egypt). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 12:** *Y6 Social Science Resource Book (no separate cover page in the PDF; title verified on the copyright page, printed p. i, Revised Edition)* (student book, English) — Ministry of Education, Fiji; year 2015, Revised Edition; ISBN no ISBN printed. Title as printed: Y6 Social Science Resource Book (no separate cover page in the PDF; title verified on the copyright page, printed p. i, Revised Edition). Grade: Year 6 (student/teacher: STUDENT). PDF pages: 84 (cover/copyright page verified against the record title; 6,551,730 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 63-80 (Unit 4 Resources and Economic Activities); Social Organisation pp. 4-28; History (Time, Continuity and Change) pp. 29-42; Geography / Place and Environment pp. 43-62; Glossary p. 81 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — What is an Income Tax? — teaches: income tax deducted from salary and paid to government for schools and services, FNPF retirement deduction, and other taxes including VAT, wheel tax and business tax | Fiji, *Fiji Grade 6 Year 6 Social Science*, What is an Income Tax? — teaches: income tax deducted from salary and paid to government for schools and services, FNPF retirement deduction, and other taxes including VAT, wheel tax and business tax — printed p. 75 |
+
+**Book 13:** *SOCIAL SCIENCE YEAR 9 — REDISCOVERING SOCIETY* (student book, English) — Ministry of Education, National Heritage, Culture & Arts, Fiji (Curriculum Development Unit), Suva; year 2013 (copyright 2011); ISBN no ISBN printed. Title as printed: SOCIAL SCIENCE YEAR 9 — REDISCOVERING SOCIETY. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 162 (cover verified against the record title; 9,276,692 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 11-12, 34-35, 54-55, 71 (scattered, no dedicated Resources and Economic Activities chapter); Social Organisation and Processes (Society and Culture, Community Living, NGOs and Regional Organisations) pp. 7-74; History (History of Fiji, Current Affairs) pp. 77-100; Geography (Maps, Mapping Skills, Environment and its Uses) pp. 103-154; Glossary (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Unit 2 Community Living, Conflict and Peace Building case study: Fiji Water — teaches: a bottled-water tax rise from a third of a cent to 15 cents per litre, a corporate tax holiday, disputed export valuation, and the company's jobs, export and GDP claims | Fiji, *Fiji Grade 9 Social Science Year 9*, Unit 2 Community Living, Conflict and Peace Building case study: Fiji Water — teaches: a bottled-water tax rise from a third of a cent to 15 cents per litre, a corporate tax holiday, disputed export valuation, and the company's jobs, export and GDP claims — printed p. 54 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Uzbekistan, Egypt, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 6 Year 6 Social Science): The Year 5 money unit is deepened with employer-employee relations, a worked fortnightly family budget, and income tax and FNPF deductions explained through what the government pays for.
+
+Fiji's own way (Fiji Grade 9 Social Science Year 9): With no economics strand at Year 9, economics appears inside other topics — industrial society in a sociology survey, globalisation in universal culture, a bottled-water tax fight as a conflict case study, and SPARTECA in regional organisations.
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -91,4 +107,4 @@ Laos' own way (Laos Grade 10 Business student): Economics is taught as the theor
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas, laos, income and taxes, wages salary profit, dominican republic, ITBIS, ISR, albania, uzbekistan, egypt
+Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas, laos, income and taxes, wages salary profit, dominican republic, ITBIS, ISR, albania, uzbekistan, egypt, Fiji

@@ -1,6 +1,6 @@
 # Sources — Sources Of Income
 
-countries: Bhutan, Laos, Rwanda, South Sudan, Zimbabwe, Venezuela, Jordan
+countries: Bhutan, Laos, Rwanda, South Sudan, Zimbabwe, Venezuela, Jordan, Fiji
 
 **Book 1:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
@@ -120,7 +120,23 @@ South Sudan's own way (South Sudan Primary 2): work is introduced through the vi
 |---|---|
 | Jordan part — Economics expansion — Unit 4 Lesson 4: Income: income is the money a person obtains through work, and a family earns it from farming (crops and animals), industry and handicrafts, trade (buying and selling goods and services), or providing services such as education and health | Jordan, *Social Studies, Grade 3, Term 2*, Unit 4 Lesson 4: Income — printed p. 42 |
 
-**Acceptance count: taught in 6 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela, Jordan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 19:** *SOCIAL STUDIES YEAR 3* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit); year Re-edited 2017; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES YEAR 3. Grade: Year 3 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title; 6,945,812 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 50-61; Social Organisation / family / culture / home / school parts pp. 5-49; Glossary p. 62 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — People and Work — teaches: people work and look for jobs to get money to buy food and clothes and pay bills and fares, with picture types of work | Fiji, *Fiji Grade 3 Social Studies Year 3*, People and Work — teaches: people work and look for jobs to get money to buy food and clothes and pay bills and fares, with picture types of work — printed p. 57 |
+
+**Book 20:** *A DIRECT APPROACH — ECONOMICS YEAR 11 (TEXTBOOK)* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit), Suva; year First Produced January 2014; ISBN no ISBN printed. Title as printed: A DIRECT APPROACH — ECONOMICS YEAR 11 (TEXTBOOK). Grade: Year 11 (student/teacher: STUDENT). PDF pages: 84 (cover verified against the record title; 7,109,704 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE — as Part 1: it carries Strand 1, Strand 2 and Strand 3 Lessons 3.1-3.2 to printed p. 84; the rest of the Year 11 book is Part 2 (Book 10). Contents map: Economics parts — the whole book is Economics: Introduction pp. 7-25; Microeconomics pp. 26-69; Macroeconomics pp. 70-84. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 2.1 Consumer and Consumption — Personal Finance: Income — teaches: earned income (wages, salaries, profits, commission) and unearned income (welfare, interest, dividends, rent), plus alternative income from land rent, royalties, quarries and lending | Fiji, *Fiji Grade 11 Economics Year 11 Part 1*, Lesson 2.1 Consumer and Consumption — Personal Finance: Income — teaches: earned income (wages, salaries, profits, commission) and unearned income (welfare, interest, dividends, rent), plus alternative income from land rent, royalties, quarries and lending — printed p. 26 |
+
+**Acceptance count: taught in 7 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela, Jordan, Fiji). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 3 Social Studies Year 3): Economics enters at Year 3 through the child's own pocket money and two working families' budgets in Fiji dollars — a fisherman paid monthly and a carpenter paid weekly.
+
+Fiji's own way (Fiji Grade 11 Economics Year 11 Part 1): A full direct-approach course built on the circular flow, with Fiji examples throughout — ginger supply curves, Fiji import tables, quarry and land-rent income, the Attu family budget, Fiji credit facilities, sugar-industry production stages and Reserve Bank of Fiji policy tools.
 
 Venezuela's own way (Venezuela Grade 1 Venezuela G1 Social Sciences SB Spanish): even at Grade 1, work is taught as what a community needs to eat, dress and move, and family income is defined as the pay received for that work. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
@@ -149,4 +165,4 @@ Laos' own way (Laos Grade 10 Business Combined student): the Combined book is th
 
 Jordan's own way (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family story that starts at the hundred-year-old Hejaz railway, runs from barter and camel peddlers to e-commerce, and lands on the child's own choices — what a family can and cannot do without, where income comes from, and what 2, 3, 5 or 12 dinars in hand can buy.
 
-Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan, zimbabwe, teacher guide evidence, venezuela, jordan
+Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan, zimbabwe, teacher guide evidence, venezuela, jordan, Fiji

@@ -1,6 +1,6 @@
 # Sources — Market failure — types and remedies
 
-countries: Ethiopia, Uzbekistan, Egypt
+countries: Ethiopia, Uzbekistan, Egypt, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -24,10 +24,18 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Egypt part — دور الدولة في النشاط الاقتصادي (The state's role in economic activity) — teaches: the fields where the state steps in beyond public services — achieving economic stability and growth (against unemployment and inflation) and achieving justice in distribution | Egypt, *Egypt Secondary 12 Statistics and Economics*, printed pp. 149–151 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Uzbekistan, Egypt).**
+**Book 4:** *A DIRECT APPROACH — ECONOMICS YEAR 11 (TEXTBOOK)* (student book, English) — Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit), Suva; year First Produced January 2014; ISBN no ISBN printed. Title as printed: A DIRECT APPROACH — ECONOMICS YEAR 11 (TEXTBOOK). Grade: Year 11 (student/teacher: STUDENT). PDF pages: 84 (cover verified against the record title; 7,109,704 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE — as Part 1: it carries Strand 1, Strand 2 and Strand 3 Lessons 3.1-3.2 to printed p. 84; the rest of the Year 11 book is Part 2 (Book 10). Contents map: Economics parts — the whole book is Economics: Introduction pp. 7-25; Microeconomics pp. 26-69; Macroeconomics pp. 70-84. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 3.2 Government in the Economy — teaches: market failure, public goods and the free rider, externalities corrected by taxes, fines and subsidies, and government's allocative, distributive, stabilisation and regulatory roles | Fiji, *Fiji Grade 11 Economics Year 11 Part 1*, Lesson 3.2 Government in the Economy — teaches: market failure, public goods and the free rider, externalities corrected by taxes, fines and subsidies, and government's allocative, distributive, stabilisation and regulatory roles — printed p. 79 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Uzbekistan, Egypt, Fiji).**
+
+Fiji's own way (Fiji Grade 11 Economics Year 11 Part 1): A full direct-approach course built on the circular flow, with Fiji examples throughout — ginger supply curves, Fiji import tables, quarry and land-rent income, the Attu family budget, Fiji credit facilities, sugar-industry production stages and Reserve Bank of Fiji policy tools.
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: market failure — types and remedies, grade 12 economics, ethiopia, social studies, microeconomics, uzbekistan, egypt
+Searchable tags: market failure — types and remedies, grade 12 economics, ethiopia, social studies, microeconomics, uzbekistan, egypt, Fiji

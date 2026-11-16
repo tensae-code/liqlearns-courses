@@ -1,6 +1,6 @@
 # Sources — Scarcity forces choice
 
-countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen
+countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -40,7 +40,23 @@ countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen
 |---|---|
 | Yemen part — Unit 2 L1 The economic problem — teaches: the problem as unlimited needs against limited resources, so society must choose | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 2 L1 The economic problem — printed p. 18 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Syria, Mongolia, Egypt, Yemen). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *Year 5 Social Studies Resource book (no separate cover page in the PDF; title verified on the acknowledgement page and Table of Contents, printed pp. 1-2)* (student book, English) — Ministry of Education, Fiji (Curriculum Advisory Service / Curriculum Development Unit); year revised textbook, no year printed in the PDF; ISBN no ISBN printed. Title as printed: Year 5 Social Studies Resource book (no separate cover page in the PDF; title verified on the acknowledgement page and Table of Contents, printed pp. 1-2). Grade: Year 5 (student/teacher: STUDENT). PDF pages: 62 (3,865,813 bytes via tree route). Verdict: COMPLETE. Contents map: Economics parts printed pp. 49-58 (Unit 4 Resources and Economic Activities); Social Organisation pp. 3-16; History (Time, Continuity and Change) pp. 17-26; Geography / Place and Environment pp. 27-48; Glossary pp. 59-61 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Unit 4.1, Poor Practices on the Use of Resources — teaches: needs versus wants must be prioritised as population raises demand so resources remain for future generations | Fiji, *Fiji Grade 5 Year 5 Social Studies*, Unit 4.1, Poor Practices on the Use of Resources — teaches: needs versus wants must be prioritised as population raises demand so resources remain for future generations — printed p. 50 |
+
+**Book 8:** *Y6 Social Science Resource Book (no separate cover page in the PDF; title verified on the copyright page, printed p. i, Revised Edition)* (student book, English) — Ministry of Education, Fiji; year 2015, Revised Edition; ISBN no ISBN printed. Title as printed: Y6 Social Science Resource Book (no separate cover page in the PDF; title verified on the copyright page, printed p. i, Revised Edition). Grade: Year 6 (student/teacher: STUDENT). PDF pages: 84 (cover/copyright page verified against the record title; 6,551,730 bytes via release route, duplicate books.json record is the same book). Verdict: COMPLETE. Contents map: Economics parts printed pp. 63-80 (Unit 4 Resources and Economic Activities); Social Organisation pp. 4-28; History (Time, Continuity and Change) pp. 29-42; Geography / Place and Environment pp. 43-62; Glossary p. 81 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Prioritising Our Needs and Wants — teaches: ordering competing family needs and wants on a sole breadwinner's $200 weekly income in the Manueli case study | Fiji, *Fiji Grade 6 Year 6 Social Science*, Prioritising Our Needs and Wants — teaches: ordering competing family needs and wants on a sole breadwinner's $200 weekly income in the Manueli case study — printed p. 78 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Syria, Mongolia, Egypt, Yemen, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Fiji's own way (Fiji Grade 5 Year 5 Social Studies): A full primary money curriculum in one unit — work and wages first, then the Fiji dollar against other currencies, then a family budget, a personal saving plan and what banks do.
+
+Fiji's own way (Fiji Grade 6 Year 6 Social Science): The Year 5 money unit is deepened with employer-employee relations, a worked fortnightly family budget, and income tax and FNPF deductions explained through what the government pays for.
 
 Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
@@ -54,4 +70,4 @@ Mongolia's own way (Mongolia Grade 7 Social Studies 7): Economics enters through
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: scarcity choice chain, limited output, households firms governments choose, ethiopia, syria, syrian pounds, necessary purchases, postponable purchases, social studies, microeconomics, mongolia, opportunity cost, family examples, albania, egypt, yemen
+Searchable tags: scarcity choice chain, limited output, households firms governments choose, ethiopia, syria, syrian pounds, necessary purchases, postponable purchases, social studies, microeconomics, mongolia, opportunity cost, family examples, albania, egypt, yemen, Fiji
