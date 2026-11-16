@@ -1,6 +1,6 @@
 # Sources — Timed and Distance Running
 
-countries: Ethiopia, Turkmenistan, Kazakhstan, Tajikistan
+countries: Ethiopia, Turkmenistan, Kazakhstan, Tajikistan, Pakistan
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -23,10 +23,29 @@ countries: Ethiopia, Turkmenistan, Kazakhstan, Tajikistan
 | Turkmenistan — Part VIII §§8.5–8.11, Walking and Running — walking, alternating walking and running, instructions for beginning runners, running as the method of developing endurance, and the muscles' importance in running (original target `athletics/timed-and-distance-running`) | Turkmenistan, *Bedenterbiýe (Physical Education)*, Part VIII §§8.5–8.11, printed pp. 106–116 |
 | Kazakhstan — Quarters 1 and 4 — the 2000 m run without timekeeping and the 6-minute run as an endurance test (teacher guide — evidence) (original target `athletics/timed-and-distance-running`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 48 |
 | Tajikistan — Part 2, Athletics and Cross-Country — athletics as the most popular sport: running technique, running exercises for the lesson and at home, and cross-country running (original target `athletics/timed-and-distance-running`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~98–105 |
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Tajikistan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. Tajikistan is added as student-book stock (see its row above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Tajikistan, Pakistan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. Tajikistan is added as student-book stock (see its row above), inside the acceptance count.
 
 The Grade 5 teacher guide scan is TRUNCATED: it holds printed pp. 1–41 of 80+. Missing: the rest of §4.3, all of Chapter 5 Gymnastics (pp. 44–56), all of Chapter 6 Ball-game receiving skills (pp. 57–77) and all of Chapter 7 (pp. 78–80+). Teacher-guide rows in this lesson are evidence only and never count as pupil-taught; nothing here claims a page beyond what the held file holds.
 
 Student books Grades 5–7 are complete. No page is claimed that the placements do not give.
+
+## Pakistan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-pe-placements.md. Pakistan's books are combined Health and Physical Education student books (Urdu medium, Khyber Pakhtunkhwa Textbook Board); their Health chapters are filed in pakistan-health-placements.md and placed in the Health course. All seven books are scanned-image PDFs (no text layer), read from rendered spreads — cover, title page, credits, the full printed contents, chapter openings and samples throughout, and the closing pages (every scan runs complete to the national-anthem back cover), as filed. Pakistan is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — Pakistan Grade 12 (student book):**
+## Book 7 — صحت و جسمانی تعلیم برائے بارہویں جماعت (Health and Physical Education for Class 12)
+- Title as printed: صحت و جسمانی تعلیم برائے بارہویں جماعت (Sehat-o-Jismani Taleem for Class 12)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar (University Book Printers & Publishers (Pvt) Ltd); year academic year 2019-20; ISBN no ISBN printed
+- PDF pages: 157 scan pages (book runs to printed p. 153 + back cover)
+- Verdict: COMPLETE
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED (Health chapters filed in pakistan-health-placements.md: 5 placements)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan — Chapter 7: the 1500 m run and its rules, inside Rules and Skills of Sports (original target `running-races/middle-distance-running`) | Pakistan, *Pakistan Grade 12 Sehat-o-Jismani Taleem*, Chapter 7: the 1500 m run, inside Rules and Skills of Sports, printed p. 69 |
+
+Pakistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Pakistan's own way is content: its Urdu-medium combined Health and Physical Education books teach PE inside one subject alongside health, with biomechanics carried through every grade from 6 to 12 and its own games — kabaddi among them — taught in the senior books. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: timed and distance running, timed running, running to the clock, distance running, physical education, Ethiopia

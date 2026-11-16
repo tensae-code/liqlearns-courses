@@ -1,6 +1,6 @@
 # Sources — The Rules of Handball
 
-countries: Ethiopia, Timor-Leste
+countries: Ethiopia, Timor-Leste, Pakistan
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -16,7 +16,7 @@ countries: Ethiopia, Timor-Leste
 | The goalkeeper, scoring and the throw-in (teacher guide — evidence) | Ethiopia, Grade 10 teacher Unit 7, Handball general rules (teacher guide — evidence) (rules exist for players' safety, the game's integrity and the fairest competition; §7.1.1 the goalkeeper may touch the ball with any part of the body in the act of defending; §7.1.2 scoring — more goals than the opponent, without breaking the rules, each goal confirmed by the referee; §7.1.3 the throw-in — awarded by the referee when a rule is broken / the ball leaves play; apply in small-sided games), printed pp. 77–78 |
 
 | Timor-Leste — Appendix 4: Handball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-handball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed pp. 157–230 (Appendix 4) |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Pakistan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count.
 
 The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–93): all 8 units, knowledge content and answer keys are present; only §8.3's final step-by-step teaching procedure is cut mid-sentence at printed p. 92. Nothing in this lesson rests on the cut tail. Teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -25,5 +25,24 @@ The Grade 9 books are the English federal 2023 GEQIP-E series; Grade 9–10 targ
 Mismatch record, now stocked here: the Grade 9 guide's handball rules (printed pp. 94–95) were previously carried only as a team/substitutes fragment cited to the Grade 10 student book §7.1 — sub lesson 3 above stocks the guide's own court / playing-time / ball / team / fouls teaching, cited to pp. 94–95. The Grade 10 guide's rules-in-depth (printed pp. 77–78) were previously cited nowhere, its throw-in teaching untaught — sub lesson 4 stocks it, cited to pp. 77–78; the keeper and scoring points already taught under Grade 10 student citations elsewhere stay credited as they are and are not re-cited here as student material.
 
 Cross-reference, not duplication: the Grade 10 student rules pass is taught inside Playing the Team Games (its Handball team defence and attack — Grade 10 part, citing the Grade 10 student §7.1, printed pp. 113–115) and the goalkeeping skills in Dribbling, Shooting and the Jump Throw (citing the Grade 10 student §7.2, printed pp. 116–120). This lesson teaches the Grade 9 student pass (§7.2) as the opening depth and adds the two guide passes as labelled evidence.
+
+## Pakistan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-pe-placements.md. Pakistan's books are combined Health and Physical Education student books (Urdu medium, Khyber Pakhtunkhwa Textbook Board); their Health chapters are filed in pakistan-health-placements.md and placed in the Health course. All seven books are scanned-image PDFs (no text layer), read from rendered spreads — cover, title page, credits, the full printed contents, chapter openings and samples throughout, and the closing pages (every scan runs complete to the national-anthem back cover), as filed. Pakistan is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — Pakistan Grade 12 (student book):**
+## Book 7 — صحت و جسمانی تعلیم برائے بارہویں جماعت (Health and Physical Education for Class 12)
+- Title as printed: صحت و جسمانی تعلیم برائے بارہویں جماعت (Sehat-o-Jismani Taleem for Class 12)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar (University Book Printers & Publishers (Pvt) Ltd); year academic year 2019-20; ISBN no ISBN printed
+- PDF pages: 157 scan pages (book runs to printed p. 153 + back cover)
+- Verdict: COMPLETE
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED (Health chapters filed in pakistan-health-placements.md: 5 placements)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan — Chapter 7: Handball — offside, penalty, ball out of court and throw-in, inside Rules and Skills of Sports (original target `ball-games/team-handball-basics`) | Pakistan, *Pakistan Grade 12 Sehat-o-Jismani Taleem*, Chapter 7: Handball, inside Rules and Skills of Sports, printed p. 69 |
+
+Pakistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Pakistan's own way is content: its Urdu-medium combined Health and Physical Education books teach PE inside one subject alongside health, with biomechanics carried through every grade from 6 to 12 and its own games — kabaddi among them — taught in the senior books. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: the rules of handball, handball court and goals, colour bands, goal area, obligatory time-out, 2-minute suspension, personal punishments, substitutes, goalkeeper, scoring, throw-in, IHF rules, physical education, Ethiopia

@@ -116,3 +116,18 @@ Latin Dancing**
 and **Muay Thai**
 (`traditional-games-and-dances/muay-thai`)
 — 3 new lessons, bringing this course to 91 lessons.
+
+The PE expansion then added: **Correct Posture**
+(`moving-basics/correct-posture`), **Netball Skills**
+(`ball-games/netball-skills`), **Table Tennis**
+(`ball-games/table-tennis`), **The Rules of Athletics**
+(`athletics/the-rules-of-athletics`), **Baseball and
+Softball Skills** (`ball-games/baseball-and-softball-skills`),
+**Warming Up and Cooling Down**
+(`fitness-and-stretching/warming-up-and-cooling-down`),
+**Planning Your Own Training**
+(`fitness-and-stretching/planning-your-own-training`),
+**Kabaddi** (`traditional-games-and-dances/kabaddi`) and
+**Organising Competitions and Events**
+(`sport-and-its-story/organising-competitions-and-events`)
+— 9 new lessons, bringing this course to 100 lessons.

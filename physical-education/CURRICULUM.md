@@ -190,6 +190,24 @@ sample carries its book's complete printed contents, and
 every PE part is placed from those contents. The books'
 Health parts are placed in the Health course.
 
+**PE expansion — Pakistan — BUILT 2026-11-16:** 30 placements
+from Pakistan's seven combined Health and Physical Education
+student books, Grades 6–12 (Urdu medium, Khyber Pakhtunkhwa
+Textbook Board, all COMPLETE) stocked — 21 into existing
+lessons (including Biomechanics in Sport, built earlier in
+this expansion) and 9 as new lessons (Correct Posture;
+Netball Skills; Table Tennis; The Rules of Athletics;
+Baseball and Softball Skills; Warming Up and Cooling Down;
+Planning Your Own Training; Kabaddi; Organising Competitions
+and Events) — bringing this course to **100 lessons**. The
+Pakistan books are student books, filed as student-book
+stock, inside the acceptance counts; their Health chapters
+are placed in the Health course. No Pakistan placement
+resolves to a Health-course lesson, so none was excluded as
+Health-bound. Pakistan's own way is content: biomechanics
+carried through every grade from 6 to 12, and kabaddi taught
+in the Grade 11 book.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -201,6 +219,7 @@ Health parts are placed in the Health course.
 7. **Body and Space Awareness** (`moving-basics/body-and-space-awareness`) — where I am in space — left and right, directions, personal space and shared space — taught in Mozambique's Grade 1 manual as Orientação, spatial orientation exercises done to command voices, inside the organisation and control exercises (Mozambique's Grade 1 teacher manual, evidence only).
 8. **Swimming Basics** (`moving-basics/swimming-basics`) — swimming basics: first steps in the water — getting in, floating, moving through water and playing in it, and why everyone should learn to swim — taught in Turkmenistan's Bedenterbiýe as swimming in the water (Suwda ýüzmek) and the importance of swimming (Suwda ýüzmegiň ähmiýeti), part of all-round physical development (Turkmenistan's student book).
 9. **How We Learn Movement Skills** (`moving-basics/how-we-learn-movement-skills`) — how we learn movement skills: the factors affecting movement and performance — biomechanical efficiency (the swimmer's arm recovery) and effective equipment — and feedback in skill learning: intrinsic, extrinsic and kinaesthetic (Samoa's Years 11–12 teacher guide, evidence only).
+10. **Correct Posture** (`moving-basics/correct-posture`) — correct posture: holding the body well standing, sitting, walking, lifting and in sport — and recognising and correcting posture faults — taught in Pakistan's Grade 6 book as Posture, correct and faulty posture, inside the skeletal system and muscles chapter (Pakistan's student book).
 
 ## Unit 2 — Fitness and Stretching
 
@@ -214,6 +233,8 @@ Health parts are placed in the Health course.
 8. **Biomechanics in Sport** (`fitness-and-stretching/biomechanics-in-sport`) — biomechanics in sport: forces, levers, planes of movement, projectile flight, and analysing and correcting technique — taught in the United Kingdom's GCSE book as lever systems, mechanical advantage, and planes and axes of movement (United Kingdom's student book).
 9. **Testing Your Fitness** (`fitness-and-stretching/testing-your-fitness`) — testing your fitness: the standard fitness tests, measuring the body, and reading your results — taught in the United Kingdom's GCSE book as fitness testing, its protocols and using its data (United Kingdom's student book).
 10. **Sports Nutrition and Hydration** (`fitness-and-stretching/sports-nutrition-and-hydration`) — sports nutrition and hydration: what to eat and drink for exercise, before, during and after competition — taught in the United Kingdom's GCSE book as energy use, diet, nutrition and hydration: energy balance, a balanced diet, and water and electrolytes for performers (United Kingdom's student book).
+11. **Warming Up and Cooling Down** (`fitness-and-stretching/warming-up-and-cooling-down`) — warming up and cooling down: preparing the body for exercise, and relaxing and returning to calm afterwards — taught in Pakistan's Grade 10 book as Warm-Up and Warm-Down (Cool-Down) Activities for Sports (Pakistan's student book).
+12. **Planning Your Own Training** (`fitness-and-stretching/planning-your-own-training`) — planning your own training: fitness plans, FITT, training zones and cycles, and designing training from your goals and data — taught in Pakistan's Grade 11 book as the Fitness Plan (Pakistan's student book).
 
 ## Unit 3 — Gymnastics
 
@@ -232,6 +253,7 @@ Health parts are placed in the Health course.
 4. **Throwing for Distance** (`athletics/throwing-for-distance`) — throwing for distance in its safe taught forms — small ball and stick, ring and javelin-style, shot put, javelin and discus — always into a clear t…
 5. **Timed and Distance Running** (`athletics/timed-and-distance-running`) — running against the clock — short timed sprints, middle-distance runs to the clock, and 1500 and 2000 metre distance runs.
 6. **Skiing for Beginners** (`athletics/skiing-for-beginners`) — skiing for beginners: the sliding step, the alternating stride, descending in a stance, the step turn, climbing "ladder" style, covering 2–3 km and free skiing, with safety theory and drill on skis (Kazakhstan's Grade 4 teacher guide, evidence only).
+7. **The Rules of Athletics** (`athletics/the-rules-of-athletics`) — the rules of athletics competition: starts, false starts, and the jump, throw and track rules — taught in Pakistan's Grade 7 book as Rules and Skills of Athletics and in its Grade 8 book inside Rules and Skills of Sports and Athletics (Pakistan's student books).
 
 ## Unit 5 — Ball Games
 
@@ -245,6 +267,9 @@ Health parts are placed in the Health course.
 8. **The Rules of Handball** (`ball-games/the-rules-of-handball`) — handball's colour-banded court and goals, playing time, the ball, fouls and personal punishments, opening with the Grade 9 book and deepened by both guides as labelled evidence.
 9. **Kickball** (`ball-games/kickball`) — kickball: the North-American kick-and-run ball game — its rules and mini-games, as Timor-Leste's Grade 7 teacher guide teaches them in its seven-sport appendix (Timor-Leste's teacher guide, evidence only).
 10. **Ultimate Frisbee** (`ball-games/ultimate-frisbee`) — Ultimate Frisbee: the self-refereed team frisbee game — its rules and mini-games, as Timor-Leste's Grade 7 teacher guide teaches them in its seven-sport appendix (Timor-Leste's teacher guide, evidence only).
+11. **Netball Skills** (`ball-games/netball-skills`) — netball skills: footwork, landing, pivoting, passing, receiving and dodging — taught in Pakistan's Grade 6 book (court, goal post, passes and rules) and Grade 9 book (ball weight, centre circle and pass, court dimensions and players) (Pakistan's student books).
+12. **Table Tennis** (`ball-games/table-tennis`) — table tennis: grips, strokes, serves, spin and how a match is played — taught in Pakistan's Grade 7 book inside Rules and Skills of Games (Pakistan's student book).
+13. **Baseball and Softball Skills** (`ball-games/baseball-and-softball-skills`) — baseball and softball skills: batting, base running, fielding and pitching — taught in Pakistan's Grade 8 book as baseball: the field and its measurements, pitching and play (Pakistan's student book).
 
 ## Unit 6 — Games to Play
 
@@ -284,6 +309,7 @@ Health parts are placed in the Health course.
 23. **Dancesport — Ballroom and Latin Dancing** (`traditional-games-and-dances/dancesport-ballroom-and-latin-dancing`) — dancesport (ลีลาศ): ballroom and Latin American dancing — the waltz and the cha-cha-cha, dance lines, body positions, holds and leading, with etiquette, competition rules and judging (Thailand's Grade 12 student book — MAC sample, PARTIAL).
 24. **Traditional Games of Thailand** (`traditional-games-and-dances/traditional-games-of-thailand`) — Thai folk play (การละเล่นพื้นเมือง), played by its own rules and agreements (Thailand's Grade 3 student book — SSR flipbook sample, PARTIAL).
 25. **Muay Thai** (`traditional-games-and-dances/muay-thai`) — Muay Thai: Thailand's own martial art — the guard stance (การจดมวย), the swinging punch and the uppercut, and elbow strikes (การใช้ศอกตี) (Thailand's Grade 5 student book — SSR flipbook sample, PARTIAL).
+26. **Kabaddi** (`traditional-games-and-dances/kabaddi`) — kabaddi: the raiding game — how it is played, the court and rules, raiding, holding and tactics — taught in Pakistan's Grade 11 book as kabaddi: match time, raids and the court, inside Rules and Skills of Sports (Pakistan's student book).
 
 ## Unit 8 — Sport and Its Story
 
@@ -304,3 +330,4 @@ Health parts are placed in the Health course.
 15. **What Physical Education Is and Where It Came From** (`sport-and-its-story/what-physical-education-is-and-where-it-came-from`) — what physical education is — an education field that develops the whole person through movement — and where it came from: ancient Greece, and the r…
 16. **What Physical Fitness Is** (`sport-and-its-story/what-physical-fitness-is`) — the knowledge that opens the fitness line: physical fitness is the body's capacity foundation, in four named parts — heart and blood-vessel working…
 17. **What Sport Is — and How It Differs from PE** (`sport-and-its-story/what-sport-is`) — what sport is — organised competitive play with its own rules, where a winner and a loser are decided — and how it differs from physical education,…
+18. **Organising Competitions and Events** (`sport-and-its-story/organising-competitions-and-events`) — organising competitions and events: fixtures, draws, tournaments, sports days and running a sports event well — taught in Pakistan's Grade 11 book as tournament systems: knock-out, league and combination fixtures (Pakistan's student book).

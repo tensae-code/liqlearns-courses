@@ -1,6 +1,6 @@
 # Sources — Kicking, Passing and Dribbling
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste
+countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -51,7 +51,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste
 | Kazakhstan — Quarter 1, football elements — dribbling the ball with the inside and outside of the instep, kicking the ball, and stopping a rolling ball (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 5 |
 | Tajikistan — Part 2, Mini-Football — learning mini-football technique at the first stage, passing the ball with running, and the game "Score a Goal" (Забей гол) (original target `ball-games/kicking-passing-and-dribbling`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~128–140 |
 | Timor-Leste — Appendix 4: Football/Futsal — basic rules (goalkeeper's hands, fouls, throw-ins, corners) and football games and activities (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 157 |
-**Acceptance count: taught in 2 countries (Ethiopia, Tajikistan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Tajikistan, Pakistan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count.
 
 The Grade 4 teacher guide scan is TRUNCATED: it holds printed pp. 1–39 of 72+. Missing: all of Chapter 4 (pp. 40–54), Chapter 5 Gymnastics (pp. 55–65) and Chapter 6 (pp. 66–72+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -62,5 +62,24 @@ The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–9
 The Grade 9 books are the English federal 2023 GEQIP-E series (the Grades 1–8 books are Amharic-medium); Grade 9–10 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 
 The Grade 2 teacher guide scan is TRUNCATED: it holds printed pp. 1–41 of 85. Missing: all of Chapter 4 (pp. 42–60), Chapter 5 Gymnastics (pp. 61–72), Chapter 6 (pp. 73–83), the glossary (p. 84) and the references (p. 85). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
+
+## Pakistan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-pe-placements.md. Pakistan's books are combined Health and Physical Education student books (Urdu medium, Khyber Pakhtunkhwa Textbook Board); their Health chapters are filed in pakistan-health-placements.md and placed in the Health course. All seven books are scanned-image PDFs (no text layer), read from rendered spreads — cover, title page, credits, the full printed contents, chapter openings and samples throughout, and the closing pages (every scan runs complete to the national-anthem back cover), as filed. Pakistan is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — Pakistan Grade 6 (student book):**
+## Book 1 — صحت و جسمانی تعلیم برائے چھٹی جماعت (Health and Physical Education for Class 6)
+- Title as printed: صحت و جسمانی تعلیم — چھٹی جماعت کے لیے (Sehat-o-Jismani Taleem — for Class 6)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar (printed by University Book Printers & Publishers (Pvt) Ltd); year academic year 2023-24 (provincial curriculum 2015); ISBN no ISBN printed
+- PDF pages: 56 scan pages (2-page spreads; book runs to printed p. 101 + back cover)
+- Verdict: COMPLETE
+- Tally: 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED (Health chapters filed in pakistan-health-placements.md: 6 placements)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan — Chapter 9: Football skills — stopping the ball, kicking, heading and dribbling, inside Sports Skills (original target `ball-games/kicking-passing-and-dribbling`) | Pakistan, *Pakistan Grade 6 Sehat-o-Jismani Taleem*, Chapter 9: Football skills, inside Sports Skills, printed p. 69 |
+
+Pakistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Pakistan's own way is content: its Urdu-medium combined Health and Physical Education books teach PE inside one subject alongside health, with biomechanics carried through every grade from 6 to 12 and its own games — kabaddi among them — taught in the senior books. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: kicking, passing and dribbling, kicking and passing a ball, ball control with the feet, equipment skills — balls, rings and targets, football dribbling and net ball (teacher guide — evidence), physical education, Ethiopia, Kicking a ball, and up-and-down steps (teacher guide — evidence), Passing the football; hit the target (teacher guide — evidence)

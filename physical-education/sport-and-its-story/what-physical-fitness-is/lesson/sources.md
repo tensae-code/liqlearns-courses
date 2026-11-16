@@ -1,6 +1,6 @@
 # Sources — What Physical Fitness Is
 
-countries: Ethiopia, Cyprus, Zambia, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand
+countries: Ethiopia, Cyprus, Zambia, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, Pakistan
 
 **Book 1:** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (51 PDF pages). Printed page = PDF page − 8. TRUNCATED — the file holds printed pp. 1–43 of 85+. Read in full, page by page, from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md.
 
@@ -42,7 +42,7 @@ countries: Ethiopia, Cyprus, Zambia, Turkmenistan, Tajikistan, Timor-Leste, Unit
 | United Kingdom — Component 1 Topic 3.1: The relationship between health and fitness — how health and fitness relate and the role of fitness in physical activity (original target `sport-and-its-story/what-physical-fitness-is`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 3.1, printed p. 62 |
 | United Kingdom — Component 1 Topic 3.2: The components of fitness — the components of fitness and why each matters for sport (original target `sport-and-its-story/what-physical-fitness-is`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 3.2, printed p. 65 |
 | Thailand — Unit 5 Exercise — why exercise matters, the benefits of exercise, and how to exercise safely (the rules to follow when exercising) (student book — MAC sample, PARTIAL) (original target `sport-and-its-story/what-physical-fitness-is`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 5, printed pp. 96–102 |
-**Acceptance count: taught in 7 countries (Ethiopia, Cyprus, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand).** Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Sub lessons 1–2 rest on teacher-guide evidence only, as their rows say; Sub lessons 3–4 are pupil-taught from the Grade 5 and Grade 6 student textbooks (Wave 2 Band B extension, 2026-11-12), so the lesson as a whole counts as pupil-taught. Cyprus is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Cyprus, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, Pakistan).** Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Sub lessons 1–2 rest on teacher-guide evidence only, as their rows say; Sub lessons 3–4 are pupil-taught from the Grade 5 and Grade 6 student textbooks (Wave 2 Band B extension, 2026-11-12), so the lesson as a whole counts as pupil-taught. Cyprus is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count.
 
 The Grade 1 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–43 of 85+. Missing from the file: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 Addis Ababa traditional games (pp. 79–85+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
@@ -61,5 +61,45 @@ Extension note (2026-11-12): the earlier statement in this file that both parts 
 Both United Kingdom placements were filed under this lesson's own slug, `sport-and-its-story/what-physical-fitness-is`, and are recorded in the provenance rows above. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count.
 
 Thailand's rows in this lesson rest on publisher sample editions (PARTIAL, as filed — see the book lines above): each sample carries its book's complete printed contents, and the placements are taken from those contents; the sample label is carried exactly as filed and is never upgraded to a complete read. Thailand enters this lesson as student-book stock, inside the acceptance count. Game and movement rules are taught only as the placements summarise them; no rules have been invented.
+
+## Pakistan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-pe-placements.md. Pakistan's books are combined Health and Physical Education student books (Urdu medium, Khyber Pakhtunkhwa Textbook Board); their Health chapters are filed in pakistan-health-placements.md and placed in the Health course. All seven books are scanned-image PDFs (no text layer), read from rendered spreads — cover, title page, credits, the full printed contents, chapter openings and samples throughout, and the closing pages (every scan runs complete to the national-anthem back cover), as filed. Pakistan is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — Pakistan Grade 6 (student book):**
+## Book 1 — صحت و جسمانی تعلیم برائے چھٹی جماعت (Health and Physical Education for Class 6)
+- Title as printed: صحت و جسمانی تعلیم — چھٹی جماعت کے لیے (Sehat-o-Jismani Taleem — for Class 6)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar (printed by University Book Printers & Publishers (Pvt) Ltd); year academic year 2023-24 (provincial curriculum 2015); ISBN no ISBN printed
+- PDF pages: 56 scan pages (2-page spreads; book runs to printed p. 101 + back cover)
+- Verdict: COMPLETE
+- Tally: 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED (Health chapters filed in pakistan-health-placements.md: 6 placements)
+
+**Book — Pakistan Grade 7 (student book):**
+## Book 2 — صحت و جسمانی تعلیم برائے ساتویں جماعت (Health and Physical Education for Class 7)
+- Title as printed: صحت و جسمانی تعلیم — ساتویں جماعت کے لیے (Sehat-o-Jismani Taleem — for Class 7)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar (printed by University Book Printers & Publishers (Pvt) Ltd); year academic year 2021-22 (provincial curriculum 2015); ISBN no ISBN printed
+- PDF pages: 64 scan pages (book runs to printed p. 113 + back cover)
+- Verdict: COMPLETE
+- Tally: 6 placements — 2 to existing lessons, 4 NEW LESSON NEEDED (Health chapters filed in pakistan-health-placements.md: 8 placements)
+
+**Book — Pakistan Grade 8 (student book):**
+## Book 3 — صحت و جسمانی تعلیم برائے آٹھویں جماعت (Health and Physical Education for Class 8)
+- Title as printed: صحت و جسمانی تعلیم — آٹھویں جماعت کے لیے (Sehat-o-Jismani Taleem — for Class 8)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar (Leading Books Publishers, Jamrud Road, Peshawar); year academic year 2021-22 (provincial curriculum 2015); ISBN no ISBN printed
+- PDF pages: 63 scan pages (book runs to printed p. 101 + back cover)
+- Verdict: COMPLETE
+- Tally: 4 placements — 1 to existing lessons, 3 NEW LESSON NEEDED (Health chapters filed in pakistan-health-placements.md: 6 placements)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan — Chapter 8: Physical Fitness (جسمانی موزونیت) (original target `sport-and-its-story/what-physical-fitness-is`) | Pakistan, *Pakistan Grade 6 Sehat-o-Jismani Taleem*, Chapter 8: Physical Fitness, printed p. 63 |
+| Pakistan — Chapter 9: Components of Fitness and Performance (فٹنس کے اجزاء اور کارکردگی) — what fitness is (original target `sport-and-its-story/what-physical-fitness-is`) | Pakistan, *Pakistan Grade 7 Sehat-o-Jismani Taleem*, Chapter 9: Components of Fitness and Performance, printed p. 65 |
+| Pakistan — Chapter 9: Components of Fitness and Performance — the fitness components and how they show in games, with warm-up and cool-down for the upper and lower body (original target `fitness-and-stretching/components-of-fitness`) | Pakistan, *Pakistan Grade 7 Sehat-o-Jismani Taleem*, Chapter 9: Components of Fitness and Performance, printed p. 65 |
+| Pakistan — Chapter 8: Fitness (فٹنس) (original target `sport-and-its-story/what-physical-fitness-is`) | Pakistan, *Pakistan Grade 8 Sehat-o-Jismani Taleem*, Chapter 8: Fitness, printed p. 71 |
+
+Pakistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Pakistan's own way is content: its Urdu-medium combined Health and Physical Education books teach PE inside one subject alongside health, with biomechanics carried through every grade from 6 to 12 and its own games — kabaddi among them — taught in the senior books. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: what physical fitness is, የልብና የደም ስር አሰራር, የጡንቻ ብርታት, መዘርጋትና መተጣጠፍ, ቅልጥፍና, fitness components, health benefits, Ethiopia HPE, fitness definition, health-related fitness, skill-related fitness, Ethiopia HPE Grades 5–6
