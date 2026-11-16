@@ -57,6 +57,16 @@ bringing this course to **65 lessons**. The Cyprus
 first-aid book recorded on the PE row carries no PE
 placements (it is filed in Health).
 
+**PE expansion — Zambia — BUILT 2026-11-16:** 8 placements
+from Zambia's Physical Education and Sport, Form 1
+Term 2 Teaching Module stocked — 5 into existing lessons
+and 3 as new lessons (Water Safety and Rescue;
+Traditional Games of Zambia) — bringing this course to
+**67 lessons**. The Zambia module is a teacher module,
+filed as evidence only, outside the acceptance counts;
+its second record, a publisher partners-guide catalogue,
+carries 0 placements.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -64,6 +74,7 @@ placements (it is filed in Health).
 3. **Running Basics** (`moving-basics/running-basics`) — running on the spot, running with wide arms, and shuttle running back and forth.
 4. **Sliding and Changing Direction** (`moving-basics/sliding-and-changing-direction`) — sliding sideways, and running fast while changing direction at markers and shapes.
 5. **Walking in Patterns** (`moving-basics/walking-in-patterns`) — walking in patterns — in pairs and groups, and along lines and shapes on the ground — without breaking the hand-hold.
+6. **Water Safety and Rescue** (`moving-basics/water-safety-and-rescue`) — staying safe in pools, lakes and rivers, rescue steps, resuscitation and pool hygiene — preventing drowning, lifeguard rescue with a float aid without entering the water, Reach–Throw–Don't Go, CPR, rip currents, and the pool rules: shower before entering, walking not running, depth awareness, not swimming when sick (Zambia's Form 1 teacher module, evidence only).
 
 ## Unit 2 — Fitness and Stretching
 
@@ -129,7 +140,8 @@ placements (it is filed in Health).
 13. **Traditional Games of Our Zone** (`traditional-games-and-dances/traditional-games-of-our-zone`) — the zone survey's games — a wrestling-type game, the spinning-target stick throw, circle ball games and genna, the dama board game that trains thin…
 14. **Traditional Games of the Amhara Region** (`traditional-games-and-dances/traditional-games-of-the-amhara-region`) — the named traditional games of the Amhara Region — Gudib jump, Suzi, ball-throwing-out, Gebeta and Gena, traditional wrestling and horse racing — e…
 15. **What Traditional Dance and Games Are** (`traditional-games-and-dances/what-traditional-dance-and-games-are`) — what a traditional dance and a traditional game are: a community's own movement, carrying its identity — its dress, its festivals and its way of life.
-16. **World Games — Dragon Snake and Stocking** (`traditional-games-and-dances/world-games-dragon-snake-and-stocking`) — two world traditional games in full: Vietnam/China's Dragon Snake and the worldwide African girls' Stocking rope game — how each is set up, won and…
+16. **Traditional Games of Zambia** (`traditional-games-and-dances/traditional-games-of-zambia`) — indigenous Zambian games of the learners' own communities, researched and performed by the learners themselves: chain tag (chasing), Sheep-Sheep Come All (breakthrough), musical chairs (rhythmic), Who Am I? (knowledge) and manipulative/calculative games, and why they matter (Zambia's Form 1 teacher module, evidence only).
+17. **World Games — Dragon Snake and Stocking** (`traditional-games-and-dances/world-games-dragon-snake-and-stocking`) — two world traditional games in full: Vietnam/China's Dragon Snake and the worldwide African girls' Stocking rope game — how each is set up, won and…
 
 ## Unit 8 — Sport and Its Story
 

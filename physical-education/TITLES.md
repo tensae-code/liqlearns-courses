@@ -43,3 +43,9 @@ The PE expansion added: **Cyprus and Sport**
 (`sport-and-its-story/cyprus-and-sport`) and **Sport for
 Everyone** (`sport-and-its-story/sport-for-everyone`) — 2 new
 lessons, bringing this course to 65 lessons.
+
+The PE expansion then added: **Water Safety and Rescue**
+(`moving-basics/water-safety-and-rescue`) and **Traditional
+Games of Zambia**
+(`traditional-games-and-dances/traditional-games-of-zambia`)
+— 2 new lessons, bringing this course to 67 lessons.

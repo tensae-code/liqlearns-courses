@@ -1,6 +1,6 @@
 # Sources — Moving to a Beat — Rhythmic Movement
 
-countries: Ethiopia
+countries: Ethiopia, Zambia
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -20,6 +20,8 @@ countries: Ethiopia
 **Book — Grade 3 teacher (teacher guide — evidence):** *Grade 3 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, ሦስተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
 **Book — Grade 4 teacher (teacher guide — evidence):** *Grade 4 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት መጽሐፍ, አራተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g04-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
+
+**Book — Zambia Form 1 teacher module (teacher module — evidence):** *Physical Education and Sport — Teaching Module, Form 1, Term 2 (Expressive Arts Syllabus, Ministry of Education)* (teacher module, English) — Title as printed: Physical Education and Sport — Teaching Module, Form 1, Term 2 (Expressive Arts Syllabus, Ministry of Education) — Grade: Form 1 (= Grade 8) (student/teacher: TEACHER) — Publisher: Curriculum Development Centre, Zambia; published by Zambia Educational Publishing House (ZEPH); year 2025; ISBN 978-9982-54-066-7 — PDF pages: 42 printed pp. iii–40 plus front matter (cover/title page verified against the record title; read in full via the official edu.gov.zm PDF — the file itself returns an empty reply to direct download from this host, so it could not be staged; see the group log). Verdict: COMPLETE — Bibliography (printed p. 36), the Sample Lesson Plan (p. 37) and the lesson-plan template (p. 40) are apparatus/template matter, named here and not placed; each topic's own assessment criteria are the module's assessment apparatus, excluded per the brief. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zambia-pe-placements.md. Zambia's own way: a competence-based teacher module written to bridge the absence of approved textbooks — every sub-topic runs hook, terminology, learning activities with locally improvised materials (sacks filled with dried grass as mats, sealed bottles as float aids), and learners research and perform the indigenous Zambian traditional games of their own communities.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -50,7 +52,8 @@ countries: Ethiopia
 | Making my own movement chain; pair rope jumping (teacher guide — evidence) | Ethiopia, Grade 4 teacher §2.2 Task 2.2 (teacher guide — evidence), printed pp. 18–20 |
 | Long rope with clapping; skipping that travels (teacher guide — evidence) | Ethiopia, Grade 4 teacher Tasks 2.3–2.4 (teacher guide — evidence), printed pp. 20–22 |
 | One chain, whole group: cultural dance movement (teacher guide — evidence) | Ethiopia, Grade 4 teacher §2.3 (teacher guide — evidence), printed pp. 23–25 |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
+| Zambia — Topic 1.7.1 Aerobics — step and rhythmic patterns to music: tempo, beat and metre, locomotor, non-locomotor and manipulative rhythmic movements (teacher module — evidence) (original target `gymnastics/moving-to-a-beat`) | Zambia, *Physical Education and Sport, Form 1 Term 2 Teaching Module*, Topic 1.7.1, printed p. 22 |
+**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 

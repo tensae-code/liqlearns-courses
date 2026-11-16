@@ -1,6 +1,6 @@
 # Sources — Muscle Strength and Endurance
 
-countries: Ethiopia
+countries: Ethiopia, Zambia
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -24,6 +24,8 @@ countries: Ethiopia
 **Book — Grade 10 student:** *Health and Physical Education Student's Textbook Grade 10* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, 148 printed pp. No ISBN was found in the book's text layer. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g10-student-placements.md. COMPLETE.
 **Book — Grade 10 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 10* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2022, printed pp. I–IX + 1–93. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g10-teacher-placements.md. Substantively complete — see honesty paragraph.
 
+**Book — Zambia Form 1 teacher module (teacher module — evidence):** *Physical Education and Sport — Teaching Module, Form 1, Term 2 (Expressive Arts Syllabus, Ministry of Education)* (teacher module, English) — Title as printed: Physical Education and Sport — Teaching Module, Form 1, Term 2 (Expressive Arts Syllabus, Ministry of Education) — Grade: Form 1 (= Grade 8) (student/teacher: TEACHER) — Publisher: Curriculum Development Centre, Zambia; published by Zambia Educational Publishing House (ZEPH); year 2025; ISBN 978-9982-54-066-7 — PDF pages: 42 printed pp. iii–40 plus front matter (cover/title page verified against the record title; read in full via the official edu.gov.zm PDF — the file itself returns an empty reply to direct download from this host, so it could not be staged; see the group log). Verdict: COMPLETE — Bibliography (printed p. 36), the Sample Lesson Plan (p. 37) and the lesson-plan template (p. 40) are apparatus/template matter, named here and not placed; each topic's own assessment criteria are the module's assessment apparatus, excluded per the brief. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zambia-pe-placements.md. Zambia's own way: a competence-based teacher module written to bridge the absence of approved textbooks — every sub-topic runs hook, terminology, learning activities with locally improvised materials (sacks filled with dried grass as mats, sealed bottles as float aids), and learners research and perform the indigenous Zambian traditional games of their own communities.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What muscle endurance is | Ethiopia, Grade 1 student §4.2 Muscle strength/endurance, printed pp. 46–48 |
@@ -46,7 +48,9 @@ countries: Ethiopia
 | Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 8 (teacher guide — evidence) | Ethiopia, Grade 7 teacher Chapter 3 summary + review answers (teacher guide — evidence), printed pp. 44–45 |
 | Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 6 (teacher guide — evidence) | Ethiopia, Grade 5 teacher Chapter 3 summary + assessment answers — the strength-moves written answer (teacher guide — evidence), printed pp. 33–34 |
 | Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 6 (teacher guide — evidence) | Ethiopia, Grade 6 teacher Chapter 3 summary + assessment answers — the muscle-strength definition (teacher guide — evidence), printed p. 43 |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
+| Zambia — Topic 1.5.2 Isotonic Activities — muscle-building activities where the muscle shortens and lengthens under load (teacher module — evidence) (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Zambia, *Physical Education and Sport, Form 1 Term 2 Teaching Module*, Topic 1.5.2, printed p. 8 |
+| Zambia — Topic 1.5.3 Isometric Activities — static holds where the muscle works without changing length, and combining isotonic + isometric work in one routine (teacher module — evidence) (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Zambia, *Physical Education and Sport, Form 1 Term 2 Teaching Module*, Topic 1.5.3, printed p. 10 |
+**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its rows above), named in the countries line but outside the acceptance count, so the count stays 1.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
