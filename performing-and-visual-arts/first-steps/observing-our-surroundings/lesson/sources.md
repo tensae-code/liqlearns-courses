@@ -1,6 +1,6 @@
 # Sources — Observing Our Surroundings
 
-countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka
+countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Bel
 
 **Book 10:** *Выяўленчае мастацтва. 1 клас (Fine Arts, Grade 1)* (student book, Belarusian) — Belarus, «Адукацыя і выхаванне» (Adukacyja i Vykhavanne), Minsk; year 2011; ISBN 978-985-471-426-4; authors М. А. Шкуратава (M. A. Shkuratava), Ю. А. Новікава (Yu. A. Novikava); approved by the Ministry of Education of the Republic of Belarus. Title as printed: Выяўленчае мастацтва — Вучэбны дапаможнік для 1 класа ўстаноў агульнай сярэдняй адукацыі з беларускай і рускай мовамі навучання — Для работы ў класе (Fine Arts — textbook for Grade 1, for work in class). Grade 1 (student book: STUDENT). PDF pages: 96 (cover verified: printed title, authors, publisher and year match the record; byte size 8,399,826). Verdict: COMPLETE — read in full: whole text layer plus rendered spot-checks of the picture sequences (drawing a horse from ovals, printed p. 22; modelling animals from a clay log, printed p. 54; paper-strip curling and gluing, printed p. 72; vytsinanka cut borders, printed p. 87). Read from the records' archive.org source_urls (the GitHub tree route failed — see the placements group log). Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
+**Book 13:** *Educação Manual e Plástica — Manual da 4.ª Classe* (student book, Portuguese) — Angola, Editora Popular (Ministério da Educação); year 2021; ISBN 978-989-762-263-2. Grade 4 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title). Verdict: COMPLETE. Angola's own way: the book teaches children to judge their own work before others do — appreciation and self-improvement (auto-superação), with Angolan basketball player Miguel Lutonda as the example and a painting of Queen Njinga Mbande among the works appreciated. Placements at liqlearns-courses-work/expansion-art-2026-11-16/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Observing our surroundings (Sub lesson 1) | Grade 1 Student Textbook, Ch.1 chapter aims, printed p. 1; Ch.1 summary + review questions (Review — Observing Our Surroundings), printed pp. 14–15 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Bel
 | Suriname — Cultural Heritage Les 1 "Inleiding cultureel erfgoed": the observation technique — observing an object properly — choose it, take it to your place, be distracted by no one, use your senses (look, smell, feel, listen, taste only when safe), ask why it looks as it does and why it was made so, note its size, colour, material, the link between form and function, and its decoration, and write your discoveries down (teacher guide — evidence) | Book 9, printed p. 137 |
 
 | Belarus — Part 1: The beauty of the surrounding environment — the colours of the native land in a picture gallery of the home countryside through the seasons, learning to notice the state of nature (student book; original target `first-steps/observing-our-surroundings`) | Book 10, printed pp. 6–7 |
+| Angola — Tema 1: visual perception — looking (olhar) versus knowing how to look (saber olhar); form is a thing's outer aspect; real forms have three dimensions, but drawn on paper, board, cement or sand they become two-dimensional because the surface has only length and width (student book; original target `first-steps/observing-our-surroundings`) | Book 13, printed pp. 6–9 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The definition of surroundings and the sound/movement distinction are the Grade 1 book's own Chapter 1 summary words (printed pp. 14–15), taught as the book states them. The teacher-guide row is evidence for the same watching skill and is labelled as such; the lesson's pupil-taught content rests on the student book.
 

@@ -1,6 +1,6 @@
 # Sources — Making Traditional Instruments
 
-countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan
+countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan
 
 **Book 7:** *Performing Arts — Music Is Fun, Teachers Guide Year 1* (teacher guide, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 1, 28 PDF pp. TEACHER — teacher guide. The record says student book; the cover proves TEACHER GUIDE — carried exactly as filed. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: music-first performing arts organised by themes (family, birthday, Fiji Day, weather, environment, flowers); Fiji's own instruments (lali slit drum, derua bamboo stamping tube) taught inside the world percussion family, and the national anthem taught in English, iTaukei and Fiji Hindi. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 9:** *Educação Manual e Plástica — 3.ª Classe, Manual do Aluno* (student book, Portuguese) — Angola, Progresso Editora (Ministério da Educação); year 2018; no ISBN printed (registered at Biblioteca Nacional de Angola no. 4290/07). Grade 3 (student/teacher: STUDENT). PDF pages: 57 (cover/title page verified against the record title). Verdict: COMPLETE (the colour-theory spread the printing chapter points to, printed pp. 18–19, is a divider/blank spread in this PDF; the complementary-pair teaching is placed from §2.2-II itself). Angola's own way: Angolan and African art carries the appreciation content — Cokwe heritage pieces (O Pensador, Mwana Pwo), Benguela dolls, Etona's wood sculpture and Neves e Sousa's painting — and the coil technique is taught by building a sounding clay wind instrument. Placements at liqlearns-courses-work/expansion-art-2026-11-16/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — materials of the traditional instruments | Grade 7 Student Textbook, printed pp. 118–120 (§4.3) |
@@ -28,8 +30,9 @@ countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan
 | Nicaragua — Making simple musical instruments — building maracas, whistles (pitos), tambourines and bottle instruments, combining and practising their sounds together (teacher guide — evidence) | Book 5, printed p. 97 |
 | Nicaragua — Simple percussion instruments from local materials — building chischiles, maracas and the drum from materials of the surroundings (teacher guide — evidence) | Book 6, printed p. 56 |
 | Fiji — Unit 1, Activity 2 — making sound-makers from available materials (tapping, shaking, clapping), a box-and-rubber-band string instrument, a straw recorder and a bottle flute, and changing pitch by band tension, straw length and water amount (teacher guide — evidence; original target `music/making-simple-instruments-and-changing-pitch`) | Book 7, printed p. 11 |
+| Angola — Tema 3.3 Técnica das argolas: the coil technique used to build clay wind instruments such as ocarinas and flutes — pierce the air holes with a stick so blown air circulates and gives different sounds, and cut the mouth opening with a flat ice-lolly stick before firing (student book; original target `music/making-a-clay-ocarina`) | Book 9, printed pp. 44–45 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Jordan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Honduras, Jordan, Angola). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Making steps are taught at the level the placements carry them — materials, building order and tuning by ear; no measurements or tool procedures beyond the placements are invented.
 

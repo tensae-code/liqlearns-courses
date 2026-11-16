@@ -1,6 +1,6 @@
 # Sources — Family Songs
 
-countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya
+countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya
 
 **Book 9:** *Музыка. 4 клас (Music, Grade 4)* (student book, Belarusian) — Belarus, «Адукацыя і выхаванне» (Adukacyja i Vykhavanne), Minsk; year 2008; ISBN 978-985-471-263-5; authors А. Р. Гуляева (A. R. Huliaeva), С. А. Прастакова (S. A. Prastakova), С. М. Кабачэўская (S. M. Kabacheuskaya); approved by the Ministry of Education of the Republic of Belarus. Title as printed: МУЗЫКА — Вучэбны дапаможнік для 4 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання (Music — textbook for Grade 4). Grade 4 (student book: STUDENT). PDF pages: 144 (title page verified against the record; byte size 5,719,871). Verdict: COMPLETE — read in full from the downloaded file's text layer, contents pages included; the half-year and quarter "generalisation" pages are revision apparatus, named here and not placed. Songs are placed by title, composer and teaching purpose only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
+**Book 13:** *Educação Musical — Manual da 1.ª e 2.ª Classes* (student book, Portuguese) — Angola, Editora Moderna (Ministério da Educação); year 2021; ISBN 978-989-762-291-5. Grades 1 and 2 (student/teacher: STUDENT) — one combined file covering the grade-01 and grade-02 records, MD5-verified identical across its two grade records and placed once, both editions named. PDF pages: 49 (cover/title page verified against the record title). Verdict: COMPLETE (Grade 1 part printed pp. 6–23; Grade 2 part printed pp. 27–46). Angola's own way: music starts from the voice and the body, names Angola's own instruments in their own languages (ngoma, dikanza, kisanji, hungu), and teaches the history of Angolan children's music itself. Placements at liqlearns-courses-work/expansion-art-2026-11-16/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Mother song "እናቴ" (My Mother) | Grade 1 student textbook, §2.2, printed p. 19 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya
 
 | Belarus — Songs of mother and the lullaby: the song "Mama" (words Entin, music Bourgeois and Popa), motherhood in painting (Kuzmich's "Madonna") and poem, and the Belarusian folk lullaby "Liuli-liuli, tsely dom spits" — with what mood and feeling lullabies are sung, and why (student book; original target `music/family-songs`) | Book 8, printed pp. 28–31 |
 | Belarus — Part 3, "The miracle of the lullaby": lullabies of different peoples side by side — a Belarusian folk lullaby, Gershwin's lullaby from the opera "Porgy and Bess", and Pauls's song of the boy and the cricket (student book; original target `music/family-songs`) | Book 9, printed pp. 95–99 |
+| Angola — G2 Tema 1.3 Canções lúdicas, jogos e brincadeiras: play songs and games, closing with "Saudades da minha mãe", a song of missing one's mother and greeting her with a hug, a kiss and a flower (student book; original target `music/family-songs`) | Book 13, printed pp. 32–33 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No lyrics of any family song are transcribed; the songs are named and their messages summarised, as the placements give them. The same holds for Sub lesson 4's "ልጅነቴ" (My Childhood), added by Group G: named, sourced (ህይወት ማሞ, traditional melody) and summarised — never transcribed. The written-notes step is named and explained in words only — this lesson does not teach reading the notes themselves; that belongs to the notation lessons of Group E.
 

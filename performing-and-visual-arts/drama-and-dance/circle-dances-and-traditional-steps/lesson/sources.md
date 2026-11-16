@@ -1,6 +1,6 @@
 # Sources — Circle Dances and Traditional Steps
 
-countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuela
+countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuela, Angola
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuel
 
 **Book 7:** *Recorriendo el Arte 2 — RECORRIENDO EL ARTE — Educación Artística — 2do AÑO (Colección Bicentenario)* (student book, Spanish) — Venezuela, Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela; third edition, April 2014; ISBN 978-980-218-331-9 (Depósito Legal lf51620123701319, as printed). Series coordination Ángela Beatriz Calzadilla; same author team as Book 1. Grade 8 (2do año, second year of secondary; student/teacher: STUDENT). PDF pages: 132 (printed pp. 12–255; the fetched PDF is 13,377,588 bytes; cover verified — blue cover with pre-Columbian artefacts). Verdict: COMPLETE — read in full as extracted text (text PDF), cover verified. Named, not placed: the closing teacher-facing essay “Conceptos básicos para la conducción estratégica del aprendizaje artístico” (printed pp. 247–250) — pedagogical guidance for teachers; its core teaching about sensitive knowledge is placed once, as filed; the bibliography (printed pp. 251–255) — inventory only; end-of-chapter suggested activities (their skills folded into the lines they practise). Venezuela's own way: Book 2 walks the whole history of art, starting at home — Venezuela's original peoples first — and returning to Venezuela for the colonial, republican, 20th-century and contemporary chapters. Placements at liqlearns-courses-work/expansion-art-2026-11-16/venezuela-placements.md.
 
+**Book 8:** *Educação Musical — Manual da 1.ª e 2.ª Classes* (student book, Portuguese) — Angola, Editora Moderna (Ministério da Educação); year 2021; ISBN 978-989-762-291-5. Grades 1 and 2 (student/teacher: STUDENT) — one combined file covering the grade-01 and grade-02 records, MD5-verified identical across its two grade records and placed once, both editions named. PDF pages: 49 (cover/title page verified against the record title). Verdict: COMPLETE (Grade 1 part printed pp. 6–23; Grade 2 part printed pp. 27–46). Angola's own way: music starts from the voice and the body, names Angola's own instruments in their own languages (ngoma, dikanza, kisanji, hungu), and teaches the history of Angolan children's music itself. Placements at liqlearns-courses-work/expansion-art-2026-11-16/angola-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Circle dances to a simple beat (Song 11, እንሽከረከራለን — Enshikerekeralen) | Grade 1 Student Textbook, §2.4, printed p. 32 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuel
 | Iceland — Ring dances: teach the class to dance a ring dance (hringdans) while singing it (Kokkurinn við kabyssuna — the cook at his stove) (teacher guide — evidence) | Book 4, printed p. 38 |
 | Turkmenistan — "Хоровод" (The round dance) — what a dance is: rhythmic movements to music, and the round dance as its form; the closing review "Назови танцы" (Name the dances) is apparatus and not placed (student book; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 5, printed p. 39 |
 | Venezuela — El baile de las turas: the Arawak turas dance of Lara and Falcón, for sowing and harvest — dancers circling the Palacio behind the Mayordomo, blowing turas flutes and horns and shaking maracas, leaping and miming a hunt, the circle protecting crops and hunt from evil spirits (student book) | Book 7, printed p. 34 |
+| Angola — G2 Tema 2.2 Danças de roda e de fila: circle dances and line dances demonstrated — children in a circle answering body sounds in turn, and the line dance shown by the National Dance School students (student book; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 8, printed p. 35 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Venezuela). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Venezuela, Angola). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
 
 Nothing flagged. The circle song is named and its movement taught; its words are not transcribed beyond the title the placement gives.
 

@@ -1,6 +1,6 @@
 # Sources — Qenet: Ethiopia's Scales
 
-countries: Ethiopia, Trinidad and Tobago, Sri Lanka
+countries: Ethiopia, Trinidad and Tobago, Sri Lanka, Angola
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Trinidad and Tobago, Sri Lanka
 **Book 4:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 
 **Book 5:** *Secondary School Teacher's Guide — Music* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Planning & Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 64 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, VAPA mark sheets, rubrics and assessment adaptations, and the Glossary of Key Terms in Music (printed pp. 49–57), are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 7:** *Educação Musical — Manual da 3.ª e 4.ª Classes* (student book, Portuguese) — Angola, Editora Popular (Ministério da Educação); year 2021; ISBN 978-989-762-295-3. Grades 3 and 4 (student/teacher: STUDENT) — one combined file covering the grade-03 and grade-04 records, MD5-verified identical across its two grade records and placed once, both editions named. PDF pages: 56 (cover/title page verified against the record title). Verdict: COMPLETE (Grade 3 part printed pp. 6–33; Grade 4 part printed pp. 37–53). Angola's own way: Angola's traditional instruments are classified in the Hornbostel way (aerophones, membranophones, idiophones) and each is named in its own language with its ceremonial use — mpungi trumpets for enthroning chiefs, bavugu rattles tied on dancers' legs, the puíta friction drum. Placements at liqlearns-courses-work/expansion-art-2026-11-16/angola-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,8 +40,9 @@ countries: Ethiopia, Trinidad and Tobago, Sri Lanka
 | Grade 7 Ch. 2 self-check + closing exercise — qenet items (G7S-62) (question stock, Sub lesson 16) | Grade 7 Student Textbook, Ch. 2 self-check table + closing exercise, printed pp. 71–74 |
 
 | Trinidad and Tobago — Contemporary educators' methods (Forms 1–3) — the Kodály method's solfège hand signs, stick notation and rhythm solmisation named among the methods the curriculum is built on (placed here as the course's hand-sign/solfège lesson; the method itself is Hungarian, evidence noted) (teacher guide — evidence) | Book 5, printed p. 6 |
+| Angola — G4 Tema 1.1 A leitura da pauta musical: solfege, the reading of written notes, in its three kinds — solfejo rezado (names only, no pitch or duration), solfejo rítmico (names and duration, no pitch) and solfejo melódico (the complete reading: names, duration and pitch) (student book; original target `music/three-kinds-of-solfege`) | Book 7, printed pp. 38–39 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Angola).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Anchihoye practice songs named in the Grade 8 guide's answer key are placed by title and purpose only — no song is transcribed. The Grade 8 student book's four-qenet-from-intervals work is taught at the level its placement gives (the qenet rebuilt from interval theory) without inventing interval tables the placement does not print. Teacher-guide parts are labelled evidence; the qenet constructions themselves stand on the Grade 7 student book.
 

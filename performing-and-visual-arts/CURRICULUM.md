@@ -2227,7 +2227,47 @@ lessons are the books'.
   pilón, ordeño) and the heritage objects (gurrufío,
   trompo, papagayo, budare, tinajero).
 
-**The whole course stands at 618 lessons, 7,818 questions and
+**Art expansion — Angola (2026-11-16):** 243 placements
+  stocked from 8 books, all student books (Portuguese,
+  Ministério da Educação): *Educação Manual e Plástica*
+  for Grades 1, 2, 3, 4, 5 and 6, and the two combined
+  *Educação Musical* books (Grades 1–2 and Grades 3–4 —
+  each combined file MD5-verified identical across its
+  two grade records, placed once, both editions named).
+  All eight books are COMPLETE and count in full — there
+  are no teacher guides or programme documents in this
+  country's set, so nothing is evidence-only. 168
+  placements into existing lessons, 50 into already-built
+  canonical lessons, and 25 into 12 NEW lessons (Visual
+  Art: Finger and Hand Painting ×4; Angolan Painters ×2;
+  Paper Cutting and Kirigami; Angolan Crafts and
+  Sculpture ×2; Macramé and Knotting. Music: Angolan
+  Instruments ×9; The Dikanza Scraper; Sangos and
+  Kakoxi; The Mpungi Trumpet; Angolan Children's Songs;
+  History of Angolan Children's Music. Drama and Dance:
+  Eenghama Dance of Cunene), 144 questions added, media
+  as described slots only. Registry resolutions carried:
+  the reader strings are resolved in slug-registry
+  Part 2 throughout — among them drawing-with-dots →
+  Pointillism; paper-folding → Origami; ngoma-drum,
+  kisanji-lamellophone, hungu-gourd-bow and
+  angolan-idiophones → Angolan Instruments;
+  weaving-on-a-loom → Weaving; basketry-techniques →
+  Basketry; cokwe-art-and-angolan-sculpture and
+  angolan-basketry → Angolan Crafts and Sculpture;
+  caring-for-the-voice and breathing-for-singing →
+  Singing Technique and Voice Care. Angola's own way is
+  kept as named parts: the pictured step-by-step making
+  sequences of the EMP books; the ngoma, dikanza,
+  kisanji, hungu, mpungi, sangos and kakoxi named in
+  their own languages; the Cokwe heritage pieces (O
+  Pensador, Mwana Pwo); Angolan basketry (cestaria) and
+  traditional-loom weaving as living heritage; the
+  painters Tomás Ana Etona, Neves e Sousa and Álvaro
+  Macieira; and the history of Angolan children's music
+  itself.
+
+**The whole course stands at 630 lessons, 7,962 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

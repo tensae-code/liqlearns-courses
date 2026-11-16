@@ -1,13 +1,15 @@
 # Sources — Appreciating Drawing
 
 
-countries: Ethiopia, Pakistan, Saudi Arabia
+countries: Ethiopia, Pakistan, Saudi Arabia, Angola
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
 **Book 2:** *آرٹ اینڈ ڈرائنگ / Art and Drawing — Class 8* (student book, Urdu/English) — Pakistan, by محمد صادق وقار (Muhammad Sadiq Waqar), محمد شریف (Muhammad Sharif, late), شمیم اختر (Shameem Akhtar); editors محمد علی جان, مسز امت الحفیظ آصف; Punjab Textbook Board, Lahore; 2nd edition, March 2015 (price Rs 55.00); no ISBN printed, Grade 8, 104 PDF pp. STUDENT. Verdict: COMPLETE (byte size 16,611,859 matches the record exactly; cover, imprint and bilingual contents pages read — the book is a scan, read from rendered pages). Downloaded from its recorded Google Drive source_url (exact byte size), verified, read, and staged under the push-don't-delete rule. Standing exclusions named: فرہنگ — Meanings and Explanations of Words (glossary), printed p. 98 — inventory-only, not placed. Pakistan's own way: a bilingual Urdu-English drawing course built on the draughtsman's bench — model drawing from real objects (candle, book, glass, bottles), then representational and expressional painting, plane geometry, design and handicraft. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/pakistan-placements.md (links-group filings).
 
 **Book 3:** *Art and Model Drawing — Class 9* (student book, English) — Pakistan, by Dr. Sadia Murtaza (Lahore College for Women University); editor Ms. Sidra Liaqat; Experimental Edition; Punjab Curriculum and Textbook Board, Lahore; no ISBN printed on the pages read, Class 9, 224 PDF pp. STUDENT. Verdict: COMPLETE (byte size 79,217,551 matches the record exactly; title, imprint and full contents pages read). Downloaded from its recorded Google Drive source_url (exact byte size), verified, read, and staged under the push-don't-delete rule. Standing exclusions named: Assessment/Examination instructions and questions for the theoretical examination, printed pp. 199–211, the Glossary, printed pp. 212–220, and the Bibliography, printed pp. 197–198 — inventory-only, not placed. Pakistan's own way: the senior course is half studio, half Pakistan itself — its own architecture (Mohenjo-daro to Minar-e-Pakistan), its own master painters and calligraphers by name, and its own textiles (ajrak, ralli) as a full chapter. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/pakistan-placements.md (links-group filings).
+
+**Book 10:** *Educação Manual e Plástica — Manual da 2.ª Classe* (student book, Portuguese) — Angola, Editora Popular (Ministério da Educação); year 2021; ISBN 978-989-762-260-1. Grade 2 (student/teacher: STUDENT). PDF pages: 49 (cover/title page verified against the record title). Verdict: COMPLETE. Angola's own way: drawing is built from the point and the line as games (human points, shadow-hunter), colour theory names magenta/cyan primaries, and Angolan painters (Tomás Ana Etona, Neves e Sousa, Lino Damião) are the appreciation examples beside Mondrian. Placements at liqlearns-courses-work/expansion-art-2026-11-16/angola-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -56,8 +58,9 @@ countries: Ethiopia, Pakistan, Saudi Arabia
 | Lesson part | Where it comes from |
 |---|---|
 | Saudi Arabia — Still-life painters, world and Saudi — many artists in different eras became famous for drawing still nature in varied styles — Paul Cézanne, Pablo Picasso and William Perry — and locally the Saudi artists Abdul Halim Radwi, Mohammed Al-Salim and Abdul Jabbar Al-Yahya and others stood out; the paintings are examined (shading with degrees of pencil by… (student book; original target `visual-art/appreciating-drawing`) | Book 9, printed pp. 106–107 |
+| Angola — Tema 1 Aprende a desenhar: what drawing is — representing forms on a surface with strokes, lines, points or shadows — and the tools (charcoal/wax pencil, chalk, charcoal, brush, pen, finger) and surfaces (paper, card, wood, sand, clay) (student book; original target `visual-art/appreciating-drawing`) | Book 10, printed p. 5 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Pakistan, Saudi Arabia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Pakistan, Saudi Arabia, Angola).**
 
 No honesty flags attach to this placement; it is followed exactly as read.
 

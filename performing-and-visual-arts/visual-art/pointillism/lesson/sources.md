@@ -1,14 +1,23 @@
 # Sources — Pointillism
 
-countries: Mozambique
+countries: Mozambique, Angola
 
 **Book 1:** *Educação Visual — Módulo 1 (PESD I — Programa do Ensino Secundário à Distância, 1º Ciclo)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Moçambique, 2023; elaborated by Dionísio Manjate and Félix Mindú; no ISBN printed, Grades 7–9 (the PESD I cycle is taught as one combined cycle, not split by grade), 152 PDF pp. STUDENT. Verdict: COMPLETE (cover/title verified — "EDUCAÇÃO VISUAL, MÓDULO 1, PESD I"; 20,947,967 bytes, exact match to the record; fetched from GitHub Releases, mid-size-books-8). Mozambique's own way: a self-study distance module — every lesson carries objectives, the teaching body, exercises, a summary and an answer key for the lone learner. Named, not placed: the per-lesson glossaries and the closing Bibliography (printed p. 150) — inventory only; the Unit 5 introduction (printed p. 127) announces a third textiles lesson on basketry (cestaria) that does not appear in this module — a gap in the book, noted as filed. Excluded per the placements: the end-of-module preparation test (Teste de Preparação de Fim do Módulo, printed pp. 138–144) and its answer key (printed pp. 145–149) — the book's own assessment; the lessons' exercises and answer keys are self-study apparatus (all teaching content is placed from the lesson bodies). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mozambique-placements.md.
+
+**Book 2:** *Educação Manual e Plástica — 1.ª Classe* (student book, Portuguese) — Angola, Editora Popular (Ministério da Educação); year 2021; ISBN 978-989-762-287-8. Grade 1 (student/teacher: STUDENT). PDF pages: 45 (cover/title page verified against the record title). Verdict: COMPLETE. Angola's own way: every lesson is a pictured step-by-step making sequence (materials first, then numbered picture steps) — drawing, painting, clay modelling and paper construction taught entirely by doing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/angola-placements.md.
+
+**Book 3:** *Educação Manual e Plástica — Manual da 2.ª Classe* (student book, Portuguese) — Angola, Editora Popular (Ministério da Educação); year 2021; ISBN 978-989-762-260-1. Grade 2 (student/teacher: STUDENT). PDF pages: 49 (cover/title page verified against the record title). Verdict: COMPLETE. Angola's own way: drawing is built from the point and the line as games (human points, shadow-hunter), colour theory names magenta/cyan primaries, and Angolan painters (Tomás Ana Etona, Neves e Sousa, Lino Damião) are the appreciation examples beside Mondrian. Placements at liqlearns-courses-work/expansion-art-2026-11-16/angola-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Mozambique — Lesson 6, pointillism (pontilhismo) — drawing freehand in light graphite on paper, then colouring the drawing with dots or small marks all around it, so that colour and tone (light/shadow) come from the fusion of the dots — a technique that asks for patience and observation (materials and procedure as printed) (student book; original target `visual-art/pointillism`) | Book 1, printed p. 48 |
+| Angola — Tema 1.3 Pontos: drawing with fine and thick dots, close and spread, filling a page with dots (student book; original target `visual-art/drawing-with-dots`) | Book 2, printed p. 7 |
+| Angola — Tema 1.3 Pontos (2): letters and whole drawings made only of dots (student book; original target `visual-art/drawing-with-dots`) | Book 2, printed p. 8 |
+| Angola — Tema 1.1 Desenho com o ponto: the point technique — dots made with finger in sand, charcoal or wax pencil, brush and paint, glued sand, or glued paper bits (student book; original target `visual-art/drawing-with-dots`) | Book 3, printed pp. 6–7 |
+| Angola — Tema 1.1: the "human points" game — groups of children stand 20–30 cm apart as living points forming a geometric figure, then reproduce the figures they saw on paper with punched paper dots, fruit seeds or beads glued down (student book; original target `visual-art/drawing-with-dots`) | Book 3, printed pp. 7–8 |
+| Angola — Tema 1.1: appreciating point-made pictures — artists' drawings built only of points, in charcoal pencil black-and-white and in colour with a brush (student book; original target `visual-art/drawing-with-dots`) | Book 3, printed pp. 12–13 |
 
-**Acceptance count: taught in 1 country (Mozambique).**
+**Acceptance count: taught in 2 countries (Mozambique, Angola).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/pointillism`); the Mozambique placements were filed under the original string(s) `visual-art/pointillism`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Mozambique's own way: pointillism is taught as a step-by-step procedure with household materials, inside its drawing lesson, for the lone distance learner.
 

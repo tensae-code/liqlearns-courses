@@ -1,6 +1,6 @@
 # Sources — Photographs
 
-countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba
+countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba
 **Book 5:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 6:** *فرهنگ و هنر — پایه نهم (Culture and Art, Grade 9)* (student book, Persian) — Iran, سازمان پژوهش و برنامه‌ریزی آموزشی، وزارت آموزش و پرورش (Educational Research and Planning Organization, Ministry of Education, Iran); year 1405–1406 (2026–27); ISBN 978-964-05-2436-7, Grade 9, 192 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 35,471,440 and page count match the record exactly). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
+
+**Book 9:** *Educação Manual e Plástica — Manual da 4.ª Classe* (student book, Portuguese) — Angola, Editora Popular (Ministério da Educação); year 2021; ISBN 978-989-762-263-2. Grade 4 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title). Verdict: COMPLETE. Angola's own way: the book teaches children to judge their own work before others do — appreciation and self-improvement (auto-superação), with Angolan basketball player Miguel Lutonda as the example and a painting of Queen Njinga Mbande among the works appreciated. Placements at liqlearns-courses-work/expansion-art-2026-11-16/angola-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -34,8 +36,9 @@ countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba
 **Book 7:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
 
 | Brazil — Folha 5 — a photography walk around the school: each pupil photographs one place or scene, captions it and exhibits it (student book; original target `visual-art/photographs`) | Book 7, printed p. 90 |
+| Angola — Tema 1.2 Composição com dois objectos num fundo simples: the simple background, explained through photography — a photo of a person against a wall: the background is simply what is behind the main figure, with no other images behind it (student book; original target `visual-art/photographs`) | Book 9, printed p. 21 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iran, Brazil, Cuba). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Iran, Brazil, Cuba, Angola). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: every photograph in this lesson is described only as its placement describes it — the Sof Omar cave as a cave entrance in rock, the Tis Abay Falls as a wide waterfall, Bete Giyorgis as the rock-hewn church of St George at Lalibela, the Axum stele standing among ruins, Fasilides' castle at Gondar, Abebe Bikila running on a stadium track in a race, the walia standing on rocks against the sky, the Abbay Dam as a dam wall with water pouring through, and the market, harvest, landscape and aeroplane photographs as the Grade 2 figures name them. No photographic detail beyond the placements has been added. The Grade 3 page (Book 2, p. 68) also carries a chapter summary and closing exercise and a Review placement for Appreciating the Arts; only its two photographs and the "which pleased you" activity are stocked here, as the structure map directs — the review fold belongs to the First Steps appreciating lesson.
 

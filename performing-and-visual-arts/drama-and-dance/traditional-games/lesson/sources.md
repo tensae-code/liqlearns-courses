@@ -1,6 +1,6 @@
 # Sources — Traditional Games
 
-countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria
+countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria, Angola
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria
 **Book 5:** *Aýdym-saz — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Music and Singing, textbook for Grade 1 of general secondary schools), Üçünji neşir (3rd edition)* (student book, Turkmen) — Turkmenistan, by R. Amangeldiýew, K. Garowow; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2019, no ISBN printed (UOK/KBK codes only), Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE (title page verified against the record title; fetched with grab.py tree, 4,729,163 bytes and 80 pages, both matching the record). Excluded per the placements: the end-of-section "Soraglar" question sets and "Gönükme" exercises are the book's own apparatus, named here, not placed; the State Anthem is printed in the front matter and is placed once as a song of the country, by title only. All songs are placed by title, subject and composer/poet only — never lyrics. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
 **Book 6:** *Музыка. 4 клас (Music, Grade 4)* (student book, Belarusian) — Belarus, «Адукацыя і выхаванне» (Adukacyja i Vykhavanne), Minsk; year 2008; ISBN 978-985-471-263-5; authors А. Р. Гуляева (A. R. Huliaeva), С. А. Прастакова (S. A. Prastakova), С. М. Кабачэўская (S. M. Kabacheuskaya); approved by the Ministry of Education of the Republic of Belarus. Title as printed: МУЗЫКА — Вучэбны дапаможнік для 4 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання (Music — textbook for Grade 4). Grade 4 (student book: STUDENT). PDF pages: 144 (title page verified against the record; byte size 5,719,871). Verdict: COMPLETE — read in full from the downloaded file's text layer, contents pages included; the half-year and quarter "generalisation" pages are revision apparatus, named here and not placed. Songs are placed by title, composer and teaching purpose only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
+
+**Book 8:** *Educação Manual e Plástica — Manual da 2.ª Classe* (student book, Portuguese) — Angola, Editora Popular (Ministério da Educação); year 2021; ISBN 978-989-762-260-1. Grade 2 (student/teacher: STUDENT). PDF pages: 49 (cover/title page verified against the record title). Verdict: COMPLETE. Angola's own way: drawing is built from the point and the line as games (human points, shadow-hunter), colour theory names magenta/cyan primaries, and Angolan painters (Tomás Ana Etona, Neves e Sousa, Lino Damião) are the appreciation examples beside Mondrian. Placements at liqlearns-courses-work/expansion-art-2026-11-16/angola-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -29,8 +31,9 @@ countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria
 | Turkmenistan — "Aýterek-günterek" (words from folk art; music Kerimguly Garowow) — a sung game for two groups who call and answer each other, choosing a singing girl (summary only) (student book; original target `drama-and-dance/traditional-games`) | Book 5, printed p. 31 |
 
 | Belarus — Part 1, "The joyful world of play": the counting rhyme (Lichylka, words Klimkovich, music Voitsik) and the game folk song "Siuka-voronka" (student book; original target `drama-and-dance/traditional-games`) | Book 6, printed pp. 31–33 |
+| Angola — Tema 1.2: the shadow-hunter game — chase your numbered partner and step on their shadow; the caught child freezes as a statue while the hunter traces the shadow's outline in chalk, then roles swap (student book; original target `drama-and-dance/shadow-hunter-game`) | Book 8, printed pp. 15–16 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Angola).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Per STRUCTURE.md, the Practical Exercises chapter opener stocks into this lesson as its opening part; the opener's other strands (notes on drums, colour mixing, calligraphy, leaf printing) belong to their own lessons and are not stocked here, and its Review fold is carried by those same lessons. The games' songs (the Dimbushe Gela song, the Qilmosh counting song beyond the one refrain line the placement itself quotes, and ገመድ ዝለሉ Gemed Zilelu) are placed by name and shape only; verses are not transcribed.
 
