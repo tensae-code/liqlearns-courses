@@ -1577,7 +1577,40 @@ lessons are the books'.
   project that gathers, registers and exhibits the
   community's own cultural and musical heritage.
 
-**The whole course stands at 405 lessons, 5,402 questions and
+**Art expansion — Sudan (2026-11-16):** 101 placements
+  stocked from 5 distinct student books (6 records — the
+  Grade 11 record is a duplicate scan of the combined
+  Grades 10–11 volume, record-only, not stocked twice):
+  Art Education Grades 4, 5 (PARTIAL scan, 27 of ~60
+  pages, labelled PARTIAL as filed), 7, and Arts & Design
+  Grades 10 and 12, all National Center for Curricula and
+  Educational Research, Bakht Al-Ruda, Arabic. 77
+  placements into 34 existing lessons and 24 into 17 NEW
+  lessons (Sudanese Art Through the Ages; Sudanese
+  Heritage in Art; Ornament and Decorative Pattern;
+  Painting and Drawing with Fire; Hussein Jumaan Omar,
+  Sudanese Artist; Islamic Art; Industrial Design;
+  Textile Design and Surface Pattern; Visual Perception
+  and Gestalt; Colour Psychology and Symbolism; Modern
+  and Contemporary Art; Fauvism; Futurism; Expressionism;
+  Dada; Surrealism; Design Thinking and Design
+  Technology), 187 questions added, media as described
+  slots only. Honesty carried exactly as filed: all five
+  books are STUDENT books, so Sudan enters every stocked
+  lesson's acceptance count (the 17 new lessons stand at
+  acceptance count 1, Sudan); Grade 5 placements are
+  labelled PARTIAL; the Grade 10 book's "Design Tools &
+  Materials" inventory and "Guidance for the Student"
+  workshop-care instruction, and the Grade 12 book's
+  closing exercises and Study Plan syllabus tables, are
+  named in their book entries, not placed. Sudan's own
+  way is kept as named parts: the three fields (Drawing,
+  Design & Decoration, Forming & Composition), Meroe's
+  pyramids and the Jirtig tray, gourds ornamented by
+  fire, Nubian and Christian-era art, the Khartoum
+  School, and Hussein Jumaan Omar.
+
+**The whole course stands at 422 lessons, 5,589 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

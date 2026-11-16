@@ -227,6 +227,23 @@ The titles, in ladder order:
    kings' and collectors' private rooms into the open air,
    painted skate bowls at Medellín's Parque del Río and
    Ipanema (Colombia student books).
+ The Art expansion added:
+   ornament and decorative pattern — ornament built on
+   symmetry, geometric units interlaced into bands and
+   panels, and written ornament from a repeated Naskh
+   letter; painting and drawing with fire — Sudan's
+   gourd ornament burned in with the electric cautery;
+   Hussein Jumaan Omar, Sudanese artist — the pioneer of
+   modern plastic art in Sudan, Kush-inspired, winner of
+   Japan's Noma Prize 1999; Islamic art — its emergence,
+   applied arts and regional schools; industrial design;
+   textile design and surface pattern; visual perception
+   and gestalt — Ibn Al-Haytham, Newton's prism and how
+   we see colour; colour psychology and symbolism;
+   modern and contemporary art; Fauvism; Futurism;
+   Expressionism; Dada; Surrealism; and design thinking
+   and design technology — the designer in the age of
+   globalisation (Sudan student books).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -662,3 +679,13 @@ The titles, in ladder order:
    gathers, registers in written, visual and audio
    formats, and exhibits a community's own cultural and
    musical heritage (Colombia student books).
+ The Art expansion added:
+   Sudanese art through the ages — heritage objects (the
+   birsh mat, quffa basket, jebena pots and the Jirtig
+   set), ancient Nubian art, Christian-era art of Sudan,
+   and the Khartoum School of Al-Salahi and Shibrain; and
+   Sudanese heritage in art — the Jirtig wedding tray,
+   the heritage sites drawn region by region (Jebel
+   Marra, Suakin, Kerma's Deffufa, Meroe's pyramids), and
+   Sudan's heritage colours and ornament (Sudan student
+   books).

@@ -1,6 +1,6 @@
 # Sources — Abstract Art
 
-countries: Bhutan, Finland
+countries: Bhutan, Finland, Sudan
 
 **Book 1:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
@@ -9,6 +9,8 @@ countries: Bhutan, Finland
 **Book 3:** *AJATUSVIIVOJA — Herätä taideteos henkiin (Bring an Artwork to Life)* (student workshop material, Finnish) — Finland, University of Jyväskylä / JYUniorit, AJATUSVIIVOJA project, Mether-Borgström Foundation, 2022, no ISBN printed, Grades 4–6, 9 PDF pp. STUDENT — workshop pack. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md.
 
 **Book 4:** *AJATUSVIIVOJA — Päivän biisi (Song of the Day)* (student workshop material, Finnish) — Finland, University of Jyväskylä / JYUniorit, AJATUSVIIVOJA project, Mether-Borgström Foundation, 2022, no ISBN printed, Preschool / Eskarit, 7 PDF pp. STUDENT — workshop pack. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md.
+
+**Book 5:** *الفنون والتصميم (Arts & Design) — الصف الثالث الثانوي (Third Secondary Year), Secondary Stage (التعليم الثانوي)* (student book, Arabic) — Sudan, National Center for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht Al-Ruda — Republic of Sudan, Ministry of Education; prepared by a committee chaired by Prof. Mohamed Al-Amin Ali (University of Juba, College of Arts and Humanities) with Abdul Basit Abdullah Al-Khatim, Mohamed Mohamed Idris (University of Sudan, College of Arts) and Dr. Khidir Mohamed Othman (NCCR); revised edition 2007 (الطبعة المنقحة ٢٠٠٧م); ISBN 978-99942-53-7-4; legal deposit 788/2008, Grade 12, 161 PDF pp. STUDENT. Verdict: COMPLETE — read in full, page by page. Named in the header, not placed: Book 1's closing "Exercise" (printed p. 35) and Book 4's opening "Revision Exercises" (printed p. 102) are assessment; Book 5, "The Study Plan" (printed pp. 150–154), is syllabus tables — apparatus, not teaching content. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sudan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -21,8 +23,9 @@ countries: Bhutan, Finland
 | Finland — Artist introduction — Ernst Mether-Borgström's life and constructivist art and his signature black line, at Grades 4–6 depth (student workshop material; original target `visual-art/ernst-mether-borgstrom-and-finnish-abstract-art`) | Book 3, printed p. 3 |
 | Finland — Lesson 2: Collective painting — painting one abstract work together under group-made rules: each member chooses one colour and adds one line or shape per turn, following intuition with no pre-agreed picture, until no one can add more; the group then names the work (student workshop material) | Book 3, printed p. 6 |
 | Finland — Opening — meeting Ernst Mether-Borgström's art through pictures of his works (preschool-level introduction to the Finnish abstract artist) (student workshop material; original target `visual-art/ernst-mether-borgstrom-and-finnish-abstract-art`) | Book 4, printed p. 4 |
+| Sudan — Book 1, Artistic Culture, "The Abstract School": abstract art — creativity in which depiction does not define the subject's starting point, the subject itself abstract: Kandinsky (1910), Malevich (1913) and Mondrian (1914) before its flowering after 1945, Cézanne the permanent pioneer who abstracted shape, colour and thought; its two pulls, the mental and the instinctive, and how it differs from Surrealism — diagnosing psychological phenomena without returning to known shapes, where the Surrealists' dreams kept known symbols (student book) | Book 5, printed p. 28 |
 
-**Acceptance count: taught in 2 countries (Bhutan, Finland).**
+**Acceptance count: taught in 3 countries (Bhutan, Finland, Sudan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/abstract-art`); the Bhutan placements were filed as NEW LESSON NEEDED under the original string `visual-art/abstract-and-figurative-painting`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Bhutan's own way, carried in the placements: a one-lesson-one-page workbook that builds the hand first — lines, curves, tone, mixing — then spends half its pages making things, with Bhutanese life (tshechu, losar) and Bhutan's own traditional forms as content.
 

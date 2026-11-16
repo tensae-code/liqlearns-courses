@@ -1,7 +1,7 @@
 # Sources — Drawing What Our Culture Does
 
 
-countries: Ethiopia, Guatemala, Bhutan, Turkmenistan, Pakistan
+countries: Ethiopia, Guatemala, Bhutan, Turkmenistan, Pakistan, Sudan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia, Guatemala, Bhutan, Turkmenistan, Pakistan
 
 **Book 5:** *Art and Model Drawing — Class 9* (student book, English) — Pakistan, by Dr. Sadia Murtaza (Lahore College for Women University); editor Ms. Sidra Liaqat; Experimental Edition; Punjab Curriculum and Textbook Board, Lahore; no ISBN printed on the pages read, Class 9, 224 PDF pp. STUDENT. Verdict: COMPLETE (byte size 79,217,551 matches the record exactly; title, imprint and full contents pages read). Downloaded from its recorded Google Drive source_url (exact byte size), verified, read, and staged under the push-don't-delete rule. Standing exclusions named: Assessment/Examination instructions and questions for the theoretical examination, printed pp. 199–211, the Glossary, printed pp. 212–220, and the Bibliography, printed pp. 197–198 — inventory-only, not placed. Pakistan's own way: the senior course is half studio, half Pakistan itself — its own architecture (Mohenjo-daro to Minar-e-Pakistan), its own master painters and calligraphers by name, and its own textiles (ajrak, ralli) as a full chapter. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/pakistan-placements.md (links-group filings).
 
+**Book 6:** *التربية الفنية — الصف الخامس (Art Education — Grade Five), Primary Stage (المرحلة الابتدائية)* (student book, Arabic) — Sudan, National Center for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht Al-Ruda — Republic of Sudan, Ministry of Education; year 2021; no ISBN printed in the pages held, Grade 5, 27 PDF pp. STUDENT. Verdict: PARTIAL — the file holds only the book's first part: the introduction and the complete Drawing field (7 lessons, printed pp. 2–22). Missing from the file, though listed in the book's own contents: the Design & Decoration field (7 lessons, printed pp. 24–36), the Forming & Composition field (7 lessons, printed pp. 40–55), and the appendix of art panels for criticism and taste (printed p. 58). All Grade 5 placements below are labelled PARTIAL, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four pictured practices — threshing, dancing, genna, coffee roasting | Ethiopia, *Grade 1 Performing and Visual Arts Student Textbook*, §4.4, printed pp. 64–65 (Exercise 11, printed p. 64) |
@@ -21,8 +23,9 @@ countries: Ethiopia, Guatemala, Bhutan, Turkmenistan, Pakistan
 | Bhutan — Lesson 13, Memorable Moments — draw and paint a memorable day of your own life — a picnic, a trek, tshechu, losar — and talk about the artwork | Book 3, printed p. 13 |
 | Turkmenistan — 3.9 "Milli bahar baýramy" (The National Spring Holiday) — the people celebrate the spring holiday (Nowruz) with special dishes; draw a decorative picture of the holiday and give it to your loved ones as a gift (student book; original target `visual-art/festivals-and-celebrations-in-art`) | Book 4, printed pp. 58–59 |
 | Pakistan — Chapter 8: drawing and making what Pakistan's own culture makes — ajrak blocks, ralli quilts, embroidery (student book; original target `visual-art/drawing-what-our-culture-does`) | Book 5, printed pp. 176–196 |
+| Sudan — Drawing Lesson 3 "The Joy of Eid": drawing and colouring a festival the pupil lives — children and adults in their new bright Eid clothes at the prayer rows and at home — expressing the joy of Eid in water or wood colours (student book — PARTIAL, as filed (partial scan, 27 of ~60 pages)) | Book 6, printed p. 13 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bhutan, Turkmenistan, Pakistan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Turkmenistan, Pakistan, Sudan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 No honesty flags attach to this placement; it is followed exactly as read. Exercise 11's questions (when traditional dress is worn, and what it is for) are carried as part of the drawing work, as placed; the dress itself is taught in the Culture and Values unit's Traditional Dress lesson.
 

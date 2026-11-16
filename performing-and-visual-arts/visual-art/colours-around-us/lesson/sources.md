@@ -1,7 +1,7 @@
 # Sources — Colours Around Us
 
 
-countries: Ethiopia, Guatemala, Mozambique, Colombia
+countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, Guatemala, Mozambique, Colombia
 
 **Book 7:** *Educación Artística — Postprimaria Rural — Guías del estudiante, Grados 6 y 7 (Artistic Education, Rural Post-primary, student guides, Grades 6 and 7)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional (MEN), Bogotá; year 2010; ISBN libro 978-958-691-416-1; ISBN obra 978-958-691-411-6. Grades 6–7 (student book: STUDENT). PDF pages: 218 (title/imprint pages verified against the record; byte size 113,210,688). Verdict: COMPLETE — read in full from the downloaded file's text layer, all 6 modules and 27 guides Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md. Every guide ends in an "Evaluemos" self/peer/teacher assessment section — assessment apparatus, named here and not placed.
 
+**Book 8:** *الفنون والتصميم (Arts & Design) — للصفين الأول والثاني الثانوي (for the First and Second Secondary years), Secondary Stage (المرحلة الثانوية)* (student book, Arabic) — Sudan, National Center for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht Al-Ruda — Republic of Sudan, Ministry of Education; authors Mohamed Al-Amin Ali, Abdul Basit Abdullah Al-Khatim, Mohamed Mohamed Idris (College of Arts, University of Sudan) and Khidir Mohamed Othman (NCCR); no year printed in the pages held; ISBN 978-99942-53-46-3, Grade 10, 103 PDF pp. STUDENT — the printed volume is one combined book serving the First and Second Secondary years (Grades 10 and 11); this entry is its Grade 10 row. Verdict: COMPLETE — read in full, page by page. Named in the header, not placed: "Design Tools & Materials" (printed pp. 63–64) is a materials inventory and "Guidance for the Student" (printed pp. 64–65) is workshop-care instruction — apparatus/inventory; the Colouring book's closing questions and exercises (printed p. 84) are assessment, not placed. The Grade 11 record is a duplicate scan of this same volume — record-only, not stocked twice. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Yellow and red around us | Ethiopia, *Grade 1 Performing and Visual Arts Student Textbook*, printed p. 54 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Guatemala, Mozambique, Colombia
 | Mozambique — Lesson 15, "Colour": the symbolism of colours — colours carry meanings that vary between peoples and cultures; the meanings given for white (purity, peace, cleanliness), blue (infinity, fidelity, freshness), red (love, danger, blood, fire), green (hope, nature, health, permission), violet (sadness, serenity, silence), yellow (light, prosperity, joy) and black (death, mourning, elegance, authority); and Mozambique's own flag read colour by colour — green the wealth of the soil, black the African continent, yellow the riches of the subsoil, red the blood spilled, white peace (student book; original target `visual-art/colours-around-us`) | Book 6, printed pp. 115–118 |
 
 | Colombia — Módulo 6, Guía 27 "Colores y significados" (Colours and meanings) — colours carry meanings (absolute green as the calmest colour that exists, in the table the guide quotes), meanings can shift, and the student plans a work by the meanings they intend their colours to carry, then checks whether the finished work kept them (student book; original target `visual-art/colours-around-us`) | Book 7, printed pp. 202–210 |
+| Sudan — Book 4, Colouring, "Colours" and "What Colours Are": colour as one of man's greatest means of happiness, comfort, sense and perception — colour named and praised in the Qur'an and the Bible, with white there a symbol of purity; the child drawn to bright, dazzling colours and growing from enjoying colour to mixing it and tasting its beauty; and how peoples differ in colour love — the eastern tribes to strong bright colours, the west to blue, violet and grey (student book; original target `visual-art/what-colours-are-and-what-they-do`) | Book 8, printed p. 67 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mozambique, Colombia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 4 countries (Ethiopia, Mozambique, Colombia, Sudan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 Sub lesson 6 rests on teacher-guide evidence only for its own content; it is labelled as evidence in the part name, in the lesson text and in this table. The Grade 2 teacher guide is a scan with no usable text layer, read visually; its citation here is at section level only, as its placements require. The lesson as a whole stands on the Grade 1 and Grade 3 student textbooks, so the acceptance count counts pupil-taught content. The Grade 1 Chapter 3 summary's line — colours distinguish our clothes and beautify the surroundings (plants green, flowers red and yellow) — is carried in Colours on Clothes and in the question stock of this lesson, under the folding rules.
 

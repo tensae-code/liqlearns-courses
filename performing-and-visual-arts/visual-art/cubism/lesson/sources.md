@@ -1,16 +1,19 @@
 # Sources — Cubism
 
-countries: Haiti
+countries: Haiti, Sudan
 
 **Book 1:** *EEA — Programme du 3e cycle (7e à 9e AF) — Éducation Esthétique et Artistique (EEA)* (teacher programme, French) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Direction Enseignement Fondamental (DEF), 2024 (« version définitive, 28 juillet 2024 » per the record; cover marked Tous Droits Réservés 2024–2025), no ISBN printed, Grades 7e à 9e AF combined, French, 63 PDF pp (3,278,166 bytes, matching the record's size_bytes). TEACHER — teacher programme. Verdict: COMPLETE — read in place in staging (cover verified against the record title — EEA programme cover, 3e cycle 7e à 9e AF). The common part for all subjects (PDF pp. 1–22) is out of scope and was not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 2:** *الفنون والتصميم (Arts & Design) — الصف الثالث الثانوي (Third Secondary Year), Secondary Stage (التعليم الثانوي)* (student book, Arabic) — Sudan, National Center for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht Al-Ruda — Republic of Sudan, Ministry of Education; prepared by a committee chaired by Prof. Mohamed Al-Amin Ali (University of Juba, College of Arts and Humanities) with Abdul Basit Abdullah Al-Khatim, Mohamed Mohamed Idris (University of Sudan, College of Arts) and Dr. Khidir Mohamed Othman (NCCR); revised edition 2007 (الطبعة المنقحة ٢٠٠٧م); ISBN 978-99942-53-7-4; legal deposit 788/2008, Grade 12, 161 PDF pp. STUDENT. Verdict: COMPLETE — read in full, page by page. Named in the header, not placed: Book 1's closing "Exercise" (printed p. 35) and Book 4's opening "Revision Exercises" (printed p. 102) are assessment; Book 5, "The Study Plan" (printed pp. 150–154), is syllabus tables — apparatus, not teaching content. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sudan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Geometric forms and natural forms (teacher evidence) | See the Haiti provenance rows below |
 | Sub lesson 2 — Cubism and the Vèvès (teacher evidence) | See the Haiti provenance rows below |
 | Haiti — Unité 2, Formes géométriques et formes naturelles — telling geometric forms from natural or biomorphic forms, decomposing an object or picture into geometric forms, with the programme's own paired references — cubism and the Vèvès of Haiti (Haitian sacred art) (teacher programme — evidence; original target `visual-art/veve-and-cubism-form`) | Book 1, PDF p. 44 |
+| Sudan — Book 1, Artistic Culture, "The Cubist School": Cubism — Braque and Picasso breaking the body into crystalline, geometric form seen from several angles at once, in neutral colours (grey, black, green); its three stages, analytical, synthetic and collage, when newspaper, cloth, wood and matchboxes entered the panel to raise cheap things by art; its children — Orphism in Delaunay's musical colour, Constructivism and Suprematism — and its reach into architecture, utensils, textiles and jewellery (student book) | Book 2, printed p. 15 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Sudan). Before Sudan, this lesson stood on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/cubism`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
