@@ -1,6 +1,6 @@
 # Sources — Games for Self-Leadership
 
-countries: Ethiopia
+countries: Ethiopia, Samoa
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia
 
 **Book 10:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–96 + front matter (104 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md.
 
+**Book — Samoa Years 11–12 teacher guide (teacher guide — evidence):** *Health and Physical Education Teacher Guide, Years 11 and 12* (teacher guide, English) — Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12 — Grade: Years 11–12 (student/teacher: TEACHER) — Publisher: Ministry of Education, Sports and Culture, Samoa; year 2004 (© MESC Samoa 2004); no ISBN printed — PDF pages: 88 (title page verified: "01 Health & PE Yr11-12 Final"; 18,702,938 bytes, exactly the size in the download-list record). Verdict: COMPLETE as a guide — all four units for both years plus Appendix 1 (Samoa Secondary Schools Fitness Test Battery) present. NOTE: the two secured books.json records (grade-11 and grade-12 staging paths) are NOT in GitHub (Contents API 404 on both) although marked pushed — a phantom-push library debt; the book was read from the ministry download-list copy and that copy has been staged at both staging paths under the push-don't-delete rule. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-pe-placements.md. Samoa's own way: senior HPE is organised family-outward — personal health, then human movement, then family health, then community health — and movement science (biomechanics, sports psychology, club organisation) is taught as examinable knowledge alongside a national fitness test battery.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 9 — Rescue from Danger and Change of Place — the Grade 8 self-knowledge games | Ethiopia, *Grade 8 Student Textbook*, §§2.1.1–2.1.2, printed pp. 9–12 |
@@ -42,7 +44,8 @@ countries: Ethiopia
 | Sub lesson 13 — Growing inside through games — the Grade 8 chapter opener (teacher guide — evidence) | Ethiopia, *Grade 8 Teacher Guide*, Chapter 2 introduction, printed p. 16 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 2 summary + assessment answers, printed pp. 20–21 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 8 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 summary + review answers, printed pp. 25–26 (teacher guide — evidence) |
-**Acceptance count: taught in 1 country (Ethiopia).**
+| Samoa — Year 12 Unit 2D — leadership skills through movement activities (teacher guide — evidence) (original target `games-to-play/games-for-self-leadership`) | Samoa, *Health and Physical Education Teacher Guide, Years 11 and 12* (Samoa Years 11–12 TG), printed p. 64 |
+**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 

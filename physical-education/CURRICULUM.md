@@ -130,6 +130,23 @@ closing per-grade study-norm tables and self-check section
 are excluded as assessment, and its closing
 "Physical-Culture ABC" is excluded as a glossary.
 
+**PE expansion — Samoa — BUILT 2026-11-16:** 20 placements
+from Samoa's Health and Physical Education, Years 1–8,
+Primary School Curriculum (curriculum statement) and its
+Health and Physical Education Teacher Guide, Years 11
+and 12 stocked — 15 into existing lessons (including
+Running Sports Organisations) and 5 as new lessons (How
+We Learn Movement Skills; Samoan Cultural Dance and
+Games; Sports Science and Technology; Sport Psychology)
+— bringing this course to **82 lessons**. Both Samoa
+books are teacher books — a curriculum statement and a
+teacher guide — filed as evidence only, outside the
+acceptance counts; the Years 11–12 guide's two secured
+records are a phantom-push library debt (marked pushed,
+not in GitHub), and the guide was read from the ministry
+download-list copy, staged at both staging paths under
+the push-don't-delete rule.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -140,6 +157,7 @@ are excluded as assessment, and its closing
 6. **Water Safety and Rescue** (`moving-basics/water-safety-and-rescue`) — staying safe in pools, lakes and rivers, rescue steps, resuscitation and pool hygiene — preventing drowning, lifeguard rescue with a float aid without entering the water, Reach–Throw–Don't Go, CPR, rip currents, and the pool rules: shower before entering, walking not running, depth awareness, not swimming when sick (Zambia's Form 1 teacher module, evidence only).
 7. **Body and Space Awareness** (`moving-basics/body-and-space-awareness`) — where I am in space — left and right, directions, personal space and shared space — taught in Mozambique's Grade 1 manual as Orientação, spatial orientation exercises done to command voices, inside the organisation and control exercises (Mozambique's Grade 1 teacher manual, evidence only).
 8. **Swimming Basics** (`moving-basics/swimming-basics`) — swimming basics: first steps in the water — getting in, floating, moving through water and playing in it, and why everyone should learn to swim — taught in Turkmenistan's Bedenterbiýe as swimming in the water (Suwda ýüzmek) and the importance of swimming (Suwda ýüzmegiň ähmiýeti), part of all-round physical development (Turkmenistan's student book).
+9. **How We Learn Movement Skills** (`moving-basics/how-we-learn-movement-skills`) — how we learn movement skills: the factors affecting movement and performance — biomechanical efficiency (the swimmer's arm recovery) and effective equipment — and feedback in skill learning: intrinsic, extrinsic and kinaesthetic (Samoa's Years 11–12 teacher guide, evidence only).
 
 ## Unit 2 — Fitness and Stretching
 
@@ -213,6 +231,7 @@ are excluded as assessment, and its closing
 19. **Traditional Games of Kazakhstan** (`traditional-games-and-dances/traditional-games-of-kazakhstan`) — the named Kazakh outdoor games (подвижные игры) played through the school year: "Keep the Ball in the Air", "Pioneerball", "Hunters and Ducks", "Above the Ground", "Tag with Ribbons", "Defence of the Fortifications", "Ball to the Captain" and "Don't Give the Ball to the Leader" (Kazakhstan's Grade 4 teacher guide, evidence only).
 20. **Lapta and Shuttlecock Games** (`traditional-games-and-dances/lapta-and-shuttlecock-games`) — the Russian bat game lapta — "Bita", "Stick-Knocker", "Knock Out of the Circle" — and the shuttlecock games played with it: round lapta with a shuttlecock, "Hit the Shuttlecock Up" and returning the shuttlecock with rackets (Tajikistan's student book).
 21. **Traditional Games of Tajikistan** (`traditional-games-and-dances/traditional-games-of-tajikistan`) — the active games of the Tajik ancestors, including the pushing game "Kiro tela dinem?" (Whom shall we push?), for 6–40 school-age players (Tajikistan's student book).
+22. **Samoan Cultural Dance and Games** (`traditional-games-and-dances/samoan-cultural-dance-and-games`) — Samoan cultural practices expressed through movement in dance — preparing coconut cream and other work actions shown in dance — and lape, the Samoan hand game named in the same Year 3 work (Samoa's Years 1–8 curriculum statement, evidence only).
 
 ## Unit 8 — Sport and Its Story
 
@@ -224,10 +243,12 @@ are excluded as assessment, and its closing
 6. **Running Sports Organisations** (`sport-and-its-story/running-sports-organisations`) — sports administration — sports management and planning: how to start and run a sports club (Namibia's Grades 10–11 teacher guide, evidence only).
 7. **Sport and Society — Money, Media, Gender, Technology and Jobs** (`sport-and-its-story/sport-and-society`) — how sport lives in society: what PE promises every job, how sport builds an economy, who gets to play, the media and technology that carry and judg…
 8. **Sport for Everyone** (`sport-and-its-story/sport-for-everyone`) — inclusive sport for people with disabilities and special needs, and Paralympic sport — what disability is (WHO), the medical and social models, stereotypes and prejudice, and disabled people's right to equal sport.
-9. **Teaching and Organising PE** (`sport-and-its-story/teaching-and-organising-pe`) — how PE lessons and programmes are built, taught and assessed — Mozambique's Grade 1 pass: the PE lesson's objectives, the lesson plan's parts and timing, and the recreative-formative method, teaching through recreational games, songs and dances (Mozambique's Grade 1 teacher manual, evidence only).
-10. **The Ball Games and Their Stories — Football, Volleyball, Basketball, Handball** (`sport-and-its-story/the-ball-games-and-their-stories`) — the histories of the four team ball games, each in the federal books' three scopes — world, Africa, Ethiopia — from ancient games to Ethiopia's own…
-11. **The Olympic Games, Ancient and Modern** (`sport-and-its-story/the-olympic-games-ancient-and-modern`) — the Olympic Games from Olympia in 776 BC to Athens 1896 and today: their founding, their flag of five rings, their motto — Faster, Higher, Stronger…
-12. **What Gymnastics Is and Why We Do It** (`sport-and-its-story/what-gymnastics-is`) — the concept lesson that opens the gymnastics line: what gymnastics is, and what its movements give the body — the first knowledge section in the gy…
-13. **What Physical Education Is and Where It Came From** (`sport-and-its-story/what-physical-education-is-and-where-it-came-from`) — what physical education is — an education field that develops the whole person through movement — and where it came from: ancient Greece, and the r…
-14. **What Physical Fitness Is** (`sport-and-its-story/what-physical-fitness-is`) — the knowledge that opens the fitness line: physical fitness is the body's capacity foundation, in four named parts — heart and blood-vessel working…
-15. **What Sport Is — and How It Differs from PE** (`sport-and-its-story/what-sport-is`) — what sport is — organised competitive play with its own rules, where a winner and a loser are decided — and how it differs from physical education,…
+9. **Sport Psychology** (`sport-and-its-story/sport-psychology`) — sport psychology: personality, motivation, goal setting, anxiety and arousal, relaxation and visualisation, and stress management, and what motivates students to take part in regular physical activity (Samoa's Years 11–12 teacher guide, evidence only).
+10. **Sports Science and Technology** (`sport-and-its-story/sports-science-and-technology`) — sports science and technology: exploring movement with media/technology, sports wear and equipment that enhance movement, body measurements, modified equipment, investigating sports facilities, care of sports equipment, and the stages of human movement (Samoa's Years 1–8 curriculum statement, evidence only), with the senior guide's use of visual aids (TV and video) to analyse performance (Samoa's Years 11–12 teacher guide, evidence only).
+11. **Teaching and Organising PE** (`sport-and-its-story/teaching-and-organising-pe`) — how PE lessons and programmes are built, taught and assessed — Mozambique's Grade 1 pass: the PE lesson's objectives, the lesson plan's parts and timing, and the recreative-formative method, teaching through recreational games, songs and dances (Mozambique's Grade 1 teacher manual, evidence only).
+12. **The Ball Games and Their Stories — Football, Volleyball, Basketball, Handball** (`sport-and-its-story/the-ball-games-and-their-stories`) — the histories of the four team ball games, each in the federal books' three scopes — world, Africa, Ethiopia — from ancient games to Ethiopia's own…
+13. **The Olympic Games, Ancient and Modern** (`sport-and-its-story/the-olympic-games-ancient-and-modern`) — the Olympic Games from Olympia in 776 BC to Athens 1896 and today: their founding, their flag of five rings, their motto — Faster, Higher, Stronger…
+14. **What Gymnastics Is and Why We Do It** (`sport-and-its-story/what-gymnastics-is`) — the concept lesson that opens the gymnastics line: what gymnastics is, and what its movements give the body — the first knowledge section in the gy…
+15. **What Physical Education Is and Where It Came From** (`sport-and-its-story/what-physical-education-is-and-where-it-came-from`) — what physical education is — an education field that develops the whole person through movement — and where it came from: ancient Greece, and the r…
+16. **What Physical Fitness Is** (`sport-and-its-story/what-physical-fitness-is`) — the knowledge that opens the fitness line: physical fitness is the body's capacity foundation, in four named parts — heart and blood-vessel working…
+17. **What Sport Is — and How It Differs from PE** (`sport-and-its-story/what-sport-is`) — what sport is — organised competitive play with its own rules, where a winner and a loser are decided — and how it differs from physical education,…

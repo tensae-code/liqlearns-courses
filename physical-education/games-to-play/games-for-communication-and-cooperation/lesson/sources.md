@@ -1,6 +1,6 @@
 # Sources — Games for Communication and Cooperation
 
-countries: Ethiopia
+countries: Ethiopia, Samoa
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia
 
 **Book 8:** *Grade 8 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–98 (107 PDF pages). Printed page = PDF page − 9. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-student-placements.md.
 
+**Book — Samoa Years 1–8 curriculum statement (curriculum statement — evidence):** *Health and Physical Education, Years 1–8, Primary School Curriculum* (curriculum statement, English) — Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum — Grade: Years 1–8 (student/teacher: TEACHER — curriculum statement for teachers) — Publisher: Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture, Samoa; year 2013; ISBN 978-982-517-093-8 — PDF pages: 56 (cover/title page verified against the record title; the secured GitHub copy and the ministry download-list copy are byte-identical — same blob SHA — so the two records are one book). Verdict: COMPLETE — the statement's core-content tables (printed pp. 24–30) carry the full teaching content by year; the year-level sections (printed pp. 31–56) restate it as achievement objectives and learning outcomes. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-pe-placements.md. Samoa's own way: one combined Health and PE subject built on *soifua maloloina* (holistic well-being — physical, mental, emotional, social, spiritual); movement is taught through three strands, with cultural dance and Samoan games inside the movement strand, and fitness framed as "fitness for living".
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 8 — Pair Hunting and the Rope Tug — the Grade 8 social games | Ethiopia, *Grade 8 Student Textbook*, §§2.2.1–2.2.2, printed pp. 12–14 |
@@ -34,7 +36,8 @@ countries: Ethiopia
 | Sub lesson 10 — Abarosh Chase — አባሮሽ | Ethiopia, *Grade 7 Student Textbook*, §2.2.1 item 9, printed pp. 14–17 |
 | Sub lesson 11 — Cooperation skills — the Grade 7 framing | Ethiopia, *Grade 7 Student Textbook*, §2.5 item 14, printed pp. 23–24 |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
-**Acceptance count: taught in 1 country (Ethiopia).**
+| Samoa — Socialisation through physical activities, Years 1–4 — life skills in movement lessons: cooperation and sharing, following instructions and rules, trusting others (curriculum statement — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 26 |
+**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 

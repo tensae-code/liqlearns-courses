@@ -82,3 +82,13 @@ The PE expansion then added: **Staying Active for Life**
 and **Traditional Games of Tajikistan**
 (`traditional-games-and-dances/traditional-games-of-tajikistan`)
 — 3 new lessons, bringing this course to 78 lessons.
+
+The PE expansion then added: **How We Learn Movement
+Skills** (`moving-basics/how-we-learn-movement-skills`),
+**Samoan Cultural Dance and Games**
+(`traditional-games-and-dances/samoan-cultural-dance-and-games`),
+**Sports Science and Technology**
+(`sport-and-its-story/sports-science-and-technology`)
+and **Sport Psychology**
+(`sport-and-its-story/sport-psychology`)
+— 4 new lessons, bringing this course to 82 lessons.

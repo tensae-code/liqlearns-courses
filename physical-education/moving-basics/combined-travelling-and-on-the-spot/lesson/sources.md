@@ -1,6 +1,6 @@
 # Sources — Combined Travelling and On-the-Spot Movements
 
-countries: Ethiopia
+countries: Ethiopia, Samoa
 
 **Book — Grade 1 teacher (teacher guide — evidence):** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
@@ -15,6 +15,8 @@ countries: Ethiopia
 **Book — Grade 2 teacher (teacher guide — evidence):** *Grade 2 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ, ሁለተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g02-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
 **Book — Grade 4 teacher (teacher guide — evidence):** *Grade 4 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት መጽሐፍ, አራተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g04-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
+
+**Book — Samoa Years 1–8 curriculum statement (curriculum statement — evidence):** *Health and Physical Education, Years 1–8, Primary School Curriculum* (curriculum statement, English) — Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum — Grade: Years 1–8 (student/teacher: TEACHER — curriculum statement for teachers) — Publisher: Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture, Samoa; year 2013; ISBN 978-982-517-093-8 — PDF pages: 56 (cover/title page verified against the record title; the secured GitHub copy and the ministry download-list copy are byte-identical — same blob SHA — so the two records are one book). Verdict: COMPLETE — the statement's core-content tables (printed pp. 24–30) carry the full teaching content by year; the year-level sections (printed pp. 31–56) restate it as achievement objectives and learning outcomes. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-pe-placements.md. Samoa's own way: one combined Health and PE subject built on *soifua maloloina* (holistic well-being — physical, mental, emotional, social, spiritual); movement is taught through three strands, with cultural dance and Samoan games inside the movement strand, and fitness framed as "fitness for living".
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -33,7 +35,8 @@ countries: Ethiopia
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lessons 2–3 (teacher guide — evidence) | Ethiopia, Grade 2 teacher Chapter 1 summary + assessment answers (teacher guide — evidence), printed pp. 12–13 |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, Grade 3 teacher Chapter 1 summary + assessment answers (teacher guide — evidence), printed pp. 17–19 |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, Grade 4 teacher Chapter 1 summary + assessment answers (teacher guide — evidence), printed p. 14 |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
+| Samoa — Fundamental movement, Years 3–8 — combining basic movements in a series, then more complex combinations, then applying combined sequences in formal games (curriculum statement — evidence) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed pp. 26–27 |
+**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
