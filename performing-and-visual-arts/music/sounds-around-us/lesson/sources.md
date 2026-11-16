@@ -1,6 +1,6 @@
 # Sources — Sounds Around Us
 
-countries: Ethiopia, Andorra
+countries: Ethiopia, Andorra, Samoa
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Andorra
 
 **Book 5:** *Programa de l'assignatura d'educació musical del batxillerat general de l'Escola Andorrana — Decret del 20-3-2019, BOPA núm. 29, 27-3-2019* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2019, no ISBN printed in the fetched text, Batxillerat general (ages 16–18), 21 PDF pp. TEACHER — programme document. Verdict: COMPLETE as a programme document — read in full via the source_url text; the PDF's text layer is partly garbled in the fetched extraction (a font-encoding fault in the gazette PDF), but every heading, competence and block table is legible and placed from those; assessment criteria and synthesis tables are apparatus, named here and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 6:** *Expressive Arts — Years 1–8, Primary School Curriculum* (curriculum statement / programme document, English) — Samoa, Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture (MESC), Samoa, 2013 (January 2013), ISBN 978-982-517-087-7, Years 1–8, 96 PDF pp. TEACHER — curriculum statement for teachers; programme document. Verdict: COMPLETE (as a programme document; it specifies teaching content by year and strand rather than pupil lessons). Title page verified against the record title; fetched from the recorded MESC source_url (1,069,629 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Assessment section and outcome-indicator tables (printed pp. 27–38) — assessment apparatus, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Programme document — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Sounds around us | Grade 1 student textbook, §1.2, printed p. 2 (sounds on the way to school; sounds inside the home) |
@@ -22,8 +24,9 @@ countries: Ethiopia, Andorra
 
 | Evidence part — the Grade 2 guide's Chapter 1 introduction and kinds of music/sound (teacher guide — evidence) | Grade 2 Teacher Guide, printed pp. 1–6 (Ch. 1, §1.1; section level — scan with no text layer) |
 | Andorra — Bloc 2: Experimentation, improvisation and creation (batxillerat) — the sound universe as the source for experimentation; improvisation through disinhibition, harvesting ideas and rhythmic, melodic, harmonic and formal patterns; composing works for one or more voices with acoustic, electric or synthesised instruments using notation software, composition assistants, editors, sequencers and instant music-making programs (programme document — evidence; original target `music/sounds-around-us`) | Book 5, printed pp. 13–14 |
+| Samoa — Music, Year One — identifying sounds: where beat is present in daily life and in music, how sounds differ in duration and pitch, dynamics in the environment, sound sources natural, industrial, electronic and homemade, tempi, and describing sound qualities (rumbling, choppy, whirring, droning) (programme evidence) | Book 6, printed p. 41 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 1 country (Ethiopia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
 
 No staff notation is claimed for Grade 1: the Grade 1 book teaches music by ear, and this lesson follows it. The teacher-guide part is evidence for the listening-first way of working; the pupil-taught parts stand on the two student textbooks.
 

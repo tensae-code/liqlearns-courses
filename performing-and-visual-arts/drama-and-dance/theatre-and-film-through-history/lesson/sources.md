@@ -1,6 +1,6 @@
 # Sources — Theatre and Film Through History
 
-countries: Ethiopia
+countries: Ethiopia, Samoa
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia
 **Book 6:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
 **Book 7:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 
+**Book 8:** *Performing Arts — Teacher Guide, Years 11 and 12* (teacher guide, English) — Samoa, Ministry of Education, Sports and Culture, Samoa, 2004, ISBN 982-517-077-8, Years 11–12, 109 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. The file was obtained from the recorded MESC source_url (22,048,886 bytes — the record gives no size) after the Music guide's repo tree path proved a phantom push; the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Glossary (printed pp. 105–108) — inventory-only, named here, not stocked; the Assessment section and Student Feedback Sheet (printed pp. 93–95) are apparatus, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Theatre and film, and their participants | Book 1, §§1.5–1.5.3, printed pp. 26–29 |
@@ -26,8 +28,9 @@ countries: Ethiopia
 | Sub lesson 8 — Film's seven preparation stages | Grade 8 Student Textbook, §1.3, printed pp. 39–40 |
 | Sub lesson 9 — Local histories — theatre and film's foundation | Grade 8 Student Textbook, §3.3, printed pp. 98–99 |
 | Sub lesson 1 — Theatre and film, and their participants — the Grade 7 first-performance account | Grade 7 Student Textbook, §1.3, printed p. 24 |
+| Samoa — Year 11 and Year 12 Drama: Film and Video, Parts 1 and 2 — film and video as a drama study across both years (teacher-guide evidence) | Book 8, printed pp. 53, 81 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Claims of firsts are taught as their sources give them: Fabula is 'probably the first original African play' and Hager Fikir the 'oldest indigenous theatre in Africa' — the guide's own wordings, kept with their caution. The Grade 10 guide records no separate 'Lesson 27' heading in its theatre sequence; the lesson follows its placements (Lesson 26 African theatre onward) and claims nothing about a Lesson 27.
 

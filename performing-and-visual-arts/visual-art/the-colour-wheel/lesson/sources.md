@@ -1,6 +1,6 @@
 # Sources — The Colour Wheel
 
-countries: Ethiopia, Maldives, Barbados, Albania
+countries: Ethiopia, Maldives, Barbados, Albania, Samoa
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Maldives, Barbados, Albania
 **Book 6:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 7:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 8:** *Expressive Arts — Years 1–8, Primary School Curriculum* (curriculum statement / programme document, English) — Samoa, Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture (MESC), Samoa, 2013 (January 2013), ISBN 978-982-517-087-7, Years 1–8, 96 PDF pp. TEACHER — curriculum statement for teachers; programme document. Verdict: COMPLETE (as a programme document; it specifies teaching content by year and strand rather than pupil lessons). Title page verified against the record title; fetched from the recorded MESC source_url (1,069,629 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Assessment section and outcome-indicator tables (printed pp. 27–38) — assessment apparatus, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Programme document — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -31,8 +33,9 @@ countries: Ethiopia, Maldives, Barbados, Albania
 | Sub lessons 1–6 (teacher guide — evidence) — Colour (Grade 7 TG): colour produced when light waves strike an object; three properties — hue, intensity/saturation, value (tint/shade); the 12-part wheel; primaries, secondaries, tertiaries; warm/cool; neutrals; complementaries | Book 2, printed pp. 36–41 |
 | Maldives — Colour Mixology: intermediate colours — a primary mixed with the secondary next to it on the colour wheel, sitting between its two parents; different amounts giving different intermediates (lime, yellow-green, aquamarine, turquoise) | Book 5, Unit 16, printed pp. 67–69 |
 | Albania — Monochromatic colours — building a work in the shades of a single colour (teacher guide — evidence) | Book 7, printed p. 4 |
+| Samoa — Visual Arts, Year Five — complementary colours: identify complementary contrasting colours and use them in an abstract painting or a simple weaving (programme evidence) | Book 8, printed pp. 91–92 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Maldives). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Maldives). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
 
 The Grade 5 book's tertiary formula list names red + violet as magenta (ሀምራዊ); the lesson keeps the book's own formula list as printed. The Grade 7 teacher-guide colour part (printed pp. 36–41) sits inside that guide's surviving body pages and is labelled teacher-guide evidence in the table; it adds the wheel's history (Newton, 1666) and the tint/shade wording — the pupil-taught wheel itself stands on the Grade 5 student book.
 

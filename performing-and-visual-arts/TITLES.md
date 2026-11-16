@@ -95,7 +95,13 @@ The titles, in ladder order:
    painting, lettering and wall work as a public art
    form; and fashion design — textile design, pattern
    for cloth, and dress designed as applied visual art
-   (Albania teacher guide, evidence).
+   (Albania teacher guide, evidence). The Art expansion
+   added: siapo — Samoan tapa cloth, its making, its
+   nature-born symbols and patterns in linear and curved
+   lines; and Samoan tattoo designs — design principles
+   in tattooing designs, and tattooing symbols documented
+   with their meanings (Samoa curriculum statement,
+   programme evidence).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -188,7 +194,18 @@ The titles, in ladder order:
    books). The Art expansion added: intervals — the
    distances between sounds, counted from the first
    sound, 1–2 up to the octave 1–8, named, built, sung
-   and played (Albania teacher guide, evidence).
+   and played (Albania teacher guide, evidence). The Art
+   expansion added: Samoan instruments — the pātē and
+   lali slit drums and the selo, with homemade instruments
+   from fala and tins; Musika Samoa — Samoa's music
+   history of the German Occupancy, the World Wars and
+   the Mau; Samoan traditional chants — Faatufugaga,
+   Faiva o le Vao and Sami, and the song in oral history;
+   Samoan rhythms in performance; and pese Samoa and
+   fa'asala — song composition whose melody is determined
+   by its text, crowned by a fa'asala descant (Samoa
+   curriculum statement, programme evidence; Samoa
+   teacher guide, evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -237,7 +254,14 @@ The titles, in ladder order:
    Art expansion added: puppet theatre — creating cartoon
    characters and stick puppets, and cutting, arranging
    and pasting paper-bag and sock puppets (Barbados
-   curriculum guide, evidence).
+   curriculum guide, evidence). The Art expansion added:
+   Samoan dances — the siva and its history: Samoa's
+   traditional dances, the poula night dances, the
+   taualuga, the men's dances and the ma'ulu'ulu in full;
+   and Samoan theatre — koneseti and faleaitu, Samoa's
+   own awareness-raising theatre forms (Samoa curriculum
+   statement, programme evidence; Samoa teacher guide,
+   evidence).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New

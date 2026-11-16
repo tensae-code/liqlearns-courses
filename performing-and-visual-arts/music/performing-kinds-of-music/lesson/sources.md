@@ -1,6 +1,6 @@
 # Sources — Performing Kinds of Music
 
-countries: Ethiopia, Cyprus, Andorra, Uganda
+countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa
 
 **Book 1:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., body/syllabus to printed p. 80. Printed page = PDF page − 6 in the body. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Cyprus, Andorra, Uganda
 
 **Book 5:** *Performing Arts Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 48 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists Chapters 1, 2, 3, 5, 6, 7, 8 — there is no Chapter 4 in the textbook (the Teacher's Guide's Chapter 4, "Performing Arts Making Using African Styles", appears in the textbook only as Chapter 7, "Performing Arts in African Styles"). The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
+**Book 6:** *Music — Teacher Guide, Years 11 and 12* (teacher guide, English) — Samoa, Ministry of Education, Sports and Culture, Samoa, 2004, ISBN 982-517-075-1, Years 11–12, 90 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover verified against the record title; the repo tree path is a PHANTOM PUSH (HTTP 404), so the book was fetched from the recorded MESC source_url (14,769,796 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Glossary (printed p. 88) — inventory-only, named here, not stocked; assessment guidance in the introduction is apparatus, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the kinds of music in expression (teacher guide — evidence) | Grade 2 Teacher Guide, printed pp. 25–29 (§2.1; section level — scan with no text layer) |
@@ -20,8 +22,9 @@ countries: Ethiopia, Cyprus, Andorra, Uganda
 | Andorra — Competence C2 (batxillerat) — performing pieces with instruments, voice or body: singing works, performing with the body, ball and dance, performing with instruments, approaching the composer's intention while adding one's own, and listening to works exercising criticism — the ear and critical capacity being this competence's second half (programme document — evidence; original target `music/performing-kinds-of-music`) | Book 3, printed pp. 6–8 |
 | Uganda — Chapters 5 and 8: Exploring the Elements of Music — the elements carried into composition across the later terms: compose your own song, and create the dance and skit that go with it (teacher guide — evidence) | Book 4, printed pp. 36–42, 55–62 |
 | Uganda — Chapter 2 — singing and composing in sol-fa: sing the song "Butterfly tell me how you grow" to sol-fa, sing up and down the music ladder, compose five sol-fa passages of up to eight notes without leaps, and compose a melody to given words and rhythm in sol-fa, then sing it to sol-fa and to words (song placed by name and task only, never transcribed) | Book 5, printed pp. 6–11 |
+| Samoa — Section A, Performance, Year 11 learning example — in-depth study of an instrument of your choice: performance techniques, score reading, notation, metre and time signatures, scales and technical exercises, intervals, transcribing music, performance direction terms, and preparing and presenting an instrumental performance (teacher-guide evidence) | Book 6, printed p. 44 |
 
-**Acceptance count: taught in 1 country (Uganda).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Uganda).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only and is labelled so in its plan, text and sources. The Grade 2 teacher guide is a scan with no text layer; its parts are cited at section level only and no wording is quoted from it.
 

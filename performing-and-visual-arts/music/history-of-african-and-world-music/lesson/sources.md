@@ -1,6 +1,6 @@
 # Sources — History of African and World Music
 
-countries: Ethiopia, Honduras, Albania
+countries: Ethiopia, Honduras, Albania, Samoa
 
 **Book 1:** *Performing and Visual Arts Teacher Guide Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (first published 2022, GEQIP-E). Grade 10 has no student book; this guide is evidence only. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Honduras, Albania
 
 **Book 4:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 5:** *Music — Teacher Guide, Years 11 and 12* (teacher guide, English) — Samoa, Ministry of Education, Sports and Culture, Samoa, 2004, ISBN 982-517-075-1, Years 11–12, 90 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover verified against the record title; the repo tree path is a PHANTOM PUSH (HTTP 404), so the book was fetched from the recorded MESC source_url (14,769,796 bytes — the record gives no size); the downloaded copy is staged under the push-don't-delete rule (it is not in GitHub). Excluded per the placements: the Glossary (printed p. 88) — inventory-only, named here, not stocked; assessment guidance in the introduction is apparatus, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/samoa-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — history of African music (teacher guide — evidence) | Grade 10 Teacher Guide, printed pp. 35–38 (Unit 3, Lessons 22–23) |
@@ -18,8 +20,9 @@ countries: Ethiopia, Honduras, Albania
 | Honduras — Block II S1, History of music — historia de la música universal: the history of world music (student book) | Book 2, printed p. 69 |
 | Albania — Musical forms: canon, homophony, song and minuet — polyphonic building in the canon, homophonic song in 1, 2 and 3 parts, and the minuet heard and told apart (Bach, Grieg, Boccherini, Brahms's Lullaby as listening) (teacher guide — evidence) | Book 3, printed p. 21 |
 | Albania — Monody, polyphony, theme-and-variations and rondo — one-voiced against many-voiced building, and the variation and rondo forms heard and described (teacher guide — evidence) | Book 4, printed p. 29 |
+| Samoa — Section B, History and Research, Year 11 learning example — researching how music develops through cultural and environmental influences, and music's historical contribution and the significance of traditional and contemporary music (teacher-guide evidence) | Book 5, printed pp. 53–57 |
 
-**Acceptance count: taught in 1 country (Honduras).** Ethiopia is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Honduras).** Ethiopia is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only: Grade 10 has no student book. The two history lessons are carried at the scope the guide's unit table names (Lessons 22–23, printed pp. 35–38) and no historical detail beyond that scope and this course's earlier pupil-taught origins content is claimed.
 

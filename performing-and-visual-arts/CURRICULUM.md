@@ -540,7 +540,75 @@ lessons are the books'.
   song, and the museum-cities' traditional
   architecture.
 
-**The whole course stands at 242 lessons, 3,638 questions and
+- **Art expansion — Samoa — BUILT 2026-11-16:** 45 placements
+  stocked from 3 books (all Ministry of Education, Sports
+  and Culture (MESC), Samoa, English: *Expressive Arts —
+  Years 1–8, Primary School Curriculum*, Curriculum
+  Materials and Assessment Division, 2013 (January 2013),
+  ISBN 978-982-517-087-7, 96 PDF pp, TEACHER — curriculum
+  statement / programme document, COMPLETE as a programme
+  document; *Music — Teacher Guide, Years 11 and 12*,
+  2004, ISBN 982-517-075-1, 90 PDF pp, TEACHER, COMPLETE;
+  *Performing Arts — Teacher Guide, Years 11 and 12*,
+  2004, ISBN 982-517-077-8, 109 PDF pp, TEACHER,
+  COMPLETE). All three are EVIDENCE only, kept outside
+  the acceptance counts (the nine new lessons stand at
+  acceptance count 0). The Music guide's repo tree path
+  is a PHANTOM PUSH (HTTP 404); all three books were
+  fetched from their recorded MESC source_urls and are
+  staged under the push-don't-delete rule (not in
+  GitHub), library debt carried as filed. 31 into
+  existing lessons (What the Arts Are; What the Arts Do
+  for Society; How the Arts Belong Together; Sounds
+  Around Us; Reading the Beat; School Songs ×2; Kinds of
+  Traditional Music; The Elements of Music; How Animals
+  and People Move; Dance Composition and Modern Dance
+  ×4; Playing a Person; Elements of Drama; Stories and
+  Folktales; Elements of Visual Art; Crafts Around Us;
+  Traditional Dress; The Colour Wheel; History of
+  African and World Music; Anthems and Songs That Teach;
+  Performing Kinds of Music; Reading Music on the Staff;
+  Scales, Pitch and Key Signatures; Dance Education and
+  Indigenous Dance ×2 — one from the original string
+  world-dance-histories; Finding Ideas for Theatre and
+  Film; Theatre and Film Through History; From Script to
+  Stage), 9 NEW lessons (Music: Samoan Instruments:
+  Pate, Lali and Selo; Musika Samoa: Samoa's Music
+  History; Samoan Traditional Chants; Samoan Rhythms in
+  Performance; Pese Samoa and Fa'asala; Visual Art:
+  Siapo: Samoan Tapa Cloth; Samoan Tattoo Designs; Drama
+  and Dance: Samoan Dances: Siva and Its History — from
+  siva-the-samoan-dance, samoan-traditional-dances and
+  samoan-dance-history; Samoan Theatre: Koneseti and
+  Faleaitu — from koneseti-and-faleaitu-samoan-
+  theatre), 108 questions added, media as described
+  slots only. DIFFERENCE FROM THE FILE'S OWN TALLY,
+  EXPLAINED: the placements file tallied 30 to existing
+  lessons and 15 NEW LESSON NEEDED placement lines
+  (Book 1: 18/6; Book 2: 6/4; Book 3: 6/5). The slug
+  registry resolves world-dance-histories to the
+  EXISTING Dance Education and Indigenous Dance, unifies
+  siva-the-samoan-dance, samoan-traditional-dances and
+  samoan-dance-history (6 lines) into the one canonical
+  Samoan Dances lesson, and renames koneseti-and-
+  faleaitu-samoan-theatre to Samoan Theatre: Koneseti
+  and Faleaitu — so 31 (not 30) placements went to
+  existing lessons, 14 (not 15) to new lessons, and 9
+  (not 12 distinct filed slugs) new lessons were built;
+  the total of 45 reconciles exactly. Exclusions named:
+  Book 1's Assessment section and outcome-indicator
+  tables (printed pp. 27–38); Book 2's Glossary (printed
+  p. 88) and Book 3's Glossary (printed pp. 105–108) —
+  inventory-only; Book 3's Assessment section and
+  Student Feedback Sheet (printed pp. 93–95) —
+  apparatus, named, not placed. Songs, legends and plays
+  are placed by name, kind and summary only, never
+  transcribed; Samoa's own way is kept as named parts —
+  the siva and the traditional dances, the pātē and
+  lali, siapo and tattoo design, and the pese Sāmoa
+  crowned by its fa'asala.
+
+**The whole course stands at 251 lessons, 3,746 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
