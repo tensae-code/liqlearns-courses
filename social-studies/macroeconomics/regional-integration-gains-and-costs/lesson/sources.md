@@ -1,6 +1,6 @@
 # Sources — Regional integration — gains and costs
 
-countries: Argentina, Ethiopia, Uganda
+countries: Argentina, Ethiopia, Uganda, Kuwait
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -24,7 +24,16 @@ Argentina's own way: Economics enters primary Social Studies through Mercosur �
 |---|---|
 | Uganda part — Topic 1: East African Community: why the EAC was formed and revived (common currency aim, reduced trade barriers and smuggling, free movement of people and goods), its benefits to individuals (jobs, wider market for traders' goods, lower taxes on imports), to member states (wider market, sea-port access for landlocked members) and the trade problems of landlocked countries (delays, high import taxes, high transport costs, high prices) | Uganda, *Uganda Primary 6 Excel Standard Social Studies*, Topic 1: East African Community — printed p. 12 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 4:** *دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الثاني (State of Kuwait and the Arab Gulf States, Grade 6, Term 2)* (student book, Arabic) — Ministry of Education, State of Kuwait; year 2025–2026 (1st edition, 1447H); ISBN no ISBN printed. Title as printed: دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الثاني (State of Kuwait and the Arab Gulf States, Grade 6, Term 2). Grade: 6 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; grabbed via the release-asset route, 19,211,624 bytes, matching the books.json record exactly — the books.json tree path itself returned 404). Verdict: COMPLETE. Contents map: History (colonialism, protection agreement, independence, Kuwait political development) printed pp. 18–33; Geography/Civics (population, population challenges, culture) printed pp. 40–54; Economics parts printed pp. 18–20 (one lesson), 60–75 and 86–88. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — GCC joint economic and trade cooperation — the concept of economic citizenship, what joint GCC economic/trade cooperation has achieved, and joint development projects | Kuwait, *Kuwait Grade 6 Social Studies G6 T2*, GCC joint economic and trade cooperation — printed p. 86 |
+
+
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Kuwait). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+
+Kuwait's own way (Kuwait Grade 6 Term 2): the modern economy is taught as resources-and-development of the Gulf states — oil and gas first, with the danger of depending on oil named from the start, then farming, livestock/fisheries, industry and trade, ending in GCC economic integration.
 
 Uganda's own way: the Excel ladder widens from Uganda to the region — Primary Six teaches the East African Community as a working market: common currency aim, fewer trade barriers, free movement, wider markets, and the landlocked country's trade costs, Uganda being landlocked itself.
 

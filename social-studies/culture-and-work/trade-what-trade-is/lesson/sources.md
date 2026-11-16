@@ -127,7 +127,16 @@ countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, No
 | South Sudan part — Guide: Unit 9 International Trade — content map; WTO brainstorm (teacher guide — evidence) | South Sudan, *South Sudan Grade 12 S4 Geography TG* (teacher guide), Guide: Unit 9 International Trade — content map; WTO brainstorm — printed p. 88 |
 | South Sudan part — Unit 5 Fishing for Industry and Trade: goods bought and sold in the local market; importance of internal trade | South Sudan, *South Sudan Grade 6 P6 Social Studies SB*, Unit 5 Fishing for Industry and Trade: goods bought and sold in the local market; importance of internal trade — printed p. 69 |
 
+**Book 41:** *دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الأول (State of Kuwait and the Arab Gulf States, Grade 6, Term 1)* (student book, Arabic) — Ministry of Education, State of Kuwait; year 2026–2027 (2nd edition, 1448H); ISBN 978-9921-33-030-4. Title as printed: دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الأول (State of Kuwait and the Arab Gulf States, Grade 6, Term 1). Grade: 6 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; staging file read in place, 50,971,017 bytes on disk vs 50,767,798 in the record — record size is stale, cover and contents match the record title exactly). Verdict: COMPLETE. Contents map: Geography (natural features of Kuwait/Gulf) printed pp. 18–37; History/Civilisation printed pp. 44–76; Economics parts printed pp. 82–97; Values unit printed pp. 101–110. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Old economic activities 3: land and sea trade — old overland trade routes from the Gulf to Iraq, Egypt, the Levant and Yemen, and sea trade carrying goods to India, Yemen and East Africa | Kuwait, *Kuwait Grade 6 Social Studies G6 T1*, Old economic activities 3: land and sea trade — printed p. 88 |
+
+
 **Acceptance count: taught in 22 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, South Sudan).**
+
+Kuwait's own way (Kuwait Grade 6 Term 1): Economics enters in Grade 6 as the Gulf's old livelihoods — work shaped by a harsh desert/coastal environment, taught through named local crafts, ships and the pearl-diving season.
 
 Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 

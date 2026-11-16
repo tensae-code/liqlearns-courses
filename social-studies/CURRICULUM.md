@@ -13812,3 +13812,141 @@ Shymbulak, Elon Musk) — so every Economics concept
 is immediately played and then applied
 (Duisenkhanov Part 1).
 Economics lessons: 427 → 431.
+
+## Economics expansion — Kuwait — built 2026-11-16
+
+Kuwait — 35 placements stocked from 7 student
+books with placements (8 distinct books filed in
+the main filing + the split filing's second read
+of the Grade 6 Term 1 book). Both split filings
+were read in full and merged as one country:
+kuwait-placements.md (14 records / 8 distinct
+books) carries 34 placement lines (24 to existing
+lessons + 10 NEW LESSON NEEDED) and
+kuwait-placements-b.md (1 record / 1 distinct
+book — the same Grade 6 Term 1 book, read from
+the record's Google Drive link) carries 1 more
+placement line (to an existing lesson) — 35 in
+total (25 to existing lessons + 10 NEW LESSON
+NEEDED), matching the wave close. All placed
+books are student books (Ministry of Education,
+State of Kuwait, Arabic), so all 35 placements
+count in acceptance, except the 2 placements
+into lessons where Kuwait was already counted
+from the 2026-11-14 Geography expansion
+(Secondary activities — cottage industries, and
+Trade — what trade is), which are stocked as
+depth with their acceptance counts unchanged.
+Books: Grade 6 Term 1 (2026–2027, 2nd edition
+1448H, ISBN 978-9921-33-030-4, 114 PDF pp.,
+COMPLETE — record size stale, as filed); Grade 6
+Term 2 (2025–2026, 1st edition 1447H, no ISBN
+printed, 114 PDF pp., COMPLETE — books.json tree
+path 404, read via the release-asset route, as
+filed); Grade 7 Term 2 (2025–2026, 1st edition,
+no ISBN printed, 102 PDF pp., COMPLETE); Grade 8
+Term 1 (2026–2027, 2nd edition, ISBN
+978-9921-33-000-7, 114 PDF pp., COMPLETE); Grade
+8 Term 2 (2025–2026, 1st edition, no ISBN
+printed, 111 PDF pp., COMPLETE); Grade 9 Term 2
+(2025–2026, no ISBN printed, 106 PDF pp.,
+COMPLETE). Record-only, stocked nowhere, as
+filed: Grade 7 Term 1 — UNREAD phantom push
+(books.json claims pushed; GitHub tree 404 and
+the release asset absent from all eight mid-size
+releases checked — a library debt, record-only);
+Grade 9 Term 1 — read with contents evidence, no
+Economics teaching parts, 0 placements. 25
+stocked into standing lessons —
+**Culture and Work**: Economic activities — the
+three levels (Grade 6 Term 1 pp. 82, 91, 93;
+Grade 6 Term 2 p. 67; Grade 8 Term 1 p. 77;
+acceptance 29 → 30); Secondary activities —
+cottage industries (Grade 6 Term 1 p. 85;
+acceptance unchanged — Kuwait already counted);
+Trade — what trade is (Grade 6 Term 1 p. 88;
+acceptance unchanged — Kuwait already counted) —
+**People and Resources**: Economic geographic
+position of a country (Grade 6 Term 2 p. 18;
+acceptance 1 → 2); Importance of farming to the
+economy (Grade 6 Term 2 p. 64; Grade 7 Term 2
+p. 36; Grade 8 Term 1 p. 73; acceptance 4 → 5);
+Sectors of the economy (Grade 7 Term 2 p. 39;
+acceptance 5 → 6); Resources that develop an
+economy (Grade 7 Term 2 p. 41; acceptance
+2 → 3); Arab economic integration (Grade 7
+Term 2 p. 81; acceptance 1 → 2); Industries that
+run on minerals and power (Grade 8 Term 1 p. 70;
+acceptance 1 → 2); What poverty is — the voices
+of the poor (Grade 8 Term 2 p. 49; Grade 9 Term 2
+p. 74; acceptance 1 → 2) — **Macroeconomics**:
+The balance of trade (Grade 6 Term 2 p. 69;
+acceptance 1 → 2); Regional integration — gains
+and costs (Grade 6 Term 2 p. 86; acceptance
+2 → 3); The trade balance — exports minus
+imports (Grade 6 Term 1, split filing,
+printed pp. 88–91; acceptance 1 → 2) —
+**Microeconomics**: Collusive oligopoly —
+cartels and price leadership (Grade 9 Term 2
+p. 59, OPEC; acceptance 1 → 2) —
+**Resources and Conflict**: Sustainable
+development — living without eating the future
+(Grade 8 Term 2 p. 25; acceptance 20 → 21);
+Sustainable development — meeting needs without
+stealing the future (Grade 9 Term 2 p. 25;
+acceptance 7 → 8); Global food supply (Grade 9
+Term 2 p. 80; acceptance 1 → 2) —
+**Global Issues**: Population pressure on
+resources (Grade 8 Term 2 p. 49; acceptance
+5 → 6). And 10 new lessons built (12 questions
+each) — in **Macroeconomics**: Gulf energy
+resources and national income (Grade 6 Term 2
+p. 60 — national income, Gulf oil/gas production
+and reserve shares in 2023 charts, the biggest
+fields, the problem of relying on oil); Gulf
+economic challenges and development (Grade 6
+Term 2 p. 72 — food security, water security,
+green energy, the oil-dependence risk, the
+small-trader/shareholder project); Arab economic
+resources — oil, gas and minerals (Grade 7
+Term 2 p. 34); Kuwait — resources and national
+wealth (Grade 7 Term 2 p. 43 — Kuwait's resource
+base and its Gulf-coast location as a major
+income source); Arab economic problems and
+dependency (Grade 7 Term 2 p. 60 — dependency
+defined, the most important problem); Kuwait —
+the New Kuwait vision and economic
+diversification (Grade 7 Term 2 p. 72 — new
+airport, Shagaya renewable energy, green
+hydrogen); The economy of the Islamic
+civilisation (Grade 8 Term 1 p. 33 — irrigation
+canals and dams, cheap paper after Samarkand,
+trade centres, the muhtasib); Islamic world
+energy resources (Grade 8 Term 1 p. 67 — leading
+oil and gas producers mapped and compared) — in
+**Market and Money**: The Islamic Development
+Bank (Grade 8 Term 2 p. 80 — programmes for
+development projects and infrastructure in
+poorer Islamic countries); International
+economic relations (Grade 9 Term 2 p. 36 —
+imports/exports and integrating markets, central
+banks and currency exchange, loans and aid).
+Checked first: none of the 10 NEW slugs existed
+in the current tree and no existing lesson
+covers those things, so each was built once
+under its named slug. Kuwait's own way:
+Economics enters in Grade 6 as the Gulf's old
+livelihoods — work shaped by a harsh
+desert/coastal environment, taught through named
+local crafts, ships and the pearl-diving season;
+the modern economy follows as
+resources-and-development of the Gulf states —
+oil and gas first, with the danger of depending
+on oil named from the start — then widens to the
+Arab homeland (resources, dependency,
+diversification, the New Kuwait vision), to the
+Islamic world (its civilisation's economy, its
+energy, its Development Bank), and closes
+globally (international economic relations,
+OPEC, the food crisis).
+Economics lessons: 431 → 441.

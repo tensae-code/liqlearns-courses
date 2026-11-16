@@ -1,6 +1,6 @@
 # Sources — Sectors Of The Economy
 
-countries: Iran, Ecuador, Guatemala, Syria, Laos
+countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -49,7 +49,16 @@ countries: Iran, Ecuador, Guatemala, Syria, Laos
 |---|---|
 | Teacher guide — evidence for the Laos part above: the guide mirrors the pupil book (lesson plans for the same chapters); no separate placement was filed from it, to avoid double-counting (teacher guide — evidence) | Laos, *Laos Grade 10 Business Teacher Guide*, lesson plans mirroring the pupil book's Ch. 1 §1, Ch. 2 and Ch. 4 |
 
-**Acceptance count: taught in 5 countries (Iran, Ecuador, Guatemala, Syria, Laos).**
+**Book 9:** *دولة الكويت والوطن العربي — الصف السابع — الفصل الدراسي الثاني (State of Kuwait and the Arab Homeland, Grade 7, Term 2)* (student book, Arabic) — Ministry of Education, State of Kuwait; year 2025–2026 (1st edition); ISBN no ISBN printed. Title as printed: دولة الكويت والوطن العربي — الصف السابع — الفصل الدراسي الثاني (State of Kuwait and the Arab Homeland, Grade 7, Term 2). Grade: 7 (student/teacher: STUDENT). PDF pages: 102 (cover/title page verified against the record title; grabbed via the release-asset route, 60,486,335 bytes, matching the books.json record exactly). Verdict: COMPLETE. Contents map: Geography (Arab population, growth, distribution, Kuwait population) printed pp. 17–28; Economics parts printed pp. 34–45, 60–64 and 72–83; Geography/Environment/Social (natural, political and social problems) printed pp. 52–59. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Economic sectors: industry, trade and services — the three sectors, with trade defined as exchanging goods and split into its types, taught as a family dialogue about choosing trade work | Kuwait, *Kuwait Grade 7 Social Studies G7 T2*, Economic sectors: industry, trade and services — printed p. 39 |
+
+
+**Acceptance count: taught in 6 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait).**
+
+Kuwait's own way (Kuwait Grade 7 Term 2): Grade 7 widens from the Gulf to the whole Arab homeland — resources and sectors first, then the Arab world's economic problems (above all economic dependency), then the future: diversification, the New Kuwait vision and Arab integration.
 
 Iran's own way (Iran Grade 7 Social Studies): one combined Social Studies book of 24 lessons in 12 chapters. The Geography parts placed below are Ch. 5 Knowing our living environment (Lessons 9–10, printed pp. 43–56), Ch. 6 Protecting Iran's habitats (Lessons 11–12, printed pp. 57–72), Ch. 7 Population and resources (Lessons 13–14, printed pp. 73–88) and Ch. 8 Tourism in Iran (Lessons 15–16, printed pp. 89–102), plus the sectors part of Ch. 4. The other parts are named here, not placed: Civics — Ch. 1 Our rights and responsibilities (Lessons 1–2, printed pp. 1–12), Ch. 2 Law (Lessons 3–4, printed pp. 13–20), Ch. 3 Coping with incidents — empathy and insurance (Lessons 5–6, printed pp. 21–30); Economics — Ch. 4 Production, distribution, consumption (Lesson 8 Consumption, printed pp. 37–42; Lesson 7 placed above); History and Culture — Ch. 9 Our land, searching the distant past (Lessons 17–18, from printed p. 103), Ch. 10 Iran in ancient times (Lessons 19–20), Ch. 11 The coming of Islam to Iran and Islamic Iran (Lessons 21–22), and Ch. 12 Culture and art (Lessons 23–24) fill the rest of the book (printed pp. 103–178).
 

@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **431**
+Economics lessons across the Economics titles: **441**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4301,3 +4301,15 @@ the entrepreneur, Price and non-price competition
 and Price as an economic category — and pricing;
 Macroeconomics: Kazakhstan's economy after
 independence).
++10 for Kuwait,
+2026-11-16 — Macroeconomics: Gulf energy
+resources and national income, Gulf economic
+challenges and development, Arab economic
+resources — oil, gas and minerals, Kuwait —
+resources and national wealth, Arab economic
+problems and dependency, Kuwait — the New
+Kuwait vision and economic diversification,
+The economy of the Islamic civilisation and
+Islamic world energy resources; Market and
+Money: The Islamic Development Bank and
+International economic relations).

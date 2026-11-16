@@ -1,6 +1,6 @@
 # Sources — Sustainable development — meeting needs without stealing the future
 
-countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Guatemala
+countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Guatemala, Kuwait
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -36,7 +36,16 @@ countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, So
 | South Sudan part — Developing and using resources sustainably | South Sudan, *South Sudan Grade 11 S3 Geography SB*, Developing and using resources sustainably — printed p. 36 |
 | Guatemala part — Experience 3 "Desarrollo sostenible", Actividad 1 "Desarrollo sostenible": sustainable development defined in the Brundtland Commission's own sentence (1987) — development that satisfies present needs without compromising the capacity of future generations to satisfy their own — not using up the resources but leaving them for children and grandchildren; sustainability as a paradigm in which the environmental, social and economic considerations are balanced and interlocked, set against the old paradigm of economic development whose social and environmental damage was treated as inevitable; with the principles of sustainable development from the 1992 Rio Declaration (teacher guide — evidence) | Guatemala, *Emprendimiento para la Productividad III Teacher's Guide*, Grade 9, Experience 3 "Desarrollo sostenible", Actividad 1 "Desarrollo sostenible" — printed p. 55 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere.**
+**Book 11:** *دولة الكويت والعالم — الصف التاسع — الفصل الدراسي الثاني (State of Kuwait and the World, Grade 9, Term 2)* (student book, Arabic) — Ministry of Education, State of Kuwait; year 2025–2026 (1st edition pattern of the series); ISBN no ISBN printed. Title as printed: دولة الكويت والعالم — الصف التاسع — الفصل الدراسي الثاني (State of Kuwait and the World, Grade 9, Term 2). Grade: 9 (student/teacher: STUDENT). PDF pages: 106 (cover/title page verified against the record title; grabbed via the release-asset route, 27,418,994 bytes, matching the books.json record exactly). Verdict: COMPLETE. Contents map: Civics (global citizenship and community responsibility) printed pp. 14–30; International relations (political, social/cultural forms; Kuwait's foreign presence) printed pp. 32–45; Organisations (UN and its agencies) printed pp. 48–62; Social challenges (national identity, bullying) printed pp. 68–79; Economics parts printed pp. 25–27, 36–38, 59–61, 74–76 and 80–83. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Global citizenship and Kuwait's vision for sustainable development — the general goals of sustainable development under global citizenship, and Kuwait's own role in achieving it | Kuwait, *Kuwait Grade 9 Social Studies G9 T2*, Global citizenship and Kuwait's vision for sustainable development — printed p. 25 |
+
+
+**Acceptance count: taught in 8 countries (Ethiopia, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Kuwait). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere.**
+
+Kuwait's own way (Kuwait Grade 9 Term 2): the middle-stage course closes by going global — economic relations between states, OPEC as the oil-producers' organisation Kuwait belongs to, and world challenges (poverty, the food crisis) framed as production-versus-consumption problems.
 
 Niue's own way (teacher guide — evidence): the guide localises the shared Pacific set country by country — its "Links to formal learning" section carries a dedicated Niue chapter (what sustainability means for Niueans; Niue curriculum links to SDG 4.7), the model other Pacific countries' sets follow. That evidence is stocked here as the way Niue teaches this thing; it does not change the acceptance count above.
 

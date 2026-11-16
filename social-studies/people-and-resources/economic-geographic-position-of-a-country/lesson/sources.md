@@ -1,6 +1,6 @@
 # Sources — Economic Geographic Position of a Country
 
-countries: Kazakhstan
+countries: Kazakhstan, Kuwait
 
 **Book 1:** *География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева)* (student book, Kazakh) — Астана «Назарбаев Зияткерлік мектептері» ДББҰ (NIS), with UCL Institute of Education, London; year 2018; ISBN 978-601-328-195-7. Title as printed: География — 7-сыныпқа арналған оқулық (authors С. А. Аманғалиева, М. Б. Бегжанова, Р. А. Қаратабанов, Т. Ж. Қасымов, К. К. Сахова, Ж. Ф. Тенекебаева). Grade: 7 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1045.pdf, 65,250,742 bytes from the recorded okulyk.kz source, page count matches the record). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -46,7 +46,16 @@ countries: Kazakhstan
 | Sub lesson 1 — 6.5 Features of countries' politico-geographic position | Kazakhstan, *Kazakhstan Grade 8 Sakhova NIS*, 6.5 Features of countries' politico-geographic position — printed p. 149 |
 | Sub lesson 2 — Kazakhstan's way — the book's own teaching way | Kazakhstan — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Kazakhstan).**
+**Book 12:** *دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الثاني (State of Kuwait and the Arab Gulf States, Grade 6, Term 2)* (student book, Arabic) — Ministry of Education, State of Kuwait; year 2025–2026 (1st edition, 1447H); ISBN no ISBN printed. Title as printed: دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الثاني (State of Kuwait and the Arab Gulf States, Grade 6, Term 2). Grade: 6 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; grabbed via the release-asset route, 19,211,624 bytes, matching the books.json record exactly — the books.json tree path itself returned 404). Verdict: COMPLETE. Contents map: History (colonialism, protection agreement, independence, Kuwait political development) printed pp. 18–33; Geography/Civics (population, population challenges, culture) printed pp. 40–54; Economics parts printed pp. 18–20 (one lesson), 60–75 and 86–88. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Gulf location and its economic importance — where the Gulf states sit relative to the Arab world and the continents, and why that location mattered economically in old times | Kuwait, *Kuwait Grade 6 Social Studies G6 T2*, Gulf location and its economic importance — printed p. 18 |
+
+
+**Acceptance count: taught in 2 countries (Kazakhstan, Kuwait).**
+
+Kuwait's own way (Kuwait Grade 6 Term 2): the modern economy is taught as resources-and-development of the Gulf states — oil and gas first, with the danger of depending on oil named from the start, then farming, livestock/fisheries, industry and trade, ending in GCC economic integration.
 
 Kazakhstan's own way (Kazakhstan Grade 7 Amangalieva NIS): the NIS (Nazarbayev Intellectual Schools) inquiry textbook: every lesson opens with a «Бұл сабақта» (In this lesson) goal box and closes with a «Сенің кезегің!» (Your turn!) task block; each section ends in a «Қорытынды» summary built round a concept map; the book closes with a trilingual Kazakh–Russian–English glossary. Country-studies section works through how a state improves its geographic position, with the UAE and Singapore as cases and Kazakhstan as the home example.
 

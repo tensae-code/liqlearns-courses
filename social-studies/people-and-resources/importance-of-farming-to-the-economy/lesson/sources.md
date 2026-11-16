@@ -1,6 +1,6 @@
 # Sources — Importance of Farming to the Economy
 
-countries: South Sudan, Syria, Eritrea, Bahamas
+countries: South Sudan, Syria, Eritrea, Bahamas, Kuwait
 
 **Book 1:** *Primary Social Studies 8 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 8 Pupil's Book. Grade: Primary 8 / Grade 8 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title). Note: this record's repo file sits at the nonstandard flat path grade-08/gov/south-sudan/social-studies/full-year-student.pdf (see group log, library debts).. Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1 The Coming of Europeans into Africa — colonisation, collaboration and resistance, colonial contributions (History), printed pp. 1–18 (the migration activity is placed below); Unit 4 National Unity (Civics), printed pp. 54–77; Unit 5 Peace in Our Time (Civics), printed pp. 78–86. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -33,7 +33,32 @@ Eritrea's own way (Eritrea Grade 8 Social Studies 8): the Economics is Eritrea i
 | Bahamas (first filing) — Economic Impact of Farming and Fishing: fishing as a lucrative industry generating foreign exchange and employment on all islands; farming as a source of income (Andros, Abaco, Long Island, Exuma, Eleuthera) and keeping the industry sustainable | Bahamas, *Bahamas Primary Social Studies Digital Textbook, Grade 4*, Economic Impact of Farming and Fishing spread — printed p. 11 |
 | Bahamas (second filing) — Farming: farming as a source of income for The Bahamas, keeping farm products economically viable with a cost-effective workforce, and not letting imported goods undercut the price or quality of local produce | Bahamas, *Bahamas Primary Social Studies, Digital Textbook, Grade 4 (First Edition 2023)*, Farming — printed pp. 96–98 (PDF p. 11) |
 
-**Acceptance count: taught in 4 countries (South Sudan, Syria, Eritrea, Bahamas).**
+**Book 6:** *دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الثاني (State of Kuwait and the Arab Gulf States, Grade 6, Term 2)* (student book, Arabic) — Ministry of Education, State of Kuwait; year 2025–2026 (1st edition, 1447H); ISBN no ISBN printed. Title as printed: دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الثاني (State of Kuwait and the Arab Gulf States, Grade 6, Term 2). Grade: 6 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; grabbed via the release-asset route, 19,211,624 bytes, matching the books.json record exactly — the books.json tree path itself returned 404). Verdict: COMPLETE. Contents map: History (colonialism, protection agreement, independence, Kuwait political development) printed pp. 18–33; Geography/Civics (population, population challenges, culture) printed pp. 40–54; Economics parts printed pp. 18–20 (one lesson), 60–75 and 86–88. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Agricultural resources — Gulf states' efforts in farming despite water scarcity, and Kuwait's own agricultural production and farming areas | Kuwait, *Kuwait Grade 6 Social Studies G6 T2*, Agricultural resources — printed p. 64 |
+
+**Book 7:** *دولة الكويت والوطن العربي — الصف السابع — الفصل الدراسي الثاني (State of Kuwait and the Arab Homeland, Grade 7, Term 2)* (student book, Arabic) — Ministry of Education, State of Kuwait; year 2025–2026 (1st edition); ISBN no ISBN printed. Title as printed: دولة الكويت والوطن العربي — الصف السابع — الفصل الدراسي الثاني (State of Kuwait and the Arab Homeland, Grade 7, Term 2). Grade: 7 (student/teacher: STUDENT). PDF pages: 102 (cover/title page verified against the record title; grabbed via the release-asset route, 60,486,335 bytes, matching the books.json record exactly). Verdict: COMPLETE. Contents map: Geography (Arab population, growth, distribution, Kuwait population) printed pp. 17–28; Economics parts printed pp. 34–45, 60–64 and 72–83; Geography/Environment/Social (natural, political and social problems) printed pp. 52–59. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Food and economy: livestock, water wealth and farming — animal and water wealth of the long Arab coasts, and farming as a main economic activity in some Arab countries and the factors it rests on | Kuwait, *Kuwait Grade 7 Social Studies G7 T2*, Food and economy: livestock, water wealth and farming — printed p. 36 |
+
+**Book 8:** *الكويت والعالم الإسلامي — الصف الثامن — الفصل الدراسي الأول (Kuwait and the Islamic World, Grade 8, Term 1)* (student book, Arabic) — Ministry of Education, State of Kuwait; year 2026–2027 (2nd edition); ISBN 978-9921-33-000-7. Title as printed: الكويت والعالم الإسلامي — الصف الثامن — الفصل الدراسي الأول (Kuwait and the Islamic World, Grade 8, Term 1). Grade: 8 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; grabbed via the release-asset route, 43,874,946 bytes, matching the books.json record exactly). Verdict: COMPLETE. Contents map: History (rise and civilisation of the Islamic state) printed pp. 14–44; Geography (Islamic-world location, terrain, climate) printed pp. 48–64; Civics (law and stability in Kuwait) printed pp. 85–96; Economics parts printed pp. 33–39 and 67–81. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait part — Agricultural resources — cash crops and jute as concepts, the share of Islamic-world people working in farming, rice and other crops by climate, and Kuwait's own government effort to farm despite missing natural factors | Kuwait, *Kuwait Grade 8 Social Studies G8 T1*, Agricultural resources — printed p. 73 |
+
+
+**Acceptance count: taught in 5 countries (South Sudan, Syria, Eritrea, Bahamas, Kuwait).**
+
+Kuwait's own way (Kuwait Grade 6 Term 2): the modern economy is taught as resources-and-development of the Gulf states — oil and gas first, with the danger of depending on oil named from the start, then farming, livestock/fisheries, industry and trade, ending in GCC economic integration.
+
+Kuwait's own way (Kuwait Grade 7 Term 2): Grade 7 widens from the Gulf to the whole Arab homeland — resources and sectors first, then the Arab world's economic problems (above all economic dependency), then the future: diversification, the New Kuwait vision and Arab integration.
+
+Kuwait's own way (Kuwait Grade 8 Term 1): Grade 8 teaches economics twice over — as the economic life of the historical Islamic civilisation (irrigation, industries, trade centres, the market inspector), then as the modern Islamic world's resource base under the heading of how the natural environment shapes economy and society.
 
 Bahamas' own way: the economy is taught through the country's real industries — tourism first, then farming and fishing as income and foreign exchange, island by island (Andros, Abaco, Long Island, Exuma, Eleuthera).
 
