@@ -1,6 +1,6 @@
 # Sources — The circular flow of income
 
-countries: Ethiopia, Uzbekistan, Iraq
+countries: Ethiopia, Uzbekistan, Iraq, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -25,8 +25,17 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 | Iraq part — The circular flow of income — teaches: income circulating between the household sector and the business sector, then the full four-sector open-economy flow with the government sector (taxes in, spending and social payments out) and the foreign sector (exports and imports), acted out as a classroom activity with four student groups | Iraq, *Iraq Grade 12 Economics*, The circular flow of income — printed p. 49 |
 | Iraq part — Leakages and injections — teaches: leakages as the part of income not spent on domestic production — saving, taxes and imports — and injections as spending added from outside factor incomes — government spending, investment spending and exports (Economics expansion, 2026-11-16; original placement slug: macroeconomics/leakages-and-injections — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 12 Economics*, Leakages and injections — printed p. 52 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Uzbekistan, Iraq).**
+**Book 4:** *Social Science Junior High — Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-93-5. Title as printed: Social Science Junior High — Grade 9 Teacher Guide, Standards-Based. Grade: Grade 9 (student/teacher: TEACHER). PDF pages: 316 (cover verified against the record title; byte size 10,003,073 and page count match the record exactly — read from the record's ministry source URL because both GitHub routes returned 404; see library debt in the group log). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 174–236; Geography pp. 44–81; History pp. 82–138; Political Science pp. 139–173; Environment pp. 237–262; glossary (inventory-only) pp. 294–295. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 2, Topic 3: Circular flow of income: the circular flow model built up sector by sector (two, three, four and the full five-sector model with household, firm, capital, government and overseas), factor income and factor payments, injections and leakages and their impact on income, employment and prices, with national income defined (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 2, Topic 3: Circular flow of income — printed p. 187 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Uzbekistan, Iraq). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): secondary Social Science carries a full Economics strand — PNG's own tax system (about 75% of the budget from tax, collected by the IRC), the Bank of Papua New Guinea's direct and indirect monetary instruments, a public-service wage bill of over K200 million a fortnight, the Hiri-Motu traditional trade, and development judged against PNG's Five National Goals and Directive Principles. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
 
-Searchable tags: circular flow of income, expenditure is income, households firms, phone example profit wages, approaches agree, ethiopia, social studies, macroeconomics, uzbekistan, iraq
+Searchable tags: circular flow of income, expenditure is income, households firms, phone example profit wages, approaches agree, ethiopia, social studies, macroeconomics, uzbekistan, iraq, papua new guinea, teacher guide evidence

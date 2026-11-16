@@ -1,6 +1,6 @@
 # Sources — Elasticity of supply
 
-countries: Ethiopia, Kazakhstan, Malaysia, Albania, Yemen, Iraq, United States, Pakistan, Nigeria, Greece
+countries: Ethiopia, Kazakhstan, Malaysia, Albania, Yemen, Iraq, United States, Pakistan, Nigeria, Greece, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -67,7 +67,16 @@ countries: Ethiopia, Kazakhstan, Malaysia, Albania, Yemen, Iraq, United States, 
 |---|---|
 | Greece part — Ch.4 §7 Elasticity of supply — teaches: how strongly quantity supplied responds to price | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.4 §7 Elasticity of supply — printed p. 86 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Kazakhstan, Malaysia, Yemen, Iraq, United States, Pakistan, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 12:** *Economics Senior High — Grade 12 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-906-04-5. Title as printed: Economics Senior High — Grade 12 Teacher Guide, Standards-Based. Grade: Grade 12 (student/teacher: TEACHER). PDF pages: 154 (cover verified against the record title; byte size 6,556,126 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 42–110 (the whole teaching content — Units 1–5); lesson planning and assessment pp. 111–140; glossary (inventory-only) pp. 141–145. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 2, Topic 5: Elasticity of demand and supply: price elasticity of supply — its types and how elasticity coefficients of supply are calculated (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Economics TG*, Unit 2, Topic 5: Elasticity of demand and supply — printed p. 64 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Kazakhstan, Malaysia, Yemen, Iraq, United States, Pakistan, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 12 Economics TG): Grade 12 Economics turns analytical — demand and supply with graphs, elasticity coefficients, the incidence of a sales tax drawn between producer and consumer, market structures illustrated with PNG firms, and a full unit on trade relations and foreign aid, the economy PNG actually lives in. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -90,4 +99,4 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: elasticity of supply, always positive, point arc, coffee stock, production period, factor substitution, number of sellers, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, yemen, iraq, united states, pakistan, nigeria, greece
+Searchable tags: elasticity of supply, always positive, point arc, coffee stock, production period, factor substitution, number of sellers, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, yemen, iraq, united states, pakistan, nigeria, greece, papua new guinea, teacher guide evidence

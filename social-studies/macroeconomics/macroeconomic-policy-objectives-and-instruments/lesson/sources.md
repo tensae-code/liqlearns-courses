@@ -1,6 +1,6 @@
 # Sources — Macroeconomic policy — objectives and instruments
 
-countries: Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq
+countries: Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -44,7 +44,24 @@ countries: Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq
 |---|---|
 | Iraq part — Contemporary economic concepts: economic policy — teaches: economic policy as the state's use of its toolkits — financial, monetary and price tools — among the modern concepts surveyed with production and economic welfare (Economics expansion, 2026-11-16; original placement slug: macroeconomics/fiscal-and-monetary-policy-the-two-big-levers — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 12 Economics*, Contemporary economic concepts: economic policy — printed p. 23 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq).**
+**Book 8:** *Social Science Junior High — Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-93-5. Title as printed: Social Science Junior High — Grade 9 Teacher Guide, Standards-Based. Grade: Grade 9 (student/teacher: TEACHER). PDF pages: 316 (cover verified against the record title; byte size 10,003,073 and page count match the record exactly — read from the record's ministry source URL because both GitHub routes returned 404; see library debt in the group log). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 174–236; Geography pp. 44–81; History pp. 82–138; Political Science pp. 139–173; Environment pp. 237–262; glossary (inventory-only) pp. 294–295. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 3, Topic 3: Fiscal Policy (Budgetary Policy): the aims and instruments of fiscal policy and the types of fiscal policy and their effects, appraised together with monetary policy for how they regulate money and expenditure and overall production, distribution and consumption (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 3, Topic 3: Fiscal Policy (Budgetary Policy) — printed p. 196 |
+
+**Book 9:** *Social Science Junior High — Grade 10 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-94-9. Title as printed: Social Science Junior High — Grade 10 Teacher Guide, Standards-Based. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 338 (cover verified against the record title; byte size 7,699,759 matches record). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 196–249; Geography pp. 44–92; History pp. 93–151; Political Science pp. 152–195; Environment pp. 250–287; glossary (inventory-only) pp. 315–316. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 3, Topic 1: Monetary and fiscal policies: expansionary and contractionary monetary policy (BPNG's instruments: interest rates, liquid asset ratios, special deposits, moral suasion, open market operations, lending controls) and expansionary and contractionary fiscal policy, each traced through employment, interest rates, production and prices (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG*, Unit 3, Topic 1: Monetary and fiscal policies — printed p. 218 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): secondary Social Science carries a full Economics strand — PNG's own tax system (about 75% of the budget from tax, collected by the IRC), the Bank of Papua New Guinea's direct and indirect monetary instruments, a public-service wage bill of over K200 million a fortnight, the Hiri-Motu traditional trade, and development judged against PNG's Five National Goals and Directive Principles. This Papua New Guinea material stands on the teacher guide as evidence only.
+
+Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG): Grade 10 Economics is the labour and capitalism year — two full units on labour (unions, division of labour, labour law, labour costs), then the market system judged by its costs and benefits, trade through television and the internet, and a closing unit interrogating the capitalist ideology itself. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
 
@@ -60,4 +77,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: macroeconomic policy — objectives and instruments, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, cambodia, indonesia, nicaragua, iraq
+Searchable tags: macroeconomic policy — objectives and instruments, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, cambodia, indonesia, nicaragua, iraq, papua new guinea, teacher guide evidence

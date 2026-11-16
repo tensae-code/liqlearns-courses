@@ -1,6 +1,6 @@
 # Sources — Comparative advantage — David Ricardo
 
-countries: Ethiopia, Jordan, Bangladesh, Uzbekistan, Indonesia, Iran, Iraq, United States, Nigeria, Greece
+countries: Ethiopia, Jordan, Bangladesh, Uzbekistan, Indonesia, Iran, Iraq, United States, Nigeria, Greece, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -72,7 +72,24 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Greece part — Ch.11 §3 Absolute and comparative advantage — teaches: Ricardo's comparative advantage as the basis of trade | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.11 §3 Absolute and comparative advantage — printed p. 188 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Jordan, Bangladesh, Uzbekistan, Indonesia, Iran, Iraq, United States, Nigeria, Greece).**
+**Book 12:** *Economics Senior High — Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-98-7. Title as printed: Economics Senior High — Grade 11 Teacher Guide, Standards-Based. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 140 (cover verified against the record title; byte size 6,262,511 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 41–98 (the whole teaching content — Units 1–5); lesson planning pp. 99–102; assessment pp. 103–118; glossary (inventory-only) pp. 119–120. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 4, Topic 1: Theory of trade: the theory of absolute and comparative advantage as the basis of international trade (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Economics TG*, Unit 4, Topic 1: Theory of trade — printed p. 76 |
+
+**Book 13:** *Business Studies — Grade 12 Teacher Guide, Standards-Based (cover headed "Junior High"; the inside title page headed "Senior High")* (teacher guide, English) — Department of Education, Papua New Guinea; year 2023; ISBN 978-9980-921-07-9. Title as printed: Business Studies — Grade 12 Teacher Guide, Standards-Based (cover headed "Junior High"; the inside title page headed "Senior High"). Grade: Grade 12 (student/teacher: TEACHER). PDF pages: 392 (cover verified against the record title; byte size 28,824,289 matches record). Verdict: COMPLETE. Contents map: Economics parts — Strand 1 Unit 1 (Foundations of Business) printed pp. 48–62; consumer-protection parts of Strand 2 Unit 4 pp. 132–135 and of Strand 3 Unit 2 pp. 190–196; pricing parts of Strand 3 Unit 1 pp. 159–161 and Unit 2 pp. 184–189; Strand 5 payment and pricing parts pp. 265–266 and 274–280; Business parts — Strand 1 Unit 2 (corporations and shares) pp. 64–80; Strand 2 Unit 1 (management principles) pp. 82–92; Strand 2 Unit 3 (human resource management) pp. 115–130; Strand 2 Unit 4 law parts (employment, property, intellectual property, computer laws) pp. 136–147; Strand 2 Unit 5 (information technology in business) pp. 149–157; Strand 3 promotion, selling and pricing-strategy parts pp. 162–172, 175–183 and 187; Strand 4 (business planning, start-up and operation) pp. 198–231; Strand 5 Unit 1 (electronic business) and e-marketing parts pp. 234–259, 261–264, 267–272 and 281–286; Accounting part — Strand 2 Unit 2 (Accounting and Finance) pp. 94–113; planning and assessment pp. 287–361; glossary (inventory-only) pp. 362–363. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Strand 1 Unit 1, Benchmark 12.1.1.1: Specialisation and trade: specialisation as devoting resources to a limited scope of goods for efficiency, and comparative advantage as producing at a lower opportunity cost than another country, as the basis for specialising and trading (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Business Studies TG*, Strand 1 Unit 1, Benchmark 12.1.1.1: Specialisation and trade — printed p. 48 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Jordan, Bangladesh, Uzbekistan, Indonesia, Iran, Iraq, United States, Nigeria, Greece). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 11 Economics TG): the standalone Senior High Economics course re-runs the five-unit frame at full depth — human resources and human capital first, then price mechanism and inflation, economic ideologies (conservatism, liberalism, protectionism, free market), international trade, and a closing unit on the communist economy mirroring Grade 10's capitalism unit. This Papua New Guinea material stands on the teacher guide as evidence only.
+
+Papua New Guinea's own way (Papua New Guinea Grade 12 Business Studies TG): the Grade 12 Business Studies guide carries a hidden Economics course inside Strand 1 — its Content Standard 1.1 is expressly about "economic principles" and its content background is drawn from Economics textbooks (Bandara's Economics for Grade 12 and Mickleburg's Economics Principles and Policies in the South Pacific) — and it returns to Economics in pricing (elasticity, supply and demand), in consumer protection enforced by the Independent Consumer and Competition Commission (ICCC), and in how goods are priced and paid for on the internet. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
@@ -88,4 +105,4 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: comparative advantage, david ricardo, ethiopia, social studies, macroeconomics, jordan, bangladesh, uzbekistan, indonesia, iran, iraq, united states, nigeria, greece
+Searchable tags: comparative advantage, david ricardo, ethiopia, social studies, macroeconomics, jordan, bangladesh, uzbekistan, indonesia, iran, iraq, united states, nigeria, greece, papua new guinea, teacher guide evidence

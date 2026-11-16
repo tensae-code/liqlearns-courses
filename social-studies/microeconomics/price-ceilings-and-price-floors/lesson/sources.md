@@ -1,6 +1,6 @@
 # Sources — Price ceilings and price floors
 
-countries: Ethiopia, Albania, Bangladesh, Vietnam, Armenia, Nicaragua, United States, Nigeria, Greece
+countries: Ethiopia, Albania, Bangladesh, Vietnam, Armenia, Nicaragua, United States, Nigeria, Greece, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -60,7 +60,16 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Greece part — Ch.5 §5 State intervention in the market — teaches: maximum and minimum (intervention) prices, with the EU olive-oil intervention price as the worked example | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.5 §5 State intervention in the market — printed p. 99 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bangladesh, Vietnam, Armenia, Nicaragua, United States, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 10:** *Economics Senior High — Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-98-7. Title as printed: Economics Senior High — Grade 11 Teacher Guide, Standards-Based. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 140 (cover verified against the record title; byte size 6,262,511 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 41–98 (the whole teaching content — Units 1–5); lesson planning pp. 99–102; assessment pp. 103–118; glossary (inventory-only) pp. 119–120. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 2, Topic 4: Government intervention — price control mechanism: price surveillance and the institution responsible for it, maximum prices (ceilings), price support (minimum prices/floors), their effects on consumption and production, and monetary and fiscal policy used to control prices (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Economics TG*, Unit 2, Topic 4: Government intervention — price control mechanism — printed p. 57 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Bangladesh, Vietnam, Armenia, Nicaragua, United States, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 11 Economics TG): the standalone Senior High Economics course re-runs the five-unit frame at full depth — human resources and human capital first, then price mechanism and inflation, economic ideologies (conservatism, liberalism, protectionism, free market), international trade, and a closing unit on the communist economy mirroring Grade 10's capitalism unit. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -78,4 +87,4 @@ No matching teacher guide exists in this band: the book recorded as this text's 
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: price ceilings and price floors, grade 12 economics, ethiopia, social studies, microeconomics, albania, bangladesh, vietnam, armenia, nicaragua, united states, nigeria, greece
+Searchable tags: price ceilings and price floors, grade 12 economics, ethiopia, social studies, microeconomics, albania, bangladesh, vietnam, armenia, nicaragua, united states, nigeria, greece, papua new guinea, teacher guide evidence

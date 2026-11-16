@@ -1,6 +1,6 @@
 # Sources — Transport and Economic Development
 
-countries: South Sudan, Palestine, Egypt
+countries: South Sudan, Palestine, Egypt, Papua New Guinea
 
 **Book 1:** *Secondary Geography 3 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 3 Student's Book. Grade: Secondary 3 / Grade 11 (student/teacher: STUDENT). PDF pages: 137 (cover/title page verified against the record title). Verdict: COMPLETE — read from the publisher source file (cgatechnologies.org.uk, the record's own source_url) because the repo route 404s: this book is NOT in GitHub (books.json in_pushed: false). Downloaded file is 22,614,974 bytes, exactly the recorded size_bytes. Staged under the 2026-11-13 rule at phase3-staging/grade-11/gov/south-sudan/geography/student/full-year.pdf (books.json record already present there). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -26,7 +26,24 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Egypt part — Unit 3 Lesson 4, first part “Transport in Africa” — teaches: water, land and air transport in Africa, its problems (old railways, weak networks) and the big linking projects such as the Cairo–Cape Town road and Egypt's role in them | Egypt, *Egypt Grade 7 Social Prp1 T2*, Unit 3 Lesson 4, first part — printed p. 70 |
 
-**Acceptance count: taught in 3 countries (South Sudan, Palestine, Egypt).**
+**Book 5:** *Social Science Teacher Guide — Primary Grade 4, Standards Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-564-9. Title as printed: Social Science Teacher Guide — Primary Grade 4, Standards Based. Grade: Grade 4 (student/teacher: TEACHER). PDF pages: 91 (cover verified against the record title; byte size 1,621,967 matches record; grabbed via the tree route after the blob-URL route disconnected twice and the ministry source timed out). Verdict: COMPLETE. Contents map: Economics parts (Trade strand) printed pp. 35–50; Community and Organization pp. 21–34; Culture and Society pp. 51–58; Environment and Resources pp. 59–66; History and Origins pp. 67–70; assessment/resources/glossary (inventory-only) pp. 71–88. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Trade and Communication unit, Guided Lesson 76 "Transport used in traditional trade" and Lessons 77–90 (KSAV): transport as the movement of goods and services, traditional versus modern trade transport with their advantages and disadvantages, moving goods by land, sea and air, and traditional trading voyages (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 4 Social Science TG*, Trade and Communication unit, Guided Lesson 76 "Transport used in traditional trade" and Lessons 77–90 (KSAV) — printed p. 46 |
+
+**Book 6:** *Social Science Junior High — Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-93-5. Title as printed: Social Science Junior High — Grade 9 Teacher Guide, Standards-Based. Grade: Grade 9 (student/teacher: TEACHER). PDF pages: 316 (cover verified against the record title; byte size 10,003,073 and page count match the record exactly — read from the record's ministry source URL because both GitHub routes returned 404; see library debt in the group log). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 174–236; Geography pp. 44–81; History pp. 82–138; Political Science pp. 139–173; Environment pp. 237–262; glossary (inventory-only) pp. 294–295. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 4, Topic 5: Impact of changes in transportation and communication on trade and economic activities: how improvements in transport and in communication each change trade and economic activity, and their reciprocal influence (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 4, Topic 5: Impact of changes in transportation and communication on trade and economic activities — printed p. 210 |
+
+**Acceptance count: taught in 3 countries (South Sudan, Palestine, Egypt). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 4 Social Science TG): Grade 4 Trade is organised around meeting needs through exchange — barter role-plays in a pretend store, cash crops (coffee, cocoa, copra, vanilla) as PNG's revenue earners, and transport (including the Hiri trading voyages) as what makes trade possible. This Papua New Guinea material stands on the teacher guide as evidence only.
+
+Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): secondary Social Science carries a full Economics strand — PNG's own tax system (about 75% of the budget from tax, collected by the IRC), the Bank of Papua New Guinea's direct and indirect monetary instruments, a public-service wage bill of over K200 million a fortnight, the Hiri-Motu traditional trade, and development judged against PNG's Five National Goals and Directive Principles. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 South Sudan's own way (South Sudan Grade 11 S3 Geography SB): A world-geography book (trade routes, megacities, Southeast Asia) anchored back to South Sudan throughout — humanitarian airlift airfields, Thuraya satellite phones, a tourism plan for South Sudan, Juba as the urbanisation example.
 
@@ -34,4 +51,4 @@ South Sudan's own way (South Sudan Grade 11 S3 Geography TG) (teacher guide — 
 
 Egypt's own way (Grade 7 Term 2, egypt-placements.md): Africa's economy is taught activity by activity, and every lesson ends with what Egypt and Africa together are doing to develop that activity — continental programmes, Egyptian projects and the AfCFTA.
 
-Searchable tags: transport and economic development, South Sudan, social studies, population-transport-and-maps, palestine, egypt
+Searchable tags: transport and economic development, South Sudan, social studies, population-transport-and-maps, palestine, egypt, papua new guinea, teacher guide evidence

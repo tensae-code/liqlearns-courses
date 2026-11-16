@@ -1,0 +1,17 @@
+# Sources — Wages and salaries in the government budget
+
+countries: Papua New Guinea
+
+**Book 1:** *Social Science Junior High — Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-93-5. Title as printed: Social Science Junior High — Grade 9 Teacher Guide, Standards-Based. Grade: Grade 9 (student/teacher: TEACHER). PDF pages: 316 (cover verified against the record title; byte size 10,003,073 and page count match the record exactly — read from the record's ministry source URL because both GitHub routes returned 404; see library debt in the group log). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 174–236; Geography pp. 44–81; History pp. 82–138; Political Science pp. 139–173; Environment pp. 237–262; glossary (inventory-only) pp. 294–295. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Wages versus salaries; PNG's wage history (Isaac and (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 3, Topic 4: Impact of wages and salaries on government budget — teaches: wages versus salaries, PNG's wage history (Isaac and Cochrane reports), and how a public-service wage bill of more than K200 million per fortnight strains the national budget, crowds out infrastructure and services, and feeds cost-push inflation — printed p. 197 |
+| Sub lesson 2 — How a public-service wage bill of more than (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 3, Topic 4: Impact of wages and salaries on government budget — teaches: wages versus salaries, PNG's wage history (Isaac and Cochrane reports), and how a public-service wage bill of more than K200 million per fortnight strains the national budget, crowds out infrastructure and services, and feeds cost-push inflation — printed p. 197 |
+| Sub lesson 3 — Feeds cost-push inflation (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 3, Topic 4: Impact of wages and salaries on government budget — teaches: wages versus salaries, PNG's wage history (Isaac and Cochrane reports), and how a public-service wage bill of more than K200 million per fortnight strains the national budget, crowds out infrastructure and services, and feeds cost-push inflation — printed p. 197 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): secondary Social Science carries a full Economics strand — PNG's own tax system (about 75% of the budget from tax, collected by the IRC), the Bank of Papua New Guinea's direct and indirect monetary instruments, a public-service wage bill of over K200 million a fortnight, the Hiri-Motu traditional trade, and development judged against PNG's Five National Goals and Directive Principles. This lesson is built from that book's placement. The lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
+
+Searchable tags: budget, government, macroeconomics, papua new guinea, salaries, social studies, teacher guide evidence, wages, wages and salaries in the government budget

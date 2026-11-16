@@ -1,6 +1,6 @@
 # Sources — Inflation — a general, lasting rise in prices
 
-countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Greece
+countries: Ethiopia, Mongolia, Malaysia, Albania, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Greece, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -115,7 +115,16 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Greece part — 5.8 Inflation — teaches: inflation and its effect on the value of money and incomes | Greece, *Greece Grade 9 Oikonomika*, 5.8 Inflation — printed p. 87 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Mongolia, Malaysia, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 19:** *Economics Senior High — Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-98-7. Title as printed: Economics Senior High — Grade 11 Teacher Guide, Standards-Based. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 140 (cover verified against the record title; byte size 6,262,511 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 41–98 (the whole teaching content — Units 1–5); lesson planning pp. 99–102; assessment pp. 103–118; glossary (inventory-only) pp. 119–120. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 2, Topic 5: Inflation: what inflation is, its types, the policies used to control each type, calculating the rate of inflation, and stagflation, hyperinflation, gentle inflation and deflation (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Economics TG*, Unit 2, Topic 5: Inflation — printed p. 59 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Mongolia, Malaysia, Dominica, Bangladesh, Fiji, Vietnam, Indonesia, Nicaragua, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 11 Economics TG): the standalone Senior High Economics course re-runs the five-unit frame at full depth — human resources and human capital first, then price mechanism and inflation, economic ideologies (conservatism, liberalism, protectionism, free market), international trade, and a closing unit on the communist economy mirroring Grade 10's capitalism unit. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -150,4 +159,4 @@ Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lyk
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: inflation definition, general price level, price index, deflation, causes of inflation, ethiopia, social studies, macroeconomics, mongolia, inflation, bread, purchasing power, tögrög, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, Fiji, vietnam, indonesia, nicaragua, iran, pakistan, bolivia, nigeria, greece
+Searchable tags: inflation definition, general price level, price index, deflation, causes of inflation, ethiopia, social studies, macroeconomics, mongolia, inflation, bread, purchasing power, tögrög, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, Fiji, vietnam, indonesia, nicaragua, iran, pakistan, bolivia, nigeria, greece, papua new guinea, teacher guide evidence

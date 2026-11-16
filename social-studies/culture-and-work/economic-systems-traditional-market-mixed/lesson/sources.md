@@ -1,6 +1,6 @@
 # Sources — Economic Systems Traditional Market Mixed
 
-countries: Armenia, Malaysia, United States, Colombia
+countries: Armenia, Malaysia, United States, Colombia, Papua New Guinea
 
 **Book 1:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 9-րդ դասարան — Հանրակրթական հիմնական դպրոցի դասագիրք (Social Science 9, basic-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-243-3. Authors: K. Harutyunyan, T. Simonyan, A. Manucharyan, N. Galstyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 9-րդ դասարան — Հանրակրթական հիմնական դպրոցի դասագիրք (Social Science 9, basic-school textbook). Grade: 9 (student/teacher: STUDENT). PDF pages: 180 (printed 176; cover/title page verified against the record title). Verdict: COMPLETE — the whole book is built around the state. Geography-scope part placed below: Theme 4 "State and economy" (printed pp. 84-127). NOT placed (named for later waves): Theme 1 "The state: an introduction" (pp. 5-42), Theme 2 "State and culture" (pp. 43-58), Theme 3 "State and civil society" (pp. 59-83), Theme 5 "State and citizenship" (pp. 128-171). Read from 100-DPI contact sheets (image-only book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -42,7 +42,24 @@ countries: Armenia, Malaysia, United States, Colombia
 |---|---|
 | Colombia part — Módulo 1, Guía 1: un mundo entre el capitalismo y el socialismo (conceptos) — teaches: an economic system is the set of institutions and structures a country adopts to organise production, distribution and consumption of goods; capital is a factor of production (buildings, machinery, installations) working with labour to produce goods; Marx's terms bourgeoisie (owning class of the means of production) and the salaried working class that owns none | Colombia, *Colombia Grade 9 Postprimaria G9*, Módulo 1, Guía 1: un mundo entre el capitalismo y el socialismo (conceptos) — printed p. 15 |
 
-**Acceptance count: taught in 4 countries (Armenia, Malaysia, United States, Colombia).**
+**Book 7:** *Social Science Junior High — Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-93-5. Title as printed: Social Science Junior High — Grade 9 Teacher Guide, Standards-Based. Grade: Grade 9 (student/teacher: TEACHER). PDF pages: 316 (cover verified against the record title; byte size 10,003,073 and page count match the record exactly — read from the record's ministry source URL because both GitHub routes returned 404; see library debt in the group log). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 174–236; Geography pp. 44–81; History pp. 82–138; Political Science pp. 139–173; Environment pp. 237–262; glossary (inventory-only) pp. 294–295. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 2, Topic 4: Economic systems: market (capitalist) versus command (planned) economies compared on ownership, exchange, motivation and government involvement, and how each answers what, how and for whom to produce (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 2, Topic 4: Economic systems — printed p. 190 |
+
+**Book 8:** *Economics Senior High — Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-98-7. Title as printed: Economics Senior High — Grade 11 Teacher Guide, Standards-Based. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 140 (cover verified against the record title; byte size 6,262,511 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 41–98 (the whole teaching content — Units 1–5); lesson planning pp. 99–102; assessment pp. 103–118; glossary (inventory-only) pp. 119–120. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 2, Topic 1: Economic systems: comparing traditional (subsistence), command (centrally planned), market (capitalist) and mixed economies, and the political systems associated with each (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Economics TG*, Unit 2, Topic 1: Economic systems — printed p. 51 |
+
+**Acceptance count: taught in 4 countries (Armenia, Malaysia, United States, Colombia). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): secondary Social Science carries a full Economics strand — PNG's own tax system (about 75% of the budget from tax, collected by the IRC), the Bank of Papua New Guinea's direct and indirect monetary instruments, a public-service wage bill of over K200 million a fortnight, the Hiri-Motu traditional trade, and development judged against PNG's Five National Goals and Directive Principles. This Papua New Guinea material stands on the teacher guide as evidence only.
+
+Papua New Guinea's own way (Papua New Guinea Grade 11 Economics TG): the standalone Senior High Economics course re-runs the five-unit frame at full depth — human resources and human capital first, then price mechanism and inflation, economic ideologies (conservatism, liberalism, protectionism, free market), international trade, and a closing unit on the communist economy mirroring Grade 10's capitalism unit. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Colombia's own way (Colombia Grade 9 Postprimaria G9): Grade 9 argues the systems themselves — capitalism vs socialism as a classroom debate, globalisation in five authors' definitions, and a real 2010 minimum-wage negotiation as the source text.
 
@@ -54,4 +71,4 @@ Armenia's own way (Armenia Grade 9 Social Science student): grade-9 Social Scien
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: economic systems traditional market mixed, Armenia, social studies, culture-and-work, malaysia, united states, colombia
+Searchable tags: economic systems traditional market mixed, Armenia, social studies, culture-and-work, malaysia, united states, colombia, papua new guinea, teacher guide evidence

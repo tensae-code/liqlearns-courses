@@ -1,6 +1,6 @@
 # Sources — Scarcity forces choice
 
-countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece
+countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -112,7 +112,16 @@ countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulg
 |---|---|
 | Greece part — 1.3 Scarcity (Στενότητα) — teaches: scarcity as wants exceeding available goods | Greece, *Greece Grade 9 Oikonomika*, 1.3 Scarcity (Στενότητα) — printed p. 11 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Syria, Mongolia, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 19:** *Social Science Junior High — Grade 10 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-94-9. Title as printed: Social Science Junior High — Grade 10 Teacher Guide, Standards-Based. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 338 (cover verified against the record title; byte size 7,699,759 matches record). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 196–249; Geography pp. 44–92; History pp. 93–151; Political Science pp. 152–195; Environment pp. 250–287; glossary (inventory-only) pp. 315–316. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 4, Topic 1: Satisfying needs and wants through technology: the basic economic problem — unlimited needs and wants against limited resources — and the choices it forces on individuals, firms and governments, as the frame for why technology is used to satisfy needs and wants (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG*, Unit 4, Topic 1: Satisfying needs and wants through technology — printed p. 226 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Syria, Mongolia, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG): Grade 10 Economics is the labour and capitalism year — two full units on labour (unions, division of labour, labour law, labour costs), then the market system judged by its costs and benefits, trade through television and the internet, and a closing unit interrogating the capitalist ideology itself. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Pakistan's own way (Pakistan Grade 4 Social Studies Class 4 SNC): Economics enters at Class 4 as one named chapter of Social Studies, taught in Urdu with English concept labels, through Pakistani examples — the State Bank of Pakistan, a National Bank of Pakistan cheque, and Pakistan's own import/export goods.
 
@@ -151,4 +160,4 @@ Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lyk
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: scarcity choice chain, limited output, households firms governments choose, ethiopia, syria, syrian pounds, necessary purchases, postponable purchases, social studies, microeconomics, mongolia, opportunity cost, family examples, albania, egypt, yemen, Fiji, armenia, bulgaria, iran, iraq, pakistan, greece
+Searchable tags: scarcity choice chain, limited output, households firms governments choose, ethiopia, syria, syrian pounds, necessary purchases, postponable purchases, social studies, microeconomics, mongolia, opportunity cost, family examples, albania, egypt, yemen, Fiji, armenia, bulgaria, iran, iraq, pakistan, greece, papua new guinea, teacher guide evidence

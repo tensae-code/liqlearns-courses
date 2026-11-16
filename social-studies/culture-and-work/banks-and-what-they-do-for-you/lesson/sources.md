@@ -1,6 +1,6 @@
 # Sources — Banks and What They Do for You
 
-countries: Mongolia, Bahamas, Rwanda, Fiji, Pakistan
+countries: Mongolia, Bahamas, Rwanda, Fiji, Pakistan, Papua New Guinea
 
 **Book 1:** *Нийгэм судлал IX (Social Studies IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал IX (Social Studies IX). Grade: Grade 9 (student). 99 PDF pp. (cover verified against the record title; read IN PLACE in phase3-staging — note the on-disk file is 53,693,688 bytes while the books.json record says 5,507,721 bytes: a library debt, see group log). Verdict: COMPLETE (image-only scan; contents page and chapter openings read by render, printed pp. 4–5, 26, 44 sampled in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -36,7 +36,16 @@ Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics u
 |---|---|
 | Pakistan part — Banks and their Services — teaches: what a bank does for its customers — account, cheque and ATM (Automated Teller Machine) — with the State Bank of Pakistan named in a know-more box | Pakistan, *Pakistan Grade 4 Social Studies Class 4 SNC*, Banks and their Services — printed p. 100 |
 
-**Acceptance count: taught in 5 countries (Mongolia, Bahamas, Rwanda, Fiji, Pakistan).**
+**Book 6:** *Business Studies — Lower Secondary Teacher Guide* (teacher guide, English) — Department of Education, Papua New Guinea; year 2006; ISBN 9980-935-45-6. Title as printed: Business Studies — Lower Secondary Teacher Guide. Grade: Grades 9–10 (student/teacher: TEACHER). PDF pages: 145 (cover verified against the record title; byte size 1,025,225 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 27–36 (Unit 9.1), Unit 9.2 consumer parts pp. 37–45, Taxation option p. 101; Business parts pp. 46–111 (9.3 Business Communication, 9.4 My Small Business Project, 10.1 Marketing, 10.2 Starting a Small Business, 10.4 Preparing for the Workplace, 10.5 Laws and Business Regulations in PNG, Option 1 Business Calculations, Option 3 Computer Applications, Option 4 Business of Tourism); Accounting part (10.3 Keeping Accounts for my Business) within pp. 46–111; glossaries (inventory-only) pp. 123–126. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 9.1: the role of financial institutions in the delivery of goods and services to consumers, taught as one of the aids to trade alongside government services and businesses (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grades 9–10 Business Studies TG*, Unit 9.1 — printed p. 27 |
+
+**Acceptance count: taught in 5 countries (Mongolia, Bahamas, Rwanda, Fiji, Pakistan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grades 9–10 Business Studies TG): the old OBE Business Studies course carries its Economics inside Unit 9.1 — production and trading of PNG-made goods, shell money and pigs as traditional exchange against modern money, and why domestic trade keeps money inside the country — plus a wise-consumer unit and a Taxation option taught with real IRC forms. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Pakistan's own way (Pakistan Grade 4 Social Studies Class 4 SNC): Economics enters at Class 4 as one named chapter of Social Studies, taught in Urdu with English concept labels, through Pakistani examples — the State Bank of Pakistan, a National Bank of Pakistan cheque, and Pakistan's own import/export goods.
 
@@ -47,4 +56,4 @@ Bahamas' own way: banking is defined for the Grade 6 learner inside the Ministry
 
 Mongolia's own way: Social Studies is a five-chapter spiral (Individual & Society, Individual & Culture, Individual & Economy, Human Rights & Law, Public Administration) continued from Grade 8; there is no physical-geography chapter — Mongolia's geography is a separate subject (Газарзүй) — so this book's Geography-wave content is its culture and economics teaching, grounded in Mongolian surveys, wage tables and heritage inventories. That way is stocked here as the way Mongolia teaches this thing. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
 
-Searchable tags: banks, saving, borrowing, Mongolia, Нийгэм судлал IX, social studies, culture and work, bahamas, rwanda, Fiji, pakistan
+Searchable tags: banks, saving, borrowing, Mongolia, Нийгэм судлал IX, social studies, culture and work, bahamas, rwanda, Fiji, pakistan, papua new guinea, teacher guide evidence

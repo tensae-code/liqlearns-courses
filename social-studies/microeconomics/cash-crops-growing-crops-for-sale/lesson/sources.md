@@ -1,0 +1,17 @@
+# Sources — Cash crops growing crops for sale
+
+countries: Papua New Guinea
+
+**Book 1:** *Social Science Teacher Guide — Primary Grade 4, Standards Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-564-9. Title as printed: Social Science Teacher Guide — Primary Grade 4, Standards Based. Grade: Grade 4 (student/teacher: TEACHER). PDF pages: 91 (cover verified against the record title; byte size 1,621,967 matches record; grabbed via the tree route after the blob-URL route disconnected twice and the ministry source timed out). Verdict: COMPLETE. Contents map: Economics parts (Trade strand) printed pp. 35–50; Community and Organization pp. 21–34; Culture and Society pp. 51–58; Environment and Resources pp. 59–66; History and Origins pp. 67–70; assessment/resources/glossary (inventory-only) pp. 71–88. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — A cash crop as a crop grown on (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 4 Social Science TG*, Production unit, Guided Lesson 61 "Cash crops" and Lessons 62–75 (KSAV/project) — teaches: a cash crop as a crop grown on a large scale for sale (coffee, tea, cocoa, vanilla, copra, rubber), cash crops as a source of revenue for PNG's economy, plantation work, and tracing where PNG products (coffee, coconut oil) are made, ending in a cash-crop project — printed p. 41 |
+| Sub lesson 2 — Copra; rubber); cash crops as a source of (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 4 Social Science TG*, Production unit, Guided Lesson 61 "Cash crops" and Lessons 62–75 (KSAV/project) — teaches: a cash crop as a crop grown on a large scale for sale (coffee, tea, cocoa, vanilla, copra, rubber), cash crops as a source of revenue for PNG's economy, plantation work, and tracing where PNG products (coffee, coconut oil) are made, ending in a cash-crop project — printed p. 41 |
+| Sub lesson 3 — Tracing where PNG products (coffee; coconut oil) are (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 4 Social Science TG*, Production unit, Guided Lesson 61 "Cash crops" and Lessons 62–75 (KSAV/project) — teaches: a cash crop as a crop grown on a large scale for sale (coffee, tea, cocoa, vanilla, copra, rubber), cash crops as a source of revenue for PNG's economy, plantation work, and tracing where PNG products (coffee, coconut oil) are made, ending in a cash-crop project — printed p. 41 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 4 Social Science TG): Grade 4 Trade is organised around meeting needs through exchange — barter role-plays in a pretend store, cash crops (coffee, cocoa, copra, vanilla) as PNG's revenue earners, and transport (including the Hiri trading voyages) as what makes trade possible. This lesson is built from that book's placement. The lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
+
+Searchable tags: cash, cash crops growing crops for sale, crops, growing, microeconomics, papua new guinea, social studies, teacher guide evidence

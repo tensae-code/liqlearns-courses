@@ -1,6 +1,6 @@
 # Sources — Public goods and the free rider
 
-countries: Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan
+countries: Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -84,7 +84,16 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Pakistan part — Public Goods and Services; Private Goods and Services — teaches: public goods and services (school, hospital, Pakistan Railways, PIA, Pakistan Post, Water and Power Development Authority) set against private goods and services, with consumer and producer defined on the same spread | Pakistan, *Pakistan Grade 5 Social Studies Class 5 SNC*, Public Goods and Services; Private Goods and Services — printed p. 87 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan).**
+**Book 13:** *Social Science Junior High — Grade 10 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-94-9. Title as printed: Social Science Junior High — Grade 10 Teacher Guide, Standards-Based. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 338 (cover verified against the record title; byte size 7,699,759 matches record). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 196–249; Geography pp. 44–92; History pp. 93–151; Political Science pp. 152–195; Environment pp. 250–287; glossary (inventory-only) pp. 315–316. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 3, Topic 4: Regulation and allocation of goods and services: private goods versus public goods — excludability and rivalry explained — the types of goods and services that are regulated, and the methods by which people, individually or collectively through government, regulate and allocate them (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG*, Unit 3, Topic 4: Regulation and allocation of goods and services — printed p. 224 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG): Grade 10 Economics is the labour and capitalism year — two full units on labour (unions, division of labour, labour law, labour costs), then the market system judged by its costs and benefits, trade through television and the internet, and a closing unit interrogating the capitalist ideology itself. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Pakistan's own way (Pakistan Grade 5 Social Studies Class 5 SNC): The Class 5 chapter deepens the Class 4 set with Pakistan's own institutions as the teaching examples — PIA, Pakistan Railways, Pakistan Television, Pakistan Post and WAPDA for public services, the State Bank of Pakistan (established 1948), and Dr Akhtar Hameed Khan's microfinance work for social entrepreneurship.
 
@@ -103,4 +112,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia, dominica, csec principles of business, caribbean, uzbekistan, egypt, india, united states, pakistan
+Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia, dominica, csec principles of business, caribbean, uzbekistan, egypt, india, united states, pakistan, papua new guinea, teacher guide evidence

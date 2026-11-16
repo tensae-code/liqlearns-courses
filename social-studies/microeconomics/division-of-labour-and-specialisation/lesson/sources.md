@@ -1,6 +1,6 @@
 # Sources — Division of labour and specialisation
 
-countries: Costa Rica, Nigeria, Greece
+countries: Costa Rica, Nigeria, Greece, Papua New Guinea
 
 **Book 1:** *Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año. Grade: 7 (student/teacher: STUDENT). PDF pages: 166 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 19–29 (Neolithic surplus/barter/division of labour), 66–80 (economic organisation of Maya, Aztec and Inca), 94–105 (ecological footprint), 130–136 (forest conservation incentives / payment for environmental services), 137–165 (world food production, poverty and food access, food security); History pp. 6–93 (hominisation, ancient Mesopotamia/Egypt, Greece/Rome, indigenous peoples of Costa Rica — their short descriptive "economic activities" paragraphs are History content, named here, not placed); Geography pp. 106–129 (terrestrial ecosystems and tropical forests) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
 
@@ -22,7 +22,24 @@ countries: Costa Rica, Nigeria, Greece
 |---|---|
 | Greece part — Ch.1 §8 The division of labour — teaches: splitting work into specialised tasks and its gains in productivity (filed as NEW LESSON NEEDED under this same slug; the lesson already stood in the current tree, built by an earlier country in this chain, so the placement is stocked into it) | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.1 §8 The division of labour — printed p. 22 |
 
-**Acceptance count: taught in 3 countries (Costa Rica, Nigeria, Greece).**
+**Book 4:** *Social Science Junior High — Grade 10 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-94-9. Title as printed: Social Science Junior High — Grade 10 Teacher Guide, Standards-Based. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 338 (cover verified against the record title; byte size 7,699,759 matches record). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 196–249; Geography pp. 44–92; History pp. 93–151; Political Science pp. 152–195; Environment pp. 250–287; glossary (inventory-only) pp. 315–316. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 2, Topic 1: Changes in the division of labour: how the division of labour grew from nomadic hunting and gathering (minimal specialisation) through settled subsistence farming (men's and women's tasks) to urban society, inside PNG's dual economy of a modern sector beside a traditional subsistence sector (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG*, Unit 2, Topic 1: Changes in the division of labour — printed p. 206 |
+
+**Book 5:** *Economics Senior High — Grade 12 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-906-04-5. Title as printed: Economics Senior High — Grade 12 Teacher Guide, Standards-Based. Grade: Grade 12 (student/teacher: TEACHER). PDF pages: 154 (cover verified against the record title; byte size 6,556,126 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 42–110 (the whole teaching content — Units 1–5); lesson planning and assessment pp. 111–140; glossary (inventory-only) pp. 141–145. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 2, Topic 1: Specialisation in production: specialisation and its advantages and disadvantages, the relationship between specialisation and the cost of production, and specialisation's impact on production and consumption in trade (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Economics TG*, Unit 2, Topic 1: Specialisation in production — printed p. 55 |
+
+**Acceptance count: taught in 3 countries (Costa Rica, Nigeria, Greece). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG): Grade 10 Economics is the labour and capitalism year — two full units on labour (unions, division of labour, labour law, labour costs), then the market system judged by its costs and benefits, trade through television and the internet, and a closing unit interrogating the capitalist ideology itself. This Papua New Guinea material stands on the teacher guide as evidence only.
+
+Papua New Guinea's own way (Papua New Guinea Grade 12 Economics TG): Grade 12 Economics turns analytical — demand and supply with graphs, elasticity coefficients, the incidence of a sales tax drawn between producer and consumer, market structures illustrated with PNG firms, and a full unit on trade relations and foreign aid, the economy PNG actually lives in. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
@@ -30,4 +47,4 @@ Costa Rica's own way (Estudios Sociales CONED 7): Economics is taught inside his
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: division of labour and specialisation, costa rica, social studies, microeconomics, nigeria, greece
+Searchable tags: division of labour and specialisation, costa rica, social studies, microeconomics, nigeria, greece, papua new guinea, teacher guide evidence

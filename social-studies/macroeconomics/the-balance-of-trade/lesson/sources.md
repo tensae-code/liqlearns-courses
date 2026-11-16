@@ -1,6 +1,6 @@
 # Sources — The balance of trade
 
-countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran, Iraq, India, Nigeria
+countries: Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran, Iraq, India, Nigeria, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -91,7 +91,16 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nigeria part — Chapter 8 — Balance of merchandise trade — teaches: Nigeria's balance of merchandise trade | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 8 — Balance of merchandise trade — printed p. 88 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran, Iraq, India, Nigeria). Honduras's Grade 5 teacher guide is cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for that guide.**
+**Book 16:** *Social Science Teacher Guide — Primary Grade 8, Standards Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2019; ISBN 978-9980-905-46-8. Title as printed: Social Science Teacher Guide — Primary Grade 8, Standards Based. Grade: Grade 8 (student/teacher: TEACHER). PDF pages: 130 (cover verified against the record title; byte size 5,657,428 matches record). Verdict: COMPLETE. Contents map: Economics parts (Trade strand, Term 4) printed pp. 85–90; Environment and Resources pp. 25–48; Civic and Organizations pp. 49–64; Culture pp. 65–74; History and Change pp. 75–84; assessment rubrics/appendices pp. 91–130. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Economic Activities unit, Lesson 130 "Imports" (KSAV): imports defined with examples of what PNG imports and why imports matter to PNG's place in international trade (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 8 Social Science TG*, Economic Activities unit, Lesson 130 "Imports" (KSAV) — printed p. 87 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Kuwait, Malaysia, Dominican Republic, Jordan, Uzbekistan, Honduras, Nepal, Nicaragua, Iran, Iraq, India, Nigeria). Honduras's Grade 5 teacher guide is cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for that guide. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 8 Social Science TG): Grade 8 Trade is entirely international trade — PNG's raw-material exports (gold, copper, gas, oil, copra, cocoa, coffee, palm oil) exchanged for Japanese machinery and vehicles, the challenges of trading, and the PNG authorities (IPA, Customs, NAQIA) that police the trade procedures. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
@@ -123,4 +132,4 @@ Honduras's own way (Honduras Grade 5 G5 Teacher CCSS) (teacher guide — evidenc
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: the balance of trade, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, dominican republic, jordan, uzbekistan, honduras, nepal, nicaragua, iran, iraq, india, nigeria
+Searchable tags: the balance of trade, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, dominican republic, jordan, uzbekistan, honduras, nepal, nicaragua, iran, iraq, india, nigeria, papua new guinea, teacher guide evidence

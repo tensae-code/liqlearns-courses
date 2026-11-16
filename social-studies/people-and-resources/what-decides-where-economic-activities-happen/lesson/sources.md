@@ -1,6 +1,6 @@
 # Sources — What Decides Where Economic Activities Happen
 
-countries: Eritrea, South Sudan
+countries: Eritrea, South Sudan, Papua New Guinea
 
 **Book 1:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2015 (reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. Title as printed: Social Studies for Grade 6 — Pupils' Book. Grade 6 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title; 2,730,732 bytes, matches record size_bytes). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 1 Sources, printed p. 1; Unit 2 Measuring Time, printed p. 8; Unit 8 Eritrea 900 B.C.E–1300 C.E, printed p. 60; Unit 9 The Period of the Bahri Negestat, printed p. 68 Civics / life-skills parts (named, not placed): Unit 13 Caring for Younger Children, printed p. 111 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
@@ -36,10 +36,19 @@ South Sudan's own way (South Sudan Primary 7): the country's economy is told thr
 |---|---|
 | South Sudan part — Unit 2, Activity 5: Adaptation to climate change, teacher's notes — climate affects the economic activities carried out in an area — mountain climate favours tree growth so the main economic activity is lumbering; very wet areas make untarmacked roads impassable and landslides destroy transport and communication lines; areas with much rainfall suit tea and coffee while drier areas favour sisal and cotton (teacher guide — evidence) | South Sudan, *South Sudan Primary 8 P8 Social Studies TG* (teacher guide), Unit 2, Activity 5: Adaptation to climate change, teacher's notes — printed p. 23 |
 
-**Acceptance count: taught in 2 countries (Eritrea, South Sudan).**
+**Book 6:** *Economics Senior High — Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-98-7. Title as printed: Economics Senior High — Grade 11 Teacher Guide, Standards-Based. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 140 (cover verified against the record title; byte size 6,262,511 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 41–98 (the whole teaching content — Units 1–5); lesson planning pp. 99–102; assessment pp. 103–118; glossary (inventory-only) pp. 119–120. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 4, Topic 4: Geographical factors creating economic interdependence: location, climatic conditions, resource distribution and population distribution as the geographical factors that create interdependence through trade (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Economics TG*, Unit 4, Topic 4: Geographical factors creating economic interdependence — printed p. 83 |
+
+**Acceptance count: taught in 2 countries (Eritrea, South Sudan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 11 Economics TG): the standalone Senior High Economics course re-runs the five-unit frame at full depth — human resources and human capital first, then price mechanism and inflation, economic ideologies (conservatism, liberalism, protectionism, free market), international trade, and a closing unit on the communist economy mirroring Grade 10's capitalism unit. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.
 
 Eritrea's own way — Economics expansion (Eritrea Grade 6 Social Studies 6): Economics enters as one unit inside integrated Social Studies — the three activity levels are taught entirely through Eritrean examples (highland wheat and barley vs lowland sorghum and sesame, Red Sea fishing, handicrafts before Italian-era modern industry), with a local research project on the pupil's own area.
 
-Searchable tags: what decides where economic activities happen, Eritrea, social studies, people-and-resources, economics expansion, unit 11.1, climate soil water resources, cultural food preference, south sudan
+Searchable tags: what decides where economic activities happen, Eritrea, social studies, people-and-resources, economics expansion, unit 11.1, climate soil water resources, cultural food preference, south sudan, papua new guinea, teacher guide evidence

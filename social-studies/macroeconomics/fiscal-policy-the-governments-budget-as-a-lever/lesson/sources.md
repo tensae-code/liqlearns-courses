@@ -1,6 +1,6 @@
 # Sources — Fiscal policy — the government's budget as a lever
 
-countries: Ethiopia, Malaysia, Albania, Cambodia, Uzbekistan, Egypt, Honduras, Vietnam, Armenia, Indonesia, Nicaragua, United States, Pakistan, Nigeria, Greece
+countries: Ethiopia, Malaysia, Albania, Cambodia, Uzbekistan, Egypt, Honduras, Vietnam, Armenia, Indonesia, Nicaragua, United States, Pakistan, Nigeria, Greece, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -105,7 +105,16 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Greece part — Ch.10 §3 Public finance — teaches: public revenue and expenditure as the state's economic lever | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.10 §3 Public finance — printed p. 179 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Malaysia, Cambodia, Uzbekistan, Egypt, Honduras, Vietnam, Armenia, Indonesia, Nicaragua, United States, Pakistan, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 18:** *Social Science Junior High — Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-93-5. Title as printed: Social Science Junior High — Grade 9 Teacher Guide, Standards-Based. Grade: Grade 9 (student/teacher: TEACHER). PDF pages: 316 (cover verified against the record title; byte size 10,003,073 and page count match the record exactly — read from the record's ministry source URL because both GitHub routes returned 404; see library debt in the group log). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 174–236; Geography pp. 44–81; History pp. 82–138; Political Science pp. 139–173; Environment pp. 237–262; glossary (inventory-only) pp. 294–295. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 1, Topic 3: Tax revenue: sources and uses of tax revenue (public servants' wages, infrastructure, projects, debt servicing), and the three budget kinds — surplus, deficit and balanced — with government borrowing when revenue falls short (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 1, Topic 3: Tax revenue — printed p. 179 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Malaysia, Cambodia, Uzbekistan, Egypt, Honduras, Vietnam, Armenia, Indonesia, Nicaragua, United States, Pakistan, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): secondary Social Science carries a full Economics strand — PNG's own tax system (about 75% of the budget from tax, collected by the IRC), the Bank of Papua New Guinea's direct and indirect monetary instruments, a public-service wage bill of over K200 million a fortnight, the Hiri-Motu traditional trade, and development judged against PNG's Five National Goals and Directive Principles. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -139,4 +148,4 @@ Honduras's own way (Honduras Grade 8 G8 Student CCSS): Grade 8 teaches Latin Ame
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: fiscal policy — the government's budget as a lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, cambodia, uzbekistan, egypt, honduras, vietnam, armenia, indonesia, nicaragua, united states, pakistan, nigeria, greece
+Searchable tags: fiscal policy — the government's budget as a lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, cambodia, uzbekistan, egypt, honduras, vietnam, armenia, indonesia, nicaragua, united states, pakistan, nigeria, greece, papua new guinea, teacher guide evidence

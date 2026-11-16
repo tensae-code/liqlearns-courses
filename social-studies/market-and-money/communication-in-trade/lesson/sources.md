@@ -1,0 +1,17 @@
+# Sources — Communication in trade
+
+countries: Papua New Guinea
+
+**Book 1:** *Social Science Teacher Guide — Primary Grade 5, Standards Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-565-6. Title as printed: Social Science Teacher Guide — Primary Grade 5, Standards Based. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 90 (cover verified against the record title; byte size 1,729,673 matches record). Verdict: COMPLETE. Contents map: Economics parts (Trade strand) printed pp. 35–50; Community and Organization pp. 23–34; Culture and Society pp. 51–58; Environment and Resources pp. 59–66; History and Origins pp. 67–70; assessment/resources/glossary (inventory-only) pp. 71–87. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — How producers and consumers communicate in trade; from (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 5 Social Science TG*, Trade and Communication unit, Guided Lesson 76 "Communication between producers and consumers" and Lessons 77–90 (KSAV) — teaches: how producers and consumers communicate in trade, from traditional signals (conch shell, kundu drum, chanting to sell) through radio, print and television to mobile phones, internet and email, and advertising in different media — printed p. 44 |
+| Sub lesson 2 — Chanting to sell) through radio; print and television (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 5 Social Science TG*, Trade and Communication unit, Guided Lesson 76 "Communication between producers and consumers" and Lessons 77–90 (KSAV) — teaches: how producers and consumers communicate in trade, from traditional signals (conch shell, kundu drum, chanting to sell) through radio, print and television to mobile phones, internet and email, and advertising in different media — printed p. 44 |
+| Sub lesson 3 — Advertising in different media (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 5 Social Science TG*, Trade and Communication unit, Guided Lesson 76 "Communication between producers and consumers" and Lessons 77–90 (KSAV) — teaches: how producers and consumers communicate in trade, from traditional signals (conch shell, kundu drum, chanting to sell) through radio, print and television to mobile phones, internet and email, and advertising in different media — printed p. 44 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 5 Social Science TG): Grade 5 Trade is built on producers and consumers in the local community — consumer rights, a project to advertise a product, formal versus informal business activities, a fund-raising production project, and communication in trade traced from conch shell and kundu drum to mobile phone, internet and media advertising. This lesson is built from that book's placement. The lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
+
+Searchable tags: communication, communication in trade, market-and-money, papua new guinea, social studies, teacher guide evidence, trade

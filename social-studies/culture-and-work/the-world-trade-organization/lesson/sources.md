@@ -1,6 +1,6 @@
 # Sources — The World Trade Organization
 
-countries: South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States, Costa Rica
+countries: South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States, Costa Rica, Papua New Guinea
 
 **Book 1:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -62,7 +62,16 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Costa Rica part — Conceptos básicos — teaches: the WTO (OMC, 135 countries) sets, orders and regulates world trade; the IMF seeks international monetary cooperation, facilitates trade and lends to countries that need it; the World Bank, created in 1944, lends at low interest mainly to developing countries | Costa Rica, *Estudios Sociales 11, Porras y Gamboa*, Grade 11 — printed p. 12 |
 
-**Acceptance count: taught in 9 countries (South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States, Costa Rica).**
+**Book 11:** *Economics Senior High — Grade 12 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-906-04-5. Title as printed: Economics Senior High — Grade 12 Teacher Guide, Standards-Based. Grade: Grade 12 (student/teacher: TEACHER). PDF pages: 154 (cover verified against the record title; byte size 6,556,126 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 42–110 (the whole teaching content — Units 1–5); lesson planning and assessment pp. 111–140; glossary (inventory-only) pp. 141–145. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 3, Topic 1: Global economic institutions: the roles and responsibilities of the World Trade Organization, the International Labour Organization, the World Bank and the International Monetary Fund (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Economics TG*, Unit 3, Topic 1: Global economic institutions — printed p. 70 |
+
+**Acceptance count: taught in 9 countries (South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States, Costa Rica). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 12 Economics TG): Grade 12 Economics turns analytical — demand and supply with graphs, elasticity coefficients, the incidence of a sales tax drawn between producer and consumer, market structures illustrated with PNG firms, and a full unit on trade relations and foreign aid, the economy PNG actually lives in. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Costa Rica's own way (Estudios Sociales 11, Porras y Gamboa): a commercial textbook built on the same national programme as the CONED anthology but with far more economic detail — full PAE I/II/III measure lists, the CAT export-certificate fraud, state banking's six effects, and Costa Rica's services/call-centre economy measured against the region.
 
@@ -82,4 +91,4 @@ South Sudan's own way (South Sudan Grade 12 S4 Geography TG) (teacher guide — 
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: the world trade organization, South Sudan, social studies, culture-and-work, cambodia, uzbekistan, vietnam, nepal, iraq, india, united states
+Searchable tags: the world trade organization, South Sudan, social studies, culture-and-work, cambodia, uzbekistan, vietnam, nepal, iraq, india, united states, papua new guinea, teacher guide evidence

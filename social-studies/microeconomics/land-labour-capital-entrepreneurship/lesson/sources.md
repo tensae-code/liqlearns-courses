@@ -1,6 +1,6 @@
 # Sources — Land, labour, capital, entrepreneurship — and what each is paid
 
-countries: Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Albania, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India, Pakistan, Nigeria, Greece
+countries: Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Albania, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India, Pakistan, Nigeria, Greece, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -154,7 +154,24 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Greece part — Ch.3 Factors of production — teaches: labour, natural resources, capital and entrepreneurship as the four factors, human capital named inside labour | Greece, *Greece Grade 9 Oikonomika*, Ch.3 Factors of production — printed p. 36 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India, Pakistan, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 25:** *Business Studies — Lower Secondary Teacher Guide* (teacher guide, English) — Department of Education, Papua New Guinea; year 2006; ISBN 9980-935-45-6. Title as printed: Business Studies — Lower Secondary Teacher Guide. Grade: Grades 9–10 (student/teacher: TEACHER). PDF pages: 145 (cover verified against the record title; byte size 1,025,225 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 27–36 (Unit 9.1), Unit 9.2 consumer parts pp. 37–45, Taxation option p. 101; Business parts pp. 46–111 (9.3 Business Communication, 9.4 My Small Business Project, 10.1 Marketing, 10.2 Starting a Small Business, 10.4 Preparing for the Workplace, 10.5 Laws and Business Regulations in PNG, Option 1 Business Calculations, Option 3 Computer Applications, Option 4 Business of Tourism); Accounting part (10.3 Keeping Accounts for my Business) within pp. 46–111; glossaries (inventory-only) pp. 123–126. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 9.1 Satisfying Needs and Wants: the factors of production (natural resources, labour, enterprise — business plans are the test's deliberate non-factor) and the issues affecting production, from health and unemployment to disasters (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grades 9–10 Business Studies TG*, Unit 9.1 Satisfying Needs and Wants — printed p. 27 |
+
+**Book 26:** *Economics Senior High — Grade 12 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-906-04-5. Title as printed: Economics Senior High — Grade 12 Teacher Guide, Standards-Based. Grade: Grade 12 (student/teacher: TEACHER). PDF pages: 154 (cover verified against the record title; byte size 6,556,126 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 42–110 (the whole teaching content — Units 1–5); lesson planning and assessment pp. 111–140; glossary (inventory-only) pp. 141–145. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 1, Topic 1: Economic resources: natural resources and capital resources distinguished, and their importance in the production and distribution of resources (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Economics TG*, Unit 1, Topic 1: Economic resources — printed p. 42 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India, Pakistan, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grades 9–10 Business Studies TG): the old OBE Business Studies course carries its Economics inside Unit 9.1 — production and trading of PNG-made goods, shell money and pigs as traditional exchange against modern money, and why domestic trade keeps money inside the country — plus a wise-consumer unit and a Taxation option taught with real IRC forms. This Papua New Guinea material stands on the teacher guide as evidence only.
+
+Papua New Guinea's own way (Papua New Guinea Grade 12 Economics TG): Grade 12 Economics turns analytical — demand and supply with graphs, elasticity coefficients, the incidence of a sales tax drawn between producer and consumer, market structures illustrated with PNG firms, and a full unit on trade relations and foreign aid, the economy PNG actually lives in. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
@@ -201,4 +218,4 @@ Iran's own way (Iran Grade 10 Entrepreneurship Workshop): entrepreneurship is a 
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: factors of production, land labour capital entrepreneurship, rent wages interest profit, ethiopia, saudi arabia, resources human natural capital, oil minerals water, france, ses, productive combination, social studies, microeconomics, laos, resources of doing business, economic resources, human resources, time, kazakhstan, tenge, entrepreneurship and business basics, albania, dominica, csec principles of business, caribbean, jordan, bangladesh, egypt, yemen, armenia, nicaragua, iran, iraq, india, pakistan, nigeria, greece
+Searchable tags: factors of production, land labour capital entrepreneurship, rent wages interest profit, ethiopia, saudi arabia, resources human natural capital, oil minerals water, france, ses, productive combination, social studies, microeconomics, laos, resources of doing business, economic resources, human resources, time, kazakhstan, tenge, entrepreneurship and business basics, albania, dominica, csec principles of business, caribbean, jordan, bangladesh, egypt, yemen, armenia, nicaragua, iran, iraq, india, pakistan, nigeria, greece, papua new guinea, teacher guide evidence

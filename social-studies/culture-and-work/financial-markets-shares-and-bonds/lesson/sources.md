@@ -1,6 +1,6 @@
 # Sources — Financial Markets — Shares and Bonds
 
-countries: Mongolia, Uzbekistan, Egypt, Vietnam, Armenia, Nepal, United States
+countries: Mongolia, Uzbekistan, Egypt, Vietnam, Armenia, Nepal, United States, Papua New Guinea
 
 **Book 1:** *Нийгэм судлал X (Social Studies X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал X (Social Studies X). Grade: Grade 10 (student). 151 PDF pp. (cover verified against the record title; secured GitHub release asset, 91,224,144 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book — note the books.json record says 7,193,154 bytes, which does not match the secured asset: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter openings read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -47,7 +47,40 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | United States part — 17.2 How Households Supply Financial Capital — teaches: the household side — savers, banks and borrowers, bond yield calculated, and bonds, stocks, mutual funds and assets contrasted on return against risk | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 17.2 How Households Supply Financial Capital — printed p. 402 |
 
-**Acceptance count: taught in 7 countries (Mongolia, Uzbekistan, Egypt, Vietnam, Armenia, Nepal, United States).**
+**Book 8:** *Social Science Junior High — Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-93-5. Title as printed: Social Science Junior High — Grade 9 Teacher Guide, Standards-Based. Grade: Grade 9 (student/teacher: TEACHER). PDF pages: 316 (cover verified against the record title; byte size 10,003,073 and page count match the record exactly — read from the record's ministry source URL because both GitHub routes returned 404; see library debt in the group log). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 174–236; Geography pp. 44–81; History pp. 82–138; Political Science pp. 139–173; Environment pp. 237–262; glossary (inventory-only) pp. 294–295. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 2, Topic 1: Financial markets and institutions: how PNG's financial system mobilises funds from investors to borrowers — the stock market (PNG National Exchange), the bond/debt market housed in the Bank of Papua New Guinea, and the institutions (commercial banks, microfinance banks, National Development Bank, superannuation funds, savings and loan societies) regulated under the Central Banking Act 2000 (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 2, Topic 1: Financial markets and institutions — printed p. 181 |
+
+**Book 9:** *Social Science Junior High — Grade 10 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-94-9. Title as printed: Social Science Junior High — Grade 10 Teacher Guide, Standards-Based. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 338 (cover verified against the record title; byte size 7,699,759 matches record). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 196–249; Geography pp. 44–92; History pp. 93–151; Political Science pp. 152–195; Environment pp. 250–287; glossary (inventory-only) pp. 315–316. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 5, Topic 5: Financial institutions in the capitalist economy: how financial institutions function inside a capitalist economy (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG*, Unit 5, Topic 5: Financial institutions in the capitalist economy — printed p. 244 |
+
+**Book 10:** *Economics Senior High — Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-98-7. Title as printed: Economics Senior High — Grade 11 Teacher Guide, Standards-Based. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 140 (cover verified against the record title; byte size 6,262,511 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 41–98 (the whole teaching content — Units 1–5); lesson planning pp. 99–102; assessment pp. 103–118; glossary (inventory-only) pp. 119–120. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 5, Topic 4: Financial system in a communist economy: how financial institutions function inside a communist economy (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Economics TG*, Unit 5, Topic 4: Financial system in a communist economy — printed p. 94 |
+
+**Book 11:** *Economics Senior High — Grade 12 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-906-04-5. Title as printed: Economics Senior High — Grade 12 Teacher Guide, Standards-Based. Grade: Grade 12 (student/teacher: TEACHER). PDF pages: 154 (cover verified against the record title; byte size 6,556,126 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 42–110 (the whole teaching content — Units 1–5); lesson planning and assessment pp. 111–140; glossary (inventory-only) pp. 141–145. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 5, Topic 4: Operations of financial institutions in a socialist system: how financial institutions function and operate inside a socialist system (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Economics TG*, Unit 5, Topic 4: Operations of financial institutions in a socialist system — printed p. 101 |
+
+**Acceptance count: taught in 7 countries (Mongolia, Uzbekistan, Egypt, Vietnam, Armenia, Nepal, United States). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): secondary Social Science carries a full Economics strand — PNG's own tax system (about 75% of the budget from tax, collected by the IRC), the Bank of Papua New Guinea's direct and indirect monetary instruments, a public-service wage bill of over K200 million a fortnight, the Hiri-Motu traditional trade, and development judged against PNG's Five National Goals and Directive Principles. This Papua New Guinea material stands on the teacher guide as evidence only.
+
+Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG): Grade 10 Economics is the labour and capitalism year — two full units on labour (unions, division of labour, labour law, labour costs), then the market system judged by its costs and benefits, trade through television and the internet, and a closing unit interrogating the capitalist ideology itself. This Papua New Guinea material stands on the teacher guide as evidence only.
+
+Papua New Guinea's own way (Papua New Guinea Grade 11 Economics TG): the standalone Senior High Economics course re-runs the five-unit frame at full depth — human resources and human capital first, then price mechanism and inflation, economic ideologies (conservatism, liberalism, protectionism, free market), international trade, and a closing unit on the communist economy mirroring Grade 10's capitalism unit. This Papua New Guinea material stands on the teacher guide as evidence only.
+
+Papua New Guinea's own way (Papua New Guinea Grade 12 Economics TG): Grade 12 Economics turns analytical — demand and supply with graphs, elasticity coefficients, the incidence of a sales tax drawn between producer and consumer, market structures illustrated with PNG firms, and a full unit on trade relations and foreign aid, the economy PNG actually lives in. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -61,4 +94,4 @@ Mongolia's own way: the senior cycle drops the “Individual and…” frame for
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: financial markets, shares, bonds, investment, Mongolia, Нийгэм судлал X, social studies, culture and work, uzbekistan, egypt, vietnam, armenia, nepal, united states
+Searchable tags: financial markets, shares, bonds, investment, Mongolia, Нийгэм судлал X, social studies, culture and work, uzbekistan, egypt, vietnam, armenia, nepal, united states, papua new guinea, teacher guide evidence

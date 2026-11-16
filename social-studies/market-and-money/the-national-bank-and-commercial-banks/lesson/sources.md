@@ -1,6 +1,6 @@
 # Sources — The National Bank and commercial banks
 
-countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Albania, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua, Iraq, Pakistan, Bolivia, Costa Rica, Greece
+countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Albania, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua, Iraq, Pakistan, Bolivia, Costa Rica, Greece, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -131,7 +131,16 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Greece part — Ch.8 §4 The banking system — teaches: the central bank and commercial banks as one system | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.8 §4 The banking system — printed p. 153 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua, Iraq, Pakistan, Bolivia, Costa Rica, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 22:** *Social Science Junior High — Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-93-5. Title as printed: Social Science Junior High — Grade 9 Teacher Guide, Standards-Based. Grade: Grade 9 (student/teacher: TEACHER). PDF pages: 316 (cover verified against the record title; byte size 10,003,073 and page count match the record exactly — read from the record's ministry source URL because both GitHub routes returned 404; see library debt in the group log). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 174–236; Geography pp. 44–81; History pp. 82–138; Political Science pp. 139–173; Environment pp. 237–262; glossary (inventory-only) pp. 294–295. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 3, Topic 2: Bank of Papua New Guinea: the central bank's roles (currency management, lender of last resort, banker to banks, reserves and debt-market management) and its direct instruments (Minimum Liquid Asset Ratio, Cash Reserve Ratio, directives) versus indirect instruments (open market operations, the Kina Facility Rate, discount facility) (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 3, Topic 2: Bank of Papua New Guinea — printed p. 194 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua, Iraq, Pakistan, Bolivia, Costa Rica, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): secondary Social Science carries a full Economics strand — PNG's own tax system (about 75% of the budget from tax, collected by the IRC), the Bank of Papua New Guinea's direct and indirect monetary instruments, a public-service wage bill of over K200 million a fortnight, the Hiri-Motu traditional trade, and development judged against PNG's Five National Goals and Directive Principles. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Costa Rica's own way (Estudios Sociales 11, Porras y Gamboa): a commercial textbook built on the same national programme as the CONED anthology but with far more economic detail — full PAE I/II/III measure lists, the CAT export-certificate fraud, state banking's six effects, and Costa Rica's services/call-centre economy measured against the region.
 
@@ -164,7 +173,7 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, egypt, yemen, armenia, nicaragua, iraq, pakistan, bolivia, greece
+Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, egypt, yemen, armenia, nicaragua, iraq, pakistan, bolivia, greece, papua new guinea, teacher guide evidence
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

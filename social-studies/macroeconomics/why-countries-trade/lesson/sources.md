@@ -1,6 +1,6 @@
 # Sources — Why countries trade
 
-countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece
+countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece, Papua New Guinea
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -122,7 +122,32 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Greece part — Ch.11 §2 Internationalisation of the economy — teaches: why economies open to international exchange | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.11 §2 Internationalisation of the economy — printed p. 187 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece).**
+**Book 20:** *Social Science Teacher Guide — Primary Grade 8, Standards Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2019; ISBN 978-9980-905-46-8. Title as printed: Social Science Teacher Guide — Primary Grade 8, Standards Based. Grade: Grade 8 (student/teacher: TEACHER). PDF pages: 130 (cover verified against the record title; byte size 5,657,428 matches record). Verdict: COMPLETE. Contents map: Economics parts (Trade strand, Term 4) printed pp. 85–90; Environment and Resources pp. 25–48; Civic and Organizations pp. 49–64; Culture pp. 65–74; History and Change pp. 75–84; assessment rubrics/appendices pp. 91–130. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Economic Activities unit, Guided Lesson 129 "Exports": international trade as countries buying and selling goods to each other, why it matters (getting goods a country lacks; raw materials for countries with manufacturing skill — PNG sells gold, copper and iron to Japan, which turns them into machinery and cars), and exports with PNG's export list (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 8 Social Science TG*, Economic Activities unit, Guided Lesson 129 "Exports" — printed p. 85 |
+
+**Book 21:** *Social Science Junior High — Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-93-5. Title as printed: Social Science Junior High — Grade 9 Teacher Guide, Standards-Based. Grade: Grade 9 (student/teacher: TEACHER). PDF pages: 316 (cover verified against the record title; byte size 10,003,073 and page count match the record exactly — read from the record's ministry source URL because both GitHub routes returned 404; see library debt in the group log). Verdict: COMPLETE. Contents map: Economics parts (Strand 4: Economics) printed pp. 174–236; Geography pp. 44–81; History pp. 82–138; Political Science pp. 139–173; Environment pp. 237–262; glossary (inventory-only) pp. 294–295. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 4, Topic 1: Importance of trade: why trade happens and its benefits — variety and quantity of goods, specialisation, relationships, revenue and better living standards — with comparative and absolute advantage named (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 4, Topic 1: Importance of trade — printed p. 203 |
+
+**Book 22:** *Economics Senior High — Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-98-7. Title as printed: Economics Senior High — Grade 11 Teacher Guide, Standards-Based. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 140 (cover verified against the record title; byte size 6,262,511 matches record). Verdict: COMPLETE. Contents map: Economics parts printed pp. 41–98 (the whole teaching content — Units 1–5); lesson planning pp. 99–102; assessment pp. 103–118; glossary (inventory-only) pp. 119–120. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/papua-new-guinea-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea evidence — Unit 4, Topic 1: Characteristics of international trade: the features of international trade — its definition, reasons and benefits, free versus protected trade, the balance of payments and balance of trade, exchange rates and terms of trade (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Economics TG*, Unit 4, Topic 1: Characteristics of international trade — printed p. 76 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Papua New Guinea's own way (Papua New Guinea Grade 8 Social Science TG): Grade 8 Trade is entirely international trade — PNG's raw-material exports (gold, copper, gas, oil, copra, cocoa, coffee, palm oil) exchanged for Japanese machinery and vehicles, the challenges of trading, and the PNG authorities (IPA, Customs, NAQIA) that police the trade procedures. This Papua New Guinea material stands on the teacher guide as evidence only.
+
+Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): secondary Social Science carries a full Economics strand — PNG's own tax system (about 75% of the budget from tax, collected by the IRC), the Bank of Papua New Guinea's direct and indirect monetary instruments, a public-service wage bill of over K200 million a fortnight, the Hiri-Motu traditional trade, and development judged against PNG's Five National Goals and Directive Principles. This Papua New Guinea material stands on the teacher guide as evidence only.
+
+Papua New Guinea's own way (Papua New Guinea Grade 11 Economics TG): the standalone Senior High Economics course re-runs the five-unit frame at full depth — human resources and human capital first, then price mechanism and inflation, economic ideologies (conservatism, liberalism, protectionism, free market), international trade, and a closing unit on the communist economy mirroring Grade 10's capitalism unit. This Papua New Guinea material stands on the teacher guide as evidence only.
+
 
 Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
@@ -155,4 +180,4 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras, Fiji, indonesia, nicaragua, iran, iraq, pakistan, nigeria, greece
+Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras, Fiji, indonesia, nicaragua, iran, iraq, pakistan, nigeria, greece, papua new guinea, teacher guide evidence
