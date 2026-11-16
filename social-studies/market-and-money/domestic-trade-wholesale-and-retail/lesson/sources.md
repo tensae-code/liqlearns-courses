@@ -1,6 +1,6 @@
 # Sources — Domestic trade — wholesale and retail
 
-countries: Ethiopia, Kenya, Eritrea, South Sudan, Venezuela
+countries: Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -49,8 +49,16 @@ South Sudan's own way (South Sudan Primary 6): trade is taught as a tree — int
 |---|---|
 | Venezuela part — Capítulo 12 Comercio y servicios en Venezuela: commerce and services are the final form in which resources extracted from nature reach your hands (maize sown and harvested, processed by industry into precooked flour, then commercialised in the market); no human group can produce everything it needs, which is why commerce exists — internal commerce (shopping centres and markets inside the country) and external commerce; indigenous exchange was barter, colonial foreign trade was exclusive with Spain (coffee, cacao, tobacco), independence opened trade with other countries, and the oil era left the country depending almost exclusively on selling oil on the world market while farm production and commercialisation fell | Venezuela, *Venezuela Grade 11 Venezuela G11 Geografía de Venezuela SB Spanish*, Capítulo 12 Comercio y servicios en Venezuela — printed p. 182 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Kenya, Eritrea, South Sudan, Venezuela).**
+**Book 7:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-856-7. Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Second Semester). Grade: 5 (student/teacher: STUDENT). PDF pages: 100 (cover/title page verified against the record title; byte size 21,825,614 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: History (A Homeland's Journey unit: the Great Arab Revolt, the Jordanian state, its civilisational achievements) pp. 6–25; Economics parts (Unit 6, Economic Activities) pp. 26–47; Geography (The World Around Us unit: location, GPS, Nile Valley and African Horn countries, Maghreb countries) pp. 48–79; Culture/Heritage (Culture and Heritage unit: culture, Jordanian cultural heritage) pp. 80–99. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 6 Lesson 2: The Trade Sector — domestic trade: trade inside the state's borders, moving goods and services between Jordan's own markets and shops, with retail trade among its kinds | Jordan, *Social Studies, Grade 5, Term 2*, Unit 6 Lesson 2: The Trade Sector — domestic trade — printed p. 32 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan).**
 
 Venezuela's own way (Venezuela Grade 11 Venezuela G11 Geografía de Venezuela SB Spanish): the senior geography book is an economic survey of the whole country — land, oil, industry by ownership form, commerce under a fair-prices law, and integration as the Bolivarian alternative to free trade. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
-Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money, south sudan, venezuela
+Jordan's own way (Jordan Grade 5 Term 2): Grade 5 gets the first formal market lesson in the whole set — supply and demand open with frost-damaged vegetables and Ramadan meat prices, trade is read off Aqaba port and Jordan's real export/import lists, and services are toured through Jordan's own schools platform, hospitals and tourist sites.
+
+Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money, south sudan, venezuela, jordan

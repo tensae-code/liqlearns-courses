@@ -1,6 +1,6 @@
 # Sources — The labour force and the unemployment rate
 
-countries: Ethiopia, Laos, Mongolia
+countries: Ethiopia, Laos, Mongolia, Jordan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -28,7 +28,13 @@ countries: Ethiopia, Laos, Mongolia
 |---|---|
 | Mongolia — 3.1 The labour market — working-age population, the labour force (employed plus registered unemployed), and the participation and employment rate formulas, computed from Mongolia's 2016 population figures | Mongolia, *Social Studies 9*, Chapter III, 3.1 The labour market — printed p. 45 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Laos, Mongolia).**
+**Book 5:** *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-847-5. Title as printed: الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, First Semester). Grade: 8 (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified against the record title; byte size 26,627,986 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: Civics (Human Rights unit) pp. 6–31; Environment/Geography (Environment unit) pp. 32–63; History (Civilisations of Mesopotamia unit) pp. 64–89; Geography (general population characteristics, inside Unit 4) pp. 92–97; Economics parts (Population and Development; Sustainable Development, inside Unit 4) pp. 98–109; Media (Media and Public Opinion unit) pp. 110–127; Philosophy pp. 128–143. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 4 Lesson 2: The labour force: increasing population raises the size of the labour force — the people able to work, aged 15 to 65 — and the quality of human resources affects economic development, which is measured by the rise in each worker's productivity | Jordan, *Social Studies, Grade 8, Term 1*, Unit 4 Lesson 2: The labour force — printed p. 99 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Laos, Mongolia, Jordan).**
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
@@ -36,4 +42,6 @@ Laos' own way (Laos Grade 10 Business student): Economics is taught as the theor
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: the labour force and the unemployment rate, grade 12 economics, ethiopia, social studies, macroeconomics, laos, employment, business is the employer, mongolia, labour force, participation rate, 2016 population
+Jordan's own way (Jordan Grade 8 Term 1): Development is taught head-on — growth against development, Malthus against the food supply, and the labour force counted the Jordanian way (everyone aged 15–65 able to work), before the sustainable-development goals close the unit.
+
+Searchable tags: the labour force and the unemployment rate, grade 12 economics, ethiopia, social studies, macroeconomics, laos, employment, business is the employer, mongolia, labour force, participation rate, 2016 population, jordan

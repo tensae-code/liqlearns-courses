@@ -1,6 +1,6 @@
 # Sources — Caring for resources — reduce, reuse, recycle
 
-countries: Ethiopia, Zambia, Bahamas
+countries: Ethiopia, Zambia, Bahamas, Jordan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -22,7 +22,13 @@ countries: Ethiopia, Zambia, Bahamas
 |---|---|
 | Bahamas — Protecting Our Resources: protecting natural resources by Reduce (use less), Reuse (new uses for old things) and Recycle (turning thrown-away things into new products) | Bahamas, *Social Science — Grade 3*, Topic 20 Protecting Our Resources — printed p. 42 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bahamas). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 4:** *الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-850-5. Title as printed: الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Second Semester). Grade: 2 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; byte size 66,244,418 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: History (A Journey Through Time unit: how transport, housing, writing and communication developed; my homeland's achievements) pp. 6–47; Economics parts (Unit 5, My Needs and My Wants) pp. 48–89; Geography (Me and the World unit: our blue planet, Earth's surface shapes, my homeland's map) pp. 90–111. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 5 Lesson 4: Reuse and Recycling: reuse means using materials again (clothes sent to the clothes bank, exchanged story books, food scraps as compost, tyres as garden seats) and protects the environment from pollution, while recycling sends used paper and plastic back to the factory to be made new | Jordan, *Social Studies, Grade 2, Term 2*, Unit 5 Lesson 4: Reuse and Recycling — printed p. 75 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Bahamas, Jordan). Zambia is teacher-module evidence only — named here, counted nowhere.**
 
 Bahamas' own way: resource care is taught island by island — Abaco farming, Andros crabs, Grand Bahama citrus and cement — before the Reduce/Reuse/Recycle rule.
 
@@ -30,4 +36,6 @@ Zambia's own way: Economics at Grade 4 is money and enterprise in kwacha — mar
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: conservation pollution, reduce reuse recycle, waste, ethiopia, zambia, natural resource management, tree planting, teacher module evidence, social studies, microeconomics, bahamas
+Jordan's own way (Jordan Grade 2 Term 2): A whole early-years Economics unit built on a family shopping trip — a real receipt in Jordanian dinars, Jordanian coins and banknotes to order by value, the wheat-to-bread chain for producer and consumer, a child's own money box for saving, and a closing lesson that tours Jordan's own industries.
+
+Searchable tags: conservation pollution, reduce reuse recycle, waste, ethiopia, zambia, natural resource management, tree planting, teacher module evidence, social studies, microeconomics, bahamas, jordan

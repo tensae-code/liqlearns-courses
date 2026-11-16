@@ -1,6 +1,6 @@
 # Sources — Money as a medium of exchange
 
-countries: Ethiopia, Dominica
+countries: Ethiopia, Dominica, Jordan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -17,10 +17,18 @@ countries: Ethiopia, Dominica
 |---|---|
 | Dominica part — Unit 1.1: the functions and characteristics of money — teaches: money as medium of exchange, unit of account, store of value and means of deferred payment, and the characteristics money needs (portable, divisible, acceptable, durable, scarce, homogeneous) | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 1.1: the functions and characteristics of money — printed p. 7 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Dominica).**
+**Book 3:** *الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-850-5. Title as printed: الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Second Semester). Grade: 2 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; byte size 66,244,418 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: History (A Journey Through Time unit: how transport, housing, writing and communication developed; my homeland's achievements) pp. 6–47; Economics parts (Unit 5, My Needs and My Wants) pp. 48–89; Geography (Me and the World unit: our blue planet, Earth's surface shapes, my homeland's map) pp. 90–111. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 5 Lesson 1: Production and Consumption (buying, selling and money): buying is paying money for the goods and products a family needs and selling is the trader receiving money for them, worked through a shopping-centre receipt totalling 33 Jordanian dinars, with Jordan's own paper and coin money ordered by value | Jordan, *Social Studies, Grade 2, Term 2*, Unit 5 Lesson 1: Production and Consumption (buying, selling and money) — printed p. 50 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Dominica, Jordan).**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: medium of exchange, transaction cost, specialisation division of labour, lubricant, ethiopia, social studies, market and money, dominica, csec principles of business, caribbean
+Jordan's own way (Jordan Grade 2 Term 2): A whole early-years Economics unit built on a family shopping trip — a real receipt in Jordanian dinars, Jordanian coins and banknotes to order by value, the wheat-to-bread chain for producer and consumer, a child's own money box for saving, and a closing lesson that tours Jordan's own industries.
+
+Searchable tags: medium of exchange, transaction cost, specialisation division of labour, lubricant, ethiopia, social studies, market and money, dominica, csec principles of business, caribbean, jordan

@@ -1,6 +1,6 @@
 # Sources — Why countries trade
 
-countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica
+countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -44,10 +44,18 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Dominica part — Unit 10.2: international trade and development — teaches: why countries trade (different resource endowments, goods and services they cannot produce, capital and FDI), the main exports of Caribbean countries (Dominica: passenger and cargo ships, cocoa beans), and the advantages and disadvantages of trade, dumping and dependence included (Economics expansion, 2026-11-16; original placement slug: market-and-money/why-countries-trade — stocked here as the closest existing lesson covering this thing) | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 10.2: international trade and development — printed p. 372 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica).**
+**Book 7:** *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-580-1. Title as printed: الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester). Grade: 7 (student/teacher: STUDENT). PDF pages: 140 (cover/title page verified against the record title; byte size 22,835,434 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: Civics (Citizenship unit) pp. 6–23; Civics (Democracy and Human Rights unit) pp. 24–43; Geography (Environment, Resources and Population unit: human–environment relation, population distribution, human activities and landforms) pp. 44–64; Economics parts (International Trade; Economy and Entrepreneurship, inside the same unit) pp. 65–77; History (Civilisations of the Levant unit) pp. 78–105; Culture (Cultural Diversity and Heritage unit) pp. 106–121; Life Skills pp. 122–139. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 3 Lesson 4: International Trade: international trade is the exchange of goods, services, capital and labour between individuals, institutions and states across political borders, organised by differing customs laws, tax procedures and bilateral agreements; it is an old phenomenon, with the Silk Road from China to Europe as its historic example | Jordan, *Social Studies, Grade 7, Term 1*, Unit 3 Lesson 4: International Trade — printed p. 65 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan).**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
-Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean
+Jordan's own way (Jordan Grade 7 Term 1): Trade is taught from Aqaba port and the Silk Road into Jordan's real 2022 export/import charts, and the economy lesson ends in entrepreneurship — Jobs and Apple beside Jordanian start-up projects the class must hunt down itself.
+
+Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan

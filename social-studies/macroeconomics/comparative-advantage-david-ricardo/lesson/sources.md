@@ -1,6 +1,6 @@
 # Sources — Comparative advantage — David Ricardo
 
-countries: Ethiopia
+countries: Ethiopia, Jordan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -13,6 +13,14 @@ countries: Ethiopia
 | Sub lesson 3 — The guide's worked numbers — and the criticisms | Ethiopia, *Economics, Student Textbook, Grade 11*, Unit 5 — Trade and Finance, printed pp. 124–128 |
 | Teacher evidence (teacher guide — evidence) | Ethiopia, *Economics, Teacher Guide, Grade 11*: Unit 5 answer key (teacher guide — evidence): the guide works the student book's Table 5.5 problem (Ethiopia versus India, computers and coffee) in full at printed pp. 130–131. Its opportunity-cost figures and specialisation totals are taught in sub lesson 3 and were spot-checked in this build: 240 − 210 = 30 and 140 − 120 = 20, so the stated world gains hold. |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book 3:** *الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-580-1. Title as printed: الدراسات الاجتماعية — الصف السابع — الفصل الدراسي الأول (Social Studies, Grade 7, First Semester). Grade: 7 (student/teacher: STUDENT). PDF pages: 140 (cover/title page verified against the record title; byte size 22,835,434 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: Civics (Citizenship unit) pp. 6–23; Civics (Democracy and Human Rights unit) pp. 24–43; Geography (Environment, Resources and Population unit: human–environment relation, population distribution, human activities and landforms) pp. 44–64; Economics parts (International Trade; Economy and Entrepreneurship, inside the same unit) pp. 65–77; History (Civilisations of the Levant unit) pp. 78–105; Culture (Cultural Diversity and Heritage unit) pp. 106–121; Life Skills pp. 122–139. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
 
-Searchable tags: comparative advantage, david ricardo, ethiopia, social studies, macroeconomics
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 3 Lesson 4: Why international trade arises: countries trade because each needs goods it cannot provide locally, and because location, climate and natural resources differ, the cost of producing goods differs from one state to another, and technical levels differ, so production is better quality and more efficient where conditions suit it (Australia's wide pastures lowering animal-production costs) | Jordan, *Social Studies, Grade 7, Term 1*, Unit 3 Lesson 4: Why international trade arises — printed p. 67 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Jordan).**
+
+Jordan's own way (Jordan Grade 7 Term 1): Trade is taught from Aqaba port and the Silk Road into Jordan's real 2022 export/import charts, and the economy lesson ends in entrepreneurship — Jobs and Apple beside Jordanian start-up projects the class must hunt down itself.
+
+Searchable tags: comparative advantage, david ricardo, ethiopia, social studies, macroeconomics, jordan

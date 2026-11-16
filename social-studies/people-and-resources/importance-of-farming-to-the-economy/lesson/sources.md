@@ -1,6 +1,6 @@
 # Sources — Importance of Farming to the Economy
 
-countries: South Sudan, Syria, Eritrea, Bahamas, Kuwait, Palestine
+countries: South Sudan, Syria, Eritrea, Bahamas, Kuwait, Palestine, Jordan
 
 **Book 1:** *Primary Social Studies 8 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 8 Pupil's Book. Grade: Primary 8 / Grade 8 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title). Note: this record's repo file sits at the nonstandard flat path grade-08/gov/south-sudan/social-studies/full-year-student.pdf (see group log, library debts).. Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1 The Coming of Europeans into Africa — colonisation, collaboration and resistance, colonial contributions (History), printed pp. 1–18 (the migration activity is placed below); Unit 4 National Unity (Civics), printed pp. 54–77; Unit 5 Peace in Our Time (Civics), printed pp. 78–86. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -83,7 +83,13 @@ South Sudan's own way (South Sudan Primary 5): farming is taught as the country'
 
 Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
 
-**Acceptance count: taught in 6 countries (South Sudan, Syria, Eritrea, Bahamas, Kuwait, Palestine).** South Sudan was already counted in this lesson from the earlier waves (Primary 8 pupil's book above); the Economics-expansion Primary 4, Primary 5 and Primary 8 rows are stocked as depth for the same country, so the count does not rise.
+**Book 13:** *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-574-0. Title as printed: الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, First Semester). Grade: 4 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; byte size 22,639,631 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: Civics/Culture (The Individual and Society unit) pp. 6–25; History (Jordan: History and Civilisation unit) pp. 26–43; Civics (Authority and Government in Jordan unit) pp. 44–57; Economics parts (Unit 4, Environment, Resources and Population: agriculture, industry, energy) pp. 60–70; Environment (human activities and the environment; wildlife in Jordan) pp. 71–79. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 4 Lesson 1: Agriculture: agriculture (tilling the land, producing crops, raising livestock and fish) is among the oldest economic activities and a basic source of food and of raw materials for many industries, and a way of life and source of income; in Jordan it is one of the most important economic sectors — field crops, vegetables and fruit trees, with part of the surplus exported to foreign markets; farming is rain-fed or irrigated | Jordan, *Social Studies, Grade 4, Term 1*, Unit 4 Lesson 1: Agriculture — printed p. 60 |
+
+**Acceptance count: taught in 7 countries (South Sudan, Syria, Eritrea, Bahamas, Kuwait, Palestine, Jordan).** South Sudan was already counted in this lesson from the earlier waves (Primary 8 pupil's book above); the Economics-expansion Primary 4, Primary 5 and Primary 8 rows are stocked as depth for the same country, so the count does not rise.
 
 Kuwait's own way (Kuwait Grade 6 Term 2): the modern economy is taught as resources-and-development of the Gulf states — oil and gas first, with the danger of depending on oil named from the start, then farming, livestock/fisheries, industry and trade, ending in GCC economic integration.
 
@@ -99,4 +105,6 @@ South Sudan's own way (South Sudan Grade 8 P8 Social Studies TG) (teacher guide 
 
 Syria's own way (Syria Grade 4 Social Studies): Grade 4 carries a whole unit named Pillars of the Economy in Syria — the population's economic activities (agriculture, industry, trade, and services such as education, health, transport and tourism) — and agriculture stands first among the pillars: the main income of many Syrians, the raw material of its industry, and a surplus for export.
 
-Searchable tags: importance of farming to the economy, South Sudan, Syria, Eritrea, cotton, wheat, olives, citrus, sugar beet, ox-plough, contour ploughing, Elabered, Alighider, Sawa, livestock, social studies, people-and-resources, bahamas, palestine
+Jordan's own way (Jordan Grade 4 Term 1): The economy is met as the country's working sectors — farming first (with Jordan's own crops and its export surplus), then industry split into extractive and manufacturing, then the energy Jordan must import or harvest from its sun and wind.
+
+Searchable tags: importance of farming to the economy, South Sudan, Syria, Eritrea, cotton, wheat, olives, citrus, sugar beet, ox-plough, contour ploughing, Elabered, Alighider, Sawa, livestock, social studies, people-and-resources, bahamas, palestine, jordan

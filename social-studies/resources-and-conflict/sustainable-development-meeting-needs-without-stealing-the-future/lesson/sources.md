@@ -1,6 +1,6 @@
 # Sources — Sustainable development — meeting needs without stealing the future
 
-countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Guatemala, Kuwait
+countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Guatemala, Kuwait, Jordan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -43,7 +43,16 @@ countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, So
 | Kuwait part — Global citizenship and Kuwait's vision for sustainable development — the general goals of sustainable development under global citizenship, and Kuwait's own role in achieving it | Kuwait, *Kuwait Grade 9 Social Studies G9 T2*, Global citizenship and Kuwait's vision for sustainable development — printed p. 25 |
 
 
-**Acceptance count: taught in 8 countries (Ethiopia, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Kuwait). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere.**
+**Book 12:** *الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2025 (approved for school year 2025/2026); ISBN 978-9923-41-870-3. Title as printed: الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Second Semester; the copy is watermarked "نسخة قيد الإعداد" — a copy under preparation). Grade: 6 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; byte size 28,780,103 matches the record exactly; read in place from phase3-staging). Verdict: COMPLETE. Contents map: History (Dawn of Islam unit) pp. 6–23; Geography (the natural system / climate unit) pp. 24–57; Economics parts (Unit 8, Economic Concepts) pp. 58–81; Life Skills pp. 82–101; Geography (a journey through Jordan's governorates) pp. 102–127. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+**Book 13:** *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-847-5. Title as printed: الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, First Semester). Grade: 8 (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified against the record title; byte size 26,627,986 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: Civics (Human Rights unit) pp. 6–31; Environment/Geography (Environment unit) pp. 32–63; History (Civilisations of Mesopotamia unit) pp. 64–89; Geography (general population characteristics, inside Unit 4) pp. 92–97; Economics parts (Population and Development; Sustainable Development, inside Unit 4) pp. 98–109; Media (Media and Public Opinion unit) pp. 110–127; Philosophy pp. 128–143. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 8 Lesson 1: The UN Sustainable Development Goals and Jordan's projects: the UN's 17 global goals (poverty, education, clean water, health, peace) and Jordan's own sustainable projects — clean-energy plants and waste sorting/recycling | Jordan, *Social Studies, Grade 6, Term 2*, Unit 8 Lesson 1: The UN Sustainable Development Goals and Jordan's projects — printed p. 61 |
+| Jordan part — Economics expansion — Unit 4 Lesson 3: The Sustainable Development Goals: the United Nations' 17 Sustainable Development Goals, adopted by all member states in 2015 as a plan for a better, more sustainable future by 2030 (ending poverty and hunger, good health, quality education, clean water, clean energy, decent work and economic growth, climate action, peace and justice among them) | Jordan, *Social Studies, Grade 8, Term 1*, Unit 4 Lesson 3: The Sustainable Development Goals — printed p. 104 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan, Kuwait, Jordan). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere. Guatemala is named here as teacher-guide evidence only, counted nowhere.**
 
 Kuwait's own way (Kuwait Grade 9 Term 2): the middle-stage course closes by going global — economic relations between states, OPEC as the oil-producers' organisation Kuwait belongs to, and world challenges (poverty, the food crisis) framed as production-versus-consumption problems.
 
@@ -55,7 +64,11 @@ Book error taught corrected, exactly as the placements flag it: Unit 3's history
 
 China's own way: senior-high human geography built entirely around China's own questions — population opens the book (world distribution, push–pull migration, carrying capacity and the Hu Huanyong line as a self-study window), then villages and towns, then where each industry sits and how that changes, then transport and regional development in both directions, closing with the environment and China's own national strategies (main functional zones, the Yangtze Economic Belt, blue-economy space); every chapter ends with a problem inquiry drawn from Chinese everyday life (migrant workers, choosing where to live, physical shops, city traffic, low-carbon food), and two sections carry geographic-information-technology applications (GIS in city management inside Chapter 2 §2; GIS in delivery services inside Chapter 3 §3). That way is stocked here as the way China teaches this thing.
 
-Searchable tags: sustainable development, Brundtland, Our Common Future, Agenda 21, three dimensions, social studies, Haiti, Haïti verte, teacher sequence evidence, Niue, ESD Teacher Guide, teacher guide evidence, China, PEP, People's Education Press
+Jordan's own way (Jordan Grade 6 Term 2): Economics arrives as one late unit built entirely on Jordanian ground — Jordan's solar and wind projects, water scarcity and water harvesting, and a closing project on Jordan's water problem; production is taught through a biscuit's journey from wheat field to home.
+
+Jordan's own way (Jordan Grade 8 Term 1): Development is taught head-on — growth against development, Malthus against the food supply, and the labour force counted the Jordanian way (everyone aged 15–65 able to work), before the sustainable-development goals close the unit.
+
+Searchable tags: sustainable development, Brundtland, Our Common Future, Agenda 21, three dimensions, social studies, Haiti, Haïti verte, teacher sequence evidence, Niue, ESD Teacher Guide, teacher guide evidence, China, PEP, People's Education Press, jordan
 
 Bangladesh's own way (Grade 8): the year's Geography is one long chapter, "Protect the Bond between Nature and People": pupils model the world's biomes, compare world forest cover in 2000 and 2020, map Bangladesh's own forests and disaster-prone areas, and read a long inquiry-reader on biomes, sea resources and the Sundarbans mangrove.
 

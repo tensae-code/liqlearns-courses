@@ -156,7 +156,11 @@ South Sudan's own way (South Sudan Primary 5): farming is taught as the country'
 
 Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
 
-**Acceptance count: taught in 22 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, South Sudan).** South Sudan was already counted in this lesson from the earlier waves; the Economics-expansion Primary 4 teacher-guide and Primary 5 pupil's-book rows are stocked as depth for the same country, so the count does not rise.
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 4 Lesson 2: The Development of Trade in My Homeland: commerce/trade is the buying and selling operations that exchange goods and services between individuals, companies and states, and how it developed in Jordan — fixed small shops, then large markets, then modern commercial centres, then electronic commerce over the internet (the same part placed by the Geography wave above; stocked here as a distinct Economics-expansion row for its Economics teaching, against the book entry already cited there) | Jordan, *Jordan G3 SS T2*, Unit 4 Lesson 2: The Development of Trade in My Homeland — printed p. 18 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, South Sudan).** South Sudan was already counted in this lesson from the earlier waves; the Economics-expansion Primary 4 teacher-guide and Primary 5 pupil's-book rows are stocked as depth for the same country, so the count does not rise. Jordan was already counted in this lesson from the earlier waves; the Economics-expansion rows are stocked as depth for the same country, so the count does not rise.
 
 Kuwait's own way (Kuwait Grade 6 Term 1): Economics enters in Grade 6 as the Gulf's old livelihoods — work shaped by a harsh desert/coastal environment, taught through named local crafts, ships and the pearl-diving season.
 
@@ -164,7 +168,9 @@ Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapt
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
-Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, eritrea economics expansion, buying selling exchanging, farmer bus owner wage worker, south sudan, palestine
+Jordan's own way — Economics expansion (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family story that starts at the hundred-year-old Hejaz railway, runs from barter and camel peddlers to e-commerce, and lands on the child's own choices — what a family can and cannot do without, where income comes from, and what 2, 3, 5 or 12 dinars in hand can buy.
+
+Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал, eritrea economics expansion, buying selling exchanging, farmer bus owner wage worker, south sudan, palestine, jordan
 
 Palestine's own way (Grade 5, PS G5P2): the settlement story is told as a ladder — farming, animal domestication, the agricultural village, the Palestinian village of today, then the city located on the map — and the year closes with the road itself: what a road is, its parts, and how to cross it safely.
 

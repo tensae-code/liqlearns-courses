@@ -1,6 +1,6 @@
 # Sources — Why tourism matters to an economy
 
-countries: Syria, Zimbabwe
+countries: Syria, Zimbabwe, Jordan
 
 **Book 1:** *الدراسات الاجتماعية — الصف الرابع (Social Studies, Fourth Grade)* (student book, Arabic) — Syrian Ministry of Education (وزارة التربية والتعليم), Syrian Arab Republic; school year 2025–2026 (1447 H); no ISBN printed. Title as printed: الدراسات الاجتماعية — الصف الرابع (Social Studies, Fourth Grade). Grade: 4 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; byte size 271,613,622 and page count 112 match the books.json record exactly; the TSV record is the same book via the full-quality-oversized-books release). Verdict: COMPLETE. Contents map: Geography parts (Unit 1, Nature in my country Syria — location, landforms, plants, weather and climate, water resources) printed pp. 8–24 and 29–33; Economics part printed pp. 25–28 (renewable and non-renewable resources, inside Unit 1); History parts (Unit 2, Syria and history — cradle of civilisation, historic sites) printed pp. 34–42; Geography parts (means of transport and communication in Syria) printed pp. 43–50; Geography parts (Unit 3, Life in my country Syria — population, life in the desert, countryside and city, Syrian cities) printed pp. 51–75; Economics parts (Unit 4, دعائم الاقتصاد في سورية — Pillars of the economy in Syria: agriculture, industry, trade, tourism) printed pp. 76–97; Civics parts (Unit 5, Citizenship — rights, duties, the martyrs) printed pp. 98–111. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/syria-placements.md.
 
@@ -22,7 +22,13 @@ countries: Syria, Zimbabwe
 |---|---|
 | Zimbabwe part — Unit 13: Tourism in SADC countries: types of tourism (domestic, regional, international) and what tourism brings an economy — job creation, foreign currency that countries use to import essential goods and support the national budget, infrastructure development, a market for local crafts and produce, and fees and taxes that fund national parks and heritage sites (teacher guide — evidence) — original NEW slug macroeconomics/why-tourism-matters-to-an-economy, stocked into the existing lesson | Zimbabwe, *PlusOne Social Science Grade 7 Teacher's Guide*, Unit 13: Tourism in SADC countries — printed pp. 28–31 |
 
-**Acceptance count: taught in 1 country (Syria). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 4:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-856-7. Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Second Semester). Grade: 5 (student/teacher: STUDENT). PDF pages: 100 (cover/title page verified against the record title; byte size 21,825,614 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: History (A Homeland's Journey unit: the Great Arab Revolt, the Jordanian state, its civilisational achievements) pp. 6–25; Economics parts (Unit 6, Economic Activities) pp. 26–47; Geography (The World Around Us unit: location, GPS, Nile Valley and African Horn countries, Maghreb countries) pp. 48–79; Culture/Heritage (Culture and Heritage unit: culture, Jordanian cultural heritage) pp. 80–99. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 6 Lesson 3: Tourism services: tourism services (hotels, restaurants, cafés, parks and transport) play a vital role in strengthening Jordan's economy — activating the other economic sectors, providing work for citizens, raising living standards and contributing to economic growth (filed as NEW LESSON NEEDED — macroeconomics/tourism-services-in-jordans-economy; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Jordan, *Social Studies, Grade 5, Term 2*, Unit 6 Lesson 3: Tourism services — printed p. 43 |
+
+**Acceptance count: taught in 2 countries (Syria, Jordan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
 
 Zimbabwe's own way (PlusOne Social Science Grade 6 Teacher's Guide) (teacher guide — evidence): Grade 6's financial literacy is a tour of Zimbabwe's own financial institutions by name — CBZ, Stanbic and FBC banks, NBS building society, Zimnat and Nicoz Diamond insurers — with microfinance explained through market stalls and sewing projects that big banks will not lend to.
 
@@ -31,4 +37,6 @@ Zimbabwe's own way (PlusOne Social Science Grade 7 Teacher's Guide) (teacher gui
 
 Syria's own way (Syria Grade 4 Social Studies): Grade 4 carries a whole unit named Pillars of the Economy in Syria — the population's economic activities (agriculture, industry, trade, and services such as education, health, transport and tourism) — and tourism closes the unit as its fourth pillar, taught from Syria's own coast, mountains, forests, desert and sites such as Palmyra. This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
-Searchable tags: why tourism matters to an economy, tourism, pillars of the economy, syria, palmyra, mediterranean coast, hotels, restaurants, hospitality, social studies, macroeconomics, zimbabwe, teacher guide evidence
+Jordan's own way (Jordan Grade 5 Term 2): Grade 5 gets the first formal market lesson in the whole set — supply and demand open with frost-damaged vegetables and Ramadan meat prices, trade is read off Aqaba port and Jordan's real export/import lists, and services are toured through Jordan's own schools platform, hospitals and tourist sites.
+
+Searchable tags: why tourism matters to an economy, tourism, pillars of the economy, syria, palmyra, mediterranean coast, hotels, restaurants, hospitality, social studies, macroeconomics, zimbabwe, teacher guide evidence, jordan

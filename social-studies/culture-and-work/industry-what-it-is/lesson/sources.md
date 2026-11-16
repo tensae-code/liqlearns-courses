@@ -1,6 +1,6 @@
 # Sources — Industry What It Is
 
-countries: Vietnam, Eritrea, South Sudan, Venezuela
+countries: Vietnam, Eritrea, South Sudan, Venezuela, Jordan
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -37,7 +37,13 @@ South Sudan's own way (South Sudan Primary 4): the economy is taught sector by s
 |---|---|
 | Venezuela part — Capítulo 11 Industrias en Venezuela (classification part): industries transform and process materials into the goods used daily; Venezuela's traditional classification is traditional industries (food, drink, clothing, footwear, textiles, using national farm output), mechanical industries (electrical equipment, transport material, appliances, vehicles), intermediate industries (basic metals, paper and cellulose, chemicals — goods used by other industries) and residual industries (graphic arts, toys, sports goods); production is the economic process that creates goods and services to satisfy the population's needs, requiring work, human activity and instruments | Venezuela, *Venezuela Grade 11 Venezuela G11 Geografía de Venezuela SB Spanish*, Capítulo 11 Industrias en Venezuela (classification part) — printed p. 172 |
 
-**Acceptance count: taught in 4 countries (Vietnam, Eritrea, South Sudan, Venezuela).**
+**Book 6:** *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-574-0. Title as printed: الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, First Semester). Grade: 4 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title; byte size 22,639,631 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: Civics/Culture (The Individual and Society unit) pp. 6–25; History (Jordan: History and Civilisation unit) pp. 26–43; Civics (Authority and Government in Jordan unit) pp. 44–57; Economics parts (Unit 4, Environment, Resources and Population: agriculture, industry, energy) pp. 60–70; Environment (human activities and the environment; wildlife in Jordan) pp. 71–79. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 4 Lesson 2: Industry: industry is a conversion process applied to raw materials to raise their value and usefulness in human life; it meets people's needs, provides work for labour and develops the other economic activities, and comes in two kinds — manufacturing industries (food, textiles, medicines) and extractive industries that draw natural resources from the earth (fertilisers, oil) | Jordan, *Social Studies, Grade 4, Term 1*, Unit 4 Lesson 2: Industry — printed p. 65 |
+
+**Acceptance count: taught in 5 countries (Vietnam, Eritrea, South Sudan, Venezuela, Jordan).**
 
 Venezuela's own way (Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish): G6 names the system outright — capitalism, dependent capitalism and the informal economy are defined in the pupil's own book, and development is redefined as gains in people's standard of living with the least environmental damage. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
@@ -45,4 +51,6 @@ Venezuela's own way (Venezuela Grade 11 Venezuela G11 Geografía de Venezuela SB
 
 Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
 
-Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan, venezuela
+Jordan's own way (Jordan Grade 4 Term 1): The economy is met as the country's working sectors — farming first (with Jordan's own crops and its export surplus), then industry split into extractive and manufacturing, then the energy Jordan must import or harvest from its sun and wind.
+
+Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan, venezuela, jordan

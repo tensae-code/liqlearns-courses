@@ -1,6 +1,6 @@
 # Sources — Personal Budget And Saving
 
-countries: Armenia, Guatemala, Syria, Rwanda, Zimbabwe, Albania, Venezuela
+countries: Armenia, Guatemala, Syria, Rwanda, Zimbabwe, Albania, Venezuela, Jordan
 
 **Book 1:** *Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school)* (student book, Armenian) — «Մասնակցային դպրոց» ԿՀ (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1725-6. Authors: H. Bayadyan, D. Stepanyan, V. Soghomonyan. Title as printed: Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school). Grade: 7 (student/teacher: STUDENT). PDF pages: 146 (printed 144; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography parts placed below: Ch. 1 "Man and nature" (printed pp. 12-27) and the economy parts of Ch. 7 "Man and economy" (pp. 102-127). NOT placed (named for later waves): Ch. 2 "Man and society" (pp. 28-41, incl. history of printing), Ch. 3 "Man, cognition and behaviour" (pp. 42-55), Ch. 4 "Man and morality" (pp. 56-71), Ch. 5 "Man and beauty" (pp. 72-89), Ch. 6 "Law in our life" (pp. 90-101), Ch. 7 §§7.3 personal finance in part, Ch. 8 "Man and politics" (pp. 128-139). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -89,7 +89,13 @@ Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics u
 |---|---|
 | Venezuela part — Ahorro y compra consciente: compare several prices for the same article before buying, be clear about your real needs, do not buy what you do not need because others have it; saving is not only coins in a piggy bank but rational consumption — caring for clothes, closing taps, switching off lights and appliances — and planning your weekly budget | Venezuela, *Venezuela Grade 7 Venezuela G7 Social Sciences SB Spanish*, Ahorro y compra consciente — printed p. 54 |
 
-**Acceptance count: taught in 4 countries (Armenia, Syria, Rwanda, Venezuela). Guatemala is teacher-guide evidence only — named here, counted nowhere. Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 17:** *الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-850-5. Title as printed: الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Second Semester). Grade: 2 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; byte size 66,244,418 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: History (A Journey Through Time unit: how transport, housing, writing and communication developed; my homeland's achievements) pp. 6–47; Economics parts (Unit 5, My Needs and My Wants) pp. 48–89; Geography (Me and the World unit: our blue planet, Earth's surface shapes, my homeland's map) pp. 90–111. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 5 Lesson 2: My Money Box: saving (الادخار) is keeping the surplus part of your money to use at the time of need, kept in a money box; consumption is spending it — surveyed through how children handle their Eid and occasion money | Jordan, *Social Studies, Grade 2, Term 2*, Unit 5 Lesson 2: My Money Box — printed p. 58 |
+
+**Acceptance count: taught in 5 countries (Armenia, Syria, Rwanda, Venezuela, Jordan). Guatemala is teacher-guide evidence only — named here, counted nowhere. Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Venezuela's own way (Venezuela Grade 7 Venezuela G7 Social Sciences SB Spanish): at secondary level the household budget is taught with the central bank's own family-budget survey and the national food-basket indicator, and consumption is taught as a legal right policed against speculation and hoarding. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
@@ -120,4 +126,6 @@ Syria's own way (Syria Grade 1 Social Studies, links filing): Economics enters G
 
 Syria's own way (Syria Grade 2 Social Studies): the saved money is spent by need — the child opens the money box to find 900 Syrian pounds saved since last year and arranges a priced list of purchases in a table according to need.
 
-Searchable tags: personal budget and saving, Armenia, Guatemala, Syria, syrian pounds, money box, حصّالتي, presupuesto personal, quetzales, teacher guide evidence, social studies, culture-and-work, rwanda, zimbabwe, teacher guide evidence, albania, venezuela
+Jordan's own way (Jordan Grade 2 Term 2): A whole early-years Economics unit built on a family shopping trip — a real receipt in Jordanian dinars, Jordanian coins and banknotes to order by value, the wheat-to-bread chain for producer and consumer, a child's own money box for saving, and a closing lesson that tours Jordan's own industries.
+
+Searchable tags: personal budget and saving, Armenia, Guatemala, Syria, syrian pounds, money box, حصّالتي, presupuesto personal, quetzales, teacher guide evidence, social studies, culture-and-work, rwanda, zimbabwe, teacher guide evidence, albania, venezuela, jordan

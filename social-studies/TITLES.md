@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **482**
+Economics lessons across the Economics titles: **509**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4398,3 +4398,9 @@ the self-sufficient manor, Sharecropping and
 token wages on the latifundio, Fair prices,
 costs and the basic basket and Simón Rodríguez
 — trades, work and social economy).
++4 for Jordan,
+2026-11-16 — Macroeconomics: The optimal
+investment of natural resources, Made in
+Jordan — national products and Malthus —
+population versus food; Microeconomics:
+Durable and consumable goods).

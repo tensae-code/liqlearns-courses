@@ -1,6 +1,6 @@
 # Sources — The law of demand
 
-countries: Ethiopia, France, Kazakhstan, Albania
+countries: Ethiopia, France, Kazakhstan, Albania, Jordan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -37,7 +37,13 @@ countries: Ethiopia, France, Kazakhstan, Albania
 |---|---|
 | Albania part — Kërkesa, oferta dhe çmimi i tregut: demand as a market force — the law of demand built step by step by lowering a price and counting willing buyers (teacher guide — evidence) | Albania, *Libër mësuesi — Ekonomia 12 (Teacher Guide)*, Ch.2 Kërkesa, oferta dhe çmimi i tregut — demand as a market force, printed p. 41 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, France, Kazakhstan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (approved for school year 2024/2025); ISBN 978-9923-41-856-7. Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Second Semester). Grade: 5 (student/teacher: STUDENT). PDF pages: 100 (cover/title page verified against the record title; byte size 21,825,614 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: History (A Homeland's Journey unit: the Great Arab Revolt, the Jordanian state, its civilisational achievements) pp. 6–25; Economics parts (Unit 6, Economic Activities) pp. 26–47; Geography (The World Around Us unit: location, GPS, Nile Valley and African Horn countries, Maghreb countries) pp. 48–79; Culture/Heritage (Culture and Heritage unit: culture, Jordanian cultural heritage) pp. 80–99. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 6 Lesson 1: Economic Concepts — demand: demand is the amount of a good or service consumers ask for, supply and demand together fix the quantity offered and the price at a place and time, and more demand pushes prices up (meat and poultry in Ramadan, housing as population grows and refugees arrive); demand moves with timing and seasons, the price itself, and people's income level | Jordan, *Social Studies, Grade 5, Term 2*, Unit 6 Lesson 1: Economic Concepts — demand — printed p. 28 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, France, Kazakhstan, Jordan). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -49,4 +55,6 @@ Kazakhstan's own way (Kazakhstan Grade 10 Aganina): Economics is taught inside a
 
 Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same national curriculum taught in a three-lesson rhythm — one theory lesson, one game, one Kazakhstani or world business case (Rocket Study, Yuframe, Shymbulak, Elon Musk) — so every Economics concept is immediately played and then applied.
 
-Searchable tags: law of demand, ceteris paribus, demand schedule oranges, real income substitution, salt inelastic, ethiopia, france, ses, tobacco prices, milk producers, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania
+Jordan's own way (Jordan Grade 5 Term 2): Grade 5 gets the first formal market lesson in the whole set — supply and demand open with frost-damaged vegetables and Ramadan meat prices, trade is read off Aqaba port and Jordan's real export/import lists, and services are toured through Jordan's own schools platform, hospitals and tourist sites.
+
+Searchable tags: law of demand, ceteris paribus, demand schedule oranges, real income substitution, salt inelastic, ethiopia, france, ses, tobacco prices, milk producers, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, jordan

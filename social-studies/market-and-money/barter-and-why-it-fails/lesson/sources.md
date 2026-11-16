@@ -1,6 +1,6 @@
 # Sources — Barter — and why it fails
 
-countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Zimbabwe, Palestine, Venezuela, Dominica
+countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Zimbabwe, Palestine, Venezuela, Dominica, Jordan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -101,7 +101,13 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Dominica part — Unit 1.1 Forms of Exchange and Economic Systems: the development of barter — teaches: from subsistence production and specialisation to barter, and why barter fails (double coincidence of wants, no agreed rate of exchange, indivisibility of goods, inability to store wealth) | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 1.1 Forms of Exchange and Economic Systems: the development of barter — printed p. 4 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Palestine, Venezuela, Dominica). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 15:** *الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الثاني (Social Studies, Grade 3, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2025 (approved for school year 2025/2026); ISBN 978-9923-41-868-0. Title as printed: الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الثاني (Social Studies, Grade 3, Second Semester; the copy is watermarked "نسخة قيد الإعداد" — a copy under preparation). Grade: 3 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; byte size 28,433,232 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: History (development in my homeland, inside Unit 4) pp. 8–17; Economics parts (Unit 4 Lessons 2–4: trade, production and consumption, the smart consumer) pp. 18–49; Geography (Natural Features of Earth's Surface unit) pp. 50–77; Geography/History (My Homeland Jordan unit: Jordan's map, our beautiful antiquities) pp. 78–95. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 4 Lesson 2: Barter, the oldest trade: before shops and money, people exchanged goods directly, swapping wheat for oil and other produce, while peddlers carried goods on donkeys and camels from village to village | Jordan, *Social Studies, Grade 3, Term 2*, Unit 4 Lesson 2: Barter, the oldest trade — printed p. 21 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Palestine, Venezuela, Dominica, Jordan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -118,4 +124,6 @@ Uganda's own way: barter is taught as the economic organisation of pre-colonial 
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox, mongolia, barter, livestock goods-money, paper money 1236, south sudan, zimbabwe, teacher guide evidence, palestine, venezuela, dominica, csec principles of business, caribbean
+Jordan's own way (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family story that starts at the hundred-year-old Hejaz railway, runs from barter and camel peddlers to e-commerce, and lands on the child's own choices — what a family can and cannot do without, where income comes from, and what 2, 3, 5 or 12 dinars in hand can buy.
+
+Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox, mongolia, barter, livestock goods-money, paper money 1236, south sudan, zimbabwe, teacher guide evidence, palestine, venezuela, dominica, csec principles of business, caribbean, jordan

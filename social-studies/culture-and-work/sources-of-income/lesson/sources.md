@@ -1,6 +1,6 @@
 # Sources — Sources Of Income
 
-countries: Bhutan, Laos, Rwanda, South Sudan, Zimbabwe, Venezuela
+countries: Bhutan, Laos, Rwanda, South Sudan, Zimbabwe, Venezuela, Jordan
 
 **Book 1:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
@@ -114,7 +114,13 @@ South Sudan's own way (South Sudan Primary 2): work is introduced through the vi
 |---|---|
 | Venezuela part — El ingreso familiar: family income originates in the pay that the members of the family community receive for their work, and pupils are asked what their relatives work at and why some people in a community do not work | Venezuela, *Venezuela Grade 1 Venezuela G1 Social Sciences SB Spanish*, El ingreso familiar — printed p. 52 |
 
-**Acceptance count: taught in 5 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 18:** *الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الثاني (Social Studies, Grade 3, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2025 (approved for school year 2025/2026); ISBN 978-9923-41-868-0. Title as printed: الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الثاني (Social Studies, Grade 3, Second Semester; the copy is watermarked "نسخة قيد الإعداد" — a copy under preparation). Grade: 3 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; byte size 28,433,232 matches the books.json record exactly; grabbed via the release route). Verdict: COMPLETE. Contents map: History (development in my homeland, inside Unit 4) pp. 8–17; Economics parts (Unit 4 Lessons 2–4: trade, production and consumption, the smart consumer) pp. 18–49; Geography (Natural Features of Earth's Surface unit) pp. 50–77; Geography/History (My Homeland Jordan unit: Jordan's map, our beautiful antiquities) pp. 78–95. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan part — Economics expansion — Unit 4 Lesson 4: Income: income is the money a person obtains through work, and a family earns it from farming (crops and animals), industry and handicrafts, trade (buying and selling goods and services), or providing services such as education and health | Jordan, *Social Studies, Grade 3, Term 2*, Unit 4 Lesson 4: Income — printed p. 42 |
+
+**Acceptance count: taught in 6 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela, Jordan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
 
 Venezuela's own way (Venezuela Grade 1 Venezuela G1 Social Sciences SB Spanish): even at Grade 1, work is taught as what a community needs to eat, dress and move, and family income is defined as the pay received for that work. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
@@ -141,4 +147,6 @@ Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own 
 
 Laos' own way (Laos Grade 10 Business Combined student): the Combined book is the combined-class version of the Business course; its one Economics chapter teaches work choices through kip amounts — what changes between earning 10,000 kip a year and 100,000 kip a year.
 
-Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan, zimbabwe, teacher guide evidence, venezuela
+Jordan's own way (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family story that starts at the hundred-year-old Hejaz railway, runs from barter and camel peddlers to e-commerce, and lands on the child's own choices — what a family can and cannot do without, where income comes from, and what 2, 3, 5 or 12 dinars in hand can buy.
+
+Searchable tags: sources of income, Bhutan, social studies, culture-and-work, laos, kip, income decides your living, rwanda, south sudan, zimbabwe, teacher guide evidence, venezuela, jordan
