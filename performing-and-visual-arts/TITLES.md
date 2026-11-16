@@ -188,6 +188,7 @@ The titles, in ladder order:
    (Finland student workshop materials, instruction sheets
    and teaching unit).
  The Art expansion added: Turkmen nagysh ornament — national patterns, each with its own name, recalling flowers and plants, studied on real dress and used to decorate a dress model and New Year tree toys; patchwork and appliqué — a flowering tree branch made from coloured paper pieces; drawing from imagination — a free theme chosen from your own daily life; and landscape painting — autumn's leaf carpet with near trees bigger and far trees smaller, leafless trees and winter in gouache, and spring's rainbow (Turkmenistan student book).
+ The Art expansion added: Makonde and Psikhelekedana sculpture of Mozambique — the Makonde carving of Cabo Delgado in pau-preto and pau-rosa, its Shetani, Ujamaa and Figurative styles and the Mapiko mask, and Psikhelekedana, the south's mafurreira-wood carving of rural scenes, cities and history, with Dino Jethá; medieval art — Romanesque horizontal temples and Gothic towers reaching toward heaven; Renaissance art — da Vinci, Michelangelo, Rafael and Donatello; pointillism — colour and tone from the fusion of dots; mixed techniques — drawing, collage, cutting, printing and stamping combined, strengthened with natural and recycled materials; visual communication — the image as a code, with sender, receiver, message and channel; embroidery — cross stitch, vagonite and Russian stitch; technical drawing — standardised geometric drawing, the four arches, orthogonal projections in two and three views, axonometry isometric, dimetric and cavaleira, and dimensioning in millimetres; and geometric and technical drawing — spirals, the óvulo and the oval, and the conic curves, ellipse, parabola and hyperbola (Mozambique student books).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -531,3 +532,13 @@ The titles, in ladder order:
    nature's round and the reindeer-herding work round, and
    the shoe-hay gathering of autumn-summer (Finland teaching
    unit, Finnish and North Sámi editions).
+ The Art expansion added:
+   Mozambican art and architecture — Mozambique's painting
+   in three phases, from the rock paintings named province
+   by province through the colonial struggle to the murals
+   of independence, with Malangatana, Chichorro and
+   Craveirinha; and the traditional house in its three
+   forms — circular with conical roof, quadrangular with
+   pyramidal four-water roof, rectangular with one or two
+   waters — built from local materials, against the city's
+   architecture and José Forjaz (Mozambique student book).

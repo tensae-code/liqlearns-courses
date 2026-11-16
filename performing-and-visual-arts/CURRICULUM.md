@@ -1286,7 +1286,80 @@ lessons are the books'.
   nagyş pattern with its own name, and Nowruz drawn
   and sung in both music and art books.
 
-**The whole course stands at 356 lessons, 4,916 questions and
+- **Art expansion — Mozambique — BUILT 2026-11-16:** 67 placements
+  stocked, reconciled against the placements file's own
+  tallies (Book 1 *Educação Visual, Módulo 1*: 40 — 25 to
+  existing, 15 NEW LESSON NEEDED; Book 2 *Educação Visual,
+  Módulo 2*: 27 — 2 to existing, 25 NEW LESSON NEEDED = 67):
+  39 into existing and already-built canonical lessons
+  (What the Arts Are ×3; The Arts Connect to Everything;
+  Appreciating and Valuing the Arts; Sculpture and Historic
+  Places; Crafts Around Us; Drawing: The Foundation Skill
+  ×4; Emblems and Posters That Speak; The Elements of Visual
+  Art ×3; Elements of Design in 3D Arts; Design and
+  Perspective: Near and Far ×10 — one from Módulo 1, two
+  direct and seven from the original string
+  rigorous-perspective, resolved to it by the slug registry;
+  Composition in Visual Art; Shapes, Forms and Patterns in
+  Colour ×2; Mixing Colours; The Colour Wheel; Colours
+  Around Us; Printing; Making with Paper and Pieces;
+  Contemporary Art — from contemporary-art-movements;
+  Blot and Splatter Painting — from splatter-and-blow-painting;
+  Signs, Symbols and Pictograms; Comics — from
+  comics-banda-desenhada; Weaving — from
+  weaving-on-simple-looms), 10 NEW lessons (Culture and
+  Values: Mozambican Art and Architecture ×2 — from
+  mozambican-painting-and-its-artists and
+  mozambican-architecture; Visual Art: Makonde and
+  Psikhelekedana Sculpture of Mozambique ×2 — from
+  makonde-sculpture and psikhelekedana-sculpture; Medieval
+  Art — from medieval-art-romanesque-and-gothic;
+  Renaissance Art — from renaissance-art-and-its-masters;
+  Pointillism; Mixed Techniques; Visual Communication;
+  Embroidery — from embroidery-and-its-stitches; Technical
+  Drawing ×14 — from geometric-drawing ×2,
+  architectural-arches, orthogonal-projections ×5,
+  axonometric-drawing ×4 and dimensioning-a-drawing ×2;
+  Geometric and Technical Drawing ×4 — from drawing-spirals,
+  ovulo-and-oval, conic-curves-and-the-ellipse and
+  parabola-and-hyperbola), 90 questions added, media as
+  described slots only. DIFFERENCE EXPLAINED: the placements
+  file tallied 27 to existing lessons and 40 NEW LESSON
+  NEEDED lines; the slug registry Part 2 resolves 12 of the
+  NEW lines to lessons that already existed (the seven
+  rigorous-perspective lines to Design and Perspective: Near
+  and Far, and one line each to Contemporary Art, Blot and
+  Splatter Painting, Signs, Symbols and Pictograms, Comics
+  and Weaving) — so 39 placements went to lessons that
+  already existed, 28 to new lessons, and the total of 67
+  reconciles exactly. Honesty carried exactly as filed: both
+  books are STUDENT books, COMPLETE, so Mozambique enters
+  every stocked lesson's acceptance count (the 10 new
+  lessons stand at acceptance count 1, Mozambique). Named,
+  not placed, as filed: Módulo 1's per-lesson glossaries and
+  closing Bibliography (printed p. 150), Módulo 2's closing
+  Bibliography (printed p. 234), and the basketry (cestaria)
+  lesson announced in Módulo 1's Unit 5 introduction, which
+  appears in neither module. Excluded as filed, named in the
+  book entries, not placed: both modules' end-of-module
+  preparation tests and their answer keys (Módulo 1 printed
+  pp. 138–149; Módulo 2 printed pp. 218–233) and the lessons'
+  exercises and answer keys — self-study apparatus. Book
+  quirks carried as filed: Módulo 2's contents contain no
+  Lesson 31 (numbering jumps 30 to 32; the cited Lesson 31
+  teaching is carried inside Lesson 30's sequence), two
+  different lessons are both numbered 36, and Lesson 28 is
+  titled for plane forms but treats three-dimensional forms.
+  Mozambique's own way is kept as named parts: Mozambican
+  painting in its three phases with its named painters and
+  rock-art sites province by province, Makonde sculpture's
+  three styles and the Mapiko mask, Psikhelekedana and Dino
+  Jethá, the traditional house in its three forms, Sérgio
+  Zimba's comics, the flag read colour by colour, and a
+  complete technical-drawing course of step-by-step
+  procedures tied to carpentry, metalwork and building work.
+
+**The whole course stands at 366 lessons, 5,006 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
