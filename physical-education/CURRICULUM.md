@@ -176,6 +176,20 @@ and obesity) and are not stocked in this course. The
 second record, the 2009 Edexcel GCSE student book, is
 UNREAD (archive.org lending-restricted) with 0 placements.
 
+**PE expansion — Thailand — BUILT 2026-11-16:** 28 placements
+from Thailand's four combined Health & PE student books
+(Grades 2, 3, 5 and 12 — MAC and SSR publisher sample
+editions, PARTIAL as filed) stocked — 23 into existing
+lessons and 5 as 3 new lessons (Dancesport — Ballroom and
+Latin Dancing; Traditional Games of Thailand; Muay Thai) —
+bringing this course to **91 lessons**. The Thailand books
+are student books read as publisher samples (PARTIAL),
+filed as student-book stock with the sample label carried
+exactly as filed, inside the acceptance counts; each
+sample carries its book's complete printed contents, and
+every PE part is placed from those contents. The books'
+Health parts are placed in the Health course.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -267,6 +281,9 @@ UNREAD (archive.org lending-restricted) with 0 placements.
 20. **Lapta and Shuttlecock Games** (`traditional-games-and-dances/lapta-and-shuttlecock-games`) — the Russian bat game lapta — "Bita", "Stick-Knocker", "Knock Out of the Circle" — and the shuttlecock games played with it: round lapta with a shuttlecock, "Hit the Shuttlecock Up" and returning the shuttlecock with rackets (Tajikistan's student book).
 21. **Traditional Games of Tajikistan** (`traditional-games-and-dances/traditional-games-of-tajikistan`) — the active games of the Tajik ancestors, including the pushing game "Kiro tela dinem?" (Whom shall we push?), for 6–40 school-age players (Tajikistan's student book).
 22. **Samoan Cultural Dance and Games** (`traditional-games-and-dances/samoan-cultural-dance-and-games`) — Samoan cultural practices expressed through movement in dance — preparing coconut cream and other work actions shown in dance — and lape, the Samoan hand game named in the same Year 3 work (Samoa's Years 1–8 curriculum statement, evidence only).
+23. **Dancesport — Ballroom and Latin Dancing** (`traditional-games-and-dances/dancesport-ballroom-and-latin-dancing`) — dancesport (ลีลาศ): ballroom and Latin American dancing — the waltz and the cha-cha-cha, dance lines, body positions, holds and leading, with etiquette, competition rules and judging (Thailand's Grade 12 student book — MAC sample, PARTIAL).
+24. **Traditional Games of Thailand** (`traditional-games-and-dances/traditional-games-of-thailand`) — Thai folk play (การละเล่นพื้นเมือง), played by its own rules and agreements (Thailand's Grade 3 student book — SSR flipbook sample, PARTIAL).
+25. **Muay Thai** (`traditional-games-and-dances/muay-thai`) — Muay Thai: Thailand's own martial art — the guard stance (การจดมวย), the swinging punch and the uppercut, and elbow strikes (การใช้ศอกตี) (Thailand's Grade 5 student book — SSR flipbook sample, PARTIAL).
 
 ## Unit 8 — Sport and Its Story
 

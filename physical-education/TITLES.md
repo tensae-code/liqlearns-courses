@@ -107,3 +107,12 @@ The PE expansion then added: **The Body in Exercise**
 **Sports Nutrition and Hydration**
 (`fitness-and-stretching/sports-nutrition-and-hydration`)
 — 4 new lessons, bringing this course to 88 lessons.
+
+The PE expansion then added: **Dancesport — Ballroom and
+Latin Dancing**
+(`traditional-games-and-dances/dancesport-ballroom-and-latin-dancing`),
+**Traditional Games of Thailand**
+(`traditional-games-and-dances/traditional-games-of-thailand`)
+and **Muay Thai**
+(`traditional-games-and-dances/muay-thai`)
+— 3 new lessons, bringing this course to 91 lessons.

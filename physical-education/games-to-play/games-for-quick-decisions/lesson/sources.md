@@ -1,6 +1,6 @@
 # Sources — Games for Quick Decisions
 
-countries: Ethiopia
+countries: Ethiopia, Thailand
 
 **Book 1:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia
 
 **Book 14:** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (51 PDF pages). Printed page = PDF page − 8. TRUNCATED — the file holds printed pp. 1–43 of 85+. Read in full, page by page, from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md.
 
+**Book — Thailand Grade 5 Health & PE (student book — SSR flipbook sample, PARTIAL):** *สุขศึกษาและพลศึกษา ป.5 / Health & PE, Grade 5* (student book, Thai) — Title as printed: หนังสือเรียนรายวิชาพื้นฐาน สุขศึกษาและพลศึกษา ชั้นประถมศึกษาปีที่ 5 (Basic-education textbook: Health & Physical Education, Primary 5), per the Basic Education Core Curriculum B.E. 2551 — Grade: Grade 5 (ป.5) (student/teacher: STUDENT) — Publisher: SSR — บริษัท สร้างสรรค์สื่อเพื่อการเรียนรู้ (สสร.) จำกัด; year B.E. 2564 (2021), 2nd printing; ISBN 978-616-7768-11-3 (record and imprint page agree) — PDF pages: no PDF — read from the recorded AnyFlip edition (anyflip.com/jyqxm/bdrt/basic), whose text layer was read in full for the front matter, standards tables, complete contents and Unit 1 (cover/imprint verified against the record title). Verdict: PARTIAL — the publisher's order-sample flipbook (stamped "for use as a sample for ordering textbooks only"); the complete printed contents and the opening unit (the digestive and excretory systems and their care) were read in full; later chapter interiors were read at contents level only. Every teaching part is placed from the book's own contents. Health units 1, 2, 5, 6 are placed in the Health course; PE units 3–4 (printed pp. 38–104) are placed here. Read in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/thailand-pe-placements.md (full header, verdict and sample status at liqlearns-courses-work/expansion-pe-health-2026-11-16/thailand-health-placements.md, Book 7). Thailand's own way: sport is taught as two families side by side — กีฬาไทย (Thai sports, with Muay Thai technique taught in detail: the swinging punch, the uppercut, elbow strikes and the การจดมวย guard stance) and กีฬาสากล (international sports) — under one rule of sporting spirit.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 10 — Two Houses and the Kangaroo Race — the Grade 8 decision games | Ethiopia, *Grade 8 Student Textbook*, §§2.3.1–2.3.2, printed pp. 14–17 |
@@ -50,7 +52,8 @@ countries: Ethiopia
 
 | Sub lesson 11 — Squat and stand; the Green-Yellow-Red game (teacher guide — evidence) | Ethiopia, *Grade 1 Teacher Guide*, squat/stand sequence and the Green-Yellow-Red game (teacher guide — evidence), printed pp. 14–15 |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 9 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
-**Acceptance count: taught in 1 country (Ethiopia).**
+| Thailand — Unit 3, Ch. 2 Game activities — games that use thinking and decision skills, lead-up games towards a chosen sport, and turn-and-change movement activities (student book — SSR flipbook sample, PARTIAL) (original target `games-to-play/games-for-quick-decisions`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 3, Ch. 2, printed pp. 67–77 |
+**Acceptance count: taught in 2 countries (Ethiopia, Thailand).** Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count.
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -77,5 +80,7 @@ The Grade 7 student textbook is complete (see the book line above); nothing in t
 The Grade 7 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–45 — Chapters 1–3 complete — and ends at the end of Chapter 3. Chapters beyond Chapter 3 (by the series pattern: athletics, gymnastics, ball games and traditional games) are missing from the file. Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
+
+Thailand's rows in this lesson rest on publisher sample editions (PARTIAL, as filed — see the book lines above): each sample carries its book's complete printed contents, and the placements are taken from those contents; the sample label is carried exactly as filed and is never upgraded to a complete read. Thailand enters this lesson as student-book stock, inside the acceptance count. Game and movement rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: games for quick decisions, Cat and Mouse አይጥና ድመት, Nekahuny ነካሁኝ, Homeless ቤት የለሽ, Who Do You Want ማንን ትፈልጋላችሁ, Ethiopia HPE, responsible decisions, ball-to-goal game, solving problems in competition, below-the-knee dodgeball, waist chain ከወገብ መያያዝ, Ilama ኢላማ, What a decision, Ethiopia HPE Grades 5–7, Squat and stand; the Green-Yellow-Red game (teacher guide — evidence)
