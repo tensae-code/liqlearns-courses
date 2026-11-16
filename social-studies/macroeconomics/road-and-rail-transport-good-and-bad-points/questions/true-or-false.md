@@ -1,0 +1,12 @@
+# Road and Rail Transport Good and Bad Points — true or false
+
+Say True or False, and why.
+
+**1. (Sub lesson 1)** Road transport (CTB and private buses, lorries, tractors) and railways.
+**Answer: True**
+
+**2. (Sub lesson 2)** Reading the figures in Sri Lanka's book.
+**Answer: True**
+
+**3. (Sub lesson 3)** This lesson teaches that its subject has nothing to do with road and Rail Transport Good and Bad Points.
+**Answer: False — The lesson is built on Sri Lanka's book teaching sri Lanka's own way with road and Rail Transport Good and Bad Points.**
