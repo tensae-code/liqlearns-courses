@@ -1,7 +1,7 @@
 # Sources — Lines in Every Direction
 
 
-countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran, Papua New Guinea, Jordan, Libya
+countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran, Papua New Guinea, Jordan, Libya, Saudi Arabia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -47,7 +47,19 @@ countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran,
 
 | Papua New Guinea — Unit 1 Arts, Topic Drawing (Lessons 1–6) — line characteristics straight/curve, thick/thin, short/long, vertical/horizontal; how a line feels; the expressed line; lines becoming shapes, regular and irregular, including traditionally created shapes (teacher guide — evidence) | Book 11, printed pp. 20, 30, 38–39 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bhutan, Fiji, Belarus, Iran, Jordan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 18:** *التربية الفنية — الصف الثاني الابتدائي — الجزء الأول من المقرر (Art Education — Grade 2 Primary — Part One of the Course, i.e. Term 1)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Kingdom of Saudi Arabia; print edition 1448H / 2026 (cataloguing 1446H); ISBN 978-603-8527-07-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 118. Verdict: COMPLETE. Excluded per standing rules, named here: unit assessments (تقويم الوحدة, printed pp. 33–34, 49–50, 60, 70, 80, 111) and the figure index (فهرس الأشكال, pp. 112–116) and references (p. 117), inventory-only. Note as filed: this 1448H edition's weaving and printing fields cover the same ground as the 1445H G2 Term 2 book (Book 1 of this country's set) in a different term order and with different drawing/ornament units; it is a distinct edition and is placed in full. Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Unit 1 Topic 3 أجدادنا وفن الرسم — the line is the oldest means used in artistic expression and the basic element in drawing; its functions: fixing a shape's outer line — straight, zigzag, curved, vertical, horizontal or slanted (the kinds of line speak to each other in a short pictured dialogue) — and showing the shape's inner details (student book; original target `visual-art/the-line-in-drawing`) | Book 18, printed pp. 26–27 |
+
+**Book 19:** *التربية الفنية — الصف الرابع الابتدائي (Art Education — Fourth Grade Primary; the PDF binds الجزء الأول من المقرر, Part One of the Course, and الجزء الثاني من المقرر, Part Two, in one file)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Saudi Arabia, print edition 1448H / 2026 CE (cataloguing-in-publication 1446H); ISBN 978-603-8527-28-5, legal deposit 1446/12941. Grade: 4 (student/teacher: STUDENT). PDF pages: 179 (179 printed pages; printed folios match PDF pages throughout), text layer present. Verdict: COMPLETE per its own tables of contents. Excluded per standing rules, named here: unit assessments at printed pp. 36, 51–52, 69, 90 (Part One) and 112, 123, 138, 152, 172 (Part Two); figure indexes pp. 94–96 and 176–177 and references pp. 178–179, inventory-only; the term-project forms' blank fields are apparatus (the project itself is placed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Drawing tree leaves with line — the elements of artistic design are the point, the area, colour, composition and lines; the drawing tools are graded pencils between hard and soft, coloured pens and pens of varied line thicknesses, charcoal pencils and wax pencils; tree leaves show the diversity of line — contemplate the lines the leaves are drawn… (student book; original target `visual-art/the-line-in-drawing`) | Book 19, printed pp. 32–35 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Bhutan, Fiji, Belarus, Iran, Jordan, Saudi Arabia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 4 rests on teacher-guide evidence only for its own content (the Grade 1 teacher guide's line lesson); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 1 student textbook, so the acceptance count counts pupil-taught content. The Grade 1 line-model pages are picture-led full pages; placements are followed exactly as read.
 

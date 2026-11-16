@@ -1,6 +1,6 @@
 # Sources — Traditional Geometric Motifs
 
-countries: Iran
+countries: Iran, Saudi Arabia
 
 **Book 1:** *فرهنگ و هنر — پایه هشتم (Culture and Art, Grade 8)* (student book, Persian) — Iran, وزارت آموزش و پرورش (Ministry of Education, Islamic Republic of Iran); year 1405–1406 (2026–27); ISBN 978-964-05-3474-8, Grade 8, 144 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 13,567,566 and page count match the record exactly). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
 
@@ -19,7 +19,27 @@ countries: Iran
 | Iran — Traditional design L2, Geometric motifs: آشنایی با نقش‌های هندسی: getting to know the geometric motifs of Iran's traditional arts, drawn with geometric shapes and lines on squared paper (student book) | Book 3, printed p. 78 |
 | Iran — Traditional design L3, Drawing the gereh: طراحی گره: drawing the gereh (knot) — a square and a diamond set on squared paper, built into the knot patterns of traditional design (student book) | Book 3, printed p. 81 |
 
-**Acceptance count: taught in 1 country (Iran).**
+**Book 4:** *التربية الفنية — الصف الأول الابتدائي — الجزء الأول من المقرر (Art Education — Grade 1 Primary — Part One of the Course, i.e. Term 1)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Kingdom of Saudi Arabia; print edition 1448H / 2026 (cataloguing 1446H); ISBN 978-603-05-6599-3. Grade: 1 (student/teacher: STUDENT). PDF pages: 85. Verdict: COMPLETE. Excluded per standing rules, named here: unit assessments (تقويم الوحدة, printed pp. 32, 46, 56, 80) and the figure index and references (pp. 81–85, inventory-only). Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Unit 2 (Ornamentation) Topic 1 أزخرف بالمربع والمستطيل — I decorate with the square and the rectangle — geometric shapes are named together and their sides counted; the square and the rectangle are practised in drawing, and squares are told apart by size, colour and pattern; when we decorate shapes with squares and rectangles we are ornamenting them — the shapes were… (student book; original target `visual-art/ornament-with-square-and-rectangle`) | Book 4, printed pp. 34–37 |
+| Saudi Arabia — Unit 2 Topic 1 — cutting and decorating the geometric shapes, in pictured steps: draw the geometric shape, cut the shape out, glue the shape, then decorate the shape (with care using the scissors) (student book; original target `visual-art/ornament-with-square-and-rectangle`) | Book 4, printed pp. 38–39 |
+| Saudi Arabia — Unit 2 Topic 2 الزخرفة بالدائرة والمثلث — ornamentation with the circle and the triangle — the sun was created round and some mountains triangle-shaped; heritage houses in Diriyah carry triangle and circle patterns, and the King Abdullah Mosque in Riyadh's financial centre is shown; the folk artist ornamented with the triangle; the triangle has three sides… (student book; original target `visual-art/ornament-with-circle-and-triangle`) | Book 4, printed pp. 40–42 |
+| Saudi Arabia — Unit 2 Topic 2 — drawing and decorating the circle and triangle — draw the circle using round things, join the dots in the triangle and the circle, then cut the geometric shapes out and decorate them by the same four steps: draw, cut, glue, decorate (student book; original target `visual-art/ornament-with-circle-and-triangle`) | Book 4, printed pp. 43–45 |
+
+**Book 5:** *التربية الفنية — الصف الثالث الابتدائي — الفصل الدراسي الثالث (Art Education — Grade 3 Primary — Third Term)* (student book, Arabic) — Saudi Arabia, Ministry of Education, Saudi Arabia, edition 1445H / 2023 CE (cataloguing-in-publication 1443H); ISBN 978-603-511-187-4. Grade: 3 (student/teacher: STUDENT). PDF pages: 86 (84 printed pages), text layer present. Verdict: COMPLETE per its own table of contents. Excluded per standing rules, named here: unit assessments at printed pp. 32–33, 46–47, 80; figure index pp. 81–84 and references pp. 85–86, inventory-only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Drawing a geometric ornament unit — the ornament unit is defined (ornament shapes and meeting lines) and ornament is classified into three kinds — plant, geometric and calligraphic/written (student book; original target `visual-art/drawing-a-geometric-ornament-unit`) | Book 5, printed p. 12 |
+| Saudi Arabia — Geometric units from line relations — geometric ornament units are built from straight and curved lines meeting — triangular shapes, quadrilateral shapes (square, rectangle, rhombus, parallelogram), pentagonal and hexagonal shapes, star shapes (five-, six- and eight-pointed) and circular and oval shapes with their intersections, tangency and overlap (student book; original target `visual-art/drawing-a-geometric-ornament-unit`) | Book 5, printed p. 13 |
+| Saudi Arabia — Steps for drawing a geometric ornament unit — choose the geometric shape and draw it with pencil and geometry tools; divide it by axes or diagonals into matching halves; ornament the inside with plant units, geometric units or both, and colour with felt-tip colours (materials: sketchbook, tracing paper) (student book; original target `visual-art/drawing-a-geometric-ornament-unit`) | Book 5, printed pp. 17–19 |
+| Saudi Arabia — Repeating the geometric ornament unit — repetition (repeating a thing again and again) is learned from nature's repeated plants, wheat ears and bird flocks; its types (ordinary, opposite, alternating) and directions (slanted, horizontal, vertical, curved) decorate pottery, metal, glass, frames and textiles (student book; original target `visual-art/repeating-a-geometric-ornament-unit`) | Book 5, printed pp. 22–25 |
+| Saudi Arabia — A paper picture frame with a repeated unit — choose the frame's outer shape (square, rectangle, hexagon), cut out the inside, trace the geometric unit on tracing paper and transfer it repeatedly round the frame, colour with felt-tips and glue the picture in from behind (student book; original target `visual-art/repeating-a-geometric-ornament-unit`) | Book 5, printed pp. 26–28 |
+| Saudi Arabia — Geometric ornament on different surfaces — the same geometric unit ornaments cardboard, wood, ceramic and glass, and drawn units are coloured, cut out and glued onto a wooden box (student book; original target `visual-art/repeating-a-geometric-ornament-unit`) | Book 5, printed pp. 30–31 |
+
+**Acceptance count: taught in 2 countries (Iran, Saudi Arabia).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/traditional-geometric-motifs`), built for the Iran placements in the 2026-11-16 Art expansion. Iran's own way is the content of this lesson, kept as named parts above. Songs and stories, where the books carry them, are placed by summary only, never transcribed.
 

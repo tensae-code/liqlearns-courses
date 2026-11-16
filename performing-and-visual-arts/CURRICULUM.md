@@ -2128,7 +2128,60 @@ lessons are the books'.
   classroom music corner, esgrafiado, Cuban folk art,
   and the casas de cultura.
 
-**The whole course stands at 586 lessons, 7,434 questions and
+**Art expansion — Saudi Arabia (2026-11-16):** 241 placements
+  stocked from 10 books, all student books (Arabic,
+  Ministry of Education, Kingdom of Saudi Arabia):
+  *التربية الفنية* Grade 2 Term 2 (1445H / 2023),
+  Grade 1 Term 3 (1445H / 2023), Grade 1 Part One
+  (1448H / 2026), Grade 2 Part One (1448H / 2026),
+  Grade 2 Part Two (1447H / 2025), Grade 3 Term 2
+  (1445H / 2023), Grade 3 Term 3 (1445H / 2023),
+  Grade 2 Term 3 (1445H / 2023), Grade 3 Part One
+  (1447H / 2025) and Grade 4, Parts One and Two bound
+  in one file (1448H / 2026). All 10 books are COMPLETE
+  and count in full — there are no teacher guides or
+  programme documents in this country's set, so nothing
+  is evidence-only. 203 placements into existing and
+  already-built canonical lessons (Making with Clay
+  and Paper ×45; Weaving ×24; Printing ×24; Making
+  with Paper and Pieces ×22; Ornamentation ×13; The
+  Colour Wheel ×13; Appreciating Drawing ×10;
+  Traditional Geometric Motifs ×10; and 19 further
+  lessons), and 38 into 8 NEW lessons (First Steps:
+  Staying Safe in Art ×8. Visual Art: Artists and
+  Art of Saudi Arabia ×9; Saudi Folk Crafts ×10;
+  Saudi Folk Ornament and Wall Painting ×6;
+  Woodwork and Wood Carving ×2; Chiaroscuro: Light
+  and Shadow; Light and Shadow in Art; Woodworking),
+  96 questions added, media as described slots only.
+  Registry resolutions carried: the reader strings are
+  resolved in slug-registry Part 2 throughout — among
+  them weaving-on-a-loom → Weaving; the Saudi
+  culture-and-values strings (artists-of-saudi-arabia,
+  a-homelands-story-in-paintings, pottery-craft,
+  heritage-textiles, palm-frond-weaving, folk-weaving,
+  metals-and-metalwork) → Artists and Art of Saudi
+  Arabia and Saudi Folk Crafts; saudi-folk-ornament,
+  al-qatt-al-asiri-wall-painting and islamic-ornament
+  → Saudi Folk Ornament and Wall Painting;
+  scratching-on-clay, coloured-sand-dough and the
+  coil and mould strings → Making with Clay and
+  Paper (existing). Honesty carried exactly as filed:
+  every book's exclusions are named in its sources
+  entries — unit assessments and figure indexes are
+  excluded per standing rules, figure indexes and
+  references inventory-only; overlapping editions
+  (the 1445H and 1447H/1448H Grade 2 and Grade 3
+  books) are filed as the distinct books they are,
+  each placed in full. Saudi Arabia's own way is kept
+  as named parts: Al-Qatt Al-Asiri, palm-frond
+  weaving (الخواصة), the Kingdom's pottery cities and
+  the potter Sayyid Ali Al-Gharash's clay journey,
+  the Kiswa and the pure-gold Kaaba Door, heritage
+  textiles in their folk colours, and the standing
+  safety page printed in every term.
+
+**The whole course stands at 594 lessons, 7,530 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

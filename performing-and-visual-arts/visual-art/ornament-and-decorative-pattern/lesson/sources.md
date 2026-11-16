@@ -1,6 +1,6 @@
 # Sources — Ornament and Decorative Pattern
 
-countries: Sudan, Iran
+countries: Sudan, Iran, Saudi Arabia
 
 **Book 1:** *التربية الفنية — الصف الرابع (Art Education — Grade Four), Primary Stage (المرحلة الابتدائية)* (student book, Arabic) — Sudan, National Center for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht Al-Ruda — Republic of Sudan, Ministry of Education; year 2021; no ISBN printed, Grade 4, 52 PDF pp. STUDENT. Verdict: COMPLETE — read in full, page by page: Drawing field (4 lessons), Design & Decoration field (5 lessons), Forming & Composition field (5 lessons) and the closing picture-models appendix. Sudan's own way: the book teaches in three fields — Drawing, Design & Decoration, Forming & Composition — anchored in the pupil's Sudan: Meroe's pyramids for light and shadow, the Jirtig tray and woven birsh mats for heritage, Nile-valley and Nubian pottery ornament for clay, and palm-frond and straw weaving for the loom. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sudan-placements.md.
 
@@ -11,7 +11,22 @@ countries: Sudan, Iran
 | Sub lesson 1 — Design Lesson 4 "Ornament": ornament, whose beauty rests on symmetry — the matching repetition of units — in its two kinds: geometric ornament, built from triangles, squares, pentagons, hexagons and stars interlaced and repeated into bands and panels, and written ornament, built from Arabic letters, a Naskh letter chosen and repeated into a decorative shape (student book; original target `visual-art/ornament-geometric-and-calligraphic`) | Book 1, printed p. 21 |
 | Iran — Decorative motifs L3, The boteh: Boteh (paisley) motif — بته (بته جقه): the boteh-jegheh (paisley) motif, its form and its place in Iran's decorative arts (student book; original target `visual-art/boteh-paisley-motif`) | Book 2, printed p. 115 |
 
-**Acceptance count: taught in 2 countries (Sudan, Iran).**
+**Book 3:** *التربية الفنية — الصف الأول الابتدائي — الفصل الدراسي الثالث (Art Education — Grade 1 Primary — Third Term)* (student book, Arabic) — Saudi Arabia, Ministry of Education, Kingdom of Saudi Arabia; edition 1445H / 2023; ISBN 978-603-511-182-9. Grade: 1 (student/teacher: STUDENT). PDF pages: 58 (image-only CamScanner scan; read in full from page renders). Verdict: COMPLETE. Excluded per standing rules, named here: unit assessments (تقويم الوحدة, printed pp. 17, 29, 53) and the figure index (فهرس الأشكال والصور, pp. 55–59, inventory-only). Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Unit 1 Topic 2 الزخرفة بالتبادل — ornament by alternation — squares repeated in alternating colours and shapes on wrapping papers and tiled panels; Arabic calligraphy itself is an ornament element, as on the Kaaba door decorated with written verses (student book; original target `visual-art/ornament-by-alternation`) | Book 3, printed pp. 12–13 |
+
+**Book 4:** *التربية الفنية — الصف الرابع الابتدائي (Art Education — Fourth Grade Primary; the PDF binds الجزء الأول من المقرر, Part One of the Course, and الجزء الثاني من المقرر, Part Two, in one file)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Saudi Arabia, print edition 1448H / 2026 CE (cataloguing-in-publication 1446H); ISBN 978-603-8527-28-5, legal deposit 1446/12941. Grade: 4 (student/teacher: STUDENT). PDF pages: 179 (179 printed pages; printed folios match PDF pages throughout), text layer present. Verdict: COMPLETE per its own tables of contents. Excluded per standing rules, named here: unit assessments at printed pp. 36, 51–52, 69, 90 (Part One) and 112, 123, 138, 152, 172 (Part Two); figure indexes pp. 94–96 and 176–177 and references pp. 178–179, inventory-only; the term-project forms' blank fields are apparatus (the project itself is placed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Axes and symmetry in geometric ornament — to ornament geometric shapes the shape's basic axes are used — the vertical axis dividing it into two equal halves, right and left, and the horizontal axis dividing it into upper and lower halves, and both axes or one of them may be used; the axes of symmetry produce ornament shapes marked by similarity and… (student book; original target `visual-art/symmetry-in-geometric-ornament`) | Book 4, printed pp. 41–44 |
+| Saudi Arabia — Diameters in geometric ornament — beside the axes, ornament rests on other geometric lines — the diameter is a slanted line dividing the shape into two mirrored parts in the square, the circle and the equilateral triangle, just like the perpendicular axes, so these shapes' diameters are symmetry axes and the ornaments built on them are… (student book; original target `visual-art/diameters-in-geometric-ornament`) | Book 4, printed pp. 45–50 |
+| Saudi Arabia — Total symmetry in our Islamic ornaments — ornament units divide into geometric, plant and calligraphic; geometric ornament arises from the linear relations born of meeting straight and curved lines — polygons, triangles, quadrilaterals, the rhombus and parallelogram, pentagons and hexagons, circles and stars — and geometric ornaments are used on every kind of… (student book; original target `visual-art/total-symmetry-in-islamic-ornament`) | Book 4, printed pp. 115–117 |
+| Saudi Arabia — Opposite total symmetry in our ornaments — a wooden panel inlaid with pearl, ivory, ebony, bone, turquoise, shell and gold, made in the second half of the tenth Hijri century, shows repeated geometric shapes in the panel's centre and edges, and the main qibla mihrab wall of the Thatta mosque in Pakistan, built in 1647 CE, shows geometric ornaments in reversed… (student book; original target `visual-art/opposite-total-symmetry`) | Book 4, printed pp. 120–122 |
+
+**Acceptance count: taught in 3 countries (Sudan, Iran, Saudi Arabia).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/ornament-and-decorative-pattern`); the Sudan placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Sudan's own way is kept as the named sub lessons above.
 

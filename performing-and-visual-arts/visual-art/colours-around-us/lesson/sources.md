@@ -1,7 +1,7 @@
 # Sources — Colours Around Us
 
 
-countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya
+countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saudi Arabia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -38,7 +38,14 @@ countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya
 
 | Brazil — Folha 7 — colours in rooms: dark tones weigh and shrink a space, light tones open it (student book; original target `visual-art/colours-around-us`) | Book 9, printed p. 120 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 12:** *التربية الفنية — الصف الأول الابتدائي — الجزء الأول من المقرر (Art Education — Grade 1 Primary — Part One of the Course, i.e. Term 1)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Kingdom of Saudi Arabia; print edition 1448H / 2026 (cataloguing 1446H); ISBN 978-603-05-6599-3. Grade: 1 (student/teacher: STUDENT). PDF pages: 85. Verdict: COMPLETE. Excluded per standing rules, named here: unit assessments (تقويم الوحدة, printed pp. 32, 46, 56, 80) and the figure index and references (pp. 81–85, inventory-only). Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Unit 1 (Drawing) Topic 1 الألوان ممتعة — colours are fun — the colour names on the felt-tip pens (yellow, pink, green, blue, black, orange, violet, brown, red, dark blue); the kinds of colours a child meets: felt-tip pens, wax crayons (fun to colour with but quick to break), and brush colours; and caring for colours always — cap the pens so they do not dry… (student book; original target `visual-art/naming-and-caring-for-colours`) | Book 12, printed pp. 10–12 |
+| Saudi Arabia — Unit 1 Topic 4 — I keep my colours well — colouring pens are used on paper and the art works that suit them; cap them always so they do not dry, and put them back in their place (student book; original target `visual-art/naming-and-caring-for-colours`) | Book 12, printed p. 31 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil, Saudi Arabia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 6 rests on teacher-guide evidence only for its own content; it is labelled as evidence in the part name, in the lesson text and in this table. The Grade 2 teacher guide is a scan with no usable text layer, read visually; its citation here is at section level only, as its placements require. The lesson as a whole stands on the Grade 1 and Grade 3 student textbooks, so the acceptance count counts pupil-taught content. The Grade 1 Chapter 3 summary's line — colours distinguish our clothes and beautify the surroundings (plants green, flowers red and yellow) — is carried in Colours on Clothes and in the question stock of this lesson, under the folding rules.
 

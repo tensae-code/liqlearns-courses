@@ -1,7 +1,7 @@
 # Sources — Appreciating Drawing
 
 
-countries: Ethiopia, Pakistan
+countries: Ethiopia, Pakistan, Saudi Arabia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -17,7 +17,47 @@ countries: Ethiopia, Pakistan
 | Pakistan — Chapter 1's method: learning to draw by looking long at a set-up model before touching the pencil (student book; original target `visual-art/appreciating-drawing`) | Book 2, printed pp. 1–3 |
 | Pakistan — Chapter 2, Drawing Practice #9: Landscape — drawing the land from looking, the outdoor counterpart of the still-life practices (student book; original target `visual-art/appreciating-drawing`) | Book 3, printed pp. 40–43 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Pakistan).**
+**Book 4:** *التربية الفنية — الصف الأول الابتدائي — الجزء الأول من المقرر (Art Education — Grade 1 Primary — Part One of the Course, i.e. Term 1)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Kingdom of Saudi Arabia; print edition 1448H / 2026 (cataloguing 1446H); ISBN 978-603-05-6599-3. Grade: 1 (student/teacher: STUDENT). PDF pages: 85. Verdict: COMPLETE. Excluded per standing rules, named here: unit assessments (تقويم الوحدة, printed pp. 32, 46, 56, 80) and the figure index and references (pp. 81–85, inventory-only). Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Unit 1 Topic 3, Activities 1–2 — drawing from imagination — imagine your parents asked you to decorate your room's wall with a painting of your own drawing, and invent and draw a cartoon character of your own in the empty space (student book; original target `visual-art/appreciating-drawing`) | Book 4, printed pp. 26–27 |
+| Saudi Arabia — Unit 1 Topic 4 مدرستي الجميلة — my beautiful school — drawing is fun and useful: it teaches how to become an artist and express the beauty of things around us; I draw my beautiful school and my new friends; and a heard story becomes a painting — a winning child painting shows the zoo story the child listened to (student book; original target `visual-art/appreciating-drawing`) | Book 4, printed pp. 28–30 |
+
+**Book 5:** *التربية الفنية — الصف الثاني الابتدائي — الجزء الأول من المقرر (Art Education — Grade 2 Primary — Part One of the Course, i.e. Term 1)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Kingdom of Saudi Arabia; print edition 1448H / 2026 (cataloguing 1446H); ISBN 978-603-8527-07-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 118. Verdict: COMPLETE. Excluded per standing rules, named here: unit assessments (تقويم الوحدة, printed pp. 33–34, 49–50, 60, 70, 80, 111) and the figure index (فهرس الأشكال, pp. 112–116) and references (p. 117), inventory-only. Note as filed: this 1448H edition's weaving and printing fields cover the same ground as the 1445H G2 Term 2 book (Book 1 of this country's set) in a different term order and with different drawing/ornament units; it is a distinct edition and is placed in full. Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Unit 1 Topic 1 — drawing a sunset step by step with wooden pastel colours — draw the sunset scene choosing yellow, orange and red and blend the colours with the finger; put dark brown at the bottom of the painting for shadow; draw the tree's trunk and branches in brown with a little black; draw the leaves by blending dark brown and… (student book; original target `visual-art/appreciating-drawing`) | Book 5, printed pp. 14–16 |
+| Saudi Arabia — Unit 1 Topic 2 الفن والطبيعة — art and nature — the natural elements around us (plants, trees, flowers, fruits, mountains, rocks, sands, animals, birds, insects, sea creatures) differ in their lines, colours and textures: a group of plant leaves is described by its colours, its texture, and its inner and outer lines; world and local fine artists… (student book; original target `visual-art/appreciating-drawing`) | Book 5, printed pp. 20–23 |
+
+**Book 6:** *التربية الفنية — الصف الثاني الابتدائي — الجزء الثاني من المقرر (Art Education — Grade 2 Primary — Part Two of the Course, i.e. Term 2)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Kingdom of Saudi Arabia; edition 1447H / 2025; ISBN 978-603-514-142-0. Grade: 2 (student/teacher: STUDENT). PDF pages: 132 (image-only scan, read in full from page renders). Verdict: COMPLETE. Excluded per standing rules, named here: unit assessments (تقويم الوحدة, printed pp. 38, 50, 74, 121–122) and the figure index (فهرس الأشكال, pp. 123–129) and references (pp. 130–132), inventory-only. Note as filed: this is the newer edition's Term 2 book; its colour unit overlaps Book 1 (the 1445H Term 2 book) but its ornament, cardboard and pottery units are new content, and it is placed in full as a distinct book. Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Unit 1 Topic 1 — painting a beautiful picture with warm and cold colours — the materials (gouache colours, a black felt-tip colour, a drawing book, a water cup, tissues, and brushes or a sponge roller for watercolours); a sunset background step by step: prepare the watercolours (red and yellow, each mixed with a little water), draw… (student book; original target `visual-art/appreciating-drawing`) | Book 6, printed pp. 18–22 |
+| Saudi Arabia — Unit 1 Topic 2 — using the neutral colours to produce a beautiful painting, step by step: choose the topic's idea and draw its first lines; put the black colour at the bottom of the painting in a very small amount; put the grey colour in different grades at the bottom of the painting; put the white colour at the top of the painting —… (student book; original target `visual-art/appreciating-drawing`) | Book 6, printed pp. 29–30 |
+
+**Book 7:** *التربية الفنية — الصف الثالث الابتدائي — الفصل الدراسي الثاني (Art Education — Grade 3 Primary — Second School Term)* (student book, Arabic) — Saudi Arabia, Ministry of Education, Kingdom of Saudi Arabia; edition 1445H / 2023; ISBN 978-603-511-403-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 65 (p. 1 is a Bedaya-site wrapper page; the book itself is 64 pp). Verdict: COMPLETE. Excluded per standing rules, named here: unit assessments (تقويم الوحدة, printed pp. 21, 58) and the figure index (فهرس الأشكال والصور, pp. 59–62) and references (pp. 63–64), inventory-only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Unit 2 (Drawing field) Topic 1 الرسم من الطبيعة — drawing from nature — nature is the elements in man's surroundings, made by God; man must realise the blessing of its presence, preserve it, and express it in his beautiful drawings with varied, harmonious colours; the preliminary planning of the drawing (the sketch, الاسكتش) is one of the steps of drawing living or… (student book; original target `visual-art/appreciating-drawing`) | Book 7, printed pp. 24–25 |
+| Saudi Arabia — Unit 2 Topic 1 — painting a waterfall from nature, step by step — the materials and tools for drawing natural and still scenes (colour tubes, Canson drawing paper, the palette, different kinds of brushes); the colouring steps of the English artist Arnold Lowrey's waterfall painting: (1) draw a sketch of the painting; (2) put light… (student book; original target `visual-art/appreciating-drawing`) | Book 7, printed pp. 28–33 |
+
+**Book 8:** *التربية الفنية — الصف الثالث الابتدائي — الفصل الدراسي الثالث (Art Education — Grade 3 Primary — Third Term)* (student book, Arabic) — Saudi Arabia, Ministry of Education, Saudi Arabia, edition 1445H / 2023 CE (cataloguing-in-publication 1443H); ISBN 978-603-511-187-4. Grade: 3 (student/teacher: STUDENT). PDF pages: 86 (84 printed pages), text layer present. Verdict: COMPLETE per its own table of contents. Excluded per standing rules, named here: unit assessments at printed pp. 32–33, 46–47, 80; figure index pp. 81–84 and references pp. 85–86, inventory-only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Appreciating geometric ornament in a painting — the geometric ornament elements in Saudi artist Ibrahim Buqas's painting are listed and the pupils give the painting a title (student book; original target `visual-art/appreciating-drawing`) | Book 8, printed p. 21 |
+
+**Book 9:** *التربية الفنية — الصف الرابع الابتدائي (Art Education — Fourth Grade Primary; the PDF binds الجزء الأول من المقرر, Part One of the Course, and الجزء الثاني من المقرر, Part Two, in one file)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Saudi Arabia, print edition 1448H / 2026 CE (cataloguing-in-publication 1446H); ISBN 978-603-8527-28-5, legal deposit 1446/12941. Grade: 4 (student/teacher: STUDENT). PDF pages: 179 (179 printed pages; printed folios match PDF pages throughout), text layer present. Verdict: COMPLETE per its own tables of contents. Excluded per standing rules, named here: unit assessments at printed pp. 36, 51–52, 69, 90 (Part One) and 112, 123, 138, 152, 172 (Part Two); figure indexes pp. 94–96 and 176–177 and references pp. 178–179, inventory-only; the term-project forms' blank fields are apparatus (the project itself is placed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Still-life painters, world and Saudi — many artists in different eras became famous for drawing still nature in varied styles — Paul Cézanne, Pablo Picasso and William Perry — and locally the Saudi artists Abdul Halim Radwi, Mohammed Al-Salim and Abdul Jabbar Al-Yahya and others stood out; the paintings are examined (shading with degrees of pencil by… (student book; original target `visual-art/appreciating-drawing`) | Book 9, printed pp. 106–107 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Pakistan, Saudi Arabia).**
 
 No honesty flags attach to this placement; it is followed exactly as read.
 

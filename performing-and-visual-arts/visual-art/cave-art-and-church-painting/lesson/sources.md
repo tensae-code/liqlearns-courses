@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -50,7 +50,19 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, S
 
 | Brazil — Folha 3 "Você suporta Arte?" — cave painting: detailed Paleolithic animals against simplified Neolithic figures, Lascaux's Black Bull, natural pigments; drawing in both styles using only natural materials (student book; original target `visual-art/cave-art-and-church-painting`) | Book 11, printed p. 43 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 16:** *التربية الفنية — الصف الأول الابتدائي — الجزء الأول من المقرر (Art Education — Grade 1 Primary — Part One of the Course, i.e. Term 1)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Kingdom of Saudi Arabia; print edition 1448H / 2026 (cataloguing 1446H); ISBN 978-603-05-6599-3. Grade: 1 (student/teacher: STUDENT). PDF pages: 85. Verdict: COMPLETE. Excluded per standing rules, named here: unit assessments (تقويم الوحدة, printed pp. 32, 46, 56, 80) and the figure index and references (pp. 81–85, inventory-only). Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Unit 1 Topic 3 الإنسان والرسم — man and drawing — long ago man knew drawing before writing: he drew with colours he got from tree trunks and plants on cave walls, and used his fingers and stones to draw with, having neither pen nor brush (student book; original target `visual-art/the-first-drawings`) | Book 16, printed p. 22 |
+
+**Book 17:** *التربية الفنية — الصف الرابع الابتدائي (Art Education — Fourth Grade Primary; the PDF binds الجزء الأول من المقرر, Part One of the Course, and الجزء الثاني من المقرر, Part Two, in one file)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Saudi Arabia, print edition 1448H / 2026 CE (cataloguing-in-publication 1446H); ISBN 978-603-8527-28-5, legal deposit 1446/12941. Grade: 4 (student/teacher: STUDENT). PDF pages: 179 (179 printed pages; printed folios match PDF pages throughout), text layer present. Verdict: COMPLETE per its own tables of contents. Excluded per standing rules, named here: unit assessments at printed pp. 36, 51–52, 69, 90 (Part One) and 112, 123, 138, 152, 172 (Part Two); figure indexes pp. 94–96 and 176–177 and references pp. 178–179, inventory-only; the term-project forms' blank fields are apparatus (the project itself is placed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Beginnings of drawing — ancient man's drawing attempts began in the Old Stone Age, and lines were the oldest means of artistic expression — the cave man scratched marks with his fingers in wet clay, carved on rocks and trees, or drew lines with a piece of burnt wood on hard surfaces to fix areas through which he expressed the shapes he saw… (student book; original target `visual-art/the-first-drawings`) | Book 17, printed p. 30 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 

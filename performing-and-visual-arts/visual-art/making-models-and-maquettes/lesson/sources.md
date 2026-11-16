@@ -1,6 +1,6 @@
 # Sources — Making Models and Maquettes
 
-countries: Bhutan, Pakistan, Sudan
+countries: Bhutan, Pakistan, Sudan, Saudi Arabia
 
 **Book 1:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
@@ -16,7 +16,13 @@ countries: Bhutan, Pakistan, Sudan
 | Pakistan — Chapter 6: Making Models with Cutting and Pasting of Straws — a mosque model built from wheat straw: draw the mosque's outline on paper, soak the straws, cut them to the outline with scissors, paste them along every line, and let it dry into a raised golden model; houses and other buildings can be modelled the same way (student book; original target `visual-art/models-from-cut-straw`) | Book 2, printed pp. 59–61 |
 | Sudan — Drawing Lesson 6 "Circumambulation around the Holy Kaaba": drawing the Kaaba and the tawaf — the circular movement of the people around it like moving waves — from pictures and television, and building the scene as a model from empty cardboard boxes: cut the openings with a cutter held correctly, join the pieces with paper, use glue sparingly, colour the finished model and keep it for the annual exhibition (student book — PARTIAL, as filed (partial scan, 27 of ~60 pages); original target `visual-art/the-kaaba-tawaf-drawing-and-model`) | Book 3, printed p. 19 |
 
-**Acceptance count: taught in 3 countries (Bhutan, Pakistan, Sudan).**
+**Book 4:** *التربية الفنية — الصف الثالث الابتدائي — الفصل الدراسي الثالث (Art Education — Grade 3 Primary — Third Term)* (student book, Arabic) — Saudi Arabia, Ministry of Education, Saudi Arabia, edition 1445H / 2023 CE (cataloguing-in-publication 1443H); ISBN 978-603-511-187-4. Grade: 3 (student/teacher: STUDENT). PDF pages: 86 (84 printed pages), text layer present. Verdict: COMPLETE per its own table of contents. Excluded per standing rules, named here: unit assessments at printed pp. 32–33, 46–47, 80; figure index pp. 81–84 and references pp. 85–86, inventory-only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia — Building a model neighbourhood — villages and cities are defined (mountain cities Taif, Al-Baha and Abha; valley city Makkah; coastal cities Dammam and Jeddah) and pupils build their own neighbourhood from cartons imitating their environment — a coastal model with mirrors for the sea, small stones and soft sand (student book; original target `visual-art/building-a-model-neighbourhood`) | Book 4, printed pp. 43–44 |
+
+**Acceptance count: taught in 4 countries (Bhutan, Pakistan, Sudan, Saudi Arabia).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/making-models-and-maquettes`); the Bhutan placements were filed as NEW LESSON NEEDED under the original string `visual-art/making-models`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Bhutan's own way, carried in the placements: a one-lesson-one-page workbook that builds the hand first — lines, curves, tone, mixing — then spends half its pages making things, with Bhutanese life (tshechu, losar) and Bhutan's own traditional forms as content.
 
