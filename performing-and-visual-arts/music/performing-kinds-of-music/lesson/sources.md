@@ -1,6 +1,6 @@
 # Sources — Performing Kinds of Music
 
-countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland
+countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., body/syllabus to printed p. 80. Printed page = PDF page − 6 in the body. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland
 
 **Book 7:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 8:** *Educación Artística — Postprimaria Rural — Guías del estudiante, Grados 6 y 7 (Artistic Education, Rural Post-primary, student guides, Grades 6 and 7)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional (MEN), Bogotá; year 2010; ISBN libro 978-958-691-416-1; ISBN obra 978-958-691-411-6. Grades 6–7 (student book: STUDENT). PDF pages: 218 (title/imprint pages verified against the record; byte size 113,210,688). Verdict: COMPLETE — read in full from the downloaded file's text layer, all 6 modules and 27 guides Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md. Every guide ends in an "Evaluemos" self/peer/teacher assessment section — assessment apparatus, named here and not placed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the kinds of music in expression (teacher guide — evidence) | Grade 2 Teacher Guide, printed pp. 25–29 (§2.1; section level — scan with no text layer) |
@@ -28,8 +30,10 @@ countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland
 
 | Iceland — The Revue: Kerlingarvísur — listen with attention to how Nína Sveinsdóttir performs the old woman's verses, then sing them yourselves, working on singing, pronunciation and interpretation (teacher guide — evidence) | Book 7, printed p. 21 |
 
-**Acceptance count: taught in 1 country (Uganda).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
+| Colombia — Módulo 4, Guía 20 "Reconocimiento de los ensambles" — recognising and classifying every ensemble met: matching instruments to ensembles and ensembles to their origin, function and rhythm (student book; original target `music/performing-kinds-of-music`) | Book 8, printed pp. 145–155 |
+
+**Acceptance count: taught in 2 countries (Uganda, Colombia).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only and is labelled so in its plan, text and sources. The Grade 2 teacher guide is a scan with no text layer; its parts are cited at section level only and no wording is quoted from it.
 
-Searchable tags: performing kinds of music, call and answer, two groups singing, teacher guide evidence, Iceland, Dægurspor
+Searchable tags: performing kinds of music, call and answer, two groups singing, teacher guide evidence, Iceland, Dægurspor, Colombia

@@ -1,7 +1,7 @@
 # Sources — Mixing Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji
+countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique,
 
 **Book 10:** *Art is Fun 2 — Lines and Colour Classification* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 2, 69 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: a single-element workbook — line first, then colour classification — built from low-cost local materials (punched paper dots, potato prints, cardboard-strip weaving, folded dyeing). Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md.
 
+**Book 11:** *Secundaria Activa — Educación Artística - Artes Visuales (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-497-0, ISBN serie Secundaria Activa 978-958-691-485-7; authors Paola Lorena Coral Pérez and Marcela Tristancho (update and qualification by Aguirre Asesores S.A.S., contract 428 of 2010). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 168 (title page verified against the record; byte size 9,617,292). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 12 Momentos. The book's self-assessment rubrics (autoevaluación) are assessment apparatus, named here and not placed. READ ROUTE: the ministry host (redes.colombiaaprende.edu.co) drops direct connections after the TLS handshake, and its June 2023 Wayback capture is a truncated ~538 KB file; this copy is the Wayback Machine's 10 Dec 2022 capture of the same ministry file (canonical digest), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Mixing primaries makes green, orange and purple | Ethiopia, *Grade 3 Performing and Visual Arts Student Textbook*, §2.3, Drawing 19, Figure 20, Figure 21, Activities 12–13 and Drawing 22, printed pp. 32–33 |
@@ -39,8 +41,10 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique,
 | Mozambique — Lesson 15, "Colour" (Cor): primaries, secondaries and mixing — no colour without light, and the rainbow as white light decomposed into seven colours; the primary colours (yellow, red/magenta, cyan blue) and the secondaries made by mixing two primaries (green, orange, violet); the mixing procedure with coloured pencils — lay the lighter colour first, then pass the second colour over it in the same space until the secondary appears (yellow + cyan blue = green, as printed), then on to tertiaries (student book; original target `visual-art/mixing-colours`) | Book 9, printed pp. 108–111 |
 | Fiji — Painting fold-mix and Secondary Colours — folding paper over drops of the primaries to see colours combine; mixing equal primaries: yellow+red=orange, yellow+blue=green, red+blue=purple, painted into a six-part circle (student book) | Book 10, printed pp. 50–53 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
+| Colombia — Project 1, Subproject 1, Momento 1 continued: colour as the painter's material — as a musician composes with sounds, painters learn to "compose" with colour; Newton's experiments to understand where colour comes from; colour's two functions in nature, to highlight and to hide (ripe fruit, camouflage, the peacock's courtship plumage) (student book; original target `visual-art/colour-mixing-and-harmony`) | Book 11, printed pp. 16–44 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Sub lesson 2 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook. The Grade 3 Chapter 2 closing exercise carries the trap item "red mixed equally with yellow creates green" (false — it creates orange, per §2.3); the lesson teaches the corrected mixing and uses the trap as a question, exactly as the book's exercise frames it.
 
-Searchable tags: mixing colours, secondary colours, green orange purple ወይንጠጅ, primary colours mixing equal measure, neutral colours, Ethiopia Grade 3 colours, Nicaragua, Bhutan
+Searchable tags: mixing colours, secondary colours, green orange purple ወይንጠጅ, primary colours mixing equal measure, neutral colours, Ethiopia Grade 3 colours, Nicaragua, Bhutan, Colombia

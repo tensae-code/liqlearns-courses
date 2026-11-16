@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan
 **Book 7:** *Secondary School Curriculum — THE VISUAL AND PERFORMING ARTS (VAPA) Curriculum Guide* (curriculum guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 195 PDF pp. TEACHER — curriculum guide. Verdict: COMPLETE — Part 1 (national curriculum framework, policies) is general-education apparatus, named here and not placed; the per-subject curriculum content (Dance printed pp. 55–67, Drama pp. 76–101, Music pp. 109–132, Visual Arts pp. 140–184) is placed at framework level, the four Teacher's Guides carrying the same content in lesson form. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 8:** *Art and Model Drawing — Class 9* (student book, English) — Pakistan, by Dr. Sadia Murtaza (Lahore College for Women University); editor Ms. Sidra Liaqat; Experimental Edition; Punjab Curriculum and Textbook Board, Lahore; no ISBN printed on the pages read, Class 9, 224 PDF pp. STUDENT. Verdict: COMPLETE (byte size 79,217,551 matches the record exactly; title, imprint and full contents pages read). Downloaded from its recorded Google Drive source_url (exact byte size), verified, read, and staged under the push-don't-delete rule. Standing exclusions named: Assessment/Examination instructions and questions for the theoretical examination, printed pp. 199–211, the Glossary, printed pp. 212–220, and the Bibliography, printed pp. 197–198 — inventory-only, not placed. Pakistan's own way: the senior course is half studio, half Pakistan itself — its own architecture (Mohenjo-daro to Minar-e-Pakistan), its own master painters and calligraphers by name, and its own textiles (ajrak, ralli) as a full chapter. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/pakistan-placements.md (links-group filings).
+
+**Book 9:** *Educación Artística — Postprimaria Rural — Guías del estudiante, Grados 6 y 7 (Artistic Education, Rural Post-primary, student guides, Grades 6 and 7)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional (MEN), Bogotá; year 2010; ISBN libro 978-958-691-416-1; ISBN obra 978-958-691-411-6. Grades 6–7 (student book: STUDENT). PDF pages: 218 (title/imprint pages verified against the record; byte size 113,210,688). Verdict: COMPLETE — read in full from the downloaded file's text layer, all 6 modules and 27 guides Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md. Every guide ends in an "Evaluemos" self/peer/teacher assessment section — assessment apparatus, named here and not placed.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,8 +40,10 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan
 
 | Trinidad and Tobago — Visual Arts Content (Form 1 Term 1) — ancient art: cave paintings, cave drawings and sculptures, artifacts as found objects, the function of art in the cave era, and producing your own interpretation of a cave painting (curriculum guide — evidence) | Book 7, printed p. 140 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Romania, Pakistan).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
+| Colombia — Módulo 5, Guía 21 "Origen del arte" (The origin of art) — primitive man stamping his hand on the cave wall and painting the hunt; religion as the strongest motivation believed to have given art its origin; settled man's architecture after it (student book; original target `visual-art/cave-art-and-church-painting`) | Book 9, printed pp. 160–167 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 
-Searchable tags: cave art, Lascaux, Altamira, Porc-Epic, Lega Oda, Dire Dawa, Book of Paintings, መጽሐፈ ስዕላት, church painting, Debre Birhan Selassie, Romania
+Searchable tags: cave art, Lascaux, Altamira, Porc-Epic, Lega Oda, Dire Dawa, Book of Paintings, መጽሐፈ ስዕላት, church painting, Debre Birhan Selassie, Romania, Colombia

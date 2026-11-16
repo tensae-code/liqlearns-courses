@@ -211,6 +211,22 @@ The titles, in ladder order:
    of theme, slogan, selection, captions and hanging at eye
    level, and presenting your work and its inspiration (Suriname
    teacher guides, evidence).
+ The Art expansion added:
+   architecture — structures fitted to human needs across
+   time, caves, the tipi, Chiloé's palafitos, Calatrava's
+   bridge and Beijing's Forbidden City, some built to last
+   and some for a limited time; design — art and design
+   answering today's needs comfortably, functionally and
+   responsibly, with recycled and found materials and
+   Miró's beach sculpture; drawing the human figure —
+   Vitruvian proportion, palm, forearm and head-units, and
+   the canons of beauty; hyperrealism and photomontage —
+   painting that seeks photography's register, Antonio
+   López's "Lavabo y espejo", and Colombia's own
+   hyperrealists; and public art and murals — art out of
+   kings' and collectors' private rooms into the open air,
+   painted skate bowls at Medellín's Parque del Río and
+   Ipanema (Colombia student books).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -404,6 +420,18 @@ The titles, in ladder order:
    patterns, Inheems, Afro-Surinaams, Hindostaans, Javaans and
    Chinees, heard apart by their instruments, sounds and
    patterns (Suriname teacher guide, evidence).
+ The Art expansion added:
+   music of Colombia's regions — the country's own
+   ensembles, vallenato, gaitas and the Pacific marimba de
+   chonta, then region by region: the Caribbean's bands,
+   cantaoras and drums, the Pacific's currulao, the
+   Orinoquía's joropo on arpa, cuatro and capachos, and the
+   Andean region with Jorge Veloza; and music of
+   Colombia's Amazon — many cultures sounding at once,
+   baioes, marineras, huaynos and joropos beside the
+   Caribbean emigrants' congas and marimbas, what music is
+   for the indigenous peoples, and the Yuruparí origin
+   story in summary only (Colombia student books).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -529,6 +557,11 @@ The titles, in ladder order:
    and Surinamese theatre forms — Anansitori, mato and banya-pre
    beside rollenspel, sketch, musical and toneel (all Suriname
    teacher guides, evidence).
+ The Art expansion added:
+   performance art and body art — everyday actions as the
+   starting point of art, a daily action chosen and
+   recreated to make others reflect, through installation,
+   happening and performance (Colombia student book).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
@@ -620,3 +653,12 @@ The titles, in ladder order:
    people's garments by name, and the slavenboei and the named
    pieces and pendants and what they mean (Suriname teacher
    guides, evidence).
+ The Art expansion added:
+   cultural heritage and collections — what a collection
+   is and how museums communicate it, heritage tangible
+   and intangible, the Muisca raft of El Dorado and the
+   Río Guayabero rock paintings, cultural management and
+   the gestor cultural, and the heritage project that
+   gathers, registers in written, visual and audio
+   formats, and exhibits a community's own cultural and
+   musical heritage (Colombia student books).

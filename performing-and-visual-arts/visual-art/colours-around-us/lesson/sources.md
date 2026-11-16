@@ -1,7 +1,7 @@
 # Sources — Colours Around Us
 
 
-countries: Ethiopia, Guatemala, Mozambique
+countries: Ethiopia, Guatemala, Mozambique, Colombia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Guatemala, Mozambique
 
 **Book 6:** *Educação Visual — Módulo 1 (PESD I — Programa do Ensino Secundário à Distância, 1º Ciclo)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Moçambique, 2023; elaborated by Dionísio Manjate and Félix Mindú; no ISBN printed, Grades 7–9 (the PESD I cycle is taught as one combined cycle, not split by grade), 152 PDF pp. STUDENT. Verdict: COMPLETE (cover/title verified — "EDUCAÇÃO VISUAL, MÓDULO 1, PESD I"; 20,947,967 bytes, exact match to the record; fetched from GitHub Releases, mid-size-books-8). Mozambique's own way: a self-study distance module — every lesson carries objectives, the teaching body, exercises, a summary and an answer key for the lone learner. Named, not placed: the per-lesson glossaries and the closing Bibliography (printed p. 150) — inventory only; the Unit 5 introduction (printed p. 127) announces a third textiles lesson on basketry (cestaria) that does not appear in this module — a gap in the book, noted as filed. Excluded per the placements: the end-of-module preparation test (Teste de Preparação de Fim do Módulo, printed pp. 138–144) and its answer key (printed pp. 145–149) — the book's own assessment; the lessons' exercises and answer keys are self-study apparatus (all teaching content is placed from the lesson bodies). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mozambique-placements.md.
 
+**Book 7:** *Educación Artística — Postprimaria Rural — Guías del estudiante, Grados 6 y 7 (Artistic Education, Rural Post-primary, student guides, Grades 6 and 7)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional (MEN), Bogotá; year 2010; ISBN libro 978-958-691-416-1; ISBN obra 978-958-691-411-6. Grades 6–7 (student book: STUDENT). PDF pages: 218 (title/imprint pages verified against the record; byte size 113,210,688). Verdict: COMPLETE — read in full from the downloaded file's text layer, all 6 modules and 27 guides Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md. Every guide ends in an "Evaluemos" self/peer/teacher assessment section — assessment apparatus, named here and not placed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Yellow and red around us | Ethiopia, *Grade 1 Performing and Visual Arts Student Textbook*, printed p. 54 |
@@ -26,8 +28,10 @@ countries: Ethiopia, Guatemala, Mozambique
 | Guatemala — Telling colour tones apart and researching the culture's own techniques for obtaining colours — Experiencia 2 "Las manos creadoras" (Grade 4) (theme level; activity pages not in this PDF) (teacher guide — evidence; original target `visual-art/colours-from-our-own-culture`) | Book 5, printed p. 23 |
 | Mozambique — Lesson 15, "Colour": the symbolism of colours — colours carry meanings that vary between peoples and cultures; the meanings given for white (purity, peace, cleanliness), blue (infinity, fidelity, freshness), red (love, danger, blood, fire), green (hope, nature, health, permission), violet (sadness, serenity, silence), yellow (light, prosperity, joy) and black (death, mourning, elegance, authority); and Mozambique's own flag read colour by colour — green the wealth of the soil, black the African continent, yellow the riches of the subsoil, red the blood spilled, white peace (student book; original target `visual-art/colours-around-us`) | Book 6, printed pp. 115–118 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mozambique). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+| Colombia — Módulo 6, Guía 27 "Colores y significados" (Colours and meanings) — colours carry meanings (absolute green as the calmest colour that exists, in the table the guide quotes), meanings can shift, and the student plans a work by the meanings they intend their colours to carry, then checks whether the finished work kept them (student book; original target `visual-art/colours-around-us`) | Book 7, printed pp. 202–210 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Mozambique, Colombia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 Sub lesson 6 rests on teacher-guide evidence only for its own content; it is labelled as evidence in the part name, in the lesson text and in this table. The Grade 2 teacher guide is a scan with no usable text layer, read visually; its citation here is at section level only, as its placements require. The lesson as a whole stands on the Grade 1 and Grade 3 student textbooks, so the acceptance count counts pupil-taught content. The Grade 1 Chapter 3 summary's line — colours distinguish our clothes and beautify the surroundings (plants green, flowers red and yellow) — is carried in Colours on Clothes and in the question stock of this lesson, under the folding rules.
 
-Searchable tags: colours around us, yellow adey bananas, red roses sunrise sacrifice berbere, yellow turmeric እርድ hope happiness, blue ሰማያዊ sky water calm, Ethiopian flag colours, Ethiopia Grade 1 Grade 3 colours
+Searchable tags: colours around us, yellow adey bananas, red roses sunrise sacrifice berbere, yellow turmeric እርድ hope happiness, blue ሰማያዊ sky water calm, Ethiopian flag colours, Ethiopia Grade 1 Grade 3 colours, Colombia

@@ -1,6 +1,6 @@
 # Sources — Kinds of Traditional Music
 
-countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan
+countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan, Colombia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan
 
 **Book 6:** *Музыка и пение — Учебник для 1 класса с русским языком обучения общеобразовательных средних школ (Music and Singing, textbook for Grade 1 with Russian language of instruction), Издание четвёртое (4th edition)* (student book, Russian) — Turkmenistan, by L. Afonova, E. Volkova; Туркменская государственная издательская служба (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed (UDK/BBK codes only), Grade 1, 104 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. A parallel-track book, not a translation of Book 1 of this country's set: different authors and mostly different songs, though two songs (Aglama, gurjak; Aýterek-günterek) appear in both, in the notation appendix here. The repo tree path is a PHANTOM PUSH — grab.py tree returned HTTP 404 — so the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link; 27,218,175 bytes and 104 pages, both matching the record exactly. Downloaded copy staged under the push-don't-delete rule at the phase3-staging record path. Excluded per the placements: the closing "Повторение" (Revision, printed p. 52) — the book's own revision lesson, named here, not placed; all songs placed by title/subject/composer only, never lyrics. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
+**Book 7:** *Secundaria Activa — Educación Artística - Música (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-495-6, ISBN serie Secundaria Activa 978-958-691-485-7; author Paola Lorena Coral Pérez (update and qualification by Aguirre Asesores S.A.S.). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 211 (title page verified against the record; byte size 17,973,089). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 14 Momentos. Self-assessment rubrics are assessment apparatus, named here and not placed. READ ROUTE: as with Book 3, the ministry host drops direct connections and the June 2023 Wayback capture is truncated (~584 KB); this copy is the Wayback Machine's 27 Jul 2021 capture of the same ministry file (canonical digest), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Kinds of traditional music: joyful expressions showing the community's activities — New Year, work, wedding and worship songs; traditional dance as movement with traditional music | Grade 2 Student Textbook, §3.1.2, printed p. 50 |
@@ -25,8 +27,10 @@ countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan
 | Turkmenistan — "Geliň, saz diňläliň!" (Let's listen!) — "Bibijan", a Turkmen folk song (fragment), which the composer Durdy Nuryýew reworked for piano and dressed in harmonious sounds; the girls make dance movements to its music while the boys clap (student book; original target `music/kinds-of-traditional-music`) | Book 5, printed p. 21 |
 | Turkmenistan — folk songs of other peoples: "Перепёлочка" (The Little Quail), a Belarusian folk song, and "Во поле берёзонька стояла", a Russian folk song (summaries only) (student book; original target `music/kinds-of-traditional-music`) | Book 6, printed pp. 12, 80 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
+| Colombia — Project 2, Subproject 2, Momento 2 "La música que hacemos": what a musical genre is — works grouped by shared rhythm, instrumentation, harmonic structures, context and epoch — and how genre differs from style (student book; original target `music/kinds-of-traditional-music`) | Book 7, printed pp. 159–171 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Colombia).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count.
 
 The book prints one short shilela (qererito) example and one fukera example as repertoire; following the placements, they are placed by kind and purpose only — no chant verses are transcribed in this lesson. The Grade 2 chapter review's wording on this topic is folded into this lesson's questions, as review stock, per the course folding rules; it is not a separate lesson.
 
-Searchable tags: traditional music kinds, shilela, ሽለላ, fukera, ፉከራ, qererito, praise chanting, wedding songs, work songs
+Searchable tags: traditional music kinds, shilela, ሽለላ, fukera, ፉከራ, qererito, praise chanting, wedding songs, work songs, Colombia

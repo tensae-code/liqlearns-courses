@@ -1497,7 +1497,87 @@ lessons are the books'.
   heritage named thing by thing, the Mato storytelling
   theatre, and the one-minute film.
 
-**The whole course stands at 396 lessons, 5,306 questions and
+- **Art expansion — Colombia — BUILT 2026-11-16:** 87 placements
+  stocked, reconciled against the placements file's own
+  tallies (Book 1 *Educación Artística, Postprimaria Rural,
+  Grados 6 y 7*: 29 — 25 to existing, 4 NEW LESSON NEEDED;
+  Book 2 *Grados 8 y 9*: 20 — 14 to existing, 6 NEW; Book 3
+  *Artes Visuales, Secundaria Activa, Grados 6–9*: 14 — 10 to
+  existing, 4 NEW; Book 4 *Música, Secundaria Activa*: 14 —
+  12 to existing, 2 NEW; Book 5 *Teatro, Secundaria Activa*:
+  10 — 10 to existing, 0 NEW = 87; the file contains exactly
+  87 placement lines, matching the wave tally of 87): 68
+  into lessons that already existed (Playing a Person ×2;
+  Mime, Fables and First Plays ×3; Appreciating and Valuing
+  the Arts ×3 — one from the original string
+  beauty-and-counter-beauty; Appreciating the Arts ×3 — two
+  from how-to-look-at-art; Reading the Beat ×2; Sounds
+  Around Us ×3; Traditional and Festival Songs; The Primary
+  Colours; Composition in Visual Art ×3; Design and
+  Perspective: Near and Far ×2; Hearing Each Instrument ×2;
+  The Elements of Music; Paints and How They Work;
+  Performing Kinds of Music; Cave Art and Church Painting;
+  How the Arts Belong Together ×2; Old Arts and Today's
+  Arts ×3; Sculpture and Historic Places ×2; Elements of
+  Visual Art ×3; Elements and Principles of Design;
+  Printing; What the Arts Do for Society; Drawing: The
+  Foundation Skill; Faster Notes, Dynamics and Tempo ×2;
+  Our Instruments; Beat Instruments; Modern Instruments;
+  Reading Music on the Staff; Kinds of Traditional Music;
+  From Script to Stage; Literary Elements of Drama; Puppet
+  Theatre ×2 — from masks-and-puppets; Stages of Film and
+  Theatre Production; Technical and Performance Elements
+  of Theatre ×2; and into already-built canonical lessons:
+  Conducting — from conducting-an-ensemble; Instrument
+  Families — from instrument-families-of-the-world; The
+  Human Voice — from how-the-voice-works; Caricature — from
+  caricature-drawing-with-exaggeration; Comics — from
+  comics-and-sequential-art; Famous Artists and
+  Masterpieces ×2 — from famous-artists; Mixing Colours —
+  from colour-mixing-and-harmony; Portrait Drawing and
+  Painting — from portrait-and-self-portrait; Signs,
+  Symbols and Pictograms — from art-that-speaks-in-symbols),
+  19 into 9 NEW lessons (Culture and
+  Values: Cultural Heritage and Collections ×4; Drama and
+  Dance: Performance Art and Body Art — from
+  performance-art-and-everyday-actions; Music: Music of
+  Colombia's Amazon; Music of Colombia's Regions ×8 — from
+  ensembles-of-colombia ×2, music-of-colombias-caribbean
+  ×2, music-of-colombias-pacific ×2 and
+  music-of-colombias-orinoquia ×2; Visual Art: Architecture
+  — from house-design-and-architecture; Design — from
+  art-design-and-the-environment; Drawing the Human Figure
+  — from human-proportions-and-canons-of-beauty;
+  Hyperrealism and Photomontage; Public Art and Murals —
+  from art-in-public-spaces), 96 questions added, media as
+  described slots only. Honesty carried exactly as filed:
+  all five books are STUDENT books, COMPLETE, so Colombia
+  enters every stocked lesson's acceptance count (the 9 new
+  lessons stand at acceptance count 1, Colombia). Named,
+  not placed, as filed: every Postprimaria guide's closing
+  "Evaluemos" assessment section, and the Secundaria Activa
+  books' self-assessment rubrics (autoevaluación); Book 2
+  Guía 22's registration formats and chronograms are
+  project apparatus for the heritage project, named in its
+  book entry; the literary fragment read inside Book 5's
+  Momento 3 ("The Hobbit", named by title and author only)
+  is not transcribed. Read routes carried as filed: Books
+  3–5 were read from complete Wayback captures of the
+  ministry files (2022, 2021 and 2014 respectively), the
+  ministry host dropping direct connections and the later
+  captures being truncated. Colombia's own way is kept as
+  named parts: art organised by big questions about the
+  body, space and time; the regions toured one by one —
+  Caribbean bands and cantaoras, the Pacific marimba de
+  chonta and currulao, the Amazon's many-cultured music and
+  the Yuruparí, the Orinoquía's joropo on arpa, cuatro and
+  capachos, the Andean ensembles and Jorge Veloza; the
+  Muisca raft of El Dorado, the Río Guayabero rock
+  paintings, Débora Arango, Carlos Rojas, and a heritage
+  project that gathers, registers and exhibits the
+  community's own cultural and musical heritage.
+
+**The whole course stands at 405 lessons, 5,402 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

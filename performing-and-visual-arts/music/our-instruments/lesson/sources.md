@@ -1,6 +1,6 @@
 # Sources — Our Instruments
 
-countries: Ethiopia, Andorra, Albania
+countries: Ethiopia, Andorra, Albania, Colombia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Andorra, Albania
 **Book 6:** *Libër mësuesi Muzikë 6 (Libër mësuesi Muzika 6)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2015, reprint 2019, ISBN 978-9928-08-202-2, Grade 6, 85 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs after the GitHub grab route disconnected twice (RemoteDisconnected); byte size matches the record exactly. Covers/title pages verified against the record title (p. 1 is the publisher's web page, title/imprint on printed pp. 3–4). Exclusions named in the placements: portfolio/assessment-level sections (printed pp. 79–85) are assessment apparatus with no new teaching content — not placed; the Revision/Questionnaire lessons in the annual plan are revision — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 7:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 8:** *Secundaria Activa — Educación Artística - Música (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-495-6, ISBN serie Secundaria Activa 978-958-691-485-7; author Paola Lorena Coral Pérez (update and qualification by Aguirre Asesores S.A.S.). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 211 (title page verified against the record; byte size 17,973,089). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 14 Momentos. Self-assessment rubrics are assessment apparatus, named here and not placed. READ ROUTE: as with Book 3, the ministry host drops direct connections and the June 2023 Wayback capture is truncated (~584 KB); this copy is the Wayback Machine's 27 Jul 2021 capture of the same ministry file (canonical digest), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -31,8 +33,10 @@ countries: Ethiopia, Andorra, Albania
 | Albania — The fyell (folk flute): its build and use — getting to know Albania's folk flute, how it is made and held, then playing it from written notes in simple metres ("Unë di të luaj në fyell" — I Know How to Play the Fyell) (teacher guide — evidence) | Book 6, printed p. 21 |
 | Albania — Playing the fyell in C major and A minor — step-by-step fyell practice of both scales, in group and solo, with the rules for using the instrument (teacher guide — evidence) | Book 7, printed p. 23 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+| Colombia — Project 2, Subproject 1, Momento 1 "El mundo de los instrumentos musicales": instruments through history — war drums as protagonists, and the slave of "The Thousand and One Nights" who gifts his mistress a lute (student book; original target `music/our-instruments`) | Book 8, printed pp. 102–109 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Colombia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 Teacher Guide is a scan with no usable text layer; it was read visually and is cited at section level only — no body wording is taken from it. The Grade 1 song is placed by name, purpose and teaching content only; its words are not transcribed. Picture 9600 is a drawn teaching board in the books' order, not a copy of any book photograph.
 
-Searchable tags: our instruments, masenqo, መሰንቆ, kebero, ከበሮ, washint, ዋሽንት, krar, ክራር, Ethiopian instruments
+Searchable tags: our instruments, masenqo, መሰንቆ, kebero, ከበሮ, washint, ዋሽንት, krar, ክራር, Ethiopian instruments, Colombia

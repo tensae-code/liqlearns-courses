@@ -1,6 +1,6 @@
 # Sources — Traditional and Festival Songs
 
-countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan
+countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan
 
 **Book 13:** *Музыка и пение — Учебник для 1 класса с русским языком обучения общеобразовательных средних школ (Music and Singing, textbook for Grade 1 with Russian language of instruction), Издание четвёртое (4th edition)* (student book, Russian) — Turkmenistan, by L. Afonova, E. Volkova; Туркменская государственная издательская служба (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed (UDK/BBK codes only), Grade 1, 104 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. A parallel-track book, not a translation of Book 1 of this country's set: different authors and mostly different songs, though two songs (Aglama, gurjak; Aýterek-günterek) appear in both, in the notation appendix here. The repo tree path is a PHANTOM PUSH — grab.py tree returned HTTP 404 — so the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link; 27,218,175 bytes and 104 pages, both matching the record exactly. Downloaded copy staged under the push-don't-delete rule at the phase3-staging record path. Excluded per the placements: the closing "Повторение" (Revision, printed p. 52) — the book's own revision lesson, named here, not placed; all songs placed by title/subject/composer only, never lyrics. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
+**Book 14:** *Educación Artística — Postprimaria Rural — Guías del estudiante, Grados 6 y 7 (Artistic Education, Rural Post-primary, student guides, Grades 6 and 7)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional (MEN), Bogotá; year 2010; ISBN libro 978-958-691-416-1; ISBN obra 978-958-691-411-6. Grades 6–7 (student book: STUDENT). PDF pages: 218 (title/imprint pages verified against the record; byte size 113,210,688). Verdict: COMPLETE — read in full from the downloaded file's text layer, all 6 modules and 27 guides Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md. Every guide ends in an "Evaluemos" self/peer/teacher assessment section — assessment apparatus, named here and not placed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — "አበባየሁሽ" (Abebayehush), the girls' Meskel-season call-and-response song/game | Grade 1 student textbook, printed pp. 39–40 |
@@ -52,8 +54,10 @@ countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan
 | Turkmenistan — "Ýetip gelýär Täze ýyl" / "Täze ýyl aýdymy" (New Year is coming; the New Year song, music Atda Çaryýew) — the New Year festival with Aýazbaba and Garpamyk, for which children prepare their songs, dances and poems; and "Geliň, saz döredeliň!" (Let's create music!) — put your own melody to a printed New Year poem and sing it (student book; original target `music/traditional-and-festival-songs`) | Book 12, printed pp. 46–48 |
 | Turkmenistan — the New Year songs: "Новый год" (New Year), "Голубые санки" (Blue Sledges) and "Дед Мороз" (Father Frost) (summaries only) (student book; original target `music/traditional-and-festival-songs`) | Book 13, printed pp. 34, 73–75 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
+| Colombia — Módulo 2, Guía 7 — the traditional rhythms, songs and oral traditions of the student's own region: the group sets a rhythm to verses and refrain as the cantaoras do, keeping pulse in hands and feet, and takes stock of the region's songs and rhythms (student book; original target `music/traditional-and-festival-songs`) | Book 14, printed pp. 60–61 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Colombia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Traditional songs are placed by name, season and purpose only; their lyrics are never transcribed in this lesson — the books themselves print several of them as repertoire, and the lesson follows the placements in naming and summarising rather than copying. The Genna game song "አሲና በል" (Asina Bel, Grade 3 student textbook, printed p. 54) is named in the placements as its own target and belongs with the Genna game in the Culture and Values festival lesson, not here; it is not stocked in this lesson.
 
-Searchable tags: traditional songs, festival songs, Abebayehush, Adey, Hoya Hoye, Buhe, wedding songs, አበባየሁሽ, አደይ, ሆያ ሆዬ, ቡሄ በሉ, ሙሽራየ, Meskel, Enqutatash, Debre Tabor, Nicaragua, Malta, Music Shines
+Searchable tags: traditional songs, festival songs, Abebayehush, Adey, Hoya Hoye, Buhe, wedding songs, አበባየሁሽ, አደይ, ሆያ ሆዬ, ቡሄ በሉ, ሙሽራየ, Meskel, Enqutatash, Debre Tabor, Nicaragua, Malta, Music Shines, Colombia

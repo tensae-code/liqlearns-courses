@@ -1,6 +1,6 @@
 # Sources — Puppet Theatre
 
-countries: Barbados, Nicaragua, Romania, Bhutan
+countries: Barbados, Nicaragua, Romania, Bhutan, Colombia
 
 **Book 1:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -10,6 +10,8 @@ countries: Barbados, Nicaragua, Romania, Bhutan
 
 **Book 4:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
+**Book 5:** *Secundaria Activa — Educación Artística - Teatro (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-496-3, ISBN serie Secundaria Activa 978-958-691-485-7; author Paola Lorena Coral Pérez (update and qualification by Aguirre Asesores S.A.S.). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 166 (title page verified against the record; byte size 19,417,017). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 10 Momentos. Self-assessment rubrics are assessment apparatus, named here and not placed; the literary fragment read inside Momento 3 of Project 1 is named by title and author only, not transcribed. READ ROUTE: as with Books 3–4, the ministry host drops direct connections and the later Wayback captures are truncated (~608 KB); this copy is the Wayback Machine's 4 Nov 2014 capture of the same ministry file (the only complete capture), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Cartoon characters and stick puppets (curriculum guide — evidence; original target `drama-and-dance/puppetry-and-masks`) | Book 1, printed p. 4 |
@@ -18,8 +20,11 @@ countries: Barbados, Nicaragua, Romania, Bhutan
 | Romania — The Puppet Art: puppet theatre is one of the oldest forms of storytelling and a complex artistic activity — the puppet itself is a plastic form (a sculpture), and the puppeteer is the artist who creates the puppets and moves them by hand or by a system of strings; preparing a puppet show in stages — choose the play (its text must carry a message and dialogue), build the characters (from wooden spoons, textile waste, wool scraps, buttons, glue, newspaper), handle the puppets correctly (their movements tied to the words), make the set from cardboard, and choose the musical background (original target `drama-and-dance/puppet-theatre`) | Book 3, printed p. 40 |
 | Bhutan — Lesson 19, Finger Puppets — cut an 8 cm square of paper, roll it around one finger and stick the edge, draw a face, colour the top, and cut narrow strips up to the line for hair (original target `drama-and-dance/finger-puppets`) | Book 4, printed p. 19 |
 
-**Acceptance count: taught in 2 countries (Romania, Bhutan).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
+| Colombia — Project 1, Subproject 2, Momento 1 "Empecemos el juego de los títeres": beginning the puppet game — researchers place the origin of puppets in India, where they developed from antiquity in their varied forms: glove, string, masks, giants, rod and shadow (student book; original target `drama-and-dance/masks-and-puppets`) | Book 5, printed pp. 66–71 |
+| Colombia — Project 1, Subproject 2, Momento 2 "¡Hagamos títeres!": making puppets — the glove puppet, easy to make and to handle: its face stays still, and it takes life through our voice and our hand, the hand fusing with the character and showing anger and joy through its movements (student book; original target `drama-and-dance/masks-and-puppets`) | Book 5, printed pp. 72–79 |
+
+**Acceptance count: taught in 3 countries (Romania, Bhutan, Colombia).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/puppet-theatre`); the Barbados placements were filed under the original string `drama-and-dance/puppetry-and-masks`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: puppet theatre starts in Class 1 Cultural Awareness, with characters the children invent and puppets made from sticks, paper bags and socks. (In this lesson's sources, Book 1 is the Barbados Visual Arts Curriculum Guide.)
 
-Searchable tags: puppet theatre, stick puppets, paper-bag puppets, sock puppets, cartoon characters, Barbados, Nicaragua, Romania, Bhutan
+Searchable tags: puppet theatre, stick puppets, paper-bag puppets, sock puppets, cartoon characters, Barbados, Nicaragua, Romania, Bhutan, Colombia

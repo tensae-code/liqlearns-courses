@@ -1,6 +1,6 @@
 # Sources — Sounds Around Us
 
-countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, Fiji
+countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, Fiji, Colombia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, 
 
 **Book 15:** *Performing Arts — Music Is Fun, Teachers Guide Year 1* (teacher guide, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 1, 28 PDF pp. TEACHER — teacher guide. The record says student book; the cover proves TEACHER GUIDE — carried exactly as filed. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: music-first performing arts organised by themes (family, birthday, Fiji Day, weather, environment, flowers); Fiji's own instruments (lali slit drum, derua bamboo stamping tube) taught inside the world percussion family, and the national anthem taught in English, iTaukei and Fiji Hindi. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 16:** *Educación Artística — Postprimaria Rural — Guías del estudiante, Grados 6 y 7 (Artistic Education, Rural Post-primary, student guides, Grades 6 and 7)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional (MEN), Bogotá; year 2010; ISBN libro 978-958-691-416-1; ISBN obra 978-958-691-411-6. Grades 6–7 (student book: STUDENT). PDF pages: 218 (title/imprint pages verified against the record; byte size 113,210,688). Verdict: COMPLETE — read in full from the downloaded file's text layer, all 6 modules and 27 guides Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md. Every guide ends in an "Evaluemos" self/peer/teacher assessment section — assessment apparatus, named here and not placed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Sounds around us | Grade 1 student textbook, §1.2, printed p. 2 (sounds on the way to school; sounds inside the home) |
@@ -55,8 +57,12 @@ countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, 
 | Turkmenistan — "Высоко и низко в музыке" (High and low in music) — pitch heard as height (student book; original target `music/sounds-around-us`) | Book 14, printed p. 21 |
 | Fiji — Unit 4 Weather, Activities 2–3, and Unit 5 Environment, Activities 3–4 — listening to and identifying weather and environment sounds, imitating them with the voice, expressing weather with body movement, and imitating animal voices with their movements (Old MacDonald song) (teacher guide — evidence) | Book 15, printed pp. 18–21 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+| Colombia — Módulo 2, Guía 5 "Los sonidos y el espacio" (Sounds and space) — the body itself produces sounds (palms, knees, cheeks, shoulders); sound is a form of energy; tone tells a high (agudo) sound from a low (grave) one and frequency counts vibrations in time; the same instrument sounds different in open and closed spaces, and sequences of body sounds are written down and recognised (student book; original target `music/sounds-around-us`) | Book 16, printed pp. 46–50 |
+| Colombia — Módulo 3, Guía 11 "Percepción sonora" (Sound perception) — the different ways we perceive sounds: through the eyes, the ears and the brain that elaborates them; sensitive memory as listening's ally (student book; original target `music/sounds-around-us`) | Book 16, printed pp. 85–89 |
+| Colombia — Módulo 3, Guía 13 "Paisaje sonoro" (Soundscape) — the soundscape as the auditory landscape: mapping the soundscape of your own house from sensitive memory and creating music out of its sounds (student book; original target `music/sounds-around-us`) | Book 16, printed pp. 94–97 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Colombia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No staff notation is claimed for Grade 1: the Grade 1 book teaches music by ear, and this lesson follows it. The teacher-guide part is evidence for the listening-first way of working; the pupil-taught parts stand on the two student textbooks.
 
-Searchable tags: sounds around us, listening, sound, imitating sounds, ear, birds, animals, instruments, አካባቢያችን, Nicaragua, Malta, Music Shines
+Searchable tags: sounds around us, listening, sound, imitating sounds, ear, birds, animals, instruments, አካባቢያችን, Nicaragua, Malta, Music Shines, Colombia
