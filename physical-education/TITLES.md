@@ -68,3 +68,9 @@ and **Running Sports Organisations**
 The PE expansion then added: **Swimming Basics**
 (`moving-basics/swimming-basics`)
 — 1 new lesson, bringing this course to 73 lessons.
+
+The PE expansion then added: **Skiing for Beginners**
+(`athletics/skiing-for-beginners`) and **Traditional
+Games of Kazakhstan**
+(`traditional-games-and-dances/traditional-games-of-kazakhstan`)
+— 2 new lessons, bringing this course to 75 lessons.

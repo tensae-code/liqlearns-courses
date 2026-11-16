@@ -102,6 +102,22 @@ pedagogy) and Part XIV (promoting mass PE and sport) are
 named but not placed, and its closing Tests and glossary
 are excluded as assessment and inventory matter.
 
+**PE expansion — Kazakhstan — BUILT 2026-11-16:** 15 placements
+from Kazakhstan's Physical Culture, Methodological Guide
+for Grade 4 Teachers (teacher guide, Russian + Kazakh
+parallel editions) stocked — 13 into existing lessons and
+2 as new lessons (Skiing for Beginners; Traditional Games
+of Kazakhstan) — bringing this course to **75
+lessons**. The Kazakhstan guide is a teacher guide, filed
+as evidence only, outside the acceptance counts; the
+secured file is a PARTIAL excerpt (cover, the four
+quarterly plan-graphs and the opening of the gymnastics
+lesson plans, printed pp. 1–48, non-contiguous) — the
+Russian edition read in full, the Kazakh edition
+spot-checked; its header knowledge basics (safety rules,
+health and hardening concepts, the schoolchild's daily
+regime) are named but not placed.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -137,6 +153,7 @@ are excluded as assessment and inventory matter.
 3. **Sprinting and Hurdle Running** (`athletics/sprinting-and-hurdle-running`) — starting fast on a signal, sprinting in running games, and clearing low hurdles without breaking stride.
 4. **Throwing for Distance** (`athletics/throwing-for-distance`) — throwing for distance in its safe taught forms — small ball and stick, ring and javelin-style, shot put, javelin and discus — always into a clear t…
 5. **Timed and Distance Running** (`athletics/timed-and-distance-running`) — running against the clock — short timed sprints, middle-distance runs to the clock, and 1500 and 2000 metre distance runs.
+6. **Skiing for Beginners** (`athletics/skiing-for-beginners`) — skiing for beginners: the sliding step, the alternating stride, descending in a stance, the step turn, climbing "ladder" style, covering 2–3 km and free skiing, with safety theory and drill on skis (Kazakhstan's Grade 4 teacher guide, evidence only).
 
 ## Unit 5 — Ball Games
 
@@ -180,6 +197,7 @@ are excluded as assessment and inventory matter.
 16. **Traditional Games of Zambia** (`traditional-games-and-dances/traditional-games-of-zambia`) — indigenous Zambian games of the learners' own communities, researched and performed by the learners themselves: chain tag (chasing), Sheep-Sheep Come All (breakthrough), musical chairs (rhythmic), Who Am I? (knowledge) and manipulative/calculative games, and why they matter (Zambia's Form 1 teacher module, evidence only).
 17. **Traditional Games of Mozambique** (`traditional-games-and-dances/traditional-games-of-mozambique`) — Mozambique's own traditional games and dances: Neca (played with small stones), As estátuas, Ao fom fim, O pião (the spinning top, known all over the country), Este é um cumprimento and Jogo do silêncio (Mozambique's Grade 1 teacher manual, evidence only).
 18. **World Games — Dragon Snake and Stocking** (`traditional-games-and-dances/world-games-dragon-snake-and-stocking`) — two world traditional games in full: Vietnam/China's Dragon Snake and the worldwide African girls' Stocking rope game — how each is set up, won and…
+19. **Traditional Games of Kazakhstan** (`traditional-games-and-dances/traditional-games-of-kazakhstan`) — the named Kazakh outdoor games (подвижные игры) played through the school year: "Keep the Ball in the Air", "Pioneerball", "Hunters and Ducks", "Above the Ground", "Tag with Ribbons", "Defence of the Fortifications", "Ball to the Captain" and "Don't Give the Ball to the Leader" (Kazakhstan's Grade 4 teacher guide, evidence only).
 
 ## Unit 8 — Sport and Its Story
 

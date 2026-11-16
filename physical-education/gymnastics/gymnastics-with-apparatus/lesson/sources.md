@@ -1,6 +1,6 @@
 # Sources — Gymnastics with Apparatus
 
-countries: Ethiopia
+countries: Ethiopia, Kazakhstan
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -12,6 +12,8 @@ countries: Ethiopia
 
 **Book — Grade 3 teacher (teacher guide — evidence):** *Grade 3 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, ሦስተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
+**Book — Kazakhstan Grade 4 teacher (teacher guide — evidence):** *Physical Culture, Methodological Guide for Grade 4 Teachers* (teacher guide, Russian; Kazakh parallel edition) — Title as printed: ФИЗИЧЕСКАЯ КУЛЬТУРА — Методическое пособие для учителей 4 класса 11-летней общеобразовательной школы (Kazakh edition: ДЕНЕ ТӘРБИЕСІ — Әдістемелік құрал, 4-сынып мұғалімдеріне арналған) — Grade: Grade 4 (student/teacher: TEACHER) — Publisher: Алматыкітап баспасы (Almatykitap), Almaty; year 2014; recommended by the Ministry of Education and Science of the Republic of Kazakhstan; no ISBN printed in the pages held — Authors: Г.П. Маковецкая, Т.Н. Васильченко, О.И. Меркель — PDF pages: 7 (Russian) / 9 (Kazakh) — covers verified against the record titles. One distinct book in 2 parallel language editions (628 = Russian, 629 = Kazakh): the Russian edition read in full, the Kazakh edition spot-checked (cover + contents + two spreads — same quarterly plans, tests and games); the download-list record is the okulyk.kz catalogue page for the same Russian guide (628) — one book, not a separate read. Both secured files fetched via the GitHub Contents API with byte size and blob SHA verified (628: 162,329 bytes; 629: 183,617 bytes). Verdict: PARTIAL — the secured file is an excerpt of the guide: the cover, the four quarterly plan-graphs (план-график) distributing the year's programme material lesson by lesson, and the opening of the gymnastics lesson plans (printed pp. 1–48, non-contiguous). The guide's full lesson-by-lesson text is not in the file. Everything the excerpt itself teaches is placed. Read in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/kazakhstan-pe-placements.md. Kazakhstan's own way: the year is run from quarterly plan-graphs that mix one lead strand per quarter (athletics, gymnastics, ski training, athletics) with games in every quarter; fitness is checked by a fixed test set (30 m, 60 m, standing long jump, pull-ups, 6-minute run) and general developing exercises (ОРУ) and drill formations open every lesson. Named in the header, not placed (this record feeds the PE course only): the knowledge basics taught inside the PE programme — safety rules (ТБ) for athletics lessons, games and apparatus work, and the concepts of health, hardening (закаливание), endurance, strength and cheerfulness, plus the schoolchild's daily regime (Q1 plan, item 1).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Apparatus gymnastics — Grade 5: box and bar | Ethiopia, Grade 5 student §5.2.2, printed pp. 69–72 |
@@ -21,7 +23,8 @@ countries: Ethiopia
 
 | Parallel bars — the support swing — Grade 8 | Ethiopia, Grade 8 student §5.3 Apparatus gymnastics — parallel bars, printed pp. 59–63 |
 | Strong in my own space: weight shifts and hanging — Grade 3 (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.2 Tasks 1–3 (teacher guide — evidence), printed pp. 8–11 |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
+| Kazakhstan — Quarters 1, 2 and 4 — exercises on gymnastic apparatus (mats, bars, vaulting horse, goat, rope, horizontal bar in the Lesson 19 equipment list) and the obstacle course (полоса препятствий) (teacher guide — evidence) (original target `gymnastics/gymnastics-with-apparatus`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 5, 20 |
+**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
