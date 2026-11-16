@@ -1,17 +1,24 @@
 # Sources — Dance Practice and Imitation
 
-countries: Ethiopia
+countries: Ethiopia, Canada
 
 **Book 1:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
+
+**Book 2:** *Tuka's Big Dance — ᑐᑲᐅᑉ ᒧᒥᕐᓂᖓ, Tundra Friends series* (student book, Inuktitut syllabics and English editions) — Canada, Arvaaq Press Inc.; design, text and story © Government of Nunavut, Department of Education; illustrations by Amiel Sandland; written by Thomas Anguti Johnston, 2024, ISBN 978-1-77450-832-9 (Inuktitut edition) / 978-1-77450-828-2 (English edition), nursery, 36 PDF pp each edition. STUDENT. Verdict: COMPLETE — the English edition was read fully and the Inuktitut edition page-by-page from its extracted text; the two tell the same story page for page, so placements are made once for both, page numbers from the English edition. The story is placed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/canada-placements.md.
+
+**Book 3:** *I Want to Dance! / Mumirumajunga! / Numirumajunga! / Je veux danser !* (student book, Inuinnaqtun+English, Inuktitut+English and Inuktitut+French editions) — Canada, Inhabit Education Books Inc.; written by Heather Main and developed in partnership with Nunavut's Department of Education, 2019–2022 by edition, ISBN 978-1-77450-486-4 (Inuinnaqtun+English, 2022, illus. Amiel Sandland) / 978-0-2287-0490-4 (Inuktitut+English, 2019/2020, illus. Amanda Sandland) / 978-1-77450-248-8 (Inuktitut+French, illus. Amiel Sandland), nursery, 48 PDF pp each edition. STUDENT. Verdict: COMPLETE — the Inuktitut+English and Inuinnaqtun+English editions were read fully and the Inuktitut+French edition spot-checked; all three tell the same story, so placements are made once for all three, page numbers from the Inuktitut+English edition. NOTE: the French edition's record is marked in_pushed, but the file is NOT in the pushed repo (grab.py returned HTTP 404 twice) — it was read from its recorded source_url instead and re-staged (library debt, carried as filed). The closing glossary is inventory-only — named here, never stocked; the back-page "Taking Care of My Body Sorting Game" and the "Let's Talk!" pages are named in the placements, not placed. The story is placed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/canada-placements.md.
 
 | Lesson part | Book | Printed pages |
 |---|---|---|
 | Sub lesson 1 — Dance practice (teacher guide — evidence) (teacher guide — evidence) | Grade 3 Teacher Guide, printed pp. 34–40 (§§2.2–2.3.1) |
 | Sub lesson 2 — Finding themes — in drama, video and photograph (teacher guide — evidence) (teacher guide — evidence) | Grade 3 Teacher Guide, printed pp. 34–40 (§§2.2–2.3.1) |
 | Sub lesson 3 — Imitation — copying as a drama skill (teacher guide — evidence) (teacher guide — evidence) | Grade 3 Teacher Guide, printed pp. 34–40 (§§2.2–2.3.1) |
+| Canada — Getting ready for the talent show: a dance for a community talent show is got ready by practising it for weeks until you are almost ready to perform (student book; original target `drama-and-dance/dance-practice-and-imitation`) | Book 2, printed p. 2 |
+| Canada — Learning moves by watching: dancers get ideas by watching a dance video closely and concentrating, and a move is learned by watching how the legs move and copying it — the sister shuffles her feet across the room, the little brother tries the same move (student book; original target `drama-and-dance/dance-practice-and-imitation`) | Book 3, printed pp. 5–6 |
+| Canada — Practising until the bodies move as one: a dance routine improves by practising it through the whole song without stopping, again and again, until both dancers' bodies do the same movements at the same time (student book; original target `drama-and-dance/dance-practice-and-imitation`) | Book 3, printed pp. 13, 18 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Canada).** Ethiopia is teacher-guide evidence only, named here, counted nowhere.
 
-This lesson stands on the Grade 3 teacher guide (printed pp. 34–40, §§2.2–2.3.1) as labelled evidence; no pupil book teaches this cluster in this form.
+This lesson's original stock stands on the Grade 3 teacher guide (printed pp. 34–40, §§2.2–2.3.1) as labelled evidence. Canada's nursery student books now teach the same cluster directly: practising for weeks for a talent show, learning a move by watching and copying it, and practising a routine until both bodies move as one. The Canada stories are placed by summary only, never transcribed.
 
 Searchable tags: dance practice, theme, chibt, imitation, Grade 3 teacher guide, evidence

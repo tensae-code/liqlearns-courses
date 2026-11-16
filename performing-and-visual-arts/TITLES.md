@@ -64,7 +64,13 @@ The titles, in ladder order:
    between the human being and nature through artworks; and
    graphic design — Publicarte, a designed magazine of the
    community's culture (Guatemala teacher guide, evidence,
-   PARTIAL file).
+   PARTIAL file). The Art expansion added: Inuit arts and
+   crafts — beadwork, sewing, drawing and printmaking,
+   stone carving, clothing, tools and jewellery taught as
+   art, form by form; Baker Lake wall hangings — southern
+   wool worked into Arctic designs; and contemporary Inuit
+   art — new forms growing alongside the old (Canada
+   student books, Nunavut).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -120,7 +126,15 @@ The titles, in ladder order:
    musical events especially with the instruments of Maya art;
    and the message in songs — listening first without the
    words, then with them, and saying what a song means
-   (Guatemala teacher guide, evidence, PARTIAL file).
+   (Guatemala teacher guide, evidence, PARTIAL file). The
+   Art expansion added: the traditional music of Nunavut —
+   its four forms and what music does for a community;
+   katajjaq, Inuit throat singing, nearly lost and now
+   returning; the coming of the Qallunaat (newcomers) and
+   the new kinds it grew; pisiit — written Inuktitut songs
+   sung together every Sunday; and contemporary Inuit
+   music — many instruments, the internet, and new things
+   added to the old songs (Canada student books, Nunavut).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -155,7 +169,14 @@ The titles, in ladder order:
    peoples — the meanings of dances, and a first initiation
    into the choreographies and techniques of the dances of
    Guatemala's other peoples and of Mesoamerica (Guatemala
-   teacher guide, evidence, PARTIAL file).
+   teacher guide, evidence, PARTIAL file). The Art expansion
+   added: qilaujjarniq — Inuit drum dancing, east and west;
+   suluvinniq — square dancing, the whalers' dance still
+   danced today; preparing to perform — the stop-and-think
+   routine for performance nerves; the Sila Rainbow Dance
+   Competition — teams, judges and the community hall; and
+   the dancer's body — water and stretching (Canada student
+   books, Nunavut).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New

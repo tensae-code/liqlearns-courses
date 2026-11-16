@@ -1,6 +1,6 @@
 # Sources — Dance Composition and Modern Dance
 
-countries: Ethiopia, Andorra
+countries: Ethiopia, Andorra, Canada
 
 **Book 1:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
@@ -12,6 +12,9 @@ countries: Ethiopia, Andorra
 
 **Book 5:** *Programa d'educació musical de primera ensenyança de l'Escola Andorrana — Annex IV of Decret 376/2021, BOPA núm. 123, 24-11-2021* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2021, ISBN 978-99920-0-931-4, Primera ensenyança, cycles 1–3 (ages 6–12), 39 PDF pp (record; Annex IV runs at BOPA pp. 199–237 of the full 510-page BOPA issue). TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and end-of-cycle expectation tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
+
+**Book 6:** *I Want to Dance! / Mumirumajunga! / Numirumajunga! / Je veux danser !* (student book, Inuinnaqtun+English, Inuktitut+English and Inuktitut+French editions) — Canada, Inhabit Education Books Inc.; written by Heather Main and developed in partnership with Nunavut's Department of Education, 2019–2022 by edition, ISBN 978-1-77450-486-4 (Inuinnaqtun+English, 2022, illus. Amiel Sandland) / 978-0-2287-0490-4 (Inuktitut+English, 2019/2020, illus. Amanda Sandland) / 978-1-77450-248-8 (Inuktitut+French, illus. Amiel Sandland), nursery, 48 PDF pp each edition. STUDENT. Verdict: COMPLETE — the Inuktitut+English and Inuinnaqtun+English editions were read fully and the Inuktitut+French edition spot-checked; all three tell the same story, so placements are made once for all three, page numbers from the Inuktitut+English edition. NOTE: the French edition's record is marked in_pushed, but the file is NOT in the pushed repo (grab.py returned HTTP 404 twice) — it was read from its recorded source_url instead and re-staged (library debt, carried as filed). The closing glossary is inventory-only — named here, never stocked; the back-page "Taking Care of My Body Sorting Game" and the "Let's Talk!" pages are named in the placements, not placed. The story is placed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/canada-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The elements of dance: body, space, partner (teacher guide — evidence) | Book 1, §1.2, printed pp. 12–14 |
@@ -21,8 +24,9 @@ countries: Ethiopia, Andorra
 | Sub lesson 1 — The elements of dance — dance as the beginning of body movement (teacher guide — evidence) | Grade 6 Teacher Guide, §1.2, printed p. 17 (teacher guide — evidence) |
 | Sub lesson 2 — Composing a traditional dance — rhythm in dance (teacher guide — evidence) | Grade 6 Teacher Guide, §2.2, printed p. 45 (teacher guide — evidence) |
 | Andorra — Bloc 1: creating choreographies (cycles 1–3) — choreography built from movement models, steps and sequences: first exploring basic traditional-dance steps and free dance, then traditional and modern dance steps and positions, then group choreographies from traditional, modern and contemporary dance (programme document — evidence; original target `drama-and-dance/dance-composition-and-modern-dance`) | Book 5, printed p. 26 |
+| Canada — Make Up a Dance (Activities for Parents and Teachers): how to make up a dance with a child in four steps — listen to a favourite song together, think of dance moves to go with the song, create a dance sequence together and practise it while listening, then perform it for a family member or friend (student book; original target `drama-and-dance/dance-composition-and-modern-dance`) | Book 6, printed p. 40 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 1 country (Canada).** This lesson's original stock stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only — the Grade 5, 6, 9 and 10 guides — and its acceptance line says so; the pupil-taught dances it builds on live in the built dance lessons of this course. Modern dance is taught at the level the Grade 10 guide's placements give (styles, techniques, and the traditional/modern difference); no named modern-dance school or choreographer beyond the placements is introduced.
 

@@ -344,7 +344,45 @@ lessons are the books'.
   in the book entries and not placed; songs and fables are
   placed by summary only, never transcribed.
 
-**The whole course stands at 206 lessons, 3,206 questions and
+- **Art expansion — Canada — BUILT 2026-11-16:** 32 placements
+  stocked from 4 distinct books (all Nunavut Inuit student
+  books, Government of Nunavut / Inhabit Education: the
+  Uqalimaariuqsaniq Level 11 reader *Inuit Arts and Crafts*,
+  2016, Inuktitut syllabics; the Level 12 reader *Traditional
+  Music in Nunavut*, 2017, Inuktitut syllabics; *Tuka's Big
+  Dance*, Arvaaq Press, 2024, Inuktitut and English editions;
+  and *I Want to Dance!*, Inhabit Education Books, 2019–2022,
+  in Inuinnaqtun+English, Inuktitut+English and
+  Inuktitut+French editions — the French edition is NOT in
+  the pushed repo (404 twice), read from its recorded
+  source_url and re-staged, library debt carried as filed):
+  7 into existing lessons (Dance Practice and Imitation ×3;
+  Moving to Music ×2; Appreciating the Arts; Dance
+  Composition and Modern Dance), 13 NEW lessons (Visual Art:
+  Inuit Arts and Crafts — 8 placements, from the original
+  strings inuit-arts-and-crafts, inuit-beadwork, inuit-sewing,
+  inuit-printmaking, inuit-stone-carving,
+  inuit-clothing-as-art, inuit-tools-as-art and
+  inuit-jewellery; Baker Lake Wall Hangings; Contemporary
+  Inuit Art; Music: Inuit Traditional Music — from
+  inuit-traditional-music-in-nunavut; Katajjaq: Inuit Throat
+  Singing; Inuit Music and the Coming of the Newcomers;
+  Pisiit: Inuit Personal Songs; Contemporary Inuit Music;
+  Drama and Dance: Qilaujjarniq: Inuit Drum Dancing — from
+  the original string music/qilaujjarniq-inuit-drum-dancing;
+  Suluvinniq: Square Dancing; Preparing to Perform — from
+  coping-with-performance-nerves; Sila Rainbow Dance
+  Competition — from the original string
+  culture-and-values/sila-rainbow-dance-competition; The
+  Dancer's Body — from preparing-the-body-to-dance),
+  156 questions added, media as described slots only. The
+  readers' closing glossaries are inventory only, named in
+  the book entries and never stocked; the *I Want to Dance!*
+  back-page sorting game and "Let's Talk!" pages are named,
+  not placed; the nursery stories are placed by summary
+  only, never transcribed.
+
+**The whole course stands at 219 lessons, 3,362 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
