@@ -1,0 +1,15 @@
+# Sources — Traditional Games of Tajikistan
+
+countries: Tajikistan
+
+**Acceptance count: taught in 1 country (Tajikistan).** Tajikistan is student-book stock (see its row below), inside the acceptance count.
+
+**Book — Tajikistan Grades 1–4 Physical Culture (student book):** *Fizicheskaya Kultura (Physical Culture), Grades 1–4* (student book, Russian) — Title as printed: ФИЗИЧЕСКАЯ КУЛЬТУРА — Учебник для младших школьников I–IV классов общеобразовательной школы (Physical Culture — textbook for younger schoolchildren of grades I–IV of the general school); the imprint describes it as the textbook for grades 1–4 of schools with Tajik as the language of instruction — Grade: Grades 1–4 in one volume (student/teacher: STUDENT) — Publisher: МАОРИФ (Maorif), Dushanbe; year 2020; authors Ш.А. Сафаров, Л.А. Губанова (Safarov, Gubanova); recommended by the Collegium of the Ministry of Education and Science of the Republic of Tajikistan; ISBN 978-99947-1-523-7 — PDF pages: 192 (cover/title page verified against the record title; downloaded 15,996,008 B against the record's 15.3 MB). Verdict: COMPLETE — named but not placed per the brief: the closing per-grade study-norm tables for classes I–IV and the self-check section are the book's own assessment (excluded), and the closing "Physical-Culture ABC" is a glossary (inventory-only). Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tajikistan-pe-placements.md. Tajikistan's own way: one cheerful textbook carries a child through all four primary years — Part 1 is knowledge (where sport came from, the Olympics, your body, hygiene, hardening, first aid) and Part 2 is doing (athletics, gymnastics, swimming, ball games and active games), closing with the active games of the Tajik ancestors.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Active games of the ancestors of the Tajik people — the historically formed active games of Tajik ancestors, including the pushing game "Kiro tela dinem?" (Whom shall we push?), for 6–40 school-age players (original target `traditional-games-and-dances/traditional-games-of-tajikistan`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~163–174 |
+
+This is a canonical NEW lesson (slug-registry Part 1: `traditional-games-and-dances/traditional-games-of-tajikistan` — Traditional games of Tajikistan: the active games of the Tajik ancestors); the Tajikistan placement was filed under the same string, recorded in the provenance row above and resolved to this canonical slug by registry Part 2. Tajikistan enters this lesson as student-book stock, inside the acceptance count. Tajikistan's own way is this lesson's whole content: its textbook closes with the active games of the Tajik ancestors. Game rules are taught only as the placement summarises them; no rules have been invented for any game the book leaves with its players.
+
+Searchable tags: traditional games of Tajikistan, active games of the ancestors, Kiro tela dinem, Whom shall we push, Tajik ancestors, Tajikistan Fizicheskaya Kultura, ФИЗИЧЕСКАЯ КУЛЬТУРА

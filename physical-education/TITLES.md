@@ -74,3 +74,11 @@ The PE expansion then added: **Skiing for Beginners**
 Games of Kazakhstan**
 (`traditional-games-and-dances/traditional-games-of-kazakhstan`)
 — 2 new lessons, bringing this course to 75 lessons.
+
+The PE expansion then added: **Staying Active for Life**
+(`fitness-and-stretching/staying-active-for-life`),
+**Lapta and Shuttlecock Games**
+(`traditional-games-and-dances/lapta-and-shuttlecock-games`)
+and **Traditional Games of Tajikistan**
+(`traditional-games-and-dances/traditional-games-of-tajikistan`)
+— 3 new lessons, bringing this course to 78 lessons.

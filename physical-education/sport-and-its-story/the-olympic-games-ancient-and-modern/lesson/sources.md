@@ -1,6 +1,6 @@
 # Sources — The Olympic Games, Ancient and Modern
 
-countries: Ethiopia, Cyprus
+countries: Ethiopia, Cyprus, Tajikistan
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Cyprus
 
 **Book 9:** *Olympic Education Insert, Lyceum Years 2–3* (Ένθετο Βιβλίου Ολυμπιακής Παιδείας Β΄ & Γ΄ Λυκείου (Insert to the Olympic Education Book, Lyceum Years 2 and 3), under Φυσική Αγωγή (Physical Education)) (student book, Greek) — Cyprus, Ministry of Education, Sport and Youth, Cyprus — Pedagogical Institute of Cyprus / Curriculum Development Service; year 2025 (cover), 2nd edition (Β΄ Έκδοση); ISBN no ISBN printed (125 PDF pages). COMPLETE — the whole promised book is present. Read in full (text layer read page by page; covers rendered and verified against the records), in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cyprus-pe-placements.md. Cyprus's own way: the theory half of Cypriot upper-secondary PE is taught as Olympic education in term blocks — Olympism and the modern Games in Year 2, then lifelong exercise, disability sport and Cyprus's own sporting story in Year 3; this insert updates the main Olympic Education book with the movement's latest themes (sustainability, inclusion, quotas).
 
+**Book — Tajikistan Grades 1–4 Physical Culture (student book):** *Fizicheskaya Kultura (Physical Culture), Grades 1–4* (student book, Russian) — Title as printed: ФИЗИЧЕСКАЯ КУЛЬТУРА — Учебник для младших школьников I–IV классов общеобразовательной школы (Physical Culture — textbook for younger schoolchildren of grades I–IV of the general school); the imprint describes it as the textbook for grades 1–4 of schools with Tajik as the language of instruction — Grade: Grades 1–4 in one volume (student/teacher: STUDENT) — Publisher: МАОРИФ (Maorif), Dushanbe; year 2020; authors Ш.А. Сафаров, Л.А. Губанова (Safarov, Gubanova); recommended by the Collegium of the Ministry of Education and Science of the Republic of Tajikistan; ISBN 978-99947-1-523-7 — PDF pages: 192 (cover/title page verified against the record title; downloaded 15,996,008 B against the record's 15.3 MB). Verdict: COMPLETE — named but not placed per the brief: the closing per-grade study-norm tables for classes I–IV and the self-check section are the book's own assessment (excluded), and the closing "Physical-Culture ABC" is a glossary (inventory-only). Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tajikistan-pe-placements.md. Tajikistan's own way: one cheerful textbook carries a child through all four primary years — Part 1 is knowledge (where sport came from, the Olympics, your body, hygiene, hardening, first aid) and Part 2 is doing (athletics, gymnastics, swimming, ball games and active games), closing with the active games of the Tajik ancestors.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 5 — Ethiopia at the Olympics — Melbourne 1956 to Rome 1960 and the missed Games | Ethiopia, *Grade 8 Student Textbook*, §1.3, printed pp. 4–5 |
@@ -34,7 +36,8 @@ countries: Ethiopia, Cyprus
 | Cyprus — Part 1, Olympism (Ολυμπισμός) — the Olympic Movement's vision, the pedagogy of Olympism and its values, the International Olympic Academy, and today's challenges (discrimination, technology, sustainability) (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 1, printed pp. 5–20 |
 | Cyprus — Part 2, Modern Olympic Games (Σύγχρονοι Ολυμπιακοί Αγώνες) — every edition in chronological order, the events that carry the Olympic name, qualification quotas and entry criteria by sport and age (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 2, printed pp. 21–68 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Cyprus).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count.
+| Tajikistan — Part 1, How the World Festival Was Born (the Olympic Games); Modern Olympic Games — the birth of the Games, their revival, and the modern Games with flag and symbols (original target `sport-and-its-story/the-olympic-games-ancient-and-modern`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 1, printed pp. ~10–20 |
+**Acceptance count: taught in 3 countries (Ethiopia, Cyprus, Tajikistan).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 

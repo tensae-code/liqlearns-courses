@@ -118,6 +118,18 @@ spot-checked; its header knowledge basics (safety rules,
 health and hardening concepts, the schoolchild's daily
 regime) are named but not placed.
 
+**PE expansion — Tajikistan — BUILT 2026-11-16:** 19 placements
+from Tajikistan's Fizicheskaya Kultura (Physical Culture),
+Grades 1–4 (student book) stocked — 16 into existing lessons
+(including Swimming Basics) and 3 as new lessons (Staying
+Active for Life; Lapta and Shuttlecock Games; Traditional
+Games of Tajikistan) — bringing this course to **78
+lessons**. The Tajikistan book is a student book, filed
+as student-book stock, inside the acceptance counts; its
+closing per-grade study-norm tables and self-check section
+are excluded as assessment, and its closing
+"Physical-Culture ABC" is excluded as a glossary.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -136,6 +148,7 @@ regime) are named but not placed.
 3. **How Training Works** (`fitness-and-stretching/how-training-works`) — how training works — the four rules of training, and the methods you choose by goal.
 4. **Muscle Strength and Endurance** (`fitness-and-stretching/muscle-strength-and-endurance`) — what muscle endurance is, and the movements that make legs, arms and stomach muscles work for a long time without tiring.
 5. **Stretching and Flexibility** (`fitness-and-stretching/stretching-and-flexibility`) — stretching and flexibility — what they are, why they prevent injury, and the stretches for neck, waist, arms and legs.
+6. **Staying Active for Life** (`fitness-and-stretching/staying-active-for-life`) — staying active for life: regular participation, activity outdoors and in the community, and keeping fitness for the long term — taught in Tajikistan's Grades 1–4 book as Your Sports Corner, setting up your own sports corner at home with a skipping rope, gymnastic equipment and space for morning exercises (Tajikistan's student book).
 
 ## Unit 3 — Gymnastics
 
@@ -198,6 +211,8 @@ regime) are named but not placed.
 17. **Traditional Games of Mozambique** (`traditional-games-and-dances/traditional-games-of-mozambique`) — Mozambique's own traditional games and dances: Neca (played with small stones), As estátuas, Ao fom fim, O pião (the spinning top, known all over the country), Este é um cumprimento and Jogo do silêncio (Mozambique's Grade 1 teacher manual, evidence only).
 18. **World Games — Dragon Snake and Stocking** (`traditional-games-and-dances/world-games-dragon-snake-and-stocking`) — two world traditional games in full: Vietnam/China's Dragon Snake and the worldwide African girls' Stocking rope game — how each is set up, won and…
 19. **Traditional Games of Kazakhstan** (`traditional-games-and-dances/traditional-games-of-kazakhstan`) — the named Kazakh outdoor games (подвижные игры) played through the school year: "Keep the Ball in the Air", "Pioneerball", "Hunters and Ducks", "Above the Ground", "Tag with Ribbons", "Defence of the Fortifications", "Ball to the Captain" and "Don't Give the Ball to the Leader" (Kazakhstan's Grade 4 teacher guide, evidence only).
+20. **Lapta and Shuttlecock Games** (`traditional-games-and-dances/lapta-and-shuttlecock-games`) — the Russian bat game lapta — "Bita", "Stick-Knocker", "Knock Out of the Circle" — and the shuttlecock games played with it: round lapta with a shuttlecock, "Hit the Shuttlecock Up" and returning the shuttlecock with rackets (Tajikistan's student book).
+21. **Traditional Games of Tajikistan** (`traditional-games-and-dances/traditional-games-of-tajikistan`) — the active games of the Tajik ancestors, including the pushing game "Kiro tela dinem?" (Whom shall we push?), for 6–40 school-age players (Tajikistan's student book).
 
 ## Unit 8 — Sport and Its Story
 
