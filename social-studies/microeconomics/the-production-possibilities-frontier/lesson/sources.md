@@ -1,6 +1,6 @@
 # Sources — The production possibilities frontier
 
-countries: Ethiopia, Malaysia, Albania
+countries: Ethiopia, Malaysia, Albania, Cambodia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -19,7 +19,13 @@ countries: Ethiopia, Malaysia, Albania
 |---|---|
 | Albania part — the production possibilities curve: reading a PPF and using it to show opportunity cost (teacher guide — evidence) | Albania, *Libër mësuesi — Ekonomia 12 (Teacher Guide)*, Ch.1 — the production possibilities curve, printed p. 32 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Malaysia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 4:** *សេដ្ឋកិច្ចវិទ្យា ថ្នាក់ទី១១ (Economics, Grade 11)* (student book, Khmer) — MoEYS; ISBN 9-789-995-001-032 (as printed). Title as printed: សេដ្ឋកិច្ចវិទ្យា ថ្នាក់ទី១១ (Economics, Grade 11). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. 1 Economics and production, printed pp. 1–72; Ch. 2 The state and the economy, printed pp. 73–158; Ch. 3 History of economic thought, printed pp. 159–203. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 1, Lesson 10: Production possibilities frontier — teaches: the frontier of what an economy can produce with its resources, and the choices and costs read off the curve | Cambodia, *Cambodia Grade 11 G11 Economics*, Ch. 1, Lesson 10: Production possibilities frontier — printed p. 66 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Cambodia). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -27,4 +33,6 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: PPF PPC, production possibilities, efficient inefficient unattainable, assumptions, ethiopia, social studies, microeconomics, malaysia, albania
+Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
+
+Searchable tags: PPF PPC, production possibilities, efficient inefficient unattainable, assumptions, ethiopia, social studies, microeconomics, malaysia, albania, cambodia

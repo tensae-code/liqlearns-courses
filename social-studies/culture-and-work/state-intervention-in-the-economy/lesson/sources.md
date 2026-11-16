@@ -1,6 +1,6 @@
 # Sources — State Intervention In The Economy
 
-countries: Armenia, Dominica
+countries: Armenia, Dominica, Cambodia
 
 **Book 1:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-280-8. Authors: N. Galstyan, T. Simonyan, A. Manucharyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Read from the record's armedu.am source_url: the GitHub release copy of this book is corrupt (no xref/trailer, unopenable) — see the log's library debts.. Verdict: COMPLETE — combined Social Science. Geography-scope part placed below: Theme 2 "The state's role in the economy" (printed pp. 46-76). NOT placed (named for later waves): Theme 1 "State system and mechanisms of rights protection" (pp. 5-45), Theme 3 "Political participation and elections" (pp. 77-108), Theme 4 "Parties and interest groups" (pp. 109-132), Theme 5 "International law" (pp. 133-165), Theme 6 "International relations and foreign policy" (pp. 166-191). Read from the record's own armedu.am source_url (cover + text verified as the same book): the GitHub release copy of this book is corrupt (no xref/trailer, unopenable) — library debt carried exactly as the placements file records it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -22,7 +22,13 @@ countries: Armenia, Dominica
 |---|---|
 | Dominica part — Unit 9.1: regulation of business activity — teaches: how government regulation shapes every part of running a business, the costs of complying, and the counter-case for deregulation when rules become prohibitive (Economics expansion, 2026-11-16; original placement slug: macroeconomics/regulation-and-deregulation — stocked here as the closest existing lesson covering this thing) | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 9.1: regulation of business activity — printed p. 320 |
 
-**Acceptance count: taught in 2 countries (Armenia, Dominica).**
+**Book 5:** *សេដ្ឋកិច្ចវិទ្យា ថ្នាក់ទី១១ (Economics, Grade 11)* (student book, Khmer) — MoEYS; ISBN 9-789-995-001-032 (as printed). Title as printed: សេដ្ឋកិច្ចវិទ្យា ថ្នាក់ទី១១ (Economics, Grade 11). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. 1 Economics and production, printed pp. 1–72; Ch. 2 The state and the economy, printed pp. 73–158; Ch. 3 History of economic thought, printed pp. 159–203. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 2, Lesson 5: State intervention in the market — teaches: the ways the state steps into the market and what each intervention does to prices and quantities | Cambodia, *Cambodia Grade 11 G11 Economics*, Ch. 2, Lesson 5: State intervention in the market — printed p. 104 |
+
+**Acceptance count: taught in 3 countries (Armenia, Dominica, Cambodia).**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -32,4 +38,6 @@ Armenia's own way (Armenia Grade 11 Social Science teacher guide) (teacher guide
 
 Armenia's own way (Armenia Grade 9 Social Science student): grade-9 Social Science circles one idea — the state — through culture, civil society, the economy and citizenship; its economy theme runs from economic systems to Armenia's own financial system.
 
-Searchable tags: state intervention in the economy, Armenia, social studies, culture-and-work, dominica, csec principles of business, caribbean
+Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
+
+Searchable tags: state intervention in the economy, Armenia, social studies, culture-and-work, dominica, csec principles of business, caribbean, cambodia

@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **509**
+Economics lessons across the Economics titles: **530**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4404,3 +4404,23 @@ investment of natural resources, Made in
 Jordan — national products and Malthus —
 population versus food; Microeconomics:
 Durable and consumable goods).
++21 for Cambodia,
+2026-11-16 — Microeconomics: Family business
+profit, Forms of business organisation,
+Strengths and weaknesses of the market
+system, Private ownership and freedom of
+choice, How prices are set and Enterprises
+and market concentration; Market and Money:
+Why markets matter; Macroeconomics:
+Cambodia's market economy — foundations,
+Cambodia's economy, The role of the state
+in the economy, Nationalisation and
+privatisation, Cambodia's reform and
+development programme, Early economic
+thought, Classical economic thought — Smith
+and Ricardo, Marxist economic thought,
+Neoclassical economic thought, Keynesian
+economic thought, How economic policies
+work together, Public finance, Foreign
+trade policy and State and private
+sector roles).

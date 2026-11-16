@@ -1,6 +1,6 @@
 # Sources — Production — turning inputs into outputs
 
-countries: Ethiopia, Syria, France, Bahamas, Zimbabwe, Jordan
+countries: Ethiopia, Syria, France, Bahamas, Zimbabwe, Jordan, Cambodia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -52,7 +52,13 @@ countries: Ethiopia, Syria, France, Bahamas, Zimbabwe, Jordan
 | Jordan part — Economics expansion — Unit 5 Lesson 1: Production and Consumption (producer and consumer): the producer makes the goods and services we need and the consumer buys and uses them, traced through the wheat chain — the farmer grows and harvests wheat, it is milled, the baker buys the flour and bakes, and people consume the products | Jordan, *Social Studies, Grade 2, Term 2*, Unit 5 Lesson 1: Production and Consumption (producer and consumer) — printed p. 53 |
 | Jordan part — Economics expansion — Unit 4 Lesson 3: Production and Consumption: production is an activity that uses the available materials to turn them into goods or services that meet people's needs and wants, followed step by step for tomato paste (farm to family) and furniture making | Jordan, *Social Studies, Grade 3, Term 2*, Unit 4 Lesson 3: Production and Consumption — printed p. 29 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Syria, France, Bahamas, Jordan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 10:** *សេដ្ឋកិច្ចវិទ្យា ថ្នាក់ទី១១ (Economics, Grade 11)* (student book, Khmer) — MoEYS; ISBN 9-789-995-001-032 (as printed). Title as printed: សេដ្ឋកិច្ចវិទ្យា ថ្នាក់ទី១១ (Economics, Grade 11). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. 1 Economics and production, printed pp. 1–72; Ch. 2 The state and the economy, printed pp. 73–158; Ch. 3 History of economic thought, printed pp. 159–203. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 1, Lesson 9: Production — teaches: production as turning inputs into outputs, and the factors a producer combines | Cambodia, *Cambodia Grade 11 G11 Economics*, Ch. 1, Lesson 9: Production — printed p. 60 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Syria, France, Bahamas, Jordan, Cambodia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
 
 Zimbabwe's own way (PlusOne Social Science ECD A Teacher's Guide) (teacher guide — evidence): the Heritage-Based Curriculum infant syllabus carries a named "Career guidance and financial literacy" topic from age 4 — Economics begins as goods vs services told through the cook and the baker, a bread production chain (farmer → miller → baker), and a play shop corner where children practise buying with play money and swapping by barter.
 
@@ -73,4 +79,6 @@ Jordan's own way (Jordan Grade 2 Term 2): A whole early-years Economics unit bui
 
 Jordan's own way (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family story that starts at the hundred-year-old Hejaz railway, runs from barter and camel peddlers to e-commerce, and lands on the child's own choices — what a family can and cannot do without, where income comes from, and what 2, 3, 5 or 12 dinars in hand can buy.
 
-Searchable tags: production inputs outputs, tangible intangible, wheat example, ethiopia, syria, made in syria, bread, raw materials, france, ses, market non-market production, social studies, microeconomics, bahamas, zimbabwe, teacher guide evidence, jordan
+Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
+
+Searchable tags: production inputs outputs, tangible intangible, wheat example, ethiopia, syria, made in syria, bread, raw materials, france, ses, market non-market production, social studies, microeconomics, bahamas, zimbabwe, teacher guide evidence, jordan, cambodia

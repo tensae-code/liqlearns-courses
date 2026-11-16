@@ -1,6 +1,6 @@
 # Sources — Markets — and the market for goods and services
 
-countries: Ethiopia, Guatemala, France, Laos, Mongolia, Rwanda, Palestine
+countries: Ethiopia, Guatemala, France, Laos, Mongolia, Rwanda, Palestine, Cambodia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -57,7 +57,13 @@ Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics u
 
 Palestine's own way: Economics enters through the land itself — natural resources first, then economic resources — is taught inside pre-Islamic Arab history and the Islamic state's public finance, sector by sector for the Arab homeland, as colonial dependence and occupation, and on Palestinian data (Central Bureau of Statistics demand and poverty figures, Hebron stone and marble, named Palestinian crafts, ports and crossings, and its own export/import lists).
 
-**Acceptance count: taught in 6 countries (Ethiopia, France, Laos, Mongolia, Rwanda, Palestine). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+**Book 9:** *សេដ្ឋកិច្ចវិទ្យា ថ្នាក់ទី១១ (Economics, Grade 11)* (student book, Khmer) — MoEYS; ISBN 9-789-995-001-032 (as printed). Title as printed: សេដ្ឋកិច្ចវិទ្យា ថ្នាក់ទី១១ (Economics, Grade 11). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. 1 Economics and production, printed pp. 1–72; Ch. 2 The state and the economy, printed pp. 73–158; Ch. 3 History of economic thought, printed pp. 159–203. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 1, Lesson 4: The market — teaches: what a market is, its kinds and its parts, and how buyers and sellers meet in it | Cambodia, *Cambodia Grade 11 G11 Economics*, Ch. 1, Lesson 4: The market — printed p. 28 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, France, Laos, Mongolia, Rwanda, Palestine, Cambodia). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
 
 France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
@@ -71,4 +77,6 @@ Laos' own way (Laos Grade 11 Business student): the market is defined three ways
 
 Mongolia's own way (Mongolia Grade 8 Social Studies 8): the economy is taught from the home district outward — pupils map the enterprises around their own school, work a flour price schedule, then write a real small-business plan.
 
-Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit, rwanda, palestine
+Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
+
+Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit, rwanda, palestine, cambodia

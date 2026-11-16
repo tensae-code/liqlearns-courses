@@ -1,6 +1,6 @@
 # Sources — What economics is
 
-countries: Ethiopia, France, Dominican Republic, Albania, Jordan
+countries: Ethiopia, France, Dominican Republic, Albania, Jordan, Cambodia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -37,7 +37,13 @@ countries: Ethiopia, France, Dominican Republic, Albania, Jordan
 |---|---|
 | Jordan part — Economics expansion — Unit 3 Lesson 5: Economy and Entrepreneurship — what Economics is: Economics is the science that studies the behaviour of individuals and how they meet their needs for goods and services | Jordan, *Social Studies, Grade 7, Term 1*, Unit 3 Lesson 5: Economy and Entrepreneurship — what Economics is — printed p. 72 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, France, Dominican Republic, Jordan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *សេដ្ឋកិច្ចវិទ្យា ថ្នាក់ទី១១ (Economics, Grade 11)* (student book, Khmer) — MoEYS; ISBN 9-789-995-001-032 (as printed). Title as printed: សេដ្ឋកិច្ចវិទ្យា ថ្នាក់ទី១១ (Economics, Grade 11). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. 1 Economics and production, printed pp. 1–72; Ch. 2 The state and the economy, printed pp. 73–158; Ch. 3 History of economic thought, printed pp. 159–203. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 1, Lesson 1: Economic systems (opening) — teaches: what economics is through the definitions of Smith, Say, Marshall and Samuelson, and why scarcity makes a science of choice necessary | Cambodia, *Cambodia Grade 11 G11 Economics*, Ch. 1, Lesson 1: Economic systems (opening) — printed p. 2 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, France, Dominican Republic, Jordan, Cambodia). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -51,4 +57,6 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Jordan's own way (Jordan Grade 7 Term 1): Trade is taught from Aqaba port and the Silk Road into Jordan's real 2022 export/import charts, and the economy lesson ends in entrepreneurship — Jobs and Apple beside Jordanian start-up projects the class must hunt down itself.
 
-Searchable tags: economics definition, oikonomia, scarcity definition, wealth welfare scarcity, smith ricardo say walker mill, ethiopia, france, ses, questions economists ask, social studies, microeconomics, dominican republic, albania, jordan
+Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
+
+Searchable tags: economics definition, oikonomia, scarcity definition, wealth welfare scarcity, smith ricardo say walker mill, ethiopia, france, ses, questions economists ask, social studies, microeconomics, dominican republic, albania, jordan, cambodia

@@ -1,6 +1,6 @@
 # Sources — Sectors Of The Economy
 
-countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Zimbabwe, Dominican Republic, Palestine, Dominica
+countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Zimbabwe, Dominican Republic, Palestine, Dominica, Cambodia
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -105,7 +105,20 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Dominica part — Unit 5.2: types of production — teaches: primary (extractive), secondary (manufacturing and construction) and tertiary (services) production as a chain of linked industries, with Caribbean examples from cocoa estate to chocolate factory to supermarket | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 5.2: types of production — printed p. 180 |
 
-**Acceptance count: taught in 9 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Dominican Republic, Palestine, Dominica). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 17:** *សិក្សាសង្គម ថ្នាក់ទី៩ (Social Studies, Grade 9)* (student book, Khmer) — MoEYS; ISBN 9-789-995-001-339 (as printed). Title as printed: សិក្សាសង្គម ថ្នាក់ទី៩ (Social Studies, Grade 9). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 320 (cover/title page verified against the record title). Verdict: COMPLETE (Economics part read in full, printed pp. 22–36). Contents map: Economics part printed pp. 22–36 (within Geography Ch. 1, lesson 3); Geography printed pp. 2–81 (Cambodia's mineral and natural resources, then China, India, Malaysia, Brunei, Myanmar); History printed pp. 82–161; Civics printed pp. 162–259; Home Economics (sewing, embroidery) printed pp. 260–319. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Geography Ch. 1, Lesson 3: Cambodia's economy, agriculture and industry sections — teaches: the economy sector by sector with real figures: farmland and rice, rubber and cash crops, livestock, forestry and fisheries, then industry from its history to the garment factories | Cambodia, *Cambodia Grade 9 G9 Social Studies*, Geography Ch. 1, Lesson 3: Cambodia's economy, agriculture and industry sections — printed p. 22 |
+
+
+**Book 18:** *សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10)* (student book, Khmer) — MoEYS; no ISBN printed on the pages read. Title as printed: សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 385 (cover/title page verified against the record title). Verdict: COMPLETE (Economics parts read in full: Home Economics Ch. 1 printed pp. 289–326 and Ch. 3 printed pp. 359–380). Contents map: Economics parts printed pp. 289–326 and 359–380 (inside the Home Economics section); Geography printed pp. 1–96 (industrial location, world agriculture, Asia-Pacific newly industrialising countries, population, urbanisation); History printed pp. 97–194; Civics printed pp. 195–288; Home Economics non-economics parts printed pp. 306–358 (household management, careers). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Home Economics Ch. 1, Lesson 1: the people's economic situation — teaches: Cambodia's three sectors from data tables of sector shares 2002–2007: agriculture, industry and services, and how each sector's weight in the economy is changing | Cambodia, *Cambodia Grade 10 G10 Social Studies*, Home Economics Ch. 1, Lesson 1: the people's economic situation — printed p. 290 |
+
+**Acceptance count: taught in 10 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Dominican Republic, Palestine, Dominica, Cambodia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -134,4 +147,8 @@ Syria's own way (Syria Grade 6 Social Studies): Economics appears inside a civic
 
 Laos' own way (Laos Grade 10 Business student): Economics is taught as the theory inside a "become a businessperson" course, drawn from village life — weaving, market stalls and repair shops sorted into producing, trading and services; the circular flow is drawn between households and the village business, and "produce for whom?" is answered with a Rolls-Royce.
 
-Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Syria, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources, laos, three kinds of business, producing trading services, weaving, repair shops, zimbabwe, teacher guide evidence, dominican republic, palestine
+Cambodia's own way (Cambodia Grade 9 Social Studies): the national economy is taught inside Geography as one whole-country lesson — sectors first, then transport, then trade, closing with a GDP data table pupils must read.
+
+Cambodia's own way (Cambodia Grade 10 Social Studies): Economics at Grade 10 is taught through the family — the national sector shares are read from data tables, then the same lens is turned on the Khmer family's income and spending, and finally on running a family business and working out its profit.
+
+Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Syria, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources, laos, three kinds of business, producing trading services, weaving, repair shops, zimbabwe, teacher guide evidence, dominican republic, palestine, cambodia

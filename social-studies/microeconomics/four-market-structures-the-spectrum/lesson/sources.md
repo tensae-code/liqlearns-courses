@@ -1,6 +1,6 @@
 # Sources — Four market structures — the spectrum
 
-countries: Ethiopia, Kazakhstan
+countries: Ethiopia, Kazakhstan, Cambodia
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -24,10 +24,18 @@ countries: Ethiopia, Kazakhstan
 |---|---|
 | Kazakhstan — Lesson 27 imperfect competition: imperfect competition described through examples, against perfect competition | Kazakhstan, *Fundamentals of Entrepreneurship and Business, Part 1 (Duisenkhanov, Grade 10)*, Lesson 27 Development of Competition in Modern Conditions — printed p. 108 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Kazakhstan).**
+**Book 4:** *សេដ្ឋកិច្ចវិទ្យា ថ្នាក់ទី១១ (Economics, Grade 11)* (student book, Khmer) — MoEYS; ISBN 9-789-995-001-032 (as printed). Title as printed: សេដ្ឋកិច្ចវិទ្យា ថ្នាក់ទី១១ (Economics, Grade 11). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. 1 Economics and production, printed pp. 1–72; Ch. 2 The state and the economy, printed pp. 73–158; Ch. 3 History of economic thought, printed pp. 159–203. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 1, Lesson 5: Market structure — teaches: the forms a market can take, from many competing sellers to a single seller, and what decides which form appears | Cambodia, *Cambodia Grade 11 G11 Economics*, Ch. 1, Lesson 5: Market structure — printed p. 34 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Kazakhstan, Cambodia).**
 
 Kazakhstan's own way (Kazakhstan Grade 10 Aganina): Economics is taught inside an entrepreneurship course — market theory arrives as the theory an entrepreneur needs, with tenge-denominated supply examples (a potato supply curve at 50-70 tenge), world oil prices deciding whether an Almaty-region furniture workshop profits, and Kazakhstan's own post-Soviet transition as the opening history.
 
 Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same national curriculum taught in a three-lesson rhythm — one theory lesson, one game, one Kazakhstani or world business case (Rocket Study, Yuframe, Shymbulak, Elon Musk) — so every Economics concept is immediately played and then applied.
 
-Searchable tags: market structures spectrum, perfect competition, monopolistic competition, oligopoly, pure monopoly, number of firms product type information, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics
+Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
+
+Searchable tags: market structures spectrum, perfect competition, monopolistic competition, oligopoly, pure monopoly, number of firms product type information, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, cambodia

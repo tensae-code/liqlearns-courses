@@ -1,6 +1,6 @@
 # Sources — Managing Money and Family Budgeting
 
-countries: Fiji, Ecuador
+countries: Fiji, Ecuador, Cambodia
 
 **Book 1:** *Exploring the World — Year 8 Pupil's Book* (student book, English) — Fiji, Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed. Title as printed: Exploring the World — Year 8 Pupil's Book. Grade: Year 8 (student/teacher: STUDENT). PDF pages: 73 (title page verified against the record title — the title page itself notes the cover page is held separately; all teaching content present). Verdict: PARTIAL — cover art page absent from the file; all teaching content present. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Unit 1 Social Organisation and Processes — world organisations, personal/social groups, cultural identity and cohesion (printed pp. 7–24); Unit 2 Time, Continuity and Change — understanding the past and continuity and change in world history (pp. 25–36). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -16,10 +16,18 @@ countries: Fiji, Ecuador
 | Ecuador — Educación financiera: Cómo mejorar el presupuesto familiar (Unidad 2): a budget is in surplus when income exceeds outgoings and in deficit when it does not, forcing the parents into debt; improving it means working both sides with a question method — can the family earn more (extra work, collecting debts owed to it) and can it spend less (buying food where it is cheapest, minimising utility payments, avoiding food waste, taking lunch from home, the cheapest phone plan) — while saving for contingencies and paying debts as early as possible | Ecuador, *Ecuador Grade 13 Emprendimiento y Gestión*, Educación financiera: Cómo mejorar el presupuesto familiar (Unidad 2) — printed p. 71 |
 | Ecuador's way — the book's own teaching way | Ecuador — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 2 countries (Fiji, Ecuador).**
+**Book 3:** *សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10)* (student book, Khmer) — MoEYS; no ISBN printed on the pages read. Title as printed: សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 385 (cover/title page verified against the record title). Verdict: COMPLETE (Economics parts read in full: Home Economics Ch. 1 printed pp. 289–326 and Ch. 3 printed pp. 359–380). Contents map: Economics parts printed pp. 289–326 and 359–380 (inside the Home Economics section); Geography printed pp. 1–96 (industrial location, world agriculture, Asia-Pacific newly industrialising countries, population, urbanisation); History printed pp. 97–194; Civics printed pp. 195–288; Home Economics non-economics parts printed pp. 306–358 (household management, careers). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Home Economics Ch. 1, Lesson 2: the Khmer family's economic situation — teaches: where a Khmer family's income comes from and what it is spent on, read from income and expenditure tables spanning 1980–2009 | Cambodia, *Cambodia Grade 10 G10 Social Studies*, Home Economics Ch. 1, Lesson 2: the Khmer family's economic situation — printed p. 300 |
+
+**Acceptance count: taught in 3 countries (Fiji, Ecuador, Cambodia).**
 
 Fiji's own way (Fiji Year 8 Social Science): Year 8 turns fully outward — "Exploring the World": world climate zones read from Fiji's tropical position, then global warming, resource management (including money and time) and globalisation from a Fiji/Pacific viewpoint.
 
 Ecuador's own way (Ecuador Grade 13 Emprendimiento y Gestión): Economics enters the entrepreneurship course through the family and the small venture — costs are worked through a school-desk factory costed month by month in dollars, and every unit closes with a financial-education section that takes the same tools home to the family budget and the family's debts. Improving the budget is taught as two questions — can the family earn more, and can it spend less — worked through the family's own food buying, utility payments, lunches and phone plan.
 
-Searchable tags: managing money and family budgeting, Fiji, Ecuador, surplus, deficit, family budget, social studies, culture-and-work
+Cambodia's own way (Cambodia Grade 10 Social Studies): Economics at Grade 10 is taught through the family — the national sector shares are read from data tables, then the same lens is turned on the Khmer family's income and spending, and finally on running a family business and working out its profit.
+
+Searchable tags: managing money and family budgeting, Fiji, Ecuador, surplus, deficit, family budget, social studies, culture-and-work, cambodia
