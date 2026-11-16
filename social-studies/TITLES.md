@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **530**
+Economics lessons across the Economics titles: **535**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4424,3 +4424,11 @@ economic thought, How economic policies
 work together, Public finance, Foreign
 trade policy and State and private
 sector roles).
++5 for Bangladesh,
+2026-11-16 — Microeconomics: Three kinds of
+resources — natural, human and transformed,
+Goods, products and services, Final,
+intermediate and primary goods and Factor
+incomes — rent, wages, interest and profit;
+Macroeconomics: Welfare economy and the
+welfare state).

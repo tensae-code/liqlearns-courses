@@ -1,6 +1,6 @@
 # Sources — Cost curves and profit
 
-countries: Ethiopia, Belarus, Malaysia, Zimbabwe
+countries: Ethiopia, Belarus, Malaysia, Zimbabwe, Bangladesh
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -27,11 +27,19 @@ Belarus's own way: economics arrives inside a philosophy-and-civics course as th
 |---|---|
 | Zimbabwe part — Unit 35: Financial literacy: gross profit as the income left after subtracting the cost of goods sold, net profit as what remains after all expenses are deducted, and profit-and-loss accounts among the financial statements that show a business's financial health (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 7 Teacher's Guide*, Unit 35: Financial literacy — printed pp. 90–91 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Malaysia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 5:** *History and Social Science, Class Seven* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board, Bangladesh; year 2022 (first published December 2022, reprint 2023; pages carry Academic Year 2024); ISBN no ISBN printed. Title as printed: History and Social Science, Class Seven (Experimental version, National Curriculum 2022). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 184 in each edition (covers verified in both editions with identical cover art; English read fully for its Economics parts, Bangla spot-checked — cover, contents page and the About Wealth opening spread at printed p. 159 are identical in structure and page spans, so the book is placed once with both editions named). Verdict: COMPLETE. Contents map: Economics parts printed pp. 159–175 (About Wealth), plus concept-teaching parts at pp. 57, 62, 64 (inside the economic-history chapter) and p. 142 (blue/green economy inside Sustainable Development); History pp. 20–31 (how to know economic history), 49–64 (Bengal's economic history narrative), 65–92; Society/Civics pp. 1–19, 32–48, 93–131; Geography/Environment pp. 132–158 (apart from p. 142). Records: 10 records / 4 distinct grade-level books, each in Bangla and English parallel editions. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bangladesh-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — About Wealth — teaches: profit as what is left from total income after rent, wages, interest and material costs are paid, worked with a farmer's monthly figures (50,000 Taka of produce sales against rent, a labourer's wages, bank interest and other costs) | Bangladesh, *Bangladesh Grade 7 History and Social Science*, About Wealth — printed p. 167 |
+
+Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 builds a full little production economics course inside "About Wealth" (সম্পদের কথা) — starting from a torn school uniform, it follows yarn to cloth to clothes to teach final, intermediate and primary goods, the four means of production, and what each supplier is paid, ending with a sharecropper and a factory owner side by side to show why incomes differ, and a woman construction worker paid less than the prescribed wage.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Malaysia, Bangladesh). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
 
 Zimbabwe's own way (PlusOne Social Science Grade 7 Teacher's Guide) (teacher guide — evidence): Grade 7 teaches the country's own economic story outright — land reform as redistribution for economic empowerment, human capital built through VTCs and colleges, self-reliance through cooperatives and vending, and tourism counted in foreign currency and jobs — and its financial-literacy unit reaches gross and net profit and the profit-and-loss account.
 
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: cost curves, U-shaped ATC, marginal cost, three marginal-average rules, profit TR minus TC, price minus AC times quantity, ethiopia, belarus, profit, net profit, social studies, microeconomics, malaysia, zimbabwe, teacher guide evidence
+Searchable tags: cost curves, U-shaped ATC, marginal cost, three marginal-average rules, profit TR minus TC, price minus AC times quantity, ethiopia, belarus, profit, net profit, social studies, microeconomics, malaysia, zimbabwe, teacher guide evidence, bangladesh

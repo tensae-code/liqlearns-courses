@@ -1,6 +1,6 @@
 # Sources — Gross domestic product
 
-countries: Ethiopia, Dominican Republic, Albania, Cambodia
+countries: Ethiopia, Dominican Republic, Albania, Cambodia, Bangladesh
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -28,7 +28,15 @@ countries: Ethiopia, Dominican Republic, Albania, Cambodia
 |---|---|
 | Cambodia part — Ch. 1, Lesson 8: National product — teaches: the national product as the measure of everything a country produces in a year | Cambodia, *Cambodia Grade 11 G11 Economics*, Ch. 1, Lesson 8: National product — printed p. 54 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Dominican Republic, Cambodia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 5:** *History and Social Science, Class Seven* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board, Bangladesh; year 2022 (first published December 2022, reprint 2023; pages carry Academic Year 2024); ISBN no ISBN printed. Title as printed: History and Social Science, Class Seven (Experimental version, National Curriculum 2022). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 184 in each edition (covers verified in both editions with identical cover art; English read fully for its Economics parts, Bangla spot-checked — cover, contents page and the About Wealth opening spread at printed p. 159 are identical in structure and page spans, so the book is placed once with both editions named). Verdict: COMPLETE. Contents map: Economics parts printed pp. 159–175 (About Wealth), plus concept-teaching parts at pp. 57, 62, 64 (inside the economic-history chapter) and p. 142 (blue/green economy inside Sustainable Development); History pp. 20–31 (how to know economic history), 49–64 (Bengal's economic history narrative), 65–92; Society/Civics pp. 1–19, 32–48, 93–131; Geography/Environment pp. 132–158 (apart from p. 142). Records: 10 records / 4 distinct grade-level books, each in Bangla and English parallel editions. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bangladesh-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — In Search of Economic History — teaches: GDP named as the main indicator of a country's economic development, with Bangladesh compared against India and Pakistan on economic and social indicators from Bureau of Statistics data | Bangladesh, *Bangladesh Grade 7 History and Social Science*, In Search of Economic History — printed p. 62 |
+
+Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 builds a full little production economics course inside "About Wealth" (সম্পদের কথা) — starting from a torn school uniform, it follows yarn to cloth to clothes to teach final, intermediate and primary goods, the four means of production, and what each supplier is paid, ending with a sharecropper and a factory owner side by side to show why incomes differ, and a woman construction worker paid less than the prescribed wage.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Dominican Republic, Cambodia, Bangladesh). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -36,4 +44,4 @@ Dominican Republic's own way (Dominican Republic Grade 5 Ciencias Sociales 5° P
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: GDP, gross domestic product, market value final goods services, within borders, one year, income expenditure equal, ethiopia, social studies, macroeconomics, dominican republic, albania, cambodia
+Searchable tags: GDP, gross domestic product, market value final goods services, within borders, one year, income expenditure equal, ethiopia, social studies, macroeconomics, dominican republic, albania, cambodia, bangladesh

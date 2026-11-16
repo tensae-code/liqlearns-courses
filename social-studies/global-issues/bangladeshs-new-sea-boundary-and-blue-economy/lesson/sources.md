@@ -8,6 +8,7 @@ countries: Bangladesh
 |---|---|
 | Sub lesson 1 — Green and blue economy; Bangladesh's new maritime boundary and sea rights | Bangladesh, *History and Social Science, Class Seven*, Grade 7, Green and blue economy; Bangladesh's new maritime boundary and sea rights — printed pp. 142-144 |
 | Sub lesson 2 — Bangladesh's way — the book's own teaching way | Bangladesh — the book's own way of teaching (see below) |
+| Bangladesh part — Economics expansion — Sustainable Development and Our Role — teaches: Bangladesh's conquest of the sea — from the 1974 Territorial Waters Act and UNCLOS to the settled maritime boundary, a 200-nautical-mile economic zone and 118,813 sq km of sea — as the opening of the blue economy (the book entry above is the same Class Seven book already cited for the Geography wave — this Economics placement is stocked as a distinct row against it, not as a second book) | Bangladesh, *Bangladesh Grade 7 History and Social Science*, Sustainable Development and Our Role — printed p. 142 |
 
 **Acceptance count: taught in 1 country (Bangladesh).**
 

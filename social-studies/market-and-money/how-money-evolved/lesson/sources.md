@@ -1,6 +1,6 @@
 # Sources — How money evolved — commodity, paper, cheques, electronic
 
-countries: Ethiopia, Uganda, Palestine, Dominica
+countries: Ethiopia, Uganda, Palestine, Dominica, Bangladesh
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -37,7 +37,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Dominica part — Unit 1.1: the role of money and early forms of money — teaches: commodity money (beads, shells, grain), precious metals, goldsmiths' receipts as the earliest paper money, and modern token money with no intrinsic value | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 1.1: the role of money and early forms of money — printed p. 7 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Palestine, Dominica).**
+**Book 6:** *History and Social Science, Class Seven* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board, Bangladesh; year 2022 (first published December 2022, reprint 2023; pages carry Academic Year 2024); ISBN no ISBN printed. Title as printed: History and Social Science, Class Seven (Experimental version, National Curriculum 2022). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 184 in each edition (covers verified in both editions with identical cover art; English read fully for its Economics parts, Bangla spot-checked — cover, contents page and the About Wealth opening spread at printed p. 159 are identical in structure and page spans, so the book is placed once with both editions named). Verdict: COMPLETE. Contents map: Economics parts printed pp. 159–175 (About Wealth), plus concept-teaching parts at pp. 57, 62, 64 (inside the economic-history chapter) and p. 142 (blue/green economy inside Sustainable Development); History pp. 20–31 (how to know economic history), 49–64 (Bengal's economic history narrative), 65–92; Society/Civics pp. 1–19, 32–48, 93–131; Geography/Environment pp. 132–158 (apart from p. 142). Records: 10 records / 4 distinct grade-level books, each in Bangla and English parallel editions. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bangladesh-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — In Search of Economic History — teaches: Bengal's early money — the 3rd-century BCE Mahasthan inscription naming the coins Gandak and Kakini, with the Gandak as a unit of cowries, and the coins of the Gauda ruler Shashanka | Bangladesh, *Bangladesh Grade 7 History and Social Science*, In Search of Economic History — printed p. 57 |
+
+Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 builds a full little production economics course inside "About Wealth" (সম্পদের কথা) — starting from a torn school uniform, it follows yarn to cloth to clothes to teach final, intermediate and primary goods, the four means of production, and what each supplier is paid, ending with a sharecropper and a factory owner side by side to show why incomes differ, and a woman construction worker paid less than the prescribed wage.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Palestine, Dominica, Bangladesh).**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -45,4 +53,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Uganda's own way: Uganda's money story is told in three steps — cowrie shells brought by Arab traders first, Indian rupees second, then Uganda's own shilling, its coins and notes listed by denomination at Primary Five.
 
-Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade, palestine, dominica, csec principles of business, caribbean
+Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade, palestine, dominica, csec principles of business, caribbean, bangladesh

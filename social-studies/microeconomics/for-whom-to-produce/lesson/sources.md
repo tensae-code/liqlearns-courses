@@ -1,6 +1,6 @@
 # Sources — For whom to produce?
 
-countries: Ethiopia, Laos
+countries: Ethiopia, Laos, Bangladesh
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -22,10 +22,18 @@ countries: Ethiopia, Laos
 |---|---|
 | Teacher guide — evidence for the Laos part above: the guide mirrors the pupil book (lesson plans for the same chapters); no separate placement was filed from it, to avoid double-counting (teacher guide — evidence) | Laos, *Laos Grade 10 Business Teacher Guide*, lesson plans mirroring the pupil book's Ch. 1 §1, Ch. 2 and Ch. 4 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Laos).**
+**Book 4:** *History and Social Science, Class Eight* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board, Bangladesh; year 2023 (1st published December 2023, for academic year 2024); ISBN no ISBN printed. Title as printed: History and Social Science, Class Eight (National Curriculum 2022). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 188 in each edition (covers verified in both editions with identical cover art; English fetched from the recorded release asset with byte size 131203853 matching the release exactly and read fully for its Economics parts; Bangla spot-checked — cover, contents page and the Wealth Production chapter opening at printed p. 160 are identical in structure and page spans, so the book is placed once with both editions named). Verdict: COMPLETE. Contents map: Economics parts printed pp. 160–179 (Principles of Wealth Production and Equality), apart from its closing social-equality section at p. 179; History pp. 32–48, 49–124; Society/Civics pp. 13–31, 87–108; Science pp. 1–12; Geography/Environment pp. 125–159. Records: 10 records / 4 distinct grade-level books, each in Bangla and English parallel editions. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bangladesh-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — Principles of Wealth Production and Equality — teaches: the third central question — who will be produced for, decided by who the consumers are and what they can pay | Bangladesh, *Bangladesh Grade 8 History and Social Science*, Principles of Wealth Production and Equality — printed p. 165 |
+
+Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 turns the central problem of the economy into fieldwork — pupils survey a real market for today's price and the price one year ago of the goods they ranked necessary, very necessary and less necessary, then work the same goods through production, distribution and storage, compare all four economic systems, and finish by testing Bangladesh's own system against the data (public investment 7.53 percent of GDP, private 24.52 percent, GDP per capita $2687 in FY 2021-22).
+
+**Acceptance count: taught in 3 countries (Ethiopia, Laos, Bangladesh).**
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
 Laos' own way (Laos Grade 10 Business student): Economics is taught as the theory inside a "become a businessperson" course, drawn from village life — weaving, market stalls and repair shops sorted into producing, trading and services; the circular flow is drawn between households and the village business, and "produce for whom?" is answered with a Rolls-Royce.
 
-Searchable tags: for whom to produce, distribution national product, necessities first, ethiopia, social studies, microeconomics, laos, produce for whom, rolls-royce, high-income buyers
+Searchable tags: for whom to produce, distribution national product, necessities first, ethiopia, social studies, microeconomics, laos, produce for whom, rolls-royce, high-income buyers, bangladesh

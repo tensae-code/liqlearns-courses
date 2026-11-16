@@ -1,6 +1,6 @@
 # Sources — Comparative advantage — David Ricardo
 
-countries: Ethiopia, Jordan
+countries: Ethiopia, Jordan, Bangladesh
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -19,8 +19,16 @@ countries: Ethiopia, Jordan
 |---|---|
 | Jordan part — Economics expansion — Unit 3 Lesson 4: Why international trade arises: countries trade because each needs goods it cannot provide locally, and because location, climate and natural resources differ, the cost of producing goods differs from one state to another, and technical levels differ, so production is better quality and more efficient where conditions suit it (Australia's wide pastures lowering animal-production costs) | Jordan, *Social Studies, Grade 7, Term 1*, Unit 3 Lesson 4: Why international trade arises — printed p. 67 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Jordan).**
+**Book 4:** *History and Social Science, Class Nine* (student book, English + Bangla parallel editions; the same book also filed at the Grade 10 repo paths for the Class 9-10 shared SSC records — the Grade 9 and Grade 10 repo files are byte-identical: English 50152317 bytes with the same Git blob SHA, Bangla 8397648 bytes with the same Git blob SHA) — Bangladesh, National Curriculum and Textbook Board, Bangladesh; year 2023 (first published December 2023, for academic year 2024); ISBN no ISBN printed. Title as printed: History and Social Science, Class Nine (National Curriculum 2022). Grade: Grade 9 (also serving the Grade 10 "Class 9-10 shared SSC" records; student/teacher: STUDENT). PDF pages: 192 in each edition (covers verified in both editions with identical cover art; English fetched by a resume-capable raw download after the blob route closed twice, then verified by byte size and Git blob SHA against the repo record and read fully for its Economics parts; Bangla spot-checked — cover, contents page and the Production, Distribution and Equity chapter opening at printed p. 157 are identical in structure and page spans, so the book is placed once with both editions and all four of its records named). Verdict: COMPLETE. Contents map: Economics parts printed pp. 157–183 (Principles of Production, Distribution and Equity of Wealth), apart from its closing group project at p. 183; History pp. 27–49, 74–114; Civics pp. 50–73; Society pp. 1–26, 115–156; Geography/Nature pp. 1–14. Records: 10 records / 4 distinct grade-level books, each in Bangla and English parallel editions. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bangladesh-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — Principles of Production, Distribution and Equity of Wealth — teaches: Bangladesh's garment success as a cost advantage — second in world garment exports in 2022 with $45 billion supplied against Turkey's $20 billion, because a product costing $8 in Turkey is made in Bangladesh for $3 on low costs of labour and capital | Bangladesh, *Bangladesh Grade 9 History and Social Science*, Principles of Production, Distribution and Equity of Wealth — printed p. 178 |
+
+Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 teaches the working core of microeconomics as one connected story — a farmer splitting his land between paddy and vegetables becomes opportunity cost and a paddy-versus-jute production possibility table whose opportunity cost rises (1, 2, 4, 8 lakh tons), wheat carries the demand and supply schedules and curves, an ice-cream market finds its equilibrium price, and Bangladesh's garment trade ($45 billion of exports at a $3 cost against Turkey's $8) shows why the country wins its markets.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Jordan, Bangladesh).**
 
 Jordan's own way (Jordan Grade 7 Term 1): Trade is taught from Aqaba port and the Silk Road into Jordan's real 2022 export/import charts, and the economy lesson ends in entrepreneurship — Jobs and Apple beside Jordanian start-up projects the class must hunt down itself.
 
-Searchable tags: comparative advantage, david ricardo, ethiopia, social studies, macroeconomics, jordan
+Searchable tags: comparative advantage, david ricardo, ethiopia, social studies, macroeconomics, jordan, bangladesh

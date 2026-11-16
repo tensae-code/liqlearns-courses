@@ -1,6 +1,6 @@
 # Sources — What shifts demand
 
-countries: Ethiopia, Kazakhstan, Malaysia
+countries: Ethiopia, Kazakhstan, Malaysia, Bangladesh
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -25,7 +25,15 @@ countries: Ethiopia, Kazakhstan, Malaysia
 |---|---|
 | Kazakhstan — Lesson 11 factors affecting demand: the non-price factors that change demand, a stated lesson aim | Kazakhstan, *Fundamentals of Entrepreneurship and Business, Part 1 (Duisenkhanov, Grade 10)*, Lesson 11 The Mechanism of Market Functioning — printed p. 42 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Kazakhstan, Malaysia).**
+**Book 5:** *History and Social Science, Class Nine* (student book, English + Bangla parallel editions; the same book also filed at the Grade 10 repo paths for the Class 9-10 shared SSC records — the Grade 9 and Grade 10 repo files are byte-identical: English 50152317 bytes with the same Git blob SHA, Bangla 8397648 bytes with the same Git blob SHA) — Bangladesh, National Curriculum and Textbook Board, Bangladesh; year 2023 (first published December 2023, for academic year 2024); ISBN no ISBN printed. Title as printed: History and Social Science, Class Nine (National Curriculum 2022). Grade: Grade 9 (also serving the Grade 10 "Class 9-10 shared SSC" records; student/teacher: STUDENT). PDF pages: 192 in each edition (covers verified in both editions with identical cover art; English fetched by a resume-capable raw download after the blob route closed twice, then verified by byte size and Git blob SHA against the repo record and read fully for its Economics parts; Bangla spot-checked — cover, contents page and the Production, Distribution and Equity chapter opening at printed p. 157 are identical in structure and page spans, so the book is placed once with both editions and all four of its records named). Verdict: COMPLETE. Contents map: Economics parts printed pp. 157–183 (Principles of Production, Distribution and Equity of Wealth), apart from its closing group project at p. 183; History pp. 27–49, 74–114; Civics pp. 50–73; Society pp. 1–26, 115–156; Geography/Nature pp. 1–14. Records: 10 records / 4 distinct grade-level books, each in Bangla and English parallel editions. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bangladesh-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — Principles of Production, Distribution and Equity of Wealth — teaches: when a held-constant factor changes, the whole demand curve shifts — if consumer income increases, buyers take more at every price | Bangladesh, *Bangladesh Grade 9 History and Social Science*, Principles of Production, Distribution and Equity of Wealth — printed p. 171 |
+
+Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 teaches the working core of microeconomics as one connected story — a farmer splitting his land between paddy and vegetables becomes opportunity cost and a paddy-versus-jute production possibility table whose opportunity cost rises (1, 2, 4, 8 lakh tons), wheat carries the demand and supply schedules and curves, an ice-cream market finds its equilibrium price, and Bangladesh's garment trade ($45 billion of exports at a $3 cost against Turkey's $8) shows why the country wins its markets.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Kazakhstan, Malaysia, Bangladesh).**
 
 Worked-answer error, taught corrected: Table 2.7 prints "Rightward" as the shift direction for a decrease in the price of a substitute, while its own effect columns show a decrease. Taught corrected here: a cheaper substitute shifts demand LEFTWARD (demand decreases). The contents-page misspellings are named in the road-map lesson's sources only.
 
@@ -35,4 +43,4 @@ Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same nationa
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: determinants of demand, substitutes complements, extension contraction, increase decrease of demand, shift versus movement, tables 2.7 2.8, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia
+Searchable tags: determinants of demand, substitutes complements, extension contraction, increase decrease of demand, shift versus movement, tables 2.7 2.8, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, bangladesh

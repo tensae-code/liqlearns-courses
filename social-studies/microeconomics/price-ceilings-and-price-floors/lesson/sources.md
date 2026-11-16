@@ -1,6 +1,6 @@
 # Sources — Price ceilings and price floors
 
-countries: Ethiopia, Albania
+countries: Ethiopia, Albania, Bangladesh
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -16,10 +16,18 @@ countries: Ethiopia, Albania
 |---|---|
 | Albania part — government and price control: debating whether and for which goods government should set prices (teacher guide — evidence) | Albania, *Libër mësuesi — Ekonomia 12 (Teacher Guide)*, Ch.2 — government and price control, printed p. 41 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 3:** *History and Social Science, Class Eight* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board, Bangladesh; year 2023 (1st published December 2023, for academic year 2024); ISBN no ISBN printed. Title as printed: History and Social Science, Class Eight (National Curriculum 2022). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 188 in each edition (covers verified in both editions with identical cover art; English fetched from the recorded release asset with byte size 131203853 matching the release exactly and read fully for its Economics parts; Bangla spot-checked — cover, contents page and the Wealth Production chapter opening at printed p. 160 are identical in structure and page spans, so the book is placed once with both editions named). Verdict: COMPLETE. Contents map: Economics parts printed pp. 160–179 (Principles of Wealth Production and Equality), apart from its closing social-equality section at p. 179; History pp. 32–48, 49–124; Society/Civics pp. 13–31, 87–108; Science pp. 1–12; Geography/Environment pp. 125–159. Records: 10 records / 4 distinct grade-level books, each in Bangla and English parallel editions. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bangladesh-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — Principles of Wealth Production and Equality — teaches: when ordinary consumers' purchasing power is stretched, the government fixes the prices of products and controls prices by importing and marketing goods through government agencies alongside the market | Bangladesh, *Bangladesh Grade 8 History and Social Science*, Principles of Wealth Production and Equality — printed p. 176 |
+
+Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 turns the central problem of the economy into fieldwork — pupils survey a real market for today's price and the price one year ago of the goods they ranked necessary, very necessary and less necessary, then work the same goods through production, distribution and storage, compare all four economic systems, and finish by testing Bangladesh's own system against the data (public investment 7.53 percent of GDP, private 24.52 percent, GDP per capita $2687 in FY 2021-22).
+
+**Acceptance count: taught in 2 countries (Ethiopia, Bangladesh). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: price ceilings and price floors, grade 12 economics, ethiopia, social studies, microeconomics, albania
+Searchable tags: price ceilings and price floors, grade 12 economics, ethiopia, social studies, microeconomics, albania, bangladesh

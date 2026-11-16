@@ -1,6 +1,6 @@
 # Sources — Green economy and green growth
 
-countries: Ethiopia, Jamaica
+countries: Ethiopia, Jamaica, Bangladesh
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -13,10 +13,18 @@ countries: Ethiopia, Jamaica
 | Sub lesson 3 — Renewable energy, and peak oil | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 8 — Economy, Environment and Climate Change, printed pp. 198–199 |
 | Jamaica part — Grade 9 Term 3 Unit 1: Environmental Problems and Green Solutions: Green Technology (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 9 Term 3 Unit 1: Environmental Problems and Green Solutions: Green Technology — printed p. 158 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Book 3:** *History and Social Science, Class Seven* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board, Bangladesh; year 2022 (first published December 2022, reprint 2023; pages carry Academic Year 2024); ISBN no ISBN printed. Title as printed: History and Social Science, Class Seven (Experimental version, National Curriculum 2022). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 184 in each edition (covers verified in both editions with identical cover art; English read fully for its Economics parts, Bangla spot-checked — cover, contents page and the About Wealth opening spread at printed p. 159 are identical in structure and page spans, so the book is placed once with both editions named). Verdict: COMPLETE. Contents map: Economics parts printed pp. 159–175 (About Wealth), plus concept-teaching parts at pp. 57, 62, 64 (inside the economic-history chapter) and p. 142 (blue/green economy inside Sustainable Development); History pp. 20–31 (how to know economic history), 49–64 (Bengal's economic history narrative), 65–92; Society/Civics pp. 1–19, 32–48, 93–131; Geography/Environment pp. 132–158 (apart from p. 142). Records: 10 records / 4 distinct grade-level books, each in Bangla and English parallel editions. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bangladesh-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — Sustainable Development and Our Role — teaches: the green economy introduced through Gunter Pauli (1994) as a sustainable, environmentally friendly model for strengthening a country's economy | Bangladesh, *Bangladesh Grade 7 History and Social Science*, Sustainable Development and Our Role — printed p. 142 |
+
+Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 builds a full little production economics course inside "About Wealth" (সম্পদের কথা) — starting from a torn school uniform, it follows yarn to cloth to clothes to teach final, intermediate and primary goods, the four means of production, and what each supplier is paid, ending with a sharecropper and a factory owner side by side to show why incomes differ, and a woman construction worker paid less than the prescribed wage.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Bangladesh). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: green economy and green growth, grade 12 economics, ethiopia, social studies, global issues, Jamaica, curriculum guide evidence
+Searchable tags: green economy and green growth, grade 12 economics, ethiopia, social studies, global issues, Jamaica, curriculum guide evidence, bangladesh

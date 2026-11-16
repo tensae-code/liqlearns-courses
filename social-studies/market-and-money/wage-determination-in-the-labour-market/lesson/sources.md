@@ -1,6 +1,6 @@
 # Sources — Wage determination in the labour market
 
-countries: Ethiopia, Iceland, France, Mongolia, Albania
+countries: Ethiopia, Iceland, France, Mongolia, Albania, Bangladesh
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -34,7 +34,15 @@ countries: Ethiopia, Iceland, France, Mongolia, Albania
 |---|---|
 | Albania part — how factor prices are set: how labour demand and supply set the price of labour, and of land and capital, and how far market and non-market forces move wages (teacher guide — evidence) | Albania, *Libër mësuesi — Ekonomia 12 (Teacher Guide)*, Ch.7 — how factor prices are set, printed p. 81 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, France, Mongolia). Iceland is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *History and Social Science, Class Seven* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board, Bangladesh; year 2022 (first published December 2022, reprint 2023; pages carry Academic Year 2024); ISBN no ISBN printed. Title as printed: History and Social Science, Class Seven (Experimental version, National Curriculum 2022). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 184 in each edition (covers verified in both editions with identical cover art; English read fully for its Economics parts, Bangla spot-checked — cover, contents page and the About Wealth opening spread at printed p. 159 are identical in structure and page spans, so the book is placed once with both editions named). Verdict: COMPLETE. Contents map: Economics parts printed pp. 159–175 (About Wealth), plus concept-teaching parts at pp. 57, 62, 64 (inside the economic-history chapter) and p. 142 (blue/green economy inside Sustainable Development); History pp. 20–31 (how to know economic history), 49–64 (Bengal's economic history narrative), 65–92; Society/Civics pp. 1–19, 32–48, 93–131; Geography/Environment pp. 132–158 (apart from p. 142). Records: 10 records / 4 distinct grade-level books, each in Bangla and English parallel editions. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bangladesh-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — About Wealth — teaches: a woman construction worker who breaks more bricks than many men is still paid less than the prescribed amount because builders assume women cannot work as hard — wages set by prejudice, not by the work done | Bangladesh, *Bangladesh Grade 7 History and Social Science*, About Wealth — printed p. 174 |
+
+Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 builds a full little production economics course inside "About Wealth" (সম্পদের কথা) — starting from a torn school uniform, it follows yarn to cloth to clothes to teach final, intermediate and primary goods, the four means of production, and what each supplier is paid, ending with a sharecropper and a factory owner side by side to show why incomes differ, and a woman construction worker paid less than the prescribed wage.
+
+**Acceptance count: taught in 4 countries (Ethiopia, France, Mongolia, Bangladesh). Iceland is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -46,4 +54,4 @@ Iceland's own way: economics arrives inside 19th-century history — pupils role
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: wage determination in the labour market, grade 12 economics, ethiopia, iceland, wage bargaining, role-play, teacher guide evidence, france, ses, wage by diploma, social studies, market and money, mongolia, equilibrium wage, wage schedule, tögrög, albania
+Searchable tags: wage determination in the labour market, grade 12 economics, ethiopia, iceland, wage bargaining, role-play, teacher guide evidence, france, ses, wage by diploma, social studies, market and money, mongolia, equilibrium wage, wage schedule, tögrög, albania, bangladesh
