@@ -1,6 +1,6 @@
 # Sources — Music in Society
 
-countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia, Malaysia, Moldova
+countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia, Malaysia, Moldova, Indonesia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -50,7 +50,13 @@ countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia, Malaysia, Moldova
 |---|---|
 | Moldova — Unit 1, Activitățile muzicale în viața omului — the musical activities: composing, performing and listening, the chain composer → performer → listener, and the concert halls and theatres built for it (student book; original target `culture-and-values/music-in-society`) | Book 11, printed p. 22 |
 
-**Acceptance count: taught in 4 countries (Cuba, Mongolia, Malaysia, Moldova). Earlier evidence-only entries stay outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 12:** *Panduan Guru Seni Musik untuk SMA/MA Kelas XII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025 (Edisi Revisi); ISBN 978-634-00-3149-2 (jil.3 PDF). Grade: 12 (student/teacher: TEACHER). PDF pages: 208 (cover/title page verified against the record title; the grab.py tree copy arrived truncated — repo 3,829,634 bytes vs 3,619,706 received — so the book was read from the record's recorded ministry source_url, whose file is exactly 3,829,634 bytes, matching the repo record byte for byte). Verdict: COMPLETE. Excluded: Sumatif and Kunci Jawaban in each chapter (assessment/answer keys); Glosarium printed p. 175 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV Penerapan Musik dalam Kehidupan — applying music in life — where music works in everyday and community life (teacher guide — evidence; original target `culture-and-values/music-in-society`) | Book 12, printed p. 151 |
+
+**Acceptance count: taught in 4 countries (Cuba, Mongolia, Malaysia, Moldova). Earlier evidence-only entries stay outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson rests only on the Grade 4 teacher guide's society chapter (printed pp. 47–56), labelled teacher-guide evidence throughout. Songs are named and their functions taught; no lyrics are transcribed.
 

@@ -1,6 +1,6 @@
 # Sources — Embroidery
 
-countries: Mozambique, Sri Lanka, Rwanda
+countries: Mozambique, Sri Lanka, Rwanda, Indonesia
 
 **Book 1:** *Educação Visual — Módulo 1 (PESD I — Programa do Ensino Secundário à Distância, 1º Ciclo)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Moçambique, 2023; elaborated by Dionísio Manjate and Félix Mindú; no ISBN printed, Grades 7–9 (the PESD I cycle is taught as one combined cycle, not split by grade), 152 PDF pp. STUDENT. Verdict: COMPLETE (cover/title verified — "EDUCAÇÃO VISUAL, MÓDULO 1, PESD I"; 20,947,967 bytes, exact match to the record; fetched from GitHub Releases, mid-size-books-8). Mozambique's own way: a self-study distance module — every lesson carries objectives, the teaching body, exercises, a summary and an answer key for the lone learner. Named, not placed: the per-lesson glossaries and the closing Bibliography (printed p. 150) — inventory only; the Unit 5 introduction (printed p. 127) announces a third textiles lesson on basketry (cestaria) that does not appear in this module — a gap in the book, noted as filed. Excluded per the placements: the end-of-module preparation test (Teste de Preparação de Fim do Módulo, printed pp. 138–144) and its answer key (printed pp. 145–149) — the book's own assessment; the lessons' exercises and answer keys are self-study apparatus (all teaching content is placed from the lesson bodies). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mozambique-placements.md.
 
@@ -75,7 +75,13 @@ countries: Mozambique, Sri Lanka, Rwanda
 | Rwanda — Unit 6, Lesson 2: Patterns and techniques of embroidery (teacher-guide evidence) — the five techniques recapped for teaching (stem, cross, buttonhole/blanket, satin, loop), and the guide's own widening of the craft: embroidery motifs and patterns involve the practice of appliqué and patchwork, and buttons and precious stones may be added with decorative stitching (teacher guide — evidence; original target `visual-art/embroidery-stitches`) | Book 12, printed p. 69 |
 
 
-**Acceptance count: taught in 3 countries (Mozambique, Sri Lanka, Rwanda).**
+**Book 13:** *Buku Panduan Guru Prakarya: Kerajinan untuk SMP/MTs Kelas IX* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-427-910-3 (jil.3). Grade: 9 (student/teacher: TEACHER). PDF pages: 296 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Asesmen/Refleksi sections in each meeting (assessment only); crossword and snakes-and-ladders review games (activity-only, no new teaching). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Unit 2, Pertemuan 8–11 — a wall hanging by wool embroidery (sulam) and a tablecloth sewn from cotton patchwork scraps (kain perca) (teacher guide — evidence; original target `visual-art/embroidery-and-patchwork`) | Book 13, printed p. 145 |
+
+**Acceptance count: taught in 3 countries (Mozambique, Sri Lanka, Rwanda).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/embroidery`); the Mozambique placements were filed under the original string(s) `visual-art/embroidery-and-its-stitches`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Mozambique's own way: embroidery closes its textiles unit — each stitch taught by its look, its working and its household uses, ribbon embroidery honestly named as list-only.
 

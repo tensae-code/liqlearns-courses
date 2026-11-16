@@ -1,6 +1,6 @@
 # Sources — Art from Recycled Materials
 
-countries: Romania, Singapore, Serbia, Sudan, Morocco, Angola, Mongolia
+countries: Romania, Singapore, Serbia, Sudan, Morocco, Angola, Mongolia, Indonesia
 
 **Book 1:** *Arte vizuale și abilități practice — Manual pentru clasa a III-a, Semestrul al II-lea (Visual Arts and Practical Skills, Grade 3, Semester 2)* (student book, Romanian) — Romania, Ministerul Educației și Cercetării Științifice / Editura CD Press, 2015; authors Mirela Flonta, Claudia Stupineanu, Simona Dobrescu; approved by ministerial order 5046/25.08.2015; ISBN 978-606-528-223-0 (work), 978-606-528-269-8 (Part 2), Grade 3, 48 PDF pp. STUDENT — student book. Verdict: COMPLETE. The PDF is image-only (no text layer), so it was read visually page by page from 100-DPI renders; PDF and renders deleted after filing. Cover verified: title, grade and semester match the record. Excluded per the placements: the three Recapitulare. Evaluare test pages (printed pp. 24, 34, 46) and the final evaluation test part (printed p. 47) are the book's own assessment — excluded; their companion PROJECTS (plaster vase, School Street, Hansel and Gretel set) do teach skills and are placed. The closing Dicționar (printed p. 48) is a glossary — inventory-only, named here, never stocked as parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/romania-placements.md.
 
@@ -41,7 +41,31 @@ countries: Romania, Singapore, Serbia, Sudan, Morocco, Angola, Mongolia
 |---|---|
 | Mongolia — Part II: Хаягдал материал ашиглан бүтээл хийх (making a work using waste materials) (student book; original target `visual-art/art-from-discarded-things`) | Book 9, printed p. 57 (same NEW lesson proposed from the Grade 4 book) |
 
-**Acceptance count: taught in 5 countries(Romania, Serbia, Sudan, Angola, Mongolia). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 10:** *Panduan Guru Seni Rupa untuk SD/MI Kelas III (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3152-2 (jil.3 PDF). Grade: 3 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 7,791,771 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment/reflection apparatus in every Bab (no teaching content); no separate glossary section printed in this guide (art vocabulary is taught inside Bab II and placed there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab V — upcycle — turning unused things and waste into new products of higher value and beauty (old cloth sewn into a bag, a wood pallet into furniture, used bottles into home decoration), told apart from ordinary recycling (teacher guide — evidence; original target `visual-art/upcycling-used-materials-into-art`) | Book 10, printed p. 235 |
+
+**Book 11:** *Panduan Guru Seni Rupa untuk SD/MI Kelas V (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-156-2 (jil.5 PDF). Grade: 5 (student/teacher: TEACHER). PDF pages: 208 (cover/title page verified against the record title; record size 14,586,702 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab VI — designing and making useful art from waste (limbah) — the products follow whatever waste is available, carrying messages about conservation and sustainability (teacher guide — evidence; original target `visual-art/upcycling-used-materials-into-art`) | Book 11, printed p. 162 |
+
+**Book 12:** *Buku Panduan Guru Prakarya: Kerajinan untuk SMP/MTs Kelas VIII* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-427-909-7 (jil.2). Grade: 8 (student/teacher: TEACHER). PDF pages: 368 (cover verified against the record title; the record gives no size/pages for Grade 8 — verification by cover and pdfinfo; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Unit (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Unit 1–2 Kerajinan Limbah Organik — the field of craft products from organic waste (limbah organik), then making craft products from organic waste (teacher guide — evidence; original target `visual-art/upcycling-used-materials-into-art`) | Book 12, printed p. 49 |
+
+**Book 13:** *Panduan Guru Seni Rupa untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-477-8 (jil.2 PDF). Grade: 8 (student/teacher: TEACHER). PDF pages: 208 (cover/title page verified against the record title; the record gives no size/pages for Grade 8 — verification by cover and pdfinfo; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV — making functional products from dry waste — dry leaves, plastic, cans and bottles (teacher guide — evidence; original target `visual-art/upcycling-used-materials-into-art`) | Book 13, printed p. 125 |
+
+**Acceptance count: taught in 5 countries(Romania, Serbia, Sudan, Angola, Mongolia). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/art-from-recycled-materials`); the Romania placements were filed under the original string `visual-art/constructing-with-recycled-materials`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Romania's own way: recycling is taught as invention — named toys (Roboțel, the Eco Butterfly) built step by step, then the child's own invented, useful toy, shown in an exhibition. (In this lesson's sources, Book 1 is the Romania Grade 3 Arte vizuale book.)
 

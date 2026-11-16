@@ -1,6 +1,6 @@
 # Sources — Imaginative and Expressive Art
 
-countries: Maldives, Pakistan, Belarus, Jordan
+countries: Maldives, Pakistan, Belarus, Jordan, Indonesia
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -19,7 +19,19 @@ countries: Maldives, Pakistan, Belarus, Jordan
 
 | Belarus — Part 3, the ABC of art: Depicting fantasy images — invented, fairy-tale creatures drawn from imagination, with Vasnetsov's prophetic bird Gamayun as the master example (student book; original target `visual-art/drawing-fantasy-images`) | Book 4, printed p. 24 |
 
-**Acceptance count: taught in 4 countries (Maldives, Pakistan, Belarus, Jordan).**
+**Book 6:** *Panduan Guru Seni Rupa untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-477-8 (jil.2 PDF). Grade: 8 (student/teacher: TEACHER). PDF pages: 208 (cover/title page verified against the record title; the record gives no size/pages for Grade 8 — verification by cover and pdfinfo; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II Berkreasi Seni Dua Dimensi — making emotion stickers from one's own face — one of three two-dimensional creations in the chapter (teacher guide — evidence; original target `visual-art/faces-and-feelings`) | Book 6, printed p. 51 |
+
+**Book 7:** *Panduan Guru Seni Rupa untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024 (Edisi Revisi); ISBN 978-623-388-170-8 (jil.2 PDF). Grade: 11 (student/teacher: TEACHER). PDF pages: 264 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 9,096,476 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Uji Kompetensi (Asesmen Sumatif) in each chapter (assessment only); Glosarium printed p. 235 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB III Seni Rupa Ekspresi Personal — art as personal expression — making work that carries the maker's own feeling and view (teacher guide — evidence; original target `visual-art/personal-expression-in-art`) | Book 7, printed p. 118 |
+
+**Acceptance count: taught in 4 countries (Maldives, Pakistan, Belarus, Jordan).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/imaginative-and-expressive-art`); the Maldives placement was filed under the original string `visual-art/fantasy-landscapes`, recorded in the provenance rows above.
 

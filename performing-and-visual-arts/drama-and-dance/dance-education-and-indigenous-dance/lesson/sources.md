@@ -1,6 +1,6 @@
 # Sources — Dance Education and Indigenous Dance
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Venezuela
+countries: Ethiopia, Samoa, Trinidad and Tobago, Venezuela, Indonesia
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -20,7 +20,25 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Venezuela
 | Trinidad and Tobago — Dance Rationale / how students learn (Forms 1–3) — dance literacy built in six processes from sensorimotor to problem-solving, and the three modalities of dancing, dance-making and dance appreciation that organise the whole programme (teacher guide — evidence) | Book 3, printed pp. 3, 12 |
 | Venezuela — Danza: dance defined as staged representation of body and music, and its family of forms — traditional dances, contemporary dance, ritual dances and ballet (student book; original target `drama-and-dance/what-dance-is`) | Book 4, printed p. 39 |
 
-**Acceptance count: taught in 1 country (Venezuela) — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 5:** *Panduan Guru Seni Tari untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-422-1 (jil.1 PDF; complete-set ISBN 978-623-118-421-4 also printed). Grade: 1 (student/teacher: TEACHER). PDF pages: 264 (cover/title page verified against the record title; record size 4,552,374 bytes matched). Verdict: COMPLETE. Excluded: Glosarium (inventory-only, named in front matter), Asesmen / rubrics and Pengayaan-Remedial tables (no new teaching content). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II, Pokok Materi — what dance is — expressive movement that is beautiful and rhythmic, used to convey ideas and feelings — and telling dance movement from everyday movement (teacher guide — evidence; original target `drama-and-dance/dance-education-and-indigenous-dance`) | Book 5, printed p. 150 |
+
+**Book 6:** *Panduan Guru Seni Tari untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-427-6 (jil.1 PDF). Grade: 7 (student/teacher: TEACHER). PDF pages: 240 (cover/title page verified against the record title; the record gives no size/pages for Grade 7 — verification by cover and pdfinfo; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus (KKTP tables) in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I Latar Belakang Nilai, Jenis, dan Fungsi Tari — the background of dance in its cultural context, and dance classified by value (aesthetic, religious, social and moral), by type, and by function — ritual/ceremony, entertainment, and arranged work — studied through reading, debate and grouping tasks (teacher guide — evidence; original target `drama-and-dance/values-types-and-functions-of-dance`) | Book 6, printed p. 11 |
+
+**Book 7:** *Panduan Guru Seni Tari untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-165-4 (jil.2 PDF). Grade: 8 (student/teacher: TEACHER). PDF pages: 240 (cover/title page verified against the record title; the record gives no size/pages for Grade 8 — verification by cover and pdfinfo; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 1 Nilai, Jenis, dan Fungsi Tari dalam Konteks Budaya — the background of dance in its cultural context, and dance's types, functions and values — carried into designing creative dance movement that reflects them, with choreography and appreciation of works (teacher guide — evidence; original target `drama-and-dance/values-types-and-functions-of-dance`) | Book 7, printed p. 14 |
+
+**Acceptance count: taught in 1 country (Venezuela) — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 7 teacher guide (printed pp. 86–94) as labelled evidence, including its Paleolithic rock-painting history and its Wolayta Seleme-Seleme viewing example.
 

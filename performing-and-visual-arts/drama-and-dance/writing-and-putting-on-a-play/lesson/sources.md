@@ -1,6 +1,6 @@
 # Sources — Writing and Putting On a Play
 
-countries: Ethiopia, Egypt, Guatemala, Trinidad and Tobago, Suriname, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Malaysia
+countries: Ethiopia, Egypt, Guatemala, Trinidad and Tobago, Suriname, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Malaysia, Indonesia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -90,7 +90,56 @@ countries: Ethiopia, Egypt, Guatemala, Trinidad and Tobago, Suriname, Iran, Papu
 |---|---|
 | Malaysia — Unit 2.1 Penghasilan Skrip — script production: producing the script, reworking a story (mengolah semula cerita), and the sebabak (scene) drama (student book; original target `drama-and-dance/writing-and-putting-on-a-play`) | Book 21, printed pp. 68–85 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Iran, Brazil, Malaysia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 22:** *Panduan Guru Seni Teater untuk SD/MI Kelas IV (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-405-4 (jil.4 PDF). Grade: 4 (student/teacher: TEACHER). PDF pages: 272 (cover/title page verified against the record title; record size 10,382,483 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment instruments/reflection tables in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II, Kegiatan 3 — writing dialogue onto story pictures (menulis dialog pada gambar cerita) and then acting what was written (teacher guide — evidence; original target `drama-and-dance/writing-dialogue-for-a-scene`) | Book 22, printed p. 105 |
+
+**Book 23:** *Panduan Guru Seni Teater untuk SD/MI Kelas V (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-154-8 (jil.5 PDF). Grade: 5 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 4,732,864 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV — making the dialogue for the adapted performance (teacher guide — evidence; original target `drama-and-dance/writing-dialogue-for-a-scene`) | Book 23, printed p. 202 |
+
+**Book 24:** *Panduan Guru Seni Teater untuk SD/MI Kelas VI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3165-2 (jil.6 PDF). Grade: 6 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 5,014,706 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment instruments/anecdotal-note apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 2 — composing a script (penyusunan naskah) and reading it dramatically (pembacaan naskah dramatik) (teacher guide — evidence; original target `drama-and-dance/writing-and-putting-on-a-play`) | Book 24, printed p. 88 |
+
+**Book 25:** *Panduan Guru Seni Teater untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-409-2 (jil.1 PDF). Grade: 7 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; the record gives no size/pages for Grade 7 — verification by cover and pdfinfo; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II, Kegiatan 4 — creating dialogue — composing dialogue sentences and their expression (teacher guide — evidence; original target `drama-and-dance/writing-dialogue-for-a-scene`) | Book 25, printed p. 87 |
+| Indonesia — Bab IV Menulis Naskah Teater — writing a theatre script from inspiration: choosing a national hero, identifying the hero's character, exemplary attitudes and life background, then theme, synopsis, characterisation (penokohan), dramatic structure and scene arrangement (pengadeganan) through to the written dialogue — and reading one's own script aloud (teacher guide — evidence; original target `drama-and-dance/writing-a-theatre-script`) | Book 25, printed p. 167 |
+
+**Book 26:** *Panduan Guru Seni Teater untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-257-6 (jil.2 PDF). Grade: 8 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Uji Kompetensi and Panduan Penilaian in each chapter (assessment only), Glosarium printed p. 251 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB III Menulis Naskah Lakon Realis — writing a realist play script — building story flow (alur cerita), character and dialogue into an original naskah lakon (teacher guide — evidence; original target `drama-and-dance/writing-and-putting-on-a-play`) | Book 26, printed p. 147 |
+
+**Book 27:** *Panduan Guru Seni Teater untuk SMP/MTs Kelas IX (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025 (Edisi Revisi); ISBN 978-634-00-3167-6 (jil.3 PDF). Grade: 9 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Sumatif and Kunci Jawaban in each chapter (assessment/answer keys); Glosarium printed p. 255 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB II Merangkai Cerita, Merangkai Peristiwa — stringing story and events together — arranging incidents into a coherent play narrative ready to stage (teacher guide — evidence; original target `drama-and-dance/writing-and-putting-on-a-play`) | Book 27, printed p. 132 |
+
+**Book 28:** *Panduan Guru Seni Teater untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023 (Edisi Revisi); ISBN 978-623-118-417-7 (jil.1 PDF). Grade: 10 (student/teacher: TEACHER). PDF pages: 264 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 4,209,551 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Asesmen Sumatif in each chapter (assessment only); Glosarium printed p. 227 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II Menciptakan Lakon — creating a lakon — building an original play from idea through structure to script (teacher guide — evidence; original target `drama-and-dance/writing-and-putting-on-a-play`) | Book 28, printed p. 81 |
+
+**Book 29:** *Panduan Guru Seni Teater untuk SMA/MA Kelas XII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025 (Edisi Revisi); ISBN 978-634-00-3169-0 (jil.3 PDF). Grade: 12 (student/teacher: TEACHER). PDF pages: 320 (cover/title page verified against the record title; fetched via grab.py tree, size and SHA verified). Verdict: COMPLETE. Excluded: Sumatif and Kunci Jawaban in each chapter (assessment/answer keys); Glosarium printed p. 293 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 2 Menulis Naskah Teater — writing a theatre script — building an original naskah from idea to performable text (teacher guide — evidence; original target `drama-and-dance/writing-and-putting-on-a-play`) | Book 29, printed p. 90 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Iran, Brazil, Malaysia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The model play 'ሰላም' (Peace) in the Grade 8 student book is placed by its role — the rehearsal ladder's worked example from a local history — and is not transcribed. Screenwriting's worked examples use the book's own Ethiopian character names (Biruk, Tewodros) as the placements give them. The Grade 10 guide's harmonising example (the 'Feliz Navidad' composition) belongs to the music strand and is not used here.
 

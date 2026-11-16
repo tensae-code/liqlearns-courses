@@ -1,6 +1,6 @@
 # Sources — Drawing from Imagination
 
-countries: Turkmenistan, Mongolia
+countries: Turkmenistan, Mongolia, Indonesia
 
 **Book 1:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. The repo tree path is a PHANTOM PUSH (HTTP 404); the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link, 79,070,978 bytes and 80 pages, matching the record exactly, and the copy is staged under the push-don't-delete rule. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
@@ -20,7 +20,13 @@ countries: Turkmenistan, Mongolia
 |---|---|
 | Mongolia — Part I: Махир зураасаар зурах арга давтах (The curved-line method again) — animals hidden inside fields of tangled curved lines: finding the hidden animal, outlining it boldly, naming it, and colouring it in its true colour (student book; original target `visual-art/drawing-from-imagination`) | Book 3, printed pp. 25–26 |
 
-**Acceptance count: taught in 2 countries(Turkmenistan, Mongolia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 4:** *Panduan Guru Seni Rupa untuk SD/MI Kelas VI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3153-9 (jil.6 PDF). Grade: 6 (student/teacher: TEACHER). PDF pages: 248 (cover/title page verified against the record title; record size 7,967,963 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment/reflection apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV Karya yang Mewakili Diriku — digging a work's idea out of personal experience, hobbies and things loved, developing it personally and originally to carry feelings, emotions or hopes, sketching it, and creating a three-dimensional work with its own visual and technical character (teacher guide — evidence; original target `visual-art/artwork-that-represents-me`) | Book 4, printed p. 145 |
+
+**Acceptance count: taught in 2 countries(Turkmenistan, Mongolia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/drawing-from-imagination`); the Turkmenistan placement(s) were filed as NEW LESSON NEEDED under the original string `visual-art/drawing-from-imagination`, recorded in the provenance row(s) above and resolved to this lesson by slug-registry Part 2. This canonical lesson's stocked part is Turkmenistan's free-theme lesson, exactly as filed. Songs and stories are placed by summary only, never transcribed.
 

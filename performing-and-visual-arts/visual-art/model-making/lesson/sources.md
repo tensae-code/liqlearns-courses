@@ -1,6 +1,6 @@
 # Sources — Model Making
 
-countries: Finland, Sudan, Mongolia
+countries: Finland, Sudan, Mongolia, Indonesia
 
 **Book 1:** *Tähtitaivaan taiteilijat (Artists of the Starry Sky)* (teacher guide, Finnish) — Finland, University of Oulu LUMA Centre, year not printed, no ISBN printed, early childhood, preschool and early primary, 3 PDF pp. TEACHER. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -28,7 +28,19 @@ countries: Finland, Sudan, Mongolia
 | Mongolia — Part II: Цаасаар хөдөлгөөнт тоглоом хийж тоглох (Making and playing a moving paper toy) — a rolling "funny rabbit" (body and head rolled from a 3×9 cm sheet, its rolling way invented by the maker) and a "little bird" toy whose body and head are rolled and glued, wings and beak folded, mounted on a pencil and moved (student book; original target `visual-art/building-and-making-models`) | Book 4, printed pp. 51–52 |
 | Mongolia — Part II: Хөдөлгөөнт тоглоом хийх (Making a moving toy) — a jointed snake: drawn, decorated, cut from layered paper, divided into sections and joined with thread so it moves; and a hen and chick from a disposable plate with cut paper feet, beak, wings and crest, combined into one group work (student book; original target `visual-art/building-and-making-models`) | Book 4, printed pp. 73–74 |
 
-**Acceptance count: taught in 2 countries(Sudan, Mongolia). Before Sudan, this lesson stood on Finland teacher guide evidence only, named here, counted nowhere.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 5:** *Panduan Guru Seni Rupa untuk SD/MI Kelas IV (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-517-4 (jil.4 PDF). Grade: 4 (student/teacher: TEACHER). PDF pages: 192 (cover/title page verified against the record title; record size 11,597,368 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment rubrics in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab III — making a diorama of one's own region's rumah adat, and of its flora, fauna and ecosystem (teacher guide — evidence; original target `visual-art/diorama-three-dimensional-scenes`) | Book 5, printed p. 70 |
+
+**Book 6:** *Panduan Guru Seni Rupa untuk SD/MI Kelas VI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3153-9 (jil.6 PDF). Grade: 6 (student/teacher: TEACHER). PDF pages: 248 (cover/title page verified against the record title; record size 7,967,963 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment/reflection apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab III Ideku, Gagasanku — the diorama — a three-dimensional miniature of a real or imagined scene (nature, a city, animals in a forest, a folktale scene) — designed from a sketch and built step by step: base/container, background, figures, objects and atmosphere, using materials from the surroundings (teacher guide — evidence; original target `visual-art/diorama-three-dimensional-scenes`) | Book 6, printed p. 106 |
+
+**Acceptance count: taught in 2 countries(Sudan, Mongolia). Before Sudan, this lesson stood on Finland teacher guide evidence only, named here, counted nowhere.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/model-making`); the Finland placements were filed as NEW LESSON NEEDED under the original string `visual-art/making-a-star-projector`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Finland's own way: the child is the star artist — each child draws their own constellation and builds the projector that throws it on the wall.
 

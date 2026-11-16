@@ -1,7 +1,7 @@
 # Sources — Mixing Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Libya, Venezuela, Angola, Afghanistan, Rwanda, Moldova
+countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Libya, Venezuela, Angola, Afghanistan, Rwanda, Moldova, Indonesia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -111,7 +111,13 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique,
 |---|---|
 | Moldova — Unit II §4, Gradația valorică a culorii — value gradation and monochrome: mixing physically on the palette or optically; one colour opened with white and closed with black through all its tones; watercolour thinned for light tones; Picasso's "Guernica" in its sober grey-blue monochrome (student book; original target `visual-art/mixing-colours`) | Book 28, printed pp. 32–33 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Brazil, Venezuela, Angola, Afghanistan, Rwanda, Moldova). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 29:** *Panduan Guru Seni Rupa untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-516-7 (jil.1 PDF). Grade: 1 (student/teacher: TEACHER). PDF pages: 168 (cover/title page verified against the record title; record size 34,308,650 bytes matched exactly. NOTE: grab.py tree route returned 404 for this record's repo path — the seni-rupa folder is absent from the repo tree at grade-01/gov/indonesia/ — so the book was read from the record's own recorded ministry source_url, byte-size and page count verified; see group log, library debts.). Verdict: COMPLETE. Excluded: Glosarium Bab IV p.143 (inventory-only), Asesmen/rubrics and LKPD worksheets (no new teaching content). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV — making colour mixtures (membuat campuran warna) as the third visual element found around the class (teacher guide — evidence; original target `visual-art/mixing-colours`) | Book 29, printed p. 127 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Brazil, Venezuela, Angola, Afghanistan, Rwanda, Moldova). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 2 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook. The Grade 3 Chapter 2 closing exercise carries the trap item "red mixed equally with yellow creates green" (false — it creates orange, per §2.3); the lesson teaches the corrected mixing and uses the trap as a question, exactly as the book's exercise frames it.
 

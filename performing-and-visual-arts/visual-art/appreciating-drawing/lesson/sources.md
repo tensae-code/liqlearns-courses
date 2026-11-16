@@ -1,7 +1,7 @@
 # Sources — Appreciating Drawing
 
 
-countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda
+countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Indonesia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -73,7 +73,31 @@ countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda
 | Rwanda — Part 2 Unit 1 Lesson 5: Display and discussion of pupils' drawings and paintings — displaying the class's drawings and discussing them together (teacher guide evidence) (teacher guide — evidence) | Book 12, printed p. 94 |
 
 
-**Acceptance count: taught in 5 countries (Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda).**
+**Book 13:** *Panduan Guru Seni Rupa untuk SD/MI Kelas II (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-155-5 (jil.2 PDF). Grade: 2 (student/teacher: TEACHER). PDF pages: 224 (cover/title page verified against the record title; record size 23,099,533 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: Asesmen Sumatif and rubric tables in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II Berpendapat Mengenai Karya Seni Rupa — giving an opinion on an artwork or artful object around the class — what is seen, what is felt, liking and disliking, and a suggestion — in everyday words (teacher guide — evidence; original target `visual-art/appreciating-drawing`) | Book 13, printed p. 67 |
+
+**Book 14:** *Panduan Guru Seni Rupa untuk SD/MI Kelas III (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3152-2 (jil.3 PDF). Grade: 3 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 7,791,771 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment/reflection apparatus in every Bab (no teaching content); no separate glossary section printed in this guide (art vocabulary is taught inside Bab II and placed there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II — what art appreciation is — seeing, feeling and understanding a work's beauty and meaning, not only judging good or bad — and reflecting honestly on one's own work (teacher guide — evidence; original target `visual-art/appreciating-drawing`) | Book 14, printed p. 114 |
+
+**Book 15:** *Panduan Guru Seni Rupa untuk SD/MI Kelas IV (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-517-4 (jil.4 PDF). Grade: 4 (student/teacher: TEACHER). PDF pages: 192 (cover/title page verified against the record title; record size 11,597,368 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment rubrics in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab V Menanggapi Karya Seni Rupa — responding to artworks — noticing the feelings a painting causes (sad, happy, angry), giving feedback through the "Koper Hitam Lukisan" game and a visual journal on a book cover (teacher guide — evidence; original target `visual-art/appreciating-drawing`) | Book 15, printed p. 121 |
+
+**Book 16:** *Panduan Guru Seni Rupa untuk SD/MI Kelas VI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3153-9 (jil.6 PDF). Grade: 6 (student/teacher: TEACHER). PDF pages: 248 (cover/title page verified against the record title; record size 7,967,963 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment/reflection apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II Belajar dari Karya Orang Lain — appreciating artworks — observing, identifying elements and design principles in one's own and friends' work, and giving an opinion openly and honestly in proper art words (teacher guide — evidence; original target `visual-art/appreciating-drawing`) | Book 16, printed p. 71 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No honesty flags attach to this placement; it is followed exactly as read.
 

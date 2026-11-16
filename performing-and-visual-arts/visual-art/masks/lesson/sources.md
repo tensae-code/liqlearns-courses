@@ -1,6 +1,6 @@
 # Sources — Masks
 
-countries: Libya, Venezuela, Bolivia
+countries: Libya, Venezuela, Bolivia, Indonesia
 
 **Book 1:** *دليل المعلم لمادة التربية الفنية — للصف الأول من مرحلة التعليم الأساسي (Teacher's Guide for Art Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed Grade: 1 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -25,7 +25,19 @@ countries: Libya, Venezuela, Bolivia
 |---|---|
 | Bolivia — Making a mask with natural leaves — the procedure: on card, draw the design and the eye cut-outs; glue on the natural plant leaves you collected; lay a sheet of bond paper over it and weight it with books or notebooks so it dries fixed, firm and flat; then finish the mask — materials: card, pencil, natural leaves, scissors, thread and needle, glue (teacher compendium — evidence; original target `visual-art/making-masks`) | Book 4, PDF p. 78 |
 
-**Acceptance count: taught in 2 countries (Venezuela, Bolivia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
+**Book 5:** *Panduan Guru Seni Tari untuk SD/MI Kelas IV (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-423-8 (jil.4 PDF). Grade: 4 (student/teacher: TEACHER). PDF pages: 256 (cover/title page verified against the record title; record size 7,791,946 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab III — making a dragon mask (topeng naga) for the fable dance work (teacher guide — evidence; original target `visual-art/making-animal-masks`) | Book 5, printed p. 166 |
+
+**Book 6:** *Panduan Guru Seni Teater untuk SD/MI Kelas IV (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-405-4 (jil.4 PDF). Grade: 4 (student/teacher: TEACHER). PDF pages: 272 (cover/title page verified against the record title; record size 10,382,483 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment instruments/reflection tables in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I, Kegiatan 4 — making masks of animals and natural events (membuat topeng binatang dan peristiwa alam), with drawing the animal first (teacher guide — evidence; original target `visual-art/making-animal-masks`) | Book 6, printed p. 42 |
+
+**Acceptance count: taught in 2 countries (Venezuela, Bolivia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/masks`); the Libya placements were filed under the original string(s) `visual-art/making-masks` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 

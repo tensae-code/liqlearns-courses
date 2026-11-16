@@ -1,6 +1,6 @@
 # Sources — Telling History with Illustration
 
-countries: Ethiopia, Nicaragua, Moldova
+countries: Ethiopia, Nicaragua, Moldova, Indonesia
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors እሸቱ ታደሰ (Eshetu Tadesse) and ደስታ ይትባረክ (Desta Yitbarek); editors አታላይ መስፍን (Atalay Mesfin) and ደምሌ አባተ (Demle Abate). Printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -20,7 +20,19 @@ countries: Ethiopia, Nicaragua, Moldova
 |---|---|
 | Moldova — Unit 1, Ilustrația de carte — the drawings in a book are illustrations: polychrome or monochrome, their colours show the good hero from the wicked one; the class project "I am a book illustrator" (student book; original target `visual-art/telling-history-with-illustration`) | Book 3, printed p. 5 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Moldova). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 4:** *Panduan Guru Seni Rupa untuk SD/MI Kelas III (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3152-2 (jil.3 PDF). Grade: 3 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 7,791,771 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment/reflection apparatus in every Bab (no teaching content); no separate glossary section printed in this guide (art vocabulary is taught inside Bab II and placed there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab III Berkreasi dengan Warna — story pictures (gambar cerita) — interpreting a story that was read and pouring the interpretation into an illustration, and drawing the surroundings with all the visual elements (teacher guide — evidence; original target `visual-art/telling-history-with-illustration`) | Book 4, printed p. 142 |
+
+**Book 5:** *Panduan Guru Seni Rupa untuk SMA/MA Kelas XII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025 (Edisi Revisi); ISBN 978-634-00-3297-0 (jil.3 PDF). Grade: 12 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 6,586,693 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Sumatif and Kunci Jawaban in each chapter (assessment/answer keys); Glosarium printed p. 250 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB II Bercerita dengan Seni Rupa — telling stories with visual art — narrative carried by images (teacher guide — evidence; original target `visual-art/telling-history-with-illustration`) | Book 5, printed p. 78 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Moldova). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: The named plays in Sub lesson 4 are placed by name and venue only, exactly as the placement gives them; no play text is transcribed. The Menelik-era photographs (the book's Fig. 37) are described, never copied. Ethiopia's age as a civilisation is taught in the book's own framing ("among the world's ancient civilisations, a country of many languages and astonishing cultures") and is carried as the book's teaching, not as a new claim.
 

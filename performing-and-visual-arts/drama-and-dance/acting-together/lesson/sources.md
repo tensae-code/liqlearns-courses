@@ -1,6 +1,6 @@
 # Sources — Acting Together
 
-countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji, Morocco, Jordan, Sri Lanka, Malaysia
+countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji, Morocco, Jordan, Sri Lanka, Malaysia, Indonesia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -60,7 +60,25 @@ countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji, Morocco, Jordan, S
 |---|---|
 | Malaysia — Unit 1.1 Interaksi dalam Lakonan — interaction in acting and approaches to effective acting (student book; original target `drama-and-dance/acting-together`) | Book 18, printed pp. 2–18 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Uganda, Finland, Fiji, Jordan, Malaysia).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 10) is evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 19:** *Panduan Guru Seni Teater untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-404-7 (jil.1 PDF). Grade: 1 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 10,117,753 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route 404, see group log library debts). Verdict: COMPLETE. Excluded: assessment instruments/reflection tables in every Bab (no teaching content); no glossary printed as a separate section in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV, Kegiatan 3 — creating and collaborating in a class performance (waktunya pentas) and saying how it felt afterwards (teacher guide — evidence; original target `drama-and-dance/acting-together`) | Book 19, printed p. 226 |
+
+**Book 20:** *Panduan Guru Seni Tari untuk SD/MI Kelas IV (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-423-8 (jil.4 PDF). Grade: 4 (student/teacher: TEACHER). PDF pages: 256 (cover/title page verified against the record title; record size 7,791,946 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab III — presenting the created fable dance work as a group and discussing the character values inside the story (teacher guide — evidence; original target `drama-and-dance/acting-together`) | Book 20, printed p. 167 |
+
+**Book 21:** *Panduan Guru Seni Teater untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-257-6 (jil.2 PDF). Grade: 8 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Uji Kompetensi and Panduan Penilaian in each chapter (assessment only), Glosarium printed p. 251 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB I Improvisasi — working as an ensemble — building scenes together in groups, optimising shared props, and presenting group improvisations (teacher guide — evidence; original target `drama-and-dance/acting-together`) | Book 21, printed p. 41 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Uganda, Finland, Fiji, Jordan, Malaysia).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 10) is evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Nothing flagged. The Grade 3 methods passage is stocked in its book's own order; the four methods are the placement's four, word for word in substance.
 

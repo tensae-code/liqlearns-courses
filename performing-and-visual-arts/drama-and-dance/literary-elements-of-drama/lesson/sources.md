@@ -1,6 +1,6 @@
 # Sources — Literary Elements of Drama
 
-countries: Ethiopia, Colombia, Venezuela
+countries: Ethiopia, Colombia, Venezuela, Indonesia
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -18,7 +18,13 @@ countries: Ethiopia, Colombia, Venezuela
 | Venezuela — Dramaturgo/Dramaturga: the playwright, creator of dramatic texts — with Venezuela's own named: César Rengifo, the most representative author of Venezuelan historical theatre, José Ignacio Cabrujas, Román Chalbaud and Elisa Lerner (student book) | Book 3, printed p. 41 |
 | Venezuela — La composición dramática: dramatic composition — how the dramatic work is structured: its acts and scenes, its characters and the place where the events happen — a fictitious world that feels real (student book) | Book 3, printed p. 85 |
 
-**Acceptance count: taught in 2 countries (Colombia, Venezuela).** Ethiopia teacher-guide evidence is named here, counted nowhere.
+**Book 4:** *Panduan Guru Seni Teater untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024 (Edisi Revisi); ISBN 978-623-388-322-1 (jil.2 PDF). Grade: 11 (student/teacher: TEACHER). PDF pages: 248 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 5,574,787 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Uji Kompetensi and Panduan Penilaian in each chapter (assessment only); Glosarium printed p. 215 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB I Lakon — the lakon — the play as a complete structure, the foundation every staging is built on (teacher guide — evidence; original target `drama-and-dance/literary-elements-of-drama`) | Book 4, printed p. 15 |
+
+**Acceptance count: taught in 2 countries (Colombia, Venezuela).** Ethiopia teacher-guide evidence is named here, counted nowhere. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 8–10) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 

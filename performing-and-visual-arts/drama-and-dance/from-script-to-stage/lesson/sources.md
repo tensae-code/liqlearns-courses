@@ -1,6 +1,6 @@
 # Sources — From Script to Stage
 
-countries: Ethiopia, Egypt, Guatemala, Samoa, Nicaragua, Trinidad and Tobago, Suriname, Colombia, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Venezuela, Malaysia
+countries: Ethiopia, Egypt, Guatemala, Samoa, Nicaragua, Trinidad and Tobago, Suriname, Colombia, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Venezuela, Malaysia, Indonesia
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -91,7 +91,32 @@ countries: Ethiopia, Egypt, Guatemala, Samoa, Nicaragua, Trinidad and Tobago, Su
 |---|---|
 | Malaysia — Unit 1.4 Blocking dalam Lakonan — blocking: its purpose, dynamics within blocking, and blocking according to stage type (student book; original target `drama-and-dance/from-script-to-stage`) | Book 21, printed pp. 44–61 |
 
-**Acceptance count: taught in 6 countries (Egypt, Colombia, Iran, Brazil, Venezuela, Malaysia).** Ethiopia teacher-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 22:** *Panduan Guru Seni Teater untuk SD/MI Kelas III (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3164-5 (jil.3 PDF). Grade: 3 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 5,152,128 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 4 Pentas Mini — a mini performance — choosing the story/script, production team, director, players, music/sound team and artistic team, the stage puzzle (pazzel panggung) and preparing to perform (teacher guide — evidence; original target `drama-and-dance/from-script-to-stage`) | Book 22, printed p. 211 |
+
+**Book 23:** *Panduan Guru Seni Teater untuk SD/MI Kelas VI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3165-2 (jil.6 PDF). Grade: 6 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 5,014,706 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment instruments/anecdotal-note apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 4 Pementasan — forming the production team and the artistic team and the road towards the performance (menuju pementasan) (teacher guide — evidence; original target `drama-and-dance/from-script-to-stage`) | Book 23, printed p. 199 |
+
+**Book 24:** *Panduan Guru Seni Teater untuk SMP/MTs Kelas IX (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025 (Edisi Revisi); ISBN 978-634-00-3167-6 (jil.3 PDF). Grade: 9 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Sumatif and Kunci Jawaban in each chapter (assessment/answer keys); Glosarium printed p. 255 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB III Berani Menjadi Sutradara — daring to be the director (sutradara) — interpreting a script, guiding actors and shaping a production (teacher guide — evidence; original target `drama-and-dance/directing-a-play`) | Book 24, printed p. 156 |
+| Indonesia — BAB IV Memproduksi Pertunjukan Teater — producing a theatre performance — the full production work from preparation to public show (teacher guide — evidence; original target `drama-and-dance/from-script-to-stage`) | Book 24, printed p. 196 |
+
+**Book 25:** *Panduan Guru Seni Teater untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023 (Edisi Revisi); ISBN 978-623-118-417-7 (jil.1 PDF). Grade: 10 (student/teacher: TEACHER). PDF pages: 264 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 4,209,551 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Asesmen Sumatif in each chapter (assessment only); Glosarium printed p. 227 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV Mempersiapkan Pementasan — preparing a staging (pementasan) — rehearsal and production preparation that brings the play before an audience (teacher guide — evidence; original target `drama-and-dance/from-script-to-stage`) | Book 25, printed p. 177 |
+
+**Acceptance count: taught in 6 countries (Egypt, Colombia, Iran, Brazil, Venezuela, Malaysia).** Ethiopia teacher-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The journey is the guide's own (printed pp. 57–59), including its Ethiopian-values script test and its 'nitty gritty' outline phrase, kept as the guide words it.
 

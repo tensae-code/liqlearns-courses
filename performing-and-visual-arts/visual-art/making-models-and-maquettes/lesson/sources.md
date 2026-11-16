@@ -1,6 +1,6 @@
 # Sources — Making Models and Maquettes
 
-countries: Bhutan, Pakistan, Sudan, Saudi Arabia
+countries: Bhutan, Pakistan, Sudan, Saudi Arabia, Indonesia
 
 **Book 1:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
@@ -22,7 +22,13 @@ countries: Bhutan, Pakistan, Sudan, Saudi Arabia
 |---|---|
 | Saudi Arabia — Building a model neighbourhood — villages and cities are defined (mountain cities Taif, Al-Baha and Abha; valley city Makkah; coastal cities Dammam and Jeddah) and pupils build their own neighbourhood from cartons imitating their environment — a coastal model with mirrors for the sea, small stones and soft sand (student book; original target `visual-art/building-a-model-neighbourhood`) | Book 4, printed pp. 43–44 |
 
-**Acceptance count: taught in 4 countries (Bhutan, Pakistan, Sudan, Saudi Arabia).**
+**Book 5:** *Panduan Guru Seni Rupa untuk SD/MI Kelas IV (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-517-4 (jil.4 PDF). Grade: 4 (student/teacher: TEACHER). PDF pages: 192 (cover/title page verified against the record title; record size 11,597,368 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment rubrics in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV Membuat Konstruksi Sederhana — simple constructions — a miniature rumah adat, a palace miniature, a dream building, or a public building (place of worship, market, hospital, school) built from objects around the class, choosing forms and matching colours for balance (teacher guide — evidence; original target `visual-art/miniature-buildings-from-found-objects`) | Book 5, printed p. 103 |
+
+**Acceptance count: taught in 4 countries (Bhutan, Pakistan, Sudan, Saudi Arabia).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/making-models-and-maquettes`); the Bhutan placements were filed as NEW LESSON NEEDED under the original string `visual-art/making-models`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Bhutan's own way, carried in the placements: a one-lesson-one-page workbook that builds the hand first — lines, curves, tone, mixing — then spends half its pages making things, with Bhutanese life (tshechu, losar) and Bhutan's own traditional forms as content.
 

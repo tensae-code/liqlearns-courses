@@ -1,6 +1,6 @@
 # Sources — Dance Practice and Imitation
 
-countries: Ethiopia, Canada, Trinidad and Tobago, Morocco, Jordan, Mongolia, Malaysia
+countries: Ethiopia, Canada, Trinidad and Tobago, Morocco, Jordan, Mongolia, Malaysia, Indonesia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
 
@@ -48,7 +48,44 @@ countries: Ethiopia, Canada, Trinidad and Tobago, Morocco, Jordan, Mongolia, Mal
 |---|---|
 | Malaysia — Unit 6 Aplikasi Tari — applying dance: performing learned movement in full dance application (student book; original target `drama-and-dance/dance-practice-and-imitation`) | Book 10, printed p. 57 |
 
-**Acceptance count: taught in 4 countries(Canada, Jordan, Mongolia, Malaysia).** Ethiopia is teacher-guide evidence only, named here, counted nowhere. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 11:** *Panduan Guru Seni Tari untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-422-1 (jil.1 PDF; complete-set ISBN 978-623-118-421-4 also printed). Grade: 1 (student/teacher: TEACHER). PDF pages: 264 (cover/title page verified against the record title; record size 4,552,374 bytes matched). Verdict: COMPLETE. Excluded: Glosarium (inventory-only, named in front matter), Asesmen / rubrics and Pengayaan-Remedial tables (no new teaching content). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I Bergerak dengan Rangsangan, Kegiatan 1–2 — moving freely and recognising the three stimuli of dance movement — visual (what is seen), audio (what is heard) and ideas (gagasan) (teacher guide — evidence; original target `drama-and-dance/moving-with-stimuli`) | Book 11, printed p. 49 |
+| Indonesia — Bab I, Kegiatan 3–4 — exploring dance movement by following and imitating movement that is seen and heard, including animal movement such as jumping like a kangaroo (teacher guide — evidence; original target `drama-and-dance/dance-practice-and-imitation`) | Book 11, printed p. 67 |
+
+**Book 12:** *Panduan Guru Seni Teater untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-404-7 (jil.1 PDF). Grade: 1 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 10,117,753 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route 404, see group log library debts). Verdict: COMPLETE. Excluded: assessment instruments/reflection tables in every Bab (no teaching content); no glossary printed as a separate section in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II, Kegiatan 1–2 — observing an event, imitating it (meniru peristiwa), and expressing it again from one's own experience (teacher guide — evidence; original target `drama-and-dance/dance-practice-and-imitation`) | Book 12, printed p. 96 |
+
+**Book 13:** *Panduan Guru Seni Tari untuk SD/MI Kelas II (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-149-4 (jil.2 PDF). Grade: 2 (student/teacher: TEACHER). PDF pages: 184 (cover/title page verified against the record title; record size 11,866,531 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: Glosarium p.159 (inventory-only), Uji Kompetensi/KKTP/reflection tables (no teaching content). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 1 — exploring, finding, developing and telling apart dance movement and everyday movement through the space–energy–time elements (teacher guide — evidence; original target `drama-and-dance/dance-practice-and-imitation`) | Book 13, printed p. 35 |
+
+**Book 14:** *Buku Panduan Guru Seni Tari untuk SD/MI Kelas III* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022 (Cetakan Pertama; this is the first-edition guide, not an Edisi Revisi); ISBN 978-602-244-767-2. Grade: 3 (student/teacher: TEACHER). PDF pages: 200 (cover/title page verified against the record title; record size 51,220,446 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE — read visually: this PDF is a scan with no text layer, so it was read page-by-page from 100-DPI 4-up contact sheets (contents, figure/audio/video lists and every unit's Materi sections read in full; picture teaching described from the figures). Excluded: assessment rubrics/pedoman penilaian in every unit (apparatus only); no glossary printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Unit 1 — the lines of the face used as a stimulus for movement trajectories (lintasan) — vertical, circular and horizontal paths — and movement in wide and narrow volume, with coloured handkerchiefs as expression props (teacher guide — evidence; original target `drama-and-dance/moving-with-stimuli`) | Book 14, printed p. 15 |
+
+**Book 15:** *Panduan Guru Seni Teater untuk SD/MI Kelas III (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3164-5 (jil.3 PDF). Grade: 3 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 5,152,128 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 1 Ayo Meniru! — imitation (mimesis) of body and voice — copying the movement and sound of animals, objects around us and events in nature, spontaneously (teacher guide — evidence; original target `drama-and-dance/dance-practice-and-imitation`) | Book 15, printed p. 27 |
+
+**Book 16:** *Panduan Guru Seni Teater untuk SD/MI Kelas V (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-154-8 (jil.5 PDF). Grade: 5 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 4,732,864 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I Eksplorasi Gerak dan Suara — observing and imitating — exploring movement and sound from what is seen and heard (teacher guide — evidence; original target `drama-and-dance/moving-with-stimuli`) | Book 16, printed p. 19 |
+
+**Acceptance count: taught in 4 countries(Canada, Jordan, Mongolia, Malaysia).** Ethiopia is teacher-guide evidence only, named here, counted nowhere. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson's original stock stands on the Grade 3 teacher guide (printed pp. 34–40, §§2.2–2.3.1) as labelled evidence. Canada's nursery student books now teach the same cluster directly: practising for weeks for a talent show, learning a move by watching and copying it, and practising a routine until both bodies move as one. The Canada stories are placed by summary only, never transcribed.
 

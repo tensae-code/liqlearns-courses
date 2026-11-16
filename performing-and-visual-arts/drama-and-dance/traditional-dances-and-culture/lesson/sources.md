@@ -1,6 +1,6 @@
 # Sources — Traditional Dances and Culture
 
-countries: Ethiopia, Andorra, Trinidad and Tobago, Belarus, Mongolia
+countries: Ethiopia, Andorra, Trinidad and Tobago, Belarus, Mongolia, Indonesia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -26,7 +26,19 @@ countries: Ethiopia, Andorra, Trinidad and Tobago, Belarus, Mongolia
 |---|---|
 | Mongolia — the dance strand's own dances: Навчис бүжиг (leaf dance) p. 16, Алчууртай бүжиг (handkerchief dance) p. 31, Сэлэмт бүжиг (sword dance) p. 61 (student book; original target `drama-and-dance/traditional-dances-and-culture`) | Book 5, printed pp. 16, 31, 61 |
 
-**Acceptance count: taught in 2 countries(Belarus, Mongolia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 6:** *Panduan Guru Seni Tari untuk SMA/SMK/MA/MAK Kelas X (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023 (Edisi Revisi); ISBN 978-623-118-431-3 (jil.1 PDF). Grade: 10 (student/teacher: TEACHER). PDF pages: 304 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 46,763,259 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Asesmen Awal/Formatif/Sumatif in each procedure (assessment only); Glosarium printed p. 259 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I Makna dan Simbol pada Tari Tradisi — meaning and symbol in traditional dance — what a traditional dance's movements, costumes and story mean, and how symbols carry it (teacher guide — evidence; original target `drama-and-dance/traditional-dances-and-culture`) | Book 6, printed p. 13 |
+
+**Book 7:** *Buku Panduan Guru Seni Tari untuk SMA/MA Kelas XII* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-244-766-5 (jil.3). Grade: 12 (student/teacher: TEACHER). PDF pages: 168 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 15,660,325 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Penilaian sections (assessment only); Glosarium printed p. 141 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Unit Pembelajaran 2 Konsep Tari — the concept of dance — what dance is and what makes a movement a dance (teacher guide — evidence; original target `drama-and-dance/traditional-dances-and-culture`) | Book 7, printed p. 35 |
+
+**Acceptance count: taught in 2 countries(Belarus, Mongolia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 4 teacher guide (printed pp. 36–37, §2.2) as labelled evidence; the definitions are the guide's own framing of the pupil-taught dances.
 

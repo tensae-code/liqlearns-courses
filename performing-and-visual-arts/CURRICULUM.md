@@ -2447,7 +2447,28 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   and its motif meanings, and the Moldovan and Romanian composers,
   singers and institutions named book by book.
 
-**The whole course stands at 747 lessons, 9,201 questions and
+- **Art expansion — Indonesia (2026-11-16):** 439 placements stocked from
+  60 placement-bearing books (57 teacher guides — EVIDENCE only, kept
+  outside the acceptance counts; 3 student books — the Grade 10
+  Dasar-Dasar Seni Rupa Semester 1 and 2 and Dasar-Dasar Seni
+  Pertunjukan books — counted): 367 into existing and already-built
+  canonical lessons, and 72 into 37 NEW lessons
+  (Music: Angklung ×3, Arranging and Interpreting Music ×2, Caring for Musical Instruments ×3, Dolanan: Children's Play Songs, Gamelan and Music in Dance, Indonesian Regional Songs ×7, Kolintang, Numbered Notation ×2, Organising and Presenting a Concert, The Sasando, The Suling Bamboo Flute, Traditional Music of Asia; Visual Art: Art Careers and Professions ×6, Art for Social Change ×2, Ecoprint on Cloth ×2, Leather Craft, Planning and Making an Artwork ×2, Ragam Hias Nusantara: Ornament and Crafts of the Indonesian Archipelago ×5, Rumah Adat: Traditional Houses of Indonesia, Visual Journal Keeping ×2, Wood, Bamboo and Rattan Crafts, World Crafts in Comparison; Drama and Dance: Basic Techniques of Performing Arts, Dance Criticism ×2, Dance Props: Cloth and Handkerchief, Indonesian Performing Arts For Tourism ×2, Indonesian Traditional Dances ×5, Indonesian Traditional Theatre ×2, Lenong: Betawi Theatre, Pure and Meaningful Movement in Dance ×3, Tari Baris, Tari Buyung, Tari Jonggan, Tari Kecak ×2, Tari Ndolalak, Tari Saman, Tari Topeng Betawi), 444 questions added, media as described slots only.
+  Honesty carried exactly as filed: Indonesia's 18 Prakarya non-art
+  volumes (Budi Daya, Pengolahan and Rekayasa at Grades 7–12) are
+  record-only — named in the placements file, never placed; the
+  id-b books read from recorded ministry sources after repo-tree
+  404s carry those source notes exactly as filed in their book
+  entries; glossaries are inventory-only, named in the book
+  entries, not placed; assessment, reflection and answer-key
+  sections are named, not placed; songs are placed by title and
+  theme only, never transcribed. Indonesia's own way is kept as
+  named parts throughout: lagu daerah and lagu dolanan, angklung,
+  suling, gamelan, kolintang and sasando, notasi angka, Tari
+  Kecak, Tari Saman, Tari Baris, Tari Topeng Betawi, lenong,
+  wayang, ragam hias Nusantara, rumah adat, batik and ecoprint.
+
+**The whole course stands at 784 lessons, 9,645 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

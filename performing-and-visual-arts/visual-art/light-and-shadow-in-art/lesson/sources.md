@@ -1,6 +1,6 @@
 # Sources — Light and Shadow in Art
 
-countries: Saudi Arabia, Angola, Moldova
+countries: Saudi Arabia, Angola, Moldova, Indonesia
 
 **Book 1:** *التربية الفنية — الصف الرابع الابتدائي (Art Education — Fourth Grade Primary; the PDF binds الجزء الأول من المقرر, Part One of the Course, and الجزء الثاني من المقرر, Part Two, in one file)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Saudi Arabia, print edition 1448H / 2026 CE (cataloguing-in-publication 1446H); ISBN 978-603-8527-28-5, legal deposit 1446/12941. Grade: 4 (student/teacher: STUDENT). PDF pages: 179 (179 printed pages; printed folios match PDF pages throughout), text layer present. Verdict: COMPLETE per its own tables of contents. Excluded per standing rules, named here: unit assessments at printed pp. 36, 51–52, 69, 90 (Part One) and 112, 123, 138, 152, 172 (Part Two); figure indexes pp. 94–96 and 176–177 and references pp. 178–179, inventory-only; the term-project forms' blank fields are apparatus (the project itself is placed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
 
@@ -29,7 +29,13 @@ countries: Saudi Arabia, Angola, Moldova
 |---|---|
 | Moldova — Unit II §8 — the tonal contrast, light against dark, up to its extreme of black against white; and the optical-illusion contrasts — simultaneous and successive (stare at red, then at white, and see green) (student book; original target `visual-art/chiaroscuro-light-and-shadow`) | Book 5, printed p. 28 |
 
-**Acceptance count: taught in 3 countries (Saudi Arabia, Angola, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 6:** *Panduan Guru Seni Rupa untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-521-1 (jil.1 PDF). Grade: 7 (student/teacher: TEACHER). PDF pages: 216 (cover/title page verified against the record title; the record gives no size/pages for Grade 7 — verification by cover and pdfinfo; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I — the shading technique (teknik arsir) practised as its own activity (teacher guide — evidence; original target `visual-art/light-shadow-and-shading`) | Book 6, printed p. 27 |
+
+**Acceptance count: taught in 3 countries (Saudi Arabia, Angola, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/light-and-shadow-in-art`); the Saudi Arabia placements were filed under the original string(s) `visual-art/light-and-shadow` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 

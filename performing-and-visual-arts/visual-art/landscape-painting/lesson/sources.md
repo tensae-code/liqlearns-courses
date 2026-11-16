@@ -1,6 +1,6 @@
 # Sources — Landscape Painting
 
-countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka, Moldova
+countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka, Moldova, Indonesia
 
 **Book 1:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. The repo tree path is a PHANTOM PUSH (HTTP 404); the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link, 79,070,978 bytes and 80 pages, matching the record exactly, and the copy is staged under the push-don't-delete rule. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
@@ -32,7 +32,14 @@ countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka, Moldova
 | Moldova — Unit I §3 — the stages of a landscape: compose the elements (near large, far small, for depth), draw with the horizon line, work it graphically (foreground accented, distance lighter), then colour — warm colours for light, cool for shadow (student book; original target `visual-art/landscape-painting`) | Book 8, printed pp. 14–15 |
 | Moldova — Unit I §3 — two manners of landscape: the realist (Shishkin's "Rye Field") and the decorative-stylised (acrylic, gouache, coloured paper, plasticine collage), with Cézanne's "Mont Sainte-Victoire" and Romanescu's "Zi de sărbătoare" (student book; original target `visual-art/landscape-painting`) | Book 8, printed p. 15 |
 
-**Acceptance count: taught in 6 countries (Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Moldova).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 9:** *Panduan Guru Seni Rupa untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-477-8 (jil.2 PDF). Grade: 8 (student/teacher: TEACHER). PDF pages: 208 (cover/title page verified against the record title; the record gives no size/pages for Grade 8 — verification by cover and pdfinfo; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab V Mengenal Lukisan Pemandangan Alam — the naturalism style (gaya naturalisme) identified through the landscape paintings of Indonesia's maestro painters — analysing naturalistic works so students know, appreciate and love Indonesia's nature (teacher guide — evidence; original target `visual-art/naturalism-in-indonesian-painting`) | Book 9, printed p. 152 |
+| Indonesia — Bab V — landscape painting (lukisan pemandangan alam) as the chapter's subject — how a natural scene is rendered in the naturalist manner (teacher guide — evidence; original target `visual-art/landscape-and-city-scenes`) | Book 9, printed p. 152 |
+
+**Acceptance count: taught in 6 countries (Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Moldova).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/landscape-painting`); the Turkmenistan placement(s) were filed as NEW LESSON NEEDED under the original string `visual-art/landscapes-and-seasons`, recorded in the provenance row(s) above and resolved to this lesson by slug-registry Part 2. This canonical lesson is built from the three Turkmenistan placements filed under the original string `visual-art/landscapes-and-seasons`, resolved here by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 

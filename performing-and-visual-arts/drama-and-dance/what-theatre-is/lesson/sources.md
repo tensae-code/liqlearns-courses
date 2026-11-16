@@ -1,6 +1,6 @@
 # Sources — What Theatre Is
 
-countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan, Venezuela, Malaysia, Moldova
+countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan, Venezuela, Malaysia, Moldova, Indonesia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -41,7 +41,19 @@ countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jord
 |---|---|
 | Moldova — Unit 1, Muzica și teatrul — theatre's long history in brief, music's place inside a stage show, and the syncretism of the arts in spectacle: opera and ballet as the meeting of literature, music, choreography, visual art and theatre (student book; original target `drama-and-dance/what-theatre-is`) | Book 10, printed pp. 22–23 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Iran, Jordan, Venezuela, Malaysia, Moldova). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 11:** *Panduan Guru Seni Teater untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-404-7 (jil.1 PDF). Grade: 1 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 10,117,753 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route 404, see group log library debts). Verdict: COMPLETE. Excluded: assessment instruments/reflection tables in every Bab (no teaching content); no glossary printed as a separate section in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I Mengenal Dunia Teater — what theatre art (seni teater) is, explained in words a Grade 1 child can grasp (teacher guide — evidence; original target `drama-and-dance/what-theatre-is`) | Book 11, printed p. 21 |
+
+**Book 12:** *Panduan Guru Seni Teater untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023 (Edisi Revisi); ISBN 978-623-118-417-7 (jil.1 PDF). Grade: 10 (student/teacher: TEACHER). PDF pages: 264 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 4,209,551 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Asesmen Sumatif in each chapter (assessment only); Glosarium printed p. 227 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I Selisik Teater — delving into theatre — what theatre is, its forms and how a performance is put together, investigated closely (teacher guide — evidence; original target `drama-and-dance/what-theatre-is`) | Book 12, printed p. 23 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Iran, Jordan, Venezuela, Malaysia, Moldova). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson rests on the Grade 4 student book's own definition (§1.3). The book's performance picture (Fig. 1.12, printed p. 16) is described as a slot; it is not reproduced.
 

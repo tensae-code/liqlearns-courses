@@ -1,6 +1,6 @@
 # Sources — Making and Composing Music
 
-countries: Barbados, Suriname, Cuba, Venezuela, Mongolia, Rwanda, Bolivia, Malaysia, Moldova
+countries: Barbados, Suriname, Cuba, Venezuela, Mongolia, Rwanda, Bolivia, Malaysia, Moldova, Indonesia
 
 **Book 1:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
 
@@ -134,7 +134,25 @@ countries: Barbados, Suriname, Cuba, Venezuela, Mongolia, Rwanda, Bolivia, Malay
 |---|---|
 | Moldova — Unit 3, improvisation exercise — inventing a melody over a given rhythm and marking its anacrusis (student book; original target `music/improvising-music`) | Book 21, printed p. 57 |
 
-**Acceptance count: taught in 6 countries (Venezuela, Mongolia, Rwanda, Bolivia, Malaysia, Moldova) — this lesson stands on Barbados curriculum syllabus evidence only, named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 22:** *Panduan Guru Seni Musik untuk SMP/MTs Kelas IX (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025 (Edisi Revisi); ISBN 978-634-00-3147-8 (jil.3 PDF). Grade: 9 (student/teacher: TEACHER). PDF pages: 256 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Sumatif and Kunci Jawaban in each chapter (assessment/answer keys); Glosarium printed p. 225 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV Menciptakan Lagu — creating a song — composing melody and fitting words into a singable original song (teacher guide — evidence; original target `music/creating-a-song`) | Book 22, printed p. 119 |
+
+**Book 23:** *Panduan Guru Seni Musik untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023 (Edisi Revisi); ISBN 978-623-118-525-9 (jil.1 PDF). Grade: 10 (student/teacher: TEACHER). PDF pages: 296 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Asesmen Sumatif at each chapter end (assessment only); Glosarium printed p. 269 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab III Menciptakan Musik Sederhana — creating simple music — composing an original simple piece (teacher guide — evidence; original target `music/creating-a-song`) | Book 23, printed p. 127 |
+
+**Book 24:** *Panduan Guru Seni Musik untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024 (Edisi Revisi); ISBN 978-623-118-524-2 (no.jil.lengkap). Grade: 11 (student/teacher: TEACHER). PDF pages: 288 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 28,103,494 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Asesmen Sumatif in each chapter (assessment only); Glosarium printed p. 259 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV Kreasi Musik — music creation (kreasi musik) — composing and realising original music (teacher guide — evidence; original target `music/creating-a-song`) | Book 24, printed p. 209 |
+
+**Acceptance count: taught in 6 countries (Venezuela, Mongolia, Rwanda, Bolivia, Malaysia, Moldova) — this lesson stands on Barbados curriculum syllabus evidence only, named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/making-and-composing-music`); the Barbados placements were filed under the original string `music/composing-simple-tunes-and-lyrics`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: composing starts in Class 1, from the same three recorder notes the children are learning to read — B, A and G — fitted to given rhythm patterns, with lyrics of their own.
 

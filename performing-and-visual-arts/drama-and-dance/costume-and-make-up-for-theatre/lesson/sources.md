@@ -1,6 +1,6 @@
 # Sources — Costume and Make-Up for Theatre
 
-countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Guinea, Venezuela, Malaysia
+countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Guinea, Venezuela, Malaysia, Indonesia
 
 **Book 1:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
@@ -55,7 +55,49 @@ countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Gui
 |---|---|
 | Malaysia — Unit 6 Sinografi Tari — costume and make-up as part of dance scenography for the ethnic dances studied (student book; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 12, printed pp. 118–141 |
 
-**Acceptance count: taught in 5 countries (Romania, Bhutan, Serbia, Venezuela, Malaysia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 13:** *Panduan Guru Seni Teater untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-404-7 (jil.1 PDF). Grade: 1 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 10,117,753 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route 404, see group log library debts). Verdict: COMPLETE. Excluded: assessment instruments/reflection tables in every Bab (no teaching content); no glossary printed as a separate section in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV, Kegiatan 2 — preparing a performance's properties and costume — listing the costume and stage equipment (mendaftar kostum dan perlengkapan pentas) and the activities before a performance (teacher guide — evidence; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 13, printed p. 204 |
+
+**Book 14:** *Panduan Guru Seni Tari untuk SD/MI Kelas II (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-149-4 (jil.2 PDF). Grade: 2 (student/teacher: TEACHER). PDF pages: 184 (cover/title page verified against the record title; record size 11,866,531 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: Glosarium p.159 (inventory-only), Uji Kompetensi/KKTP/reflection tables (no teaching content). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 3 Apresiasi Gerak Tari Sederhana — preparing a simple dance performance — the performance place, costume and the rest, prepared with parents' help (teacher guide — evidence; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 14, printed p. 125 |
+
+**Book 15:** *Panduan Guru Seni Teater untuk SD/MI Kelas III (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3164-5 (jil.3 PDF). Grade: 3 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 5,152,128 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 3 — playing with properties (mainkan properti) as part of improvisation (teacher guide — evidence; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 15, printed p. 164 |
+
+**Book 16:** *Panduan Guru Seni Teater untuk SD/MI Kelas IV (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-405-4 (jil.4 PDF). Grade: 4 (student/teacher: TEACHER). PDF pages: 272 (cover/title page verified against the record title; record size 10,382,483 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment instruments/reflection tables in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II, Kegiatan 4 — preparing the properties for the daily-life performance (teacher guide — evidence; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 16, printed p. 112 |
+
+**Book 17:** *Panduan Guru Seni Tari untuk SD/MI Kelas V (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-150-0 (jil.5 PDF). Grade: 5 (student/teacher: TEACHER). PDF pages: 184 (cover/title page verified against the record title; record size 7,172,595 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 1 — the supporting elements of a traditional dance performance — its music, its properties and its make-up (tata rias) (teacher guide — evidence; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 17, printed p. 21 |
+
+**Book 18:** *Panduan Guru Seni Teater untuk SD/MI Kelas V (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-154-8 (jil.5 PDF). Grade: 5 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 4,732,864 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV — making the properties for the folktale performance (teacher guide — evidence; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 18, printed p. 202 |
+
+**Book 19:** *Buku Panduan Guru Seni Tari untuk SD/MI Kelas VI* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022 (Cetakan Pertama / first edition — NOT Edisi Revisi); ISBN 978-602-244-840-2 (jil.6). Grade: 6 (student/teacher: TEACHER). PDF pages: 304 (cover/title page verified against the record title; record size 110,341,216 bytes and record page count 304 matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log. Scanned image-only PDF — pdftotext yields 304 characters total — read visually via 100-DPI contact sheets: contents, figure and table lists, and every unit's opening and procedure sheets). Verdict: COMPLETE. Excluded: assessment/reflection apparatus in every Unit (no teaching content); Glosarium (printed p. 268) — glossary, inventory-only per standing exclusions, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Unit Pembelajaran 3 Menggagas Unsur-unsur Pendukung Tari — conceiving a dance's supporting elements — costume: the traditional dress of Yogyakarta, Riau and West Java and themed costumes (Kijang, farmer, bird dances); make-up: transferring a face design to the face, character make-up sketched and applied (peacock, other birds, flora), and corrective make-up for formal events and for dance (teacher guide — evidence; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 19, printed p. 145 |
+
+**Acceptance count: taught in 5 countries (Romania, Bhutan, Serbia, Venezuela, Malaysia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 5 teacher guide (printed pp. 48–61, §2.3) as labelled evidence — the guide's longest theatre section, on the practical craft of stage appearance.
 

@@ -1,6 +1,6 @@
 # Sources — Chords and Harmony
 
-countries: Brazil, Sri Lanka, Venezuela
+countries: Brazil, Sri Lanka, Venezuela, Indonesia
 
 **Book 1:** *ARTE — Ensino Médio, 2ª Edição (Livro Didático Público)* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd ed. 2007); ISBN 85-85380-30-6, Ensino Médio (upper secondary, grades 10–12), 336 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; byte size 13,077,906 matches the record). Read in place on disk at phase3-staging (never deleted) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/brazil-placements.md.
 
@@ -11,7 +11,13 @@ countries: Brazil, Sri Lanka, Venezuela
 | Brazil — Folha 10 — harmony (chords, consonance and dissonance in jazz and bossa nova), melody built from scales, polyphony (student book; original target `music/harmony-melody-and-polyphony`) | Book 1, printed p. 167 |
 | Venezuela — Armonía: harmony — the combination of sounds creating the music's tensions, consonances and dissonances (student book; original target `music/harmony`) | Book 3, printed p. 78 |
 
-**Acceptance count: taught in 2 countries (Brazil, Venezuela).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 4:** *Panduan Guru Seni Musik untuk SD/MI Kelas IV (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-388-0 (jil.4 PDF). Grade: 4 (student/teacher: TEACHER). PDF pages: 272 (cover/title page verified against the record title; record size 4,790,947 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment techniques tables in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab III, Kegiatan 3–4 — simple harmony and the primary chords, and harmonising a children's song in ensemble format (teacher guide — evidence; original target `music/simple-harmony-and-primary-chords`) | Book 4, printed p. 154 |
+
+**Acceptance count: taught in 2 countries (Brazil, Venezuela).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/chords-and-harmony`); the placement(s) were filed as NEW LESSON NEEDED under the original string(s) `music/harmony-melody-and-polyphony`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Brazil's own way is kept as named parts, exactly as its book teaches it. Songs and stories are placed by summary only, never transcribed.
 

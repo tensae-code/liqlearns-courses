@@ -1,6 +1,6 @@
 # Sources — Elements of Drama
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Sri Lanka, Cuba, Venezuela
+countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Sri Lanka, Cuba, Venezuela, Indonesia
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -46,7 +46,13 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil,
 | Morocco — "I Express by Delivery and Movement" (أعبر بالإلقاء والحركة), kinds of dialogue — theatrical dialogue is three kinds — internal (the monologue), between two people, and group dialogue (slug first proposed in the Grade 3 filing) (teacher guide — evidence; original target `drama-and-dance/kinds-of-dialogue`) | Book 9, printed p. 56 |
 | Venezuela — La acción: dramatic action — what happens between the characters, held by a conflict of two opposing forces that must find a solution (student book) | Book 12, printed p. 86 |
 
-**Acceptance count: taught in 4 countries (Iran, Brazil, Cuba, Venezuela).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 13:** *Panduan Guru Seni Teater untuk SD/MI Kelas VI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3165-2 (jil.6 PDF). Grade: 6 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 5,014,706 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment instruments/anecdotal-note apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 2 Menulis Lakon — what a lakon (play) is and its function, and the elements that form a lakon (teacher guide — evidence; original target `drama-and-dance/elements-of-drama`) | Book 13, printed p. 85 |
+
+**Acceptance count: taught in 4 countries (Iran, Brazil, Cuba, Venezuela).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The element list is the guide's own (printed pp. 54–56), given whole; nothing is added to it or taken from it.
 

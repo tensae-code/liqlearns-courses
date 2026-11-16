@@ -1,6 +1,6 @@
 # Sources — Illustration and Book Design
 
-countries: Belarus, Bulgaria, Sri Lanka, Afghanistan, Rwanda
+countries: Belarus, Bulgaria, Sri Lanka, Afghanistan, Rwanda, Indonesia
 
 **Book 1:** *Выяўленчае мастацтва. 5 клас (Fine Arts, Grade 5)* (student book, Belarusian) — Belarus, Нацыянальны інстытут адукацыі (National Institute of Education), Minsk; year 2009; ISBN 978-985-465-593-2; authors М. І. Касабуцкі (M. I. Kasabutski), В. М. Касабуцкі (V. M. Kasabutski); approved by the Ministry of Education of the Republic of Belarus. Title as printed: ВЫЯЎЛЕНЧАЕ МАСТАЦТВА — Вучэбны дапаможнік для 5 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання. Для работы ў класе (Fine Arts — textbook for Grade 5, for work in class). Grade 5 (student book: STUDENT). PDF pages: 96 (imprint title verified against the record; byte size 7,948,218). Verdict: COMPLETE — read in full from the downloaded file's text layer, page by page through all 28 numbered sections (contents verified at printed p. 94); the "Пытанні і творчыя заданні" (questions and creative tasks) pages are named here as apparatus and not placed separately. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
@@ -15,7 +15,13 @@ countries: Belarus, Bulgaria, Sri Lanka, Afghanistan, Rwanda
 | Rwanda — Unit 3 §3.2.3: Illustrations or images — using images together with letters to create more meaning in a design (sign posts, cards, books), making designs attractive and creative (student book; original target `visual-art/illustration-in-graphic-design`) | Book 5, printed p. 34 |
 
 
-**Acceptance count: taught in 4 countries (Belarus, Bulgaria, Afghanistan, Rwanda).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 6:** *Dasar-Dasar Literasi, Matematika, Sains, Teknologi, Rekayasa, dan Seni — Panduan Guru PAUD/TK Fase Fondasi (Kurikulum Merdeka, Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023 (Edisi Revisi); ISBN 978-623-118-096-4 (PDF). Grade: nursery (PAUD/TK, Fase Fondasi) (student/teacher: TEACHER). PDF pages: 168 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 6,165,364 bytes, exactly the record's recorded size_bytes — and the tree absence is logged as a candidate phantom push). Verdict: PARTIAL (by scope) — this is a combined six-strand foundation guide; only its Seni (art) strand is placed here. Non-art parts named, not placed: Bab 2 scope sections Literasi printed p. 25, Matematika printed p. 41, Sains printed p. 57, Teknologi printed p. 61, Rekayasa printed p. 66; Bab 3 (printed p. 89) is general PAUD learning design for all six strands.. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 2, Cara Membangun Kemampuan — painting sparked by a story — a storybook read aloud used as the trigger (pemantik) for children's painting exploration (teacher guide — evidence; original target `visual-art/painting-inspired-by-stories`) | Book 6, printed p. 81 |
+
+**Acceptance count: taught in 4 countries (Belarus, Bulgaria, Afghanistan, Rwanda).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/illustration-and-book-design`). The Belarus placement(s) were filed under the original string(s) `visual-art/stylising-shapes`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 

@@ -1,6 +1,6 @@
 # Sources — Looking at Pictures
 
-countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwanda, Moldova
+countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwanda, Moldova, Indonesia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -71,7 +71,13 @@ countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwa
 |---|---|
 | Moldova — Unit II §11, Mesajul operei de artă — narrative images, which show a scene plainly, against suggestive images, which hide an idea: the Japanese gyotaku fish print beside Brâncuși's "Big Fish"; and the two roads of the viewer — deciphering the author's message, or finding one's own feelings reflected (student book; original target `first-steps/looking-at-pictures`) | Book 16, printed pp. 33–34 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Honduras, Finland, Mongolia, Moldova). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 17:** *Panduan Guru Seni Rupa untuk SD/MI Kelas III (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3152-2 (jil.3 PDF). Grade: 3 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 7,791,771 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment/reflection apparatus in every Bab (no teaching content); no separate glossary section printed in this guide (art vocabulary is taught inside Bab II and placed there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II Bicara Tentang Karya — talking about artworks — the basic art vocabulary (point, line, shape, form, colour) and the expression words a work can carry (cheerful, calm, crowded, dark, warm), with positive comments on friends' work (teacher guide — evidence; original target `first-steps/looking-at-pictures`) | Book 17, printed p. 102 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Honduras, Finland, Mongolia, Moldova). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 1 rests on the Grade 1 teacher guide's named visual-perception skill and is labelled teacher-guide evidence in the table; the lesson as a whole also rests on the student book's §1.5, so the acceptance count below counts the student book. The four family scenes are the student book's own §1.5 picture pages, described — not reproduced.
 

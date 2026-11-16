@@ -1,6 +1,6 @@
 # Sources — Playing a Person
 
-countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Venezuela, Malaysia
+countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Venezuela, Malaysia, Indonesia
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -77,7 +77,37 @@ countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guine
 |---|---|
 | Malaysia — Unit 1.3 Lakonan Watak — the character-acting process: the process of building a character step by step (student book; original target `drama-and-dance/playing-a-person`) | Book 18, printed pp. 30–43 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Romania, Colombia, Brazil, Jordan, Venezuela, Malaysia).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 19:** *Panduan Guru Seni Teater untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-404-7 (jil.1 PDF). Grade: 1 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 10,117,753 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route 404, see group log library debts). Verdict: COMPLETE. Excluded: assessment instruments/reflection tables in every Bab (no teaching content); no glossary printed as a separate section in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV Berkreasi dan Berkolaborasi, Kegiatan 1 — imitating a character (menirukan karakter) from a story read and expressed (teacher guide — evidence; original target `drama-and-dance/playing-a-person`) | Book 19, printed p. 201 |
+
+**Book 20:** *Panduan Guru Seni Teater untuk SD/MI Kelas II (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-153-1 (jil.2 PDF). Grade: 2 (student/teacher: TEACHER). PDF pages: 192 (cover/title page verified against the record title; record size 23,652,816 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment rubrics in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I — imitating a character (menirukan karakter) (teacher guide — evidence; original target `drama-and-dance/playing-a-person`) | Book 20, printed p. 24 |
+
+**Book 21:** *Panduan Guru Seni Teater untuk SD/MI Kelas III (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3164-5 (jil.3 PDF). Grade: 3 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 5,152,128 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 1 — knowing the kinds of characters (ragam karakter tokoh) and showing a character with one's own body and voice, using character cards (kartu tokoh) (teacher guide — evidence; original target `drama-and-dance/playing-a-person`) | Book 21, printed p. 29 |
+
+**Book 22:** *Panduan Guru Seni Teater untuk SD/MI Kelas IV (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-405-4 (jil.4 PDF). Grade: 4 (student/teacher: TEACHER). PDF pages: 272 (cover/title page verified against the record title; record size 10,382,483 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment instruments/reflection tables in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II Bermain Peran dari Cerita Kehidupan Sehari-hari — playing human characters from daily-life stories — dialogue, body movement, voice, and one's own and others' emotions; guessing and acting the dialogue and movements of daily activities (teacher guide — evidence; original target `drama-and-dance/playing-a-person`) | Book 22, printed p. 89 |
+
+**Book 23:** *Panduan Guru Seni Teater untuk SD/MI Kelas VI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3165-2 (jil.6 PDF). Grade: 6 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 5,014,706 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment instruments/anecdotal-note apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 3 Mewujudkan Tokoh — realising a character — the character's profile, showing the character, and understanding action and reaction (aksi–reaksi) (teacher guide — evidence; original target `drama-and-dance/playing-a-person`) | Book 23, printed p. 149 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Romania, Colombia, Brazil, Jordan, Venezuela, Malaysia).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Book error, taught corrected: the Grade 2 book mislabels the artist's activity as ተግባር 2.3.1 (a publisher numbering error, flagged in the placement); the lesson follows the roles' printed order (§§2.3–2.3.6), not the faulty activity number. The teacher's praise song ንኢር መምህሬ (Nur Mehire) shares §2.3.4 with the teacher role; the song itself is stocked in the Music lessons and is named here only, not taught as a song.
 

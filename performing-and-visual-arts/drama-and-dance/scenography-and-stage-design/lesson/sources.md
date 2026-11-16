@@ -1,6 +1,6 @@
 # Sources — Scenography and Stage Design
 
-countries: Serbia, Brazil, Bulgaria, Venezuela, Malaysia
+countries: Serbia, Brazil, Bulgaria, Venezuela, Malaysia, Indonesia
 
 **Book 1:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -39,7 +39,19 @@ countries: Serbia, Brazil, Bulgaria, Venezuela, Malaysia
 |---|---|
 | Malaysia — Unit 6 Sinografi Tari — dance scenography, third year (filed under the Book 11 lesson slug) (student book; original target `drama-and-dance/dance-scenography`) | Book 8, printed p. 134 |
 
-**Acceptance count: taught in 5 countries (Serbia, Brazil, Bulgaria, Venezuela, Malaysia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 9:** *Buku Panduan Guru Seni Tari untuk SD/MI Kelas VI* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022 (Cetakan Pertama / first edition — NOT Edisi Revisi); ISBN 978-602-244-840-2 (jil.6). Grade: 6 (student/teacher: TEACHER). PDF pages: 304 (cover/title page verified against the record title; record size 110,341,216 bytes and record page count 304 matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log. Scanned image-only PDF — pdftotext yields 304 characters total — read visually via 100-DPI contact sheets: contents, figure and table lists, and every unit's opening and procedure sheets). Verdict: COMPLETE. Excluded: assessment/reflection apparatus in every Unit (no teaching content); Glosarium (printed p. 268) — glossary, inventory-only per standing exclusions, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Unit 3 — dance properties by function — set properties (a spread of cloth, a stack of boxes) and hand properties (gondewa bow, dance staff, wings) — colouring a property before and after, and performance lighting (pencahayaan) (teacher guide — evidence; original target `drama-and-dance/dance-properties-and-stage-lighting`) | Book 9, printed p. 178 |
+
+**Book 10:** *Panduan Guru Seni Teater untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-409-2 (jil.1 PDF). Grade: 7 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; the record gives no size/pages for Grade 7 — verification by cover and pdfinfo; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab V Merancang Tata Artistik Panggung Teater — designing the stage's artistic arrangement — analysing and noting the script's needs (property, lighting, make-up), sketching the stage design, then building the stage background with its full artistic arrangement (teacher guide — evidence; original target `drama-and-dance/stage-artistic-design`) | Book 10, printed p. 201 |
+
+**Acceptance count: taught in 5 countries (Serbia, Brazil, Bulgaria, Venezuela, Malaysia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/scenography-and-stage-design`); the Serbia placements were filed under the original string(s) `drama-and-dance/stage-space-and-scenography`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: scenography is taught from the Greek open stage at Epidaurus, where nature completed the set, to the child's own group-built stage of foils, fabrics, mirrors and LED strips.
 

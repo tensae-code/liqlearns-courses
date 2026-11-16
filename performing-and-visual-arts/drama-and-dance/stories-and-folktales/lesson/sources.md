@@ -1,6 +1,6 @@
 # Sources — Stories and Folktales
 
-countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil, Morocco, Libya, Venezuela, Mongolia
+countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil, Morocco, Libya, Venezuela, Mongolia, Indonesia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -56,7 +56,37 @@ countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Surin
 | Mongolia — Үлгэр зохиоё (Let's compose a fairy tale) — a four-panel picture story (a chick, a fox and a bear in the rain, a mushroom house) with footprint trails: telling the tale aloud and imitating each animal's gait on the simple instruments (student book; original target `drama-and-dance/stories-and-folktales`) | Book 13, printed p. 21 |
 | Mongolia — Туулай, зараа хоёр (The hare and the hedgehog), composing Exercise 5 — observing the pictures and composing a tale on the two animals: how did their walking change; listening to the music with attention and finding the picture that matches it (student book; original target `drama-and-dance/stories-and-folktales`) | Book 13, printed p. 36 |
 
-**Acceptance count: taught in 6 countries(Ethiopia, Finland, Fiji, Brazil, Venezuela, Mongolia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 14:** *Panduan Guru Seni Teater untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-404-7 (jil.1 PDF). Grade: 1 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 10,117,753 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route 404, see group log library debts). Verdict: COMPLETE. Excluded: assessment instruments/reflection tables in every Bab (no teaching content); no glossary printed as a separate section in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab III Serunya Bermain Pantomim, Kegiatan 1 — storytelling technique (teknik bercerita) — acting out a story with expression (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 14, printed p. 141 |
+
+**Book 15:** *Panduan Guru Seni Teater untuk SD/MI Kelas II (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-153-1 (jil.2 PDF). Grade: 2 (student/teacher: TEACHER). PDF pages: 192 (cover/title page verified against the record title; record size 23,652,816 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment rubrics in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV Bercerita — storytelling (bercerita/berkisah) — its vocabulary, story flow, expression and emotion (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 15, printed p. 127 |
+
+**Book 16:** *Panduan Guru Seni Teater untuk SD/MI Kelas III (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3164-5 (jil.3 PDF). Grade: 3 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 5,152,128 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 2 Aku Penulis Cerita — the elements of a story (character, setting, plot) and writing a simple story with a clear beginning, middle and end (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 16, printed p. 97 |
+
+**Book 17:** *Panduan Guru Seni Teater untuk SD/MI Kelas IV (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-405-4 (jil.4 PDF). Grade: 4 (student/teacher: TEACHER). PDF pages: 272 (cover/title page verified against the record title; record size 10,382,483 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment instruments/reflection tables in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I, Kegiatan 3 Mendongeng — storytelling (mendongeng) (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 17, printed p. 36 |
+
+**Book 18:** *Panduan Guru Seni Teater untuk SD/MI Kelas V (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-154-8 (jil.5 PDF). Grade: 5 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 4,732,864 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I — storytelling (mendongeng) — narrative structure, vocabulary and emotional expression in telling (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 18, printed p. 20 |
+
+**Acceptance count: taught in 6 countries(Ethiopia, Finland, Fiji, Brazil, Venezuela, Mongolia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 All three stories are taught as PLOT SUMMARY ONLY, exactly as the placements give them — no sentence of the books' text is reproduced. The Grade 1 and Grade 2 teacher guides' tales-and-riddles placements (g01-teacher p. 47 §3.3; g02-teacher pp. 46–48 §3.3) name tales and riddles as theatre's roots; that framing is carried in this lesson's plan level line and in the Riddles lesson, labelled there as teacher-guide evidence, and does not change this lesson's pupil-book count.
 

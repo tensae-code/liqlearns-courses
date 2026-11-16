@@ -1,6 +1,6 @@
 # Sources — Our Own Dances and Plays
 
-countries: Ethiopia, Suriname
+countries: Ethiopia, Suriname, Indonesia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2014 E.C., printed pp. i–ii + body/syllabus to printed p. 80. Printed page = PDF page − 6 in the body. This guide is a scan with no text layer; it was read visually at section level, so its parts are cited at section level only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
 
@@ -15,7 +15,13 @@ countries: Ethiopia, Suriname
 | Suriname — Dance Les 5–6 "De generale presentatie" and "De presentatie" — bringing your own group dance to performance — the general presentation, where each dancer's own route is danced alone once, then in duos, then gradually with the whole group, learning each other's routes; and the final presentation, joining everything a performance needs — dance sentence, music, and the placing of stage and audience — and reflecting on the learning afterwards (teacher guide — evidence) | Book 2, printed pp. 79–83 |
 | Suriname — Dance Les 5–6 "De generale" (The Dress Rehearsal) and "De eindpresentatie" (The Final Presentation) — bringing the co-created group dance to performance — rehearsal, then the final presentation with the groups' names and title or slogan written on big sheets hung up for the audience, and the closing reflection written as a travel report (reisverslag) of the whole series and of the dance route itself (teacher guide — evidence) | Book 3, printed pp. 81–86 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 4:** *Panduan Guru Seni Tari untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-422-1 (jil.1 PDF; complete-set ISBN 978-623-118-421-4 also printed). Grade: 1 (student/teacher: TEACHER). PDF pages: 264 (cover/title page verified against the record title; record size 4,552,374 bytes matched). Verdict: COMPLETE. Excluded: Glosarium (inventory-only, named in front matter), Asesmen / rubrics and Pengayaan-Remedial tables (no new teaching content). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I, Kegiatan 5–6 — exploring dance movement from the child's own ideas and discussing the thinking behind a movement idea (teacher guide — evidence; original target `drama-and-dance/our-own-dances-and-plays`) | Book 4, printed p. 67 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 teacher guide is a scan with no text layer, read visually at section level; this lesson cites §2.2 (printed p. 30) and §2.3 (printed p. 32) at section level only, exactly as the placements direct.
 

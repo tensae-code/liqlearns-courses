@@ -1,6 +1,6 @@
 # Sources — Modern Instruments
 
-countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, Bolivia, Malaysia
+countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, Bolivia, Malaysia, Indonesia
 
 **Book 1:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 
@@ -64,7 +64,19 @@ countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, B
 |---|---|
 | Malaysia — Unit 2 Ensembel Alat Muzik — seven graded instrumental-ensemble sets across genres, closing with ensemble guitar playing (student book; original target `music/modern-instruments`) | Book 14, printed pp. 40–73 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Angola, Bolivia, Malaysia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 15:** *Panduan Guru Seni Musik untuk SMP/MTs Kelas IX (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025 (Edisi Revisi); ISBN 978-634-00-3147-8 (jil.3 PDF). Grade: 9 (student/teacher: TEACHER). PDF pages: 256 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Sumatif and Kunci Jawaban in each chapter (assessment/answer keys); Glosarium printed p. 225 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab V Bermain Alat Musik — playing acoustic guitar — finger-picking (petikan) technique on the classical/acoustic guitar (teacher guide — evidence; original target `music/modern-instruments`) | Book 15, printed p. 198 |
+
+**Book 16:** *Panduan Guru Seni Musik untuk SMA/MA Kelas XII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025 (Edisi Revisi); ISBN 978-634-00-3149-2 (jil.3 PDF). Grade: 12 (student/teacher: TEACHER). PDF pages: 208 (cover/title page verified against the record title; the grab.py tree copy arrived truncated — repo 3,829,634 bytes vs 3,619,706 received — so the book was read from the record's recorded ministry source_url, whose file is exactly 3,829,634 bytes, matching the repo record byte for byte). Verdict: COMPLETE. Excluded: Sumatif and Kunci Jawaban in each chapter (assessment/answer keys); Glosarium printed p. 175 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I Keterampilan Bermusik — musicianship skills — correct guitar playing technique and cajon (box percussion) technique, and writing notation with music software (teacher guide — evidence; original target `music/modern-instruments`) | Book 16, printed p. 15 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Angola, Bolivia, Malaysia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Modern instruments are treated at the level the Grade 8 placements carry them — the book treats traditional and modern families exhaustively; the sound-role pairings follow the book's family order. No brand names or models are introduced.
 

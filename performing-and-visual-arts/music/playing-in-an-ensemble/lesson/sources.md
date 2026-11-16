@@ -1,6 +1,6 @@
 # Sources — Playing in an Ensemble
 
-countries: Fiji, Suriname, Malaysia
+countries: Fiji, Suriname, Malaysia, Indonesia
 
 **Book 1:** *Performing Arts — Music Is Fun, Year 8* (student workbook, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 8, 18 PDF pp. STUDENT — copyright page names it a Student Workbook. Verdict: COMPLETE (image-heavy book read visually, page by page). Fiji's own way: the elements of music become tools of expression and judgement, and the year ends by turning Fiji's inherited stories — myths, legends, folklore — into drama with song, dance and instruments woven in. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md.
 
@@ -38,7 +38,52 @@ countries: Fiji, Suriname, Malaysia
 |---|---|
 | Malaysia — Units 4–6 Orkestra Mini — mini-orchestra repertoire Tari Tualang Tiga and Yue Liang Dai Biao Wo De Xin (filed under the Book 4 lesson slug) (student book; original target `music/mini-orchestra-ensemble`) | Book 7, printed pp. 66, 99 |
 
-**Acceptance count: taught in 2 country (Fiji, Malaysia).** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 8:** *Panduan Guru Seni Musik untuk SD/MI Kelas II (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-320-7 (jil.2 PDF). Grade: 2 (student/teacher: TEACHER). PDF pages: 240 (cover/title page verified against the record title; record size 13,695,258 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: Glosarium p.213 and Indeks p.215 (inventory-only), Uji Kompetensi/reflection sections (no teaching content). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab V — ensemble playing — rhythmic parts (body, conventional instruments, things from the surroundings) and melodic parts together, keeping time with a metronome, in songs in 2/4, 3/4 and 4/4 (teacher guide — evidence; original target `music/playing-in-an-ensemble`) | Book 8, printed p. 171 |
+
+**Book 9:** *Panduan Guru Seni Musik untuk SD/MI Kelas IV (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-388-0 (jil.4 PDF). Grade: 4 (student/teacher: TEACHER). PDF pages: 272 (cover/title page verified against the record title; record size 4,790,947 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment techniques tables in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I, Kegiatan 4 — a rhythmic music ensemble (ensambel musik ritmis) (teacher guide — evidence; original target `music/playing-in-an-ensemble`) | Book 9, printed p. 28 |
+| Indonesia — Bab IV, Kegiatan 4 Tampilkan Kreasi Musikmu — presenting the class's created music as an ensemble performance (teacher guide — evidence; original target `music/playing-in-an-ensemble`) | Book 9, printed p. 226 |
+
+**Book 10:** *Panduan Guru Seni Musik untuk SD/MI Kelas VI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3145-4 (jil.6 PDF). Grade: 6 (student/teacher: TEACHER). PDF pages: 256 (cover/title page verified against the record title; record size 5,271,324 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment/reflection apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 2 Bermain Alat Musik — the ensemble — same-kind and mixed ensembles — and each instrument's function inside it (rhythmic, harmonic, melodic), playing together in one rhythm (Bersatu dalam Irama) (teacher guide — evidence; original target `music/playing-in-an-ensemble`) | Book 10, printed p. 73 |
+
+**Book 11:** *Panduan Guru Seni Musik untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-501-3 (jil.1 PDF). Grade: 7 (student/teacher: TEACHER). PDF pages: 272 (cover/title page verified against the record title; the record gives no size/pages for Grade 7 — verification by cover and pdfinfo; read from the record's recorded ministry source_url — grab.py tree route failing, see group log. Note: the first download was truncated by a dropped connection (curl rc 18) and wrongly showed as an empty-text file; a resume download completed it at 26,750,685 bytes and the book has a full text layer — it is NOT a scanned book.). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); songs placed as summaries only, never lyrics; no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV Bermain Ensambel — playing in an ensemble (teacher guide — evidence; original target `music/playing-in-an-ensemble`) | Book 11, printed p. 189 |
+
+**Book 12:** *Panduan Guru Seni Musik untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-562-1 (jil.2 PDF). Grade: 8 (student/teacher: TEACHER). PDF pages: 248 (cover/title page verified against the record title; the record gives no size/pages for Grade 8 — verification by cover and pdfinfo; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); songs placed as summaries only, never lyrics; no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II — simple group music-making with a traditional nuance — surrounding objects used as substitute instruments, and body percussion (perkusi tubuh) technique played in groups (teacher guide — evidence; original target `music/playing-in-an-ensemble`) | Book 12, printed p. 83 |
+
+**Book 13:** *Panduan Guru Seni Musik untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024 (Edisi Revisi); ISBN 978-623-118-524-2 (no.jil.lengkap). Grade: 11 (student/teacher: TEACHER). PDF pages: 288 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 28,103,494 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Asesmen Sumatif in each chapter (assessment only); Glosarium printed p. 259 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab III Menyajikan Musik — presenting music — performing for an audience, including presenting a youth ensemble (ansambel remaja), also with foreign repertoire (teacher guide — evidence; original target `music/presenting-a-music-ensemble`) | Book 13, printed p. 133 |
+
+**Book 14:** *Panduan Guru Seni Musik untuk SMA/MA Kelas XII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025 (Edisi Revisi); ISBN 978-634-00-3149-2 (jil.3 PDF). Grade: 12 (student/teacher: TEACHER). PDF pages: 208 (cover/title page verified against the record title; the grab.py tree copy arrived truncated — repo 3,829,634 bytes vs 3,619,706 received — so the book was read from the record's recorded ministry source_url, whose file is exactly 3,829,634 bytes, matching the repo record byte for byte). Verdict: COMPLETE. Excluded: Sumatif and Kunci Jawaban in each chapter (assessment/answer keys); Glosarium printed p. 175 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I — presenting a music ensemble (ansambel musik) from theoretical understanding and practical experience (teacher guide — evidence; original target `music/presenting-a-music-ensemble`) | Book 14, printed p. 22 |
+| Indonesia — Bab II Karya Kolaborasi — a collaborative music work — creating music together across players and parts (teacher guide — evidence; original target `music/collaborative-music-making`) | Book 14, printed p. 77 |
+| Indonesia — Bab III Penyajian dan Pendokumentasian Karya Kolaborasi — presenting and documenting the collaborative work — performing it publicly and recording it for keeping (teacher guide — evidence; original target `music/collaborative-music-making`) | Book 14, printed p. 115 |
+
+**Acceptance count: taught in 2 country (Fiji, Malaysia).** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/playing-in-an-ensemble`); the Fiji placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by name, purpose and summary only — never transcribed.
 

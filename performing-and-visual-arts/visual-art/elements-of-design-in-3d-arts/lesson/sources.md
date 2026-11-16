@@ -1,6 +1,6 @@
 # Sources — Elements of Design in 3D Arts
 
-countries: Ethiopia, Maldives, Mozambique, Libya, Venezuela, Angola, Bolivia, Malaysia
+countries: Ethiopia, Maldives, Mozambique, Libya, Venezuela, Angola, Bolivia, Malaysia, Indonesia
 
 **Book 1:** *Performing and Visual Arts, Teacher's Guide Book, Grade 8* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau (March 2022). Writers: Bareke Tadesse, Gizachew Tasew, Daniel Sisay, Ashenafi Nigussie. 68 PDF pages; printed page = PDF page − 8 in the body. The secured copy is TRUNCATED (body printed pp. 1–56 held, then syllabus only) — this lesson's part is Unit 1, inside the body held. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -47,7 +47,19 @@ countries: Ethiopia, Maldives, Mozambique, Libya, Venezuela, Angola, Bolivia, Ma
 |---|---|
 | Malaysia — Unit 9 Kota Ceria — the diorama: a 3D miniature scene; choosing theme and situation, building the background, modelling clay figures, origami and a model car, and arranging objects back-to-front (student book; original target `visual-art/elements-of-design-in-3d-arts`) | Book 11, printed pp. 84–89 |
 
-**Acceptance count: taught in 6 countries (Maldives, Mozambique, Venezuela, Angola, Bolivia, Malaysia).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 12:** *Buku Panduan Guru Dasar-Dasar Seni Rupa untuk SMK/MAK Kelas X* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-194-433-7 (jil.1 PDF). Grade: 10 (student/teacher: TEACHER). PDF pages: 320 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Asesmen Akhir and Kunci Jawaban in each chapter (assessment/answer keys). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 9 Desain Dasar Tiga Dimensional — basic three-dimensional design — form, mass and space in 3D work (teacher guide — evidence; original target `visual-art/elements-of-design-in-3d-arts`) | Book 12, printed p. 251 |
+
+**Book 13:** *Dasar-Dasar Seni Rupa untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-194-552-5 (jil.2 PDF). Grade: 10 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: end-of-chapter exercises (assessment only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB 3 Desain Dasar Tiga Dimensional — basic three-dimensional design — the visual elements and organising principles carried into 3D materials and design (student book; original target `visual-art/elements-of-design-in-3d-arts`) | Book 13, printed p. 109 |
+
+**Acceptance count: taught in 7 countries (Maldives, Mozambique, Venezuela, Angola, Bolivia, Malaysia, Indonesia).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as student-book stock (see its rows above), inside the acceptance count; Indonesia's teacher-guide rows in this lesson are evidence.
 
 Honesty notes: This lesson rests ONLY on the Grade 8 teacher's guide (Addis Ababa City Administration Education Bureau, March 2022). The secured copy of that guide is truncated — its body runs to printed p. 56 — but this lesson's part is Unit 1 (printed pp. 11–12), inside the body held, and is NOT evidence-limited in that sense; it is still teacher-guide evidence and labelled so. The placements file summarises the item by its topic list; the lesson teaches at exactly that level and invents no definitions beyond the placement's own words (line made of points, dynamic, expressing gesture/direction, activating surrounding space; shape as 2D enclosed area, geometric or organic).
 

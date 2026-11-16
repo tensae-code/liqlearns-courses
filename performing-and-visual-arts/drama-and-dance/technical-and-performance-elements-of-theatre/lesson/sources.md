@@ -1,6 +1,6 @@
 # Sources — Technical and Performance Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil, Jordan, Sri Lanka, Venezuela, Malaysia
+countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil, Jordan, Sri Lanka, Venezuela, Malaysia, Indonesia
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -67,7 +67,50 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Fin
 |---|---|
 | Malaysia — Unit 3.1 Sinografi dalam Produksi — scenography: stage, set and props introduced (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 20, printed pp. 84–96 |
 
-**Acceptance count: taught in 10 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil, Jordan, Venezuela, Malaysia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 21:** *Panduan Guru Seni Teater untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-404-7 (jil.1 PDF). Grade: 1 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 10,117,753 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route 404, see group log library debts). Verdict: COMPLETE. Excluded: assessment instruments/reflection tables in every Bab (no teaching content); no glossary printed as a separate section in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I — the actor's three trainings — facial expression (ekspresi wajah), body exercise and movement (olah tubuh dan gerak), and voice exercise (olah vokal/suara) — practised through the mirror-expression game (bermain cermin ekspresi) (teacher guide — evidence; original target `drama-and-dance/facial-expression-body-and-voice-training`) | Book 21, printed p. 24 |
+
+**Book 22:** *Panduan Guru Seni Teater untuk SD/MI Kelas II (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-153-1 (jil.2 PDF). Grade: 2 (student/teacher: TEACHER). PDF pages: 192 (cover/title page verified against the record title; record size 23,652,816 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment rubrics in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I Bermain Suara — exploring voice and movement (eksplorasi suara dan gerak) by observing and imitating, working together (teacher guide — evidence; original target `drama-and-dance/facial-expression-body-and-voice-training`) | Book 22, printed p. 23 |
+
+**Book 23:** *Panduan Guru Seni Teater untuk SD/MI Kelas V (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-154-8 (jil.5 PDF). Grade: 5 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 4,732,864 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab I — body and voice work (olah tubuh dan suara) as the actor's basic training (teacher guide — evidence; original target `drama-and-dance/facial-expression-body-and-voice-training`) | Book 23, printed p. 20 |
+
+**Book 24:** *Panduan Guru Seni Teater untuk SD/MI Kelas VI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025 (Edisi Revisi); ISBN 978-634-00-3165-2 (jil.6 PDF). Grade: 6 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; record size 5,014,706 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: assessment instruments/anecdotal-note apparatus in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 1 Dasar-Dasar Pemeranan — the basics of acting — body exercise, voice exercise and feeling exercise (olah tubuh, vokal dan rasa) with imagination (teacher guide — evidence; original target `drama-and-dance/facial-expression-body-and-voice-training`) | Book 24, printed p. 25 |
+| Indonesia — Bab 4 — designing the artistic staging of a performance (merancang tata artistik pementasan) (teacher guide — evidence; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 24, printed p. 202 |
+
+**Book 25:** *Panduan Guru Seni Teater untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-257-6 (jil.2 PDF). Grade: 8 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Uji Kompetensi and Panduan Penilaian in each chapter (assessment only), Glosarium printed p. 251 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB IV Tata Artistik Panggung — stage artistry — set/setting, stage lighting, costume, make-up and properties designed and presented as one artistic whole (teacher guide — evidence; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 25, printed p. 199 |
+
+**Book 26:** *Dasar-Dasar Seni Pertunjukan untuk SMK/MAK Kelas X* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-194-437-5 (jil.1 PDF). Grade: 10 (student/teacher: STUDENT). PDF pages: 288 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Uji Kompetensi at each chapter end (assessment only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 4, I–J — arranging the performance stage (menata panggung) and arranging costume and make-up (kostum dan rias) for the show (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 26, printed p. 213 |
+
+**Book 27:** *Panduan Guru Seni Teater untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023 (Edisi Revisi); ISBN 978-623-118-417-7 (jil.1 PDF). Grade: 10 (student/teacher: TEACHER). PDF pages: 264 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 4,209,551 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Asesmen Sumatif in each chapter (assessment only); Glosarium printed p. 227 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab III Studi Keaktoran — the study of acting (keaktoran) — the actor's craft studied systematically: body, voice and character (teacher guide — evidence; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 27, printed p. 127 |
+
+**Acceptance count: taught in 11 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil, Jordan, Venezuela, Malaysia, Indonesia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as student-book stock (see its rows above), inside the acceptance count; Indonesia's teacher-guide rows in this lesson are evidence.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 10–11) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 

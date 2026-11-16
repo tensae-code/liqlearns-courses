@@ -1,6 +1,6 @@
 # Sources — Observing Our Surroundings
 
-countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova
+countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Indonesia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -67,7 +67,25 @@ countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Bel
 |---|---|
 | Moldova — Unit I §1.2, Relația om – spațiu — man inside nature: Friedrich's "Wanderer above the Sea of Fog", and the sketchbook habit of Leonardo and Dürer, who wandered picturesque places filling albums with nature's structures (student book; original target `first-steps/observing-our-surroundings`) | Book 17, printed p. 7 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 18:** *Panduan Guru Seni Rupa untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-516-7 (jil.1 PDF). Grade: 1 (student/teacher: TEACHER). PDF pages: 168 (cover/title page verified against the record title; record size 34,308,650 bytes matched exactly. NOTE: grab.py tree route returned 404 for this record's repo path — the seni-rupa folder is absent from the repo tree at grade-01/gov/indonesia/ — so the book was read from the record's own recorded ministry source_url, byte-size and page count verified; see group log, library debts.). Verdict: COMPLETE. Excluded: Glosarium Bab IV p.143 (inventory-only), Asesmen/rubrics and LKPD worksheets (no new teaching content). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab II Menceritakan Hasil Pengamatan — observing the visual elements — shape and colour — in the surroundings and retelling what was observed in everyday words (teacher guide — evidence; original target `first-steps/observing-our-surroundings`) | Book 18, printed p. 77 |
+
+**Book 19:** *Panduan Guru Seni Rupa untuk SD/MI Kelas II (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-155-5 (jil.2 PDF). Grade: 2 (student/teacher: TEACHER). PDF pages: 224 (cover/title page verified against the record title; record size 23,099,533 bytes matched exactly; read from the record's recorded ministry source_url — grab.py tree route failing, see group log). Verdict: COMPLETE. Excluded: Asesmen Sumatif and rubric tables in every Bab (no teaching content); no separate glossary section printed in this guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab III Menggali Ide untuk Berkarya — digging the idea for a work out of observing the environment, one's experience, feelings, hopes and interests, and telling the idea's source aloud, in writing or in a picture (teacher guide — evidence; original target `first-steps/observing-our-surroundings`) | Book 19, printed p. 83 |
+
+**Book 20:** *Panduan Guru Seni Rupa untuk SMA/MA Kelas XII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025 (Edisi Revisi); ISBN 978-634-00-3297-0 (jil.3 PDF). Grade: 12 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 6,586,693 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Sumatif and Kunci Jawaban in each chapter (assessment/answer keys); Glosarium printed p. 250 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB I Ekspedisi Visual — a visual expedition — going out to observe, record and gather visual material from the world as an artist's research (teacher guide — evidence; original target `visual-art/visual-expedition`) | Book 20, printed p. 32 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The definition of surroundings and the sound/movement distinction are the Grade 1 book's own Chapter 1 summary words (printed pp. 14–15), taught as the book states them. The teacher-guide row is evidence for the same watching skill and is labelled as such; the lesson's pupil-taught content rests on the student book.
 

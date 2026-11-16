@@ -1,6 +1,6 @@
 # Sources — Styles and Approaches in Theatre and Film
 
-countries: Ethiopia, Sri Lanka
+countries: Ethiopia, Sri Lanka, Indonesia
 
 **Book 1:** *Performing and Visual Arts Teacher Guide Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, printed pp. i–vi + 1–78. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
@@ -9,7 +9,25 @@ countries: Ethiopia, Sri Lanka
 | Sub lesson 1 — The concept of style in production (teacher guide — evidence) (teacher guide — evidence) | Grade 10 Teacher Guide, Lesson 10, printed pp. 11–14 |
 | Sub lesson 2 — Choosing an approach — deliberately (teacher guide — evidence) (teacher guide — evidence) | Grade 10 Teacher Guide, Lesson 10, printed pp. 11–14 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 3:** *Panduan Guru Seni Teater untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024 (Edisi Revisi); ISBN 978-623-388-257-6 (jil.2 PDF). Grade: 8 (student/teacher: TEACHER). PDF pages: 280 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Uji Kompetensi and Panduan Penilaian in each chapter (assessment only), Glosarium printed p. 251 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB II Perkenalan Teknik Teater Realis — realist theatre and Stanislavski's method — forming the actor through body and voice training (olah tubuh, olah vokal), emotion imitation, expression cards and becoming a character ("Aku Menjadi") (teacher guide — evidence; original target `drama-and-dance/styles-and-approaches-in-theatre-and-film`) | Book 3, printed p. 79 |
+
+**Book 4:** *Panduan Guru Seni Teater untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024 (Edisi Revisi); ISBN 978-623-388-322-1 (jil.2 PDF). Grade: 11 (student/teacher: TEACHER). PDF pages: 248 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 5,574,787 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Uji Kompetensi and Panduan Penilaian in each chapter (assessment only); Glosarium printed p. 215 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB IV Teater Kontemporer — contemporary theatre — its approaches and how it differs from the traditional stage (teacher guide — evidence; original target `drama-and-dance/styles-and-approaches-in-theatre-and-film`) | Book 4, printed p. 177 |
+
+**Book 5:** *Panduan Guru Seni Teater untuk SMA/MA Kelas XII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025 (Edisi Revisi); ISBN 978-634-00-3169-0 (jil.3 PDF). Grade: 12 (student/teacher: TEACHER). PDF pages: 320 (cover/title page verified against the record title; fetched via grab.py tree, size and SHA verified). Verdict: COMPLETE. Excluded: Sumatif and Kunci Jawaban in each chapter (assessment/answer keys); Glosarium printed p. 293 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 3 Teknik Pemeranan melalui Eksplorasi Pementasan Teater — acting technique explored through staging — discovering character and performance by exploring the staged production itself (teacher guide — evidence; original target `drama-and-dance/styles-and-approaches-in-theatre-and-film`) | Book 5, printed p. 158 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Grade 10 has NO student book; this lesson stands on the federal Grade 10 teacher guide (Lesson 10, printed pp. 11–14) as labelled evidence only. The guide's placement names the concept and scope — 'the major style approaches a production can take' — without enumerating a style list in the placement text, so this lesson teaches the concept and its working, and invents no named style list.
 

@@ -1,6 +1,6 @@
 # Sources — Shapes, Forms and Patterns in Colour
 
-countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia, Afghanistan, Rwanda, Bolivia, Moldova
+countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia, Afghanistan, Rwanda, Bolivia, Moldova, Indonesia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -114,7 +114,13 @@ countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fij
 |---|---|
 | Moldova — Unit II §3.3, Forme elaborate și spontane — flat forms are two-dimensional, volumetric forms three-dimensional; forms arise spontaneously, directed by the artist, or fully elaborated (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 28, printed p. 33 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan, Mongolia, Afghanistan, Rwanda, Bolivia, Moldova).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 29:** *Panduan Guru Seni Rupa untuk SD/MI Kelas I (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023 (Edisi Revisi); ISBN 978-623-118-516-7 (jil.1 PDF). Grade: 1 (student/teacher: TEACHER). PDF pages: 168 (cover/title page verified against the record title; record size 34,308,650 bytes matched exactly. NOTE: grab.py tree route returned 404 for this record's repo path — the seni-rupa folder is absent from the repo tree at grade-01/gov/indonesia/ — so the book was read from the record's own recorded ministry source_url, byte-size and page count verified; see group log, library debts.). Verdict: COMPLETE. Excluded: Glosarium Bab IV p.143 (inventory-only), Asesmen/rubrics and LKPD worksheets (no new teaching content). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV — drawing a favourite animal, folding and cutting coloured paper into new shapes, a geometric patchwork (quilt dari kain perca) picture, and decorating the letters of one's own name with line, shape and colour (teacher guide — evidence; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 29, printed p. 129 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan, Mongolia, Afghanistan, Rwanda, Bolivia, Moldova).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 teacher-guide part is cited at section level only (§§1.4–1.5, printed pp. 12–22) because that guide is a scan with no text layer and two of its contents entries are partly degraded in the scan — the placements say so, and the lesson claims no body wording from it. The fraction work is taught as the Grade 4 book's own question — into how many parts is the circle divided, and what fraction is the blue part — without importing a fraction curriculum from outside the placements.
 

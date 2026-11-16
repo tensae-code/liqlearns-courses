@@ -1,6 +1,6 @@
 # Sources — Careers and Business in the Arts
 
-countries: Haiti, Cuba, Bolivia, Malaysia
+countries: Haiti, Cuba, Bolivia, Malaysia, Indonesia
 
 **Book 1:** *EEA — Programme du 3e cycle (7e à 9e AF) — Éducation Esthétique et Artistique (EEA)* (teacher programme, French) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Direction Enseignement Fondamental (DEF), 2024 (« version définitive, 28 juillet 2024 » per the record; cover marked Tous Droits Réservés 2024–2025), no ISBN printed, Grades 7e à 9e AF combined, French, 63 PDF pp (3,278,166 bytes, matching the record's size_bytes). TEACHER — teacher programme. Verdict: COMPLETE — read in place in staging (cover verified against the record title — EEA programme cover, 3e cycle 7e à 9e AF). The common part for all subjects (PDF pp. 1–22) is out of scope and was not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
 
@@ -40,7 +40,33 @@ countries: Haiti, Cuba, Bolivia, Malaysia
 |---|---|
 | Malaysia — Bab 1–2 Asas Pengurusan Seni dan Asas Keusahawanan — the basics of art management and of entrepreneurship for the artist/designer (student book; original target `culture-and-values/art-management-and-entrepreneurship`) | Book 7, printed pp. 33, 102 |
 
-**Acceptance count: taught in 3 countries (Cuba, Bolivia, Malaysia). Earlier evidence-only entries stay outside the acceptance count.** Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 8:** *Buku Panduan Guru Dasar-Dasar Seni Pertunjukan untuk SMK/MAK Kelas X* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-194-394-1 (jil.1 PDF). Grade: 10 (student/teacher: TEACHER). PDF pages: 240 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Asesmen (diagnosis/formative/summative) and answer-scoring sections in each chapter (assessment only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 2 Peluang Bisnis Seni Pertunjukan — business opportunities in the performing arts — the work standards (SKKNI) and livelihoods of the music, dance and theatre fields (teacher guide — evidence; original target `first-steps/performing-arts-as-business`) | Book 8, printed p. 65 |
+| Indonesia — Bab 3 Teknologi Pembuatan dan Pemasaran Seni Pertunjukan — the technology of making and marketing performing arts — producing and promoting shows with modern tools, with traditional shows such as kuda lumping, reog Ponorogo, tari kecak, ketoprak and wayang as the working examples (teacher guide — evidence; original target `first-steps/performing-arts-as-business`) | Book 8, printed p. 113 |
+
+**Book 9:** *Dasar-Dasar Seni Pertunjukan untuk SMK/MAK Kelas X* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-194-437-5 (jil.1 PDF). Grade: 10 (student/teacher: STUDENT). PDF pages: 288 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Uji Kompetensi at each chapter end (assessment only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 2 Peluang Bisnis Seni Pertunjukan — the professions and work safety of the field, performance management, business opportunities and designing a performing-arts business (student book; original target `first-steps/performing-arts-as-business`) | Book 9, printed p. 97 |
+| Indonesia — Bab 3 Teknologi Pembuatan dan Pemasaran Seni Pertunjukan — technology for making performing arts, video-editing applications for performance, marketing technology, and designing a performance using technology (student book; original target `first-steps/performing-arts-as-business`) | Book 9, printed p. 143 |
+
+**Book 10:** *Panduan Guru Seni Musik untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023 (Edisi Revisi); ISBN 978-623-118-525-9 (jil.1 PDF). Grade: 10 (student/teacher: TEACHER). PDF pages: 296 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Asesmen Sumatif at each chapter end (assessment only); Glosarium printed p. 269 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV Manajemen Pertunjukan Musik — managing a music performance — the production management of a show (teacher guide — evidence; original target `first-steps/performing-arts-as-business`) | Book 10, printed p. 175 |
+
+**Book 11:** *Panduan Guru Seni Tari untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024 (Edisi Revisi); ISBN 978-623-388-176-0 (jil.2 PDF). Grade: 11 (student/teacher: TEACHER). PDF pages: 320 (cover/title page verified against the record title; grab.py tree returned 404 for the recorded repo path, so the book was read from the record's recorded ministry source_url — 16,342,448 bytes, complete — and the tree absence is logged as a candidate phantom push). Verdict: COMPLETE. Excluded: Uji Kompetensi (Asesmen Sumatif) and Asesmen Formatif rubrics (assessment only); Glosarium printed p. 281 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 3 — performance management (manajemen pertunjukan) — managing the production side of a dance performance (teacher guide — evidence; original target `first-steps/performing-arts-as-business`) | Book 11, printed p. 123 |
+
+**Acceptance count: taught in 4 countries (Cuba, Bolivia, Malaysia, Indonesia). Earlier evidence-only entries stay outside the acceptance count.** Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as student-book stock (see its rows above), inside the acceptance count; Indonesia's teacher-guide rows in this lesson are evidence.
 
 This is a canonical NEW lesson (slug-registry Part 1: `culture-and-values/careers-and-business-in-the-arts`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 

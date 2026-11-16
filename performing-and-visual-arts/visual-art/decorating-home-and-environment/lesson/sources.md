@@ -1,6 +1,6 @@
 # Sources — Decorating Home and Environment
 
-countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba, Bolivia, Malaysia
+countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba, Bolivia, Malaysia, Indonesia
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors ማስተዋል ጌታ ማስረሻ (Mastewal Geta Masresha) and ዮሐንስ ታደሰ በትሬ (Yohannes Tadesse Betre). Printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -50,7 +50,19 @@ countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba, Bolivia,
 |---|---|
 | Malaysia — Tajuk 6 Reka Bentuk Dalaman — interior design: the interior designer's prospects and direction (student book; original target `visual-art/decorating-home-and-environment`) | Book 11, printed pp. 120–134 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Finland, Turkmenistan, Belarus, Iran, Malaysia).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 12:** *Buku Panduan Guru Seni Rupa untuk SMP/MTs Kelas IX* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-244-645-3 (jil.3). Grade: 9 (student/teacher: TEACHER). PDF pages: 192 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: assessment/strategy sections of Panduan Umum; Glosarium printed p. 166 (inventory-only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Unit 2, Subunit 2 — designing decoration for an exhibition or performance space (teacher guide — evidence; original target `visual-art/decorating-home-and-environment`) | Book 12, printed p. 122 |
+
+**Book 13:** *Buku Panduan Guru Prakarya dan Kewirausahaan: Kerajinan untuk SMA/MA Kelas X* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-244-903-4 (jil.1). Grade: 10 (student/teacher: TEACHER). PDF pages: 248 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Asesmen sections (assessment only); the student-journal and design-sheet grading examples in Panduan Umum (apparatus only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Unit 2, Kegiatan 3 — making interior accessory products that decorate the home (teacher guide — evidence; original target `visual-art/decorating-home-and-environment`) | Book 13, printed p. 131 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Finland, Turkmenistan, Belarus, Iran, Malaysia).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: The book's two Chapter 5 figures (paths and garden places; the ceramic interior) are described in words only, never copied. The festival-and-rains beautifying, and the soils/cattle-products/ash "paint", are taught exactly as the placement records them.
 

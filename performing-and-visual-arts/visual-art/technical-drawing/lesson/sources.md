@@ -1,6 +1,6 @@
 # Sources — Technical Drawing
 
-countries: Mozambique, Pakistan, Cuba
+countries: Mozambique, Pakistan, Cuba, Indonesia
 
 **Book 1:** *Educação Visual — Módulo 2 (PESD I — Programa do Ensino Secundário à Distância, 1º Ciclo)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Moçambique, 2023; elaborated by Dionísio Manjate and Félix Mindú; no ISBN printed, Grades 7–9 (the PESD I cycle is taught as one combined cycle, not split by grade), 236 PDF pp. STUDENT. Verdict: COMPLETE (cover/title verified — "EDUCAÇÃO VISUAL, MÓDULO 2, PESD I"; 18,438,526 bytes, exact match to the record; fetched from GitHub Releases, mid-size-books-8). Mozambique's own way: Module 2 is a complete technical-drawing course for the lone distance learner — geometric construction, projections, axonometry, dimensioning and perspective taught as numbered step-by-step procedures, every construction tied to community carpentry, metalwork and building work. Named, not placed: the closing Bibliography (printed p. 234) — inventory only. Excluded per the placements: the end-of-module preparation test (Teste de Preparação de Fim do Módulo, printed pp. 218–225) and its answer key (printed pp. 226–233) — the book's own assessment; the lessons' exercises and answer keys are self-study apparatus. Book quirks, as filed: the printed contents contain no Lesson 31 — numbering jumps from Lesson 30 to Lesson 32 — although Lessons 32 and 33 cite a "Lesson 31" on complex plane forms in axonometry (that teaching is carried inside Lesson 30's sequence); two different lessons are both numbered 36 — one-point visual perspective (printed p. 153) and the third view of complex volumetric forms (printed p. 164); Lesson 28 is titled for plane forms but its worked example and summary treat three-dimensional forms; the basketry (cestaria) lesson announced in Module 1 appears in neither module. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mozambique-placements.md.
 
@@ -26,7 +26,19 @@ countries: Mozambique, Pakistan, Cuba
 | Pakistan — Chapter 4 — constructing triangles to order: on a given base with arcs from both ends; an isosceles triangle on a given base; a triangle from three given side lengths; a right-angled triangle; triangles with a 60° and a 120° angle; and a triangle inscribed in a circle with its tangent drawn (student book; original target `visual-art/geometrical-constructions`) | Book 2, printed pp. 35–37 |
 | Pakistan — Chapter 4 — four circles inside a square: the square is quartered by its diagonals, centres are found in each quarter, and four equal circles are drawn touching inside it (student book; original target `visual-art/geometrical-constructions`) | Book 2, printed p. 38 |
 
-**Acceptance count: taught in 3 countries (Mozambique, Pakistan, Cuba).**
+**Book 4:** *Buku Panduan Guru Dasar-Dasar Seni Rupa untuk SMK/MAK Kelas X* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-194-433-7 (jil.1 PDF). Grade: 10 (student/teacher: TEACHER). PDF pages: 320 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: Asesmen Akhir and Kunci Jawaban in each chapter (assessment/answer keys). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 8 Gambar Teknik — technical drawing — measured, convention-bound drawing used to specify objects for making (teacher guide — evidence; original target `visual-art/technical-drawing`) | Book 4, printed p. 221 |
+
+**Book 5:** *Dasar-Dasar Seni Rupa untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-194-552-5 (jil.2 PDF). Grade: 10 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded: end-of-chapter exercises (assessment only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — BAB 2 Gambar Teknik — technical drawing — its equipment and materials and the basics of projection drawing (student book; original target `visual-art/technical-drawing`) | Book 5, printed p. 53 |
+
+**Acceptance count: taught in 4 countries (Mozambique, Pakistan, Cuba, Indonesia).** Indonesia is added as student-book stock (see its rows above), inside the acceptance count; Indonesia's teacher-guide rows in this lesson are evidence.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/technical-drawing`); the Mozambique placements were filed under the original string(s) `visual-art/geometric-drawing`, `visual-art/architectural-arches`, `visual-art/orthogonal-projections`, `visual-art/axonometric-drawing` and `visual-art/dimensioning-a-drawing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Mozambique's own way: Module 2 is a complete technical-drawing course for the lone distance learner — every construction a numbered step-by-step procedure with ruler, compass, set square and protractor, tied to community carpentry, metalwork and building work. In this lesson's sources, Book 1 is Mozambique's Module 2 (the module is the lesson's Book 1).
 
