@@ -198,6 +198,19 @@ The titles, in ladder order:
    borders first and centre last; and airbrushing — spraying
    pigment with air, inky paint, masked sharp edges and
    fixative (Fiji student books).
+ The Art expansion added:
+   media wisdom and staying safe online — old, new and mass
+   media, using media critically, consciously, creatively and
+   actively against fake news, fake accounts and the hunger for
+   likes, and beeldtaal, image language, that can inform, seduce,
+   move or mislead (Suriname teacher guides, evidence); jewellery
+   making — a 3-D jewellery set from rest and natural materials
+   with rolling, threading, twisting and covering, each group
+   making one of Suriname's peoples' sets (Suriname teacher
+   guide, evidence); and exhibiting your artwork — the step plan
+   of theme, slogan, selection, captions and hanging at eye
+   level, and presenting your work and its inspiration (Suriname
+   teacher guides, evidence).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -386,6 +399,11 @@ The titles, in ladder order:
    an ensemble — melody, harmony and accompaniment balanced
    into one performance (Fiji student books, with the Year 1
    teacher guide as evidence where named).
+ The Art expansion added:
+   rhythms of Surinames peoples — the five peoples' rhythmic
+   patterns, Inheems, Afro-Surinaams, Hindostaans, Javaans and
+   Chinees, heard apart by their instruments, sounds and
+   patterns (Suriname teacher guide, evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -496,6 +514,21 @@ The titles, in ladder order:
    researched and performed in traditional attire (Fiji
    student books, with the Year 1 teacher guide as evidence
    where named).
+ The Art expansion added:
+   dance forms of Suriname — dance inseparable from its peoples'
+   cultures, the school forms beside pentjak silat, bharatanatyam,
+   kathak, Marron and indigenous dances; awasa dance — the
+   Marrons' beauty dance of the interior, counted awasa steps to
+   apinti drums at 100 BPM; indigenous dances of Suriname — the
+   first inhabitants' steps and the bow-and-arrow movement in
+   eight, four, two counts; Latin American and Caribbean dances —
+   salsa, merengue, zouk and bachata with much and little force;
+   drama and theatre games — the chain association and the echo
+   play; Mato, Surinamese storytelling theatre — the frame tale
+   in a circle, Syatu mato, Matoman and Pikiman, and the koti;
+   and Surinamese theatre forms — Anansitori, mato and banya-pre
+   beside rollenspel, sketch, musical and toneel (all Suriname
+   teacher guides, evidence).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
@@ -576,3 +609,14 @@ The titles, in ladder order:
    grandmother and described in Show and Tell, and Fiji's
    ceremonial and religious items, sevusevu and Diwali as
    the worked examples (Fiji student books).
+ The Art expansion added:
+   Alakondre unity in diversity — "Alakondre na wan, wan na
+   Alakondre", the many peoples as one wealth and total
+   inclusivity, with Sranan, built from all 22 languages, as its
+   symbol; Surinames cultural heritage — material and living
+   heritage by the UNESCO definition, Suriname's own heritage
+   named thing by thing, the four research steps and the culture
+   experiment; and Surinamese dress and jewellery — every
+   people's garments by name, and the slavenboei and the named
+   pieces and pendants and what they mean (Suriname teacher
+   guides, evidence).

@@ -1462,7 +1462,42 @@ lessons are the books'.
   detailed, Taveuni in basic shapes, borders first and
   centre last.
 
-**The whole course stands at 382 lessons, 5,180 questions and
+- **Art expansion — Suriname — BUILT 2026-11-16:** 85 placements
+  stocked, reconciled against the placements file's own
+  tallies (Book 1 leerjaar 7: 46 — 17 existing, 29 NEW;
+  Book 2 leerjaar 8: 39 — 8 existing, 31 NEW; the file
+  contains exactly 85 placement lines, matching the wave
+  tally of 85): 60 into existing lessons, 25 into 14 NEW
+  lessons (Culture and Values: Alakondre Unity in
+  Diversity; Surinames Cultural Heritage; Surinamese
+  Dress and Jewellery; Music: Rhythms of Surinames
+  Peoples; Drama and Dance: Dance Forms of Suriname;
+  Awasa Dance; Drama and Theatre Games; Indigenous
+  Dances of Suriname; Latin American and Caribbean
+  Dances; Mato: Surinamese Storytelling Theatre;
+  Surinamese Theatre Forms; Visual Art: Media Wisdom
+  and Staying Safe Online; Jewellery Making; Exhibiting
+  Your Artwork), 126 questions added, media as described
+  slots only. Honesty carried exactly as filed: both
+  books are TEACHER GUIDES (Dutch, MinOWC 2022,
+  COMPLETE) — cited as evidence in every stocked
+  lesson, in countries: lines and OUTSIDE acceptance
+  counts; the 14 new lessons stand at acceptance
+  count 0. Named, not placed, as filed: each domain's
+  begrippenlijst (glossaries) and Bronnenlijst —
+  inventory only; each domain's evaluatiekaart and the
+  closing appendices — assessment/teacher apparatus.
+  Songs and stories are placed by name, purpose and
+  summary only, never transcribed. Suriname's own way
+  is kept as named parts: one integrated KCE course in
+  six domains on the IKA lesson shape and the Big Idea
+  design process, held together by Alakondre — the
+  five peoples' rhythms, awasa and indigenous dance
+  steps, dress and jewellery read people by people,
+  heritage named thing by thing, the Mato storytelling
+  theatre, and the one-minute film.
+
+**The whole course stands at 396 lessons, 5,306 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
