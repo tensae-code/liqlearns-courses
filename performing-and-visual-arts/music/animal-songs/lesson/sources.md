@@ -1,6 +1,6 @@
 # Sources — Animal Songs
 
-countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia, Armenia, North Macedonia
+countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia, Armenia, North Macedonia, China
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -38,7 +38,7 @@ countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia, Arm
 | Armenia — Insects: Safaryan's "Meghun" (The bee) and Astvatsatryan's "Titern u meghun" (The butterfly and the bee) — small flying creatures in song and story (student book; original target `music/animal-songs`) | Book 8, printed p. 57 |
 
 
-**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Angola, Mongolia, Armenia, North Macedonia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Angola, Mongolia, Armenia, North Macedonia, China).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The placements name these songs, their givers and their sound-moments only; no lyrics are transcribed anywhere in this lesson, and none are claimed. The Grade 1 lamb placement asks for a GIF of a lamb bleating, mouth moving; that motion was judged a failed-motion risk (a drawn mouth cannot bleat truly) and was NOT filed — the bleating moment is carried by the described AUDIO slot instead, and the board picture covers the visual slot.
 
@@ -65,3 +65,40 @@ Searchable tags: animal songs, lamb, cat, dog, bird, ትንሽ በግ አለኝ,
 | North Macedonia — song "Kelebek" (Butterfly), a Turkish children's song with Macedonian translation, music Cengiz Ibrahim: the butterfly with silk wings flying from branch to branch (student book; original target `music/animal-songs`) | Book 9, printed p. 84 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 10:** *音乐 Music Grade 1 上册 (PEP 简谱) (student book, Chinese)* — Title as printed: 义务教育教科书 音乐（简谱）一年级 上册 Grade: 1, first volume (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); year 2012 edition; no ISBN printed on the pages read PDF pages: 67 (cover verified — orange cover, 音乐（简谱）一年级 上册, PEP) Verdict: COMPLETE China's own way: the PEP course is built in themed units mixing 唱歌 (singing), 欣赏 (listening), 学乐器 (learning a classroom percussion instrument), 歌表演 (song-performance with movement) and 知识 (a small knowledge point) — Chinese folk and festival material (grassland song, Yi dance song, lion dance, tanggu and cymbals) sits beside world listening pieces. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 1). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 1 singing 布谷 — the cuckoo song (student book) | Book 10, printed p. 4 |
+| China — Unit 1 listening 青蛙音乐会 — the Frogs' Concert, listening to animal voices in music (student book) | Book 10, printed p. 8 |
+| China — Unit 4 singing 小青蛙找家 — The Little Frog Looks for Home (student book) | Book 10, printed p. 30 |
+| China — Unit 4 listening 野蜂飞舞 — Flight of the Bumblebee, heard as animal movement in music (student book) | Book 10, printed p. 31 |
+| China — Unit 4 listening 引子与狮王进行曲 and 水族馆 — Saint-Saëns' Lion's Royal March and Aquarium from The Carnival of the Animals (student book) | Book 10, printed pp. 34, 36 |
+| China — Unit 4 singing 小蜻蜓 — The Little Dragonfly (student book) | Book 10, printed p. 37 |
+
+**Book 11:** *音乐 Music Grade 2 上册 (PEP 简谱) (student book, Chinese)* — Title as printed: 义务教育教科书 音乐（简谱）二年级 上册 Grade: 2, first volume (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); no ISBN printed on the pages read PDF pages: 67 (cover verified — 音乐（简谱）二年级 上册, PEP; byte size matches the record exactly) Verdict: COMPLETE China's own way: same PEP unit shape as Grade 1, now adding 音的高低 (pitch high/low) with Kodály hand signs, labour songs, and Chinese story-music (三个和尚, 龟兔赛跑) beside Tchaikovsky and Grieg-style listening. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 2). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 2 listening 布老虎 — The Cloth Tiger (student book) | Book 11, printed p. 12 |
+| China — Unit 4 singing 动物说话 — Animals Talking (student book) | Book 11, printed p. 26 |
+| China — Unit 4 listening 鸭子拌嘴 (excerpt) and 小狗圆舞曲 — Ducks Arguing (percussion piece) and the Little Dog Waltz (student book) | Book 11, printed pp. 28, 31 |
+| China — Unit 4 singing 小动物回家 — Little Animals Go Home (student book) | Book 11, printed p. 30 |
+
+**Book 12:** *音乐 Music Grade 1 下册 (PEP 简谱) (student book, Chinese) — image-only PDF, read from rendered pages* — Title as printed: 义务教育教科书 音乐（简谱）一年级 下册 Grade: 1, second volume (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); no ISBN printed on the pages read PDF pages: 65 (byte size 6,022,950 matches the record exactly; cover verified; the PDF is image-only, so the book was read from rendered pages — both contents pages read in full and unit content pages spot-read, including Unit 1's opening, which teaches the rest sign "0" through the traffic-light song) Verdict: COMPLETE (contents-level read of an image-only book, as the brief provides for image-only books) China's own way: the second volume opens with road safety sung (red light stop, green light go — and the musical rest learned as the "stop"), then spring, animals in music, the 56-peoples unit （五十六朵花） with a brave Oroqen boy and Miao music, and a moon-and-stars closing unit. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 5). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 1 singing 小蚂蚁 and 表演唱 小胖胖： the Little Ant sung, and Little Chubby sung-and-acted (student book) | Book 12, printed pp. 6, 8 |
+| China — Unit 3 音乐中的动物 歌表演 小动物唱歌， listening 大象， singing 咏鹅： Animals in Music — little animals sing and act; the Elephant heard; the goose sung in 咏鹅 (student book) | Book 12, printed pp. 18–20 |
+| China — Unit 3 listening 跳圆舞曲的小猫， singing 谁唱歌， activity 我家门前有条河： the kitten who dances a waltz; Who Is Singing; a river before our house activity (student book) | Book 12, printed pp. 22–24 |
+
+**Book 13:** *音乐 Music Grade 2 下册 (PEP 简谱) (student book, Chinese) — image-only PDF, read from rendered pages* — Title as printed: 义务教育教科书 音乐（简谱）二年级 下册 Grade: 2, second volume (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); no ISBN printed on the pages read PDF pages: 65 (byte size 6,489,616 matches the record exactly; cover verified; image-only PDF read from rendered pages — both contents pages in full and unit content pages spot-read, including Unit 1's Prokofiev listening and the bars/barlines knowledge box) Verdict: COMPLETE (contents-level read of an image-only book) China's own way: a trip out of the city opens the book (Prokofiev's Departure, echo singing in the valley, a train piece to create), then health songs with shuttlecock kicking and group dance, animals again, the 56-peoples unit with an Ak Xir Xir song and a Rikaze home song, a naughty alarm clock unit about time, and childhood games to close. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 6). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 3 listening 口哨与小狗， singing 螃蟹歌， listening 杜鹃圆舞曲： the Whistle and the Puppy heard; the Crab Song sung; the Cuckoo Waltz heard (student book) | Book 13, printed pp. 20–22 |
+| China — Unit 3 singing 老牛和小羊， activity 动物联欢会： the Old Ox and the Little Lamb sung; an Animals' Party activity (student book) | Book 13, printed pp. 23, 24 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

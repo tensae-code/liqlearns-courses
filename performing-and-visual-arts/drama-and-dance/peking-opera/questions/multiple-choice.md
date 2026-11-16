@@ -1,0 +1,23 @@
+# Peking Opera — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** One part of this lesson is…
+a) China Grade 3 Music Vol.2  b) a part of a different course  c) none of these
+**Answer: a) China Grade 3 Music Vol.2.**
+
+**2. (Sub lesson 2)** One part of this lesson is…
+a) a part of a different course  b) China Grade 4 Art Vol.2  c) none of these
+**Answer: b) China Grade 4 Art Vol.2.**
+
+**3. (Sub lesson 3)** One part of this lesson is…
+a) a part of a different course  b) none of these  c) China Grade 4 Music Vol.2
+**Answer: c) China Grade 4 Music Vol.2.**
+
+**4. (Sub lesson 4)** One part of this lesson is…
+a) China Grade 5 Music (jianpu) Vol.2  b) a part of a different course  c) none of these
+**Answer: a) China Grade 5 Music (jianpu) Vol.2.**
+
+**5. (Sub lesson 5)** One part of this lesson is…
+a) a part of a different course  b) China HS Drama Performance  c) none of these
+**Answer: b) China HS Drama Performance.**

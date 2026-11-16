@@ -1,6 +1,6 @@
 # Sources — Making Music with Computers and Apps
 
-countries: United Kingdom, Haiti, Malaysia, Armenia, North Macedonia
+countries: United Kingdom, Haiti, Malaysia, Armenia, North Macedonia, China
 
 **Book 1:** *Edexcel GCSE (9–1) Anthology of Music* (student book, English), edited by Julia Winterson — United Kingdom, Pearson Education Ltd with Peters Edition Ltd and Faber Music Ltd, 2016 (first published 2016), ISBN 978-1-292-11838-3, Grade 10 (GCSE, Years 10–11), 97 PDF pp. Verdict: COMPLETE — all 97 pages read (score pages placed as study summaries only; no notation or song lyrics transcribed). Read from the scanned page images at the book's recorded source (Internet Archive item `edexcel-gcse-9-1-anthology-of-music`, 97 pages, matching the record) in the 2026-11-16 Art expansion read, because the recorded GitHub copy is a PHANTOM PUSH — marked pushed but absent from the tree and the releases, so it could not be fetched by the tree route (see the placements file). Placements at liqlearns-courses-work/expansion-art-2026-11-16/united-kingdom-placements.md. The book's Glossary of Key Words (printed pp. 90–93) is inventory only, named here and never stocked as parts.
 
@@ -38,7 +38,7 @@ countries: United Kingdom, Haiti, Malaysia, Armenia, North Macedonia
 | Armenia — Music and the computer — the closing section of Theme 2 on the computer's possibilities for studying and making music (student book; original target `music/music-and-the-computer`) | Book 7, printed p. 97 |
 
 
-**Acceptance count: taught in 4 countries (United Kingdom, Malaysia, Armenia, North Macedonia).** Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (United Kingdom, Malaysia, Armenia, North Macedonia, China).** Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/making-music-with-computers-and-apps`); the United Kingdom placements were filed under the original string `music/copyright-and-music-publishing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. The scores in the Anthology are placed as study summaries only — no notation or song lyrics are transcribed in this lesson. The United Kingdom's own way, carried in the placements: music is learned by appraising eight fixed set works — following the printed score while listening, after short teaching notes on period context, structure and what to listen for.
 
@@ -52,3 +52,11 @@ Searchable tags: copyright, music publishing, royalties, PRS for Music, MCPS, ma
 | North Macedonia — working with short musical fragments in notation apps: creating a 4–8 bar phrase, and transforming material by transposition, sequence, motif extraction and imitation — then modifying phrases in rhythm, melodic direction, dynamics and tempo and hearing what changed (student book; original target `music/notation-apps`) | Book 8, printed pp. 150–151 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 9:** *普通高中教科书·音乐必修4 音乐编创 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修4 音乐编创 (Senior High Music, Compulsory 4: Music Creation) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 122 (cover verified; byte size 51,017,604 matches the record exactly) Verdict: COMPLETE China's own way: a composition course in two halves — first song-writing by hand (melody writing, musical themes, song structure, lyrics) always through Chinese folk songs and named Chinese composers' songs as models, then computer music: notation software, accompaniment arrangement and automatic composition aids. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 8). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 6 计算机音乐基础： computer music foundations — computer-assisted composition systems; entering a score, laying out full score and parts, exporting and printing; practice with the Schindler's List theme and a folk-song chorus arrangement (student book; original target `music/computer-music-and-notation-software`) | Book 9, printed pp. 64–76 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

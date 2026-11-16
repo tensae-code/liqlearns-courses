@@ -1,7 +1,7 @@
 # Sources — The Primary Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia, Greece
+countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia, Greece, China
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -77,7 +77,7 @@ countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan
 | Armenia — COLOUR (ԳՈՒՅՆ) — there are three main colours: the primary colours introduced (student book; original target `visual-art/the-primary-colours`) | Book 18, printed p. 11 |
 
 
-**Acceptance count: taught in 13 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia, Greece). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 14 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia, Greece, China). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Sub lesson 5 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's basic-colours lesson and colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook, so the acceptance count counts pupil-taught content. The song "መስራች ቀለማት" is named and its teaching summarised only — its words are not transcribed; the song is sung in the Music unit's Primary Colours Song lesson. The Grade 3 chapter summary's closing exercise carries the check item "green is a primary colour — false", which the question stock uses.
 
@@ -111,3 +111,11 @@ Afghanistan is added as student-book stock (see its rows above), inside the acce
 | Greece — A3 Η γέφυρα του ουράνιου τόξου (The rainbow's bridge — the colours of the rainbow) (student book) | Book 19, printed p. 18 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 20:** *Art G3 Vol.1 (student book, Chinese)* — Title as printed: 义务教育教科书·美术三年级上册 (Compulsory Education Textbook · Art, Grade 3, Volume 1) Grade: Grade 3, first semester (student/teacher: STUDENT) Publisher: People's Education Press with Shanghai Calligraphy & Painting Press; year 2013 (MoE approved 2013); ISBN not shown on the title pages (barcode on back cover) PDF pages: 51 (title pages verified against the record title; byte size 17,809,223 = record size exactly; read in full from the text layer) Verdict: COMPLETE China's own way: a Shang-dynasty jade phoenix from Yinxu opens the book; Chinese animation's own kinds (ink-wash, paper-cut, puppet) close it. Excluded: end-of-book self-evaluation pages. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 5). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 1 魔幻的颜色 — the magic of the three primary colours — red, yellow and blue blending in water into many new colours (secondaries orange, green, purple); painting a rainbow or seven-colour flower (student book) | Book 20, printed p. 1 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

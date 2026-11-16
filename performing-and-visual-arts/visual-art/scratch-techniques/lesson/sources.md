@@ -1,6 +1,6 @@
 # Sources — Scratch Techniques
 
-countries: Cuba, Moldova, Armenia, Laos
+countries: Cuba, Moldova, Armenia, Laos, China
 
 **Book 1:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -22,7 +22,7 @@ countries: Cuba, Moldova, Armenia, Laos
 | Armenia — GRATTAGE — scratching a picture through a dark wax layer: the technique named and tried with its own materials list (student book; original target `visual-art/grattage-scratch-technique`) | Book 3, printed p. 16 |
 
 
-**Acceptance count: taught in 2 countries (Moldova, Armenia).** Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Laos is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Moldova, Armenia, China).** Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Laos is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/scratch-techniques`); the Cuba placements were filed under the original string(s) `visual-art/sgraffito-esgrafiado` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -39,3 +39,17 @@ Searchable tags: scratch techniques, Cuba, Armenia
 | Lesson part | Where it comes from |
 |---|---|
 | Laos — Lesson 17, scratching a picture — scratch art — colouring bright crayon bands, covering them in black, and scratching a fish out of the dark (photographed steps) (teacher guide — evidence; original target `visual-art/scratch-pictures`) | Book 5, printed p. 88 |
+
+**Book 6:** *Art G3 Vol.1 (student book, Chinese)* — Title as printed: 义务教育教科书·美术三年级上册 (Compulsory Education Textbook · Art, Grade 3, Volume 1) Grade: Grade 3, first semester (student/teacher: STUDENT) Publisher: People's Education Press with Shanghai Calligraphy & Painting Press; year 2013 (MoE approved 2013); ISBN not shown on the title pages (barcode on back cover) PDF pages: 51 (title pages verified against the record title; byte size 17,809,223 = record size exactly; read in full from the text layer) Verdict: COMPLETE China's own way: a Shang-dynasty jade phoenix from Yinxu opens the book; Chinese animation's own kinds (ink-wash, paper-cut, puppet) close it. Excluded: end-of-book self-evaluation pages. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 5). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 8 星空的联想 — scratch art in pictured steps — crayon colour base, a black ink coating over it, then scratching the starry-sky picture out of the black when dry (student book; original target `visual-art/scratchboard-drawing`) | Book 6, printed p. 14 |
+
+**Book 7:** *Art G5 Vol.1 (student book, Chinese)* — Title as printed: 义务教育教科书·美术五年级上册 (Compulsory Education Textbook · Art, Grade 5, Volume 1) Grade: Grade 5, first semester (student/teacher: STUDENT) Publisher: People's Education Press with Shanghai Calligraphy & Painting Press; year 2013 (MoE approved 2013); ISBN not shown on the title pages PDF pages: 51 (title pages verified against the record; byte size 14,510,538 = record size exactly; read in full from the text layer) Verdict: COMPLETE China's own way: Qi Baishi opens the book; flower-and-bird painting, poetry-painting, ink opera faces and a full ancient-ceramics heritage lesson carry China's tradition. Excluded: Lesson 18 美术学习记录袋 (making an assessment portfolio folder — apparatus only, named here per the brief), and the end-of-book self-evaluation pages. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 13). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 6 快乐刮画 — happy scratch painting — a homemade bamboo pen scratches lines, shapes and tones of every width out of wax paper; a folk stone-carving rubbing and Li Qun's scratched portrait of Zhou Enlai shown (student book; original target `visual-art/scratchboard-drawing`) | Book 7, printed p. 10 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Conducting
 
-countries: Andorra, Colombia, Indonesia, Armenia
+countries: Andorra, Colombia, Indonesia, Armenia, China
 
 **Book 1:** *Programa d'educació musical de primera ensenyança de l'Escola Andorrana — Annex IV of Decret 376/2021, BOPA núm. 123, 24-11-2021* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2021, ISBN 978-99920-0-931-4, Primera ensenyança, cycles 1–3 (ages 6–12), 39 PDF pp (record; Annex IV runs at BOPA pp. 199–237 of the full 510-page BOPA issue). TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and end-of-cycle expectation tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
@@ -44,8 +44,16 @@ countries: Andorra, Colombia, Indonesia, Armenia
 | Armenia — The conductor and the soloist — the conductor leads with the baton, the soloist or ensemble follows; what each must know of the other for the performance to become one whole (student book; original target `music/conducting-and-keeping-time`) | Book 7, printed p. 77 |
 
 
-**Acceptance count: taught in 2 countries (Colombia, Armenia).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Colombia, Armenia, China).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/conducting`); the Andorra placement was filed under the original string `music/conducting-an-ensemble`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. The book is a curriculum programme document, so every part of this lesson is labelled evidence; no student-textbook claim is made for it. Colombia's parts above come from a student book and are counted in the acceptance count.
 
 Searchable tags: conducting, conductor, pulse, metre, tempo, cueing entries, rehearsal, Andorra, Colombia, Armenia
+
+**Book 8:** *普通高中教科书·音乐必修2 歌唱 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修2 歌唱 (Senior High Music, Compulsory 2: Singing) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 146 (cover verified; byte size 38,148,638 matches the record exactly) Verdict: COMPLETE China's own way: a singing course built in ten themed units, each with works to appreciate (named, with composers), a knowledge strand on the voice and choral craft (breathing, resonance, diction, conducting patterns, voice care), and a practice piece to sing — Chinese patriotic, folk and opera/TV songs beside Lassus, Elgar, Beethoven, Verdi and Palestrina. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 4). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 8 时代新韵 (New sounds of the age) — contemporary songs including a 宝莲灯 film theme and 给你一点颜色; knowledge: protecting the voice and conducting patterns (2); practice Memory from the musical Cats as chorus (student book; original target `music/voice-care-and-conducting`) | Book 8, printed pp. 94–103 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

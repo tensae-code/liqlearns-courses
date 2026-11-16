@@ -1,6 +1,6 @@
 # Sources — Music in Society
 
-countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia, Malaysia, Moldova, Indonesia, Greece
+countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia, Malaysia, Moldova, Indonesia, Greece, China
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -56,7 +56,7 @@ countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia, Malaysia, Moldova, Indone
 |---|---|
 | Indonesia — Bab IV Penerapan Musik dalam Kehidupan — applying music in life — where music works in everyday and community life (teacher guide — evidence; original target `culture-and-values/music-in-society`) | Book 12, printed p. 151 |
 
-**Acceptance count: taught in 5 countries (Cuba, Mongolia, Malaysia, Moldova, Greece). Earlier evidence-only entries stay outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Cuba, Mongolia, Malaysia, Moldova, Greece, China). Earlier evidence-only entries stay outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson rests only on the Grade 4 teacher guide's society chapter (printed pp. 47–56), labelled teacher-guide evidence throughout. Songs are named and their functions taught; no lyrics are transcribed.
 
@@ -110,3 +110,17 @@ Searchable tags: music in society, war songs, የጦርነት ዘፈኖች, lame
 | Greece — workbook practice for Topics 13–14 (music unites us; music without borders) (workbook) | Book 16, printed  |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 17:** *普通高中教科书·音乐必修2 歌唱 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修2 歌唱 (Senior High Music, Compulsory 2: Singing) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 146 (cover verified; byte size 38,148,638 matches the record exactly) Verdict: COMPLETE China's own way: a singing course built in ten themed units, each with works to appreciate (named, with composers), a knowledge strand on the voice and choral craft (breathing, resonance, diction, conducting patterns, voice care), and a practice piece to sing — Chinese patriotic, folk and opera/TV songs beside Lassus, Elgar, Beethoven, Verdi and Palestrina. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 4). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 6 芳菲田野 (Fragrant fields) — folk-based choral works — 乌苏里船歌 (Hezhe folk tune), Strauss' Voices of Spring waltz song, a Bartók-based hometown song; knowledge: the whole-body coordination of singing and how a choir is constituted; practice the chorus 雪后 (student book) | Book 17, printed pp. 66–75 |
+
+**Book 18:** *普通高中教科书·音乐必修6 音乐与戏剧 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修6 音乐与戏剧 (Senior High Music, Compulsory 6: Music and Drama) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 166 (cover verified; byte size 52,126,768 matches the record exactly) Verdict: COMPLETE China's own way: a theatre-music course dominated by China's own stage — Peking opera, Kunqu and a dozen regional opera forms each with their music, singing styles and dialect — before Chinese opera (歌剧）, European opera and the Chinese musical; every unit ends in a rehearsal practice （排演实践） where pupils perform an excerpt themselves (excerpts named only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 10). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 6 §§19–20 — national-school opera (Smetana's Bartered Bride, Borodin's Prince Igor, Rimsky-Korsakov's Sadko) and light opera / opéra comique (Die Fledermaus, Tales of Hoffmann) (student book) | Book 18, printed pp. 117–124 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

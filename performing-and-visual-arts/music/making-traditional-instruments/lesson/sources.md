@@ -1,6 +1,6 @@
 # Sources — Making Traditional Instruments
 
-countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia, Greece
+countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia, Greece, China
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -39,7 +39,7 @@ countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia, Greece
 | Bolivia — Musical glasses — a homemade instrument in the idiophones chapter: take seven glasses of one model, a jar of water (coloured if possible) and a fork; fill the glasses with water, tuning each against a recorder's note until the exact sound is reached (student book) | Book 10, printed p. 14 |
 | Bolivia — Making the claves and the triangle — the rhythmic band's instruments built in class: claves — a cylindrical stick of about 2 cm (a broomstick serves), cut in pieces of 15–20 cm, sanded with medium-grain paper and varnished, the length, thickness and density deciding the sound's quality; and the triangle — 45–60 cm of thin construction iron or aluminium tube, a beater of thinner iron or a big 10–12 cm nail, hung from strong string or nylon (student book) | Book 10, printed pp. 41–42 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Honduras, Jordan, Angola, Bolivia, Greece). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Honduras, Jordan, Angola, Bolivia, Greece, China). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Making steps are taught at the level the placements carry them — materials, building order and tuning by ear; no measurements or tool procedures beyond the placements are invented.
 
@@ -59,3 +59,11 @@ Searchable tags: making traditional instruments, kebero trunk hide, washint bamb
 | Greece — Chapter 17: Πώς μπορώ να φτιάξω μουσικά όργανα (how I can make musical instruments) (student book) | Book 11, printed p. 41 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 12:** *Music G3 Vol.1 (student book, Chinese, numbered notation 简谱 edition) (student book, Chinese)* — Title as printed: 义务教育教科书·音乐（简谱）三年级上册 (Compulsory Education Textbook · Music (Numbered Notation), Grade 3, Volume 1) Grade: Grade 3, first semester (student/teacher: STUDENT) Publisher: People's Education Press; year 2013 (MoE approved 2013); ISBN not shown on the title pages PDF pages: 75 (title pages verified against the record; byte size 9,690,436 = record size exactly; read in full from the text layer) Verdict: COMPLETE China's own way: the whole book is taught in jianpu numbered notation; Yunnan, Yi, Tibetan and Han folk material runs through it, with suona, Jiangnan folk ensemble and bamboo instruments as listening. Songs are summarised, never transcribed. Excluded: the end-of-book 学习测评 assessment pages. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 7). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 4 自制小乐器 (activity) — making your own small instruments and using them to invent rhythmic accompaniment for a song (student book; original target `music/making-our-own-instruments`) | Book 12, printed p. 32 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

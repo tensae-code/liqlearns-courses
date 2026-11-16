@@ -1,6 +1,6 @@
 # Sources — Modern and Contemporary Art
 
-countries: Sudan, Brazil, Bulgaria, North Macedonia
+countries: Sudan, Brazil, Bulgaria, North Macedonia, China
 
 **Book 1:** *الفنون والتصميم (Arts & Design) — الصف الثالث الثانوي (Third Secondary Year), Secondary Stage (التعليم الثانوي)* (student book, Arabic) — Sudan, National Center for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht Al-Ruda — Republic of Sudan, Ministry of Education; prepared by a committee chaired by Prof. Mohamed Al-Amin Ali (University of Juba, College of Arts and Humanities) with Abdul Basit Abdullah Al-Khatim, Mohamed Mohamed Idris (University of Sudan, College of Arts) and Dr. Khidir Mohamed Othman (NCCR); revised edition 2007 (الطبعة المنقحة ٢٠٠٧م); ISBN 978-99942-53-7-4; legal deposit 788/2008, Grade 12, 161 PDF pp. STUDENT. Verdict: COMPLETE — read in full, page by page. Named in the header, not placed: Book 1's closing "Exercise" (printed p. 35) and Book 4's opening "Revision Exercises" (printed p. 102) are assessment; Book 5, "The Study Plan" (printed pp. 150–154), is syllabus tables — apparatus, not teaching content. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sudan-placements.md.
 
@@ -13,7 +13,7 @@ countries: Sudan, Brazil, Bulgaria, North Macedonia
 
 | Brazil — Folha 4 — the European vanguards named in a row (Expressionismo, Fauvismo, Cubismo, Futurismo, Abstracionismo, Dadaísmo, Surrealismo) breaking with exact representation (student book; original target `visual-art/modern-art-movements-and-the-vanguard`) | Book 2, printed p. 68 |
 
-**Acceptance count: taught in 4 countries (Sudan, Brazil, Bulgaria, North Macedonia).**
+**Acceptance count: taught in 5 countries (Sudan, Brazil, Bulgaria, North Macedonia, China).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/modern-and-contemporary-art`); the Sudan placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Sudan's own way is kept as the named sub lessons above.
 
@@ -32,3 +32,11 @@ Searchable tags: modern and contemporary art, Sudan, Brazil
 | North Macedonia — Почетоци на модерната уметност — modern art begins in the mid-19th century as artists break from strict academic rules to show real everyday life; the Salon of the Rejected in Paris (1863), with Manet's "Picnic on the Grass" among the refused works, opens the public argument (student book; original target `visual-art/modern-art`) | Book 4, printed p. 11 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 5:** *普通高中教科书·美术必修 美术鉴赏 (student book, Chinese)* — Title as printed: 普通高中教科书·美术必修 美术鉴赏 (Senior High Art, Compulsory: Art Appreciation) Grade: 12 record (senior high compulsory volume) (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); no ISBN printed on the pages read PDF pages: 190 (cover verified; byte size 33,007,783 matches the record exactly) Verdict: COMPLETE China's own way: appreciation is taught as a skill with a method (how a work is made, how to look at one), then Chinese art first in depth — landscape, flower-and-bird and figure painting, calligraphy, sculpture, architecture and gardens, crafts and folk art — and world art after, in historical order. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 3). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 17 实验与多元 — Western art since the 20th century — experiment and plurality (student book; original target `visual-art/modern-and-contemporary-world-art`) | Book 5, printed p. 142 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Counting Songs
 
-countries: Ethiopia, Turkmenistan, Libya, Rwanda, Greece
+countries: Ethiopia, Turkmenistan, Libya, Rwanda, Greece, China
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -21,7 +21,7 @@ countries: Ethiopia, Turkmenistan, Libya, Rwanda, Greece
 | Rwanda — Unit 1 Lesson 5: Songs related to numeracy — counting songs that carry the numbers one to ten in Kinyarwanda, sung and performed in public (teacher guide — evidence) | Book 5, printed p. 34 |
 
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Greece).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Greece, China).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Only the counting structure of each song is taught — the placements themselves state that the verses are not transcribed, and this lesson follows them. The bottles GIF shows one fall and the count dropping 5 to 4, the first verse's motion; it does not claim the song's later verses.
 
@@ -41,3 +41,11 @@ Searchable tags: counting songs, counting back, five little ducks, five green bo
 | Greece — Chapter 25: Ας παίξουμε μουσικά παιχνίδια και ας λύσουμε γρίφους (let's play music games and solve riddles) (student book) | Book 6, printed p. 54 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 7:** *音乐 Music Grade 2 上册 (PEP 简谱) (student book, Chinese)* — Title as printed: 义务教育教科书 音乐（简谱）二年级 上册 Grade: 2, first volume (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); no ISBN printed on the pages read PDF pages: 67 (cover verified — 音乐（简谱）二年级 上册, PEP; byte size matches the record exactly) Verdict: COMPLETE China's own way: same PEP unit shape as Grade 1, now adding 音的高低 (pitch high/low) with Kodály hand signs, labour songs, and Chinese story-music (三个和尚, 龟兔赛跑) beside Tchaikovsky and Grieg-style listening. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 2). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 2 singing 数蛤蟆 and rhyme 花蛤蟆 — counting frogs in song and rhyme (student book) | Book 7, printed pp. 10–11 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

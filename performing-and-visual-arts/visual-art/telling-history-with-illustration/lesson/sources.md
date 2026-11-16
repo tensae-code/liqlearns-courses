@@ -1,6 +1,6 @@
 # Sources — Telling History with Illustration
 
-countries: Ethiopia, Nicaragua, Moldova, Indonesia, Syria, Greece
+countries: Ethiopia, Nicaragua, Moldova, Indonesia, Syria, Greece, China
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors እሸቱ ታደሰ (Eshetu Tadesse) and ደስታ ይትባረክ (Desta Yitbarek); editors አታላይ መስፍን (Atalay Mesfin) and ደምሌ አባተ (Demle Abate). Printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -39,7 +39,7 @@ countries: Ethiopia, Nicaragua, Moldova, Indonesia, Syria, Greece
 |---|---|
 | Syria — Lesson 18 "An Artist and a Homeland" — Nazem al-Jaafari, who documented Damascus and the Damascene family in thousands of oil paintings and line studies; drawing a scene from your own city in his spirit (student book; original target `visual-art/telling-history-with-illustration`) | Book 6, printed p. 38 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Moldova, Syria, Greece). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Moldova, Syria, Greece, China). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: The named plays in Sub lesson 4 are placed by name and venue only, exactly as the placement gives them; no play text is transcribed. The Menelik-era photographs (the book's Fig. 37) are described, never copied. Ethiopia's age as a civilisation is taught in the book's own framing ("among the world's ancient civilisations, a country of many languages and astonishing cultures") and is carried as the book's teaching, not as a new claim.
 
@@ -77,3 +77,11 @@ Searchable tags: history, illustration, photography as witness, Menelik, Hindeke
 | Greece — Part Γ workbook pages: professions practice (cartoon, comics, lettering, models, photography) (workbook) | Book 11, printed  |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 12:** *Art G2 Vol.2 (student book, Chinese)* — Title as printed: 义务教育教科书·美术二年级下册 (Compulsory Education Textbook · Art, Grade 2, Volume 2) Grade: Grade 2, second semester (student/teacher: STUDENT) Publisher: People's Education Press with Shanghai Calligraphy & Painting Press; year 2013 (1st ed. Oct 2013; MoE approved 2013); ISBN 978-7-107-27400-8 PDF pages: 49 (cover verified visually against the record title; byte size 8,866,494 = record size exactly; image-only scan — read page-by-page on 100-DPI contact sheets) Verdict: COMPLETE China's own way: opens with an Eastern Han pottery storyteller-drummer from Chengdu; ethnic-minority embroidery (Yao dress borders, Tu waistband) teaches pattern. Excluded: end-of-book self-evaluation pages. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 4). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 13 动物的故事 — telling a story in a sequence of pictures — the Little Horse Crosses the River shown as six modelled scenes, then drawing your own animal story with changing scenes (student book) | Book 12, printed p. 24 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

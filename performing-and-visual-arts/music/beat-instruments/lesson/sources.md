@@ -1,6 +1,6 @@
 # Sources — Beat Instruments
 
-countries: Ethiopia, Malta, Colombia, Bulgaria, Libya, Angola, Bolivia, Armenia
+countries: Ethiopia, Malta, Colombia, Bulgaria, Libya, Angola, Bolivia, Armenia, China
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -45,7 +45,7 @@ countries: Ethiopia, Malta, Colombia, Bulgaria, Libya, Angola, Bolivia, Armenia
 | Armenia — Rain and beat instruments — the rain page pictures maracas, tambourine and drum: shaken and struck instruments that sound like weather; listening: Pashinyan's "Andzrev" (student book; original target `music/beat-instruments`) | Book 12, printed p. 22 |
 
 
-**Acceptance count: taught in 6 countries (Ethiopia, Colombia, Bulgaria, Angola, Bolivia, Armenia).** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Colombia, Bulgaria, Angola, Bolivia, Armenia, China).** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 3 closing exercise asks whether the atamo is one of the church beat instruments; the book's own §2.1.2 teaching places the atamo in secular music, and the lesson teaches that — the exercise item is carried in sources only, exactly as printed, and is not taught as church use. The bell, qachil and tsenatsil are named in this lesson's set because the book lists them in it; their teaching lives in the Church Instruments lesson, from the same page.
 
@@ -80,3 +80,28 @@ Searchable tags: beat instruments, percussion, atamo, አታሞ, kebero, ከበ�
 | Libya — The tabla — the tabla (darbuka): the goblet drum of the Arab ensemble, pictured and named among the percussion instruments (teacher guide — evidence; original target `music/beat-instruments`) | Book 8, printed p. 59 |
 | Libya — The riq — the riq: the small tambourine of the eastern takht, its frame set with cymbals, shown from the front and the back (teacher guide — evidence; original target `music/beat-instruments`) | Book 8, printed p. 60 |
 | Libya — Bongos, triangle and jingles — the bongos (two small joined drums played with the fingers), the triangle (a bent metal rod struck with a metal stick), and the jingles (hollow metal balls with pellets inside, mounted on a handle and shaken) (teacher guide — evidence; original target `music/beat-instruments`) | Book 8, printed pp. 61–62 |
+
+**Book 13:** *音乐 Music Grade 1 上册 (PEP 简谱) (student book, Chinese)* — Title as printed: 义务教育教科书 音乐（简谱）一年级 上册 Grade: 1, first volume (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); year 2012 edition; no ISBN printed on the pages read PDF pages: 67 (cover verified — orange cover, 音乐（简谱）一年级 上册, PEP) Verdict: COMPLETE China's own way: the PEP course is built in themed units mixing 唱歌 (singing), 欣赏 (listening), 学乐器 (learning a classroom percussion instrument), 歌表演 (song-performance with movement) and 知识 (a small knowledge point) — Chinese folk and festival material (grassland song, Yi dance song, lion dance, tanggu and cymbals) sits beside world listening pieces. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 1). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 1 singing 大鼓和小鼓 — the big drum and small drum sung and played (student book) | Book 13, printed p. 7 |
+| China — Unit 2 学乐器 响板和碰铃 — learning the castanets (响板) and碰铃 (small bells) (student book) | Book 13, printed p. 13 |
+| China — Unit 3 学乐器 三角铁和铃鼓 — learning the triangle and tambourine (student book) | Book 13, printed p. 25 |
+| China — Unit 5 学乐器 木鱼和双响筒 — learning the wooden fish and the double tone-block (student book) | Book 13, printed p. 40 |
+| China — Unit 6 学乐器 堂鼓和钹 — learning the tanggu (hall drum) and cymbals of the New Year band (student book) | Book 13, printed p. 47 |
+
+**Book 14:** *音乐 Music Grade 1 下册 (PEP 简谱) (student book, Chinese) — image-only PDF, read from rendered pages* — Title as printed: 义务教育教科书 音乐（简谱）一年级 下册 Grade: 1, second volume (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); no ISBN printed on the pages read PDF pages: 65 (byte size 6,022,950 matches the record exactly; cover verified; the PDF is image-only, so the book was read from rendered pages — both contents pages read in full and unit content pages spot-read, including Unit 1's opening, which teaches the rest sign "0" through the traffic-light song) Verdict: COMPLETE (contents-level read of an image-only book, as the brief provides for image-only books) China's own way: the second volume opens with road safety sung (red light stop, green light go — and the musical rest learned as the "stop"), then spring, animals in music, the 56-peoples unit （五十六朵花） with a brave Oroqen boy and Miao music, and a moon-and-stars closing unit. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 5). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 2 学乐器 沙槌和串铃： learning the maracas and the bell stick (student book) | Book 14, printed p. 11 |
+
+**Book 15:** *普通高中教科书·音乐必修3 演奏 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修3 演奏 (Senior High Music, Compulsory 3: Instrumental Performance) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 170 (cover verified; byte size 31,916,065 matches the record exactly) Verdict: COMPLETE China's own way: an ensemble course — pupils meet four kinds of band (Chinese national orchestra, Western orchestra, wind band, mixed band), learn each instrument family's main instruments and representative playing techniques, rehearse real ensemble pieces, and finish with a choose-your-own ensemble repertoire. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 7). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 2 §5 打击乐器： Chinese percussion instruments — main instruments and representative techniques (student book) | Book 15, printed pp. 16–18 |
+| China — Unit 3 §10 打击乐器： Western percussion — main instruments and representative techniques (student book) | Book 15, printed pp. 35–37 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

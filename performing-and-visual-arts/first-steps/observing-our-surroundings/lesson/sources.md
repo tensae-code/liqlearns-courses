@@ -1,6 +1,6 @@
 # Sources — Observing Our Surroundings
 
-countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Indonesia, Greece
+countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Indonesia, Greece, China
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -85,7 +85,7 @@ countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Bel
 |---|---|
 | Indonesia — BAB I Ekspedisi Visual — a visual expedition — going out to observe, record and gather visual material from the world as an artist's research (teacher guide — evidence; original target `visual-art/visual-expedition`) | Book 20, printed p. 32 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova, Greece). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova, Greece, China). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The definition of surroundings and the sound/movement distinction are the Grade 1 book's own Chapter 1 summary words (printed pp. 14–15), taught as the book states them. The teacher-guide row is evidence for the same watching skill and is labelled as such; the lesson's pupil-taught content rests on the student book.
 
@@ -133,3 +133,11 @@ Searchable tags: observing our surroundings, surroundings, watching and telling,
 | Greece — Part B workbook pages: our-world practice (fish, insects, environment) (workbook) | Book 24, printed  |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 25:** *Art G1 Vol.1 (student book, Chinese)* — Title as printed: 义务教育教科书·美术一年级上册 (Compulsory Education Textbook · Art, Grade 1, Volume 1) Grade: Grade 1, first semester (student/teacher: STUDENT) Publisher: People's Education Press (人民教育出版社) with Shanghai Calligraphy & Painting Press; year 2012 (MoE approved 2012); ISBN 978-7-107-24253-3 (barcode on back cover) PDF pages: 51 (cover/title page verified against the record title; byte size 15,092,612 = record size exactly) Verdict: COMPLETE China's own way: every lesson opens with a short rhyming verse, then 看一看/想一想/说一说/试一试 (look, think, speak, try); Chinese ink paintings and folk objects are shown beside modern and Western works from the very first grade. Excluded per standing rules: the end-of-book self-evaluation/reuse pages (assessment only, no teaching). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 1). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 14 繁忙的大街 — observing a busy street closely (vehicles, crossings, buildings, hurrying people) and drawing the busy scene (student book) | Book 25, printed p. 26 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Choral Singing
 
-countries: Honduras, Morocco, Bulgaria
+countries: Honduras, Morocco, Bulgaria, China
 
 **Book 1:** *Libro del Estudiante — Educación Artística — 7mo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 7, 207 PDF pp. STUDENT. Verdict: COMPLETE. Fetched from the recorded libroshonduras.com source URLs. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
 
@@ -15,7 +15,7 @@ countries: Honduras, Morocco, Bulgaria
 |---|---|
 | Morocco — "The Vocal Group" (المجموعة الصوتية) — the choir (la chorale) and its conductor — a song's sections may be sung by the whole choir, alternated between boys and girls, or sung solo by one member, and playing likewise is solo or ensemble (the band with its conductor); the class forms choirs, takes turns conducting, and accompanies on simple instruments or table-tapping (teacher guide — evidence; original target `music/the-choir-and-its-conductor`) | Book 2, printed p. 109 |
 
-**Acceptance count: taught in 2 countries (Honduras, Bulgaria).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Honduras, Bulgaria, China).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/choral-singing`). Honduras's own way: the Grade 7 Telebásica book teaches choral singing as singing the country's own music together — voice-tuning and choral direction in one sequence. Songs are placed by kind and purpose only, never transcribed.
 
@@ -26,3 +26,11 @@ Searchable tags: choral singing, choir, dirección coral, canto coral, Honduras
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Topic 10: Детски хор (the children's choir — singing together in a choir) (student book; original target `music/childrens-choir`) | Book 3, printed p. 15 |
+
+**Book 4:** *普通高中教科书·音乐必修2 歌唱 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修2 歌唱 (Senior High Music, Compulsory 2: Singing) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 146 (cover verified; byte size 38,148,638 matches the record exactly) Verdict: COMPLETE China's own way: a singing course built in ten themed units, each with works to appreciate (named, with composers), a knowledge strand on the voice and choral craft (breathing, resonance, diction, conducting patterns, voice care), and a practice piece to sing — Chinese patriotic, folk and opera/TV songs beside Lassus, Elgar, Beethoven, Verdi and Palestrina. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 4). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 4 声之交响 (Symphony of voices) — choral works (a Soviet song in translation, Elgar's Snowflake in children's-chorus arrangement); knowledge: resonance and unifying registers, kinds of choral art; practice Scarborough Fair as vocal ensemble (student book; original target `music/choral-singing-craft`) | Book 4, printed pp. 40–48 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

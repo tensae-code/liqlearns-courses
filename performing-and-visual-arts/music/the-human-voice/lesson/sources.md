@@ -1,6 +1,6 @@
 # Sources — The Human Voice
 
-countries: Honduras, Colombia, Venezuela, Mongolia, Greece
+countries: Honduras, Colombia, Venezuela, Mongolia, Greece, China
 
 **Book 1:** *Libro del Estudiante — Educación Artística — 8vo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 8, 290 PDF pp. STUDENT. Verdict: COMPLETE. Fetched from the recorded libroshonduras.com source URLs. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
 
@@ -22,7 +22,7 @@ countries: Honduras, Colombia, Venezuela, Mongolia, Greece
 |---|---|
 | Mongolia — Би гоё харагдаж байна уу? / Хөгжилтэй агшин (Do I look nice? / A fun moment) — a singing-posture game: standing straight with a book balanced on the head, breathing deeply and letting the breath out slowly while the teacher counts to ten; then the nonsense-word song "Goyo goyo" sung with movements and clapping in place of the words (student book; original target `music/using-your-voice`) | Book 4, printed p. 5 |
 
-**Acceptance count: taught in 5 countries (Honduras, Colombia, Venezuela, Mongolia, Greece).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Honduras, Colombia, Venezuela, Mongolia, Greece, China).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/the-human-voice`). Honduras's own way: the Grade 8 Telebásica book teaches musical intonation from the voice itself — its apparatus first, then its classification.
 
@@ -35,3 +35,11 @@ Searchable tags: human voice, la voz humana, aparato fonador, phonation, voice c
 | Greece — Topic 3: Φωνή, η δική σου ταυτότητα (Voice — your own identity) (student book; original target `music/the-voice-as-identity`) | Book 5, printed p. 11 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 6:** *普通高中教科书·音乐必修2 歌唱 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修2 歌唱 (Senior High Music, Compulsory 2: Singing) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 146 (cover verified; byte size 38,148,638 matches the record exactly) Verdict: COMPLETE China's own way: a singing course built in ten themed units, each with works to appreciate (named, with composers), a knowledge strand on the voice and choral craft (breathing, resonance, diction, conducting patterns, voice care), and a practice piece to sing — Chinese patriotic, folk and opera/TV songs beside Lassus, Elgar, Beethoven, Verdi and Palestrina. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 4). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 1 美丽人声 (The beautiful human voice) — appreciating 我爱你，中国, the Athletes' March chorus and Lassus' Echo; practising the National Anthem in unison and Huang Zi's canon song (student book; original target `music/the-beautiful-human-voice`) | Book 6, printed pp. 2–10 (works named only) |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

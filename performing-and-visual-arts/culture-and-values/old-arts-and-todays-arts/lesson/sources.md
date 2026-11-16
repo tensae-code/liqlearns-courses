@@ -1,6 +1,6 @@
 # Sources — Old Arts and Today's Arts
 
-countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia, Greece
+countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia, Greece, China
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -64,7 +64,7 @@ countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Braz
 |---|---|
 | Syria — Lesson 29 "From Human Heritage: The Radio" — the old radio as human heritage — how its making developed across the ages, what it meant in grandparents' lives, drawing a family listening together (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 15, printed p. 60 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia, Greece). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.**
+**Acceptance count: taught in 13 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia, Greece, China). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 The definition of ancient arts, the oral-to-recorded contrast and the protection ruling are Grade 3's own words (printed pp. 45 and 58), taught as printed. The closing exercise's keyed-false item (wedding poems and melodies are the same in all areas — false) is taught as the book keys it.
 
@@ -110,3 +110,13 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | Greece — Topics 9–10: Η ελληνική μουσική στους αιώνες (Greek music through the centuries, and "...of the centuries!") — Greece's own music history (student book) | Book 20, printed pp. 27, 31 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 21:** *普通高中教科书·音乐必修6 音乐与戏剧 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修6 音乐与戏剧 (Senior High Music, Compulsory 6: Music and Drama) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 166 (cover verified; byte size 52,126,768 matches the record exactly) Verdict: COMPLETE China's own way: a theatre-music course dominated by China's own stage — Peking opera, Kunqu and a dozen regional opera forms each with their music, singing styles and dialect — before Chinese opera (歌剧）, European opera and the Chinese musical; every unit ends in a rehearsal practice （排演实践） where pupils perform an excerpt themselves (excerpts named only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 10). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 4 §8 — Qinqiang and the Bangzi voice family — Qinqiang, Shanxi opera （晋剧）, Hebei Bangzi and Henan opera （豫剧） and their music (student book) | Book 21, printed pp. 54–59 |
+| China — Unit 4 §9 — Sichuan opera and Tibetan opera — Sichuan opera and Gaoqiang music, Tibetan opera and its music, and the opera forms of the south-western minority peoples (student book) | Book 21, printed pp. 60–63 |
+| China — Unit 4 §§10–11 — Cantonese opera and Chaozhou opera; Puxian opera, Liyuan opera and Gezi opera — the southern regional forms and their music (student book) | Book 21, printed pp. 64–71 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

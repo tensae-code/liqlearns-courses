@@ -1,6 +1,6 @@
 # Sources — Painting Then and Now
 
-countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia, Malaysia, Syria, Armenia, Greece
+countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia, Malaysia, Syria, Armenia, Greece, China
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -133,7 +133,7 @@ countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia, Malaysia, Syr
 | Armenia — Armenian fine art, later 19th century — the LANDSCAPE genre: Hovhannes Aivazovsky (1817-1900), Gevorg Bashinjaghyan (1857-1925); the PORTRAIT genre: Hakob Hovnatanyan (1806-1881); the HISTORICAL genre: Vardges Sureniants (1860-1921) (student book; original target `visual-art/painting-then-and-now`) | Book 22, printed p. 171 |
 
 
-**Acceptance count: taught in 6 countries (Ethiopia, Mongolia, Malaysia, Syria, Armenia, Greece).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Mongolia, Malaysia, Syria, Armenia, Greece, China).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: this lesson stocks only what the structure map assigns to it — the Grade 3 then-and-now comparison and the appreciating-paintings pages, with the Grade 3 teacher guide's valuing part as labelled evidence. Other painting placements in the series carry their own lesson targets in the placements files (the paint kinds, watercolour and oil, cave art, and the great painters) and are not stocked here; they are recorded as not-in-this-map in the build log. Afework Tekle is named in the lesson exactly as the Grade 3 book names him — the modern example — with no biography added beyond the placements.
 
@@ -213,3 +213,20 @@ Searchable tags: painting, Ethiopian painting, then and now, Afework Tekle, appr
 | Greece — Part Δ workbook pages: art-history practice (Realism to Pop Art) and the museum (workbook) | Book 31, printed  |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 32:** *Art G1 Vol.1 (student book, Chinese)* — Title as printed: 义务教育教科书·美术一年级上册 (Compulsory Education Textbook · Art, Grade 1, Volume 1) Grade: Grade 1, first semester (student/teacher: STUDENT) Publisher: People's Education Press (人民教育出版社) with Shanghai Calligraphy & Painting Press; year 2012 (MoE approved 2012); ISBN 978-7-107-24253-3 (barcode on back cover) PDF pages: 51 (cover/title page verified against the record title; byte size 15,092,612 = record size exactly) Verdict: COMPLETE China's own way: every lesson opens with a short rhyming verse, then 看一看/想一想/说一说/试一试 (look, think, speak, try); Chinese ink paintings and folk objects are shown beside modern and Western works from the very first grade. Excluded per standing rules: the end-of-book self-evaluation/reuse pages (assessment only, no teaching). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 1). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 15 乘上列车去画画 — drawing/painting the beautiful scenery of your own country with the tools learned this term (student book) | Book 32, printed p. 28 |
+
+**Book 33:** *普通高中教科书·美术必修 美术鉴赏 (student book, Chinese)* — Title as printed: 普通高中教科书·美术必修 美术鉴赏 (Senior High Art, Compulsory: Art Appreciation) Grade: 12 record (senior high compulsory volume) (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); no ISBN printed on the pages read PDF pages: 190 (cover verified; byte size 33,007,783 matches the record exactly) Verdict: COMPLETE China's own way: appreciation is taught as a skill with a method (how a work is made, how to look at one), then Chinese art first in depth — landscape, flower-and-bird and figure painting, calligraphy, sculpture, architecture and gardens, crafts and folk art — and world art after, in historical order. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 3). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 10 传承与创新 — Chinese modern and contemporary art — inheritance and innovation (student book) | Book 33, printed p. 84 |
+| China — Lesson 14 人性的崛起 — Renaissance art — the rise of humanity (student book) | Book 33, printed p. 118 |
+| China — Lesson 15 权力与理性 — 17th–18th century Western art — power and reason (student book) | Book 33, printed p. 126 |
+| China — Lesson 16 变革与突破 — 19th-century Western art — change and breakthrough (student book) | Book 33, printed p. 134 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

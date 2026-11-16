@@ -1,6 +1,6 @@
 # Sources — Composers and Their Lives
 
-countries: Syria, Armenia, North Macedonia
+countries: Syria, Armenia, North Macedonia, China
 
 **Book 1:** *التربية الموسيقية (Music Education), Eighth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 85,804,582 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only book, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): "Let Us Play and Test Our Knowledge," printed p. 52 — a board-game revision of the book's content (assessment play, inventory only); closing "Anthems of the Book" appendix, printed pp. 54-64 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
 
@@ -90,7 +90,7 @@ countries: Syria, Armenia, North Macedonia
 | Armenia — Bach's PASSIONS — of Bach's passions only two survive, according to John and according to Matthew; even the short pauses carry special meaning — in 18th-century music silence speaks (student book; original target `music/composers-and-their-music`) | Book 13, printed p. 22 |
 
 
-**Acceptance count: taught in 3 countries (Syria, Armenia, North Macedonia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Syria, Armenia, North Macedonia, China).** Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/composers-and-their-lives`). The Syria placements were filed under the original string(s) `music/famous-composers`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. Syria's own way is the lesson itself where the topic is Syrian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
@@ -103,3 +103,18 @@ Searchable tags: Syria, Composers and Their Lives, Lesson 4 (composers), Armenia
 | North Macedonia — Занимливости — stories of the composers: Henry Purcell, locked out all night by his wife, caught cold and died at 36; Beethoven the ladies' man, the "Moonlight" Sonata dedicated to his immortal beloved Giulietta Guicciardi; Paganini, who played whole concertos on one string and offered the Milan coachman 20 lire to drive him home "on one wheel"; and Borodin, the professor-chemist-general so absent-minded he forgot his own wife's name at the border (student book; original target `music/stories-of-the-composers`) | Book 14, printed pp. 89–90 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 15:** *Music G5 Vol.1, jianpu edition (student book, Chinese)* — Title as printed: 义务教育教科书·音乐（简谱）五年级上册 (Compulsory Education Textbook · Music (Numbered Notation), Grade 5, Volume 1) Grade: Grade 5, first semester (student/teacher: STUDENT) Publisher: People's Education Press; year 2013 (approved 2013); no ISBN printed on the title pages PDF pages: 75 (matches the record's printed page count; byte size 6,446,944 = record size exactly; full text layer — read in full) Verdict: COMPLETE China's own way: Unit 1 "Western Scenery" is all Chinese western folk colour — a Tibetan tap-dance song, Qinghai "Hua'er" mountain songs (UNESCO-listed) and a minority-flavoured orchestral celebration; the year balances it with Mozart, Bach, Prokofiev, Rossini and the Strauss family. Excluded: 学习测评 assessment pages. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 15). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 3 音乐家故事 莫扎特 — Mozart's story — the Salzburg child prodigy whose father trained him in theory, performance and languages, ten years of European tours, and 35 short years of work "like eternal sunshine" (student book; original target `music/stories-of-great-composers`) | Book 15, printed p. 23 |
+
+**Book 16:** *Music G6 Vol.2 (student book, Chinese)* — Title as printed: 义务教育教科书·音乐（简谱）六年级下册 (Compulsory Education Textbook · Music (Jianpu), Grade 6, Volume 2) Grade: Grade 6, second semester (student/teacher: STUDENT) Publisher: People's Education Press; year 2014 (1st ed. Oct 2014); ISBN 978-7-107-29097-8 PDF pages: 73 (matches the record exactly; cover verified visually against the record title; byte size 6,450,979 = record size exactly; image-only scan — read page-by-page on 100-DPI contact sheets) Verdict: COMPLETE China's own way: the primary music course ends with the 56 peoples as one family of flowers, the two mother rivers (Xian Xinghai writing the Yellow River Cantata in under a week), and a graduation concert the class stages itself. Excluded: 学习测评 assessment pages and the eight-hole recorder fingering chart (apparatus/inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 20). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 1 音乐家故事：贝多芬 — Beethoven's story — deafness creeping from age 26, complete by 43, yet the deaf composer wrote the Ninth with its chorus and resolved to seize fate by the throat (student book; original target `music/stories-of-great-musicians`) | Book 16, printed p. 5 |
+| China — Unit 5 音乐家故事：冼星海与《黄河大合唱》 — Xian Xinghai and the Yellow River Cantata — in Yan'an in 1939 the poet Guang Weiran recited his long poem from a sickbed; Xinghai, fired by it, finished the eight-movement cantata in under a week (student book; original target `music/stories-of-great-musicians`) | Book 16, printed p. 40 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

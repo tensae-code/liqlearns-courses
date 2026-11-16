@@ -1,6 +1,6 @@
 # Sources — Dances of Ethiopia
 
-countries: Ethiopia
+countries: Ethiopia, China
 
 **Book 3:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -28,8 +28,16 @@ countries: Ethiopia
 | Sub lesson 6 — Ethiopian Folk Dance — an introduction (teacher guide — evidence) | Grade 7 Teacher Guide, printed p. 8 |
 | Sub lesson 7 — Dance in history — before writing | Grade 8 Student Textbook, §3.1.3, printed pp. 85–86 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, China).**
 
 The Grade 6 teacher-guide row is labelled evidence: it surveys the same pupil-taught dances region by region (taught, per the guide's own strategy note, by video with their music) and does not change the count. The Grade 4 book's dance lesson is titled 'Dances of Our Region' in its placement; per STRUCTURE.md's grouping rule it stocks here, its named set being the same Amhara set. Step-by-step technique for these dances lives in the Grade 7–8 guides under their own lesson names and is not duplicated in this lesson.
 
 Searchable tags: dances of Ethiopia, Afar, Somali, Tigray, Gojjam, Gondar, Awi, Kemise, Shewa, Seqota, Wollo, Argoba, Raya, Wag Himra, albaso, Grade 3, Grade 4
+
+**Book 12:** *普通高中教科书·音乐必修5 音乐与舞蹈 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修5 音乐与舞蹈 (Senior High Music, Compulsory 5: Music and Dance) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 122 (cover verified; byte size 35,392,262 matches the record exactly) Verdict: COMPLETE China's own way: a dance course taught through the body — every unit pairs works to watch with basic-practice movement combinations （动作组合） pupils actually perform: Shandong yangge and Yunnan lantern dance, Tibetan and Mongolian combinations, classical dance, ballet, tap, hula, modern and ballroom dance. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 9). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — comparative/world-dance placement — Unit 6 外国民族民间舞： foreign national folk dances — Riverdance appreciated, an Irish tap combination practised, and the Hawaiian hula — its origins, kinds and character (student book) | Book 12, printed pp. 82–89 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

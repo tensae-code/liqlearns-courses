@@ -1,6 +1,6 @@
 # Sources — Songs for Clean and Healthy Living
 
-countries: Ethiopia, Rwanda, Syria
+countries: Ethiopia, Rwanda, Syria, China
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -87,8 +87,16 @@ countries: Ethiopia, Rwanda, Syria
 |---|---|
 | Syria — Lesson 19 "My Environment" — observing the picture and defining the problem and an immediate solution; singing in French to the teacher's playing — "La pollution, ce n'est…" — the pollution song (student book; original target `music/songs-for-clean-and-healthy-living`) | Book 14, printed p. 48 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Syria). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
+**Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Syria, China). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 The Grade 4 teacher-guide part is syllabus-level evidence only (its Ch. 5 detail sits in the guide's syllabus tables), and it is labelled as such; the lesson's taught content stands on the two student textbooks. The placements ask for a GIF of the full handwashing sequence; a ten-step sequence cannot be drawn truthfully in a two-second loop, so no handwashing GIF was filed — the numbered ten-panel picture and the sing-along audio slot carry the sequence instead.
 
 Searchable tags: clean living songs, handwashing, ten steps, science science, keeping clean, ስለ ንጽህና አጠባበቅ, ሳይንስ ሳይንስ, ንጽህናችንን እንጠብቅ, hygiene, Rwanda, Syria
+
+**Book 15:** *音乐 Music Grade 2 下册 (PEP 简谱) (student book, Chinese) — image-only PDF, read from rendered pages* — Title as printed: 义务教育教科书 音乐（简谱）二年级 下册 Grade: 2, second volume (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); no ISBN printed on the pages read PDF pages: 65 (byte size 6,489,616 matches the record exactly; cover verified; image-only PDF read from rendered pages — both contents pages in full and unit content pages spot-read, including Unit 1's Prokofiev listening and the bars/barlines knowledge box) Verdict: COMPLETE (contents-level read of an image-only book) China's own way: a trip out of the city opens the book (Prokofiev's Departure, echo singing in the valley, a train piece to create), then health songs with shuttlecock kicking and group dance, animals again, the 56-peoples unit with an Ak Xir Xir song and a Rikaze home song, a naughty alarm clock unit about time, and childhood games to close. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 6). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 2 健康歌 歌表演 健康歌， singing 小雪橇： the Health Song sung and acted; the Little Sled sung (student book) | Book 15, printed pp. 10, 12 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

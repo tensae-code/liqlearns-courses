@@ -1,6 +1,6 @@
 # Sources — Story Songs
 
-countries: Armenia, Greece
+countries: Armenia, Greece, China
 
 **Book 1:** *Երաժշտություն 2 (Music 2), publisher imprint "Արևիկ" (Arevik), Yerevan* (student book, Armenian) — Armenia, Arevik, Yerevan; year 2023; ISBN not printed in the extracted front matter. Grade: 2 (student/teacher: STUDENT). PDF pages: 124 (cover verified; byte size 31,347,883 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE (appendix, printed pp. 110-121, is sheet music of the book's songs — inventory only, not placed). Authors include Anahit Gevorgyan, Ani Baghdasaryan, Gohar Meliksetyan. Built on three themes: "The simple and accessible genres of music" (march, song, dance, opera, ballet, symphony), "How music is created (the musical alphabet)" and "The expressive means of music" — composers themselves greet the child in first-person letters (Komitas, Robert Petrosyan, Tchaikovsky, Mozart, Saint-Saëns). Armenia's own way: the Armenian alphabet gets its own song, Komitas writes the child a letter about his childhood name Soghomon, and the folk songs are sung three ways — with words, with notes, and with hand signs. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
 
@@ -20,7 +20,7 @@ countries: Armenia, Greece
 |---|---|
 | Armenia — Are there special performers among the people — the folk songs "Chem krna khagha" and "Naz mi ani": the people's own singers (student book; original target `music/songs-and-what-they-say`) | Book 3, printed p. 27 |
 
-**Acceptance count: taught in 2 countries (Armenia, Greece).**
+**Acceptance count: taught in 3 countries (Armenia, Greece, China).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/story-songs`). The Armenia placements were filed under the original string(s) `music/songs-and-what-they-say`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. Armenia's own way is the lesson itself where the topic is Armenian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
@@ -39,3 +39,17 @@ Searchable tags: Armenia, Story Songs, The SONG
 | Greece — Ε2. Στη χώρα του παραμυθιού (In fairy-tale land) — group creative work that turns a story text into music; recognising accelerando and rallentando by ear (workbook) | Book 5, printed p. 50 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 6:** *Music G6 Vol.1 (student book, Chinese)* — Title as printed: 义务教育教科书·音乐（简谱）六年级上册 (Compulsory Education Textbook · Music (Jianpu), Grade 6, Volume 1) Grade: Grade 6, first semester (student/teacher: STUDENT) Publisher: People's Education Press; year 2013 (approved 2013); no ISBN shown on the title pages PDF pages: 71 (matches the record exactly; cover verified visually against the record title; byte size 5,886,152 = record size exactly; full text layer — read in full) Verdict: COMPLETE China's own way: the last primary year opens with the national anthem and a unit of homeland songs, gives a whole unit to the Mongolian grassland (erhu horse-racing, long-song and short-song), and closes with the music of the Olympic Games from Athens to Beijing. Excluded: 学习测评 assessment pages. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 19). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 3 飞天 — the song from the film Flying — China's old dream of flight come true in its astronauts (student book; original target `music/songs-that-tell-stories`) | Book 6, printed p. 27 |
+
+**Book 7:** *Music G6 Vol.2 (student book, Chinese)* — Title as printed: 义务教育教科书·音乐（简谱）六年级下册 (Compulsory Education Textbook · Music (Jianpu), Grade 6, Volume 2) Grade: Grade 6, second semester (student/teacher: STUDENT) Publisher: People's Education Press; year 2014 (1st ed. Oct 2014); ISBN 978-7-107-29097-8 PDF pages: 73 (matches the record exactly; cover verified visually against the record title; byte size 6,450,979 = record size exactly; image-only scan — read page-by-page on 100-DPI contact sheets) Verdict: COMPLETE China's own way: the primary music course ends with the 56 peoples as one family of flowers, the two mother rivers (Xian Xinghai writing the Yellow River Cantata in under a week), and a graduation concert the class stages itself. Excluded: 学习测评 assessment pages and the eight-hole recorder fingering chart (apparatus/inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 20). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — 我的音乐网页：选听母亲教我的歌 — optional listening — Dvořák's Songs My Mother Taught Me: the mother who taught the song now teaches it to her own children, tears on her cheeks (student book; original target `music/songs-that-tell-stories`) | Book 7, printed p. 58 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

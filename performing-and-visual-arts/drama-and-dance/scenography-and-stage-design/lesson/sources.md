@@ -1,6 +1,6 @@
 # Sources — Scenography and Stage Design
 
-countries: Serbia, Brazil, Bulgaria, Venezuela, Malaysia, Indonesia, Armenia
+countries: Serbia, Brazil, Bulgaria, Venezuela, Malaysia, Indonesia, Armenia, China
 
 **Book 1:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -58,7 +58,7 @@ countries: Serbia, Brazil, Bulgaria, Venezuela, Malaysia, Indonesia, Armenia
 | Armenia — STAGE DESIGN (բեմանկարչություն) — at the 20th century's start stage design entered an innovative phase; Georgi Yakulov: decor for Prokofiev's ballet "The Steel Step" (1927), the "Hamlet" staging design, a costume sketch for the "Carmen" ballet (1923); in 1918 he co-founded Moscow's Armenian Drama Studio and designed Paronyan's "The Honourable Beggars" (1924) (student book; original target `drama-and-dance/stage-design`) | Book 11, printed p. 51 |
 
 
-**Acceptance count: taught in 6 countries (Serbia, Brazil, Bulgaria, Venezuela, Malaysia, Armenia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Serbia, Brazil, Bulgaria, Venezuela, Malaysia, Armenia, China).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/scenography-and-stage-design`); the Serbia placements were filed under the original string(s) `drama-and-dance/stage-space-and-scenography`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: scenography is taught from the Greek open stage at Epidaurus, where nature completed the set, to the child's own group-built stage of foils, fabrics, mirrors and LED strips.
 
@@ -69,3 +69,11 @@ Searchable tags: scenography, stage design, stage space, Epidaurus, stage lighti
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Изобразителното изкуство и другите изкуства – сценични изкуства (Fine Art and the Other Arts — the Stage Arts) — the stage arts (theatre, dance, cinema, estrada, opera, operetta, puppet theatre, television, circus) as synthetic arts: united by the stage or screen space where a creative team — playwrights, scriptwriters, directors, ca… (student book) | Book 4, printed pp. 14–16 |
+
+**Book 12:** *Art G5 Vol.2 (student book, Chinese)* — Title as printed: 义务教育教科书·美术五年级下册 (Compulsory Education Textbook · Art, Grade 5, Volume 2) Grade: Grade 5, second semester (student/teacher: STUDENT) Publisher: People's Education Press with Shanghai Calligraphy & Painting Press; year 2014 (1st ed. Oct 2014); ISBN 978-7-107-29100-5 PDF pages: 49 (cover verified visually against the record title; byte size 8,654,412 = record size exactly; image-only scan — read page-by-page on 100-DPI contact sheets) Verdict: COMPLETE China's own way: opens with a Yangjiabu woodblock New Year picture; three straight lessons of freehand ink painting (vegetables, animals, pine trees); the zodiac and kites as folk art; closes with ancient bronze art. Excluded: end-of-book self-evaluation pages. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 14). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 19 舞台上的布景 — stage scenery — sets, light, make-up and costume together build a play's world: a Kunqu Peony Pavilion set, a Yuan-dynasty opera mural, a light-built acrobatics set, a painted Peking-opera set; designing a set sketch as a class and building it in groups (student book; original target `drama-and-dance/props-and-scenery`) | Book 12, printed p. 36 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

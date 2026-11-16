@@ -1,6 +1,6 @@
 # Sources — Playing the Guitar
 
-countries: Papua New Guinea, Malaysia
+countries: Papua New Guinea, Malaysia, China
 
 **Book 1:** *Music — Upper Secondary Teacher Guide* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea; year 2008; ISBN 978-9980-9924-2-0, Grades 11–12, 83 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (cover/title page verified against the record title; 520,329 bytes and 83 pages match the record exactly). Excluded per the placements: the assessment chapters and sample tests (printed pp. 13–25, 62–65, 73–83, assessment only), glossaries (printed pp. 69–72, inventory only), resource lists. Placements at liqlearns-courses-work/expansion-art-2026-11-16/papua-new-guinea-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -32,8 +32,16 @@ countries: Papua New Guinea, Malaysia
 |---|---|
 | Malaysia — Unit 6 Teknik Bermain Gitar — guitar playing technique consolidated at upper-secondary level, with primary chords in ensemble (student book; original target `music/guitar-technique-upper-secondary`) | Book 5, printed pp. 108, 115 |
 
-**Acceptance count: taught in 1 country (Malaysia). Earlier stock stands on Papua New Guinea teacher guide evidence only, named here, counted nowhere.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Malaysia, China). Earlier stock stands on Papua New Guinea teacher guide evidence only, named here, counted nowhere.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/playing-the-guitar`). The placement was filed as NEW LESSON NEEDED under the original string `music/png-guitar-and-keyboard-studies`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Papua New Guinea's own way is kept as named parts, exactly as the guides teach it. Songs are placed by summary only, never transcribed.
 
 Searchable tags: playing the guitar, Papua New Guinea
+
+**Book 6:** *Music G6 Vol.2 (student book, Chinese)* — Title as printed: 义务教育教科书·音乐（简谱）六年级下册 (Compulsory Education Textbook · Music (Jianpu), Grade 6, Volume 2) Grade: Grade 6, second semester (student/teacher: STUDENT) Publisher: People's Education Press; year 2014 (1st ed. Oct 2014); ISBN 978-7-107-29097-8 PDF pages: 73 (matches the record exactly; cover verified visually against the record title; byte size 6,450,979 = record size exactly; image-only scan — read page-by-page on 100-DPI contact sheets) Verdict: COMPLETE China's own way: the primary music course ends with the 56 peoples as one family of flowers, the two mother rivers (Xian Xinghai writing the Yellow River Cantata in under a week), and a graduation concert the class stages itself. Excluded: 学习测评 assessment pages and the eight-hole recorder fingering chart (apparatus/inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 20). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 1 爱的罗曼斯 — Romance de Amor for solo guitar — a Spanish folk melody made famous by the film Forbidden Games and Yepes's arrangement, now every guitarist's keepsake (student book; original target `music/playing-an-instrument`) | Book 6, printed p. 8 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

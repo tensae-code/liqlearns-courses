@@ -1,6 +1,6 @@
 # Sources — Modern Instruments
 
-countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, Bolivia, Malaysia, Indonesia, Syria, Laos
+countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, Bolivia, Malaysia, Indonesia, Syria, Laos, China
 
 **Book 1:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 
@@ -145,7 +145,7 @@ countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, B
 |---|---|
 | Syria — Lesson 12 (the buzuq) — observing the picture and describing the buzuq instrument; listening to a piece by the buzuq player Mohamed Abdel Karim, nicknamed "Prince of the Buzuq" for his creative playing on it, who also excelled on the oud and composed many famous melodies for the greatest singers (student book; original target `music/modern-instruments`) | Book 24, printed p. 31 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Angola, Bolivia, Malaysia, Syria).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Laos is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Angola, Bolivia, Malaysia, Syria, China).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Laos is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Modern instruments are treated at the level the Grade 8 placements carry them — the book treats traditional and modern families exhaustively; the sound-role pairings follow the book's family order. No brand names or models are introduced.
 
@@ -196,3 +196,18 @@ Searchable tags: modern instruments, trumpet saxophone keyboard drum kit, modern
 | Lesson part | Where it comes from |
 |---|---|
 | Laos — Lesson 25, world instruments: the guitar — the guitar's history, its two kinds (acoustic and electric, pictured), its parts and the names of its six strings (teacher guide — evidence) | Book 29, printed p. 69 |
+
+**Book 30:** *普通高中教科书·音乐必修3 演奏 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修3 演奏 (Senior High Music, Compulsory 3: Instrumental Performance) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 170 (cover verified; byte size 31,916,065 matches the record exactly) Verdict: COMPLETE China's own way: an ensemble course — pupils meet four kinds of band (Chinese national orchestra, Western orchestra, wind band, mixed band), learn each instrument family's main instruments and representative playing techniques, rehearse real ensemble pieces, and finish with a choose-your-own ensemble repertoire. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 7). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 4 管乐队： the wind band — its make-up, seating and main instruments, with the PLA March appreciated and Mussorgsky's Promenade rehearsed (student book) | Book 30, printed pp. 46–52 |
+| China — Unit 5 混合乐队： the mixed (hybrid) band — its make-up, seating and main instruments, with Paul Mauriat's 蓝色的爱 appreciated (student book) | Book 30, printed pp. 54–58 |
+
+**Book 31:** *普通高中教科书·音乐必修4 音乐编创 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修4 音乐编创 (Senior High Music, Compulsory 4: Music Creation) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 122 (cover verified; byte size 51,017,604 matches the record exactly) Verdict: COMPLETE China's own way: a composition course in two halves — first song-writing by hand (melody writing, musical themes, song structure, lyrics) always through Chinese folk songs and named Chinese composers' songs as models, then computer music: notation software, accompaniment arrangement and automatic composition aids. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 8). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 8 辅助作曲技巧： computer composition aids — automatic chord labelling and realisation, automatic rhythm patterns, intelligent arranging, layered score editing and importing/exporting ideas (student book) | Book 31, printed pp. 100–107 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

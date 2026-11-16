@@ -1,6 +1,6 @@
 # Sources — Chords and Triads
 
-countries: Sri Lanka, Malaysia, North Macedonia
+countries: Sri Lanka, Malaysia, North Macedonia, China
 
 **Book 1:** *Grade 9 Oriental Music Teacher Guide Collection — පෙරදිග සංගීතය (Sinhala medium)* (teacher guide) — Sri Lanka, National Institute of Education (NIE), Sri Lanka; first edition 2009, in force from 2010; no ISBN printed. Grade: 9 (student/teacher: TEACHER). PDF pages: 165. Verdict: COMPLETE. The closing school-based assessment rubrics are assessment apparatus, named in the placements and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -42,7 +42,7 @@ countries: Sri Lanka, Malaysia, North Macedonia
 |---|---|
 | Malaysia — Unit 3 — primary chords in the treble clef and the difference between major and minor chords (filed under the Book 2 lesson slug music/guitar-chords) (student book; original target `music/guitar-chords`) | Book 6, printed pp. 97, 100 |
 
-**Acceptance count: taught in 2 countries (Malaysia, North Macedonia).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Malaysia, North Macedonia, China).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/chords-and-triads`); the Sri Lanka placements were filed under the original string(s) `music/accordion-guitar-and-chords` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -62,3 +62,12 @@ Searchable tags: chords and triads, Sri Lanka
 | North Macedonia — Акорди — chords: at least three tones of different pitch together; the triad (квинтакорд) of root, third and fifth — major, minor, diminished, augmented; and the seventh chord (септакорд) in its seven kinds, the dominant among them (student book; original target `music/chords-and-triads`) | Book 8, printed p. 58 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 9:** *HS Music Elective 5: Basic Music Theory (student book, Chinese)* — Title as printed: 普通高中教科书·音乐选择性必修5 音乐基础理论 (Senior High School Textbook · Music, Selective Elective 5: Basic Music Theory) Grade: Senior high school, selective elective 5 (student/teacher: STUDENT) Publisher: People's Music Publishing House (人民音乐出版社); year 2019 (new-curriculum edition, July 2019 first edition); price 7.45 yuan; ISBN 978-7-103-05700-1 PDF pages: 102 (cover and title page verified visually against the record title; byte size 31,435,423 = record size exactly; image-only scan — read in full on 100-DPI page renders and 4-up contact sheets; every example is a printed score, filed here as summaries of what each section teaches) Verdict: COMPLETE China's own way: Western theory taught bilingually in two notations — every rule is stated for the five-line staff and for jianpu side by side — and crowned with China's own modal system: the five pentatonic modes and their six- and seven-tone expansions sit in the same unit as major and minor, and the free metre of xiqu (散板, "no board, no eye") is taught beside simple and compound time. Excluded per standing rules: the 综合练习 (comprehensive exercises) closing each unit — pure assessment sets, named here and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 31). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 4 Section 10 三和弦 — the triad — three tones stacked in thirds, root, third and fifth; root position and its two inversions, the six-chord and the six-four chord; and the four kinds told by their stacking: major (major third under minor), minor (minor under major), augmented (two major thirds, an augmented fifth on top) and diminished (two minor thirds, a diminished fifth) — with the full table of each kind in root position and both inversions (student book; original target `music/triads-and-seventh-chords`) | Book 9, printed p. 53 |
+| China — Unit 4 Section 11 七和弦 — the seventh chord — four tones in thirds, named from the triad inside it plus the seventh above its root (the major-minor seventh: a major triad carrying a minor seventh); root position and the three inversions — five-six, three-four and two chords; the four common kinds (major-minor, minor, diminished-minor or half-diminished, fully diminished); and enharmonic chords, one sound answering to two spellings (student book; original target `music/triads-and-seventh-chords`) | Book 9, printed p. 55 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

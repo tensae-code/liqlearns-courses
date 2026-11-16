@@ -1,6 +1,6 @@
 # Sources — Folk Crafts of Ethiopia
 
-countries: Ethiopia, Mongolia
+countries: Ethiopia, Mongolia, China
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -25,8 +25,16 @@ countries: Ethiopia, Mongolia
 |---|---|
 | Mongolia — Part II: Байгалийн материалаар бүтээл хийх (a work from natural materials) p. 53 and Боргоцойгоор амьтан хийх (an animal from pine cones) p. 54 — filed against the crafts lesson as the closest existing home (student book; original target `culture-and-values/folk-crafts-of-ethiopia`) | Book 4, printed pp. 53, 54 |
 
-**Acceptance count: taught in 2 countries(Ethiopia, Mongolia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 3 countries(Ethiopia, Mongolia, China).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The jewellery pieces are named exactly as the placement prints them (ማርዳ marda, ድሪ diri) without assigning them to specific peoples or body parts the placement does not state. 'Crafts from what is nearby' (the guides' improvisation teaching) is a making-lesson and is stocked in the built crafts strand, not duplicated here; this lesson stocks the Grade 5 student book's own folk-craft chapter.
 
 Searchable tags: folk handicrafts, የህዝብ እጅ ሥራዎች, embroidery, woven grass, leather craft, old dress, jewellery, ማርዳ, marda, ድሪ, diri, crafts benefit society
+
+**Book 5:** *普通高中教科书·美术必修 美术鉴赏 (student book, Chinese)* — Title as printed: 普通高中教科书·美术必修 美术鉴赏 (Senior High Art, Compulsory: Art Appreciation) Grade: 12 record (senior high compulsory volume) (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); no ISBN printed on the pages read PDF pages: 190 (cover verified; byte size 33,007,783 matches the record exactly) Verdict: COMPLETE China's own way: appreciation is taught as a skill with a method (how a work is made, how to look at one), then Chinese art first in depth — landscape, flower-and-bird and figure painting, calligraphy, sculpture, architecture and gardens, crafts and folk art — and world art after, in historical order. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 3). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — comparative/folk-art placement — Lesson 9 美在民间: Chinese folk art — beauty among the people (student book) | Book 5, printed p. 74 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

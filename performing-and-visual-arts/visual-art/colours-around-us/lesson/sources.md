@@ -1,7 +1,7 @@
 # Sources — Colours Around Us
 
 
-countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saudi Arabia, Angola, Afghanistan, Rwanda, Bolivia, Moldova, Indonesia, Armenia, Greece
+countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saudi Arabia, Angola, Afghanistan, Rwanda, Bolivia, Moldova, Indonesia, Armenia, Greece, China
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -120,7 +120,7 @@ countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saud
 | Armenia — The first colour set (teacher-guide evidence) — tell apart and use red, yellow, green, blue, black, white and brown (teacher guide — evidence; original target `visual-art/colours-around-us`) | Book 27, printed p. 6 |
 
 
-**Acceptance count: taught in 12 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil, Saudi Arabia, Angola, Afghanistan, Bolivia, Moldova, Armenia, Greece). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 13 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil, Saudi Arabia, Angola, Afghanistan, Bolivia, Moldova, Armenia, Greece, China). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 6 rests on teacher-guide evidence only for its own content; it is labelled as evidence in the part name, in the lesson text and in this table. The Grade 2 teacher guide is a scan with no usable text layer, read visually; its citation here is at section level only, as its placements require. The lesson as a whole stands on the Grade 1 and Grade 3 student textbooks, so the acceptance count counts pupil-taught content. The Grade 1 Chapter 3 summary's line — colours distinguish our clothes and beautify the surroundings (plants green, flowers red and yellow) — is carried in Colours on Clothes and in the question stock of this lesson, under the folding rules.
 
@@ -180,3 +180,11 @@ Afghanistan is added as student-book stock (see its rows above), inside the acce
 | Greece — Unit B workbook pages: nature, contrast, shadow and reflection practice (workbook) | Book 31, printed pp. 21–31 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 32:** *Art G1 Vol.1 (student book, Chinese)* — Title as printed: 义务教育教科书·美术一年级上册 (Compulsory Education Textbook · Art, Grade 1, Volume 1) Grade: Grade 1, first semester (student/teacher: STUDENT) Publisher: People's Education Press (人民教育出版社) with Shanghai Calligraphy & Painting Press; year 2012 (MoE approved 2012); ISBN 978-7-107-24253-3 (barcode on back cover) PDF pages: 51 (cover/title page verified against the record title; byte size 15,092,612 = record size exactly) Verdict: COMPLETE China's own way: every lesson opens with a short rhyming verse, then 看一看/想一想/说一说/试一试 (look, think, speak, try); Chinese ink paintings and folk objects are shown beside modern and Western works from the very first grade. Excluded per standing rules: the end-of-book self-evaluation/reuse pages (assessment only, no teaching). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 1). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 5 五彩的烟花 — fireworks drawn with bright arcs; naming the seven common colours and choosing colours for a night-sky picture (student book) | Book 32, printed p. 8 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

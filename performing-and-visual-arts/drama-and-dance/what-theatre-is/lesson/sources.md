@@ -1,6 +1,6 @@
 # Sources — What Theatre Is
 
-countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan, Venezuela, Malaysia, Moldova, Indonesia, Armenia, Greece
+countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan, Venezuela, Malaysia, Moldova, Indonesia, Armenia, Greece, China
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -66,7 +66,7 @@ countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jord
 | Armenia — Theme 2.1: Music and theatre — theatre as an art revealed through actors' play before an audience, built on literature, painting, sculpture, architecture, music and dance together; the actor as bearer of the artistic image (student book; original target `drama-and-dance/what-theatre-is`) | Book 14, printed p. 76 |
 
 
-**Acceptance count: taught in 9 countries (Ethiopia, Egypt, Iran, Jordan, Venezuela, Malaysia, Moldova, Armenia, Greece). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Egypt, Iran, Jordan, Venezuela, Malaysia, Moldova, Armenia, Greece, China). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson rests on the Grade 4 student book's own definition (§1.3). The book's performance picture (Fig. 1.12, printed p. 16) is described as a slot; it is not reproduced.
 
@@ -88,3 +88,11 @@ Searchable tags: theatre, definition, director, audience, Grade 4, §1.3, Egypt,
 | Greece — Εισαγωγή: Το Παιχνίδι (Introduction: The Game) — the book's idea — theatre learned through play, in levels called zones, some played alone and some in groups, with the "Stage Magician" (teacher) guiding (student book) | Book 15, printed p. 7 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 16:** *普通高中教科书·音乐必修6 音乐与戏剧 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修6 音乐与戏剧 (Senior High Music, Compulsory 6: Music and Drama) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 166 (cover verified; byte size 52,126,768 matches the record exactly) Verdict: COMPLETE China's own way: a theatre-music course dominated by China's own stage — Peking opera, Kunqu and a dozen regional opera forms each with their music, singing styles and dialect — before Chinese opera (歌剧）, European opera and the Chinese musical; every unit ends in a rehearsal practice （排演实践） where pupils perform an excerpt themselves (excerpts named only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 10). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 1 走近戏剧 §1 — appreciating drama — Peking opera, opera, spoken drama and film-song excerpts; the concept, characteristics and forms of drama (student book) | Book 16, printed pp. 4–8 (excerpts named only) |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Dance Education and Indigenous Dance
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Venezuela, Indonesia, Armenia
+countries: Ethiopia, Samoa, Trinidad and Tobago, Venezuela, Indonesia, Armenia, China
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -75,8 +75,16 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Venezuela, Indonesia, Armenia
 | Armenia — Dance (Պար) — dance introduced as an art type, movement as expression (student book; original target `drama-and-dance/dance-education-and-indigenous-dance`) | Book 13, printed p. 15 |
 
 
-**Acceptance count: taught in 2 countries (Venezuela, Armenia) — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Venezuela, Armenia, China) — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 7 teacher guide (printed pp. 86–94) as labelled evidence, including its Paleolithic rock-painting history and its Wolayta Seleme-Seleme viewing example.
 
 Searchable tags: dance education, indigenous dance, Wolayta, Seleme-Seleme, purposes of dance, Grade 7 teacher guide, evidence, Armenia
+
+**Book 14:** *普通高中教科书·音乐必修5 音乐与舞蹈 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修5 音乐与舞蹈 (Senior High Music, Compulsory 5: Music and Dance) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 122 (cover verified; byte size 35,392,262 matches the record exactly) Verdict: COMPLETE China's own way: a dance course taught through the body — every unit pairs works to watch with basic-practice movement combinations （动作组合） pupils actually perform: Shandong yangge and Yunnan lantern dance, Tibetan and Mongolian combinations, classical dance, ballet, tap, hula, modern and ballroom dance. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 9). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 1 走近舞蹈： the origins of dance (in labour, ritual and social life) and the kinds of dance (student book) | Book 14, printed pp. 4–9 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

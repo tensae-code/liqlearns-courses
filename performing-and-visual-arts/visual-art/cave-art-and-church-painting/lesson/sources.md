@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova, Indonesia, Armenia, North Macedonia, Greece
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova, Indonesia, Armenia, North Macedonia, Greece, China
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -129,7 +129,7 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, S
 | Armenia — The Origin of Art: primitive art (Արվեստի ծագումը, Նախնադարյան արվեստ) — how art began with the first peoples (student book; original target `visual-art/cave-art-and-church-painting`) | Book 29, printed p. 22 |
 
 
-**Acceptance count: taught in 18 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova, Armenia, North Macedonia, Greece).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 19 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova, Armenia, North Macedonia, Greece, China).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 
@@ -188,3 +188,12 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | Greece — Unit Δ workbook pages: creators yesterday and today in practice (Δ2 Βυζαντινή αγιογραφία) (workbook) | Book 32, printed pp. 41–50 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 33:** *普通高中教科书·美术必修 美术鉴赏 (student book, Chinese)* — Title as printed: 普通高中教科书·美术必修 美术鉴赏 (Senior High Art, Compulsory: Art Appreciation) Grade: 12 record (senior high compulsory volume) (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); no ISBN printed on the pages read PDF pages: 190 (cover verified; byte size 33,007,783 matches the record exactly) Verdict: COMPLETE China's own way: appreciation is taught as a skill with a method (how a work is made, how to look at one), then Chinese art first in depth — landscape, flower-and-bird and figure painting, calligraphy, sculpture, architecture and gardens, crafts and folk art — and world art after, in historical order. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 3). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 11 美术的曙光 — the dawn of art — prehistoric and early-civilisation art (student book) | Book 33, printed p. 96 |
+| China — Lesson 13 宗教的象征 — European medieval art — the symbols of religion (student book) | Book 33, printed p. 112 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

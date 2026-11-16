@@ -1,6 +1,6 @@
 # Sources — Video: Moving Pictures
 
-countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia, North Macedonia, Greece
+countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia, North Macedonia, Greece, China
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba, Venezuela, Mala
 |---|---|
 | Malaysia — Bab 1 Fotografi Kreatif, Pengiklanan, Kewartawanan — creative photography, advertising photography and photojournalism as working kinds (student book; original target `visual-art/video-moving-pictures`) | Book 14, printed pp. 30–33 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia, North Macedonia, Greece). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia, North Macedonia, Greece, China). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 5 book's tempo table oddity (Allegretto above Allegro) belongs to the music lesson and is not used here. The Grade 8 teacher-guide parts are inside that guide's surviving body pages (printed pp. 4–6) and are labelled evidence. Creative photography's techniques are taught as the Grade 7 guide names them; 'painting onto a printed photo' and double exposure are described, not faked — the lesson's picture is a drawn teaching board, not a photograph claiming those effects.
 
@@ -100,3 +100,20 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | Greece — Ενότητα 3, Θέμα 2: Βίντεο και Ηλεκτρονικός Υπολογιστής (Video and computer) — cinema and video; the computer and the digital image; Video Art (student book) | Book 17, printed p. 76 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 18:** *Art G3 Vol.1 (student book, Chinese)* — Title as printed: 义务教育教科书·美术三年级上册 (Compulsory Education Textbook · Art, Grade 3, Volume 1) Grade: Grade 3, first semester (student/teacher: STUDENT) Publisher: People's Education Press with Shanghai Calligraphy & Painting Press; year 2013 (MoE approved 2013); ISBN not shown on the title pages (barcode on back cover) PDF pages: 51 (title pages verified against the record title; byte size 17,809,223 = record size exactly; read in full from the text layer) Verdict: COMPLETE China's own way: a Shang-dynasty jade phoenix from Yinxu opens the book; Chinese animation's own kinds (ink-wash, paper-cut, puppet) close it. Excluded: end-of-book self-evaluation pages. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 5). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 20 迷人的动画片 — how an animated film is made, step by step — script, character design, backgrounds, in-between check, copying, colouring, compositing and camera — and copying a favourite animation character (student book) | Book 18, printed p. 38 |
+
+**Book 19:** *HS Art Elective 6: Modern Media Art (student book, Chinese)* — Title as printed: 普通高中教科书·美术选择性必修6 现代媒体艺术 (Senior High School Textbook · Art, Selective Elective 6: Modern Media Art) Grade: Senior high school, selective elective 6 (student/teacher: STUDENT) Publisher: People's Education Press; year 2019 (new-curriculum edition); price 13.65 yuan; ISBN not legible on the copy read PDF pages: 122 (cover verified visually against the record title; byte size 14,420,396 = record size exactly; full text layer — read in full) Verdict: COMPLETE China's own way: media art taught whole — photography, video, digital painting and animation, VR and interaction design — with Chinese documentary masters (Xie Hailong, Ho Fan) and the Shanghai animation classics at its centre. The appendix is only the end-of-term evaluation form — excluded as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 26). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 2 Lesson 2 运动的景别 — shot sizes and camera movement — the five shot sizes from extreme long shot (environment rules) through full, medium and close-up to the detail shot; "from far, take the momentum; from near, take the quality"; the fixed camera that quietly observes (the kindergarten documentary) against the five movements — push in, pull out, pan, track, follow (student book; original target `visual-art/filmmaking-and-video`) | Book 19, printed p. 40 |
+| China — Unit 2 Lesson 3 组接与配合 — editing and sound — the same expressionless face joined to a bowl of soup, a puppy, or a pile of homework reads as hunger, tenderness or dread: meaning is made between shots (the Kuleshov lesson), and sound and picture can answer, counterpoint or contradict each other (student book; original target `visual-art/filmmaking-and-video`) | Book 19, printed p. 46 |
+| China — Unit 2 Lessons 4–5 分工与合作·构思与策划 — making a film together — the crew's division of labour and the production flow from idea to finished piece; conceiving and planning a story "told to the future": treatment, storyboard and shot list before anyone lifts a camera (student book; original target `visual-art/filmmaking-and-video`) | Book 19, printed p. 54 |
+| China — Unit 3 Lesson 3 天人合一 — the experienceable real — VR and AR: presence rebuilt when the senses are fed a consistent world; the old Chinese ideal of heaven-and-human unity returning as technology; VR in flight training, medicine (remote diagnosis, live-streamed surgery) and the Beijing Olympics' LED dove — and storytelling that no longer shows you a place but puts you in it (student book; original target `visual-art/filmmaking-and-video`) | Book 19, printed p. 80 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

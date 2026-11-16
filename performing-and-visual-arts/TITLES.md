@@ -319,6 +319,26 @@ The titles, in ladder order:
    a family activity, daily life in the community, National
    Day, the heritage places of your own province (Laos teacher
    guides, evidence).
+ The Art expansion added:
+   chinese architecture and gardens — China's traditional architecture and garden art — its buildings, layouts and designed landscapes.;
+   chinese calligraphy — Chinese calligraphy — the brush art of characters, its rules and methods, born from the same root as painting.;
+   chinese ethnic embroidery and dress — chinese Ethnic Embroidery and Dress — its forms, history and cultural meaning, taught as one topic lesson.;
+   chinese fan painting — Painting on fans — Chinese fan painting and the folding-fan craft.;
+   chinese folk clay and dough figures — China's folk modelling — clay sculpture and dough figures made by folk artists.;
+   chinese folk paper and festival art — chinese Folk Paper and Festival Art — its forms, history and cultural meaning, taught as one topic lesson.;
+   chinese gongbi painting — Gongbi — China's meticulous, fine-line detailed painting, taught through flowers and birds.;
+   chinese ink wash painting — Chinese ink wash painting — playing and working in ink and coloured ink, the water-and-ink art of China.;
+   chinese landscape painting — Chinese landscape painting — the shanshui tradition of mountains and water.;
+   chinese literati poetry-painting — The literati unity of poetry and painting — poems inside pictures and pictures inside poems in Chinese art.;
+   chinese paper cutting — Chinese paper cutting — folding and cutting paper into balanced cut-out designs.;
+   chinese pictographs and character art — Art inside Chinese characters — pictographs and oracle-bone script, where writing began as pictures.;
+   chinese seal carving — Chinese seal carving — designing and cutting a personal seal in a small square of stone.;
+   chinese traditional painting — China's traditional painting — flower-and-bird painting and figure painting, and the meanings carried beyond the picture.;
+   chinese traditional toys — chinese Traditional Toys — its forms, history and cultural meaning, taught as one topic lesson.;
+   chinese woodblock new year pictures — China's woodblock New Year pictures — the folk prints, such as Yangjiabu's, made to celebrate the new year.;
+   dunhuang murals and flying apsaras — The Dunhuang murals — China's cave-wall paintings and their flying apsaras figures.;
+   product design — Product design — designing useful things: function and beauty, improving and innovating products, furniture design and production. (China student books).
+
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -590,6 +610,22 @@ The titles, in ladder order:
    lam toei; khap thoum Luang Prabang; and Thai melodies,
    learned inside Laos's music books (Laos teacher guides,
    evidence).
+ The Art expansion added:
+   chinese national orchestra — chinese National Orchestra — its forms, history and cultural meaning, taught as one topic lesson.;
+   chinese opera singing — The singing of Chinese opera (xiqu) — its vocal styles and stage song.;
+   chinese patriotic and heritage songs — chinese Patriotic and Heritage Songs — its forms, history and cultural meaning, taught as one topic lesson.;
+   chinese pentatonic modes — China's national pentatonic mode system (minzu diaoshi) and how its modes are built.;
+   chinese traditional instruments — China's traditional instruments met through listening — the pieces and sounds by which each one is known.;
+   kunqu music — Kunqu — China's classical opera music, the mother of its theatre forms.;
+   modulation and transposition — Changing key inside a piece (modulation) and moving a piece to a new key (transposition).;
+   music in our everyday lives — music in Our Everyday Lives — its forms, history and cultural meaning, taught as one topic lesson.;
+   music terms and form names — The common terms of music and the names of its forms, learned as one vocabulary.;
+   musical play and song games — Games, songs and musical play — singing games and activity songs where music itself is the game.;
+   peking opera music — The music of Peking (Beijing) opera — its tunes, roles and orchestra.;
+   pingju and yueju opera — China's regional operas — Pingju of the north and Yueju of Shaoxing.;
+   singing our first songs — singing Our First Songs — its forms, history and cultural meaning, taught as one topic lesson.;
+   writing lyrics — Writing the words of a song — lyric craft, in China's book. (China student books).
+
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -760,6 +796,14 @@ The titles, in ladder order:
    Aen Choet and Soen Suan; and Lao folk dance: positions and
    poses — its named hand and foot positions and the language
    of the poses (Laos teacher guides, evidence).
+ The Art expansion added:
+   chinese classical dance — China's classical dance — its trained body language, sleeves, turns and expressive poses.;
+   chinese ethnic minority dances — The dances of China's minority peoples, such as the Axi moon dance, each with its own music, dress and steps.;
+   chinese han folk dance — The folk dances of China's Han people, their regional styles, fans, ribbons and steps.;
+   chinese opera (xiqu) — Chinese opera beyond Peking opera — regional xiqu forms, their singing, acting and stage conventions.;
+   yangge dance — Yangge, the Han folk dance of northern China, above all the north-eastern yangge with fans and handkerchiefs.;
+   peking opera — Peking opera, China's best-known opera form — its singing, painted faces, costumes and hats. (China student books).
+
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
@@ -916,3 +960,6 @@ The titles, in ladder order:
    through the Lan Xang kingdom to its split into three
    kingdoms, taught from photographs of real stupas, temples
    and Buddha images (Laos teacher guides, evidence).
+ The Art expansion added:
+   art of asia africa and latin america — art of Asia Africa and Latin America — its forms, history and cultural meaning, taught as one topic lesson.;
+   keeping and valuing our heritage — keeping and Valuing Our Heritage — its forms, history and cultural meaning, taught as one topic lesson. (China student books).

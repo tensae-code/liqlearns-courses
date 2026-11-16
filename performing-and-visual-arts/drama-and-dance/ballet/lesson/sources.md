@@ -1,6 +1,6 @@
 # Sources — Ballet
 
-countries: Malta, Belarus, Cuba, Moldova, Syria, Armenia, North Macedonia
+countries: Malta, Belarus, Cuba, Moldova, Syria, Armenia, North Macedonia, China
 
 **Book 1:** *Music Shines II — Unit 9 Listening and Appraising (§§9.4–9.6)* (teacher guide pages + pupil activities, English) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 4 per record; the PDF carries the Year 4, Year 5 and Year 6 levels (printed pp. 157–169), 13 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 9. Cover/title page verified against the record title — first page is the Unit 9 divider, printed p. 157. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -45,7 +45,7 @@ countries: Malta, Belarus, Cuba, Moldova, Syria, Armenia, North Macedonia
 | Armenia — Ballet's reform — through Jean-Georges Noverre's reforming work ballet gained its own choreographic language; "The Nutcracker" among the most-staged ballets to this day (student book; original target `drama-and-dance/ballet-stories-in-dance`) | Book 9, printed p. 99 |
 
 
-**Acceptance count: taught in 5 countries (Belarus, Moldova, Syria, Armenia, North Macedonia).** Malta teacher guide evidence is named here, counted nowhere. Cuba is added as a student book, inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Belarus, Moldova, Syria, Armenia, North Macedonia, China).** Malta teacher guide evidence is named here, counted nowhere. Cuba is added as a student book, inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/ballet`). The Malta placements were filed as NEW LESSON NEEDED under the original string(s) `drama-and-dance/ballet-a-story-told-in-dance`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Malta's own way: ballet is met inside the listening-and-appraising unit — a story told in dance, appraised through Tchaikovsky's Nutcracker, retold by summary only. Songs and stories are placed by summary only, never transcribed.
 
@@ -86,3 +86,11 @@ Searchable tags: ballet, Nutcracker, Tchaikovsky, story in dance, Malta, Music S
 | North Macedonia — Балет — ballet: the theatre dance born at the Renaissance courts (ballare — to dance), the ballet schools from 1661, classical technique of stylised movement and pose, mime and lyric feeling; the soloist against the ensemble; and its composers — Tchaikovsky, Adam, Pugni, Delibes (student book; original target `drama-and-dance/ballet-and-its-music`) | Book 12, printed p. 59 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 13:** *HS Music Elective 3: Dance Performance (student book, Chinese)* — Title as printed: 普通高中教科书·音乐选择性必修3 舞蹈表演 (Senior High School Textbook · Music, Selective Elective 3: Dance Performance) Grade: Senior high school, selective elective 3 (student/teacher: STUDENT) Publisher: People's Music Publishing House (人民音乐出版社); year 2019 (new-curriculum edition); price 6.65 yuan; ISBN not legible on the copy read PDF pages: 82 (cover verified visually against the record title; byte size 13,042,274 = record size exactly; text layer partial but the movement instructions are verbal throughout and were read in full) Verdict: COMPLETE China's own way: a dance school in one volume — Han and minority folk dance, Chinese classical dance, ballet, modern dance, and choreography — every style taught as posture, basic movement, training combination and a rehearsed excerpt. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 29). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 2 Section 5 芭蕾 — ballet basics — the five foot positions and seven arm positions; demi-plié and full plié with turnout held from hip to toe; battement tendu, the working leg brushed out to a point; the four arabesques; a centre battement-tendu dance; The Sleeping Beauty (the "encyclopaedia of 19th-century ballet", its Rose Adagio and Bluebird variation) as appreciation, and a note on ballet's Chinese development (student book) | Book 13, printed p. 45 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

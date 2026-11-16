@@ -1,6 +1,6 @@
 # Sources — Stories and Folktales
 
-countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil, Morocco, Libya, Venezuela, Mongolia, Indonesia
+countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil, Morocco, Libya, Venezuela, Mongolia, Indonesia, China
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -86,7 +86,7 @@ countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Surin
 |---|---|
 | Indonesia — Bab I — storytelling (mendongeng) — narrative structure, vocabulary and emotional expression in telling (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 18, printed p. 20 |
 
-**Acceptance count: taught in 6 countries(Ethiopia, Finland, Fiji, Brazil, Venezuela, Mongolia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries(Ethiopia, Finland, Fiji, Brazil, Venezuela, Mongolia, China). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 All three stories are taught as PLOT SUMMARY ONLY, exactly as the placements give them — no sentence of the books' text is reproduced. The Grade 1 and Grade 2 teacher guides' tales-and-riddles placements (g01-teacher p. 47 §3.3; g02-teacher pp. 46–48 §3.3) name tales and riddles as theatre's roots; that framing is carried in this lesson's plan level line and in the Riddles lesson, labelled there as teacher-guide evidence, and does not change this lesson's pupil-book count.
 
@@ -98,3 +98,12 @@ Searchable tags: stories and folktales, telling stories aloud, የነሰላም �
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Cartoon panels into a story — the cartoon lesson's storytelling step: building a dramatic shape or story from the characters in small panels, then gathering the panels into one tale (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 11, printed p. 92 |
+
+**Book 19:** *音乐 Music Grade 2 上册 (PEP 简谱) (student book, Chinese)* — Title as printed: 义务教育教科书 音乐（简谱）二年级 上册 Grade: 2, first volume (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); no ISBN printed on the pages read PDF pages: 67 (cover verified — 音乐（简谱）二年级 上册, PEP; byte size matches the record exactly) Verdict: COMPLETE China's own way: same PEP unit shape as Grade 1, now adding 音的高低 (pitch high/low) with Kodály hand signs, labour songs, and Chinese story-music (三个和尚, 龟兔赛跑) beside Tchaikovsky and Grieg-style listening. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 2). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 4 listening 龟兔赛跑 — The Tortoise and the Hare told in music (student book) | Book 19, printed p. 34 |
+| China — Unit 5 listening 三个和尚 — Three Monks, the Chinese story heard in music (student book) | Book 19, printed p. 38 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

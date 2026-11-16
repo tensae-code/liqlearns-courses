@@ -1,0 +1,17 @@
+# Sources — Modulation and Transposition
+
+countries: China
+
+**Book 1:** *HS Music Elective 5: Basic Music Theory (student book, Chinese)* — Title as printed: 普通高中教科书·音乐选择性必修5 音乐基础理论 (Senior High School Textbook · Music, Selective Elective 5: Basic Music Theory) Grade: Senior high school, selective elective 5 (student/teacher: STUDENT) Publisher: People's Music Publishing House (人民音乐出版社); year 2019 (new-curriculum edition, July 2019 first edition); price 7.45 yuan; ISBN 978-7-103-05700-1 PDF pages: 102 (cover and title page verified visually against the record title; byte size 31,435,423 = record size exactly; image-only scan — read in full on 100-DPI page renders and 4-up contact sheets; every example is a printed score, filed here as summaries of what each section teaches) Verdict: COMPLETE China's own way: Western theory taught bilingually in two notations — every rule is stated for the five-line staff and for jianpu side by side — and crowned with China's own modal system: the five pentatonic modes and their six- and seven-tone expansions sit in the same unit as major and minor, and the free metre of xiqu (散板, "no board, no eye") is taught beside simple and compound time. Excluded per standing rules: the 综合练习 (comprehensive exercises) closing each unit — pure assessment sets, named here and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 31). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 5 Section 16 调的关系与调的转换 (parts 1–4) — how keys stand to each other and how music moves between them — near keys (one signature apart, or sharing a tonic's family: every major or minor key has six) against distant keys; modulation, the move from one key or mode to another, in its near forms (parallel major–minor, same-gong changes) and far forms (same tonic new mode, same mode new tonic, wholly new tonic and mode), with Schubert's Linden Tree and Mozart's Children's Piano Piece as the worked journeys; tonicisation, the brief borrowing of another key inside a phrase that never settles, as in Liu Jie's My Motherland; and transposition proper — moving a whole piece by interval with a new signature, moving it by changing the clef alone while the notes stay put, and writing for transposing instruments, whose written note is not their sounding note (the B-flat horn, the F horn, the E-flat saxophone) (student book) | Book 1, printed p. 77 |
+
+**Acceptance count: taught in 1 country (China).**
+
+This is a canonical NEW lesson (slug-registry Part 1: `music/modulation-and-transposition`); the China placements were filed under the original string(s) `music/modulation-and-transposition`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. China's own way is kept as named parts, exactly as its books teach it. Songs and stories are placed by summary only, never transcribed.
+
+Searchable tags: modulation and transposition, China
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

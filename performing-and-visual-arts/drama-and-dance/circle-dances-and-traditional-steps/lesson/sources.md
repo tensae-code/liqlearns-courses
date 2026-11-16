@@ -1,6 +1,6 @@
 # Sources — Circle Dances and Traditional Steps
 
-countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuela, Angola, Mongolia, Armenia, North Macedonia
+countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuela, Angola, Mongolia, Armenia, North Macedonia, China
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -50,7 +50,7 @@ countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuel
 | Armenia — Kochari taught step by step (teacher-guide evidence) — the guide teaches the basic movements of the Kochari dance and dances it to Khosrovyan's arrangement, inside the "Our country" lessons (teacher guide — evidence; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 11, printed p. 102 |
 
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Venezuela, Angola, Mongolia, Armenia, North Macedonia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Venezuela, Angola, Mongolia, Armenia, North Macedonia, China). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Nothing flagged. The circle song is named and its movement taught; its words are not transcribed beyond the title the placement gives.
 
@@ -70,3 +70,17 @@ Searchable tags: circle dance, እንሽከረከራለን, Enshikerekeralen, tr
 | North Macedonia — Танци и ора — dance against oro: the oro is the people's group dance — dancers holding hands, belt or shoulders, in circle, line or semicircle, to a fixed traditional step pattern, at celebrations, weddings and rites; its basic movements — steps, the little hop (potskok), turning, and figures of repeated step combinations; oro sorted by form, purpose, place and manner (student book; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 12, printed pp. 105–106 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 13:** *Music G3 Vol.1 (student book, Chinese, numbered notation 简谱 edition) (student book, Chinese)* — Title as printed: 义务教育教科书·音乐（简谱）三年级上册 (Compulsory Education Textbook · Music (Numbered Notation), Grade 3, Volume 1) Grade: Grade 3, first semester (student/teacher: STUDENT) Publisher: People's Education Press; year 2013 (MoE approved 2013); ISBN not shown on the title pages PDF pages: 75 (title pages verified against the record; byte size 9,690,436 = record size exactly; read in full from the text layer) Verdict: COMPLETE China's own way: the whole book is taught in jianpu numbered notation; Yunnan, Yi, Tibetan and Han folk material runs through it, with suona, Jiangnan folk ensemble and bamboo instruments as listening. Songs are summarised, never transcribed. Excluded: the end-of-book 学习测评 assessment pages. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 7). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 5 儿童圆舞曲 (group dance) — a children's round dance in 3/4 — singing the song and dancing it together in a circle (student book; original target `drama-and-dance/dancing-in-a-group`) | Book 13, printed p. 42 |
+
+**Book 14:** *普通高中教科书·音乐必修5 音乐与舞蹈 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修5 音乐与舞蹈 (Senior High Music, Compulsory 5: Music and Dance) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 122 (cover verified; byte size 35,392,262 matches the record exactly) Verdict: COMPLETE China's own way: a dance course taught through the body — every unit pairs works to watch with basic-practice movement combinations （动作组合） pupils actually perform: Shandong yangge and Yunnan lantern dance, Tibetan and Mongolian combinations, classical dance, ballet, tap, hula, modern and ballroom dance. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 9). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 8 社交舞： social/ballroom dance — its origins, uses and dress; a waltz combination practised; International Standard ballroom dance; the Ländler from The Sound of Music appreciated (student book) | Book 14, printed pp. 104–113 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

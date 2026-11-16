@@ -1,6 +1,6 @@
 # Sources — Traditional Games
 
-countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria, Angola, Indonesia
+countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria, Angola, Indonesia, China
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -54,7 +54,7 @@ countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria, Angola, Indonesia
 |---|---|
 | Indonesia — Unit Pembelajaran 2 Menata Gerak Tari Kreasi Baru — traditional games as dance themes, named and described — Terompah Panjang/Bakiak (long wooden clogs walked in together), Lompat Tali, Petak Umpet, and Cublak-cublak Suweng of Central Java, Yogyakarta and East Java — with Bakiak, Cublak-cublak Suweng and Gobag Sodor dance videos appreciated (teacher guide — evidence; original target `drama-and-dance/traditional-games`) | Book 11, printed p. 89 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Angola).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Angola, China).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Per STRUCTURE.md, the Practical Exercises chapter opener stocks into this lesson as its opening part; the opener's other strands (notes on drums, colour mixing, calligraphy, leaf printing) belong to their own lessons and are not stocked here, and its Review fold is carried by those same lessons. The games' songs (the Dimbushe Gela song, the Qilmosh counting song beyond the one refrain line the placement itself quotes, and ገመድ ዝለሉ Gemed Zilelu) are placed by name and shape only; verses are not transcribed.
 
@@ -65,3 +65,11 @@ Searchable tags: traditional games, ሰኞ ማክሰኞ, Senyo Maksenyo, ድብ�
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Topic 13: Народни игри (folk games) (student book) | Book 7, printed p. 19 |
+
+**Book 12:** *音乐 Music Grade 2 下册 (PEP 简谱) (student book, Chinese) — image-only PDF, read from rendered pages* — Title as printed: 义务教育教科书 音乐（简谱）二年级 下册 Grade: 2, second volume (student/teacher: STUDENT) Publisher: 人民教育出版社 (People's Education Press); no ISBN printed on the pages read PDF pages: 65 (byte size 6,489,616 matches the record exactly; cover verified; image-only PDF read from rendered pages — both contents pages in full and unit content pages spot-read, including Unit 1's Prokofiev listening and the bars/barlines knowledge box) Verdict: COMPLETE (contents-level read of an image-only book) China's own way: a trip out of the city opens the book (Prokofiev's Departure, echo singing in the valley, a train piece to create), then health songs with shuttlecock kicking and group dance, animals again, the 56-peoples unit with an Ak Xir Xir song and a Rikaze home song, a naughty alarm clock unit about time, and childhood games to close. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 6). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 6 童年的游戏 singing 打花巴掌， listening 陀螺： Childhood Games — the Clapping-Palms song; the Spinning Top heard (student book) | Book 12, printed pp. 44, 46 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

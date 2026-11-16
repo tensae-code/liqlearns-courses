@@ -1,0 +1,29 @@
+# Sources — Chinese Pictographs and Character Art
+
+countries: China
+
+**Book 1:** *Art G1 Vol.2 (student book, Chinese)* — Title as printed: 义务教育教科书·美术一年级下册 (Compulsory Education Textbook · Art, Grade 1, Volume 2) Grade: Grade 1, second semester (student/teacher: STUDENT) Publisher: People's Education Press with Shanghai Calligraphy & Painting Press; year 2012 (1st ed. Oct 2012); ISBN 978-7-107-25315-7 PDF pages: 49 (cover verified visually against the record title; byte size 8,689,811 = record size exactly; image-only scan — read page-by-page on 100-DPI contact sheets) Verdict: COMPLETE China's own way: frontispiece is a Shaanxi Fengxiang painted clay tiger; lessons pair folk objects (shadow puppets, tumblers, balance birds) with pupil making. Excluded: end-of-book self-evaluation/reuse pages (assessment only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 2). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Lesson 20 汉字中的象形文字 — Chinese pictographs — how sun, moon, mountain, river, tree, water, fire, goat, horse, fish, deer, cart, hand and child were pictured in oracle-bone, bronze and seal scripts — and composing pictures from pictographs (student book) | Book 1, printed p. 38 |
+
+**Book 2:** *HS Art Elective 1: Painting (student book, Chinese)* — Title as printed: 普通高中教科书·美术选择性必修1 绘画 (Senior High School Textbook · Art, Selective Elective 1: Painting) Grade: Senior high school, selective elective 1 (student/teacher: STUDENT) Publisher: People's Education Press; year 2019 (new-curriculum edition); no ISBN legible in the text layer PDF pages: 110 (cover verified visually against the record title; byte size 21,518,938 = record size exactly; full text layer — read in full) Verdict: COMPLETE China's own way: a full senior course on painting's grammar — point-line-plane, colour, form, space, composition, expression — taught equally through Chinese masters (Wu Guanzhong, Zhang Daqian, Wu Daozi) and world art, with a materials-and-techniques appendix. The Chinese-foreign painting chronology table (appendix) is reference inventory, not placed; the end-of-term evaluation form is excluded as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 21). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 1 Lesson 1 甲骨文 — oracle-bone script and painting are blood kin — the Shang-dynasty characters carved on tortoise shell are pictures that became writing; every continent's pictographs ask why the drawn image was mankind's first tool for recording meaning (student book) | Book 2, printed p. 2 |
+
+**Book 3:** *HS Art Elective 2: Chinese Painting and Calligraphy (student book, Chinese)* — Title as printed: 普通高中教科书·美术选择性必修2 中国书画 (Senior High School Textbook · Art, Selective Elective 2: Chinese Painting and Calligraphy) Grade: Senior high school, selective elective 2 (student/teacher: STUDENT) Publisher: People's Education Press; year 2019 (new-curriculum edition); price 12.00 yuan; ISBN not legible on the copy read PDF pages: 110 (cover verified visually against the record title; byte size 16,627,963 = record size exactly; full text layer — read in full) Verdict: COMPLETE China's own way: the one book in the set devoted wholly to China's own brush arts — Chinese painting (landscape, flower-and-bird, figure), calligraphy and seal carving, taught as one family ("calligraphy and painting share one source"). The appendix is only the end-of-term evaluation form — excluded as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, main wave, Book 22). Source note, as filed: this book was read from its recorded ministry/external source (the recorded source_url, kyohwang/ChinaTextbook) after the repo tree route returned 404, and its PDF was deleted after filing instead of staged — a stated wave-close exception (see reading-log-cn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 1 Lesson 1 汉字与绘画的起源 — characters began as pictures — the Dawenkou pottery sign for "dawn" (sun over cloud over five peaks, 4–5,000 years old), oracle-bone script, bronze inscriptions, and the long evolution through seal, clerical, cursive, running and regular scripts; Feng Zikai: Chinese characters are the most artistic writing in the world (student book) | Book 3, printed p. 4 |
+
+**Acceptance count: taught in 1 country (China).**
+
+This is a canonical NEW lesson (slug-registry Part 1: `visual-art/chinese-pictographs-and-character-art`); the China placements were filed under the original string(s) `visual-art/chinese-pictographs-and-character-art`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. China's own way is kept as named parts, exactly as its books teach it. Songs and stories are placed by summary only, never transcribed.
+
+Searchable tags: chinese pictographs and character art, China
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

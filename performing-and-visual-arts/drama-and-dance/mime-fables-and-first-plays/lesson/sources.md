@@ -1,6 +1,6 @@
 # Sources — Mime, Fables and First Plays
 
-countries: Ethiopia, Jamaica, Egypt, Guatemala, Nicaragua, Trinidad and Tobago, Serbia, Finland, Suriname, Colombia, Papua New Guinea, Morocco, Jordan, Sri Lanka, Venezuela, Malaysia, Indonesia, Greece
+countries: Ethiopia, Jamaica, Egypt, Guatemala, Nicaragua, Trinidad and Tobago, Serbia, Finland, Suriname, Colombia, Papua New Guinea, Morocco, Jordan, Sri Lanka, Venezuela, Malaysia, Indonesia, Greece, China
 
 **Book 1:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
 
@@ -167,7 +167,7 @@ countries: Ethiopia, Jamaica, Egypt, Guatemala, Nicaragua, Trinidad and Tobago, 
 |---|---|
 | Indonesia — BAB II Mementaskan Monolog — staging a monologue — writing a monologue script drawn from the life of the community and performing it alone (teacher guide — evidence; original target `drama-and-dance/mime-fables-and-first-plays`) | Book 37, printed p. 67 |
 
-**Acceptance count: taught in 7 countries (Egypt, Serbia, Colombia, Jordan, Venezuela, Malaysia, Greece).** Ethiopia teacher-guide evidence, Jamaica teacher curriculum-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher module plan — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Egypt, Serbia, Colombia, Jordan, Venezuela, Malaysia, Greece, China).** Ethiopia teacher-guide evidence, Jamaica teacher curriculum-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher module plan — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only — the Grade 3, 4 and 6 Addis Ababa teacher guides — and its acceptance line says so: the pupil-taught drama it supports lives in the built Drama and Dance lessons, and no part here is counted as pupil-taught. The fable plays and the named plays ("ቤት የለሽ ጨዋታ" and "ግመል") are placed by title and subject only, never transcribed, exactly as their placements require.
 
@@ -209,3 +209,11 @@ Searchable tags: mime, ማይም, silent movement, ድምፅ አልባ እንቅ
 | Greece — Introduction: Το Παιχνίδι (Play — theatre begins as play) (student book) | Book 39, printed  |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 40:** *普通高中教科书·音乐必修6 音乐与戏剧 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修6 音乐与戏剧 (Senior High Music, Compulsory 6: Music and Drama) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 166 (cover verified; byte size 52,126,768 matches the record exactly) Verdict: COMPLETE China's own way: a theatre-music course dominated by China's own stage — Peking opera, Kunqu and a dozen regional opera forms each with their music, singing styles and dialect — before Chinese opera (歌剧）, European opera and the Chinese musical; every unit ends in a rehearsal practice （排演实践） where pupils perform an excerpt themselves (excerpts named only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 10). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 7 中国音乐剧 (opening) — the Chinese musical — children's song-and-dance drama （儿童歌舞剧 麻雀与小孩， 小小画家） and the origins and development of the Chinese musical (student book) | Book 40, printed pp. 130–132 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.

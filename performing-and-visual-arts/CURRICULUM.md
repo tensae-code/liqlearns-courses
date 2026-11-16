@@ -2617,7 +2617,35 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   (18 NEW) against its filed tally of 27 (17 NEW); the lines
   present were stocked, as filed in the MERGE-LOG.
 
-**The whole course stands at 938 lessons, 11,493 questions and
+- **Art expansion — China (2026-11-16):** 927 placements stocked from
+  42 books (all student books, Chinese — so China counts inside every
+  acceptance count): 759 into existing and already-built canonical
+  lessons, and 168 into 40 NEW lessons
+  (Visual Art: Chinese Architecture and Gardens; Chinese Calligraphy; Chinese Ethnic Embroidery and Dress; Chinese Fan Painting; Chinese Folk Clay and Dough Figures; Chinese Folk Paper and Festival Art; Chinese Gongbi Painting; Chinese Ink Wash Painting; Chinese Landscape Painting; Chinese Literati Poetry-Painting; Chinese Paper Cutting; Chinese Pictographs and Character Art; Chinese Seal Carving; Chinese Traditional Painting; Chinese Traditional Toys; Chinese Woodblock New Year Pictures; Dunhuang Murals and Flying Apsaras; Product Design;
+  Music: Chinese National Orchestra; Chinese Opera Singing; Chinese Patriotic and Heritage Songs; Chinese Pentatonic Modes; Chinese Traditional Instruments; Kunqu Music; Modulation and Transposition; Music in Our Everyday Lives; Music Terms and Form Names; Musical Play and Song Games; Peking Opera Music; Pingju and Yueju Opera; Singing Our First Songs; Writing Lyrics;
+  Drama and Dance: Chinese Classical Dance; Chinese Ethnic Minority Dances; Chinese Han Folk Dance; Chinese Opera (Xiqu); Yangge Dance; Peking Opera;
+  Culture and Values: Art of Asia Africa and Latin America; Keeping and Valuing Our Heritage).
+  China's own way is kept as named parts throughout: ink-wash and
+  gongbi painting, shanshui landscape, calligraphy and seal carving,
+  paper cutting, fan painting, Dunhuang's flying apsaras, Peking
+  opera and the regional operas (Kunqu, Pingju, Yueju, Huangmei),
+  jianpu numbered notation, the pentatonic modes, ethnic-minority
+  dances and yangge. Songs are placed by summary only, never
+  transcribed. Honesty, as filed: the 32 main-wave books were read
+  from their recorded ministry/external sources (kyohwang/
+  ChinaTextbook) after the repo tree route returned 404, and their
+  PDFs were deleted after filing instead of staged — a stated
+  wave-close exception; the 10 links-group books were downloaded
+  from their recorded sources, verified, and staged under the
+  push-don't-delete rule. The placements file's header tallies sum
+  to 930; the lines present are 927 — main-wave Book 4 (Art G2
+  Vol.2), Book 6 (Art G3 Vol.2), Book 14 (Art G5 Vol.2) and Book 18
+  (Art G6 Vol.2) each carry one line fewer than their filed tally,
+  and Book 8 (Music G3 Vol.2) carries one line more (38 against a
+  tally of 37); the lines present were stocked, as filed in the
+  MERGE-LOG.
+
+**The whole course stands at 978 lessons, 11,973 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

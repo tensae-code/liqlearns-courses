@@ -1,6 +1,6 @@
 # Sources — Theatre and Film Through History
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba, Venezuela, Mongolia, Armenia, Greece
+countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba, Venezuela, Mongolia, Armenia, Greece, China
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -87,7 +87,7 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba,
 | Armenia — The 19TH CENTURY IN CINEMA — Victor Fleming's "Gone with the Wind" (1939); Scorsese's "The Age of Innocence" (1993); Bondarchuk's "War and Peace" (1967); Parajanov's "Hakob Hovnatanyan" (1967) (student book; original target `drama-and-dance/the-birth-of-cinema`) | Book 19, printed p. 119 |
 
 
-**Acceptance count: taught in 7 countries (Ethiopia, Brazil, Cuba, Venezuela, Mongolia, Armenia, Greece).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Brazil, Cuba, Venezuela, Mongolia, Armenia, Greece, China).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Claims of firsts are taught as their sources give them: Fabula is 'probably the first original African play' and Hager Fikir the 'oldest indigenous theatre in Africa' — the guide's own wordings, kept with their caution. The Grade 10 guide records no separate 'Lesson 27' heading in its theatre sequence; the lesson follows its placements (Lesson 26 African theatre onward) and claims nothing about a Lesson 27.
 
@@ -116,3 +116,11 @@ Searchable tags: theatre history, film history, theatron, Fabula, Tekle Hawariat
 | Greece — Παράρτημα 2: Με τα πρόσωπα του θεάτρου (Appendix 2: With the people of theatre) — meeting the faces of Greek theatre — the people who made it, Karolos Koun among them (student book) | Book 20, printed p. 102 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 21:** *普通高中教科书·音乐必修6 音乐与戏剧 (student book, Chinese)* — Title as printed: 普通高中教科书·音乐必修6 音乐与戏剧 (Senior High Music, Compulsory 6: Music and Drama) Grade: 12 record (student/teacher: STUDENT) Publisher: 人民音乐出版社 (People's Music Publishing House); no ISBN printed on the pages read PDF pages: 166 (cover verified; byte size 52,126,768 matches the record exactly) Verdict: COMPLETE China's own way: a theatre-music course dominated by China's own stage — Peking opera, Kunqu and a dozen regional opera forms each with their music, singing styles and dialect — before Chinese opera (歌剧）, European opera and the Chinese musical; every unit ends in a rehearsal practice （排演实践） where pupils perform an excerpt themselves (excerpts named only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/china-placements.md (China placements, links group, Book 10). Source note, as filed: this book was downloaded from its recorded source (GitHub kyohwang/ChinaTextbook raw files, the PEP 简谱 collection), verified (byte size + pdfinfo + cover looked at), and staged under the push-don't-delete rule (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — Unit 1 §2 — music in drama — xiqu and its music; opera and musical and their music; music in spoken drama, film and TV (student book) | Book 21, printed pp. 9–15 |
+
+China is added as student-book stock (see its rows above), inside the acceptance count.
