@@ -1,6 +1,6 @@
 # Sources — Money as a medium of exchange
 
-countries: Ethiopia, Dominica, Jordan
+countries: Ethiopia, Dominica, Jordan, Yemen
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -23,7 +23,15 @@ countries: Ethiopia, Dominica, Jordan
 |---|---|
 | Jordan part — Economics expansion — Unit 5 Lesson 1: Production and Consumption (buying, selling and money): buying is paying money for the goods and products a family needs and selling is the trader receiving money for them, worked through a shopping-centre receipt totalling 33 Jordanian dinars, with Jordan's own paper and coin money ordered by value | Jordan, *Social Studies, Grade 2, Term 2*, Unit 5 Lesson 1: Production and Consumption (buying, selling and money) — printed p. 50 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Dominica, Jordan).**
+**Book 4:** *Mabadi' Ilm al-Iqtisad G11* (student book, Arabic) — Republic of Yemen, Ministry of Education (Curriculum and Textbooks sector); printing rights reserved 1438 AH / 2017; no ISBN printed. Title as printed: مبادئ علم الاقتصاد — للصف الثاني الثانوي، القسم الأدبي. Grade: Grade 11 (second secondary, literary section) (student/teacher: STUDENT). PDF pages: 73 (cover/title page verified against the record title; grabbed from the repo release via grab.py, OK 6,698,773 bytes; read from the private textbooks repo via grab.py — the ministry source site returns an HTML viewer page, not PDFs; the text layer uses a legacy font encoding, so the book was read page-by-page from rendered pages). Verdict: COMPLETE. Contents map: Economics parts pp. 6–68 (whole book); unit assessments (التقويم) after each unit are assessment, named not placed; references p. 69 (inventory only); book-evaluation questionnaire pp. 70–71 is apparatus. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/yemen-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Unit 5 L1 Money §functions of money — teaches: money as the medium through which goods are exchanged | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 5 L1 Money §functions of money — printed p. 63 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Dominica, Jordan, Yemen).**
+
+Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -31,4 +39,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Jordan's own way (Jordan Grade 2 Term 2): A whole early-years Economics unit built on a family shopping trip — a real receipt in Jordanian dinars, Jordanian coins and banknotes to order by value, the wheat-to-bread chain for producer and consumer, a child's own money box for saving, and a closing lesson that tours Jordan's own industries.
 
-Searchable tags: medium of exchange, transaction cost, specialisation division of labour, lubricant, ethiopia, social studies, market and money, dominica, csec principles of business, caribbean, jordan
+Searchable tags: medium of exchange, transaction cost, specialisation division of labour, lubricant, ethiopia, social studies, market and money, dominica, csec principles of business, caribbean, jordan, yemen

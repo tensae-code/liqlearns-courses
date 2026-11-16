@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **556**
+Economics lessons across the Economics titles: **570**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4457,3 +4457,19 @@ the debt-to-GDP ratio, International
 cooperation and development finance, Internal
 and external public debt and Remittances and
 the home economy).
++14 for Yemen,
+2026-11-16 — Microeconomics: Economic thought
+in ancient civilisations, Ibn Khaldun and
+Al-Maqrizi — Arab economic thought, The
+emergence of economics as a science, Economics
+and the other sciences, Characteristics of
+economic needs, Kinds of goods — consumer,
+producer, durable and perishable, Substitute
+and complementary goods, Land as a factor —
+and Ricardo's differential rent, The organiser
+— entrepreneur, risk and profit and
+Agricultural associations — and what they do
+for farmers; Market and Money: Types of money,
+How banks began — goldsmiths to banknotes and
+Specialised and Islamic banks; Macroeconomics:
+Cash crops — exported for foreign currency).

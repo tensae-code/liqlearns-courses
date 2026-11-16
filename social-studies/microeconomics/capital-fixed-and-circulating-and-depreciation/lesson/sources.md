@@ -1,6 +1,6 @@
 # Sources — Capital — fixed and circulating, and depreciation
 
-countries: Uzbekistan, Egypt
+countries: Uzbekistan, Egypt, Yemen
 
 **Book 1:** *Osnovy ekonomicheskikh znaniy (Fundamentals of Economic Knowledge), Grade 9* (student book, Russian) — Uzbekistan, State Scientific Publishing House "O'zbekiston milliy ensiklopediyasi", Tashkent; year 2006; ISBN 5-89890-127-2 (authors E. Sariqov, B. Haydarov; recommended by the Ministry of Public Education of the Republic of Uzbekistan; print run 26,025). Title as printed: «Основы экономических знаний» 9 (Fundamentals of Economic Knowledge, Grade 9); colophon gives the Uzbek original title "Iqtisodiy bilim asoslari — 9-sinf uchun darslik (rus tilida)", i.e. this file is the Russian-language edition of the ministry textbook named in the record ("Iqtisodiyot / Economics — Grade 9") — same book, grade and subject; language of this edition is Russian, not Uzbek. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 145 (printed book 144 pp. + back cover; cover and title page verified against the record — Grade 9 Economics; byte size 70,340,084, matching the rescue copy; scanned book with no text layer, read from rendered pages). Verdict: COMPLETE. Contents map: Economics parts — the whole book: Ch. I Entrepreneurship and Production, Topics 1–12, printed pp. 8–44; Ch. II State and Economy, Topics 13–18, pp. 50–70; Ch. III Economic Growth, Topics 19–21, pp. 76–87; Ch. IV Inflation and Unemployment, Topics 22–25, pp. 92–105; Ch. V World Economy, Topics 26–30, pp. 110–124. Excluded under the standing rules: the five chapter Revision/Assessment sections (pp. 45–49, 71–75, 88–91, 106–109, 125–128) and the answer key (pp. 138–139) are assessment apparatus, not placed; the Glossary of Economic Terms (pp. 129–137) is inventory-only, named not placed; the Appendices (pp. 140–144, Uzbekistan data tables and a circular-flow diagram) are placed once as a data exercise. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/uzbekistan-placements.md
 
@@ -18,8 +18,16 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Egypt part — استهلاك رأس المال (Capital consumption) — teaches: fixed capital used many times versus circulating capital used once, and capital consumption in its two forms — physical (wear and tear over time) and economic (falling behind technical progress and changing tastes). Filed as NEW LESSON NEEDED — microeconomics/capital-consumption-depreciation; stocked here, with the original slug recorded in this row, because this lesson already teaches fixed and circulating capital and depreciation — the same thing | Egypt, *Egypt Secondary 12 Statistics and Economics*, printed pp. 138–139 |
 
-**Acceptance count: taught in 2 countries (Uzbekistan, Egypt).**
+**Book 3:** *Mabadi' Ilm al-Iqtisad G11* (student book, Arabic) — Republic of Yemen, Ministry of Education (Curriculum and Textbooks sector); printing rights reserved 1438 AH / 2017; no ISBN printed. Title as printed: مبادئ علم الاقتصاد — للصف الثاني الثانوي، القسم الأدبي. Grade: Grade 11 (second secondary, literary section) (student/teacher: STUDENT). PDF pages: 73 (cover/title page verified against the record title; grabbed from the repo release via grab.py, OK 6,698,773 bytes; read from the private textbooks repo via grab.py — the ministry source site returns an HTML viewer page, not PDFs; the text layer uses a legacy font encoding, so the book was read page-by-page from rendered pages). Verdict: COMPLETE. Contents map: Economics parts pp. 6–68 (whole book); unit assessments (التقويم) after each unit are assessment, named not placed; references p. 69 (inventory only); book-evaluation questionnaire pp. 70–71 is apparatus. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/yemen-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Unit 3 L3 Capital — teaches: capital as produced means of production (money alone is not capital), fixed versus circulating capital, and depreciation worked in rials (a 100,000-rial asset over 10 years) | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 3 L3 Capital — printed p. 32 |
+
+**Acceptance count: taught in 3 countries (Uzbekistan, Egypt, Yemen).**
+
+Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: capital, fixed and circulating, and depreciation, uzbekistan, grade 9 economics, social studies, microeconomics, egypt
+Searchable tags: capital, fixed and circulating, and depreciation, uzbekistan, grade 9 economics, social studies, microeconomics, egypt, yemen

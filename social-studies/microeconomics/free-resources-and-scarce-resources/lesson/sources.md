@@ -1,6 +1,6 @@
 # Sources — Free resources and scarce resources
 
-countries: Ethiopia, Mongolia, Egypt
+countries: Ethiopia, Mongolia, Egypt, Yemen
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -24,7 +24,15 @@ countries: Ethiopia, Mongolia, Egypt
 |---|---|
 | Egypt part — الموارد (Resources) — teaches: what a resource is and the kinds of resources — natural, human and man-made (capital) — and economic (scarce) resources versus free resources | Egypt, *Egypt Secondary 12 Statistics and Economics*, printed p. 132 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Egypt).**
+**Book 5:** *Mabadi' Ilm al-Iqtisad G11* (student book, Arabic) — Republic of Yemen, Ministry of Education (Curriculum and Textbooks sector); printing rights reserved 1438 AH / 2017; no ISBN printed. Title as printed: مبادئ علم الاقتصاد — للصف الثاني الثانوي، القسم الأدبي. Grade: Grade 11 (second secondary, literary section) (student/teacher: STUDENT). PDF pages: 73 (cover/title page verified against the record title; grabbed from the repo release via grab.py, OK 6,698,773 bytes; read from the private textbooks repo via grab.py — the ministry source site returns an HTML viewer page, not PDFs; the text layer uses a legacy font encoding, so the book was read page-by-page from rendered pages). Verdict: COMPLETE. Contents map: Economics parts pp. 6–68 (whole book); unit assessments (التقويم) after each unit are assessment, named not placed; references p. 69 (inventory only); book-evaluation questionnaire pp. 70–71 is apparatus. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/yemen-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Unit 2 L3 Economic goods — teaches: a good is anything satisfying a need; economic goods are the scarce ones obtained with effort | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 2 L3 Economic goods — printed p. 23 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Egypt, Yemen).**
+
+Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
@@ -32,4 +40,4 @@ Mongolia's own way (Mongolia Grade 7 Social Studies 7): Economics enters through
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: free resources economic resources, zero price test, price test, externality preview, ethiopia, social studies, microeconomics, mongolia, food non-food services, produced goods natural resources, egypt
+Searchable tags: free resources economic resources, zero price test, price test, externality preview, ethiopia, social studies, microeconomics, mongolia, food non-food services, produced goods natural resources, egypt, yemen

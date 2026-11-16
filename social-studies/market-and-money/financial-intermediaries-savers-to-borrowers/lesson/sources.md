@@ -1,6 +1,6 @@
 # Sources — Financial intermediaries — savers to borrowers
 
-countries: Ethiopia, Mongolia, Zimbabwe, Palestine, Dominica, Cambodia
+countries: Ethiopia, Mongolia, Zimbabwe, Palestine, Dominica, Cambodia, Yemen
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -43,7 +43,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Cambodia part — Ch. 2, Lesson 2: Money and financing — teaches: financing as the channel that carries money from those who have it to those who need it | Cambodia, *Cambodia Grade 12 G12 Economics*, Ch. 2, Lesson 2: Money and financing — printed p. 72 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Palestine, Dominica, Cambodia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *Mabadi' Ilm al-Iqtisad G11* (student book, Arabic) — Republic of Yemen, Ministry of Education (Curriculum and Textbooks sector); printing rights reserved 1438 AH / 2017; no ISBN printed. Title as printed: مبادئ علم الاقتصاد — للصف الثاني الثانوي، القسم الأدبي. Grade: Grade 11 (second secondary, literary section) (student/teacher: STUDENT). PDF pages: 73 (cover/title page verified against the record title; grabbed from the repo release via grab.py, OK 6,698,773 bytes; read from the private textbooks repo via grab.py — the ministry source site returns an HTML viewer page, not PDFs; the text layer uses a legacy font encoding, so the book was read page-by-page from rendered pages). Verdict: COMPLETE. Contents map: Economics parts pp. 6–68 (whole book); unit assessments (التقويم) after each unit are assessment, named not placed; references p. 69 (inventory only); book-evaluation questionnaire pp. 70–71 is apparatus. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/yemen-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Unit 5 L2 Banks §commercial banks — teaches: commercial banks taking deposits and granting loans, channelling savings into projects | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 5 L2 Banks §commercial banks — printed p. 66 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Mongolia, Palestine, Dominica, Cambodia, Yemen). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -54,4 +62,4 @@ Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is tau
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: financial intermediation, surplus deficit units, Commercial Bank of Ethiopia, safety interest, finance blood of the economy, ethiopia, social studies, market and money, mongolia, saving, six steps, demand term deposits, zimbabwe, teacher guide evidence, palestine, dominica, csec principles of business, caribbean, cambodia
+Searchable tags: financial intermediation, surplus deficit units, Commercial Bank of Ethiopia, safety interest, finance blood of the economy, ethiopia, social studies, market and money, mongolia, saving, six steps, demand term deposits, zimbabwe, teacher guide evidence, palestine, dominica, csec principles of business, caribbean, cambodia, yemen

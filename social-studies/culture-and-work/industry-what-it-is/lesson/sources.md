@@ -1,6 +1,6 @@
 # Sources — Industry What It Is
 
-countries: Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt
+countries: Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen
 
 **Book 1:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
@@ -49,7 +49,15 @@ South Sudan's own way (South Sudan Primary 4): the economy is taught sector by s
 |---|---|
 | Egypt part — النشاط الصناعي في العالم (Industrial activity in the world) — teaches: what industrial activity is, its main world regions and the factors behind them | Egypt, *Egypt Preparatory 9 Social Studies (both terms)*, Term 2 — printed p. 23 |
 
-**Acceptance count: taught in 6 countries (Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt).**
+**Book 8:** *Al-Tarbiya al-Ijtima'iya G4* (student book, Arabic) — Republic of Yemen, Ministry of Education; 1444 AH / 2022; no ISBN printed. Title as printed: التربية الاجتماعية — للصف الرابع من مرحلة التعليم الأساسي. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; grabbed from the repo release via grab.py, OK 27,406,231 bytes; the books.json record is the same book). Image-only PDF — read from rendered pages. Verdict: PARTIAL — Unit 2 (My homeland: its resources and wealth) and the city lesson of Unit 1 teach economic concepts; the rest is geography, civics services and national-occasions history, named in the Contents map and not placed. Contents map: Economics parts pp. 20, 25–43; Geography (Yemen's location, climate and water, my village, my city) pp. 7–24; Civics (service institutions: education, health, media, traffic police) pp. 46–63; History (national occasions: the September and October revolutions, Yemeni unity) pp. 64–77; unit assessments are assessment, named not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/yemen-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Unit 2 L4 Industrial and commercial resources in my homeland §industry and its types — teaches: industry defined as converting raw materials (plant, animal, mineral) into useful goods with traditional tools or modern machines; Yemen's traditional industries (silverwork, pottery, weaving) versus modern ones (cement, food industries) | Yemen, *Yemen Grade 4 Al-Tarbiya al-Ijtima'iya*, Unit 2 L4 Industrial and commercial resources in my homeland §industry and its types — printed p. 40 |
+
+**Acceptance count: taught in 7 countries (Vietnam, Eritrea, South Sudan, Venezuela, Jordan, Egypt, Yemen).**
+
+Yemen's own way (Grade 4 Al-Tarbiya al-Ijtima'iya): the economy is taught as the homeland's wealth — crops, herds, fish, workshops and ports — with the state, the agricultural associations and the export harbour all named as actors a nine-year-old can point to.
 
 Venezuela's own way (Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish): G6 names the system outright — capitalism, dependent capitalism and the informal economy are defined in the pupil's own book, and development is redefined as gains in people's standard of living with the least environmental damage. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
@@ -61,4 +69,4 @@ Jordan's own way (Jordan Grade 4 Term 1): The economy is met as the country's wo
 
 Egypt's own way (Grade 9 combined edition, egypt-placements-b.md): the world economy is taught as resources and activities continent by continent, then as country models — India, Brazil and Nigeria against Germany and the USA — before the book returns to Egypt's own modern history.
 
-Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan, venezuela, jordan, egypt
+Searchable tags: industry what it is, Vietnam, Eritrea, manufacturing, Asmara Textile, Asmara Brewery, Massawa Cement, social studies, culture-and-work, south sudan, venezuela, jordan, egypt, yemen

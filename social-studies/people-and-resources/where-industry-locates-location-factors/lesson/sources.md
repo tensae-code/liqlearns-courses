@@ -1,6 +1,6 @@
 # Sources — Where Industry Locates Location Factors
 
-countries: Kazakhstan, South Sudan, Palestine, Venezuela, Egypt
+countries: Kazakhstan, South Sudan, Palestine, Venezuela, Egypt, Yemen
 
 **Book 1:** *География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова)* (student book, Russian) — Алматы «Мектеп»; year 2025; ISBN 978-601-07-1773-2. Title as printed: География — Учебник для 8 классов общеобразовательных школ, 2-е издание, переработанное, дополненное (С. А. Абилмажинова, К. Д. Каймулдинова, Н. Д. Шакирова). Grade: 8 (student/teacher: STUDENT). PDF pages: 273 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1531.pdf, 51,336,177 bytes from the recorded okulyk.kz source, page count matches the record; printed book 272 pp). Verdict: COMPLETE. Parallel editions named, not double-counted: record 309.pdf — the 2018 first edition in Kazakh, ISBN 978-601-07-0964-5, 256 printed pp, identical §§1–54 structure verified from its contents; record 344.pdf — the 2018 first edition in Russian, ISBN 978-601-07-0969-0, 264 printed pp, cover/verso verified; reissue records 1432.pdf and 1486.pdf belong to the same editions. The book is placed once here, under this 2025 edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -53,7 +53,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Egypt part — Unit 1 Lesson 4 “Industrial activity in the world” — teaches: the natural and human factors industry needs and the world's five main industrial regions, comparing developed and developing countries | Egypt, *Egypt Grade 9 Social Prp3 T2 (combined edition)*, Unit 1 Lesson 4 — printed p. 22 |
 
-**Acceptance count: taught in 4 countries (Kazakhstan, Palestine, Venezuela, Egypt). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+**Book 10:** *Al-Tarbiya al-Ijtima'iya G4* (student book, Arabic) — Republic of Yemen, Ministry of Education; 1444 AH / 2022; no ISBN printed. Title as printed: التربية الاجتماعية — للصف الرابع من مرحلة التعليم الأساسي. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; grabbed from the repo release via grab.py, OK 27,406,231 bytes; the books.json record is the same book). Image-only PDF — read from rendered pages. Verdict: PARTIAL — Unit 2 (My homeland: its resources and wealth) and the city lesson of Unit 1 teach economic concepts; the rest is geography, civics services and national-occasions history, named in the Contents map and not placed. Contents map: Economics parts pp. 20, 25–43; Geography (Yemen's location, climate and water, my village, my city) pp. 7–24; Civics (service institutions: education, health, media, traffic police) pp. 46–63; History (national occasions: the September and October revolutions, Yemeni unity) pp. 64–77; unit assessments are assessment, named not placed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/yemen-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Yemen part — Unit 2 L4 Industrial and commercial resources §factors for the rise of industry — teaches: industry needs raw materials, capital, labour, energy and markets to arise | Yemen, *Yemen Grade 4 Al-Tarbiya al-Ijtima'iya*, Unit 2 L4 Industrial and commercial resources §factors for the rise of industry — printed p. 42 |
+
+**Acceptance count: taught in 5 countries (Kazakhstan, Palestine, Venezuela, Egypt, Yemen). South Sudan is named here as teacher-guide evidence only, counted nowhere.**
+
+Yemen's own way (Grade 4 Al-Tarbiya al-Ijtima'iya): the economy is taught as the homeland's wealth — crops, herds, fish, workshops and ports — with the state, the agricultural associations and the export harbour all named as actors a nine-year-old can point to.
 
 Venezuela's own way (Venezuela Grade 6 Venezuela G6 Social Sciences SB Spanish): G6 names the system outright — capitalism, dependent capitalism and the informal economy are defined in the pupil's own book, and development is redefined as gains in people's standard of living with the least environmental damage. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
@@ -67,4 +75,4 @@ Kazakhstan's own way (Kazakhstan Grade 8 Sakhova NIS): the NIS Grade 8 course ph
 
 Egypt's own way (Grade 9 combined edition, egypt-placements.md): Economics is taught as world economic geography — each activity (farming, grazing, mining, industry) is mapped worldwide with production bar charts, and every foreign country model ends with a section on that country's economic relations with Egypt.
 
-Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan, palestine, venezuela, egypt
+Searchable tags: where industry locates location factors, Kazakhstan, social studies, people-and-resources, south sudan, palestine, venezuela, egypt, yemen
