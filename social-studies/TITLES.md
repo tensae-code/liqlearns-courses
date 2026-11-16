@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **574**
+Economics lessons across the Economics titles: **581**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4479,3 +4479,13 @@ migration and Globalisation — trade and
 interdependence; Microeconomics: Reading and
 drawing economic graphs and Subsistence and
 cash-crop farming).
++7 for Vietnam,
+2026-11-16 — Microeconomics: Small enterprises
+— strengths, weaknesses and competition and
+Unfair competition and competition law;
+Market and Money: Actors of the economy and
+their roles, The functions of the market and
+The market mechanism — the invisible hand;
+Macroeconomics: Consumption drives production
+and growth; Culture and Work: Insurance —
+sharing risk).

@@ -1,6 +1,6 @@
 # Sources — Externalities — costs that fall on others
 
-countries: Ethiopia
+countries: Ethiopia, Vietnam
 
 **Book 1:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
 
@@ -9,8 +9,16 @@ countries: Ethiopia
 | The air-pollution answer — air stays free, you pay for the harm (guide-only) (teacher guide — evidence) | Ethiopia, *Economics, Teacher Guide, Grade 9*, printed pp. 11 |
 | External cost defined — a cost not borne by the firm but incurred by society (guide-only) (teacher guide — evidence) | Ethiopia, *Economics, Teacher Guide, Grade 9*, printed pp. 54–55 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+**Book 2:** *Chuyên đề học tập Giáo dục Kinh tế và Pháp luật 11 (Study Topics: Economic and Legal Education 11), Kết nối tri thức với cuộc sống series* (student book, Vietnamese) — Vietnam, Vietnam Education Publishing House (Nhà Xuất Bản Giáo Dục Việt Nam); year not printed on the pages checked; ISBN 978-604-0-35086-2 Title as printed: Chuyên đề học tập Giáo dục Kinh tế và Pháp luật 11 (Study Topics: Economic and Legal Education 11), Kết nối tri thức với cuộc sống series. Records: TSV release grade-11-gov-vietnam-economics-and-law-student-study-topics.pdf + books.json grade-11/gov/vietnam/economics-and-law/student/study-topics.pdf (same file). Grade: Grade 11 (student/teacher: STUDENT). Publisher: Vietnam Education Publishing House (Nhà Xuất Bản Giáo Dục Việt Nam); year not printed on the pages checked; ISBN 978-604-0-35086-2. PDF pages: 74 (cover verified against the record title; byte size 20,168,534 and page count match the books.json record exactly). Verdict: PARTIAL — only Topic 1 (economic development and the natural environment) is Economics-course content; Topics 2 and 3 are Law. Contents map: Economics parts printed pp. 5–21 (Topic 1, Lessons 1–2: the negative impacts of economic development on the natural environment and their causes; why the problem must be solved and the measures and policies for solving it); Law pp. 22–70 (Topic 2: civil law — concepts and principles, civil obligations and contracts, marriage/family and inheritance, intellectual property and technology transfer; Topic 3: labour law — concepts and principles, labour contracts, wages, bonuses and social insurance, labour disputes); glossary p. 71 (inventory only, named not placed) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Topic 1, Lesson 2: why development's environmental damage must be solved — teaches: the negative impacts fall directly on people's lives and on economic activity itself — air pollution ranks among Vietnam's top causes of death and disease (respiratory and cardiovascular illness, occupational lung disease in mining and construction), polluted water and soil spread disease and damage health through food and daily contact, and salinity intrusion from sea-level rise has cut rice yields by 20–50% in Mekong Delta provinces and threatens farmers with lost livelihoods and environmental migration — so quality of life falls, the disease burden grows, and the economy's sustainable development is blocked (Economics expansion, 2026-11-16) | Vietnam, *Vietnam Grade 11 Economic & Legal Education, Study Topics*, Topic 1, Lesson 2: why development's environmental damage must be solved — printed p. 16 |
+**Acceptance count: taught in 1 country (Vietnam). Ethiopia is teacher-guide evidence only — named here, counted nowhere.**
+
+Vietnam's own way (Vietnam Grade 11 Economic & Legal Education, Study Topics): the environment topic is taught entirely from national reports (Ministry of Natural Resources and Environment state-of-environment data) — extraction tables, Red River levels, Mekong Delta salinity — and closes with the State's own remedy plans, ending on green growth and the circular economy.
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: externalities, external cost, negative externality air pollution, costs borne by society, ethiopia, social studies, global issues
+Searchable tags: externalities, external cost, negative externality air pollution, costs borne by society, ethiopia, social studies, global issues, vietnam
