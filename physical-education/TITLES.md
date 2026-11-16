@@ -179,3 +179,12 @@ Playing by the Rules**
 **Traditional Games of El Salvador**
 (`traditional-games-and-dances/traditional-games-of-el-salvador`)
 — 6 new lessons, bringing this course to 125 lessons.
+
+The PE expansion then added: **Movement Concepts**
+(`moving-basics/movement-concepts`), **Arnis**
+(`traditional-games-and-dances/arnis`), **Traditional
+Dances of the Philippines**
+(`traditional-games-and-dances/traditional-dances-of-the-philippines`)
+and **Traditional Games of the Philippines**
+(`traditional-games-and-dances/traditional-games-of-the-philippines`)
+— 4 new lessons, bringing this course to 129 lessons.

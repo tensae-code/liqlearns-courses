@@ -287,6 +287,35 @@ taught through named play sessions, with didactic resources
 made from recycled materials, and a bank of Salvadoran
 school games (juegos lúdicos) per grade in the annexes.
 
+**PE expansion — Philippines — BUILT 2026-11-16:** 71 placements
+from the Philippines' DepEd Learner's Materials stocked — 62 into
+existing lessons (including Correct Posture, Expressing with the
+Body and Tug of War, built earlier in this expansion) and 9 as 4
+new lessons (Movement Concepts; Arnis; Traditional Dances of
+the Philippines; Traditional Games of the Philippines) —
+bringing this course to **129 lessons**. The books stocked are
+student books: PE 7 Learner's Material Units 1 & 2 (PARTIAL —
+Module 1 complete, Module 2 Arnis overview only), PE 3 Unit 1
+(PARTIAL — Lesson 8 opening only), MAPEH 3 Unit 3 PE component
+(COMPLETE), PE 2 Tagalog (COMPLETE for the PE component) and
+its Waray Unit 4 parallel (spot-checked, placed once). One
+Book 1 placement (Hypokinetic Diseases, filed under
+`fitness-and-stretching/diseases-of-inactivity`) resolves
+through the registry to the Health-course lesson
+`staying-safe/diseases-of-inactivity`, so it was NOT stocked
+in PE — excluded as Health-bound; the PE parts of the combined
+MAPEH books are stocked here and their Health parts are placed
+in the Health course. Books 5–15 in the placements file are
+record-only or UNREAD (a procurement memorandum, unlocated or
+login/sign-in-gated copies, parallel language editions placed
+once) with 0 placements. Philippines's own way is content:
+PE 7 as a self-paced workbook with learners measuring their
+own pulse, heart-rate zones and activity index and Arnis as
+its second unit; Grade 3 PE through Filipino action songs;
+Kunday-Kunday and Tumbang Preso; and Grade 2 PE in the mother
+tongue inside the single MAPEH book, returning to tikas
+(posture) every quarter.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -304,6 +333,7 @@ school games (juegos lúdicos) per grade in the annexes.
 13. **Knowing My Body and How It Moves** (`moving-basics/knowing-my-body-and-how-it-moves`) — knowing my body and how it moves: body parts, bones and joints, and the movements the body can make — taught in El Salvador's Grades 1–3 guide as Conociendo mi cuerpo (Grade 1: body schema and body image, the senses guiding movement), Conociendo y moviendo mi cuerpo (Grade 2: body structure and joint movement) and Muevo mi cuerpo globalmente y por partes (Grade 3: moving whole and by segments, the reflex-arc response) (El Salvador's teacher guide, evidence only).
 14. **Controlling My Body** (`moving-basics/controlling-my-body`) — controlling my body: moving body parts independently, controlling and stopping movements, and turning and spinning — taught in El Salvador's Grades 1–3 guide as holding one body segment still while others move (Grade 1), moving left and right sides differently at the same time (Grade 2), and bilateral efficiency with implements and independence of lower limbs from upper limbs (Grade 3) (El Salvador's teacher guide, evidence only).
 15. **Drill, Marching and Formations** (`moving-basics/drill-marching-and-formations`) — drill, marching and formations: falling in, attention and at-ease, turns, marching, and standing in rows, lines and circles — taught in El Salvador's Grades 1–3 guide as ¡Qué fácil organizarnos en grupo! (Grade 1): organising into pairs, trios, rows, columns and circles (El Salvador's teacher guide, evidence only).
+16. **Movement Concepts** (`moving-basics/movement-concepts`) — movement concepts: body, space, effort (time, force and flow) and relationships in movement — taught in the Philippines' Grade 3 book as the movement targets of Ball Rhythmics (time, force and flow named and graded) and in its Grade 2 book as Oras, Lakas at Daloy, read from a 400-metre race story and the sack race (Philippines' student books).
 
 ## Unit 2 — Fitness and Stretching
 
@@ -411,6 +441,9 @@ school games (juegos lúdicos) per grade in the annexes.
 30. **Wushu and Taijiquan** (`traditional-games-and-dances/wushu-and-taijiquan`) — Chinese martial arts — what wushu is, the Xingshen Quan form in the Changquan style with its hand forms and stances, and Taijiquan's Eight Methods and Five Steps beginner form (China's student book).
 31. **Chinese Health-Keeping Exercises** (`traditional-games-and-dances/chinese-health-keeping-exercises`) — the health-keeping exercise sets: Yijinjing, Wuqinxi (Five Animal Frolics) and Baduanjin (China's student book).
 32. **Traditional Games of El Salvador** (`traditional-games-and-dances/traditional-games-of-el-salvador`) — El Salvador's own school games, banked per grade in the guide's annexes (Anexos 3–5, Juegos lúdicos): Pañuelo de colores, Te toco… te sigo, Ladrón librado en parejas, Pelota por el túnel, Relevos locos, Pelota al espacio and the per-grade game banks (El Salvador's teacher guide, evidence only).
+33. **Arnis** (`traditional-games-and-dances/arnis`) — Arnis: the Filipino martial art of striking and blocking with one stick or two — taught in the Philippines' Grade 7 book as its Module 2, the Filipino stick martial art performed alone or with a partner, also used for self-defence (overview only in the copy read, as filed) (Philippines' student book).
+34. **Traditional Dances of the Philippines** (`traditional-games-and-dances/traditional-dances-of-the-philippines`) — Philippine folk dances — Kunday-Kunday, Alitaptap and the folk dance steps — taught in the Philippines' Grade 3 book as Kunday-Kunday, from its kumintang-like hand movement to the full partner dance, and in its Grade 2 book as the folk dance steps and the Alitaptap dance (Philippines' student books).
+35. **Traditional Games of the Philippines** (`traditional-games-and-dances/traditional-games-of-the-philippines`) — Filipino games such as Tumbang Preso and the Kadang-kadang stilt race — taught in the Philippines' Grade 3 book as Tumbang Preso, knocking down the can and racing for your slipper, and in its Grade 2 Waray book as the Kadang-kadang coconut-shell stilt relay (Philippines' student books).
 
 ## Unit 8 — Sport and Its Story
 

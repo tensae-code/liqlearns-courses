@@ -1,8 +1,8 @@
 # Sources — Tug of War
 
-countries: Afghanistan
+countries: Afghanistan, Philippines
 
-**Acceptance count: taught in 0 countries.** Afghanistan is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count — this lesson is founded on Afghanistan's teacher guides only, and no pupil's book is in hand for it.
+**Acceptance count: taught in 1 country (Philippines).** Afghanistan is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count — this lesson was founded on Afghanistan's teacher guides only, and no pupil's book was in hand for it at that point. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count.
 
 ## Afghanistan — PE expansion 2026-11-16
 
@@ -26,5 +26,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-
 Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 This is a canonical NEW lesson (slug-registry Part 1: `traditional-games-and-dances/tug-of-war` — Tug of war: two teams pulling a rope to drag the other across the line — strength, coordination and teamwork.); Afghanistan's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Afghanistan enters this lesson as teacher-guide evidence only, outside the acceptance count.
+
+## Philippines — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-pe-placements.md. The Philippines books stocked in this lesson are STUDENT books, read as filed in the placements file: Book 3 is COMPLETE as filed — all 8 lessons present to printed p. 31; its printed contents page lists Lesson 3 as "Catching, Throwing, and Rolling" while the body at p. 10 is "Kunday Kunday Basics" — a contents/body mismatch inside the book itself, and placements follow the body. The remaining Philippines records in the placements file (Books 5–15) are record-only or UNREAD — a procurement memorandum, unlocated or login/sign-in-gated copies, and parallel language editions placed once under the books above — with 0 placements, and nothing is stocked from them. Philippines is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — Philippines MAPEH 3 Learner's Material, Unit 3 — PE component (student book):**
+## Book 3 — MAPEH 3 Learner's Material, Unit 3 — PE component (student book, English)
+- Title as printed: MAPEH Learner's Material Unit 3 (Grade 3); the file contains the PE component only (8 PE lessons, no Music/Art/Health parts in this file)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: DepEd — Instructional Materials Council Secretariat (DepEd-IMCS), Pasig City; year First Edition, 2013; ISBN no ISBN printed (blank on the copyright page)
+- PDF pages: 31 (cover and contents verified against the record title; PDF title metadata "Microsoft Word - 3 P.E. LM Q3")
+- Records covered: TWO records are this one book — the Google Drive record ("Physical Education 3 Learner's Material Unit 3", file/d/1jQPhKYReZsbixqgUYlX3NzSUetQo3psb) and LR Portal record 5440 ("Physical Education 3: Unit 3 Learner's Material - Moving in Varying Speed and Direction"). Read via the Drive file; the LR Portal route is login-gated (see Book 2). STAGED under the push-don't-delete rule: ~/workspace/phase3-staging/grade-03/gov/philippines/physical-education/student/unit-3.pdf with a books.json record.
+- Verdict: COMPLETE — all 8 lessons present to printed p. 31. Note: the printed contents page lists Lesson 3 as "Catching, Throwing, and Rolling" (p. 10) while the body at p. 10 is "Kunday Kunday Basics" and Lesson 4 is "Enjoying Kunday Kunday" — a contents/body mismatch inside the book itself; placements follow the body.
+- Tally: 10 placements — 5 to existing lessons, 5 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Philippines — Lesson 8 (closing game): Hilahang Lubid — tug of war played as the follow-on game, using the pulling strength and teamwork of the earlier games (original target `traditional-games-and-dances/hilahang-lubid-tug-of-war`) | Philippines Grade 3 MAPEH LM Unit 3 (PE), printed p. 29 |
+
+Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: tug of war, risman kashi, traditional Afghan game, rope 20 m, centre line, strength, coordination, Afghanistan Grade 7

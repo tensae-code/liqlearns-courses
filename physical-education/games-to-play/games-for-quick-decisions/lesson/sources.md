@@ -1,6 +1,6 @@
 # Sources — Games for Quick Decisions
 
-countries: Ethiopia, Thailand
+countries: Ethiopia, Thailand, Philippines
 
 **Book 1:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
@@ -53,7 +53,7 @@ countries: Ethiopia, Thailand
 | Sub lesson 11 — Squat and stand; the Green-Yellow-Red game (teacher guide — evidence) | Ethiopia, *Grade 1 Teacher Guide*, squat/stand sequence and the Green-Yellow-Red game (teacher guide — evidence), printed pp. 14–15 |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 9 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Thailand — Unit 3, Ch. 2 Game activities — games that use thinking and decision skills, lead-up games towards a chosen sport, and turn-and-change movement activities (student book — SSR flipbook sample, PARTIAL) (original target `games-to-play/games-for-quick-decisions`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 3, Ch. 2, printed pp. 67–77 |
-**Acceptance count: taught in 2 countries (Ethiopia, Thailand).** Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count.
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -82,5 +82,26 @@ The Grade 7 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–45
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
 Thailand's rows in this lesson rest on publisher sample editions (PARTIAL, as filed — see the book lines above): each sample carries its book's complete printed contents, and the placements are taken from those contents; the sample label is carried exactly as filed and is never upgraded to a complete read. Thailand enters this lesson as student-book stock, inside the acceptance count. Game and movement rules are taught only as the placements summarise them; no rules have been invented.
+
+## Philippines — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-pe-placements.md. The Philippines books stocked in this lesson are STUDENT books, read as filed in the placements file: Book 4 is COMPLETE for the PE component as filed — all four quarters, 33 lessons; the quarters' own pre/post assessment tests (printed pp. 292–294, 322–324) are named in the placements file and not placed, per the assessment exclusion. The remaining Philippines records in the placements file (Books 5–15) are record-only or UNREAD — a procurement memorandum, unlocated or login/sign-in-gated copies, and parallel language editions placed once under the books above — with 0 placements, and nothing is stocked from them. Philippines is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — Philippines PE 2 Learner's Material, Tagalog/Filipino (student book):**
+## Book 4 — PE 2 Learner's Material — PE component of MAPEH 2 (student book, Tagalog/Filipino; Waray Unit 4 edition spot-checked)
+- Title as printed: Edukasyong Pangkatawan (the Physical Education component of the Grade 2 MAPEH Learner's Material), printed pp. 290–383 of the whole MAPEH 2 book
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: DepEd; year First Edition, 2013 (from the Waray edition of the same book); ISBN no ISBN printed in this segment (the Waray edition of the same MAPEH 2 book carries ISBN 978-971-9601-45-6)
+- PDF pages: 94 (the file opens at the PE component's cover, printed p. 290, verified against the component title; the segment runs to printed p. 383)
+- Records covered: the Google Drive record "Physical Education 2 Learner's Material" (file/d/1GiVYajOkAmoOPOgCPfoyNw-PfKeHLvJk) — the file behind it is this Tagalog PE component, complete Units 1–4. Parallel editions named (same book, other languages/records — see Books 8–10 for their routes): PE 2 Tagalog records (LR Portal 4623; Drive 0B-QPmpUdAEjici1hWThQb1ROYnc, filed twice in the list; Drive 0B-QPmpUdAEjid3U1aVoyaTdQUFE), PE 2 Chavacano (LR 4671/4672/4673), PE 2 Sinugbuanong Binisaya (LR 4725/4726/4727), PE 2 Hiligaynon (LR 4757–4760), PE 2 Pangasinan (LR 4821/4825/4826/4827), PE 2 Waray (LR 5730–5733; Drive U1 0B-QPmpUdAEjiZGdkRzlTd3NhVm8, U2 0B-QPmpUdAEjiQ2tCeDhKS3JRdlU, U3 0B-QPmpUdAEjibEl6VkFfaHNUVEE, U4 18WK_TlsZsMak1YLhno0_KBb6aJKPUipg). Of these, only the Waray Unit 4 Drive file could be opened (Book 4b) and was spot-checked as the parallel; the rest are login/sign-in gated (Books 8–10).
+- STAGED under the push-don't-delete rule: ~/workspace/phase3-staging/grade-02/gov/philippines/physical-education/student/full-year.pdf with a books.json record.
+- Verdict: COMPLETE for the PE component — all four quarters (Unang–Ikaapat na Markahan), 33 lessons (Aralin 1.1.1–4.5.1), each built as Pag-isipan / Gawin / Sukatin / Palawakin (reinforce / apply / evaluate / assignment). The quarters' own pre/post assessment tests (printed pp. 292–294, 322–324) are named here and not placed, per the brief's assessment exclusion.
+- Tally: 35 placements — 26 to existing lessons, 9 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Philippines — Aralin 4.2.1 (game): Tamaan ng Bola — the circle target game: the outside team passes (overhand, then underhand) and throws to hit the players dodging inside the circle; hit players leave the middle, teams swap every three minutes (original target `games-to-play/games-for-quick-decisions`) | Philippines Grade 2 PE LM (Tagalog), printed p. 372 |
+
+Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: games for quick decisions, Cat and Mouse አይጥና ድመት, Nekahuny ነካሁኝ, Homeless ቤት የለሽ, Who Do You Want ማንን ትፈልጋላችሁ, Ethiopia HPE, responsible decisions, ball-to-goal game, solving problems in competition, below-the-knee dodgeball, waist chain ከወገብ መያያዝ, Ilama ኢላማ, What a decision, Ethiopia HPE Grades 5–7, Squat and stand; the Green-Yellow-Red game (teacher guide — evidence)
