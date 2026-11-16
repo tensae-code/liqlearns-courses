@@ -37,4 +37,9 @@ The titles, in ladder order:
    dances, locality by locality, each named with its home area.
 8. **Sport and Its Story** — what physical education is and where
    it came from, the Olympic Games ancient and modern, Ethiopia's
-   famous athletes.
+   famous athletes, Cyprus and sport, sport for everyone.
+
+The PE expansion added: **Cyprus and Sport**
+(`sport-and-its-story/cyprus-and-sport`) and **Sport for
+Everyone** (`sport-and-its-story/sport-for-everyone`) — 2 new
+lessons, bringing this course to 65 lessons.

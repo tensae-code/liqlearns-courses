@@ -1,6 +1,6 @@
 # Sources — Sport and Society — Money, Media, Gender, Technology and Jobs
 
-countries: Ethiopia
+countries: Ethiopia, Cyprus
 
 **Book 1:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
 
@@ -14,14 +14,18 @@ countries: Ethiopia
 
 **Book 6:** *Health and Physical Education — Teacher Guide, Grade 10* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2022, under GEQIP-E. TRUNCATED (marginal): the file holds printed pp. I–IX + 1–93; §8.3's step-by-step teaching procedure breaks off mid-sentence on printed p. 92, so only that tail is missing — substantively complete. Read in full from the text layer, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g10-teacher-placements.md.
 
+**Book 7:** *Olympic Education Insert, Lyceum Years 2–3* (Ένθετο Βιβλίου Ολυμπιακής Παιδείας Β΄ & Γ΄ Λυκείου (Insert to the Olympic Education Book, Lyceum Years 2 and 3), under Φυσική Αγωγή (Physical Education)) (student book, Greek) — Cyprus, Ministry of Education, Sport and Youth, Cyprus — Pedagogical Institute of Cyprus / Curriculum Development Service; year 2025 (cover), 2nd edition (Β΄ Έκδοση); ISBN no ISBN printed (125 PDF pages). COMPLETE — the whole promised book is present. Read in full (text layer read page by page; covers rendered and verified against the records), in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cyprus-pe-placements.md. Cyprus's own way: the theory half of Cypriot upper-secondary PE is taught as Olympic education in term blocks — Olympism and the modern Games in Year 2, then lifelong exercise, disability sport and Cyprus's own sporting story in Year 3; this insert updates the main Olympic Education book with the movement's latest themes (sustainability, inclusion, quotas).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What Health, PE and Sport mean — and why PE matters | Ethiopia, *Grade 8 Teacher Guide*, Ch. 1 introduction and §1.1, printed pp. 3–6 (teacher guide — evidence); and *Grade 8 Student Textbook*, §1.1, printed p. 2 |
 | Sub lesson 2 — PE helps every job — and the jobs that grow out of PE | Ethiopia, *Grade 8 Student Textbook*, §1.2, printed pp. 3–4; and *Grade 8 Teacher Guide*, §1.2, printed pp. 6–8 (teacher guide — evidence) |
 | Sub lesson 3 — Women and girls in sport — and technology that judges fairly | Ethiopia, *Grade 9 Student Textbook*, §§1.2–1.3, printed pp. 6–13; and *Grade 9 Teacher Guide*, Unit 1, printed pp. 4–7 (teacher guide — evidence) |
 | Sub lesson 4 — Media, religion and politics — sport in the whole of life | Ethiopia, *Grade 10 Student Textbook*, §§1.1–1.3, printed pp. 2–10; and *Grade 10 Teacher Guide*, Unit 1, printed pp. 1–6 (teacher guide — evidence) |
+| Cyprus — Part 1, Olympism — sport's responsibility to society: fighting discrimination, accepting diversity, green/sustainable Games and honest use of technology (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 1, printed pp. 5–20 |
+| Cyprus — Part 3, Lifelong Exercise — sustainable development and physical exercise: active living against city pollution, lost public space and car-dominated streets (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 3, printed pp. 69–87 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Cyprus).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 8 teacher guide is truncated — printed pp. 51–104+ missing — and is used only for its held Chapter 1, labelled (teacher guide — evidence). The Grade 9 guide is complete. The Grade 10 guide is truncated only at its §8.3 tail (p. 92); its Unit 1 material here is complete in the held file. The Grade 10 guide's internal period-count inconsistency for its Unit 2 is not used in this lesson. This lesson carries the [Both] sport-and-society placements whose content is societal knowledge, not movement skill; the Grade 9/10 student books are the English federal 2023 GEQIP-E series and their terms are given as printed.
 

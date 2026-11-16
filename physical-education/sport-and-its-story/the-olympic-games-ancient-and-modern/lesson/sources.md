@@ -1,6 +1,6 @@
 # Sources — The Olympic Games, Ancient and Modern
 
-countries: Ethiopia
+countries: Ethiopia, Cyprus
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia
 
 **Book 8:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
 
+**Book 9:** *Olympic Education Insert, Lyceum Years 2–3* (Ένθετο Βιβλίου Ολυμπιακής Παιδείας Β΄ & Γ΄ Λυκείου (Insert to the Olympic Education Book, Lyceum Years 2 and 3), under Φυσική Αγωγή (Physical Education)) (student book, Greek) — Cyprus, Ministry of Education, Sport and Youth, Cyprus — Pedagogical Institute of Cyprus / Curriculum Development Service; year 2025 (cover), 2nd edition (Β΄ Έκδοση); ISBN no ISBN printed (125 PDF pages). COMPLETE — the whole promised book is present. Read in full (text layer read page by page; covers rendered and verified against the records), in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cyprus-pe-placements.md. Cyprus's own way: the theory half of Cypriot upper-secondary PE is taught as Olympic education in term blocks — Olympism and the modern Games in Year 2, then lifelong exercise, disability sport and Cyprus's own sporting story in Year 3; this insert updates the main Olympic Education book with the movement's latest themes (sustainability, inclusion, quotas).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 5 — Ethiopia at the Olympics — Melbourne 1956 to Rome 1960 and the missed Games | Ethiopia, *Grade 8 Student Textbook*, §1.3, printed pp. 4–5 |
@@ -29,8 +31,10 @@ countries: Ethiopia
 | Prove-it questions folded from the book's own Chapter 1 summary exercises — Sub lesson 1 | Ethiopia, *Grade 5 Student Textbook*, Chapter 1 summary exercises (the name Olympic from Olympia), printed p. 7 |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 1 (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lessons 2–3 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
+| Cyprus — Part 1, Olympism (Ολυμπισμός) — the Olympic Movement's vision, the pedagogy of Olympism and its values, the International Olympic Academy, and today's challenges (discrimination, technology, sustainability) (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 1, printed pp. 5–20 |
+| Cyprus — Part 2, Modern Olympic Games (Σύγχρονοι Ολυμπιακοί Αγώνες) — every edition in chronological order, the events that carry the Olympic name, qualification quotas and entry criteria by sport and age (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 2, printed pp. 21–68 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Cyprus).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 

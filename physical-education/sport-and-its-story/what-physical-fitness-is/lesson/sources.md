@@ -1,6 +1,6 @@
 # Sources — What Physical Fitness Is
 
-countries: Ethiopia
+countries: Ethiopia, Cyprus
 
 **Book 1:** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (51 PDF pages). Printed page = PDF page − 8. TRUNCATED — the file holds printed pp. 1–43 of 85+. Read in full, page by page, from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia
 
 **Book 4:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
+**Book 5:** *Olympic Education Insert, Lyceum Years 2–3* (Ένθετο Βιβλίου Ολυμπιακής Παιδείας Β΄ & Γ΄ Λυκείου (Insert to the Olympic Education Book, Lyceum Years 2 and 3), under Φυσική Αγωγή (Physical Education)) (student book, Greek) — Cyprus, Ministry of Education, Sport and Youth, Cyprus — Pedagogical Institute of Cyprus / Curriculum Development Service; year 2025 (cover), 2nd edition (Β΄ Έκδοση); ISBN no ISBN printed (125 PDF pages). COMPLETE — the whole promised book is present. Read in full (text layer read page by page; covers rendered and verified against the records), in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cyprus-pe-placements.md. Cyprus's own way: the theory half of Cypriot upper-secondary PE is taught as Olympic education in term blocks — Olympism and the modern Games in Year 2, then lifelong exercise, disability sport and Cyprus's own sporting story in Year 3; this insert updates the main Olympic Education book with the movement's latest themes (sustainability, inclusion, quotas).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — fitness as the body's capacity foundation; the four components; fitness built into play (teacher guide — evidence) | Ethiopia, *Grade 1 Teacher Guide*, Ch. 4 intro, printed p. 36 |
@@ -17,8 +19,9 @@ countries: Ethiopia
 
 | Sub lesson 3 — What fitness is — the Grade 5 definition | Ethiopia, *Grade 5 Student Textbook*, §3.1, printed pp. 25–26 |
 | Sub lesson 4 — Two kinds of fitness — health and skill | Ethiopia, *Grade 6 Student Textbook*, item 25, printed pp. 25–26 |
+| Cyprus — Part 3, Lifelong Exercise and Health, Life Skills (Διά βίου Άσκηση και Υγεία, Δεξιότητες Ζωής) — what health and lifelong exercise mean, lifestyle and quality of life, and the life skills built through staying active (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 3, printed pp. 69–87 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Sub lessons 1–2 rest on teacher-guide evidence only, as their rows say; Sub lessons 3–4 are pupil-taught from the Grade 5 and Grade 6 student textbooks (Wave 2 Band B extension, 2026-11-12), so the lesson as a whole counts as pupil-taught.
+**Acceptance count: taught in 2 countries (Ethiopia, Cyprus).** Sub lessons 1–2 rest on teacher-guide evidence only, as their rows say; Sub lessons 3–4 are pupil-taught from the Grade 5 and Grade 6 student textbooks (Wave 2 Band B extension, 2026-11-12), so the lesson as a whole counts as pupil-taught. Cyprus is added as student-book stock (see its row above), inside the acceptance count.
 
 The Grade 1 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–43 of 85+. Missing from the file: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 Addis Ababa traditional games (pp. 79–85+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
