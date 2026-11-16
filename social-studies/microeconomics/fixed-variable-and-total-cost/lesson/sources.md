@@ -1,6 +1,6 @@
 # Sources — Fixed, variable and total cost
 
-countries: Ethiopia, Nicaragua, Iraq
+countries: Ethiopia, Nicaragua, Iraq, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -26,10 +26,18 @@ countries: Ethiopia, Nicaragua, Iraq
 |---|---|
 | Iraq part — Production costs: total, fixed and variable — teaches: cost as the value of the factors used (wages, interest, rent, profit, materials, energy, transport, insurance, depreciation); TC = TFC + TVC, fixed costs like factory rent that do not move with output and variable costs that do (Economics expansion, 2026-11-16; original placement slug: microeconomics/fixed-vs-variable-costs — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 11 Economics*, Production costs: total, fixed and variable — printed p. 50 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Nicaragua, Iraq).**
+**Book 4:** *ECONOMICS Class XII* (student book, English) — School Curriculum Division, Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2022, © 2022; no ISBN printed. Title as printed: ECONOMICS Class XII. Grade: Class XII (student/teacher: STUDENT). PDF pages: 206 (cover verified against the record title; record size 4,208,131 bytes and 206 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–190 (all 14 chapters); Assessment pp. 191–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 3 Production Decision: Cost Analysis — teaches: types of cost | Bhutan, *Bhutan Class XII Economics XII*, Chapter 3 Production Decision: Cost Analysis — printed p. 29 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Nicaragua, Iraq, Bhutan).**
+
+Bhutan's own way (Bhutan Class XII Economics XII): Class XII is the analytical capstone — utility/indifference analysis, production, cost and revenue, distribution theory, statistics and index numbers, then Bhutan-flavoured public finance (deficit financing's effects on the Bhutanese economy, Bhutan budgetary procedure) and national income as compiled by Bhutan's National Statistics Bureau.
 
 Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
 
 Nicaragua's own way (Nicaragua Grade 7 Guía del Emprendedor): entrepreneurship is taught as a government-guided route — idea, business plan, formalisation through the Ventanilla Única de Inversiones, and export registration — inside the "economía creativa, familiar, comunitaria, cooperativa y asociativa" model, with córdoba prices and Nicaraguan institutions throughout.
 
-Searchable tags: total fixed cost, total variable cost, total cost, TFC 100, TC 230 at 7 units, short-run costs, ethiopia, social studies, microeconomics, nicaragua, iraq
+Searchable tags: total fixed cost, total variable cost, total cost, TFC 100, TC 230 at 7 units, short-run costs, ethiopia, social studies, microeconomics, nicaragua, iraq, bhutan

@@ -1,6 +1,6 @@
 # Sources — Public goods and the free rider
 
-countries: Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan, Papua New Guinea, Samoa
+countries: Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan, Papua New Guinea, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -96,7 +96,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Samoa part — Unit 9, The Government and the Economy — teaches: public goods and merit goods in Samoa (electric power, health, education) and why private firms will not provide them | Samoa, *Year 12 Economics*, Unit 9, The Government and the Economy — printed p. 85 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan, Samoa). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 15:** *ECONOMICS Class X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, © 2023, Reprint 2024; no ISBN printed. Title as printed: ECONOMICS Class X. Grade: Class X (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; record size 3,206,712 bytes and 98 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–80 (all 8 chapters); Assessments pp. 81–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 5, §5.1c — teaches: public goods (non-excludable, non-rival) vs private goods | Bhutan, *Bhutan Class X Economics X*, Chapter 5, §5.1c — printed p. 46 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States, Pakistan, Samoa, Bhutan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class X Economics X): Class X turns from concepts to Bhutan itself — the Bhutanese economy's features, public finance, GNH as the official development measure alongside GDP, Bhutan's balance of payments and rupee-crisis case material.
 
 Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
@@ -120,4 +128,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia, dominica, csec principles of business, caribbean, uzbekistan, egypt, india, united states, pakistan, papua new guinea, teacher guide evidence, samoa
+Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia, dominica, csec principles of business, caribbean, uzbekistan, egypt, india, united states, pakistan, papua new guinea, teacher guide evidence, samoa, bhutan

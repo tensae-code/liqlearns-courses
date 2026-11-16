@@ -1,6 +1,6 @@
 # Sources — Monopolistic competition
 
-countries: Ethiopia, Albania, Yemen, Iraq, Nigeria
+countries: Ethiopia, Albania, Yemen, Iraq, Nigeria, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -34,7 +34,15 @@ countries: Ethiopia, Albania, Yemen, Iraq, Nigeria
 |---|---|
 | Nigeria part — Chapter 8 — Monopolistic competition — teaches: monopolistic competition and price/quantity determination under it | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 8 — Monopolistic competition — printed p. 107 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Yemen, Iraq, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 9, §9.2b — teaches: monopolistic competition and its features | Bhutan, *Bhutan Class IX Economics IX*, Chapter 9, §9.2b — printed p. 75 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Yemen, Iraq, Nigeria, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -44,4 +52,4 @@ Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course t
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
-Searchable tags: monopolistic competition, differentiated products, branding advertising, free entry exit, flatter demand curve, ethiopia, social studies, microeconomics, albania, yemen, iraq, nigeria
+Searchable tags: monopolistic competition, differentiated products, branding advertising, free entry exit, flatter demand curve, ethiopia, social studies, microeconomics, albania, yemen, iraq, nigeria, bhutan

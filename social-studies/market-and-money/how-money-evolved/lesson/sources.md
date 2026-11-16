@@ -1,6 +1,6 @@
 # Sources — How money evolved — commodity, paper, cheques, electronic
 
-countries: Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Samoa
+countries: Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -131,7 +131,15 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Samoa part — Unit 3 Topic 2, Solomon Islands — teaches: traditional forms of money (shells, feathers, dogs' and porpoise teeth, red money) valued by how hard they are to get | Samoa, *Year 9 Social Studies Book 1*, Unit 3 Topic 2, Solomon Islands — printed p. 47 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Samoa).**
+**Book 21:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 8, §8.2 — teaches: evolution of money in seven stages — commodity, metallic, coins, paper, currency notes, plastic, digital | Bhutan, *Bhutan Class IX Economics IX*, Chapter 8, §8.2 — printed p. 62 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Uganda, Palestine, Dominica, Bangladesh, Egypt, Yemen, Bulgaria, Iran, Pakistan, Bolivia, Costa Rica, Nigeria, Samoa, Bhutan).**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
 Samoa's own way (Year 9 Social Studies Book 1): Economics begins as sharing — resources are limited and shared by allocation, distribution and management, and exchange is taught from Samoan ceremonial exchange (si'i) and Solomon Islands traditional money before the modern monetary system.
 
@@ -163,4 +171,4 @@ Bulgaria's own way (Bulgaria Grade 4 Technology and Entrepreneurship): Grade 4 i
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade, palestine, dominica, csec principles of business, caribbean, bangladesh, egypt, yemen, bulgaria, iran, pakistan, bolivia, nigeria, samoa
+Searchable tags: evolution of money, commodity money, fiat money, cheques, electronic payment, ethiopia, social studies, market and money, uganda, cowrie shells, arab traders, indian rupees, shilling, monetary trade, palestine, dominica, csec principles of business, caribbean, bangladesh, egypt, yemen, bulgaria, iran, pakistan, bolivia, nigeria, samoa, bhutan

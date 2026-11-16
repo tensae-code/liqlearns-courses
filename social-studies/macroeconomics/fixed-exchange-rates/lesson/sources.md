@@ -1,6 +1,6 @@
 # Sources — Fixed exchange rates
 
-countries: Ethiopia, Nicaragua, Costa Rica
+countries: Ethiopia, Nicaragua, Costa Rica, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -22,10 +22,18 @@ countries: Ethiopia, Nicaragua, Costa Rica
 |---|---|
 | Costa Rica part — La crisis en Inglaterra — teaches: in the Depression England's exports fell, its currency was devalued and it abandoned the gold standard | Costa Rica, *Estudios Sociales CONED 10*, Grade 10 — printed p. 45 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Nicaragua, Costa Rica).**
+**Book 4:** *ECONOMICS Class XII* (student book, English) — School Curriculum Division, Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2022, © 2022; no ISBN printed. Title as printed: ECONOMICS Class XII. Grade: Class XII (student/teacher: STUDENT). PDF pages: 206 (cover verified against the record title; record size 4,208,131 bytes and 206 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–190 (all 14 chapters); Assessment pp. 191–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 14 — teaches: fixed exchange rate systems analysed | Bhutan, *Bhutan Class XII Economics XII*, Chapter 14 — printed p. 183 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Nicaragua, Costa Rica, Bhutan).**
+
+Bhutan's own way (Bhutan Class XII Economics XII): Class XII is the analytical capstone — utility/indifference analysis, production, cost and revenue, distribution theory, statistics and index numbers, then Bhutan-flavoured public finance (deficit financing's effects on the Bhutanese economy, Bhutan budgetary procedure) and national income as compiled by Bhutan's National Statistics Bureau.
 
 Costa Rica's own way (Estudios Sociales CONED 10): a world-history book whose economics spine runs crisis to crisis — 1929, Bretton Woods, oil shocks, the Latin American debt crisis and neoliberal adjustment — ending at home with Costa Rica's trade opening to China and its shallower, state-keeping reform path.
 
 Nicaragua's own way (Nicaragua Grade 4 Estudios Sociales 4): a single long lesson defines economic activity and its three phases, then reads Nicaragua's own economy through Central Bank figures — growth, free-zone firms, small firms' 41.6% of value added, and a 2015 indicators table (GDP growth, per-capita GDP, inflation, remittances, external debt).
 
-Searchable tags: fixed exchange rates, ethiopia, social studies, macroeconomics, nicaragua
+Searchable tags: fixed exchange rates, ethiopia, social studies, macroeconomics, nicaragua, bhutan

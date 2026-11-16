@@ -1,6 +1,6 @@
 # Sources — The World Trade Organization
 
-countries: South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States, Costa Rica, Papua New Guinea
+countries: South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States, Costa Rica, Papua New Guinea, Bhutan
 
 **Book 1:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -68,7 +68,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Papua New Guinea evidence — Unit 3, Topic 1: Global economic institutions: the roles and responsibilities of the World Trade Organization, the International Labour Organization, the World Bank and the International Monetary Fund (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Economics TG*, Unit 3, Topic 1: Global economic institutions — printed p. 70 |
 
-**Acceptance count: taught in 9 countries (South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States, Costa Rica). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 12:** *ECONOMICS Class X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, © 2023, Reprint 2024; no ISBN printed. Title as printed: ECONOMICS Class X. Grade: Class X (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; record size 3,206,712 bytes and 98 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–80 (all 8 chapters); Assessments pp. 81–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 8, §8.5 — teaches: current global trade-policy issues through the WTO Doha Round case | Bhutan, *Bhutan Class X Economics X*, Chapter 8, §8.5 — printed p. 79 |
+
+**Acceptance count: taught in 10 countries (South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States, Costa Rica, Bhutan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class X Economics X): Class X turns from concepts to Bhutan itself — the Bhutanese economy's features, public finance, GNH as the official development measure alongside GDP, Bhutan's balance of payments and rupee-crisis case material.
 
 Papua New Guinea's own way (Papua New Guinea Grade 12 Economics TG): Grade 12 Economics turns analytical — demand and supply with graphs, elasticity coefficients, the incidence of a sales tax drawn between producer and consumer, market structures illustrated with PNG firms, and a full unit on trade relations and foreign aid, the economy PNG actually lives in. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -91,4 +99,4 @@ South Sudan's own way (South Sudan Grade 12 S4 Geography TG) (teacher guide — 
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: the world trade organization, South Sudan, social studies, culture-and-work, cambodia, uzbekistan, vietnam, nepal, iraq, india, united states, papua new guinea, teacher guide evidence
+Searchable tags: the world trade organization, South Sudan, social studies, culture-and-work, cambodia, uzbekistan, vietnam, nepal, iraq, india, united states, papua new guinea, teacher guide evidence, bhutan

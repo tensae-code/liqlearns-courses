@@ -1,6 +1,6 @@
 # Sources — Goods and services
 
-countries: Zimbabwe, Jordan, Bulgaria, Iran, Samoa
+countries: Zimbabwe, Jordan, Bulgaria, Iran, Samoa, Bhutan
 
 **Book 1:** *PlusOne Social Science ECD A Teacher's Guide* (teacher guide, English) — Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-134-3. Title as printed: PlusOne Social Science ECD A Teacher's Guide (author Chenai D. Masama). Grade: ECD A / KG1 (student/teacher: TEACHER). PDF pages: 79 (cover verified against the record title). Verdict: COMPLETE. Contents map: Identity/family pp. 1–6; Civics (my country, anthem, flag) pp. 7–9; Heritage pp. 10–13; Economics parts pp. 17–19 (work produces goods and services) and pp. 60–63 (careers; financial literacy); Transport and communication pp. 24–29; Shelter pp. 30–34; Global issues/safety pp. 35–40; Managing change pp. 41–44; Social etiquette p. 45; Rights and responsibilities pp. 47–53; Health pp. 55–59; Religion pp. 64–68; Social services and volunteerism pp. 69–72 (the two later lessons also titled "Work produces goods and services", printed pp. 19–20, are heritage lessons on artefacts and musical instruments, not Economics). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/zimbabwe-placements.md.
 
@@ -73,7 +73,15 @@ countries: Zimbabwe, Jordan, Bulgaria, Iran, Samoa
 | Samoa part — Unit 2, Goods — teaches: goods classified as free goods or economic (scarce) goods, and economic goods split into consumer goods and capital goods | Samoa, *Year 9 Business Studies Book 1*, Unit 2, Goods — printed p. 19 |
 | Samoa part — Unit 2, Services — teaches: services as the help people give (bus driver, policeman, teacher), with free services and economic services distinguished (Economics expansion, 2026-11-16; original placement slug: microeconomics/services — stocked here as the closest existing lesson covering this thing) | Samoa, *Year 9 Business Studies Book 1*, Unit 2, Services — printed p. 24 |
 
-**Acceptance count: taught in 4 countries (Jordan, Bulgaria, Iran, Samoa). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 13:** *SOCIAL STUDIES CLASS V* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, Reprint 2025; no ISBN printed. Title as printed: SOCIAL STUDIES CLASS V. Grade: Class V (student/teacher: STUDENT). PDF pages: 78 (cover verified against the record title; record size 2,977,472 bytes and 78 pages match exactly). Verdict: COMPLETE (Economics part read in full; other parts named in the Contents map only, per the mixed-ss rule). Contents map: Economics part pp. 65–70 (Ch. 12 Money and Banks); Geography pp. 1–26 (the Earth, Bhutan's zones, rivers, forests); History pp. 27–30 (Zhabdrung Ngawang Namgyal); Civics pp. 31–46 (national symbols, places of worship, local government); other Social Studies pp. 47–64 (people and society, environment, hazards) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 12 Money and Banks, §12.1 — teaches: goods vs services with Bhutanese examples, and why producing our own goods and services matters | Bhutan, *Bhutan Class V Social Studies V*, Chapter 12 Money and Banks, §12.1 — printed p. 66 |
+
+**Acceptance count: taught in 5 countries (Jordan, Bulgaria, Iran, Samoa, Bhutan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class V Social Studies V): Money is taught through the ngultrum and Bhutan's own named banks (Bank of Bhutan, BNBL, BDBL, Druk PNB, Tashi Bank), with deposit/loan arithmetic in ngultrum.
 
 Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 
@@ -102,4 +110,4 @@ Iran's own way (Iran Grade 3 Social Studies): Economics enters at Grade 3 throug
 
 Iran's own way (Iran Grade 4 Social Studies): the family-budget table (income / expense / saving) is introduced at Grade 4 through a boy saving for a football, with his 50,000-toman apple-picking wage as the income example.
 
-Searchable tags: goods and services, goods, services, cook, baker, maize, clay pots, pfuko, baskets, tswanda, potter, weaver, welder, tailor, zimbabwe, teacher guide evidence, social studies, microeconomics, jordan, bulgaria, iran, samoa
+Searchable tags: goods and services, goods, services, cook, baker, maize, clay pots, pfuko, baskets, tswanda, potter, weaver, welder, tailor, zimbabwe, teacher guide evidence, social studies, microeconomics, jordan, bulgaria, iran, samoa, bhutan

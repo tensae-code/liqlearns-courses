@@ -1,6 +1,6 @@
 # Sources — Measuring GDP — the income approach
 
-countries: Ethiopia, Indonesia, Greece, Samoa
+countries: Ethiopia, Indonesia, Greece, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -28,7 +28,15 @@ countries: Ethiopia, Indonesia, Greece, Samoa
 |---|---|
 | Samoa part — Unit 9 Circular Flow — teaches: GDP calculated by the income approach, linked to the circular flow | Samoa, *Year 12 Economics*, Unit 9 Circular Flow — printed p. 88 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Greece, Samoa).**
+**Book 5:** *ECONOMICS Class XII* (student book, English) — School Curriculum Division, Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2022, © 2022; no ISBN printed. Title as printed: ECONOMICS Class XII. Grade: Class XII (student/teacher: STUDENT). PDF pages: 206 (cover verified against the record title; record size 4,208,131 bytes and 206 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–190 (all 14 chapters); Assessment pp. 191–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 12 — teaches: the income method of estimating national income | Bhutan, *Bhutan Class XII Economics XII*, Chapter 12 — printed p. 155 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Indonesia, Greece, Samoa, Bhutan).**
+
+Bhutan's own way (Bhutan Class XII Economics XII): Class XII is the analytical capstone — utility/indifference analysis, production, cost and revenue, distribution theory, statistics and index numbers, then Bhutan-flavoured public finance (deficit financing's effects on the Bhutanese economy, Bhutan budgetary procedure) and national income as compiled by Bhutan's National Statistics Bureau.
 
 Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
@@ -36,4 +44,4 @@ Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupi
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: income approach, wages rent interest profits, national income, indirect business taxes, depreciation capital consumption allowance, ethiopia, social studies, macroeconomics, indonesia, greece, samoa
+Searchable tags: income approach, wages rent interest profits, national income, indirect business taxes, depreciation capital consumption allowance, ethiopia, social studies, macroeconomics, indonesia, greece, samoa, bhutan

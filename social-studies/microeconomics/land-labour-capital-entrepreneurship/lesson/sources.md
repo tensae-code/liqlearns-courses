@@ -1,6 +1,6 @@
 # Sources — Land, labour, capital, entrepreneurship — and what each is paid
 
-countries: Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Albania, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India, Pakistan, Nigeria, Greece, Papua New Guinea, Samoa
+countries: Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Albania, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India, Pakistan, Nigeria, Greece, Papua New Guinea, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -179,7 +179,23 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Samoa part — Unit 3 Production of Goods and Services — teaches: the four factors combined, worked through a cabinet-maker making a chair | Samoa, *Year 10 Business Studies Book 1*, Unit 3 Production of Goods and Services — printed p. 26 |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India, Pakistan, Nigeria, Greece, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 29:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 3, §3.2–3.4 — teaches: human resources and the factors of production, the entrepreneur's characteristics | Bhutan, *Bhutan Class IX Economics IX*, Chapter 3, §3.2–3.4 — printed p. 16 |
+
+**Book 30:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 10 — teaches: the entrepreneur defined, attributes and role | Bhutan, *Bhutan Class XI Economics XI*, Chapter 10 — printed p. 120 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Saudi Arabia, France, Laos, Kazakhstan, Dominica, Jordan, Bangladesh, Egypt, Yemen, Armenia, Nicaragua, Iran, Iraq, India, Pakistan, Nigeria, Greece, Samoa, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 
@@ -235,4 +251,4 @@ Iran's own way (Iran Grade 10 Entrepreneurship Workshop): entrepreneurship is a 
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: factors of production, land labour capital entrepreneurship, rent wages interest profit, ethiopia, saudi arabia, resources human natural capital, oil minerals water, france, ses, productive combination, social studies, microeconomics, laos, resources of doing business, economic resources, human resources, time, kazakhstan, tenge, entrepreneurship and business basics, albania, dominica, csec principles of business, caribbean, jordan, bangladesh, egypt, yemen, armenia, nicaragua, iran, iraq, india, pakistan, nigeria, greece, papua new guinea, teacher guide evidence, samoa
+Searchable tags: factors of production, land labour capital entrepreneurship, rent wages interest profit, ethiopia, saudi arabia, resources human natural capital, oil minerals water, france, ses, productive combination, social studies, microeconomics, laos, resources of doing business, economic resources, human resources, time, kazakhstan, tenge, entrepreneurship and business basics, albania, dominica, csec principles of business, caribbean, jordan, bangladesh, egypt, yemen, armenia, nicaragua, iran, iraq, india, pakistan, nigeria, greece, papua new guinea, teacher guide evidence, samoa, bhutan

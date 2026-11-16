@@ -1,6 +1,6 @@
 # Sources — What money is
 
-countries: Ethiopia, United Arab Emirates, Zambia, Syria, Uganda, Mongolia, Rwanda, Malaysia, Dominican Republic, Albania, Cambodia, Egypt, Yemen, Nicaragua, Iran, Iraq, India, Pakistan, Bolivia, Colombia, Nigeria, Greece, Papua New Guinea, Samoa
+countries: Ethiopia, United Arab Emirates, Zambia, Syria, Uganda, Mongolia, Rwanda, Malaysia, Dominican Republic, Albania, Cambodia, Egypt, Yemen, Nicaragua, Iran, Iraq, India, Pakistan, Bolivia, Colombia, Nigeria, Greece, Papua New Guinea, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -201,7 +201,15 @@ Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first t
 |---|---|
 | Samoa part — Unit 11 Inflation — teaches: money's four functions and the characteristics of good money, tala and sene, legal tender, and M1/M2/M3 definitions | Samoa, *Year 12 Economics*, Unit 11 Inflation — printed p. 95 |
 
-**Acceptance count: taught in 21 countries (Ethiopia, United Arab Emirates, Syria, Uganda, Mongolia, Rwanda, Malaysia, Dominican Republic, Cambodia, Egypt, Yemen, Nicaragua, Iran, Iraq, India, Pakistan, Bolivia, Colombia, Nigeria, Greece, Samoa). Zambia is teacher-module evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 32:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 8, §8.4–8.5 — teaches: characteristics of good money and the functions of money (Crowther's definition) | Bhutan, *Bhutan Class IX Economics IX*, Chapter 8, §8.4–8.5 — printed p. 67 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, United Arab Emirates, Syria, Uganda, Mongolia, Rwanda, Malaysia, Dominican Republic, Cambodia, Egypt, Yemen, Nicaragua, Iran, Iraq, India, Pakistan, Bolivia, Colombia, Nigeria, Greece, Samoa, Bhutan). Zambia is teacher-module evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
 Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 
@@ -253,4 +261,4 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money, uganda, qualities of money, uses of money, coins and notes, mongolia, four functions of money, metal paper card electronic money, tögrög, rwanda, malaysia, dominican republic, albania, cambodia, egypt, yemen, nicaragua, iran, iraq, india, pakistan, bolivia, colombia, nigeria, greece, papua new guinea, teacher guide evidence, samoa
+Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money, uganda, qualities of money, uses of money, coins and notes, mongolia, four functions of money, metal paper card electronic money, tögrög, rwanda, malaysia, dominican republic, albania, cambodia, egypt, yemen, nicaragua, iran, iraq, india, pakistan, bolivia, colombia, nigeria, greece, papua new guinea, teacher guide evidence, samoa, bhutan

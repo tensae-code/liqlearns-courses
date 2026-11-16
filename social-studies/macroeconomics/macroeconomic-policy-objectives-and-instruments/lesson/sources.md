@@ -1,6 +1,6 @@
 # Sources — Macroeconomic policy — objectives and instruments
 
-countries: Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq, Papua New Guinea, Samoa
+countries: Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq, Papua New Guinea, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -62,7 +62,15 @@ countries: Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq, Papua New G
 |---|---|
 | Samoa part — Production 1, The Role of Government in the Economy — teaches: government functions and the stabilisation role (keeping employment high and inflation low, preventing boom/depression swings) | Samoa, *Year 13 Economics Guide*, Production 1, The Role of Government in the Economy — printed p. 2 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq, Samoa). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *ECONOMICS Class X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, © 2023, Reprint 2024; no ISBN printed. Title as printed: ECONOMICS Class X. Grade: Class X (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; record size 3,206,712 bytes and 98 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–80 (all 8 chapters); Assessments pp. 81–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 6 Measurement of Economic Performance, §6.1–6.2 — teaches: economic performance and the indicators used to measure it | Bhutan, *Bhutan Class X Economics X*, Chapter 6 Measurement of Economic Performance, §6.1–6.2 — printed p. 53 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, Cambodia, Indonesia, Nicaragua, Iraq, Samoa, Bhutan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class X Economics X): Class X turns from concepts to Bhutan itself — the Bhutanese economy's features, public finance, GNH as the official development measure alongside GDP, Bhutan's balance of payments and rupee-crisis case material.
 
 Samoa's own way (Year 13 Economics Guide): Year 13 economics is anchored on Samoa itself — the Central Bank of Samoa (not a generic central bank), one oil supplier as a Samoan monopoly, Samoan government revenue/expenditure tables, and a closing national-economy session built from the Central Bank Governor's 2002 address.
 
@@ -85,4 +93,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: macroeconomic policy — objectives and instruments, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, cambodia, indonesia, nicaragua, iraq, papua new guinea, teacher guide evidence, samoa
+Searchable tags: macroeconomic policy — objectives and instruments, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, cambodia, indonesia, nicaragua, iraq, papua new guinea, teacher guide evidence, samoa, bhutan

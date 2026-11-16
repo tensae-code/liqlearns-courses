@@ -1,6 +1,6 @@
 # Sources — What to produce?
 
-countries: Ethiopia, Laos, Bangladesh, Yemen, Fiji, Armenia, Nicaragua, Nigeria, Greece, Samoa
+countries: Ethiopia, Laos, Bangladesh, Yemen, Fiji, Armenia, Nicaragua, Nigeria, Greece, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -78,7 +78,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Samoa part — Unit 1 Economic Systems — teaches: the what-to-produce question compared across the four systems in one table | Samoa, *Year 10 Business Studies Book 1*, Unit 1 Economic Systems — printed p. 7 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Laos, Bangladesh, Yemen, Fiji, Armenia, Nicaragua, Nigeria, Greece, Samoa).**
+**Book 13:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 7 Economic System, §7.0–7.2 — teaches: every economy must answer what, how and for whom to produce; what an economy and an economic system are | Bhutan, *Bhutan Class IX Economics IX*, Chapter 7 Economic System, §7.0–7.2 — printed p. 55 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Laos, Bangladesh, Yemen, Fiji, Armenia, Nicaragua, Nigeria, Greece, Samoa, Bhutan).**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
 Samoa's own way (Year 9 Business Studies Book 2): Economics is introduced only to mark it off from accounting — accounting information helps economic decision-making about the best use of resources.
 
@@ -100,4 +108,4 @@ Laos' own way (Laos Grade 10 Business student): Economics is taught as the theor
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: what to produce, allocation of resources, consumption capital goods, necessities luxuries, ethiopia, social studies, microeconomics, laos, produce what, society's needs, bangladesh, yemen, Fiji, armenia, nicaragua, nigeria, greece, samoa
+Searchable tags: what to produce, allocation of resources, consumption capital goods, necessities luxuries, ethiopia, social studies, microeconomics, laos, produce what, society's needs, bangladesh, yemen, Fiji, armenia, nicaragua, nigeria, greece, samoa, bhutan

@@ -1,6 +1,6 @@
 # Sources — Green economy and green growth
 
-countries: Ethiopia, Jamaica, Bangladesh, Iran, Costa Rica
+countries: Ethiopia, Jamaica, Bangladesh, Iran, Costa Rica, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -39,7 +39,15 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Costa Rica part — Sistema de pagos por servicios ambientales (PSA) — teaches: while Latin America cleared forest for commercial agriculture (70% of 2000–2010 deforestation, FAO), Costa Rica reversed the trend with state incentives and its PSA programme and grew its forest cover | Costa Rica, *Estudios Sociales CONED 8*, Grade 8 — printed p. 92 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Iran, Costa Rica). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Book 7:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 7, §7.1 — teaches: the green economy idea — low carbon, biodiversity, alternative energy — introduced inside the economic-systems chapter | Bhutan, *Bhutan Class IX Economics IX*, Chapter 7, §7.1 — printed p. 55 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Iran, Costa Rica, Bhutan). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
 Costa Rica's own way (Estudios Sociales CONED 7): Economics is taught inside history and geography — the Neolithic surplus as the first economy, pre-Columbian markets and tribute, then Costa Rica's own ecological footprint/ecological debt (Estado de la Nación 2016 data) and its world-famous payment-for-environmental-services (PSA/Fonafifo) forest scheme as the national case studies.
 
@@ -51,4 +59,4 @@ No matching teacher guide exists in this band: the book recorded as this text's 
 
 Iran's own way (Iran Grade 9 Social Studies): productivity is framed with Qur'anic and religious warrants (no extravagance, moderation, consultation) and capped by the resistance-economy doctrine; world inequality is read off Iran's own rising Human Development Index chart.
 
-Searchable tags: green economy and green growth, grade 12 economics, ethiopia, social studies, global issues, Jamaica, curriculum guide evidence, bangladesh, iran
+Searchable tags: green economy and green growth, grade 12 economics, ethiopia, social studies, global issues, Jamaica, curriculum guide evidence, bangladesh, iran, bhutan

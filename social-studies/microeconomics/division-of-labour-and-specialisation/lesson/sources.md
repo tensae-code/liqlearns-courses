@@ -1,6 +1,6 @@
 # Sources — Division of labour and specialisation
 
-countries: Costa Rica, Nigeria, Greece, Papua New Guinea, Samoa
+countries: Costa Rica, Nigeria, Greece, Papua New Guinea, Samoa, Bhutan
 
 **Book 1:** *Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año* (student book, Spanish) — CONED / Universidad Estatal a Distancia (UNED); year 2017 (© 2017, CONED); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código: 80005, Nivel: Sétimo año. Grade: 7 (student/teacher: STUDENT). PDF pages: 166 (cover/title page verified against the record title). Verdict: COMPLETE. Contents map: Economics parts printed pp. 19–29 (Neolithic surplus/barter/division of labour), 66–80 (economic organisation of Maya, Aztec and Inca), 94–105 (ecological footprint), 130–136 (forest conservation incentives / payment for environmental services), 137–165 (world food production, poverty and food access, food security); History pp. 6–93 (hominisation, ancient Mesopotamia/Egypt, Greece/Rome, indigenous peoples of Costa Rica — their short descriptive "economic activities" paragraphs are History content, named here, not placed); Geography pp. 106–129 (terrestrial ecosystems and tropical forests) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/costa-rica-placements.md.
 
@@ -46,7 +46,15 @@ countries: Costa Rica, Nigeria, Greece, Papua New Guinea, Samoa
 |---|---|
 | Samoa part — Unit 4 Productivity — teaches: specialisation and division of labour, their productivity gains and costs (boredom, lost craft skills, delays), and diminishing returns in a meat-pie table (Economics expansion, 2026-11-16; filed as NEW LESSON NEEDED — microeconomics/specialisation-and-division-of-labour — stocked here because this standing lesson already covers this thing) | Samoa, *Year 12 Economics*, Unit 4 Productivity — printed p. 29 |
 
-**Acceptance count: taught in 4 countries (Costa Rica, Nigeria, Greece, Samoa). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 8:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 11 — teaches: division of labour and specialisation as gains from trade | Bhutan, *Bhutan Class XI Economics XI*, Chapter 11 — printed p. 133 |
+
+**Acceptance count: taught in 5 countries (Costa Rica, Nigeria, Greece, Samoa, Bhutan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 
@@ -63,4 +71,4 @@ Costa Rica's own way (Estudios Sociales CONED 7): Economics is taught inside his
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: division of labour and specialisation, costa rica, social studies, microeconomics, nigeria, greece, papua new guinea, teacher guide evidence, samoa
+Searchable tags: division of labour and specialisation, costa rica, social studies, microeconomics, nigeria, greece, papua new guinea, teacher guide evidence, samoa, bhutan

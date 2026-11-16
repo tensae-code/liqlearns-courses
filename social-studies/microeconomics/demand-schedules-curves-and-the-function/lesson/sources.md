@@ -1,6 +1,6 @@
 # Sources — Demand — schedules, curves and the function
 
-countries: Ethiopia, Malaysia, Bangladesh, Yemen, Armenia, United States, Nigeria, Greece, Samoa
+countries: Ethiopia, Malaysia, Bangladesh, Yemen, Armenia, United States, Nigeria, Greece, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -57,7 +57,23 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Samoa part — Unit 6 Non-Price Factors Affecting Demand — teaches: individual and market demand schedules and curves | Samoa, *Year 12 Economics*, Unit 6 Non-Price Factors Affecting Demand — printed p. 45 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Malaysia, Bangladesh, Yemen, Armenia, United States, Nigeria, Greece, Samoa).**
+**Book 10:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 5, §5.2 — teaches: building the demand curve from a schedule; movement along vs shift of the demand curve | Bhutan, *Bhutan Class IX Economics IX*, Chapter 5, §5.2 — printed p. 38 |
+
+**Book 11:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 3 — teaches: movements along vs shifts of the demand curve | Bhutan, *Bhutan Class XI Economics XI*, Chapter 3 — printed p. 34 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Bangladesh, Yemen, Armenia, United States, Nigeria, Greece, Samoa, Bhutan).**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
@@ -75,4 +91,4 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: demand definition, willingness plus ability to pay, Qd a minus bP, Amina coffee schedule, law of demand, ethiopia, social studies, microeconomics, malaysia, bangladesh, yemen, armenia, united states, nigeria, greece, samoa
+Searchable tags: demand definition, willingness plus ability to pay, Qd a minus bP, Amina coffee schedule, law of demand, ethiopia, social studies, microeconomics, malaysia, bangladesh, yemen, armenia, united states, nigeria, greece, samoa, bhutan

@@ -1,6 +1,6 @@
 # Sources — The National Budget
 
-countries: Rwanda, Uganda, Bahamas, Uzbekistan, Vietnam, Indonesia, Nepal, Iran, Nigeria, Greece
+countries: Rwanda, Uganda, Bahamas, Uzbekistan, Vietnam, Indonesia, Nepal, Iran, Nigeria, Greece, Bhutan
 
 **Book 1:** *Social Studies for Rwanda Schools — Primary 6, Teacher's Book, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies for Rwanda Schools — Primary 6, Teacher's Book, Revised Edition 2019. Grade: Grade 6 (Primary 6) (student/teacher: TEACHER). PDF pages: 137 (cover/title page verified against the record title; PDF page count is lower than the printed pagination, which runs to p. 244 with references — the PDF is a condensed-layout copy; read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected). Verdict: COMPLETE (all 13 units' lesson lists and lesson developments read). Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Civics and governance — unity and co-operation, heroism, risky behaviour, citizenship, leadership and organs of government (Civics), printed pp. 12–68; Unit 3 Hygiene — puberty, menstrual hygiene, chronic diseases (Health), pp. 69–84; Unit 11 Post-independent Rwanda — First and Second Republics, Liberation 1990–1994 (History), pp. 191–203; Unit 12 The 1994 Genocide Against the Tutsi — causes, planning and execution, ideology, denial and prevention (History), pp. 204–220; Unit 13 Effects of foreigners in East Africa — explorers, missionaries, traders, colonialists (History), pp. 221–239. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -96,7 +96,23 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Greece part — Ch.10 §4 The state budget — teaches: the annual state budget, its revenue and spending sides | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.10 §4 The state budget — printed p. 182 |
 
-**Acceptance count: taught in 10 countries (Rwanda, Uganda, Bahamas, Uzbekistan, Vietnam, Indonesia, Nepal, Iran, Nigeria, Greece).**
+**Book 16:** *ECONOMICS Class X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, © 2023, Reprint 2024; no ISBN printed. Title as printed: ECONOMICS Class X. Grade: Class X (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; record size 3,206,712 bytes and 98 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–80 (all 8 chapters); Assessments pp. 81–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 4, §4.4 Budget — teaches: the government budget | Bhutan, *Bhutan Class X Economics X*, Chapter 4, §4.4 Budget — printed p. 43 |
+
+**Book 17:** *ECONOMICS Class XII* (student book, English) — School Curriculum Division, Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2022, © 2022; no ISBN printed. Title as printed: ECONOMICS Class XII. Grade: Class XII (student/teacher: STUDENT). PDF pages: 206 (cover verified against the record title; record size 4,208,131 bytes and 206 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–190 (all 14 chapters); Assessment pp. 191–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 8 — teaches: the budget and its types; budgetary procedures in Bhutan | Bhutan, *Bhutan Class XII Economics XII*, Chapter 8 — printed p. 111 |
+
+**Acceptance count: taught in 11 countries (Rwanda, Uganda, Bahamas, Uzbekistan, Vietnam, Indonesia, Nepal, Iran, Nigeria, Greece, Bhutan).**
+
+Bhutan's own way (Bhutan Class X Economics X): Class X turns from concepts to Bhutan itself — the Bhutanese economy's features, public finance, GNH as the official development measure alongside GDP, Bhutan's balance of payments and rupee-crisis case material.
+
+Bhutan's own way (Bhutan Class XII Economics XII): Class XII is the analytical capstone — utility/indifference analysis, production, cost and revenue, distribution theory, statistics and index numbers, then Bhutan-flavoured public finance (deficit financing's effects on the Bhutanese economy, Bhutan budgetary procedure) and national income as compiled by Bhutan's National Statistics Bureau.
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -124,4 +140,4 @@ Iran's own way (Iran Grade 8 Social Studies): cooperation is taught as an econom
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: the national budget, Rwanda, social studies, culture-and-work, uganda, national budget, surplus balanced deficit, ministry of finance, financial year, bahamas, uzbekistan, vietnam, indonesia, nepal, iran, nigeria, greece
+Searchable tags: the national budget, Rwanda, social studies, culture-and-work, uganda, national budget, surplus balanced deficit, ministry of finance, financial year, bahamas, uzbekistan, vietnam, indonesia, nepal, iran, nigeria, greece, bhutan

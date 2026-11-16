@@ -1,6 +1,6 @@
 # Sources — Why countries trade
 
-countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece, Papua New Guinea
+countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece, Papua New Guinea, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -140,7 +140,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Papua New Guinea evidence — Unit 4, Topic 1: Characteristics of international trade: the features of international trade — its definition, reasons and benefits, free versus protected trade, the balance of payments and balance of trade, exchange rates and terms of trade (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Economics TG*, Unit 4, Topic 1: Characteristics of international trade — printed p. 76 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 23:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 10, §10.2b–10.3 — teaches: international trade, exports and imports, reasons for and impact of trade | Bhutan, *Bhutan Class IX Economics IX*, Chapter 10, §10.2b–10.3 — printed p. 78 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece, Bhutan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
 Papua New Guinea's own way (Papua New Guinea Grade 8 Social Science TG): Grade 8 Trade is entirely international trade — PNG's raw-material exports (gold, copper, gas, oil, copra, cocoa, coffee, palm oil) exchanged for Japanese machinery and vehicles, the challenges of trading, and the PNG authorities (IPA, Customs, NAQIA) that police the trade procedures. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -180,4 +188,4 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras, Fiji, indonesia, nicaragua, iran, iraq, pakistan, nigeria, greece, papua new guinea, teacher guide evidence
+Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras, Fiji, indonesia, nicaragua, iran, iraq, pakistan, nigeria, greece, papua new guinea, teacher guide evidence, bhutan

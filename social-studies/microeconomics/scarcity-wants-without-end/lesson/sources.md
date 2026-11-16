@@ -1,6 +1,6 @@
 # Sources — Scarcity — wants without end, resources with limits
 
-countries: Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan, Nigeria, Greece, Samoa
+countries: Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan, Nigeria, Greece, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -93,7 +93,23 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Samoa part — Unit 4, Scarcity — teaches: scarcity as shortage against unlimited wants, an economic system as how people organise to solve it, and Samoa's own scarcities (crops the climate cannot grow; goods scarce in Savai'i but not Upolu) | Samoa, *Year 9 Business Studies Book 1*, Unit 4, Scarcity — printed p. 51 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan, Nigeria, Greece, Samoa).**
+**Book 16:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 2 Scarcity and Choice, §2.1–2.2 — teaches: human wants, necessities vs comforts vs luxuries, wants unlimited while resources are limited | Bhutan, *Bhutan Class IX Economics IX*, Chapter 2 Scarcity and Choice, §2.1–2.2 — printed p. 5 |
+
+**Book 17:** *SOCIAL STUDIES CLASS IV* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2019, Reprint 2025; no ISBN printed. Title as printed: SOCIAL STUDIES CLASS IV. Grade: Class IV (student/teacher: STUDENT). PDF pages: 80 (cover verified against the record title; record size 2,488,026 bytes and 80 pages match exactly). Verdict: COMPLETE (Economics part read in full; other parts named in the Contents map only, per the mixed-ss rule). Contents map: Economics part pp. 61–70 (Ch. 11 Earning a living); Geography pp. 9–26 (landforms, weather, forest); Civics pp. 27–40 (our country, local government); History pp. 31–36 (Lord Buddha and Guru Rinpoche); other Social Studies pp. 1–8, 41–60 (home and family, well-being, environment, hazards) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 11 Earning a living, §11.1 — teaches: needs vs wants — basic needs (food, clothes, shelter) vs wants that make life comfortable | Bhutan, *Bhutan Class IV Social Studies IV*, Chapter 11 Earning a living, §11.1 — printed p. 61 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan, Nigeria, Greece, Samoa, Bhutan).**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
+
+Bhutan's own way (Bhutan Class IV Social Studies IV): Economics begins in Class IV as earning a living — needs vs wants first, then the work people do, skilled vs unskilled, and activities done for love rather than money.
 
 Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 
@@ -124,4 +140,4 @@ Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lyk
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: scarcity shortage, unlimited wants finite resources, zero price test, ethiopia, social studies, microeconomics, mongolia, unlimited needs limited resources, tögrög, malaysia, bangladesh, egypt, yemen, Fiji, iraq, united states, pakistan, nigeria, greece, samoa
+Searchable tags: scarcity shortage, unlimited wants finite resources, zero price test, ethiopia, social studies, microeconomics, mongolia, unlimited needs limited resources, tögrög, malaysia, bangladesh, egypt, yemen, Fiji, iraq, united states, pakistan, nigeria, greece, samoa, bhutan

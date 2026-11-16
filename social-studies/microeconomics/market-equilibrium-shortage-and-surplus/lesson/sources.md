@@ -1,6 +1,6 @@
 # Sources — Market equilibrium — shortage and surplus
 
-countries: Ethiopia, Kazakhstan, Bangladesh, Yemen, Armenia, Bulgaria, Iraq, United States, Greece, Samoa
+countries: Ethiopia, Kazakhstan, Bangladesh, Yemen, Armenia, Bulgaria, Iraq, United States, Greece, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -86,7 +86,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Samoa part — Unit 7 Market Equilibrium — teaches: disequilibrium prices and the excess supply/excess demand that pushes price back | Samoa, *Year 12 Economics*, Unit 7 Market Equilibrium — printed p. 56 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Kazakhstan, Bangladesh, Yemen, Armenia, Bulgaria, Iraq, United States, Greece, Samoa).**
+**Book 14:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 6 — teaches: how demand and supply changes move the equilibrium price and quantity | Bhutan, *Bhutan Class XI Economics XI*, Chapter 6 — printed p. 74 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Kazakhstan, Bangladesh, Yemen, Armenia, Bulgaria, Iraq, United States, Greece, Samoa, Bhutan).**
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
@@ -111,4 +119,4 @@ Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lyk
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: market equilibrium, shortage surplus, excess demand excess supply, shirts birr 20, price adjustment, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, bangladesh, yemen, armenia, bulgaria, iraq, united states, greece, samoa
+Searchable tags: market equilibrium, shortage surplus, excess demand excess supply, shirts birr 20, price adjustment, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, bangladesh, yemen, armenia, bulgaria, iraq, united states, greece, samoa, bhutan

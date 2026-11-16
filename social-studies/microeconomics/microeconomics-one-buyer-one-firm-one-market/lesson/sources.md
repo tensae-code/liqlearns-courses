@@ -1,6 +1,6 @@
 # Sources — Microeconomics — one buyer, one firm, one market
 
-countries: Ethiopia, Bangladesh, United States
+countries: Ethiopia, Bangladesh, United States, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -26,10 +26,18 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | United States part — 1.2 Microeconomics and Macroeconomics — teaches: microeconomics as the study of individual households, firms and markets, contrasted with the whole-economy view | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 1.2 Microeconomics and Macroeconomics — printed p. 14 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, United States).**
+**Book 5:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 1 — teaches: microeconomics and how it differs from macroeconomics | Bhutan, *Bhutan Class XI Economics XI*, Chapter 1 — printed p. 5 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, United States, Bhutan).**
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: microeconomics, single unit, household firm industry, price determination, ethiopia, social studies, microeconomics, bangladesh, united states
+Searchable tags: microeconomics, single unit, household firm industry, price determination, ethiopia, social studies, microeconomics, bangladesh, united states, bhutan

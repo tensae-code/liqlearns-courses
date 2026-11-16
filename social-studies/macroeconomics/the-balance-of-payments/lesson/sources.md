@@ -1,6 +1,6 @@
 # Sources — The balance of payments — a country's account with the world
 
-countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indonesia, Pakistan, Costa Rica, Nigeria, Greece, Samoa
+countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indonesia, Pakistan, Costa Rica, Nigeria, Greece, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -85,7 +85,23 @@ countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indones
 |---|---|
 | Samoa part — The Market 3, International Trade Performance — teaches: balance of payments components (visibles, invisibles, current and capital accounts) | Samoa, *Year 13 Economics Guide*, The Market 3, International Trade Performance — printed p. 18 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, Dominican Republic, Egypt, Fiji, Indonesia, Pakistan, Costa Rica, Nigeria, Greece, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 16:** *ECONOMICS Class X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, © 2023, Reprint 2024; no ISBN printed. Title as printed: ECONOMICS Class X. Grade: Class X (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; record size 3,206,712 bytes and 98 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–80 (all 8 chapters); Assessments pp. 81–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 7 Balance of Payment, §7.1 — teaches: meaning and components of the balance of payments | Bhutan, *Bhutan Class X Economics X*, Chapter 7 Balance of Payment, §7.1 — printed p. 63 |
+
+**Book 17:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 12 Balance of Payments — teaches: balance of payments concept | Bhutan, *Bhutan Class XI Economics XI*, Chapter 12 Balance of Payments — printed p. 141 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Malaysia, Dominican Republic, Egypt, Fiji, Indonesia, Pakistan, Costa Rica, Nigeria, Greece, Samoa, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class X Economics X): Class X turns from concepts to Bhutan itself — the Bhutanese economy's features, public finance, GNH as the official development measure alongside GDP, Bhutan's balance of payments and rupee-crisis case material.
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Samoa's own way (Year 13 Economics Guide): Year 13 economics is anchored on Samoa itself — the Central Bank of Samoa (not a generic central bank), one oil supplier as a Samoan monopoly, Samoan government revenue/expenditure tables, and a closing national-economy session built from the Central Bank Governor's 2002 address.
 
@@ -114,7 +130,7 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: balance of payments, residents rest of world, disequilibrium deficit surplus, reserves, trade deficit link, ethiopia, social studies, macroeconomics, malaysia, dominican republic, albania, egypt, Fiji, indonesia, pakistan, nigeria, greece, samoa
+Searchable tags: balance of payments, residents rest of world, disequilibrium deficit surplus, reserves, trade deficit link, ethiopia, social studies, macroeconomics, malaysia, dominican republic, albania, egypt, Fiji, indonesia, pakistan, nigeria, greece, samoa, bhutan
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

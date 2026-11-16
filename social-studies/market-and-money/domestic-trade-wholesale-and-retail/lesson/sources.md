@@ -1,6 +1,6 @@
 # Sources — Domestic trade — wholesale and retail
 
-countries: Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria, Iran, India, Nigeria, Papua New Guinea
+countries: Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria, Iran, India, Nigeria, Papua New Guinea, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -98,7 +98,15 @@ South Sudan's own way (South Sudan Primary 6): trade is taught as a tree — int
 |---|---|
 | Papua New Guinea evidence — Unit 3, Topic 2: Methods of distribution of goods and services: how goods reach customers — business-to-business (B2B) and business-to-consumer (B2C) allocation, distribution channels from retailer networks to the internet, and e-commerce (B2B, B2C, C2C, C2B) (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG*, Unit 3, Topic 2: Methods of distribution of goods and services — printed p. 220 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria, Iran, India, Nigeria). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 15:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 10 Trade, §10.1–10.2a — teaches: meaning of trade and domestic/internal trade at local, regional and national levels (cement trade inside Bhutan) | Bhutan, *Bhutan Class IX Economics IX*, Chapter 10 Trade, §10.1–10.2a — printed p. 77 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Kenya, Eritrea, South Sudan, Venezuela, Jordan, Bulgaria, Iran, India, Nigeria, Bhutan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
 Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG): Grade 10 Economics is the labour and capitalism year — two full units on labour (unions, division of labour, labour law, labour costs), then the market system judged by its costs and benefits, trade through television and the internet, and a closing unit interrogating the capitalist ideology itself. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -120,4 +128,4 @@ Iran's own way (Iran Grade 6 Social Studies): the energy chapter turns Iran's oi
 
 Iran's own way (Iran Grade 10 Entrepreneurship Workshop): entrepreneurship is a hands-on workshop for every branch, built around the business-model canvas (بوم مدل کسب و کار) that each student team must complete section by section.
 
-Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money, south sudan, venezuela, jordan, bulgaria, iran, india, nigeria, papua new guinea, teacher guide evidence
+Searchable tags: domestic trade, wholesale and retail, ethiopia, kenya, eritrea, home trade, foreign trade, retail trade types, hawkers, kiosks, shopkeeper, warehouse wholesalers, social studies, market and money, south sudan, venezuela, jordan, bulgaria, iran, india, nigeria, papua new guinea, teacher guide evidence, bhutan

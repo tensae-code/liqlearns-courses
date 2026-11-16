@@ -1,6 +1,6 @@
 # Sources — What Money Is and What It Does
 
-countries: Mongolia, Zimbabwe, Bulgaria
+countries: Mongolia, Zimbabwe, Bulgaria, Bhutan
 
 **Book 1:** *Нийгэм судлал IX (Social Studies IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал IX (Social Studies IX). Grade: Grade 9 (student). 99 PDF pp. (cover verified against the record title; read IN PLACE in phase3-staging — note the on-disk file is 53,693,688 bytes while the books.json record says 5,507,721 bytes: a library debt, see group log). Verdict: COMPLETE (image-only scan; contents page and chapter openings read by render, printed pp. 4–5, 26, 44 sampled in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -22,7 +22,15 @@ countries: Mongolia, Zimbabwe, Bulgaria
 |---|---|
 | Bulgaria part — Economics expansion — "Business and money" (Бизнесът и парите): in antiquity products were exchanged in kind; later producers began exchanging products for money — a universal good (универсална стока) that is stored and carried easily and is recognised by everyone (filed as market-and-money/what-money-is-and-what-it-does; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Bulgaria, *Bulgaria Grade 6 Technology and Entrepreneurship*, "Business and money" (Бизнесът и парите) — printed p. 52 |
 
-**Acceptance count: taught in 2 countries (Mongolia, Bulgaria). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 4:** *SOCIAL STUDIES CLASS V* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, Reprint 2025; no ISBN printed. Title as printed: SOCIAL STUDIES CLASS V. Grade: Class V (student/teacher: STUDENT). PDF pages: 78 (cover verified against the record title; record size 2,977,472 bytes and 78 pages match exactly). Verdict: COMPLETE (Economics part read in full; other parts named in the Contents map only, per the mixed-ss rule). Contents map: Economics part pp. 65–70 (Ch. 12 Money and Banks); Geography pp. 1–26 (the Earth, Bhutan's zones, rivers, forests); History pp. 27–30 (Zhabdrung Ngawang Namgyal); Civics pp. 31–46 (national symbols, places of worship, local government); other Social Studies pp. 47–64 (people and society, environment, hazards) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 12, §12.2 — teaches: money as a medium of exchange and measure of value; world currencies and Bhutan's ngultrum | Bhutan, *Bhutan Class V Social Studies V*, Chapter 12, §12.2 — printed p. 67 |
+
+**Acceptance count: taught in 3 countries (Mongolia, Bulgaria, Bhutan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class V Social Studies V): Money is taught through the ngultrum and Bhutan's own named banks (Bank of Bhutan, BNBL, BDBL, Druk PNB, Tashi Bank), with deposit/loan arithmetic in ngultrum.
 
 Zimbabwe's own way (PlusOne Social Science Grade 3 Teacher's Guide) (teacher guide — evidence): Grade 3 gives money its first full lesson — what money is for, a worked $10 budget split into expenses, savings, giving, school supplies and an emergency fund, and a shop role play where the child argues for buying the cheaper school supply so $2 can be saved for emergencies.
 
@@ -32,4 +40,4 @@ Mongolia's own way: Social Studies is a five-chapter spiral (Individual & Societ
 
 Bulgaria's own way (Bulgaria Grade 6 Technology and Entrepreneurship): Grade 6 prices a product the Bulgarian way — cost price (себестойност) built from direct and indirect costs, a calculation (калкулация) that adds the planned profit, and an "alternative price" for the road not taken.
 
-Searchable tags: money, role of money, household economy, Mongolia, Нийгэм судлал IX, social studies, culture and work, zimbabwe, teacher guide evidence, bulgaria
+Searchable tags: money, role of money, household economy, Mongolia, Нийгэм судлал IX, social studies, culture and work, zimbabwe, teacher guide evidence, bulgaria, bhutan

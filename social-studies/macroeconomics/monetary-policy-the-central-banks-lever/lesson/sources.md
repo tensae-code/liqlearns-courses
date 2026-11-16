@@ -1,6 +1,6 @@
 # Sources — Monetary policy — the central bank's lever
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Cambodia, Uzbekistan, Fiji, Armenia, Indonesia, Nicaragua, Pakistan, Samoa
+countries: Ethiopia, Malaysia, Albania, Dominica, Cambodia, Uzbekistan, Fiji, Armenia, Indonesia, Nicaragua, Pakistan, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -76,7 +76,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Samoa part — Production 2, Monetary Policy — teaches: monetary policy controlling money and credit through the Central Bank of Samoa's control of commercial banks' lending | Samoa, *Year 13 Economics Guide*, Production 2, Monetary Policy — printed p. 6 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, Dominica, Cambodia, Uzbekistan, Fiji, Armenia, Indonesia, Nicaragua, Pakistan, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 13:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 13 — teaches: monetary policy — meaning, objectives and the central bank's instruments | Bhutan, *Bhutan Class XI Economics XI*, Chapter 13 — printed p. 152 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Malaysia, Dominica, Cambodia, Uzbekistan, Fiji, Armenia, Indonesia, Nicaragua, Pakistan, Samoa, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Samoa's own way (Year 13 Economics Guide): Year 13 economics is anchored on Samoa itself — the Central Bank of Samoa (not a generic central bank), one oil supplier as a Samoan monopoly, Samoan government revenue/expenditure tables, and a closing national-economy session built from the Central Bank Governor's 2002 address.
 
@@ -101,4 +109,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: monetary policy — the central bank's lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, cambodia, uzbekistan, Fiji, armenia, indonesia, nicaragua, pakistan, samoa
+Searchable tags: monetary policy — the central bank's lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, cambodia, uzbekistan, Fiji, armenia, indonesia, nicaragua, pakistan, samoa, bhutan

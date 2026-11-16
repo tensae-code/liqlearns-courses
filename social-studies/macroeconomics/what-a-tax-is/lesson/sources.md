@@ -1,6 +1,6 @@
 # Sources — What a tax is
 
-countries: Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Albania, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria, Iran, India, Pakistan, Bolivia, Costa Rica, Nigeria, Greece, Papua New Guinea, Samoa
+countries: Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Albania, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria, Iran, India, Pakistan, Bolivia, Costa Rica, Nigeria, Greece, Papua New Guinea, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -236,7 +236,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Samoa part — Unit 1 Topic 1, Taxation — teaches: what taxes are and why Samoa pays them, in a pupil's essay (tax funds teachers, hospitals, roads) covering income tax, VAGST, tax on interest and company profits, and import duties | Samoa, *Year 10 Social Studies Book 3*, Unit 1 Topic 1, Taxation — printed p. 19 |
 
-**Acceptance count: taught in 23 countries (Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria, Iran, India, Pakistan, Bolivia, Costa Rica, Nigeria, Greece, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 39:** *ECONOMICS Class X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, © 2023, Reprint 2024; no ISBN printed. Title as printed: ECONOMICS Class X. Grade: Class X (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; record size 3,206,712 bytes and 98 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–80 (all 8 chapters); Assessments pp. 81–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 4, §4.2 Public Revenue — teaches: public revenue and its sources including taxation | Bhutan, *Bhutan Class X Economics X*, Chapter 4, §4.2 Public Revenue — printed p. 38 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Guatemala, Uganda, Bahamas, Laos, Dominican Republic, Uzbekistan, Egypt, Fiji, Vietnam, Armenia, Indonesia, Nepal, Nicaragua, Bulgaria, Iran, India, Pakistan, Bolivia, Costa Rica, Nigeria, Greece, Samoa, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class X Economics X): Class X turns from concepts to Bhutan itself — the Bhutanese economy's features, public finance, GNH as the official development measure alongside GDP, Bhutan's balance of payments and rupee-crisis case material.
 
 Samoa's own way (Year 10 Social Studies Book 3): Access is the organising idea — whether a Samoan can get goods depends on income type, tax, government policy, land tenure and social position, each taught with Samoan data (formal employment 2000, a pupil's tax essay, farming/fishing tax exemptions).
 
@@ -309,4 +317,4 @@ Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lyk
 
 Greece's own way (Greece Grade 6 Koinoniki kai Politiki Agogi): economics enters primary school as the town hall's money — where a municipality's revenue comes from and what it is spent on, told through two photos of the same Cretan harbour 42 years apart (greece-placements.md); the one Economics chapter teaches public finance at the scale a child can see — the municipality: where its money comes from and what it is spent on, with the child's own household electricity bill as the data source (greece-placements-b.md).
 
-Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas, laos, income and taxes, wages salary profit, dominican republic, ITBIS, ISR, albania, uzbekistan, egypt, Fiji, vietnam, armenia, indonesia, nepal, nicaragua, bulgaria, iran, india, pakistan, bolivia, nigeria, greece, papua new guinea, teacher guide evidence, samoa
+Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas, laos, income and taxes, wages salary profit, dominican republic, ITBIS, ISR, albania, uzbekistan, egypt, Fiji, vietnam, armenia, indonesia, nepal, nicaragua, bulgaria, iran, india, pakistan, bolivia, nigeria, greece, papua new guinea, teacher guide evidence, samoa, bhutan

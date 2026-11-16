@@ -1,6 +1,6 @@
 # Sources — The law of demand
 
-countries: Ethiopia, France, Kazakhstan, Albania, Jordan, Bangladesh, Yemen, Armenia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece, Samoa
+countries: Ethiopia, France, Kazakhstan, Albania, Jordan, Bangladesh, Yemen, Armenia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -113,7 +113,23 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Samoa part — Unit 6, Law of Demand — teaches: the law of demand, ceteris paribus, with Lesina's sticky-bun demand schedule and curve (10 buns at 50 sene, 2 at $1.25) | Samoa, *Year 11 Business Studies Book 1*, Unit 6, Law of Demand — printed p. 67 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, France, Kazakhstan, Jordan, Bangladesh, Yemen, Armenia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 19:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 5, §5.2 — teaches: the law of demand, inverse price–quantity relationship | Bhutan, *Bhutan Class IX Economics IX*, Chapter 5, §5.2 — printed p. 35 |
+
+**Book 20:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 3 — teaches: the law of demand illustrated | Bhutan, *Bhutan Class XI Economics XI*, Chapter 3 — printed p. 25 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, France, Kazakhstan, Jordan, Bangladesh, Yemen, Armenia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece, Samoa, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Samoa's own way (Year 11 Business Studies Book 1): The market strand is taught with Samoan schedules — Ioane's barbershop supply curve, Kuki's juice, taro supply before White Sunday, Lesina's sticky-bun demand at the school canteen.
 
@@ -148,4 +164,4 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: law of demand, ceteris paribus, demand schedule oranges, real income substitution, salt inelastic, ethiopia, france, ses, tobacco prices, milk producers, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, jordan, bangladesh, yemen, armenia, nicaragua, iran, iraq, pakistan, nigeria, greece, samoa
+Searchable tags: law of demand, ceteris paribus, demand schedule oranges, real income substitution, salt inelastic, ethiopia, france, ses, tobacco prices, milk producers, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, jordan, bangladesh, yemen, armenia, nicaragua, iran, iraq, pakistan, nigeria, greece, samoa, bhutan

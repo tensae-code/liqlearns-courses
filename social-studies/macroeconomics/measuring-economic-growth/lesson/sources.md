@@ -1,6 +1,6 @@
 # Sources — Measuring economic growth
 
-countries: Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Vietnam, Armenia, Indonesia, Nicaragua, Iran, Nigeria
+countries: Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Vietnam, Armenia, Indonesia, Nicaragua, Iran, Nigeria, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -119,7 +119,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nigeria part — Chapter 9 — Economic development and planning — teaches: economic growth, development and underdevelopment distinguished | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 9 — Economic development and planning — printed p. 91 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Vietnam, Armenia, Indonesia, Nicaragua, Iran, Nigeria). Honduras's Grade 7 and Grade 8 teacher guides are cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for those guides.**
+**Book 20:** *ECONOMICS Class X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, © 2023, Reprint 2024; no ISBN printed. Title as printed: ECONOMICS Class X. Grade: Class X (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; record size 3,206,712 bytes and 98 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–80 (all 8 chapters); Assessments pp. 81–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 5, §5.4 Economic Growth — teaches: economic growth | Bhutan, *Bhutan Class X Economics X*, Chapter 5, §5.4 Economic Growth — printed p. 50 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, France, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Vietnam, Armenia, Indonesia, Nicaragua, Iran, Nigeria, Bhutan). Honduras's Grade 7 and Grade 8 teacher guides are cited as evidence only — Honduras is counted for its Grade 3 student book named here, not for those guides.**
+
+Bhutan's own way (Bhutan Class X Economics X): Class X turns from concepts to Bhutan itself — the Bhutanese economy's features, public finance, GNH as the official development measure alongside GDP, Bhutan's balance of payments and rupee-crisis case material.
 
 Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
@@ -155,4 +163,4 @@ Honduras's own way (Honduras Grade 8 G8 Teacher CCSS) (teacher guide — evidenc
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: growth rate formula, per-capita real GDP, structural change, growth versus development, World Bank income bands 2008, least developed countries 2010, ethiopia, france, ses, trente glorieuses, malthusian trap, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, vietnam, armenia, indonesia, nicaragua, iran, nigeria
+Searchable tags: growth rate formula, per-capita real GDP, structural change, growth versus development, World Bank income bands 2008, least developed countries 2010, ethiopia, france, ses, trente glorieuses, malthusian trap, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, vietnam, armenia, indonesia, nicaragua, iran, nigeria, bhutan

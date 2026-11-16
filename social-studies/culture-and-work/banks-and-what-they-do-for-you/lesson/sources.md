@@ -1,6 +1,6 @@
 # Sources — Banks and What They Do for You
 
-countries: Mongolia, Bahamas, Rwanda, Fiji, Pakistan, Papua New Guinea
+countries: Mongolia, Bahamas, Rwanda, Fiji, Pakistan, Papua New Guinea, Bhutan
 
 **Book 1:** *Нийгэм судлал IX (Social Studies IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал IX (Social Studies IX). Grade: Grade 9 (student). 99 PDF pp. (cover verified against the record title; read IN PLACE in phase3-staging — note the on-disk file is 53,693,688 bytes while the books.json record says 5,507,721 bytes: a library debt, see group log). Verdict: COMPLETE (image-only scan; contents page and chapter openings read by render, printed pp. 4–5, 26, 44 sampled in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -42,7 +42,15 @@ Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics u
 |---|---|
 | Papua New Guinea evidence — Unit 9.1: the role of financial institutions in the delivery of goods and services to consumers, taught as one of the aids to trade alongside government services and businesses (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grades 9–10 Business Studies TG*, Unit 9.1 — printed p. 27 |
 
-**Acceptance count: taught in 5 countries (Mongolia, Bahamas, Rwanda, Fiji, Pakistan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *SOCIAL STUDIES CLASS V* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, Reprint 2025; no ISBN printed. Title as printed: SOCIAL STUDIES CLASS V. Grade: Class V (student/teacher: STUDENT). PDF pages: 78 (cover verified against the record title; record size 2,977,472 bytes and 78 pages match exactly). Verdict: COMPLETE (Economics part read in full; other parts named in the Contents map only, per the mixed-ss rule). Contents map: Economics part pp. 65–70 (Ch. 12 Money and Banks); Geography pp. 1–26 (the Earth, Bhutan's zones, rivers, forests); History pp. 27–30 (Zhabdrung Ngawang Namgyal); Civics pp. 31–46 (national symbols, places of worship, local government); other Social Studies pp. 47–64 (people and society, environment, hazards) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 12, §12.4 — teaches: what a bank does — deposits, interest, loans, transfers, safekeeping — with Bhutan's banks named | Bhutan, *Bhutan Class V Social Studies V*, Chapter 12, §12.4 — printed p. 69 |
+
+**Acceptance count: taught in 6 countries (Mongolia, Bahamas, Rwanda, Fiji, Pakistan, Bhutan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class V Social Studies V): Money is taught through the ngultrum and Bhutan's own named banks (Bank of Bhutan, BNBL, BDBL, Druk PNB, Tashi Bank), with deposit/loan arithmetic in ngultrum.
 
 Papua New Guinea's own way (Papua New Guinea Grades 9–10 Business Studies TG): the old OBE Business Studies course carries its Economics inside Unit 9.1 — production and trading of PNG-made goods, shell money and pigs as traditional exchange against modern money, and why domestic trade keeps money inside the country — plus a wise-consumer unit and a Taxation option taught with real IRC forms. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -56,4 +64,4 @@ Bahamas' own way: banking is defined for the Grade 6 learner inside the Ministry
 
 Mongolia's own way: Social Studies is a five-chapter spiral (Individual & Society, Individual & Culture, Individual & Economy, Human Rights & Law, Public Administration) continued from Grade 8; there is no physical-geography chapter — Mongolia's geography is a separate subject (Газарзүй) — so this book's Geography-wave content is its culture and economics teaching, grounded in Mongolian surveys, wage tables and heritage inventories. That way is stocked here as the way Mongolia teaches this thing. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
 
-Searchable tags: banks, saving, borrowing, Mongolia, Нийгэм судлал IX, social studies, culture and work, bahamas, rwanda, Fiji, pakistan, papua new guinea, teacher guide evidence
+Searchable tags: banks, saving, borrowing, Mongolia, Нийгэм судлал IX, social studies, culture and work, bahamas, rwanda, Fiji, pakistan, papua new guinea, teacher guide evidence, bhutan

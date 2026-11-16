@@ -1,6 +1,6 @@
 # Sources — What GDP misses
 
-countries: Ethiopia, France, Dominica, India, Greece
+countries: Ethiopia, France, Dominica, India, Greece, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -49,7 +49,15 @@ Grade 11 note (placement 40): the problems-and-fixes material in the added sub l
 |---|---|
 | Greece part — 5.6 GDP – standard of living — teaches: why GDP per head alone does not settle how well people live | Greece, *Greece Grade 9 Oikonomika*, 5.6 GDP – standard of living — printed p. 81 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, France, Dominica, India, Greece).**
+**Book 8:** *ECONOMICS Class XII* (student book, English) — School Curriculum Division, Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2022, © 2022; no ISBN printed. Title as printed: ECONOMICS Class XII. Grade: Class XII (student/teacher: STUDENT). PDF pages: 206 (cover verified against the record title; record size 4,208,131 bytes and 206 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–190 (all 14 chapters); Assessment pp. 191–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 12 — teaches: difficulties faced in estimating national income | Bhutan, *Bhutan Class XII Economics XII*, Chapter 12 — printed p. 163 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, France, Dominica, India, Greece, Bhutan).**
+
+Bhutan's own way (Bhutan Class XII Economics XII): Class XII is the analytical capstone — utility/indifference analysis, production, cost and revenue, distribution theory, statistics and index numbers, then Bhutan-flavoured public finance (deficit financing's effects on the Bhutanese economy, Bhutan budgetary procedure) and national income as compiled by Bhutan's National Statistics Bureau.
 
 India's own way (India Grade 9 Economics): The whole first Economics course is built on Indian cases — a fictional UP village for production, two boys (Sakal who studies, Vilas who cannot) for human capital, Tendulkar poverty-line numbers, and the FCI/PDS machinery for food security.
 
@@ -63,4 +71,4 @@ Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lyk
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: GDP weaknesses, leisure, non-market production, volunteer work, environmental quality, income distribution, black market, ethiopia, france, ses, angola oil, social studies, macroeconomics, dominica, csec principles of business, caribbean, india, greece
+Searchable tags: GDP weaknesses, leisure, non-market production, volunteer work, environmental quality, income distribution, black market, ethiopia, france, ses, angola oil, social studies, macroeconomics, dominica, csec principles of business, caribbean, india, greece, bhutan

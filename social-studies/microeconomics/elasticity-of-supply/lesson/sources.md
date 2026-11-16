@@ -1,6 +1,6 @@
 # Sources — Elasticity of supply
 
-countries: Ethiopia, Kazakhstan, Malaysia, Albania, Yemen, Iraq, United States, Pakistan, Nigeria, Greece, Papua New Guinea
+countries: Ethiopia, Kazakhstan, Malaysia, Albania, Yemen, Iraq, United States, Pakistan, Nigeria, Greece, Papua New Guinea, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -73,7 +73,23 @@ countries: Ethiopia, Kazakhstan, Malaysia, Albania, Yemen, Iraq, United States, 
 |---|---|
 | Papua New Guinea evidence — Unit 2, Topic 5: Elasticity of demand and supply: price elasticity of supply — its types and how elasticity coefficients of supply are calculated (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Economics TG*, Unit 2, Topic 5: Elasticity of demand and supply — printed p. 64 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Kazakhstan, Malaysia, Yemen, Iraq, United States, Pakistan, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 13:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 6, §6.2 Elasticity of Supply — teaches: price elasticity of supply | Bhutan, *Bhutan Class IX Economics IX*, Chapter 6, §6.2 Elasticity of Supply — printed p. 50 |
+
+**Book 14:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 5 — teaches: degrees of elasticity of supply, percentage method, factors and importance | Bhutan, *Bhutan Class XI Economics XI*, Chapter 5 — printed p. 63 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Kazakhstan, Malaysia, Yemen, Iraq, United States, Pakistan, Nigeria, Greece, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Papua New Guinea's own way (Papua New Guinea Grade 12 Economics TG): Grade 12 Economics turns analytical — demand and supply with graphs, elasticity coefficients, the incidence of a sales tax drawn between producer and consumer, market structures illustrated with PNG firms, and a full unit on trade relations and foreign aid, the economy PNG actually lives in. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -99,4 +115,4 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: elasticity of supply, always positive, point arc, coffee stock, production period, factor substitution, number of sellers, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, yemen, iraq, united states, pakistan, nigeria, greece, papua new guinea, teacher guide evidence
+Searchable tags: elasticity of supply, always positive, point arc, coffee stock, production period, factor substitution, number of sellers, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, yemen, iraq, united states, pakistan, nigeria, greece, papua new guinea, teacher guide evidence, bhutan

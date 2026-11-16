@@ -1,6 +1,6 @@
 # Sources — Supply — schedules, curves and the function
 
-countries: Ethiopia, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Nigeria, Greece, Samoa
+countries: Ethiopia, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Nigeria, Greece, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -64,7 +64,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Samoa part — Unit 5 Non-Price Factors Affecting Supply — teaches: supply schedules and curves and the shift-versus-movement distinction | Samoa, *Year 12 Economics*, Unit 5 Non-Price Factors Affecting Supply — printed p. 34 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Nigeria, Greece, Samoa).**
+**Book 11:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 6, §6.1c — teaches: supply schedule and curve; individual vs market supply | Bhutan, *Bhutan Class IX Economics IX*, Chapter 6, §6.1c — printed p. 47 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Nigeria, Greece, Samoa, Bhutan).**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
 Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
@@ -82,4 +90,4 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: supply function, Qs a plus bP, minimum price, supply schedule rising with price, law of supply, ethiopia, social studies, microeconomics, malaysia, bangladesh, yemen, armenia, iraq, united states, nigeria, greece, samoa
+Searchable tags: supply function, Qs a plus bP, minimum price, supply schedule rising with price, law of supply, ethiopia, social studies, microeconomics, malaysia, bangladesh, yemen, armenia, iraq, united states, nigeria, greece, samoa, bhutan

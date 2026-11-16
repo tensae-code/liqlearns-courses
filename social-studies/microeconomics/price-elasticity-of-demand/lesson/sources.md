@@ -1,6 +1,6 @@
 # Sources — Price elasticity of demand
 
-countries: Ethiopia, Kazakhstan, Malaysia, Albania, Yemen, Iraq, United States, Pakistan, Nigeria, Greece, Papua New Guinea
+countries: Ethiopia, Kazakhstan, Malaysia, Albania, Yemen, Iraq, United States, Pakistan, Nigeria, Greece, Papua New Guinea, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -80,7 +80,23 @@ countries: Ethiopia, Kazakhstan, Malaysia, Albania, Yemen, Iraq, United States, 
 | Papua New Guinea evidence — Strand 3 Unit 1, Benchmark 12.3.1.1: Factors affecting pricing decisions: the pricing vocabulary of the firm — selling price, fixed and variable costs, elastic demand and inelastic demand, price fixing and bait-and-switch advertising — and product elasticity as one of the two keys (market and costs) to setting a correct price (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Business Studies TG*, Strand 3 Unit 1, Benchmark 12.3.1.1: Factors affecting pricing decisions — printed p. 159 |
 | Papua New Guinea evidence — Strand 3 Unit 2, Benchmark 12.3.2.7: Price elasticity: price elasticity of demand as the measure of how quantity demanded responds to a change in price, its formula (percentage change in quantity demanded over percentage change in price), and its use in forecasting sales, setting prices and price discrimination (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Business Studies TG*, Strand 3 Unit 2, Benchmark 12.3.2.7: Price elasticity — printed p. 185 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Kazakhstan, Malaysia, Yemen, Iraq, United States, Pakistan, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 14:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 5, §5.3 Elasticity of Demand — teaches: price elasticity of demand | Bhutan, *Bhutan Class IX Economics IX*, Chapter 5, §5.3 Elasticity of Demand — printed p. 42 |
+
+**Book 15:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 5 Elasticity of Demand and Supply — teaches: types and degrees of price elasticity of demand, percentage method of calculation, its factors and importance | Bhutan, *Bhutan Class XI Economics XI*, Chapter 5 Elasticity of Demand and Supply — printed p. 53 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Kazakhstan, Malaysia, Yemen, Iraq, United States, Pakistan, Nigeria, Greece, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Papua New Guinea's own way (Papua New Guinea Grade 12 Economics TG): Grade 12 Economics turns analytical — demand and supply with graphs, elasticity coefficients, the incidence of a sales tax drawn between producer and consumer, market structures illustrated with PNG firms, and a full unit on trade relations and foreign aid, the economy PNG actually lives in. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -108,4 +124,4 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: price elasticity of demand, point elasticity, arc elasticity 0.6, five cases, elastic inelastic unitary, determinants of elasticity, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, yemen, iraq, united states, pakistan, nigeria, greece, papua new guinea, teacher guide evidence
+Searchable tags: price elasticity of demand, point elasticity, arc elasticity 0.6, five cases, elastic inelastic unitary, determinants of elasticity, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, yemen, iraq, united states, pakistan, nigeria, greece, papua new guinea, teacher guide evidence, bhutan

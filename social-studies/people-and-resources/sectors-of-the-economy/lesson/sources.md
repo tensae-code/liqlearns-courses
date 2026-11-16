@@ -1,6 +1,6 @@
 # Sources — Sectors Of The Economy
 
-countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Zimbabwe, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras, Nicaragua, Bulgaria, India, Bolivia, Colombia, Costa Rica, Greece, Papua New Guinea, Samoa
+countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Zimbabwe, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras, Nicaragua, Bulgaria, India, Bolivia, Colombia, Costa Rica, Greece, Papua New Guinea, Samoa, Bhutan
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -285,7 +285,31 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Samoa part — Unit 3, Three Stages of Production — teaches: primary, secondary and tertiary production with Samoan examples from fishing and taro to banks and hairdressers | Samoa, *Year 10 Business Studies Book 1*, Unit 3, Three Stages of Production — printed p. 26 |
 
-**Acceptance count: taught in 20 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras, Nicaragua, Bulgaria, India, Bolivia, Colombia, Costa Rica, Greece, Samoa). Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 44:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 4, §4.3–4.5 — teaches: factors affecting economic activities and the primary, secondary and tertiary sectors and their role, with Bhutan sector shares | Bhutan, *Bhutan Class IX Economics IX*, Chapter 4, §4.3–4.5 — printed p. 27 |
+
+**Book 45:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 9 Economy of Bhutan — teaches: primary, secondary and tertiary sector roles and the trend of their contributions to Bhutan's economy | Bhutan, *Bhutan Class XI Economics XI*, Chapter 9 Economy of Bhutan — printed p. 103 |
+
+**Book 46:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development, Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021; no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Class VI (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; record size 1,628,115 bytes and 68 pages match exactly). Verdict: COMPLETE (Economics part read in full; other parts named in the Contents map only, per the mixed-ss rule). Contents map: Economics part pp. 53–60 (Ch. 10 Income); Geography pp. 1–16, 37–52 (the Earth, climate, population, environment, transport and communication); Civics pp. 17–36 (culture and tradition, the government and democracy, social problems); hazard studies pp. 43–46 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 10, §10.2 — teaches: economic activities classified as primary, secondary and tertiary, with Bhutan's industries named | Bhutan, *Bhutan Class VI Social Studies VI*, Chapter 10, §10.2 — printed p. 55 |
+
+**Acceptance count: taught in 21 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras, Nicaragua, Bulgaria, India, Bolivia, Colombia, Costa Rica, Greece, Samoa, Bhutan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
+
+Bhutan's own way (Bhutan Class VI Social Studies VI): Income is taught by fieldwork — learners interview households about wages, salary, rent and retirement benefits in ngultrum — and Bhutan's real industries (Penden Cement, Dungsam Cement, Bhutan Fruit Products) carry the sectors lesson.
 
 Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 
@@ -372,4 +396,4 @@ Bulgaria's own way (Bulgaria Grade 10 Geography and Economics): at Grade 10 the 
 
 Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
 
-Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Syria, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources, laos, three kinds of business, producing trading services, weaving, repair shops, zimbabwe, teacher guide evidence, dominican republic, palestine, cambodia, egypt, honduras, nicaragua, bulgaria, india, bolivia, colombia, greece, papua new guinea, teacher guide evidence, samoa
+Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Syria, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources, laos, three kinds of business, producing trading services, weaving, repair shops, zimbabwe, teacher guide evidence, dominican republic, palestine, cambodia, egypt, honduras, nicaragua, bulgaria, india, bolivia, colombia, greece, papua new guinea, teacher guide evidence, samoa, bhutan

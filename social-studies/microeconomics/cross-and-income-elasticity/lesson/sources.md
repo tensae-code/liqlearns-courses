@@ -1,6 +1,6 @@
 # Sources — Cross and income elasticity
 
-countries: Ethiopia, Kazakhstan, Iraq, United States, Pakistan, Nigeria
+countries: Ethiopia, Kazakhstan, Iraq, United States, Pakistan, Nigeria, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -41,7 +41,15 @@ countries: Ethiopia, Kazakhstan, Iraq, United States, Pakistan, Nigeria
 |---|---|
 | Nigeria part — Chapter 7 — Elasticity of demand (income and cross) — teaches: income and cross elasticity within the elasticity treatment | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 7 — Elasticity of demand (income and cross) — printed p. 82 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Kazakhstan, Iraq, United States, Pakistan, Nigeria).**
+**Book 7:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 5 — teaches: income and cross elasticity among the types of elasticity of demand | Bhutan, *Bhutan Class XI Economics XI*, Chapter 5 — printed p. 58 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Kazakhstan, Iraq, United States, Pakistan, Nigeria, Bhutan).**
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -56,4 +64,4 @@ The book's printed solution text for the income-elasticity table (incomes Birr 1
 
 Kazakhstan's own way (Kazakhstan Grade 10 Aganina): Economics is taught inside an entrepreneurship course — market theory arrives as the theory an entrepreneur needs, with tenge-denominated supply examples (a potato supply curve at 50-70 tenge), world oil prices deciding whether an Almaty-region furniture workshop profits, and Kazakhstan's own post-Soviet transition as the opening history.
 
-Searchable tags: cross elasticity, substitutes positive, complements negative, income elasticity, inferior good, luxury necessity, tea coffee, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, iraq, united states, pakistan, nigeria
+Searchable tags: cross elasticity, substitutes positive, complements negative, income elasticity, inferior good, luxury necessity, tea coffee, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, iraq, united states, pakistan, nigeria, bhutan

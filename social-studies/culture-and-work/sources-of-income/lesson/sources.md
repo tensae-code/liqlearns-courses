@@ -174,7 +174,23 @@ South Sudan's own way (South Sudan Primary 2): work is introduced through the vi
 |---|---|
 | Samoa part — Unit 1, Income — teaches: earned income (wages, salaries, profit, commission, fees) versus unearned income (lotto winnings, interest, rent, dividends, inheritances, benefits and remittances from overseas) | Samoa, *Year 11 Business Studies Book 2*, Unit 1, Income — printed p. 8 |
 
-**Acceptance count: taught in 10 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela, Jordan, Fiji, Nepal, Iran, Samoa). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 28:** *SOCIAL STUDIES CLASS IV* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2019, Reprint 2025; no ISBN printed. Title as printed: SOCIAL STUDIES CLASS IV. Grade: Class IV (student/teacher: STUDENT). PDF pages: 80 (cover verified against the record title; record size 2,488,026 bytes and 80 pages match exactly). Verdict: COMPLETE (Economics part read in full; other parts named in the Contents map only, per the mixed-ss rule). Contents map: Economics part pp. 61–70 (Ch. 11 Earning a living); Geography pp. 9–26 (landforms, weather, forest); Civics pp. 27–40 (our country, local government); History pp. 31–36 (Lord Buddha and Guru Rinpoche); other Social Studies pp. 1–8, 41–60 (home and family, well-being, environment, hazards) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 11, §11.2–11.3 — teaches: earning a living — activities people do to earn, types of work, skilled vs unskilled workers | Bhutan, *Bhutan Class IV Social Studies IV*, Chapter 11, §11.2–11.3 — printed p. 63 |
+
+**Book 29:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development, Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021; no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Class VI (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; record size 1,628,115 bytes and 68 pages match exactly). Verdict: COMPLETE (Economics part read in full; other parts named in the Contents map only, per the mixed-ss rule). Contents map: Economics part pp. 53–60 (Ch. 10 Income); Geography pp. 1–16, 37–52 (the Earth, climate, population, environment, transport and communication); Civics pp. 17–36 (culture and tradition, the government and democracy, social problems); hazard studies pp. 43–46 Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 10 Income, §10.1 — teaches: types and sources of income — wages, salary, business sales, rent, retirement benefits — gathered by household interview | Bhutan, *Bhutan Class VI Social Studies VI*, Chapter 10 Income, §10.1 — printed p. 54 |
+
+**Acceptance count: taught in 10 countries (Bhutan, Laos, Rwanda, South Sudan, Venezuela, Jordan, Fiji, Nepal, Iran, Samoa). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.** Bhutan was already counted in this lesson from the earlier waves; the Economics-expansion rows are stocked as depth for the same country, so the count does not rise.
+
+Bhutan's own way (Bhutan Class IV Social Studies IV): Economics begins in Class IV as earning a living — needs vs wants first, then the work people do, skilled vs unskilled, and activities done for love rather than money.
+
+Bhutan's own way (Bhutan Class VI Social Studies VI): Income is taught by fieldwork — learners interview households about wages, salary, rent and retirement benefits in ngultrum — and Bhutan's real industries (Penden Cement, Dungsam Cement, Bhutan Fruit Products) carry the sectors lesson.
 
 Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 

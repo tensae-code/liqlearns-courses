@@ -1,6 +1,6 @@
 # Sources — Progressive, proportional and regressive taxes
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Bangladesh, Uzbekistan, Egypt, United States, Pakistan, Costa Rica, Samoa
+countries: Ethiopia, Malaysia, Albania, Dominica, Bangladesh, Uzbekistan, Egypt, United States, Pakistan, Costa Rica, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -72,7 +72,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Samoa part — Unit 1 Topic 1, Taxation (essay continued) — teaches: Samoa's progressive income tax (higher earners pay more), PAYE deduction, tax returns and refunds through Inland Revenue | Samoa, *Year 10 Social Studies Book 3*, Unit 1 Topic 1, Taxation (essay continued) — printed p. 20 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Dominica, Bangladesh, Uzbekistan, Egypt, United States, Pakistan, Costa Rica, Samoa). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 12:** *ECONOMICS Class XII* (student book, English) — School Curriculum Division, Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2022, © 2022; no ISBN printed. Title as printed: ECONOMICS Class XII. Grade: Class XII (student/teacher: STUDENT). PDF pages: 206 (cover verified against the record title; record size 4,208,131 bytes and 206 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–190 (all 14 chapters); Assessment pp. 191–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 8 Public Revenue and Expenditure — teaches: sources of government revenue; importance and types of taxation systems | Bhutan, *Bhutan Class XII Economics XII*, Chapter 8 Public Revenue and Expenditure — printed p. 99 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, Dominica, Bangladesh, Uzbekistan, Egypt, United States, Pakistan, Costa Rica, Samoa, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class XII Economics XII): Class XII is the analytical capstone — utility/indifference analysis, production, cost and revenue, distribution theory, statistics and index numbers, then Bhutan-flavoured public finance (deficit financing's effects on the Bhutanese economy, Bhutan budgetary procedure) and national income as compiled by Bhutan's National Statistics Bureau.
 
 Samoa's own way (Year 10 Social Studies Book 3): Access is the organising idea — whether a Samoan can get goods depends on income type, tax, government policy, land tenure and social position, each taught with Samoan data (formal employment 2000, a pupil's tax essay, farming/fishing tax exemptions).
 
@@ -95,4 +103,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: progressive, proportional and regressive taxes, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, uzbekistan, egypt, united states, pakistan, samoa
+Searchable tags: progressive, proportional and regressive taxes, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, bangladesh, uzbekistan, egypt, united states, pakistan, samoa, bhutan

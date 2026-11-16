@@ -40,7 +40,15 @@ Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first t
 |---|---|
 | Armenia part — Economics expansion — 4.2 Managing savings: saving defined, yield as a percentage (100,000 dram at 12% brings 12,000 dram in a year), SMART saving goals, and Armenia's own saving habits (winter preserves, seasonal pig-keeping, the savings box) | Armenia, *Armenia Grade 10 Social Science student*, 4.2 Managing savings — printed p. 97 |
 
-**Acceptance count: taught in 3 countries (Bhutan, Rwanda, Armenia).**
+**Book 6:** *SOCIAL STUDIES CLASS V* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, Reprint 2025; no ISBN printed. Title as printed: SOCIAL STUDIES CLASS V. Grade: Class V (student/teacher: STUDENT). PDF pages: 78 (cover verified against the record title; record size 2,977,472 bytes and 78 pages match exactly). Verdict: COMPLETE (Economics part read in full; other parts named in the Contents map only, per the mixed-ss rule). Contents map: Economics part pp. 65–70 (Ch. 12 Money and Banks); Geography pp. 1–26 (the Earth, Bhutan's zones, rivers, forests); History pp. 27–30 (Zhabdrung Ngawang Namgyal); Civics pp. 31–46 (national symbols, places of worship, local government); other Social Studies pp. 47–64 (people and society, environment, hazards) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 12, §12.3 — teaches: saving money — what saving is, spending with purpose, ways to save | Bhutan, *Bhutan Class V Social Studies V*, Chapter 12, §12.3 — printed p. 68 |
+
+**Acceptance count: taught in 3 countries (Bhutan, Rwanda, Armenia).** Bhutan was already counted in this lesson from the earlier waves; the Economics-expansion rows are stocked as depth for the same country, so the count does not rise.
+
+Bhutan's own way (Bhutan Class V Social Studies V): Money is taught through the ngultrum and Bhutan's own named banks (Bank of Bhutan, BNBL, BDBL, Druk PNB, Tashi Bank), with deposit/loan arithmetic in ngultrum.
 
 Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 

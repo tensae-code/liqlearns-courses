@@ -1,6 +1,6 @@
 # Sources — Comparative advantage — David Ricardo
 
-countries: Ethiopia, Jordan, Bangladesh, Uzbekistan, Indonesia, Iran, Iraq, United States, Nigeria, Greece, Papua New Guinea
+countries: Ethiopia, Jordan, Bangladesh, Uzbekistan, Indonesia, Iran, Iraq, United States, Nigeria, Greece, Papua New Guinea, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -84,7 +84,23 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Papua New Guinea evidence — Strand 1 Unit 1, Benchmark 12.1.1.1: Specialisation and trade: specialisation as devoting resources to a limited scope of goods for efficiency, and comparative advantage as producing at a lower opportunity cost than another country, as the basis for specialising and trading (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Business Studies TG*, Strand 1 Unit 1, Benchmark 12.1.1.1: Specialisation and trade — printed p. 48 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Jordan, Bangladesh, Uzbekistan, Indonesia, Iran, Iraq, United States, Nigeria, Greece). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 14:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 10, §10.4 — teaches: comparative cost advantage theory | Bhutan, *Bhutan Class IX Economics IX*, Chapter 10, §10.4 — printed p. 83 |
+
+**Book 15:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 11 — teaches: comparative cost theory using opportunity cost and the PPC | Bhutan, *Bhutan Class XI Economics XI*, Chapter 11 — printed p. 129 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Jordan, Bangladesh, Uzbekistan, Indonesia, Iran, Iraq, United States, Nigeria, Greece, Bhutan). Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Papua New Guinea's own way (Papua New Guinea Grade 11 Economics TG): the standalone Senior High Economics course re-runs the five-unit frame at full depth — human resources and human capital first, then price mechanism and inflation, economic ideologies (conservatism, liberalism, protectionism, free market), international trade, and a closing unit on the communist economy mirroring Grade 10's capitalism unit. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -105,4 +121,4 @@ Iran's own way (Iran Grade 10 Economics): the whole book is taught through one r
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: comparative advantage, david ricardo, ethiopia, social studies, macroeconomics, jordan, bangladesh, uzbekistan, indonesia, iran, iraq, united states, nigeria, greece, papua new guinea, teacher guide evidence
+Searchable tags: comparative advantage, david ricardo, ethiopia, social studies, macroeconomics, jordan, bangladesh, uzbekistan, indonesia, iran, iraq, united states, nigeria, greece, papua new guinea, teacher guide evidence, bhutan

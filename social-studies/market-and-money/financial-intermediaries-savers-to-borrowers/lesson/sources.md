@@ -1,6 +1,6 @@
 # Sources — Financial intermediaries — savers to borrowers
 
-countries: Ethiopia, Mongolia, Zimbabwe, Palestine, Dominica, Cambodia, Yemen, Vietnam, Armenia, Nepal, Bulgaria, India, Pakistan, Samoa
+countries: Ethiopia, Mongolia, Zimbabwe, Palestine, Dominica, Cambodia, Yemen, Vietnam, Armenia, Nepal, Bulgaria, India, Pakistan, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -92,7 +92,31 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Samoa part — Unit 9, The Financial Sector — teaches: banks as intermediaries channelling household savings to firms' investment | Samoa, *Year 12 Economics*, Unit 9, The Financial Sector — printed p. 84 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Mongolia, Palestine, Dominica, Cambodia, Yemen, Vietnam, Armenia, Bulgaria, India, Pakistan, Samoa). Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Nepal is teacher-guide evidence only — named here, counted nowhere.**
+**Book 15:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 11 Financial Institutions, §11.1–11.2 — teaches: financial institutions as the savers-to-borrowers link; banking vs non-banking institutions in Bhutan | Bhutan, *Bhutan Class IX Economics IX*, Chapter 11 Financial Institutions, §11.1–11.2 — printed p. 87 |
+
+**Book 16:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 13 Financial Institutions — teaches: financial institutions' role in development as agents of economic growth | Bhutan, *Bhutan Class XI Economics XI*, Chapter 13 Financial Institutions — printed p. 147 |
+
+**Book 17:** *BUSINESS AND ENTREPRENEURSHIP CLASS XI* (student book, English) — Centre for School Curriculum Development, Department of School Education, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2022 CSCD, Reprint 2025; no ISBN printed. Title as printed: BUSINESS AND ENTREPRENEURSHIP CLASS XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 169 (cover verified against the record title; record size 4,490,496 bytes and 169 pages match exactly). Verdict: COMPLETE (Economics parts read in full; Business/Commerce parts named in the Contents map only, per the mixed-bus rule). Contents map: Economics parts pp. 55–62 (Consumer Protection) and pp. 91–98 (Bhutanese financial system, intermediaries, regulators); Business/Commerce/Accounting parts pp. 1–54 (business, industry and commerce concepts, operations and supply chain, business model, business ecosystem), pp. 63–90 (business organisations, HRM, risk management), pp. 98–110 (business finance, capital structure, project costing and projected statements), pp. 111–150 (marketing, business communication, entrepreneurial competencies) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 9, §9.2–9.3 — teaches: financial intermediaries and the functions of financial institutions | Bhutan, *Bhutan Class XI Business and Entrepreneurship XI*, Chapter 9, §9.2–9.3 — printed p. 95 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Mongolia, Palestine, Dominica, Cambodia, Yemen, Vietnam, Armenia, Bulgaria, India, Pakistan, Samoa, Bhutan). Zimbabwe is teacher-guide evidence only — named here, counted nowhere. Nepal is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
+
+Bhutan's own way (Bhutan Class XI Business and Entrepreneurship XI): Economics enters the business course through Bhutanese law and institutions — the Consumer Protection Act of Bhutan 2012 and the RMA/RSEBL financial system, with ngultrum–rupee parity explained.
 
 Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
@@ -121,4 +145,4 @@ Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns pr
 
 Bulgaria's own way (Bulgaria Grade 4 Technology and Entrepreneurship): Grade 4 is where money itself becomes the topic — its history from barter to banknotes, the bank as the go-between of people with surplus money and people who need it, and taxes explained as the price of needs no one can meet alone.
 
-Searchable tags: financial intermediation, surplus deficit units, Commercial Bank of Ethiopia, safety interest, finance blood of the economy, ethiopia, social studies, market and money, mongolia, saving, six steps, demand term deposits, zimbabwe, teacher guide evidence, palestine, dominica, csec principles of business, caribbean, cambodia, yemen, vietnam, armenia, nepal, bulgaria, india, pakistan, samoa
+Searchable tags: financial intermediation, surplus deficit units, Commercial Bank of Ethiopia, safety interest, finance blood of the economy, ethiopia, social studies, market and money, mongolia, saving, six steps, demand term deposits, zimbabwe, teacher guide evidence, palestine, dominica, csec principles of business, caribbean, cambodia, yemen, vietnam, armenia, nepal, bulgaria, india, pakistan, samoa, bhutan

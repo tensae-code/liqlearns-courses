@@ -1,6 +1,6 @@
 # Sources — National income accounting — measuring a whole economy
 
-countries: Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan, Nigeria
+countries: Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan, Nigeria, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -58,7 +58,15 @@ countries: Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan, Nigeria
 |---|---|
 | Nigeria part — Chapter 12 — National income accounting — teaches: the concept of income and of national income | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 12 — National income accounting — printed p. 153 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan, Nigeria).**
+**Book 10:** *ECONOMICS Class XII* (student book, English) — School Curriculum Division, Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2022, © 2022; no ISBN printed. Title as printed: ECONOMICS Class XII. Grade: Class XII (student/teacher: STUDENT). PDF pages: 206 (cover verified against the record title; record size 4,208,131 bytes and 206 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–190 (all 14 chapters); Assessment pp. 191–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 11 — teaches: national income aggregates and their interrelationship, as compiled by Bhutan's National Statistics Bureau under the SNA | Bhutan, *Bhutan Class XII Economics XII*, Chapter 11 — printed p. 143 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Cambodia, Egypt, Fiji, Indonesia, Iraq, Pakistan, Nigeria, Bhutan).**
+
+Bhutan's own way (Bhutan Class XII Economics XII): Class XII is the analytical capstone — utility/indifference analysis, production, cost and revenue, distribution theory, statistics and index numbers, then Bhutan-flavoured public finance (deficit financing's effects on the Bhutanese economy, Bhutan budgetary procedure) and national income as compiled by Bhutan's National Statistics Bureau.
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -77,4 +85,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: national income accounting, measuring aggregate activity, GDP GNP summary, output trend policy comparison, ethiopia, social studies, macroeconomics, cambodia, egypt, Fiji, indonesia, iraq, pakistan, nigeria
+Searchable tags: national income accounting, measuring aggregate activity, GDP GNP summary, output trend policy comparison, ethiopia, social studies, macroeconomics, cambodia, egypt, Fiji, indonesia, iraq, pakistan, nigeria, bhutan

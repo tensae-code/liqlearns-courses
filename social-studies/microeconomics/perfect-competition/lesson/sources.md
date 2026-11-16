@@ -1,6 +1,6 @@
 # Sources — Perfect competition
 
-countries: Ethiopia, Kazakhstan, Albania, Yemen, Armenia, Iraq, United States, Nigeria, Greece
+countries: Ethiopia, Kazakhstan, Albania, Yemen, Armenia, Iraq, United States, Nigeria, Greece, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -70,7 +70,15 @@ Grade 10 teacher-guide note (placements 10 and 12): the two added features come 
 |---|---|
 | Greece part — Ch.6 §2 Full (perfect) competition — teaches: the characteristics of the perfectly competitive market | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.6 §2 Full (perfect) competition — printed p. 109 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Kazakhstan, Yemen, Armenia, Iraq, United States, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 12:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 9, §9.2b — teaches: perfect competition and its features | Bhutan, *Bhutan Class IX Economics IX*, Chapter 9, §9.2b — printed p. 74 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Kazakhstan, Yemen, Armenia, Iraq, United States, Nigeria, Greece, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -90,4 +98,4 @@ Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same nationa
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: perfect competition features, homogeneous product, free entry exit, perfect information, price taker, AR MR P, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, yemen, armenia, iraq, united states, nigeria, greece
+Searchable tags: perfect competition features, homogeneous product, free entry exit, perfect information, price taker, AR MR P, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, yemen, armenia, iraq, united states, nigeria, greece, bhutan

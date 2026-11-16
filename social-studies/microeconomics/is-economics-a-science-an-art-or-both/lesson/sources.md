@@ -1,6 +1,6 @@
 # Sources — Is economics a science, an art, or both?
 
-countries: Ethiopia, Pakistan, Nigeria
+countries: Ethiopia, Pakistan, Nigeria, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -22,7 +22,15 @@ countries: Ethiopia, Pakistan, Nigeria
 |---|---|
 | Nigeria part — Chapter 1 — Nature of economics as a science / social science — teaches: economics as a science and as a social science, and why we study it | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 1 — Nature of economics as a science / social science — printed p. 5 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Pakistan, Nigeria).**
+**Book 4:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 1, §1.2 Nature and Scope — teaches: economics as both a science (laws, cause-and-effect) and an art (graphs, applied problem-solving) | Bhutan, *Bhutan Class IX Economics IX*, Chapter 1, §1.2 Nature and Scope — printed p. 3 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Pakistan, Nigeria, Bhutan).**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
@@ -31,4 +39,4 @@ Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium mi
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: economics science art, positive description, prediction, problem solving, ethiopia, social studies, microeconomics, pakistan, nigeria
+Searchable tags: economics science art, positive description, prediction, problem solving, ethiopia, social studies, microeconomics, pakistan, nigeria, bhutan

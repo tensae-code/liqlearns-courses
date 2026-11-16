@@ -1,6 +1,6 @@
 # Sources — The National Bank and commercial banks
 
-countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Albania, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua, Iraq, Pakistan, Bolivia, Costa Rica, Greece, Papua New Guinea
+countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Albania, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua, Iraq, Pakistan, Bolivia, Costa Rica, Greece, Papua New Guinea, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -137,7 +137,23 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Papua New Guinea evidence — Unit 3, Topic 2: Bank of Papua New Guinea: the central bank's roles (currency management, lender of last resort, banker to banks, reserves and debt-market management) and its direct instruments (Minimum Liquid Asset Ratio, Cash Reserve Ratio, directives) versus indirect instruments (open market operations, the Kina Facility Rate, discount facility) (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG*, Unit 3, Topic 2: Bank of Papua New Guinea — printed p. 194 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua, Iraq, Pakistan, Bolivia, Costa Rica, Greece). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+**Book 23:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 11, §11.2–11.3 — teaches: commercial banks' functions and the Royal Monetary Authority as Bhutan's central bank | Bhutan, *Bhutan Class IX Economics IX*, Chapter 11, §11.2–11.3 — printed p. 88 |
+
+**Book 24:** *BUSINESS AND ENTREPRENEURSHIP CLASS XI* (student book, English) — Centre for School Curriculum Development, Department of School Education, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2022 CSCD, Reprint 2025; no ISBN printed. Title as printed: BUSINESS AND ENTREPRENEURSHIP CLASS XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 169 (cover verified against the record title; record size 4,490,496 bytes and 169 pages match exactly). Verdict: COMPLETE (Economics parts read in full; Business/Commerce parts named in the Contents map only, per the mixed-bus rule). Contents map: Economics parts pp. 55–62 (Consumer Protection) and pp. 91–98 (Bhutanese financial system, intermediaries, regulators); Business/Commerce/Accounting parts pp. 1–54 (business, industry and commerce concepts, operations and supply chain, business model, business ecosystem), pp. 63–90 (business organisations, HRM, risk management), pp. 98–110 (business finance, capital structure, project costing and projected statements), pp. 111–150 (marketing, business communication, entrepreneurial competencies) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 9, §9.4 — teaches: roles of the regulators — RMA as bank of issue and supervisor (ngultrum pegged at parity to the Indian rupee) and RSEBL | Bhutan, *Bhutan Class XI Business and Entrepreneurship XI*, Chapter 9, §9.4 — printed p. 97 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua, Iraq, Pakistan, Bolivia, Costa Rica, Greece, Bhutan). Albania is teacher-guide evidence only — named here, counted nowhere. Papua New Guinea is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
+
+Bhutan's own way (Bhutan Class XI Business and Entrepreneurship XI): Economics enters the business course through Bhutanese law and institutions — the Consumer Protection Act of Bhutan 2012 and the RMA/RSEBL financial system, with ngultrum–rupee parity explained.
 
 Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG): secondary Social Science carries a full Economics strand — PNG's own tax system (about 75% of the budget from tax, collected by the IRC), the Bank of Papua New Guinea's direct and indirect monetary instruments, a public-service wage bill of over K200 million a fortnight, the Hiri-Motu traditional trade, and development judged against PNG's Five National Goals and Directive Principles. This Papua New Guinea material stands on the teacher guide as evidence only.
 
@@ -173,7 +189,7 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, egypt, yemen, armenia, nicaragua, iraq, pakistan, bolivia, greece, papua new guinea, teacher guide evidence
+Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, egypt, yemen, armenia, nicaragua, iraq, pakistan, bolivia, greece, papua new guinea, teacher guide evidence, bhutan
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

@@ -1,6 +1,6 @@
 # Sources — Expansionary fiscal policy
 
-countries: Ethiopia, France, Indonesia, Bolivia, Costa Rica
+countries: Ethiopia, France, Indonesia, Bolivia, Costa Rica, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -34,7 +34,15 @@ countries: Ethiopia, France, Indonesia, Bolivia, Costa Rica
 |---|---|
 | Costa Rica part — Respuesta del Estado a la crisis: el New Deal — teaches: liberal countries abandoned the idea that natural laws would cure the crisis; Roosevelt's 1933 New Deal put the state into the economy — job creation, minimum wages, social security, farm and industry subsidies and the Emergency Banking Act to reorganise insolvent banks | Costa Rica, *Estudios Sociales CONED 10*, Grade 10 — printed pp. 45–46 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, France, Indonesia, Costa Rica). Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *ECONOMICS Class XII* (student book, English) — School Curriculum Division, Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2022, © 2022; no ISBN printed. Title as printed: ECONOMICS Class XII. Grade: Class XII (student/teacher: STUDENT). PDF pages: 206 (cover verified against the record title; record size 4,208,131 bytes and 206 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–190 (all 14 chapters); Assessment pp. 191–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 10 — teaches: fiscal instruments used to expand demand and employment | Bhutan, *Bhutan Class XII Economics XII*, Chapter 10 — printed p. 131 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, France, Indonesia, Costa Rica, Bhutan). Bolivia is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class XII Economics XII): Class XII is the analytical capstone — utility/indifference analysis, production, cost and revenue, distribution theory, statistics and index numbers, then Bhutan-flavoured public finance (deficit financing's effects on the Bhutanese economy, Bhutan budgetary procedure) and national income as compiled by Bhutan's National Statistics Bureau.
 
 Costa Rica's own way (Estudios Sociales CONED 10): a world-history book whose economics spine runs crisis to crisis — 1929, Bretton Woods, oil shocks, the Latin American debt crisis and neoliberal adjustment — ending at home with Costa Rica's trade opening to China and its shallower, state-keeping reform path.
 
@@ -46,4 +54,4 @@ France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: expansionary fiscal policy, grade 12 economics, ethiopia, france, ses, france relance, keynesian model, social studies, macroeconomics, indonesia, bolivia
+Searchable tags: expansionary fiscal policy, grade 12 economics, ethiopia, france, ses, france relance, keynesian model, social studies, macroeconomics, indonesia, bolivia, bhutan

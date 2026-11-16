@@ -1,6 +1,6 @@
 # Sources — From GDP to national income
 
-countries: Ethiopia, Uzbekistan, Indonesia, Pakistan, Greece
+countries: Ethiopia, Uzbekistan, Indonesia, Pakistan, Greece, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -36,7 +36,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Greece part — Ch.7 §8 Net National Product – National Income – Disposable Income — teaches: the step-down chain from GNP through depreciation and indirect taxes | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.7 §8 Net National Product – National Income – Disposable Income — printed p. 141 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Uzbekistan, Indonesia, Pakistan, Greece).**
+**Book 6:** *ECONOMICS Class XII* (student book, English) — School Curriculum Division, Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2022, © 2022; no ISBN printed. Title as printed: ECONOMICS Class XII. Grade: Class XII (student/teacher: STUDENT). PDF pages: 206 (cover verified against the record title; record size 4,208,131 bytes and 206 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–190 (all 14 chapters); Assessment pp. 191–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 11 — teaches: deriving national income from GDP through the aggregates | Bhutan, *Bhutan Class XII Economics XII*, Chapter 11 — printed p. 145 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Uzbekistan, Indonesia, Pakistan, Greece, Bhutan).**
+
+Bhutan's own way (Bhutan Class XII Economics XII): Class XII is the analytical capstone — utility/indifference analysis, production, cost and revenue, distribution theory, statistics and index numbers, then Bhutan-flavoured public finance (deficit financing's effects on the Bhutanese economy, Bhutan budgetary procedure) and national income as compiled by Bhutan's National Statistics Bureau.
 
 Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
 
@@ -45,4 +53,4 @@ Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupi
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: net domestic product NDP, GDP minus depreciation, national income components, compensation of employees, proprietors income, corporate profits dividends retained earnings profit taxes, ethiopia, social studies, macroeconomics, uzbekistan, indonesia, pakistan, greece
+Searchable tags: net domestic product NDP, GDP minus depreciation, national income components, compensation of employees, proprietors income, corporate profits dividends retained earnings profit taxes, ethiopia, social studies, macroeconomics, uzbekistan, indonesia, pakistan, greece, bhutan

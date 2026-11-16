@@ -1,6 +1,6 @@
 # Sources — Inflation, deflation and disinflation
 
-countries: Ethiopia, Armenia, Nigeria
+countries: Ethiopia, Armenia, Nigeria, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -22,7 +22,15 @@ countries: Ethiopia, Armenia, Nigeria
 |---|---|
 | Nigeria part — Chapter 15 — Deflation — teaches: deflation set against inflation | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 15 — Deflation — printed p. 206 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Armenia, Nigeria).**
+**Book 4:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 14 — teaches: impact of inflation and deflation on the economy and personal life | Bhutan, *Bhutan Class XI Economics XI*, Chapter 14 — printed p. 165 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Armenia, Nigeria, Bhutan).**
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -32,4 +40,4 @@ No matching teacher guide exists in this band: the book recorded as this text's 
 
 The four years' inflation rates are presented out of chronological order in the book; the lesson teaches them in year order. The rates are computed on the book's printed CPI series (100, 140, 120, 200); the corrected 2003 basket (440 birr, CPI 220 — see the CPI lesson) would make the last year's rate +83.3% instead of +66.6%.
 
-Searchable tags: inflation, deflation and disinflation, grade 12 economics, ethiopia, social studies, macroeconomics, armenia, nigeria
+Searchable tags: inflation, deflation and disinflation, grade 12 economics, ethiopia, social studies, macroeconomics, armenia, nigeria, bhutan

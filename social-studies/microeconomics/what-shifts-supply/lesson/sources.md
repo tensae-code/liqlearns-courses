@@ -1,6 +1,6 @@
 # Sources — What shifts supply
 
-countries: Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Pakistan, Nigeria, Greece, Samoa
+countries: Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Pakistan, Nigeria, Greece, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -111,7 +111,23 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Samoa part — Unit 5 Non-Price Factors Affecting Supply — teaches: supply shifts from costs of production, producer goals, technology, and environmental, legal, trade and political factors, with an Apia fresh-milk supply schedule | Samoa, *Year 12 Economics*, Unit 5 Non-Price Factors Affecting Supply — printed p. 34 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Pakistan, Nigeria, Greece, Samoa).**
+**Book 19:** *ECONOMICS Class IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Reprint 2024 (© 2023); no ISBN printed. Title as printed: ECONOMICS Class IX. Grade: Class IX (student/teacher: STUDENT). PDF pages: 110 (cover/title page verified against the record title; record size 4,559,600 bytes and 110 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–96 (all 11 chapters); Assessments pp. 97–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 6, §6.1a — teaches: determinants of supply — technology, input prices, producer agreements, price expectations | Bhutan, *Bhutan Class IX Economics IX*, Chapter 6, §6.1a — printed p. 45 |
+
+**Book 20:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 4 — teaches: factors affecting supply; movements along vs shifts of the supply curve | Bhutan, *Bhutan Class XI Economics XI*, Chapter 4 — printed p. 44 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Kazakhstan, Malaysia, Bangladesh, Yemen, Armenia, Iraq, United States, Pakistan, Nigeria, Greece, Samoa, Bhutan).**
+
+Bhutan's own way (Bhutan Class IX Economics IX): Economics is framed throughout by Gross National Happiness (GNH) — material vs spiritual well-being — and every concept is anchored in Bhutanese examples (ngultrum-era money history, hydropower exports to India, Kheng bamboo products, Royal Monetary Authority).
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 Samoa's own way (Year 9 Business Studies Book 1): Economics opens with producers, not definitions — a Samoan is first a fisher, planter or weaver in one of three industries, and money itself is introduced through Samoa's own history (fine mats and tapa, German marks, pounds, the tala of 1967).
 
@@ -146,4 +162,4 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: supply shifters, factor costs, technology, external shocks floods, taxes subsidies, transport, prices of other goods, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, bangladesh, yemen, armenia, iraq, united states, pakistan, nigeria, greece, samoa
+Searchable tags: supply shifters, factor costs, technology, external shocks floods, taxes subsidies, transport, prices of other goods, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, malaysia, bangladesh, yemen, armenia, iraq, united states, pakistan, nigeria, greece, samoa, bhutan

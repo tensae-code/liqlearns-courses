@@ -1,6 +1,6 @@
 # Sources — The Human Development Index
 
-countries: Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua, Iran, Iraq, India
+countries: Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua, Iran, Iraq, India, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -85,7 +85,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | India part — Ch 1: beyond income — comparing states and neighbours on infant mortality, literacy and life expectancy (Kerala ahead of Haryana, Sri Lanka ahead of India), and the UNDP Human Development Index — teaches: measuring development by people's health and education | India, *India Grade 10 Understanding Economic Development*, Ch 1 — printed p. 13 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua, Iran, Iraq, India).**
+**Book 14:** *ECONOMICS Class X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, © 2023, Reprint 2024; no ISBN printed. Title as printed: ECONOMICS Class X. Grade: Class X (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; record size 3,206,712 bytes and 98 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–80 (all 8 chapters); Assessments pp. 81–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 6, §6.2 — teaches: development indicators beyond GDP | Bhutan, *Bhutan Class X Economics X*, Chapter 6, §6.2 — printed p. 55 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia, Nepal, Nicaragua, Iran, Iraq, India, Bhutan).**
+
+Bhutan's own way (Bhutan Class X Economics X): Class X turns from concepts to Bhutan itself — the Bhutanese economy's features, public finance, GNH as the official development measure alongside GDP, Bhutan's balance of payments and rupee-crisis case material.
 
 India's own way (India Grade 10 Understanding Economic Development): Development economics taught entirely on Indian data and institutions — per-capita and HDI comparisons with Sri Lanka and Kerala against Haryana, MGNREGA, Sonpur village credit, SEZs, and COPRA consumer courts.
 
@@ -111,4 +119,4 @@ No matching teacher guide exists in this band: the book recorded as this text's 
 
 Iran's own way (Iran Grade 9 Social Studies): productivity is framed with Qur'anic and religious warrants (no extravagance, moderation, consultation) and capped by the resistance-economy doctrine; world inequality is read off Iran's own rising Human Development Index chart.
 
-Searchable tags: the human development index, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, dominica, csec principles of business, caribbean, uzbekistan, vietnam, armenia, nepal, nicaragua, iran, iraq, india
+Searchable tags: the human development index, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, dominica, csec principles of business, caribbean, uzbekistan, vietnam, armenia, nepal, nicaragua, iran, iraq, india, bhutan

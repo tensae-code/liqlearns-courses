@@ -1,0 +1,13 @@
+# Factor Rewards — Rent, Interest and Profit — true or false
+
+Say True or False, and why.
+
+**1. (Sub lesson 1)** The modern theory of rent.
+**Answer: True**
+
+**2. (Sub lesson 2)** Interest — gross and net.
+**Answer: True**
+
+**3. (Sub lesson 3)** This lesson teaches that its subject has nothing to do with factor rewards — rent, interest and profit.
+**Answer: False — The lesson is built on Bhutan's book teaching profit — gross and net.**
+

@@ -1,6 +1,6 @@
 # Sources — The financial market
 
-countries: Ethiopia, Iraq, United States, Nigeria, Samoa
+countries: Ethiopia, Iraq, United States, Nigeria, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -35,7 +35,15 @@ countries: Ethiopia, Iraq, United States, Nigeria, Samoa
 |---|---|
 | Samoa part — Unit 2, The Share Market — teaches: shares, dividends and the stock exchange as a market for part-ownership (rest of Unit 2 is Business, named in the Contents map) | Samoa, *Year 12 Economics*, Unit 2, The Share Market — printed p. 11 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Iraq, United States, Nigeria, Samoa).**
+**Book 6:** *BUSINESS AND ENTREPRENEURSHIP CLASS XI* (student book, English) — Centre for School Curriculum Development, Department of School Education, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2022 CSCD, Reprint 2025; no ISBN printed. Title as printed: BUSINESS AND ENTREPRENEURSHIP CLASS XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 169 (cover verified against the record title; record size 4,490,496 bytes and 169 pages match exactly). Verdict: COMPLETE (Economics parts read in full; Business/Commerce parts named in the Contents map only, per the mixed-bus rule). Contents map: Economics parts pp. 55–62 (Consumer Protection) and pp. 91–98 (Bhutanese financial system, intermediaries, regulators); Business/Commerce/Accounting parts pp. 1–54 (business, industry and commerce concepts, operations and supply chain, business model, business ecosystem), pp. 63–90 (business organisations, HRM, risk management), pp. 98–110 (business finance, capital structure, project costing and projected statements), pp. 111–150 (marketing, business communication, entrepreneurial competencies) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 9 Bhutanese Financial System and Business Finance, §9.1 — teaches: the Bhutanese financial system — RMA, banking and non-banking institutions and the capital market (RSEBL); financial markets and their instruments | Bhutan, *Bhutan Class XI Business and Entrepreneurship XI*, Chapter 9 Bhutanese Financial System and Business Finance, §9.1 — printed p. 92 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Iraq, United States, Nigeria, Samoa, Bhutan).**
+
+Bhutan's own way (Bhutan Class XI Business and Entrepreneurship XI): Economics enters the business course through Bhutanese law and institutions — the Consumer Protection Act of Bhutan 2012 and the RMA/RSEBL financial system, with ngultrum–rupee parity explained.
 
 Samoa's own way (Year 12 Economics): A full NZ-style supply/demand course rebuilt on Samoan ground — Apia milk and taro-fertiliser markets, VAGST, the tala/yen foreign-exchange market, Samoan public/merit goods, and money-supply definitions for Samoa's banks.
 
@@ -47,4 +55,4 @@ Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotami
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: financial market, securities bonds shares currencies, capital formation liquidity, ethiopia, social studies, market and money, iraq, united states, nigeria, samoa
+Searchable tags: financial market, securities bonds shares currencies, capital formation liquidity, ethiopia, social studies, market and money, iraq, united states, nigeria, samoa, bhutan

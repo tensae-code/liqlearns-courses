@@ -1,6 +1,6 @@
 # Sources — Macroeconomics — the whole economy at once
 
-countries: Ethiopia, Kazakhstan, Cambodia, Bangladesh, Honduras, Nicaragua, United States, Greece
+countries: Ethiopia, Kazakhstan, Cambodia, Bangladesh, Honduras, Nicaragua, United States, Greece, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -72,7 +72,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Greece part — Ch.7 §1 Micro vs macro distinction — teaches: the whole-economy view versus the individual market view | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.7 §1 Micro vs macro distinction — printed p. 133 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Kazakhstan, Cambodia, Bangladesh, Honduras, Nicaragua, United States, Greece). Honduras's Grade 7 teacher guide is cited as evidence only — Honduras is counted for its Grade 7 student book named here, not for that guide.**
+**Book 13:** *ECONOMICS Class XI* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, © 2023, Reprint 2023; no ISBN printed. Title as printed: ECONOMICS Class XI. Grade: Class XI (student/teacher: STUDENT). PDF pages: 186 (cover verified against the record title; record size 3,646,721 bytes and 186 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–170 (all 14 chapters); Assessments pp. 171–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 1 — teaches: macroeconomics and the interrelationship between micro and macro | Bhutan, *Bhutan Class XI Economics XI*, Chapter 1 — printed p. 7 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Kazakhstan, Cambodia, Bangladesh, Honduras, Nicaragua, United States, Greece, Bhutan). Honduras's Grade 7 teacher guide is cited as evidence only — Honduras is counted for its Grade 7 student book named here, not for that guide.**
+
+Bhutan's own way (Bhutan Class XI Economics XI): Class XI re-teaches the Class IX foundations at full analytical depth (elasticity calculation, equilibrium shifts, BoP correction) and adds Bhutan-specific system, Five-Year Plan and trade-policy chapters.
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -96,4 +104,4 @@ Honduras's own way (Honduras Grade 7 G7 Teacher CCSS) (teacher guide — evidenc
 
 Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
 
-Searchable tags: macroeconomics aggregates, national income, total employment general price level, adding up scope, ethiopia, social studies, macroeconomics, kazakhstan, tenge, entrepreneurship and business basics, cambodia, bangladesh, honduras, nicaragua, united states, greece
+Searchable tags: macroeconomics aggregates, national income, total employment general price level, adding up scope, ethiopia, social studies, macroeconomics, kazakhstan, tenge, entrepreneurship and business basics, cambodia, bangladesh, honduras, nicaragua, united states, greece, bhutan

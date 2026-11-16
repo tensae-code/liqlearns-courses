@@ -1,6 +1,6 @@
 # Sources — Wage determination in the labour market
 
-countries: Ethiopia, Iceland, France, Mongolia, Albania, Bangladesh, Uzbekistan, Yemen, Pakistan, Nigeria, Samoa
+countries: Ethiopia, Iceland, France, Mongolia, Albania, Bangladesh, Uzbekistan, Yemen, Pakistan, Nigeria, Samoa, Bhutan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -74,7 +74,23 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Samoa part — Unit 5, Sources of Income — teaches: wages and salaries set by hours, demand and supply, and the worker's skills and knowledge | Samoa, *Year 10 Business Studies Book 1*, Unit 5, Sources of Income — printed p. 47 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, France, Mongolia, Bangladesh, Uzbekistan, Yemen, Pakistan, Nigeria, Samoa). Iceland is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 12:** *ECONOMICS Class X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2020, © 2023, Reprint 2024; no ISBN printed. Title as printed: ECONOMICS Class X. Grade: Class X (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; record size 3,206,712 bytes and 98 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–80 (all 8 chapters); Assessments pp. 81–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 1, §1.3–1.8 — teaches: wages, demand for labour and its factors, supply of labour and its factors, wage rate set by labour demand–supply equilibrium (with excess demand/supply diagrams) | Bhutan, *Bhutan Class X Economics X*, Chapter 1, §1.3–1.8 — printed p. 3 |
+
+**Book 13:** *ECONOMICS Class XII* (student book, English) — School Curriculum Division, Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2022, © 2022; no ISBN printed. Title as printed: ECONOMICS Class XII. Grade: Class XII (student/teacher: STUDENT). PDF pages: 206 (cover verified against the record title; record size 4,208,131 bytes and 206 pages match exactly). Verdict: COMPLETE. Contents map: Economics parts pp. 1–190 (all 14 chapters); Assessment pp. 191–end (excluded, assessment only) Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 6 Theory of Distribution — teaches: wage and the modern theory of wage | Bhutan, *Bhutan Class XII Economics XII*, Chapter 6 Theory of Distribution — printed p. 69 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, France, Mongolia, Bangladesh, Uzbekistan, Yemen, Pakistan, Nigeria, Samoa, Bhutan). Iceland is teacher-guide evidence only — named here, counted nowhere. Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Bhutan's own way (Bhutan Class X Economics X): Class X turns from concepts to Bhutan itself — the Bhutanese economy's features, public finance, GNH as the official development measure alongside GDP, Bhutan's balance of payments and rupee-crisis case material.
+
+Bhutan's own way (Bhutan Class XII Economics XII): Class XII is the analytical capstone — utility/indifference analysis, production, cost and revenue, distribution theory, statistics and index numbers, then Bhutan-flavoured public finance (deficit financing's effects on the Bhutanese economy, Bhutan budgetary procedure) and national income as compiled by Bhutan's National Statistics Bureau.
 
 Samoa's own way (Year 10 Business Studies Book 1): Economics is taught through Samoan life — fa'asamoa borrowing, remittances, fa'alavelave and church spending in family budgets, local producers such as Vailima and copra drying at Lefaga, and a stated absence of consumer-protection law ("the buyer must beware").
 
@@ -95,4 +111,4 @@ Iceland's own way: economics arrives inside 19th-century history — pupils role
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: wage determination in the labour market, grade 12 economics, ethiopia, iceland, wage bargaining, role-play, teacher guide evidence, france, ses, wage by diploma, social studies, market and money, mongolia, equilibrium wage, wage schedule, tögrög, albania, bangladesh, uzbekistan, yemen, pakistan, nigeria, samoa
+Searchable tags: wage determination in the labour market, grade 12 economics, ethiopia, iceland, wage bargaining, role-play, teacher guide evidence, france, ses, wage by diploma, social studies, market and money, mongolia, equilibrium wage, wage schedule, tögrög, albania, bangladesh, uzbekistan, yemen, pakistan, nigeria, samoa, bhutan
