@@ -1,6 +1,6 @@
 # Sources — The economy and the environment — sources and sinks
 
-countries: Ethiopia, Mozambique, Nauru, Niue, Tuvalu, France
+countries: Ethiopia, Mozambique, Nauru, Niue, Tuvalu, France, Rwanda
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -52,12 +52,21 @@ Tuvalu's own way: Tuvalu takes the shared regional Pacific reader as printed (lo
 |---|---|
 | France part — "Quelles sont les limites écologiques de la croissance ?": the ecological limits of growth — negative externalities the GDP does not measure, ecological footprint, species loss and temperature/CO2 graphs | France, *SES 2de, Manuel Libre de Sciences économiques et sociales, Seconde (Manuels Libres)*, Ch. Richesses, section "Quelles sont les limites écologiques de la croissance ?" |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Mozambique, Nauru, Niue, Tuvalu, France).**
+**Book 10:** *Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019)* (student book, English) — Rwanda, REB; year 2019; ISBN no ISBN printed. Title as printed: Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 113 (cover verified against the record title; 97,794,186 bytes via release grab, size-verified by grab.py; an earlier interrupted download was discarded as corrupt and re-grabbed). Verdict: COMPLETE. Contents map: Economics parts printed pp. 40–46 (Unit 4 Economy) and pp. 2–13 (Unit 1 Socio-economic activities in our district); other units: Human/children's rights pp. 16–28, Hygiene pp. 31–38, Civics and governance pp. 49–58, Geography units pp. 60–98, History (Traditional Rwanda) pp. 100–107, Religious Studies pp. 108–188 (named only, not placed); glossary p. 189 is inventory-only, not placed. Teacher evidence: the P4 teacher guide (New Primary Social and Religious Studies for Rwanda — P4 Teacher's Guide, 100 PDF pp.) mirrors this pupil book's Unit 4 Economy — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 4 Lesson 2 The environment helps people with their needs: the environment gives food, soil, water, fish, honey, building materials and craft materials to sell, and must be used properly (replant trees, save water, protect wildlife) | Rwanda, *Rwanda Grade 4 Rwanda P4 SRS SB English*, printed p. 42 |
+
+Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first time and ties money to the district — Lake Kivu fishing, Kigali markets and tourist crafts — with saving taught as planning before spending and comparing what a bank pays.
+
+
+**Acceptance count: taught in 7 countries (Ethiopia, Mozambique, Nauru, Niue, Tuvalu, France, Rwanda).**
 
 France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: the economy and the environment — sources and sinks, grade 12 economics, ethiopia, mozambique, nauru, niue, tuvalu, over-fishing, pacific, france, ses, ecological footprint, social studies, global issues
+Searchable tags: the economy and the environment — sources and sinks, grade 12 economics, ethiopia, mozambique, nauru, niue, tuvalu, over-fishing, pacific, france, ses, ecological footprint, social studies, global issues, rwanda
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a long history — from Palaeolithic tool-making through manufacture and mercantilism to the Industrial Revolution and its consequences — before location, types and industrial landscapes; commerce likewise from barter and the invention of coin to trade blocs and unequal world flows.

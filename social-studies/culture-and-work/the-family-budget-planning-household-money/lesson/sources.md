@@ -1,6 +1,6 @@
 # Sources — The Family Budget — Planning Household Money
 
-countries: Mongolia
+countries: Mongolia, Rwanda
 
 **Book 1:** *Нийгэм судлал VII (Social Studies VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VII (Social Studies VII). Grade: Grade 7 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 48,845,405 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full; the book follows the same five-chapter spiral as Grade 9). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -9,8 +9,25 @@ countries: Mongolia
 | Sub lesson 1 — The household budget | Mongolia, *Нийгэм судлал VII (Social Studies VII)*, Grade 7, Chapter III Individual and Economy: 3.2 The family economy — the household budget — printed p. 43 |
 | Sub lesson 2 — Mongolia's way — the book's own teaching way | Mongolia, *Нийгэм судлал VII (Social Studies VII)*, Grade 7 — the book's own way of teaching (see below) — printed p. 43 |
 
-**Acceptance count: taught in 1 country (Mongolia).**
+**Book 2:** *Primary Learner's Social Studies for Rwanda Schools — P5* (student book, English) — Rwanda, REB; year 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools — P5. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; 28,584,194 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 53–59 (Unit 5 Economy), with banking and market services revisited in Unit 6 at pp. 66–68; other units: Our Province pp. 1–24, Hygiene and Sanitation pp. 25–40, Civics and Governance pp. 41–52, Social services in our province pp. 61–71, Environment and climate pp. 72–91 (named only, not placed); the unit's own Revision exercise p. 60 is excluded as assessment. Teacher evidence: the P5 teacher guide (Social Studies — Teacher's Guide for Rwanda Primary Schools, P5 (Revised Edition 2019), REB 2019, 106 PDF pp.) mirrors this pupil book's Unit 5 Economy — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 5.2 What is a budget?: a budget estimates income and expenditure; a family budget plans how family income will be spent, basic needs first, all members involved; worked example with a 120,000 FRW monthly salary itemised to 89,000 FRW expenditure | Rwanda, *Rwanda Grade 5 Rwanda P5 Social Studies SB English*, printed p. 54 |
+
+Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics unit — a worked family budget in francs with surplus, deficit and balanced outcomes, named Rwandan banks and SACCOs (Umwalimu, Umurenge, Zigama CSS), and markets as a source of government revenue.
+
+**Book 3:** *Social Studies for Rwanda Schools — Primary 6 Pupil's Book* (student book, English) — Rwanda, REB; year 2019 (Revised Edition); ISBN no ISBN printed. Title as printed: Social Studies for Rwanda Schools — Primary 6 Pupil's Book. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 157 PDF pages, two printed pages per PDF page, printed pp. 1–292 (cover verified against the record title; 143,704,475 bytes via release grab, size-verified by grab.py; glossary is inventory-only, not placed). Verdict: COMPLETE. Contents map: Economics parts printed pp. 125–139 (Unit 5 Budget, incl. Development), pp. 180–189 (Unit 7 Economic activities), pp. 20–30 (regional co-operation inside the Civics unit), pp. 114–124 (Unit 4 Public places and assets), pp. 190–201 (Unit 8 Natural resources); other units: Our country (maps) pp. 1–7, Civics and governance pp. 8–95, Hygiene pp. 96–113, Direction/location and physical geography pp. 140–179, Peoples of East Africa and History units pp. 203–292 (named only, not placed). Teacher evidence: the P6 teacher guide (Social Studies for Rwanda Schools — Primary 6 Teacher's Book, REB 2019, 137 PDF pp.) mirrors this pupil book — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed; library debt as filed: that guide's books.json tree path returns 404 although the record says in_pushed — the book itself is secured as a release asset (mid-size-books), which is the copy read. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 5.1 Family budget: a budget plans how money is used; its two parts are income (money from different activities) and expenditure, with savings; worked family tables in francs totalling income from salary, shop and farm sales, transport business, fishing and rent against itemised spending | Rwanda, *Rwanda Grade 6 Rwanda P6 Social Studies SB English*, printed p. 125 |
+
+Rwanda's own way (Rwanda Grade 6): P6 scales the P5 family budget up to the state — national revenue collected by the Rwanda Revenue Authority, a finance minister presenting the budget to parliament, and development read through Rwandan trade, agriculture and tourism.
+
+
+**Acceptance count: taught in 2 countries (Mongolia, Rwanda).**
 
 Mongolia's own way: the Grade 7 year works at the scale of the child's own life — my groups, my culture, my family's economy and budget, our school — before the local-area year in Grade 8. That way is stocked here as the way Mongolia teaches this thing. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
 
-Searchable tags: family budget, household economy, income and spending, Mongolia, Нийгэм судлал VII, social studies, culture and work
+Searchable tags: family budget, household economy, income and spending, Mongolia, Нийгэм судлал VII, social studies, culture and work, rwanda

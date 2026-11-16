@@ -1,6 +1,6 @@
 # Sources — Personal Budget And Saving
 
-countries: Armenia, Guatemala, Syria
+countries: Armenia, Guatemala, Syria, Rwanda
 
 **Book 1:** *Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school)* (student book, Armenian) — «Մասնակցային դպրոց» ԿՀ (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1725-6. Authors: H. Bayadyan, D. Stepanyan, V. Soghomonyan. Title as printed: Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school). Grade: 7 (student/teacher: STUDENT). PDF pages: 146 (printed 144; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography parts placed below: Ch. 1 "Man and nature" (printed pp. 12-27) and the economy parts of Ch. 7 "Man and economy" (pp. 102-127). NOT placed (named for later waves): Ch. 2 "Man and society" (pp. 28-41, incl. history of printing), Ch. 3 "Man, cognition and behaviour" (pp. 42-55), Ch. 4 "Man and morality" (pp. 56-71), Ch. 5 "Man and beauty" (pp. 72-89), Ch. 6 "Law in our life" (pp. 90-101), Ch. 7 §§7.3 personal finance in part, Ch. 8 "Man and politics" (pp. 128-139). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
@@ -24,7 +24,24 @@ countries: Armenia, Guatemala, Syria
 | Syria part — أختار مشترياتي (I choose my purchases): spending saved money by priority — a child opens the money box to find 900 Syrian pounds saved since last year and must arrange a priced list of purchases (school supplies, a toy, a gift, a meal out) in a table according to need | Syria, *Syria Grade 2 Social Studies*, أختار مشترياتي (I choose my purchases) — printed pp. 94–95 |
 | Syria part — حصّالتي (My money box): saving — a father gives his sons money boxes "to collect money in"; the boy who saves reaches his goal (the red car) while his brother, who saw no need for the box, wishes he had collected a bigger amount; the child makes their own money box (links-group filing of the same Grade 1 book) | Syria, *Syria Grade 1 Social Studies (links filing)*, حصّالتي (My money box) — printed p. 80 |
 
-**Acceptance count: taught in 2 countries (Armenia, Syria). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *Amasomo Mbonezamubano — Igitabo Cy'Umunyeshuri, Umwaka wa 3* (student book, Kinyarwanda) — Rwanda, REB (Rwanda Education Board); year 2019; ISBN no ISBN printed. Title as printed: Amasomo Mbonezamubano — Igitabo Cy'Umunyeshuri, Umwaka wa 3. Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 160 (cover verified against the record title; 63,692,807 bytes via release grab). Verdict: COMPLETE. Contents map: Economics parts printed pp. 84–93 (Unit 5 Ubukungu / Economy), plus property-care topics pp. 9–20 (family property), pp. 42–53 (school and public property in the sector); other units: Extended family pp. 1–21, Our Sector pp. 22–54, Hygiene pp. 55–70, Social behaviour pp. 71–83, Cell/Sector leadership pp. 94–104, Environment in the sector (named only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 5.2 What we spend money on: families spend money on everything they need — medicine, clothes, school materials, electricity and water — and pupils identify the biggest spending item at home | Rwanda, *Rwanda Grade 3 Rwanda P3 Social Studies SB Kinyarwanda*, printed p. 86 |
+
+Rwanda's own way (Rwanda Grade 3): P3 Economics is a saving curriculum — where family money comes from, what it is spent on, and how children and adults save (coin box and small livestock for children; banks, land, savings groups and cooperatives for adults), ending with what happens to a person who does not save.
+
+**Book 8:** *Primary Learner's Social Studies for Rwanda Schools — P5* (student book, English) — Rwanda, REB; year 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools — P5. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; 28,584,194 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 53–59 (Unit 5 Economy), with banking and market services revisited in Unit 6 at pp. 66–68; other units: Our Province pp. 1–24, Hygiene and Sanitation pp. 25–40, Civics and Governance pp. 41–52, Social services in our province pp. 61–71, Environment and climate pp. 72–91 (named only, not placed); the unit's own Revision exercise p. 60 is excluded as assessment. Teacher evidence: the P5 teacher guide (Social Studies — Teacher's Guide for Rwanda Primary Schools, P5 (Revised Edition 2019), REB 2019, 106 PDF pp.) mirrors this pupil book's Unit 5 Economy — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 5.3 Savings: savings are money put aside for future use; we save to avoid waste, swap between immediate and future needs, improve our standard of living and use savings in future | Rwanda, *Rwanda Grade 5 Rwanda P5 Social Studies SB English*, printed p. 56 |
+
+Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics unit — a worked family budget in francs with surplus, deficit and balanced outcomes, named Rwandan banks and SACCOs (Umwalimu, Umurenge, Zigama CSS), and markets as a source of government revenue.
+
+
+**Acceptance count: taught in 3 countries (Armenia, Syria, Rwanda). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
 
 Armenia's own way (Armenia Grade 7 Social Science student): Social Science opens not with the state but with the person — man-and-nature first, then society, mind, morality, beauty, law, economy, politics — and every chapter is built from short source materials with three levels of tasks (tell, apply, judge).
 
@@ -38,4 +55,4 @@ Syria's own way (Syria Grade 1 Social Studies, links filing): Economics enters G
 
 Syria's own way (Syria Grade 2 Social Studies): the saved money is spent by need — the child opens the money box to find 900 Syrian pounds saved since last year and arranges a priced list of purchases in a table according to need.
 
-Searchable tags: personal budget and saving, Armenia, Guatemala, Syria, syrian pounds, money box, حصّالتي, presupuesto personal, quetzales, teacher guide evidence, social studies, culture-and-work
+Searchable tags: personal budget and saving, Armenia, Guatemala, Syria, syrian pounds, money box, حصّالتي, presupuesto personal, quetzales, teacher guide evidence, social studies, culture-and-work, rwanda

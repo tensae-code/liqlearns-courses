@@ -1,6 +1,6 @@
 # Sources — Economic Activities Of Our District
 
-countries: Nepal, Uganda
+countries: Nepal, Uganda, Rwanda
 
 **Book 1:** *My Social Studies and Creative Arts Grade 5 (English Version)* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre; year First edition 2068 BS, revised edition 2074 BS; ISBN 978-99933-717-8-6 as printed — the same ISBN printed in the Grade 2 book, a publisher copy error. Title as printed: My Social Studies and Creative Arts Grade 5 (English Version). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 156 (cover/title page verified against the record title). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Lessons 2–5 dealings with neighbours, community help, equal treatment (printed pp. 4–11); Unit 2 Lessons 1, 3–5 traditions, festivals, pride, good people (pp. 12–21); Unit 3 Social Problems and their Solutions (pp. 22–33); Unit 4 Civics Sense (pp. 34–47, civics); Unit 6 Our Past (pp. 66–79, History); Unit 7 Lessons 2 and 4 School property, Use of national products (pp. 82, 86); Creative Arts (pp. 91–155). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
@@ -18,7 +18,16 @@ countries: Nepal, Uganda
 |---|---|
 | Uganda part — Types of Work Done by People in Our Districts: the kinds of work done locally (fishing, farming, weaving, pottery, brick laying, mining, teaching, trading, treating others), why people work — to get food, money and other needs — and the problems faced at work | Uganda, *Uganda Primary 4 Home-Study Social Studies*, Types of Work Done by People in Our Districts — printed p. 15 |
 
-**Acceptance count: taught in 2 countries (Nepal, Uganda).**
+**Book 4:** *Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019)* (student book, English) — Rwanda, REB; year 2019; ISBN no ISBN printed. Title as printed: Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 113 (cover verified against the record title; 97,794,186 bytes via release grab, size-verified by grab.py; an earlier interrupted download was discarded as corrupt and re-grabbed). Verdict: COMPLETE. Contents map: Economics parts printed pp. 40–46 (Unit 4 Economy) and pp. 2–13 (Unit 1 Socio-economic activities in our district); other units: Human/children's rights pp. 16–28, Hygiene pp. 31–38, Civics and governance pp. 49–58, Geography units pp. 60–98, History (Traditional Rwanda) pp. 100–107, Religious Studies pp. 108–188 (named only, not placed); glossary p. 189 is inventory-only, not placed. Teacher evidence: the P4 teacher guide (New Primary Social and Religious Studies for Rwanda — P4 Teacher's Guide, 100 PDF pp.) mirrors this pupil book's Unit 4 Economy — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 1 Socio-economic activities in our district: identify and compare the socio-economic activities of one's own district with neighbouring districts and state how they contribute to the district's development, respecting work as a source of income | Rwanda, *Rwanda Grade 4 Rwanda P4 SRS SB English*, printed p. 2 |
+
+Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first time and ties money to the district — Lake Kivu fishing, Kigali markets and tourist crafts — with saving taught as planning before spending and comparing what a bank pays.
+
+
+**Acceptance count: taught in 3 countries (Nepal, Uganda, Rwanda).**
 
 Nepal's own way (Nepal Grade 5 np-g5): Grade 5 "Our Earth" is a first full geography of Nepal — physical features, climate and lifestyle, natural vegetation, soils, map-drawing with symbols, globe and maps, and the wider South Asian neighbours; economic geography is district-based (Sankhuwasabha's occupations mapped place by place, from yak and sheep rearing and herb collecting in the high Himalaya to paddy in the low valleys).
 
@@ -26,4 +35,4 @@ Nepal's own way (Nepal Grade 5 TG np-g5tg) (teacher guide — evidence): Guide t
 
 Uganda's own way (Uganda Primary 4 Home-Study Social Studies): Economics enters through the district — the work people around the child do, how a child adds to family income, and the services the government brings to the district; this placement keeps that way: the district's own kinds of work, named one by one, and why people work.
 
-Searchable tags: economic activities of our district, Nepal, social studies, people-and-resources, uganda, district work, fishing farming weaving pottery brick laying mining teaching trading
+Searchable tags: economic activities of our district, Nepal, social studies, people-and-resources, uganda, district work, fishing farming weaving pottery brick laying mining teaching trading, rwanda

@@ -1,6 +1,6 @@
 # Sources — Markets — and the market for goods and services
 
-countries: Ethiopia, Guatemala, France, Laos, Mongolia
+countries: Ethiopia, Guatemala, France, Laos, Mongolia, Rwanda
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -40,7 +40,16 @@ countries: Ethiopia, Guatemala, France, Laos, Mongolia
 |---|---|
 | Mongolia — 3.2 The local market — a market as the meeting of buyers with money and sellers seeking profit, and exchange arising from the division of labour | Mongolia, *Social Studies 8*, Chapter III, 3.2 The local market — printed p. 51 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, France, Laos, Mongolia). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *Primary Learner's Social Studies for Rwanda Schools — P5* (student book, English) — Rwanda, REB; year 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools — P5. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; 28,584,194 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 53–59 (Unit 5 Economy), with banking and market services revisited in Unit 6 at pp. 66–68; other units: Our Province pp. 1–24, Hygiene and Sanitation pp. 25–40, Civics and Governance pp. 41–52, Social services in our province pp. 61–71, Environment and climate pp. 72–91 (named only, not placed); the unit's own Revision exercise p. 60 is excluded as assessment. Teacher evidence: the P5 teacher guide (Social Studies — Teacher's Guide for Rwanda Primary Schools, P5 (Revised Edition 2019), REB 2019, 106 PDF pp.) mirrors this pupil book's Unit 5 Economy — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 5.3 Markets in our province: a market is the meeting of people for buying and selling goods and services; markets promote development, fulfil basic needs, promote unity and are a source of government revenue | Rwanda, *Rwanda Grade 5 Rwanda P5 Social Studies SB English*, printed p. 59 |
+
+Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics unit — a worked family budget in francs with surplus, deficit and balanced outcomes, named Rwandan banks and SACCOs (Umwalimu, Umurenge, Zigama CSS), and markets as a source of government revenue.
+
+
+**Acceptance count: taught in 5 countries (Ethiopia, France, Laos, Mongolia, Rwanda). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
 
 France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
@@ -54,4 +63,4 @@ Laos' own way (Laos Grade 11 Business student): the market is defined three ways
 
 Mongolia's own way (Mongolia Grade 8 Social Studies 8): the economy is taught from the home district outward — pupils map the enterprises around their own school, work a flour price schedule, then write a real small-business plan.
 
-Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit
+Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit, rwanda

@@ -13950,3 +13950,119 @@ energy, its Development Bank), and closes
 globally (international economic relations,
 OPEC, the food crisis).
 Economics lessons: 431 → 441.
+
+## Economics expansion — Rwanda — built 2026-11-16
+
+Rwanda — 38 placements stocked from 5 student
+books with placements (19 records / 12 distinct
+books filed; the 5 teacher guides and the P3
+Christian Religious Education guide part file
+0 placements, as filed). The placement lines
+actually written are 27 to existing lessons +
+11 NEW LESSON NEEDED, matching the wave close;
+one NEW line (microeconomics/basic-needs-and-
+other-needs) names a lesson already built for
+the United Arab Emirates, so it is stocked
+there, not built twice — 28 rows into 20
+existing lessons and 10 new lessons built.
+All placed books are student books (REB,
+Rwanda Education Board), so all placements
+count in acceptance, except the 4 placements
+into lessons where Rwanda was already counted
+from earlier waves (Making a family budget,
+What the economy is, The national budget, and
+Sustainable development — living without
+eating the future), stocked as depth with
+their acceptance counts unchanged. The
+teacher guides (P2 Kinyarwanda and English,
+P4, P5 and P6 English) mirror the pupil books
+and are cited in the book entries as teacher
+evidence for the same content, outside the
+acceptance counts, with no separate
+placements, as filed. Books: P2 Social
+Studies SB Kinyarwanda (REB 2019, 96 PDF pp.,
+COMPLETE); P3 Social Studies SB Kinyarwanda
+(REB 2019, 160 PDF pp., COMPLETE); P4 SRS SB
+English (REB 2019, 113 PDF pp., COMPLETE —
+glossary p. 189 inventory-only); P5 Social
+Studies SB English (REB 2019, 75 PDF pp.,
+COMPLETE); P6 Social Studies SB English (REB
+2019 Revised Edition, 157 PDF pp., COMPLETE —
+glossary inventory-only). Record-only, stocked
+nowhere, as filed: the P3 Christian Religious
+Education teacher-guide part (166 PDF pp.,
+RECORD-ONLY — no Social Studies or Economics
+parts). Stocked into standing lessons —
+Microeconomics: Basic needs and other needs
+(P2 p. 62; acceptance 2 → 3); Public goods and
+the free rider (P2 p. 71; P3 p. 42; P6 p. 114;
+acceptance 1 → 2) — Market and Money: What
+money is (P2 p. 66; P4 p. 43; acceptance
+5 → 6); The national bank and commercial
+banks (P5 p. 57; acceptance 4 → 5); Markets
+and the market for goods and services (P5
+p. 59; acceptance 4 → 5) — Macroeconomics:
+Regional integration — gains and costs (P6
+p. 20; acceptance 3 → 4) — Culture and Work:
+Making a family budget (P2 p. 69; acceptance
+unchanged — Rwanda already counted); Money
+saving and banks (P2 p. 69; P3 p. 88; P4 p. 45;
+acceptance 1 → 2); Sources of income (P3
+p. 84; P4 p. 44; acceptance 2 → 3); Personal
+budget and saving (P3 p. 86; P5 p. 56;
+acceptance 2 → 3); What the economy is (P5
+p. 53; acceptance unchanged — Rwanda already
+counted); The family budget — planning
+household money (P5 p. 54; P6 p. 125;
+acceptance 1 → 2); Banks and what they do for
+you (P5 p. 57; acceptance 2 → 3); The national
+budget (P6 p. 129; acceptance unchanged —
+Rwanda already counted) — People and
+Resources: Economic activities of our district
+(P4 p. 2; acceptance 2 → 3); Measuring
+development (P6 p. 136; acceptance 1 → 2);
+Economy of the East African region (P6 p. 181;
+acceptance 1 → 2); Resources that develop an
+economy (P6 p. 190; acceptance 3 → 4) —
+Global Issues: The economy and the environment
+— sources and sinks (P4 p. 42; acceptance
+6 → 7) — Resources and Conflict: Sustainable
+development — living without eating the future
+(P6 p. 187; acceptance unchanged — Rwanda
+already counted). And 10 new lessons built
+(12 questions each) — in Microeconomics:
+Misusing money and its consequences (P2
+p. 70); Caring for family property (P3 p. 9);
+Why saving matters and what happens without
+it (P3 p. 90); Needs versus wants (P4 p. 41);
+Surplus, deficit and balanced family budgets
+(P5 p. 55) — in Market and Money: Saving
+through savings groups and cooperatives (P3
+p. 88); Cooperatives and SACCOs in Rwanda (P5
+p. 58) — in Macroeconomics: When a household
+has no money (P2 p. 67); Balanced, surplus and
+deficit national budgets (P6 p. 132); Factors
+that promote and hinder development (P6
+p. 134). Checked first: none of the 10 NEW
+slugs existed in the current tree and no
+existing lesson covers those things, so each
+was built once under its named slug.
+Rwanda's own way: Economics enters at P2
+through the household — basic needs first,
+then money in the family, then shared public
+property in the village and cell; P3 is a
+saving curriculum (coin box and small
+livestock for children; banks, land, savings
+groups — ibimina — and cooperatives for
+adults); P4 separates needs from wants and
+ties money to the district; P5 gives the
+fullest primary unit — a worked family budget
+in francs with surplus, deficit and balanced
+outcomes, named Rwandan banks and SACCOs
+(Umwalimu, Umurenge, Zigama CSS), and markets
+as government revenue; P6 scales the budget
+to the state — Rwanda Revenue Authority
+revenue, a finance minister presenting the
+budget to parliament, and development read
+through trade, agriculture and tourism.
+Economics lessons: 441 → 451.

@@ -1,6 +1,6 @@
 # Sources — Regional integration — gains and costs
 
-countries: Argentina, Ethiopia, Uganda, Kuwait
+countries: Argentina, Ethiopia, Uganda, Kuwait, Rwanda
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -31,10 +31,19 @@ Argentina's own way: Economics enters primary Social Studies through Mercosur �
 | Kuwait part — GCC joint economic and trade cooperation — the concept of economic citizenship, what joint GCC economic/trade cooperation has achieved, and joint development projects | Kuwait, *Kuwait Grade 6 Social Studies G6 T2*, GCC joint economic and trade cooperation — printed p. 86 |
 
 
-**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Kuwait). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 5:** *Social Studies for Rwanda Schools — Primary 6 Pupil's Book* (student book, English) — Rwanda, REB; year 2019 (Revised Edition); ISBN no ISBN printed. Title as printed: Social Studies for Rwanda Schools — Primary 6 Pupil's Book. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 157 PDF pages, two printed pages per PDF page, printed pp. 1–292 (cover verified against the record title; 143,704,475 bytes via release grab, size-verified by grab.py; glossary is inventory-only, not placed). Verdict: COMPLETE. Contents map: Economics parts printed pp. 125–139 (Unit 5 Budget, incl. Development), pp. 180–189 (Unit 7 Economic activities), pp. 20–30 (regional co-operation inside the Civics unit), pp. 114–124 (Unit 4 Public places and assets), pp. 190–201 (Unit 8 Natural resources); other units: Our country (maps) pp. 1–7, Civics and governance pp. 8–95, Hygiene pp. 96–113, Direction/location and physical geography pp. 140–179, Peoples of East Africa and History units pp. 203–292 (named only, not placed). Teacher evidence: the P6 teacher guide (Social Studies for Rwanda Schools — Primary 6 Teacher's Book, REB 2019, 137 PDF pp.) mirrors this pupil book — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed; library debt as filed: that guide's books.json tree path returns 404 although the record says in_pushed — the book itself is secured as a release asset (mid-size-books), which is the copy read. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 2.2 Regional co-operation: Rwanda co-operates regionally through the Common Market for Eastern and Southern Africa (COMESA), the Economic Community of the Great Lakes Countries (CEPGL), the Economic Community of Central African States (ECCAS), the African Union and NEPAD, and why regional co-operation matters | Rwanda, *Rwanda Grade 6 Rwanda P6 Social Studies SB English*, printed p. 20 |
+
+Rwanda's own way (Rwanda Grade 6): P6 scales the P5 family budget up to the state — national revenue collected by the Rwanda Revenue Authority, a finance minister presenting the budget to parliament, and development read through Rwandan trade, agriculture and tourism.
+
+
+**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Kuwait, Rwanda). Argentina is teacher-guide evidence only — named here, counted nowhere.**
 
 Kuwait's own way (Kuwait Grade 6 Term 2): the modern economy is taught as resources-and-development of the Gulf states — oil and gas first, with the danger of depending on oil named from the start, then farming, livestock/fisheries, industry and trade, ending in GCC economic integration.
 
 Uganda's own way: the Excel ladder widens from Uganda to the region — Primary Six teaches the East African Community as a working market: common currency aim, fewer trade barriers, free movement, wider markets, and the landlocked country's trade costs, Uganda being landlocked itself.
 
-Searchable tags: regional integration, gains and costs, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics, uganda, east african community, EAC, landlocked, free movement, common currency
+Searchable tags: regional integration, gains and costs, ethiopia, argentina, mercosur, teacher guide evidence, social studies, macroeconomics, uganda, east african community, EAC, landlocked, free movement, common currency, rwanda

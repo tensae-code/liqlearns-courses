@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **441**
+Economics lessons across the Economics titles: **451**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4312,4 +4312,16 @@ Kuwait vision and economic diversification,
 The economy of the Islamic civilisation and
 Islamic world energy resources; Market and
 Money: The Islamic Development Bank and
-International economic relations).
+International economic relations);
++10 for Rwanda,
+2026-11-16 — Microeconomics: Misusing money
+and its consequences, Caring for family
+property, Why saving matters and what happens
+without it, Needs versus wants and Surplus,
+deficit and balanced family budgets;
+Macroeconomics: When a household has no money,
+Balanced, surplus and deficit national budgets
+and Factors that promote and hinder
+development; Market and Money: Saving through
+savings groups and cooperatives and
+Cooperatives and SACCOs in Rwanda).

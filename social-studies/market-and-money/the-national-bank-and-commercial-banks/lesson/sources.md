@@ -1,6 +1,6 @@
 # Sources — The National Bank and commercial banks
 
-countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia
+countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -30,13 +30,22 @@ Saudi Arabia's own way: a whole Economics unit in Grade 4, anchored in the Kingd
 |---|---|
 | Mongolia — 3.5 How does a bank help your life? — the central bank (issues money, holds reserves, supervises) versus commercial banks (take citizens' and firms' deposits, make loans, run payments) | Mongolia, *Social Studies 9*, Chapter III, 3.5 How does a bank help your life? — printed p. 55 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia).**
+**Book 5:** *Primary Learner's Social Studies for Rwanda Schools — P5* (student book, English) — Rwanda, REB; year 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools — P5. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; 28,584,194 bytes via release grab, size-verified by grab.py). Verdict: COMPLETE. Contents map: Economics parts printed pp. 53–59 (Unit 5 Economy), with banking and market services revisited in Unit 6 at pp. 66–68; other units: Our Province pp. 1–24, Hygiene and Sanitation pp. 25–40, Civics and Governance pp. 41–52, Social services in our province pp. 61–71, Environment and climate pp. 72–91 (named only, not placed); the unit's own Revision exercise p. 60 is excluded as assessment. Teacher evidence: the P5 teacher guide (Social Studies — Teacher's Guide for Rwanda Primary Schools, P5 (Revised Edition 2019), REB 2019, 106 PDF pp.) mirrors this pupil book's Unit 5 Economy — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 5.3 Banks (central bank part): the National Bank of Rwanda (BNR) is named among the province's banks and identified in the unit's exercises as the bank responsible for printing new notes and coins, distinct from the commercial banks | Rwanda, *Rwanda Grade 5 Rwanda P5 Social Studies SB English*, printed p. 57 |
+
+Rwanda's own way (Rwanda Grade 5): P5 gives Rwanda's fullest primary Economics unit — a worked family budget in francs with surplus, deficit and balanced outcomes, named Rwandan banks and SACCOs (Umwalimu, Umurenge, Zigama CSS), and markets as a source of government revenue.
+
+
+**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda).**
 
 Bahamas' own way: the Central Bank of The Bahamas regulates all banks and issues Bahamian notes, and the Bahamian dollar exchanges one-to-one with the US dollar.
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments
+Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

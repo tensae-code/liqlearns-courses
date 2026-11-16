@@ -1,6 +1,6 @@
 # Sources — What money is
 
-countries: Ethiopia, United Arab Emirates, Zambia, Syria, Uganda, Mongolia
+countries: Ethiopia, United Arab Emirates, Zambia, Syria, Uganda, Mongolia, Rwanda
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -52,7 +52,24 @@ Syria's own way: Economics enters Grade 1 through the homeland unit — the chil
 |---|---|
 | Mongolia — 3.4 What role does money play in our lives? — money's four functions (payment, measure of value, exchange, saving), its properties, and its forms from metal and paper to bank, plastic-card and electronic money, opening with a pupil's daily 2,500–3,000 tögrög | Mongolia, *Social Studies 9*, Chapter III, 3.4 What role does money play in our lives? — printed p. 53 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, United Arab Emirates, Syria, Uganda, Mongolia). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 8:** *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2* (student book, Kinyarwanda; parallel English edition: Social and Religious Studies — Primary Two Pupil's Book, REB 2020, 207 PDF pages, 66,849,262 bytes — cover + contents + Economy spreads at printed pp. 62 and 71 spot-checked, same Unit 6 Economy content, placed once here) — Rwanda, REB (Rwanda Education Board); year 2019; ISBN no ISBN printed. Title as printed: Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; 56,123,108 bytes via release grab). Verdict: COMPLETE. Contents map: Economics parts printed pp. 62–73 (Unit 6 Ubukungu / Economy); other units: Family pp. 1–8, School/Village/Cell pp. 9–30, Hygiene pp. 31–39, Diseases pp. 40–45, Social behaviour pp. 46–61, Environment pp. 74–83, Transport/Communication pp. 84–88, Local/School history pp. 89–95 (named only, not placed). Teacher evidence: the P2 teacher guides (Kinyarwanda, REB 2019, 104 PDF pp.; and English Social and Religious Studies Teacher's Guide P2, REB 2020, 196 PDF pp.) mirror this pupil book's Unit 6 Economy — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 6.2A The importance of money in the family: money is used to buy what is needed, pay for transport and pay people who work for the family, and must be handled carefully | Rwanda, *Rwanda Grade 2 Rwanda P2 Social Studies SB Kinyarwanda*, printed p. 66 |
+
+Rwanda's own way (Rwanda Grade 2): Economics enters at P2 through the household — basic needs first, then money in the family, then shared public property in the village and cell — taught with picture-observation activities in Kinyarwanda.
+
+**Book 9:** *Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019)* (student book, English) — Rwanda, REB; year 2019; ISBN no ISBN printed. Title as printed: Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 113 (cover verified against the record title; 97,794,186 bytes via release grab, size-verified by grab.py; an earlier interrupted download was discarded as corrupt and re-grabbed). Verdict: COMPLETE. Contents map: Economics parts printed pp. 40–46 (Unit 4 Economy) and pp. 2–13 (Unit 1 Socio-economic activities in our district); other units: Human/children's rights pp. 16–28, Hygiene pp. 31–38, Civics and governance pp. 49–58, Geography units pp. 60–98, History (Traditional Rwanda) pp. 100–107, Religious Studies pp. 108–188 (named only, not placed); glossary p. 189 is inventory-only, not placed. Teacher evidence: the P4 teacher guide (New Primary Social and Religious Studies for Rwanda — P4 Teacher's Guide, 100 PDF pp.) mirrors this pupil book's Unit 4 Economy — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 4 Lesson 3 Money: money is what we use to buy things; to sell is to give something in exchange for money; people spend money on food, seeds, tools, clothes, books, education and more | Rwanda, *Rwanda Grade 4 Rwanda P4 SRS SB English*, printed p. 43 |
+
+Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first time and ties money to the district — Lake Kivu fishing, Kigali markets and tourist crafts — with saving taught as planning before spending and comparing what a bank pays.
+
+
+**Acceptance count: taught in 6 countries (Ethiopia, United Arab Emirates, Syria, Uganda, Mongolia, Rwanda). Zambia is teacher-module evidence only — named here, counted nowhere.**
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
@@ -60,4 +77,4 @@ Uganda's own way: the qualities and uses of money are taught twice on the Excel 
 
 Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is taught with real Mongolian wage schedules in tögrög, a full payslip worked line by line, and national statistics pupils must compute rates from.
 
-Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money, uganda, qualities of money, uses of money, coins and notes, mongolia, four functions of money, metal paper card electronic money, tögrög
+Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money, uganda, qualities of money, uses of money, coins and notes, mongolia, four functions of money, metal paper card electronic money, tögrög, rwanda
